@@ -1,0 +1,948 @@
+{
+  "result": [
+    {
+      "id": "2674",
+      "sura": "23",
+      "aya": "1",
+      "arabic_text": "قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ",
+      "translation": "Gerçekten müminler kurtuluşa ermiştir;",
+      "footnotes": ""
+    },
+    {
+      "id": "2675",
+      "sura": "23",
+      "aya": "2",
+      "arabic_text": "ٱلَّذِينَ هُمۡ فِي صَلَاتِهِمۡ خَٰشِعُونَ",
+      "translation": "Onlar ki, namazlarında huşu içindedirler;",
+      "footnotes": ""
+    },
+    {
+      "id": "2676",
+      "sura": "23",
+      "aya": "3",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ عَنِ ٱللَّغۡوِ مُعۡرِضُونَ",
+      "translation": "Onlar ki, boş ve yararsız şeylerden yüz çevirirler,",
+      "footnotes": ""
+    },
+    {
+      "id": "2677",
+      "sura": "23",
+      "aya": "4",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ لِلزَّكَوٰةِ فَٰعِلُونَ",
+      "translation": "Onlar ki, zekâtı verirler;",
+      "footnotes": ""
+    },
+    {
+      "id": "2678",
+      "sura": "23",
+      "aya": "5",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حَٰفِظُونَ",
+      "translation": "Ve onlar ki, iffetlerini korurlar;",
+      "footnotes": ""
+    },
+    {
+      "id": "2679",
+      "sura": "23",
+      "aya": "6",
+      "arabic_text": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ",
+      "translation": "ancak eşleri ve ellerinin sahip olduğu (câriyeleri) hariç. (Bunlarla ilişkilerden dolayı) kınanmış değillerdir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2680",
+      "sura": "23",
+      "aya": "7",
+      "arabic_text": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡعَادُونَ",
+      "translation": "Şu halde, kim bunun ötesine gitmek isterse, işte bunlar, haddi aşan kimselerdir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2681",
+      "sura": "23",
+      "aya": "8",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ",
+      "translation": "Yine onlar (o müminler) ki, emanetlerine ve ahidlerine riayet ederler;",
+      "footnotes": ""
+    },
+    {
+      "id": "2682",
+      "sura": "23",
+      "aya": "9",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَوَٰتِهِمۡ يُحَافِظُونَ",
+      "translation": "Ve onlar ki, namazlarına devam ederler.",
+      "footnotes": ""
+    },
+    {
+      "id": "2683",
+      "sura": "23",
+      "aya": "10",
+      "arabic_text": "أُوْلَٰٓئِكَ هُمُ ٱلۡوَٰرِثُونَ",
+      "translation": "İşte, asıl bunlar vâris olacaklardır;",
+      "footnotes": ""
+    },
+    {
+      "id": "2684",
+      "sura": "23",
+      "aya": "11",
+      "arabic_text": "ٱلَّذِينَ يَرِثُونَ ٱلۡفِرۡدَوۡسَ هُمۡ فِيهَا خَٰلِدُونَ",
+      "translation": "(Evet) Firdevs'e vâris olan bu kimseler, orada ebedî kalıcıdırlar.",
+      "footnotes": ""
+    },
+    {
+      "id": "2685",
+      "sura": "23",
+      "aya": "12",
+      "arabic_text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ مِن سُلَٰلَةٖ مِّن طِينٖ",
+      "translation": "Andolsun biz insanı, çamurdan (süzülüp çıkarılmış) bir özden yarattık.",
+      "footnotes": ""
+    },
+    {
+      "id": "2686",
+      "sura": "23",
+      "aya": "13",
+      "arabic_text": "ثُمَّ جَعَلۡنَٰهُ نُطۡفَةٗ فِي قَرَارٖ مَّكِينٖ",
+      "translation": "Sonra onu sağlam bir karargâhta nutfe haline getirdik.",
+      "footnotes": ""
+    },
+    {
+      "id": "2687",
+      "sura": "23",
+      "aya": "14",
+      "arabic_text": "ثُمَّ خَلَقۡنَا ٱلنُّطۡفَةَ عَلَقَةٗ فَخَلَقۡنَا ٱلۡعَلَقَةَ مُضۡغَةٗ فَخَلَقۡنَا ٱلۡمُضۡغَةَ عِظَٰمٗا فَكَسَوۡنَا ٱلۡعِظَٰمَ لَحۡمٗا ثُمَّ أَنشَأۡنَٰهُ خَلۡقًا ءَاخَرَۚ فَتَبَارَكَ ٱللَّهُ أَحۡسَنُ ٱلۡخَٰلِقِينَ",
+      "translation": "Sonra nutfeyi alaka (aşılanmış yumurta) yaptık. Peşinden, alakayı, bir parçacık et haline soktuk; bu bir parçacık eti kemiklere (iskelete) çevirdik; bu kemikleri etle kapladık. Sonra onu başka bir yaratışla insan haline getirdik. Yapıp-yaratanların en güzeli olan Allah pek yücedir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2688",
+      "sura": "23",
+      "aya": "15",
+      "arabic_text": "ثُمَّ إِنَّكُم بَعۡدَ ذَٰلِكَ لَمَيِّتُونَ",
+      "translation": "Sonra, muhakkak ki siz, bunun ardından elbet öleceksiniz.",
+      "footnotes": ""
+    },
+    {
+      "id": "2689",
+      "sura": "23",
+      "aya": "16",
+      "arabic_text": "ثُمَّ إِنَّكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ تُبۡعَثُونَ",
+      "translation": "Sonra da şüphesiz, sîzler kıyamet gününde tekrar diriltileceksiniz.",
+      "footnotes": ""
+    },
+    {
+      "id": "2690",
+      "sura": "23",
+      "aya": "17",
+      "arabic_text": "وَلَقَدۡ خَلَقۡنَا فَوۡقَكُمۡ سَبۡعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلۡخَلۡقِ غَٰفِلِينَ",
+      "translation": "Şu da bir gerçek ki, biz, sizin üzerinizdeki yedi tabaka göğü de yarattık ve yaratılanlardan hiçbir surette gâfil olmadık.",
+      "footnotes": ""
+    },
+    {
+      "id": "2691",
+      "sura": "23",
+      "aya": "18",
+      "arabic_text": "وَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءَۢ بِقَدَرٖ فَأَسۡكَنَّٰهُ فِي ٱلۡأَرۡضِۖ وَإِنَّا عَلَىٰ ذَهَابِۭ بِهِۦ لَقَٰدِرُونَ",
+      "translation": "Gökten uygun bir ölçüde bir su indirdik ve onu yerde tuttuk. Biz onu gidermeye de elbet kâdiriz.\n",
+      "footnotes": ""
+    },
+    {
+      "id": "2692",
+      "sura": "23",
+      "aya": "19",
+      "arabic_text": "فَأَنشَأۡنَا لَكُم بِهِۦ جَنَّٰتٖ مِّن نَّخِيلٖ وَأَعۡنَٰبٖ لَّكُمۡ فِيهَا فَوَٰكِهُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ",
+      "translation": "Böylece onun (yağmurun) sayesinde sizin yararınıza hurma bahçeleri ve üzüm bağları meydana getirdik. Bunlarda sizin için birçok meyveler vardır ve siz onlardan yersiniz.",
+      "footnotes": ""
+    },
+    {
+      "id": "2693",
+      "sura": "23",
+      "aya": "20",
+      "arabic_text": "وَشَجَرَةٗ تَخۡرُجُ مِن طُورِ سَيۡنَآءَ تَنۢبُتُ بِٱلدُّهۡنِ وَصِبۡغٖ لِّلۡأٓكِلِينَ",
+      "translation": "Tûri Sînâ'da da yetişen bir ağaç daha meydana getirdik ki, bu ağaç hem yağ hem de yiyenlerin ekmeğine katık edecekleri (zeytin) verir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2694",
+      "sura": "23",
+      "aya": "21",
+      "arabic_text": "وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهَا وَلَكُمۡ فِيهَا مَنَٰفِعُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ",
+      "translation": "Hayvanlarda sizin için elbette ibretler vardır. Karınlarındaki sütten size içiriyoruz. Onlarda sizin için pek çok fayda vardır ve onlardan yiyip duruyorsunuz.",
+      "footnotes": ""
+    },
+    {
+      "id": "2695",
+      "sura": "23",
+      "aya": "22",
+      "arabic_text": "وَعَلَيۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ",
+      "translation": "Onların üzerinde ve gemilerde taşınırsınız.",
+      "footnotes": ""
+    },
+    {
+      "id": "2696",
+      "sura": "23",
+      "aya": "23",
+      "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ أَفَلَا تَتَّقُونَ",
+      "translation": "Nuh'u kavmine göndermiştik de, onlara şöyle demişti: \"Ey kavmim! Sizin için kendisinden başka ilâh olmayan Allah'a ibadet edin. Hiç sakınmaz mısınız?\"\n",
+      "footnotes": ""
+    },
+    {
+      "id": "2697",
+      "sura": "23",
+      "aya": "24",
+      "arabic_text": "فَقَالَ ٱلۡمَلَؤُاْ ٱلَّذِينَ كَفَرُواْ مِن قَوۡمِهِۦ مَا هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡ يُرِيدُ أَن يَتَفَضَّلَ عَلَيۡكُمۡ وَلَوۡ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَٰٓئِكَةٗ مَّا سَمِعۡنَا بِهَٰذَا فِيٓ ءَابَآئِنَا ٱلۡأَوَّلِينَ",
+      "translation": "Bunun üzerine, kavminin inkârcı ileri gelenleri şöyle dediler: «Bu, tıpkı sizin gibi bir beşer olmaktan başka bir şey değildir. Size üstün ve hâkim olmak istiyor. Eğer Allah (peygamber göndermek) isteseydi, muhakkak ki melekler gönderirdi. Biz geçmişteki atalarımızdan böyle bir şey duymadık.»",
+      "footnotes": ""
+    },
+    {
+      "id": "2698",
+      "sura": "23",
+      "aya": "25",
+      "arabic_text": "إِنۡ هُوَ إِلَّا رَجُلُۢ بِهِۦ جِنَّةٞ فَتَرَبَّصُواْ بِهِۦ حَتَّىٰ حِينٖ",
+      "translation": "«Bu, yalnızca kendisinde delilik bulunan bir kimsedir. Öyle ise, bir süreye kadar ona katlanıp bekleyin bakalım.»",
+      "footnotes": ""
+    },
+    {
+      "id": "2699",
+      "sura": "23",
+      "aya": "26",
+      "arabic_text": "قَالَ رَبِّ ٱنصُرۡنِي بِمَا كَذَّبُونِ",
+      "translation": "(Nuh), Rabbim! dedi, beni yalanlamalarına karşı bana yardım et!",
+      "footnotes": ""
+    },
+    {
+      "id": "2700",
+      "sura": "23",
+      "aya": "27",
+      "arabic_text": "فَأَوۡحَيۡنَآ إِلَيۡهِ أَنِ ٱصۡنَعِ ٱلۡفُلۡكَ بِأَعۡيُنِنَا وَوَحۡيِنَا فَإِذَا جَآءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ فَٱسۡلُكۡ فِيهَا مِن كُلّٖ زَوۡجَيۡنِ ٱثۡنَيۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ مِنۡهُمۡۖ وَلَا تُخَٰطِبۡنِي فِي ٱلَّذِينَ ظَلَمُوٓاْ إِنَّهُم مُّغۡرَقُونَ",
+      "translation": "Bunun üzerine ona şöyle vahyettik: Gözlerimizin önünde (muhafazamız altında) ve bildirdiğimiz şekilde gemiyi yap. Bizim emrimiz gelip de sular coşup yükselmeye başlayınca her cinsten eşler halinde iki tane ve bir de, içlerinden, daha önce kendisi aleyhinde hüküm verilmiş olanların dışındaki aileni gemiye al. Zulmetmiş olanlar konusunda bana hiç yalvarma! Zira onlar kesinlikle boğulacaklardır. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2701",
+      "sura": "23",
+      "aya": "28",
+      "arabic_text": "فَإِذَا ٱسۡتَوَيۡتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلۡفُلۡكِ فَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي نَجَّىٰنَا مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "translation": "Sen, yanındakilerle birlikte gemiye yerleştiğinde: «Bizi zalimler topluluğundan kurtaran Allah'a hamdolsun» de.",
+      "footnotes": ""
+    },
+    {
+      "id": "2702",
+      "sura": "23",
+      "aya": "29",
+      "arabic_text": "وَقُل رَّبِّ أَنزِلۡنِي مُنزَلٗا مُّبَارَكٗا وَأَنتَ خَيۡرُ ٱلۡمُنزِلِينَ",
+      "translation": "Ve de ki: Rabbim! Beni bereketli bir yere indir. Sen, iskân edenlerin en hayırlısısın.",
+      "footnotes": ""
+    },
+    {
+      "id": "2703",
+      "sura": "23",
+      "aya": "30",
+      "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ وَإِن كُنَّا لَمُبۡتَلِينَ",
+      "translation": "Şüphesiz bunda (Nuh ve kavminin başından geçenlerde) birtakım ibretler vardır. Hakikaten biz (kullarımızı böyle) deneriz.",
+      "footnotes": ""
+    },
+    {
+      "id": "2704",
+      "sura": "23",
+      "aya": "31",
+      "arabic_text": "ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قَرۡنًا ءَاخَرِينَ",
+      "translation": "Sonra onların ardından bir başka nesil meydana getirdik.",
+      "footnotes": ""
+    },
+    {
+      "id": "2705",
+      "sura": "23",
+      "aya": "32",
+      "arabic_text": "فَأَرۡسَلۡنَا فِيهِمۡ رَسُولٗا مِّنۡهُمۡ أَنِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ أَفَلَا تَتَّقُونَ",
+      "translation": "Onlara da kendi içlerinden \"Sizin için kendisinden başka ilah olmayan Allah'a ibadet edin. Hiç sakınmaz mısınız?\" diyen bir peygamber gönderdik.\n",
+      "footnotes": ""
+    },
+    {
+      "id": "2706",
+      "sura": "23",
+      "aya": "33",
+      "arabic_text": "وَقَالَ ٱلۡمَلَأُ مِن قَوۡمِهِ ٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ ٱلۡأٓخِرَةِ وَأَتۡرَفۡنَٰهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا مَا هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡ يَأۡكُلُ مِمَّا تَأۡكُلُونَ مِنۡهُ وَيَشۡرَبُ مِمَّا تَشۡرَبُونَ",
+      "translation": "Onun kavminden, kâfir olup ahirete ulaşmayı inkâr eden ve dünya hayatında kendilerine refah verdiğimiz varlıklı kişiler: «Bu, dediler, sadece sizin gibi bir insandır; sizin yediğinizden yer, sizin içtiğinizden içer.»",
+      "footnotes": ""
+    },
+    {
+      "id": "2707",
+      "sura": "23",
+      "aya": "34",
+      "arabic_text": "وَلَئِنۡ أَطَعۡتُم بَشَرٗا مِّثۡلَكُمۡ إِنَّكُمۡ إِذٗا لَّخَٰسِرُونَ",
+      "translation": "«Gerçekten, sizin gibi bir beşere itaat ederseniz, herhalde ziyan edersiniz.»",
+      "footnotes": ""
+    },
+    {
+      "id": "2708",
+      "sura": "23",
+      "aya": "35",
+      "arabic_text": "أَيَعِدُكُمۡ أَنَّكُمۡ إِذَا مِتُّمۡ وَكُنتُمۡ تُرَابٗا وَعِظَٰمًا أَنَّكُم مُّخۡرَجُونَ",
+      "translation": "«Size, öldüğünüz, toprak ve kemik yığını haline geldiğinizde, mutlak surette sizin (kabirden) çıkarılacağınızı mı vâdediyor?»",
+      "footnotes": ""
+    },
+    {
+      "id": "2709",
+      "sura": "23",
+      "aya": "36",
+      "arabic_text": "۞ هَيۡهَاتَ هَيۡهَاتَ لِمَا تُوعَدُونَ",
+      "translation": "«Bu size vâdedilen (öldükten sonra yeniden dirilmek, gerçek olmaktan) çok uzak!»",
+      "footnotes": ""
+    },
+    {
+      "id": "2710",
+      "sura": "23",
+      "aya": "37",
+      "arabic_text": "إِنۡ هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا نَمُوتُ وَنَحۡيَا وَمَا نَحۡنُ بِمَبۡعُوثِينَ",
+      "translation": "«Hayat, şu dünya hayatımızdan ibarettir, (kimimiz) ölürüz, (kimimiz) yaşarız; bir daha diriltilecek de değiliz.»",
+      "footnotes": ""
+    },
+    {
+      "id": "2711",
+      "sura": "23",
+      "aya": "38",
+      "arabic_text": "إِنۡ هُوَ إِلَّا رَجُلٌ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبٗا وَمَا نَحۡنُ لَهُۥ بِمُؤۡمِنِينَ",
+      "translation": "«Bu adam, sadece Allah hakkında yalan uyduran bir kimsedir; biz ona inanmıyoruz.»",
+      "footnotes": ""
+    },
+    {
+      "id": "2712",
+      "sura": "23",
+      "aya": "39",
+      "arabic_text": "قَالَ رَبِّ ٱنصُرۡنِي بِمَا كَذَّبُونِ",
+      "translation": "O peygamber: Rabbim! dedi, beni yalanlamalarına karşılık bana yardımcı ol!",
+      "footnotes": ""
+    },
+    {
+      "id": "2713",
+      "sura": "23",
+      "aya": "40",
+      "arabic_text": "قَالَ عَمَّا قَلِيلٖ لَّيُصۡبِحُنَّ نَٰدِمِينَ",
+      "translation": "Allah şöyle buyurdu: Pek yakında onlar mutlaka pişman olacaklar!",
+      "footnotes": ""
+    },
+    {
+      "id": "2714",
+      "sura": "23",
+      "aya": "41",
+      "arabic_text": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ بِٱلۡحَقِّ فَجَعَلۡنَٰهُمۡ غُثَآءٗۚ فَبُعۡدٗا لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "translation": "Nitekim, vuku kaçınılmaz olan korkunç bir ses yakalayıverdi onları! Kendilerini hemen sel süprüntüsüne çevirdik. Zalimler topluluğunun canı cehenneme!",
+      "footnotes": ""
+    },
+    {
+      "id": "2715",
+      "sura": "23",
+      "aya": "42",
+      "arabic_text": "ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قُرُونًا ءَاخَرِينَ",
+      "translation": "Sonra onların ardından başka nesiller getirdik. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2716",
+      "sura": "23",
+      "aya": "43",
+      "arabic_text": "مَا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ",
+      "translation": "Hiçbir ümmet, ecelini ne öne alabilir, ne de erteleyebilir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2717",
+      "sura": "23",
+      "aya": "44",
+      "arabic_text": "ثُمَّ أَرۡسَلۡنَا رُسُلَنَا تَتۡرَاۖ كُلَّ مَا جَآءَ أُمَّةٗ رَّسُولُهَا كَذَّبُوهُۖ فَأَتۡبَعۡنَا بَعۡضَهُم بَعۡضٗا وَجَعَلۡنَٰهُمۡ أَحَادِيثَۚ فَبُعۡدٗا لِّقَوۡمٖ لَّا يُؤۡمِنُونَ",
+      "translation": " Sonra birbiri arkasına peygamberlerimizi gönderdik. Her ümmete peygamberi gelince, onu yine yalanladılar. Biz de onları birbiri ardından yok ettik ve onları ibret hikâyelerine dönüştürdük. İman etmeyen böyle kavimler yok olsun.",
+      "footnotes": ""
+    },
+    {
+      "id": "2718",
+      "sura": "23",
+      "aya": "45",
+      "arabic_text": "ثُمَّ أَرۡسَلۡنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلۡطَٰنٖ مُّبِينٍ",
+      "translation": " Sonra Musa'yı ve kardeşi Harun'u âyetlerimizle ve apaçık delillerle gönderdik.",
+      "footnotes": ""
+    },
+    {
+      "id": "2719",
+      "sura": "23",
+      "aya": "46",
+      "arabic_text": "إِلَىٰ فِرۡعَوۡنَ وَمَلَإِيْهِۦ فَٱسۡتَكۡبَرُواْ وَكَانُواْ قَوۡمًا عَالِينَ",
+      "translation": "Firavun'a ve ileri gelenlerine gönderdik. Onlar ise kibire kapıldılar ve ululuk taslayan bir kavim oldular.",
+      "footnotes": ""
+    },
+    {
+      "id": "2720",
+      "sura": "23",
+      "aya": "47",
+      "arabic_text": "فَقَالُوٓاْ أَنُؤۡمِنُ لِبَشَرَيۡنِ مِثۡلِنَا وَقَوۡمُهُمَا لَنَا عَٰبِدُونَ",
+      "translation": "Bu yüzden: \"Kavimleri bize kölelik edip dururken, bizim gibi iki insana mı iman edeceğiz?\" demişlerdi.",
+      "footnotes": ""
+    },
+    {
+      "id": "2721",
+      "sura": "23",
+      "aya": "48",
+      "arabic_text": "فَكَذَّبُوهُمَا فَكَانُواْ مِنَ ٱلۡمُهۡلَكِينَ",
+      "translation": "Böylece o iki peygamberi yalanlamışlar ve helak edilenlerden olmuşlardı.",
+      "footnotes": ""
+    },
+    {
+      "id": "2722",
+      "sura": "23",
+      "aya": "49",
+      "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ لَعَلَّهُمۡ يَهۡتَدُونَ",
+      "translation": "Andolsun biz Musa'ya, belki onlar yola gelirler diye, Kitab'ı verdik.",
+      "footnotes": ""
+    },
+    {
+      "id": "2723",
+      "sura": "23",
+      "aya": "50",
+      "arabic_text": "وَجَعَلۡنَا ٱبۡنَ مَرۡيَمَ وَأُمَّهُۥٓ ءَايَةٗ وَءَاوَيۡنَٰهُمَآ إِلَىٰ رَبۡوَةٖ ذَاتِ قَرَارٖ وَمَعِينٖ",
+      "translation": "Meryem oğlunu ve annesini de (kudretimize) bir alâmet kıldık; onları, yerleşmeye elverişli, suyu bulunan bir tepeye yerleştirdik.",
+      "footnotes": ""
+    },
+    {
+      "id": "2724",
+      "sura": "23",
+      "aya": "51",
+      "arabic_text": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُواْ مِنَ ٱلطَّيِّبَٰتِ وَٱعۡمَلُواْ صَٰلِحًاۖ إِنِّي بِمَا تَعۡمَلُونَ عَلِيمٞ",
+      "translation": "«Ey Peygamber! Temiz olan şeylerden yiyin; güzel işler yapın. Ben sizin yaptıklarınızı hakkıyla bilmekteyim.»",
+      "footnotes": ""
+    },
+    {
+      "id": "2725",
+      "sura": "23",
+      "aya": "52",
+      "arabic_text": "وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱتَّقُونِ",
+      "translation": "Gerçek şu ki, sizin dininiz tek bir dindir; ben de sizin Rabbinizim; bu itibarla benden sakının.",
+      "footnotes": ""
+    },
+    {
+      "id": "2726",
+      "sura": "23",
+      "aya": "53",
+      "arabic_text": "فَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡ زُبُرٗاۖ كُلُّ حِزۡبِۭ بِمَا لَدَيۡهِمۡ فَرِحُونَ",
+      "translation": "Ne var ki peygamberlerin tabileri, dinlerini aralarında bölük pörçük etmişlerdir. Bu sebeple her grup kendi yanındakiyle sevinip böbürlenmektedir.\n",
+      "footnotes": ""
+    },
+    {
+      "id": "2727",
+      "sura": "23",
+      "aya": "54",
+      "arabic_text": "فَذَرۡهُمۡ فِي غَمۡرَتِهِمۡ حَتَّىٰ حِينٍ",
+      "translation": "Şimdi sen ölüm gelinceye  kadar onları gaflet ve sapıklıkları ile başbaşa bırak!",
+      "footnotes": ""
+    },
+    {
+      "id": "2728",
+      "sura": "23",
+      "aya": "55",
+      "arabic_text": "أَيَحۡسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٖ وَبَنِينَ",
+      "translation": "Sanıyorlar mı ki, onlara verdiğimiz servet ve oğullar ile ",
+      "footnotes": ""
+    },
+    {
+      "id": "2729",
+      "sura": "23",
+      "aya": "56",
+      "arabic_text": "نُسَارِعُ لَهُمۡ فِي ٱلۡخَيۡرَٰتِۚ بَل لَّا يَشۡعُرُونَ",
+      "translation": "kendilerine faydalar sağlamak için can atıyoruz? Hayır, onlar işin farkına varamıyorlar.",
+      "footnotes": ""
+    },
+    {
+      "id": "2730",
+      "sura": "23",
+      "aya": "57",
+      "arabic_text": "إِنَّ ٱلَّذِينَ هُم مِّنۡ خَشۡيَةِ رَبِّهِم مُّشۡفِقُونَ",
+      "translation": "Rablerine olan saygıdan dolayı kötülükten sakınanlar;",
+      "footnotes": ""
+    },
+    {
+      "id": "2731",
+      "sura": "23",
+      "aya": "58",
+      "arabic_text": "وَٱلَّذِينَ هُم بِـَٔايَٰتِ رَبِّهِمۡ يُؤۡمِنُونَ",
+      "translation": "Rablerinin âyetlerine iman edenler,",
+      "footnotes": ""
+    },
+    {
+      "id": "2732",
+      "sura": "23",
+      "aya": "59",
+      "arabic_text": "وَٱلَّذِينَ هُم بِرَبِّهِمۡ لَا يُشۡرِكُونَ",
+      "translation": "Rablerine ortak  koşmayanlar; ",
+      "footnotes": ""
+    },
+    {
+      "id": "2733",
+      "sura": "23",
+      "aya": "60",
+      "arabic_text": "وَٱلَّذِينَ يُؤۡتُونَ مَآ ءَاتَواْ وَّقُلُوبُهُمۡ وَجِلَةٌ أَنَّهُمۡ إِلَىٰ رَبِّهِمۡ رَٰجِعُونَ",
+      "translation": "Rablerine döneceklerinden, verdikleri (sadakaları) ni kalpleri (onun kabul edilmemesinden) korkarak verenler;",
+      "footnotes": ""
+    },
+    {
+      "id": "2734",
+      "sura": "23",
+      "aya": "61",
+      "arabic_text": "أُوْلَٰٓئِكَ يُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِ وَهُمۡ لَهَا سَٰبِقُونَ",
+      "translation": "İşte, iyilik hususunda yarışanlar ve (iyilikte) öne geçenler bunlardır.\n",
+      "footnotes": ""
+    },
+    {
+      "id": "2735",
+      "sura": "23",
+      "aya": "62",
+      "arabic_text": "وَلَا نُكَلِّفُ نَفۡسًا إِلَّا وُسۡعَهَاۚ وَلَدَيۡنَا كِتَٰبٞ يَنطِقُ بِٱلۡحَقِّ وَهُمۡ لَا يُظۡلَمُونَ",
+      "translation": "Biz hiç kimseyi gücünün yettiğinden başkası ile yükümlü kılmayız. Nezdimizde hakkı söyleyen bir kitap vardır ve onlar haksızlığa uğratılmazlar.",
+      "footnotes": ""
+    },
+    {
+      "id": "2736",
+      "sura": "23",
+      "aya": "63",
+      "arabic_text": "بَلۡ قُلُوبُهُمۡ فِي غَمۡرَةٖ مِّنۡ هَٰذَا وَلَهُمۡ أَعۡمَٰلٞ مِّن دُونِ ذَٰلِكَ هُمۡ لَهَا عَٰمِلُونَ",
+      "translation": "Hayır, onların (o inkârcıların) kalpleri bu hususta cehâlet içindedir. Ayrıca onların bundan (bu şirk ve inkârcılıklarından) öte birtakım (kötü) işleri vardır ki, onlar bu işleri yapar dururlar.",
+      "footnotes": ""
+    },
+    {
+      "id": "2737",
+      "sura": "23",
+      "aya": "64",
+      "arabic_text": "حَتَّىٰٓ إِذَآ أَخَذۡنَا مُتۡرَفِيهِم بِٱلۡعَذَابِ إِذَا هُمۡ يَجۡـَٔرُونَ",
+      "translation": "En nihayet, refah ve bolluk içinde olanlarını sıkıntıya (veya azaba) uğrattığımızda, bakarsın ki onlar feryadı basarlar.",
+      "footnotes": ""
+    },
+    {
+      "id": "2738",
+      "sura": "23",
+      "aya": "65",
+      "arabic_text": "لَا تَجۡـَٔرُواْ ٱلۡيَوۡمَۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ",
+      "translation": "Boşuna sızlanmayın bugün! Zira bizden yardım göremeyeceksiniz!",
+      "footnotes": ""
+    },
+    {
+      "id": "2739",
+      "sura": "23",
+      "aya": "66",
+      "arabic_text": "قَدۡ كَانَتۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡ تَنكِصُونَ",
+      "translation": "Çünkü âyetlerim size okunurdu da, siz, arkanızı döner, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2740",
+      "sura": "23",
+      "aya": "67",
+      "arabic_text": "مُسۡتَكۡبِرِينَ بِهِۦ سَٰمِرٗا تَهۡجُرُونَ",
+      "translation": "buna karşı kibirlenerek geceleyin (Kâbe'nin etrafında toplanarak) hezeyanlar savururdunuz.",
+      "footnotes": ""
+    },
+    {
+      "id": "2741",
+      "sura": "23",
+      "aya": "68",
+      "arabic_text": "أَفَلَمۡ يَدَّبَّرُواْ ٱلۡقَوۡلَ أَمۡ جَآءَهُم مَّا لَمۡ يَأۡتِ ءَابَآءَهُمُ ٱلۡأَوَّلِينَ",
+      "translation": "Onlar bu sözü (Kur'an'ı) hiç düşünmediler mi? Yoksa kendilerine, daha önce geçmişteki atalarına gelmeyen bir şey mi geldi?",
+      "footnotes": ""
+    },
+    {
+      "id": "2742",
+      "sura": "23",
+      "aya": "69",
+      "arabic_text": "أَمۡ لَمۡ يَعۡرِفُواْ رَسُولَهُمۡ فَهُمۡ لَهُۥ مُنكِرُونَ",
+      "translation": "Yoksa Peygamberlerini henüz tanımadılar da bu yüzden mi onu inkâr ediyorlar?",
+      "footnotes": ""
+    },
+    {
+      "id": "2743",
+      "sura": "23",
+      "aya": "70",
+      "arabic_text": "أَمۡ يَقُولُونَ بِهِۦ جِنَّةُۢۚ بَلۡ جَآءَهُم بِٱلۡحَقِّ وَأَكۡثَرُهُمۡ لِلۡحَقِّ كَٰرِهُونَ",
+      "translation": "Yahut da onda bir delilik olduğunu mu söylüyorlar? Hayır, Peygamber onlara hakkı getirmiştir; fakat onların çoğu haktan hoşnut değillerdir.\n",
+      "footnotes": ""
+    },
+    {
+      "id": "2744",
+      "sura": "23",
+      "aya": "71",
+      "arabic_text": "وَلَوِ ٱتَّبَعَ ٱلۡحَقُّ أَهۡوَآءَهُمۡ لَفَسَدَتِ ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ وَمَن فِيهِنَّۚ بَلۡ أَتَيۡنَٰهُم بِذِكۡرِهِمۡ فَهُمۡ عَن ذِكۡرِهِم مُّعۡرِضُونَ",
+      "translation": "Eğer hak, onların hevâ ve heveslerine tâbi olsaydı, gökler, yer ve içindeki herkes, mutlaka bozguna uğrardı. Oysa biz onlara, şân ve şereflerini ihtiva eden Kur'ân'ı getirdik; fakat onlar, bundan yüz çevirmektedirler.\n",
+      "footnotes": ""
+    },
+    {
+      "id": "2745",
+      "sura": "23",
+      "aya": "72",
+      "arabic_text": "أَمۡ تَسۡـَٔلُهُمۡ خَرۡجٗا فَخَرَاجُ رَبِّكَ خَيۡرٞۖ وَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ",
+      "translation": "(Rasûlüm!) Yoksa sen onlardan bir karşılık mı istiyorsun? Rabbinin vereceği daha hayırlıdır. O, rızık verenlerin en hayırlısıdır.",
+      "footnotes": ""
+    },
+    {
+      "id": "2746",
+      "sura": "23",
+      "aya": "73",
+      "arabic_text": "وَإِنَّكَ لَتَدۡعُوهُمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+      "translation": "Gerçek şu ki sen onları dosdoğru bir yola çağırıyorsun.",
+      "footnotes": ""
+    },
+    {
+      "id": "2747",
+      "sura": "23",
+      "aya": "74",
+      "arabic_text": "وَإِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ عَنِ ٱلصِّرَٰطِ لَنَٰكِبُونَ",
+      "translation": "Ahirete inanmayanlar ise, ısrarla yoldan çıkmaktadırlar. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2748",
+      "sura": "23",
+      "aya": "75",
+      "arabic_text": "۞ وَلَوۡ رَحِمۡنَٰهُمۡ وَكَشَفۡنَا مَا بِهِم مِّن ضُرّٖ لَّلَجُّواْ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
+      "translation": "Eğer onlara acıyıp da içinde bulundukları sıkıntıyı giderseydik, iyice körleşerek azgınlıklarında direnirlerdi.",
+      "footnotes": ""
+    },
+    {
+      "id": "2749",
+      "sura": "23",
+      "aya": "76",
+      "arabic_text": "وَلَقَدۡ أَخَذۡنَٰهُم بِٱلۡعَذَابِ فَمَا ٱسۡتَكَانُواْ لِرَبِّهِمۡ وَمَا يَتَضَرَّعُونَ",
+      "translation": "Andolsun, biz onları sıkıntıya düşürüp azapla yakaladığımızda da yine Rablerine boyun eğmemişler ve yalvarmamışlardır.",
+      "footnotes": ""
+    },
+    {
+      "id": "2750",
+      "sura": "23",
+      "aya": "77",
+      "arabic_text": "حَتَّىٰٓ إِذَا فَتَحۡنَا عَلَيۡهِم بَابٗا ذَا عَذَابٖ شَدِيدٍ إِذَا هُمۡ فِيهِ مُبۡلِسُونَ",
+      "translation": "Sonunda (Kıyâmet Günü) üzerlerine şiddetli bir azâp kapısı açtığımız zaman, içinde şaşkın ve ümidlerini kaybetmiş bir halde kalacaklardır.\n",
+      "footnotes": ""
+    },
+    {
+      "id": "2751",
+      "sura": "23",
+      "aya": "78",
+      "arabic_text": "وَهُوَ ٱلَّذِيٓ أَنشَأَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۚ قَلِيلٗا مَّا تَشۡكُرُونَ",
+      "translation": "O, sizin için kulakları, gözleri ve gönülleri yaratandır. Ne de az şükrediyorsunuz!",
+      "footnotes": ""
+    },
+    {
+      "id": "2752",
+      "sura": "23",
+      "aya": "79",
+      "arabic_text": "وَهُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ",
+      "translation": "Sizi yeryüzünde yaratıp yayan da O'dur. Ve yine O'nun huzurunda toplanacaksınız.\n",
+      "footnotes": ""
+    },
+    {
+      "id": "2753",
+      "sura": "23",
+      "aya": "80",
+      "arabic_text": "وَهُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُ وَلَهُ ٱخۡتِلَٰفُ ٱلَّيۡلِ وَٱلنَّهَارِۚ أَفَلَا تَعۡقِلُونَ",
+      "translation": "Ve O, yaşatan ve öldürendir; gecenin ve gündüzün değişmesi O’nun eseridir. Hâla aklınızı kullanmaz mısınız?",
+      "footnotes": ""
+    },
+    {
+      "id": "2754",
+      "sura": "23",
+      "aya": "81",
+      "arabic_text": "بَلۡ قَالُواْ مِثۡلَ مَا قَالَ ٱلۡأَوَّلُونَ",
+      "translation": "Buna rağmen onlar, öncekilerin dedikleri gibi dediler.",
+      "footnotes": ""
+    },
+    {
+      "id": "2755",
+      "sura": "23",
+      "aya": "82",
+      "arabic_text": "قَالُوٓاْ أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "translation": "Dediler ki: Sahi biz, ölüp de bir toprak ve kemik yığını haline gelmişken, mutlaka yeniden diriltileceğiz öyle mi?",
+      "footnotes": ""
+    },
+    {
+      "id": "2756",
+      "sura": "23",
+      "aya": "83",
+      "arabic_text": "لَقَدۡ وُعِدۡنَا نَحۡنُ وَءَابَآؤُنَا هَٰذَا مِن قَبۡلُ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+      "translation": "Hakikaten, gerek bize, gerekse daha önce atalarımıza böyle bir vaadde bulunuldu; (fakat) bu geçmiştekilerin masallarından başka bir şey değildir!",
+      "footnotes": ""
+    },
+    {
+      "id": "2757",
+      "sura": "23",
+      "aya": "84",
+      "arabic_text": "قُل لِّمَنِ ٱلۡأَرۡضُ وَمَن فِيهَآ إِن كُنتُمۡ تَعۡلَمُونَ",
+      "translation": "(Rasûlüm!) de ki: Eğer biliyorsanız (söyleyin bakalım), bu dünya ve onda bulunanlar kime aittir?",
+      "footnotes": ""
+    },
+    {
+      "id": "2758",
+      "sura": "23",
+      "aya": "85",
+      "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَذَكَّرُونَ",
+      "translation": "«Allah'a aittir» diyecekler. Öyle ise siz hiç düşünüp taşınmaz mısınız! de.",
+      "footnotes": ""
+    },
+    {
+      "id": "2759",
+      "sura": "23",
+      "aya": "86",
+      "arabic_text": "قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبۡعِ وَرَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ",
+      "translation": "Yedi kat göklerin Rabbi, azametli Arş'ın Rabbi kimdir? diye sor.",
+      "footnotes": ""
+    },
+    {
+      "id": "2760",
+      "sura": "23",
+      "aya": "87",
+      "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَتَّقُونَ",
+      "translation": "Onlar da diyeceklerdir ki: \"Allah'tır.\" De ki: \"O halde hiç korkmuyor musunuz?\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2761",
+      "sura": "23",
+      "aya": "88",
+      "arabic_text": "قُلۡ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيۡهِ إِن كُنتُمۡ تَعۡلَمُونَ",
+      "translation": "Eğer biliyorsanız (söyleyin), her şeyin melekûtu (mülkiyeti ve yönetimi) kendisinin elinde olan, kendisi her şeyi koruyup kollayan, fakat kendisi korunmayan (buna muhtaç olmayan) kimdir? diye sor.",
+      "footnotes": ""
+    },
+    {
+      "id": "2762",
+      "sura": "23",
+      "aya": "89",
+      "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ فَأَنَّىٰ تُسۡحَرُونَ",
+      "translation": "«(Bunların hepsi) Allah'ındır» diyecekler. Öyle ise nasıl olup da büyüye kapılıp (hakkın yalan, yalanın da hak olduğuna inanarak) aldanıyorsunuz? de.",
+      "footnotes": ""
+    },
+    {
+      "id": "2763",
+      "sura": "23",
+      "aya": "90",
+      "arabic_text": "بَلۡ أَتَيۡنَٰهُم بِٱلۡحَقِّ وَإِنَّهُمۡ لَكَٰذِبُونَ",
+      "translation": "Doğrusu biz onlara hakkı (gerçeği) getirdik; onlar ise hakikaten yalancılardır.",
+      "footnotes": ""
+    },
+    {
+      "id": "2764",
+      "sura": "23",
+      "aya": "91",
+      "arabic_text": "مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٖ وَمَا كَانَ مَعَهُۥ مِنۡ إِلَٰهٍۚ إِذٗا لَّذَهَبَ كُلُّ إِلَٰهِۭ بِمَا خَلَقَ وَلَعَلَا بَعۡضُهُمۡ عَلَىٰ بَعۡضٖۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "translation": "Allah, hiçbir surette bir çocuk edinmemiştir ve O'nunla beraber hiçbir ilâh olmamıştır. Eğer öyle olsaydı, her ilâh kendi yarattığını sevk ve idare eder ve mutlaka onlardan biri diğerine galebe çalardı. Allah, onların (müşriklerin) yakıştırdıkları şeylerden münezzehtir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2765",
+      "sura": "23",
+      "aya": "92",
+      "arabic_text": "عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
+      "translation": "Allah, (gaybı) gizliyi ve açığı bilendir. O, müşriklerin ortak  koştukları şeylerden çok yüce ve münezzehtir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2766",
+      "sura": "23",
+      "aya": "93",
+      "arabic_text": "قُل رَّبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ",
+      "translation": "(Rasûlüm!) De ki: «Rabbim! Eğer onlara yöneltilen tehdidi (dünyevî sıkıntıyı ve uhrevî azabı) mutlaka bana göstereceksen; ",
+      "footnotes": ""
+    },
+    {
+      "id": "2767",
+      "sura": "23",
+      "aya": "94",
+      "arabic_text": "رَبِّ فَلَا تَجۡعَلۡنِي فِي ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "translation": "bu durumda beni zalimler topluluğunun içinde bulundurma Rabbim!»",
+      "footnotes": ""
+    },
+    {
+      "id": "2768",
+      "sura": "23",
+      "aya": "95",
+      "arabic_text": "وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمۡ لَقَٰدِرُونَ",
+      "translation": "Biz, onlara yönelttiğimiz tehdidi sana göstermeye elbette ki kadiriz.",
+      "footnotes": ""
+    },
+    {
+      "id": "2769",
+      "sura": "23",
+      "aya": "96",
+      "arabic_text": "ٱدۡفَعۡ بِٱلَّتِي هِيَ أَحۡسَنُ ٱلسَّيِّئَةَۚ نَحۡنُ أَعۡلَمُ بِمَا يَصِفُونَ",
+      "translation": "Sen, kötülüğü en güzel bir tutumla sav. Biz onların yakıştırmakta oldukları şeyi çok iyi bilmekteyiz.",
+      "footnotes": ""
+    },
+    {
+      "id": "2770",
+      "sura": "23",
+      "aya": "97",
+      "arabic_text": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنۡ هَمَزَٰتِ ٱلشَّيَٰطِينِ",
+      "translation": "Ve de ki: «Rabbim! Şeytanların kışkırtmalarından sana sığınırım!",
+      "footnotes": ""
+    },
+    {
+      "id": "2771",
+      "sura": "23",
+      "aya": "98",
+      "arabic_text": "وَأَعُوذُ بِكَ رَبِّ أَن يَحۡضُرُونِ",
+      "translation": "Onların yanımda bulunmalarından da sana sığınırım, Rabbim!»",
+      "footnotes": ""
+    },
+    {
+      "id": "2772",
+      "sura": "23",
+      "aya": "99",
+      "arabic_text": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ رَبِّ ٱرۡجِعُونِ",
+      "translation": "Nihayet onlardan (müşriklerden) birine ölüm gelip çattığında: «Rabbim! der, beni geri gönder;»",
+      "footnotes": ""
+    },
+    {
+      "id": "2773",
+      "sura": "23",
+      "aya": "100",
+      "arabic_text": "لَعَلِّيٓ أَعۡمَلُ صَٰلِحٗا فِيمَا تَرَكۡتُۚ كَلَّآۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَاۖ وَمِن وَرَآئِهِم بَرۡزَخٌ إِلَىٰ يَوۡمِ يُبۡعَثُونَ",
+      "translation": "\"Ta ki yapmadan bıraktığım salih ameller yapayım.\" Asla söylediği sadece (boş laftan ibaret olan) kendi sözüdür. Tekrar dirilecekleri güne kadar, arkalarında (dönüşlerine mâni olacak) berzah vardır.",
+      "footnotes": ""
+    },
+    {
+      "id": "2774",
+      "sura": "23",
+      "aya": "101",
+      "arabic_text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ فَلَآ أَنسَابَ بَيۡنَهُمۡ يَوۡمَئِذٖ وَلَا يَتَسَآءَلُونَ",
+      "translation": "Sûra üflendiği zaman artık aralarında akrabalık bağları kalmamıştır; birbirlerini de arayıp sormazlar.",
+      "footnotes": ""
+    },
+    {
+      "id": "2775",
+      "sura": "23",
+      "aya": "102",
+      "arabic_text": "فَمَن ثَقُلَتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "translation": "Artık kimlerin (sevap) tartıları ağır basarsa, işte asıl bunlar kurtuluşa erenlerdir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2776",
+      "sura": "23",
+      "aya": "103",
+      "arabic_text": "وَمَنۡ خَفَّتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فِي جَهَنَّمَ خَٰلِدُونَ",
+      "translation": "Kimlerin de tartıları hafif gelirse, artık bunlar da kendilerine yazık etmişlerdir; (çünkü onlar) ebedî cehennemdedirler.",
+      "footnotes": ""
+    },
+    {
+      "id": "2777",
+      "sura": "23",
+      "aya": "104",
+      "arabic_text": "تَلۡفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمۡ فِيهَا كَٰلِحُونَ",
+      "translation": "Ateş yüzlerini yakar; orada şuradan çirkin ve gülünç bir halde bulunurlar. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2778",
+      "sura": "23",
+      "aya": "105",
+      "arabic_text": "أَلَمۡ تَكُنۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُم بِهَا تُكَذِّبُونَ",
+      "translation": "Size âyetlerim okunurdu da, siz onları yalanlardınız değil mi?",
+      "footnotes": ""
+    },
+    {
+      "id": "2779",
+      "sura": "23",
+      "aya": "106",
+      "arabic_text": "قَالُواْ رَبَّنَا غَلَبَتۡ عَلَيۡنَا شِقۡوَتُنَا وَكُنَّا قَوۡمٗا ضَآلِّينَ",
+      "translation": "Derler ki: Rabbimiz! Azgınlığımız bizi altetti; biz, bir sapıklar topluluğu idik.",
+      "footnotes": ""
+    },
+    {
+      "id": "2780",
+      "sura": "23",
+      "aya": "107",
+      "arabic_text": "رَبَّنَآ أَخۡرِجۡنَا مِنۡهَا فَإِنۡ عُدۡنَا فَإِنَّا ظَٰلِمُونَ",
+      "translation": "Rabbimiz! Bizi buradan çıkar. Eğer bir daha (ettiklerimize) dönersek, artık belli ki biz zalim insanlarız.",
+      "footnotes": ""
+    },
+    {
+      "id": "2781",
+      "sura": "23",
+      "aya": "108",
+      "arabic_text": "قَالَ ٱخۡسَـُٔواْ فِيهَا وَلَا تُكَلِّمُونِ",
+      "translation": "Buyurur ki: Alçaldıkça alçalın orada! Bana karşı konuşmayın artık!",
+      "footnotes": ""
+    },
+    {
+      "id": "2782",
+      "sura": "23",
+      "aya": "109",
+      "arabic_text": "إِنَّهُۥ كَانَ فَرِيقٞ مِّنۡ عِبَادِي يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَا وَأَنتَ خَيۡرُ ٱلرَّٰحِمِينَ",
+      "translation": "Zira kullarımdan bir zümre: Rabbimiz! Biz iman ettik; öyle ise bizi affet; bize acı! Sen, merhametlilerin en iyisisin, demişlerdi.",
+      "footnotes": ""
+    },
+    {
+      "id": "2783",
+      "sura": "23",
+      "aya": "110",
+      "arabic_text": "فَٱتَّخَذۡتُمُوهُمۡ سِخۡرِيًّا حَتَّىٰٓ أَنسَوۡكُمۡ ذِكۡرِي وَكُنتُم مِّنۡهُمۡ تَضۡحَكُونَ",
+      "translation": "İşte siz onları alaya aldınız; sonunda onlar (ile alay etmeniz) size beni yâdetmeyi unutturdu, siz onlara gülüyordunuz.",
+      "footnotes": ""
+    },
+    {
+      "id": "2784",
+      "sura": "23",
+      "aya": "111",
+      "arabic_text": "إِنِّي جَزَيۡتُهُمُ ٱلۡيَوۡمَ بِمَا صَبَرُوٓاْ أَنَّهُمۡ هُمُ ٱلۡفَآئِزُونَ",
+      "translation": "Bugün ben onlara, sabrettiklerinin karşılığını verdim; onlar, hakikaten muratlarına erenlerdir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2785",
+      "sura": "23",
+      "aya": "112",
+      "arabic_text": "قَٰلَ كَمۡ لَبِثۡتُمۡ فِي ٱلۡأَرۡضِ عَدَدَ سِنِينَ",
+      "translation": "(Allah inkarcılara) «Yeryüzünde kaç yıl kaldınız?» diye sorar.",
+      "footnotes": ""
+    },
+    {
+      "id": "2786",
+      "sura": "23",
+      "aya": "113",
+      "arabic_text": "قَالُواْ لَبِثۡنَا يَوۡمًا أَوۡ بَعۡضَ يَوۡمٖ فَسۡـَٔلِ ٱلۡعَآدِّينَ",
+      "translation": "«Bir gün veya günün bir kısmı kadar kaldık. İşte sayanlara sor» derler.",
+      "footnotes": ""
+    },
+    {
+      "id": "2787",
+      "sura": "23",
+      "aya": "114",
+      "arabic_text": "قَٰلَ إِن لَّبِثۡتُمۡ إِلَّا قَلِيلٗاۖ لَّوۡ أَنَّكُمۡ كُنتُمۡ تَعۡلَمُونَ",
+      "translation": "Buyurur: Sadece az bir süre kaldınız; keşke siz (bunu) bilmiş olsaydınız!",
+      "footnotes": ""
+    },
+    {
+      "id": "2788",
+      "sura": "23",
+      "aya": "115",
+      "arabic_text": "أَفَحَسِبۡتُمۡ أَنَّمَا خَلَقۡنَٰكُمۡ عَبَثٗا وَأَنَّكُمۡ إِلَيۡنَا لَا تُرۡجَعُونَ",
+      "translation": "Sizi sadece boş yere yarattığımızı ve sizin hakikaten huzurumuza geri getirilmeyeceğinizi mi sandınız?",
+      "footnotes": ""
+    },
+    {
+      "id": "2789",
+      "sura": "23",
+      "aya": "116",
+      "arabic_text": "فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۖ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡكَرِيمِ",
+      "translation": "Kendisinden başka ilâh olmayan gerçek hükümdar, şerefi büyük Arşın Rabbi olan Allah çok yücedir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2790",
+      "sura": "23",
+      "aya": "117",
+      "arabic_text": "وَمَن يَدۡعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ لَا بُرۡهَٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلۡكَٰفِرُونَ",
+      "translation": "Kim Allah ile beraber, varlığına hiçbir delil bulunmayan başka bir ilâha ibadet ederse, onun hesabı Rabbi yanındadır. Gerçek şudur ki, kâfirler asla iflah olmayacaktır.",
+      "footnotes": ""
+    },
+    {
+      "id": "2791",
+      "sura": "23",
+      "aya": "118",
+      "arabic_text": "وَقُل رَّبِّ ٱغۡفِرۡ وَٱرۡحَمۡ وَأَنتَ خَيۡرُ ٱلرَّٰحِمِينَ",
+      "translation": "(Rasûlüm!) De ki: «Bağışla ve merhamet et Rabbim! Sen merhametlilerin en iyisisin.» ",
+      "footnotes": ""
+    }
+  ]
+}

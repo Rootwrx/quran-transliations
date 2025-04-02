@@ -1,0 +1,27 @@
+{
+  "number": 23,
+  "name": {
+    "ar": "المؤمنون",
+    "en": "The Believers",
+    "transliteration": "Al-Mu'minun"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 74,
+  "bismillah_pre": true,
+  "verses_count": 118,
+  "words_count": 1840,
+  "letters_count": 4802,
+  "pages": [
+    342,
+    349
+  ],
+  "name_simple": "Al-Mu'minun",
+  "name_complex": "Al-Mu'minūn",
+  "name_arabic": "المؤمنون",
+  "translated_name": "The Believers",
+  "start_page": 342,
+  "end_page": 349
+}

@@ -1,0 +1,772 @@
+{
+  "result": [
+    {
+      "id": "4980",
+      "sura": "56",
+      "aya": "1",
+      "arabic_text": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+      "translation": "Kada se Neizbježni događaj zbije, ",
+      "footnotes": ""
+    },
+    {
+      "id": "4981",
+      "sura": "56",
+      "aya": "2",
+      "arabic_text": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+      "translation": "događanju njegovom nema poništenja, ",
+      "footnotes": ""
+    },
+    {
+      "id": "4982",
+      "sura": "56",
+      "aya": "3",
+      "arabic_text": "خَافِضَةٞ رَّافِعَةٌ",
+      "translation": "neke će poniziti, a neke uzvisiti.",
+      "footnotes": ""
+    },
+    {
+      "id": "4983",
+      "sura": "56",
+      "aya": "4",
+      "arabic_text": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+      "translation": "Kad se Zemlja jako potrese ",
+      "footnotes": ""
+    },
+    {
+      "id": "4984",
+      "sura": "56",
+      "aya": "5",
+      "arabic_text": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+      "translation": "i brda se u komadiće zdrobe,",
+      "footnotes": ""
+    },
+    {
+      "id": "4985",
+      "sura": "56",
+      "aya": "6",
+      "arabic_text": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+      "translation": "i postanu prašina razasuta,",
+      "footnotes": ""
+    },
+    {
+      "id": "4986",
+      "sura": "56",
+      "aya": "7",
+      "arabic_text": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ",
+      "translation": "vas će tri vrste biti: ",
+      "footnotes": ""
+    },
+    {
+      "id": "4987",
+      "sura": "56",
+      "aya": "8",
+      "arabic_text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "translation": "oni zdesna - šta će biti s onim zdesna?!",
+      "footnotes": ""
+    },
+    {
+      "id": "4988",
+      "sura": "56",
+      "aya": "9",
+      "arabic_text": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "translation": "i oni slijeva - šta će biti s onim slijeva?",
+      "footnotes": ""
+    },
+    {
+      "id": "4989",
+      "sura": "56",
+      "aya": "10",
+      "arabic_text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+      "translation": "i oni koji prednjače - oni će prednjačiti!",
+      "footnotes": ""
+    },
+    {
+      "id": "4990",
+      "sura": "56",
+      "aya": "11",
+      "arabic_text": "أُوْلَٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+      "translation": "To su oni bliski, ",
+      "footnotes": ""
+    },
+    {
+      "id": "4991",
+      "sura": "56",
+      "aya": "12",
+      "arabic_text": "فِي جَنَّٰتِ ٱلنَّعِيمِ",
+      "translation": "u džennetskim baščama naslada bit će.",
+      "footnotes": ""
+    },
+    {
+      "id": "4992",
+      "sura": "56",
+      "aya": "13",
+      "arabic_text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "translation": "Bit će ih mnogo iz prvih, ",
+      "footnotes": ""
+    },
+    {
+      "id": "4993",
+      "sura": "56",
+      "aya": "14",
+      "arabic_text": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "translation": "a malo iz zadnjih! ",
+      "footnotes": ""
+    },
+    {
+      "id": "4994",
+      "sura": "56",
+      "aya": "15",
+      "arabic_text": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+      "translation": "na divanima izvezenim, ",
+      "footnotes": ""
+    },
+    {
+      "id": "4995",
+      "sura": "56",
+      "aya": "16",
+      "arabic_text": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+      "translation": "jedni prema drugima na njima će naslonjeni biti;  ",
+      "footnotes": ""
+    },
+    {
+      "id": "4996",
+      "sura": "56",
+      "aya": "17",
+      "arabic_text": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ",
+      "translation": "služit će ih vječno mladi dječaci, ",
+      "footnotes": ""
+    },
+    {
+      "id": "4997",
+      "sura": "56",
+      "aya": "18",
+      "arabic_text": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ",
+      "translation": "sa čašama i ibricima, i peharom punim pića iz izvora tekućeg ",
+      "footnotes": ""
+    },
+    {
+      "id": "4998",
+      "sura": "56",
+      "aya": "19",
+      "arabic_text": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+      "translation": "od koga ih glava neće boljeti i zbog koga neće pamet izgubiti, ",
+      "footnotes": ""
+    },
+    {
+      "id": "4999",
+      "sura": "56",
+      "aya": "20",
+      "arabic_text": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ",
+      "translation": "i voćem koje će sami birati, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5000",
+      "sura": "56",
+      "aya": "21",
+      "arabic_text": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
+      "translation": "i mesom ptičijim kakvo budu željeli. ",
+      "footnotes": ""
+    },
+    {
+      "id": "5001",
+      "sura": "56",
+      "aya": "22",
+      "arabic_text": "وَحُورٌ عِينٞ",
+      "translation": "U njima će biti i hurije očiju krupnih, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5002",
+      "sura": "56",
+      "aya": "23",
+      "arabic_text": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+      "translation": "slične biseru u školjkama skrivenom, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5003",
+      "sura": "56",
+      "aya": "24",
+      "arabic_text": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+      "translation": "kao nagrada za ono što su činili. ",
+      "footnotes": ""
+    },
+    {
+      "id": "5004",
+      "sura": "56",
+      "aya": "25",
+      "arabic_text": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا",
+      "translation": "U njima neće slušati prazne besjede, ni govor grešni, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5005",
+      "sura": "56",
+      "aya": "26",
+      "arabic_text": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا",
+      "translation": "nego samo riječi: \"Selam, selam!\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "5006",
+      "sura": "56",
+      "aya": "27",
+      "arabic_text": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
+      "translation": "A oni s desne strane - šta će biti s onim s desne strane? ",
+      "footnotes": ""
+    },
+    {
+      "id": "5007",
+      "sura": "56",
+      "aya": "28",
+      "arabic_text": "فِي سِدۡرٖ مَّخۡضُودٖ",
+      "translation": "Bit će među lotosovim drvećem bez bodlji, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5008",
+      "sura": "56",
+      "aya": "29",
+      "arabic_text": "وَطَلۡحٖ مَّنضُودٖ",
+      "translation": "i među drvećem akacije plodovima nanizanim, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5009",
+      "sura": "56",
+      "aya": "30",
+      "arabic_text": "وَظِلّٖ مَّمۡدُودٖ",
+      "translation": "i u hladovini prostranoj, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5010",
+      "sura": "56",
+      "aya": "31",
+      "arabic_text": "وَمَآءٖ مَّسۡكُوبٖ",
+      "translation": "pored vode tekuće ",
+      "footnotes": ""
+    },
+    {
+      "id": "5011",
+      "sura": "56",
+      "aya": "32",
+      "arabic_text": "وَفَٰكِهَةٖ كَثِيرَةٖ",
+      "translation": "i usred voća svakovrsnog ",
+      "footnotes": ""
+    },
+    {
+      "id": "5012",
+      "sura": "56",
+      "aya": "33",
+      "arabic_text": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ",
+      "translation": "koje će uvijek imati i koje neće zabranjeno biti ",
+      "footnotes": ""
+    },
+    {
+      "id": "5013",
+      "sura": "56",
+      "aya": "34",
+      "arabic_text": "وَفُرُشٖ مَّرۡفُوعَةٍ",
+      "translation": "i na posteljama uzdignutim. ",
+      "footnotes": ""
+    },
+    {
+      "id": "5014",
+      "sura": "56",
+      "aya": "35",
+      "arabic_text": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ",
+      "translation": "Stvaranje njihovo, zaista, ćemo obnoviti.",
+      "footnotes": ""
+    },
+    {
+      "id": "5015",
+      "sura": "56",
+      "aya": "36",
+      "arabic_text": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا",
+      "translation": "i djevicama ih učiniti,  ",
+      "footnotes": ""
+    },
+    {
+      "id": "5016",
+      "sura": "56",
+      "aya": "37",
+      "arabic_text": "عُرُبًا أَتۡرَابٗا",
+      "translation": "te onim koje se umiljavaju muževima svojim i godina istih ",
+      "footnotes": ""
+    },
+    {
+      "id": "5017",
+      "sura": "56",
+      "aya": "38",
+      "arabic_text": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
+      "translation": "za one s desne strane. ",
+      "footnotes": ""
+    },
+    {
+      "id": "5018",
+      "sura": "56",
+      "aya": "39",
+      "arabic_text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "translation": "Bit će ih mnogo iz prvih, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5019",
+      "sura": "56",
+      "aya": "40",
+      "arabic_text": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "translation": "a mnogo iz kasnijih. ",
+      "footnotes": ""
+    },
+    {
+      "id": "5020",
+      "sura": "56",
+      "aya": "41",
+      "arabic_text": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ",
+      "translation": "A oni s lijeve strane - šta je s onima s lijeve strane?! ",
+      "footnotes": ""
+    },
+    {
+      "id": "5021",
+      "sura": "56",
+      "aya": "42",
+      "arabic_text": "فِي سَمُومٖ وَحَمِيمٖ",
+      "translation": "Oni će biti u vrelom dašku vatre i vodi ključaloj, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5022",
+      "sura": "56",
+      "aya": "43",
+      "arabic_text": "وَظِلّٖ مِّن يَحۡمُومٖ",
+      "translation": "i u sjeni dima mrkog, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5023",
+      "sura": "56",
+      "aya": "44",
+      "arabic_text": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
+      "translation": "u kojoj neće biti svježine ni bilo kakve ugodnosti. ",
+      "footnotes": ""
+    },
+    {
+      "id": "5024",
+      "sura": "56",
+      "aya": "45",
+      "arabic_text": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ",
+      "translation": "Oni su prije toga raskošnim životom živjeli ",
+      "footnotes": ""
+    },
+    {
+      "id": "5025",
+      "sura": "56",
+      "aya": "46",
+      "arabic_text": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ",
+      "translation": "i uporno teške grijehe činili ",
+      "footnotes": ""
+    },
+    {
+      "id": "5026",
+      "sura": "56",
+      "aya": "47",
+      "arabic_text": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "translation": "i govorili: \"Zar kad umremo i zemlja i kosti postanemo - zar ćemo zbilja biti oživljeni;",
+      "footnotes": ""
+    },
+    {
+      "id": "5027",
+      "sura": "56",
+      "aya": "48",
+      "arabic_text": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+      "translation": "zar i drevni naši preci?!\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "5028",
+      "sura": "56",
+      "aya": "49",
+      "arabic_text": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ",
+      "translation": "Reci: \"I drevni i kasniji, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5029",
+      "sura": "56",
+      "aya": "50",
+      "arabic_text": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ",
+      "translation": "u određeno vrijeme, i u Dan određeni bit će sakupljeni, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5030",
+      "sura": "56",
+      "aya": "51",
+      "arabic_text": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ",
+      "translation": "i tada ćete vi, o zabludjeli, koji poričete oživljavanje, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5031",
+      "sura": "56",
+      "aya": "52",
+      "arabic_text": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
+      "translation": "sigurno s drveta zekkum jesti, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5032",
+      "sura": "56",
+      "aya": "53",
+      "arabic_text": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+      "translation": "i njime ćete trbuhe puniti, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5033",
+      "sura": "56",
+      "aya": "54",
+      "arabic_text": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ",
+      "translation": "pa zatim na to vodu ključalu piti, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5034",
+      "sura": "56",
+      "aya": "55",
+      "arabic_text": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+      "translation": "poput kamila koje ne mogu žeđ ugasiti\",  ",
+      "footnotes": ""
+    },
+    {
+      "id": "5035",
+      "sura": "56",
+      "aya": "56",
+      "arabic_text": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ",
+      "translation": "to će im na Dan polaganja računa ugošćenje biti! ",
+      "footnotes": ""
+    },
+    {
+      "id": "5036",
+      "sura": "56",
+      "aya": "57",
+      "arabic_text": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+      "translation": "Mi smo vas stvorili - pa zašto ne povjerujete? ",
+      "footnotes": ""
+    },
+    {
+      "id": "5037",
+      "sura": "56",
+      "aya": "58",
+      "arabic_text": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+      "translation": "Kažite vi Meni: da li sjemenu koje ubacujete ",
+      "footnotes": ""
+    },
+    {
+      "id": "5038",
+      "sura": "56",
+      "aya": "59",
+      "arabic_text": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
+      "translation": "vi oblik dajete ili Mi to činimo?",
+      "footnotes": ""
+    },
+    {
+      "id": "5039",
+      "sura": "56",
+      "aya": "60",
+      "arabic_text": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "translation": "Mi određujemo kad će ko od vas umrijeti, i niko Nas ne može spriječiti ",
+      "footnotes": ""
+    },
+    {
+      "id": "5040",
+      "sura": "56",
+      "aya": "61",
+      "arabic_text": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+      "translation": "da likove vaše izmijenimo i da vas iznova u likovima koje vi ne poznajete stvorimo. ",
+      "footnotes": ""
+    },
+    {
+      "id": "5041",
+      "sura": "56",
+      "aya": "62",
+      "arabic_text": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ",
+      "translation": "Poznato vam je kako ste prvi put stvoreni, pa zašto se ne urazumite? ",
+      "footnotes": ""
+    },
+    {
+      "id": "5042",
+      "sura": "56",
+      "aya": "63",
+      "arabic_text": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ",
+      "translation": "Kažite vi Meni: šta biva s onim što posijete? ",
+      "footnotes": ""
+    },
+    {
+      "id": "5043",
+      "sura": "56",
+      "aya": "64",
+      "arabic_text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّٰرِعُونَ",
+      "translation": "Da li mu vi dajete snagu da niče, ili to Mi činimo? ",
+      "footnotes": ""
+    },
+    {
+      "id": "5044",
+      "sura": "56",
+      "aya": "65",
+      "arabic_text": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ",
+      "translation": "Ako hoćemo, možemo ga u suho rastinje pretvoriti, pa biste se snebivali:",
+      "footnotes": ""
+    },
+    {
+      "id": "5045",
+      "sura": "56",
+      "aya": "66",
+      "arabic_text": "إِنَّا لَمُغۡرَمُونَ",
+      "translation": "\"Mi smo, doista, oštećeni,  ",
+      "footnotes": ""
+    },
+    {
+      "id": "5046",
+      "sura": "56",
+      "aya": "67",
+      "arabic_text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "translation": "čak smo svega lišeni!\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "5047",
+      "sura": "56",
+      "aya": "68",
+      "arabic_text": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ",
+      "translation": "Kažite vi Meni: vodu koju pijete -",
+      "footnotes": ""
+    },
+    {
+      "id": "5048",
+      "sura": "56",
+      "aya": "69",
+      "arabic_text": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ",
+      "translation": "da li je vi ili Mi iz oblaka spuštamo? ",
+      "footnotes": ""
+    },
+    {
+      "id": "5049",
+      "sura": "56",
+      "aya": "70",
+      "arabic_text": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ",
+      "translation": "Ako želimo, možemo je slanom učiniti - pa zašto niste zahvalni? ",
+      "footnotes": ""
+    },
+    {
+      "id": "5050",
+      "sura": "56",
+      "aya": "71",
+      "arabic_text": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+      "translation": "Kažite vi Meni: vatru koju palite - ",
+      "footnotes": ""
+    },
+    {
+      "id": "5051",
+      "sura": "56",
+      "aya": "72",
+      "arabic_text": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ",
+      "translation": "da li drvo za nju Mi stvaramo ili vi?",
+      "footnotes": ""
+    },
+    {
+      "id": "5052",
+      "sura": "56",
+      "aya": "73",
+      "arabic_text": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ",
+      "translation": "Mi činimo da ona podsjeća i da bude korisna putnicima kada konače;",
+      "footnotes": ""
+    },
+    {
+      "id": "5053",
+      "sura": "56",
+      "aya": "74",
+      "arabic_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "translation": "zato slavi i veličaj ime Gospodara svoga Veličanstvenog! ",
+      "footnotes": ""
+    },
+    {
+      "id": "5054",
+      "sura": "56",
+      "aya": "75",
+      "arabic_text": "۞ فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "translation": "I kunem se mjestima postepenog spuštanja Kur'ana, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5055",
+      "sura": "56",
+      "aya": "76",
+      "arabic_text": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+      "translation": "a to je, da znate, zakletva velika! ",
+      "footnotes": ""
+    },
+    {
+      "id": "5056",
+      "sura": "56",
+      "aya": "77",
+      "arabic_text": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ",
+      "translation": "On je, zaista, Kur'an plemeniti ",
+      "footnotes": ""
+    },
+    {
+      "id": "5057",
+      "sura": "56",
+      "aya": "78",
+      "arabic_text": "فِي كِتَٰبٖ مَّكۡنُونٖ",
+      "translation": "u Knjizi brižljivo čuvanoj. ",
+      "footnotes": ""
+    },
+    {
+      "id": "5058",
+      "sura": "56",
+      "aya": "79",
+      "arabic_text": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+      "translation": "Dodirnuti ga smiju samo oni koji su čisti! ",
+      "footnotes": ""
+    },
+    {
+      "id": "5059",
+      "sura": "56",
+      "aya": "80",
+      "arabic_text": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+      "translation": "On je objava od Gospodara svjetova, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5060",
+      "sura": "56",
+      "aya": "81",
+      "arabic_text": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+      "translation": "pa kako ovaj govor omalovažavate, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5061",
+      "sura": "56",
+      "aya": "82",
+      "arabic_text": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+      "translation": "i umjesto zahvalnosti što vam je opskrba darovana, vi u njega ne vjerujete? ",
+      "footnotes": ""
+    },
+    {
+      "id": "5062",
+      "sura": "56",
+      "aya": "83",
+      "arabic_text": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+      "translation": "A zašto vi, kad duša do guše dopre,",
+      "footnotes": ""
+    },
+    {
+      "id": "5063",
+      "sura": "56",
+      "aya": "84",
+      "arabic_text": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ",
+      "translation": "i kad vi budete tada gledali - ",
+      "footnotes": ""
+    },
+    {
+      "id": "5064",
+      "sura": "56",
+      "aya": "85",
+      "arabic_text": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ",
+      "translation": "a Mi smo mu bliži od vas, ali vi ne vidite - ",
+      "footnotes": ""
+    },
+    {
+      "id": "5065",
+      "sura": "56",
+      "aya": "86",
+      "arabic_text": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+      "translation": "zašto je onda, ako račun nećete polagati, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5066",
+      "sura": "56",
+      "aya": "87",
+      "arabic_text": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+      "translation": "ne povratite, ako istinu govorite?",
+      "footnotes": ""
+    },
+    {
+      "id": "5067",
+      "sura": "56",
+      "aya": "88",
+      "arabic_text": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+      "translation": "I ako bude jedan od onih koji su Allahu bliski - ",
+      "footnotes": ""
+    },
+    {
+      "id": "5068",
+      "sura": "56",
+      "aya": "89",
+      "arabic_text": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ",
+      "translation": "udobnost i opskrba lijepa i džennetske blagodati pripast će njemu! ",
+      "footnotes": ""
+    },
+    {
+      "id": "5069",
+      "sura": "56",
+      "aya": "90",
+      "arabic_text": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "translation": "A ako bude jedan od onih koji su s desne strane,  ",
+      "footnotes": ""
+    },
+    {
+      "id": "5070",
+      "sura": "56",
+      "aya": "91",
+      "arabic_text": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "translation": "pa, selam tebi od onih s desne sretne! ",
+      "footnotes": ""
+    },
+    {
+      "id": "5071",
+      "sura": "56",
+      "aya": "92",
+      "arabic_text": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "translation": "A ako bude jedan od onih koji su poricali i u zabludi ostali, ",
+      "footnotes": ""
+    },
+    {
+      "id": "5072",
+      "sura": "56",
+      "aya": "93",
+      "arabic_text": "فَنُزُلٞ مِّنۡ حَمِيمٖ",
+      "translation": "pa, ključalom vodom bit će ugošćen ",
+      "footnotes": ""
+    },
+    {
+      "id": "5073",
+      "sura": "56",
+      "aya": "94",
+      "arabic_text": "وَتَصۡلِيَةُ جَحِيمٍ",
+      "translation": "i u Ognju pržen. ",
+      "footnotes": ""
+    },
+    {
+      "id": "5074",
+      "sura": "56",
+      "aya": "95",
+      "arabic_text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+      "translation": "Sama je istina, zbilja, sve ovo! ",
+      "footnotes": ""
+    },
+    {
+      "id": "5075",
+      "sura": "56",
+      "aya": "96",
+      "arabic_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "translation": "Pa, slavi i veličaj ime Gospodara svoga Veličanstvenog! ",
+      "footnotes": ""
+    }
+  ]
+}

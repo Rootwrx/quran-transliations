@@ -1,0 +1,772 @@
+{
+  "result": [
+    {
+      "id": "4980",
+      "sura": "56",
+      "aya": "1",
+      "arabic_text": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+      "translation": "1. Cuando sobrevenga el suceso[1]",
+      "footnotes": "[1] El Día del Juicio Final."
+    },
+    {
+      "id": "4981",
+      "sura": "56",
+      "aya": "2",
+      "arabic_text": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+      "translation": "2. no habrá quién pueda evitarlo.",
+      "footnotes": ""
+    },
+    {
+      "id": "4982",
+      "sura": "56",
+      "aya": "3",
+      "arabic_text": "خَافِضَةٞ رَّافِعَةٌ",
+      "translation": "3. Algunos serán humillados[1] y otros serán honrados[2].",
+      "footnotes": "[1] Con el Infierno.\n[2] Con el Paraíso."
+    },
+    {
+      "id": "4983",
+      "sura": "56",
+      "aya": "4",
+      "arabic_text": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+      "translation": "4. Cuando la Tierra se sacuda violentamente",
+      "footnotes": ""
+    },
+    {
+      "id": "4984",
+      "sura": "56",
+      "aya": "5",
+      "arabic_text": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+      "translation": "5. y las montañas caigan desmoronadas",
+      "footnotes": ""
+    },
+    {
+      "id": "4985",
+      "sura": "56",
+      "aya": "6",
+      "arabic_text": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+      "translation": "6. convirtiéndose en polvo disperso,",
+      "footnotes": ""
+    },
+    {
+      "id": "4986",
+      "sura": "56",
+      "aya": "7",
+      "arabic_text": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ",
+      "translation": "7. serán divididos en tres grupos:",
+      "footnotes": ""
+    },
+    {
+      "id": "4987",
+      "sura": "56",
+      "aya": "8",
+      "arabic_text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "translation": "8. Los compañeros de la derecha[1]. ¡Qué afortunados serán los compañeros de la derecha!",
+      "footnotes": "[1] Serán quienes reciban el registro de sus obras con la mano derecha en señal de aprobación."
+    },
+    {
+      "id": "4988",
+      "sura": "56",
+      "aya": "9",
+      "arabic_text": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "translation": "9. Los compañeros de la izquierda[1]. ¡Qué desafortunados serán los compañeros de la izquierda!",
+      "footnotes": "[1] Serán quienes reciban el registro de sus obras con la mano izquierda en señal de condena."
+    },
+    {
+      "id": "4989",
+      "sura": "56",
+      "aya": "10",
+      "arabic_text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+      "translation": "10. Y los adelantados[1]. ¡Estos serán los primeros[2]!",
+      "footnotes": "[1] Serán quienes en la vida mundanal se apresuraron a creer en el monoteísmo y a realizar obras de bien.\n[2] En entrar al Paraíso."
+    },
+    {
+      "id": "4990",
+      "sura": "56",
+      "aya": "11",
+      "arabic_text": "أُوْلَٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+      "translation": "11. Serán los allegados [a Dios],",
+      "footnotes": ""
+    },
+    {
+      "id": "4991",
+      "sura": "56",
+      "aya": "12",
+      "arabic_text": "فِي جَنَّٰتِ ٱلنَّعِيمِ",
+      "translation": "12. estarán en los Jardines de las Delicias.",
+      "footnotes": ""
+    },
+    {
+      "id": "4992",
+      "sura": "56",
+      "aya": "13",
+      "arabic_text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "translation": "13. Muchos de ellos serán de las primeras generaciones",
+      "footnotes": ""
+    },
+    {
+      "id": "4993",
+      "sura": "56",
+      "aya": "14",
+      "arabic_text": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "translation": "14. y muy pocos de las últimas.",
+      "footnotes": ""
+    },
+    {
+      "id": "4994",
+      "sura": "56",
+      "aya": "15",
+      "arabic_text": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+      "translation": "15. Tendrán lechos incrustados con oro y piedras preciosas,",
+      "footnotes": ""
+    },
+    {
+      "id": "4995",
+      "sura": "56",
+      "aya": "16",
+      "arabic_text": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+      "translation": "16. y se recostarán en ellos, unos enfrente de otros.",
+      "footnotes": ""
+    },
+    {
+      "id": "4996",
+      "sura": "56",
+      "aya": "17",
+      "arabic_text": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ",
+      "translation": "17. Circularán entre ellos sirvientes eternamente jóvenes,",
+      "footnotes": ""
+    },
+    {
+      "id": "4997",
+      "sura": "56",
+      "aya": "18",
+      "arabic_text": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ",
+      "translation": "18. con vasos, jarros y una copa llenados en un manantial puro,",
+      "footnotes": ""
+    },
+    {
+      "id": "4998",
+      "sura": "56",
+      "aya": "19",
+      "arabic_text": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+      "translation": "19. que no provocará jaqueca ni embriaguez.",
+      "footnotes": ""
+    },
+    {
+      "id": "4999",
+      "sura": "56",
+      "aya": "20",
+      "arabic_text": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ",
+      "translation": "20. Tendrán las frutas que elijan,",
+      "footnotes": ""
+    },
+    {
+      "id": "5000",
+      "sura": "56",
+      "aya": "21",
+      "arabic_text": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
+      "translation": "21. y la carne de ave que les apetezca.",
+      "footnotes": ""
+    },
+    {
+      "id": "5001",
+      "sura": "56",
+      "aya": "22",
+      "arabic_text": "وَحُورٌ عِينٞ",
+      "translation": "22. Habrá huríes de ojos hermosos,",
+      "footnotes": ""
+    },
+    {
+      "id": "5002",
+      "sura": "56",
+      "aya": "23",
+      "arabic_text": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+      "translation": "23. como si fueran perlas ocultas.",
+      "footnotes": ""
+    },
+    {
+      "id": "5003",
+      "sura": "56",
+      "aya": "24",
+      "arabic_text": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+      "translation": "24. En recompensa por las obras buenas que solían hacer.",
+      "footnotes": ""
+    },
+    {
+      "id": "5004",
+      "sura": "56",
+      "aya": "25",
+      "arabic_text": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا",
+      "translation": "25. No oirán frivolidades ni incitación al pecado,",
+      "footnotes": ""
+    },
+    {
+      "id": "5005",
+      "sura": "56",
+      "aya": "26",
+      "arabic_text": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا",
+      "translation": "26. tan solo la palabra: “¡Paz!, ¡paz!”",
+      "footnotes": ""
+    },
+    {
+      "id": "5006",
+      "sura": "56",
+      "aya": "27",
+      "arabic_text": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
+      "translation": "27. Los compañeros de la derecha. ¡Qué afortunados serán los compañeros de la derecha!",
+      "footnotes": ""
+    },
+    {
+      "id": "5007",
+      "sura": "56",
+      "aya": "28",
+      "arabic_text": "فِي سِدۡرٖ مَّخۡضُودٖ",
+      "translation": "28. Estarán entre azufaifos sin espinas,",
+      "footnotes": ""
+    },
+    {
+      "id": "5008",
+      "sura": "56",
+      "aya": "29",
+      "arabic_text": "وَطَلۡحٖ مَّنضُودٖ",
+      "translation": "29. y árboles cargados de frutos,",
+      "footnotes": ""
+    },
+    {
+      "id": "5009",
+      "sura": "56",
+      "aya": "30",
+      "arabic_text": "وَظِلّٖ مَّمۡدُودٖ",
+      "translation": "30. de sombra extensa.",
+      "footnotes": ""
+    },
+    {
+      "id": "5010",
+      "sura": "56",
+      "aya": "31",
+      "arabic_text": "وَمَآءٖ مَّسۡكُوبٖ",
+      "translation": "31. Habrá agua de continuo fluir",
+      "footnotes": ""
+    },
+    {
+      "id": "5011",
+      "sura": "56",
+      "aya": "32",
+      "arabic_text": "وَفَٰكِهَةٖ كَثِيرَةٖ",
+      "translation": "32. y frutos abundantes,",
+      "footnotes": ""
+    },
+    {
+      "id": "5012",
+      "sura": "56",
+      "aya": "33",
+      "arabic_text": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ",
+      "translation": "33. que no se agotarán y siempre estarán al alcance de sus manos.",
+      "footnotes": ""
+    },
+    {
+      "id": "5013",
+      "sura": "56",
+      "aya": "34",
+      "arabic_text": "وَفُرُشٖ مَّرۡفُوعَةٍ",
+      "translation": "34. [Reposarán] en camas elevadas.",
+      "footnotes": ""
+    },
+    {
+      "id": "5014",
+      "sura": "56",
+      "aya": "35",
+      "arabic_text": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ",
+      "translation": "35. Las creé [a las mujeres del Paraíso] de manera especial,",
+      "footnotes": ""
+    },
+    {
+      "id": "5015",
+      "sura": "56",
+      "aya": "36",
+      "arabic_text": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا",
+      "translation": "36. vírgenes,",
+      "footnotes": ""
+    },
+    {
+      "id": "5016",
+      "sura": "56",
+      "aya": "37",
+      "arabic_text": "عُرُبًا أَتۡرَابٗا",
+      "translation": "37. amorosas y siempre con la misma edad.",
+      "footnotes": ""
+    },
+    {
+      "id": "5017",
+      "sura": "56",
+      "aya": "38",
+      "arabic_text": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
+      "translation": "38. Esto es para los compañeros de la derecha.",
+      "footnotes": ""
+    },
+    {
+      "id": "5018",
+      "sura": "56",
+      "aya": "39",
+      "arabic_text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "translation": "39. Muchos de ellos serán de las primeras generaciones,",
+      "footnotes": ""
+    },
+    {
+      "id": "5019",
+      "sura": "56",
+      "aya": "40",
+      "arabic_text": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "translation": "40. y muchos serán de las últimas generaciones.",
+      "footnotes": ""
+    },
+    {
+      "id": "5020",
+      "sura": "56",
+      "aya": "41",
+      "arabic_text": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ",
+      "translation": "41. ¡Pero qué desafortunados serán los compañeros de la izquierda!",
+      "footnotes": ""
+    },
+    {
+      "id": "5021",
+      "sura": "56",
+      "aya": "42",
+      "arabic_text": "فِي سَمُومٖ وَحَمِيمٖ",
+      "translation": "42. Atormentados por un viento abrasador y un líquido hirviente,",
+      "footnotes": ""
+    },
+    {
+      "id": "5022",
+      "sura": "56",
+      "aya": "43",
+      "arabic_text": "وَظِلّٖ مِّن يَحۡمُومٖ",
+      "translation": "43. a la sombra de un humo negro,",
+      "footnotes": ""
+    },
+    {
+      "id": "5023",
+      "sura": "56",
+      "aya": "44",
+      "arabic_text": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
+      "translation": "44. que no será fresca ni agradable.",
+      "footnotes": ""
+    },
+    {
+      "id": "5024",
+      "sura": "56",
+      "aya": "45",
+      "arabic_text": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ",
+      "translation": "45. Porque se entregaron a los lujos superfluos[1],",
+      "footnotes": "[1] En la vida mundanal."
+    },
+    {
+      "id": "5025",
+      "sura": "56",
+      "aya": "46",
+      "arabic_text": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ",
+      "translation": "46. se aferraron al más terrible pecado[1]",
+      "footnotes": "[1] Atribuir divinidad a otros seres."
+    },
+    {
+      "id": "5026",
+      "sura": "56",
+      "aya": "47",
+      "arabic_text": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "translation": "47. y preguntaban burlándose: “¿Acaso cuando muramos y ya seamos tierra y huesos, vamos a ser resucitados?",
+      "footnotes": ""
+    },
+    {
+      "id": "5027",
+      "sura": "56",
+      "aya": "48",
+      "arabic_text": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+      "translation": "48. ¿Y nuestros ancestros también[1]?”",
+      "footnotes": "[1] ¿Serán resucitados?"
+    },
+    {
+      "id": "5028",
+      "sura": "56",
+      "aya": "49",
+      "arabic_text": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ",
+      "translation": "49. Respóndeles: “Los primeros y los últimos",
+      "footnotes": ""
+    },
+    {
+      "id": "5029",
+      "sura": "56",
+      "aya": "50",
+      "arabic_text": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ",
+      "translation": "50. serán congregados en un día ya establecido.",
+      "footnotes": ""
+    },
+    {
+      "id": "5030",
+      "sura": "56",
+      "aya": "51",
+      "arabic_text": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ",
+      "translation": "51. Luego, ¡oh, extraviados y desmentidores!,",
+      "footnotes": ""
+    },
+    {
+      "id": "5031",
+      "sura": "56",
+      "aya": "52",
+      "arabic_text": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
+      "translation": "52. han de comer del árbol del Zaqqum[1]",
+      "footnotes": "[1] Un árbol del Infierno. Ver Corán 37:62"
+    },
+    {
+      "id": "5032",
+      "sura": "56",
+      "aya": "53",
+      "arabic_text": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+      "translation": "53. con el que llenarán sus vientres,",
+      "footnotes": ""
+    },
+    {
+      "id": "5033",
+      "sura": "56",
+      "aya": "54",
+      "arabic_text": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ",
+      "translation": "54. y luego beberán un líquido hirviente",
+      "footnotes": ""
+    },
+    {
+      "id": "5034",
+      "sura": "56",
+      "aya": "55",
+      "arabic_text": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+      "translation": "55. como beben los camellos sedientos que no pueden saciar su sed”.",
+      "footnotes": ""
+    },
+    {
+      "id": "5035",
+      "sura": "56",
+      "aya": "56",
+      "arabic_text": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ",
+      "translation": "56. Esa será su morada el Día del Juicio.",
+      "footnotes": ""
+    },
+    {
+      "id": "5036",
+      "sura": "56",
+      "aya": "57",
+      "arabic_text": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+      "translation": "57. Yo los creé, ¿por qué no aceptan la verdad?",
+      "footnotes": ""
+    },
+    {
+      "id": "5037",
+      "sura": "56",
+      "aya": "58",
+      "arabic_text": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+      "translation": "58. ¿Por qué no reflexionan en lo que eyaculan?",
+      "footnotes": ""
+    },
+    {
+      "id": "5038",
+      "sura": "56",
+      "aya": "59",
+      "arabic_text": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
+      "translation": "59. ¿Lo han creado ustedes o soy Yo el creador?",
+      "footnotes": ""
+    },
+    {
+      "id": "5039",
+      "sura": "56",
+      "aya": "60",
+      "arabic_text": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "translation": "60. Yo he decretado cuándo morirá cada uno de ustedes y nadie podría impedirme",
+      "footnotes": ""
+    },
+    {
+      "id": "5040",
+      "sura": "56",
+      "aya": "61",
+      "arabic_text": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+      "translation": "61. aniquilarlos y sustituirlos [por otra generación], y resucitarlos [el Día del Juicio] conforme a un proceso que desconocen.",
+      "footnotes": ""
+    },
+    {
+      "id": "5041",
+      "sura": "56",
+      "aya": "62",
+      "arabic_text": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ",
+      "translation": "62. Si reconocen que fueron creados por primera vez, ¿por qué no reflexionan?",
+      "footnotes": ""
+    },
+    {
+      "id": "5042",
+      "sura": "56",
+      "aya": "63",
+      "arabic_text": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ",
+      "translation": "63. ¿No han observado sus cultivos?",
+      "footnotes": ""
+    },
+    {
+      "id": "5043",
+      "sura": "56",
+      "aya": "64",
+      "arabic_text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّٰرِعُونَ",
+      "translation": "64. ¿Ustedes los hacen germinar, o soy Yo Quien los hace germinar?",
+      "footnotes": ""
+    },
+    {
+      "id": "5044",
+      "sura": "56",
+      "aya": "65",
+      "arabic_text": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ",
+      "translation": "65. Si quisiera los convertiría en pasto seco y entonces se lamentarían,",
+      "footnotes": ""
+    },
+    {
+      "id": "5045",
+      "sura": "56",
+      "aya": "66",
+      "arabic_text": "إِنَّا لَمُغۡرَمُونَ",
+      "translation": "66. [y dirían:] “Hemos sido castigados,",
+      "footnotes": ""
+    },
+    {
+      "id": "5046",
+      "sura": "56",
+      "aya": "67",
+      "arabic_text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "translation": "67. y quedamos en la ruina”.",
+      "footnotes": ""
+    },
+    {
+      "id": "5047",
+      "sura": "56",
+      "aya": "68",
+      "arabic_text": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ",
+      "translation": "68. ¿No han observado el agua que beben?",
+      "footnotes": ""
+    },
+    {
+      "id": "5048",
+      "sura": "56",
+      "aya": "69",
+      "arabic_text": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ",
+      "translation": "69. ¿Ustedes la hacen descender de las nubes o soy Yo Quien la hago descender?",
+      "footnotes": ""
+    },
+    {
+      "id": "5049",
+      "sura": "56",
+      "aya": "70",
+      "arabic_text": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ",
+      "translation": "70. Si quisiera la habría hecho salobre, ¿por qué no son agradecidos?[1]",
+      "footnotes": "[1] Con Dios."
+    },
+    {
+      "id": "5050",
+      "sura": "56",
+      "aya": "71",
+      "arabic_text": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+      "translation": "71. ¿No han observado el fuego que encienden?",
+      "footnotes": ""
+    },
+    {
+      "id": "5051",
+      "sura": "56",
+      "aya": "72",
+      "arabic_text": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ",
+      "translation": "72. ¿Ustedes han creado el árbol con el que lo encienden o soy Yo el creador?",
+      "footnotes": ""
+    },
+    {
+      "id": "5052",
+      "sura": "56",
+      "aya": "73",
+      "arabic_text": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ",
+      "translation": "73. He creado el fuego para que reflexionen[1], y para beneficio de los viajeros.",
+      "footnotes": "[1] Acerca del Infierno."
+    },
+    {
+      "id": "5053",
+      "sura": "56",
+      "aya": "74",
+      "arabic_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "translation": "74. Glorifica el nombre de tu Señor, el Grandioso.",
+      "footnotes": ""
+    },
+    {
+      "id": "5054",
+      "sura": "56",
+      "aya": "75",
+      "arabic_text": "۞ فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "translation": "75. ¡Juro por las estrellas cuando desaparecen!",
+      "footnotes": ""
+    },
+    {
+      "id": "5055",
+      "sura": "56",
+      "aya": "76",
+      "arabic_text": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+      "translation": "76. Lo cual, si supieran, es un juramento grandioso.",
+      "footnotes": ""
+    },
+    {
+      "id": "5056",
+      "sura": "56",
+      "aya": "77",
+      "arabic_text": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ",
+      "translation": "77. Que este es un Corán Noble,",
+      "footnotes": ""
+    },
+    {
+      "id": "5057",
+      "sura": "56",
+      "aya": "78",
+      "arabic_text": "فِي كِتَٰبٖ مَّكۡنُونٖ",
+      "translation": "78. preservado en un libro custodiado[1],",
+      "footnotes": "[1] La Tabla Protegida o Al-Lauh Al-Mahfudh."
+    },
+    {
+      "id": "5058",
+      "sura": "56",
+      "aya": "79",
+      "arabic_text": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+      "translation": "79. que solo pueden tocar los purificados.",
+      "footnotes": ""
+    },
+    {
+      "id": "5059",
+      "sura": "56",
+      "aya": "80",
+      "arabic_text": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+      "translation": "80. Es una revelación descendida por el Señor del universo.",
+      "footnotes": ""
+    },
+    {
+      "id": "5060",
+      "sura": "56",
+      "aya": "81",
+      "arabic_text": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+      "translation": "81. ¿A este Mensaje son indiferentes?",
+      "footnotes": ""
+    },
+    {
+      "id": "5061",
+      "sura": "56",
+      "aya": "82",
+      "arabic_text": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+      "translation": "82. ¿Y agradecen lo que reciben de Dios negando la Verdad?",
+      "footnotes": ""
+    },
+    {
+      "id": "5062",
+      "sura": "56",
+      "aya": "83",
+      "arabic_text": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+      "translation": "83. Entonces, cuando [el alma] llegue hasta la garganta,",
+      "footnotes": ""
+    },
+    {
+      "id": "5063",
+      "sura": "56",
+      "aya": "84",
+      "arabic_text": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ",
+      "translation": "84. y ustedes estén mirándolo[1],",
+      "footnotes": "[1] Al moribundo, pero no puedan hacer nada para salvarlo."
+    },
+    {
+      "id": "5064",
+      "sura": "56",
+      "aya": "85",
+      "arabic_text": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ",
+      "translation": "85. pero Yo estoy más cerca que ustedes de él, aunque no lo vean;",
+      "footnotes": ""
+    },
+    {
+      "id": "5065",
+      "sura": "56",
+      "aya": "86",
+      "arabic_text": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+      "translation": "86. si es verdad como dicen que no serán juzgados,",
+      "footnotes": ""
+    },
+    {
+      "id": "5066",
+      "sura": "56",
+      "aya": "87",
+      "arabic_text": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+      "translation": "87. devuélvanle el alma, si es que son sinceros.",
+      "footnotes": ""
+    },
+    {
+      "id": "5067",
+      "sura": "56",
+      "aya": "88",
+      "arabic_text": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+      "translation": "88. Si [el agonizante] es uno de los adelantados",
+      "footnotes": ""
+    },
+    {
+      "id": "5068",
+      "sura": "56",
+      "aya": "89",
+      "arabic_text": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ",
+      "translation": "89. tendrá descanso, plenitud y el Jardín de las Delicias.",
+      "footnotes": ""
+    },
+    {
+      "id": "5069",
+      "sura": "56",
+      "aya": "90",
+      "arabic_text": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "translation": "90. Y si es de los compañeros de la derecha:",
+      "footnotes": ""
+    },
+    {
+      "id": "5070",
+      "sura": "56",
+      "aya": "91",
+      "arabic_text": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "translation": "91. “La paz sea contigo, pues eres de los compañeros de la derecha”.",
+      "footnotes": ""
+    },
+    {
+      "id": "5071",
+      "sura": "56",
+      "aya": "92",
+      "arabic_text": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "translation": "92. Pero si es de los que negaron la Verdad, de los extraviados[1],",
+      "footnotes": "[1] De los compañeros de la izquierda."
+    },
+    {
+      "id": "5072",
+      "sura": "56",
+      "aya": "93",
+      "arabic_text": "فَنُزُلٞ مِّنۡ حَمِيمٖ",
+      "translation": "93. será atormentado con un líquido hirviente",
+      "footnotes": ""
+    },
+    {
+      "id": "5073",
+      "sura": "56",
+      "aya": "94",
+      "arabic_text": "وَتَصۡلِيَةُ جَحِيمٍ",
+      "translation": "94. y luego será arrojado al fuego del Infierno.",
+      "footnotes": ""
+    },
+    {
+      "id": "5074",
+      "sura": "56",
+      "aya": "95",
+      "arabic_text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+      "translation": "95. esta es la Verdad sobre la que no hay duda.",
+      "footnotes": ""
+    },
+    {
+      "id": "5075",
+      "sura": "56",
+      "aya": "96",
+      "arabic_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "translation": "96. ¡Glorifica el nombre de tu Señor, el Grandioso!",
+      "footnotes": ""
+    }
+  ]
+}

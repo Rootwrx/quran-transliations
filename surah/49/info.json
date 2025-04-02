@@ -1,0 +1,27 @@
+{
+  "number": 49,
+  "name": {
+    "ar": "الحجرات",
+    "en": "The Inner Apartments",
+    "transliteration": "Al-Hujurat"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 106,
+  "bismillah_pre": true,
+  "verses_count": 18,
+  "words_count": 353,
+  "letters_count": 1493,
+  "pages": [
+    515,
+    517
+  ],
+  "name_simple": "Al-Hujurat",
+  "name_complex": "Al-Ĥujurāt",
+  "name_arabic": "الحجرات",
+  "translated_name": "The Rooms",
+  "start_page": 515,
+  "end_page": 517
+}

@@ -1,0 +1,40 @@
+{
+  "number": 113,
+  "revelation_order": 20,
+  "bismillah_pre": true,
+  "verses_count": 5,
+  "words_count": 23,
+  "letters_count": 71,
+  "name_simple": "Al-Falaq",
+  "name_complex": "Al-Falaq",
+  "name_arabic": "الفلق",
+  "translated_name": "The Daybreak",
+  "start_page": 604,
+  "end_page": 604,
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "name": {
+    "ar": "الفلق",
+    "en": "The Dawn",
+    "transliteration": "Al-Falaq"
+  },
+  "juz": [
+    {
+      "index": "30",
+      "verse": {
+        "start": "1",
+        "end": "5"
+      }
+    }
+  ],
+  "verses": {
+    "0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "1": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
+    "2": "مِن شَرِّ مَا خَلَقَ",
+    "3": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
+    "4": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
+    "5": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+  }
+}

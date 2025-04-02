@@ -1,0 +1,27 @@
+{
+  "number": 86,
+  "name": {
+    "ar": "الطارق",
+    "en": "The Morning Star",
+    "transliteration": "At-Tariq"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 36,
+  "bismillah_pre": true,
+  "verses_count": 17,
+  "words_count": 61,
+  "letters_count": 249,
+  "pages": [
+    591,
+    591
+  ],
+  "name_simple": "At-Tariq",
+  "name_complex": "Aţ-Ţāriq",
+  "name_arabic": "الطارق",
+  "translated_name": "The Nightcommer",
+  "start_page": 591,
+  "end_page": 591
+}

@@ -1,0 +1,27 @@
+{
+  "number": 104,
+  "name": {
+    "ar": "الهمزة",
+    "en": "The Traducer",
+    "transliteration": "Al-Humazah"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 32,
+  "bismillah_pre": true,
+  "verses_count": 9,
+  "words_count": 33,
+  "letters_count": 133,
+  "pages": [
+    601,
+    601
+  ],
+  "name_simple": "Al-Humazah",
+  "name_complex": "Al-Humazah",
+  "name_arabic": "الهمزة",
+  "translated_name": "The Traducer",
+  "start_page": 601,
+  "end_page": 601
+}

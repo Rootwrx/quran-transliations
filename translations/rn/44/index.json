@@ -1,0 +1,476 @@
+{
+  "result": [
+    {
+      "id": "4415",
+      "sura": "44",
+      "aya": "1",
+      "arabic_text": "حمٓ",
+      "translation": "Haa Miim[1].",
+      "footnotes": "[1] Raba insiguro y’indome zitangura mu ntango y’Igisomwa Al-Baqara."
+    },
+    {
+      "id": "4416",
+      "sura": "44",
+      "aya": "2",
+      "arabic_text": "وَٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+      "translation": "Jewe Allah, Ndarahiye ku Gitabu ca Qor’ani gitomoye neza mu nsiguro, mu ngingo z’ibirekuwe n’ibizira no mu burongozi bwaco!",
+      "footnotes": ""
+    },
+    {
+      "id": "4417",
+      "sura": "44",
+      "aya": "3",
+      "arabic_text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةٖ مُّبَٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِينَ",
+      "translation": "Mu vy’ukuri Twebwe Allah, Twamanuye Qor’ani mw’ijoro ry’iteka, ryuzuyemwo imigisha myinshi mu kwezi kwa Ramadhani. Mu vy’ukuri Twebwe Allah, Twamanuye Ibitabu Turungika n’Intumwa kugira Tugabishe abantu ku bihano vyacu.",
+      "footnotes": ""
+    },
+    {
+      "id": "4418",
+      "sura": "44",
+      "aya": "4",
+      "arabic_text": "فِيهَا يُفۡرَقُ كُلُّ أَمۡرٍ حَكِيمٍ",
+      "translation": "Muri nya joro ry’iteka rero, abanditsi mu bamalayika, bashirirwa ahabona ingingo yerekeye ikintu cose kizotunganywa kigashirwa mu ngiro muri uwo mwaka;",
+      "footnotes": ""
+    },
+    {
+      "id": "4419",
+      "sura": "44",
+      "aya": "5",
+      "arabic_text": "أَمۡرٗا مِّنۡ عِندِنَآۚ إِنَّا كُنَّا مُرۡسِلِينَ",
+      "translation": "Ingingo yubahirizwa kw’itegeko n’ubumenyi bivuye iwacu Twebwe Allah. Mu vy’ukuri Twebwe Allah, Twarungitse ku bantu Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) hamwe n’izindi zarungitswe hambere yiwe;",
+      "footnotes": ""
+    },
+    {
+      "id": "4420",
+      "sura": "44",
+      "aya": "6",
+      "arabic_text": "رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+      "translation": "Mu ntumbero yo kugirira impuhwe abantu zarungitsweko, impuhwe zivuye ku Mana yawe Rurema Allah, mu vy’ukuri ni Yo rero Nyenukwumva, Irumva ibivugwa vyose; Nyenubumenyikurivyose, Irazi neza ibikorwa n’ibiremwa hamwe n’ivyo bizirikana;",
+      "footnotes": ""
+    },
+    {
+      "id": "4421",
+      "sura": "44",
+      "aya": "7",
+      "arabic_text": "رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم مُّوقِنِينَ",
+      "translation": "Ni Yo Rurema Yaremye amajuru n’isi hamwe n’ibiri hagati yavyo. Nimwaba rero muzi neza ivyo mu buryo buzira amakenga, nimumenye ko Iyaremye ivyo vyose, ari Yo Mana Ikwiye gusengwa vy’ukuri;",
+      "footnotes": ""
+    },
+    {
+      "id": "4422",
+      "sura": "44",
+      "aya": "8",
+      "arabic_text": "لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ",
+      "translation": "Nta yindi mana ibwirijwe gusengwa atari Yo. Ni Yo Itanga ubuzima Ikanabwaka. Ni Yo Mana yanyu Rurema, Ikaba n’Imana ya ba so bo hambere yanyu, nimuyisenge rero mutayibangikanya na kimwe mu biremwa.",
+      "footnotes": ""
+    },
+    {
+      "id": "4423",
+      "sura": "44",
+      "aya": "9",
+      "arabic_text": "بَلۡ هُمۡ فِي شَكّٖ يَلۡعَبُونَ",
+      "translation": "Ntumwa y’Imana! Ahubwo rero, ababangikanyamana bafise amakenga ku kuri wabazaniye, baratwawe n’ibihendamaso vy’isi n’ubufyinyi.",
+      "footnotes": ""
+    },
+    {
+      "id": "4424",
+      "sura": "44",
+      "aya": "10",
+      "arabic_text": "فَٱرۡتَقِبۡ يَوۡمَ تَأۡتِي ٱلسَّمَآءُ بِدُخَانٖ مُّبِينٖ",
+      "translation": "Ntumwa y’Imana! Barindire rero bazokwibonerako, umusi ijuru ryafumvye umwotsi ugaragara, ukwiragiye hose;",
+      "footnotes": ""
+    },
+    {
+      "id": "4425",
+      "sura": "44",
+      "aya": "11",
+      "arabic_text": "يَغۡشَى ٱلنَّاسَۖ هَٰذَا عَذَابٌ أَلِيمٞ",
+      "translation": "Ugahwikira abantu bose, maze bakabwirwa bati: “Iki rero, ni co gihano kibabaza cane”;",
+      "footnotes": ""
+    },
+    {
+      "id": "4426",
+      "sura": "44",
+      "aya": "12",
+      "arabic_text": "رَّبَّنَا ٱكۡشِفۡ عَنَّا ٱلۡعَذَابَ إِنَّا مُؤۡمِنُونَ",
+      "translation": "Bagaheza bagasaba gukurwako nya gihano batakamba bati: “Mana yacu Rurema Allah! Turagusavye Udukureko kino gihano. Uramutse Ukidukuyeko, ni ukuri twoca tukwemeraˮ.",
+      "footnotes": ""
+    },
+    {
+      "id": "4427",
+      "sura": "44",
+      "aya": "13",
+      "arabic_text": "أَنَّىٰ لَهُمُ ٱلذِّكۡرَىٰ وَقَدۡ جَآءَهُمۡ رَسُولٞ مُّبِينٞ",
+      "translation": "Mbega bokwibuka gute inyuma y’aho bamanuriwe nya gihano, kandi baramaze gushikirwa n’Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) itomora amabwirizwa y'Imana Allah;",
+      "footnotes": ""
+    },
+    {
+      "id": "4428",
+      "sura": "44",
+      "aya": "14",
+      "arabic_text": "ثُمَّ تَوَلَّوۡاْ عَنۡهُ وَقَالُواْ مُعَلَّمٞ مَّجۡنُونٌ",
+      "translation": "Hanyuma bakayirengagiza bakanavuga ko ari umwigishwa[2] akaba n’umusazi, n’uko atari Intumwa namba!",
+      "footnotes": "[2] Ashikiriza ivyo yigishijwe n’abantu canke ba senyagara canke amashetani."
+    },
+    {
+      "id": "4429",
+      "sura": "44",
+      "aya": "15",
+      "arabic_text": "إِنَّا كَاشِفُواْ ٱلۡعَذَابِ قَلِيلًاۚ إِنَّكُمۡ عَآئِدُونَ",
+      "translation": "Mu vy’ukuri Twebwe Allah, Tuzobakurako igihano umwanya muto, maze murabe ko mu vy’ukuri mutazosubira mu bugarariji n’ubuhuvyi mwahoramwo[3]. Muri ico gihe rero, Tuzoca Tubahana kandi;",
+      "footnotes": "[3] Ivyo rero vyarashitse, ariko ntibahavuye bemera nk’uko basezeranye."
+    },
+    {
+      "id": "4430",
+      "sura": "44",
+      "aya": "16",
+      "arabic_text": "يَوۡمَ نَبۡطِشُ ٱلۡبَطۡشَةَ ٱلۡكُبۡرَىٰٓ إِنَّا مُنتَقِمُونَ",
+      "translation": "Umusi Twacakiye abagarariji, maze Tukabahana nya kubahana, ni wo musi w’izuka rero Tuzobihorerako.",
+      "footnotes": ""
+    },
+    {
+      "id": "4431",
+      "sura": "44",
+      "aya": "17",
+      "arabic_text": "۞ وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَجَآءَهُمۡ رَسُولٞ كَرِيمٌ",
+      "translation": "Ni ukuri, hambere y’ababangikanyamana b’i Makka, Twaragerageje abantu ba Firawuni, maze Tubarungikira Intumwa Musa (nyakugira amahoro y’Imana Allah) yubashwe, baraheza barayihakana bivuye inyuma, Duca Turabahana. Ntumwa y’Imana! Ni nk’ukwo nyene rero Tuzohana abo warungitsweko, nibatakwemera;",
+      "footnotes": ""
+    },
+    {
+      "id": "4432",
+      "sura": "44",
+      "aya": "18",
+      "arabic_text": "أَنۡ أَدُّوٓاْ إِلَيَّ عِبَادَ ٱللَّهِۖ إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+      "translation": "Musa araheza ababwira ati: “Enda nyabuna rero, nimumpe abaja b’Imana Allah muri Bene Israyeli, kugira bayiyegereze mu vyo bakora vyose, banayisenge ari Imwe Rudende; jewe mu vy’ukuri, ndi Intumwa kuri mwebwe, nkaba n’Umwizigirwa mu vyo mpishurirwa;",
+      "footnotes": ""
+    },
+    {
+      "id": "4433",
+      "sura": "44",
+      "aya": "19",
+      "arabic_text": "وَأَن لَّا تَعۡلُواْ عَلَى ٱللَّهِۖ إِنِّيٓ ءَاتِيكُم بِسُلۡطَٰنٖ مُّبِينٖ",
+      "translation": "Kandi ntimukagire amanyama ku Mana Allah mu guhakana Intumwa zayo; jewe mu vy’ukuri, ndabazaniye icemezo gitomoye cemeza ukuri kwanje;",
+      "footnotes": ""
+    },
+    {
+      "id": "4434",
+      "sura": "44",
+      "aya": "20",
+      "arabic_text": "وَإِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُمۡ أَن تَرۡجُمُونِ",
+      "translation": "Mu vy’ukuri, ndikinze ku Mana yanje Ikaba n’Imana yanyu Rurema Allah, Inkingire ko mwonyicisha amabuye;",
+      "footnotes": ""
+    },
+    {
+      "id": "4435",
+      "sura": "44",
+      "aya": "21",
+      "arabic_text": "وَإِن لَّمۡ تُؤۡمِنُواْ لِي فَٱعۡتَزِلُونِ",
+      "translation": "Nimutanyemera ku vyo ndabazaniye, murandeka nidegemvye mutangeramiraˮ.",
+      "footnotes": ""
+    },
+    {
+      "id": "4436",
+      "sura": "44",
+      "aya": "22",
+      "arabic_text": "فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوۡمٞ مُّجۡرِمُونَ",
+      "translation": "Musa amaze kubona ko bamuhakanye bivuye inyuma, ni ho yasaba atakambira Imana yiwe Rurema Allah ati: “Mu vy’ukuri aba bantu, ni abanyavyaha bakubangikanyaˮ.",
+      "footnotes": ""
+    },
+    {
+      "id": "4437",
+      "sura": "44",
+      "aya": "23",
+      "arabic_text": "فَأَسۡرِ بِعِبَادِي لَيۡلًا إِنَّكُم مُّتَّبَعُونَ",
+      "translation": "Imana Allah Yabwiye Musa Iti: “Musa! Muri iri joro, uragenda ujanye abaja banje bakwemeye bakagukurikira; mu vy’ukuri, Firawuni n’ingabo ziwe bahava babomako, babatere;",
+      "footnotes": ""
+    },
+    {
+      "id": "4438",
+      "sura": "44",
+      "aya": "24",
+      "arabic_text": "وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندٞ مُّغۡرَقُونَ",
+      "translation": "Maze ureke ibahari rigume ritururuye nk’uko risanzwe, mu vy’ukuri Firawuni n’ingabo ziwe, bahava basomeshwa nturi”.",
+      "footnotes": ""
+    },
+    {
+      "id": "4439",
+      "sura": "44",
+      "aya": "25",
+      "arabic_text": "كَمۡ تَرَكُواْ مِن جَنَّٰتٖ وَعُيُونٖ",
+      "translation": "Inyuma y’isomeshwa nturi rero, Firawuni n’ingabo ziwe basize ibintu vyinshi; imirima itotahaye, amariba y’amazi atemba;",
+      "footnotes": ""
+    },
+    {
+      "id": "4440",
+      "sura": "44",
+      "aya": "26",
+      "arabic_text": "وَزُرُوعٖ وَمَقَامٖ كَرِيمٖ",
+      "translation": "N’indimo hamwe rero n’inzu ziteye igomwe;",
+      "footnotes": ""
+    },
+    {
+      "id": "4441",
+      "sura": "44",
+      "aya": "27",
+      "arabic_text": "وَنَعۡمَةٖ كَانُواْ فِيهَا فَٰكِهِينَ",
+      "translation": "Hamwe rero n’inema nyinshi bari babayemwo, borohewe mu buzima;",
+      "footnotes": ""
+    },
+    {
+      "id": "4442",
+      "sura": "44",
+      "aya": "28",
+      "arabic_text": "كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا قَوۡمًا ءَاخَرِينَ",
+      "translation": "Ni nk’ico gihano rero Imana Allah Iha abihakana inema zayo, maze bakayigarariza. Inyuma y’ihonywa ryabo rero, ivyo vyose Twabiraze abandi bantu muri Bene Israyeli.",
+      "footnotes": ""
+    },
+    {
+      "id": "4443",
+      "sura": "44",
+      "aya": "29",
+      "arabic_text": "فَمَا بَكَتۡ عَلَيۡهِمُ ٱلسَّمَآءُ وَٱلۡأَرۡضُ وَمَا كَانُواْ مُنظَرِينَ",
+      "translation": "Ijuru n’isi, ntivyigeze biririra Firawuni n’ingabo ziwe; kira noneho, ntibari no kurindirizwa ngo ntibahanwe.",
+      "footnotes": ""
+    },
+    {
+      "id": "4444",
+      "sura": "44",
+      "aya": "30",
+      "arabic_text": "وَلَقَدۡ نَجَّيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ مِنَ ٱلۡعَذَابِ ٱلۡمُهِينِ",
+      "translation": "Ni ukuri, Twaranarokoye Bene Israyeli mu bihano bisuzuguza vyo gucurwa bufuni na buhoro;",
+      "footnotes": ""
+    },
+    {
+      "id": "4445",
+      "sura": "44",
+      "aya": "31",
+      "arabic_text": "مِن فِرۡعَوۡنَۚ إِنَّهُۥ كَانَ عَالِيٗا مِّنَ ٱلۡمُسۡرِفِينَ",
+      "translation": "Maze Tubakiza mu kubakura kw’izosi Firawuni; mu vy’ukuri Firawuni, yari no mu bantu bagira amanyama ku bandi, bimonogoza mu bugarariji.",
+      "footnotes": ""
+    },
+    {
+      "id": "4446",
+      "sura": "44",
+      "aya": "32",
+      "arabic_text": "وَلَقَدِ ٱخۡتَرۡنَٰهُمۡ عَلَىٰ عِلۡمٍ عَلَى ٱلۡعَٰلَمِينَ",
+      "translation": "Ni ukuri Twatoye Bene Israyeli Tubizi, mu kubatera iteka kurusha abandi bo mu gihe cabo;",
+      "footnotes": ""
+    },
+    {
+      "id": "4447",
+      "sura": "44",
+      "aya": "33",
+      "arabic_text": "وَءَاتَيۡنَٰهُم مِّنَ ٱلۡأٓيَٰتِ مَا فِيهِ بَلَٰٓؤٞاْ مُّبِينٌ",
+      "translation": "Maze Tubaha n’ibitangaro bazaniwe na Musa, birimwo igeragezwa rigaragara kuri bo.",
+      "footnotes": ""
+    },
+    {
+      "id": "4448",
+      "sura": "44",
+      "aya": "34",
+      "arabic_text": "إِنَّ هَٰٓؤُلَآءِ لَيَقُولُونَ",
+      "translation": "Ntumwa y’Imana! Mu vy’ukuri aba babangikanyamana mu bantu warungitsweko, ni ukuri bavuga bahakana izurwa ry’ibiremwa;",
+      "footnotes": ""
+    },
+    {
+      "id": "4449",
+      "sura": "44",
+      "aya": "35",
+      "arabic_text": "إِنۡ هِيَ إِلَّا مَوۡتَتُنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُنشَرِينَ",
+      "translation": "Bakavuga bati: “Umuntu apfa rimwe! Urupfu ni urwo nyene rwo kw’isi nta rundi; ntituzonazuka inyuma yo gupfa ngo duharurirwe ivyo twakoze, duheze tubihemberwe!”.",
+      "footnotes": ""
+    },
+    {
+      "id": "4450",
+      "sura": "44",
+      "aya": "36",
+      "arabic_text": "فَأۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ",
+      "translation": "Bakongera bati: “Ewe Muhamadi! Wewe n’abemeramana muri kumwe, enda nyabuna rero, nimugarure kw’isi ba data bapfuye kera, nimwaba koko muri imvugakuri ko abantu bazosubizwa ubuzima bakazuka!”.",
+      "footnotes": ""
+    },
+    {
+      "id": "4451",
+      "sura": "44",
+      "aya": "37",
+      "arabic_text": "أَهُمۡ خَيۡرٌ أَمۡ قَوۡمُ تُبَّعٖ وَٱلَّذِينَ مِن قَبۡلِهِمۡ أَهۡلَكۡنَٰهُمۡۚ إِنَّهُمۡ كَانُواْ مُجۡرِمِينَ",
+      "translation": "Abo babangikanyamana b’i Makka, ni bo bahawe ubutore mu nguvu n’inema gusumba abandi ku buryo Tutobahana! Canke ni abantu b’umwami Tubba’i[4] hamwe n’imigwi y’abagararije hambere y’abo! Abo bose rero hamwe n’ubutore mu nguvu n’inema Twabahaye, Twarabahanye ku bugarariji bwabo Turabahonya. Mu vy’ukuri, bari abanyavyaha barenga ku mabwirizwa y’Imana Allah.",
+      "footnotes": "[4] Tubba-i, ni umwami yigeze gutwara Yemeni, yakomoka mu bwoko bwa Al-Himyar."
+    },
+    {
+      "id": "4452",
+      "sura": "44",
+      "aya": "38",
+      "arabic_text": "وَمَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ",
+      "translation": "Ntitwaremye amajuru n’isi hamwe n’ibiri hagati yavyo mu ntumbero yo gufyinata;",
+      "footnotes": ""
+    },
+    {
+      "id": "4453",
+      "sura": "44",
+      "aya": "39",
+      "arabic_text": "مَا خَلَقۡنَٰهُمَآ إِلَّا بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+      "translation": "Ntitwabiremye, kiretse ko kwari ukugira mumenye ko hariho Imana Rurema Allah, muheze muyiyegereze mu vyo mukora vyose munayisenge ari Imwe Rudende mutayibangikanya. Ariko rero abenshi mu babangikanyamana, ntibazi intumbero y’Imana Allah mu kurema.",
+      "footnotes": ""
+    },
+    {
+      "id": "4454",
+      "sura": "44",
+      "aya": "40",
+      "arabic_text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ",
+      "translation": "Mu vy’ukuri umusi w’izuka, ari na wo musi wo gutunganiriza ibiremwa, ni ryo sango ntarengwa ryabo bose;",
+      "footnotes": ""
+    },
+    {
+      "id": "4455",
+      "sura": "44",
+      "aya": "41",
+      "arabic_text": "يَوۡمَ لَا يُغۡنِي مَوۡلًى عَن مَّوۡلٗى شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ",
+      "translation": "Umusi umugenzi ata na kimwe azomarira mugenziwe, eka mbere nta n’uwuzotabara uwundi;",
+      "footnotes": ""
+    },
+    {
+      "id": "4456",
+      "sura": "44",
+      "aya": "42",
+      "arabic_text": "إِلَّا مَن رَّحِمَ ٱللَّهُۚ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+      "translation": "Kiretse uwuzogirirwa impuhwe n’Imana Allah mu bemeramana, maze akagira uwo avugira kuri Yo, ku burenganzira bwayo. Mu vy’ukuri rero Imana Allah, ni Nyenintsinzi-Mutaneshwa, Nyenimbabazi ku batoni bayo.",
+      "footnotes": ""
+    },
+    {
+      "id": "4457",
+      "sura": "44",
+      "aya": "43",
+      "arabic_text": "إِنَّ شَجَرَتَ ٱلزَّقُّومِ",
+      "translation": "Mu vy’ukuri, igiti Al-Zaqquumu kinagira mu nyenga y’umuriro;",
+      "footnotes": ""
+    },
+    {
+      "id": "4458",
+      "sura": "44",
+      "aya": "44",
+      "arabic_text": "طَعَامُ ٱلۡأَثِيمِ",
+      "translation": "Ivyamwa vyaco birura, binuka utokwumva, ni zo mfungurwa z’umunyavyaha, na canecane uwubangikanya Imana Allah;",
+      "footnotes": ""
+    },
+    {
+      "id": "4459",
+      "sura": "44",
+      "aya": "45",
+      "arabic_text": "كَٱلۡمُهۡلِ يَغۡلِي فِي ٱلۡبُطُونِ",
+      "translation": "Uwuriye nya vyamwa, birabira mu nda; nka kurya kw’ubutare bwayongejwe ku muriro;",
+      "footnotes": ""
+    },
+    {
+      "id": "4460",
+      "sura": "44",
+      "aya": "46",
+      "arabic_text": "كَغَلۡيِ ٱلۡحَمِيمِ",
+      "translation": "Bugasebura nka kurya kw’amazi yabize akaryimara;",
+      "footnotes": ""
+    },
+    {
+      "id": "4461",
+      "sura": "44",
+      "aya": "47",
+      "arabic_text": "خُذُوهُ فَٱعۡتِلُوهُ إِلَىٰ سَوَآءِ ٱلۡجَحِيمِ",
+      "translation": "Abamalayika, ku musi w’izuka bazobwirwa bati: “Nimufate uyo munyavyaha, maze mumuterere mu nyenga y’umuriro ururumba;",
+      "footnotes": ""
+    },
+    {
+      "id": "4462",
+      "sura": "44",
+      "aya": "48",
+      "arabic_text": "ثُمَّ صُبُّواْ فَوۡقَ رَأۡسِهِۦ مِنۡ عَذَابِ ٱلۡحَمِيمِ",
+      "translation": "Hanyuma mumusuke ku mutwe amazi asebuye akaryimara, maze yumvirize ibihano vyayo”.",
+      "footnotes": ""
+    },
+    {
+      "id": "4463",
+      "sura": "44",
+      "aya": "49",
+      "arabic_text": "ذُقۡ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡكَرِيمُ",
+      "translation": "Maze abwirwe n’agashinyaguro n’akantu ati: “Honja rero ibihano. Mu vy’ukuri, kw’isi wari umunyacubahiro, umwubahwa mu bantu bawe.",
+      "footnotes": ""
+    },
+    {
+      "id": "4464",
+      "sura": "44",
+      "aya": "50",
+      "arabic_text": "إِنَّ هَٰذَا مَا كُنتُم بِهِۦ تَمۡتَرُونَ",
+      "translation": "Banyavyaha! Ni ukuri ibi bihano muhawe kuri uno musi, ni bimwe mwahora mugirako amakenga ko bibaho”.",
+      "footnotes": ""
+    },
+    {
+      "id": "4465",
+      "sura": "44",
+      "aya": "51",
+      "arabic_text": "إِنَّ ٱلۡمُتَّقِينَ فِي مَقَامٍ أَمِينٖ",
+      "translation": "Mu vy’ukuri, abagamburukiye Imana Allah mu kwubahiriza amabwirizwa yayo, bazoba bari mw’icumbi ritekanye ryubashwe;",
+      "footnotes": ""
+    },
+    {
+      "id": "4466",
+      "sura": "44",
+      "aya": "52",
+      "arabic_text": "فِي جَنَّٰتٖ وَعُيُونٖ",
+      "translation": "Mu mirima itotahaye, icamwo n’amazi atemba y’imbizi;",
+      "footnotes": ""
+    },
+    {
+      "id": "4467",
+      "sura": "44",
+      "aya": "53",
+      "arabic_text": "يَلۡبَسُونَ مِن سُندُسٖ وَإِسۡتَبۡرَقٖ مُّتَقَٰبِلِينَ",
+      "translation": "Bazoba bambaye impuzu zishonywe mw’iharire yoroshe n’iyiremereye, bicaye barabana amaso mu yandi;",
+      "footnotes": ""
+    },
+    {
+      "id": "4468",
+      "sura": "44",
+      "aya": "54",
+      "arabic_text": "كَذَٰلِكَ وَزَوَّجۡنَٰهُم بِحُورٍ عِينٖ",
+      "translation": "Ni nk’uko nyene rero Twebwe Allah - Twahaye abagamburukiramana Ubwami bw’ijuru Tukabambika n’impuzu z’iteka - Tuzobatera n’iteka ryo kubashingira abakenyezi bo mu Bwami bw’ijuru, barangwa n’ubwiza bw’akataraboneka (Hururayini);",
+      "footnotes": ""
+    },
+    {
+      "id": "4469",
+      "sura": "44",
+      "aya": "55",
+      "arabic_text": "يَدۡعُونَ فِيهَا بِكُلِّ فَٰكِهَةٍ ءَامِنِينَ",
+      "translation": "Muri Bwo, bazosaba guherezwa amoko yose y’ivyamwa bipfuza, batekaniwe ku kuba nya vyamwa bitigera bihundura;",
+      "footnotes": ""
+    },
+    {
+      "id": "4470",
+      "sura": "44",
+      "aya": "56",
+      "arabic_text": "لَا يَذُوقُونَ فِيهَا ٱلۡمَوۡتَ إِلَّا ٱلۡمَوۡتَةَ ٱلۡأُولَىٰۖ وَوَقَىٰهُمۡ عَذَابَ ٱلۡجَحِيمِ",
+      "translation": "Muri nya Bwami, ntibazoshikirwa n’urupfu ngo bapfe, kiretse urupfu rwa mbere bahonjeje bakiri kw’isi; Imana Allah, Izonabakingira ibihano vy’umuriro ururumba;",
+      "footnotes": ""
+    },
+    {
+      "id": "4471",
+      "sura": "44",
+      "aya": "57",
+      "arabic_text": "فَضۡلٗا مِّن رَّبِّكَۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+      "translation": "Ivyo bikazoba ku mpano no ku bugwaneza bw’Imana yawe Rurema Allah. Iyo rero, ni yo ntsinzi ihambaye.",
+      "footnotes": ""
+    },
+    {
+      "id": "4472",
+      "sura": "44",
+      "aya": "58",
+      "arabic_text": "فَإِنَّمَا يَسَّرۡنَٰهُ بِلِسَانِكَ لَعَلَّهُمۡ يَتَذَكَّرُونَ",
+      "translation": "Ntumwa y’Imana! Ni ukuri Twebwe Allah, Tworoheje Qor’ani, mu kuntu isomwa no mu nsiguro yayo mu rurimi rwawe, kugira bibuke baheze bikebuke;",
+      "footnotes": ""
+    },
+    {
+      "id": "4473",
+      "sura": "44",
+      "aya": "59",
+      "arabic_text": "فَٱرۡتَقِبۡ إِنَّهُم مُّرۡتَقِبُونَ",
+      "translation": "Rindira rero ineshwa canke ihanwa ry’ababangikanyamana Twagusezeraniye, na bo nyene mu vy’ukuri baguteze imisi ko uneshwa canke ugapfa.",
+      "footnotes": ""
+    }
+  ]
+}

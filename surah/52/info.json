@@ -1,0 +1,27 @@
+{
+  "number": 52,
+  "name": {
+    "ar": "الطور",
+    "en": "The Mount",
+    "transliteration": "At-Tur"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 76,
+  "bismillah_pre": true,
+  "verses_count": 49,
+  "words_count": 312,
+  "letters_count": 1293,
+  "pages": [
+    523,
+    525
+  ],
+  "name_simple": "At-Tur",
+  "name_complex": "Aţ-Ţūr",
+  "name_arabic": "الطور",
+  "translated_name": "The Mount",
+  "start_page": 523,
+  "end_page": 525
+}

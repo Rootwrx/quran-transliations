@@ -1,0 +1,27 @@
+{
+  "number": 66,
+  "name": {
+    "ar": "التحريم",
+    "en": "The Prohibition",
+    "transliteration": "At-Tahrim"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 107,
+  "bismillah_pre": true,
+  "verses_count": 12,
+  "words_count": 254,
+  "letters_count": 1067,
+  "pages": [
+    560,
+    561
+  ],
+  "name_simple": "At-Tahrim",
+  "name_complex": "At-Taĥrīm",
+  "name_arabic": "التحريم",
+  "translated_name": "The Prohibition",
+  "start_page": 560,
+  "end_page": 561
+}

@@ -1,0 +1,22 @@
+{
+  "translations": [
+    {
+      "key": "chinese_suliman",
+      "direction": "ltr",
+      "language_iso_code": "zh",
+      "version": "1.0.7",
+      "last_update": 1739956759,
+      "title": "Chinese Translation - Mohammed Suleiman",
+      "description": "Translation of the Qur’an meanings into Chinese, translated by Mohammed Makin, reviewed by Mohammed Suleiman with other specialists."
+    },
+    {
+      "key": "chinese_makin",
+      "direction": "ltr",
+      "language_iso_code": "zh",
+      "version": "1.0.2",
+      "last_update": 1662501318,
+      "title": "Chinese Translation - Muhammad Makin",
+      "description": "Translation of the Quran meanings into Chinese by Muhammad Makin. Corrected by supervision of Rowwad Translation Center. The original translation is available for suggestions, continuous evaluation and development."
+    }
+  ]
+}

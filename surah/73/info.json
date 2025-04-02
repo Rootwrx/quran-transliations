@@ -1,0 +1,27 @@
+{
+  "number": 73,
+  "name": {
+    "ar": "المزمل",
+    "en": "The Enshrouded One",
+    "transliteration": "Al-Muzzammil"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 3,
+  "bismillah_pre": true,
+  "verses_count": 20,
+  "words_count": 200,
+  "letters_count": 840,
+  "pages": [
+    574,
+    575
+  ],
+  "name_simple": "Al-Muzzammil",
+  "name_complex": "Al-Muzzammil",
+  "name_arabic": "المزمل",
+  "translated_name": "The Enshrouded One",
+  "start_page": 574,
+  "end_page": 575
+}

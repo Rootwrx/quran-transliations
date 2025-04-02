@@ -1,0 +1,60 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "sura": "1",
+      "aya": "1",
+      "arabic_text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "translation": "Im Namen Allahs, des Allerbarmers, des Barmherzigen.",
+      "footnotes": null
+    },
+    {
+      "id": "2",
+      "sura": "1",
+      "aya": "2",
+      "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+      "translation": "(Alles) Lob gehört Allah, dem Herrn der Welten,",
+      "footnotes": null
+    },
+    {
+      "id": "3",
+      "sura": "1",
+      "aya": "3",
+      "arabic_text": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "translation": "dem Allerbarmer, dem Barmherzigen,",
+      "footnotes": null
+    },
+    {
+      "id": "4",
+      "sura": "1",
+      "aya": "4",
+      "arabic_text": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+      "translation": "dem Herrscher am Tag des Gerichts.",
+      "footnotes": null
+    },
+    {
+      "id": "5",
+      "sura": "1",
+      "aya": "5",
+      "arabic_text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+      "translation": "Dir allein dienen wir, und zu Dir allein flehen wir um Hilfe.",
+      "footnotes": null
+    },
+    {
+      "id": "6",
+      "sura": "1",
+      "aya": "6",
+      "arabic_text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+      "translation": "Leite uns den geraden Weg,",
+      "footnotes": null
+    },
+    {
+      "id": "7",
+      "sura": "1",
+      "aya": "7",
+      "arabic_text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+      "translation": "den Weg derjenigen, denen Du Gunst erwiesen hast, nicht derjenigen, die (Deinen) Zorn erregt haben, und nicht der Irregehenden!",
+      "footnotes": null
+    }
+  ]
+}

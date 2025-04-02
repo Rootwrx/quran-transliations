@@ -1,0 +1,36 @@
+{
+  "result": [
+    {
+      "id": "6222",
+      "sura": "112",
+      "aya": "1",
+      "arabic_text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+      "translation": "Yeele: \"Yẽnda la Wẽnde, A yaa A Yembre.",
+      "footnotes": ""
+    },
+    {
+      "id": "6223",
+      "sura": "112",
+      "aya": "2",
+      "arabic_text": "ٱللَّهُ ٱلصَّمَدُ",
+      "translation": "Wẽnd la b tikda.",
+      "footnotes": ""
+    },
+    {
+      "id": "6224",
+      "sura": "112",
+      "aya": "3",
+      "arabic_text": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+      "translation": "A pa roge, b pa rog-A.",
+      "footnotes": ""
+    },
+    {
+      "id": "6225",
+      "sura": "112",
+      "aya": "4",
+      "arabic_text": "وَلَمۡ يَكُن لَّهُۥ كُفُوًا أَحَدُۢ",
+      "translation": "Mams-n-taag me ba a yembr ka ne-A ye\".",
+      "footnotes": ""
+    }
+  ]
+}

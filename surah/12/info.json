@@ -1,0 +1,27 @@
+{
+  "number": 12,
+  "name": {
+    "ar": "يوسف",
+    "en": "Joseph",
+    "transliteration": "Yusuf"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 53,
+  "bismillah_pre": true,
+  "verses_count": 111,
+  "words_count": 1795,
+  "letters_count": 7125,
+  "pages": [
+    235,
+    248
+  ],
+  "name_simple": "Yusuf",
+  "name_complex": "Yūsuf",
+  "name_arabic": "يوسف",
+  "translated_name": "Joseph",
+  "start_page": 235,
+  "end_page": 248
+}

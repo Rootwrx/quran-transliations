@@ -1,0 +1,66 @@
+[
+  {
+    "author_name": "Hafiz Ibn Kathir",
+    "id": 14,
+    "language_name": "arabic",
+    "name": "Tafsir Ibn Kathir",
+    "slug": "tafsir-ibn-kathir",
+    "source": "https://quran.com/"
+  },
+  {
+    "author_name": "Saddi",
+    "id": 91,
+    "language_name": "arabic",
+    "name": "Tafseer Al Saddi",
+    "slug": "tafseer-al-saddi",
+    "source": "https://quran.com/"
+  },
+  {
+    "author_name": "Baghawy",
+    "id": 94,
+    "language_name": "arabic",
+    "name": "Tafseer Al-Baghawi",
+    "slug": "tafsir-al-baghawi",
+    "source": "https://quran.com/"
+  },
+  {
+    "author_name": "Tanweer",
+    "id": 92,
+    "language_name": "arabic",
+    "name": "Tafseer Tanwir al-Miqbas",
+    "slug": "tafseer-tanwir-al-miqbas",
+    "source": "https://quran.com/"
+  },
+  {
+    "author_name": "Waseet",
+    "id": 93,
+    "language_name": "arabic",
+    "name": "Tafsir Al Wasit",
+    "slug": "tafsir-al-wasit",
+    "source": "https://quran.com/"
+  },
+  {
+    "author_name": "Tabari",
+    "id": 15,
+    "language_name": "arabic",
+    "name": "Tafsir al-Tabari",
+    "slug": "tafsir-al-tabari",
+    "source": "https://quran.com/"
+  },
+  {
+    "author_name": "المیسر",
+    "id": 16,
+    "language_name": "arabic",
+    "name": "Tafsir Muyassar",
+    "slug": "tafsir-muyassar",
+    "source": "https://quran.com/"
+  },
+  {
+    "author_name": "Qurtubi",
+    "id": 90,
+    "language_name": "arabic",
+    "name": "Tafseer Al Qurtubi",
+    "slug": "tafseer-al-qurtubi",
+    "source": "https://quran.com/"
+  }
+]

@@ -1,0 +1,31 @@
+{
+  "translations": [
+    {
+      "key": "english_rwwad",
+      "direction": "ltr",
+      "language_iso_code": "en",
+      "version": "1.0.15",
+      "last_update": 1711763763,
+      "title": "English Translation - Rowwad Translation Center",
+      "description": "Translation of the Quran meanings into Englsih by Rowwad Translation Center in cooperation with Islamhouse.com"
+    },
+    {
+      "key": "english_saheeh",
+      "direction": "ltr",
+      "language_iso_code": "en",
+      "version": "1.1.1",
+      "last_update": 1658318019,
+      "title": "English Translation - Saheeh International",
+      "description": "Translation of the Quran meanings into English - Saheeh International - Al-Muntada Al-Islami (Islamic Forum)"
+    },
+    {
+      "key": "english_hilali_khan",
+      "direction": "ltr",
+      "language_iso_code": "en",
+      "version": "1.1.1",
+      "last_update": 1736924273,
+      "title": "English Translation - Hilali and Khan",
+      "description": "Translation of the Quran meanings into English by Taqi-ud-Din Al-Hilali and Muhsen Khan"
+    }
+  ]
+}

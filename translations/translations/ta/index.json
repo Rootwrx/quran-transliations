@@ -1,0 +1,22 @@
+{
+  "translations": [
+    {
+      "key": "tamil_omar",
+      "direction": "ltr",
+      "language_iso_code": "ta",
+      "version": "1.0.2",
+      "last_update": 1670915064,
+      "title": "Tamil Translation - Omar Sharif",
+      "description": "Translation of the Quran meanings into Tamil by Sh. Omar Sharif ibn Abdusalam"
+    },
+    {
+      "key": "tamil_baqavi",
+      "direction": "ltr",
+      "language_iso_code": "ta",
+      "version": "1.0.1",
+      "last_update": 1609966800,
+      "title": "Tamil Translation - Abdulhamid Albaqoi",
+      "description": "Translation of the Quran meanings into Tamil by Sh. Abdulhamid Albaqoi"
+    }
+  ]
+}

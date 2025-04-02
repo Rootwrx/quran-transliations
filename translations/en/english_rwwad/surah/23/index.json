@@ -1,0 +1,948 @@
+{
+  "result": [
+    {
+      "id": "2674",
+      "sura": "23",
+      "aya": "1",
+      "arabic_text": "قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ",
+      "translation": "The believers have attained true success:",
+      "footnotes": ""
+    },
+    {
+      "id": "2675",
+      "sura": "23",
+      "aya": "2",
+      "arabic_text": "ٱلَّذِينَ هُمۡ فِي صَلَاتِهِمۡ خَٰشِعُونَ",
+      "translation": "those who humble themselves in their prayers,",
+      "footnotes": ""
+    },
+    {
+      "id": "2676",
+      "sura": "23",
+      "aya": "3",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ عَنِ ٱللَّغۡوِ مُعۡرِضُونَ",
+      "translation": "and those who turn away from all that is vain,",
+      "footnotes": ""
+    },
+    {
+      "id": "2677",
+      "sura": "23",
+      "aya": "4",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ لِلزَّكَوٰةِ فَٰعِلُونَ",
+      "translation": "and those who give zakah[1],",
+      "footnotes": "[1] Zakah (lit.,) purification and growth. Paying alms purifies and increases wealth."
+    },
+    {
+      "id": "2678",
+      "sura": "23",
+      "aya": "5",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حَٰفِظُونَ",
+      "translation": "and those who guard their sexual desires[2],",
+      "footnotes": "[2] i.e., illegal sexual acts."
+    },
+    {
+      "id": "2679",
+      "sura": "23",
+      "aya": "6",
+      "arabic_text": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ",
+      "translation": "except with their wives or slave women they may own, for then they are free of blame.",
+      "footnotes": ""
+    },
+    {
+      "id": "2680",
+      "sura": "23",
+      "aya": "7",
+      "arabic_text": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡعَادُونَ",
+      "translation": "But whoever seeks anything beyond that, it is they who are the transgressors.",
+      "footnotes": ""
+    },
+    {
+      "id": "2681",
+      "sura": "23",
+      "aya": "8",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ",
+      "translation": "And those who are faithful to their trusts and pledges,",
+      "footnotes": ""
+    },
+    {
+      "id": "2682",
+      "sura": "23",
+      "aya": "9",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَوَٰتِهِمۡ يُحَافِظُونَ",
+      "translation": "and those who properly observe their prayers.",
+      "footnotes": ""
+    },
+    {
+      "id": "2683",
+      "sura": "23",
+      "aya": "10",
+      "arabic_text": "أُوْلَٰٓئِكَ هُمُ ٱلۡوَٰرِثُونَ",
+      "translation": "Such will be the inheritors,",
+      "footnotes": ""
+    },
+    {
+      "id": "2684",
+      "sura": "23",
+      "aya": "11",
+      "arabic_text": "ٱلَّذِينَ يَرِثُونَ ٱلۡفِرۡدَوۡسَ هُمۡ فِيهَا خَٰلِدُونَ",
+      "translation": "who will inherit Paradise[3]; they will abide therein forever.",
+      "footnotes": "[3] Al-Firdaws: the highest rank in Paradise."
+    },
+    {
+      "id": "2685",
+      "sura": "23",
+      "aya": "12",
+      "arabic_text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ مِن سُلَٰلَةٖ مِّن طِينٖ",
+      "translation": "We created man[4] from an extract of clay,",
+      "footnotes": "[4] i.e., Adam (عليه السلام)."
+    },
+    {
+      "id": "2686",
+      "sura": "23",
+      "aya": "13",
+      "arabic_text": "ثُمَّ جَعَلۡنَٰهُ نُطۡفَةٗ فِي قَرَارٖ مَّكِينٖ",
+      "translation": "then We placed him as a sperm-drop[5] in a safe place,",
+      "footnotes": "[5] i.e., a zygote."
+    },
+    {
+      "id": "2687",
+      "sura": "23",
+      "aya": "14",
+      "arabic_text": "ثُمَّ خَلَقۡنَا ٱلنُّطۡفَةَ عَلَقَةٗ فَخَلَقۡنَا ٱلۡعَلَقَةَ مُضۡغَةٗ فَخَلَقۡنَا ٱلۡمُضۡغَةَ عِظَٰمٗا فَكَسَوۡنَا ٱلۡعِظَٰمَ لَحۡمٗا ثُمَّ أَنشَأۡنَٰهُ خَلۡقًا ءَاخَرَۚ فَتَبَارَكَ ٱللَّهُ أَحۡسَنُ ٱلۡخَٰلِقِينَ",
+      "translation": "then We made the sperm drop into a clinging clot, then We made the clinging clot into a lump, then We made the lump into bones, and We clothed the bones with flesh, and then We developed it into another creation[6]. So Blessed is Allah, the Best of Creators.",
+      "footnotes": "[6] After breathing the spirit into the embryo."
+    },
+    {
+      "id": "2688",
+      "sura": "23",
+      "aya": "15",
+      "arabic_text": "ثُمَّ إِنَّكُم بَعۡدَ ذَٰلِكَ لَمَيِّتُونَ",
+      "translation": "Then after that you will surely die,",
+      "footnotes": ""
+    },
+    {
+      "id": "2689",
+      "sura": "23",
+      "aya": "16",
+      "arabic_text": "ثُمَّ إِنَّكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ تُبۡعَثُونَ",
+      "translation": "then on the Day of Resurrection, you will surely be resurrected.",
+      "footnotes": ""
+    },
+    {
+      "id": "2690",
+      "sura": "23",
+      "aya": "17",
+      "arabic_text": "وَلَقَدۡ خَلَقۡنَا فَوۡقَكُمۡ سَبۡعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلۡخَلۡقِ غَٰفِلِينَ",
+      "translation": "We have created above you seven levels [of heaven], and We have never been unaware of Our creation.",
+      "footnotes": ""
+    },
+    {
+      "id": "2691",
+      "sura": "23",
+      "aya": "18",
+      "arabic_text": "وَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءَۢ بِقَدَرٖ فَأَسۡكَنَّٰهُ فِي ٱلۡأَرۡضِۖ وَإِنَّا عَلَىٰ ذَهَابِۭ بِهِۦ لَقَٰدِرُونَ",
+      "translation": "We send down water from the sky in due measure and cause it to stay in the earth, and We are surely able to take it away.",
+      "footnotes": ""
+    },
+    {
+      "id": "2692",
+      "sura": "23",
+      "aya": "19",
+      "arabic_text": "فَأَنشَأۡنَا لَكُم بِهِۦ جَنَّٰتٖ مِّن نَّخِيلٖ وَأَعۡنَٰبٖ لَّكُمۡ فِيهَا فَوَٰكِهُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ",
+      "translation": "With this [water] We produce for you gardens of palm trees and grapevines, in which there are many fruits from which you eat,",
+      "footnotes": ""
+    },
+    {
+      "id": "2693",
+      "sura": "23",
+      "aya": "20",
+      "arabic_text": "وَشَجَرَةٗ تَخۡرُجُ مِن طُورِ سَيۡنَآءَ تَنۢبُتُ بِٱلدُّهۡنِ وَصِبۡغٖ لِّلۡأٓكِلِينَ",
+      "translation": "and [olive] tree that grows at Mount Sinai, producing oil and condiments for those who eat.",
+      "footnotes": ""
+    },
+    {
+      "id": "2694",
+      "sura": "23",
+      "aya": "21",
+      "arabic_text": "وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهَا وَلَكُمۡ فِيهَا مَنَٰفِعُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ",
+      "translation": "And there is certainly a lesson for you in livestock animals. We provide you with a drink out of what they have in their bellies, and for you there are many benefits in them, and from their [meat] you eat,",
+      "footnotes": ""
+    },
+    {
+      "id": "2695",
+      "sura": "23",
+      "aya": "22",
+      "arabic_text": "وَعَلَيۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ",
+      "translation": "and on them and on boats you are carried.",
+      "footnotes": ""
+    },
+    {
+      "id": "2696",
+      "sura": "23",
+      "aya": "23",
+      "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ أَفَلَا تَتَّقُونَ",
+      "translation": "We sent Noah to his people. He said, “O my people, worship Allah; you have no god other than Him. Will you not then fear Him?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2697",
+      "sura": "23",
+      "aya": "24",
+      "arabic_text": "فَقَالَ ٱلۡمَلَؤُاْ ٱلَّذِينَ كَفَرُواْ مِن قَوۡمِهِۦ مَا هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡ يُرِيدُ أَن يَتَفَضَّلَ عَلَيۡكُمۡ وَلَوۡ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَٰٓئِكَةٗ مَّا سَمِعۡنَا بِهَٰذَا فِيٓ ءَابَآئِنَا ٱلۡأَوَّلِينَ",
+      "translation": "The disbelieving chiefs of his people said, “This is only a man like yourselves who wants to be superior to you. If Allah had willed, He could have sent down angels. We have not heard such a thing from our forefathers.",
+      "footnotes": ""
+    },
+    {
+      "id": "2698",
+      "sura": "23",
+      "aya": "25",
+      "arabic_text": "إِنۡ هُوَ إِلَّا رَجُلُۢ بِهِۦ جِنَّةٞ فَتَرَبَّصُواْ بِهِۦ حَتَّىٰ حِينٖ",
+      "translation": "He is just a madman, so bear with him for a while[7].”",
+      "footnotes": "[7] Perhaps he may recover from his insanity or his affair may become clear to people."
+    },
+    {
+      "id": "2699",
+      "sura": "23",
+      "aya": "26",
+      "arabic_text": "قَالَ رَبِّ ٱنصُرۡنِي بِمَا كَذَّبُونِ",
+      "translation": "Noah said, “My Lord, help me, for they have rejected me.”",
+      "footnotes": ""
+    },
+    {
+      "id": "2700",
+      "sura": "23",
+      "aya": "27",
+      "arabic_text": "فَأَوۡحَيۡنَآ إِلَيۡهِ أَنِ ٱصۡنَعِ ٱلۡفُلۡكَ بِأَعۡيُنِنَا وَوَحۡيِنَا فَإِذَا جَآءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ فَٱسۡلُكۡ فِيهَا مِن كُلّٖ زَوۡجَيۡنِ ٱثۡنَيۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ مِنۡهُمۡۖ وَلَا تُخَٰطِبۡنِي فِي ٱلَّذِينَ ظَلَمُوٓاْ إِنَّهُم مُّغۡرَقُونَ",
+      "translation": "So We inspired him [saying], “Make the Ark under Our Eyes and according to Our directions. Then when Our command comes and the oven bursts with water[8], take on board a pair of each species and your family, except those against whom the decree has already been passed. And do not plead with Me concerning those who have done wrong, for they will surely be drowned.”",
+      "footnotes": "[8] Or the fountains of the earth gush forth."
+    },
+    {
+      "id": "2701",
+      "sura": "23",
+      "aya": "28",
+      "arabic_text": "فَإِذَا ٱسۡتَوَيۡتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلۡفُلۡكِ فَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي نَجَّىٰنَا مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "translation": "Then when you and those who are with you have embarked on the Ark, say, “All praise is for Allah, Who saved us from the wrongdoing people.”",
+      "footnotes": ""
+    },
+    {
+      "id": "2702",
+      "sura": "23",
+      "aya": "29",
+      "arabic_text": "وَقُل رَّبِّ أَنزِلۡنِي مُنزَلٗا مُّبَارَكٗا وَأَنتَ خَيۡرُ ٱلۡمُنزِلِينَ",
+      "translation": "And say: “My Lord, make my landing a blessed landing, for You provide the best landing’”.",
+      "footnotes": ""
+    },
+    {
+      "id": "2703",
+      "sura": "23",
+      "aya": "30",
+      "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ وَإِن كُنَّا لَمُبۡتَلِينَ",
+      "translation": "Indeed, there are signs in this, and We always put people to the test.",
+      "footnotes": ""
+    },
+    {
+      "id": "2704",
+      "sura": "23",
+      "aya": "31",
+      "arabic_text": "ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قَرۡنًا ءَاخَرِينَ",
+      "translation": "Then We raised up after them another generation[9],",
+      "footnotes": "[9] i.e., the people of ‘Aad."
+    },
+    {
+      "id": "2705",
+      "sura": "23",
+      "aya": "32",
+      "arabic_text": "فَأَرۡسَلۡنَا فِيهِمۡ رَسُولٗا مِّنۡهُمۡ أَنِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ أَفَلَا تَتَّقُونَ",
+      "translation": "and We sent to them a messenger[10] from among themselves [saying], “Worship Allah; you have no god other than Him. Will you not then fear Him?”",
+      "footnotes": "[10] i.e., Prophet Hūd, who was sent to the people of ‘Aad."
+    },
+    {
+      "id": "2706",
+      "sura": "23",
+      "aya": "33",
+      "arabic_text": "وَقَالَ ٱلۡمَلَأُ مِن قَوۡمِهِ ٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ ٱلۡأٓخِرَةِ وَأَتۡرَفۡنَٰهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا مَا هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡ يَأۡكُلُ مِمَّا تَأۡكُلُونَ مِنۡهُ وَيَشۡرَبُ مِمَّا تَشۡرَبُونَ",
+      "translation": "But the chiefs of his people who disbelieved and denied the meeting of the Hereafter, and whom We had made affluent in the life of this world, said, “He is no more than a man like yourselves; he eats what you eat and drinks what you drink.",
+      "footnotes": ""
+    },
+    {
+      "id": "2707",
+      "sura": "23",
+      "aya": "34",
+      "arabic_text": "وَلَئِنۡ أَطَعۡتُم بَشَرٗا مِّثۡلَكُمۡ إِنَّكُمۡ إِذٗا لَّخَٰسِرُونَ",
+      "translation": "If you obey a man like yourselves, you will surely be losers.",
+      "footnotes": ""
+    },
+    {
+      "id": "2708",
+      "sura": "23",
+      "aya": "35",
+      "arabic_text": "أَيَعِدُكُمۡ أَنَّكُمۡ إِذَا مِتُّمۡ وَكُنتُمۡ تُرَابٗا وَعِظَٰمًا أَنَّكُم مُّخۡرَجُونَ",
+      "translation": "Does he promise you that when you have died and become dust and bones, you will be brought forth?",
+      "footnotes": ""
+    },
+    {
+      "id": "2709",
+      "sura": "23",
+      "aya": "36",
+      "arabic_text": "۞ هَيۡهَاتَ هَيۡهَاتَ لِمَا تُوعَدُونَ",
+      "translation": "Far-fetched, utterly far-fetched is what you are promised![11]",
+      "footnotes": "[11] i.e., How distant and improbable is the resurrection!"
+    },
+    {
+      "id": "2710",
+      "sura": "23",
+      "aya": "37",
+      "arabic_text": "إِنۡ هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا نَمُوتُ وَنَحۡيَا وَمَا نَحۡنُ بِمَبۡعُوثِينَ",
+      "translation": "There is nothing except our life in this world; we die, others are born, and none will be resurrected.",
+      "footnotes": ""
+    },
+    {
+      "id": "2711",
+      "sura": "23",
+      "aya": "38",
+      "arabic_text": "إِنۡ هُوَ إِلَّا رَجُلٌ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبٗا وَمَا نَحۡنُ لَهُۥ بِمُؤۡمِنِينَ",
+      "translation": "He is no more than a man who has fabricated lies about Allah, and we will never believe in him.”",
+      "footnotes": ""
+    },
+    {
+      "id": "2712",
+      "sura": "23",
+      "aya": "39",
+      "arabic_text": "قَالَ رَبِّ ٱنصُرۡنِي بِمَا كَذَّبُونِ",
+      "translation": "The messenger said, “My Lord, help me for they have rejected me.”",
+      "footnotes": ""
+    },
+    {
+      "id": "2713",
+      "sura": "23",
+      "aya": "40",
+      "arabic_text": "قَالَ عَمَّا قَلِيلٖ لَّيُصۡبِحُنَّ نَٰدِمِينَ",
+      "translation": "Allah said, “In a little while they will surely be regretful.”",
+      "footnotes": ""
+    },
+    {
+      "id": "2714",
+      "sura": "23",
+      "aya": "41",
+      "arabic_text": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ بِٱلۡحَقِّ فَجَعَلۡنَٰهُمۡ غُثَآءٗۚ فَبُعۡدٗا لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "translation": "So the huge blast[12] overtook them in all justice, and We swept them away like scum[13]. So away with the wrongdoing people!",
+      "footnotes": "[12] i.e., a piercing cry.\n [13] Ghutha’ literally means the froth thrown out by flood waters on the banks."
+    },
+    {
+      "id": "2715",
+      "sura": "23",
+      "aya": "42",
+      "arabic_text": "ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قُرُونًا ءَاخَرِينَ",
+      "translation": "Then We raised after them other generations.",
+      "footnotes": ""
+    },
+    {
+      "id": "2716",
+      "sura": "23",
+      "aya": "43",
+      "arabic_text": "مَا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ",
+      "translation": "No nation can bring its appointed time forward, nor can it delay it.",
+      "footnotes": ""
+    },
+    {
+      "id": "2717",
+      "sura": "23",
+      "aya": "44",
+      "arabic_text": "ثُمَّ أَرۡسَلۡنَا رُسُلَنَا تَتۡرَاۖ كُلَّ مَا جَآءَ أُمَّةٗ رَّسُولُهَا كَذَّبُوهُۖ فَأَتۡبَعۡنَا بَعۡضَهُم بَعۡضٗا وَجَعَلۡنَٰهُمۡ أَحَادِيثَۚ فَبُعۡدٗا لِّقَوۡمٖ لَّا يُؤۡمِنُونَ",
+      "translation": "Then We sent Our messengers in succession: every time a messenger came to his people, they rejected him. So We destroyed them, one after the others, and made them mere tales[14]. Away with the people who refuse to believe[15]!",
+      "footnotes": "[14] i.e., history or lessons for people.\n [15] i.e., those who refuse to believe in the messengers."
+    },
+    {
+      "id": "2718",
+      "sura": "23",
+      "aya": "45",
+      "arabic_text": "ثُمَّ أَرۡسَلۡنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلۡطَٰنٖ مُّبِينٍ",
+      "translation": "Then We sent Moses and his brother Aaron with Our signs[16] and compelling proof[17]",
+      "footnotes": "[16] Allah sent them both with nine clear signs or miracles: the staff turning into a snake, the bright hand, famine, shortage of crops, floods, locusts, lice, frogs, and blood.\n [17] i.e., compelling proof that they were Allah’s messengers."
+    },
+    {
+      "id": "2719",
+      "sura": "23",
+      "aya": "46",
+      "arabic_text": "إِلَىٰ فِرۡعَوۡنَ وَمَلَإِيْهِۦ فَٱسۡتَكۡبَرُواْ وَكَانُواْ قَوۡمًا عَالِينَ",
+      "translation": "to Pharaoh and his chiefs, but they showed arrogance and were haughty people.",
+      "footnotes": ""
+    },
+    {
+      "id": "2720",
+      "sura": "23",
+      "aya": "47",
+      "arabic_text": "فَقَالُوٓاْ أَنُؤۡمِنُ لِبَشَرَيۡنِ مِثۡلِنَا وَقَوۡمُهُمَا لَنَا عَٰبِدُونَ",
+      "translation": "They said, “Should we believe in two men like ourselves when their people are our slaves?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2721",
+      "sura": "23",
+      "aya": "48",
+      "arabic_text": "فَكَذَّبُوهُمَا فَكَانُواْ مِنَ ٱلۡمُهۡلَكِينَ",
+      "translation": "So they rejected them both and were among those who were destroyed.",
+      "footnotes": ""
+    },
+    {
+      "id": "2722",
+      "sura": "23",
+      "aya": "49",
+      "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ لَعَلَّهُمۡ يَهۡتَدُونَ",
+      "translation": "We gave Moses the Scripture so that they[18] might be guided.",
+      "footnotes": "[18] i.e., the Children of Israel."
+    },
+    {
+      "id": "2723",
+      "sura": "23",
+      "aya": "50",
+      "arabic_text": "وَجَعَلۡنَا ٱبۡنَ مَرۡيَمَ وَأُمَّهُۥٓ ءَايَةٗ وَءَاوَيۡنَٰهُمَآ إِلَىٰ رَبۡوَةٖ ذَاتِ قَرَارٖ وَمَعِينٖ",
+      "translation": "We made the son of Mary and his mother a sign[19] and sheltered them on a hillside – a place of rest and a flowing stream[20].",
+      "footnotes": "[19] The miraculous birth of Jesus is clear proof of Allah's Omnipotence that Mary gave birth to him without male interference.\n [20] Other Prophets were rejected for being human beings; whereas, people went to two extremes regarding Jesus: some considered him as divine, while some others went to the other extreme by accusing Mary of unchastity, although they were witnesses of the miraculous birth of Jesus and had heard him speak in the cradle."
+    },
+    {
+      "id": "2724",
+      "sura": "23",
+      "aya": "51",
+      "arabic_text": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُواْ مِنَ ٱلطَّيِّبَٰتِ وَٱعۡمَلُواْ صَٰلِحًاۖ إِنِّي بِمَا تَعۡمَلُونَ عَلِيمٞ",
+      "translation": "O messengers[21], eat from the lawful things[22] and act righteously, for I am All-Knowing of what you do.",
+      "footnotes": "[21] In this verse, all of the messengers have been addressed together, which indicates that they all belonged to the same community and their message was one. [22] They must be wholesome and earned in lawful ways."
+    },
+    {
+      "id": "2725",
+      "sura": "23",
+      "aya": "52",
+      "arabic_text": "وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱتَّقُونِ",
+      "translation": "Indeed, this religion of yours is one religion[23], and I am your Lord, so fear Me.",
+      "footnotes": "[23] i.e., the religion of Islam, which is submission to the will of Allah."
+    },
+    {
+      "id": "2726",
+      "sura": "23",
+      "aya": "53",
+      "arabic_text": "فَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡ زُبُرٗاۖ كُلُّ حِزۡبِۭ بِمَا لَدَيۡهِمۡ فَرِحُونَ",
+      "translation": "But people split up their religion into factions, each faction rejoicing in what it has[24].",
+      "footnotes": "[24] Of beliefs, opinions, and customs."
+    },
+    {
+      "id": "2727",
+      "sura": "23",
+      "aya": "54",
+      "arabic_text": "فَذَرۡهُمۡ فِي غَمۡرَتِهِمۡ حَتَّىٰ حِينٍ",
+      "translation": "So leave them in their heedlessness for a while.",
+      "footnotes": ""
+    },
+    {
+      "id": "2728",
+      "sura": "23",
+      "aya": "55",
+      "arabic_text": "أَيَحۡسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٖ وَبَنِينَ",
+      "translation": "Do they think that what We give them wealth and children,",
+      "footnotes": ""
+    },
+    {
+      "id": "2729",
+      "sura": "23",
+      "aya": "56",
+      "arabic_text": "نُسَارِعُ لَهُمۡ فِي ٱلۡخَيۡرَٰتِۚ بَل لَّا يَشۡعُرُونَ",
+      "translation": "that We hasten to them all that is good? No, but they do not perceive it[25].",
+      "footnotes": "[25] They do not perceive that the good things given to them in this world are but a trial for them to increase in sin and disobedience."
+    },
+    {
+      "id": "2730",
+      "sura": "23",
+      "aya": "57",
+      "arabic_text": "إِنَّ ٱلَّذِينَ هُم مِّنۡ خَشۡيَةِ رَبِّهِم مُّشۡفِقُونَ",
+      "translation": "Those who are in awe for fear of their Lord[26],",
+      "footnotes": "[26] In spite of their faith and righteousness, they are in awe of their Lord."
+    },
+    {
+      "id": "2731",
+      "sura": "23",
+      "aya": "58",
+      "arabic_text": "وَٱلَّذِينَ هُم بِـَٔايَٰتِ رَبِّهِمۡ يُؤۡمِنُونَ",
+      "translation": "and those who believe in the verses of their Lord,",
+      "footnotes": ""
+    },
+    {
+      "id": "2732",
+      "sura": "23",
+      "aya": "59",
+      "arabic_text": "وَٱلَّذِينَ هُم بِرَبِّهِمۡ لَا يُشۡرِكُونَ",
+      "translation": "and those who do not associate partners with their Lord,",
+      "footnotes": ""
+    },
+    {
+      "id": "2733",
+      "sura": "23",
+      "aya": "60",
+      "arabic_text": "وَٱلَّذِينَ يُؤۡتُونَ مَآ ءَاتَواْ وَّقُلُوبُهُمۡ وَجِلَةٌ أَنَّهُمۡ إِلَىٰ رَبِّهِمۡ رَٰجِعُونَ",
+      "translation": "and those who do whatever [good] they do with their hearts fearful[27], knowing that they will return to their Lord –",
+      "footnotes": "[27] That their deeds may not be acceptable."
+    },
+    {
+      "id": "2734",
+      "sura": "23",
+      "aya": "61",
+      "arabic_text": "أُوْلَٰٓئِكَ يُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِ وَهُمۡ لَهَا سَٰبِقُونَ",
+      "translation": "it is they who hasten to do good deeds, and they are foremost in them.",
+      "footnotes": ""
+    },
+    {
+      "id": "2735",
+      "sura": "23",
+      "aya": "62",
+      "arabic_text": "وَلَا نُكَلِّفُ نَفۡسًا إِلَّا وُسۡعَهَاۚ وَلَدَيۡنَا كِتَٰبٞ يَنطِقُ بِٱلۡحَقِّ وَهُمۡ لَا يُظۡلَمُونَ",
+      "translation": "We do not burden a soul more than what it can bear. We have a Record [of their deeds][28] that tells the truth, and none will be wronged[29].",
+      "footnotes": "[28] It records every word he utters and every act he does. [29] By wrongfully punishing someone or diminishing the reward of those who did good."
+    },
+    {
+      "id": "2736",
+      "sura": "23",
+      "aya": "63",
+      "arabic_text": "بَلۡ قُلُوبُهُمۡ فِي غَمۡرَةٖ مِّنۡ هَٰذَا وَلَهُمۡ أَعۡمَٰلٞ مِّن دُونِ ذَٰلِكَ هُمۡ لَهَا عَٰمِلُونَ",
+      "translation": "But their hearts are oblivious to this[30], and they have other [evil] deeds that they are doing.",
+      "footnotes": "[30] They are heedless of the fact that everything they say or do is recorded in a Record, or that they are heedless of the Qur’an."
+    },
+    {
+      "id": "2737",
+      "sura": "23",
+      "aya": "64",
+      "arabic_text": "حَتَّىٰٓ إِذَآ أَخَذۡنَا مُتۡرَفِيهِم بِٱلۡعَذَابِ إِذَا هُمۡ يَجۡـَٔرُونَ",
+      "translation": "But as soon as We seize their affluent ones with punishment[31], they start crying for help.",
+      "footnotes": "[31] On the Day of Judgment."
+    },
+    {
+      "id": "2738",
+      "sura": "23",
+      "aya": "65",
+      "arabic_text": "لَا تَجۡـَٔرُواْ ٱلۡيَوۡمَۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ",
+      "translation": "“Do not cry for help today, for you will receive no help from Us.",
+      "footnotes": ""
+    },
+    {
+      "id": "2739",
+      "sura": "23",
+      "aya": "66",
+      "arabic_text": "قَدۡ كَانَتۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡ تَنكِصُونَ",
+      "translation": "My verses were recited to you, but you used to turn back on your heels,",
+      "footnotes": ""
+    },
+    {
+      "id": "2740",
+      "sura": "23",
+      "aya": "67",
+      "arabic_text": "مُسۡتَكۡبِرِينَ بِهِۦ سَٰمِرٗا تَهۡجُرُونَ",
+      "translation": "feeling proud of this [Sacred House], spending night in evil talks [about the Qur’an].”",
+      "footnotes": ""
+    },
+    {
+      "id": "2741",
+      "sura": "23",
+      "aya": "68",
+      "arabic_text": "أَفَلَمۡ يَدَّبَّرُواْ ٱلۡقَوۡلَ أَمۡ جَآءَهُم مَّا لَمۡ يَأۡتِ ءَابَآءَهُمُ ٱلۡأَوَّلِينَ",
+      "translation": "Have they not pondered the Words [of Allah], or has there come to them what did not come to their forefathers?",
+      "footnotes": ""
+    },
+    {
+      "id": "2742",
+      "sura": "23",
+      "aya": "69",
+      "arabic_text": "أَمۡ لَمۡ يَعۡرِفُواْ رَسُولَهُمۡ فَهُمۡ لَهُۥ مُنكِرُونَ",
+      "translation": "Or is it that they do not recognize their Messenger, so they deny him?",
+      "footnotes": ""
+    },
+    {
+      "id": "2743",
+      "sura": "23",
+      "aya": "70",
+      "arabic_text": "أَمۡ يَقُولُونَ بِهِۦ جِنَّةُۢۚ بَلۡ جَآءَهُم بِٱلۡحَقِّ وَأَكۡثَرُهُمۡ لِلۡحَقِّ كَٰرِهُونَ",
+      "translation": "Or do they say, “There is madness in him?” Rather, he has come to them with the truth, but most of them are averse to the truth.",
+      "footnotes": ""
+    },
+    {
+      "id": "2744",
+      "sura": "23",
+      "aya": "71",
+      "arabic_text": "وَلَوِ ٱتَّبَعَ ٱلۡحَقُّ أَهۡوَآءَهُمۡ لَفَسَدَتِ ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ وَمَن فِيهِنَّۚ بَلۡ أَتَيۡنَٰهُم بِذِكۡرِهِمۡ فَهُمۡ عَن ذِكۡرِهِم مُّعۡرِضُونَ",
+      "translation": "Were the Truth to follow their desires, the heavens and earth, and all those who are therein would have been ruined. In fact, We have given them their Reminder, but they are averse to their Reminder.",
+      "footnotes": ""
+    },
+    {
+      "id": "2745",
+      "sura": "23",
+      "aya": "72",
+      "arabic_text": "أَمۡ تَسۡـَٔلُهُمۡ خَرۡجٗا فَخَرَاجُ رَبِّكَ خَيۡرٞۖ وَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ",
+      "translation": "Or do you ask them for some reward[32]? But the reward of your Lord is best[33], and He is the Best of Providers.",
+      "footnotes": "[32] Which did not actually happen.\n [33] This was another proof of the Prophet’s prophethood, for he was conveying the message without demanding any recompense for it; rather, he staked his peaceful life and relationships with his people for accomplishing his mission."
+    },
+    {
+      "id": "2746",
+      "sura": "23",
+      "aya": "73",
+      "arabic_text": "وَإِنَّكَ لَتَدۡعُوهُمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+      "translation": "Indeed, you are calling them to a straight path,",
+      "footnotes": ""
+    },
+    {
+      "id": "2747",
+      "sura": "23",
+      "aya": "74",
+      "arabic_text": "وَإِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ عَنِ ٱلصِّرَٰطِ لَنَٰكِبُونَ",
+      "translation": "but those who do not believe in the Hereafter are deviating from that path.",
+      "footnotes": ""
+    },
+    {
+      "id": "2748",
+      "sura": "23",
+      "aya": "75",
+      "arabic_text": "۞ وَلَوۡ رَحِمۡنَٰهُمۡ وَكَشَفۡنَا مَا بِهِم مِّن ضُرّٖ لَّلَجُّواْ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
+      "translation": "Even if We were to show them mercy and relieve their adversity[34], they would still persist in their transgression, wandering blindly.",
+      "footnotes": "[34] It refers to the famine which occurred in Makkah some time after the advent of prophethood."
+    },
+    {
+      "id": "2749",
+      "sura": "23",
+      "aya": "76",
+      "arabic_text": "وَلَقَدۡ أَخَذۡنَٰهُم بِٱلۡعَذَابِ فَمَا ٱسۡتَكَانُواْ لِرَبِّهِمۡ وَمَا يَتَضَرَّعُونَ",
+      "translation": "We have already seized them with punishment, but they did not humble themselves to their Lord, nor did they supplicate in humility,",
+      "footnotes": ""
+    },
+    {
+      "id": "2750",
+      "sura": "23",
+      "aya": "77",
+      "arabic_text": "حَتَّىٰٓ إِذَا فَتَحۡنَا عَلَيۡهِم بَابٗا ذَا عَذَابٖ شَدِيدٍ إِذَا هُمۡ فِيهِ مُبۡلِسُونَ",
+      "translation": "until when We open for them a gateway of severe punishment, they will be plunged into utter despair.",
+      "footnotes": ""
+    },
+    {
+      "id": "2751",
+      "sura": "23",
+      "aya": "78",
+      "arabic_text": "وَهُوَ ٱلَّذِيٓ أَنشَأَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۚ قَلِيلٗا مَّا تَشۡكُرُونَ",
+      "translation": "It is He Who gave you hearing, sight and hearts. How little you give thanks[35]!",
+      "footnotes": "[35] The disbelievers, instead of showing gratefulness for the blessings of eyes, ears, mind, and heart; show ingratitude to their Creator."
+    },
+    {
+      "id": "2752",
+      "sura": "23",
+      "aya": "79",
+      "arabic_text": "وَهُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ",
+      "translation": "And it is He Who spread you on earth, and to Him you will all be gathered.",
+      "footnotes": ""
+    },
+    {
+      "id": "2753",
+      "sura": "23",
+      "aya": "80",
+      "arabic_text": "وَهُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُ وَلَهُ ٱخۡتِلَٰفُ ٱلَّيۡلِ وَٱلنَّهَارِۚ أَفَلَا تَعۡقِلُونَ",
+      "translation": "It is He Who gives life and causes death, and to Him belongs the alternation of night and day[36]. Do you not understand?",
+      "footnotes": "[36] The One Who possesses all these powers is the only One worthy of worship without any partners with Him."
+    },
+    {
+      "id": "2754",
+      "sura": "23",
+      "aya": "81",
+      "arabic_text": "بَلۡ قَالُواْ مِثۡلَ مَا قَالَ ٱلۡأَوَّلُونَ",
+      "translation": "But[37] they say the like of what the earlier peoples said.",
+      "footnotes": "[37] Instead of using their understanding and reason."
+    },
+    {
+      "id": "2755",
+      "sura": "23",
+      "aya": "82",
+      "arabic_text": "قَالُوٓاْ أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "translation": "They say, “Is it that when we die and become dust and bones, will we really be resurrected[38]?",
+      "footnotes": "[38] The One Who created the earth and everything on it from nothing, it is easy for Him to re-create them once again."
+    },
+    {
+      "id": "2756",
+      "sura": "23",
+      "aya": "83",
+      "arabic_text": "لَقَدۡ وُعِدۡنَا نَحۡنُ وَءَابَآؤُنَا هَٰذَا مِن قَبۡلُ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+      "translation": "This is what we and our forefathers were promised before; this is nothing but ancient fables.”",
+      "footnotes": ""
+    },
+    {
+      "id": "2757",
+      "sura": "23",
+      "aya": "84",
+      "arabic_text": "قُل لِّمَنِ ٱلۡأَرۡضُ وَمَن فِيهَآ إِن كُنتُمۡ تَعۡلَمُونَ",
+      "translation": "Say, “To whom belong the earth and all those who are on it, if you really know?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2758",
+      "sura": "23",
+      "aya": "85",
+      "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَذَكَّرُونَ",
+      "translation": "They will say, “To Allah.” Say, “Will you not then take heed?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2759",
+      "sura": "23",
+      "aya": "86",
+      "arabic_text": "قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبۡعِ وَرَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ",
+      "translation": "Say, “Who is the Lord of the seven heavens and the Lord of the Mighty Throne?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2760",
+      "sura": "23",
+      "aya": "87",
+      "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَتَّقُونَ",
+      "translation": "They will say, “Allah.” Say, “Will you not then fear Him?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2761",
+      "sura": "23",
+      "aya": "88",
+      "arabic_text": "قُلۡ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيۡهِ إِن كُنتُمۡ تَعۡلَمُونَ",
+      "translation": "Say, “In Whose Hand is the dominion of all things – and He gives protection while none can protect against Him – if you really know?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2762",
+      "sura": "23",
+      "aya": "89",
+      "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ فَأَنَّىٰ تُسۡحَرُونَ",
+      "translation": "They will say, “Allah.” Say, “Then how can you be deluded?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2763",
+      "sura": "23",
+      "aya": "90",
+      "arabic_text": "بَلۡ أَتَيۡنَٰهُم بِٱلۡحَقِّ وَإِنَّهُمۡ لَكَٰذِبُونَ",
+      "translation": "In fact, We brought them the truth, but they are certainly liars[39].",
+      "footnotes": "[39] For claiming that Allah has partners and offspring, and that there is no life after death."
+    },
+    {
+      "id": "2764",
+      "sura": "23",
+      "aya": "91",
+      "arabic_text": "مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٖ وَمَا كَانَ مَعَهُۥ مِنۡ إِلَٰهٍۚ إِذٗا لَّذَهَبَ كُلُّ إِلَٰهِۭ بِمَا خَلَقَ وَلَعَلَا بَعۡضُهُمۡ عَلَىٰ بَعۡضٖۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "translation": "Allah has never begotten a son, nor is there any god besides Him. Otherwise, each god would have taken away what he had created, and each would have tried to gain supremacy over the other[40]. Glory be to Allah far above what they ascribe to Him!",
+      "footnotes": "[40] Then there would have been serious conflicts and wars among different sovereigns and gods."
+    },
+    {
+      "id": "2765",
+      "sura": "23",
+      "aya": "92",
+      "arabic_text": "عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
+      "translation": "Knower of the unseen and the seen. Exalted is He far above what they associate with Him!",
+      "footnotes": ""
+    },
+    {
+      "id": "2766",
+      "sura": "23",
+      "aya": "93",
+      "arabic_text": "قُل رَّبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ",
+      "translation": "Say, “My Lord, if You show me what they[41] are warned of,",
+      "footnotes": "[41] i.e., the pagans of Makkah."
+    },
+    {
+      "id": "2767",
+      "sura": "23",
+      "aya": "94",
+      "arabic_text": "رَبِّ فَلَا تَجۡعَلۡنِي فِي ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "translation": "my Lord, then do not include me among the wrongdoing people[42].”",
+      "footnotes": "[42] Allah’s punishment should be dreaded by all; when it comes, it does not only destroy the wicked but may also involve the righteous."
+    },
+    {
+      "id": "2768",
+      "sura": "23",
+      "aya": "95",
+      "arabic_text": "وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمۡ لَقَٰدِرُونَ",
+      "translation": "We are surely able to show you that of which We have warned them.",
+      "footnotes": ""
+    },
+    {
+      "id": "2769",
+      "sura": "23",
+      "aya": "96",
+      "arabic_text": "ٱدۡفَعۡ بِٱلَّتِي هِيَ أَحۡسَنُ ٱلسَّيِّئَةَۚ نَحۡنُ أَعۡلَمُ بِمَا يَصِفُونَ",
+      "translation": "Repel evil with what is best; We know well what they claim[43].",
+      "footnotes": "[43] That there are other gods besides Allah, and that the Prophet is a liar, a poet, etc."
+    },
+    {
+      "id": "2770",
+      "sura": "23",
+      "aya": "97",
+      "arabic_text": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنۡ هَمَزَٰتِ ٱلشَّيَٰطِينِ",
+      "translation": "And say, “My Lord, I seek refuge with You from the temptations of the devils.",
+      "footnotes": ""
+    },
+    {
+      "id": "2771",
+      "sura": "23",
+      "aya": "98",
+      "arabic_text": "وَأَعُوذُ بِكَ رَبِّ أَن يَحۡضُرُونِ",
+      "translation": "And I seek refuge with You, my Lord, that they even come near me.”",
+      "footnotes": ""
+    },
+    {
+      "id": "2772",
+      "sura": "23",
+      "aya": "99",
+      "arabic_text": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ رَبِّ ٱرۡجِعُونِ",
+      "translation": "Until when death comes to one of them, he says, “My Lord, send me back,",
+      "footnotes": ""
+    },
+    {
+      "id": "2773",
+      "sura": "23",
+      "aya": "100",
+      "arabic_text": "لَعَلِّيٓ أَعۡمَلُ صَٰلِحٗا فِيمَا تَرَكۡتُۚ كَلَّآۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَاۖ وَمِن وَرَآئِهِم بَرۡزَخٌ إِلَىٰ يَوۡمِ يُبۡعَثُونَ",
+      "translation": "so that I may do righteous deeds in what I left behind.” No, it is only a word he utters. And behind them is a barrier until the Day they are resurrected[44]",
+      "footnotes": "[44] i.e., Once they die, there will be no chance of returning to the world, and they shall remain in that state until the Day of Resurrection."
+    },
+    {
+      "id": "2774",
+      "sura": "23",
+      "aya": "101",
+      "arabic_text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ فَلَآ أَنسَابَ بَيۡنَهُمۡ يَوۡمَئِذٖ وَلَا يَتَسَآءَلُونَ",
+      "translation": "When the Trumpet is blown[45], there will be no kinship ties between them on that Day, nor will they ask about one another[46].",
+      "footnotes": "[45] When the Trumpet is blown on the Day of Resurrection by an angel, everyone on earth will die. Then it will be blown a second time, and all will raise for Judgment. See 39:68.\n [46] For everyone will be worried and anxious about his own plight."
+    },
+    {
+      "id": "2775",
+      "sura": "23",
+      "aya": "102",
+      "arabic_text": "فَمَن ثَقُلَتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "translation": "So those whose scales [of good deeds] are heavy, it is they who will be successful.",
+      "footnotes": ""
+    },
+    {
+      "id": "2776",
+      "sura": "23",
+      "aya": "103",
+      "arabic_text": "وَمَنۡ خَفَّتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فِي جَهَنَّمَ خَٰلِدُونَ",
+      "translation": "But those whose scales are light, they are the ones who have lost their souls, abiding in Hell forever.",
+      "footnotes": ""
+    },
+    {
+      "id": "2777",
+      "sura": "23",
+      "aya": "104",
+      "arabic_text": "تَلۡفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمۡ فِيهَا كَٰلِحُونَ",
+      "translation": "The Fire will scorch their faces, leaving them disfigured[47].",
+      "footnotes": "[47] Kālih means a face whose skin has been removed by scorching until the jaws are exposed."
+    },
+    {
+      "id": "2778",
+      "sura": "23",
+      "aya": "105",
+      "arabic_text": "أَلَمۡ تَكُنۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُم بِهَا تُكَذِّبُونَ",
+      "translation": "“Were not My verses recited to you, and you used to reject them?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2779",
+      "sura": "23",
+      "aya": "106",
+      "arabic_text": "قَالُواْ رَبَّنَا غَلَبَتۡ عَلَيۡنَا شِقۡوَتُنَا وَكُنَّا قَوۡمٗا ضَآلِّينَ",
+      "translation": "They will say, “Our Lord, our misfortune overwhelmed us, and we were a people who went astray.",
+      "footnotes": ""
+    },
+    {
+      "id": "2780",
+      "sura": "23",
+      "aya": "107",
+      "arabic_text": "رَبَّنَآ أَخۡرِجۡنَا مِنۡهَا فَإِنۡ عُدۡنَا فَإِنَّا ظَٰلِمُونَ",
+      "translation": "Our Lord, take us out of this; if we returned [to evil], we would certainly be wrongdoers.”",
+      "footnotes": ""
+    },
+    {
+      "id": "2781",
+      "sura": "23",
+      "aya": "108",
+      "arabic_text": "قَالَ ٱخۡسَـُٔواْ فِيهَا وَلَا تُكَلِّمُونِ",
+      "translation": "Allah will say, “Stay therein despised and do not speak to Me[48].",
+      "footnotes": "[48] i.e., Do not plead your case with Me."
+    },
+    {
+      "id": "2782",
+      "sura": "23",
+      "aya": "109",
+      "arabic_text": "إِنَّهُۥ كَانَ فَرِيقٞ مِّنۡ عِبَادِي يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَا وَأَنتَ خَيۡرُ ٱلرَّٰحِمِينَ",
+      "translation": "There was a group of My slaves who used to pray, ‘Our Lord, we believe, so forgive us and have mercy upon us, and You are the Most Merciful of those who show mercy.’",
+      "footnotes": ""
+    },
+    {
+      "id": "2783",
+      "sura": "23",
+      "aya": "110",
+      "arabic_text": "فَٱتَّخَذۡتُمُوهُمۡ سِخۡرِيًّا حَتَّىٰٓ أَنسَوۡكُمۡ ذِكۡرِي وَكُنتُم مِّنۡهُمۡ تَضۡحَكُونَ",
+      "translation": "But you took them in mockery until they made you forget My remembrance, and you used to laugh at them.",
+      "footnotes": ""
+    },
+    {
+      "id": "2784",
+      "sura": "23",
+      "aya": "111",
+      "arabic_text": "إِنِّي جَزَيۡتُهُمُ ٱلۡيَوۡمَ بِمَا صَبَرُوٓاْ أَنَّهُمۡ هُمُ ٱلۡفَآئِزُونَ",
+      "translation": "I have rewarded them Today for their patience; it is they who are the successful.”",
+      "footnotes": ""
+    },
+    {
+      "id": "2785",
+      "sura": "23",
+      "aya": "112",
+      "arabic_text": "قَٰلَ كَمۡ لَبِثۡتُمۡ فِي ٱلۡأَرۡضِ عَدَدَ سِنِينَ",
+      "translation": "He will say, “How many years did you stay on earth?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2786",
+      "sura": "23",
+      "aya": "113",
+      "arabic_text": "قَالُواْ لَبِثۡنَا يَوۡمًا أَوۡ بَعۡضَ يَوۡمٖ فَسۡـَٔلِ ٱلۡعَآدِّينَ",
+      "translation": "They will say, “We stayed for a day or part of a day; ask those who keep count.”[49]",
+      "footnotes": "[49] Compared to the duration and misery of their stay in Hell, their life in this world will seem extremely short to them."
+    },
+    {
+      "id": "2787",
+      "sura": "23",
+      "aya": "114",
+      "arabic_text": "قَٰلَ إِن لَّبِثۡتُمۡ إِلَّا قَلِيلٗاۖ لَّوۡ أَنَّكُمۡ كُنتُمۡ تَعۡلَمُونَ",
+      "translation": "Allah will say, “You only stayed for a while, if only you had known[50].",
+      "footnotes": "[50] That the life of this world was transitory and was a test, but you did not realize it."
+    },
+    {
+      "id": "2788",
+      "sura": "23",
+      "aya": "115",
+      "arabic_text": "أَفَحَسِبۡتُمۡ أَنَّمَا خَلَقۡنَٰكُمۡ عَبَثٗا وَأَنَّكُمۡ إِلَيۡنَا لَا تُرۡجَعُونَ",
+      "translation": "Did you think that We created you with no purpose and that you would not be brought back to Us?”",
+      "footnotes": ""
+    },
+    {
+      "id": "2789",
+      "sura": "23",
+      "aya": "116",
+      "arabic_text": "فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۖ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡكَرِيمِ",
+      "translation": "Exalted is Allah, the True Sovereign[51]! None has the right to be worshiped except Him, the Lord of the Honorable Throne.",
+      "footnotes": "[51] The One Who owns everything in existence."
+    },
+    {
+      "id": "2790",
+      "sura": "23",
+      "aya": "117",
+      "arabic_text": "وَمَن يَدۡعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ لَا بُرۡهَٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلۡكَٰفِرُونَ",
+      "translation": "Whoever invokes another god besides Allah, for which he has no proof, his reckoning will be with his Lord[52]. Indeed, the disbelievers will never succeed.",
+      "footnotes": "[52] i.e., he cannot escape His accountability."
+    },
+    {
+      "id": "2791",
+      "sura": "23",
+      "aya": "118",
+      "arabic_text": "وَقُل رَّبِّ ٱغۡفِرۡ وَٱرۡحَمۡ وَأَنتَ خَيۡرُ ٱلرَّٰحِمِينَ",
+      "translation": "Say, “My Lord, forgive and have mercy, and you are the Best of those who show mercy.”",
+      "footnotes": ""
+    }
+  ]
+}

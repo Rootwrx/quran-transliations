@@ -1,0 +1,27 @@
+{
+  "number": 63,
+  "name": {
+    "ar": "المنافقون",
+    "en": "The Hypocrites",
+    "transliteration": "Al-Munafiqun"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 104,
+  "bismillah_pre": true,
+  "verses_count": 11,
+  "words_count": 180,
+  "letters_count": 780,
+  "pages": [
+    554,
+    555
+  ],
+  "name_simple": "Al-Munafiqun",
+  "name_complex": "Al-Munāfiqūn",
+  "name_arabic": "المنافقون",
+  "translated_name": "The Hypocrites",
+  "start_page": 554,
+  "end_page": 555
+}

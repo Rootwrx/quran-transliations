@@ -1,0 +1,948 @@
+{
+  "result": [
+    {
+      "id": "2674",
+      "sura": "23",
+      "aya": "1",
+      "arabic_text": "قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ",
+      "translation": "Uspjeli su vjernici! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2675",
+      "sura": "23",
+      "aya": "2",
+      "arabic_text": "ٱلَّذِينَ هُمۡ فِي صَلَاتِهِمۡ خَٰشِعُونَ",
+      "translation": "oni koji su u svom namazu skrušeni,",
+      "footnotes": ""
+    },
+    {
+      "id": "2676",
+      "sura": "23",
+      "aya": "3",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ عَنِ ٱللَّغۡوِ مُعۡرِضُونَ",
+      "translation": "i koji se od besmislica okreću,",
+      "footnotes": ""
+    },
+    {
+      "id": "2677",
+      "sura": "23",
+      "aya": "4",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ لِلزَّكَوٰةِ فَٰعِلُونَ",
+      "translation": "i koji zekat - čišćenje izvršavaju, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2678",
+      "sura": "23",
+      "aya": "5",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ لِفُرُوجِهِمۡ حَٰفِظُونَ",
+      "translation": "i koji stidna mjesta svoja čuvaju, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2679",
+      "sura": "23",
+      "aya": "6",
+      "arabic_text": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ",
+      "translation": "osim od supruga svojih ili onih koje su u posjedu njihovu; oni, doista, neće biti prekoreni;",
+      "footnotes": ""
+    },
+    {
+      "id": "2680",
+      "sura": "23",
+      "aya": "7",
+      "arabic_text": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡعَادُونَ",
+      "translation": "a oni koji i pored toga nešto traže, to su baš oni koji prelaze granicu;",
+      "footnotes": ""
+    },
+    {
+      "id": "2681",
+      "sura": "23",
+      "aya": "8",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ",
+      "translation": "i koji na povjerene im amanete i obaveze svoje paze, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2682",
+      "sura": "23",
+      "aya": "9",
+      "arabic_text": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَوَٰتِهِمۡ يُحَافِظُونَ",
+      "translation": "i koji namaze svoje ustrajno čuvaju",
+      "footnotes": ""
+    },
+    {
+      "id": "2683",
+      "sura": "23",
+      "aya": "10",
+      "arabic_text": "أُوْلَٰٓئِكَ هُمُ ٱلۡوَٰرِثُونَ",
+      "translation": "oni su baš nasljednici,",
+      "footnotes": ""
+    },
+    {
+      "id": "2684",
+      "sura": "23",
+      "aya": "11",
+      "arabic_text": "ٱلَّذِينَ يَرِثُونَ ٱلۡفِرۡدَوۡسَ هُمۡ فِيهَا خَٰلِدُونَ",
+      "translation": "koji će Firdevs naslijediti, oni će u njemu vječno boraviti. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2685",
+      "sura": "23",
+      "aya": "12",
+      "arabic_text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ مِن سُلَٰلَةٖ مِّن طِينٖ",
+      "translation": "Mi smo, zaista, čovjeka od uzorka gline stvorili,",
+      "footnotes": ""
+    },
+    {
+      "id": "2686",
+      "sura": "23",
+      "aya": "13",
+      "arabic_text": "ثُمَّ جَعَلۡنَٰهُ نُطۡفَةٗ فِي قَرَارٖ مَّكِينٖ",
+      "translation": "zatim činimo da kao kap sjemena u stanište pripremljeno dospije,",
+      "footnotes": ""
+    },
+    {
+      "id": "2687",
+      "sura": "23",
+      "aya": "14",
+      "arabic_text": "ثُمَّ خَلَقۡنَا ٱلنُّطۡفَةَ عَلَقَةٗ فَخَلَقۡنَا ٱلۡعَلَقَةَ مُضۡغَةٗ فَخَلَقۡنَا ٱلۡمُضۡغَةَ عِظَٰمٗا فَكَسَوۡنَا ٱلۡعِظَٰمَ لَحۡمٗا ثُمَّ أَنشَأۡنَٰهُ خَلۡقًا ءَاخَرَۚ فَتَبَارَكَ ٱللَّهُ أَحۡسَنُ ٱلۡخَٰلِقِينَ",
+      "translation": "pa onda kap sjemena ugruškom stvorimo, zatim od ugruška zakvačak stvorimo, pa od zakvačka kosti stvorimo, a onda kosti mesom zaodjenemo, i poslije ga, kao drugo stvorenje, oformimo, pa neka je uzvišen Allah, Najbolji Stvoritelj! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2688",
+      "sura": "23",
+      "aya": "15",
+      "arabic_text": "ثُمَّ إِنَّكُم بَعۡدَ ذَٰلِكَ لَمَيِّتُونَ",
+      "translation": "Vi ćete, poslije toga, zaista, pomrijeti,",
+      "footnotes": ""
+    },
+    {
+      "id": "2689",
+      "sura": "23",
+      "aya": "16",
+      "arabic_text": "ثُمَّ إِنَّكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ تُبۡعَثُونَ",
+      "translation": "zatim ćete, na Kijametskom danu, oživljeni biti. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2690",
+      "sura": "23",
+      "aya": "17",
+      "arabic_text": "وَلَقَدۡ خَلَقۡنَا فَوۡقَكُمۡ سَبۡعَ طَرَآئِقَ وَمَا كُنَّا عَنِ ٱلۡخَلۡقِ غَٰفِلِينَ",
+      "translation": "Mi smo sedam slojeva nebeskih iznad vas stvorili, i Mi prema stvorenjima nismo nemarni.",
+      "footnotes": ""
+    },
+    {
+      "id": "2691",
+      "sura": "23",
+      "aya": "18",
+      "arabic_text": "وَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءَۢ بِقَدَرٖ فَأَسۡكَنَّٰهُ فِي ٱلۡأَرۡضِۖ وَإِنَّا عَلَىٰ ذَهَابِۭ بِهِۦ لَقَٰدِرُونَ",
+      "translation": "Mi s neba s mjerom vodu spuštamo, i u zemlji je zadržavamo - a kadri smo i da je odvedemo",
+      "footnotes": ""
+    },
+    {
+      "id": "2692",
+      "sura": "23",
+      "aya": "19",
+      "arabic_text": "فَأَنشَأۡنَا لَكُم بِهِۦ جَنَّٰتٖ مِّن نَّخِيلٖ وَأَعۡنَٰبٖ لَّكُمۡ فِيهَا فَوَٰكِهُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ",
+      "translation": "i pomoću nje bašče za vas podižemo od palmi i loze vinove - u njima mnogo voća imate, i vi ga jedete",
+      "footnotes": ""
+    },
+    {
+      "id": "2693",
+      "sura": "23",
+      "aya": "20",
+      "arabic_text": "وَشَجَرَةٗ تَخۡرُجُ مِن طُورِ سَيۡنَآءَ تَنۢبُتُ بِٱلدُّهۡنِ وَصِبۡغٖ لِّلۡأٓكِلِينَ",
+      "translation": "i drvo koje na Sinajskoj gori raste, koje zejtin daje, i začin je onima koji jedu. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2694",
+      "sura": "23",
+      "aya": "21",
+      "arabic_text": "وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهَا وَلَكُمۡ فِيهَا مَنَٰفِعُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ",
+      "translation": "I stoka vam je pouka: Mi vam dajemo da pijete ono što se nalazi u utrobama njezinim, i vi od nje mnogo koristi imate i vi se njome hranite,",
+      "footnotes": ""
+    },
+    {
+      "id": "2695",
+      "sura": "23",
+      "aya": "22",
+      "arabic_text": "وَعَلَيۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ",
+      "translation": "i na njima, i na lađama se vozite. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2696",
+      "sura": "23",
+      "aya": "23",
+      "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ أَفَلَا تَتَّقُونَ",
+      "translation": "Mi smo poslali Nuha narodu njegovu, i on je govorio: \"O narode moj, samo Allahu ibadet činite, vi drugog boga osim Njega nemate; zar se sačuvati nećete?!\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2697",
+      "sura": "23",
+      "aya": "24",
+      "arabic_text": "فَقَالَ ٱلۡمَلَؤُاْ ٱلَّذِينَ كَفَرُواْ مِن قَوۡمِهِۦ مَا هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡ يُرِيدُ أَن يَتَفَضَّلَ عَلَيۡكُمۡ وَلَوۡ شَآءَ ٱللَّهُ لَأَنزَلَ مَلَٰٓئِكَةٗ مَّا سَمِعۡنَا بِهَٰذَا فِيٓ ءَابَآئِنَا ٱلۡأَوَّلِينَ",
+      "translation": "Ali su glavešine naroda njegova, koje nisu vjerovale, govorile: \"Ovo je čovjek kao i vi, samo hoće da nad vama bude odlikovan. Da je Allah htio, meleke bi poslao; ovako nešto nismo čuli od naših predaka davnih, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2698",
+      "sura": "23",
+      "aya": "25",
+      "arabic_text": "إِنۡ هُوَ إِلَّا رَجُلُۢ بِهِۦ جِنَّةٞ فَتَرَبَّصُواْ بِهِۦ حَتَّىٰ حِينٖ",
+      "translation": "on nije ništa doli čovjek u ludilu, pa sačekajte s njim vrijeme neko!\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2699",
+      "sura": "23",
+      "aya": "26",
+      "arabic_text": "قَالَ رَبِّ ٱنصُرۡنِي بِمَا كَذَّبُونِ",
+      "translation": "\"Gospodaru moj\", reče on, \"pomozi mi, zato što me u laž utjeruju!\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "2700",
+      "sura": "23",
+      "aya": "27",
+      "arabic_text": "فَأَوۡحَيۡنَآ إِلَيۡهِ أَنِ ٱصۡنَعِ ٱلۡفُلۡكَ بِأَعۡيُنِنَا وَوَحۡيِنَا فَإِذَا جَآءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ فَٱسۡلُكۡ فِيهَا مِن كُلّٖ زَوۡجَيۡنِ ٱثۡنَيۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ مِنۡهُمۡۖ وَلَا تُخَٰطِبۡنِي فِي ٱلَّذِينَ ظَلَمُوٓاْ إِنَّهُم مُّغۡرَقُونَ",
+      "translation": "Pa mu Mi objavismo: \"Lađu pred očima Našim i po objavi Našoj pravi, pa kad zapovijed Naša dođe i voda na površinu zemlje izbije, ti u nju ukrcaj od svake vrste po dvoje - mužjaka i ženku, i porodicu svoju, ali ne i one od njih za koje je prethodila Riječ, i ne obraćaj Mi se za one koji su zulum učinili, jer će, doista, biti potopljeni. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2701",
+      "sura": "23",
+      "aya": "28",
+      "arabic_text": "فَإِذَا ٱسۡتَوَيۡتَ أَنتَ وَمَن مَّعَكَ عَلَى ٱلۡفُلۡكِ فَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي نَجَّىٰنَا مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "translation": "Pa kad se smjestiš u lađu, ti i oni koji su uz tebe, reci: 'Hvala Allahu, Koji nas je spasio naroda zulumćarskog!' ",
+      "footnotes": ""
+    },
+    {
+      "id": "2702",
+      "sura": "23",
+      "aya": "29",
+      "arabic_text": "وَقُل رَّبِّ أَنزِلۡنِي مُنزَلٗا مُّبَارَكٗا وَأَنتَ خَيۡرُ ٱلۡمُنزِلِينَ",
+      "translation": "i reci: 'Gospodaru moj, spusti me na blagoslovljeno mjesto, Ti si najbolji Nastanitelj!'\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2703",
+      "sura": "23",
+      "aya": "30",
+      "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ وَإِن كُنَّا لَمُبۡتَلِينَ",
+      "translation": "U tome su, zaista, znakovi, a Mi smo, doista, stavljali na kušnju",
+      "footnotes": ""
+    },
+    {
+      "id": "2704",
+      "sura": "23",
+      "aya": "31",
+      "arabic_text": "ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قَرۡنًا ءَاخَرِينَ",
+      "translation": "Poslije njih smo druge ljude stvorili ",
+      "footnotes": ""
+    },
+    {
+      "id": "2705",
+      "sura": "23",
+      "aya": "32",
+      "arabic_text": "فَأَرۡسَلۡنَا فِيهِمۡ رَسُولٗا مِّنۡهُمۡ أَنِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۚ أَفَلَا تَتَّقُونَ",
+      "translation": "i jednog između njih smo im kao poslanika poslali: \"Samo Allahu ibadet činite, vi drugog boga osim Njega nemate; zar se sačuvati nećete?!\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "2706",
+      "sura": "23",
+      "aya": "33",
+      "arabic_text": "وَقَالَ ٱلۡمَلَأُ مِن قَوۡمِهِ ٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ ٱلۡأٓخِرَةِ وَأَتۡرَفۡنَٰهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا مَا هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡ يَأۡكُلُ مِمَّا تَأۡكُلُونَ مِنۡهُ وَيَشۡرَبُ مِمَّا تَشۡرَبُونَ",
+      "translation": "Ali su glavešine naroda njegova, koje nisu vjerovale, koje su poricale da će na ahiretu biti oživljeni, i kojima smo dali da u životu na dunjaluku raskošno žive, govorile: \"On je čovjek kao i vi; jede ono što i vi jedete, i pije ono što i vi pijete; ",
+      "footnotes": ""
+    },
+    {
+      "id": "2707",
+      "sura": "23",
+      "aya": "34",
+      "arabic_text": "وَلَئِنۡ أَطَعۡتُم بَشَرٗا مِّثۡلَكُمۡ إِنَّكُمۡ إِذٗا لَّخَٰسِرُونَ",
+      "translation": "i ako se budete pokoravali čovjeku kao što ste vi, sigurno ćete biti gubitnici. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2708",
+      "sura": "23",
+      "aya": "35",
+      "arabic_text": "أَيَعِدُكُمۡ أَنَّكُمۡ إِذَا مِتُّمۡ وَكُنتُمۡ تُرَابٗا وَعِظَٰمًا أَنَّكُم مُّخۡرَجُونَ",
+      "translation": "Zar vama on da obećava da ćete, pošto pomrete i zemlja i kosti postanete, doista, oživljeni biti?! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2709",
+      "sura": "23",
+      "aya": "36",
+      "arabic_text": "۞ هَيۡهَاتَ هَيۡهَاتَ لِمَا تُوعَدُونَ",
+      "translation": "Daleko je, daleko ono što vam se obećava! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2710",
+      "sura": "23",
+      "aya": "37",
+      "arabic_text": "إِنۡ هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا نَمُوتُ وَنَحۡيَا وَمَا نَحۡنُ بِمَبۡعُوثِينَ",
+      "translation": "\"Postoji samo naš život dunjalučki, mi živimo i umiremo, a oživljeni nećemo biti.",
+      "footnotes": ""
+    },
+    {
+      "id": "2711",
+      "sura": "23",
+      "aya": "38",
+      "arabic_text": "إِنۡ هُوَ إِلَّا رَجُلٌ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبٗا وَمَا نَحۡنُ لَهُۥ بِمُؤۡمِنِينَ",
+      "translation": "On je čovjek koji o Allahu iznosi laži, i mi mu ne vjerujemo.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2712",
+      "sura": "23",
+      "aya": "39",
+      "arabic_text": "قَالَ رَبِّ ٱنصُرۡنِي بِمَا كَذَّبُونِ",
+      "translation": "\"Gospodaru moj\", zamolio je on, \"pomozi mi, oni me u laž utjeruju!\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2713",
+      "sura": "23",
+      "aya": "40",
+      "arabic_text": "قَالَ عَمَّا قَلِيلٖ لَّيُصۡبِحُنَّ نَٰدِمِينَ",
+      "translation": "\"Uskoro će se oni kajati!\", odgovorio je On,",
+      "footnotes": ""
+    },
+    {
+      "id": "2714",
+      "sura": "23",
+      "aya": "41",
+      "arabic_text": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ بِٱلۡحَقِّ فَجَعَلۡنَٰهُمۡ غُثَآءٗۚ فَبُعۡدٗا لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "translation": "i zasluženo ih je pogodio strašan glas, i Mi bismo ih kao što je nanos riječni učinili, pa daleko bio narod zulumćarski! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2715",
+      "sura": "23",
+      "aya": "42",
+      "arabic_text": "ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قُرُونًا ءَاخَرِينَ",
+      "translation": "A zatim smo, poslije njih, druga pokoljenja stvorili,",
+      "footnotes": ""
+    },
+    {
+      "id": "2716",
+      "sura": "23",
+      "aya": "43",
+      "arabic_text": "مَا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ",
+      "translation": "nijedan narod ne može ubrzati rok svoj određeni, a ne može ga ni odgoditi,",
+      "footnotes": ""
+    },
+    {
+      "id": "2717",
+      "sura": "23",
+      "aya": "44",
+      "arabic_text": "ثُمَّ أَرۡسَلۡنَا رُسُلَنَا تَتۡرَاۖ كُلَّ مَا جَآءَ أُمَّةٗ رَّسُولُهَا كَذَّبُوهُۖ فَأَتۡبَعۡنَا بَعۡضَهُم بَعۡضٗا وَجَعَلۡنَٰهُمۡ أَحَادِيثَۚ فَبُعۡدٗا لِّقَوۡمٖ لَّا يُؤۡمِنُونَ",
+      "translation": "i poslanike, jedne za drugim slali. Kad god bi jednom narodu došao njegov poslanik, u laž bi ga utjerivali, i Mi smo ih zato jedne drugima smjenjivali, i samo u pričama o njima spomen sačuvali; pa daleko bili ljudi koji ne vjeruju! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2718",
+      "sura": "23",
+      "aya": "45",
+      "arabic_text": "ثُمَّ أَرۡسَلۡنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلۡطَٰنٖ مُّبِينٍ",
+      "translation": "Poslije smo poslali Musaa i brata mu Haruna sa znakovima Našim i dokazom očiglednim ",
+      "footnotes": ""
+    },
+    {
+      "id": "2719",
+      "sura": "23",
+      "aya": "46",
+      "arabic_text": "إِلَىٰ فِرۡعَوۡنَ وَمَلَإِيْهِۦ فَٱسۡتَكۡبَرُواْ وَكَانُواْ قَوۡمًا عَالِينَ",
+      "translation": "faraonu i glavešinama njegovim, ali su se oni uzoholili, bili su to ljudi nadmeni.",
+      "footnotes": ""
+    },
+    {
+      "id": "2720",
+      "sura": "23",
+      "aya": "47",
+      "arabic_text": "فَقَالُوٓاْ أَنُؤۡمِنُ لِبَشَرَيۡنِ مِثۡلِنَا وَقَوۡمُهُمَا لَنَا عَٰبِدُونَ",
+      "translation": "\"Zar da povjerujemo dvojici ljudi koji su kao i mi, a narod njihov je roblje naše?\", govorili su, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2721",
+      "sura": "23",
+      "aya": "48",
+      "arabic_text": "فَكَذَّبُوهُمَا فَكَانُواْ مِنَ ٱلۡمُهۡلَكِينَ",
+      "translation": " i njih dvojicu su lažljivcima proglasili, pa su zato uništeni bili.",
+      "footnotes": ""
+    },
+    {
+      "id": "2722",
+      "sura": "23",
+      "aya": "49",
+      "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ لَعَلَّهُمۡ يَهۡتَدُونَ",
+      "translation": "Musau smo onda Knjigu dali da bi sinovi Israilovi Pravim putem išli.",
+      "footnotes": ""
+    },
+    {
+      "id": "2723",
+      "sura": "23",
+      "aya": "50",
+      "arabic_text": "وَجَعَلۡنَا ٱبۡنَ مَرۡيَمَ وَأُمَّهُۥٓ ءَايَةٗ وَءَاوَيۡنَٰهُمَآ إِلَىٰ رَبۡوَةٖ ذَاتِ قَرَارٖ وَمَعِينٖ",
+      "translation": "A sina Merjemina i majku njegovu smo znakom učinili i sklonili ih na jednu plodnu uzvišicu sa staništem i tekućom vodom.",
+      "footnotes": ""
+    },
+    {
+      "id": "2724",
+      "sura": "23",
+      "aya": "51",
+      "arabic_text": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُواْ مِنَ ٱلطَّيِّبَٰتِ وَٱعۡمَلُواْ صَٰلِحًاۖ إِنِّي بِمَا تَعۡمَلُونَ عَلِيمٞ",
+      "translation": "O poslanici, lijepim - dozvoljenim jelima se hranite i dobra djela činite; Ja, zaista, dobro znam šta vi radite! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2725",
+      "sura": "23",
+      "aya": "52",
+      "arabic_text": "وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱتَّقُونِ",
+      "translation": "Ova vaša vjera - jedna je vjera a Ja sam Gospodar vaš, pa Me se bojte!",
+      "footnotes": ""
+    },
+    {
+      "id": "2726",
+      "sura": "23",
+      "aya": "53",
+      "arabic_text": "فَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡ زُبُرٗاۖ كُلُّ حِزۡبِۭ بِمَا لَدَيۡهِمۡ فَرِحُونَ",
+      "translation": "A oni su se u pitanjima vjere svoje podijelili na skupine, svaka stranka s onim što imaju radosna.",
+      "footnotes": ""
+    },
+    {
+      "id": "2727",
+      "sura": "23",
+      "aya": "54",
+      "arabic_text": "فَذَرۡهُمۡ فِي غَمۡرَتِهِمۡ حَتَّىٰ حِينٍ",
+      "translation": "Pa, ostavi ih u zabludi njihovoj do vremena nekog! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2728",
+      "sura": "23",
+      "aya": "55",
+      "arabic_text": "أَيَحۡسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٖ وَبَنِينَ",
+      "translation": "Misle li oni - da je to što ih opskrbljujemo imetkom i sinovima ",
+      "footnotes": ""
+    },
+    {
+      "id": "2729",
+      "sura": "23",
+      "aya": "56",
+      "arabic_text": "نُسَارِعُ لَهُمۡ فِي ٱلۡخَيۡرَٰتِۚ بَل لَّا يَشۡعُرُونَ",
+      "translation": "zato što im s dobrima žurimo? Naprotiv, oni ne opažaju!",
+      "footnotes": ""
+    },
+    {
+      "id": "2730",
+      "sura": "23",
+      "aya": "57",
+      "arabic_text": "إِنَّ ٱلَّذِينَ هُم مِّنۡ خَشۡيَةِ رَبِّهِم مُّشۡفِقُونَ",
+      "translation": "Oni koji iz bojazni prema Gospodaru svome strahuju, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2731",
+      "sura": "23",
+      "aya": "58",
+      "arabic_text": "وَٱلَّذِينَ هُم بِـَٔايَٰتِ رَبِّهِمۡ يُؤۡمِنُونَ",
+      "translation": "i oni koji u ajete i znakove Gospodara svoga vjeruju, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2732",
+      "sura": "23",
+      "aya": "59",
+      "arabic_text": "وَٱلَّذِينَ هُم بِرَبِّهِمۡ لَا يُشۡرِكُونَ",
+      "translation": "i oni koji druge Gospodaru svome nikoga u obožavanju ne pridružuju, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2733",
+      "sura": "23",
+      "aya": "60",
+      "arabic_text": "وَٱلَّذِينَ يُؤۡتُونَ مَآ ءَاتَواْ وَّقُلُوبُهُمۡ وَجِلَةٌ أَنَّهُمۡ إِلَىٰ رَبِّهِمۡ رَٰجِعُونَ",
+      "translation": "i oni koji od onoga što im je dato udjeljuju, a srca su im puna straha, zato što će se vratiti svome Gospodaru ",
+      "footnotes": ""
+    },
+    {
+      "id": "2734",
+      "sura": "23",
+      "aya": "61",
+      "arabic_text": "أُوْلَٰٓئِكَ يُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِ وَهُمۡ لَهَا سَٰبِقُونَ",
+      "translation": "oni hitaju da čine dobra djela, i u njima druge pretiču!",
+      "footnotes": ""
+    },
+    {
+      "id": "2735",
+      "sura": "23",
+      "aya": "62",
+      "arabic_text": "وَلَا نُكَلِّفُ نَفۡسًا إِلَّا وُسۡعَهَاۚ وَلَدَيۡنَا كِتَٰبٞ يَنطِقُ بِٱلۡحَقِّ وَهُمۡ لَا يُظۡلَمُونَ",
+      "translation": "Mi nikoga ne zadužujemo preko njegovih mogućnosti; u Nas je Knjiga koja istinu govori, i njima zulum neće biti učinjen!",
+      "footnotes": ""
+    },
+    {
+      "id": "2736",
+      "sura": "23",
+      "aya": "63",
+      "arabic_text": "بَلۡ قُلُوبُهُمۡ فِي غَمۡرَةٖ مِّنۡ هَٰذَا وَلَهُمۡ أَعۡمَٰلٞ مِّن دُونِ ذَٰلِكَ هُمۡ لَهَا عَٰمِلُونَ",
+      "translation": "Ali, srca njihova su u nemaru prema ovom, a pored toga oni imaju djela koja će sigurno uraditi.",
+      "footnotes": ""
+    },
+    {
+      "id": "2737",
+      "sura": "23",
+      "aya": "64",
+      "arabic_text": "حَتَّىٰٓ إِذَآ أَخَذۡنَا مُتۡرَفِيهِم بِٱلۡعَذَابِ إِذَا هُمۡ يَجۡـَٔرُونَ",
+      "translation": "A kad smo patnjom dohvatili one među njima koji su raskošnim životom živjeli, oni su odmah zapomagali.",
+      "footnotes": ""
+    },
+    {
+      "id": "2738",
+      "sura": "23",
+      "aya": "65",
+      "arabic_text": "لَا تَجۡـَٔرُواْ ٱلۡيَوۡمَۖ إِنَّكُم مِّنَّا لَا تُنصَرُونَ",
+      "translation": "\"Sada ne zapomažite, Mi vam nećemo pomoć ukazati, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2739",
+      "sura": "23",
+      "aya": "66",
+      "arabic_text": "قَدۡ كَانَتۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡ تَنكِصُونَ",
+      "translation": "vama su ajeti Moji kazivani, ali ste vi natrag uzmicali;",
+      "footnotes": ""
+    },
+    {
+      "id": "2740",
+      "sura": "23",
+      "aya": "67",
+      "arabic_text": "مُسۡتَكۡبِرِينَ بِهِۦ سَٰمِرٗا تَهۡجُرُونَ",
+      "translation": "oholeći se, i sijeleći o njemu ste buncali.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2741",
+      "sura": "23",
+      "aya": "68",
+      "arabic_text": "أَفَلَمۡ يَدَّبَّرُواْ ٱلۡقَوۡلَ أَمۡ جَآءَهُم مَّا لَمۡ يَأۡتِ ءَابَآءَهُمُ ٱلۡأَوَّلِينَ",
+      "translation": "Zašto oni o Govoru ne promisle, ili im je došlo nešto što nije dolazilo njihovim precima davnim?!",
+      "footnotes": ""
+    },
+    {
+      "id": "2742",
+      "sura": "23",
+      "aya": "69",
+      "arabic_text": "أَمۡ لَمۡ يَعۡرِفُواْ رَسُولَهُمۡ فَهُمۡ لَهُۥ مُنكِرُونَ",
+      "translation": "Zar oni ne poznaju Poslanika svoga, pa ga zato poriču?! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2743",
+      "sura": "23",
+      "aya": "70",
+      "arabic_text": "أَمۡ يَقُولُونَ بِهِۦ جِنَّةُۢۚ بَلۡ جَآءَهُم بِٱلۡحَقِّ وَأَكۡثَرُهُمۡ لِلۡحَقِّ كَٰرِهُونَ",
+      "translation": "Zar govore: \"Lud je!\" Međutim, on im Istinu donosi, ali većina njih prezire Istinu. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2744",
+      "sura": "23",
+      "aya": "71",
+      "arabic_text": "وَلَوِ ٱتَّبَعَ ٱلۡحَقُّ أَهۡوَآءَهُمۡ لَفَسَدَتِ ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ وَمَن فِيهِنَّۚ بَلۡ أَتَيۡنَٰهُم بِذِكۡرِهِمۡ فَهُمۡ عَن ذِكۡرِهِم مُّعۡرِضُونَ",
+      "translation": "Da se Allah za hirovima njihovim povodi, sigurno bi nestalo poretka na nebesima i Zemlji i u onom što je na njima; Mi smo im dali Opomenu ali se oni od Opomene svoje okreću. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2745",
+      "sura": "23",
+      "aya": "72",
+      "arabic_text": "أَمۡ تَسۡـَٔلُهُمۡ خَرۡجٗا فَخَرَاجُ رَبِّكَ خَيۡرٞۖ وَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ",
+      "translation": "Ili možda od njih tražiš naknadu?! Pa, naknada Gospodara tvoga bolja je, On je najbolji Opskrbitelj. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2746",
+      "sura": "23",
+      "aya": "73",
+      "arabic_text": "وَإِنَّكَ لَتَدۡعُوهُمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+      "translation": "Ti ih, zaista, pozivaš na Pravi put, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2747",
+      "sura": "23",
+      "aya": "74",
+      "arabic_text": "وَإِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ عَنِ ٱلصِّرَٰطِ لَنَٰكِبُونَ",
+      "translation": "ali oni koji u ahiret neće da vjeruju s Pravog puta, doista, skreću.",
+      "footnotes": ""
+    },
+    {
+      "id": "2748",
+      "sura": "23",
+      "aya": "75",
+      "arabic_text": "۞ وَلَوۡ رَحِمۡنَٰهُمۡ وَكَشَفۡنَا مَا بِهِم مِّن ضُرّٖ لَّلَجُّواْ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
+      "translation": "I kad bismo im se smilovali i nevolju u kojoj se nalaze od njih otklonili, opet bi oni, sigurno, nastavili u osionosti svojoj lutati. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2749",
+      "sura": "23",
+      "aya": "76",
+      "arabic_text": "وَلَقَدۡ أَخَذۡنَٰهُم بِٱلۡعَذَابِ فَمَا ٱسۡتَكَانُواْ لِرَبِّهِمۡ وَمَا يَتَضَرَّعُونَ",
+      "translation": "Mi smo ih patnjom dohvatili, ali se oni Gospodaru nisu pokorili, niti su se usrdno molili.",
+      "footnotes": ""
+    },
+    {
+      "id": "2750",
+      "sura": "23",
+      "aya": "77",
+      "arabic_text": "حَتَّىٰٓ إِذَا فَتَحۡنَا عَلَيۡهِم بَابٗا ذَا عَذَابٖ شَدِيدٍ إِذَا هُمۡ فِيهِ مُبۡلِسُونَ",
+      "translation": "tek kad im kapiju teške patnje otvorimo oni će nadu izgubiti i u očajanje zapasti. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2751",
+      "sura": "23",
+      "aya": "78",
+      "arabic_text": "وَهُوَ ٱلَّذِيٓ أَنشَأَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَۚ قَلِيلٗا مَّا تَشۡكُرُونَ",
+      "translation": "On je Taj Koji vam stvori sluh, i vid, i pamet; a kako malo vi zahvaljujete! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2752",
+      "sura": "23",
+      "aya": "79",
+      "arabic_text": "وَهُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ",
+      "translation": "On je Taj Koji vas rasija po Zemlji, i k Njemu ćete biti sakupljeni,",
+      "footnotes": ""
+    },
+    {
+      "id": "2753",
+      "sura": "23",
+      "aya": "80",
+      "arabic_text": "وَهُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُ وَلَهُ ٱخۡتِلَٰفُ ٱلَّيۡلِ وَٱلنَّهَارِۚ أَفَلَا تَعۡقِلُونَ",
+      "translation": "On je Taj Koji oživljava i usmrćuje, i samo On noć i dan smjenjuje, pa zar ne razumijete?!",
+      "footnotes": ""
+    },
+    {
+      "id": "2754",
+      "sura": "23",
+      "aya": "81",
+      "arabic_text": "بَلۡ قَالُواْ مِثۡلَ مَا قَالَ ٱلۡأَوَّلُونَ",
+      "translation": "Ali, oni govore kao što su govorili oni prije njih.",
+      "footnotes": ""
+    },
+    {
+      "id": "2755",
+      "sura": "23",
+      "aya": "82",
+      "arabic_text": "قَالُوٓاْ أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "translation": "Govorili su: \"Zar kad pomremo i kad prah i kosti postanemo, zar ćemo, zaista, biti oživljeni? ",
+      "footnotes": ""
+    },
+    {
+      "id": "2756",
+      "sura": "23",
+      "aya": "83",
+      "arabic_text": "لَقَدۡ وُعِدۡنَا نَحۡنُ وَءَابَآؤُنَا هَٰذَا مِن قَبۡلُ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+      "translation": "I nama i, još davno, precima našim to je obećavano, ali, to su samo izmišljotine naroda drevnih.\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "2757",
+      "sura": "23",
+      "aya": "84",
+      "arabic_text": "قُل لِّمَنِ ٱلۡأَرۡضُ وَمَن فِيهَآ إِن كُنتُمۡ تَعۡلَمُونَ",
+      "translation": "Upitaj: \"Čija je Zemlja i sve ono što je na njoj, znate li?\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2758",
+      "sura": "23",
+      "aya": "85",
+      "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَذَكَّرُونَ",
+      "translation": "\"Allahova!\", odgovorit će, a ti reci: \"Pa zašto se onda ne prisjetite?\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2759",
+      "sura": "23",
+      "aya": "86",
+      "arabic_text": "قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبۡعِ وَرَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ",
+      "translation": "Upitaj: \"Ko je Gospodar sedam nebesa i ko je Gospodar Arša veličanstvenog?\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "2760",
+      "sura": "23",
+      "aya": "87",
+      "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَتَّقُونَ",
+      "translation": "\"Allah!\", odgovorit će, a ti reci: \"Pa zašto se onda ne čuvate?!\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2761",
+      "sura": "23",
+      "aya": "88",
+      "arabic_text": "قُلۡ مَنۢ بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَهُوَ يُجِيرُ وَلَا يُجَارُ عَلَيۡهِ إِن كُنتُمۡ تَعۡلَمُونَ",
+      "translation": "Upitaj: \"U čijoj je ruci vlast nad svim - a On uzima u zaštitu i od Njega niko ne može zaštićen biti - znate li?\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "2762",
+      "sura": "23",
+      "aya": "89",
+      "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ فَأَنَّىٰ تُسۡحَرُونَ",
+      "translation": "\"To je Allahovo!\", odgovorit će, a ti reci: \"Pa kako ste onda opčinjeni!?\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2763",
+      "sura": "23",
+      "aya": "90",
+      "arabic_text": "بَلۡ أَتَيۡنَٰهُم بِٱلۡحَقِّ وَإِنَّهُمۡ لَكَٰذِبُونَ",
+      "translation": "Štaviše, Mi im Istinu donosimo, a oni su, baš, lažljivci.",
+      "footnotes": ""
+    },
+    {
+      "id": "2764",
+      "sura": "23",
+      "aya": "91",
+      "arabic_text": "مَا ٱتَّخَذَ ٱللَّهُ مِن وَلَدٖ وَمَا كَانَ مَعَهُۥ مِنۡ إِلَٰهٍۚ إِذٗا لَّذَهَبَ كُلُّ إِلَٰهِۭ بِمَا خَلَقَ وَلَعَلَا بَعۡضُهُمۡ عَلَىٰ بَعۡضٖۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+      "translation": "Allah nije uzeo Sebi sina i uz Njega nema drugog boga! lnače,svaki bi bog, s onim što je stvorio - radio što bi htio, i jedan drugog bi nadvlađivao. Uzvišenje Allah od onoga čime Ga opisuju; ",
+      "footnotes": ""
+    },
+    {
+      "id": "2765",
+      "sura": "23",
+      "aya": "92",
+      "arabic_text": "عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
+      "translation": "Znalac i onog što je čulima nedokučivo i onog što je pojavno, pa neka je visoko iznad onih koje Mu pridružuju! ",
+      "footnotes": ""
+    },
+    {
+      "id": "2766",
+      "sura": "23",
+      "aya": "93",
+      "arabic_text": "قُل رَّبِّ إِمَّا تُرِيَنِّي مَا يُوعَدُونَ",
+      "translation": "Reci: \"Gospodaru moj, ako ćeš mi pokazati ono što im se prijeteći obećava, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2767",
+      "sura": "23",
+      "aya": "94",
+      "arabic_text": "رَبِّ فَلَا تَجۡعَلۡنِي فِي ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+      "translation": "onda, Gospodaru moj, ne učini da sam u narodu zulumćarskom.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2768",
+      "sura": "23",
+      "aya": "95",
+      "arabic_text": "وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمۡ لَقَٰدِرُونَ",
+      "translation": "A Mi, zaista, možemo da ti pokažemo ono što im prijeteći obećavamo. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2769",
+      "sura": "23",
+      "aya": "96",
+      "arabic_text": "ٱدۡفَعۡ بِٱلَّتِي هِيَ أَحۡسَنُ ٱلسَّيِّئَةَۚ نَحۡنُ أَعۡلَمُ بِمَا يَصِفُونَ",
+      "translation": "Ti lijepim na zlo uzvrati, Mi najbolje znamo čime Nas opisuju,",
+      "footnotes": ""
+    },
+    {
+      "id": "2770",
+      "sura": "23",
+      "aya": "97",
+      "arabic_text": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنۡ هَمَزَٰتِ ٱلشَّيَٰطِينِ",
+      "translation": "i reci: \"Gospodaru moj, utječem Ti se od nagovaranja šejtanskih, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2771",
+      "sura": "23",
+      "aya": "98",
+      "arabic_text": "وَأَعُوذُ بِكَ رَبِّ أَن يَحۡضُرُونِ",
+      "translation": "i Tebi se, Gospodaru moj, utječem od toga da su uz mene prisutni!\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2772",
+      "sura": "23",
+      "aya": "99",
+      "arabic_text": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ رَبِّ ٱرۡجِعُونِ",
+      "translation": "I tako, kad nekom od njih smrt dođe, on uzvikne: \"Gospodaru moj, vrati me",
+      "footnotes": ""
+    },
+    {
+      "id": "2773",
+      "sura": "23",
+      "aya": "100",
+      "arabic_text": "لَعَلِّيٓ أَعۡمَلُ صَٰلِحٗا فِيمَا تَرَكۡتُۚ كَلَّآۚ إِنَّهَا كَلِمَةٌ هُوَ قَآئِلُهَاۖ وَمِن وَرَآئِهِم بَرۡزَخٌ إِلَىٰ يَوۡمِ يُبۡعَثُونَ",
+      "translation": "da uradim kakvo dobro u onome što sam propustio!\" Nikako!\" To su, zaista, riječi koje će on neminovno reći'\" - pred njima će prepreka biti sve do Dana kada će oživljeni biti.",
+      "footnotes": ""
+    },
+    {
+      "id": "2774",
+      "sura": "23",
+      "aya": "101",
+      "arabic_text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ فَلَآ أَنسَابَ بَيۡنَهُمۡ يَوۡمَئِذٖ وَلَا يَتَسَآءَلُونَ",
+      "translation": "Pa kad u rog bude puhnuto, tada rodbinskih veza među njima neće biti i jedni druge neće ništa pitati.",
+      "footnotes": ""
+    },
+    {
+      "id": "2775",
+      "sura": "23",
+      "aya": "102",
+      "arabic_text": "فَمَن ثَقُلَتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+      "translation": "Oni čiji tas s dobrim djelima pretegne, oni će se spasiti, ",
+      "footnotes": ""
+    },
+    {
+      "id": "2776",
+      "sura": "23",
+      "aya": "103",
+      "arabic_text": "وَمَنۡ خَفَّتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فِي جَهَنَّمَ خَٰلِدُونَ",
+      "translation": "a oni čiji tas dobra bude lakši, oni će posve izgubljeni biti, u Džehennemu će vječno boraviti,",
+      "footnotes": ""
+    },
+    {
+      "id": "2777",
+      "sura": "23",
+      "aya": "104",
+      "arabic_text": "تَلۡفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمۡ فِيهَا كَٰلِحُونَ",
+      "translation": "Vatra će im lica pržiti i iskeženih zuba će u njemu biti.",
+      "footnotes": ""
+    },
+    {
+      "id": "2778",
+      "sura": "23",
+      "aya": "105",
+      "arabic_text": "أَلَمۡ تَكُنۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُم بِهَا تُكَذِّبُونَ",
+      "translation": "Zar vam ajeti Moji nisu kazivani, a vi ste ih poricali?!",
+      "footnotes": ""
+    },
+    {
+      "id": "2779",
+      "sura": "23",
+      "aya": "106",
+      "arabic_text": "قَالُواْ رَبَّنَا غَلَبَتۡ عَلَيۡنَا شِقۡوَتُنَا وَكُنَّا قَوۡمٗا ضَآلِّينَ",
+      "translation": "\"Gospodaru naš\", reći će, \"nesreća nas naša nadvladala i bijasmo narod zalutali. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2780",
+      "sura": "23",
+      "aya": "107",
+      "arabic_text": "رَبَّنَآ أَخۡرِجۡنَا مِنۡهَا فَإِنۡ عُدۡنَا فَإِنَّا ظَٰلِمُونَ",
+      "translation": "Gospodaru naš, izbavi nas iz nje; ako bismo ponovo zlo radili, bili bismo, zaista, zulumćari.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2781",
+      "sura": "23",
+      "aya": "108",
+      "arabic_text": "قَالَ ٱخۡسَـُٔواْ فِيهَا وَلَا تُكَلِّمُونِ",
+      "translation": "\"Ostanite u njoj prezreni i ništa Mi ne govorite!\", reći će On.",
+      "footnotes": ""
+    },
+    {
+      "id": "2782",
+      "sura": "23",
+      "aya": "109",
+      "arabic_text": "إِنَّهُۥ كَانَ فَرِيقٞ مِّنۡ عِبَادِي يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱغۡفِرۡ لَنَا وَٱرۡحَمۡنَا وَأَنتَ خَيۡرُ ٱلرَّٰحِمِينَ",
+      "translation": "Kad su neki robovi Moji govorili: \"Gospodaru naš, mi vjerujemo, zato nam oprosti i smiluj nam se, a Ti si Milosnik najbolji!\"",
+      "footnotes": ""
+    },
+    {
+      "id": "2783",
+      "sura": "23",
+      "aya": "110",
+      "arabic_text": "فَٱتَّخَذۡتُمُوهُمۡ سِخۡرِيًّا حَتَّىٰٓ أَنسَوۡكُمۡ ذِكۡرِي وَكُنتُم مِّنۡهُمۡ تَضۡحَكُونَ",
+      "translation": "vi ste im se toliko rugali da ste zbog toga na Mene zaboravljali i uvijek ste ih ismijavati. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2784",
+      "sura": "23",
+      "aya": "111",
+      "arabic_text": "إِنِّي جَزَيۡتُهُمُ ٱلۡيَوۡمَ بِمَا صَبَرُوٓاْ أَنَّهُمۡ هُمُ ٱلۡفَآئِزُونَ",
+      "translation": "Njih sam Ja danas nagradio za ono što su trpjeli, oni su, doista, uspjeli. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2785",
+      "sura": "23",
+      "aya": "112",
+      "arabic_text": "قَٰلَ كَمۡ لَبِثۡتُمۡ فِي ٱلۡأَرۡضِ عَدَدَ سِنِينَ",
+      "translation": "\"A koliko ste godina na Zemlji proveli?\", upitat će On. ",
+      "footnotes": ""
+    },
+    {
+      "id": "2786",
+      "sura": "23",
+      "aya": "113",
+      "arabic_text": "قَالُواْ لَبِثۡنَا يَوۡمًا أَوۡ بَعۡضَ يَوۡمٖ فَسۡـَٔلِ ٱلۡعَآدِّينَ",
+      "translation": "\"Proveli smo, dan ili samo dio dana\", odgovorit će, \"pitaj one koji su brojali.\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "2787",
+      "sura": "23",
+      "aya": "114",
+      "arabic_text": "قَٰلَ إِن لَّبِثۡتُمۡ إِلَّا قَلِيلٗاۖ لَّوۡ أَنَّكُمۡ كُنتُمۡ تَعۡلَمُونَ",
+      "translation": "\"Pa da, malo ste proveli\", reći će On, \"da ste samo znali!\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "2788",
+      "sura": "23",
+      "aya": "115",
+      "arabic_text": "أَفَحَسِبۡتُمۡ أَنَّمَا خَلَقۡنَٰكُمۡ عَبَثٗا وَأَنَّكُمۡ إِلَيۡنَا لَا تُرۡجَعُونَ",
+      "translation": "\"Zar ste mislili da smo vas uzalud stvorili i da Nam se nećete vratiti\" ",
+      "footnotes": ""
+    },
+    {
+      "id": "2789",
+      "sura": "23",
+      "aya": "116",
+      "arabic_text": "فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۖ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡكَرِيمِ",
+      "translation": "I neka je Uzvišen Allah, Vladar Istiniti, nema drugog boga osim Njega, Gospodara Arša divnoga!",
+      "footnotes": ""
+    },
+    {
+      "id": "2790",
+      "sura": "23",
+      "aya": "117",
+      "arabic_text": "وَمَن يَدۡعُ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ لَا بُرۡهَٰنَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِندَ رَبِّهِۦٓۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلۡكَٰفِرُونَ",
+      "translation": "A onaj koji se, pored Allaha, moli drugom bogu, bez ikakva dokaza o njemu, pred Gospodarom svojim račun će polagati, a nevjernici neće uspjeti.",
+      "footnotes": ""
+    },
+    {
+      "id": "2791",
+      "sura": "23",
+      "aya": "118",
+      "arabic_text": "وَقُل رَّبِّ ٱغۡفِرۡ وَٱرۡحَمۡ وَأَنتَ خَيۡرُ ٱلرَّٰحِمِينَ",
+      "translation": "I reci: \"Gospodaru moj, oprosti i smiluj se, Ti si Milosnik najbolji!\"",
+      "footnotes": ""
+    }
+  ]
+}

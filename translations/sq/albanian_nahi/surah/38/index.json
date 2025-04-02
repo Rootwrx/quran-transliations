@@ -1,0 +1,708 @@
+{
+  "result": [
+    {
+      "id": "3971",
+      "sura": "38",
+      "aya": "1",
+      "arabic_text": "صٓۚ وَٱلۡقُرۡءَانِ ذِي ٱلذِّكۡرِ",
+      "translation": "Sâd! Betohem në Kuranin plot këshilla,",
+      "footnotes": ""
+    },
+    {
+      "id": "3972",
+      "sura": "38",
+      "aya": "2",
+      "arabic_text": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي عِزَّةٖ وَشِقَاقٖ",
+      "translation": "(se ti Muhamed thua të vërtetën), por jobesimtarët janë mendjemëdhenj dhe kundërshtues.",
+      "footnotes": ""
+    },
+    {
+      "id": "3973",
+      "sura": "38",
+      "aya": "3",
+      "arabic_text": "كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنٖ فَنَادَواْ وَّلَاتَ حِينَ مَنَاصٖ",
+      "translation": "Sa e sa breza para tyre, Ne i kemi zhdukur; ata kanë thirrur për mëshirë, por ka qenë vonë!",
+      "footnotes": ""
+    },
+    {
+      "id": "3974",
+      "sura": "38",
+      "aya": "4",
+      "arabic_text": "وَعَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡۖ وَقَالَ ٱلۡكَٰفِرُونَ هَٰذَا سَٰحِرٞ كَذَّابٌ",
+      "translation": "Ata (mekasit) çuditen për ardhjen e një paralajmëruesi nga gjiri i tyre dhe jobesimtarët thonë: “Ky është magjistar dhe gënjeshtar.",
+      "footnotes": ""
+    },
+    {
+      "id": "3975",
+      "sura": "38",
+      "aya": "5",
+      "arabic_text": "أَجَعَلَ ٱلۡأٓلِهَةَ إِلَٰهٗا وَٰحِدًاۖ إِنَّ هَٰذَا لَشَيۡءٌ عُجَابٞ",
+      "translation": "A mos kërkon ai, që të gjithë zotat t’i bëjë një Zot të Vetëm? Vërtet që kjo është një gjë e çuditshme!”",
+      "footnotes": ""
+    },
+    {
+      "id": "3976",
+      "sura": "38",
+      "aya": "6",
+      "arabic_text": "وَٱنطَلَقَ ٱلۡمَلَأُ مِنۡهُمۡ أَنِ ٱمۡشُواْ وَٱصۡبِرُواْ عَلَىٰٓ ءَالِهَتِكُمۡۖ إِنَّ هَٰذَا لَشَيۡءٞ يُرَادُ",
+      "translation": "Paria e tyre largohet, duke thënë: “Mos ia vini veshin dhe qëndroni të durueshëm pranë zotave tuaj! Kjo është puna që duhet bërë vërtet.",
+      "footnotes": ""
+    },
+    {
+      "id": "3977",
+      "sura": "38",
+      "aya": "7",
+      "arabic_text": "مَا سَمِعۡنَا بِهَٰذَا فِي ٱلۡمِلَّةِ ٱلۡأٓخِرَةِ إِنۡ هَٰذَآ إِلَّا ٱخۡتِلَٰقٌ",
+      "translation": "Këtë (monoteizëm) nuk e kemi dëgjuar në fenë e fundit (fenë e krishterë). Ky është vetëm një trillim i gënjeshtërt.",
+      "footnotes": ""
+    },
+    {
+      "id": "3978",
+      "sura": "38",
+      "aya": "8",
+      "arabic_text": "أَءُنزِلَ عَلَيۡهِ ٱلذِّكۡرُ مِنۢ بَيۡنِنَاۚ بَلۡ هُمۡ فِي شَكّٖ مِّن ذِكۡرِيۚ بَل لَّمَّا يَذُوقُواْ عَذَابِ",
+      "translation": "Pse, vetëm atij i është shpallur Fjala e Allahut ndërmjet nesh?!” Po, ata dyshojnë në Këshillën Time, sepse ende nuk e kanë provuar dënimin Tim.",
+      "footnotes": ""
+    },
+    {
+      "id": "3979",
+      "sura": "38",
+      "aya": "9",
+      "arabic_text": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَحۡمَةِ رَبِّكَ ٱلۡعَزِيزِ ٱلۡوَهَّابِ",
+      "translation": "A mos vallë, ata kanë në dorë thesaret e mëshirës së Zotit tënd, të Plotfuqishmit, Dhuruesit?!",
+      "footnotes": ""
+    },
+    {
+      "id": "3980",
+      "sura": "38",
+      "aya": "10",
+      "arabic_text": "أَمۡ لَهُم مُّلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَاۖ فَلۡيَرۡتَقُواْ فِي ٱلۡأَسۡبَٰبِ",
+      "translation": "Apo i tyre është pushteti i qiejve, i Tokës dhe ç’ka midis tyre?! Atëherë le të ngjiten me litar (në qiell).",
+      "footnotes": ""
+    },
+    {
+      "id": "3981",
+      "sura": "38",
+      "aya": "11",
+      "arabic_text": "جُندٞ مَّا هُنَالِكَ مَهۡزُومٞ مِّنَ ٱلۡأَحۡزَابِ",
+      "translation": "Grupi i tyre (mekasve) është vetëm një prej ushtrive, të cilat do të shpartallohen.",
+      "footnotes": ""
+    },
+    {
+      "id": "3982",
+      "sura": "38",
+      "aya": "12",
+      "arabic_text": "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَعَادٞ وَفِرۡعَوۡنُ ذُو ٱلۡأَوۡتَادِ",
+      "translation": "Edhe para tyre ka përgënjeshtruar populli i Nuhut, fisi Ad dhe Faraoni - njeriu i hunjve (ku torturonte njerëzit),",
+      "footnotes": ""
+    },
+    {
+      "id": "3983",
+      "sura": "38",
+      "aya": "13",
+      "arabic_text": "وَثَمُودُ وَقَوۡمُ لُوطٖ وَأَصۡحَٰبُ لۡـَٔيۡكَةِۚ أُوْلَٰٓئِكَ ٱلۡأَحۡزَابُ",
+      "translation": "por edhe fisi Themud, edhe populli i Lutit, edhe banorët e Ejkës; ata ishin vërtet ushtri të fuqishme.",
+      "footnotes": ""
+    },
+    {
+      "id": "3984",
+      "sura": "38",
+      "aya": "14",
+      "arabic_text": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+      "translation": "Të gjithë ata i quajtën të dërguarit gënjeshtarë, andaj e merituan dënimin Tim.",
+      "footnotes": ""
+    },
+    {
+      "id": "3985",
+      "sura": "38",
+      "aya": "15",
+      "arabic_text": "وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ مَّا لَهَا مِن فَوَاقٖ",
+      "translation": "Kurse këta (mekasit) presin vetëm një britmë (fryrjen e parë të bririt) që nuk do të pushojë[278].",
+      "footnotes": "[278] Pra, nuk do të pushojë derisa të shuhet gjithçka që ndodhet në qiej dhe në Tokë, përveç atyre që do Allahu."
+    },
+    {
+      "id": "3986",
+      "sura": "38",
+      "aya": "16",
+      "arabic_text": "وَقَالُواْ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبۡلَ يَوۡمِ ٱلۡحِسَابِ",
+      "translation": "Ata thonë: “O Zoti ynë, shpejtona pjesën tonë (të dënimit) para Ditës së Llogarisë!”",
+      "footnotes": ""
+    },
+    {
+      "id": "3987",
+      "sura": "38",
+      "aya": "17",
+      "arabic_text": "ٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱذۡكُرۡ عَبۡدَنَا دَاوُۥدَ ذَا ٱلۡأَيۡدِۖ إِنَّهُۥٓ أَوَّابٌ",
+      "translation": "Ti duroje atë që thonë ata dhe kujtoje robin Tonë të fuqishëm, Davudin, që përherë i drejtohej Zotit.",
+      "footnotes": ""
+    },
+    {
+      "id": "3988",
+      "sura": "38",
+      "aya": "18",
+      "arabic_text": "إِنَّا سَخَّرۡنَا ٱلۡجِبَالَ مَعَهُۥ يُسَبِّحۡنَ بِٱلۡعَشِيِّ وَٱلۡإِشۡرَاقِ",
+      "translation": "Ne ia nënshtruam malet që, bashkë me të, t’i luteshin Allahut, në mbrëmje dhe në mëngjes,",
+      "footnotes": ""
+    },
+    {
+      "id": "3989",
+      "sura": "38",
+      "aya": "19",
+      "arabic_text": "وَٱلطَّيۡرَ مَحۡشُورَةٗۖ كُلّٞ لَّهُۥٓ أَوَّابٞ",
+      "translation": "edhe shpendët e tubuar. Të gjithë i drejtoheshin Atij.",
+      "footnotes": ""
+    },
+    {
+      "id": "3990",
+      "sura": "38",
+      "aya": "20",
+      "arabic_text": "وَشَدَدۡنَا مُلۡكَهُۥ وَءَاتَيۡنَٰهُ ٱلۡحِكۡمَةَ وَفَصۡلَ ٱلۡخِطَابِ",
+      "translation": "Ne ia forcuam mbretërinë dhe i dhamë mençuri e dijeni për të gjykuar.",
+      "footnotes": ""
+    },
+    {
+      "id": "3991",
+      "sura": "38",
+      "aya": "21",
+      "arabic_text": "۞ وَهَلۡ أَتَىٰكَ نَبَؤُاْ ٱلۡخَصۡمِ إِذۡ تَسَوَّرُواْ ٱلۡمِحۡرَابَ",
+      "translation": "A e ke dëgjuar historinë e dy kundërshtarëve, që hipën mbi murin e faltores së tij?",
+      "footnotes": ""
+    },
+    {
+      "id": "3992",
+      "sura": "38",
+      "aya": "22",
+      "arabic_text": "إِذۡ دَخَلُواْ عَلَىٰ دَاوُۥدَ فَفَزِعَ مِنۡهُمۡۖ قَالُواْ لَا تَخَفۡۖ خَصۡمَانِ بَغَىٰ بَعۡضُنَا عَلَىٰ بَعۡضٖ فَٱحۡكُم بَيۡنَنَا بِٱلۡحَقِّ وَلَا تُشۡطِطۡ وَٱهۡدِنَآ إِلَىٰ سَوَآءِ ٱلصِّرَٰطِ",
+      "translation": "Kur hynë te Davudi, ai u frikësua prej tyre. Ata thanë: “Mos u frikëso! Ne jemi dy kundërshtarë, një nga të cilët i ka bërë padrejtësi tjetrit, prandaj gjyko me drejtësi dhe mos u shmang (prej së vërtetës), por na udhëzo në rrugë të drejtë”.",
+      "footnotes": ""
+    },
+    {
+      "id": "3993",
+      "sura": "38",
+      "aya": "23",
+      "arabic_text": "إِنَّ هَٰذَآ أَخِي لَهُۥ تِسۡعٞ وَتِسۡعُونَ نَعۡجَةٗ وَلِيَ نَعۡجَةٞ وَٰحِدَةٞ فَقَالَ أَكۡفِلۡنِيهَا وَعَزَّنِي فِي ٱلۡخِطَابِ",
+      "translation": "(Njëri prej tyre tha:) “Ky është vëllai im. Ai ka nëntëdhjetë e nëntë dele, kurse unë kam vetëm një dele, andaj më tha: “Ma jep mua atë!” - dhe më mundi me fjalë.”",
+      "footnotes": ""
+    },
+    {
+      "id": "3994",
+      "sura": "38",
+      "aya": "24",
+      "arabic_text": "قَالَ لَقَدۡ ظَلَمَكَ بِسُؤَالِ نَعۡجَتِكَ إِلَىٰ نِعَاجِهِۦۖ وَإِنَّ كَثِيرٗا مِّنَ ٱلۡخُلَطَآءِ لَيَبۡغِي بَعۡضُهُمۡ عَلَىٰ بَعۡضٍ إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَقَلِيلٞ مَّا هُمۡۗ وَظَنَّ دَاوُۥدُ أَنَّمَا فَتَنَّٰهُ فَٱسۡتَغۡفَرَ رَبَّهُۥ وَخَرَّۤ رَاكِعٗاۤ وَأَنَابَ۩",
+      "translation": "Davudi tha: “Vërtet, ai të ka bërë padrejtësi që të ka kërkuar delen tënde të vetme, për ta bashkuar me delet e veta. Shumë bashkëpronarë i bëjnë padrejtësi njëri-tjetrit, përveç atyre që besojnë dhe bëjnë punë të mira, por ata janë pak”. Davudi e kuptoi, se në të vërtetë Ne e kishim vënë në provë atë, prandaj kërkoi falje nga Zoti i vet, ra në gjunjë dhe u përul, duke u penduar.",
+      "footnotes": ""
+    },
+    {
+      "id": "3995",
+      "sura": "38",
+      "aya": "25",
+      "arabic_text": "فَغَفَرۡنَا لَهُۥ ذَٰلِكَۖ وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَـَٔابٖ",
+      "translation": "Pastaj, Ne ia falëm këtë e ai te Ne do të jetë i afërt dhe do të ketë strehim të mirë (në jetën tjetër).",
+      "footnotes": ""
+    },
+    {
+      "id": "3996",
+      "sura": "38",
+      "aya": "26",
+      "arabic_text": "يَٰدَاوُۥدُ إِنَّا جَعَلۡنَٰكَ خَلِيفَةٗ فِي ٱلۡأَرۡضِ فَٱحۡكُم بَيۡنَ ٱلنَّاسِ بِٱلۡحَقِّ وَلَا تَتَّبِعِ ٱلۡهَوَىٰ فَيُضِلَّكَ عَن سَبِيلِ ٱللَّهِۚ إِنَّ ٱلَّذِينَ يَضِلُّونَ عَن سَبِيلِ ٱللَّهِ لَهُمۡ عَذَابٞ شَدِيدُۢ بِمَا نَسُواْ يَوۡمَ ٱلۡحِسَابِ",
+      "translation": "“O Davud, Ne të kemi bërë mëkëmbës në Tokë, prandaj gjyko ndërmjet njerëzve me drejtësi dhe mos shko pas dëshirave dhe tekave, se ato të largojnë nga rruga e Allahut! Me të vërtetë, për ata që largohen nga rruga e Allahut, ka dënim të ashpër, ngaqë e kanë harruar Ditën e Llogarisë.”",
+      "footnotes": ""
+    },
+    {
+      "id": "3997",
+      "sura": "38",
+      "aya": "27",
+      "arabic_text": "وَمَا خَلَقۡنَا ٱلسَّمَآءَ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا بَٰطِلٗاۚ ذَٰلِكَ ظَنُّ ٱلَّذِينَ كَفَرُواْۚ فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِنَ ٱلنَّارِ",
+      "translation": "Ne nuk e kemi krijuar kot qiellin, Tokën dhe çfarë ndodhet midis tyre. Kjo është hamendja e jobesimtarëve; prandaj mjerë jobesimtarët kur të hidhen në zjarr!",
+      "footnotes": ""
+    },
+    {
+      "id": "3998",
+      "sura": "38",
+      "aya": "28",
+      "arabic_text": "أَمۡ نَجۡعَلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ كَٱلۡمُفۡسِدِينَ فِي ٱلۡأَرۡضِ أَمۡ نَجۡعَلُ ٱلۡمُتَّقِينَ كَٱلۡفُجَّارِ",
+      "translation": "A t’i trajtojmë njëlloj ata që besojnë e bëjnë vepra të mira dhe turbulluesit në Tokë?! A t’i trajtojmë njëlloj njerëzit e devotshëm dhe njerëzit e mbrapshtë?!",
+      "footnotes": ""
+    },
+    {
+      "id": "3999",
+      "sura": "38",
+      "aya": "29",
+      "arabic_text": "كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ مُبَٰرَكٞ لِّيَدَّبَّرُوٓاْ ءَايَٰتِهِۦ وَلِيَتَذَكَّرَ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+      "translation": "Ky (Kuran) është një libër i bekuar, që Ne ta kemi zbritur ty (Muhamed), për të përsiatur mbi vargjet e tij dhe për t’u këshilluar me të mendarët.",
+      "footnotes": ""
+    },
+    {
+      "id": "4000",
+      "sura": "38",
+      "aya": "30",
+      "arabic_text": "وَوَهَبۡنَا لِدَاوُۥدَ سُلَيۡمَٰنَۚ نِعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٌ",
+      "translation": "Ne i falëm Davudit Sulejmanin, një rob të mrekullueshëm. Ai i drejtohej gjithnjë me pendesë Zotit!",
+      "footnotes": ""
+    },
+    {
+      "id": "4001",
+      "sura": "38",
+      "aya": "31",
+      "arabic_text": "إِذۡ عُرِضَ عَلَيۡهِ بِٱلۡعَشِيِّ ٱلصَّٰفِنَٰتُ ٱلۡجِيَادُ",
+      "translation": "Kur një pasdite iu paraqitën kuajt këmbëshpejtë,",
+      "footnotes": ""
+    },
+    {
+      "id": "4002",
+      "sura": "38",
+      "aya": "32",
+      "arabic_text": "فَقَالَ إِنِّيٓ أَحۡبَبۡتُ حُبَّ ٱلۡخَيۡرِ عَن ذِكۡرِ رَبِّي حَتَّىٰ تَوَارَتۡ بِٱلۡحِجَابِ",
+      "translation": "ai tha: “Unë shfaqa dashuri më të madhe për pasurinë (kuajt), sesa për lutjen ndaj Zotit tim, derisa dielli humbi mbas malit.",
+      "footnotes": ""
+    },
+    {
+      "id": "4003",
+      "sura": "38",
+      "aya": "33",
+      "arabic_text": "رُدُّوهَا عَلَيَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ",
+      "translation": "M’i ktheni ata (kuajt)” - e pastaj nisi t’i presë me shpatë këmbët dhe qafat e tyre.",
+      "footnotes": ""
+    },
+    {
+      "id": "4004",
+      "sura": "38",
+      "aya": "34",
+      "arabic_text": "وَلَقَدۡ فَتَنَّا سُلَيۡمَٰنَ وَأَلۡقَيۡنَا عَلَىٰ كُرۡسِيِّهِۦ جَسَدٗا ثُمَّ أَنَابَ",
+      "translation": "Ne e vumë në provë Sulejmanin dhe vendosëm në fronin e tij një trup, por ai iu drejtua Zotit",
+      "footnotes": ""
+    },
+    {
+      "id": "4005",
+      "sura": "38",
+      "aya": "35",
+      "arabic_text": "قَالَ رَبِّ ٱغۡفِرۡ لِي وَهَبۡ لِي مُلۡكٗا لَّا يَنۢبَغِي لِأَحَدٖ مِّنۢ بَعۡدِيٓۖ إِنَّكَ أَنتَ ٱلۡوَهَّابُ",
+      "translation": "dhe tha: “O Zoti im, më fal dhe më dhuro një pushtet që të mos e ketë askush pas meje! Me të vërtetë, Ti je Dhurues i madh!”",
+      "footnotes": ""
+    },
+    {
+      "id": "4006",
+      "sura": "38",
+      "aya": "36",
+      "arabic_text": "فَسَخَّرۡنَا لَهُ ٱلرِّيحَ تَجۡرِي بِأَمۡرِهِۦ رُخَآءً حَيۡثُ أَصَابَ",
+      "translation": "Pastaj, Ne ia nënshtruam atij erën që të frynte me urdhrin e tij, andej nga të donte ai.",
+      "footnotes": ""
+    },
+    {
+      "id": "4007",
+      "sura": "38",
+      "aya": "37",
+      "arabic_text": "وَٱلشَّيَٰطِينَ كُلَّ بَنَّآءٖ وَغَوَّاصٖ",
+      "translation": "(Gjithashtu ia nënshtruam) edhe djajtë, ndërmjet të cilëve kishte ndërtues dhe zhytës në ujë,",
+      "footnotes": ""
+    },
+    {
+      "id": "4008",
+      "sura": "38",
+      "aya": "38",
+      "arabic_text": "وَءَاخَرِينَ مُقَرَّنِينَ فِي ٱلۡأَصۡفَادِ",
+      "translation": "si dhe të tjerë të lidhur në pranga.",
+      "footnotes": ""
+    },
+    {
+      "id": "4009",
+      "sura": "38",
+      "aya": "39",
+      "arabic_text": "هَٰذَا عَطَآؤُنَا فَٱمۡنُنۡ أَوۡ أَمۡسِكۡ بِغَيۡرِ حِسَابٖ",
+      "translation": "(Ne i thamë): “Kjo është dhurata Jonë për ty, prandaj jep lirisht ose mos jep gjë prej saj, sepse nuk do të kesh kurrfarë llogarie për këtë!",
+      "footnotes": ""
+    },
+    {
+      "id": "4010",
+      "sura": "38",
+      "aya": "40",
+      "arabic_text": "وَإِنَّ لَهُۥ عِندَنَا لَزُلۡفَىٰ وَحُسۡنَ مَـَٔابٖ",
+      "translation": "Me të vërtetë, ai te Ne do të ketë vend të afërt dhe strehim të mirë (në jetën tjetër).",
+      "footnotes": ""
+    },
+    {
+      "id": "4011",
+      "sura": "38",
+      "aya": "41",
+      "arabic_text": "وَٱذۡكُرۡ عَبۡدَنَآ أَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلشَّيۡطَٰنُ بِنُصۡبٖ وَعَذَابٍ",
+      "translation": "Kujtoje robin Tonë Ejubin, kur iu lut Zotit të vet: “Me të vërtetë, më ka goditur djalli me mundim dhe vuajtje!”",
+      "footnotes": ""
+    },
+    {
+      "id": "4012",
+      "sura": "38",
+      "aya": "42",
+      "arabic_text": "ٱرۡكُضۡ بِرِجۡلِكَۖ هَٰذَا مُغۡتَسَلُۢ بَارِدٞ وَشَرَابٞ",
+      "translation": "(Ne iu përgjigjëm): “Bjeri me këmbë tokës dhe aty do të dalë një burim me ujë të ftohtë për larje dhe pirje!”",
+      "footnotes": ""
+    },
+    {
+      "id": "4013",
+      "sura": "38",
+      "aya": "43",
+      "arabic_text": "وَوَهَبۡنَا لَهُۥٓ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةٗ مِّنَّا وَذِكۡرَىٰ لِأُوْلِي ٱلۡأَلۡبَٰبِ",
+      "translation": "Ne ia kthyem atij familjen dhe dy herë më tepër, si mëshirë prej Nesh dhe këshillim për mendarët.",
+      "footnotes": ""
+    },
+    {
+      "id": "4014",
+      "sura": "38",
+      "aya": "44",
+      "arabic_text": "وَخُذۡ بِيَدِكَ ضِغۡثٗا فَٱضۡرِب بِّهِۦ وَلَا تَحۡنَثۡۗ إِنَّا وَجَدۡنَٰهُ صَابِرٗاۚ نِّعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٞ",
+      "translation": "(Ne i thamë atij): “Merr me dorën tënde një tufë thuprash e bjeri lehtë me to (gruas tënde) dhe mos e shkel betimin tënd![279]” Ne e gjetëm atë të durueshëm, rob të mrekullueshëm. Ai kthehej vazhdimisht me pendesë tek Zoti!",
+      "footnotes": "[279] Sipas komentuesve të Kuranit, gjatë kohës që ishte sëmurë, Ejubi (a.s.) u inatos me të shoqen për disa çështje dhe u betua që, nëse do ta shëronte Allahu, ai do ta godiste gruan njëqind herë me thupër. Pasi u shërua, Allahu e urdhëroi Ejubin ta përmbushte betimin, por duke e qëlluar gruan lehtë një herë të vetme me një tufë prej njëqind thuprash."
+    },
+    {
+      "id": "4015",
+      "sura": "38",
+      "aya": "45",
+      "arabic_text": "وَٱذۡكُرۡ عِبَٰدَنَآ إِبۡرَٰهِيمَ وَإِسۡحَٰقَ وَيَعۡقُوبَ أُوْلِي ٱلۡأَيۡدِي وَٱلۡأَبۡصَٰرِ",
+      "translation": "Kujto robërit Tanë: Ibrahimin, Is’hakun dhe Jakubin, të fortë (në besim) dhe largpamës.",
+      "footnotes": ""
+    },
+    {
+      "id": "4016",
+      "sura": "38",
+      "aya": "46",
+      "arabic_text": "إِنَّآ أَخۡلَصۡنَٰهُم بِخَالِصَةٖ ذِكۡرَى ٱلدَّارِ",
+      "translation": "Ne u dhuruam atyre një virtyt të veçantë, që ta kenë gjithmonë në mend botën e ardhshme.",
+      "footnotes": ""
+    },
+    {
+      "id": "4017",
+      "sura": "38",
+      "aya": "47",
+      "arabic_text": "وَإِنَّهُمۡ عِندَنَا لَمِنَ ٱلۡمُصۡطَفَيۡنَ ٱلۡأَخۡيَارِ",
+      "translation": "Njëmend, ata janë tek Ne, nga njerëzit më të mirë e më të zgjedhur.",
+      "footnotes": ""
+    },
+    {
+      "id": "4018",
+      "sura": "38",
+      "aya": "48",
+      "arabic_text": "وَٱذۡكُرۡ إِسۡمَٰعِيلَ وَٱلۡيَسَعَ وَذَا ٱلۡكِفۡلِۖ وَكُلّٞ مِّنَ ٱلۡأَخۡيَارِ",
+      "translation": "Kujtoje edhe Ismailin, Eljesain dhe Dhulkiflin. Të gjithë ata kanë qenë nga besimtarët e zgjedhur e të mirë.",
+      "footnotes": ""
+    },
+    {
+      "id": "4019",
+      "sura": "38",
+      "aya": "49",
+      "arabic_text": "هَٰذَا ذِكۡرٞۚ وَإِنَّ لِلۡمُتَّقِينَ لَحُسۡنَ مَـَٔابٖ",
+      "translation": "Ky është një përkujtim. Vërtet, për njerëzit që ruhen nga gjynahet, ka kthim të mirë (në botën tjetër):",
+      "footnotes": ""
+    },
+    {
+      "id": "4020",
+      "sura": "38",
+      "aya": "50",
+      "arabic_text": "جَنَّٰتِ عَدۡنٖ مُّفَتَّحَةٗ لَّهُمُ ٱلۡأَبۡوَٰبُ",
+      "translation": "në kopshtet e Adnit, dyert e të cilit janë të hapura për ta.",
+      "footnotes": ""
+    },
+    {
+      "id": "4021",
+      "sura": "38",
+      "aya": "51",
+      "arabic_text": "مُتَّكِـِٔينَ فِيهَا يَدۡعُونَ فِيهَا بِفَٰكِهَةٖ كَثِيرَةٖ وَشَرَابٖ",
+      "translation": "Aty do të prehen e do të kënaqen me pemë dhe pije të llojllojshme.",
+      "footnotes": ""
+    },
+    {
+      "id": "4022",
+      "sura": "38",
+      "aya": "52",
+      "arabic_text": "۞ وَعِندَهُمۡ قَٰصِرَٰتُ ٱلطَّرۡفِ أَتۡرَابٌ",
+      "translation": "Pranë tyre do të ketë hyri të dëlira e moshatare që nuk shikojnë anash.",
+      "footnotes": ""
+    },
+    {
+      "id": "4023",
+      "sura": "38",
+      "aya": "53",
+      "arabic_text": "هَٰذَا مَا تُوعَدُونَ لِيَوۡمِ ٱلۡحِسَابِ",
+      "translation": "Kjo ju është premtuar për Ditën e Llogarisë.",
+      "footnotes": ""
+    },
+    {
+      "id": "4024",
+      "sura": "38",
+      "aya": "54",
+      "arabic_text": "إِنَّ هَٰذَا لَرِزۡقُنَا مَا لَهُۥ مِن نَّفَادٍ",
+      "translation": "Këto janë, njëmend, begatitë Tona që nuk kanë të sosur!",
+      "footnotes": ""
+    },
+    {
+      "id": "4025",
+      "sura": "38",
+      "aya": "55",
+      "arabic_text": "هَٰذَاۚ وَإِنَّ لِلطَّٰغِينَ لَشَرَّ مَـَٔابٖ",
+      "translation": "Kjo është kështu (për besimtarët). Kurse për njerëzit e pabindur, do të ketë vërtet një kthim të keq",
+      "footnotes": ""
+    },
+    {
+      "id": "4026",
+      "sura": "38",
+      "aya": "56",
+      "arabic_text": "جَهَنَّمَ يَصۡلَوۡنَهَا فَبِئۡسَ ٱلۡمِهَادُ",
+      "translation": "në Xhehenem, ku do të digjen. Eh, sa vendqëndrim i shëmtuar që është ai!",
+      "footnotes": ""
+    },
+    {
+      "id": "4027",
+      "sura": "38",
+      "aya": "57",
+      "arabic_text": "هَٰذَا فَلۡيَذُوقُوهُ حَمِيمٞ وَغَسَّاقٞ",
+      "translation": "Kjo i pret ata! Le ta shijojnë ujin e valuar dhe të qelbët",
+      "footnotes": ""
+    },
+    {
+      "id": "4028",
+      "sura": "38",
+      "aya": "58",
+      "arabic_text": "وَءَاخَرُ مِن شَكۡلِهِۦٓ أَزۡوَٰجٌ",
+      "translation": "dhe të tjera mundime të llojllojshme, të ngjashme me to.",
+      "footnotes": ""
+    },
+    {
+      "id": "4029",
+      "sura": "38",
+      "aya": "59",
+      "arabic_text": "هَٰذَا فَوۡجٞ مُّقۡتَحِمٞ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ صَالُواْ ٱلنَّارِ",
+      "translation": "Ne do t’u themi prijësve të jobesimtarëve: “Ky është një grumbull bashkë me ju.[280] Nuk ka mirëseardhje për ta. Me siguri që ata do të digjen në zjarr!”",
+      "footnotes": "[280] Në fillim do të hidhen në Xhehenem prijësit e jobesimtarëve. Më pas, do të hidhen turmat që shkuan pas tyre në mosbesim dhe prijësve do t’u thuhet: “Ky është grumbull bashkë me ju”."
+    },
+    {
+      "id": "4030",
+      "sura": "38",
+      "aya": "60",
+      "arabic_text": "قَالُواْ بَلۡ أَنتُمۡ لَا مَرۡحَبَۢا بِكُمۡۖ أَنتُمۡ قَدَّمۡتُمُوهُ لَنَاۖ فَبِئۡسَ ٱلۡقَرَارُ",
+      "translation": "Pasuesit jobesimtarë do t’u thonë prijësve të tyre: “Ah, ju mos paçi çlirim e as qetësi! Ju na keni sjellë në këtë gjendje! Eh, sa strehim i keq është ky!”",
+      "footnotes": ""
+    },
+    {
+      "id": "4031",
+      "sura": "38",
+      "aya": "61",
+      "arabic_text": "قَالُواْ رَبَّنَا مَن قَدَّمَ لَنَا هَٰذَا فَزِدۡهُ عَذَابٗا ضِعۡفٗا فِي ٱلنَّارِ",
+      "translation": "Pastaj ata do të thonë: “O Zoti ynë! Atyre që na e përgatitën këtë neve, dyfishojua dënimin në Zjarr!”",
+      "footnotes": ""
+    },
+    {
+      "id": "4032",
+      "sura": "38",
+      "aya": "62",
+      "arabic_text": "وَقَالُواْ مَا لَنَا لَا نَرَىٰ رِجَالٗا كُنَّا نَعُدُّهُم مِّنَ ٱلۡأَشۡرَارِ",
+      "translation": "Do të thonë: “Pse nuk po i shohim njerëzit, që ne i quanim të këqij,",
+      "footnotes": ""
+    },
+    {
+      "id": "4033",
+      "sura": "38",
+      "aya": "63",
+      "arabic_text": "أَتَّخَذۡنَٰهُمۡ سِخۡرِيًّا أَمۡ زَاغَتۡ عَنۡهُمُ ٱلۡأَبۡصَٰرُ",
+      "translation": "dhe i përqeshnim apo na kanë humbur sysh?”",
+      "footnotes": ""
+    },
+    {
+      "id": "4034",
+      "sura": "38",
+      "aya": "64",
+      "arabic_text": "إِنَّ ذَٰلِكَ لَحَقّٞ تَخَاصُمُ أَهۡلِ ٱلنَّارِ",
+      "translation": "Kjo do të ndodhë vërtet. Banorët e zjarrit (të Xhehenemit) do të grinden ndërmjet tyre.",
+      "footnotes": ""
+    },
+    {
+      "id": "4035",
+      "sura": "38",
+      "aya": "65",
+      "arabic_text": "قُلۡ إِنَّمَآ أَنَا۠ مُنذِرٞۖ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلۡوَٰحِدُ ٱلۡقَهَّارُ",
+      "translation": "Thuaj (o Muhamed): “Në të vërtetë, unë jam vetëm paralajmërues. Nuk ka zot tjetër të vërtetë përveç Allahut, të Vetmit, Ngadhënjimtarit,",
+      "footnotes": ""
+    },
+    {
+      "id": "4036",
+      "sura": "38",
+      "aya": "66",
+      "arabic_text": "رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَا ٱلۡعَزِيزُ ٱلۡغَفَّٰرُ",
+      "translation": "Zotit të qiejve e të Tokës dhe të gjithçkaje që gjendet midis tyre, të Plotfuqishmit, Falësit të Madh”.",
+      "footnotes": ""
+    },
+    {
+      "id": "4037",
+      "sura": "38",
+      "aya": "67",
+      "arabic_text": "قُلۡ هُوَ نَبَؤٌاْ عَظِيمٌ",
+      "translation": "Thuaj: “Ky (Kuran) është një mesazh i madh,",
+      "footnotes": ""
+    },
+    {
+      "id": "4038",
+      "sura": "38",
+      "aya": "68",
+      "arabic_text": "أَنتُمۡ عَنۡهُ مُعۡرِضُونَ",
+      "translation": "e megjithatë ju nuk po ia vini veshin atij.",
+      "footnotes": ""
+    },
+    {
+      "id": "4039",
+      "sura": "38",
+      "aya": "69",
+      "arabic_text": "مَا كَانَ لِيَ مِنۡ عِلۡمِۭ بِٱلۡمَلَإِ ٱلۡأَعۡلَىٰٓ إِذۡ يَخۡتَصِمُونَ",
+      "translation": "Unë nuk kam pasur asnjë dijeni për Grupin më të Lartë, kur diskutonin mes tyre (për krijimin e Ademit).",
+      "footnotes": ""
+    },
+    {
+      "id": "4040",
+      "sura": "38",
+      "aya": "70",
+      "arabic_text": "إِن يُوحَىٰٓ إِلَيَّ إِلَّآ أَنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٌ",
+      "translation": "Mua më është shpallur se jam vetëm paralajmërues i qartë.”",
+      "footnotes": ""
+    },
+    {
+      "id": "4041",
+      "sura": "38",
+      "aya": "71",
+      "arabic_text": "إِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي خَٰلِقُۢ بَشَرٗا مِّن طِينٖ",
+      "translation": "Kur Zoti yt u tha engjëjve: “Unë do të krijoj një njeri prej balte.",
+      "footnotes": ""
+    },
+    {
+      "id": "4042",
+      "sura": "38",
+      "aya": "72",
+      "arabic_text": "فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سَٰجِدِينَ",
+      "translation": "Kur t’i jap trajtë dhe t’i fryj prej shpirtit Tim, përuljuni në sexhde atij!”,",
+      "footnotes": ""
+    },
+    {
+      "id": "4043",
+      "sura": "38",
+      "aya": "73",
+      "arabic_text": "فَسَجَدَ ٱلۡمَلَٰٓئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ",
+      "translation": "të gjithë engjëjt së bashku u përulën në sexhde,",
+      "footnotes": ""
+    },
+    {
+      "id": "4044",
+      "sura": "38",
+      "aya": "74",
+      "arabic_text": "إِلَّآ إِبۡلِيسَ ٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَٰفِرِينَ",
+      "translation": "përveç Iblisit; ai u bë mendjemadh e një nga mohuesit.",
+      "footnotes": ""
+    },
+    {
+      "id": "4045",
+      "sura": "38",
+      "aya": "75",
+      "arabic_text": "قَالَ يَٰٓإِبۡلِيسُ مَا مَنَعَكَ أَن تَسۡجُدَ لِمَا خَلَقۡتُ بِيَدَيَّۖ أَسۡتَكۡبَرۡتَ أَمۡ كُنتَ مِنَ ٱلۡعَالِينَ",
+      "translation": "Zoti tha: “O Iblis, ç’të pengoi ty që të mos përuleshe në sexhde para atij që e kam krijuar Vetë me duart e Mia? A mos u bëre mendjemadh apo mendon se je nga të lartët?”",
+      "footnotes": ""
+    },
+    {
+      "id": "4046",
+      "sura": "38",
+      "aya": "76",
+      "arabic_text": "قَالَ أَنَا۠ خَيۡرٞ مِّنۡهُ خَلَقۡتَنِي مِن نَّارٖ وَخَلَقۡتَهُۥ مِن طِينٖ",
+      "translation": "Iblisi tha: “Unë jam më i mirë se ai. Mua më ke krijuar prej zjarrit, kurse atë prej balte”.",
+      "footnotes": ""
+    },
+    {
+      "id": "4047",
+      "sura": "38",
+      "aya": "77",
+      "arabic_text": "قَالَ فَٱخۡرُجۡ مِنۡهَا فَإِنَّكَ رَجِيمٞ",
+      "translation": "Allahu tha: “Atëherë dil prej Xhenetit! Me të vërtetë, ti je i mallkuar",
+      "footnotes": ""
+    },
+    {
+      "id": "4048",
+      "sura": "38",
+      "aya": "78",
+      "arabic_text": "وَإِنَّ عَلَيۡكَ لَعۡنَتِيٓ إِلَىٰ يَوۡمِ ٱلدِّينِ",
+      "translation": "dhe mallkimi Im do të jetë mbi ty deri në Ditën e Gjykimit”.",
+      "footnotes": ""
+    },
+    {
+      "id": "4049",
+      "sura": "38",
+      "aya": "79",
+      "arabic_text": "قَالَ رَبِّ فَأَنظِرۡنِيٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ",
+      "translation": "Ai tha: “O Zoti im, më jep afat deri në ditën kur do të ringjallen ata!”",
+      "footnotes": ""
+    },
+    {
+      "id": "4050",
+      "sura": "38",
+      "aya": "80",
+      "arabic_text": "قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِينَ",
+      "translation": "Zoti tha: “Në të vërtetë, ty do të të jepet afat",
+      "footnotes": ""
+    },
+    {
+      "id": "4051",
+      "sura": "38",
+      "aya": "81",
+      "arabic_text": "إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ",
+      "translation": "deri në një ditë të caktuar (kur i fryhet Surit për herë të parë)”.",
+      "footnotes": ""
+    },
+    {
+      "id": "4052",
+      "sura": "38",
+      "aya": "82",
+      "arabic_text": "قَالَ فَبِعِزَّتِكَ لَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ",
+      "translation": "Ai tha: “Betohem në madhërinë Tënde se unë do t’i mashtroj ata të gjithë,",
+      "footnotes": ""
+    },
+    {
+      "id": "4053",
+      "sura": "38",
+      "aya": "83",
+      "arabic_text": "إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِينَ",
+      "translation": "përveç robërve të Tu të sinqertë!”",
+      "footnotes": ""
+    },
+    {
+      "id": "4054",
+      "sura": "38",
+      "aya": "84",
+      "arabic_text": "قَالَ فَٱلۡحَقُّ وَٱلۡحَقَّ أَقُولُ",
+      "translation": "Zoti tha: “E vërteta është - dhe Unë them vetëm të vërtetën",
+      "footnotes": ""
+    },
+    {
+      "id": "4055",
+      "sura": "38",
+      "aya": "85",
+      "arabic_text": "لَأَمۡلَأَنَّ جَهَنَّمَ مِنكَ وَمِمَّن تَبِعَكَ مِنۡهُمۡ أَجۡمَعِينَ",
+      "translation": "se, do ta mbush Xhehenemin me ty dhe me të gjithë ata që të pasojnë ty”!",
+      "footnotes": ""
+    },
+    {
+      "id": "4056",
+      "sura": "38",
+      "aya": "86",
+      "arabic_text": "قُلۡ مَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٖ وَمَآ أَنَا۠ مِنَ ٱلۡمُتَكَلِّفِينَ",
+      "translation": "Thuaj (o Muhamed): “Unë prej jush nuk kërkoj kurrfarë shpërblimi për këtë (Kuran) e as pretendoj të jem diçka që s’jam.",
+      "footnotes": ""
+    },
+    {
+      "id": "4057",
+      "sura": "38",
+      "aya": "87",
+      "arabic_text": "إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+      "translation": "Në të vërtetë, ky Kuran është këshillë për tërë botën!",
+      "footnotes": ""
+    },
+    {
+      "id": "4058",
+      "sura": "38",
+      "aya": "88",
+      "arabic_text": "وَلَتَعۡلَمُنَّ نَبَأَهُۥ بَعۡدَ حِينِۭ",
+      "translation": "Dhe ju me siguri që do ta merrni vesh të vërtetën shumë shpejt!”",
+      "footnotes": ""
+    }
+  ]
+}

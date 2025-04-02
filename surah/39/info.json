@@ -1,0 +1,27 @@
+{
+  "number": 39,
+  "name": {
+    "ar": "الزمر",
+    "en": "The Groups",
+    "transliteration": "Az-Zumar"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 59,
+  "bismillah_pre": true,
+  "verses_count": 75,
+  "words_count": 1177,
+  "letters_count": 4741,
+  "pages": [
+    458,
+    467
+  ],
+  "name_simple": "Az-Zumar",
+  "name_complex": "Az-Zumar",
+  "name_arabic": "الزمر",
+  "translated_name": "The Troops",
+  "start_page": 458,
+  "end_page": 467
+}

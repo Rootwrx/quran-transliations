@@ -1,0 +1,31 @@
+{
+  "translations": [
+    {
+      "key": "turkish_rwwad",
+      "direction": "ltr",
+      "language_iso_code": "tr",
+      "version": "1.0.1",
+      "last_update": 1715674527,
+      "title": "Turkish translation - Rowwad Tanslation Center",
+      "description": "Translation of the Quran meanings into Turkish by Rowwad Translation Center in cooperation with Islamhouse.com in 1440 H."
+    },
+    {
+      "key": "turkish_shaban",
+      "direction": "ltr",
+      "language_iso_code": "tr",
+      "version": "1.1.0",
+      "last_update": 1577307600,
+      "title": "Turkish translation - Shaaban Britsh",
+      "description": "Translation of the Quran meanings into Turkish by Shaaban Britsh. Notice: Some referred translated verses corrected by Rowwad Translation Center. The original translation is available for suggestions, continuous evaluation and development."
+    },
+    {
+      "key": "turkish_shahin",
+      "direction": "ltr",
+      "language_iso_code": "tr",
+      "version": "1.0.0",
+      "last_update": 1495486800,
+      "title": "Turkish Translation - Ali Ozek",
+      "description": "Translation of the Quran meanings into Turkish by a group of scholars. Corrected by supervision of Rowwad Translation Center. The original translation is available for suggestions, continuous evaluation and development."
+    }
+  ]
+}

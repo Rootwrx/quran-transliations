@@ -1,0 +1,31 @@
+{
+  "translations": [
+    {
+      "key": "french_rashid",
+      "direction": "ltr",
+      "language_iso_code": "fr",
+      "version": "1.0.1",
+      "last_update": 1725482355,
+      "title": "French Translation - Rashid Maash",
+      "description": "Translation of the Quran meanings into French by Rashid Maash"
+    },
+    {
+      "key": "french_montada",
+      "direction": "ltr",
+      "language_iso_code": "fr",
+      "version": "1.0.0",
+      "last_update": 1539205200,
+      "title": "French Translation - Noor International Center",
+      "description": "Translation of the Quran meanings into French, by Dr. Nabil Radwan, published by Noor International Center - was printed in 2017."
+    },
+    {
+      "key": "french_hameedullah",
+      "direction": "ltr",
+      "language_iso_code": "fr",
+      "version": "1.0.1",
+      "last_update": 1641816964,
+      "title": "French Translation - Muhammad Hamidullah",
+      "description": "Translation of the Quran meanings into French by Muhammad Hamidullah. Corrected by supervision of Rowwad Translation Center. The original translation is available for suggestions, continuous evaluation and development."
+    }
+  ]
+}

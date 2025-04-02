@@ -1,0 +1,27 @@
+{
+  "number": 88,
+  "name": {
+    "ar": "الغاشية",
+    "en": "The Overwhelming",
+    "transliteration": "Al-Ghashiyah"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 68,
+  "bismillah_pre": true,
+  "verses_count": 26,
+  "words_count": 92,
+  "letters_count": 378,
+  "pages": [
+    592,
+    592
+  ],
+  "name_simple": "Al-Ghashiyah",
+  "name_complex": "Al-Ghāshiyah",
+  "name_arabic": "الغاشية",
+  "translated_name": "The Overwhelming",
+  "start_page": 592,
+  "end_page": 593
+}

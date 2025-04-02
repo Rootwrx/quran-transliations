@@ -1,0 +1,27 @@
+{
+  "number": 101,
+  "name": {
+    "ar": "القارعة",
+    "en": "The Calamity",
+    "transliteration": "Al-Qari'ah"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 30,
+  "bismillah_pre": true,
+  "verses_count": 11,
+  "words_count": 36,
+  "letters_count": 158,
+  "pages": [
+    600,
+    600
+  ],
+  "name_simple": "Al-Qari'ah",
+  "name_complex": "Al-Qāri`ah",
+  "name_arabic": "القارعة",
+  "translated_name": "The Calamity",
+  "start_page": 600,
+  "end_page": 600
+}

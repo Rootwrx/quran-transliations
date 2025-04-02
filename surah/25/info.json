@@ -1,0 +1,27 @@
+{
+  "number": 25,
+  "name": {
+    "ar": "الفرقان",
+    "en": "The Criterion",
+    "transliteration": "Al-Furqan"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 42,
+  "bismillah_pre": true,
+  "verses_count": 77,
+  "words_count": 896,
+  "letters_count": 3786,
+  "pages": [
+    359,
+    366
+  ],
+  "name_simple": "Al-Furqan",
+  "name_complex": "Al-Furqān",
+  "name_arabic": "الفرقان",
+  "translated_name": "The Criterion",
+  "start_page": 359,
+  "end_page": 366
+}

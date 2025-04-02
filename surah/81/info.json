@@ -1,0 +1,27 @@
+{
+  "number": 81,
+  "name": {
+    "ar": "التكوير",
+    "en": "The Overthrowing",
+    "transliteration": "At-Takwir"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 7,
+  "bismillah_pre": true,
+  "verses_count": 29,
+  "words_count": 104,
+  "letters_count": 425,
+  "pages": [
+    586,
+    586
+  ],
+  "name_simple": "At-Takwir",
+  "name_complex": "At-Takwīr",
+  "name_arabic": "التكوير",
+  "translated_name": "The Overthrowing",
+  "start_page": 586,
+  "end_page": 586
+}

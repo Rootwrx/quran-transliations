@@ -1,0 +1,27 @@
+{
+  "number": 20,
+  "name": {
+    "ar": "طه",
+    "en": "Taahaa",
+    "transliteration": "Taha"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 45,
+  "bismillah_pre": true,
+  "verses_count": 135,
+  "words_count": 1354,
+  "letters_count": 5288,
+  "pages": [
+    312,
+    321
+  ],
+  "name_simple": "Taha",
+  "name_complex": "Ţāhā",
+  "name_arabic": "طه",
+  "translated_name": "Ta-Ha",
+  "start_page": 312,
+  "end_page": 321
+}

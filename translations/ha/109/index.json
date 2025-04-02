@@ -1,0 +1,52 @@
+{
+  "result": [
+    {
+      "id": "6208",
+      "sura": "109",
+      "aya": "1",
+      "arabic_text": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
+      "translation": "Ka ce: \"Ya kũ kãfirai!\"",
+      "footnotes": ""
+    },
+    {
+      "id": "6209",
+      "sura": "109",
+      "aya": "2",
+      "arabic_text": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
+      "translation": "\"Bã zan bautã wa abin da kuke bautã wa ba.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "6210",
+      "sura": "109",
+      "aya": "3",
+      "arabic_text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "translation": "\"Kuma kũ, ba ku zama masu bauta wa abin da nake bautã wa ba.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "6211",
+      "sura": "109",
+      "aya": "4",
+      "arabic_text": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ",
+      "translation": "\"Kuma nĩ ban zama mai bautã wa abin da kuka bautã wa ba.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "6212",
+      "sura": "109",
+      "aya": "5",
+      "arabic_text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "translation": "\"Kuma kũ, ba ku zama mãsu bautã wa abin da nake* bautã wa ba.\"",
+      "footnotes": "* Ãya ta 4 da ta 5 sun nũna addinin ƙarya yakan canza amma na gaskiya bã ya canzawa."
+    },
+    {
+      "id": "6213",
+      "sura": "109",
+      "aya": "6",
+      "arabic_text": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+      "translation": "\"Addininku na garẽ ku, kuma addinina yanã gare ni.\"",
+      "footnotes": ""
+    }
+  ]
+}

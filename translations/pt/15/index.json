@@ -1,0 +1,796 @@
+{
+  "result": [
+    {
+      "id": "1803",
+      "sura": "15",
+      "aya": "1",
+      "arabic_text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ وَقُرۡءَانٖ مُّبِينٖ",
+      "translation": "Alif, Lãm, Rã. Esses são os versículos do Livro e explícito Alcorão.",
+      "footnotes": ""
+    },
+    {
+      "id": "1804",
+      "sura": "15",
+      "aya": "2",
+      "arabic_text": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُواْ لَوۡ كَانُواْ مُسۡلِمِينَ",
+      "translation": "É muito provável que os que renegaram a Fé almejem haver sido muçulmanos.",
+      "footnotes": ""
+    },
+    {
+      "id": "1805",
+      "sura": "15",
+      "aya": "3",
+      "arabic_text": "ذَرۡهُمۡ يَأۡكُلُواْ وَيَتَمَتَّعُواْ وَيُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ يَعۡلَمُونَ",
+      "translation": "Deixa-os comer e gozar e deixa a esperança entretê-los, pois, logo saberão!",
+      "footnotes": ""
+    },
+    {
+      "id": "1806",
+      "sura": "15",
+      "aya": "4",
+      "arabic_text": "وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا وَلَهَا كِتَابٞ مَّعۡلُومٞ",
+      "translation": "E não aniquilamos cidade alguma, sem que ela tivesse prescrição determinada.",
+      "footnotes": ""
+    },
+    {
+      "id": "1807",
+      "sura": "15",
+      "aya": "5",
+      "arabic_text": "مَّا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ",
+      "translation": "Nenhuma comunidade antecipa seu termo nem o atrasa.",
+      "footnotes": ""
+    },
+    {
+      "id": "1808",
+      "sura": "15",
+      "aya": "6",
+      "arabic_text": "وَقَالُواْ يَٰٓأَيُّهَا ٱلَّذِي نُزِّلَ عَلَيۡهِ ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونٞ",
+      "translation": "E eles dizem: \"Ó tu, sobre quem foi descido o Alcorão! Por certo, és louco!\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1809",
+      "sura": "15",
+      "aya": "7",
+      "arabic_text": "لَّوۡمَا تَأۡتِينَا بِٱلۡمَلَٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+      "translation": "\"Que nos faças vir os anjos, se és dos verídicos!\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1810",
+      "sura": "15",
+      "aya": "8",
+      "arabic_text": "مَا نُنَزِّلُ ٱلۡمَلَٰٓئِكَةَ إِلَّا بِٱلۡحَقِّ وَمَا كَانُوٓاْ إِذٗا مُّنظَرِينَ",
+      "translation": "Não fazemos descer os anjos senão com a verdade e, nesse caso, não haveria, para eles dilação.",
+      "footnotes": ""
+    },
+    {
+      "id": "1811",
+      "sura": "15",
+      "aya": "9",
+      "arabic_text": "إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+      "translation": "Por certo, Nós fizemos descer o Alcorão e por certo, dele somos Custódios.",
+      "footnotes": ""
+    },
+    {
+      "id": "1812",
+      "sura": "15",
+      "aya": "10",
+      "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي شِيَعِ ٱلۡأَوَّلِينَ",
+      "translation": "E, com efeito, enviamos, antes de ti, Mensageiros às seitas dos\nantepassados.",
+      "footnotes": ""
+    },
+    {
+      "id": "1813",
+      "sura": "15",
+      "aya": "11",
+      "arabic_text": "وَمَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "translation": "E não lhes chegou Mensageiro algum, sem que dele zombassem.",
+      "footnotes": ""
+    },
+    {
+      "id": "1814",
+      "sura": "15",
+      "aya": "12",
+      "arabic_text": "كَذَٰلِكَ نَسۡلُكُهُۥ فِي قُلُوبِ ٱلۡمُجۡرِمِينَ",
+      "translation": "Assim, também, Nós o introduzimos nos corações dos criminosos.",
+      "footnotes": ""
+    },
+    {
+      "id": "1815",
+      "sura": "15",
+      "aya": "13",
+      "arabic_text": "لَا يُؤۡمِنُونَ بِهِۦ وَقَدۡ خَلَتۡ سُنَّةُ ٱلۡأَوَّلِينَ",
+      "translation": "Nele não crêem. E, com efeito, passaram os procedimentos dos antepassados.",
+      "footnotes": ""
+    },
+    {
+      "id": "1816",
+      "sura": "15",
+      "aya": "14",
+      "arabic_text": "وَلَوۡ فَتَحۡنَا عَلَيۡهِم بَابٗا مِّنَ ٱلسَّمَآءِ فَظَلُّواْ فِيهِ يَعۡرُجُونَ",
+      "translation": "E, se lhes abríssemos uma porta do céu, e eles seguissem ascendendo a ela,",
+      "footnotes": ""
+    },
+    {
+      "id": "1817",
+      "sura": "15",
+      "aya": "15",
+      "arabic_text": "لَقَالُوٓاْ إِنَّمَا سُكِّرَتۡ أَبۡصَٰرُنَا بَلۡ نَحۡنُ قَوۡمٞ مَّسۡحُورُونَ",
+      "translation": "Em verdade, ainda, diriam: \"Apenas, nossas vistas turvam-se; aliás, somos um povo enfeitiçado!\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1818",
+      "sura": "15",
+      "aya": "16",
+      "arabic_text": "وَلَقَدۡ جَعَلۡنَا فِي ٱلسَّمَآءِ بُرُوجٗا وَزَيَّنَّٰهَا لِلنَّٰظِرِينَ",
+      "translation": "E, com efeito, fizemos no céu, constelações, e aformoseamo-lo, para os olhadores.",
+      "footnotes": ""
+    },
+    {
+      "id": "1819",
+      "sura": "15",
+      "aya": "17",
+      "arabic_text": "وَحَفِظۡنَٰهَا مِن كُلِّ شَيۡطَٰنٖ رَّجِيمٍ",
+      "translation": "E custodiamo-lo, contra todo demônio maldito.",
+      "footnotes": ""
+    },
+    {
+      "id": "1820",
+      "sura": "15",
+      "aya": "18",
+      "arabic_text": "إِلَّا مَنِ ٱسۡتَرَقَ ٱلسَّمۡعَ فَأَتۡبَعَهُۥ شِهَابٞ مُّبِينٞ",
+      "translation": "Mas a quem tenta ouvir às ocultas, então, uma evidente bólide persegue-o.",
+      "footnotes": ""
+    },
+    {
+      "id": "1821",
+      "sura": "15",
+      "aya": "19",
+      "arabic_text": "وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ شَيۡءٖ مَّوۡزُونٖ",
+      "translation": "E a terra, estendemo-la e,nela, implantamos assentes montanhas e nela, fizemos germinar de toda cousa, no justo peso",
+      "footnotes": ""
+    },
+    {
+      "id": "1822",
+      "sura": "15",
+      "aya": "20",
+      "arabic_text": "وَجَعَلۡنَا لَكُمۡ فِيهَا مَعَٰيِشَ وَمَن لَّسۡتُمۡ لَهُۥ بِرَٰزِقِينَ",
+      "translation": "E, nela, fizemos meios de subsistência para vós e para aqueles aos quais não estais dando sustento.",
+      "footnotes": ""
+    },
+    {
+      "id": "1823",
+      "sura": "15",
+      "aya": "21",
+      "arabic_text": "وَإِن مِّن شَيۡءٍ إِلَّا عِندَنَا خَزَآئِنُهُۥ وَمَا نُنَزِّلُهُۥٓ إِلَّا بِقَدَرٖ مَّعۡلُومٖ",
+      "translation": "E não há cousa alguma, sem que estejam junto de nós seus cofres, e não a fazemos descer senão na medida determinada.",
+      "footnotes": ""
+    },
+    {
+      "id": "1824",
+      "sura": "15",
+      "aya": "22",
+      "arabic_text": "وَأَرۡسَلۡنَا ٱلرِّيَٰحَ لَوَٰقِحَ فَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ فَأَسۡقَيۡنَٰكُمُوهُ وَمَآ أَنتُمۡ لَهُۥ بِخَٰزِنِينَ",
+      "translation": "E enviamos os ventos fecundantes, e fazemos descer do céu água, e damo-vo-la de beber; e não sois seus retentores.",
+      "footnotes": ""
+    },
+    {
+      "id": "1825",
+      "sura": "15",
+      "aya": "23",
+      "arabic_text": "وَإِنَّا لَنَحۡنُ نُحۡيِۦ وَنُمِيتُ وَنَحۡنُ ٱلۡوَٰرِثُونَ",
+      "translation": "E, por certo, damos a vida e damos a morte; e Nós somos O Herdeiro.",
+      "footnotes": ""
+    },
+    {
+      "id": "1826",
+      "sura": "15",
+      "aya": "24",
+      "arabic_text": "وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَقۡدِمِينَ مِنكُمۡ وَلَقَدۡ عَلِمۡنَا ٱلۡمُسۡتَـٔۡخِرِينَ",
+      "translation": "E, com efeito, sabemos dos antecessores de vós e, com efeito, sabemos dos sucessores.",
+      "footnotes": ""
+    },
+    {
+      "id": "1827",
+      "sura": "15",
+      "aya": "25",
+      "arabic_text": "وَإِنَّ رَبَّكَ هُوَ يَحۡشُرُهُمۡۚ إِنَّهُۥ حَكِيمٌ عَلِيمٞ",
+      "translation": "E, por certo, teu Senhor os reunirá. Por certo, Ele é O Sábio, Onisciente.",
+      "footnotes": ""
+    },
+    {
+      "id": "1828",
+      "sura": "15",
+      "aya": "26",
+      "arabic_text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+      "translation": "E, com efeito, criamos o ser humano de argila sonorosa de barro moldável.",
+      "footnotes": ""
+    },
+    {
+      "id": "1829",
+      "sura": "15",
+      "aya": "27",
+      "arabic_text": "وَٱلۡجَآنَّ خَلَقۡنَٰهُ مِن قَبۡلُ مِن نَّارِ ٱلسَّمُومِ",
+      "translation": "E os gênios, criamo-los, antes, do fogo do Samum.",
+      "footnotes": ""
+    },
+    {
+      "id": "1830",
+      "sura": "15",
+      "aya": "28",
+      "arabic_text": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي خَٰلِقُۢ بَشَرٗا مِّن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+      "translation": "E quando teu Senhor disse aos anjos: \"Por certo, estou criando um mortal de argila sonorosa, de barro moldável.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1831",
+      "sura": "15",
+      "aya": "29",
+      "arabic_text": "فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سَٰجِدِينَ",
+      "translation": "\"E, quando o houver formado e, nele, houver soprado algo de Meu Espírito, então, caí prosternados, diante dele\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1832",
+      "sura": "15",
+      "aya": "30",
+      "arabic_text": "فَسَجَدَ ٱلۡمَلَٰٓئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ",
+      "translation": "E todos os anjos prosternaram-se, juntos,",
+      "footnotes": ""
+    },
+    {
+      "id": "1833",
+      "sura": "15",
+      "aya": "31",
+      "arabic_text": "إِلَّآ إِبۡلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ",
+      "translation": "Exceto Iblis. Ele se recusou estar com os que se prosternavam.",
+      "footnotes": ""
+    },
+    {
+      "id": "1834",
+      "sura": "15",
+      "aya": "32",
+      "arabic_text": "قَالَ يَٰٓإِبۡلِيسُ مَا لَكَ أَلَّا تَكُونَ مَعَ ٱلسَّٰجِدِينَ",
+      "translation": "Allah disse: \"Ó Iblis! Por que razão não estás com os que se prosternam?\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1835",
+      "sura": "15",
+      "aya": "33",
+      "arabic_text": "قَالَ لَمۡ أَكُن لِّأَسۡجُدَ لِبَشَرٍ خَلَقۡتَهُۥ مِن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+      "translation": "Disse: \"Não é admissível que me prosterne diante de um mortal que criaste de argila sonorosa, de barro moldável\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1836",
+      "sura": "15",
+      "aya": "34",
+      "arabic_text": "قَالَ فَٱخۡرُجۡ مِنۡهَا فَإِنَّكَ رَجِيمٞ",
+      "translation": "Allah disse: \"Então, sai dele e, por certo, és maldito\".",
+      "footnotes": ""
+    },
+    {
+      "id": "1837",
+      "sura": "15",
+      "aya": "35",
+      "arabic_text": "وَإِنَّ عَلَيۡكَ ٱللَّعۡنَةَ إِلَىٰ يَوۡمِ ٱلدِّينِ",
+      "translation": "\"E, por certo, a maldição será sobre ti, até o Dia do Juízo\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1838",
+      "sura": "15",
+      "aya": "36",
+      "arabic_text": "قَالَ رَبِّ فَأَنظِرۡنِيٓ إِلَىٰ يَوۡمِ يُبۡعَثُونَ",
+      "translation": "Iblís disse: \"Senhor meu! Concede-me dilação, até um dia, em que eles serão ressuscitados\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1839",
+      "sura": "15",
+      "aya": "37",
+      "arabic_text": "قَالَ فَإِنَّكَ مِنَ ٱلۡمُنظَرِينَ",
+      "translation": "Allah disse: \"Por certo, és daqueles aos quais será concedida dilação\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1840",
+      "sura": "15",
+      "aya": "38",
+      "arabic_text": "إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ",
+      "translation": "\"Até o dia do tempo determinado\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1841",
+      "sura": "15",
+      "aya": "39",
+      "arabic_text": "قَالَ رَبِّ بِمَآ أَغۡوَيۡتَنِي لَأُزَيِّنَنَّ لَهُمۡ فِي ٱلۡأَرۡضِ وَلَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ",
+      "translation": "Ele disse: \"Senhor meu! Pelo mal a que me condenaste, em verdade, aformosearei o erro para eles, na terra, e fá-los-ei a todos incorrer no mal\".",
+      "footnotes": ""
+    },
+    {
+      "id": "1842",
+      "sura": "15",
+      "aya": "40",
+      "arabic_text": "إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِينَ",
+      "translation": "Exceto Teus servos prediletos, entre eles\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1843",
+      "sura": "15",
+      "aya": "41",
+      "arabic_text": "قَالَ هَٰذَا صِرَٰطٌ عَلَيَّ مُسۡتَقِيمٌ",
+      "translation": "Allah disse: \"Esta é uma senda reta, que Me impende observar.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1844",
+      "sura": "15",
+      "aya": "42",
+      "arabic_text": "إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطَٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلۡغَاوِينَ",
+      "translation": "\"Por certo, sobre Meus servos não terás poder algum, exceto sobre os que te seguirem, entre os desviados\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1845",
+      "sura": "15",
+      "aya": "43",
+      "arabic_text": "وَإِنَّ جَهَنَّمَ لَمَوۡعِدُهُمۡ أَجۡمَعِينَ",
+      "translation": "\"E, por certo, a Geena será seu lugar prometido, de todos.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1846",
+      "sura": "15",
+      "aya": "44",
+      "arabic_text": "لَهَا سَبۡعَةُ أَبۡوَٰبٖ لِّكُلِّ بَابٖ مِّنۡهُمۡ جُزۡءٞ مَّقۡسُومٌ",
+      "translation": "\"Ela tem sete portas. Cada porta terá deles uma parte determinada\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1847",
+      "sura": "15",
+      "aya": "45",
+      "arabic_text": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّٰتٖ وَعُيُونٍ",
+      "translation": "Por certo, os piedosos estarão entre jardins e fontes.",
+      "footnotes": ""
+    },
+    {
+      "id": "1848",
+      "sura": "15",
+      "aya": "46",
+      "arabic_text": "ٱدۡخُلُوهَا بِسَلَٰمٍ ءَامِنِينَ",
+      "translation": "Dir-se-lhes-á: \"Entrai neles em paz e em segurança\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1849",
+      "sura": "15",
+      "aya": "47",
+      "arabic_text": "وَنَزَعۡنَا مَا فِي صُدُورِهِم مِّنۡ غِلٍّ إِخۡوَٰنًا عَلَىٰ سُرُرٖ مُّتَقَٰبِلِينَ",
+      "translation": "E tiraremos o que houver de ódio em seus peitos, sendo como irmãos, em leitos, frente a frente.",
+      "footnotes": ""
+    },
+    {
+      "id": "1850",
+      "sura": "15",
+      "aya": "48",
+      "arabic_text": "لَا يَمَسُّهُمۡ فِيهَا نَصَبٞ وَمَا هُم مِّنۡهَا بِمُخۡرَجِينَ",
+      "translation": "Neles, nenhuma fadiga os tocará, e deles jamais os farão sair.",
+      "footnotes": ""
+    },
+    {
+      "id": "1851",
+      "sura": "15",
+      "aya": "49",
+      "arabic_text": "۞ نَبِّئۡ عِبَادِيٓ أَنِّيٓ أَنَا ٱلۡغَفُورُ ٱلرَّحِيمُ",
+      "translation": "Informa Meus servos, Muhammad, de que sou O Perdoador, O Misericordiador.",
+      "footnotes": ""
+    },
+    {
+      "id": "1852",
+      "sura": "15",
+      "aya": "50",
+      "arabic_text": "وَأَنَّ عَذَابِي هُوَ ٱلۡعَذَابُ ٱلۡأَلِيمُ",
+      "translation": "E de que Meu castigo é o doloroso castigo.",
+      "footnotes": ""
+    },
+    {
+      "id": "1853",
+      "sura": "15",
+      "aya": "51",
+      "arabic_text": "وَنَبِّئۡهُمۡ عَن ضَيۡفِ إِبۡرَٰهِيمَ",
+      "translation": "E informa-os dos hóspedes de Abraão.",
+      "footnotes": ""
+    },
+    {
+      "id": "1854",
+      "sura": "15",
+      "aya": "52",
+      "arabic_text": "إِذۡ دَخَلُواْ عَلَيۡهِ فَقَالُواْ سَلَٰمٗا قَالَ إِنَّا مِنكُمۡ وَجِلُونَ",
+      "translation": "Quando entraram junto dele e disseram: \"Salam!, Paz ! Disse ele: \"Por certo, estamos atemorizados convosco\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1855",
+      "sura": "15",
+      "aya": "53",
+      "arabic_text": "قَالُواْ لَا تَوۡجَلۡ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ عَلِيمٖ",
+      "translation": "Disseram: \"Não te atemorizes! Por certo, alvissaramo-te um filho sapiente\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1856",
+      "sura": "15",
+      "aya": "54",
+      "arabic_text": "قَالَ أَبَشَّرۡتُمُونِي عَلَىٰٓ أَن مَّسَّنِيَ ٱلۡكِبَرُ فَبِمَ تُبَشِّرُونَ",
+      "translation": "Disse: \"Alvissarais-me um filho, enquanto a velhice já me tocou? Então, o que me alvissarais?\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1857",
+      "sura": "15",
+      "aya": "55",
+      "arabic_text": "قَالُواْ بَشَّرۡنَٰكَ بِٱلۡحَقِّ فَلَا تَكُن مِّنَ ٱلۡقَٰنِطِينَ",
+      "translation": "Disseram: \"Alvissaramo-te a verdade. Então, não sejas dos desesperados\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1858",
+      "sura": "15",
+      "aya": "56",
+      "arabic_text": "قَالَ وَمَن يَقۡنَطُ مِن رَّحۡمَةِ رَبِّهِۦٓ إِلَّا ٱلضَّآلُّونَ",
+      "translation": "Disse: \"E quem pode desesperar-se da misericórdia\nde seu Senhor, senão os descaminhados?\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1859",
+      "sura": "15",
+      "aya": "57",
+      "arabic_text": "قَالَ فَمَا خَطۡبُكُمۡ أَيُّهَا ٱلۡمُرۡسَلُونَ",
+      "translation": "Disse ainda: \"Qual é vosso intuito, ó Mensageiros?\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1860",
+      "sura": "15",
+      "aya": "58",
+      "arabic_text": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ",
+      "translation": "Disseram: \"Por certo, estamos sendo enviados a um povo criminoso\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1861",
+      "sura": "15",
+      "aya": "59",
+      "arabic_text": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمۡ أَجۡمَعِينَ",
+      "translation": "\"Exceto à família de Lot. Por certo, salvá-la-emos, a todos\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1862",
+      "sura": "15",
+      "aya": "60",
+      "arabic_text": "إِلَّا ٱمۡرَأَتَهُۥ قَدَّرۡنَآ إِنَّهَا لَمِنَ ٱلۡغَٰبِرِينَ",
+      "translation": "\"Exceto sua mulher. Determinamos que, por certo, ela será dos que ficarão para trás\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1863",
+      "sura": "15",
+      "aya": "61",
+      "arabic_text": "فَلَمَّا جَآءَ ءَالَ لُوطٍ ٱلۡمُرۡسَلُونَ",
+      "translation": "E, quando os Mensageiros chegaram à família de Lot,",
+      "footnotes": ""
+    },
+    {
+      "id": "1864",
+      "sura": "15",
+      "aya": "62",
+      "arabic_text": "قَالَ إِنَّكُمۡ قَوۡمٞ مُّنكَرُونَ",
+      "translation": "Ele disse: \"Por certo, sois um grupo desconhecido\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1865",
+      "sura": "15",
+      "aya": "63",
+      "arabic_text": "قَالُواْ بَلۡ جِئۡنَٰكَ بِمَا كَانُواْ فِيهِ يَمۡتَرُونَ",
+      "translation": "Disseram: \"Mais chegamos a ti com o que eles contestam\".",
+      "footnotes": ""
+    },
+    {
+      "id": "1866",
+      "sura": "15",
+      "aya": "64",
+      "arabic_text": "وَأَتَيۡنَٰكَ بِٱلۡحَقِّ وَإِنَّا لَصَٰدِقُونَ",
+      "translation": "\"E trouxemo-te a verdade e, por certo, somos verídicos.\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1867",
+      "sura": "15",
+      "aya": "65",
+      "arabic_text": "فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَٱتَّبِعۡ أَدۡبَٰرَهُمۡ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٞ وَٱمۡضُواْ حَيۡثُ تُؤۡمَرُونَ",
+      "translation": "\"Então, parte com tua família, na calada da noite, e segue suas pegadas, e que nenhum de vós retorne atrás. E ide para onde sois ordenados\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1868",
+      "sura": "15",
+      "aya": "66",
+      "arabic_text": "وَقَضَيۡنَآ إِلَيۡهِ ذَٰلِكَ ٱلۡأَمۡرَ أَنَّ دَابِرَ هَٰٓؤُلَآءِ مَقۡطُوعٞ مُّصۡبِحِينَ",
+      "translation": "E inspiramo-lhe essa ordem: que esses serão exterminados, até o último deles, logo ao amanhecer.",
+      "footnotes": ""
+    },
+    {
+      "id": "1869",
+      "sura": "15",
+      "aya": "67",
+      "arabic_text": "وَجَآءَ أَهۡلُ ٱلۡمَدِينَةِ يَسۡتَبۡشِرُونَ",
+      "translation": "E os habitantes da cidade chegaram, exultantes.",
+      "footnotes": ""
+    },
+    {
+      "id": "1870",
+      "sura": "15",
+      "aya": "68",
+      "arabic_text": "قَالَ إِنَّ هَٰٓؤُلَآءِ ضَيۡفِي فَلَا تَفۡضَحُونِ",
+      "translation": "Ele disse: \"Por certo, esses são meus hóspedes. Então, não me desonreis\".",
+      "footnotes": ""
+    },
+    {
+      "id": "1871",
+      "sura": "15",
+      "aya": "69",
+      "arabic_text": "وَٱتَّقُواْ ٱللَّهَ وَلَا تُخۡزُونِ",
+      "translation": "\"E temei a Allah e não me ignominieis\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1872",
+      "sura": "15",
+      "aya": "70",
+      "arabic_text": "قَالُوٓاْ أَوَلَمۡ نَنۡهَكَ عَنِ ٱلۡعَٰلَمِينَ",
+      "translation": "Disseram: \"Não te coibimos de hospedar quem quer que seja dos mundos?\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1873",
+      "sura": "15",
+      "aya": "71",
+      "arabic_text": "قَالَ هَٰٓؤُلَآءِ بَنَاتِيٓ إِن كُنتُمۡ فَٰعِلِينَ",
+      "translation": "Ele disse: \"Estas são minhas filhas se quereis fazê-lo\"",
+      "footnotes": ""
+    },
+    {
+      "id": "1874",
+      "sura": "15",
+      "aya": "72",
+      "arabic_text": "لَعَمۡرُكَ إِنَّهُمۡ لَفِي سَكۡرَتِهِمۡ يَعۡمَهُونَ",
+      "translation": "Por tua vida, Muhammad! Por certo, eles estavam em sua embriaguez, caminhando às cegas.",
+      "footnotes": ""
+    },
+    {
+      "id": "1875",
+      "sura": "15",
+      "aya": "73",
+      "arabic_text": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُشۡرِقِينَ",
+      "translation": "Então, o Grito apanhou-os, ao nascer do sol.",
+      "footnotes": ""
+    },
+    {
+      "id": "1876",
+      "sura": "15",
+      "aya": "74",
+      "arabic_text": "فَجَعَلۡنَا عَٰلِيَهَا سَافِلَهَا وَأَمۡطَرۡنَا عَلَيۡهِمۡ حِجَارَةٗ مِّن سِجِّيلٍ",
+      "translation": "E revolvemo-las de cima para baixo, e fizemos chover sobre eles pedras de sijjil[2](pedras de barro cozido).",
+      "footnotes": ""
+    },
+    {
+      "id": "1877",
+      "sura": "15",
+      "aya": "75",
+      "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّلۡمُتَوَسِّمِينَ",
+      "translation": "Por certo, há nisso sinais para os observantes.",
+      "footnotes": ""
+    },
+    {
+      "id": "1878",
+      "sura": "15",
+      "aya": "76",
+      "arabic_text": "وَإِنَّهَا لَبِسَبِيلٖ مُّقِيمٍ",
+      "translation": "E, por certo, elas estavam em um caminho, que ainda permanece.",
+      "footnotes": ""
+    },
+    {
+      "id": "1879",
+      "sura": "15",
+      "aya": "77",
+      "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّلۡمُؤۡمِنِينَ",
+      "translation": "Por certo, há nisso um sinal para os crentes.",
+      "footnotes": ""
+    },
+    {
+      "id": "1880",
+      "sura": "15",
+      "aya": "78",
+      "arabic_text": "وَإِن كَانَ أَصۡحَٰبُ ٱلۡأَيۡكَةِ لَظَٰلِمِينَ",
+      "translation": "E, por certo, os habitantes de Al-Aykah eram injustos.",
+      "footnotes": ""
+    },
+    {
+      "id": "1881",
+      "sura": "15",
+      "aya": "79",
+      "arabic_text": "فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامٖ مُّبِينٖ",
+      "translation": "Então, vingamo-Nos deles. E, por certo, ambas estão em evidente caminho.",
+      "footnotes": ""
+    },
+    {
+      "id": "1882",
+      "sura": "15",
+      "aya": "80",
+      "arabic_text": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ",
+      "translation": "E, com efeito, os companheiros de Al-Hijr desmentiram aos Mensageiros.",
+      "footnotes": ""
+    },
+    {
+      "id": "1883",
+      "sura": "15",
+      "aya": "81",
+      "arabic_text": "وَءَاتَيۡنَٰهُمۡ ءَايَٰتِنَا فَكَانُواْ عَنۡهَا مُعۡرِضِينَ",
+      "translation": "E concedemo-lhes Nossos sinais, e eles lhes estavam dando de ombros.",
+      "footnotes": ""
+    },
+    {
+      "id": "1884",
+      "sura": "15",
+      "aya": "82",
+      "arabic_text": "وَكَانُواْ يَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتًا ءَامِنِينَ",
+      "translation": "E escavavam, em segurança, casas nas montanhas.",
+      "footnotes": ""
+    },
+    {
+      "id": "1885",
+      "sura": "15",
+      "aya": "83",
+      "arabic_text": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُصۡبِحِينَ",
+      "translation": "Então, o Grito apanhou-os, logo ao amanhecer.",
+      "footnotes": ""
+    },
+    {
+      "id": "1886",
+      "sura": "15",
+      "aya": "84",
+      "arabic_text": "فَمَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يَكۡسِبُونَ",
+      "translation": "E de nada lhes valeu o que logravam.",
+      "footnotes": ""
+    },
+    {
+      "id": "1887",
+      "sura": "15",
+      "aya": "85",
+      "arabic_text": "وَمَا خَلَقۡنَا ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَآ إِلَّا بِٱلۡحَقِّۗ وَإِنَّ ٱلسَّاعَةَ لَأٓتِيَةٞۖ فَٱصۡفَحِ ٱلصَّفۡحَ ٱلۡجَمِيلَ",
+      "translation": "E não criamos os céus e a terra e o que há entre ambos, senão com a verdade. E, por certo, a Hora está prestes a chegar. Então, tolera os adversários com bela tolerância.",
+      "footnotes": ""
+    },
+    {
+      "id": "1888",
+      "sura": "15",
+      "aya": "86",
+      "arabic_text": "إِنَّ رَبَّكَ هُوَ ٱلۡخَلَّٰقُ ٱلۡعَلِيمُ",
+      "translation": "Por certo, teu Senhor é O Criador, O Onisciente.",
+      "footnotes": ""
+    },
+    {
+      "id": "1889",
+      "sura": "15",
+      "aya": "87",
+      "arabic_text": "وَلَقَدۡ ءَاتَيۡنَٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ",
+      "translation": "E, com efeito, concedemo-te sete versículos dos reiterativos e o magnífico Alcorão.",
+      "footnotes": ""
+    },
+    {
+      "id": "1890",
+      "sura": "15",
+      "aya": "88",
+      "arabic_text": "لَا تَمُدَّنَّ عَيۡنَيۡكَ إِلَىٰ مَا مَتَّعۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّنۡهُمۡ وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَٱخۡفِضۡ جَنَاحَكَ لِلۡمُؤۡمِنِينَ",
+      "translation": "Não estendas teus olhos para aquilo que fizemos gozar alguns casais entre eles. E não te entristeças por eles. E baixa tua asa aos crentes.",
+      "footnotes": ""
+    },
+    {
+      "id": "1891",
+      "sura": "15",
+      "aya": "89",
+      "arabic_text": "وَقُلۡ إِنِّيٓ أَنَا ٱلنَّذِيرُ ٱلۡمُبِينُ",
+      "translation": "E dize: \"Por certo, sou o evidente admoestador\" do castigo.",
+      "footnotes": ""
+    },
+    {
+      "id": "1892",
+      "sura": "15",
+      "aya": "90",
+      "arabic_text": "كَمَآ أَنزَلۡنَا عَلَى ٱلۡمُقۡتَسِمِينَ",
+      "translation": "Como o que fizemos descer sobre os que dividiram o Livro.",
+      "footnotes": ""
+    },
+    {
+      "id": "1893",
+      "sura": "15",
+      "aya": "91",
+      "arabic_text": "ٱلَّذِينَ جَعَلُواْ ٱلۡقُرۡءَانَ عِضِينَ",
+      "translation": "Que fizeram o Alcorão em fragmentos.",
+      "footnotes": ""
+    },
+    {
+      "id": "1894",
+      "sura": "15",
+      "aya": "92",
+      "arabic_text": "فَوَرَبِّكَ لَنَسۡـَٔلَنَّهُمۡ أَجۡمَعِينَ",
+      "translation": "Então, Muhammad, por teu Senhor! Interrogá-los-emos, a todos.",
+      "footnotes": ""
+    },
+    {
+      "id": "1895",
+      "sura": "15",
+      "aya": "93",
+      "arabic_text": "عَمَّا كَانُواْ يَعۡمَلُونَ",
+      "translation": "Acerca do que faziam.",
+      "footnotes": ""
+    },
+    {
+      "id": "1896",
+      "sura": "15",
+      "aya": "94",
+      "arabic_text": "فَٱصۡدَعۡ بِمَا تُؤۡمَرُ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِينَ",
+      "translation": "Proclama, então, aquilo para o qual és ordenado e dá de ombros aos idólatras.",
+      "footnotes": ""
+    },
+    {
+      "id": "1897",
+      "sura": "15",
+      "aya": "95",
+      "arabic_text": "إِنَّا كَفَيۡنَٰكَ ٱلۡمُسۡتَهۡزِءِينَ",
+      "translation": "Por certo, Nós bastamo-te contra os zombadores.",
+      "footnotes": ""
+    },
+    {
+      "id": "1898",
+      "sura": "15",
+      "aya": "96",
+      "arabic_text": "ٱلَّذِينَ يَجۡعَلُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۚ فَسَوۡفَ يَعۡلَمُونَ",
+      "translation": "Que fazem, junto de Allah, outro deus. Então eles logo saberão.",
+      "footnotes": ""
+    },
+    {
+      "id": "1899",
+      "sura": "15",
+      "aya": "97",
+      "arabic_text": "وَلَقَدۡ نَعۡلَمُ أَنَّكَ يَضِيقُ صَدۡرُكَ بِمَا يَقُولُونَ",
+      "translation": "E, em verdade, sabemos que teu peito se constrange com o que dizem.",
+      "footnotes": ""
+    },
+    {
+      "id": "1900",
+      "sura": "15",
+      "aya": "98",
+      "arabic_text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُن مِّنَ ٱلسَّٰجِدِينَ",
+      "translation": "Então, glorifica com louvor, a teu Senhor e sê dos que se prosternam.",
+      "footnotes": ""
+    },
+    {
+      "id": "1901",
+      "sura": "15",
+      "aya": "99",
+      "arabic_text": "وَٱعۡبُدۡ رَبَّكَ حَتَّىٰ يَأۡتِيَكَ ٱلۡيَقِينُ",
+      "translation": "E adora teu Senhor, até chegar-te a certeza.",
+      "footnotes": ""
+    }
+  ]
+}

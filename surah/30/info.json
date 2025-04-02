@@ -1,0 +1,27 @@
+{
+  "number": 30,
+  "name": {
+    "ar": "الروم",
+    "en": "The Romans",
+    "transliteration": "Ar-Rum"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 84,
+  "bismillah_pre": true,
+  "verses_count": 60,
+  "words_count": 819,
+  "letters_count": 3388,
+  "pages": [
+    404,
+    410
+  ],
+  "name_simple": "Ar-Rum",
+  "name_complex": "Ar-Rūm",
+  "name_arabic": "الروم",
+  "translated_name": "The Romans",
+  "start_page": 404,
+  "end_page": 410
+}

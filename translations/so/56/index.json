@@ -1,0 +1,772 @@
+{
+  "result": [
+    {
+      "id": "4980",
+      "sura": "56",
+      "aya": "1",
+      "arabic_text": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+      "translation": "1. Markay dhacdada weyni dhacdo (waa Qiyaamada).1",
+      "footnotes": "1. Al-Waaqica: Dhacdada dhici doonta, waxaa loola jeedaa Maalinta Qiyaamaha."
+    },
+    {
+      "id": "4981",
+      "sura": "56",
+      "aya": "2",
+      "arabic_text": "لَيۡسَ لِوَقۡعَتِهَا كَاذِبَةٌ",
+      "translation": "2. Ma jiro dhiciddeeda wax beenin.",
+      "footnotes": ""
+    },
+    {
+      "id": "4982",
+      "sura": "56",
+      "aya": "3",
+      "arabic_text": "خَافِضَةٞ رَّافِعَةٌ",
+      "translation": "3. Hoos u dhigeysa (ehlu Naarka) kor u qaadeysa (ehlu Jannaha)2.",
+      "footnotes": "2. Hadba sida camalkoodu yahay oo looma eegayo maal iyo jago uu hayo siduu yahay xaalka adduunkan."
+    },
+    {
+      "id": "4983",
+      "sura": "56",
+      "aya": "4",
+      "arabic_text": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+      "translation": "4. Marka la gilgilo dhulka gilgilid daran.",
+      "footnotes": ""
+    },
+    {
+      "id": "4984",
+      "sura": "56",
+      "aya": "5",
+      "arabic_text": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+      "translation": "5. Buuraha la ridqo ridqin daran.",
+      "footnotes": ""
+    },
+    {
+      "id": "4985",
+      "sura": "56",
+      "aya": "6",
+      "arabic_text": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+      "translation": "6. Oo ay noqoto sida boor firdhisan.",
+      "footnotes": ""
+    },
+    {
+      "id": "4986",
+      "sura": "56",
+      "aya": "7",
+      "arabic_text": "وَكُنتُمۡ أَزۡوَٰجٗا ثَلَٰثَةٗ",
+      "translation": "7. Oo aad ahaataan (dadow) saddex nooc.",
+      "footnotes": ""
+    },
+    {
+      "id": "4987",
+      "sura": "56",
+      "aya": "8",
+      "arabic_text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "translation": "8. Kuwa ah Gacanta Midig (ehlu jannaha), nasiib badanaa kuwa ah Gacanta Midig.",
+      "footnotes": ""
+    },
+    {
+      "id": "4988",
+      "sura": "56",
+      "aya": "9",
+      "arabic_text": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "translation": "9. Kuwase ah Gacanta Bidix (ehlu Naarka), ayaan darnaa kuwa ah Gacanta Bidix.",
+      "footnotes": ""
+    },
+    {
+      "id": "4989",
+      "sura": "56",
+      "aya": "10",
+      "arabic_text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+      "translation": "10. Kuwa u hor mara (Iimaanka iyo falashada camallada wanaagsan) iyagaa horreyn3.",
+      "footnotes": "3. Sida anbiyada Ilaahay iyo kuwa horey ka rumeeyey iyagaa hor geli doona Jannada."
+    },
+    {
+      "id": "4990",
+      "sura": "56",
+      "aya": "11",
+      "arabic_text": "أُوْلَٰٓئِكَ ٱلۡمُقَرَّبُونَ",
+      "translation": "11. Waa kuwa loo soo dhoweyn (Ilaahay).",
+      "footnotes": ""
+    },
+    {
+      "id": "4991",
+      "sura": "56",
+      "aya": "12",
+      "arabic_text": "فِي جَنَّٰتِ ٱلنَّعِيمِ",
+      "translation": "12. Waxay Ku sugnaan Beero barwaaqo ah gudahood (jannooyin).",
+      "footnotes": ""
+    },
+    {
+      "id": "4992",
+      "sura": "56",
+      "aya": "13",
+      "arabic_text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "translation": "13. (Ay geli) jameeco badan oo ah horraankii (ummadan iyo ummadaha kaleba).",
+      "footnotes": ""
+    },
+    {
+      "id": "4993",
+      "sura": "56",
+      "aya": "14",
+      "arabic_text": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "translation": "14.Iyo in yar oo ka mid ah facyadii dambe4.",
+      "footnotes": "4. Waxaa loola jeedaa kuwii ahaa aakhirka ummaddan."
+    },
+    {
+      "id": "4994",
+      "sura": "56",
+      "aya": "15",
+      "arabic_text": "عَلَىٰ سُرُرٖ مَّوۡضُونَةٖ",
+      "translation": "15. Iyagoo ku sugnaan sariiro dahab lagu qurxiyey.",
+      "footnotes": ""
+    },
+    {
+      "id": "4995",
+      "sura": "56",
+      "aya": "16",
+      "arabic_text": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+      "translation": "16. Ku dangiigsan korkeeda,fool ka fool ah.",
+      "footnotes": ""
+    },
+    {
+      "id": "4996",
+      "sura": "56",
+      "aya": "17",
+      "arabic_text": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ",
+      "translation": "17. Waxaa u adeegi wiilal waaraya aanay da’ doorin, kuwaa oo kula wareegi doona,",
+      "footnotes": ""
+    },
+    {
+      "id": "4997",
+      "sura": "56",
+      "aya": "18",
+      "arabic_text": "بِأَكۡوَابٖ وَأَبَارِيقَ وَكَأۡسٖ مِّن مَّعِينٖ",
+      "translation": "18. Koobab iyo kirliyo iyo galaasyo (khamri saafi ah) xagga il socota (Jannada).",
+      "footnotes": ""
+    },
+    {
+      "id": "4998",
+      "sura": "56",
+      "aya": "19",
+      "arabic_text": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+      "translation": "19. Aanu marnaba madaxu ku wareerin kuna maan guurin.",
+      "footnotes": ""
+    },
+    {
+      "id": "4999",
+      "sura": "56",
+      "aya": "20",
+      "arabic_text": "وَفَٰكِهَةٖ مِّمَّا يَتَخَيَّرُونَ",
+      "translation": "20. Iyo midho waxay doortaan ah.",
+      "footnotes": ""
+    },
+    {
+      "id": "5000",
+      "sura": "56",
+      "aya": "21",
+      "arabic_text": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
+      "translation": "21. Iyo hilib shimbiro kay rabaanba.",
+      "footnotes": ""
+    },
+    {
+      "id": "5001",
+      "sura": "56",
+      "aya": "22",
+      "arabic_text": "وَحُورٌ عِينٞ",
+      "translation": "22. Oo (ay u wehelin doonaan) xuurul cayn.",
+      "footnotes": ""
+    },
+    {
+      "id": "5002",
+      "sura": "56",
+      "aya": "23",
+      "arabic_text": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+      "translation": "23. La moodo luul la dhowray.",
+      "footnotes": ""
+    },
+    {
+      "id": "5003",
+      "sura": "56",
+      "aya": "24",
+      "arabic_text": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+      "translation": "24. Waa abaalgud waxay camalsan fali jireen.",
+      "footnotes": ""
+    },
+    {
+      "id": "5004",
+      "sura": "56",
+      "aya": "25",
+      "arabic_text": "لَا يَسۡمَعُونَ فِيهَا لَغۡوٗا وَلَا تَأۡثِيمًا",
+      "translation": "25. Kuma maqlaan (Jannada) hadal macno darro ah iyo denbi midna.",
+      "footnotes": ""
+    },
+    {
+      "id": "5005",
+      "sura": "56",
+      "aya": "26",
+      "arabic_text": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا",
+      "translation": "26. Waxaan ahayn odhaahda nabad nabad.",
+      "footnotes": ""
+    },
+    {
+      "id": "5006",
+      "sura": "56",
+      "aya": "27",
+      "arabic_text": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
+      "translation": "27. Kuwa ah Gacanta Midig, nasiib badanaa kuwa ah Gacanta Midig?.",
+      "footnotes": ""
+    },
+    {
+      "id": "5007",
+      "sura": "56",
+      "aya": "28",
+      "arabic_text": "فِي سِدۡرٖ مَّخۡضُودٖ",
+      "translation": "28. (Waxay dhex ahaan) geedo gob aan qodax lahayn.",
+      "footnotes": ""
+    },
+    {
+      "id": "5008",
+      "sura": "56",
+      "aya": "29",
+      "arabic_text": "وَطَلۡحٖ مَّنضُودٖ",
+      "translation": "29. Iyo geedo Muus ah midho karooran.",
+      "footnotes": ""
+    },
+    {
+      "id": "5009",
+      "sura": "56",
+      "aya": "30",
+      "arabic_text": "وَظِلّٖ مَّمۡدُودٖ",
+      "translation": "30. Iyo har fidsan,",
+      "footnotes": ""
+    },
+    {
+      "id": "5010",
+      "sura": "56",
+      "aya": "31",
+      "arabic_text": "وَمَآءٖ مَّسۡكُوبٖ",
+      "translation": "31. Iyo biyo u socda joogto,",
+      "footnotes": ""
+    },
+    {
+      "id": "5011",
+      "sura": "56",
+      "aya": "32",
+      "arabic_text": "وَفَٰكِهَةٖ كَثِيرَةٖ",
+      "translation": "32. Iyo midho tiro badan.",
+      "footnotes": ""
+    },
+    {
+      "id": "5012",
+      "sura": "56",
+      "aya": "33",
+      "arabic_text": "لَّا مَقۡطُوعَةٖ وَلَا مَمۡنُوعَةٖ",
+      "translation": "33. Marnaba aan go’eyn, la isuna diideyn.",
+      "footnotes": ""
+    },
+    {
+      "id": "5013",
+      "sura": "56",
+      "aya": "34",
+      "arabic_text": "وَفُرُشٖ مَّرۡفُوعَةٍ",
+      "translation": "34. Iyo sariiro (boqoreed) la kor yeelay.",
+      "footnotes": ""
+    },
+    {
+      "id": "5014",
+      "sura": "56",
+      "aya": "35",
+      "arabic_text": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ",
+      "translation": "35. Waxaan Annaga (Alle ah) ka yeeli inay soo baxaan iyaga (haweenkii adduunka ee Jannada galay) soo bixid gaar ah.",
+      "footnotes": ""
+    },
+    {
+      "id": "5015",
+      "sura": "56",
+      "aya": "36",
+      "arabic_text": "فَجَعَلۡنَٰهُنَّ أَبۡكَارًا",
+      "translation": "36. Kana dhigi bikrooyin ugub ah.",
+      "footnotes": ""
+    },
+    {
+      "id": "5016",
+      "sura": "56",
+      "aya": "37",
+      "arabic_text": "عُرُبًا أَتۡرَابٗا",
+      "translation": "37. Gacalooyin, isku wada da’ ah.",
+      "footnotes": ""
+    },
+    {
+      "id": "5017",
+      "sura": "56",
+      "aya": "38",
+      "arabic_text": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
+      "translation": "38. Oo ay leeyihiin kuwa ah Gacanta Midig.",
+      "footnotes": ""
+    },
+    {
+      "id": "5018",
+      "sura": "56",
+      "aya": "39",
+      "arabic_text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+      "translation": "39. Kuwo badan oo ka mid ah waa facyadii hore.",
+      "footnotes": ""
+    },
+    {
+      "id": "5019",
+      "sura": "56",
+      "aya": "40",
+      "arabic_text": "وَثُلَّةٞ مِّنَ ٱلۡأٓخِرِينَ",
+      "translation": "40. Kuwo badan oo ka mid ahna facyada dambe.",
+      "footnotes": ""
+    },
+    {
+      "id": "5020",
+      "sura": "56",
+      "aya": "41",
+      "arabic_text": "وَأَصۡحَٰبُ ٱلشِّمَالِ مَآ أَصۡحَٰبُ ٱلشِّمَالِ",
+      "translation": "41.Kuwase ah Gacanta Bidix-ayaan darnaa kuwaa ah Gacanta Bidix (ehlu Naarka)?",
+      "footnotes": ""
+    },
+    {
+      "id": "5021",
+      "sura": "56",
+      "aya": "42",
+      "arabic_text": "فِي سَمُومٖ وَحَمِيمٖ",
+      "translation": "42. Waxay dhex ahaan hanfi kulul iyo biyo karkaraya.",
+      "footnotes": ""
+    },
+    {
+      "id": "5022",
+      "sura": "56",
+      "aya": "43",
+      "arabic_text": "وَظِلّٖ مِّن يَحۡمُومٖ",
+      "translation": "43. Iyo hoos qiiq badan.",
+      "footnotes": ""
+    },
+    {
+      "id": "5023",
+      "sura": "56",
+      "aya": "44",
+      "arabic_text": "لَّا بَارِدٖ وَلَا كَرِيمٍ",
+      "translation": "44.Aan laheyn qabow iyo arag fiican midna.",
+      "footnotes": ""
+    },
+    {
+      "id": "5024",
+      "sura": "56",
+      "aya": "45",
+      "arabic_text": "إِنَّهُمۡ كَانُواْ قَبۡلَ ذَٰلِكَ مُتۡرَفِينَ",
+      "translation": "45. Waxay ahaayeen taa horteed (adduunka) kuwo ku raaxeysta (xaaraan).",
+      "footnotes": ""
+    },
+    {
+      "id": "5025",
+      "sura": "56",
+      "aya": "46",
+      "arabic_text": "وَكَانُواْ يُصِرُّونَ عَلَى ٱلۡحِنثِ ٱلۡعَظِيمِ",
+      "translation": "46. Oo waxay ku adkeysan jireen Denbiga weyn (shirkiga).",
+      "footnotes": ""
+    },
+    {
+      "id": "5026",
+      "sura": "56",
+      "aya": "47",
+      "arabic_text": "وَكَانُواْ يَقُولُونَ أَئِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+      "translation": "47. Waxayna odhan jireen: Ma markaan dhimanno oo noqonno carro iyo lafo, miyaa nala soo nooleyn (dhimashada kaddib)?.",
+      "footnotes": ""
+    },
+    {
+      "id": "5027",
+      "sura": "56",
+      "aya": "48",
+      "arabic_text": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+      "translation": "48. Sidoo kale miyaa aabbayaashayadii hore (la soo nooleyn)?",
+      "footnotes": ""
+    },
+    {
+      "id": "5028",
+      "sura": "56",
+      "aya": "49",
+      "arabic_text": "قُلۡ إِنَّ ٱلۡأَوَّلِينَ وَٱلۡأٓخِرِينَ",
+      "translation": "49. Dheh, kuwii hore iyo kuwa dambaba.",
+      "footnotes": ""
+    },
+    {
+      "id": "5029",
+      "sura": "56",
+      "aya": "50",
+      "arabic_text": "لَمَجۡمُوعُونَ إِلَىٰ مِيقَٰتِ يَوۡمٖ مَّعۡلُومٖ",
+      "translation": "50. Waxaa hubaal loo soo kulmin wada jir madal Maalin la yaqaan (Qiyaamada).",
+      "footnotes": ""
+    },
+    {
+      "id": "5030",
+      "sura": "56",
+      "aya": "51",
+      "arabic_text": "ثُمَّ إِنَّكُمۡ أَيُّهَا ٱلضَّآلُّونَ ٱلۡمُكَذِّبُونَ",
+      "translation": "51. Markaas idinka kuwiinan habowsana- yaasha ahow, ee beeniyow (Qiyaamaha).",
+      "footnotes": ""
+    },
+    {
+      "id": "5031",
+      "sura": "56",
+      "aya": "52",
+      "arabic_text": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
+      "translation": "52. Waxaad wax ka cuneysaan geed xun oo Zaqquum ah5.",
+      "footnotes": "5. Waa geed Naarta ku yaal oo u keena xanuun daran qofkii cuna."
+    },
+    {
+      "id": "5032",
+      "sura": "56",
+      "aya": "53",
+      "arabic_text": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+      "translation": "53. Oo ka buuxineysaan caloolihiinna.",
+      "footnotes": ""
+    },
+    {
+      "id": "5033",
+      "sura": "56",
+      "aya": "54",
+      "arabic_text": "فَشَٰرِبُونَ عَلَيۡهِ مِنَ ٱلۡحَمِيمِ",
+      "translation": "54. Waxaad ku cabbeyssan biyo kulul oo karkaraya.",
+      "footnotes": ""
+    },
+    {
+      "id": "5034",
+      "sura": "56",
+      "aya": "55",
+      "arabic_text": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+      "translation": "55. U cabbeysaan sida cabbidda geel asqoobay.",
+      "footnotes": ""
+    },
+    {
+      "id": "5035",
+      "sura": "56",
+      "aya": "56",
+      "arabic_text": "هَٰذَا نُزُلُهُمۡ يَوۡمَ ٱلدِّينِ",
+      "translation": "56. Kaasi waa waxa lagu soori (gaalada) Maalinta Abaal marinta (Qiyaamaha).",
+      "footnotes": ""
+    },
+    {
+      "id": "5036",
+      "sura": "56",
+      "aya": "57",
+      "arabic_text": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+      "translation": "57. Annagaa (waa Alle'e) idin abuurnay, ee maxaad la rumeyn weydeen?",
+      "footnotes": ""
+    },
+    {
+      "id": "5037",
+      "sura": "56",
+      "aya": "58",
+      "arabic_text": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+      "translation": "58. Ma u fiirsateen minada idinka timaadda?",
+      "footnotes": ""
+    },
+    {
+      "id": "5038",
+      "sura": "56",
+      "aya": "59",
+      "arabic_text": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
+      "translation": "59. Ma idinkaa abuura mise waa Annaga (Allaah ah) Abuurayaasha?",
+      "footnotes": ""
+    },
+    {
+      "id": "5039",
+      "sura": "56",
+      "aya": "60",
+      "arabic_text": "نَحۡنُ قَدَّرۡنَا بَيۡنَكُمُ ٱلۡمَوۡتَ وَمَا نَحۡنُ بِمَسۡبُوقِينَ",
+      "translation": "60. Annagaa idiin qaddarnay dhimashada dhexdiinna, mana jiro qof naga baxsan kara.",
+      "footnotes": ""
+    },
+    {
+      "id": "5040",
+      "sura": "56",
+      "aya": "61",
+      "arabic_text": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+      "translation": "61. Inaan idinku beddelno kuwa idinla mid ah oo aan idiin soo saarno (qaabab iyo suurado) aydaan garaneyn.",
+      "footnotes": ""
+    },
+    {
+      "id": "5041",
+      "sura": "56",
+      "aya": "62",
+      "arabic_text": "وَلَقَدۡ عَلِمۡتُمُ ٱلنَّشۡأَةَ ٱلۡأُولَىٰ فَلَوۡلَا تَذَكَّرُونَ",
+      "translation": "62.  Waadna og tihiin abuuriddii hore, ee miyeydaan waantoobeyn?",
+      "footnotes": ""
+    },
+    {
+      "id": "5042",
+      "sura": "56",
+      "aya": "63",
+      "arabic_text": "أَفَرَءَيۡتُم مَّا تَحۡرُثُونَ",
+      "translation": "63. Ma u fiirsateen waxaad beertaan?;",
+      "footnotes": ""
+    },
+    {
+      "id": "5043",
+      "sura": "56",
+      "aya": "64",
+      "arabic_text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّٰرِعُونَ",
+      "translation": "64. Ma idinkaa soo bixiya, mise waa Annaga (Alle ah) Kuwa soo Bixiya?",
+      "footnotes": ""
+    },
+    {
+      "id": "5044",
+      "sura": "56",
+      "aya": "65",
+      "arabic_text": "لَوۡ نَشَآءُ لَجَعَلۡنَٰهُ حُطَٰمٗا فَظَلۡتُمۡ تَفَكَّهُونَ",
+      "translation": "65. Haddaan Doonno,waxaan ka dhigeynaa xaabo engagan, markaasaad ka xumaan.",
+      "footnotes": ""
+    },
+    {
+      "id": "5045",
+      "sura": "56",
+      "aya": "66",
+      "arabic_text": "إِنَّا لَمُغۡرَمُونَ",
+      "translation": "66. (idinkoo leh): Waa nala khasaariyey.",
+      "footnotes": ""
+    },
+    {
+      "id": "5046",
+      "sura": "56",
+      "aya": "67",
+      "arabic_text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+      "translation": "67. Balse waa nala hoojiyey.",
+      "footnotes": ""
+    },
+    {
+      "id": "5047",
+      "sura": "56",
+      "aya": "68",
+      "arabic_text": "أَفَرَءَيۡتُمُ ٱلۡمَآءَ ٱلَّذِي تَشۡرَبُونَ",
+      "translation": "68. Ma u fiirsateen biyahaad cabtaan?",
+      "footnotes": ""
+    },
+    {
+      "id": "5048",
+      "sura": "56",
+      "aya": "69",
+      "arabic_text": "ءَأَنتُمۡ أَنزَلۡتُمُوهُ مِنَ ٱلۡمُزۡنِ أَمۡ نَحۡنُ ٱلۡمُنزِلُونَ",
+      "translation": "69. Ma idinkaa kuwa ka soo dejiya daruura- ha, mise Annaga weeye kuwa soo dejiya?",
+      "footnotes": ""
+    },
+    {
+      "id": "5049",
+      "sura": "56",
+      "aya": "70",
+      "arabic_text": "لَوۡ نَشَآءُ جَعَلۡنَٰهُ أُجَاجٗا فَلَوۡلَا تَشۡكُرُونَ",
+      "translation": "70.Haddaan doonno, Waxaan ka dhigeynaa jaan dhanaan oo milix ah (aan la dhami karin), ee maad ku shukridaan (Alle)?",
+      "footnotes": ""
+    },
+    {
+      "id": "5050",
+      "sura": "56",
+      "aya": "71",
+      "arabic_text": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+      "translation": "71. Ma u fiirsateen dabka aad madagta ka shiddaan.",
+      "footnotes": ""
+    },
+    {
+      "id": "5051",
+      "sura": "56",
+      "aya": "72",
+      "arabic_text": "ءَأَنتُمۡ أَنشَأۡتُمۡ شَجَرَتَهَآ أَمۡ نَحۡنُ ٱلۡمُنشِـُٔونَ",
+      "translation": "72. Ma idinkaa kuwa u soo saara geedaha, mise Annaga (Alle ah) weeye soo saarayaasha?",
+      "footnotes": ""
+    },
+    {
+      "id": "5052",
+      "sura": "56",
+      "aya": "73",
+      "arabic_text": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ",
+      "translation": "73. Annaga (Alle ah) baa waxaynu ka dhignay xusuus; iyo waxay ku intifaacaan kuwa ku safra saxraha (iyo qeyrkoodba)6.",
+      "footnotes": "6. Musaafiriinta ama socotada waxaa halkan loogu xusay gaar ahaan inuu arrinkaasi mudnaan gaar ah u leeyahay iyaga, inkastoo uu yahay sahay ay u baahan yihiin dadka guud ahaan. Dabkana waxaa lagu xusuustaa Naarta Aakhiro."
+    },
+    {
+      "id": "5053",
+      "sura": "56",
+      "aya": "74",
+      "arabic_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "translation": "74. Ee xurmee oo ku tasbiixso Magaca (Alle) Rabbigaa, Weynaha, Sharafta Badan.",
+      "footnotes": ""
+    },
+    {
+      "id": "5054",
+      "sura": "56",
+      "aya": "75",
+      "arabic_text": "۞ فَلَآ أُقۡسِمُ بِمَوَٰقِعِ ٱلنُّجُومِ",
+      "translation": "75. Mayee, Waxaan (waa Alle'e) ku dhaartay halkay xiddiguhu ku dhacaan.",
+      "footnotes": ""
+    },
+    {
+      "id": "5055",
+      "sura": "56",
+      "aya": "76",
+      "arabic_text": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+      "translation": "76. Waana dhaar weyn, haddaad ogaan lahaydeen.",
+      "footnotes": ""
+    },
+    {
+      "id": "5056",
+      "sura": "56",
+      "aya": "77",
+      "arabic_text": "إِنَّهُۥ لَقُرۡءَانٞ كَرِيمٞ",
+      "translation": "77. Hubaal kani waa Qur'aan Sharaf Badan.",
+      "footnotes": ""
+    },
+    {
+      "id": "5057",
+      "sura": "56",
+      "aya": "78",
+      "arabic_text": "فِي كِتَٰبٖ مَّكۡنُونٖ",
+      "translation": "78. Ku yaal Kitaab aad la dhowray (Looxa Maxfuudka).",
+      "footnotes": ""
+    },
+    {
+      "id": "5058",
+      "sura": "56",
+      "aya": "79",
+      "arabic_text": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+      "translation": "79. Cidna taaban kuwa la daahiriyey mooyee (malaa’igta).",
+      "footnotes": ""
+    },
+    {
+      "id": "5059",
+      "sura": "56",
+      "aya": "80",
+      "arabic_text": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+      "translation": "80. Waa soo dejinta Rabbiga uumanka.",
+      "footnotes": ""
+    },
+    {
+      "id": "5060",
+      "sura": "56",
+      "aya": "81",
+      "arabic_text": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+      "translation": "81. Ma warkan (Qur’aanka) baad (gaaloy) u qaadataan wax fudud aan qiimo lahayn?",
+      "footnotes": ""
+    },
+    {
+      "id": "5061",
+      "sura": "56",
+      "aya": "82",
+      "arabic_text": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+      "translation": "82. oo aad ka yeeleysaan (mahaddii) risiqiinna beenin (Xaqa).",
+      "footnotes": ""
+    },
+    {
+      "id": "5062",
+      "sura": "56",
+      "aya": "83",
+      "arabic_text": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+      "translation": "83. Maxaydaan markay (naftu) dhuunta gaadho.",
+      "footnotes": ""
+    },
+    {
+      "id": "5063",
+      "sura": "56",
+      "aya": "84",
+      "arabic_text": "وَأَنتُمۡ حِينَئِذٖ تَنظُرُونَ",
+      "translation": "84. Idinkuna markaas aad u jeeddaan (qofka dhiman).",
+      "footnotes": ""
+    },
+    {
+      "id": "5064",
+      "sura": "56",
+      "aya": "85",
+      "arabic_text": "وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنكُمۡ وَلَٰكِن لَّا تُبۡصِرُونَ",
+      "translation": "85. Annaguna (Alle ah Ogaal iyo Awood ahaan iyo malaa’igtayada) idiinka dhownahay, laakiinse aydaan arkayn.",
+      "footnotes": ""
+    },
+    {
+      "id": "5065",
+      "sura": "56",
+      "aya": "86",
+      "arabic_text": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+      "translation": "86. Haddaad tihiin kuwo aan la soo bixineyn oo la xisaabineyn (Aakhirada).",
+      "footnotes": ""
+    },
+    {
+      "id": "5066",
+      "sura": "56",
+      "aya": "87",
+      "arabic_text": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+      "translation": "87. Maxaad Ugu soo celin (weydeen) nafta (jirkeedii) haddaad run sheegeysaan?",
+      "footnotes": ""
+    },
+    {
+      "id": "5067",
+      "sura": "56",
+      "aya": "88",
+      "arabic_text": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+      "translation": "88. Hadduu ka mid yahay kuwa loo soo dhoweeyo (Allaah).",
+      "footnotes": ""
+    },
+    {
+      "id": "5068",
+      "sura": "56",
+      "aya": "89",
+      "arabic_text": "فَرَوۡحٞ وَرَيۡحَانٞ وَجَنَّتُ نَعِيمٖ",
+      "translation": "89. Waxaa u ahaaday raaxo, reynreyn, reexaan udgoon iyo Janno barwaaqo ah.",
+      "footnotes": ""
+    },
+    {
+      "id": "5069",
+      "sura": "56",
+      "aya": "90",
+      "arabic_text": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "translation": "90. Hadduu ka mid yahay kuwa ah gacanta midig (ehlu Jannada).",
+      "footnotes": ""
+    },
+    {
+      "id": "5070",
+      "sura": "56",
+      "aya": "91",
+      "arabic_text": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+      "translation": "91. Nabad baa idiin sugnaatay kuwa ahow gacanta midig.",
+      "footnotes": ""
+    },
+    {
+      "id": "5071",
+      "sura": "56",
+      "aya": "92",
+      "arabic_text": "وَأَمَّآ إِن كَانَ مِنَ ٱلۡمُكَذِّبِينَ ٱلضَّآلِّينَ",
+      "translation": "92. Haddiise uu ka mid yahay (Xaq) beeniyayaasha, habowsanaaysaha ah.",
+      "footnotes": ""
+    },
+    {
+      "id": "5072",
+      "sura": "56",
+      "aya": "93",
+      "arabic_text": "فَنُزُلٞ مِّنۡ حَمِيمٖ",
+      "translation": "93. Waxaa lagu sooryeen  biyo kulul oo karaya.",
+      "footnotes": ""
+    },
+    {
+      "id": "5073",
+      "sura": "56",
+      "aya": "94",
+      "arabic_text": "وَتَصۡلِيَةُ جَحِيمٍ",
+      "translation": "94. Iyo ku gubasho Dabka aan dameyn ee ololka badan (Naarta).",
+      "footnotes": ""
+    },
+    {
+      "id": "5074",
+      "sura": "56",
+      "aya": "95",
+      "arabic_text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+      "translation": "95. Arrinkani waa run la hubo oo xaqiiq ah.",
+      "footnotes": ""
+    },
+    {
+      "id": "5075",
+      "sura": "56",
+      "aya": "96",
+      "arabic_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+      "translation": "96. Ee xurmee oo huf Magaca (Alle) Rabbigaa, Weynaha, Sharafta Badan.",
+      "footnotes": ""
+    }
+  ]
+}

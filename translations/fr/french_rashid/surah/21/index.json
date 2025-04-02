@@ -1,0 +1,900 @@
+{
+  "result": [
+    {
+      "id": "2484",
+      "sura": "21",
+      "aya": "1",
+      "arabic_text": "ٱقۡتَرَبَ لِلنَّاسِ حِسَابُهُمۡ وَهُمۡ فِي غَفۡلَةٖ مُّعۡرِضُونَ",
+      "translation": "1 Le jugement des hommes approche. Mais ces derniers, insouciants, se détournent de Nos avertissements.",
+      "footnotes": ""
+    },
+    {
+      "id": "2485",
+      "sura": "21",
+      "aya": "2",
+      "arabic_text": "مَا يَأۡتِيهِم مِّن ذِكۡرٖ مِّن رَّبِّهِم مُّحۡدَثٍ إِلَّا ٱسۡتَمَعُوهُ وَهُمۡ يَلۡعَبُونَ",
+      "translation": "2 Aucune nouvelle révélation de leur Seigneur ne leur est transmise sans qu’ils ne l’écoutent avec amusement,",
+      "footnotes": ""
+    },
+    {
+      "id": "2486",
+      "sura": "21",
+      "aya": "3",
+      "arabic_text": "لَاهِيَةٗ قُلُوبُهُمۡۗ وَأَسَرُّواْ ٱلنَّجۡوَى ٱلَّذِينَ ظَلَمُواْ هَلۡ هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡۖ أَفَتَأۡتُونَ ٱلسِّحۡرَ وَأَنتُمۡ تُبۡصِرُونَ",
+      "translation": "3 le cœur distrait. Les impies se disent en secret : « N’est-il pas un simple homme comme nous ? Allons-nous croire à ce qui est manifestement de la magie ? »",
+      "footnotes": ""
+    },
+    {
+      "id": "2487",
+      "sura": "21",
+      "aya": "4",
+      "arabic_text": "قَالَ رَبِّي يَعۡلَمُ ٱلۡقَوۡلَ فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+      "translation": "4 Le Prophète dit : « Mon Seigneur, Celui qui entend tout et sait tout, connaît parfaitement ce qui se dit au ciel et sur terre. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2488",
+      "sura": "21",
+      "aya": "5",
+      "arabic_text": "بَلۡ قَالُوٓاْ أَضۡغَٰثُ أَحۡلَٰمِۭ بَلِ ٱفۡتَرَىٰهُ بَلۡ هُوَ شَاعِرٞ فَلۡيَأۡتِنَا بِـَٔايَةٖ كَمَآ أُرۡسِلَ ٱلۡأَوَّلُونَ",
+      "translation": "5 Ils disent encore au sujet du Coran : « Ce n’est là qu’un tissu de rêves, à moins qu’il ne l’ait inventé ou qu’il ne s’agisse tout simplement de l’œuvre d’un poète. Qu’il produise donc sous nos yeux un miracle comme le firent les premiers prophètes. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2489",
+      "sura": "21",
+      "aya": "6",
+      "arabic_text": "مَآ ءَامَنَتۡ قَبۡلَهُم مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَآۖ أَفَهُمۡ يُؤۡمِنُونَ",
+      "translation": "6 Aucune cité, parmi celles que Nous avons anéanties avant eux, n’a ajouté foi aux miracles. Se peut-il que ceux-ci y croient ?",
+      "footnotes": ""
+    },
+    {
+      "id": "2490",
+      "sura": "21",
+      "aya": "7",
+      "arabic_text": "وَمَآ أَرۡسَلۡنَا قَبۡلَكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِمۡۖ فَسۡـَٔلُوٓاْ أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ",
+      "translation": "7 Nous n’avons suscité avant toi, pour recevoir Nos révélations, que de simples mortels. Interrogez donc, pour vous en convaincre, les nations auxquelles ont été confiées les Ecritures.",
+      "footnotes": ""
+    },
+    {
+      "id": "2491",
+      "sura": "21",
+      "aya": "8",
+      "arabic_text": "وَمَا جَعَلۡنَٰهُمۡ جَسَدٗا لَّا يَأۡكُلُونَ ٱلطَّعَامَ وَمَا كَانُواْ خَٰلِدِينَ",
+      "translation": "8 Nous n’en avons pas fait des corps pouvant se passer de nourriture, ni des êtres immortels.",
+      "footnotes": ""
+    },
+    {
+      "id": "2492",
+      "sura": "21",
+      "aya": "9",
+      "arabic_text": "ثُمَّ صَدَقۡنَٰهُمُ ٱلۡوَعۡدَ فَأَنجَيۡنَٰهُمۡ وَمَن نَّشَآءُ وَأَهۡلَكۡنَا ٱلۡمُسۡرِفِينَ",
+      "translation": "9 Nous avons ensuite tenu Notre promesse envers eux, les sauvant avec ceux que Nous avons choisis et anéantissant ceux qui n’ont cessé de les traiter d’imposteurs.",
+      "footnotes": ""
+    },
+    {
+      "id": "2493",
+      "sura": "21",
+      "aya": "10",
+      "arabic_text": "لَقَدۡ أَنزَلۡنَآ إِلَيۡكُمۡ كِتَٰبٗا فِيهِ ذِكۡرُكُمۡۚ أَفَلَا تَعۡقِلُونَ",
+      "translation": "10 Nous vous avons, en vérité, révélé un livre édifiant qui fera votre gloire et votre renommée. Etes-vous donc dépourvus de toute raison ?",
+      "footnotes": ""
+    },
+    {
+      "id": "2494",
+      "sura": "21",
+      "aya": "11",
+      "arabic_text": "وَكَمۡ قَصَمۡنَا مِن قَرۡيَةٖ كَانَتۡ ظَالِمَةٗ وَأَنشَأۡنَا بَعۡدَهَا قَوۡمًا ءَاخَرِينَ",
+      "translation": "11 Que de cités impies avons-Nous brisées avant de remplacer ses habitants par d’autres hommes.",
+      "footnotes": ""
+    },
+    {
+      "id": "2495",
+      "sura": "21",
+      "aya": "12",
+      "arabic_text": "فَلَمَّآ أَحَسُّواْ بَأۡسَنَآ إِذَا هُم مِّنۡهَا يَرۡكُضُونَ",
+      "translation": "12 Voyant Nos rigueurs s’approcher, ils se sont précipités à l’extérieur de leur cité.",
+      "footnotes": ""
+    },
+    {
+      "id": "2496",
+      "sura": "21",
+      "aya": "13",
+      "arabic_text": "لَا تَرۡكُضُواْ وَٱرۡجِعُوٓاْ إِلَىٰ مَآ أُتۡرِفۡتُمۡ فِيهِ وَمَسَٰكِنِكُمۡ لَعَلَّكُمۡ تُسۡـَٔلُونَ",
+      "translation": "13 « Ne vous précipitez pas ! Revenez à vos foyers et aux plaisirs dont vous jouissiez. Vous serez peut-être interrogés ! »",
+      "footnotes": ""
+    },
+    {
+      "id": "2497",
+      "sura": "21",
+      "aya": "14",
+      "arabic_text": "قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+      "translation": "14 Ils dirent : « Malheur à nous ! Nous avons vécu dans l’impiété ! »",
+      "footnotes": ""
+    },
+    {
+      "id": "2498",
+      "sura": "21",
+      "aya": "15",
+      "arabic_text": "فَمَا زَالَت تِّلۡكَ دَعۡوَىٰهُمۡ حَتَّىٰ جَعَلۡنَٰهُمۡ حَصِيدًا خَٰمِدِينَ",
+      "translation": "15 Paroles qu’ils ne cessèrent de répéter jusqu’au moment où Nous en fîmes des corps sans vie, fauchés par la mort.",
+      "footnotes": ""
+    },
+    {
+      "id": "2499",
+      "sura": "21",
+      "aya": "16",
+      "arabic_text": "وَمَا خَلَقۡنَا ٱلسَّمَآءَ وَٱلۡأَرۡضَ وَمَا بَيۡنَهُمَا لَٰعِبِينَ",
+      "translation": "16 Nous n’avons pas créé le ciel, la terre et tout ce qui se trouve entre eux, par jeu.",
+      "footnotes": ""
+    },
+    {
+      "id": "2500",
+      "sura": "21",
+      "aya": "17",
+      "arabic_text": "لَوۡ أَرَدۡنَآ أَن نَّتَّخِذَ لَهۡوٗا لَّٱتَّخَذۡنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ",
+      "translation": "17 Si Nous avions voulu une distraction, Nous l’aurions trouvée auprès de Nous. Si telle avait été notre intention.",
+      "footnotes": ""
+    },
+    {
+      "id": "2501",
+      "sura": "21",
+      "aya": "18",
+      "arabic_text": "بَلۡ نَقۡذِفُ بِٱلۡحَقِّ عَلَى ٱلۡبَٰطِلِ فَيَدۡمَغُهُۥ فَإِذَا هُوَ زَاهِقٞۚ وَلَكُمُ ٱلۡوَيۡلُ مِمَّا تَصِفُونَ",
+      "translation": "18 Mais Nous faisons éclater la vérité qui aussitôt fait disparaître le faux. Malheur donc à vous pour les blasphèmes que vous proférez !",
+      "footnotes": ""
+    },
+    {
+      "id": "2502",
+      "sura": "21",
+      "aya": "19",
+      "arabic_text": "وَلَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَنۡ عِندَهُۥ لَا يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَلَا يَسۡتَحۡسِرُونَ",
+      "translation": "19 Il est le Maître de tous les êtres qui peuplent les cieux et la terre. Les anges qui se trouvent auprès de Lui ne refusent jamais par orgueil de L’adorer et ne se lassent jamais de Le vénérer.",
+      "footnotes": ""
+    },
+    {
+      "id": "2503",
+      "sura": "21",
+      "aya": "20",
+      "arabic_text": "يُسَبِّحُونَ ٱلَّيۡلَ وَٱلنَّهَارَ لَا يَفۡتُرُونَ",
+      "translation": "20 Ils célèbrent nuit et jour, avec la même ferveur, la gloire de leur Seigneur.",
+      "footnotes": ""
+    },
+    {
+      "id": "2504",
+      "sura": "21",
+      "aya": "21",
+      "arabic_text": "أَمِ ٱتَّخَذُوٓاْ ءَالِهَةٗ مِّنَ ٱلۡأَرۡضِ هُمۡ يُنشِرُونَ",
+      "translation": "21 Ont-ils adopté sur terre[839] des divinités capables de ressusciter les morts ?",
+      "footnotes": "[839] Ou : ont-ils tiré de la terre. Les idoles païennes étaient généralement de bois ou de pierre."
+    },
+    {
+      "id": "2505",
+      "sura": "21",
+      "aya": "22",
+      "arabic_text": "لَوۡ كَانَ فِيهِمَآ ءَالِهَةٌ إِلَّا ٱللَّهُ لَفَسَدَتَاۚ فَسُبۡحَٰنَ ٱللَّهِ رَبِّ ٱلۡعَرۡشِ عَمَّا يَصِفُونَ",
+      "translation": "22 S’il se trouvait au ciel ou sur terre d’autres divinités qu’Allah, tous deux seraient livrés au chaos. Gloire donc à Allah, Maître du Trône, que leurs blasphèmes ne sauraient atteindre !",
+      "footnotes": ""
+    },
+    {
+      "id": "2506",
+      "sura": "21",
+      "aya": "23",
+      "arabic_text": "لَا يُسۡـَٔلُ عَمَّا يَفۡعَلُ وَهُمۡ يُسۡـَٔلُونَ",
+      "translation": "23 Le Seigneur n’a aucunement à répondre de Ses actes, tandis que Ses serviteurs devront rendre compte de leurs agissements.",
+      "footnotes": ""
+    },
+    {
+      "id": "2507",
+      "sura": "21",
+      "aya": "24",
+      "arabic_text": "أَمِ ٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗۖ قُلۡ هَاتُواْ بُرۡهَٰنَكُمۡۖ هَٰذَا ذِكۡرُ مَن مَّعِيَ وَذِكۡرُ مَن قَبۡلِيۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ ٱلۡحَقَّۖ فَهُم مُّعۡرِضُونَ",
+      "translation": "24 Ont-ils adopté des divinités en dehors de Lui ? Dis-leur : « Apportez vos preuves du bien-fondé de vos pratiques ! Voici le Livre de ma communauté et les Ecritures révélées aux nations qui l’ont précédée[840]. Mais la plupart ne veulent pas connaître la vérité dont ils préfèrent se détourner.",
+      "footnotes": "[840] Il n’est nulle part écrit que d’autres divinités qu’Allah méritent d’être adorées."
+    },
+    {
+      "id": "2508",
+      "sura": "21",
+      "aya": "25",
+      "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولٍ إِلَّا نُوحِيٓ إِلَيۡهِ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدُونِ",
+      "translation": "25 Nous n’avons envoyé avant toi nul Messager sans lui révéler qu’il n’est de divinité en droit d’être adorée qu’Allah qui, seul, doit être vénéré.",
+      "footnotes": ""
+    },
+    {
+      "id": "2509",
+      "sura": "21",
+      "aya": "26",
+      "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ",
+      "translation": "26 Les idolâtres prétendent que le Tout Miséricordieux s’est donné des filles. Gloire à Lui ! Les anges sont au contraire des serviteurs honorés",
+      "footnotes": ""
+    },
+    {
+      "id": "2510",
+      "sura": "21",
+      "aya": "27",
+      "arabic_text": "لَا يَسۡبِقُونَهُۥ بِٱلۡقَوۡلِ وَهُم بِأَمۡرِهِۦ يَعۡمَلُونَ",
+      "translation": "27 qui se gardent de prendre la parole avant Lui et de transgresser Ses ordres.",
+      "footnotes": ""
+    },
+    {
+      "id": "2511",
+      "sura": "21",
+      "aya": "28",
+      "arabic_text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يَشۡفَعُونَ إِلَّا لِمَنِ ٱرۡتَضَىٰ وَهُم مِّنۡ خَشۡيَتِهِۦ مُشۡفِقُونَ",
+      "translation": "28 Allah sait ce qui se trouve devant eux comme ce qui se trouve derrière eux. Ils n’intercèdent qu’avec Sa permission et sont remplis de crainte envers Lui.",
+      "footnotes": ""
+    },
+    {
+      "id": "2512",
+      "sura": "21",
+      "aya": "29",
+      "arabic_text": "۞ وَمَن يَقُلۡ مِنۡهُمۡ إِنِّيٓ إِلَٰهٞ مِّن دُونِهِۦ فَذَٰلِكَ نَجۡزِيهِ جَهَنَّمَۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
+      "translation": "29 Quiconque parmi ces anges prétendrait être une divinité en dehors du Seigneur serait voué à la Géhenne. C’est ainsi que Nous rétribuons les impies.",
+      "footnotes": ""
+    },
+    {
+      "id": "2513",
+      "sura": "21",
+      "aya": "30",
+      "arabic_text": "أَوَلَمۡ يَرَ ٱلَّذِينَ كَفَرُوٓاْ أَنَّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ كَانَتَا رَتۡقٗا فَفَتَقۡنَٰهُمَاۖ وَجَعَلۡنَا مِنَ ٱلۡمَآءِ كُلَّ شَيۡءٍ حَيٍّۚ أَفَلَا يُؤۡمِنُونَ",
+      "translation": "30 Les mécréants ne savent-ils pas que les cieux et la terre formaient un tout[841] avant que Nous procédions à leur séparation ? Et que Nous avons créé à partir de l’eau toute chose vivante ? Vont-ils se décider à croire ?",
+      "footnotes": "[841] Les cieux étant « collés » ou « soudés » à la terre, précisent nombre d’exégètes."
+    },
+    {
+      "id": "2514",
+      "sura": "21",
+      "aya": "31",
+      "arabic_text": "وَجَعَلۡنَا فِي ٱلۡأَرۡضِ رَوَٰسِيَ أَن تَمِيدَ بِهِمۡ وَجَعَلۡنَا فِيهَا فِجَاجٗا سُبُلٗا لَّعَلَّهُمۡ يَهۡتَدُونَ",
+      "translation": "31 Nous avons solidement fixé dans la terre des montagnes qui l’empêchent de trembler sous les pieds de ses habitants et y avons tracé de larges voies leur permettant de s’y déplacer et de s’y diriger aisément.",
+      "footnotes": ""
+    },
+    {
+      "id": "2515",
+      "sura": "21",
+      "aya": "32",
+      "arabic_text": "وَجَعَلۡنَا ٱلسَّمَآءَ سَقۡفٗا مَّحۡفُوظٗاۖ وَهُمۡ عَنۡ ءَايَٰتِهَا مُعۡرِضُونَ",
+      "translation": "32 Nous avons fait du ciel un toit protégé dont les merveilles les laissent pourtant indifférents.",
+      "footnotes": ""
+    },
+    {
+      "id": "2516",
+      "sura": "21",
+      "aya": "33",
+      "arabic_text": "وَهُوَ ٱلَّذِي خَلَقَ ٱلَّيۡلَ وَٱلنَّهَارَ وَٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ فِي فَلَكٖ يَسۡبَحُونَ",
+      "translation": "33 C’est Lui qui a créé le jour et la nuit, de même que le soleil et la lune, chacun décrivant une orbite bien déterminée.",
+      "footnotes": ""
+    },
+    {
+      "id": "2517",
+      "sura": "21",
+      "aya": "34",
+      "arabic_text": "وَمَا جَعَلۡنَا لِبَشَرٖ مِّن قَبۡلِكَ ٱلۡخُلۡدَۖ أَفَإِيْن مِّتَّ فَهُمُ ٱلۡخَٰلِدُونَ",
+      "translation": "34 Nous n’avons conféré l’immortalité à nul homme avant toi. Espèrent-ils, quant à eux, vivre éternellement après toi ?",
+      "footnotes": ""
+    },
+    {
+      "id": "2518",
+      "sura": "21",
+      "aya": "35",
+      "arabic_text": "كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَنَبۡلُوكُم بِٱلشَّرِّ وَٱلۡخَيۡرِ فِتۡنَةٗۖ وَإِلَيۡنَا تُرۡجَعُونَ",
+      "translation": "35 En réalité, chaque être est appelé à mourir. Nous avons fait de la vie une succession de peines et de joies afin de vous éprouver[842]. Puis c’est à Nous que vous serez tous ramenés.",
+      "footnotes": "[842] Eprouver votre patience face au malheur et votre gratitude face au bonheur."
+    },
+    {
+      "id": "2519",
+      "sura": "21",
+      "aya": "36",
+      "arabic_text": "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓاْ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِي يَذۡكُرُ ءَالِهَتَكُمۡ وَهُم بِذِكۡرِ ٱلرَّحۡمَٰنِ هُمۡ كَٰفِرُونَ",
+      "translation": "36 Lorsque les mécréants te voient, ils te tournent en dérision, disant : « Est-ce là celui qui ose dénigrer nos divinités ? » Or, eux-mêmes n’hésitent pas à renier la révélation[843] du Tout Miséricordieux.",
+      "footnotes": "[843] Ou : le nom."
+    },
+    {
+      "id": "2520",
+      "sura": "21",
+      "aya": "37",
+      "arabic_text": "خُلِقَ ٱلۡإِنسَٰنُ مِنۡ عَجَلٖۚ سَأُوْرِيكُمۡ ءَايَٰتِي فَلَا تَسۡتَعۡجِلُونِ",
+      "translation": "37 L’homme est par nature impatient. Je vous ferai voir tôt ou tard la réalisation de Mes avertissements. Ne me pressez donc pas[844].",
+      "footnotes": "[844] Vous, les impies, qui par défi et moquerie demandez à ce que le châtiment s’abatte sur vous ou vous, les croyants, qui êtes pressés de voir les mécréants être châtiés."
+    },
+    {
+      "id": "2521",
+      "sura": "21",
+      "aya": "38",
+      "arabic_text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+      "translation": "38 Les impies demandent : « Quand donc se réalisera cette menace, si vous dites la vérité ? »",
+      "footnotes": ""
+    },
+    {
+      "id": "2522",
+      "sura": "21",
+      "aya": "39",
+      "arabic_text": "لَوۡ يَعۡلَمُ ٱلَّذِينَ كَفَرُواْ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمۡ وَلَا هُمۡ يُنصَرُونَ",
+      "translation": "39 Si les mécréants pouvaient être conscients du châtiment qui les attend au moment où ils ne pourront repousser le Feu de leurs visages et de leurs dos, ni espérer le moindre secours, ils ne demanderaient pas avec autant d’empressement l’exécution de Nos menaces.",
+      "footnotes": ""
+    },
+    {
+      "id": "2523",
+      "sura": "21",
+      "aya": "40",
+      "arabic_text": "بَلۡ تَأۡتِيهِم بَغۡتَةٗ فَتَبۡهَتُهُمۡ فَلَا يَسۡتَطِيعُونَ رَدَّهَا وَلَا هُمۡ يُنظَرُونَ",
+      "translation": "40 Mais celui-ci les saisira soudainement, les frappant de stupeur sans qu’ils puissent le repousser ou espérer un délai.",
+      "footnotes": ""
+    },
+    {
+      "id": "2524",
+      "sura": "21",
+      "aya": "41",
+      "arabic_text": "وَلَقَدِ ٱسۡتُهۡزِئَ بِرُسُلٖ مِّن قَبۡلِكَ فَحَاقَ بِٱلَّذِينَ سَخِرُواْ مِنۡهُم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+      "translation": "41 Des Messagers ont été tournés en dérision avant toi, mais ceux qui les raillaient ont finalement été cernés par le châtiment même dont ils se moquaient.",
+      "footnotes": ""
+    },
+    {
+      "id": "2525",
+      "sura": "21",
+      "aya": "42",
+      "arabic_text": "قُلۡ مَن يَكۡلَؤُكُم بِٱلَّيۡلِ وَٱلنَّهَارِ مِنَ ٱلرَّحۡمَٰنِۚ بَلۡ هُمۡ عَن ذِكۡرِ رَبِّهِم مُّعۡرِضُونَ",
+      "translation": "42 Dis : « Qui donc, de jour comme de nuit, saurait vous préserver du châtiment du Tout Miséricordieux ? » Ils restent pourtant indifférents à la révélation et aux exhortations de leur Seigneur.",
+      "footnotes": ""
+    },
+    {
+      "id": "2526",
+      "sura": "21",
+      "aya": "43",
+      "arabic_text": "أَمۡ لَهُمۡ ءَالِهَةٞ تَمۡنَعُهُم مِّن دُونِنَاۚ لَا يَسۡتَطِيعُونَ نَصۡرَ أَنفُسِهِمۡ وَلَا هُم مِّنَّا يُصۡحَبُونَ",
+      "translation": "43 Ou bien auraient-ils des dieux en mesure de les protéger de Notre châtiment ? Ceux-ci sont pourtant incapables de se défendre eux-mêmes, ni de trouver une protection contre Nos rigueurs ?",
+      "footnotes": ""
+    },
+    {
+      "id": "2527",
+      "sura": "21",
+      "aya": "44",
+      "arabic_text": "بَلۡ مَتَّعۡنَا هَٰٓؤُلَآءِ وَءَابَآءَهُمۡ حَتَّىٰ طَالَ عَلَيۡهِمُ ٱلۡعُمُرُۗ أَفَلَا يَرَوۡنَ أَنَّا نَأۡتِي ٱلۡأَرۡضَ نَنقُصُهَا مِنۡ أَطۡرَافِهَآۚ أَفَهُمُ ٱلۡغَٰلِبُونَ",
+      "translation": "44 Nous les avons en réalité laissés jouir, eux et leurs ancêtres, si longtemps de cette vie que celle-ci les a leurrés. Ne voient-ils pas que Nous repoussons progressivement les limites de leur territoire[845] ? Pensent-ils sortir vainqueurs de cette confrontation ?",
+      "footnotes": "[845] Par la destruction des cités impies et par les victoires remportées par les croyants, selon nombre d’exégètes."
+    },
+    {
+      "id": "2528",
+      "sura": "21",
+      "aya": "45",
+      "arabic_text": "قُلۡ إِنَّمَآ أُنذِرُكُم بِٱلۡوَحۡيِۚ وَلَا يَسۡمَعُ ٱلصُّمُّ ٱلدُّعَآءَ إِذَا مَا يُنذَرُونَ",
+      "translation": "45 Dis : « Je ne fais que vous transmettre les avertissements qui me sont révélés. » Mais les sourds ne sauraient entendre les mises en garde qui leur sont adressées.",
+      "footnotes": ""
+    },
+    {
+      "id": "2529",
+      "sura": "21",
+      "aya": "46",
+      "arabic_text": "وَلَئِن مَّسَّتۡهُمۡ نَفۡحَةٞ مِّنۡ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيۡلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+      "translation": "46 Si le plus léger châtiment de ton Seigneur venait à les toucher, ils s’écrieraient certainement : « Malheur à nous ! Nous avons vraiment été injustes ! »",
+      "footnotes": ""
+    },
+    {
+      "id": "2530",
+      "sura": "21",
+      "aya": "47",
+      "arabic_text": "وَنَضَعُ ٱلۡمَوَٰزِينَ ٱلۡقِسۡطَ لِيَوۡمِ ٱلۡقِيَٰمَةِ فَلَا تُظۡلَمُ نَفۡسٞ شَيۡـٔٗاۖ وَإِن كَانَ مِثۡقَالَ حَبَّةٖ مِّنۡ خَرۡدَلٍ أَتَيۡنَا بِهَاۗ وَكَفَىٰ بِنَا حَٰسِبِينَ",
+      "translation": "47 Le Jour de la résurrection, Nous dresserons les balances de la justice. Nul ne sera donc lésé. Chaque action, aussi insignifiante soit-elle[846], sera pesée. Nous suffisons pour tenir le compte de leurs œuvres.",
+      "footnotes": "[846] Littéralement : fût-elle de la taille d’un grain de sénevé. Que l’on se rappelle ici la parabole du grain de sénevé, dans l’Evangile de Matthieu, où il est dit que « ce grain est la plus petite de toutes les semences »."
+    },
+    {
+      "id": "2531",
+      "sura": "21",
+      "aya": "48",
+      "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ وَهَٰرُونَ ٱلۡفُرۡقَانَ وَضِيَآءٗ وَذِكۡرٗا لِّلۡمُتَّقِينَ",
+      "translation": "48 Nous avons confié à Moïse et Aaron les Ecritures permettant de discerner le vrai du faux dont Nous avons fait une lumière et une exhortation pour les pieux croyants",
+      "footnotes": ""
+    },
+    {
+      "id": "2532",
+      "sura": "21",
+      "aya": "49",
+      "arabic_text": "ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشۡفِقُونَ",
+      "translation": "49 qui, loin des regards, craignent leur Seigneur et redoutent l’avènement de l’Heure.",
+      "footnotes": ""
+    },
+    {
+      "id": "2533",
+      "sura": "21",
+      "aya": "50",
+      "arabic_text": "وَهَٰذَا ذِكۡرٞ مُّبَارَكٌ أَنزَلۡنَٰهُۚ أَفَأَنتُمۡ لَهُۥ مُنكِرُونَ",
+      "translation": "50 Et ceci est un livre béni que Nous avons révélé à l’humanité. Allez-vous donc le renier ?",
+      "footnotes": ""
+    },
+    {
+      "id": "2534",
+      "sura": "21",
+      "aya": "51",
+      "arabic_text": "۞ وَلَقَدۡ ءَاتَيۡنَآ إِبۡرَٰهِيمَ رُشۡدَهُۥ مِن قَبۡلُ وَكُنَّا بِهِۦ عَٰلِمِينَ",
+      "translation": "51 Nous avions auparavant mis Abraham sur le droit chemin, sachant qu’il en était digne,",
+      "footnotes": ""
+    },
+    {
+      "id": "2535",
+      "sura": "21",
+      "aya": "52",
+      "arabic_text": "إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَا هَٰذِهِ ٱلتَّمَاثِيلُ ٱلَّتِيٓ أَنتُمۡ لَهَا عَٰكِفُونَ",
+      "translation": "52 lui qui, un jour, dit à son père et à son peuple : « Que sont ces statues auxquelles vous vouez un culte assidu ? »",
+      "footnotes": ""
+    },
+    {
+      "id": "2536",
+      "sura": "21",
+      "aya": "53",
+      "arabic_text": "قَالُواْ وَجَدۡنَآ ءَابَآءَنَا لَهَا عَٰبِدِينَ",
+      "translation": "53 « Nous avons trouvé nos ancêtres attachés à leur culte », répondirent-ils.",
+      "footnotes": ""
+    },
+    {
+      "id": "2537",
+      "sura": "21",
+      "aya": "54",
+      "arabic_text": "قَالَ لَقَدۡ كُنتُمۡ أَنتُمۡ وَءَابَآؤُكُمۡ فِي ضَلَٰلٖ مُّبِينٖ",
+      "translation": "54 Abraham dit : « Vous vous êtes, vous et vos ancêtres, manifestement égarés. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2538",
+      "sura": "21",
+      "aya": "55",
+      "arabic_text": "قَالُوٓاْ أَجِئۡتَنَا بِٱلۡحَقِّ أَمۡ أَنتَ مِنَ ٱللَّٰعِبِينَ",
+      "translation": "55 Ils dirent : « Es-tu sérieux ou en train de plaisanter ? »",
+      "footnotes": ""
+    },
+    {
+      "id": "2539",
+      "sura": "21",
+      "aya": "56",
+      "arabic_text": "قَالَ بَل رَّبُّكُمۡ رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ ٱلَّذِي فَطَرَهُنَّ وَأَنَا۠ عَلَىٰ ذَٰلِكُم مِّنَ ٱلشَّٰهِدِينَ",
+      "translation": "56 Il répondit : « Je suis au contraire de ceux qui témoignent en toute vérité que votre unique Seigneur est le Maître et Créateur des cieux et de la terre. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2540",
+      "sura": "21",
+      "aya": "57",
+      "arabic_text": "وَتَٱللَّهِ لَأَكِيدَنَّ أَصۡنَٰمَكُم بَعۡدَ أَن تُوَلُّواْ مُدۡبِرِينَ",
+      "translation": "57 Puis Abraham jura en secret : « Par Allah ! Je m’attaquerai à vos idoles dès que vous aurez le dos tourné. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2541",
+      "sura": "21",
+      "aya": "58",
+      "arabic_text": "فَجَعَلَهُمۡ جُذَٰذًا إِلَّا كَبِيرٗا لَّهُمۡ لَعَلَّهُمۡ إِلَيۡهِ يَرۡجِعُونَ",
+      "translation": "58 Il mit donc les idoles en pièces, n’épargnant que la plus grande, afin qu’ils puissent se tourner vers elle[847].",
+      "footnotes": "[847] Pour l’interroger sur ce qui s’est passé, expliquent certains exégètes."
+    },
+    {
+      "id": "2542",
+      "sura": "21",
+      "aya": "59",
+      "arabic_text": "قَالُواْ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ",
+      "translation": "59 A leur retour, ils dirent : « Quel est le criminel qui a osé traiter ainsi nos divinités ? »",
+      "footnotes": ""
+    },
+    {
+      "id": "2543",
+      "sura": "21",
+      "aya": "60",
+      "arabic_text": "قَالُواْ سَمِعۡنَا فَتٗى يَذۡكُرُهُمۡ يُقَالُ لَهُۥٓ إِبۡرَٰهِيمُ",
+      "translation": "60 Certains répondirent : « Nous avons entendu un jeune homme appelé Abraham dire du mal d’elles.",
+      "footnotes": ""
+    },
+    {
+      "id": "2544",
+      "sura": "21",
+      "aya": "61",
+      "arabic_text": "قَالُواْ فَأۡتُواْ بِهِۦ عَلَىٰٓ أَعۡيُنِ ٱلنَّاسِ لَعَلَّهُمۡ يَشۡهَدُونَ",
+      "translation": "61 Qu’on le fasse venir devant le peuple afin que chacun puisse témoigner. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2545",
+      "sura": "21",
+      "aya": "62",
+      "arabic_text": "قَالُوٓاْ ءَأَنتَ فَعَلۡتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبۡرَٰهِيمُ",
+      "translation": "62 Une fois en leur présence, il fut interrogé : « Est-ce toi, Abraham, qui a fait cela à nos divinités ? »",
+      "footnotes": ""
+    },
+    {
+      "id": "2546",
+      "sura": "21",
+      "aya": "63",
+      "arabic_text": "قَالَ بَلۡ فَعَلَهُۥ كَبِيرُهُمۡ هَٰذَا فَسۡـَٔلُوهُمۡ إِن كَانُواْ يَنطِقُونَ",
+      "translation": "63 « Non ! C’est la plus grande d’entre elles que voici, répondit-il. Interrogez-les si toutefois elles peuvent s’exprimer ! »",
+      "footnotes": ""
+    },
+    {
+      "id": "2547",
+      "sura": "21",
+      "aya": "64",
+      "arabic_text": "فَرَجَعُوٓاْ إِلَىٰٓ أَنفُسِهِمۡ فَقَالُوٓاْ إِنَّكُمۡ أَنتُمُ ٱلظَّٰلِمُونَ",
+      "translation": "64 Prenant conscience de leur égarement, ils se dirent : « Ce sont nous, en réalité, les criminels. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2548",
+      "sura": "21",
+      "aya": "65",
+      "arabic_text": "ثُمَّ نُكِسُواْ عَلَىٰ رُءُوسِهِمۡ لَقَدۡ عَلِمۡتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ",
+      "translation": "65 Puis, retombant dans leurs anciens errements, ils dirent : « Tu sais très bien que ces idoles ne peuvent parler. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2549",
+      "sura": "21",
+      "aya": "66",
+      "arabic_text": "قَالَ أَفَتَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمۡ شَيۡـٔٗا وَلَا يَضُرُّكُمۡ",
+      "translation": "66 « Comment pouvez-vous alors, dit Abraham, adorer en dehors d’Allah des objets incapables de vous nuire et qui ne vous sont d’aucune utilité ?",
+      "footnotes": ""
+    },
+    {
+      "id": "2550",
+      "sura": "21",
+      "aya": "67",
+      "arabic_text": "أُفّٖ لَّكُمۡ وَلِمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِۚ أَفَلَا تَعۡقِلُونَ",
+      "translation": "67 Fi de vous et de ce que vous adorez en dehors d’Allah ! Etes-vous donc dépourvus de toute raison ? »",
+      "footnotes": ""
+    },
+    {
+      "id": "2551",
+      "sura": "21",
+      "aya": "68",
+      "arabic_text": "قَالُواْ حَرِّقُوهُ وَٱنصُرُوٓاْ ءَالِهَتَكُمۡ إِن كُنتُمۡ فَٰعِلِينَ",
+      "translation": "68 Ils dirent : « Jetez-le au feu, si vous êtes décidés à venger vos divinités ! »",
+      "footnotes": ""
+    },
+    {
+      "id": "2552",
+      "sura": "21",
+      "aya": "69",
+      "arabic_text": "قُلۡنَا يَٰنَارُ كُونِي بَرۡدٗا وَسَلَٰمًا عَلَىٰٓ إِبۡرَٰهِيمَ",
+      "translation": "69 Nous dîmes alors au bûcher : « Sois pour Abraham d’une fraîcheur inoffensive. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2553",
+      "sura": "21",
+      "aya": "70",
+      "arabic_text": "وَأَرَادُواْ بِهِۦ كَيۡدٗا فَجَعَلۡنَٰهُمُ ٱلۡأَخۡسَرِينَ",
+      "translation": "70 Ils voulurent lui causer du tort, mais Nous avons ruiné tous leurs espoirs.",
+      "footnotes": ""
+    },
+    {
+      "id": "2554",
+      "sura": "21",
+      "aya": "71",
+      "arabic_text": "وَنَجَّيۡنَٰهُ وَلُوطًا إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَا لِلۡعَٰلَمِينَ",
+      "translation": "71 Nous l’avons sauvé, ainsi que Loth, leur permettant à tous deux d’émigrer vers la terre[848] que Nous avons bénie pour toute l’humanité.",
+      "footnotes": "[848] Le pays de Canaan."
+    },
+    {
+      "id": "2555",
+      "sura": "21",
+      "aya": "72",
+      "arabic_text": "وَوَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَ نَافِلَةٗۖ وَكُلّٗا جَعَلۡنَا صَٰلِحِينَ",
+      "translation": "72 Nous lui avons fait don d’Isaac[849] et lui avons également accordé Jacob[850]. Nous avons fait d’eux des hommes vertueux",
+      "footnotes": "[849] En réponse à son invocation. \n[850] Ajoutant donc ce petit-fils vertueux au fils qu’Abraham avait demandé dans ses prières."
+    },
+    {
+      "id": "2556",
+      "sura": "21",
+      "aya": "73",
+      "arabic_text": "وَجَعَلۡنَٰهُمۡ أَئِمَّةٗ يَهۡدُونَ بِأَمۡرِنَا وَأَوۡحَيۡنَآ إِلَيۡهِمۡ فِعۡلَ ٱلۡخَيۡرَٰتِ وَإِقَامَ ٱلصَّلَوٰةِ وَإِيتَآءَ ٱلزَّكَوٰةِۖ وَكَانُواْ لَنَا عَٰبِدِينَ",
+      "translation": "73 et des guides qui, sur Notre ordre, appelaient les hommes à Notre adoration. Nous les avons exhortés, par Nos révélations, à pratiquer la vertu, à accomplir la prière et à s’acquitter de l’aumône. Ils furent Nos fervents adorateurs.",
+      "footnotes": ""
+    },
+    {
+      "id": "2557",
+      "sura": "21",
+      "aya": "74",
+      "arabic_text": "وَلُوطًا ءَاتَيۡنَٰهُ حُكۡمٗا وَعِلۡمٗا وَنَجَّيۡنَٰهُ مِنَ ٱلۡقَرۡيَةِ ٱلَّتِي كَانَت تَّعۡمَلُ ٱلۡخَبَٰٓئِثَۚ إِنَّهُمۡ كَانُواْ قَوۡمَ سَوۡءٖ فَٰسِقِينَ",
+      "translation": "74 Quant à Loth, Nous l’avons doté de sagesse et de science, et l’avons sauvé de la cité dont les habitants, pervers et corrompus, se livraient aux actes les plus odieux.",
+      "footnotes": ""
+    },
+    {
+      "id": "2558",
+      "sura": "21",
+      "aya": "75",
+      "arabic_text": "وَأَدۡخَلۡنَٰهُ فِي رَحۡمَتِنَآۖ إِنَّهُۥ مِنَ ٱلصَّٰلِحِينَ",
+      "translation": "75 Nous l’avons admis dans Notre miséricorde. Il était du nombre des vertueux.",
+      "footnotes": ""
+    },
+    {
+      "id": "2559",
+      "sura": "21",
+      "aya": "76",
+      "arabic_text": "وَنُوحًا إِذۡ نَادَىٰ مِن قَبۡلُ فَٱسۡتَجَبۡنَا لَهُۥ فَنَجَّيۡنَٰهُ وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِيمِ",
+      "translation": "76 Mentionne également Noé qui, avant eux, Nous avait imploré et que Nous avons exaucé en le délivrant, lui et les siens, de la détresse qui les submergeait.",
+      "footnotes": ""
+    },
+    {
+      "id": "2560",
+      "sura": "21",
+      "aya": "77",
+      "arabic_text": "وَنَصَرۡنَٰهُ مِنَ ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَآۚ إِنَّهُمۡ كَانُواْ قَوۡمَ سَوۡءٖ فَأَغۡرَقۡنَٰهُمۡ أَجۡمَعِينَ",
+      "translation": "77 Nous l’avons sauvé de son peuple qui avait renié Nos signes et avons englouti jusqu’au dernier ces êtres corrompus.",
+      "footnotes": ""
+    },
+    {
+      "id": "2561",
+      "sura": "21",
+      "aya": "78",
+      "arabic_text": "وَدَاوُۥدَ وَسُلَيۡمَٰنَ إِذۡ يَحۡكُمَانِ فِي ٱلۡحَرۡثِ إِذۡ نَفَشَتۡ فِيهِ غَنَمُ ٱلۡقَوۡمِ وَكُنَّا لِحُكۡمِهِمۡ شَٰهِدِينَ",
+      "translation": "78 Mentionne également David et Salomon, et le jugement prononcé par chacun d’entre eux à propos d’un champ endommagé par un troupeau de moutons venu y paître la nuit, jugement dont Nous étions témoin.",
+      "footnotes": ""
+    },
+    {
+      "id": "2562",
+      "sura": "21",
+      "aya": "79",
+      "arabic_text": "فَفَهَّمۡنَٰهَا سُلَيۡمَٰنَۚ وَكُلًّا ءَاتَيۡنَا حُكۡمٗا وَعِلۡمٗاۚ وَسَخَّرۡنَا مَعَ دَاوُۥدَ ٱلۡجِبَالَ يُسَبِّحۡنَ وَٱلطَّيۡرَۚ وَكُنَّا فَٰعِلِينَ",
+      "translation": "79 Nous avons inspiré à Salomon un jugement équitable[851] et avons doté l’un et l’autre de sagesse et de science. A David, Nous avons soumis les montagnes et les oiseaux qui Nous glorifiaient en même temps que Lui. Nous avons bel et bien agi ainsi.",
+      "footnotes": "[851] David, dit-on, jugea que les moutons devaient revenir au propriétaire du vignoble. Son fils Salomon, quant à lui, prononça le jugement que voici : le champ devait être confié aux propriétaires des moutons avec obligation de l’entretenir jusqu’à ce qu’il retrouve son état initial, tandis que les brebis devaient être confiées au propriétaire des vignes qui pouvait jouir de leur lait jusqu’à ce que le vignoble retrouve son état initial. Le champ de vignes devait alors revenir à son propriétaire et les brebis à leurs maîtres (Tafsîr ibn Kathîr)."
+    },
+    {
+      "id": "2563",
+      "sura": "21",
+      "aya": "80",
+      "arabic_text": "وَعَلَّمۡنَٰهُ صَنۡعَةَ لَبُوسٖ لَّكُمۡ لِتُحۡصِنَكُم مِّنۢ بَأۡسِكُمۡۖ فَهَلۡ أَنتُمۡ شَٰكِرُونَ",
+      "translation": "80 Nous lui avons aussi enseigné l’art de fabriquer les cottes de mailles qui vous protègent des coups de vos ennemis. Allez-vous donc vous montrer reconnaissants ?",
+      "footnotes": ""
+    },
+    {
+      "id": "2564",
+      "sura": "21",
+      "aya": "81",
+      "arabic_text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ عَاصِفَةٗ تَجۡرِي بِأَمۡرِهِۦٓ إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَاۚ وَكُنَّا بِكُلِّ شَيۡءٍ عَٰلِمِينَ",
+      "translation": "81 A Salomon, Nous avons soumis le vent impétueux qui, par sa volonté, soufflait vers la terre que Nous avons bénie[852]. Notre science s’étend à toute chose.",
+      "footnotes": "[852] La Palestine."
+    },
+    {
+      "id": "2565",
+      "sura": "21",
+      "aya": "82",
+      "arabic_text": "وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعۡمَلُونَ عَمَلٗا دُونَ ذَٰلِكَۖ وَكُنَّا لَهُمۡ حَٰفِظِينَ",
+      "translation": "82 Nous lui avons aussi soumis certains démons chargés, sous Notre surveillance, d’explorer pour lui les fonds marins et d’exécuter d’autres travaux encore.",
+      "footnotes": ""
+    },
+    {
+      "id": "2566",
+      "sura": "21",
+      "aya": "83",
+      "arabic_text": "۞ وَأَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
+      "translation": "83 Mentionne également Job qui adressa cette prière à son Seigneur : « Je suis accablé d’épreuves. Or, Ta miséricorde est sans égale ! »",
+      "footnotes": ""
+    },
+    {
+      "id": "2567",
+      "sura": "21",
+      "aya": "84",
+      "arabic_text": "فَٱسۡتَجَبۡنَا لَهُۥ فَكَشَفۡنَا مَا بِهِۦ مِن ضُرّٖۖ وَءَاتَيۡنَٰهُ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةٗ مِّنۡ عِندِنَا وَذِكۡرَىٰ لِلۡعَٰبِدِينَ",
+      "translation": "84 Par un effet de Notre grâce, Nous l’avons exaucé, l’avons soulagé de ses maux et lui avons rendu sa famille au double afin d’en faire un modèle de patience pour Nos adorateurs.",
+      "footnotes": ""
+    },
+    {
+      "id": "2568",
+      "sura": "21",
+      "aya": "85",
+      "arabic_text": "وَإِسۡمَٰعِيلَ وَإِدۡرِيسَ وَذَا ٱلۡكِفۡلِۖ كُلّٞ مِّنَ ٱلصَّٰبِرِينَ",
+      "translation": "85 Mentionne également Ismaël, Idriss, et Dhou Al-Kifl[853], qui tous se vouaient patiemment à Notre culte.",
+      "footnotes": "[853] Qui, pour l’exégète tunisien Ibn ‘Achour, serait le prophète juif Abdias et pour d’autres, le prophète Ezéchiel."
+    },
+    {
+      "id": "2569",
+      "sura": "21",
+      "aya": "86",
+      "arabic_text": "وَأَدۡخَلۡنَٰهُمۡ فِي رَحۡمَتِنَآۖ إِنَّهُم مِّنَ ٱلصَّٰلِحِينَ",
+      "translation": "86 Nous les avons admis dans Notre miséricorde. Ils étaient du nombre des vertueux.",
+      "footnotes": ""
+    },
+    {
+      "id": "2570",
+      "sura": "21",
+      "aya": "87",
+      "arabic_text": "وَذَا ٱلنُّونِ إِذ ذَّهَبَ مُغَٰضِبٗا فَظَنَّ أَن لَّن نَّقۡدِرَ عَلَيۡهِ فَنَادَىٰ فِي ٱلظُّلُمَٰتِ أَن لَّآ إِلَٰهَ إِلَّآ أَنتَ سُبۡحَٰنَكَ إِنِّي كُنتُ مِنَ ٱلظَّٰلِمِينَ",
+      "translation": "87 Mentionne aussi l’homme au poisson[854] qui, irrité, quitta son peuple sans connaître le sort que Nous lui réservions. Il implora alors dans les ténèbres[855] : « Il n’est de divinité en droit d’être adorée que Toi. Gloire à Toi ! Je me suis comporté en homme injuste ! »",
+      "footnotes": "[854] Le prophète Jonas qui, désespérant de convertir son peuple à la foi, le quitta sans en avoir reçu l’autorisation d’Allah. Après avoir pris place à bord d’une embarcation, il fut avalé par un poisson.\n[855] Les ténèbres du ventre du poisson, ajoutées aux ténèbres de la mer, auxquelles s’ajoutent les ténèbres de la nuit, selon plus d’un commentateur."
+    },
+    {
+      "id": "2571",
+      "sura": "21",
+      "aya": "88",
+      "arabic_text": "فَٱسۡتَجَبۡنَا لَهُۥ وَنَجَّيۡنَٰهُ مِنَ ٱلۡغَمِّۚ وَكَذَٰلِكَ نُـۨجِي ٱلۡمُؤۡمِنِينَ",
+      "translation": "88 Nous l’avons exaucé et délivré de son affliction. C’est ainsi que Nous sauvons les croyants.",
+      "footnotes": ""
+    },
+    {
+      "id": "2572",
+      "sura": "21",
+      "aya": "89",
+      "arabic_text": "وَزَكَرِيَّآ إِذۡ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرۡنِي فَرۡدٗا وَأَنتَ خَيۡرُ ٱلۡوَٰرِثِينَ",
+      "translation": "89 Mentionne également Zacharie qui adressa cette prière à son Seigneur : « Ne me laisse pas, Seigneur, sans héritier[856], bien que Tu sois le plus parfait des héritiers[857] ! »",
+      "footnotes": "[856] Sans un fils qui hérite de ma mission et préserve Ta religion.\n[857] Le plus à même de préserver Ta religion après ma disparition."
+    },
+    {
+      "id": "2573",
+      "sura": "21",
+      "aya": "90",
+      "arabic_text": "فَٱسۡتَجَبۡنَا لَهُۥ وَوَهَبۡنَا لَهُۥ يَحۡيَىٰ وَأَصۡلَحۡنَا لَهُۥ زَوۡجَهُۥٓۚ إِنَّهُمۡ كَانُواْ يُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِ وَيَدۡعُونَنَا رَغَبٗا وَرَهَبٗاۖ وَكَانُواْ لَنَا خَٰشِعِينَ",
+      "translation": "90 Nous l’avons exaucé, lui faisant don de Jean après avoir rendu à son épouse sa fécondité. Tous s’empressaient d’accomplir le bien et Nous invoquaient pleins d’espoir et de crainte. Tous se soumettaient humblement à Notre volonté.",
+      "footnotes": ""
+    },
+    {
+      "id": "2574",
+      "sura": "21",
+      "aya": "91",
+      "arabic_text": "وَٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهَا مِن رُّوحِنَا وَجَعَلۡنَٰهَا وَٱبۡنَهَآ ءَايَةٗ لِّلۡعَٰلَمِينَ",
+      "translation": "91 Mentionne aussi celle qui sut préserver sa chasteté[858] que Nous avons récompensée en insufflant en elle[859] de Notre Esprit[860], faisant d’elle et de son fils un signe pour l’humanité.",
+      "footnotes": "[858] La vierge Marie. Pour certains, l’expression « préserver sa chasteté » signifie qu’elle vécut loin du péché de la chair. Mais quel intérêt y aurait-il à attribuer à la sainte Marie une qualité partagée par la majorité des femmes, en particulier dans la société où elle vivait. D’aucuns expliquent donc que cette formule sert à innocenter la mère de Jésus des odieuses accusations portées contre elle. Mais comment expliquer alors le lien qui semble être établi entre sa vie pleine de chasteté et son élection. D’autres expliquent donc que le choix divin s’est porté sur Marie car elle avait fait vœu de chasteté ou tout au moins choisi de rester chaste, que ce soit dans le cadre du mariage, les textes chrétiens lui attribuant un époux, Joseph, ou à travers le célibat. \n[859] Par l’intermédiaire de l’ange Gabriel.\n[860] Ou : de Notre souffle de vie."
+    },
+    {
+      "id": "2575",
+      "sura": "21",
+      "aya": "92",
+      "arabic_text": "إِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱعۡبُدُونِ",
+      "translation": "92 Telle est votre religion[861], la seule véritable religion. Je suis votre Seigneur, vouez-Moi donc un culte exclusif et sincère.",
+      "footnotes": "[861] Celle de tous les prophètes mentionnés précédemment et qui consiste à n’adorer que le Seigneur."
+    },
+    {
+      "id": "2576",
+      "sura": "21",
+      "aya": "93",
+      "arabic_text": "وَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡۖ كُلٌّ إِلَيۡنَا رَٰجِعُونَ",
+      "translation": "93 Mais les hommes se sont ensuite divisés en sectes. C’est à Nous cependant qu’ils feront tous retour sans exception.",
+      "footnotes": ""
+    },
+    {
+      "id": "2577",
+      "sura": "21",
+      "aya": "94",
+      "arabic_text": "فَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤۡمِنٞ فَلَا كُفۡرَانَ لِسَعۡيِهِۦ وَإِنَّا لَهُۥ كَٰتِبُونَ",
+      "translation": "94 Celui qui, mû par la foi, accomplira de bonnes actions ne sera jamais privé de la récompense de ses œuvres que Nous consignons, au contraire, avec la plus grande précision.",
+      "footnotes": ""
+    },
+    {
+      "id": "2578",
+      "sura": "21",
+      "aya": "95",
+      "arabic_text": "وَحَرَٰمٌ عَلَىٰ قَرۡيَةٍ أَهۡلَكۡنَٰهَآ أَنَّهُمۡ لَا يَرۡجِعُونَ",
+      "translation": "95 Il est impossible que les habitants d’une cité que Nous avons anéantie reviennent à la vie[862].",
+      "footnotes": "[862] Ou : il est impossible que les habitants d’une cité que Nous avons décidé d’anéantir reviennent de leur égarement."
+    },
+    {
+      "id": "2579",
+      "sura": "21",
+      "aya": "96",
+      "arabic_text": "حَتَّىٰٓ إِذَا فُتِحَتۡ يَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبٖ يَنسِلُونَ",
+      "translation": "96 Mais lorsque le barrage dressé devant Gog et Magog aura cédé, les laissant déferler de toute hauteur,",
+      "footnotes": ""
+    },
+    {
+      "id": "2580",
+      "sura": "21",
+      "aya": "97",
+      "arabic_text": "وَٱقۡتَرَبَ ٱلۡوَعۡدُ ٱلۡحَقُّ فَإِذَا هِيَ شَٰخِصَةٌ أَبۡصَٰرُ ٱلَّذِينَ كَفَرُواْ يَٰوَيۡلَنَا قَدۡ كُنَّا فِي غَفۡلَةٖ مِّنۡ هَٰذَا بَلۡ كُنَّا ظَٰلِمِينَ",
+      "translation": "97 la promesse du Seigneur sera sur le point de s’accomplir[863]. Les mécréants, regards figés de terreur, s’écrieront alors : « Malheur à nous ! Nous avons vécu dans l’insouciance de ce Jour. Pire, nous avons été injustes envers nous-mêmes. »",
+      "footnotes": "[863] L’avènement de l’Heure sera tout proche."
+    },
+    {
+      "id": "2581",
+      "sura": "21",
+      "aya": "98",
+      "arabic_text": "إِنَّكُمۡ وَمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ حَصَبُ جَهَنَّمَ أَنتُمۡ لَهَا وَٰرِدُونَ",
+      "translation": "98 Vous et les fausses divinités que vous adorez en dehors d’Allah servirez de combustible à la Géhenne où vous serez tous précipités.",
+      "footnotes": ""
+    },
+    {
+      "id": "2582",
+      "sura": "21",
+      "aya": "99",
+      "arabic_text": "لَوۡ كَانَ هَٰٓؤُلَآءِ ءَالِهَةٗ مَّا وَرَدُوهَاۖ وَكُلّٞ فِيهَا خَٰلِدُونَ",
+      "translation": "99 Si ces idoles étaient de vraies divinités, elles ne seraient pas condamnées à y entrer. Mais celles-ci et leurs adorateurs sont voués pour l’éternité à l’Enfer",
+      "footnotes": ""
+    },
+    {
+      "id": "2583",
+      "sura": "21",
+      "aya": "100",
+      "arabic_text": "لَهُمۡ فِيهَا زَفِيرٞ وَهُمۡ فِيهَا لَا يَسۡمَعُونَ",
+      "translation": "100 où ces derniers pousseront d’horribles soupirs et ne pourront rien entendre[864].",
+      "footnotes": "[864] Compte tenu des affres qu’ils devront subir."
+    },
+    {
+      "id": "2584",
+      "sura": "21",
+      "aya": "101",
+      "arabic_text": "إِنَّ ٱلَّذِينَ سَبَقَتۡ لَهُم مِّنَّا ٱلۡحُسۡنَىٰٓ أُوْلَٰٓئِكَ عَنۡهَا مُبۡعَدُونَ",
+      "translation": "101 Quant à ceux que Nous avons prédestinés à une éternelle félicité, ils seront tenus éloignés de l’Enfer",
+      "footnotes": ""
+    },
+    {
+      "id": "2585",
+      "sura": "21",
+      "aya": "102",
+      "arabic_text": "لَا يَسۡمَعُونَ حَسِيسَهَاۖ وَهُمۡ فِي مَا ٱشۡتَهَتۡ أَنفُسُهُمۡ خَٰلِدُونَ",
+      "translation": "102 dont ils n’entendront pas même le tumulte, jouissant au contraire de tout ce qu’ils désireront pour l’éternité.",
+      "footnotes": ""
+    },
+    {
+      "id": "2586",
+      "sura": "21",
+      "aya": "103",
+      "arabic_text": "لَا يَحۡزُنُهُمُ ٱلۡفَزَعُ ٱلۡأَكۡبَرُ وَتَتَلَقَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ هَٰذَا يَوۡمُكُمُ ٱلَّذِي كُنتُمۡ تُوعَدُونَ",
+      "translation": "103 Ils ne seront pas terrorisés par les affres de ce Jour, mais accueillis au Paradis par les anges qui leur diront : « Voici le Jour qui vous était promis. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2587",
+      "sura": "21",
+      "aya": "104",
+      "arabic_text": "يَوۡمَ نَطۡوِي ٱلسَّمَآءَ كَطَيِّ ٱلسِّجِلِّ لِلۡكُتُبِۚ كَمَا بَدَأۡنَآ أَوَّلَ خَلۡقٖ نُّعِيدُهُۥۚ وَعۡدًا عَلَيۡنَآۚ إِنَّا كُنَّا فَٰعِلِينَ",
+      "translation": "104 De même que Nous avons procédé à la première Création, Nous la recommencerons le Jour où Nous plierons le ciel comme le scribe replie un parchemin. Voici une promesse que Nous nous sommes fait un devoir d’honorer et que Nous ne manquerons pas d’accomplir.",
+      "footnotes": ""
+    },
+    {
+      "id": "2588",
+      "sura": "21",
+      "aya": "105",
+      "arabic_text": "وَلَقَدۡ كَتَبۡنَا فِي ٱلزَّبُورِ مِنۢ بَعۡدِ ٱلذِّكۡرِ أَنَّ ٱلۡأَرۡضَ يَرِثُهَا عِبَادِيَ ٱلصَّٰلِحُونَ",
+      "translation": "105 Nous avons écrit dans les Psaumes, après l’avoir mentionné dans les Ecritures[865], que la terre[866] sera héritée par Mes serviteurs vertueux.",
+      "footnotes": "[865] Il s’agit, selon certains commentateurs, de ce passage des Psaumes : « Les justes posséderont le pays où ils demeureront à jamais. » (Psaumes 37, 29) \n[866] Du Paradis, précisent nombre d’exégètes."
+    },
+    {
+      "id": "2589",
+      "sura": "21",
+      "aya": "106",
+      "arabic_text": "إِنَّ فِي هَٰذَا لَبَلَٰغٗا لِّقَوۡمٍ عَٰبِدِينَ",
+      "translation": "106 Il est, en vérité, dans le Coran des enseignements bien suffisants pour des hommes disposés à Nous adorer.",
+      "footnotes": ""
+    },
+    {
+      "id": "2590",
+      "sura": "21",
+      "aya": "107",
+      "arabic_text": "وَمَآ أَرۡسَلۡنَٰكَ إِلَّا رَحۡمَةٗ لِّلۡعَٰلَمِينَ",
+      "translation": "107 Nous ne t’avons suscité que par miséricorde pour l’humanité.",
+      "footnotes": ""
+    },
+    {
+      "id": "2591",
+      "sura": "21",
+      "aya": "108",
+      "arabic_text": "قُلۡ إِنَّمَا يُوحَىٰٓ إِلَيَّ أَنَّمَآ إِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۖ فَهَلۡ أَنتُم مُّسۡلِمُونَ",
+      "translation": "108 Dis : « Il m’est seulement révélé que votre Dieu est un dieu unique. Etes-vous donc disposés à vous soumettre à Sa volonté ? »",
+      "footnotes": ""
+    },
+    {
+      "id": "2592",
+      "sura": "21",
+      "aya": "109",
+      "arabic_text": "فَإِن تَوَلَّوۡاْ فَقُلۡ ءَاذَنتُكُمۡ عَلَىٰ سَوَآءٖۖ وَإِنۡ أَدۡرِيٓ أَقَرِيبٌ أَم بَعِيدٞ مَّا تُوعَدُونَ",
+      "translation": "109 S’ils se détournent, dis-leur : « Je vous ai avertis sans que nul ne soit privilégié et sans rien vous dissimuler de ce qui m’a été révélé[867]. Mais j’ignore si le châtiment dont vous êtes menacés est proche ou éloigné.",
+      "footnotes": "[867] Nous sommes donc tous pareillement avertis du danger qui nous attend si nous désobéissons au Seigneur."
+    },
+    {
+      "id": "2593",
+      "sura": "21",
+      "aya": "110",
+      "arabic_text": "إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ مِنَ ٱلۡقَوۡلِ وَيَعۡلَمُ مَا تَكۡتُمُونَ",
+      "translation": "110 Allah sait aussi bien ce que vous dissimulez que ce que vous exprimez.",
+      "footnotes": ""
+    },
+    {
+      "id": "2594",
+      "sura": "21",
+      "aya": "111",
+      "arabic_text": "وَإِنۡ أَدۡرِي لَعَلَّهُۥ فِتۡنَةٞ لَّكُمۡ وَمَتَٰعٌ إِلَىٰ حِينٖ",
+      "translation": "111 Je ne sais si ce sursis qui vous est accordé est une épreuve ou simplement une jouissance de courte durée. »",
+      "footnotes": ""
+    },
+    {
+      "id": "2595",
+      "sura": "21",
+      "aya": "112",
+      "arabic_text": "قَٰلَ رَبِّ ٱحۡكُم بِٱلۡحَقِّۗ وَرَبُّنَا ٱلرَّحۡمَٰنُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+      "translation": "112 Le Prophète dit : « Veuille, Seigneur, trancher en toute équité le différend qui nous oppose ! C’est notre Seigneur, le Tout Miséricordieux, que nous appelons à l’aide contre vos mensonges et votre impiété ! »",
+      "footnotes": ""
+    }
+  ]
+}

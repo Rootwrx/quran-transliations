@@ -1,0 +1,27 @@
+{
+  "number": 8,
+  "name": {
+    "ar": "الأنفال",
+    "en": "The Spoils of War",
+    "transliteration": "Al-Anfal"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 88,
+  "bismillah_pre": true,
+  "verses_count": 75,
+  "words_count": 1243,
+  "letters_count": 5299,
+  "pages": [
+    177,
+    186
+  ],
+  "name_simple": "Al-Anfal",
+  "name_complex": "Al-'Anfāl",
+  "name_arabic": "الأنفال",
+  "translated_name": "The Spoils of War",
+  "start_page": 177,
+  "end_page": 186
+}

@@ -1,0 +1,27 @@
+{
+  "number": 110,
+  "name": {
+    "ar": "النصر",
+    "en": "Divine Support",
+    "transliteration": "An-Nasr"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 114,
+  "bismillah_pre": true,
+  "verses_count": 3,
+  "words_count": 19,
+  "letters_count": 79,
+  "pages": [
+    603,
+    603
+  ],
+  "name_simple": "An-Nasr",
+  "name_complex": "An-Naşr",
+  "name_arabic": "النصر",
+  "translated_name": "The Divine Support",
+  "start_page": 603,
+  "end_page": 603
+}

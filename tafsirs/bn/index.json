@@ -1,0 +1,34 @@
+[
+  {
+    "author_name": "AbdulRahman Bin Hasan Al-Alshaikh",
+    "id": 381,
+    "language_name": "bengali",
+    "name": "Tafsir Fathul Majid",
+    "slug": "tafisr-fathul-majid",
+    "source": "https://quran.com/"
+  },
+  {
+    "author_name": "Tawheed Publication",
+    "id": 164,
+    "language_name": "bengali",
+    "name": "Tafseer ibn Kathir",
+    "slug": "tafseer-ibn-e-kaseer",
+    "source": "https://quran.com/"
+  },
+  {
+    "author_name": "Bayaan Foundation",
+    "id": 165,
+    "language_name": "bengali",
+    "name": "Tafsir Ahsanul Bayaan",
+    "slug": "tafsir-ahsanul-bayaan",
+    "source": "https://quran.com/"
+  },
+  {
+    "author_name": "King Fahd Quran Printing Complex",
+    "id": 166,
+    "language_name": "bengali",
+    "name": "Tafsir Abu Bakr Zakaria",
+    "slug": "tafsir-abu-bakr-zakaria",
+    "source": "https://quran.com/"
+  }
+]

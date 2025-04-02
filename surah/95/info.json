@@ -1,0 +1,27 @@
+{
+  "number": 95,
+  "name": {
+    "ar": "التين",
+    "en": "The Fig",
+    "transliteration": "At-Tin"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 28,
+  "bismillah_pre": true,
+  "verses_count": 8,
+  "words_count": 34,
+  "letters_count": 156,
+  "pages": [
+    597,
+    597
+  ],
+  "name_simple": "At-Tin",
+  "name_complex": "At-Tīn",
+  "name_arabic": "التين",
+  "translated_name": "The Fig",
+  "start_page": 597,
+  "end_page": 597
+}

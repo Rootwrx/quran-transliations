@@ -1,0 +1,27 @@
+{
+  "number": 70,
+  "name": {
+    "ar": "المعارج",
+    "en": "The Ascending Stairways",
+    "transliteration": "Al-Ma'arij"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 79,
+  "bismillah_pre": true,
+  "verses_count": 44,
+  "words_count": 217,
+  "letters_count": 947,
+  "pages": [
+    568,
+    570
+  ],
+  "name_simple": "Al-Ma'arij",
+  "name_complex": "Al-Ma`ārij",
+  "name_arabic": "المعارج",
+  "translated_name": "The Ascending Stairways",
+  "start_page": 568,
+  "end_page": 570
+}

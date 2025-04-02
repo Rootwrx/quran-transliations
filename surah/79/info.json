@@ -1,0 +1,27 @@
+{
+  "number": 79,
+  "name": {
+    "ar": "النازعات",
+    "en": "Those who drag forth",
+    "transliteration": "An-Nazi'at"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 81,
+  "bismillah_pre": true,
+  "verses_count": 46,
+  "words_count": 179,
+  "letters_count": 762,
+  "pages": [
+    583,
+    584
+  ],
+  "name_simple": "An-Nazi'at",
+  "name_complex": "An-Nāzi`āt",
+  "name_arabic": "النازعات",
+  "translated_name": "Those who drag forth",
+  "start_page": 583,
+  "end_page": 584
+}

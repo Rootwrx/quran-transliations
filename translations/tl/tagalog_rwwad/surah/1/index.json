@@ -1,0 +1,60 @@
+{
+  "result": [
+    {
+      "id": "1",
+      "sura": "1",
+      "aya": "1",
+      "arabic_text": "بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "translation": "Sa ngalan ni Allāh,[1] ang Napakamaawain, ang Maawain.",
+      "footnotes": "[1] Ang pangalang Allāh ay pangngalang pantanging ukol lamang sa tunay na Diyos."
+    },
+    {
+      "id": "2",
+      "sura": "1",
+      "aya": "2",
+      "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+      "translation": "Ang papuri ay ukol kay Allāh, ang Panginoon[2] ng mga nilalang,[3]",
+      "footnotes": "[2] Ang Panginoon (Rabb sa wikang Arabe) ay ang Tagapag-alaga, ang Tagalikha, ang Tagapagtustos, at ang Tagapangsiwa.\n[3] Ang nilalang (`ālam sa wikang Arabe) ay ang bawat anumang iba pa kay Allāh, gaya ng tao, jinn, anghel, at iba pa."
+    },
+    {
+      "id": "3",
+      "sura": "1",
+      "aya": "3",
+      "arabic_text": "ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+      "translation": "ang Napakamaawain, ang Maawain,",
+      "footnotes": ""
+    },
+    {
+      "id": "4",
+      "sura": "1",
+      "aya": "4",
+      "arabic_text": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+      "translation": "ang Tagapagmay-ari ng Araw ng Pagtutumbas.",
+      "footnotes": ""
+    },
+    {
+      "id": "5",
+      "sura": "1",
+      "aya": "5",
+      "arabic_text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+      "translation": "Sa Iyo [lamang] kami sumasamba at sa Iyo [lamang] kami nagpapatulong.",
+      "footnotes": ""
+    },
+    {
+      "id": "6",
+      "sura": "1",
+      "aya": "6",
+      "arabic_text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+      "translation": "Magpatnubay Ka sa amin sa landasing tuwid:",
+      "footnotes": ""
+    },
+    {
+      "id": "7",
+      "sura": "1",
+      "aya": "7",
+      "arabic_text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+      "translation": "ang landasin ng mga biniyayaan[4] Mo,[5] hindi ng mga kinagalitan,[6] at hindi ng mga naliligaw.[7]",
+      "footnotes": "[4] Ang mga biniyayaan dito ay ang mga propeta, ang mga nagpapakatotoo, mga martir, at mga maayos.\n[5] Sa istilo ng pagsasalin dito, ang mga panghalip na nagsisimula sa malaking titik gaya ng Ako, Ko, Akin, Ikaw, Mo, Iyo ay tumutukoy kay Allāh.\n[6] Sila ay ang mga nakakilala sa katotohanan at hindi sumunod dito.\n[7] Sila ay ang mga naligaw sa katotohan, na hindi napatnubayan."
+    }
+  ]
+}

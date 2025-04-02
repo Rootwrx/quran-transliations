@@ -1,0 +1,27 @@
+{
+  "number": 53,
+  "name": {
+    "ar": "النجم",
+    "en": "The Star",
+    "transliteration": "An-Najm"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 23,
+  "bismillah_pre": true,
+  "verses_count": 62,
+  "words_count": 359,
+  "letters_count": 1405,
+  "pages": [
+    526,
+    528
+  ],
+  "name_simple": "An-Najm",
+  "name_complex": "An-Najm",
+  "name_arabic": "النجم",
+  "translated_name": "The Star",
+  "start_page": 526,
+  "end_page": 528
+}

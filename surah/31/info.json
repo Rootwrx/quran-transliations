@@ -1,0 +1,27 @@
+{
+  "number": 31,
+  "name": {
+    "ar": "لقمان",
+    "en": "Luqman",
+    "transliteration": "Luqman"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 57,
+  "bismillah_pre": true,
+  "verses_count": 34,
+  "words_count": 550,
+  "letters_count": 2121,
+  "pages": [
+    411,
+    414
+  ],
+  "name_simple": "Luqman",
+  "name_complex": "Luqmān",
+  "name_arabic": "لقمان",
+  "translated_name": "Luqman",
+  "start_page": 411,
+  "end_page": 414
+}

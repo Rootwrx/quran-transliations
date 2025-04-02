@@ -1,0 +1,164 @@
+{
+  "result": [
+    {
+      "id": "6024",
+      "sura": "90",
+      "aya": "1",
+      "arabic_text": "لَآ أُقۡسِمُ بِهَٰذَا ٱلۡبَلَدِ",
+      "translation": "Ndahiye uyu mujyi (wa Maka),",
+      "footnotes": ""
+    },
+    {
+      "id": "6025",
+      "sura": "90",
+      "aya": "2",
+      "arabic_text": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
+      "translation": "Nawe (Ntumwa Muhamadi) utuye uyu mujyi,",
+      "footnotes": ""
+    },
+    {
+      "id": "6026",
+      "sura": "90",
+      "aya": "3",
+      "arabic_text": "وَوَالِدٖ وَمَا وَلَدَ",
+      "translation": "N’umubyeyi (Adamu) n’abo yabyaye,",
+      "footnotes": ""
+    },
+    {
+      "id": "6027",
+      "sura": "90",
+      "aya": "4",
+      "arabic_text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِي كَبَدٍ",
+      "translation": "Mu by’ukuri twaremye umuntu (agomba kunyura) mu ngorane.",
+      "footnotes": ""
+    },
+    {
+      "id": "6028",
+      "sura": "90",
+      "aya": "5",
+      "arabic_text": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ",
+      "translation": "Ese akeka ko nta n’umwe wamushobora?",
+      "footnotes": ""
+    },
+    {
+      "id": "6029",
+      "sura": "90",
+      "aya": "6",
+      "arabic_text": "يَقُولُ أَهۡلَكۡتُ مَالٗا لُّبَدًا",
+      "translation": "Aravuga ati “Nakoresheje umutungo mwinshi.”",
+      "footnotes": ""
+    },
+    {
+      "id": "6030",
+      "sura": "90",
+      "aya": "7",
+      "arabic_text": "أَيَحۡسَبُ أَن لَّمۡ يَرَهُۥٓ أَحَدٌ",
+      "translation": "Ese akeka ko nta n’umwe umubona?",
+      "footnotes": ""
+    },
+    {
+      "id": "6031",
+      "sura": "90",
+      "aya": "8",
+      "arabic_text": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ",
+      "translation": "Ese ntitwamuhaye amaso abiri,",
+      "footnotes": ""
+    },
+    {
+      "id": "6032",
+      "sura": "90",
+      "aya": "9",
+      "arabic_text": "وَلِسَانٗا وَشَفَتَيۡنِ",
+      "translation": "Ndetse n’ururimi n’iminwa ibiri?",
+      "footnotes": ""
+    },
+    {
+      "id": "6033",
+      "sura": "90",
+      "aya": "10",
+      "arabic_text": "وَهَدَيۡنَٰهُ ٱلنَّجۡدَيۡنِ",
+      "translation": "Tukanamwereka inzira ebyiri (iy’icyiza n’ikibi)?",
+      "footnotes": ""
+    },
+    {
+      "id": "6034",
+      "sura": "90",
+      "aya": "11",
+      "arabic_text": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
+      "translation": "Ariko ntiyigeze ashaka kunyura mu nzira igoranye (iganisha ku byiza n’intsinzi).",
+      "footnotes": ""
+    },
+    {
+      "id": "6035",
+      "sura": "90",
+      "aya": "12",
+      "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡعَقَبَةُ",
+      "translation": "Ese ni iki cyakumenyesha iyo nzira igoranye?",
+      "footnotes": ""
+    },
+    {
+      "id": "6036",
+      "sura": "90",
+      "aya": "13",
+      "arabic_text": "فَكُّ رَقَبَةٍ",
+      "translation": "(Ni) ukubohora umucakara,",
+      "footnotes": ""
+    },
+    {
+      "id": "6037",
+      "sura": "90",
+      "aya": "14",
+      "arabic_text": "أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ",
+      "translation": "Cyangwa gutanga amafunguro ku munsi w’amapfa,",
+      "footnotes": ""
+    },
+    {
+      "id": "6038",
+      "sura": "90",
+      "aya": "15",
+      "arabic_text": "يَتِيمٗا ذَا مَقۡرَبَةٍ",
+      "translation": "(Ayo mafunguro ukayaha) imfubyi mufitanye isano rya bugufi,",
+      "footnotes": ""
+    },
+    {
+      "id": "6039",
+      "sura": "90",
+      "aya": "16",
+      "arabic_text": "أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ",
+      "translation": "Cyangwa umukene wambaye ubusa (ubayeho mu kaga).",
+      "footnotes": ""
+    },
+    {
+      "id": "6040",
+      "sura": "90",
+      "aya": "17",
+      "arabic_text": "ثُمَّ كَانَ مِنَ ٱلَّذِينَ ءَامَنُواْ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ وَتَوَاصَوۡاْ بِٱلۡمَرۡحَمَةِ",
+      "translation": "Hanyuma akaba umwe mu bemeramana, bakanagirana inama zo kwihangana ndetse bakanagirana inama zo kugira impuhwe.",
+      "footnotes": ""
+    },
+    {
+      "id": "6041",
+      "sura": "90",
+      "aya": "18",
+      "arabic_text": "أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+      "translation": "Abo ni abo mu kuboko kw’iburyo (mu Ijuru).",
+      "footnotes": ""
+    },
+    {
+      "id": "6042",
+      "sura": "90",
+      "aya": "19",
+      "arabic_text": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+      "translation": "Naho abahakanye amagambo yacu, ni abo mu kuboko kw’ibumoso (mu muriro).",
+      "footnotes": ""
+    },
+    {
+      "id": "6043",
+      "sura": "90",
+      "aya": "20",
+      "arabic_text": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ",
+      "translation": "Bazaba bafungiranye mu muriro (badafite aho binjirira n’aho basohokera).",
+      "footnotes": ""
+    }
+  ]
+}

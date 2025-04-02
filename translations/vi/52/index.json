@@ -1,0 +1,396 @@
+{
+  "result": [
+    {
+      "id": "4736",
+      "sura": "52",
+      "aya": "1",
+      "arabic_text": "وَٱلطُّورِ",
+      "translation": "Thề bởi ngọn núi Tur (nơi Allah đã nói chuyện trực tiếp với Musa).",
+      "footnotes": ""
+    },
+    {
+      "id": "4737",
+      "sura": "52",
+      "aya": "2",
+      "arabic_text": "وَكِتَٰبٖ مَّسۡطُورٖ",
+      "translation": "Thề bởi Kinh Sách đã được ghi chép.",
+      "footnotes": ""
+    },
+    {
+      "id": "4738",
+      "sura": "52",
+      "aya": "3",
+      "arabic_text": "فِي رَقّٖ مَّنشُورٖ",
+      "translation": "Trên miếng da thuộc được trải ra.",
+      "footnotes": ""
+    },
+    {
+      "id": "4739",
+      "sura": "52",
+      "aya": "4",
+      "arabic_text": "وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ",
+      "translation": "Thề bởi Ngôi Đền Ma’mur (ở bên trên bảy tầng trời, nơi mà các Thiên Thần vào thờ phượng Allah).",
+      "footnotes": ""
+    },
+    {
+      "id": "4740",
+      "sura": "52",
+      "aya": "5",
+      "arabic_text": "وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ",
+      "translation": "Thề bởi mái (trời) được dựng cao.",
+      "footnotes": ""
+    },
+    {
+      "id": "4741",
+      "sura": "52",
+      "aya": "6",
+      "arabic_text": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ",
+      "translation": "Thề bởi biển cả dâng trào.",
+      "footnotes": ""
+    },
+    {
+      "id": "4742",
+      "sura": "52",
+      "aya": "7",
+      "arabic_text": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٞ",
+      "translation": "Thật vậy, sự trừng phạt của Thượng Đế Ngươi (hỡi Thiên Sứ Muhammad) chắc chắn sẽ xảy ra.",
+      "footnotes": ""
+    },
+    {
+      "id": "4743",
+      "sura": "52",
+      "aya": "8",
+      "arabic_text": "مَّا لَهُۥ مِن دَافِعٖ",
+      "translation": "Không ai (hay sức mạnh nào) có thể cản được nó.",
+      "footnotes": ""
+    },
+    {
+      "id": "4744",
+      "sura": "52",
+      "aya": "9",
+      "arabic_text": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا",
+      "translation": "Vào Ngày mà bầu trời sẽ chấn động dữ dội.",
+      "footnotes": ""
+    },
+    {
+      "id": "4745",
+      "sura": "52",
+      "aya": "10",
+      "arabic_text": "وَتَسِيرُ ٱلۡجِبَالُ سَيۡرٗا",
+      "translation": "Những ngọn núi sẽ dịch chuyển khỏi vị trí của nó.",
+      "footnotes": ""
+    },
+    {
+      "id": "4746",
+      "sura": "52",
+      "aya": "11",
+      "arabic_text": "فَوَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+      "translation": "Vì vậy, Ngày hôm đó sẽ thật khốn khổ cho những kẻ phủ nhận.",
+      "footnotes": ""
+    },
+    {
+      "id": "4747",
+      "sura": "52",
+      "aya": "12",
+      "arabic_text": "ٱلَّذِينَ هُمۡ فِي خَوۡضٖ يَلۡعَبُونَ",
+      "translation": "Những kẻ mà chúng đùa vui vô bổ.",
+      "footnotes": ""
+    },
+    {
+      "id": "4748",
+      "sura": "52",
+      "aya": "13",
+      "arabic_text": "يَوۡمَ يُدَعُّونَ إِلَىٰ نَارِ جَهَنَّمَ دَعًّا",
+      "translation": "Ngày (đó) chúng sẽ bị đẩy xuống Lửa của Hỏa Ngục một cách thô bạo.",
+      "footnotes": ""
+    },
+    {
+      "id": "4749",
+      "sura": "52",
+      "aya": "14",
+      "arabic_text": "هَٰذِهِ ٱلنَّارُ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ",
+      "translation": "(Lúc đó, có tiếng bảo chúng): “Đây chính là Lửa mà các ngươi đã thường hay phủ nhận.”",
+      "footnotes": ""
+    },
+    {
+      "id": "4750",
+      "sura": "52",
+      "aya": "15",
+      "arabic_text": "أَفَسِحۡرٌ هَٰذَآ أَمۡ أَنتُمۡ لَا تُبۡصِرُونَ",
+      "translation": "“Đây có phải là trò ảo thuật không hay các ngươi không nhìn thấy?”",
+      "footnotes": ""
+    },
+    {
+      "id": "4751",
+      "sura": "52",
+      "aya": "16",
+      "arabic_text": "ٱصۡلَوۡهَا فَٱصۡبِرُوٓاْ أَوۡ لَا تَصۡبِرُواْ سَوَآءٌ عَلَيۡكُمۡۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
+      "translation": "“Các ngươi cứ chịu thiêu đốt trong đó, cho dù các ngươi có chịu được hay không chịu được thì cũng đành phải chịu, bởi quả thật đó là cái giá cho những gì các ngươi đã làm.”",
+      "footnotes": ""
+    },
+    {
+      "id": "4752",
+      "sura": "52",
+      "aya": "17",
+      "arabic_text": "إِنَّ ٱلۡمُتَّقِينَ فِي جَنَّٰتٖ وَنَعِيمٖ",
+      "translation": "Quả thật, những người ngoan đạo sẽ ở trong các Ngôi Vườn Thiên Đàng và tận hưởng niềm vui.",
+      "footnotes": ""
+    },
+    {
+      "id": "4753",
+      "sura": "52",
+      "aya": "18",
+      "arabic_text": "فَٰكِهِينَ بِمَآ ءَاتَىٰهُمۡ رَبُّهُمۡ وَوَقَىٰهُمۡ رَبُّهُمۡ عَذَابَ ٱلۡجَحِيمِ",
+      "translation": "Họ sẽ hạnh phúc với những thứ Thượng Đế của họ ban cấp và với việc Ngài cứu rỗi họ thoát khỏi sự trừng phạt của Hỏa Ngục.",
+      "footnotes": ""
+    },
+    {
+      "id": "4754",
+      "sura": "52",
+      "aya": "19",
+      "arabic_text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+      "translation": "(Họ sẽ được bảo): “Hãy ăn và uống thỏa thích bởi những điều các ngươi đã làm!”",
+      "footnotes": ""
+    },
+    {
+      "id": "4755",
+      "sura": "52",
+      "aya": "20",
+      "arabic_text": "مُتَّكِـِٔينَ عَلَىٰ سُرُرٖ مَّصۡفُوفَةٖۖ وَزَوَّجۡنَٰهُم بِحُورٍ عِينٖ",
+      "translation": "Họ sẽ tựa mình nằm nghỉ trên những chiếc tràng kỹ được xếp thành hàng và TA (Allah) sẽ kết hôn họ với các nàng Hurun ‘In (tiên nữ có đôi mắt to tuyệt đẹp).",
+      "footnotes": ""
+    },
+    {
+      "id": "4756",
+      "sura": "52",
+      "aya": "21",
+      "arabic_text": "وَٱلَّذِينَ ءَامَنُواْ وَٱتَّبَعَتۡهُمۡ ذُرِّيَّتُهُم بِإِيمَٰنٍ أَلۡحَقۡنَا بِهِمۡ ذُرِّيَّتَهُمۡ وَمَآ أَلَتۡنَٰهُم مِّنۡ عَمَلِهِم مِّن شَيۡءٖۚ كُلُّ ٱمۡرِيِٕۭ بِمَا كَسَبَ رَهِينٞ",
+      "translation": "Những ai có đức tin và con cháu của họ cùng theo họ trong đức tin sẽ được TA cho đoàn tụ với họ (trong Thiên Đàng). TA sẽ không cắt giảm bất cứ thứ gì (từ phần thưởng) cho việc làm (thiện tốt) của họ. Mỗi con người phải chịu trách nhiệm cho những gì mình đã làm.",
+      "footnotes": ""
+    },
+    {
+      "id": "4757",
+      "sura": "52",
+      "aya": "22",
+      "arabic_text": "وَأَمۡدَدۡنَٰهُم بِفَٰكِهَةٖ وَلَحۡمٖ مِّمَّا يَشۡتَهُونَ",
+      "translation": "TA sẽ ban thêm cho họ những loại trái cây và các loại thịt mà họ ưa thích.",
+      "footnotes": ""
+    },
+    {
+      "id": "4758",
+      "sura": "52",
+      "aya": "23",
+      "arabic_text": "يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ",
+      "translation": "Trong (Thiên Đàng), họ sẽ trao cho nhau tách uống, và sẽ không có những lời lẽ thô tục và tội lỗi trong đó.",
+      "footnotes": ""
+    },
+    {
+      "id": "4759",
+      "sura": "52",
+      "aya": "24",
+      "arabic_text": "۞ وَيَطُوفُ عَلَيۡهِمۡ غِلۡمَانٞ لَّهُمۡ كَأَنَّهُمۡ لُؤۡلُؤٞ مَّكۡنُونٞ",
+      "translation": "Họ sẽ được những thiếu niên xinh đẹp đi vòng quanh phục vụ; (những thiếu niên đó) trông như những viên ngọc trai được cất kỹ.",
+      "footnotes": ""
+    },
+    {
+      "id": "4760",
+      "sura": "52",
+      "aya": "25",
+      "arabic_text": "وَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَسَآءَلُونَ",
+      "translation": "Họ sẽ đến gặp nhau hỏi han, trò chuyện.",
+      "footnotes": ""
+    },
+    {
+      "id": "4761",
+      "sura": "52",
+      "aya": "26",
+      "arabic_text": "قَالُوٓاْ إِنَّا كُنَّا قَبۡلُ فِيٓ أَهۡلِنَا مُشۡفِقِينَ",
+      "translation": "Họ sẽ nói (với nhau): “Thật vậy, trước đây lúc còn sống với gia đình (trên cõi trần) chúng tôi đã rất sợ (về việc sẽ bị Allah trừng phạt)”.",
+      "footnotes": ""
+    },
+    {
+      "id": "4762",
+      "sura": "52",
+      "aya": "27",
+      "arabic_text": "فَمَنَّ ٱللَّهُ عَلَيۡنَا وَوَقَىٰنَا عَذَابَ ٱلسَّمُومِ",
+      "translation": "“Nhưng Allah đã ban ân cho chúng tôi và đã cứu chúng tôi khỏi sự trừng phạt của Ngọn Lửa thiêu đốt.”",
+      "footnotes": ""
+    },
+    {
+      "id": "4763",
+      "sura": "52",
+      "aya": "28",
+      "arabic_text": "إِنَّا كُنَّا مِن قَبۡلُ نَدۡعُوهُۖ إِنَّهُۥ هُوَ ٱلۡبَرُّ ٱلرَّحِيمُ",
+      "translation": "“Quả thật, trước đây chúng tôi đã thường cầu nguyện Ngài. Quả thật, Ngài là Đấng Tử Tế, Đấng Thương Xót.”",
+      "footnotes": ""
+    },
+    {
+      "id": "4764",
+      "sura": "52",
+      "aya": "29",
+      "arabic_text": "فَذَكِّرۡ فَمَآ أَنتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنٖ وَلَا مَجۡنُونٍ",
+      "translation": "Vì vậy, Ngươi (hỡi Thiên Sứ Muhammad) hãy (dùng Qur’an) nhắc nhở (mọi người). Quả thật, với ân huệ mà Thượng Đế của Ngươi đã ban cho Ngươi, Ngươi không phải là một tên thầy bói cũng không phải là một kẻ điên.",
+      "footnotes": ""
+    },
+    {
+      "id": "4765",
+      "sura": "52",
+      "aya": "30",
+      "arabic_text": "أَمۡ يَقُولُونَ شَاعِرٞ نَّتَرَبَّصُ بِهِۦ رَيۡبَ ٱلۡمَنُونِ",
+      "translation": "Hoặc chúng (những kẻ phủ nhận) nói: “(Muhammad không phải là Sứ Giả) mà là một nhà thơ, chúng ta cứ đợi xem, sớm muộn gì hắn cũng chết.”",
+      "footnotes": ""
+    },
+    {
+      "id": "4766",
+      "sura": "52",
+      "aya": "31",
+      "arabic_text": "قُلۡ تَرَبَّصُواْ فَإِنِّي مَعَكُم مِّنَ ٱلۡمُتَرَبِّصِينَ",
+      "translation": "Ngươi (hỡi Thiên Sứ Muhammad) hãy nói (với chúng): “Các người hãy đợi, Ta sẽ cùng chờ đợi với các người.”",
+      "footnotes": ""
+    },
+    {
+      "id": "4767",
+      "sura": "52",
+      "aya": "32",
+      "arabic_text": "أَمۡ تَأۡمُرُهُمۡ أَحۡلَٰمُهُم بِهَٰذَآۚ أَمۡ هُمۡ قَوۡمٞ طَاغُونَ",
+      "translation": "Có phải tâm trí của chúng ra lệnh cho chúng (nói) điều này, hay chúng là đám người vượt quá giới hạn?",
+      "footnotes": ""
+    },
+    {
+      "id": "4768",
+      "sura": "52",
+      "aya": "33",
+      "arabic_text": "أَمۡ يَقُولُونَ تَقَوَّلَهُۥۚ بَل لَّا يُؤۡمِنُونَ",
+      "translation": "Hay là chúng cho rằng (Muhammad) đã bịa đặt (Qur’an)? Không, chúng không có đức tin (là do tính tự cao tự đại của chúng mà thôi).",
+      "footnotes": ""
+    },
+    {
+      "id": "4769",
+      "sura": "52",
+      "aya": "34",
+      "arabic_text": "فَلۡيَأۡتُواْ بِحَدِيثٖ مِّثۡلِهِۦٓ إِن كَانُواْ صَٰدِقِينَ",
+      "translation": "(Nếu chúng cho rằng Muhammad bịa đặt), chúng hãy mang đến lời lẽ giống như (Qur’an) xem nào nếu chúng là những kẻ nói thật.",
+      "footnotes": ""
+    },
+    {
+      "id": "4770",
+      "sura": "52",
+      "aya": "35",
+      "arabic_text": "أَمۡ خُلِقُواْ مِنۡ غَيۡرِ شَيۡءٍ أَمۡ هُمُ ٱلۡخَٰلِقُونَ",
+      "translation": "Chúng được tạo ra từ cái không là gì hay chúng tự tạo ra bản thân chúng?",
+      "footnotes": ""
+    },
+    {
+      "id": "4771",
+      "sura": "52",
+      "aya": "36",
+      "arabic_text": "أَمۡ خَلَقُواْ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۚ بَل لَّا يُوقِنُونَ",
+      "translation": "Hay phải chăng chúng đã tạo ra các tầng trời và trái đất? Không, (chỉ vì) chúng không có một niềm tin vững chắc (nơi Allah mà thôi).",
+      "footnotes": ""
+    },
+    {
+      "id": "4772",
+      "sura": "52",
+      "aya": "37",
+      "arabic_text": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۜيۡطِرُونَ",
+      "translation": "Hay phải chăng chúng nắm giữ các kho tàng của Thượng Đế của Ngươi? Hoặc phải chăng chúng là những kẻ toàn quyền kiểm soát (các kho tàng của Ngài)?",
+      "footnotes": ""
+    },
+    {
+      "id": "4773",
+      "sura": "52",
+      "aya": "38",
+      "arabic_text": "أَمۡ لَهُمۡ سُلَّمٞ يَسۡتَمِعُونَ فِيهِۖ فَلۡيَأۡتِ مُسۡتَمِعُهُم بِسُلۡطَٰنٖ مُّبِينٍ",
+      "translation": "Hoặc phải chăng chúng có một cái thang (lên trời) để nghe (trực tiếp sự mặc khải của Allah rằng chúng đang ở trên chân lý)? Vậy nên, hãy để kẻ nghe lén của chúng mang ra bằng chứng rõ ràng.",
+      "footnotes": ""
+    },
+    {
+      "id": "4774",
+      "sura": "52",
+      "aya": "39",
+      "arabic_text": "أَمۡ لَهُ ٱلۡبَنَٰتُ وَلَكُمُ ٱلۡبَنُونَ",
+      "translation": "Hoặc phải chăng con gái là của Ngài còn con trai là của các ngươi?",
+      "footnotes": ""
+    },
+    {
+      "id": "4775",
+      "sura": "52",
+      "aya": "40",
+      "arabic_text": "أَمۡ تَسۡـَٔلُهُمۡ أَجۡرٗا فَهُم مِّن مَّغۡرَمٖ مُّثۡقَلُونَ",
+      "translation": "Hoặc phải chăng Ngươi (Thiên Sứ Muhammad) đã đòi chúng tiền thù lao khiến chúng bị gánh nặng nợ nần (nên không thể tiếp nhận điều Ngươi mang đến cho chúng)?",
+      "footnotes": ""
+    },
+    {
+      "id": "4776",
+      "sura": "52",
+      "aya": "41",
+      "arabic_text": "أَمۡ عِندَهُمُ ٱلۡغَيۡبُ فَهُمۡ يَكۡتُبُونَ",
+      "translation": "Hoặc phải chăng chúng có kiến thức về điều vô hình nên chúng viết nó xuống?",
+      "footnotes": ""
+    },
+    {
+      "id": "4777",
+      "sura": "52",
+      "aya": "42",
+      "arabic_text": "أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ",
+      "translation": "Hoặc phải chăng chúng có mưu đồ (hại Ngươi và tôn giáo của Ngươi – hỡi Thiên Sứ Muhammad)? Nhưng (Ngươi hãy tin chắc nơi Allah rằng) chính những kẻ vô đức tin sẽ là đám người rơi vào mưu đồ của chúng.",
+      "footnotes": ""
+    },
+    {
+      "id": "4778",
+      "sura": "52",
+      "aya": "43",
+      "arabic_text": "أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ",
+      "translation": "Hoặc phải chăng chúng có một thượng đế khác ngoài Allah? Quả thật, Allah tối cao và siêu việt vượt hẳn những thứ mà chúng đã gán ghép cho Ngài.",
+      "footnotes": ""
+    },
+    {
+      "id": "4779",
+      "sura": "52",
+      "aya": "44",
+      "arabic_text": "وَإِن يَرَوۡاْ كِسۡفٗا مِّنَ ٱلسَّمَآءِ سَاقِطٗا يَقُولُواْ سَحَابٞ مَّرۡكُومٞ",
+      "translation": "Nếu chúng thấy một mảnh vỡ từ trên trời rơi xuống, chúng sẽ nói: “(Đó chỉ là) những đám mây chồng chất lên nhau (rất đỗi bình thường, chẳng có gì nghiêm trọng và to tát cả)!”",
+      "footnotes": ""
+    },
+    {
+      "id": "4780",
+      "sura": "52",
+      "aya": "45",
+      "arabic_text": "فَذَرۡهُمۡ حَتَّىٰ يُلَٰقُواْ يَوۡمَهُمُ ٱلَّذِي فِيهِ يُصۡعَقُونَ",
+      "translation": "Vì vậy, Ngươi (Thiên Sứ Muhammad) cứ để mặc chúng cho đến lúc chúng gặp ngày mà chúng sẽ bị trừng phạt.",
+      "footnotes": ""
+    },
+    {
+      "id": "4781",
+      "sura": "52",
+      "aya": "46",
+      "arabic_text": "يَوۡمَ لَا يُغۡنِي عَنۡهُمۡ كَيۡدُهُمۡ شَيۡـٔٗا وَلَا هُمۡ يُنصَرُونَ",
+      "translation": "Ngày mà mưu đồ của chúng sẽ không mang lại ích lợi gì cho chúng và chúng sẽ không được ai cứu giúp.",
+      "footnotes": ""
+    },
+    {
+      "id": "4782",
+      "sura": "52",
+      "aya": "47",
+      "arabic_text": "وَإِنَّ لِلَّذِينَ ظَلَمُواْ عَذَابٗا دُونَ ذَٰلِكَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+      "translation": "Quả thật, ngoài (sự trừng phạt ở Đời Sau), những kẻ làm điều sai quấy còn phải nhận lấy một sự trừng phạt khác (ở cõi trần tục và cõi Barzakh) nhưng hầu hết bọn chúng không biết.",
+      "footnotes": ""
+    },
+    {
+      "id": "4783",
+      "sura": "52",
+      "aya": "48",
+      "arabic_text": "وَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ فَإِنَّكَ بِأَعۡيُنِنَاۖ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ حِينَ تَقُومُ",
+      "translation": "Ngươi (hỡi Thiên Sứ Muhammad) hãy kiên nhẫn đợi Quyết Định của Thượng Đế của Ngươi bởi vì quả thật Ngươi luôn ở dưới Mắt của TA. Ngươi hãy tán dương ca ngợi Thượng Đế của Ngươi (bằng lễ nguyện Salah) khi ngủ dậy.",
+      "footnotes": ""
+    },
+    {
+      "id": "4784",
+      "sura": "52",
+      "aya": "49",
+      "arabic_text": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَإِدۡبَٰرَ ٱلنُّجُومِ",
+      "translation": "Và Ngươi hãy tán dương Ngài (bằng lễ nguyện Salah) vào một phần của đêm và vào (lúc rạng động) khi các vì sao biến mất (bởi ánh sáng của ban ngày).",
+      "footnotes": ""
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "result": [
+    {
+      "id": "6208",
+      "sura": "109",
+      "aya": "1",
+      "arabic_text": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ",
+      "translation": "Sema: Enyi makafiri!",
+      "footnotes": "Ewe Muhammad! Sema: Enyi makafiri, mlio shikilia juu ya ukafiri wenu."
+    },
+    {
+      "id": "6209",
+      "sura": "109",
+      "aya": "2",
+      "arabic_text": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ",
+      "translation": "Siabudu mnacho kiabudu;",
+      "footnotes": "Mimi simuabudu mnaye muabudu nyinyi badala ya Mwenyezi Mungu."
+    },
+    {
+      "id": "6210",
+      "sura": "109",
+      "aya": "3",
+      "arabic_text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "translation": "Wala nyinyi hamuabudu ninaye muabudu.",
+      "footnotes": "Wala nyinyi si wenye kumuabudu huyo ambaye mimi namuabudu, naye ni Mwenyezi Mungu wa pekee."
+    },
+    {
+      "id": "6211",
+      "sura": "109",
+      "aya": "4",
+      "arabic_text": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ",
+      "translation": "Wala sitaabudu mnacho abudu.",
+      "footnotes": "Wala mimi si mwenye kuabudu mfano wa ibada yenu, kwani nyinyi ni washirikina."
+    },
+    {
+      "id": "6212",
+      "sura": "109",
+      "aya": "5",
+      "arabic_text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+      "translation": "Wala nyinyi hamuabudu ninaye muabudu.",
+      "footnotes": "Wala nyinyi si wenye kuabudu mfano wa ibada yangu, kwani hii ni Tawhidi, ibada ya Mungu Mmoja."
+    },
+    {
+      "id": "6213",
+      "sura": "109",
+      "aya": "6",
+      "arabic_text": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ",
+      "translation": "Nyinyi mna dini yenu, nami nina Dini yangu.",
+      "footnotes": "Nyinyi mna dini yenu mnayo itakidi, na mimi nina Dini yangu aliyo niteulia Mwenyezi Mungu niishike."
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "number": 97,
+  "revelation_order": 25,
+  "bismillah_pre": true,
+  "verses_count": 5,
+  "words_count": 30,
+  "letters_count": 112,
+  "name_simple": "Al-Qadr",
+  "name_complex": "Al-Qadr",
+  "name_arabic": "القدر",
+  "translated_name": "The Power",
+  "start_page": 598,
+  "end_page": 598,
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "name": {
+    "ar": "القدر",
+    "en": "The Power, Fate",
+    "transliteration": "Al-Qadr"
+  },
+  "juz": [
+    {
+      "index": "30",
+      "verse": {
+        "start": "1",
+        "end": "5"
+      }
+    }
+  ],
+  "verses": {
+    "0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "1": "إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
+    "2": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
+    "3": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ",
+    "4": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ",
+    "5": "سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ"
+  }
+}
