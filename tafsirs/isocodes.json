@@ -1,0 +1,19 @@
+{
+  "languages_isocodes": {
+    "arabic": "ar",
+    "english": "en",
+    "russian": "ru",
+    "bengali": "bn",
+    "urdu": "ur",
+    "kurdish":"kurd"
+
+  },
+  "isocodes_languages": {
+    "ar": "arabic",
+    "en": "english",
+    "ru": "russian",
+    "bn": "bengali",
+    "ur": "urdu",
+    "kurd": "kurdish",
+  }
+}
