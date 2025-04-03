@@ -48,7 +48,7 @@ Retrieves comprehensive information about all chapters (surahs) of the Quran.
 
 **Endpoint:** `GET /surah/info.json`
 
-**Response Example:**
+**Response:**
 
 ```json
 [
@@ -91,7 +91,7 @@ Retrieves the complete text of a specific surah.
 GET /surah/112/index.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -125,7 +125,7 @@ Retrieves a specific verse from a surah.
 GET /surah/112/1.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -155,7 +155,7 @@ Retrieves information about a specific surah.
 GET /surah/112/info.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -196,7 +196,7 @@ Retrieves information about a surah in English.
 GET /surah/112/about.en.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -223,7 +223,7 @@ Retrieves both surah information and its verses in a single request.
 GET /surah/112/index.info.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -275,7 +275,7 @@ Retrieves a list of all available translations with their details.
 
 **Endpoint:** `GET /translations/translations.json`
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -317,7 +317,7 @@ Retrieves a list of all languages for which translations are available.
 
 **Endpoint:** `GET /translations/languages.json`
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -350,7 +350,7 @@ Retrieves a mapping between language names and their ISO codes, and vice versa.
 
 **Endpoint:** `GET /translations/isocodes.json`
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -387,7 +387,7 @@ Retrieves information about the default translation version for a specific langu
 GET /translations/zh/info.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -413,7 +413,7 @@ Retrieves a translation of a specific surah in the default version for a languag
 GET /translations/zh/1/index.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -462,7 +462,7 @@ Retrieves a minified translation of a surah for a specific language.
 GET /translations/zh/1/index.min.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -498,7 +498,7 @@ Retrieves a translation of a specific verse in the default version for a languag
 GET /translations/yo/1/1.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -529,7 +529,7 @@ Retrieves a list of all available translation versions for a specific language.
 GET /translations/list/vi/info.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -559,7 +559,7 @@ Retrieves a translation of a surah in a specific translation version.
 GET /translations/ug/uyghur_saleh/surah/110/index.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -622,7 +622,7 @@ Retrieves a translation of a specific verse in a specific translation version.
 GET /translations/ug/uyghur_saleh/surah/110/2.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -653,7 +653,7 @@ Retrieves information about a specific translation version.
 GET /translations/ja/japanese_saeedsato/info.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -754,7 +754,7 @@ Retrieves a list of all available tafsir editions and their languages.
 
 **Endpoint:** `GET /tafsirs/editions.json`
 
-**Response Example:**
+**Response:**
 
 ```json
 [
@@ -805,7 +805,7 @@ Retrieves the default tafsir for a specific surah in a given language.
 GET /tafsirs/en/110.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -841,7 +841,7 @@ Retrieves the default tafsir for a specific verse in a given language.
 GET /tafsirs/ru/1/1.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -863,7 +863,7 @@ Retrieves a list of all tafsir versions available in a specific language.
 GET /tafsirs/ar/info.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 [
@@ -902,7 +902,7 @@ Retrieves a specific tafsir version for a surah.
 GET /tafsirs/en/al-jalalayn/110.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
@@ -938,7 +938,7 @@ Retrieves a specific tafsir version for a verse.
 GET /tafsirs/en/al-jalalayn/110/1.json
 ```
 
-**Response Example:**
+**Response:**
 
 ```json
 {
