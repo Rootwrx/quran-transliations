@@ -3,7 +3,7 @@
 ### Base URLs -
 
 1. JS Delivr: `https://cdn.jsdelivr.net/gh/Rootwrx/quran-api@master`
-2. Git Hack: `https://rawcdn.githack.com/Rootwrx/quran-api/bf42646e16973c59a0789b7a3ad065ff6ad6b0bf`
+2. Git Hack: `https://rawcdn.githack.com/Rootwrx/quran-api/6865286890f2bdd6c3829bd5683b620b484c919f`
 3. Staticaly: `https://cdn.statically.io/gh/Rootwrx/quran-api/master`
 4. Github: `https://raw.githubusercontent.com/Rootwrx/quran-api/refs/heads/master`
 5. Github  `https://raw.githubusercontent.com/Rootwrx/quran-api/master`
