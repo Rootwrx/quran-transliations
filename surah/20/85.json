@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 85,
-    "arabic_text": "قَالَ فَإِنَّا قَدۡ فَتَنَّا قَوۡمَكَ مِنۢ بَعۡدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِيُّ"
-  }
+  "id": 2433,
+  "number": 85,
+  "verse_key": "20:85",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 273,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 317,
+  "juz_number": 16,
+  "text": "قَالَ فَإِنَّا قَدۡ فَتَنَّا قَوۡمَكَ مِنۢ بَعۡدِكَ وَأَضَلَّهُمُ ٱلسَّامِرِيُّ"
 }

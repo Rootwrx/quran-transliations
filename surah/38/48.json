@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 48,
-    "arabic_text": "وَٱذۡكُرۡ إِسۡمَٰعِيلَ وَٱلۡيَسَعَ وَذَا ٱلۡكِفۡلِۖ وَكُلّٞ مِّنَ ٱلۡأَخۡيَارِ"
-  }
+  "id": 4018,
+  "number": 48,
+  "verse_key": "38:48",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 456,
+  "juz_number": 23,
+  "text": "وَٱذۡكُرۡ إِسۡمَٰعِيلَ وَٱلۡيَسَعَ وَذَا ٱلۡكِفۡلِۖ وَكُلّٞ مِّنَ ٱلۡأَخۡيَارِ"
 }

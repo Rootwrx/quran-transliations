@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "طسٓۚ تِلۡكَ ءَايَٰتُ ٱلۡقُرۡءَانِ وَكِتَابٖ مُّبِينٍ"
-  }
+  "id": 3160,
+  "number": 1,
+  "verse_key": "27:1",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "ruku_number": 327,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 377,
+  "juz_number": 19,
+  "text": "طسٓۚ تِلۡكَ ءَايَٰتُ ٱلۡقُرۡءَانِ وَكِتَابٖ مُّبِينٍ"
 }

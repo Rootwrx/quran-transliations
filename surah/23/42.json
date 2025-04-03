@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 42,
-    "arabic_text": "ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قُرُونًا ءَاخَرِينَ"
-  }
+  "id": 2715,
+  "number": 42,
+  "verse_key": "23:42",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 344,
+  "juz_number": 18,
+  "text": "ثُمَّ أَنشَأۡنَا مِنۢ بَعۡدِهِمۡ قُرُونًا ءَاخَرِينَ"
 }

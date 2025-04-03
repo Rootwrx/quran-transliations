@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 68,
-    "arabic_text": "وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعۡلَمُ بِمَا تَعۡمَلُونَ"
-  }
+  "id": 2663,
+  "number": 68,
+  "verse_key": "22:68",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "ruku_number": 293,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 340,
+  "juz_number": 17,
+  "text": "وَإِن جَٰدَلُوكَ فَقُلِ ٱللَّهُ أَعۡلَمُ بِمَا تَعۡمَلُونَ"
 }

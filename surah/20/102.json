@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 102,
-    "arabic_text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِۚ وَنَحۡشُرُ ٱلۡمُجۡرِمِينَ يَوۡمَئِذٖ زُرۡقٗا"
-  }
+  "id": 2450,
+  "number": 102,
+  "verse_key": "20:102",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 274,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 319,
+  "juz_number": 16,
+  "text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِۚ وَنَحۡشُرُ ٱلۡمُجۡرِمِينَ يَوۡمَئِذٖ زُرۡقٗا"
 }

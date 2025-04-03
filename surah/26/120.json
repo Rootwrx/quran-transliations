@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 120,
-    "arabic_text": "ثُمَّ أَغۡرَقۡنَا بَعۡدُ ٱلۡبَاقِينَ"
-  }
+  "id": 3052,
+  "number": 120,
+  "verse_key": "26:120",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 321,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 372,
+  "juz_number": 19,
+  "text": "ثُمَّ أَغۡرَقۡنَا بَعۡدُ ٱلۡبَاقِينَ"
 }

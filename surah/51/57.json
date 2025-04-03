@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 57,
-    "arabic_text": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ"
-  }
+  "id": 4732,
+  "number": 57,
+  "verse_key": "51:57",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 523,
+  "juz_number": 27,
+  "text": "مَآ أُرِيدُ مِنۡهُم مِّن رِّزۡقٖ وَمَآ أُرِيدُ أَن يُطۡعِمُونِ"
 }

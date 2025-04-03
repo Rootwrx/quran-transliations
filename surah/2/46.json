@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 46,
-    "arabic_text": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ رَبِّهِمۡ وَأَنَّهُمۡ إِلَيۡهِ رَٰجِعُونَ"
-  }
+  "id": 53,
+  "number": 46,
+  "verse_key": "2:46",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "ruku_number": 6,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 7,
+  "juz_number": 1,
+  "text": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ رَبِّهِمۡ وَأَنَّهُمۡ إِلَيۡهِ رَٰجِعُونَ"
 }

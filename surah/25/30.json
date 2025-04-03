@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 30,
-    "arabic_text": "وَقَالَ ٱلرَّسُولُ يَٰرَبِّ إِنَّ قَوۡمِي ٱتَّخَذُواْ هَٰذَا ٱلۡقُرۡءَانَ مَهۡجُورٗا"
-  }
+  "id": 2885,
+  "number": 30,
+  "verse_key": "25:30",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 312,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 362,
+  "juz_number": 19,
+  "text": "وَقَالَ ٱلرَّسُولُ يَٰرَبِّ إِنَّ قَوۡمِي ٱتَّخَذُواْ هَٰذَا ٱلۡقُرۡءَانَ مَهۡجُورٗا"
 }

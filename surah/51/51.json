@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 51,
-    "arabic_text": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ"
-  }
+  "id": 4726,
+  "number": 51,
+  "verse_key": "51:51",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 522,
+  "juz_number": 27,
+  "text": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ"
 }

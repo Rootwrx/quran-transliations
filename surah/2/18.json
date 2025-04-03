@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 18,
-    "arabic_text": "صُمُّۢ بُكۡمٌ عُمۡيٞ فَهُمۡ لَا يَرۡجِعُونَ"
-  }
+  "id": 25,
+  "number": 18,
+  "verse_key": "2:18",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 3,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 4,
+  "juz_number": 1,
+  "text": "صُمُّۢ بُكۡمٌ عُمۡيٞ فَهُمۡ لَا يَرۡجِعُونَ"
 }

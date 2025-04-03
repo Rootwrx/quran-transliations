@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 10,
-    "arabic_text": "وَقَالُواْ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِيٓ أَصۡحَٰبِ ٱلسَّعِيرِ"
-  }
+  "id": 5251,
+  "number": 10,
+  "verse_key": "67:10",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "ruku_number": 498,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 562,
+  "juz_number": 29,
+  "text": "وَقَالُواْ لَوۡ كُنَّا نَسۡمَعُ أَوۡ نَعۡقِلُ مَا كُنَّا فِيٓ أَصۡحَٰبِ ٱلسَّعِيرِ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 3,
-    "arabic_text": "وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ"
-  }
+  "id": 5851,
+  "number": 3,
+  "verse_key": "83:3",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 587,
+  "juz_number": 30,
+  "text": "وَإِذَا كَالُوهُمۡ أَو وَّزَنُوهُمۡ يُخۡسِرُونَ"
 }

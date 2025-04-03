@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 9,
-    "arabic_text": "وَهَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ"
-  }
+  "id": 2357,
+  "number": 9,
+  "verse_key": "20:9",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 312,
+  "juz_number": 16,
+  "text": "وَهَلۡ أَتَىٰكَ حَدِيثُ مُوسَىٰٓ"
 }

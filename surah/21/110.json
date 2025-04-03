@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 110,
-    "arabic_text": "إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ مِنَ ٱلۡقَوۡلِ وَيَعۡلَمُ مَا تَكۡتُمُونَ"
-  }
+  "id": 2593,
+  "number": 110,
+  "verse_key": "21:110",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 331,
+  "juz_number": 17,
+  "text": "إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ مِنَ ٱلۡقَوۡلِ وَيَعۡلَمُ مَا تَكۡتُمُونَ"
 }

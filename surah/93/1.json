@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "وَٱلضُّحَىٰ"
-  }
+  "id": 6080,
+  "number": 1,
+  "verse_key": "93:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 537,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 596,
+  "juz_number": 30,
+  "text": "وَٱلضُّحَىٰ"
 }

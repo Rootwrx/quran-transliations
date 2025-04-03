@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 67,
-    "arabic_text": "ٱلۡأَخِلَّآءُ يَوۡمَئِذِۭ بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ إِلَّا ٱلۡمُتَّقِينَ"
-  }
+  "id": 4392,
+  "number": 67,
+  "verse_key": "43:67",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 431,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 494,
+  "juz_number": 25,
+  "text": "ٱلۡأَخِلَّآءُ يَوۡمَئِذِۭ بَعۡضُهُمۡ لِبَعۡضٍ عَدُوٌّ إِلَّا ٱلۡمُتَّقِينَ"
 }

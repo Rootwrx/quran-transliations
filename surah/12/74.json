@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 74,
-    "arabic_text": "قَالُواْ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمۡ كَٰذِبِينَ"
-  }
+  "id": 1670,
+  "number": 74,
+  "verse_key": "12:74",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "ruku_number": 201,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 244,
+  "juz_number": 13,
+  "text": "قَالُواْ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمۡ كَٰذِبِينَ"
 }

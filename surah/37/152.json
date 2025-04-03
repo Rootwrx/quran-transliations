@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 152,
-    "arabic_text": "وَلَدَ ٱللَّهُ وَإِنَّهُمۡ لَكَٰذِبُونَ"
-  }
+  "id": 3940,
+  "number": 152,
+  "verse_key": "37:152",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 451,
+  "juz_number": 23,
+  "text": "وَلَدَ ٱللَّهُ وَإِنَّهُمۡ لَكَٰذِبُونَ"
 }

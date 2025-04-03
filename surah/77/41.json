@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 41,
-    "arabic_text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ"
-  }
+  "id": 5663,
+  "number": 41,
+  "verse_key": "77:41",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 519,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 581,
+  "juz_number": 29,
+  "text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ"
 }

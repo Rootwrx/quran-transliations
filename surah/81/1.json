@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "إِذَا ٱلشَّمۡسُ كُوِّرَتۡ"
-  }
+  "id": 5801,
+  "number": 1,
+  "verse_key": "81:1",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 586,
+  "juz_number": 30,
+  "text": "إِذَا ٱلشَّمۡسُ كُوِّرَتۡ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 25,
-    "arabic_text": "يُسۡقَوۡنَ مِن رَّحِيقٖ مَّخۡتُومٍ"
-  }
+  "id": 5873,
+  "number": 25,
+  "verse_key": "83:25",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 588,
+  "juz_number": 30,
+  "text": "يُسۡقَوۡنَ مِن رَّحِيقٖ مَّخۡتُومٍ"
 }

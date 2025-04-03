@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 72,
-    "arabic_text": "قَالَ أَلَمۡ أَقُلۡ إِنَّكَ لَن تَسۡتَطِيعَ مَعِيَ صَبۡرٗا"
-  }
+  "id": 2212,
+  "number": 72,
+  "verse_key": "18:72",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "ruku_number": 261,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 301,
+  "juz_number": 15,
+  "text": "قَالَ أَلَمۡ أَقُلۡ إِنَّكَ لَن تَسۡتَطِيعَ مَعِيَ صَبۡرٗا"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 3,
-    "arabic_text": "كِتَٰبٞ فُصِّلَتۡ ءَايَٰتُهُۥ قُرۡءَانًا عَرَبِيّٗا لِّقَوۡمٖ يَعۡلَمُونَ"
-  }
+  "id": 4221,
+  "number": 3,
+  "verse_key": "41:3",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "ruku_number": 415,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 477,
+  "juz_number": 24,
+  "text": "كِتَٰبٞ فُصِّلَتۡ ءَايَٰتُهُۥ قُرۡءَانًا عَرَبِيّٗا لِّقَوۡمٖ يَعۡلَمُونَ"
 }

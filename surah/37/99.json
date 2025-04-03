@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 99,
-    "arabic_text": "وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهۡدِينِ"
-  }
+  "id": 3887,
+  "number": 99,
+  "verse_key": "37:99",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 449,
+  "juz_number": 23,
+  "text": "وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهۡدِينِ"
 }

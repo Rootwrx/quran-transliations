@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 112,
-    "arabic_text": "قَٰلَ كَمۡ لَبِثۡتُمۡ فِي ٱلۡأَرۡضِ عَدَدَ سِنِينَ"
-  }
+  "id": 2785,
+  "number": 112,
+  "verse_key": "23:112",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "ruku_number": 300,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 349,
+  "juz_number": 18,
+  "text": "قَٰلَ كَمۡ لَبِثۡتُمۡ فِي ٱلۡأَرۡضِ عَدَدَ سِنِينَ"
 }

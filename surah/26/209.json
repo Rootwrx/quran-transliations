@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 209,
-    "arabic_text": "ذِكۡرَىٰ وَمَا كُنَّا ظَٰلِمِينَ"
-  }
+  "id": 3141,
+  "number": 209,
+  "verse_key": "26:209",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 376,
+  "juz_number": 19,
+  "text": "ذِكۡرَىٰ وَمَا كُنَّا ظَٰلِمِينَ"
 }

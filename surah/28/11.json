@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 11,
-    "arabic_text": "وَقَالَتۡ لِأُخۡتِهِۦ قُصِّيهِۖ فَبَصُرَتۡ بِهِۦ عَن جُنُبٖ وَهُمۡ لَا يَشۡعُرُونَ"
-  }
+  "id": 3263,
+  "number": 11,
+  "verse_key": "28:11",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "ruku_number": 334,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 386,
+  "juz_number": 20,
+  "text": "وَقَالَتۡ لِأُخۡتِهِۦ قُصِّيهِۖ فَبَصُرَتۡ بِهِۦ عَن جُنُبٖ وَهُمۡ لَا يَشۡعُرُونَ"
 }

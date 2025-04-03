@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 45,
-    "arabic_text": "فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ"
-  }
+  "id": 4720,
+  "number": 45,
+  "verse_key": "51:45",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 458,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 522,
+  "juz_number": 27,
+  "text": "فَمَا ٱسۡتَطَٰعُواْ مِن قِيَامٖ وَمَا كَانُواْ مُنتَصِرِينَ"
 }

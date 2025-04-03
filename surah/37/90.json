@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 90,
-    "arabic_text": "فَتَوَلَّوۡاْ عَنۡهُ مُدۡبِرِينَ"
-  }
+  "id": 3878,
+  "number": 90,
+  "verse_key": "37:90",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 449,
+  "juz_number": 23,
+  "text": "فَتَوَلَّوۡاْ عَنۡهُ مُدۡبِرِينَ"
 }

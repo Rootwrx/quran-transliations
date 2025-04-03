@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 6,
-    "arabic_text": "رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ"
-  }
+  "id": 4420,
+  "number": 6,
+  "verse_key": "44:6",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "ruku_number": 433,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 496,
+  "juz_number": 25,
+  "text": "رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ"
 }

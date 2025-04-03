@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 8,
-    "arabic_text": "فَسَوۡفَ يُحَاسَبُ حِسَابٗا يَسِيرٗا"
-  }
+  "id": 5892,
+  "number": 8,
+  "verse_key": "84:8",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 589,
+  "juz_number": 30,
+  "text": "فَسَوۡفَ يُحَاسَبُ حِسَابٗا يَسِيرٗا"
 }

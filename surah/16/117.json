@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 117,
-    "arabic_text": "مَتَٰعٞ قَلِيلٞ وَلَهُمۡ عَذَابٌ أَلِيمٞ"
-  }
+  "id": 2018,
+  "number": 117,
+  "verse_key": "16:117",
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "ruku_number": 238,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 280,
+  "juz_number": 14,
+  "text": "مَتَٰعٞ قَلِيلٞ وَلَهُمۡ عَذَابٌ أَلِيمٞ"
 }

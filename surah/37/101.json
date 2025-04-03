@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 101,
-    "arabic_text": "فَبَشَّرۡنَٰهُ بِغُلَٰمٍ حَلِيمٖ"
-  }
+  "id": 3889,
+  "number": 101,
+  "verse_key": "37:101",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 449,
+  "juz_number": 23,
+  "text": "فَبَشَّرۡنَٰهُ بِغُلَٰمٍ حَلِيمٖ"
 }

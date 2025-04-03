@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 64,
-    "arabic_text": "فَرَجَعُوٓاْ إِلَىٰٓ أَنفُسِهِمۡ فَقَالُوٓاْ إِنَّكُمۡ أَنتُمُ ٱلظَّٰلِمُونَ"
-  }
+  "id": 2547,
+  "number": 64,
+  "verse_key": "21:64",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "ruku_number": 282,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 327,
+  "juz_number": 17,
+  "text": "فَرَجَعُوٓاْ إِلَىٰٓ أَنفُسِهِمۡ فَقَالُوٓاْ إِنَّكُمۡ أَنتُمُ ٱلظَّٰلِمُونَ"
 }

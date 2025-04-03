@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 13,
-    "arabic_text": "مَّا لَكُمۡ لَا تَرۡجُونَ لِلَّهِ وَقَارٗا"
-  }
+  "id": 5432,
+  "number": 13,
+  "verse_key": "71:13",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 506,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 571,
+  "juz_number": 29,
+  "text": "مَّا لَكُمۡ لَا تَرۡجُونَ لِلَّهِ وَقَارٗا"
 }

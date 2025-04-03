@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 30,
-    "arabic_text": "إِنَّهُۥ مِن سُلَيۡمَٰنَ وَإِنَّهُۥ بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ"
-  }
+  "id": 3189,
+  "number": 30,
+  "verse_key": "27:30",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "ruku_number": 328,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 379,
+  "juz_number": 19,
+  "text": "إِنَّهُۥ مِن سُلَيۡمَٰنَ وَإِنَّهُۥ بِسۡمِ ٱللَّهِ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ"
 }

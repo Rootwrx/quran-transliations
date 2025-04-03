@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 42,
-    "arabic_text": "أَوۡ نُرِيَنَّكَ ٱلَّذِي وَعَدۡنَٰهُمۡ فَإِنَّا عَلَيۡهِم مُّقۡتَدِرُونَ"
-  }
+  "id": 4367,
+  "number": 42,
+  "verse_key": "43:42",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "ruku_number": 429,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 492,
+  "juz_number": 25,
+  "text": "أَوۡ نُرِيَنَّكَ ٱلَّذِي وَعَدۡنَٰهُمۡ فَإِنَّا عَلَيۡهِم مُّقۡتَدِرُونَ"
 }

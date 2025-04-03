@@ -1,22 +1,69 @@
 {
-    "index": "113",
-    "name": "al-Falaq",
-    "verse": {
-        "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-        "verse_1": "قُلْ أَعُوذُ بِرَبِّ ٱلْفَلَقِ",
-        "verse_2": "مِن شَرِّ مَا خَلَقَ",
-        "verse_3": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ",
-        "verse_4": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِى ٱلْعُقَدِ",
-        "verse_5": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+  "verses": [
+    {
+      "id": 6226,
+      "number": 1,
+      "verse_key": "113:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 604,
+      "juz_number": 30,
+      "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلۡفَلَقِ"
     },
-    "count": 5,
-    "juz": [
-        {
-            "index": "30",
-            "verse": {
-                "start": "verse_1",
-                "end": "verse_5"
-            }
-        }
-    ]
+    {
+      "id": 6227,
+      "number": 2,
+      "verse_key": "113:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 604,
+      "juz_number": 30,
+      "text": "مِن شَرِّ مَا خَلَقَ"
+    },
+    {
+      "id": 6228,
+      "number": 3,
+      "verse_key": "113:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 604,
+      "juz_number": 30,
+      "text": "وَمِن شَرِّ غَاسِقٍ إِذَا وَقَبَ"
+    },
+    {
+      "id": 6229,
+      "number": 4,
+      "verse_key": "113:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 604,
+      "juz_number": 30,
+      "text": "وَمِن شَرِّ ٱلنَّفَّٰثَٰتِ فِي ٱلۡعُقَدِ"
+    },
+    {
+      "id": 6230,
+      "number": 5,
+      "verse_key": "113:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 557,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 604,
+      "juz_number": 30,
+      "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ"
+    }
+  ]
 }

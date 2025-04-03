@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 102,
-    "arabic_text": "قَدۡ سَأَلَهَا قَوۡمٞ مِّن قَبۡلِكُمۡ ثُمَّ أَصۡبَحُواْ بِهَا كَٰفِرِينَ"
-  }
+  "id": 771,
+  "number": 102,
+  "verse_key": "5:102",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "ruku_number": 99,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 124,
+  "juz_number": 7,
+  "text": "قَدۡ سَأَلَهَا قَوۡمٞ مِّن قَبۡلِكُمۡ ثُمَّ أَصۡبَحُواْ بِهَا كَٰفِرِينَ"
 }

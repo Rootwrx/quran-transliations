@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 25,
-    "arabic_text": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ"
-  }
+  "id": 4809,
+  "number": 25,
+  "verse_key": "53:25",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 526,
+  "juz_number": 27,
+  "text": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 12,
-    "arabic_text": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا"
-  }
+  "id": 5684,
+  "number": 12,
+  "verse_key": "78:12",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 520,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 582,
+  "juz_number": 30,
+  "text": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا"
 }

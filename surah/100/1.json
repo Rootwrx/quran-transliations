@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا"
-  }
+  "id": 6147,
+  "number": 1,
+  "verse_key": "100:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 544,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 599,
+  "juz_number": 30,
+  "text": "وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا"
 }

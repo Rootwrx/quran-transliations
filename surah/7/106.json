@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 106,
-    "arabic_text": "قَالَ إِن كُنتَ جِئۡتَ بِـَٔايَةٖ فَأۡتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ"
-  }
+  "id": 1060,
+  "number": 106,
+  "verse_key": "7:106",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "ruku_number": 134,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 164,
+  "juz_number": 9,
+  "text": "قَالَ إِن كُنتَ جِئۡتَ بِـَٔايَةٖ فَأۡتِ بِهَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 37,
-    "arabic_text": "إِنۡ هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا نَمُوتُ وَنَحۡيَا وَمَا نَحۡنُ بِمَبۡعُوثِينَ"
-  }
+  "id": 2710,
+  "number": 37,
+  "verse_key": "23:37",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 297,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 344,
+  "juz_number": 18,
+  "text": "إِنۡ هِيَ إِلَّا حَيَاتُنَا ٱلدُّنۡيَا نَمُوتُ وَنَحۡيَا وَمَا نَحۡنُ بِمَبۡعُوثِينَ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 83,
-    "arabic_text": "مُّسَوَّمَةً عِندَ رَبِّكَۖ وَمَا هِيَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٖ"
-  }
+  "id": 1556,
+  "number": 83,
+  "verse_key": "11:83",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "ruku_number": 189,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 231,
+  "juz_number": 12,
+  "text": "مُّسَوَّمَةً عِندَ رَبِّكَۖ وَمَا هِيَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٖ"
 }

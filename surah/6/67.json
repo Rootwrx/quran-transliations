@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 67,
-    "arabic_text": "لِّكُلِّ نَبَإٖ مُّسۡتَقَرّٞۚ وَسَوۡفَ تَعۡلَمُونَ"
-  }
+  "id": 856,
+  "number": 67,
+  "verse_key": "6:67",
+  "hizb_number": 14,
+  "rub_el_hizb_number": 54,
+  "ruku_number": 109,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 135,
+  "juz_number": 7,
+  "text": "لِّكُلِّ نَبَإٖ مُّسۡتَقَرّٞۚ وَسَوۡفَ تَعۡلَمُونَ"
 }

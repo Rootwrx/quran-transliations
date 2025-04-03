@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 25,
-    "arabic_text": "قُلۡ إِنۡ أَدۡرِيٓ أَقَرِيبٞ مَّا تُوعَدُونَ أَمۡ يَجۡعَلُ لَهُۥ رَبِّيٓ أَمَدًا"
-  }
+  "id": 5472,
+  "number": 25,
+  "verse_key": "72:25",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 509,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 573,
+  "juz_number": 29,
+  "text": "قُلۡ إِنۡ أَدۡرِيٓ أَقَرِيبٞ مَّا تُوعَدُونَ أَمۡ يَجۡعَلُ لَهُۥ رَبِّيٓ أَمَدًا"
 }

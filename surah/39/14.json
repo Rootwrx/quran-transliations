@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 14,
-    "arabic_text": "قُلِ ٱللَّهَ أَعۡبُدُ مُخۡلِصٗا لَّهُۥ دِينِي"
-  }
+  "id": 4072,
+  "number": 14,
+  "verse_key": "39:14",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "ruku_number": 399,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 460,
+  "juz_number": 23,
+  "text": "قُلِ ٱللَّهَ أَعۡبُدُ مُخۡلِصٗا لَّهُۥ دِينِي"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 140,
-    "arabic_text": "قَالَ أَغَيۡرَ ٱللَّهِ أَبۡغِيكُمۡ إِلَٰهٗا وَهُوَ فَضَّلَكُمۡ عَلَى ٱلۡعَٰلَمِينَ"
-  }
+  "id": 1094,
+  "number": 140,
+  "verse_key": "7:140",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 137,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 167,
+  "juz_number": 9,
+  "text": "قَالَ أَغَيۡرَ ٱللَّهِ أَبۡغِيكُمۡ إِلَٰهٗا وَهُوَ فَضَّلَكُمۡ عَلَى ٱلۡعَٰلَمِينَ"
 }

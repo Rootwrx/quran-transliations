@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 6,
-    "arabic_text": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ"
-  }
+  "id": 6163,
+  "number": 6,
+  "verse_key": "101:6",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 600,
+  "juz_number": 30,
+  "text": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ"
 }

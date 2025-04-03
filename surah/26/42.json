@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 42,
-    "arabic_text": "قَالَ نَعَمۡ وَإِنَّكُمۡ إِذٗا لَّمِنَ ٱلۡمُقَرَّبِينَ"
-  }
+  "id": 2974,
+  "number": 42,
+  "verse_key": "26:42",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 318,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 369,
+  "juz_number": 19,
+  "text": "قَالَ نَعَمۡ وَإِنَّكُمۡ إِذٗا لَّمِنَ ٱلۡمُقَرَّبِينَ"
 }

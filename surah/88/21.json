@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 21,
-    "arabic_text": "فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ"
-  }
+  "id": 5988,
+  "number": 21,
+  "verse_key": "88:21",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 592,
+  "juz_number": 30,
+  "text": "فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ"
 }

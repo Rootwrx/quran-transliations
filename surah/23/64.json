@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 64,
-    "arabic_text": "حَتَّىٰٓ إِذَآ أَخَذۡنَا مُتۡرَفِيهِم بِٱلۡعَذَابِ إِذَا هُمۡ يَجۡـَٔرُونَ"
-  }
+  "id": 2737,
+  "number": 64,
+  "verse_key": "23:64",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "ruku_number": 298,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 346,
+  "juz_number": 18,
+  "text": "حَتَّىٰٓ إِذَآ أَخَذۡنَا مُتۡرَفِيهِم بِٱلۡعَذَابِ إِذَا هُمۡ يَجۡـَٔرُونَ"
 }

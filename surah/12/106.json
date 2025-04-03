@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 106,
-    "arabic_text": "وَمَا يُؤۡمِنُ أَكۡثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشۡرِكُونَ"
-  }
+  "id": 1702,
+  "number": 106,
+  "verse_key": "12:106",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "ruku_number": 204,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 248,
+  "juz_number": 13,
+  "text": "وَمَا يُؤۡمِنُ أَكۡثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشۡرِكُونَ"
 }

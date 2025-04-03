@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 50,
-    "arabic_text": "وَأَنَّ عَذَابِي هُوَ ٱلۡعَذَابُ ٱلۡأَلِيمُ"
-  }
+  "id": 1852,
+  "number": 50,
+  "verse_key": "15:50",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 221,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 264,
+  "juz_number": 14,
+  "text": "وَأَنَّ عَذَابِي هُوَ ٱلۡعَذَابُ ٱلۡأَلِيمُ"
 }

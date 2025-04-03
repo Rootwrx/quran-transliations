@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 22,
-    "arabic_text": "۞ ٱحۡشُرُواْ ٱلَّذِينَ ظَلَمُواْ وَأَزۡوَٰجَهُمۡ وَمَا كَانُواْ يَعۡبُدُونَ"
-  }
+  "id": 3810,
+  "number": 22,
+  "verse_key": "37:22",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 446,
+  "juz_number": 23,
+  "text": "۞ ٱحۡشُرُواْ ٱلَّذِينَ ظَلَمُواْ وَأَزۡوَٰجَهُمۡ وَمَا كَانُواْ يَعۡبُدُونَ"
 }

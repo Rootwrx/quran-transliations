@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 144,
-    "arabic_text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ"
-  }
+  "id": 3076,
+  "number": 144,
+  "verse_key": "26:144",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 373,
+  "juz_number": 19,
+  "text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ"
 }

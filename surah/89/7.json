@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 7,
-    "arabic_text": "إِرَمَ ذَاتِ ٱلۡعِمَادِ"
-  }
+  "id": 6000,
+  "number": 7,
+  "verse_key": "89:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 593,
+  "juz_number": 30,
+  "text": "إِرَمَ ذَاتِ ٱلۡعِمَادِ"
 }

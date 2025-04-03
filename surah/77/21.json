@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 21,
-    "arabic_text": "فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ"
-  }
+  "id": 5643,
+  "number": 21,
+  "verse_key": "77:21",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 581,
+  "juz_number": 29,
+  "text": "فَجَعَلۡنَٰهُ فِي قَرَارٖ مَّكِينٍ"
 }

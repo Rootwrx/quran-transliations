@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 10,
-    "arabic_text": "إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابٞ ثَاقِبٞ"
-  }
+  "id": 3798,
+  "number": 10,
+  "verse_key": "37:10",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "ruku_number": 388,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 446,
+  "juz_number": 23,
+  "text": "إِلَّا مَنۡ خَطِفَ ٱلۡخَطۡفَةَ فَأَتۡبَعَهُۥ شِهَابٞ ثَاقِبٞ"
 }

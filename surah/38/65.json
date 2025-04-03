@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 65,
-    "arabic_text": "قُلۡ إِنَّمَآ أَنَا۠ مُنذِرٞۖ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلۡوَٰحِدُ ٱلۡقَهَّارُ"
-  }
+  "id": 4035,
+  "number": 65,
+  "verse_key": "38:65",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 397,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 457,
+  "juz_number": 23,
+  "text": "قُلۡ إِنَّمَآ أَنَا۠ مُنذِرٞۖ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلۡوَٰحِدُ ٱلۡقَهَّارُ"
 }

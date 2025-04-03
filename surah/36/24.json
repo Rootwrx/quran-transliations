@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 24,
-    "arabic_text": "إِنِّيٓ إِذٗا لَّفِي ضَلَٰلٖ مُّبِينٍ"
-  }
+  "id": 3729,
+  "number": 24,
+  "verse_key": "36:24",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 441,
+  "juz_number": 22,
+  "text": "إِنِّيٓ إِذٗا لَّفِي ضَلَٰلٖ مُّبِينٍ"
 }

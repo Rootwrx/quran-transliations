@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 59,
-    "arabic_text": "إِلَّا مَوۡتَتَنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُعَذَّبِينَ"
-  }
+  "id": 3847,
+  "number": 59,
+  "verse_key": "37:59",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "ruku_number": 389,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 448,
+  "juz_number": 23,
+  "text": "إِلَّا مَوۡتَتَنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُعَذَّبِينَ"
 }

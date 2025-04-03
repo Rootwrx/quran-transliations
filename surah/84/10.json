@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 10,
-    "arabic_text": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ وَرَآءَ ظَهۡرِهِۦ"
-  }
+  "id": 5894,
+  "number": 10,
+  "verse_key": "84:10",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 589,
+  "juz_number": 30,
+  "text": "وَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ وَرَآءَ ظَهۡرِهِۦ"
 }

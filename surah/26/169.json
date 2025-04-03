@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 169,
-    "arabic_text": "رَبِّ نَجِّنِي وَأَهۡلِي مِمَّا يَعۡمَلُونَ"
-  }
+  "id": 3101,
+  "number": 169,
+  "verse_key": "26:169",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 374,
+  "juz_number": 19,
+  "text": "رَبِّ نَجِّنِي وَأَهۡلِي مِمَّا يَعۡمَلُونَ"
 }

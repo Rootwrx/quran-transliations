@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 4,
-    "arabic_text": "وَٱلَّذِينَ هُمۡ لِلزَّكَوٰةِ فَٰعِلُونَ"
-  }
+  "id": 2677,
+  "number": 4,
+  "verse_key": "23:4",
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "ruku_number": 295,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 342,
+  "juz_number": 18,
+  "text": "وَٱلَّذِينَ هُمۡ لِلزَّكَوٰةِ فَٰعِلُونَ"
 }

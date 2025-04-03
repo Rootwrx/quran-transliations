@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 40,
-    "arabic_text": "رَبِّ ٱجۡعَلۡنِي مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِيۚ رَبَّنَا وَتَقَبَّلۡ دُعَآءِ"
-  }
+  "id": 1790,
+  "number": 40,
+  "verse_key": "14:40",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "ruku_number": 216,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 260,
+  "juz_number": 13,
+  "text": "رَبِّ ٱجۡعَلۡنِي مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِيۚ رَبَّنَا وَتَقَبَّلۡ دُعَآءِ"
 }

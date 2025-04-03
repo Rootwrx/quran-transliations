@@ -1,25 +1,108 @@
 {
-    "index": "102",
-    "name": "At-Takathur",
-    "verse": {
-        "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-        "verse_1": "أَلْهَىٰكُمُ ٱلتَّكَاثُرُ",
-        "verse_2": "حَتَّىٰ زُرْتُمُ ٱلْمَقَابِرَ",
-        "verse_3": "كَلَّا سَوْفَ تَعْلَمُونَ",
-        "verse_4": "ثُمَّ كَلَّا سَوْفَ تَعْلَمُونَ",
-        "verse_5": "كَلَّا لَوْ تَعْلَمُونَ عِلْمَ ٱلْيَقِينِ",
-        "verse_6": "لَتَرَوُنَّ ٱلْجَحِيمَ",
-        "verse_7": "ثُمَّ لَتَرَوُنَّهَا عَيْنَ ٱلْيَقِينِ",
-        "verse_8": "ثُمَّ لَتُسْـَٔلُنَّ يَوْمَئِذٍ عَنِ ٱلنَّعِيمِ"
+  "verses": [
+    {
+      "id": 6169,
+      "number": 1,
+      "verse_key": "102:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "text": "أَلۡهَىٰكُمُ ٱلتَّكَاثُرُ"
     },
-    "count": 8,
-    "juz": [
-        {
-            "index": "30",
-            "verse": {
-                "start": "verse_1",
-                "end": "verse_8"
-            }
-        }
-    ]
+    {
+      "id": 6170,
+      "number": 2,
+      "verse_key": "102:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "text": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ"
+    },
+    {
+      "id": 6171,
+      "number": 3,
+      "verse_key": "102:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "text": "كَلَّا سَوۡفَ تَعۡلَمُونَ"
+    },
+    {
+      "id": 6172,
+      "number": 4,
+      "verse_key": "102:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "text": "ثُمَّ كَلَّا سَوۡفَ تَعۡلَمُونَ"
+    },
+    {
+      "id": 6173,
+      "number": 5,
+      "verse_key": "102:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "text": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ"
+    },
+    {
+      "id": 6174,
+      "number": 6,
+      "verse_key": "102:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "text": "لَتَرَوُنَّ ٱلۡجَحِيمَ"
+    },
+    {
+      "id": 6175,
+      "number": 7,
+      "verse_key": "102:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "text": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ"
+    },
+    {
+      "id": 6176,
+      "number": 8,
+      "verse_key": "102:8",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 546,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "text": "ثُمَّ لَتُسۡـَٔلُنَّ يَوۡمَئِذٍ عَنِ ٱلنَّعِيمِ"
+    }
+  ]
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 52,
-    "arabic_text": "۞ وَعِندَهُمۡ قَٰصِرَٰتُ ٱلطَّرۡفِ أَتۡرَابٌ"
-  }
+  "id": 4022,
+  "number": 52,
+  "verse_key": "38:52",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 456,
+  "juz_number": 23,
+  "text": "۞ وَعِندَهُمۡ قَٰصِرَٰتُ ٱلطَّرۡفِ أَتۡرَابٌ"
 }

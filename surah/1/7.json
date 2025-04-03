@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 7,
-    "arabic_text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ"
-  }
+  "id": 7,
+  "number": 7,
+  "verse_key": "1:7",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 1,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 1,
+  "juz_number": 1,
+  "text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ"
 }

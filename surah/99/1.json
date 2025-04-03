@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا"
-  }
+  "id": 6139,
+  "number": 1,
+  "verse_key": "99:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 543,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 599,
+  "juz_number": 30,
+  "text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 28,
-    "arabic_text": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ"
-  }
+  "id": 5299,
+  "number": 28,
+  "verse_key": "68:28",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "ruku_number": 500,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 565,
+  "juz_number": 29,
+  "text": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ"
 }

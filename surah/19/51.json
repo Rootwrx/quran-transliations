@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 51,
-    "arabic_text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مُوسَىٰٓۚ إِنَّهُۥ كَانَ مُخۡلَصٗا وَكَانَ رَسُولٗا نَّبِيّٗا"
-  }
+  "id": 2301,
+  "number": 51,
+  "verse_key": "19:51",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 267,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 308,
+  "juz_number": 16,
+  "text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مُوسَىٰٓۚ إِنَّهُۥ كَانَ مُخۡلَصٗا وَكَانَ رَسُولٗا نَّبِيّٗا"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 68,
-    "arabic_text": "رَبَّنَآ ءَاتِهِمۡ ضِعۡفَيۡنِ مِنَ ٱلۡعَذَابِ وَٱلۡعَنۡهُمۡ لَعۡنٗا كَبِيرٗا"
-  }
+  "id": 3601,
+  "number": 68,
+  "verse_key": "33:68",
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "ruku_number": 370,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 427,
+  "juz_number": 22,
+  "text": "رَبَّنَآ ءَاتِهِمۡ ضِعۡفَيۡنِ مِنَ ٱلۡعَذَابِ وَٱلۡعَنۡهُمۡ لَعۡنٗا كَبِيرٗا"
 }

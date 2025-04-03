@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 159,
-    "arabic_text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ"
-  }
+  "id": 3091,
+  "number": 159,
+  "verse_key": "26:159",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 373,
+  "juz_number": 19,
+  "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ"
 }

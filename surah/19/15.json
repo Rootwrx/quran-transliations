@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 15,
-    "arabic_text": "وَسَلَٰمٌ عَلَيۡهِ يَوۡمَ وُلِدَ وَيَوۡمَ يَمُوتُ وَيَوۡمَ يُبۡعَثُ حَيّٗا"
-  }
+  "id": 2265,
+  "number": 15,
+  "verse_key": "19:15",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 264,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 306,
+  "juz_number": 16,
+  "text": "وَسَلَٰمٌ عَلَيۡهِ يَوۡمَ وُلِدَ وَيَوۡمَ يَمُوتُ وَيَوۡمَ يُبۡعَثُ حَيّٗا"
 }

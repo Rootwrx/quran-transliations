@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 10,
-    "arabic_text": "يَقُولُونَ أَءِنَّا لَمَرۡدُودُونَ فِي ٱلۡحَافِرَةِ"
-  }
+  "id": 5722,
+  "number": 10,
+  "verse_key": "79:10",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 583,
+  "juz_number": 30,
+  "text": "يَقُولُونَ أَءِنَّا لَمَرۡدُودُونَ فِي ٱلۡحَافِرَةِ"
 }

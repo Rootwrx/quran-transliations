@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 5,
-    "arabic_text": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ"
-  }
+  "id": 6235,
+  "number": 5,
+  "verse_key": "114:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 558,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 604,
+  "juz_number": 30,
+  "text": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ"
 }

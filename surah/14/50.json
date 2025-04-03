@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 50,
-    "arabic_text": "سَرَابِيلُهُم مِّن قَطِرَانٖ وَتَغۡشَىٰ وُجُوهَهُمُ ٱلنَّارُ"
-  }
+  "id": 1800,
+  "number": 50,
+  "verse_key": "14:50",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "ruku_number": 217,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 261,
+  "juz_number": 13,
+  "text": "سَرَابِيلُهُم مِّن قَطِرَانٖ وَتَغۡشَىٰ وُجُوهَهُمُ ٱلنَّارُ"
 }

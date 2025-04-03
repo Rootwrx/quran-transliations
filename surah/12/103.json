@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 103,
-    "arabic_text": "وَمَآ أَكۡثَرُ ٱلنَّاسِ وَلَوۡ حَرَصۡتَ بِمُؤۡمِنِينَ"
-  }
+  "id": 1699,
+  "number": 103,
+  "verse_key": "12:103",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "ruku_number": 203,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 247,
+  "juz_number": 13,
+  "text": "وَمَآ أَكۡثَرُ ٱلنَّاسِ وَلَوۡ حَرَصۡتَ بِمُؤۡمِنِينَ"
 }

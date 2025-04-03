@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 42,
-    "arabic_text": "كَذَّبُواْ بِـَٔايَٰتِنَا كُلِّهَا فَأَخَذۡنَٰهُمۡ أَخۡذَ عَزِيزٖ مُّقۡتَدِرٍ"
-  }
+  "id": 4888,
+  "number": 42,
+  "verse_key": "54:42",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 467,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 530,
+  "juz_number": 27,
+  "text": "كَذَّبُواْ بِـَٔايَٰتِنَا كُلِّهَا فَأَخَذۡنَٰهُمۡ أَخۡذَ عَزِيزٖ مُّقۡتَدِرٍ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 3,
-    "arabic_text": "وَٱلنَّٰشِرَٰتِ نَشۡرٗا"
-  }
+  "id": 5625,
+  "number": 3,
+  "verse_key": "77:3",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 580,
+  "juz_number": 29,
+  "text": "وَٱلنَّٰشِرَٰتِ نَشۡرٗا"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 27,
-    "arabic_text": "وَٱحۡلُلۡ عُقۡدَةٗ مِّن لِّسَانِي"
-  }
+  "id": 2375,
+  "number": 27,
+  "verse_key": "20:27",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 271,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 313,
+  "juz_number": 16,
+  "text": "وَٱحۡلُلۡ عُقۡدَةٗ مِّن لِّسَانِي"
 }

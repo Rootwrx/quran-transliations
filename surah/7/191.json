@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 191,
-    "arabic_text": "أَيُشۡرِكُونَ مَا لَا يَخۡلُقُ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ"
-  }
+  "id": 1145,
+  "number": 191,
+  "verse_key": "7:191",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "ruku_number": 145,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 175,
+  "juz_number": 9,
+  "text": "أَيُشۡرِكُونَ مَا لَا يَخۡلُقُ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ"
 }

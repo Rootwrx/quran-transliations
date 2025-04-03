@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 48,
-    "arabic_text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ"
-  }
+  "id": 1412,
+  "number": 48,
+  "verse_key": "10:48",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "ruku_number": 176,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 214,
+  "juz_number": 11,
+  "text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ"
 }

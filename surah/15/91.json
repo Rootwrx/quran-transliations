@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 91,
-    "arabic_text": "ٱلَّذِينَ جَعَلُواْ ٱلۡقُرۡءَانَ عِضِينَ"
-  }
+  "id": 1893,
+  "number": 91,
+  "verse_key": "15:91",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 267,
+  "juz_number": 14,
+  "text": "ٱلَّذِينَ جَعَلُواْ ٱلۡقُرۡءَانَ عِضِينَ"
 }

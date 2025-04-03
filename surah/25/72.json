@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 72,
-    "arabic_text": "وَٱلَّذِينَ لَا يَشۡهَدُونَ ٱلزُّورَ وَإِذَا مَرُّواْ بِٱللَّغۡوِ مَرُّواْ كِرَامٗا"
-  }
+  "id": 2927,
+  "number": 72,
+  "verse_key": "25:72",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "ruku_number": 315,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 366,
+  "juz_number": 19,
+  "text": "وَٱلَّذِينَ لَا يَشۡهَدُونَ ٱلزُّورَ وَإِذَا مَرُّواْ بِٱللَّغۡوِ مَرُّواْ كِرَامٗا"
 }

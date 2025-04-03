@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 60,
-    "arabic_text": "فَإِن لَّمۡ تَأۡتُونِي بِهِۦ فَلَا كَيۡلَ لَكُمۡ عِندِي وَلَا تَقۡرَبُونِ"
-  }
+  "id": 1656,
+  "number": 60,
+  "verse_key": "12:60",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "ruku_number": 200,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 242,
+  "juz_number": 13,
+  "text": "فَإِن لَّمۡ تَأۡتُونِي بِهِۦ فَلَا كَيۡلَ لَكُمۡ عِندِي وَلَا تَقۡرَبُونِ"
 }

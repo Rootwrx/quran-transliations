@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 77,
-    "arabic_text": "وَإِنَّهُۥ لَهُدٗى وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ"
-  }
+  "id": 3236,
+  "number": 77,
+  "verse_key": "27:77",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "ruku_number": 332,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 384,
+  "juz_number": 20,
+  "text": "وَإِنَّهُۥ لَهُدٗى وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ"
 }

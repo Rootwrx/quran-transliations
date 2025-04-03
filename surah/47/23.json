@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 23,
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمۡ وَأَعۡمَىٰٓ أَبۡصَٰرَهُمۡ"
-  }
+  "id": 4568,
+  "number": 23,
+  "verse_key": "47:23",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "ruku_number": 446,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 509,
+  "juz_number": 26,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ لَعَنَهُمُ ٱللَّهُ فَأَصَمَّهُمۡ وَأَعۡمَىٰٓ أَبۡصَٰرَهُمۡ"
 }

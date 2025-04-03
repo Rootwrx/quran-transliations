@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 93,
-    "arabic_text": "وَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡۖ كُلٌّ إِلَيۡنَا رَٰجِعُونَ"
-  }
+  "id": 2576,
+  "number": 93,
+  "verse_key": "21:93",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 283,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 330,
+  "juz_number": 17,
+  "text": "وَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡۖ كُلٌّ إِلَيۡنَا رَٰجِعُونَ"
 }

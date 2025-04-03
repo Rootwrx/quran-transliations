@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 118,
-    "arabic_text": "فَكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ إِن كُنتُم بِـَٔايَٰتِهِۦ مُؤۡمِنِينَ"
-  }
+  "id": 907,
+  "number": 118,
+  "verse_key": "6:118",
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "ruku_number": 115,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 142,
+  "juz_number": 8,
+  "text": "فَكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ إِن كُنتُم بِـَٔايَٰتِهِۦ مُؤۡمِنِينَ"
 }

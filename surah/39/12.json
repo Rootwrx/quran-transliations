@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 12,
-    "arabic_text": "وَأُمِرۡتُ لِأَنۡ أَكُونَ أَوَّلَ ٱلۡمُسۡلِمِينَ"
-  }
+  "id": 4070,
+  "number": 12,
+  "verse_key": "39:12",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "ruku_number": 399,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 460,
+  "juz_number": 23,
+  "text": "وَأُمِرۡتُ لِأَنۡ أَكُونَ أَوَّلَ ٱلۡمُسۡلِمِينَ"
 }

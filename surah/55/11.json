@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 11,
-    "arabic_text": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ"
-  }
+  "id": 4912,
+  "number": 11,
+  "verse_key": "55:11",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 531,
+  "juz_number": 27,
+  "text": "فِيهَا فَٰكِهَةٞ وَٱلنَّخۡلُ ذَاتُ ٱلۡأَكۡمَامِ"
 }

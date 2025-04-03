@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 103,
-    "arabic_text": "قُلۡ هَلۡ نُنَبِّئُكُم بِٱلۡأَخۡسَرِينَ أَعۡمَٰلًا"
-  }
+  "id": 2243,
+  "number": 103,
+  "verse_key": "18:103",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 263,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 304,
+  "juz_number": 16,
+  "text": "قُلۡ هَلۡ نُنَبِّئُكُم بِٱلۡأَخۡسَرِينَ أَعۡمَٰلًا"
 }

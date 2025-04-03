@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 4,
-    "arabic_text": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلۡحُجُرَٰتِ أَكۡثَرُهُمۡ لَا يَعۡقِلُونَ"
-  }
+  "id": 4616,
+  "number": 4,
+  "verse_key": "49:4",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 206,
+  "ruku_number": 452,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 515,
+  "juz_number": 26,
+  "text": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلۡحُجُرَٰتِ أَكۡثَرُهُمۡ لَا يَعۡقِلُونَ"
 }

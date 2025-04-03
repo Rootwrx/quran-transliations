@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 40,
-    "arabic_text": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ"
-  }
+  "id": 5363,
+  "number": 40,
+  "verse_key": "69:40",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 568,
+  "juz_number": 29,
+  "text": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ"
 }

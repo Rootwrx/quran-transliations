@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 110,
-    "arabic_text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يُحِيطُونَ بِهِۦ عِلۡمٗا"
-  }
+  "id": 2458,
+  "number": 110,
+  "verse_key": "20:110",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 275,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 319,
+  "juz_number": 16,
+  "text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يُحِيطُونَ بِهِۦ عِلۡمٗا"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 13,
-    "arabic_text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ"
-  }
+  "id": 4797,
+  "number": 13,
+  "verse_key": "53:13",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 526,
+  "juz_number": 27,
+  "text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ"
 }

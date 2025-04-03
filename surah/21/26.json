@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 26,
-    "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ"
-  }
+  "id": 2509,
+  "number": 26,
+  "verse_key": "21:26",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "ruku_number": 279,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 324,
+  "juz_number": 17,
+  "text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ"
 }

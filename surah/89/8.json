@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 8,
-    "arabic_text": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ"
-  }
+  "id": 6001,
+  "number": 8,
+  "verse_key": "89:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 593,
+  "juz_number": 30,
+  "text": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ"
 }

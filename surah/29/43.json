@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 43,
-    "arabic_text": "وَتِلۡكَ ٱلۡأَمۡثَٰلُ نَضۡرِبُهَا لِلنَّاسِۖ وَمَا يَعۡقِلُهَآ إِلَّا ٱلۡعَٰلِمُونَ"
-  }
+  "id": 3383,
+  "number": 43,
+  "verse_key": "29:43",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "ruku_number": 346,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 401,
+  "juz_number": 20,
+  "text": "وَتِلۡكَ ٱلۡأَمۡثَٰلُ نَضۡرِبُهَا لِلنَّاسِۖ وَمَا يَعۡقِلُهَآ إِلَّا ٱلۡعَٰلِمُونَ"
 }

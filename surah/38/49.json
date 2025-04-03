@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 49,
-    "arabic_text": "هَٰذَا ذِكۡرٞۚ وَإِنَّ لِلۡمُتَّقِينَ لَحُسۡنَ مَـَٔابٖ"
-  }
+  "id": 4019,
+  "number": 49,
+  "verse_key": "38:49",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 456,
+  "juz_number": 23,
+  "text": "هَٰذَا ذِكۡرٞۚ وَإِنَّ لِلۡمُتَّقِينَ لَحُسۡنَ مَـَٔابٖ"
 }

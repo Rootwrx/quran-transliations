@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 4,
-    "arabic_text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمٖ"
-  }
+  "id": 6102,
+  "number": 4,
+  "verse_key": "95:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 539,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 597,
+  "juz_number": 30,
+  "text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمٖ"
 }

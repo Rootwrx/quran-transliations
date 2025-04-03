@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 33,
-    "arabic_text": "مَّنۡ خَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ وَجَآءَ بِقَلۡبٖ مُّنِيبٍ"
-  }
+  "id": 4663,
+  "number": 33,
+  "verse_key": "50:33",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 519,
+  "juz_number": 26,
+  "text": "مَّنۡ خَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ وَجَآءَ بِقَلۡبٖ مُّنِيبٍ"
 }

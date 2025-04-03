@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 32,
-    "arabic_text": "أَمۡ تَأۡمُرُهُمۡ أَحۡلَٰمُهُم بِهَٰذَآۚ أَمۡ هُمۡ قَوۡمٞ طَاغُونَ"
-  }
+  "id": 4767,
+  "number": 32,
+  "verse_key": "52:32",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 461,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 525,
+  "juz_number": 27,
+  "text": "أَمۡ تَأۡمُرُهُمۡ أَحۡلَٰمُهُم بِهَٰذَآۚ أَمۡ هُمۡ قَوۡمٞ طَاغُونَ"
 }

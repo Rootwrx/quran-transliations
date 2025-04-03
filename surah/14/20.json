@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 20,
-    "arabic_text": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ"
-  }
+  "id": 1770,
+  "number": 20,
+  "verse_key": "14:20",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "ruku_number": 213,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 258,
+  "juz_number": 13,
+  "text": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ"
 }

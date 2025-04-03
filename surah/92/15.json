@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 15,
-    "arabic_text": "لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى"
-  }
+  "id": 6073,
+  "number": 15,
+  "verse_key": "92:15",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 536,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 596,
+  "juz_number": 30,
+  "text": "لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى"
 }

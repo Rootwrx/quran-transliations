@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 163,
-    "arabic_text": "وَإِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۖ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحۡمَٰنُ ٱلرَّحِيمُ"
-  }
+  "id": 170,
+  "number": 163,
+  "verse_key": "2:163",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "ruku_number": 20,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 24,
+  "juz_number": 2,
+  "text": "وَإِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۖ لَّآ إِلَٰهَ إِلَّا هُوَ ٱلرَّحۡمَٰنُ ٱلرَّحِيمُ"
 }

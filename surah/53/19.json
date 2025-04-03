@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 19,
-    "arabic_text": "أَفَرَءَيۡتُمُ ٱللَّٰتَ وَٱلۡعُزَّىٰ"
-  }
+  "id": 4803,
+  "number": 19,
+  "verse_key": "53:19",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 526,
+  "juz_number": 27,
+  "text": "أَفَرَءَيۡتُمُ ٱللَّٰتَ وَٱلۡعُزَّىٰ"
 }

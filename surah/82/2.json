@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 2,
-    "arabic_text": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ"
-  }
+  "id": 5831,
+  "number": 2,
+  "verse_key": "82:2",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 526,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 587,
+  "juz_number": 30,
+  "text": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ"
 }

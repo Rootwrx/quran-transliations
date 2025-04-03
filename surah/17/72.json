@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 72,
-    "arabic_text": "وَمَن كَانَ فِي هَٰذِهِۦٓ أَعۡمَىٰ فَهُوَ فِي ٱلۡأٓخِرَةِ أَعۡمَىٰ وَأَضَلُّ سَبِيلٗا"
-  }
+  "id": 2101,
+  "number": 72,
+  "verse_key": "17:72",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "ruku_number": 247,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 289,
+  "juz_number": 15,
+  "text": "وَمَن كَانَ فِي هَٰذِهِۦٓ أَعۡمَىٰ فَهُوَ فِي ٱلۡأٓخِرَةِ أَعۡمَىٰ وَأَضَلُّ سَبِيلٗا"
 }

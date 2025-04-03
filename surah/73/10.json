@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 10,
-    "arabic_text": "وَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱهۡجُرۡهُمۡ هَجۡرٗا جَمِيلٗا"
-  }
+  "id": 5485,
+  "number": 10,
+  "verse_key": "73:10",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "ruku_number": 510,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 574,
+  "juz_number": 29,
+  "text": "وَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱهۡجُرۡهُمۡ هَجۡرٗا جَمِيلٗا"
 }

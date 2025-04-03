@@ -1,20 +1,43 @@
 {
-    "index": "108",
-    "name": "Al-Kawthar",
-    "verse": {
-        "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-        "verse_1": "إِنَّآ أَعْطَيْنَٰكَ ٱلْكَوْثَرَ",
-        "verse_2": "فَصَلِّ لِرَبِّكَ وَٱنْحَرْ",
-        "verse_3": "إِنَّ شَانِئَكَ هُوَ ٱلْأَبْتَرُ"
+  "verses": [
+    {
+      "id": 6205,
+      "number": 1,
+      "verse_key": "108:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 602,
+      "juz_number": 30,
+      "text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ"
     },
-    "count": 3,
-    "juz": [
-        {
-            "index": "30",
-            "verse": {
-                "start": "verse_1",
-                "end": "verse_3"
-            }
-        }
-    ]
+    {
+      "id": 6206,
+      "number": 2,
+      "verse_key": "108:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 602,
+      "juz_number": 30,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ"
+    },
+    {
+      "id": 6207,
+      "number": 3,
+      "verse_key": "108:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 552,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 602,
+      "juz_number": 30,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ"
+    }
+  ]
 }

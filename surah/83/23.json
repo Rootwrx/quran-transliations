@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 23,
-    "arabic_text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ"
-  }
+  "id": 5871,
+  "number": 23,
+  "verse_key": "83:23",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 588,
+  "juz_number": 30,
+  "text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ"
 }

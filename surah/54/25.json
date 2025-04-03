@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 25,
-    "arabic_text": "أَءُلۡقِيَ ٱلذِّكۡرُ عَلَيۡهِ مِنۢ بَيۡنِنَا بَلۡ هُوَ كَذَّابٌ أَشِرٞ"
-  }
+  "id": 4871,
+  "number": 25,
+  "verse_key": "54:25",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "ruku_number": 466,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 529,
+  "juz_number": 27,
+  "text": "أَءُلۡقِيَ ٱلذِّكۡرُ عَلَيۡهِ مِنۢ بَيۡنِنَا بَلۡ هُوَ كَذَّابٌ أَشِرٞ"
 }

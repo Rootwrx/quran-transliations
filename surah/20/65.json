@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 65,
-    "arabic_text": "قَالُواْ يَٰمُوسَىٰٓ إِمَّآ أَن تُلۡقِيَ وَإِمَّآ أَن نَّكُونَ أَوَّلَ مَنۡ أَلۡقَىٰ"
-  }
+  "id": 2413,
+  "number": 65,
+  "verse_key": "20:65",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 272,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 316,
+  "juz_number": 16,
+  "text": "قَالُواْ يَٰمُوسَىٰٓ إِمَّآ أَن تُلۡقِيَ وَإِمَّآ أَن نَّكُونَ أَوَّلَ مَنۡ أَلۡقَىٰ"
 }

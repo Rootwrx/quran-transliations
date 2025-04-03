@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 6,
-    "arabic_text": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ"
-  }
+  "id": 4741,
+  "number": 6,
+  "verse_key": "52:6",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 523,
+  "juz_number": 27,
+  "text": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ"
 }

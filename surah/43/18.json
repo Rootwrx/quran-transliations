@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 18,
-    "arabic_text": "أَوَمَن يُنَشَّؤُاْ فِي ٱلۡحِلۡيَةِ وَهُوَ فِي ٱلۡخِصَامِ غَيۡرُ مُبِينٖ"
-  }
+  "id": 4343,
+  "number": 18,
+  "verse_key": "43:18",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "ruku_number": 427,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 490,
+  "juz_number": 25,
+  "text": "أَوَمَن يُنَشَّؤُاْ فِي ٱلۡحِلۡيَةِ وَهُوَ فِي ٱلۡخِصَامِ غَيۡرُ مُبِينٖ"
 }

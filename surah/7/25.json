@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 25,
-    "arabic_text": "قَالَ فِيهَا تَحۡيَوۡنَ وَفِيهَا تَمُوتُونَ وَمِنۡهَا تُخۡرَجُونَ"
-  }
+  "id": 979,
+  "number": 25,
+  "verse_key": "7:25",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "ruku_number": 123,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 153,
+  "juz_number": 8,
+  "text": "قَالَ فِيهَا تَحۡيَوۡنَ وَفِيهَا تَمُوتُونَ وَمِنۡهَا تُخۡرَجُونَ"
 }

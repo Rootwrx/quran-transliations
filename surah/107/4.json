@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 4,
-    "arabic_text": "فَوَيۡلٞ لِّلۡمُصَلِّينَ"
-  }
+  "id": 6201,
+  "number": 4,
+  "verse_key": "107:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 551,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 602,
+  "juz_number": 30,
+  "text": "فَوَيۡلٞ لِّلۡمُصَلِّينَ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 19,
-    "arabic_text": "وَمَغَانِمَ كَثِيرَةٗ يَأۡخُذُونَهَاۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمٗا"
-  }
+  "id": 4602,
+  "number": 19,
+  "verse_key": "48:19",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 205,
+  "ruku_number": 450,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 513,
+  "juz_number": 26,
+  "text": "وَمَغَانِمَ كَثِيرَةٗ يَأۡخُذُونَهَاۗ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمٗا"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 10,
-    "arabic_text": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ"
-  }
+  "id": 679,
+  "number": 10,
+  "verse_key": "5:10",
+  "hizb_number": 11,
+  "rub_el_hizb_number": 43,
+  "ruku_number": 87,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 109,
+  "juz_number": 6,
+  "text": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ"
 }

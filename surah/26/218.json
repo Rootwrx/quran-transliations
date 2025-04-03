@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 218,
-    "arabic_text": "ٱلَّذِي يَرَىٰكَ حِينَ تَقُومُ"
-  }
+  "id": 3150,
+  "number": 218,
+  "verse_key": "26:218",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 376,
+  "juz_number": 19,
+  "text": "ٱلَّذِي يَرَىٰكَ حِينَ تَقُومُ"
 }

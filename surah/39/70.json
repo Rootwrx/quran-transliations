@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 70,
-    "arabic_text": "وَوُفِّيَتۡ كُلُّ نَفۡسٖ مَّا عَمِلَتۡ وَهُوَ أَعۡلَمُ بِمَا يَفۡعَلُونَ"
-  }
+  "id": 4128,
+  "number": 70,
+  "verse_key": "39:70",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "ruku_number": 404,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 466,
+  "juz_number": 24,
+  "text": "وَوُفِّيَتۡ كُلُّ نَفۡسٖ مَّا عَمِلَتۡ وَهُوَ أَعۡلَمُ بِمَا يَفۡعَلُونَ"
 }

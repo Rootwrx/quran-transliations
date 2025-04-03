@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 23,
-    "arabic_text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ"
-  }
+  "id": 5990,
+  "number": 23,
+  "verse_key": "88:23",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 532,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 592,
+  "juz_number": 30,
+  "text": "إِلَّا مَن تَوَلَّىٰ وَكَفَرَ"
 }

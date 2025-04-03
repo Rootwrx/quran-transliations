@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 25,
-    "arabic_text": "لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ"
-  }
+  "id": 5400,
+  "number": 25,
+  "verse_key": "70:25",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 569,
+  "juz_number": 29,
+  "text": "لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ"
 }

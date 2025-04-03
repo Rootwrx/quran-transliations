@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 8,
-    "arabic_text": "ثُمَّ جَعَلَ نَسۡلَهُۥ مِن سُلَٰلَةٖ مِّن مَّآءٖ مَّهِينٖ"
-  }
+  "id": 3511,
+  "number": 8,
+  "verse_key": "32:8",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "ruku_number": 360,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 415,
+  "juz_number": 21,
+  "text": "ثُمَّ جَعَلَ نَسۡلَهُۥ مِن سُلَٰلَةٖ مِّن مَّآءٖ مَّهِينٖ"
 }

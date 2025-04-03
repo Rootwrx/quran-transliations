@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 33,
-    "arabic_text": "وَٱلَّذِي جَآءَ بِٱلصِّدۡقِ وَصَدَّقَ بِهِۦٓ أُوْلَٰٓئِكَ هُمُ ٱلۡمُتَّقُونَ"
-  }
+  "id": 4091,
+  "number": 33,
+  "verse_key": "39:33",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "ruku_number": 401,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 462,
+  "juz_number": 24,
+  "text": "وَٱلَّذِي جَآءَ بِٱلصِّدۡقِ وَصَدَّقَ بِهِۦٓ أُوْلَٰٓئِكَ هُمُ ٱلۡمُتَّقُونَ"
 }

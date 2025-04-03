@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 16,
-    "arabic_text": "فَلَا يَصُدَّنَّكَ عَنۡهَا مَن لَّا يُؤۡمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرۡدَىٰ"
-  }
+  "id": 2364,
+  "number": 16,
+  "verse_key": "20:16",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "ruku_number": 270,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 313,
+  "juz_number": 16,
+  "text": "فَلَا يَصُدَّنَّكَ عَنۡهَا مَن لَّا يُؤۡمِنُ بِهَا وَٱتَّبَعَ هَوَىٰهُ فَتَرۡدَىٰ"
 }

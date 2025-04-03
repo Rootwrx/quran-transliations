@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 131,
-    "arabic_text": "ذَٰلِكَ أَن لَّمۡ يَكُن رَّبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمٖ وَأَهۡلُهَا غَٰفِلُونَ"
-  }
+  "id": 920,
+  "number": 131,
+  "verse_key": "6:131",
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "ruku_number": 117,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 144,
+  "juz_number": 8,
+  "text": "ذَٰلِكَ أَن لَّمۡ يَكُن رَّبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمٖ وَأَهۡلُهَا غَٰفِلُونَ"
 }

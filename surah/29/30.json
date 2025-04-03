@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 30,
-    "arabic_text": "قَالَ رَبِّ ٱنصُرۡنِي عَلَى ٱلۡقَوۡمِ ٱلۡمُفۡسِدِينَ"
-  }
+  "id": 3370,
+  "number": 30,
+  "verse_key": "29:30",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "ruku_number": 345,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 399,
+  "juz_number": 20,
+  "text": "قَالَ رَبِّ ٱنصُرۡنِي عَلَى ٱلۡقَوۡمِ ٱلۡمُفۡسِدِينَ"
 }

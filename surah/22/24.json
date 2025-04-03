@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 24,
-    "arabic_text": "وَهُدُوٓاْ إِلَى ٱلطَّيِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوٓاْ إِلَىٰ صِرَٰطِ ٱلۡحَمِيدِ"
-  }
+  "id": 2619,
+  "number": 24,
+  "verse_key": "22:24",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "ruku_number": 287,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 335,
+  "juz_number": 17,
+  "text": "وَهُدُوٓاْ إِلَى ٱلطَّيِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوٓاْ إِلَىٰ صِرَٰطِ ٱلۡحَمِيدِ"
 }

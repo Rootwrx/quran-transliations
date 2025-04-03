@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 20,
-    "arabic_text": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ"
-  }
+  "id": 6043,
+  "number": 20,
+  "verse_key": "90:20",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "ruku_number": 534,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 594,
+  "juz_number": 30,
+  "text": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ"
 }

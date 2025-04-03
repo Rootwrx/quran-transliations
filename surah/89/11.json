@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 11,
-    "arabic_text": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ"
-  }
+  "id": 6004,
+  "number": 11,
+  "verse_key": "89:11",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "ruku_number": 533,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 593,
+  "juz_number": 30,
+  "text": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ"
 }

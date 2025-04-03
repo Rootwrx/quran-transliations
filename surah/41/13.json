@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 13,
-    "arabic_text": "فَإِنۡ أَعۡرَضُواْ فَقُلۡ أَنذَرۡتُكُمۡ صَٰعِقَةٗ مِّثۡلَ صَٰعِقَةِ عَادٖ وَثَمُودَ"
-  }
+  "id": 4231,
+  "number": 13,
+  "verse_key": "41:13",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "ruku_number": 416,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 478,
+  "juz_number": 24,
+  "text": "فَإِنۡ أَعۡرَضُواْ فَقُلۡ أَنذَرۡتُكُمۡ صَٰعِقَةٗ مِّثۡلَ صَٰعِقَةِ عَادٖ وَثَمُودَ"
 }

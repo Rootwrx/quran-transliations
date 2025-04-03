@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ"
-  }
+  "id": 5164,
+  "number": 1,
+  "verse_key": "61:1",
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "ruku_number": 486,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 551,
+  "juz_number": 28,
+  "text": "سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ"
 }

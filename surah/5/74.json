@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 74,
-    "arabic_text": "أَفَلَا يَتُوبُونَ إِلَى ٱللَّهِ وَيَسۡتَغۡفِرُونَهُۥۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ"
-  }
+  "id": 743,
+  "number": 74,
+  "verse_key": "5:74",
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "ruku_number": 95,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 120,
+  "juz_number": 6,
+  "text": "أَفَلَا يَتُوبُونَ إِلَى ٱللَّهِ وَيَسۡتَغۡفِرُونَهُۥۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ"
 }

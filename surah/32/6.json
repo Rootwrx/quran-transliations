@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 6,
-    "arabic_text": "ذَٰلِكَ عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ ٱلۡعَزِيزُ ٱلرَّحِيمُ"
-  }
+  "id": 3509,
+  "number": 6,
+  "verse_key": "32:6",
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "ruku_number": 360,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 415,
+  "juz_number": 21,
+  "text": "ذَٰلِكَ عَٰلِمُ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ ٱلۡعَزِيزُ ٱلرَّحِيمُ"
 }

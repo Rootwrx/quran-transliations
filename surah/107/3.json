@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 3,
-    "arabic_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ"
-  }
+  "id": 6200,
+  "number": 3,
+  "verse_key": "107:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 551,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 602,
+  "juz_number": 30,
+  "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ"
 }

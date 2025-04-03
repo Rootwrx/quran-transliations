@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 2,
-    "arabic_text": "تَنزِيلُ ٱلۡكِتَٰبِ مِنَ ٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَكِيمِ"
-  }
+  "id": 4512,
+  "number": 2,
+  "verse_key": "46:2",
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "ruku_number": 440,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 502,
+  "juz_number": 26,
+  "text": "تَنزِيلُ ٱلۡكِتَٰبِ مِنَ ٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَكِيمِ"
 }

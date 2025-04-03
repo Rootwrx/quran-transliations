@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 30,
-    "arabic_text": "قُل لَّكُم مِّيعَادُ يَوۡمٖ لَّا تَسۡتَـٔۡخِرُونَ عَنۡهُ سَاعَةٗ وَلَا تَسۡتَقۡدِمُونَ"
-  }
+  "id": 3636,
+  "number": 30,
+  "verse_key": "34:30",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "ruku_number": 374,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 431,
+  "juz_number": 22,
+  "text": "قُل لَّكُم مِّيعَادُ يَوۡمٖ لَّا تَسۡتَـٔۡخِرُونَ عَنۡهُ سَاعَةٗ وَلَا تَسۡتَقۡدِمُونَ"
 }

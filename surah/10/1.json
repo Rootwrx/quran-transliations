@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ"
-  }
+  "id": 1365,
+  "number": 1,
+  "verse_key": "10:1",
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "ruku_number": 172,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 208,
+  "juz_number": 11,
+  "text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 12,
-    "arabic_text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ"
-  }
+  "id": 5860,
+  "number": 12,
+  "verse_key": "83:12",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "ruku_number": 527,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 588,
+  "juz_number": 30,
+  "text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ"
 }

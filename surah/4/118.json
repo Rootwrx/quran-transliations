@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 118,
-    "arabic_text": "لَّعَنَهُ ٱللَّهُۘ وَقَالَ لَأَتَّخِذَنَّ مِنۡ عِبَادِكَ نَصِيبٗا مَّفۡرُوضٗا"
-  }
+  "id": 611,
+  "number": 118,
+  "verse_key": "4:118",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "ruku_number": 79,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 97,
+  "juz_number": 5,
+  "text": "لَّعَنَهُ ٱللَّهُۘ وَقَالَ لَأَتَّخِذَنَّ مِنۡ عِبَادِكَ نَصِيبٗا مَّفۡرُوضٗا"
 }

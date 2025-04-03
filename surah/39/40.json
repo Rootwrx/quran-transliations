@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 40,
-    "arabic_text": "مَن يَأۡتِيهِ عَذَابٞ يُخۡزِيهِ وَيَحِلُّ عَلَيۡهِ عَذَابٞ مُّقِيمٌ"
-  }
+  "id": 4098,
+  "number": 40,
+  "verse_key": "39:40",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "ruku_number": 401,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 462,
+  "juz_number": 24,
+  "text": "مَن يَأۡتِيهِ عَذَابٞ يُخۡزِيهِ وَيَحِلُّ عَلَيۡهِ عَذَابٞ مُّقِيمٌ"
 }

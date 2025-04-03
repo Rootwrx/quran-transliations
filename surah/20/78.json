@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 78,
-    "arabic_text": "فَأَتۡبَعَهُمۡ فِرۡعَوۡنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلۡيَمِّ مَا غَشِيَهُمۡ"
-  }
+  "id": 2426,
+  "number": 78,
+  "verse_key": "20:78",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "ruku_number": 273,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 317,
+  "juz_number": 16,
+  "text": "فَأَتۡبَعَهُمۡ فِرۡعَوۡنُ بِجُنُودِهِۦ فَغَشِيَهُم مِّنَ ٱلۡيَمِّ مَا غَشِيَهُمۡ"
 }

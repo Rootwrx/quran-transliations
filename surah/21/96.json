@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 96,
-    "arabic_text": "حَتَّىٰٓ إِذَا فُتِحَتۡ يَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبٖ يَنسِلُونَ"
-  }
+  "id": 2579,
+  "number": 96,
+  "verse_key": "21:96",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "ruku_number": 284,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 330,
+  "juz_number": 17,
+  "text": "حَتَّىٰٓ إِذَا فُتِحَتۡ يَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبٖ يَنسِلُونَ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 24,
-    "arabic_text": "فَقَالَ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ يُؤۡثَرُ"
-  }
+  "id": 5519,
+  "number": 24,
+  "verse_key": "74:24",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 576,
+  "juz_number": 29,
+  "text": "فَقَالَ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ يُؤۡثَرُ"
 }

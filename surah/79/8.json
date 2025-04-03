@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 8,
-    "arabic_text": "قُلُوبٞ يَوۡمَئِذٖ وَاجِفَةٌ"
-  }
+  "id": 5720,
+  "number": 8,
+  "verse_key": "79:8",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "ruku_number": 522,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 583,
+  "juz_number": 30,
+  "text": "قُلُوبٞ يَوۡمَئِذٖ وَاجِفَةٌ"
 }

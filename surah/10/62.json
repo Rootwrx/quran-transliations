@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 62,
-    "arabic_text": "أَلَآ إِنَّ أَوۡلِيَآءَ ٱللَّهِ لَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ"
-  }
+  "id": 1426,
+  "number": 62,
+  "verse_key": "10:62",
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "ruku_number": 178,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 216,
+  "juz_number": 11,
+  "text": "أَلَآ إِنَّ أَوۡلِيَآءَ ٱللَّهِ لَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ"
 }

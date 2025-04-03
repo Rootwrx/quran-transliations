@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 50,
-    "arabic_text": "وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَٰفِرِينَ"
-  }
+  "id": 5373,
+  "number": 50,
+  "verse_key": "69:50",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 503,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 568,
+  "juz_number": 29,
+  "text": "وَإِنَّهُۥ لَحَسۡرَةٌ عَلَى ٱلۡكَٰفِرِينَ"
 }

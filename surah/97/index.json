@@ -1,22 +1,69 @@
 {
-    "index": "097",
-    "name": "al-Qadr",
-    "verse": {
-        "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-        "verse_1": "إِنَّآ أَنزَلْنَٰهُ فِى لَيْلَةِ ٱلْقَدْرِ",
-        "verse_2": "وَمَآ أَدْرَىٰكَ مَا لَيْلَةُ ٱلْقَدْرِ",
-        "verse_3": "لَيْلَةُ ٱلْقَدْرِ خَيْرٌۭ مِّنْ أَلْفِ شَهْرٍۢ",
-        "verse_4": "تَنَزَّلُ ٱلْمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذْنِ رَبِّهِم مِّن كُلِّ أَمْرٍۢ",
-        "verse_5": "سَلَٰمٌ هِىَ حَتَّىٰ مَطْلَعِ ٱلْفَجْرِ"
+  "verses": [
+    {
+      "id": 6126,
+      "number": 1,
+      "verse_key": "97:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 598,
+      "juz_number": 30,
+      "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ"
     },
-    "count": 5,
-    "juz": [
-        {
-            "index": "30",
-            "verse": {
-                "start": "verse_1",
-                "end": "verse_5"
-            }
-        }
-    ]
+    {
+      "id": 6127,
+      "number": 2,
+      "verse_key": "97:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 598,
+      "juz_number": 30,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا لَيۡلَةُ ٱلۡقَدۡرِ"
+    },
+    {
+      "id": 6128,
+      "number": 3,
+      "verse_key": "97:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 598,
+      "juz_number": 30,
+      "text": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ"
+    },
+    {
+      "id": 6129,
+      "number": 4,
+      "verse_key": "97:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 598,
+      "juz_number": 30,
+      "text": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ"
+    },
+    {
+      "id": 6130,
+      "number": 5,
+      "verse_key": "97:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 239,
+      "ruku_number": 541,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 598,
+      "juz_number": 30,
+      "text": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ"
+    }
+  ]
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 57,
-    "arabic_text": "وَرَفَعۡنَٰهُ مَكَانًا عَلِيًّا"
-  }
+  "id": 2307,
+  "number": 57,
+  "verse_key": "19:57",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 267,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 309,
+  "juz_number": 16,
+  "text": "وَرَفَعۡنَٰهُ مَكَانًا عَلِيًّا"
 }

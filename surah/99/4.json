@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 4,
-    "arabic_text": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا"
-  }
+  "id": 6142,
+  "number": 4,
+  "verse_key": "99:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 543,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 599,
+  "juz_number": 30,
+  "text": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 16,
-    "arabic_text": "إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ"
-  }
+  "id": 3676,
+  "number": 16,
+  "verse_key": "35:16",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "ruku_number": 380,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 436,
+  "juz_number": 22,
+  "text": "إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ"
 }

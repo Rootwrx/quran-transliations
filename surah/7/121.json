@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 121,
-    "arabic_text": "قَالُوٓاْ ءَامَنَّا بِرَبِّ ٱلۡعَٰلَمِينَ"
-  }
+  "id": 1075,
+  "number": 121,
+  "verse_key": "7:121",
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "ruku_number": 135,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 165,
+  "juz_number": 9,
+  "text": "قَالُوٓاْ ءَامَنَّا بِرَبِّ ٱلۡعَٰلَمِينَ"
 }

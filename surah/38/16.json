@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 16,
-    "arabic_text": "وَقَالُواْ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبۡلَ يَوۡمِ ٱلۡحِسَابِ"
-  }
+  "id": 3986,
+  "number": 16,
+  "verse_key": "38:16",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 394,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 453,
+  "juz_number": 23,
+  "text": "وَقَالُواْ رَبَّنَا عَجِّل لَّنَا قِطَّنَا قَبۡلَ يَوۡمِ ٱلۡحِسَابِ"
 }

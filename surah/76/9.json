@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 9,
-    "arabic_text": "إِنَّمَا نُطۡعِمُكُمۡ لِوَجۡهِ ٱللَّهِ لَا نُرِيدُ مِنكُمۡ جَزَآءٗ وَلَا شُكُورًا"
-  }
+  "id": 5600,
+  "number": 9,
+  "verse_key": "76:9",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 516,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 579,
+  "juz_number": 29,
+  "text": "إِنَّمَا نُطۡعِمُكُمۡ لِوَجۡهِ ٱللَّهِ لَا نُرِيدُ مِنكُمۡ جَزَآءٗ وَلَا شُكُورًا"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 211,
-    "arabic_text": "وَمَا يَنۢبَغِي لَهُمۡ وَمَا يَسۡتَطِيعُونَ"
-  }
+  "id": 3143,
+  "number": 211,
+  "verse_key": "26:211",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 376,
+  "juz_number": 19,
+  "text": "وَمَا يَنۢبَغِي لَهُمۡ وَمَا يَسۡتَطِيعُونَ"
 }

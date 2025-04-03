@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 40,
-    "arabic_text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ"
-  }
+  "id": 4454,
+  "number": 40,
+  "verse_key": "44:40",
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "ruku_number": 434,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 498,
+  "juz_number": 25,
+  "text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ"
 }

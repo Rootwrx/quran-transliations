@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 60,
-    "arabic_text": "فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ وَلَا يَسۡتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ"
-  }
+  "id": 3469,
+  "number": 60,
+  "verse_key": "30:60",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "ruku_number": 355,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 410,
+  "juz_number": 21,
+  "text": "فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ وَلَا يَسۡتَخِفَّنَّكَ ٱلَّذِينَ لَا يُوقِنُونَ"
 }

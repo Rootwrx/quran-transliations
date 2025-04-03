@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 20,
-    "arabic_text": "يُصۡهَرُ بِهِۦ مَا فِي بُطُونِهِمۡ وَٱلۡجُلُودُ"
-  }
+  "id": 2615,
+  "number": 20,
+  "verse_key": "22:20",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "ruku_number": 286,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 334,
+  "juz_number": 17,
+  "text": "يُصۡهَرُ بِهِۦ مَا فِي بُطُونِهِمۡ وَٱلۡجُلُودُ"
 }

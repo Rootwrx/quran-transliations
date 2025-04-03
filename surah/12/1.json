@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ"
-  }
+  "id": 1597,
+  "number": 1,
+  "verse_key": "12:1",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "ruku_number": 193,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 235,
+  "juz_number": 12,
+  "text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 18,
-    "arabic_text": "ذَٰلِكُمۡ وَأَنَّ ٱللَّهَ مُوهِنُ كَيۡدِ ٱلۡكَٰفِرِينَ"
-  }
+  "id": 1178,
+  "number": 18,
+  "verse_key": "8:18",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "ruku_number": 147,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 179,
+  "juz_number": 9,
+  "text": "ذَٰلِكُمۡ وَأَنَّ ٱللَّهَ مُوهِنُ كَيۡدِ ٱلۡكَٰفِرِينَ"
 }

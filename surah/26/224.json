@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 224,
-    "arabic_text": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلۡغَاوُۥنَ"
-  }
+  "id": 3156,
+  "number": 224,
+  "verse_key": "26:224",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 376,
+  "juz_number": 19,
+  "text": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلۡغَاوُۥنَ"
 }

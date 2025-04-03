@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 68,
-    "arabic_text": "أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنَا۠ لَكُمۡ نَاصِحٌ أَمِينٌ"
-  }
+  "id": 1022,
+  "number": 68,
+  "verse_key": "7:68",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "ruku_number": 130,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 159,
+  "juz_number": 8,
+  "text": "أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنَا۠ لَكُمۡ نَاصِحٌ أَمِينٌ"
 }

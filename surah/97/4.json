@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 4,
-    "arabic_text": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ"
-  }
+  "id": 6129,
+  "number": 4,
+  "verse_key": "97:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 541,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 598,
+  "juz_number": 30,
+  "text": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ"
 }

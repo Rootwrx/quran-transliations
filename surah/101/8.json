@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 8,
-    "arabic_text": "وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ"
-  }
+  "id": 6165,
+  "number": 8,
+  "verse_key": "101:8",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 545,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 600,
+  "juz_number": 30,
+  "text": "وَأَمَّا مَنۡ خَفَّتۡ مَوَٰزِينُهُۥ"
 }

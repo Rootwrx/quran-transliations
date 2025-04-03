@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ"
-  }
+  "id": 5376,
+  "number": 1,
+  "verse_key": "70:1",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 568,
+  "juz_number": 29,
+  "text": "سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ"
 }

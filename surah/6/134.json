@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 134,
-    "arabic_text": "إِنَّ مَا تُوعَدُونَ لَأٓتٖۖ وَمَآ أَنتُم بِمُعۡجِزِينَ"
-  }
+  "id": 923,
+  "number": 134,
+  "verse_key": "6:134",
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "ruku_number": 117,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 145,
+  "juz_number": 8,
+  "text": "إِنَّ مَا تُوعَدُونَ لَأٓتٖۖ وَمَآ أَنتُم بِمُعۡجِزِينَ"
 }

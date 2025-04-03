@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 11,
-    "arabic_text": "قَوۡمَ فِرۡعَوۡنَۚ أَلَا يَتَّقُونَ"
-  }
+  "id": 2943,
+  "number": 11,
+  "verse_key": "26:11",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "ruku_number": 317,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 367,
+  "juz_number": 19,
+  "text": "قَوۡمَ فِرۡعَوۡنَۚ أَلَا يَتَّقُونَ"
 }

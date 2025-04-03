@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 50,
-    "arabic_text": "فَلَا يَسۡتَطِيعُونَ تَوۡصِيَةٗ وَلَآ إِلَىٰٓ أَهۡلِهِمۡ يَرۡجِعُونَ"
-  }
+  "id": 3755,
+  "number": 50,
+  "verse_key": "36:50",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 385,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 443,
+  "juz_number": 23,
+  "text": "فَلَا يَسۡتَطِيعُونَ تَوۡصِيَةٗ وَلَآ إِلَىٰٓ أَهۡلِهِمۡ يَرۡجِعُونَ"
 }

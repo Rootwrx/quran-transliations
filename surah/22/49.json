@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 49,
-    "arabic_text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمۡ نَذِيرٞ مُّبِينٞ"
-  }
+  "id": 2644,
+  "number": 49,
+  "verse_key": "22:49",
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "ruku_number": 291,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 338,
+  "juz_number": 17,
+  "text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمۡ نَذِيرٞ مُّبِينٞ"
 }

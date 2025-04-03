@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 60,
-    "arabic_text": "قَالَ ٱلۡمَلَأُ مِن قَوۡمِهِۦٓ إِنَّا لَنَرَىٰكَ فِي ضَلَٰلٖ مُّبِينٖ"
-  }
+  "id": 1014,
+  "number": 60,
+  "verse_key": "7:60",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "ruku_number": 129,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 158,
+  "juz_number": 8,
+  "text": "قَالَ ٱلۡمَلَأُ مِن قَوۡمِهِۦٓ إِنَّا لَنَرَىٰكَ فِي ضَلَٰلٖ مُّبِينٖ"
 }

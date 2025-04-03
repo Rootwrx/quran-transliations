@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 32,
-    "arabic_text": "نُزُلٗا مِّنۡ غَفُورٖ رَّحِيمٖ"
-  }
+  "id": 4250,
+  "number": 32,
+  "verse_key": "41:32",
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "ruku_number": 418,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 480,
+  "juz_number": 24,
+  "text": "نُزُلٗا مِّنۡ غَفُورٖ رَّحِيمٖ"
 }

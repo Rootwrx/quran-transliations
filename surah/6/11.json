@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 11,
-    "arabic_text": "قُلۡ سِيرُواْ فِي ٱلۡأَرۡضِ ثُمَّ ٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ"
-  }
+  "id": 800,
+  "number": 11,
+  "verse_key": "6:11",
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "ruku_number": 103,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 129,
+  "juz_number": 7,
+  "text": "قُلۡ سِيرُواْ فِي ٱلۡأَرۡضِ ثُمَّ ٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 3,
-    "arabic_text": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ"
-  }
+  "id": 6128,
+  "number": 3,
+  "verse_key": "97:3",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "ruku_number": 541,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 598,
+  "juz_number": 30,
+  "text": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 95,
-    "arabic_text": "كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَآۗ أَلَا بُعۡدٗا لِّمَدۡيَنَ كَمَا بَعِدَتۡ ثَمُودُ"
-  }
+  "id": 1568,
+  "number": 95,
+  "verse_key": "11:95",
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "ruku_number": 190,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 232,
+  "juz_number": 12,
+  "text": "كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَآۗ أَلَا بُعۡدٗا لِّمَدۡيَنَ كَمَا بَعِدَتۡ ثَمُودُ"
 }

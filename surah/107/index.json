@@ -1,24 +1,95 @@
 {
-    "index": "107",
-    "name": "al-Ma'un",
-    "verse": {
-        "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-        "verse_1": "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
-        "verse_2": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
-        "verse_3": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
-        "verse_4": "فَوَيْلٌۭ لِّلْمُصَلِّينَ",
-        "verse_5": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
-        "verse_6": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
-        "verse_7": "وَيَمْنَعُونَ ٱلْمَاعُونَ"
+  "verses": [
+    {
+      "id": 6198,
+      "number": 1,
+      "verse_key": "107:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 602,
+      "juz_number": 30,
+      "text": "أَرَءَيۡتَ ٱلَّذِي يُكَذِّبُ بِٱلدِّينِ"
     },
-    "count": 7,
-    "juz": [
-        {
-            "index": "30",
-            "verse": {
-                "start": "verse_1",
-                "end": "verse_7"
-            }
-        }
-    ]
+    {
+      "id": 6199,
+      "number": 2,
+      "verse_key": "107:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 602,
+      "juz_number": 30,
+      "text": "فَذَٰلِكَ ٱلَّذِي يَدُعُّ ٱلۡيَتِيمَ"
+    },
+    {
+      "id": 6200,
+      "number": 3,
+      "verse_key": "107:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 602,
+      "juz_number": 30,
+      "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ"
+    },
+    {
+      "id": 6201,
+      "number": 4,
+      "verse_key": "107:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 602,
+      "juz_number": 30,
+      "text": "فَوَيۡلٞ لِّلۡمُصَلِّينَ"
+    },
+    {
+      "id": 6202,
+      "number": 5,
+      "verse_key": "107:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 602,
+      "juz_number": 30,
+      "text": "ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ"
+    },
+    {
+      "id": 6203,
+      "number": 6,
+      "verse_key": "107:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 602,
+      "juz_number": 30,
+      "text": "ٱلَّذِينَ هُمۡ يُرَآءُونَ"
+    },
+    {
+      "id": 6204,
+      "number": 7,
+      "verse_key": "107:7",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 551,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 602,
+      "juz_number": 30,
+      "text": "وَيَمۡنَعُونَ ٱلۡمَاعُونَ"
+    }
+  ]
 }

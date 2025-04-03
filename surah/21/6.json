@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 6,
-    "arabic_text": "مَآ ءَامَنَتۡ قَبۡلَهُم مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَآۖ أَفَهُمۡ يُؤۡمِنُونَ"
-  }
+  "id": 2489,
+  "number": 6,
+  "verse_key": "21:6",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "ruku_number": 278,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 322,
+  "juz_number": 17,
+  "text": "مَآ ءَامَنَتۡ قَبۡلَهُم مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَآۖ أَفَهُمۡ يُؤۡمِنُونَ"
 }

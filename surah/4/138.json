@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 138,
-    "arabic_text": "بَشِّرِ ٱلۡمُنَٰفِقِينَ بِأَنَّ لَهُمۡ عَذَابًا أَلِيمًا"
-  }
+  "id": 631,
+  "number": 138,
+  "verse_key": "4:138",
+  "hizb_number": 10,
+  "rub_el_hizb_number": 40,
+  "ruku_number": 81,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 100,
+  "juz_number": 5,
+  "text": "بَشِّرِ ٱلۡمُنَٰفِقِينَ بِأَنَّ لَهُمۡ عَذَابًا أَلِيمًا"
 }

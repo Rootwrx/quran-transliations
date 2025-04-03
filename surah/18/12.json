@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 12,
-    "arabic_text": "ثُمَّ بَعَثۡنَٰهُمۡ لِنَعۡلَمَ أَيُّ ٱلۡحِزۡبَيۡنِ أَحۡصَىٰ لِمَا لَبِثُوٓاْ أَمَدٗا"
-  }
+  "id": 2152,
+  "number": 12,
+  "verse_key": "18:12",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "ruku_number": 252,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 294,
+  "juz_number": 15,
+  "text": "ثُمَّ بَعَثۡنَٰهُمۡ لِنَعۡلَمَ أَيُّ ٱلۡحِزۡبَيۡنِ أَحۡصَىٰ لِمَا لَبِثُوٓاْ أَمَدٗا"
 }

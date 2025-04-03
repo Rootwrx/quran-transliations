@@ -1,23 +1,82 @@
 {
-    "index": "109",
-    "name": "al-Kafirun",
-    "verse": {
-        "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-        "verse_1": "قُلْ يَٰٓأَيُّهَا ٱلْكَٰفِرُونَ",
-        "verse_2": "لَآ أَعْبُدُ مَا تَعْبُدُونَ",
-        "verse_3": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
-        "verse_4": "وَلَآ أَنَا۠ عَابِدٌۭ مَّا عَبَدتُّمْ",
-        "verse_5": "وَلَآ أَنتُمْ عَٰبِدُونَ مَآ أَعْبُدُ",
-        "verse_6": "لَكُمْ دِينُكُمْ وَلِىَ دِينِ"
+  "verses": [
+    {
+      "id": 6208,
+      "number": 1,
+      "verse_key": "109:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "text": "قُلۡ يَٰٓأَيُّهَا ٱلۡكَٰفِرُونَ"
     },
-    "count": 6,
-    "juz": [
-        {
-            "index": "30",
-            "verse": {
-                "start": "verse_1",
-                "end": "verse_6"
-            }
-        }
-    ]
+    {
+      "id": 6209,
+      "number": 2,
+      "verse_key": "109:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "text": "لَآ أَعۡبُدُ مَا تَعۡبُدُونَ"
+    },
+    {
+      "id": 6210,
+      "number": 3,
+      "verse_key": "109:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ"
+    },
+    {
+      "id": 6211,
+      "number": 4,
+      "verse_key": "109:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "text": "وَلَآ أَنَا۠ عَابِدٞ مَّا عَبَدتُّمۡ"
+    },
+    {
+      "id": 6212,
+      "number": 5,
+      "verse_key": "109:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ"
+    },
+    {
+      "id": 6213,
+      "number": 6,
+      "verse_key": "109:6",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 553,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 603,
+      "juz_number": 30,
+      "text": "لَكُمۡ دِينُكُمۡ وَلِيَ دِينِ"
+    }
+  ]
 }

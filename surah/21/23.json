@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 23,
-    "arabic_text": "لَا يُسۡـَٔلُ عَمَّا يَفۡعَلُ وَهُمۡ يُسۡـَٔلُونَ"
-  }
+  "id": 2506,
+  "number": 23,
+  "verse_key": "21:23",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "ruku_number": 279,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 323,
+  "juz_number": 17,
+  "text": "لَا يُسۡـَٔلُ عَمَّا يَفۡعَلُ وَهُمۡ يُسۡـَٔلُونَ"
 }

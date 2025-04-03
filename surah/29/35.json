@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 35,
-    "arabic_text": "وَلَقَد تَّرَكۡنَا مِنۡهَآ ءَايَةَۢ بَيِّنَةٗ لِّقَوۡمٖ يَعۡقِلُونَ"
-  }
+  "id": 3375,
+  "number": 35,
+  "verse_key": "29:35",
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "ruku_number": 346,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 400,
+  "juz_number": 20,
+  "text": "وَلَقَد تَّرَكۡنَا مِنۡهَآ ءَايَةَۢ بَيِّنَةٗ لِّقَوۡمٖ يَعۡقِلُونَ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 202,
-    "arabic_text": "وَإِخۡوَٰنُهُمۡ يَمُدُّونَهُمۡ فِي ٱلۡغَيِّ ثُمَّ لَا يُقۡصِرُونَ"
-  }
+  "id": 1156,
+  "number": 202,
+  "verse_key": "7:202",
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "ruku_number": 145,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 176,
+  "juz_number": 9,
+  "text": "وَإِخۡوَٰنُهُمۡ يَمُدُّونَهُمۡ فِي ٱلۡغَيِّ ثُمَّ لَا يُقۡصِرُونَ"
 }

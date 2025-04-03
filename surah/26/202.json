@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 202,
-    "arabic_text": "فَيَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ"
-  }
+  "id": 3134,
+  "number": 202,
+  "verse_key": "26:202",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 375,
+  "juz_number": 19,
+  "text": "فَيَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ"
 }

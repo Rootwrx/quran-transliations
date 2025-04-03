@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 9,
-    "arabic_text": "يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ"
-  }
+  "id": 5940,
+  "number": 9,
+  "verse_key": "86:9",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 530,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 591,
+  "juz_number": 30,
+  "text": "يَوۡمَ تُبۡلَى ٱلسَّرَآئِرُ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 40,
-    "arabic_text": "وَوُجُوهٞ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٞ"
-  }
+  "id": 5798,
+  "number": 40,
+  "verse_key": "80:40",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 585,
+  "juz_number": 30,
+  "text": "وَوُجُوهٞ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٞ"
 }

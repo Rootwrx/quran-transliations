@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "حمٓ"
-  }
+  "id": 4134,
+  "number": 1,
+  "verse_key": "40:1",
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "ruku_number": 406,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 467,
+  "juz_number": 24,
+  "text": "حمٓ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 12,
-    "arabic_text": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ"
-  }
+  "id": 4913,
+  "number": 12,
+  "verse_key": "55:12",
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "ruku_number": 468,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 531,
+  "juz_number": 27,
+  "text": "وَٱلۡحَبُّ ذُو ٱلۡعَصۡفِ وَٱلرَّيۡحَانُ"
 }

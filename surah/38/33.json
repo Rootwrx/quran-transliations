@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 33,
-    "arabic_text": "رُدُّوهَا عَلَيَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ"
-  }
+  "id": 4003,
+  "number": 33,
+  "verse_key": "38:33",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 395,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 455,
+  "juz_number": 23,
+  "text": "رُدُّوهَا عَلَيَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ"
 }

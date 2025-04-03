@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 32,
-    "arabic_text": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ"
-  }
+  "id": 4707,
+  "number": 32,
+  "verse_key": "51:32",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 458,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 522,
+  "juz_number": 27,
+  "text": "قَالُوٓاْ إِنَّآ أُرۡسِلۡنَآ إِلَىٰ قَوۡمٖ مُّجۡرِمِينَ"
 }

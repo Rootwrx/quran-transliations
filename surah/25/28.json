@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 28,
-    "arabic_text": "يَٰوَيۡلَتَىٰ لَيۡتَنِي لَمۡ أَتَّخِذۡ فُلَانًا خَلِيلٗا"
-  }
+  "id": 2883,
+  "number": 28,
+  "verse_key": "25:28",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 312,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 362,
+  "juz_number": 19,
+  "text": "يَٰوَيۡلَتَىٰ لَيۡتَنِي لَمۡ أَتَّخِذۡ فُلَانًا خَلِيلٗا"
 }

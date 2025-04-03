@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 43,
-    "arabic_text": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنۡ عَزۡمِ ٱلۡأُمُورِ"
-  }
+  "id": 4315,
+  "number": 43,
+  "verse_key": "42:43",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "ruku_number": 424,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 487,
+  "juz_number": 25,
+  "text": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنۡ عَزۡمِ ٱلۡأُمُورِ"
 }

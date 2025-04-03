@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 83,
-    "arabic_text": "وَيَسۡـَٔلُونَكَ عَن ذِي ٱلۡقَرۡنَيۡنِۖ قُلۡ سَأَتۡلُواْ عَلَيۡكُم مِّنۡهُ ذِكۡرًا"
-  }
+  "id": 2223,
+  "number": 83,
+  "verse_key": "18:83",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "ruku_number": 262,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 302,
+  "juz_number": 16,
+  "text": "وَيَسۡـَٔلُونَكَ عَن ذِي ٱلۡقَرۡنَيۡنِۖ قُلۡ سَأَتۡلُواْ عَلَيۡكُم مِّنۡهُ ذِكۡرًا"
 }

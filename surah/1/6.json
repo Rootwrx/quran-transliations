@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 6,
-    "arabic_text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ"
-  }
+  "id": 6,
+  "number": 6,
+  "verse_key": "1:6",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "ruku_number": 1,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 1,
+  "juz_number": 1,
+  "text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ"
 }

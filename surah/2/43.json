@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 43,
-    "arabic_text": "وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّٰكِعِينَ"
-  }
+  "id": 50,
+  "number": 43,
+  "verse_key": "2:43",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "ruku_number": 6,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 7,
+  "juz_number": 1,
+  "text": "وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّٰكِعِينَ"
 }

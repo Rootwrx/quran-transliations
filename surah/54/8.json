@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 8,
-    "arabic_text": "مُّهۡطِعِينَ إِلَى ٱلدَّاعِۖ يَقُولُ ٱلۡكَٰفِرُونَ هَٰذَا يَوۡمٌ عَسِرٞ"
-  }
+  "id": 4854,
+  "number": 8,
+  "verse_key": "54:8",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "ruku_number": 465,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 529,
+  "juz_number": 27,
+  "text": "مُّهۡطِعِينَ إِلَى ٱلدَّاعِۖ يَقُولُ ٱلۡكَٰفِرُونَ هَٰذَا يَوۡمٌ عَسِرٞ"
 }

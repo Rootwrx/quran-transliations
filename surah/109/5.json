@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 5,
-    "arabic_text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ"
-  }
+  "id": 6212,
+  "number": 5,
+  "verse_key": "109:5",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 553,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 603,
+  "juz_number": 30,
+  "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ"
 }

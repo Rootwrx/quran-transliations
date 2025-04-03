@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 43,
-    "arabic_text": "أَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيۡهِ وَكِيلًا"
-  }
+  "id": 2898,
+  "number": 43,
+  "verse_key": "25:43",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "ruku_number": 313,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 363,
+  "juz_number": 19,
+  "text": "أَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيۡهِ وَكِيلًا"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 42,
-    "arabic_text": "إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطَٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلۡغَاوِينَ"
-  }
+  "id": 1844,
+  "number": 42,
+  "verse_key": "15:42",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 264,
+  "juz_number": 14,
+  "text": "إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطَٰنٌ إِلَّا مَنِ ٱتَّبَعَكَ مِنَ ٱلۡغَاوِينَ"
 }

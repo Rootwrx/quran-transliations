@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 2,
-    "arabic_text": "وَٱلۡقُرۡءَانِ ٱلۡحَكِيمِ"
-  }
+  "id": 3707,
+  "number": 2,
+  "verse_key": "36:2",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 383,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 440,
+  "juz_number": 22,
+  "text": "وَٱلۡقُرۡءَانِ ٱلۡحَكِيمِ"
 }

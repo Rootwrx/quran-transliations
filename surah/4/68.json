@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 68,
-    "arabic_text": "وَلَهَدَيۡنَٰهُمۡ صِرَٰطٗا مُّسۡتَقِيمٗا"
-  }
+  "id": 561,
+  "number": 68,
+  "verse_key": "4:68",
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "ruku_number": 70,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 89,
+  "juz_number": 5,
+  "text": "وَلَهَدَيۡنَٰهُمۡ صِرَٰطٗا مُّسۡتَقِيمٗا"
 }

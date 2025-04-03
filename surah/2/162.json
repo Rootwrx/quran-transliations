@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 162,
-    "arabic_text": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنظَرُونَ"
-  }
+  "id": 169,
+  "number": 162,
+  "verse_key": "2:162",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "ruku_number": 20,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 24,
+  "juz_number": 2,
+  "text": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنظَرُونَ"
 }

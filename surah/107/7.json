@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 7,
-    "arabic_text": "وَيَمۡنَعُونَ ٱلۡمَاعُونَ"
-  }
+  "id": 6204,
+  "number": 7,
+  "verse_key": "107:7",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 551,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 602,
+  "juz_number": 30,
+  "text": "وَيَمۡنَعُونَ ٱلۡمَاعُونَ"
 }

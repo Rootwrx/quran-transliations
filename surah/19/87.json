@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 87,
-    "arabic_text": "لَّا يَمۡلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحۡمَٰنِ عَهۡدٗا"
-  }
+  "id": 2337,
+  "number": 87,
+  "verse_key": "19:87",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "ruku_number": 269,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 311,
+  "juz_number": 16,
+  "text": "لَّا يَمۡلِكُونَ ٱلشَّفَٰعَةَ إِلَّا مَنِ ٱتَّخَذَ عِندَ ٱلرَّحۡمَٰنِ عَهۡدٗا"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 21,
-    "arabic_text": "كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِيٓۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ"
-  }
+  "id": 5125,
+  "number": 21,
+  "verse_key": "58:21",
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "ruku_number": 480,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 544,
+  "juz_number": 28,
+  "text": "كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِيٓۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ"
 }

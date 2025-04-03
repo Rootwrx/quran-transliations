@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "إِذَا ٱلسَّمَآءُ ٱنشَقَّتۡ"
-  }
+  "id": 5885,
+  "number": 1,
+  "verse_key": "84:1",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "ruku_number": 528,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 589,
+  "juz_number": 30,
+  "text": "إِذَا ٱلسَّمَآءُ ٱنشَقَّتۡ"
 }

@@ -1,22 +1,69 @@
 {
-    "index": "105",
-    "name": "al-Fil",
-    "verse": {
-        "verse_0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
-        "verse_1": "أَلَمْ تَرَ كَيْفَ فَعَلَ رَبُّكَ بِأَصْحَٰبِ ٱلْفِيلِ",
-        "verse_2": "أَلَمْ يَجْعَلْ كَيْدَهُمْ فِى تَضْلِيلٍۢ",
-        "verse_3": "وَأَرْسَلَ عَلَيْهِمْ طَيْرًا أَبَابِيلَ",
-        "verse_4": "تَرْمِيهِم بِحِجَارَةٍۢ مِّن سِجِّيلٍۢ",
-        "verse_5": "فَجَعَلَهُمْ كَعَصْفٍۢ مَّأْكُولٍۭ"
+  "verses": [
+    {
+      "id": 6189,
+      "number": 1,
+      "verse_key": "105:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 601,
+      "juz_number": 30,
+      "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ"
     },
-    "count": 5,
-    "juz": [
-        {
-            "index": "30",
-            "verse": {
-                "start": "verse_1",
-                "end": "verse_5"
-            }
-        }
-    ]
+    {
+      "id": 6190,
+      "number": 2,
+      "verse_key": "105:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 601,
+      "juz_number": 30,
+      "text": "أَلَمۡ يَجۡعَلۡ كَيۡدَهُمۡ فِي تَضۡلِيلٖ"
+    },
+    {
+      "id": 6191,
+      "number": 3,
+      "verse_key": "105:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 601,
+      "juz_number": 30,
+      "text": "وَأَرۡسَلَ عَلَيۡهِمۡ طَيۡرًا أَبَابِيلَ"
+    },
+    {
+      "id": 6192,
+      "number": 4,
+      "verse_key": "105:4",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 601,
+      "juz_number": 30,
+      "text": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ"
+    },
+    {
+      "id": 6193,
+      "number": 5,
+      "verse_key": "105:5",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 549,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 601,
+      "juz_number": 30,
+      "text": "فَجَعَلَهُمۡ كَعَصۡفٖ مَّأۡكُولِۭ"
+    }
+  ]
 }

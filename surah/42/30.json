@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 30,
-    "arabic_text": "وَمَآ أَصَٰبَكُم مِّن مُّصِيبَةٖ فَبِمَا كَسَبَتۡ أَيۡدِيكُمۡ وَيَعۡفُواْ عَن كَثِيرٖ"
-  }
+  "id": 4302,
+  "number": 30,
+  "verse_key": "42:30",
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "ruku_number": 424,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 486,
+  "juz_number": 25,
+  "text": "وَمَآ أَصَٰبَكُم مِّن مُّصِيبَةٖ فَبِمَا كَسَبَتۡ أَيۡدِيكُمۡ وَيَعۡفُواْ عَن كَثِيرٖ"
 }

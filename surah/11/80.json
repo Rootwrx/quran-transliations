@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 80,
-    "arabic_text": "قَالَ لَوۡ أَنَّ لِي بِكُمۡ قُوَّةً أَوۡ ءَاوِيٓ إِلَىٰ رُكۡنٖ شَدِيدٖ"
-  }
+  "id": 1553,
+  "number": 80,
+  "verse_key": "11:80",
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "ruku_number": 189,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 230,
+  "juz_number": 12,
+  "text": "قَالَ لَوۡ أَنَّ لِي بِكُمۡ قُوَّةً أَوۡ ءَاوِيٓ إِلَىٰ رُكۡنٖ شَدِيدٖ"
 }

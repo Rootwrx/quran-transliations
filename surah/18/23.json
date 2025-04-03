@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 23,
-    "arabic_text": "وَلَا تَقُولَنَّ لِشَاْيۡءٍ إِنِّي فَاعِلٞ ذَٰلِكَ غَدًا"
-  }
+  "id": 2163,
+  "number": 23,
+  "verse_key": "18:23",
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "ruku_number": 255,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 296,
+  "juz_number": 15,
+  "text": "وَلَا تَقُولَنَّ لِشَاْيۡءٍ إِنِّي فَاعِلٞ ذَٰلِكَ غَدًا"
 }

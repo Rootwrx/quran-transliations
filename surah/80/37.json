@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 37,
-    "arabic_text": "لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُمۡ يَوۡمَئِذٖ شَأۡنٞ يُغۡنِيهِ"
-  }
+  "id": 5795,
+  "number": 37,
+  "verse_key": "80:37",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 524,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 585,
+  "juz_number": 30,
+  "text": "لِكُلِّ ٱمۡرِيٕٖ مِّنۡهُمۡ يَوۡمَئِذٖ شَأۡنٞ يُغۡنِيهِ"
 }

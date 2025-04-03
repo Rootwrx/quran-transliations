@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 9,
-    "arabic_text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ"
-  }
+  "id": 5631,
+  "number": 9,
+  "verse_key": "77:9",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 518,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 580,
+  "juz_number": 29,
+  "text": "وَإِذَا ٱلسَّمَآءُ فُرِجَتۡ"
 }

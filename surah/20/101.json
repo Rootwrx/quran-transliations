@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 101,
-    "arabic_text": "خَٰلِدِينَ فِيهِۖ وَسَآءَ لَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ حِمۡلٗا"
-  }
+  "id": 2449,
+  "number": 101,
+  "verse_key": "20:101",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "ruku_number": 274,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 319,
+  "juz_number": 16,
+  "text": "خَٰلِدِينَ فِيهِۖ وَسَآءَ لَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ حِمۡلٗا"
 }

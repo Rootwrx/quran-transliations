@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 48,
-    "arabic_text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ"
-  }
+  "id": 5670,
+  "number": 48,
+  "verse_key": "77:48",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "ruku_number": 519,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 581,
+  "juz_number": 29,
+  "text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 9,
-    "arabic_text": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا"
-  }
+  "id": 4744,
+  "number": 9,
+  "verse_key": "52:9",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 460,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 523,
+  "juz_number": 27,
+  "text": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا"
 }

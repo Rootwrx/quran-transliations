@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 36,
-    "arabic_text": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينٖ"
-  }
+  "id": 5359,
+  "number": 36,
+  "verse_key": "69:36",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 568,
+  "juz_number": 29,
+  "text": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينٖ"
 }

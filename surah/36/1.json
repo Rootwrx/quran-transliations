@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "يسٓ"
-  }
+  "id": 3706,
+  "number": 1,
+  "verse_key": "36:1",
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "ruku_number": 383,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 440,
+  "juz_number": 22,
+  "text": "يسٓ"
 }

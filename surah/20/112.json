@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 112,
-    "arabic_text": "وَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤۡمِنٞ فَلَا يَخَافُ ظُلۡمٗا وَلَا هَضۡمٗا"
-  }
+  "id": 2460,
+  "number": 112,
+  "verse_key": "20:112",
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "ruku_number": 275,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 319,
+  "juz_number": 16,
+  "text": "وَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤۡمِنٞ فَلَا يَخَافُ ظُلۡمٗا وَلَا هَضۡمٗا"
 }

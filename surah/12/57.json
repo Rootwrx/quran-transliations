@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 57,
-    "arabic_text": "وَلَأَجۡرُ ٱلۡأٓخِرَةِ خَيۡرٞ لِّلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ"
-  }
+  "id": 1653,
+  "number": 57,
+  "verse_key": "12:57",
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "ruku_number": 199,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 242,
+  "juz_number": 13,
+  "text": "وَلَأَجۡرُ ٱلۡأٓخِرَةِ خَيۡرٞ لِّلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ"
 }

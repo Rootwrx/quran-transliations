@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 13,
-    "arabic_text": "وَحَنَانٗا مِّن لَّدُنَّا وَزَكَوٰةٗۖ وَكَانَ تَقِيّٗا"
-  }
+  "id": 2263,
+  "number": 13,
+  "verse_key": "19:13",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "ruku_number": 264,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 306,
+  "juz_number": 16,
+  "text": "وَحَنَانٗا مِّن لَّدُنَّا وَزَكَوٰةٗۖ وَكَانَ تَقِيّٗا"
 }

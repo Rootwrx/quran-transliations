@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 148,
-    "arabic_text": "وَزُرُوعٖ وَنَخۡلٖ طَلۡعُهَا هَضِيمٞ"
-  }
+  "id": 3080,
+  "number": 148,
+  "verse_key": "26:148",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 323,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 373,
+  "juz_number": 19,
+  "text": "وَزُرُوعٖ وَنَخۡلٖ طَلۡعُهَا هَضِيمٞ"
 }

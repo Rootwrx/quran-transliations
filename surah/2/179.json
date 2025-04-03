@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 179,
-    "arabic_text": "وَلَكُمۡ فِي ٱلۡقِصَاصِ حَيَوٰةٞ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ لَعَلَّكُمۡ تَتَّقُونَ"
-  }
+  "id": 186,
+  "number": 179,
+  "verse_key": "2:179",
+  "hizb_number": 3,
+  "rub_el_hizb_number": 11,
+  "ruku_number": 23,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 27,
+  "juz_number": 2,
+  "text": "وَلَكُمۡ فِي ٱلۡقِصَاصِ حَيَوٰةٞ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ لَعَلَّكُمۡ تَتَّقُونَ"
 }

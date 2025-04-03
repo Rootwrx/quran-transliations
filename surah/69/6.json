@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 6,
-    "arabic_text": "وَأَمَّا عَادٞ فَأُهۡلِكُواْ بِرِيحٖ صَرۡصَرٍ عَاتِيَةٖ"
-  }
+  "id": 5329,
+  "number": 6,
+  "verse_key": "69:6",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 566,
+  "juz_number": 29,
+  "text": "وَأَمَّا عَادٞ فَأُهۡلِكُواْ بِرِيحٖ صَرۡصَرٍ عَاتِيَةٖ"
 }

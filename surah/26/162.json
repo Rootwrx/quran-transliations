@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 162,
-    "arabic_text": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ"
-  }
+  "id": 3094,
+  "number": 162,
+  "verse_key": "26:162",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "ruku_number": 324,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 374,
+  "juz_number": 19,
+  "text": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ"
 }

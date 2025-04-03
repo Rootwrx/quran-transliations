@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 15,
-    "arabic_text": "وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٖ"
-  }
+  "id": 1765,
+  "number": 15,
+  "verse_key": "14:15",
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "ruku_number": 213,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 257,
+  "juz_number": 13,
+  "text": "وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٖ"
 }

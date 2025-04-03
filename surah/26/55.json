@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 55,
-    "arabic_text": "وَإِنَّهُمۡ لَنَا لَغَآئِظُونَ"
-  }
+  "id": 2987,
+  "number": 55,
+  "verse_key": "26:55",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "ruku_number": 319,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 369,
+  "juz_number": 19,
+  "text": "وَإِنَّهُمۡ لَنَا لَغَآئِظُونَ"
 }

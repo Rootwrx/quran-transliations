@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 35,
-    "arabic_text": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيۡنَا مَزِيدٞ"
-  }
+  "id": 4665,
+  "number": 35,
+  "verse_key": "50:35",
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "ruku_number": 456,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 519,
+  "juz_number": 26,
+  "text": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيۡنَا مَزِيدٞ"
 }

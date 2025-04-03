@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 83,
-    "arabic_text": "يَعۡرِفُونَ نِعۡمَتَ ٱللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكۡثَرُهُمُ ٱلۡكَٰفِرُونَ"
-  }
+  "id": 1984,
+  "number": 83,
+  "verse_key": "16:83",
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "ruku_number": 234,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 276,
+  "juz_number": 14,
+  "text": "يَعۡرِفُونَ نِعۡمَتَ ٱللَّهِ ثُمَّ يُنكِرُونَهَا وَأَكۡثَرُهُمُ ٱلۡكَٰفِرُونَ"
 }

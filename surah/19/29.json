@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 29,
-    "arabic_text": "فَأَشَارَتۡ إِلَيۡهِۖ قَالُواْ كَيۡفَ نُكَلِّمُ مَن كَانَ فِي ٱلۡمَهۡدِ صَبِيّٗا"
-  }
+  "id": 2279,
+  "number": 29,
+  "verse_key": "19:29",
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "ruku_number": 265,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 307,
+  "juz_number": 16,
+  "text": "فَأَشَارَتۡ إِلَيۡهِۖ قَالُواْ كَيۡفَ نُكَلِّمُ مَن كَانَ فِي ٱلۡمَهۡدِ صَبِيّٗا"
 }

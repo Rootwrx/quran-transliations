@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 3,
-    "arabic_text": "فِيٓ أَدۡنَى ٱلۡأَرۡضِ وَهُم مِّنۢ بَعۡدِ غَلَبِهِمۡ سَيَغۡلِبُونَ"
-  }
+  "id": 3412,
+  "number": 3,
+  "verse_key": "30:3",
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "ruku_number": 350,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 404,
+  "juz_number": 21,
+  "text": "فِيٓ أَدۡنَى ٱلۡأَرۡضِ وَهُم مِّنۢ بَعۡدِ غَلَبِهِمۡ سَيَغۡلِبُونَ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 11,
-    "arabic_text": "إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسۡنَۢا بَعۡدَ سُوٓءٖ فَإِنِّي غَفُورٞ رَّحِيمٞ"
-  }
+  "id": 3170,
+  "number": 11,
+  "verse_key": "27:11",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "ruku_number": 327,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 377,
+  "juz_number": 19,
+  "text": "إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسۡنَۢا بَعۡدَ سُوٓءٖ فَإِنِّي غَفُورٞ رَّحِيمٞ"
 }

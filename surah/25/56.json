@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 56,
-    "arabic_text": "وَمَآ أَرۡسَلۡنَٰكَ إِلَّا مُبَشِّرٗا وَنَذِيرٗا"
-  }
+  "id": 2911,
+  "number": 56,
+  "verse_key": "25:56",
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "ruku_number": 314,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 365,
+  "juz_number": 19,
+  "text": "وَمَآ أَرۡسَلۡنَٰكَ إِلَّا مُبَشِّرٗا وَنَذِيرٗا"
 }

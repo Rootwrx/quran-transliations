@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "وَٱلۡعَصۡرِ"
-  }
+  "id": 6177,
+  "number": 1,
+  "verse_key": "103:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 547,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 601,
+  "juz_number": 30,
+  "text": "وَٱلۡعَصۡرِ"
 }

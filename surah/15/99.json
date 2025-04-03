@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 99,
-    "arabic_text": "وَٱعۡبُدۡ رَبَّكَ حَتَّىٰ يَأۡتِيَكَ ٱلۡيَقِينُ"
-  }
+  "id": 1901,
+  "number": 99,
+  "verse_key": "15:99",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 267,
+  "juz_number": 14,
+  "text": "وَٱعۡبُدۡ رَبَّكَ حَتَّىٰ يَأۡتِيَكَ ٱلۡيَقِينُ"
 }

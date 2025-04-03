@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 4,
-    "arabic_text": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ"
-  }
+  "id": 6192,
+  "number": 4,
+  "verse_key": "105:4",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 549,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 601,
+  "juz_number": 30,
+  "text": "تَرۡمِيهِم بِحِجَارَةٖ مِّن سِجِّيلٖ"
 }

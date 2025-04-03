@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 33,
-    "arabic_text": "إِنَّهُۥ كَانَ لَا يُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِيمِ"
-  }
+  "id": 5356,
+  "number": 33,
+  "verse_key": "69:33",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "ruku_number": 502,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 567,
+  "juz_number": 29,
+  "text": "إِنَّهُۥ كَانَ لَا يُؤۡمِنُ بِٱللَّهِ ٱلۡعَظِيمِ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 42,
-    "arabic_text": "مَا سَلَكَكُمۡ فِي سَقَرَ"
-  }
+  "id": 5537,
+  "number": 42,
+  "verse_key": "74:42",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 576,
+  "juz_number": 29,
+  "text": "مَا سَلَكَكُمۡ فِي سَقَرَ"
 }

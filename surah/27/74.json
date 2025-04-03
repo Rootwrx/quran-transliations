@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 74,
-    "arabic_text": "وَإِنَّ رَبَّكَ لَيَعۡلَمُ مَا تُكِنُّ صُدُورُهُمۡ وَمَا يُعۡلِنُونَ"
-  }
+  "id": 3233,
+  "number": 74,
+  "verse_key": "27:74",
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "ruku_number": 332,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 383,
+  "juz_number": 20,
+  "text": "وَإِنَّ رَبَّكَ لَيَعۡلَمُ مَا تُكِنُّ صُدُورُهُمۡ وَمَا يُعۡلِنُونَ"
 }

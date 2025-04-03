@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 189,
-    "arabic_text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ"
-  }
+  "id": 482,
+  "number": 189,
+  "verse_key": "3:189",
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "ruku_number": 60,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 75,
+  "juz_number": 4,
+  "text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ"
 }

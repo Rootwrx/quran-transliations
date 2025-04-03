@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 16,
-    "arabic_text": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ"
-  }
+  "id": 4800,
+  "number": 16,
+  "verse_key": "53:16",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 526,
+  "juz_number": 27,
+  "text": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ"
 }

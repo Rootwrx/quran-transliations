@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 45,
-    "arabic_text": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ"
-  }
+  "id": 5540,
+  "number": 45,
+  "verse_key": "74:45",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 513,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 576,
+  "juz_number": 29,
+  "text": "وَكُنَّا نَخُوضُ مَعَ ٱلۡخَآئِضِينَ"
 }

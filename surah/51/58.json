@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 58,
-    "arabic_text": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ"
-  }
+  "id": 4733,
+  "number": 58,
+  "verse_key": "51:58",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 523,
+  "juz_number": 27,
+  "text": "إِنَّ ٱللَّهَ هُوَ ٱلرَّزَّاقُ ذُو ٱلۡقُوَّةِ ٱلۡمَتِينُ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 30,
-    "arabic_text": "إِنَّكَ مَيِّتٞ وَإِنَّهُم مَّيِّتُونَ"
-  }
+  "id": 4088,
+  "number": 30,
+  "verse_key": "39:30",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "ruku_number": 400,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 461,
+  "juz_number": 23,
+  "text": "إِنَّكَ مَيِّتٞ وَإِنَّهُم مَّيِّتُونَ"
 }

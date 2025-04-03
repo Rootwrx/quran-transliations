@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 31,
-    "arabic_text": "إِلَّآ إِبۡلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ"
-  }
+  "id": 1833,
+  "number": 31,
+  "verse_key": "15:31",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 220,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 263,
+  "juz_number": 14,
+  "text": "إِلَّآ إِبۡلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ"
 }

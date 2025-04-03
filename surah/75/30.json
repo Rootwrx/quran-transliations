@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 30,
-    "arabic_text": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمَسَاقُ"
-  }
+  "id": 5581,
+  "number": 30,
+  "verse_key": "75:30",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 578,
+  "juz_number": 29,
+  "text": "إِلَىٰ رَبِّكَ يَوۡمَئِذٍ ٱلۡمَسَاقُ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 53,
-    "arabic_text": "وَأَنجَيۡنَا ٱلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ"
-  }
+  "id": 3212,
+  "number": 53,
+  "verse_key": "27:53",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "ruku_number": 330,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 381,
+  "juz_number": 19,
+  "text": "وَأَنجَيۡنَا ٱلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ"
 }

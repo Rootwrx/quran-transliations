@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 16,
-    "arabic_text": "لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ"
-  }
+  "id": 5567,
+  "number": 16,
+  "verse_key": "75:16",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "ruku_number": 514,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 577,
+  "juz_number": 29,
+  "text": "لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ"
 }

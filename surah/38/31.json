@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 31,
-    "arabic_text": "إِذۡ عُرِضَ عَلَيۡهِ بِٱلۡعَشِيِّ ٱلصَّٰفِنَٰتُ ٱلۡجِيَادُ"
-  }
+  "id": 4001,
+  "number": 31,
+  "verse_key": "38:31",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 395,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 455,
+  "juz_number": 23,
+  "text": "إِذۡ عُرِضَ عَلَيۡهِ بِٱلۡعَشِيِّ ٱلصَّٰفِنَٰتُ ٱلۡجِيَادُ"
 }

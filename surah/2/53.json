@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 53,
-    "arabic_text": "وَإِذۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَٱلۡفُرۡقَانَ لَعَلَّكُمۡ تَهۡتَدُونَ"
-  }
+  "id": 60,
+  "number": 53,
+  "verse_key": "2:53",
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "ruku_number": 7,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 8,
+  "juz_number": 1,
+  "text": "وَإِذۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَٱلۡفُرۡقَانَ لَعَلَّكُمۡ تَهۡتَدُونَ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 43,
-    "arabic_text": "سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَقُولُونَ عُلُوّٗا كَبِيرٗا"
-  }
+  "id": 2072,
+  "number": 43,
+  "verse_key": "17:43",
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "ruku_number": 244,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 286,
+  "juz_number": 15,
+  "text": "سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَقُولُونَ عُلُوّٗا كَبِيرٗا"
 }

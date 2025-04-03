@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 220,
-    "arabic_text": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ"
-  }
+  "id": 3152,
+  "number": 220,
+  "verse_key": "26:220",
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "ruku_number": 326,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 376,
+  "juz_number": 19,
+  "text": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ"
 }

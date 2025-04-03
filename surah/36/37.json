@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 37,
-    "arabic_text": "وَءَايَةٞ لَّهُمُ ٱلَّيۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُونَ"
-  }
+  "id": 3742,
+  "number": 37,
+  "verse_key": "36:37",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 385,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 442,
+  "juz_number": 23,
+  "text": "وَءَايَةٞ لَّهُمُ ٱلَّيۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُونَ"
 }

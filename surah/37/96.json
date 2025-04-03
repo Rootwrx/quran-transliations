@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 96,
-    "arabic_text": "وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ"
-  }
+  "id": 3884,
+  "number": 96,
+  "verse_key": "37:96",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "ruku_number": 390,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 449,
+  "juz_number": 23,
+  "text": "وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ"
 }

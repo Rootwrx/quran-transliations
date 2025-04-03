@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 21,
-    "arabic_text": "ثُمَّ نَظَرَ"
-  }
+  "id": 5516,
+  "number": 21,
+  "verse_key": "74:21",
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "ruku_number": 512,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 576,
+  "juz_number": 29,
+  "text": "ثُمَّ نَظَرَ"
 }

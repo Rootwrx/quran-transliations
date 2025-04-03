@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 34,
-    "arabic_text": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ يُحَافِظُونَ"
-  }
+  "id": 5409,
+  "number": 34,
+  "verse_key": "70:34",
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "ruku_number": 504,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 569,
+  "juz_number": 29,
+  "text": "وَٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ يُحَافِظُونَ"
 }

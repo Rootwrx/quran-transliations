@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 180,
-    "arabic_text": "سُبۡحَٰنَ رَبِّكَ رَبِّ ٱلۡعِزَّةِ عَمَّا يَصِفُونَ"
-  }
+  "id": 3968,
+  "number": 180,
+  "verse_key": "37:180",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "ruku_number": 392,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 452,
+  "juz_number": 23,
+  "text": "سُبۡحَٰنَ رَبِّكَ رَبِّ ٱلۡعِزَّةِ عَمَّا يَصِفُونَ"
 }

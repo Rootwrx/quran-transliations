@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 10,
-    "arabic_text": "لَقَدۡ أَنزَلۡنَآ إِلَيۡكُمۡ كِتَٰبٗا فِيهِ ذِكۡرُكُمۡۚ أَفَلَا تَعۡقِلُونَ"
-  }
+  "id": 2493,
+  "number": 10,
+  "verse_key": "21:10",
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "ruku_number": 278,
+  "manzil_number": 4,
+  "sajdah_number": null,
+  "page_number": 322,
+  "juz_number": 17,
+  "text": "لَقَدۡ أَنزَلۡنَآ إِلَيۡكُمۡ كِتَٰبٗا فِيهِ ذِكۡرُكُمۡۚ أَفَلَا تَعۡقِلُونَ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 131,
-    "arabic_text": "إِذۡ قَالَ لَهُۥ رَبُّهُۥٓ أَسۡلِمۡۖ قَالَ أَسۡلَمۡتُ لِرَبِّ ٱلۡعَٰلَمِينَ"
-  }
+  "id": 138,
+  "number": 131,
+  "verse_key": "2:131",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "ruku_number": 17,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 20,
+  "juz_number": 1,
+  "text": "إِذۡ قَالَ لَهُۥ رَبُّهُۥٓ أَسۡلِمۡۖ قَالَ أَسۡلَمۡتُ لِرَبِّ ٱلۡعَٰلَمِينَ"
 }

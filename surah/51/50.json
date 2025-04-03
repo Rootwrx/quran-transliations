@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 50,
-    "arabic_text": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ"
-  }
+  "id": 4725,
+  "number": 50,
+  "verse_key": "51:50",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "ruku_number": 459,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 522,
+  "juz_number": 27,
+  "text": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ"
 }

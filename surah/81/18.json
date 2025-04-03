@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 18,
-    "arabic_text": "وَٱلصُّبۡحِ إِذَا تَنَفَّسَ"
-  }
+  "id": 5818,
+  "number": 18,
+  "verse_key": "81:18",
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "ruku_number": 525,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 586,
+  "juz_number": 30,
+  "text": "وَٱلصُّبۡحِ إِذَا تَنَفَّسَ"
 }

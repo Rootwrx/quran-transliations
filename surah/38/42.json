@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 42,
-    "arabic_text": "ٱرۡكُضۡ بِرِجۡلِكَۖ هَٰذَا مُغۡتَسَلُۢ بَارِدٞ وَشَرَابٞ"
-  }
+  "id": 4012,
+  "number": 42,
+  "verse_key": "38:42",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 455,
+  "juz_number": 23,
+  "text": "ٱرۡكُضۡ بِرِجۡلِكَۖ هَٰذَا مُغۡتَسَلُۢ بَارِدٞ وَشَرَابٞ"
 }

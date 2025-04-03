@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 138,
-    "arabic_text": "صِبۡغَةَ ٱللَّهِ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ صِبۡغَةٗۖ وَنَحۡنُ لَهُۥ عَٰبِدُونَ"
-  }
+  "id": 145,
+  "number": 138,
+  "verse_key": "2:138",
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "ruku_number": 17,
+  "manzil_number": 1,
+  "sajdah_number": null,
+  "page_number": 21,
+  "juz_number": 1,
+  "text": "صِبۡغَةَ ٱللَّهِ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ صِبۡغَةٗۖ وَنَحۡنُ لَهُۥ عَٰبِدُونَ"
 }

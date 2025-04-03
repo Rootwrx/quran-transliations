@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "وَٱلنَّجۡمِ إِذَا هَوَىٰ"
-  }
+  "id": 4785,
+  "number": 1,
+  "verse_key": "53:1",
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "ruku_number": 462,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 526,
+  "juz_number": 27,
+  "text": "وَٱلنَّجۡمِ إِذَا هَوَىٰ"
 }

@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 59,
-    "arabic_text": "هَٰذَا فَوۡجٞ مُّقۡتَحِمٞ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ صَالُواْ ٱلنَّارِ"
-  }
+  "id": 4029,
+  "number": 59,
+  "verse_key": "38:59",
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "ruku_number": 396,
+  "manzil_number": 6,
+  "sajdah_number": null,
+  "page_number": 456,
+  "juz_number": 23,
+  "text": "هَٰذَا فَوۡجٞ مُّقۡتَحِمٞ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ صَالُواْ ٱلنَّارِ"
 }

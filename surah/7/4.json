@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 4,
-    "arabic_text": "وَكَم مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَا فَجَآءَهَا بَأۡسُنَا بَيَٰتًا أَوۡ هُمۡ قَآئِلُونَ"
-  }
+  "id": 958,
+  "number": 4,
+  "verse_key": "7:4",
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "ruku_number": 122,
+  "manzil_number": 2,
+  "sajdah_number": null,
+  "page_number": 151,
+  "juz_number": 8,
+  "text": "وَكَم مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَا فَجَآءَهَا بَأۡسُنَا بَيَٰتًا أَوۡ هُمۡ قَآئِلُونَ"
 }

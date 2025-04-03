@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 29,
-    "arabic_text": "إِن كَانَتۡ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ فَإِذَا هُمۡ خَٰمِدُونَ"
-  }
+  "id": 3734,
+  "number": 29,
+  "verse_key": "36:29",
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "ruku_number": 384,
+  "manzil_number": 5,
+  "sajdah_number": null,
+  "page_number": 442,
+  "juz_number": 23,
+  "text": "إِن كَانَتۡ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ فَإِذَا هُمۡ خَٰمِدُونَ"
 }

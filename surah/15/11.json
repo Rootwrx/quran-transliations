@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 11,
-    "arabic_text": "وَمَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ"
-  }
+  "id": 1813,
+  "number": 11,
+  "verse_key": "15:11",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "ruku_number": 218,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 262,
+  "juz_number": 14,
+  "text": "وَمَا يَأۡتِيهِم مِّن رَّسُولٍ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ"
 }

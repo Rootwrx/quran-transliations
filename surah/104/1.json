@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 1,
-    "arabic_text": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ"
-  }
+  "id": 6180,
+  "number": 1,
+  "verse_key": "104:1",
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "ruku_number": 548,
+  "manzil_number": 7,
+  "sajdah_number": null,
+  "page_number": 601,
+  "juz_number": 30,
+  "text": "وَيۡلٞ لِّكُلِّ هُمَزَةٖ لُّمَزَةٍ"
 }

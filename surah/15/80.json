@@ -1,6 +1,13 @@
 {
-  "ayah": {
-    "number": 80,
-    "arabic_text": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ"
-  }
+  "id": 1882,
+  "number": 80,
+  "verse_key": "15:80",
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "ruku_number": 223,
+  "manzil_number": 3,
+  "sajdah_number": null,
+  "page_number": 266,
+  "juz_number": 14,
+  "text": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ"
 }
