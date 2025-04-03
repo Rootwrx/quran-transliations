@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4401",
-    "sura": "43",
-    "aya": "76",
-    "arabic_text": "وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُواْ هُمُ ٱلظَّٰلِمِينَ",
-    "translation": "(76) And We did not wrong them, but it was they who were the wrongdoers.",
-    "footnotes": ""
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 495,
+  "verse_key": "43:76",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُواْ هُمُ ٱلظَّٰلِمِينَ",
+  "translation": "(76) And We did not wrong them, but it was they who were the wrongdoers.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2806",
-    "sura": "24",
-    "aya": "15",
-    "arabic_text": "إِذۡ تَلَقَّوۡنَهُۥ بِأَلۡسِنَتِكُمۡ وَتَقُولُونَ بِأَفۡوَاهِكُم مَّا لَيۡسَ لَكُم بِهِۦ عِلۡمٞ وَتَحۡسَبُونَهُۥ هَيِّنٗا وَهُوَ عِندَ ٱللَّهِ عَظِيمٞ",
-    "translation": "15. Markaad ku gaddonteen (qadafkaa) carrabyadiinna8, oo aad ka laheydeen afafkiinnna wax aydaan ogeyn, waxaadna mooddeen arrin fudud, halka Alle agtiis ay aheyd wax daran.",
-    "footnotes": "8. Halkaad ku maqli lahaydeen dhegahiinna macnaha waa idinkoo aan ka fekerin waxa aad maqasheen oo u fiirsan bal u degdegay inaad iska sheegsheegtaan warkaa been abuurka ah idinkoo aan tixgelin waxa aad leedihiin oo ku hadleysaan."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 351,
+  "verse_key": "24:15",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 140,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ تَلَقَّوۡنَهُۥ بِأَلۡسِنَتِكُمۡ وَتَقُولُونَ بِأَفۡوَاهِكُم مَّا لَيۡسَ لَكُم بِهِۦ عِلۡمٞ وَتَحۡسَبُونَهُۥ هَيِّنٗا وَهُوَ عِندَ ٱللَّهِ عَظِيمٞ",
+  "translation": "15. Markaad ku gaddonteen (qadafkaa) carrabyadiinna8, oo aad ka laheydeen afafkiinnna wax aydaan ogeyn, waxaadna mooddeen arrin fudud, halka Alle agtiis ay aheyd wax daran.",
+  "footnotes": "8. Halkaad ku maqli lahaydeen dhegahiinna macnaha waa idinkoo aan ka fekerin waxa aad maqasheen oo u fiirsan bal u degdegay inaad iska sheegsheegtaan warkaa been abuurka ah idinkoo aan tixgelin waxa aad leedihiin oo ku hadleysaan."
 }

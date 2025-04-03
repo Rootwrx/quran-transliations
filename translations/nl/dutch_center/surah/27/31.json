@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3190",
-    "sura": "27",
-    "aya": "31",
-    "arabic_text": "أَلَّا تَعۡلُواْ عَلَيَّ وَأۡتُونِي مُسۡلِمِينَ",
-    "translation": "31. Wees niet hoogmoedig tegenover mij, maar kom tot mij als moslims (dus zij die zich overgeven aan zijn wil).\"",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 379,
+  "verse_key": "27:31",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَّا تَعۡلُواْ عَلَيَّ وَأۡتُونِي مُسۡلِمِينَ",
+  "translation": "31. Wees niet hoogmoedig tegenover mij, maar kom tot mij als moslims (dus zij die zich overgeven aan zijn wil).\"",
+  "footnotes": ""
 }

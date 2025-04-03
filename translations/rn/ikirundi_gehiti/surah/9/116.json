@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1351",
-    "sura": "9",
-    "aya": "116",
-    "arabic_text": "إِنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يُحۡيِۦ وَيُمِيتُۚ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٖ",
-    "translation": "Mu vy’ukuri, Imana Allah ni Nyenubwami Igaba Ikaganza amajuru n’isi n’ibiri muri vyo [34]. Itanga ubuzima Ikanabwaka. Bantu mugabitaniriza Imana Allah! Nimumenye ko ata n’umwe mworonka atari Imana Allah yobahagarikira akabatunganiriza ivyanyu, eka mbere nta n’uwobatabara akabakingira ibihano vyayo.",
-    "footnotes": "[34] Ni na co gituma Imana Allah Idakwiye kubangikanywa mu kurema kwayo, mw’itunganiriza ry’ibiremwa, mu bumana bwayo no mu gushinga amateka kwayo."
-  }
+  "id": 116,
+  "verse_number": 116,
+  "page_number": 205,
+  "verse_key": "9:116",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 82,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يُحۡيِۦ وَيُمِيتُۚ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٖ",
+  "translation": "Mu vy’ukuri, Imana Allah ni Nyenubwami Igaba Ikaganza amajuru n’isi n’ibiri muri vyo [34]. Itanga ubuzima Ikanabwaka. Bantu mugabitaniriza Imana Allah! Nimumenye ko ata n’umwe mworonka atari Imana Allah yobahagarikira akabatunganiriza ivyanyu, eka mbere nta n’uwobatabara akabakingira ibihano vyayo.",
+  "footnotes": "[34] Ni na co gituma Imana Allah Idakwiye kubangikanywa mu kurema kwayo, mw’itunganiriza ry’ibiremwa, mu bumana bwayo no mu gushinga amateka kwayo."
 }

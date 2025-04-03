@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3503",
-    "sura": "31",
-    "aya": "34",
-    "arabic_text": "إِنَّ ٱللَّهَ عِندَهُۥ عِلۡمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلۡغَيۡثَ وَيَعۡلَمُ مَا فِي ٱلۡأَرۡحَامِۖ وَمَا تَدۡرِي نَفۡسٞ مَّاذَا تَكۡسِبُ غَدٗاۖ وَمَا تَدۡرِي نَفۡسُۢ بِأَيِّ أَرۡضٖ تَمُوتُۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرُۢ",
-    "translation": "34. Hubaal Alle Keliya baa Og waqtiga Saacadda (Qiyaame dhaceyso), oo soo dejiya roobka, Wuxuu Og yahay waxa ku jira ilma galeennada9. Nafina ma oga waxay mudan berri10, nafina ma oga dhulkee bay ku dhiman. Hubaal Alle waa wax kasta Oge, Xog Ogaal ah (Xeel  Dheer)11.",
-    "footnotes": "9. Wuxuu Ogsoon yahay waxa kasta oo ku saabsan ilmahaa yar hadday tahay markaasi iyo aayaha dambe waxa uu noqon. \n10. Dadku ma hubaan waxay fali doonaan berritoole ama ay kasban doonaan, iyadoo sidaas tahay waa inay dadaalaan oo doontaan waxa anfacaya if iyo Aakhiro. \n11. Nabigu s.c.w. wuxuu yidhi: “Shan Alle Keliya uun baa ogsoon:  waqtiga Saacadda Qiyaame, Roobka kolkuu iman, waxa uurka ku jira, nafi waxay mudan waqtiga soo socda iyo nafi meel ay ku dhiman.”"
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 414,
+  "verse_key": "31:34",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ عِندَهُۥ عِلۡمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلۡغَيۡثَ وَيَعۡلَمُ مَا فِي ٱلۡأَرۡحَامِۖ وَمَا تَدۡرِي نَفۡسٞ مَّاذَا تَكۡسِبُ غَدٗاۖ وَمَا تَدۡرِي نَفۡسُۢ بِأَيِّ أَرۡضٖ تَمُوتُۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرُۢ",
+  "translation": "34. Hubaal Alle Keliya baa Og waqtiga Saacadda (Qiyaame dhaceyso), oo soo dejiya roobka, Wuxuu Og yahay waxa ku jira ilma galeennada9. Nafina ma oga waxay mudan berri10, nafina ma oga dhulkee bay ku dhiman. Hubaal Alle waa wax kasta Oge, Xog Ogaal ah (Xeel  Dheer)11.",
+  "footnotes": "9. Wuxuu Ogsoon yahay waxa kasta oo ku saabsan ilmahaa yar hadday tahay markaasi iyo aayaha dambe waxa uu noqon. \n10. Dadku ma hubaan waxay fali doonaan berritoole ama ay kasban doonaan, iyadoo sidaas tahay waa inay dadaalaan oo doontaan waxa anfacaya if iyo Aakhiro. \n11. Nabigu s.c.w. wuxuu yidhi: “Shan Alle Keliya uun baa ogsoon:  waqtiga Saacadda Qiyaame, Roobka kolkuu iman, waxa uurka ku jira, nafi waxay mudan waqtiga soo socda iyo nafi meel ay ku dhiman.”"
 }

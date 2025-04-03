@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2394",
-    "sura": "20",
-    "aya": "46",
-    "arabic_text": "قَالَ لَا تَخَافَآۖ إِنَّنِي مَعَكُمَآ أَسۡمَعُ وَأَرَىٰ",
-    "translation": "Imana Allah Ica Ibwira Musa na Haruna Iti: “Ntimutinye Firawuni namba; mu vy’ukuri, Jewe Allah Ndi kumwe na mwe, Ndumva ivyo muvuga kandi Ndabona n’ivyo mukora;",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 314,
+  "verse_key": "20:46",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَا تَخَافَآۖ إِنَّنِي مَعَكُمَآ أَسۡمَعُ وَأَرَىٰ",
+  "translation": "Imana Allah Ica Ibwira Musa na Haruna Iti: “Ntimutinye Firawuni namba; mu vy’ukuri, Jewe Allah Ndi kumwe na mwe, Ndumva ivyo muvuga kandi Ndabona n’ivyo mukora;",
+  "footnotes": ""
 }

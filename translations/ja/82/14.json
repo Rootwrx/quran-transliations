@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5843",
-    "sura": "82",
-    "aya": "14",
-    "arabic_text": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
-    "translation": "そして本当に、放逸な者[1]たちは、必ずや火獄の中に。",
-    "footnotes": "[1]　これはアッラー*と人々への義務の遂行を、怠（おこた）っていた者（前掲書、同頁参照）。"
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 587,
+  "verse_key": "82:14",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
+  "translation": "そして本当に、放逸な者[1]たちは、必ずや火獄の中に。",
+  "footnotes": "[1]　これはアッラー*と人々への義務の遂行を、怠（おこた）っていた者（前掲書、同頁参照）。"
 }

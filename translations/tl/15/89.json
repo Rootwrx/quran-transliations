@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1891",
-    "sura": "15",
-    "aya": "89",
-    "arabic_text": "وَقُلۡ إِنِّيٓ أَنَا ٱلنَّذِيرُ ٱلۡمُبِينُ",
-    "translation": "magsabi ka: “Tunay na ako mismo ay ang mapagbabalang malinaw [ng pagdursa]”",
-    "footnotes": ""
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 266,
+  "verse_key": "15:89",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُلۡ إِنِّيٓ أَنَا ٱلنَّذِيرُ ٱلۡمُبِينُ",
+  "translation": "magsabi ka: “Tunay na ako mismo ay ang mapagbabalang malinaw [ng pagdursa]”",
+  "footnotes": ""
 }

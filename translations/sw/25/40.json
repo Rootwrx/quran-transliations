@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2895",
-    "sura": "25",
-    "aya": "40",
-    "arabic_text": "وَلَقَدۡ أَتَوۡاْ عَلَى ٱلۡقَرۡيَةِ ٱلَّتِيٓ أُمۡطِرَتۡ مَطَرَ ٱلسَّوۡءِۚ أَفَلَمۡ يَكُونُواْ يَرَوۡنَهَاۚ بَلۡ كَانُواْ لَا يَرۡجُونَ نُشُورٗا",
-    "translation": "Na kwa yakini wao wanafika kwenye nchi ilio teremshiwa mvua mbaya. Basi, je, hawakuwa wakiiona? Bali walikuwa hawataraji kufufuliwa.",
-    "footnotes": "Na hawa Makureshi katika safari zao za kwenda Sham wanapita kwenye mji wa kaumu Lut'i, tulio unyeshea mvua ya shari na ovu kabisa, nayo ni mawe ya Motoni. Je! Hawauoni mji huo wakawaidhika kwa yaliyo wafika watu wake? Hakika wao wanauona huo, lakini si kwa macho ya kuwaidhika na kuzingatia. Kwani hawaamini ahadi (za Mwenyezi Mungu) wala kufufuliwa. Wala hawataraji kuwa ipo siku watakuja fufuliwa kwa ajili ya hisabu."
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 363,
+  "verse_key": "25:40",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَتَوۡاْ عَلَى ٱلۡقَرۡيَةِ ٱلَّتِيٓ أُمۡطِرَتۡ مَطَرَ ٱلسَّوۡءِۚ أَفَلَمۡ يَكُونُواْ يَرَوۡنَهَاۚ بَلۡ كَانُواْ لَا يَرۡجُونَ نُشُورٗا",
+  "translation": "Na kwa yakini wao wanafika kwenye nchi ilio teremshiwa mvua mbaya. Basi, je, hawakuwa wakiiona? Bali walikuwa hawataraji kufufuliwa.",
+  "footnotes": "Na hawa Makureshi katika safari zao za kwenda Sham wanapita kwenye mji wa kaumu Lut'i, tulio unyeshea mvua ya shari na ovu kabisa, nayo ni mawe ya Motoni. Je! Hawauoni mji huo wakawaidhika kwa yaliyo wafika watu wake? Hakika wao wanauona huo, lakini si kwa macho ya kuwaidhika na kuzingatia. Kwani hawaamini ahadi (za Mwenyezi Mungu) wala kufufuliwa. Wala hawataraji kuwa ipo siku watakuja fufuliwa kwa ajili ya hisabu."
 }

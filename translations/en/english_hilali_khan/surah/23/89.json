@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2762",
-    "sura": "23",
-    "aya": "89",
-    "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ فَأَنَّىٰ تُسۡحَرُونَ",
-    "translation": " 89. They will say: \"(All that belongs) to Allâh.\" Say: \"How then are you deceived and turn away from the truth?\"",
-    "footnotes": ""
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 347,
+  "verse_key": "23:89",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ فَأَنَّىٰ تُسۡحَرُونَ",
+  "translation": " 89. They will say: \"(All that belongs) to Allâh.\" Say: \"How then are you deceived and turn away from the truth?\"",
+  "footnotes": ""
 }

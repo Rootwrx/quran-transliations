@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2634",
-    "sura": "22",
-    "aya": "39",
-    "arabic_text": "أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمۡ ظُلِمُواْۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصۡرِهِمۡ لَقَدِيرٌ",
-    "translation": "39. Il a été autorisé à ceux qui sont combattus (de se défendre), pour avoir été lésés. Allah est Infiniment Capable de les faire triompher,",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 337,
+  "verse_key": "22:39",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمۡ ظُلِمُواْۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصۡرِهِمۡ لَقَدِيرٌ",
+  "translation": "39. Il a été autorisé à ceux qui sont combattus (de se défendre), pour avoir été lésés. Allah est Infiniment Capable de les faire triompher,",
+  "footnotes": ""
 }

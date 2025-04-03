@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4322",
-    "sura": "42",
-    "aya": "50",
-    "arabic_text": "أَوۡ يُزَوِّجُهُمۡ ذُكۡرَانٗا وَإِنَٰثٗاۖ وَيَجۡعَلُ مَن يَشَآءُ عَقِيمًاۚ إِنَّهُۥ عَلِيمٞ قَدِيرٞ",
-    "translation": "Hoặc Ngài (muốn) ban cả hai, trai và gái (cho ai là tùy ý Ngài), và làm cho ai đó hiếm muộn cũng tùy ý Ngài (không ai có quyền can thiệp). Quả thật, Ngài là Đấng Toàn Tri, Đấng Toàn Năng.",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 488,
+  "verse_key": "42:50",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ يُزَوِّجُهُمۡ ذُكۡرَانٗا وَإِنَٰثٗاۖ وَيَجۡعَلُ مَن يَشَآءُ عَقِيمًاۚ إِنَّهُۥ عَلِيمٞ قَدِيرٞ",
+  "translation": "Hoặc Ngài (muốn) ban cả hai, trai và gái (cho ai là tùy ý Ngài), và làm cho ai đó hiếm muộn cũng tùy ý Ngài (không ai có quyền can thiệp). Quả thật, Ngài là Đấng Toàn Tri, Đấng Toàn Năng.",
+  "footnotes": ""
 }

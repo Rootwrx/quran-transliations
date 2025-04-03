@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3277",
-    "sura": "28",
-    "aya": "25",
-    "arabic_text": "فَجَآءَتۡهُ إِحۡدَىٰهُمَا تَمۡشِي عَلَى ٱسۡتِحۡيَآءٖ قَالَتۡ إِنَّ أَبِي يَدۡعُوكَ لِيَجۡزِيَكَ أَجۡرَ مَا سَقَيۡتَ لَنَاۚ فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيۡهِ ٱلۡقَصَصَ قَالَ لَا تَخَفۡۖ نَجَوۡتَ مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
-    "translation": "(25) Then one of the two women came to him walking with shyness. She said, \"Indeed, my father invites you that he may reward you for having watered for us.\" So when he came to him[1099] and related to him the story, he said, \"Fear not. You have escaped from the wrongdoing people.\"",
-    "footnotes": "[1099]- Prophet Shuʿayb, the father of the two women."
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 388,
+  "verse_key": "28:25",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَجَآءَتۡهُ إِحۡدَىٰهُمَا تَمۡشِي عَلَى ٱسۡتِحۡيَآءٖ قَالَتۡ إِنَّ أَبِي يَدۡعُوكَ لِيَجۡزِيَكَ أَجۡرَ مَا سَقَيۡتَ لَنَاۚ فَلَمَّا جَآءَهُۥ وَقَصَّ عَلَيۡهِ ٱلۡقَصَصَ قَالَ لَا تَخَفۡۖ نَجَوۡتَ مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+  "translation": "(25) Then one of the two women came to him walking with shyness. She said, \"Indeed, my father invites you that he may reward you for having watered for us.\" So when he came to him[1099] and related to him the story, he said, \"Fear not. You have escaped from the wrongdoing people.\"",
+  "footnotes": "[1099]- Prophet Shuʿayb, the father of the two women."
 }

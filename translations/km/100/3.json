@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6149",
-    "sura": "100",
-    "aya": "3",
-    "arabic_text": "فَٱلۡمُغِيرَٰتِ صُبۡحٗا",
-    "translation": "និងសត្វសេះដែលវាបោលសម្រុកទៅខ្មាំងសត្រូវទាំងព្រឹក ព្រលឹម។",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 599,
+  "verse_key": "100:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱلۡمُغِيرَٰتِ صُبۡحٗا",
+  "translation": "និងសត្វសេះដែលវាបោលសម្រុកទៅខ្មាំងសត្រូវទាំងព្រឹក ព្រលឹម។",
+  "footnotes": ""
 }

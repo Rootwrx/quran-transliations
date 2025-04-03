@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5483",
-    "sura": "73",
-    "aya": "8",
-    "arabic_text": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَيۡهِ تَبۡتِيلٗا",
-    "translation": "（夜か昼かを問わず、）あなたの主*の御名を唱念し、かれ（の崇拝*）に完全に専念せよ。",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 574,
+  "verse_key": "73:8",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرِ ٱسۡمَ رَبِّكَ وَتَبَتَّلۡ إِلَيۡهِ تَبۡتِيلٗا",
+  "translation": "（夜か昼かを問わず、）あなたの主*の御名を唱念し、かれ（の崇拝*）に完全に専念せよ。",
+  "footnotes": ""
 }

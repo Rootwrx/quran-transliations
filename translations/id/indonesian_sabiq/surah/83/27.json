@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5875",
-    "sura": "83",
-    "aya": "27",
-    "arabic_text": "وَمِزَاجُهُۥ مِن تَسۡنِيمٍ",
-    "translation": "27. Dan campurannya dari tasnīm,",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 588,
+  "verse_key": "83:27",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِزَاجُهُۥ مِن تَسۡنِيمٍ",
+  "translation": "27. Dan campurannya dari tasnīm,",
+  "footnotes": ""
 }

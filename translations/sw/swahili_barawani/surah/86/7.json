@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5938",
-    "sura": "86",
-    "aya": "7",
-    "arabic_text": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ",
-    "translation": "Yatokayo baina ya mifupa ya mgongo na mbavu.",
-    "footnotes": "Maji haya yanatoka baina ya uti wa mgongo na mbavu za mwanamume na mwanamke. S'ULB ni sehemu za uti wa mgongo; na TARAAIB ni mafupa ya vifua, yaani mbavu. Masomo ya watoto wanapo kuwa ndani ya matumbo ya mama zao (Embryology). yamedhihirisha kuwa viini vya vyombo vya uzazi na mkojo katika mtoto ndani ya tumbo la mama yake vinadhihiri baina ya khalaya (cells) za mishipa itakayo kuwa mafupa ya uti wa mgongo, na baina ya khalaya zitakazo kuwa mafupa ya kifua. Mafigo hubakia pahala pake, na kokwa huteremka kwenye pahala pake pa kawaida katika pumbu wakati wa kuzaliwa. Na juu ya kuteremka kokwa chini mishipa inayo inywesha damu maisha yake yote inatokana na mishipa ya mafigo. Hali kadhaalika mishipa ya Navo inayo peleka kuhisi na ikasaidia kuzalisha vitu vya uhai na yaliyo khusiana na hayo kama maji yanayo toka kwenye mshipa wa kifua wa kumi unao tokana na ubongo wa uti wa mgongo kwenye kipingili cha kumi na kumi na moja. Yaliyo wazi kutokana na hayo ni kwamba vyombo vya uzazi na vinavyo lisha vyombo hivyo, na vyombo vya damu, vipo katika kiwiliwili baina ya uti wa mgongo na mbavu."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 591,
+  "verse_key": "86:7",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ",
+  "translation": "Yatokayo baina ya mifupa ya mgongo na mbavu.",
+  "footnotes": "Maji haya yanatoka baina ya uti wa mgongo na mbavu za mwanamume na mwanamke. S'ULB ni sehemu za uti wa mgongo; na TARAAIB ni mafupa ya vifua, yaani mbavu. Masomo ya watoto wanapo kuwa ndani ya matumbo ya mama zao (Embryology). yamedhihirisha kuwa viini vya vyombo vya uzazi na mkojo katika mtoto ndani ya tumbo la mama yake vinadhihiri baina ya khalaya (cells) za mishipa itakayo kuwa mafupa ya uti wa mgongo, na baina ya khalaya zitakazo kuwa mafupa ya kifua. Mafigo hubakia pahala pake, na kokwa huteremka kwenye pahala pake pa kawaida katika pumbu wakati wa kuzaliwa. Na juu ya kuteremka kokwa chini mishipa inayo inywesha damu maisha yake yote inatokana na mishipa ya mafigo. Hali kadhaalika mishipa ya Navo inayo peleka kuhisi na ikasaidia kuzalisha vitu vya uhai na yaliyo khusiana na hayo kama maji yanayo toka kwenye mshipa wa kifua wa kumi unao tokana na ubongo wa uti wa mgongo kwenye kipingili cha kumi na kumi na moja. Yaliyo wazi kutokana na hayo ni kwamba vyombo vya uzazi na vinavyo lisha vyombo hivyo, na vyombo vya damu, vipo katika kiwiliwili baina ya uti wa mgongo na mbavu."
 }

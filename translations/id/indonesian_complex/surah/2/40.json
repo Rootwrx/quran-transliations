@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "47",
-    "sura": "2",
-    "aya": "40",
-    "arabic_text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَوۡفُواْ بِعَهۡدِيٓ أُوفِ بِعَهۡدِكُمۡ وَإِيَّٰيَ فَٱرۡهَبُونِ",
-    "translation": "Hai Bani Isrā`īl 41, ingatlah akan nikmat-Ku yang telah Aku anugerahkan kepadamu, dan penuhilah janjimu kepada-Ku42, niscaya Aku penuhi janji-Ku kepadamu; dan hanya kepada-Ku-lah kamu harus takut (tunduk).",
-    "footnotes": "41.  Isrā`īl  adalah sebutan bagi Nabi Ya`qūb  ‘Alaihissalām.  Bani Isrā`īl  adalah turunan Nabi Ya`qūb ‘Alaihissalām; sekarang terkenal dengan bangsa Yahudi. \n42.  Janji Bani Isrā`īl  kepada Tuhan ialah bahwa mereka akan menyembah Allah Subḥānahu wa Ta‘ālā dan tidak mempersekutukan-Nya dengan sesuatu apa pun, serta beriman kepada rasul-rasul-Nya di antaranya Nabi Muhammad Ṣallallāhu ʻAlaihi wa Sallam sebagaimana yang tersebut di dalam Taurat.\n"
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 7,
+  "verse_key": "2:40",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَوۡفُواْ بِعَهۡدِيٓ أُوفِ بِعَهۡدِكُمۡ وَإِيَّٰيَ فَٱرۡهَبُونِ",
+  "translation": "Hai Bani Isrā`īl 41, ingatlah akan nikmat-Ku yang telah Aku anugerahkan kepadamu, dan penuhilah janjimu kepada-Ku42, niscaya Aku penuhi janji-Ku kepadamu; dan hanya kepada-Ku-lah kamu harus takut (tunduk).",
+  "footnotes": "41.  Isrā`īl  adalah sebutan bagi Nabi Ya`qūb  ‘Alaihissalām.  Bani Isrā`īl  adalah turunan Nabi Ya`qūb ‘Alaihissalām; sekarang terkenal dengan bangsa Yahudi. \n42.  Janji Bani Isrā`īl  kepada Tuhan ialah bahwa mereka akan menyembah Allah Subḥānahu wa Ta‘ālā dan tidak mempersekutukan-Nya dengan sesuatu apa pun, serta beriman kepada rasul-rasul-Nya di antaranya Nabi Muhammad Ṣallallāhu ʻAlaihi wa Sallam sebagaimana yang tersebut di dalam Taurat.\n"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "956",
-    "sura": "7",
-    "aya": "2",
-    "arabic_text": "كِتَٰبٌ أُنزِلَ إِلَيۡكَ فَلَا يَكُن فِي صَدۡرِكَ حَرَجٞ مِّنۡهُ لِتُنذِرَ بِهِۦ وَذِكۡرَىٰ لِلۡمُؤۡمِنِينَ",
-    "translation": "Yaa gafo b sẽn sik n kõ foom, rẽnd pakr ra wa zĩnd fo sũurẽ wã sẽn kẽed ne-a ye. Sẽn na yɩl tɩ f tall-a n bugsi, la a yaa tẽegr ne sɩd-kõtbã.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 151,
+  "verse_key": "7:2",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كِتَٰبٌ أُنزِلَ إِلَيۡكَ فَلَا يَكُن فِي صَدۡرِكَ حَرَجٞ مِّنۡهُ لِتُنذِرَ بِهِۦ وَذِكۡرَىٰ لِلۡمُؤۡمِنِينَ",
+  "translation": "Yaa gafo b sẽn sik n kõ foom, rẽnd pakr ra wa zĩnd fo sũurẽ wã sẽn kẽed ne-a ye. Sẽn na yɩl tɩ f tall-a n bugsi, la a yaa tẽegr ne sɩd-kõtbã.",
+  "footnotes": ""
 }

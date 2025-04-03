@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5564",
-    "sura": "75",
-    "aya": "13",
-    "arabic_text": "يُنَبَّؤُاْ ٱلۡإِنسَٰنُ يَوۡمَئِذِۭ بِمَا قَدَّمَ وَأَخَّرَ",
-    "translation": "13. Seehadaytuh woo ayró taamak yuysukumem kee wadirroysem warsintah.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 577,
+  "verse_key": "75:13",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُنَبَّؤُاْ ٱلۡإِنسَٰنُ يَوۡمَئِذِۭ بِمَا قَدَّمَ وَأَخَّرَ",
+  "translation": "13. Seehadaytuh woo ayró taamak yuysukumem kee wadirroysem warsintah.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5759",
-    "sura": "80",
-    "aya": "1",
-    "arabic_text": "عَبَسَ وَتَوَلَّىٰٓ",
-    "translation": "He frowned and turned away,",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 585,
+  "verse_key": "80:1",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَبَسَ وَتَوَلَّىٰٓ",
+  "translation": "He frowned and turned away,",
+  "footnotes": ""
 }

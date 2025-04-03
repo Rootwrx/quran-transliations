@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4300",
-    "sura": "42",
-    "aya": "28",
-    "arabic_text": "وَهُوَ ٱلَّذِي يُنَزِّلُ ٱلۡغَيۡثَ مِنۢ بَعۡدِ مَا قَنَطُواْ وَيَنشُرُ رَحۡمَتَهُۥۚ وَهُوَ ٱلۡوَلِيُّ ٱلۡحَمِيدُ",
-    "translation": "Dan Dialah yang menurunkan hujan setelah mereka berputus asa, dan menyebarkan rahmat-Nya. Dan Dialah Maha Pelindung, Maha Terpuji.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 486,
+  "verse_key": "42:28",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِي يُنَزِّلُ ٱلۡغَيۡثَ مِنۢ بَعۡدِ مَا قَنَطُواْ وَيَنشُرُ رَحۡمَتَهُۥۚ وَهُوَ ٱلۡوَلِيُّ ٱلۡحَمِيدُ",
+  "translation": "Dan Dialah yang menurunkan hujan setelah mereka berputus asa, dan menyebarkan rahmat-Nya. Dan Dialah Maha Pelindung, Maha Terpuji.",
+  "footnotes": ""
 }

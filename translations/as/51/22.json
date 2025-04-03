@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4697",
-    "sura": "51",
-    "aya": "22",
-    "arabic_text": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ",
-    "translation": "আৰু আকাশত আছে তোমালোকৰ জীৱিকা আৰু প্ৰতিশ্ৰুতি দিয়া সকলো বস্তু।",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 521,
+  "verse_key": "51:22",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفِي ٱلسَّمَآءِ رِزۡقُكُمۡ وَمَا تُوعَدُونَ",
+  "translation": "আৰু আকাশত আছে তোমালোকৰ জীৱিকা আৰু প্ৰতিশ্ৰুতি দিয়া সকলো বস্তু।",
+  "footnotes": ""
 }

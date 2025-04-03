@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5484",
-    "sura": "73",
-    "aya": "9",
-    "arabic_text": "رَّبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذۡهُ وَكِيلٗا",
-    "translation": "le Seigneur du Levant et du Couchant. Il n’y a point de divinité à part Lui. Prends-Le donc comme Protecteur.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 574,
+  "verse_key": "73:9",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَّبُّ ٱلۡمَشۡرِقِ وَٱلۡمَغۡرِبِ لَآ إِلَٰهَ إِلَّا هُوَ فَٱتَّخِذۡهُ وَكِيلٗا",
+  "translation": "le Seigneur du Levant et du Couchant. Il n’y a point de divinité à part Lui. Prends-Le donc comme Protecteur.",
+  "footnotes": ""
 }

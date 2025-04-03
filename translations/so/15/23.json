@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1825",
-    "sura": "15",
-    "aya": "23",
-    "arabic_text": "وَإِنَّا لَنَحۡنُ نُحۡيِۦ وَنُمِيتُ وَنَحۡنُ ٱلۡوَٰرِثُونَ",
-    "translation": "23. Waa Annaga (Allaah) Kuwa wax nooleeya, waxna dhinsiiya8,  Annagaana ah dhaxlayaasha9.",
-    "footnotes": "8. Nabigu s.c.w. wuxuu yidhi: “Hadduu qofka aadmiga ahi dhinto waxaa go’a camalkiisa marka laga reebo seddex arrimood: Sadaqa joogto ah (waqaf), cilmi lagu intifaaco, ama ilmo wanaagsan oo u soo duceeya. (W.w. Muslim).\n 9. Allaah subxaanahu wa tacaalaa baa hara markay uunka oo dhan dhintaan."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 263,
+  "verse_key": "15:23",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّا لَنَحۡنُ نُحۡيِۦ وَنُمِيتُ وَنَحۡنُ ٱلۡوَٰرِثُونَ",
+  "translation": "23. Waa Annaga (Allaah) Kuwa wax nooleeya, waxna dhinsiiya8,  Annagaana ah dhaxlayaasha9.",
+  "footnotes": "8. Nabigu s.c.w. wuxuu yidhi: “Hadduu qofka aadmiga ahi dhinto waxaa go’a camalkiisa marka laga reebo seddex arrimood: Sadaqa joogto ah (waqaf), cilmi lagu intifaaco, ama ilmo wanaagsan oo u soo duceeya. (W.w. Muslim).\n 9. Allaah subxaanahu wa tacaalaa baa hara markay uunka oo dhan dhintaan."
 }

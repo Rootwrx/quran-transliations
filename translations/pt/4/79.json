@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "572",
-    "sura": "4",
-    "aya": "79",
-    "arabic_text": "مَّآ أَصَابَكَ مِنۡ حَسَنَةٖ فَمِنَ ٱللَّهِۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٖ فَمِن نَّفۡسِكَۚ وَأَرۡسَلۡنَٰكَ لِلنَّاسِ رَسُولٗاۚ وَكَفَىٰ بِٱللَّهِ شَهِيدٗا",
-    "translation": "O que quer de bom que te alcance é de Allah, e o que quer de mau que te alcance é de ti mesmo. E te enviamos, Muhammad, como Mensageiro para a humanidade. E basta Allah por Testemunha.",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 90,
+  "verse_key": "4:79",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّآ أَصَابَكَ مِنۡ حَسَنَةٖ فَمِنَ ٱللَّهِۖ وَمَآ أَصَابَكَ مِن سَيِّئَةٖ فَمِن نَّفۡسِكَۚ وَأَرۡسَلۡنَٰكَ لِلنَّاسِ رَسُولٗاۚ وَكَفَىٰ بِٱللَّهِ شَهِيدٗا",
+  "translation": "O que quer de bom que te alcance é de Allah, e o que quer de mau que te alcance é de ti mesmo. E te enviamos, Muhammad, como Mensageiro para a humanidade. E basta Allah por Testemunha.",
+  "footnotes": ""
 }

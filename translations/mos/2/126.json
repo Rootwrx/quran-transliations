@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "133",
-    "sura": "2",
-    "aya": "126",
-    "arabic_text": "وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ ٱجۡعَلۡ هَٰذَا بَلَدًا ءَامِنٗا وَٱرۡزُقۡ أَهۡلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنۡ ءَامَنَ مِنۡهُم بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلٗا ثُمَّ أَضۡطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِۖ وَبِئۡسَ ٱلۡمَصِيرُ",
-    "translation": "Lɑ ɑ ɭbrɑɑhɩɩm sẽn wɑ n yeele: \" m Soɑbɑ! Mɑɑn yãoã tɩ yɑɑ bɑs-m-yɑm tẽngɑ, lɑ f rɩlg ɑ nebã tɩ-biis kõbg fãɑ, sẽn kõ-a sɩd bãmb pʋgẽ ne Wẽnd lɑ Lɑɑhr rɑɑrã\". T'A (Wẽnd) yeele: \"lɑ sẽn kɩfl-ɑ, M wʋmsd-a-lɑ nang bilfu, rẽ poorẽ tɩ M veoog-ɑ n kẽng bugmã nɑngẽ. Lɑ bɑɑsg zĩig yɩ Wẽngɑ\".",
-    "footnotes": ""
-  }
+  "id": 126,
+  "verse_number": 126,
+  "page_number": 19,
+  "verse_key": "2:126",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ ٱجۡعَلۡ هَٰذَا بَلَدًا ءَامِنٗا وَٱرۡزُقۡ أَهۡلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنۡ ءَامَنَ مِنۡهُم بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلٗا ثُمَّ أَضۡطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+  "translation": "Lɑ ɑ ɭbrɑɑhɩɩm sẽn wɑ n yeele: \" m Soɑbɑ! Mɑɑn yãoã tɩ yɑɑ bɑs-m-yɑm tẽngɑ, lɑ f rɩlg ɑ nebã tɩ-biis kõbg fãɑ, sẽn kõ-a sɩd bãmb pʋgẽ ne Wẽnd lɑ Lɑɑhr rɑɑrã\". T'A (Wẽnd) yeele: \"lɑ sẽn kɩfl-ɑ, M wʋmsd-a-lɑ nang bilfu, rẽ poorẽ tɩ M veoog-ɑ n kẽng bugmã nɑngẽ. Lɑ bɑɑsg zĩig yɩ Wẽngɑ\".",
+  "footnotes": ""
 }

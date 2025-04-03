@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4848",
-    "sura": "54",
-    "aya": "2",
-    "arabic_text": "وَإِن يَرَوۡاْ ءَايَةٗ يُعۡرِضُواْ وَيَقُولُواْ سِحۡرٞ مُّسۡتَمِرّٞ",
-    "translation": "Tí wọ́n bá rí àmì kan, wọ́n máa gbúnrí. Wọn yó sí wí pé: “Idán kan tó máa parẹ́ (ni èyí).”[1]",
-    "footnotes": "1. Ìtúmọ̀ mìíràn fún “sihrun mustamirr” idán kan tó lágbára (ni èyí)."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 528,
+  "verse_key": "54:2",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يَرَوۡاْ ءَايَةٗ يُعۡرِضُواْ وَيَقُولُواْ سِحۡرٞ مُّسۡتَمِرّٞ",
+  "translation": "Tí wọ́n bá rí àmì kan, wọ́n máa gbúnrí. Wọn yó sí wí pé: “Idán kan tó máa parẹ́ (ni èyí).”[1]",
+  "footnotes": "1. Ìtúmọ̀ mìíràn fún “sihrun mustamirr” idán kan tó lágbára (ni èyí)."
 }

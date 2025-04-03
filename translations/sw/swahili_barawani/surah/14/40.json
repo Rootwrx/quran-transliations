@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1790",
-    "sura": "14",
-    "aya": "40",
-    "arabic_text": "رَبِّ ٱجۡعَلۡنِي مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِيۚ رَبَّنَا وَتَقَبَّلۡ دُعَآءِ",
-    "translation": "Mola wangu Mlezi! Nijaalie niwe mwenye kushika Swala, na katika dhuriya zangu pia. Ewe Mola wetu Mlezi, na ipokee dua yangu.",
-    "footnotes": "Ewe Mola wangu Mlezi! Niwezeshe nitimize Swala kwa inavyo takikana. Na wawezeshe watimilize kadhaalika wale walio wa kheri katika dhuriya zangu. Ewe Mola wetu Mlezi ipokee dua yangu kwa mapokezi ya kukubaliwa."
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 260,
+  "verse_key": "14:40",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبِّ ٱجۡعَلۡنِي مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِيۚ رَبَّنَا وَتَقَبَّلۡ دُعَآءِ",
+  "translation": "Mola wangu Mlezi! Nijaalie niwe mwenye kushika Swala, na katika dhuriya zangu pia. Ewe Mola wetu Mlezi, na ipokee dua yangu.",
+  "footnotes": "Ewe Mola wangu Mlezi! Niwezeshe nitimize Swala kwa inavyo takikana. Na wawezeshe watimilize kadhaalika wale walio wa kheri katika dhuriya zangu. Ewe Mola wetu Mlezi ipokee dua yangu kwa mapokezi ya kukubaliwa."
 }

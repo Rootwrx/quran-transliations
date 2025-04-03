@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "684",
-    "sura": "5",
-    "aya": "15",
-    "arabic_text": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ قَدۡ جَآءَكُمۡ رَسُولُنَا يُبَيِّنُ لَكُمۡ كَثِيرٗا مِّمَّا كُنتُمۡ تُخۡفُونَ مِنَ ٱلۡكِتَٰبِ وَيَعۡفُواْ عَن كَثِيرٖۚ قَدۡ جَآءَكُم مِّنَ ٱللَّهِ نُورٞ وَكِتَٰبٞ مُّبِينٞ",
-    "translation": "Ô gens du Livre! Notre Messager (Mohammad) vous est certes venu, vous exposant beaucoup de ce que vous cachiez du Livre, et passant sur bien d’autres choses! Une lumière et un Livre explicite vous sont certes venus d’Allah  !",
-    "footnotes": "[246] Une lumière: l’Islam ou le Prophète (صلى الله عليه وسلم). Livre explicite: le Coran."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 110,
+  "verse_key": "5:15",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 44,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ قَدۡ جَآءَكُمۡ رَسُولُنَا يُبَيِّنُ لَكُمۡ كَثِيرٗا مِّمَّا كُنتُمۡ تُخۡفُونَ مِنَ ٱلۡكِتَٰبِ وَيَعۡفُواْ عَن كَثِيرٖۚ قَدۡ جَآءَكُم مِّنَ ٱللَّهِ نُورٞ وَكِتَٰبٞ مُّبِينٞ",
+  "translation": "Ô gens du Livre! Notre Messager (Mohammad) vous est certes venu, vous exposant beaucoup de ce que vous cachiez du Livre, et passant sur bien d’autres choses! Une lumière et un Livre explicite vous sont certes venus d’Allah  !",
+  "footnotes": "[246] Une lumière: l’Islam ou le Prophète (صلى الله عليه وسلم). Livre explicite: le Coran."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1595",
-    "sura": "11",
-    "aya": "122",
-    "arabic_text": "وَٱنتَظِرُوٓاْ إِنَّا مُنتَظِرُونَ",
-    "translation": "122. Mpe bozela, ya soló, tozali kozela lokola.",
-    "footnotes": ""
-  }
+  "id": 122,
+  "verse_number": 122,
+  "page_number": 235,
+  "verse_key": "11:122",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱنتَظِرُوٓاْ إِنَّا مُنتَظِرُونَ",
+  "translation": "122. Mpe bozela, ya soló, tozali kozela lokola.",
+  "footnotes": ""
 }

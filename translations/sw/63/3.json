@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5191",
-    "sura": "63",
-    "aya": "3",
-    "arabic_text": "ذَٰلِكَ بِأَنَّهُمۡ ءَامَنُواْ ثُمَّ كَفَرُواْ فَطُبِعَ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا يَفۡقَهُونَ",
-    "translation": "Hayo ni kwa sababu ya kuwa waliamini, kisha wakakufuru; kwa hivyo umepigwa muhuri juu ya nyoyo zao. Kwa hivyo hawafahamu lolote.",
-    "footnotes": "Hayo waliyo yafanya ndiyo mazoea ya kudhihirisha yasiyo ya kweli, na kuapa yamini za uwongo, kwa sababu hao wameamini kwa ndimi zao, kisha wakakufuru katika nyoyo zao, basi nyoyo zao zimepigwa muhuri kwa ukafiri huu. Hao hawafahamu yepi ya kuwaokoa na adhabu za Mwenyezi Mungu."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 554,
+  "verse_key": "63:3",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 221,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّهُمۡ ءَامَنُواْ ثُمَّ كَفَرُواْ فَطُبِعَ عَلَىٰ قُلُوبِهِمۡ فَهُمۡ لَا يَفۡقَهُونَ",
+  "translation": "Hayo ni kwa sababu ya kuwa waliamini, kisha wakakufuru; kwa hivyo umepigwa muhuri juu ya nyoyo zao. Kwa hivyo hawafahamu lolote.",
+  "footnotes": "Hayo waliyo yafanya ndiyo mazoea ya kudhihirisha yasiyo ya kweli, na kuapa yamini za uwongo, kwa sababu hao wameamini kwa ndimi zao, kisha wakakufuru katika nyoyo zao, basi nyoyo zao zimepigwa muhuri kwa ukafiri huu. Hao hawafahamu yepi ya kuwaokoa na adhabu za Mwenyezi Mungu."
 }

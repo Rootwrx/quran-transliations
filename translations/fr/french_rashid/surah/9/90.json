@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1325",
-    "sura": "9",
-    "aya": "90",
-    "arabic_text": "وَجَآءَ ٱلۡمُعَذِّرُونَ مِنَ ٱلۡأَعۡرَابِ لِيُؤۡذَنَ لَهُمۡ وَقَعَدَ ٱلَّذِينَ كَذَبُواْ ٱللَّهَ وَرَسُولَهُۥۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابٌ أَلِيمٞ",
-    "translation": "90 Certains Bédouins sont venus te demander de les dispenser du combat, s’excusant de ne pouvoir y participer, tandis que d’autres, parmi ceux qui mentent à Allah et à Son Messager, ne se sont pas même déplacés pour s’en excuser. Ceux d’entre eux qui ont rejeté la foi subiront un douloureux châtiment.",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 201,
+  "verse_key": "9:90",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَآءَ ٱلۡمُعَذِّرُونَ مِنَ ٱلۡأَعۡرَابِ لِيُؤۡذَنَ لَهُمۡ وَقَعَدَ ٱلَّذِينَ كَذَبُواْ ٱللَّهَ وَرَسُولَهُۥۚ سَيُصِيبُ ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابٌ أَلِيمٞ",
+  "translation": "90 Certains Bédouins sont venus te demander de les dispenser du combat, s’excusant de ne pouvoir y participer, tandis que d’autres, parmi ceux qui mentent à Allah et à Son Messager, ne se sont pas même déplacés pour s’en excuser. Ceux d’entre eux qui ont rejeté la foi subiront un douloureux châtiment.",
+  "footnotes": ""
 }

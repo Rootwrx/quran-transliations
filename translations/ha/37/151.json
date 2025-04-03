@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3939",
-    "sura": "37",
-    "aya": "151",
-    "arabic_text": "أَلَآ إِنَّهُم مِّنۡ إِفۡكِهِمۡ لَيَقُولُونَ",
-    "translation": "To! Lalle sũ, daga ƙiren ƙaryarsu sunã cẽwa.",
-    "footnotes": ""
-  }
+  "id": 151,
+  "verse_number": 151,
+  "page_number": 451,
+  "verse_key": "37:151",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَآ إِنَّهُم مِّنۡ إِفۡكِهِمۡ لَيَقُولُونَ",
+  "translation": "To! Lalle sũ, daga ƙiren ƙaryarsu sunã cẽwa.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3985",
-    "sura": "38",
-    "aya": "15",
-    "arabic_text": "وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ مَّا لَهَا مِن فَوَاقٖ",
-    "translation": "Diese erwarten wohl nur einen einzigen Schrei, der keine Unterbrechung hat.",
-    "footnotes": null
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 453,
+  "verse_key": "38:15",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا يَنظُرُ هَٰٓؤُلَآءِ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ مَّا لَهَا مِن فَوَاقٖ",
+  "translation": "Diese erwarten wohl nur einen einzigen Schrei, der keine Unterbrechung hat.",
+  "footnotes": null
 }

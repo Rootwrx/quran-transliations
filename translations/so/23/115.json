@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2788",
-    "sura": "23",
-    "aya": "115",
-    "arabic_text": "أَفَحَسِبۡتُمۡ أَنَّمَا خَلَقۡنَٰكُمۡ عَبَثٗا وَأَنَّكُمۡ إِلَيۡنَا لَا تُرۡجَعُونَ",
-    "translation": "115. Ma waxaad mooddaan inaan idiin abuurnay dheel, oo aan Xaggayaga la idiin soo celineyn?",
-    "footnotes": ""
-  }
+  "id": 115,
+  "verse_number": 115,
+  "page_number": 349,
+  "verse_key": "23:115",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَحَسِبۡتُمۡ أَنَّمَا خَلَقۡنَٰكُمۡ عَبَثٗا وَأَنَّكُمۡ إِلَيۡنَا لَا تُرۡجَعُونَ",
+  "translation": "115. Ma waxaad mooddaan inaan idiin abuurnay dheel, oo aan Xaggayaga la idiin soo celineyn?",
+  "footnotes": ""
 }

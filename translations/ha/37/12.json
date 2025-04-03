@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3800",
-    "sura": "37",
-    "aya": "12",
-    "arabic_text": "بَلۡ عَجِبۡتَ وَيَسۡخَرُونَ",
-    "translation": "Ã'a, kã yi mãmãki, alhãli kuwa sunã ta yin izgili.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 446,
+  "verse_key": "37:12",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ عَجِبۡتَ وَيَسۡخَرُونَ",
+  "translation": "Ã'a, kã yi mãmãki, alhãli kuwa sunã ta yin izgili.",
+  "footnotes": ""
 }

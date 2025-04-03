@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "129",
-    "sura": "2",
-    "aya": "122",
-    "arabic_text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَنِّي فَضَّلۡتُكُمۡ عَلَى ٱلۡعَٰلَمِينَ",
-    "translation": "Ẹ̀yin ọmọ ’Isrọ̄’īl, ẹ rántí ìkẹ́ Mi, èyí tí Mo ṣe fún yín. Dájúdájú Èmi tún ṣoore àjùlọ fún yín lórí àwọn ẹ̀dá (àsìkò tiyín).[1]",
-    "footnotes": "1. Èyí rí bẹ́ẹ̀ fún wí pé, òǹkà àwọn Ànábì àti àwọn Òjíṣẹ́ Allāhu (‘aleehim sọlāt wa salām) pọ̀ púpọ̀ nínú ìran ọmọ ’Isrọ̄’īl ju àwọn ìran ẹ̀dá yòókù lọ, àmọ́ àwọn ọmọ ’Isrọ̄’īl náà ni ìran tó ṣàì gbàgbọ́ jùlọ."
-  }
+  "id": 122,
+  "verse_number": 122,
+  "page_number": 19,
+  "verse_key": "2:122",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَنِّي فَضَّلۡتُكُمۡ عَلَى ٱلۡعَٰلَمِينَ",
+  "translation": "Ẹ̀yin ọmọ ’Isrọ̄’īl, ẹ rántí ìkẹ́ Mi, èyí tí Mo ṣe fún yín. Dájúdájú Èmi tún ṣoore àjùlọ fún yín lórí àwọn ẹ̀dá (àsìkò tiyín).[1]",
+  "footnotes": "1. Èyí rí bẹ́ẹ̀ fún wí pé, òǹkà àwọn Ànábì àti àwọn Òjíṣẹ́ Allāhu (‘aleehim sọlāt wa salām) pọ̀ púpọ̀ nínú ìran ọmọ ’Isrọ̄’īl ju àwọn ìran ẹ̀dá yòókù lọ, àmọ́ àwọn ọmọ ’Isrọ̄’īl náà ni ìran tó ṣàì gbàgbọ́ jùlọ."
 }

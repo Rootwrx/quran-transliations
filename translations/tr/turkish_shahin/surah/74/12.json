@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5507",
-    "sura": "74",
-    "aya": "12",
-    "arabic_text": "وَجَعَلۡتُ لَهُۥ مَالٗا مَّمۡدُودٗا",
-    "translation": "Kendisine geniş servet",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 575,
+  "verse_key": "74:12",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلۡتُ لَهُۥ مَالٗا مَّمۡدُودٗا",
+  "translation": "Kendisine geniş servet",
+  "footnotes": ""
 }

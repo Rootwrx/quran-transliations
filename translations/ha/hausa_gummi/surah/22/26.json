@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2621",
-    "sura": "22",
-    "aya": "26",
-    "arabic_text": "وَإِذۡ بَوَّأۡنَا لِإِبۡرَٰهِيمَ مَكَانَ ٱلۡبَيۡتِ أَن لَّا تُشۡرِكۡ بِي شَيۡـٔٗا وَطَهِّرۡ بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
-    "translation": "Kuma a lõkacin da Muka iyãkance* wa Ibrãhim wurin ¦akin (Muka ce masa), \"Kada ka haɗa kõme da Ni ga bauta, kuma ka tsarkake daki Na dõmin mãsu ɗawãfi da mãsu tsayuwa da mãsu ruku'u da mãsu sujada.",
-    "footnotes": "* Allah Ya nũna wa Ibrahĩm iyãkar Ɗãkin Ka'aba da iska, sa'an nan ya fãra ginashi, kuma Ya nuna masa iyãkõkin Hurumin Makka, ya sanya alãmõmi."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 335,
+  "verse_key": "22:26",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ بَوَّأۡنَا لِإِبۡرَٰهِيمَ مَكَانَ ٱلۡبَيۡتِ أَن لَّا تُشۡرِكۡ بِي شَيۡـٔٗا وَطَهِّرۡ بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+  "translation": "Kuma a lõkacin da Muka iyãkance* wa Ibrãhim wurin ¦akin (Muka ce masa), \"Kada ka haɗa kõme da Ni ga bauta, kuma ka tsarkake daki Na dõmin mãsu ɗawãfi da mãsu tsayuwa da mãsu ruku'u da mãsu sujada.",
+  "footnotes": "* Allah Ya nũna wa Ibrahĩm iyãkar Ɗãkin Ka'aba da iska, sa'an nan ya fãra ginashi, kuma Ya nuna masa iyãkõkin Hurumin Makka, ya sanya alãmõmi."
 }

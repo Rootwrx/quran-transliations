@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3495",
-    "sura": "31",
-    "aya": "26",
-    "arabic_text": "لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّ ٱللَّهَ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ",
-    "translation": "Ni vya Mwenyezi Mungu vyote viliomo mbinguni na katika ardhi. Hakika Mwenyezi Mungu ndiye Mkwasi, Mwenye kusifiwa.",
-    "footnotes": "Viliomo katika mbingu na ardhi ni vya Mwenyezi Mungu, kwa kuviumba, na kuvikadiria, na kuvipanga. Basi vipi wao wanaacha kumuabudu Yeye? Na Mwenyezi Mungu Aliye takasika si mhitaji wa viumbe vyake wala ibada yao. Yeye ni Msifiwa kwa dhati yake. Ni mwenye kustahiki kusifiwa na waja wake."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 413,
+  "verse_key": "31:26",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّ ٱللَّهَ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ",
+  "translation": "Ni vya Mwenyezi Mungu vyote viliomo mbinguni na katika ardhi. Hakika Mwenyezi Mungu ndiye Mkwasi, Mwenye kusifiwa.",
+  "footnotes": "Viliomo katika mbingu na ardhi ni vya Mwenyezi Mungu, kwa kuviumba, na kuvikadiria, na kuvipanga. Basi vipi wao wanaacha kumuabudu Yeye? Na Mwenyezi Mungu Aliye takasika si mhitaji wa viumbe vyake wala ibada yao. Yeye ni Msifiwa kwa dhati yake. Ni mwenye kustahiki kusifiwa na waja wake."
 }

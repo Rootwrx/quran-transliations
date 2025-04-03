@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1545",
-    "sura": "11",
-    "aya": "72",
-    "arabic_text": "قَالَتۡ يَٰوَيۡلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٞ وَهَٰذَا بَعۡلِي شَيۡخًاۖ إِنَّ هَٰذَا لَشَيۡءٌ عَجِيبٞ",
-    "translation": "72.Nabii ibraahim barra saara ken yab qajjibsitak maganey anu kaxxa idaltooy ah yi baqalay kaxxa idaltuh yanik anu anninnal xalaa ? diggah tah qajiibik taniimik itte!",
-    "footnotes": ""
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 230,
+  "verse_key": "11:72",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ يَٰوَيۡلَتَىٰٓ ءَأَلِدُ وَأَنَا۠ عَجُوزٞ وَهَٰذَا بَعۡلِي شَيۡخًاۖ إِنَّ هَٰذَا لَشَيۡءٌ عَجِيبٞ",
+  "translation": "72.Nabii ibraahim barra saara ken yab qajjibsitak maganey anu kaxxa idaltooy ah yi baqalay kaxxa idaltuh yanik anu anninnal xalaa ? diggah tah qajiibik taniimik itte!",
+  "footnotes": ""
 }

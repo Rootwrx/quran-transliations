@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5613",
-    "sura": "76",
-    "aya": "22",
-    "arabic_text": "إِنَّ هَٰذَا كَانَ لَكُمۡ جَزَآءٗ وَكَانَ سَعۡيُكُم مَّشۡكُورًا",
-    "translation": "İşte bu, sizin için bir ödüldür. Sizin çalışmanızın karşılığıdır.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 579,
+  "verse_key": "76:22",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰذَا كَانَ لَكُمۡ جَزَآءٗ وَكَانَ سَعۡيُكُم مَّشۡكُورًا",
+  "translation": "İşte bu, sizin için bir ödüldür. Sizin çalışmanızın karşılığıdır.",
+  "footnotes": ""
 }

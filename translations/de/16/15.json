@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1916",
-    "sura": "16",
-    "aya": "15",
-    "arabic_text": "وَأَلۡقَىٰ فِي ٱلۡأَرۡضِ رَوَٰسِيَ أَن تَمِيدَ بِكُمۡ وَأَنۡهَٰرٗا وَسُبُلٗا لَّعَلَّكُمۡ تَهۡتَدُونَ",
-    "translation": "Und Er hat auf der Erde festgegründete Berge gesetzt, daß sie nicht mit euch wanke, und Flüsse und Wege (geschaffen) - auf daß ihr rechtgeleitet werden möget",
-    "footnotes": null
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 269,
+  "verse_key": "16:15",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَلۡقَىٰ فِي ٱلۡأَرۡضِ رَوَٰسِيَ أَن تَمِيدَ بِكُمۡ وَأَنۡهَٰرٗا وَسُبُلٗا لَّعَلَّكُمۡ تَهۡتَدُونَ",
+  "translation": "Und Er hat auf der Erde festgegründete Berge gesetzt, daß sie nicht mit euch wanke, und Flüsse und Wege (geschaffen) - auf daß ihr rechtgeleitet werden möget",
+  "footnotes": null
 }

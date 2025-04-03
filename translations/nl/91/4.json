@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6047",
-    "sura": "91",
-    "aya": "4",
-    "arabic_text": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا",
-    "translation": "4. En bij de nacht als die haar verbergt.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 595,
+  "verse_key": "91:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰهَا",
+  "translation": "4. En bij de nacht als die haar verbergt.",
+  "footnotes": ""
 }

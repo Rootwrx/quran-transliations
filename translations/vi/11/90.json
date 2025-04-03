@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1563",
-    "sura": "11",
-    "aya": "90",
-    "arabic_text": "وَٱسۡتَغۡفِرُواْ رَبَّكُمۡ ثُمَّ تُوبُوٓاْ إِلَيۡهِۚ إِنَّ رَبِّي رَحِيمٞ وَدُودٞ",
-    "translation": "“Các ngươi hãy cầu xin Thượng Đế của các ngươi tha thứ cho các ngươi và hãy quay về sám hối với Ngài. Thật vậy, Thượng Đế của Ta là Đấng Nhân Từ, Đấng Tràn Đầy Yêu Thương (đối với những ai quay về với Ngài).”",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 232,
+  "verse_key": "11:90",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱسۡتَغۡفِرُواْ رَبَّكُمۡ ثُمَّ تُوبُوٓاْ إِلَيۡهِۚ إِنَّ رَبِّي رَحِيمٞ وَدُودٞ",
+  "translation": "“Các ngươi hãy cầu xin Thượng Đế của các ngươi tha thứ cho các ngươi và hãy quay về sám hối với Ngài. Thật vậy, Thượng Đế của Ta là Đấng Nhân Từ, Đấng Tràn Đầy Yêu Thương (đối với những ai quay về với Ngài).”",
+  "footnotes": ""
 }

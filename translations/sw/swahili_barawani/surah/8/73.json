@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1233",
-    "sura": "8",
-    "aya": "73",
-    "arabic_text": "وَٱلَّذِينَ كَفَرُواْ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٍۚ إِلَّا تَفۡعَلُوهُ تَكُن فِتۡنَةٞ فِي ٱلۡأَرۡضِ وَفَسَادٞ كَبِيرٞ",
-    "translation": "Na wale walio kufuru ni marafiki wenyewe kwa wenyewe. Msipo fanya hivi itakuwako fitna katika nchi na fisadi kubwa.",
-    "footnotes": "Na walio kufuru wao ni marafiki wenyewe kwa wenyewe. Na wao husaidiana kwa mambo ya upotovu, na wanaungana mkono kukufanyieni nyinyi uadui. Basi nyinyi msifanye nao urafiki. Mkikhaalifu, yaani mkenda kinyume na haya mkawafanya ni wenzenu itaingia fitna katika safu zenu, na utakuwa uharibifu mkubwa katika nchi."
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 186,
+  "verse_key": "8:73",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ كَفَرُواْ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٍۚ إِلَّا تَفۡعَلُوهُ تَكُن فِتۡنَةٞ فِي ٱلۡأَرۡضِ وَفَسَادٞ كَبِيرٞ",
+  "translation": "Na wale walio kufuru ni marafiki wenyewe kwa wenyewe. Msipo fanya hivi itakuwako fitna katika nchi na fisadi kubwa.",
+  "footnotes": "Na walio kufuru wao ni marafiki wenyewe kwa wenyewe. Na wao husaidiana kwa mambo ya upotovu, na wanaungana mkono kukufanyieni nyinyi uadui. Basi nyinyi msifanye nao urafiki. Mkikhaalifu, yaani mkenda kinyume na haya mkawafanya ni wenzenu itaingia fitna katika safu zenu, na utakuwa uharibifu mkubwa katika nchi."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6051",
-    "sura": "91",
-    "aya": "8",
-    "arabic_text": "فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا",
-    "translation": "und ihr dann ihre Sittenlosigkeit und ihre Gottesfurcht eingegeben hat!",
-    "footnotes": null
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 595,
+  "verse_key": "91:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَلۡهَمَهَا فُجُورَهَا وَتَقۡوَىٰهَا",
+  "translation": "und ihr dann ihre Sittenlosigkeit und ihre Gottesfurcht eingegeben hat!",
+  "footnotes": null
 }

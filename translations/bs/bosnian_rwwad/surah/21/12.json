@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2495",
-    "sura": "21",
-    "aya": "12",
-    "arabic_text": "فَلَمَّآ أَحَسُّواْ بَأۡسَنَآ إِذَا هُم مِّنۡهَا يَرۡكُضُونَ",
-    "translation": "I čim bi silu Našu osjetili, kud koji bi se iz njih razbježali.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 323,
+  "verse_key": "21:12",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّآ أَحَسُّواْ بَأۡسَنَآ إِذَا هُم مِّنۡهَا يَرۡكُضُونَ",
+  "translation": "I čim bi silu Našu osjetili, kud koji bi se iz njih razbježali.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1257",
-    "sura": "9",
-    "aya": "22",
-    "arabic_text": "خَٰلِدِينَ فِيهَآ أَبَدًاۚ إِنَّ ٱللَّهَ عِندَهُۥٓ أَجۡرٌ عَظِيمٞ",
-    "translation": "dhe ku do të qëndrojnë përgjithmonë. Me të vërtetë, vetëm tek Allahu është shpërblimi i madh.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 190,
+  "verse_key": "9:22",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خَٰلِدِينَ فِيهَآ أَبَدًاۚ إِنَّ ٱللَّهَ عِندَهُۥٓ أَجۡرٌ عَظِيمٞ",
+  "translation": "dhe ku do të qëndrojnë përgjithmonë. Me të vërtetë, vetëm tek Allahu është shpërblimi i madh.",
+  "footnotes": ""
 }

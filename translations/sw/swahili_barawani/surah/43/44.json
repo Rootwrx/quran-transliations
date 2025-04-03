@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4369",
-    "sura": "43",
-    "aya": "44",
-    "arabic_text": "وَإِنَّهُۥ لَذِكۡرٞ لَّكَ وَلِقَوۡمِكَۖ وَسَوۡفَ تُسۡـَٔلُونَ",
-    "translation": "Na hakika haya ni ukumbusho kwako na kwa kaumu yako. Na mtakuja ulizwa.",
-    "footnotes": "Na hakika hii Qur'ani ni utukufu mkubwa juu yako, ewe Muhammad, na wa Umma wako, kwa kuwa umeteremshiwa kwa lugha ya Kiarabu, na mtakuja kuhojiwa Siku ya Kiyama juu ya haki yake, na shukrani za neema zake."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 492,
+  "verse_key": "43:44",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّهُۥ لَذِكۡرٞ لَّكَ وَلِقَوۡمِكَۖ وَسَوۡفَ تُسۡـَٔلُونَ",
+  "translation": "Na hakika haya ni ukumbusho kwako na kwa kaumu yako. Na mtakuja ulizwa.",
+  "footnotes": "Na hakika hii Qur'ani ni utukufu mkubwa juu yako, ewe Muhammad, na wa Umma wako, kwa kuwa umeteremshiwa kwa lugha ya Kiarabu, na mtakuja kuhojiwa Siku ya Kiyama juu ya haki yake, na shukrani za neema zake."
 }

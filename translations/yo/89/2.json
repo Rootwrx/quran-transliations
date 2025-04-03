@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5995",
-    "sura": "89",
-    "aya": "2",
-    "arabic_text": "وَلَيَالٍ عَشۡرٖ",
-    "translation": "Ó tún fi àwọn òru mẹ́wàá kan búra.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 593,
+  "verse_key": "89:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَيَالٍ عَشۡرٖ",
+  "translation": "Ó tún fi àwọn òru mẹ́wàá kan búra.",
+  "footnotes": ""
 }

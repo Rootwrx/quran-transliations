@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2208",
-    "sura": "18",
-    "aya": "68",
-    "arabic_text": "وَكَيۡفَ تَصۡبِرُ عَلَىٰ مَا لَمۡ تُحِطۡ بِهِۦ خُبۡرٗا",
-    "translation": "૬૮. અને જે કિસ્સા વિશે તમને જ્ઞાન ન હોય, તેના પર સબર કેવી રીતે રાખી શકો છો?",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 301,
+  "verse_key": "18:68",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَيۡفَ تَصۡبِرُ عَلَىٰ مَا لَمۡ تُحِطۡ بِهِۦ خُبۡرٗا",
+  "translation": "૬૮. અને જે કિસ્સા વિશે તમને જ્ઞાન ન હોય, તેના પર સબર કેવી રીતે રાખી શકો છો?",
+  "footnotes": ""
 }

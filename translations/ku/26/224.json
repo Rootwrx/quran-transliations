@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3156",
-    "sura": "26",
-    "aya": "224",
-    "arabic_text": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلۡغَاوُۥنَ",
-    "translation": "(پێغەمبەر ﷺ شاعیر نیە) (چونکە) شاعیرەکان تەنھا گومڕاکان شوێنیان دەکەون\n",
-    "footnotes": null
-  }
+  "id": 224,
+  "verse_number": 224,
+  "page_number": 376,
+  "verse_key": "26:224",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلۡغَاوُۥنَ",
+  "translation": "(پێغەمبەر ﷺ شاعیر نیە) (چونکە) شاعیرەکان تەنھا گومڕاکان شوێنیان دەکەون\n",
+  "footnotes": null
 }

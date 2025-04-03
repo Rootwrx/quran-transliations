@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2889",
-    "sura": "25",
-    "aya": "34",
-    "arabic_text": "ٱلَّذِينَ يُحۡشَرُونَ عَلَىٰ وُجُوهِهِمۡ إِلَىٰ جَهَنَّمَ أُوْلَٰٓئِكَ شَرّٞ مَّكَانٗا وَأَضَلُّ سَبِيلٗا",
-    "translation": " 34. Those who will be gathered to Hell (prone) on their faces, such will be in an evil state, and most astray from the (Straight) Path.[1]",
-    "footnotes": "(V.25:34) See the footnote of (V.17:97)."
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 363,
+  "verse_key": "25:34",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يُحۡشَرُونَ عَلَىٰ وُجُوهِهِمۡ إِلَىٰ جَهَنَّمَ أُوْلَٰٓئِكَ شَرّٞ مَّكَانٗا وَأَضَلُّ سَبِيلٗا",
+  "translation": " 34. Those who will be gathered to Hell (prone) on their faces, such will be in an evil state, and most astray from the (Straight) Path.[1]",
+  "footnotes": "(V.25:34) See the footnote of (V.17:97)."
 }

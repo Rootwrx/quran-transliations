@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4420",
-    "sura": "44",
-    "aya": "6",
-    "arabic_text": "رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
-    "translation": "ߤߌߣߊߓߟߏߡߊ߬ ߞߊ߬ ߝߊߘߴߌ ߡߊ߰ߙߌ ߟߊ߫ ߸ ߓߊ ߏ߬ ߟߋ ߡߍ߲ߠߌ߲ߠߊ ߘߌ߫ ߟߐ߲ߠߌ߲ߠߊ ߟߋ߬",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 496,
+  "verse_key": "44:6",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "translation": "ߤߌߣߊߓߟߏߡߊ߬ ߞߊ߬ ߝߊߘߴߌ ߡߊ߰ߙߌ ߟߊ߫ ߸ ߓߊ ߏ߬ ߟߋ ߡߍ߲ߠߌ߲ߠߊ ߘߌ߫ ߟߐ߲ߠߌ߲ߠߊ ߟߋ߬",
+  "footnotes": ""
 }

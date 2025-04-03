@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4919",
-    "sura": "55",
-    "aya": "18",
-    "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
-    "translation": "18. ¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor?",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 532,
+  "verse_key": "55:18",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+  "translation": "18. ¿Acaso pueden negar alguna de las gracias que les ha concedido su Señor?",
+  "footnotes": ""
 }

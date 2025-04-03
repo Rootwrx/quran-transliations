@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2680",
-    "sura": "23",
-    "aya": "7",
-    "arabic_text": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡعَادُونَ",
-    "translation": "此外，谁再有所求，谁是超越法度的——",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 342,
+  "verse_key": "23:7",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡعَادُونَ",
+  "translation": "此外，谁再有所求，谁是超越法度的——",
+  "footnotes": ""
 }

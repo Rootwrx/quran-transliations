@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1445",
-    "sura": "10",
-    "aya": "81",
-    "arabic_text": "فَلَمَّآ أَلۡقَوۡاْ قَالَ مُوسَىٰ مَا جِئۡتُم بِهِ ٱلسِّحۡرُۖ إِنَّ ٱللَّهَ سَيُبۡطِلُهُۥٓ إِنَّ ٱللَّهَ لَا يُصۡلِحُ عَمَلَ ٱلۡمُفۡسِدِينَ",
-    "translation": "To, a lõkacin da suka jẽfa, Mũsa ya ce: \"Abin da kuka zo da shi sihiri ne. Lalle ne Allah zai ɓãta shi. Haƙĩƙa Allah bã Ya gyãra aikin maɓarnata.",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 218,
+  "verse_key": "10:81",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّآ أَلۡقَوۡاْ قَالَ مُوسَىٰ مَا جِئۡتُم بِهِ ٱلسِّحۡرُۖ إِنَّ ٱللَّهَ سَيُبۡطِلُهُۥٓ إِنَّ ٱللَّهَ لَا يُصۡلِحُ عَمَلَ ٱلۡمُفۡسِدِينَ",
+  "translation": "To, a lõkacin da suka jẽfa, Mũsa ya ce: \"Abin da kuka zo da shi sihiri ne. Lalle ne Allah zai ɓãta shi. Haƙĩƙa Allah bã Ya gyãra aikin maɓarnata.",
+  "footnotes": ""
 }

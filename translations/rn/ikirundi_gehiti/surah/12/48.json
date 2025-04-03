@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1644",
-    "sura": "12",
-    "aya": "48",
-    "arabic_text": "ثُمَّ يَأۡتِي مِنۢ بَعۡدِ ذَٰلِكَ سَبۡعٞ شِدَادٞ يَأۡكُلۡنَ مَا قَدَّمۡتُمۡ لَهُنَّ إِلَّا قَلِيلٗا مِّمَّا تُحۡصِنُونَ",
-    "translation": "Mu nyuma rero, hazokurikira imyaka indwi y’amapfa, ico gihe muzokwikora ku mwimbu mwabitse muri ya myaka indwi ya mbere, kiretse imbuto nke muzobikira iteragira ry’agatasi;",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 241,
+  "verse_key": "12:48",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ يَأۡتِي مِنۢ بَعۡدِ ذَٰلِكَ سَبۡعٞ شِدَادٞ يَأۡكُلۡنَ مَا قَدَّمۡتُمۡ لَهُنَّ إِلَّا قَلِيلٗا مِّمَّا تُحۡصِنُونَ",
+  "translation": "Mu nyuma rero, hazokurikira imyaka indwi y’amapfa, ico gihe muzokwikora ku mwimbu mwabitse muri ya myaka indwi ya mbere, kiretse imbuto nke muzobikira iteragira ry’agatasi;",
+  "footnotes": ""
 }

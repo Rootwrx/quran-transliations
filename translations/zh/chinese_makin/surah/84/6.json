@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5890",
-    "sura": "84",
-    "aya": "6",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلۡإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدۡحٗا فَمُلَٰقِيهِ",
-    "translation": "人啊！你必定勉力工作，直到会见你的主，你将看到自己的劳绩。",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 589,
+  "verse_key": "84:6",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلۡإِنسَٰنُ إِنَّكَ كَادِحٌ إِلَىٰ رَبِّكَ كَدۡحٗا فَمُلَٰقِيهِ",
+  "translation": "人啊！你必定勉力工作，直到会见你的主，你将看到自己的劳绩。",
+  "footnotes": ""
 }

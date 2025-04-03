@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3898",
-    "sura": "37",
-    "aya": "110",
-    "arabic_text": "كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
-    "translation": "૧૧૦. અમે સદાચારી લોકોને આવી જ રીતે બદલો આપીએ છીએ.",
-    "footnotes": ""
-  }
+  "id": 110,
+  "verse_number": 110,
+  "page_number": 450,
+  "verse_key": "37:110",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+  "translation": "૧૧૦. અમે સદાચારી લોકોને આવી જ રીતે બદલો આપીએ છીએ.",
+  "footnotes": ""
 }

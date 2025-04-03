@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1923",
-    "sura": "16",
-    "aya": "22",
-    "arabic_text": "إِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۚ فَٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ قُلُوبُهُم مُّنكِرَةٞ وَهُم مُّسۡتَكۡبِرُونَ",
-    "translation": "22.Sinaamey sin Yallay dubuk qibaada cakkisita usuk inki Yalla, tokkel ellecaboh Ayro nummayse waa mari ken lubbitte Yallih inkittinaanc tangaddch, usun cakki oggolaanamak kaxxamariinitak.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 269,
+  "verse_key": "16:22",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۚ فَٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ قُلُوبُهُم مُّنكِرَةٞ وَهُم مُّسۡتَكۡبِرُونَ",
+  "translation": "22.Sinaamey sin Yallay dubuk qibaada cakkisita usuk inki Yalla, tokkel ellecaboh Ayro nummayse waa mari ken lubbitte Yallih inkittinaanc tangaddch, usun cakki oggolaanamak kaxxamariinitak.",
+  "footnotes": ""
 }

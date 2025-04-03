@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3138",
-    "sura": "26",
-    "aya": "206",
-    "arabic_text": "ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ",
-    "translation": "Pagkatapos dumating sa kanila ang dating ipinangangako sa kanila.",
-    "footnotes": ""
-  }
+  "id": 206,
+  "verse_number": 206,
+  "page_number": 375,
+  "verse_key": "26:206",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ جَآءَهُم مَّا كَانُواْ يُوعَدُونَ",
+  "translation": "Pagkatapos dumating sa kanila ang dating ipinangangako sa kanila.",
+  "footnotes": ""
 }

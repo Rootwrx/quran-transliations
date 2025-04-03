@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "960",
-    "sura": "7",
-    "aya": "6",
-    "arabic_text": "فَلَنَسۡـَٔلَنَّ ٱلَّذِينَ أُرۡسِلَ إِلَيۡهِمۡ وَلَنَسۡـَٔلَنَّ ٱلۡمُرۡسَلِينَ",
-    "translation": "我必审问曾派〔使者〕去过他们的那些人，我必审问曾被派去的使者。",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 151,
+  "verse_key": "7:6",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَنَسۡـَٔلَنَّ ٱلَّذِينَ أُرۡسِلَ إِلَيۡهِمۡ وَلَنَسۡـَٔلَنَّ ٱلۡمُرۡسَلِينَ",
+  "translation": "我必审问曾派〔使者〕去过他们的那些人，我必审问曾被派去的使者。",
+  "footnotes": ""
 }

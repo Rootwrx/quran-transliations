@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2300",
-    "sura": "19",
-    "aya": "50",
-    "arabic_text": "وَوَهَبۡنَا لَهُم مِّن رَّحۡمَتِنَا وَجَعَلۡنَا لَهُمۡ لِسَانَ صِدۡقٍ عَلِيّٗا",
-    "translation": "Kuma Muka yi musu kyauta daga Rahamar Mu, kuma Muka sanya musu harshen gaskiya* maɗaukaki.",
-    "footnotes": "* Harshen gaskiya, shi ne yabo mai kyau daga Allah da mutãne. Wanda ya yankewa mutãnenSa dõmin Allah, to, zai sãka masa da waɗansu mutãnen kirki dõmin su ɗebe masa kewa."
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 308,
+  "verse_key": "19:50",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَهَبۡنَا لَهُم مِّن رَّحۡمَتِنَا وَجَعَلۡنَا لَهُمۡ لِسَانَ صِدۡقٍ عَلِيّٗا",
+  "translation": "Kuma Muka yi musu kyauta daga Rahamar Mu, kuma Muka sanya musu harshen gaskiya* maɗaukaki.",
+  "footnotes": "* Harshen gaskiya, shi ne yabo mai kyau daga Allah da mutãne. Wanda ya yankewa mutãnenSa dõmin Allah, to, zai sãka masa da waɗansu mutãnen kirki dõmin su ɗebe masa kewa."
 }

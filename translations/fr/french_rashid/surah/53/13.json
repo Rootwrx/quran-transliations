@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4797",
-    "sura": "53",
-    "aya": "13",
-    "arabic_text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
-    "translation": "13 Il l’a pourtant vu une autre fois[1343]",
-    "footnotes": "[1343] Le Prophète a déjà vu l’ange Gabriel, mais cette fois au ciel, lors de son ascension, comme le montreront les versets qui suivent. Cette première vision est donc plus extraordinaire que celle que vous remettez en cause."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 526,
+  "verse_key": "53:13",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
+  "translation": "13 Il l’a pourtant vu une autre fois[1343]",
+  "footnotes": "[1343] Le Prophète a déjà vu l’ange Gabriel, mais cette fois au ciel, lors de son ascension, comme le montreront les versets qui suivent. Cette première vision est donc plus extraordinaire que celle que vous remettez en cause."
 }

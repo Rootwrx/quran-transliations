@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3846",
-    "sura": "37",
-    "aya": "58",
-    "arabic_text": "أَفَمَا نَحۡنُ بِمَيِّتِينَ",
-    "translation": "Doğrudanmı biz bir daha ölməyəcəyik?",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 448,
+  "verse_key": "37:58",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَمَا نَحۡنُ بِمَيِّتِينَ",
+  "translation": "Doğrudanmı biz bir daha ölməyəcəyik?",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5448",
-    "sura": "72",
-    "aya": "1",
-    "arabic_text": "قُلۡ أُوحِيَ إِلَيَّ أَنَّهُ ٱسۡتَمَعَ نَفَرٞ مِّنَ ٱلۡجِنِّ فَقَالُوٓاْ إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبٗا",
-    "translation": "Sema: Imefunuliwa kwangu ya kuwa kundi moja la majini lilisikiliza, na likasema: Hakika sisi tumeisikia Qur'ani ya ajabu!",
-    "footnotes": "Ewe Muhammad! Waambie watu wako: Nimepata wahyi kwamba kikundi cha majini kimesikia kusoma kwangu Qur'ani, nao wakawaambia wenzao: Hakika sisi tumeisikia Qur'ani ya namna ya peke yake, hatujapata kusikia mfano wake kabla yake,"
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 572,
+  "verse_key": "72:1",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أُوحِيَ إِلَيَّ أَنَّهُ ٱسۡتَمَعَ نَفَرٞ مِّنَ ٱلۡجِنِّ فَقَالُوٓاْ إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبٗا",
+  "translation": "Sema: Imefunuliwa kwangu ya kuwa kundi moja la majini lilisikiliza, na likasema: Hakika sisi tumeisikia Qur'ani ya ajabu!",
+  "footnotes": "Ewe Muhammad! Waambie watu wako: Nimepata wahyi kwamba kikundi cha majini kimesikia kusoma kwangu Qur'ani, nao wakawaambia wenzao: Hakika sisi tumeisikia Qur'ani ya namna ya peke yake, hatujapata kusikia mfano wake kabla yake,"
 }

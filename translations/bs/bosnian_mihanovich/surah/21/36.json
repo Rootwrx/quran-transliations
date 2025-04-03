@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2519",
-    "sura": "21",
-    "aya": "36",
-    "arabic_text": "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓاْ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِي يَذۡكُرُ ءَالِهَتَكُمۡ وَهُم بِذِكۡرِ ٱلرَّحۡمَٰنِ هُمۡ كَٰفِرُونَ",
-    "translation": "Kada te vide oni koji ne vjeruju, samo ti se rugaju: \"Je li to onaj koji vaše bogove huli?\" A oni sami ne vjeruju kad se spomene Svemilosni. ",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 325,
+  "verse_key": "21:36",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓاْ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِي يَذۡكُرُ ءَالِهَتَكُمۡ وَهُم بِذِكۡرِ ٱلرَّحۡمَٰنِ هُمۡ كَٰفِرُونَ",
+  "translation": "Kada te vide oni koji ne vjeruju, samo ti se rugaju: \"Je li to onaj koji vaše bogove huli?\" A oni sami ne vjeruju kad se spomene Svemilosni. ",
+  "footnotes": ""
 }

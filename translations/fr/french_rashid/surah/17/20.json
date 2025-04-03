@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2049",
-    "sura": "17",
-    "aya": "20",
-    "arabic_text": "كُلّٗا نُّمِدُّ هَٰٓؤُلَآءِ وَهَٰٓؤُلَآءِ مِنۡ عَطَآءِ رَبِّكَۚ وَمَا كَانَ عَطَآءُ رَبِّكَ مَحۡظُورًا",
-    "translation": "20 Nous accordons aux uns et aux autres de Nos faveurs[735], sans que nul ne soit privé des dons de ton Seigneur.",
-    "footnotes": "[735] A ceux qui agissent en vue de l’au-delà, comme à ceux qui choisissent ce bas monde."
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 284,
+  "verse_key": "17:20",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلّٗا نُّمِدُّ هَٰٓؤُلَآءِ وَهَٰٓؤُلَآءِ مِنۡ عَطَآءِ رَبِّكَۚ وَمَا كَانَ عَطَآءُ رَبِّكَ مَحۡظُورًا",
+  "translation": "20 Nous accordons aux uns et aux autres de Nos faveurs[735], sans que nul ne soit privé des dons de ton Seigneur.",
+  "footnotes": "[735] A ceux qui agissent en vue de l’au-delà, comme à ceux qui choisissent ce bas monde."
 }

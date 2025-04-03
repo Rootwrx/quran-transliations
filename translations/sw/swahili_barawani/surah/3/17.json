@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "310",
-    "sura": "3",
-    "aya": "17",
-    "arabic_text": "ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلۡقَٰنِتِينَ وَٱلۡمُنفِقِينَ وَٱلۡمُسۡتَغۡفِرِينَ بِٱلۡأَسۡحَارِ",
-    "translation": "Wanao subiri, wanao sema kweli, na wat'iifu, na wanao toa sadaka, na wanao omba maghafira kabla ya alfajiri.",
-    "footnotes": "Na malipo haya huyapata wanao stahamili mashaka kwa ajili ya ut'iifu wao, na kujitenga na maasi, na kuvumilia dhiki, watu ambao ni wakweli katika kauli zao na vitendo vyao, na niya zao, wenye kudumu katika ut'iifu kwa kunyenyekea, wenye kutoa wawezacho bilhali walmali na vyenginevyo kwa sababu ya mambo ya kheri, ambao kwamba wanamtaka msamaha Mwenyezi Mungu mwishoni mwa usiku, kabla ya alfajiri, zinapo safika roho na hutengenea kuzingatia na kutafakari katika utukufu wa Muumbaji."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 52,
+  "verse_key": "3:17",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلۡقَٰنِتِينَ وَٱلۡمُنفِقِينَ وَٱلۡمُسۡتَغۡفِرِينَ بِٱلۡأَسۡحَارِ",
+  "translation": "Wanao subiri, wanao sema kweli, na wat'iifu, na wanao toa sadaka, na wanao omba maghafira kabla ya alfajiri.",
+  "footnotes": "Na malipo haya huyapata wanao stahamili mashaka kwa ajili ya ut'iifu wao, na kujitenga na maasi, na kuvumilia dhiki, watu ambao ni wakweli katika kauli zao na vitendo vyao, na niya zao, wenye kudumu katika ut'iifu kwa kunyenyekea, wenye kutoa wawezacho bilhali walmali na vyenginevyo kwa sababu ya mambo ya kheri, ambao kwamba wanamtaka msamaha Mwenyezi Mungu mwishoni mwa usiku, kabla ya alfajiri, zinapo safika roho na hutengenea kuzingatia na kutafakari katika utukufu wa Muumbaji."
 }

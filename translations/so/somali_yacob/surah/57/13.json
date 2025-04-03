@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5088",
-    "sura": "57",
-    "aya": "13",
-    "arabic_text": "يَوۡمَ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلۡمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُواْ ٱنظُرُونَا نَقۡتَبِسۡ مِن نُّورِكُمۡ قِيلَ ٱرۡجِعُواْ وَرَآءَكُمۡ فَٱلۡتَمِسُواْ نُورٗاۖ فَضُرِبَ بَيۡنَهُم بِسُورٖ لَّهُۥ بَابُۢ بَاطِنُهُۥ فِيهِ ٱلرَّحۡمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلۡعَذَابُ",
-    "translation": "13. Maalinta ay munaafiqiinta iyo munaa- fiqooyinka ku odhan doonaan mu’miniinta: Na suga oo noo oggolaada inaan wax ka qaadanno nuurkiinna. Waxaa la odhan: Dib ugu noqda gadaashiinna5. Markaas dalba nuur. Markaas baa xannib la yeeli dhexdoo- da, derbi leh albaab. Gudahiisa yahay naxariis, xaggiisa debedda ahna cadaab.",
-    "footnotes": "5. U noqda halka laga helayey nuurka waa noloshii adduunka."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 539,
+  "verse_key": "57:13",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلۡمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُواْ ٱنظُرُونَا نَقۡتَبِسۡ مِن نُّورِكُمۡ قِيلَ ٱرۡجِعُواْ وَرَآءَكُمۡ فَٱلۡتَمِسُواْ نُورٗاۖ فَضُرِبَ بَيۡنَهُم بِسُورٖ لَّهُۥ بَابُۢ بَاطِنُهُۥ فِيهِ ٱلرَّحۡمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلۡعَذَابُ",
+  "translation": "13. Maalinta ay munaafiqiinta iyo munaa- fiqooyinka ku odhan doonaan mu’miniinta: Na suga oo noo oggolaada inaan wax ka qaadanno nuurkiinna. Waxaa la odhan: Dib ugu noqda gadaashiinna5. Markaas dalba nuur. Markaas baa xannib la yeeli dhexdoo- da, derbi leh albaab. Gudahiisa yahay naxariis, xaggiisa debedda ahna cadaab.",
+  "footnotes": "5. U noqda halka laga helayey nuurka waa noloshii adduunka."
 }

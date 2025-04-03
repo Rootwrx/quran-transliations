@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1435",
-    "sura": "10",
-    "aya": "71",
-    "arabic_text": "۞ وَٱتۡلُ عَلَيۡهِمۡ نَبَأَ نُوحٍ إِذۡ قَالَ لِقَوۡمِهِۦ يَٰقَوۡمِ إِن كَانَ كَبُرَ عَلَيۡكُم مَّقَامِي وَتَذۡكِيرِي بِـَٔايَٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلۡتُ فَأَجۡمِعُوٓاْ أَمۡرَكُمۡ وَشُرَكَآءَكُمۡ ثُمَّ لَا يَكُنۡ أَمۡرُكُمۡ عَلَيۡكُمۡ غُمَّةٗ ثُمَّ ٱقۡضُوٓاْ إِلَيَّ وَلَا تُنظِرُونِ",
-    "translation": "Onlara Nûh’un haberini oku! Hani kavmine demişti ki: \"Ey Kavmim! İçinizde bulunmam ve Allah’ın ayetlerini hatırlatmam eğer size ağır geliyorsa, ben yalnız Allah’a tevekkül ettim. Haydi! Ortak koştuklarınızla gücünüzü birleştirin. Sonrada yapacağınızı gizli kılmayın. Ardından hükmünüzü uygulayın ve bana mühlet de vermeyin.\"",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 217,
+  "verse_key": "10:71",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَٱتۡلُ عَلَيۡهِمۡ نَبَأَ نُوحٍ إِذۡ قَالَ لِقَوۡمِهِۦ يَٰقَوۡمِ إِن كَانَ كَبُرَ عَلَيۡكُم مَّقَامِي وَتَذۡكِيرِي بِـَٔايَٰتِ ٱللَّهِ فَعَلَى ٱللَّهِ تَوَكَّلۡتُ فَأَجۡمِعُوٓاْ أَمۡرَكُمۡ وَشُرَكَآءَكُمۡ ثُمَّ لَا يَكُنۡ أَمۡرُكُمۡ عَلَيۡكُمۡ غُمَّةٗ ثُمَّ ٱقۡضُوٓاْ إِلَيَّ وَلَا تُنظِرُونِ",
+  "translation": "Onlara Nûh’un haberini oku! Hani kavmine demişti ki: \"Ey Kavmim! İçinizde bulunmam ve Allah’ın ayetlerini hatırlatmam eğer size ağır geliyorsa, ben yalnız Allah’a tevekkül ettim. Haydi! Ortak koştuklarınızla gücünüzü birleştirin. Sonrada yapacağınızı gizli kılmayın. Ardından hükmünüzü uygulayın ve bana mühlet de vermeyin.\"",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5602",
-    "sura": "76",
-    "aya": "11",
-    "arabic_text": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلۡيَوۡمِ وَلَقَّىٰهُمۡ نَضۡرَةٗ وَسُرُورٗا",
-    "translation": "Vì vậy, Allah sẽ bảo vệ họ khỏi cái xấu của Ngày đó và Ngài sẽ ban cho họ sự rạng rỡ và niềm vui.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 579,
+  "verse_key": "76:11",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَقَىٰهُمُ ٱللَّهُ شَرَّ ذَٰلِكَ ٱلۡيَوۡمِ وَلَقَّىٰهُمۡ نَضۡرَةٗ وَسُرُورٗا",
+  "translation": "Vì vậy, Allah sẽ bảo vệ họ khỏi cái xấu của Ngày đó và Ngài sẽ ban cho họ sự rạng rỡ và niềm vui.",
+  "footnotes": ""
 }

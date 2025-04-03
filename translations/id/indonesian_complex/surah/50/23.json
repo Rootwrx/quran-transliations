@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4653",
-    "sura": "50",
-    "aya": "23",
-    "arabic_text": "وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَيَّ عَتِيدٌ",
-    "translation": "Dan yang menyertai dia berkata, \"Inilah (catatan amalnya) yang tersedia pada sisiku\".",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 519,
+  "verse_key": "50:23",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَيَّ عَتِيدٌ",
+  "translation": "Dan yang menyertai dia berkata, \"Inilah (catatan amalnya) yang tersedia pada sisiku\".",
+  "footnotes": ""
 }

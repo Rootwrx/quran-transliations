@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2813",
-    "sura": "24",
-    "aya": "22",
-    "arabic_text": "وَلَا يَأۡتَلِ أُوْلُواْ ٱلۡفَضۡلِ مِنكُمۡ وَٱلسَّعَةِ أَن يُؤۡتُوٓاْ أُوْلِي ٱلۡقُرۡبَىٰ وَٱلۡمَسَٰكِينَ وَٱلۡمُهَٰجِرِينَ فِي سَبِيلِ ٱللَّهِۖ وَلۡيَعۡفُواْ وَلۡيَصۡفَحُوٓاْۗ أَلَا تُحِبُّونَ أَن يَغۡفِرَ ٱللَّهُ لَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٌ",
-    "translation": "22. Yey ka dhaaranna kuwaa idinka mid ah ee leh fadliga dheeraadka ah ee ladan inay siiyaan (kaalmo) qaraabadooda, masaakiinta, iyo kuwa uga soo haajiray guryahooda Alle Dartiis. Hana iska cafiyeen hana saamaxeen. Miyeydaan jecleyn in Alle idiin denbi Dhaafo11?Allena waa Denbi Dhaaf Badane, Naxariis Badan.",
-    "footnotes": "11. Abuu Bakar a.k.r. markay soo degeen Aayadahan oo Alle yidhi: Miyeydaan jecleyn inuu Alle idiin denbi dhaafo? Wuxuu yidhi: Haayoo, waan jeclahay, wuxuuna dib u billaabay inuu siiyo Misdax oo ay qaraabo ahaayeen oo ka mid ahaa raggii beenta ka fidshay Caa’isha a.k.r. kaalmadii uu siin jirey, oo kafaara gud ka sameeyey dhaartii uu ka dhaartay."
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 352,
+  "verse_key": "24:22",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 141,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَأۡتَلِ أُوْلُواْ ٱلۡفَضۡلِ مِنكُمۡ وَٱلسَّعَةِ أَن يُؤۡتُوٓاْ أُوْلِي ٱلۡقُرۡبَىٰ وَٱلۡمَسَٰكِينَ وَٱلۡمُهَٰجِرِينَ فِي سَبِيلِ ٱللَّهِۖ وَلۡيَعۡفُواْ وَلۡيَصۡفَحُوٓاْۗ أَلَا تُحِبُّونَ أَن يَغۡفِرَ ٱللَّهُ لَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٌ",
+  "translation": "22. Yey ka dhaaranna kuwaa idinka mid ah ee leh fadliga dheeraadka ah ee ladan inay siiyaan (kaalmo) qaraabadooda, masaakiinta, iyo kuwa uga soo haajiray guryahooda Alle Dartiis. Hana iska cafiyeen hana saamaxeen. Miyeydaan jecleyn in Alle idiin denbi Dhaafo11?Allena waa Denbi Dhaaf Badane, Naxariis Badan.",
+  "footnotes": "11. Abuu Bakar a.k.r. markay soo degeen Aayadahan oo Alle yidhi: Miyeydaan jecleyn inuu Alle idiin denbi dhaafo? Wuxuu yidhi: Haayoo, waan jeclahay, wuxuuna dib u billaabay inuu siiyo Misdax oo ay qaraabo ahaayeen oo ka mid ahaa raggii beenta ka fidshay Caa’isha a.k.r. kaalmadii uu siin jirey, oo kafaara gud ka sameeyey dhaartii uu ka dhaartay."
 }

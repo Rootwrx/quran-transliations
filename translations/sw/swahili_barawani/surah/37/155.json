@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3943",
-    "sura": "37",
-    "aya": "155",
-    "arabic_text": "أَفَلَا تَذَكَّرُونَ",
-    "translation": "Hamkumbuki?.",
-    "footnotes": "Je! Mmesahau dalili za uweza wake na kutakasika kwake, ndio msikumbuke mpaka mkaingia katika upotovu?"
-  }
+  "id": 155,
+  "verse_number": 155,
+  "page_number": 452,
+  "verse_key": "37:155",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَلَا تَذَكَّرُونَ",
+  "translation": "Hamkumbuki?.",
+  "footnotes": "Je! Mmesahau dalili za uweza wake na kutakasika kwake, ndio msikumbuke mpaka mkaingia katika upotovu?"
 }

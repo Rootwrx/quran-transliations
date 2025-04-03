@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1442",
-    "sura": "10",
-    "aya": "78",
-    "arabic_text": "قَالُوٓاْ أَجِئۡتَنَا لِتَلۡفِتَنَا عَمَّا وَجَدۡنَا عَلَيۡهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلۡكِبۡرِيَآءُ فِي ٱلۡأَرۡضِ وَمَا نَحۡنُ لَكُمَا بِمُؤۡمِنِينَ",
-    "translation": "78. Ils dirent : « Es-tu venu nous détourner de ce que nous avons hérité de nos pères, et pour que, vous deux, bénéficiiez de la gloire sur terre ? (Non) nous ne croirons pas en vous ! »",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 217,
+  "verse_key": "10:78",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَجِئۡتَنَا لِتَلۡفِتَنَا عَمَّا وَجَدۡنَا عَلَيۡهِ ءَابَآءَنَا وَتَكُونَ لَكُمَا ٱلۡكِبۡرِيَآءُ فِي ٱلۡأَرۡضِ وَمَا نَحۡنُ لَكُمَا بِمُؤۡمِنِينَ",
+  "translation": "78. Ils dirent : « Es-tu venu nous détourner de ce que nous avons hérité de nos pères, et pour que, vous deux, bénéficiiez de la gloire sur terre ? (Non) nous ne croirons pas en vous ! »",
+  "footnotes": ""
 }

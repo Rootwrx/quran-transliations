@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "839",
-    "sura": "6",
-    "aya": "50",
-    "arabic_text": "قُل لَّآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ وَلَآ أَقُولُ لَكُمۡ إِنِّي مَلَكٌۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّۚ قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُۚ أَفَلَا تَتَفَكَّرُونَ",
-    "translation": "50. Dis : « Je ne vous dis pas que je détiens les trésors d’Allah, ni que je connais l’Inconnaissable (ghayb). Je ne vous dis pas, non plus, que je suis un Ange. Je ne fais que suivre ce qui m’est révélé. » Ajoute : « L’aveugle et le voyant[170] se valent-ils ? Pourquoi n’essayez-vous pas d’y réfléchir ? »",
-    "footnotes": "[170] Le « voyant » n’a pas ici le sens de « devin », mais de « celui qui voit » par opposition au « non-voyant » (l’aveugle). Cet emploi est confirmé dans le Grand Robert. Le contexte contrastif plaide aussi en faveur de cet emploi, puisque le lecteur comprendra qu’il s’agit du contraire de « l’aveugle ». La même expression reviendra dans la sourate Ar-Ra ̒ad (Le Tonnerre), verset 16 et la sourate Fâtir (Le Créateur Premier), verset 19. "
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 133,
+  "verse_key": "6:50",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لَّآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ وَلَآ أَقُولُ لَكُمۡ إِنِّي مَلَكٌۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّۚ قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُۚ أَفَلَا تَتَفَكَّرُونَ",
+  "translation": "50. Dis : « Je ne vous dis pas que je détiens les trésors d’Allah, ni que je connais l’Inconnaissable (ghayb). Je ne vous dis pas, non plus, que je suis un Ange. Je ne fais que suivre ce qui m’est révélé. » Ajoute : « L’aveugle et le voyant[170] se valent-ils ? Pourquoi n’essayez-vous pas d’y réfléchir ? »",
+  "footnotes": "[170] Le « voyant » n’a pas ici le sens de « devin », mais de « celui qui voit » par opposition au « non-voyant » (l’aveugle). Cet emploi est confirmé dans le Grand Robert. Le contexte contrastif plaide aussi en faveur de cet emploi, puisque le lecteur comprendra qu’il s’agit du contraire de « l’aveugle ». La même expression reviendra dans la sourate Ar-Ra ̒ad (Le Tonnerre), verset 16 et la sourate Fâtir (Le Créateur Premier), verset 19. "
 }

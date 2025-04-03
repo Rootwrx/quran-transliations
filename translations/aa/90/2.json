@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6025",
-    "sura": "90",
-    "aya": "2",
-    "arabic_text": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
-    "translation": "2. Nabiyow atu ta baaxol dabqih yan num kinnito.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 594,
+  "verse_key": "90:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
+  "translation": "2. Nabiyow atu ta baaxol dabqih yan num kinnito.",
+  "footnotes": ""
 }

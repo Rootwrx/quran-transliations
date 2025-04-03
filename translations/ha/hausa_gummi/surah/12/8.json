@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1604",
-    "sura": "12",
-    "aya": "8",
-    "arabic_text": "إِذۡ قَالُواْ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحۡنُ عُصۡبَةٌ إِنَّ أَبَانَا لَفِي ضَلَٰلٖ مُّبِينٍ",
-    "translation": "A lõkacin da suka ce:* lalle ne Yũsufu da ɗan'uwansa ne mafiya sõyuwa ga ubanmu daga gare mu, alhãli kuwa mũ jama'a guda ne. Lalle ubanmu, haƙĩƙa, yanã cikin ɓata bayyananniya.",
-    "footnotes": "* Hĩrar yãra a tsakãninsu. Sunã tunãnin sõyayyar ubansu ga ɗayansu wanda bã ya cikinsu yanzu. Sunã tunãnin yadda zã su sãmi ãdalcin daidaitãwar so daga ubansu bãki ɗayansu. Ɗan'uwansu wanda ubansu yake so, watau Yũsufu, ya sãmi baƙin jini daga gare su dõmin ubansu yana sonsa. Sabõda haka shaiɗan yanã sanya musu tunãnin su yi zunubin rabuwa da shi, sa'an nan su tũba ga Allah."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 236,
+  "verse_key": "12:8",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالُواْ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحۡنُ عُصۡبَةٌ إِنَّ أَبَانَا لَفِي ضَلَٰلٖ مُّبِينٍ",
+  "translation": "A lõkacin da suka ce:* lalle ne Yũsufu da ɗan'uwansa ne mafiya sõyuwa ga ubanmu daga gare mu, alhãli kuwa mũ jama'a guda ne. Lalle ubanmu, haƙĩƙa, yanã cikin ɓata bayyananniya.",
+  "footnotes": "* Hĩrar yãra a tsakãninsu. Sunã tunãnin sõyayyar ubansu ga ɗayansu wanda bã ya cikinsu yanzu. Sunã tunãnin yadda zã su sãmi ãdalcin daidaitãwar so daga ubansu bãki ɗayansu. Ɗan'uwansu wanda ubansu yake so, watau Yũsufu, ya sãmi baƙin jini daga gare su dõmin ubansu yana sonsa. Sabõda haka shaiɗan yanã sanya musu tunãnin su yi zunubin rabuwa da shi, sa'an nan su tũba ga Allah."
 }

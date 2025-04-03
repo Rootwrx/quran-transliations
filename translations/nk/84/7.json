@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5891",
-    "sura": "84",
-    "aya": "7",
-    "arabic_text": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ",
-    "translation": "ߒ߬ߓߊ߬ ߣߌ߫ ߡߍ߲ ߠߊ߫ ߟߍߙߊ ߘߌ߫ ߘߴߊ߬ ߡߵߊ߬ ߞߌߣߌ߲ ߝߍ߬",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 589,
+  "verse_key": "84:7",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ",
+  "translation": "ߒ߬ߓߊ߬ ߣߌ߫ ߡߍ߲ ߠߊ߫ ߟߍߙߊ ߘߌ߫ ߘߴߊ߬ ߡߵߊ߬ ߞߌߣߌ߲ ߝߍ߬",
+  "footnotes": ""
 }

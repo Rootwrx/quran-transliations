@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "698",
-    "sura": "5",
-    "aya": "29",
-    "arabic_text": "إِنِّيٓ أُرِيدُ أَن تَبُوٓأَ بِإِثۡمِي وَإِثۡمِكَ فَتَكُونَ مِنۡ أَصۡحَٰبِ ٱلنَّارِۚ وَذَٰلِكَ جَزَٰٓؤُاْ ٱلظَّٰلِمِينَ",
-    "translation": "  Ani ati badii kiyyaafi badii keetiin deebitee warra ibiddaa irraa ta'uun fedha. Kunis mindaa miidhaa hojjattootaati.\"",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 112,
+  "verse_key": "5:29",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 45,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنِّيٓ أُرِيدُ أَن تَبُوٓأَ بِإِثۡمِي وَإِثۡمِكَ فَتَكُونَ مِنۡ أَصۡحَٰبِ ٱلنَّارِۚ وَذَٰلِكَ جَزَٰٓؤُاْ ٱلظَّٰلِمِينَ",
+  "translation": "  Ani ati badii kiyyaafi badii keetiin deebitee warra ibiddaa irraa ta'uun fedha. Kunis mindaa miidhaa hojjattootaati.\"",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2005",
-    "sura": "16",
-    "aya": "104",
-    "arabic_text": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِـَٔايَٰتِ ٱللَّهِ لَا يَهۡدِيهِمُ ٱللَّهُ وَلَهُمۡ عَذَابٌ أَلِيمٌ",
-    "translation": "Onima koji neće da vjeruju u Allahove dokaze Allah, sigurno, neće ukazati na Pravi put, i njih čeka patnja nesnosna.",
-    "footnotes": ""
-  }
+  "id": 104,
+  "verse_number": 104,
+  "page_number": 279,
+  "verse_key": "16:104",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِـَٔايَٰتِ ٱللَّهِ لَا يَهۡدِيهِمُ ٱللَّهُ وَلَهُمۡ عَذَابٌ أَلِيمٌ",
+  "translation": "Onima koji neće da vjeruju u Allahove dokaze Allah, sigurno, neće ukazati na Pravi put, i njih čeka patnja nesnosna.",
+  "footnotes": ""
 }

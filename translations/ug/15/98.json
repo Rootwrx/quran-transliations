@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1900",
-    "sura": "15",
-    "aya": "98",
-    "arabic_text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُن مِّنَ ٱلسَّٰجِدِينَ",
-    "translation": "پەرۋەردىگارىڭغا ھەمدۇ ۋە تەسبىھ ئېيتقىن، ھەم سەجدە قىلغۇچىلاردىن بولغىن. [98]",
-    "footnotes": null
-  }
+  "id": 98,
+  "verse_number": 98,
+  "page_number": 267,
+  "verse_key": "15:98",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُن مِّنَ ٱلسَّٰجِدِينَ",
+  "translation": "پەرۋەردىگارىڭغا ھەمدۇ ۋە تەسبىھ ئېيتقىن، ھەم سەجدە قىلغۇچىلاردىن بولغىن. [98]",
+  "footnotes": null
 }

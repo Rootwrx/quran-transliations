@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2972",
-    "sura": "26",
-    "aya": "40",
-    "arabic_text": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُواْ هُمُ ٱلۡغَٰلِبِينَ",
-    "translation": "40. Nous suivrions ainsi les magiciens s’ils s’en sortaient vainqueurs. »",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 369,
+  "verse_key": "26:40",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَعَلَّنَا نَتَّبِعُ ٱلسَّحَرَةَ إِن كَانُواْ هُمُ ٱلۡغَٰلِبِينَ",
+  "translation": "40. Nous suivrions ainsi les magiciens s’ils s’en sortaient vainqueurs. »",
+  "footnotes": ""
 }

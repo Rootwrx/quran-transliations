@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4594",
-    "sura": "48",
-    "aya": "11",
-    "arabic_text": "سَيَقُولُ لَكَ ٱلۡمُخَلَّفُونَ مِنَ ٱلۡأَعۡرَابِ شَغَلَتۡنَآ أَمۡوَٰلُنَا وَأَهۡلُونَا فَٱسۡتَغۡفِرۡ لَنَاۚ يَقُولُونَ بِأَلۡسِنَتِهِم مَّا لَيۡسَ فِي قُلُوبِهِمۡۚ قُلۡ فَمَن يَمۡلِكُ لَكُم مِّنَ ٱللَّهِ شَيۡـًٔا إِنۡ أَرَادَ بِكُمۡ ضَرًّا أَوۡ أَرَادَ بِكُمۡ نَفۡعَۢاۚ بَلۡ كَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرَۢا",
-    "translation": "11. Waxay kugu odhan kuwii ka haray (jihaadka) ee ah reer miyiga (deggan Madiinah hareeraheeda): Waxaa na shuqliyey Maalkayaga iyo ehelkayaga, ee noo denbi dhaaf dalab. Waxay ka yidhaahdaan carrabyadooda waxaan ku jirin quluubtooda. Dheh: Yaa idinka celin Alle hadduu idin la doono dhib ama idin la doono dheef? Alle waa u Xog Ogaal waxaad fashaan.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 512,
+  "verse_key": "48:11",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَقُولُ لَكَ ٱلۡمُخَلَّفُونَ مِنَ ٱلۡأَعۡرَابِ شَغَلَتۡنَآ أَمۡوَٰلُنَا وَأَهۡلُونَا فَٱسۡتَغۡفِرۡ لَنَاۚ يَقُولُونَ بِأَلۡسِنَتِهِم مَّا لَيۡسَ فِي قُلُوبِهِمۡۚ قُلۡ فَمَن يَمۡلِكُ لَكُم مِّنَ ٱللَّهِ شَيۡـًٔا إِنۡ أَرَادَ بِكُمۡ ضَرًّا أَوۡ أَرَادَ بِكُمۡ نَفۡعَۢاۚ بَلۡ كَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرَۢا",
+  "translation": "11. Waxay kugu odhan kuwii ka haray (jihaadka) ee ah reer miyiga (deggan Madiinah hareeraheeda): Waxaa na shuqliyey Maalkayaga iyo ehelkayaga, ee noo denbi dhaaf dalab. Waxay ka yidhaahdaan carrabyadooda waxaan ku jirin quluubtooda. Dheh: Yaa idinka celin Alle hadduu idin la doono dhib ama idin la doono dheef? Alle waa u Xog Ogaal waxaad fashaan.",
+  "footnotes": ""
 }

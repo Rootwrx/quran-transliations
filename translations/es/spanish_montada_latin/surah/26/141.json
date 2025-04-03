@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3073",
-    "sura": "26",
-    "aya": "141",
-    "arabic_text": "كَذَّبَتۡ ثَمُودُ ٱلۡمُرۡسَلِينَ",
-    "translation": "141. El pueblo de Zamud[718] desmintió a los mensajeros de Al-lah.",
-    "footnotes": "[718]  Ver las notas de la aleya 73 de la sura 7."
-  }
+  "id": 141,
+  "verse_number": 141,
+  "page_number": 373,
+  "verse_key": "26:141",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَّبَتۡ ثَمُودُ ٱلۡمُرۡسَلِينَ",
+  "translation": "141. El pueblo de Zamud[718] desmintió a los mensajeros de Al-lah.",
+  "footnotes": "[718]  Ver las notas de la aleya 73 de la sura 7."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "364",
-    "sura": "3",
-    "aya": "71",
-    "arabic_text": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَلۡبِسُونَ ٱلۡحَقَّ بِٱلۡبَٰطِلِ وَتَكۡتُمُونَ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ",
-    "translation": "O Leute der Schrift, warum verdeckt ihr das Wahre durch das Falsche und verbergt wissentlich die Wahrheit?",
-    "footnotes": null
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 59,
+  "verse_key": "3:71",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَلۡبِسُونَ ٱلۡحَقَّ بِٱلۡبَٰطِلِ وَتَكۡتُمُونَ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ",
+  "translation": "O Leute der Schrift, warum verdeckt ihr das Wahre durch das Falsche und verbergt wissentlich die Wahrheit?",
+  "footnotes": null
 }

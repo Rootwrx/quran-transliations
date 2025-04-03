@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3854",
-    "sura": "37",
-    "aya": "66",
-    "arabic_text": "فَإِنَّهُمۡ لَأٓكِلُونَ مِنۡهَا فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
-    "translation": "Они ће са њега да се хране и своје стомаке ће њиме да пуне,",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 448,
+  "verse_key": "37:66",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنَّهُمۡ لَأٓكِلُونَ مِنۡهَا فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+  "translation": "Они ће са њега да се хране и своје стомаке ће њиме да пуне,",
+  "footnotes": ""
 }

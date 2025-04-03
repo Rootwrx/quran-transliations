@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3883",
-    "sura": "37",
-    "aya": "95",
-    "arabic_text": "قَالَ أَتَعۡبُدُونَ مَا تَنۡحِتُونَ",
-    "translation": "Il [leur] dit : \"Adorez-vous ce que vous-mêmes sculptez,",
-    "footnotes": ""
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 449,
+  "verse_key": "37:95",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ أَتَعۡبُدُونَ مَا تَنۡحِتُونَ",
+  "translation": "Il [leur] dit : \"Adorez-vous ce que vous-mêmes sculptez,",
+  "footnotes": ""
 }

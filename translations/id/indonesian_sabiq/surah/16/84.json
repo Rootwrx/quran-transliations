@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1985",
-    "sura": "16",
-    "aya": "84",
-    "arabic_text": "وَيَوۡمَ نَبۡعَثُ مِن كُلِّ أُمَّةٖ شَهِيدٗا ثُمَّ لَا يُؤۡذَنُ لِلَّذِينَ كَفَرُواْ وَلَا هُمۡ يُسۡتَعۡتَبُونَ",
-    "translation": "84. Dan (ingatlah) pada hari (ketika) Kami bangkitkan seorang saksi (rasul) dari setiap umat, kemudian tidak diizinkan kepada orang yang kafir (untuk membela diri) dan tidak (pula) dibolehkan memohon ampunan.",
-    "footnotes": ""
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 276,
+  "verse_key": "16:84",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَوۡمَ نَبۡعَثُ مِن كُلِّ أُمَّةٖ شَهِيدٗا ثُمَّ لَا يُؤۡذَنُ لِلَّذِينَ كَفَرُواْ وَلَا هُمۡ يُسۡتَعۡتَبُونَ",
+  "translation": "84. Dan (ingatlah) pada hari (ketika) Kami bangkitkan seorang saksi (rasul) dari setiap umat, kemudian tidak diizinkan kepada orang yang kafir (untuk membela diri) dan tidak (pula) dibolehkan memohon ampunan.",
+  "footnotes": ""
 }

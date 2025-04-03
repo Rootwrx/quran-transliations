@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2549",
-    "sura": "21",
-    "aya": "66",
-    "arabic_text": "قَالَ أَفَتَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمۡ شَيۡـٔٗا وَلَا يَضُرُّكُمۡ",
-    "translation": "La a yeel yã:\"rẽ yĩnga yãmb tũuda zẽng sẽn pa Wẽnde, bũmb tũudum sẽn pa nafd yãmba, a bas n pa tũ me sẽn pa maan yãmb naongo?",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 327,
+  "verse_key": "21:66",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ أَفَتَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكُمۡ شَيۡـٔٗا وَلَا يَضُرُّكُمۡ",
+  "translation": "La a yeel yã:\"rẽ yĩnga yãmb tũuda zẽng sẽn pa Wẽnde, bũmb tũudum sẽn pa nafd yãmba, a bas n pa tũ me sẽn pa maan yãmb naongo?",
+  "footnotes": ""
 }

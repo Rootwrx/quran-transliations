@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1334",
-    "sura": "9",
-    "aya": "99",
-    "arabic_text": "وَمِنَ ٱلۡأَعۡرَابِ مَن يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَتَّخِذُ مَا يُنفِقُ قُرُبَٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِۚ أَلَآ إِنَّهَا قُرۡبَةٞ لَّهُمۡۚ سَيُدۡخِلُهُمُ ٱللَّهُ فِي رَحۡمَتِهِۦٓۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
-    "translation": "Na katika Mabedui wapo wanao muamini Mwenyezi Mungu na Siku ya Mwisho, na wanaitakidi kuwa wanayo yatoa ndiyo ya kuwasogeza kwa Mwenyezi Mungu na ya kuwapatia dua za Mtume. Naam! Hayo ni kweli mambo ya kuwasogeza. Mwenyezi Mungu atawaingiza katika rehema yake. Hakika Mwenyezi Mungu ni Mwenye maghfira Mwenye kurehemu.",
-    "footnotes": "Wala si kama Mabedui wote ni hali hiyo. Wamo kati yao wanao muamini Mwenyezi Mungu, na wanaisadiki Siku ya Kiyama, na wanaitakidi kuwa kwa kutoa katika Njia ya Mwenyezi Mungu wanajikaribisha kwa Mwenyezi Mungu, na ni sababu ya Mtume s.a.w. kuwaombea wao, kwa kuwa yeye alikuwa akiwaombea kheri na baraka wale wanao toa sadaka. Na hayo bila ya shaka ni njia kubwa ya kuwakaribisha watu kwa Mwenyezi Mungu na kuwafikishia yale wayatakayo. Basi hakika Mwenyezi Mungu atawamiminia rehema yake, kwani Yeye ni Mwenye kusamehe madhambi, Mwenye kuwarehemu viumbe vyake."
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 202,
+  "verse_key": "9:99",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 81,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلۡأَعۡرَابِ مَن يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَتَّخِذُ مَا يُنفِقُ قُرُبَٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِۚ أَلَآ إِنَّهَا قُرۡبَةٞ لَّهُمۡۚ سَيُدۡخِلُهُمُ ٱللَّهُ فِي رَحۡمَتِهِۦٓۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+  "translation": "Na katika Mabedui wapo wanao muamini Mwenyezi Mungu na Siku ya Mwisho, na wanaitakidi kuwa wanayo yatoa ndiyo ya kuwasogeza kwa Mwenyezi Mungu na ya kuwapatia dua za Mtume. Naam! Hayo ni kweli mambo ya kuwasogeza. Mwenyezi Mungu atawaingiza katika rehema yake. Hakika Mwenyezi Mungu ni Mwenye maghfira Mwenye kurehemu.",
+  "footnotes": "Wala si kama Mabedui wote ni hali hiyo. Wamo kati yao wanao muamini Mwenyezi Mungu, na wanaisadiki Siku ya Kiyama, na wanaitakidi kuwa kwa kutoa katika Njia ya Mwenyezi Mungu wanajikaribisha kwa Mwenyezi Mungu, na ni sababu ya Mtume s.a.w. kuwaombea wao, kwa kuwa yeye alikuwa akiwaombea kheri na baraka wale wanao toa sadaka. Na hayo bila ya shaka ni njia kubwa ya kuwakaribisha watu kwa Mwenyezi Mungu na kuwafikishia yale wayatakayo. Basi hakika Mwenyezi Mungu atawamiminia rehema yake, kwani Yeye ni Mwenye kusamehe madhambi, Mwenye kuwarehemu viumbe vyake."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1401",
-    "sura": "10",
-    "aya": "37",
-    "arabic_text": "وَمَا كَانَ هَٰذَا ٱلۡقُرۡءَانُ أَن يُفۡتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ ٱلۡكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "37. Ce Coran n’a pu être inventé en dehors d’Allah. Il vient plutôt confirmer ce qui existait avant lui et exposer dans l’intimité du détail le Livre indubitable, venu du Seigneur de l’Univers.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 213,
+  "verse_key": "10:37",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ هَٰذَا ٱلۡقُرۡءَانُ أَن يُفۡتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ ٱلۡكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "37. Ce Coran n’a pu être inventé en dehors d’Allah. Il vient plutôt confirmer ce qui existait avant lui et exposer dans l’intimité du détail le Livre indubitable, venu du Seigneur de l’Univers.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "150",
-    "sura": "2",
-    "aya": "143",
-    "arabic_text": "وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ",
-    "translation": "143. Muslimiiney massa-le gitä fanah tirri sin kah hayne innaah, tayse ummatay Qadaalat-le sin Ahne isin Akeeral Sinaamal Sumaaqita mara takkeenimkeh, ken farmoytit sinni Rabbih farmo ken guddussecmil, Akeeral Yallih farmoyti Mucammad ﷺ Yallih farmo sin gudduyseemih Siinil Sumaaqita num yakkemkeh, Nabiyow Qhiblatay fan как Afkanuk Sugtek kaqbâ fanah tafkunem kah Abnem mannu nanu Yallih farmoyta kataataah kay Amri oggola maraa kee iimaan как Boola-leeh diinik korraaqaah derre-derreh gaca maray nanu neexege yambulleemkeh iyyaanam akke waytek, kaqba fan yafkuneenim Nabaah Qilsih Yalli tirri hee maray Yalli woh eile xabbacoyse Akke waytek, Yalli sin iimaan kee sin Salaatay Beytal maqhdis fanah kah Afkunak Sugteeni Baysam matakkaay maaba, Diggah Yalli sinaamah Allaaqalaay xuwaw-le Rabbi kinni.",
-    "footnotes": ""
-  }
+  "id": 143,
+  "verse_number": 143,
+  "page_number": 22,
+  "verse_key": "2:143",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ",
+  "translation": "143. Muslimiiney massa-le gitä fanah tirri sin kah hayne innaah, tayse ummatay Qadaalat-le sin Ahne isin Akeeral Sinaamal Sumaaqita mara takkeenimkeh, ken farmoytit sinni Rabbih farmo ken guddussecmil, Akeeral Yallih farmoyti Mucammad ﷺ Yallih farmo sin gudduyseemih Siinil Sumaaqita num yakkemkeh, Nabiyow Qhiblatay fan как Afkanuk Sugtek kaqbâ fanah tafkunem kah Abnem mannu nanu Yallih farmoyta kataataah kay Amri oggola maraa kee iimaan как Boola-leeh diinik korraaqaah derre-derreh gaca maray nanu neexege yambulleemkeh iyyaanam akke waytek, kaqba fan yafkuneenim Nabaah Qilsih Yalli tirri hee maray Yalli woh eile xabbacoyse Akke waytek, Yalli sin iimaan kee sin Salaatay Beytal maqhdis fanah kah Afkunak Sugteeni Baysam matakkaay maaba, Diggah Yalli sinaamah Allaaqalaay xuwaw-le Rabbi kinni.",
+  "footnotes": ""
 }

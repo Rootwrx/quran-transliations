@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5821",
-    "sura": "81",
-    "aya": "21",
-    "arabic_text": "مُّطَاعٖ ثَمَّ أَمِينٖ",
-    "translation": "Anaye t'iiwa, tena muaminifu.",
-    "footnotes": "Tena ni mwenye kut'iiwa, na muaminifu wa kuchukua wahyi miongoni wa walio juu."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 586,
+  "verse_key": "81:21",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مُّطَاعٖ ثَمَّ أَمِينٖ",
+  "translation": "Anaye t'iiwa, tena muaminifu.",
+  "footnotes": "Tena ni mwenye kut'iiwa, na muaminifu wa kuchukua wahyi miongoni wa walio juu."
 }

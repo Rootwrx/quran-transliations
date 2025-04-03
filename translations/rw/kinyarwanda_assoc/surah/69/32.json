@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5355",
-    "sura": "69",
-    "aya": "32",
-    "arabic_text": "ثُمَّ فِي سِلۡسِلَةٖ ذَرۡعُهَا سَبۡعُونَ ذِرَاعٗا فَٱسۡلُكُوهُ",
-    "translation": "Nyuma mumuboheshe umunyururu ufite uburebure bwa Dhira’a[1] mirongo irindwi.",
-    "footnotes": "[1] Dhira’a ni bumwe mu buryo bwa kera bwifashishwaga mu gupima uburebure bw’ikintu. Dhira’a imwe ingana na santimetero hafi mirongo irindwi n’eshanu (75 cm)."
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 567,
+  "verse_key": "69:32",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ فِي سِلۡسِلَةٖ ذَرۡعُهَا سَبۡعُونَ ذِرَاعٗا فَٱسۡلُكُوهُ",
+  "translation": "Nyuma mumuboheshe umunyururu ufite uburebure bwa Dhira’a[1] mirongo irindwi.",
+  "footnotes": "[1] Dhira’a ni bumwe mu buryo bwa kera bwifashishwaga mu gupima uburebure bw’ikintu. Dhira’a imwe ingana na santimetero hafi mirongo irindwi n’eshanu (75 cm)."
 }

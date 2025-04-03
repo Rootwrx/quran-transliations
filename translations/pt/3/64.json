@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "357",
-    "sura": "3",
-    "aya": "64",
-    "arabic_text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ تَعَالَوۡاْ إِلَىٰ كَلِمَةٖ سَوَآءِۭ بَيۡنَنَا وَبَيۡنَكُمۡ أَلَّا نَعۡبُدَ إِلَّا ٱللَّهَ وَلَا نُشۡرِكَ بِهِۦ شَيۡـٔٗا وَلَا يَتَّخِذَ بَعۡضُنَا بَعۡضًا أَرۡبَابٗا مِّن دُونِ ٱللَّهِۚ فَإِن تَوَلَّوۡاْ فَقُولُواْ ٱشۡهَدُواْ بِأَنَّا مُسۡلِمُونَ",
-    "translation": "Dize: \"Ó seguidores do Livro! Vinde a uma palavra igual entre nós e vós: não adoremos senão a Allah, e nada Lhe associemos e não tomemos uns aos outros por senhores, além de Allah.\" E, se voltarem as costas, dizei: \"Testemunhai que somos muçulmanos.\"",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 58,
+  "verse_key": "3:64",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ تَعَالَوۡاْ إِلَىٰ كَلِمَةٖ سَوَآءِۭ بَيۡنَنَا وَبَيۡنَكُمۡ أَلَّا نَعۡبُدَ إِلَّا ٱللَّهَ وَلَا نُشۡرِكَ بِهِۦ شَيۡـٔٗا وَلَا يَتَّخِذَ بَعۡضُنَا بَعۡضًا أَرۡبَابٗا مِّن دُونِ ٱللَّهِۚ فَإِن تَوَلَّوۡاْ فَقُولُواْ ٱشۡهَدُواْ بِأَنَّا مُسۡلِمُونَ",
+  "translation": "Dize: \"Ó seguidores do Livro! Vinde a uma palavra igual entre nós e vós: não adoremos senão a Allah, e nada Lhe associemos e não tomemos uns aos outros por senhores, além de Allah.\" E, se voltarem as costas, dizei: \"Testemunhai que somos muçulmanos.\"",
+  "footnotes": ""
 }

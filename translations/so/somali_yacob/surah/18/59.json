@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2199",
-    "sura": "18",
-    "aya": "59",
-    "arabic_text": "وَتِلۡكَ ٱلۡقُرَىٰٓ أَهۡلَكۡنَٰهُمۡ لَمَّا ظَلَمُواْ وَجَعَلۡنَا لِمَهۡلِكِهِم مَّوۡعِدٗا",
-    "translation": "59. Magaalooyinkaa (reer Caad iyo Thamuud, iwm) waan halaagnay markay dulmi (shirki iyo macaasi) faleen, waxaana u yeellay halaaggoodii waqti go’an.",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 300,
+  "verse_key": "18:59",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتِلۡكَ ٱلۡقُرَىٰٓ أَهۡلَكۡنَٰهُمۡ لَمَّا ظَلَمُواْ وَجَعَلۡنَا لِمَهۡلِكِهِم مَّوۡعِدٗا",
+  "translation": "59. Magaalooyinkaa (reer Caad iyo Thamuud, iwm) waan halaagnay markay dulmi (shirki iyo macaasi) faleen, waxaana u yeellay halaaggoodii waqti go’an.",
+  "footnotes": ""
 }

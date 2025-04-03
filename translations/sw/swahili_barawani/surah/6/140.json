@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "929",
-    "sura": "6",
-    "aya": "140",
-    "arabic_text": "قَدۡ خَسِرَ ٱلَّذِينَ قَتَلُوٓاْ أَوۡلَٰدَهُمۡ سَفَهَۢا بِغَيۡرِ عِلۡمٖ وَحَرَّمُواْ مَا رَزَقَهُمُ ٱللَّهُ ٱفۡتِرَآءً عَلَى ٱللَّهِۚ قَدۡ ضَلُّواْ وَمَا كَانُواْ مُهۡتَدِينَ",
-    "translation": "Hakika wamekhasirika wale ambao wamewauwa watoto wao kwa upumbavu pasipo kujua, na wakaharimisha alivyo waruzuku Mwenyezi Mungu kwa kumzulia Mwenyezi Mungu. Hakika wamepotea, wala hawakuwa wenye kuongoka.",
-    "footnotes": "Hakika wamekhasiri hao walio wauwa watoto wao kwa ujinga na kwa mawazo ya uwongo, bila ya kujua nini matokeo ya kitendo chao, wala sababu yake; na wakajiharimishia nafsi zao riziki alizo waruzuku Mwenyezi Mungu katika mimea, na wanyama, huku wakimzulia Mwenyezi Mungu kwa kudai kuwa ni Yeye ndiye aliye harimisha. Na hakika wamejitenga mbali na Haki kwa sababu hiyo. Na kwa sababu ya uzushi huu hawakuwa katika wanao sifika kwa uwongofu."
-  }
+  "id": 140,
+  "verse_number": 140,
+  "page_number": 146,
+  "verse_key": "6:140",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ خَسِرَ ٱلَّذِينَ قَتَلُوٓاْ أَوۡلَٰدَهُمۡ سَفَهَۢا بِغَيۡرِ عِلۡمٖ وَحَرَّمُواْ مَا رَزَقَهُمُ ٱللَّهُ ٱفۡتِرَآءً عَلَى ٱللَّهِۚ قَدۡ ضَلُّواْ وَمَا كَانُواْ مُهۡتَدِينَ",
+  "translation": "Hakika wamekhasirika wale ambao wamewauwa watoto wao kwa upumbavu pasipo kujua, na wakaharimisha alivyo waruzuku Mwenyezi Mungu kwa kumzulia Mwenyezi Mungu. Hakika wamepotea, wala hawakuwa wenye kuongoka.",
+  "footnotes": "Hakika wamekhasiri hao walio wauwa watoto wao kwa ujinga na kwa mawazo ya uwongo, bila ya kujua nini matokeo ya kitendo chao, wala sababu yake; na wakajiharimishia nafsi zao riziki alizo waruzuku Mwenyezi Mungu katika mimea, na wanyama, huku wakimzulia Mwenyezi Mungu kwa kudai kuwa ni Yeye ndiye aliye harimisha. Na hakika wamejitenga mbali na Haki kwa sababu hiyo. Na kwa sababu ya uzushi huu hawakuwa katika wanao sifika kwa uwongofu."
 }

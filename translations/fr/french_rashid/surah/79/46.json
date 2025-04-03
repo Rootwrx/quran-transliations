@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5758",
-    "sura": "79",
-    "aya": "46",
-    "arabic_text": "كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَهَا لَمۡ يَلۡبَثُوٓاْ إِلَّا عَشِيَّةً أَوۡ ضُحَىٰهَا",
-    "translation": "46 Le Jour où ils en seront témoins, il leur semblera n’être restés sur terre que l’espace d’une soirée ou d’une matinée.",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 584,
+  "verse_key": "79:46",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَهَا لَمۡ يَلۡبَثُوٓاْ إِلَّا عَشِيَّةً أَوۡ ضُحَىٰهَا",
+  "translation": "46 Le Jour où ils en seront témoins, il leur semblera n’être restés sur terre que l’espace d’une soirée ou d’une matinée.",
+  "footnotes": ""
 }

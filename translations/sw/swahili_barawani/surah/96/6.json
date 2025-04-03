@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6112",
-    "sura": "96",
-    "aya": "6",
-    "arabic_text": "كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ",
-    "translation": "Kwani! Hakika mtu bila ya shaka huwa jeuri.",
-    "footnotes": "Ni hakika kweli mtu hupindukia mpaka na hupanda kiburi mbele ya Mola wake Mlezi"
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 597,
+  "verse_key": "96:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّآ إِنَّ ٱلۡإِنسَٰنَ لَيَطۡغَىٰٓ",
+  "translation": "Kwani! Hakika mtu bila ya shaka huwa jeuri.",
+  "footnotes": "Ni hakika kweli mtu hupindukia mpaka na hupanda kiburi mbele ya Mola wake Mlezi"
 }

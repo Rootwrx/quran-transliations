@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5383",
-    "sura": "70",
-    "aya": "8",
-    "arabic_text": "يَوۡمَ تَكُونُ ٱلسَّمَآءُ كَٱلۡمُهۡلِ",
-    "translation": "sa Araw na ang langit ay magiging para bang latak ng langis,[3]",
-    "footnotes": "[3] O lusaw na tanso, O lusaw na tingga, O lusaw na pilak."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 568,
+  "verse_key": "70:8",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ تَكُونُ ٱلسَّمَآءُ كَٱلۡمُهۡلِ",
+  "translation": "sa Araw na ang langit ay magiging para bang latak ng langis,[3]",
+  "footnotes": "[3] O lusaw na tanso, O lusaw na tingga, O lusaw na pilak."
 }

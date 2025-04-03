@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4222",
-    "sura": "41",
-    "aya": "4",
-    "arabic_text": "بَشِيرٗا وَنَذِيرٗا فَأَعۡرَضَ أَكۡثَرُهُمۡ فَهُمۡ لَا يَسۡمَعُونَ",
-    "translation": "Ai sjell lajme të mira dhe paralajmërime, por shumica e njerëzve ia kthejnë shpinën dhe largohen pa e dëgjuar.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 477,
+  "verse_key": "41:4",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَشِيرٗا وَنَذِيرٗا فَأَعۡرَضَ أَكۡثَرُهُمۡ فَهُمۡ لَا يَسۡمَعُونَ",
+  "translation": "Ai sjell lajme të mira dhe paralajmërime, por shumica e njerëzve ia kthejnë shpinën dhe largohen pa e dëgjuar.",
+  "footnotes": ""
 }

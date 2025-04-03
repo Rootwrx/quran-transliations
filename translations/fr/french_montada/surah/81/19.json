@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5819",
-    "sura": "81",
-    "aya": "19",
-    "arabic_text": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
-    "translation": "19. que c’est la parole[594] d’un noble émissaire,[595]",
-    "footnotes": "[594] Le Coran.\n[595] Nous traduisons ici par « émissaire » et non par « Messager » car il s’agit de l’Ange Gabriel et non du Prophète (paix et bénédiction d’Allah sur lui)."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 586,
+  "verse_key": "81:19",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
+  "translation": "19. que c’est la parole[594] d’un noble émissaire,[595]",
+  "footnotes": "[594] Le Coran.\n[595] Nous traduisons ici par « émissaire » et non par « Messager » car il s’agit de l’Ange Gabriel et non du Prophète (paix et bénédiction d’Allah sur lui)."
 }

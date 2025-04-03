@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "424",
-    "sura": "3",
-    "aya": "131",
-    "arabic_text": "وَٱتَّقُواْ ٱلنَّارَ ٱلَّتِيٓ أُعِدَّتۡ لِلۡكَٰفِرِينَ",
-    "translation": "Na monsuro Amanehunu gya no a yasiesie ama boniayεfoͻ no.",
-    "footnotes": ""
-  }
+  "id": 131,
+  "verse_number": 131,
+  "page_number": 66,
+  "verse_key": "3:131",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّقُواْ ٱلنَّارَ ٱلَّتِيٓ أُعِدَّتۡ لِلۡكَٰفِرِينَ",
+  "translation": "Na monsuro Amanehunu gya no a yasiesie ama boniayεfoͻ no.",
+  "footnotes": ""
 }

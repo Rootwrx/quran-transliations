@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5437",
-    "sura": "71",
-    "aya": "18",
-    "arabic_text": "ثُمَّ يُعِيدُكُمۡ فِيهَا وَيُخۡرِجُكُمۡ إِخۡرَاجٗا",
-    "translation": "Sonra sizi ora qaytaracaq və (qiyamət günü dirildib oradan təkrar) çıxardacaqdır.",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 571,
+  "verse_key": "71:18",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ يُعِيدُكُمۡ فِيهَا وَيُخۡرِجُكُمۡ إِخۡرَاجٗا",
+  "translation": "Sonra sizi ora qaytaracaq və (qiyamət günü dirildib oradan təkrar) çıxardacaqdır.",
+  "footnotes": ""
 }

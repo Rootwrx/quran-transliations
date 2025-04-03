@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2768",
-    "sura": "23",
-    "aya": "95",
-    "arabic_text": "وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمۡ لَقَٰدِرُونَ",
-    "translation": "Dan sungguh, Kami kuasa untuk memperlihatkan kepadamu (Muhammad) apa yang Kami ancamkan kepada mereka.",
-    "footnotes": ""
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 348,
+  "verse_key": "23:95",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّا عَلَىٰٓ أَن نُّرِيَكَ مَا نَعِدُهُمۡ لَقَٰدِرُونَ",
+  "translation": "Dan sungguh, Kami kuasa untuk memperlihatkan kepadamu (Muhammad) apa yang Kami ancamkan kepada mereka.",
+  "footnotes": ""
 }

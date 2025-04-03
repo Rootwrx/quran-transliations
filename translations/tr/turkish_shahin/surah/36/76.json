@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3781",
-    "sura": "36",
-    "aya": "76",
-    "arabic_text": "فَلَا يَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّا نَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ",
-    "translation": "(Rasûlüm!) O halde onların sözleri sakın seni üzmesin. Kuşkusuz biz, onların gizlemekte olduklarını da, açığa vurduklarını da biliyoruz.",
-    "footnotes": ""
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 445,
+  "verse_key": "36:76",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا يَحۡزُنكَ قَوۡلُهُمۡۘ إِنَّا نَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَ",
+  "translation": "(Rasûlüm!) O halde onların sözleri sakın seni üzmesin. Kuşkusuz biz, onların gizlemekte olduklarını da, açığa vurduklarını da biliyoruz.",
+  "footnotes": ""
 }

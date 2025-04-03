@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2164",
-    "sura": "18",
-    "aya": "24",
-    "arabic_text": "إِلَّآ أَن يَشَآءَ ٱللَّهُۚ وَٱذۡكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلۡ عَسَىٰٓ أَن يَهۡدِيَنِ رَبِّي لِأَقۡرَبَ مِنۡ هَٰذَا رَشَدٗا",
-    "translation": "24. (adigoo aan raacin) inshaa Allaah “Hadduu Alle idmo12\". Xusuusona Rabbigaa markaad hilmaanto oo dheh: Waa intaasoo Rabbigay igu hanuuniyo mid uga dhow arrinkani toosnaanta.",
-    "footnotes": "12.Waxaa soo arooray inay qaar ka mid ah Yuhuudda ay su’aaleen Nabiga s.c.w. ruuxda iyo qisadii asxbaaul Kahaf iyo Dul Qarnayn. Markaasuu Nabigu s.c.w. ku yidhi: Ii kaalaya berrito anigaa idin sheegiye, mana odhan inshaa Allaah. Laakiinse waxyi kuma soo degin maalintii xigtay oo Nabigu s.c.w. uma uusan jawaabin? Kaddib waxaa soo degay Aayadaha 23- 24 ee la xidhiidha arrinkaas waxaana halkaa darsin lagu siiyey Nabiga s.c.w. wuxuu Alle kaga digay inuu ilaabo inuu yidhaahdo Inshaa Allaah markaas oo kale, waana u dersin sidoo kale ummaddiisa."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 296,
+  "verse_key": "18:24",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّآ أَن يَشَآءَ ٱللَّهُۚ وَٱذۡكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلۡ عَسَىٰٓ أَن يَهۡدِيَنِ رَبِّي لِأَقۡرَبَ مِنۡ هَٰذَا رَشَدٗا",
+  "translation": "24. (adigoo aan raacin) inshaa Allaah “Hadduu Alle idmo12\". Xusuusona Rabbigaa markaad hilmaanto oo dheh: Waa intaasoo Rabbigay igu hanuuniyo mid uga dhow arrinkani toosnaanta.",
+  "footnotes": "12.Waxaa soo arooray inay qaar ka mid ah Yuhuudda ay su’aaleen Nabiga s.c.w. ruuxda iyo qisadii asxbaaul Kahaf iyo Dul Qarnayn. Markaasuu Nabigu s.c.w. ku yidhi: Ii kaalaya berrito anigaa idin sheegiye, mana odhan inshaa Allaah. Laakiinse waxyi kuma soo degin maalintii xigtay oo Nabigu s.c.w. uma uusan jawaabin? Kaddib waxaa soo degay Aayadaha 23- 24 ee la xidhiidha arrinkaas waxaana halkaa darsin lagu siiyey Nabiga s.c.w. wuxuu Alle kaga digay inuu ilaabo inuu yidhaahdo Inshaa Allaah markaas oo kale, waana u dersin sidoo kale ummaddiisa."
 }

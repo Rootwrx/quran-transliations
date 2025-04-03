@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4963",
-    "sura": "55",
-    "aya": "62",
-    "arabic_text": "وَمِن دُونِهِمَا جَنَّتَانِ",
-    "translation": "Sẽn leb n paasd bãmb b yiibã, yaa arzãn a yiib yεsa.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 533,
+  "verse_key": "55:62",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِن دُونِهِمَا جَنَّتَانِ",
+  "translation": "Sẽn leb n paasd bãmb b yiibã, yaa arzãn a yiib yεsa.",
+  "footnotes": ""
 }

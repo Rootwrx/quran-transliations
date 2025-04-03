@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2880",
-    "sura": "25",
-    "aya": "25",
-    "arabic_text": "وَيَوۡمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلۡغَمَٰمِ وَنُزِّلَ ٱلۡمَلَٰٓئِكَةُ تَنزِيلًا",
-    "translation": "25. Mpe mokolo moye likolo likopasukaka na mapata, mpe ba anzelu bakokitaka.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 362,
+  "verse_key": "25:25",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَوۡمَ تَشَقَّقُ ٱلسَّمَآءُ بِٱلۡغَمَٰمِ وَنُزِّلَ ٱلۡمَلَٰٓئِكَةُ تَنزِيلًا",
+  "translation": "25. Mpe mokolo moye likolo likopasukaka na mapata, mpe ba anzelu bakokitaka.",
+  "footnotes": ""
 }

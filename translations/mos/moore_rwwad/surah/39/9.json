@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4067",
-    "sura": "39",
-    "aya": "9",
-    "arabic_text": "أَمَّنۡ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيۡلِ سَاجِدٗا وَقَآئِمٗا يَحۡذَرُ ٱلۡأٓخِرَةَ وَيَرۡجُواْ رَحۡمَةَ رَبِّهِۦۗ قُلۡ هَلۡ يَسۡتَوِي ٱلَّذِينَ يَعۡلَمُونَ وَٱلَّذِينَ لَا يَعۡلَمُونَۗ إِنَّمَا يَتَذَكَّرُ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
-    "translation": "La ned ning sẽn yãs ne tũudum yʋng wakatse n yaa suguud maanda, n yaa yasda, n yaeesd laahrã la a tẽed a Soabã yolsgo, yeele: \"rẽ yĩnga neb sẽn mi-bã makda ne sẽn pa mi-bã?\". Ad yaa yam bεεlã rãmb n tagsd n getẽ.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 459,
+  "verse_key": "39:9",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمَّنۡ هُوَ قَٰنِتٌ ءَانَآءَ ٱلَّيۡلِ سَاجِدٗا وَقَآئِمٗا يَحۡذَرُ ٱلۡأٓخِرَةَ وَيَرۡجُواْ رَحۡمَةَ رَبِّهِۦۗ قُلۡ هَلۡ يَسۡتَوِي ٱلَّذِينَ يَعۡلَمُونَ وَٱلَّذِينَ لَا يَعۡلَمُونَۗ إِنَّمَا يَتَذَكَّرُ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+  "translation": "La ned ning sẽn yãs ne tũudum yʋng wakatse n yaa suguud maanda, n yaa yasda, n yaeesd laahrã la a tẽed a Soabã yolsgo, yeele: \"rẽ yĩnga neb sẽn mi-bã makda ne sẽn pa mi-bã?\". Ad yaa yam bεεlã rãmb n tagsd n getẽ.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1263",
-    "sura": "9",
-    "aya": "28",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡمُشۡرِكُونَ نَجَسٞ فَلَا يَقۡرَبُواْ ٱلۡمَسۡجِدَ ٱلۡحَرَامَ بَعۡدَ عَامِهِمۡ هَٰذَاۚ وَإِنۡ خِفۡتُمۡ عَيۡلَةٗ فَسَوۡفَ يُغۡنِيكُمُ ٱللَّهُ مِن فَضۡلِهِۦٓ إِن شَآءَۚ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٞ",
-    "translation": "28. ¡Oh, creyentes! Los idólatras son impuros[1], que no se acerquen a la Mezquita Sagrada[2] después de este año[3]. No teman padecer por ello pobreza o necesidad alguna, que si Dios quiere los proveerá con Su gracia. Dios todo lo sabe, es Sabio.",
-    "footnotes": "[1] Impureza espiritual a causa de su incredulidad o idolatría.\n[2] No es lícito que un no musulmán entre en la Mezquita Sagrada de La Meca. En el resto de las mezquitas, en cambio, sí puede entrar, como cuando el Profeta r recibió a los cristianos de Nayrán en su Mezquita de Medina.\n[3] Este versículo fue revelado en el año noveno de la Hégira."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 191,
+  "verse_key": "9:28",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡمُشۡرِكُونَ نَجَسٞ فَلَا يَقۡرَبُواْ ٱلۡمَسۡجِدَ ٱلۡحَرَامَ بَعۡدَ عَامِهِمۡ هَٰذَاۚ وَإِنۡ خِفۡتُمۡ عَيۡلَةٗ فَسَوۡفَ يُغۡنِيكُمُ ٱللَّهُ مِن فَضۡلِهِۦٓ إِن شَآءَۚ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٞ",
+  "translation": "28. ¡Oh, creyentes! Los idólatras son impuros[1], que no se acerquen a la Mezquita Sagrada[2] después de este año[3]. No teman padecer por ello pobreza o necesidad alguna, que si Dios quiere los proveerá con Su gracia. Dios todo lo sabe, es Sabio.",
+  "footnotes": "[1] Impureza espiritual a causa de su incredulidad o idolatría.\n[2] No es lícito que un no musulmán entre en la Mezquita Sagrada de La Meca. En el resto de las mezquitas, en cambio, sí puede entrar, como cuando el Profeta r recibió a los cristianos de Nayrán en su Mezquita de Medina.\n[3] Este versículo fue revelado en el año noveno de la Hégira."
 }

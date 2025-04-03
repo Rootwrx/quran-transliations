@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1360",
-    "sura": "9",
-    "aya": "125",
-    "arabic_text": "وَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ فَزَادَتۡهُمۡ رِجۡسًا إِلَىٰ رِجۡسِهِمۡ وَمَاتُواْ وَهُمۡ كَٰفِرُونَ",
-    "translation": "Ama wale wenye maradhi katika nyoyo zao, basi inawazidishia uovu juu ya uovu wao; na wanakufa hali ni makafiri.",
-    "footnotes": "Ama wanaafiki ambao nyoyo zao zinaugua, na macho yao yamepofoka, hao haziwazidishi ila ukafiri juu ya ukafiri walio nao, na watakufa hali nao ni makafiri."
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 207,
+  "verse_key": "9:125",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ فَزَادَتۡهُمۡ رِجۡسًا إِلَىٰ رِجۡسِهِمۡ وَمَاتُواْ وَهُمۡ كَٰفِرُونَ",
+  "translation": "Ama wale wenye maradhi katika nyoyo zao, basi inawazidishia uovu juu ya uovu wao; na wanakufa hali ni makafiri.",
+  "footnotes": "Ama wanaafiki ambao nyoyo zao zinaugua, na macho yao yamepofoka, hao haziwazidishi ila ukafiri juu ya ukafiri walio nao, na watakufa hali nao ni makafiri."
 }

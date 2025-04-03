@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1366",
-    "sura": "10",
-    "aya": "2",
-    "arabic_text": "أَكَانَ لِلنَّاسِ عَجَبًا أَنۡ أَوۡحَيۡنَآ إِلَىٰ رَجُلٖ مِّنۡهُمۡ أَنۡ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓاْ أَنَّ لَهُمۡ قَدَمَ صِدۡقٍ عِندَ رَبِّهِمۡۗ قَالَ ٱلۡكَٰفِرُونَ إِنَّ هَٰذَا لَسَٰحِرٞ مُّبِينٌ",
-    "translation": "Je! Imekuwa ajabu kwa watu kwamba tumemfunulia mmoja wao kuwa: Waonye watu, na wabashirie wale walio amini ya kuwa watakuwa na cheo cha juu kwa Mola wao Mlezi? Wakasema makafiri: Hakika huyu ni mchawi dhaahiri!",
-    "footnotes": "Haiwafalii watu kustaajabu wakakanusha wahyi wetu tunao mfunulia mtu mmoja wao, naye ni Nabii Muhammad s.a.w., ili awahadharishe watu na adhabu ya Mwenyezi Mungu, na awape bishara njema wale miongoni mwao walio amini, ya kwamba hapana shaka yoyote wana cheo kitukufu cha juu kwa Mola wao Mlezi. Na ahadi ya Mwenyezi Mungu haigeuki. Wala haiwafalii hao watu wakanushi kumsema Muhammad, Mtume wetu, kuwa yeye ni mchawi maarufu."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 208,
+  "verse_key": "10:2",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَكَانَ لِلنَّاسِ عَجَبًا أَنۡ أَوۡحَيۡنَآ إِلَىٰ رَجُلٖ مِّنۡهُمۡ أَنۡ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓاْ أَنَّ لَهُمۡ قَدَمَ صِدۡقٍ عِندَ رَبِّهِمۡۗ قَالَ ٱلۡكَٰفِرُونَ إِنَّ هَٰذَا لَسَٰحِرٞ مُّبِينٌ",
+  "translation": "Je! Imekuwa ajabu kwa watu kwamba tumemfunulia mmoja wao kuwa: Waonye watu, na wabashirie wale walio amini ya kuwa watakuwa na cheo cha juu kwa Mola wao Mlezi? Wakasema makafiri: Hakika huyu ni mchawi dhaahiri!",
+  "footnotes": "Haiwafalii watu kustaajabu wakakanusha wahyi wetu tunao mfunulia mtu mmoja wao, naye ni Nabii Muhammad s.a.w., ili awahadharishe watu na adhabu ya Mwenyezi Mungu, na awape bishara njema wale miongoni mwao walio amini, ya kwamba hapana shaka yoyote wana cheo kitukufu cha juu kwa Mola wao Mlezi. Na ahadi ya Mwenyezi Mungu haigeuki. Wala haiwafalii hao watu wakanushi kumsema Muhammad, Mtume wetu, kuwa yeye ni mchawi maarufu."
 }

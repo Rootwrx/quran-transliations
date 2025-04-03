@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5903",
-    "sura": "84",
-    "aya": "19",
-    "arabic_text": "لَتَرۡكَبُنَّ طَبَقًا عَن طَبَقٖ",
-    "translation": "Bantu! Ni ukuri muzohura n’ibihe bigoye bisumbasumbana[726].",
-    "footnotes": "[726] Umuntu wese aremwa mw’ima ry’intanga, rigahinduka amaraso avuze; nya maraso avuze agahinduka igihimba c’inyama; hanyuma nya gihimba c’inyama kigahuhirwamwo inkomoko y’ubuzima “Roho”. Yamara kuvuka akabaho, hanyuma agapfa, akazozuka, agashorerwa kw’iyegeranirizo ry’ibiremwa, hanyuma agaharurirwa."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 589,
+  "verse_key": "84:19",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَتَرۡكَبُنَّ طَبَقًا عَن طَبَقٖ",
+  "translation": "Bantu! Ni ukuri muzohura n’ibihe bigoye bisumbasumbana[726].",
+  "footnotes": "[726] Umuntu wese aremwa mw’ima ry’intanga, rigahinduka amaraso avuze; nya maraso avuze agahinduka igihimba c’inyama; hanyuma nya gihimba c’inyama kigahuhirwamwo inkomoko y’ubuzima “Roho”. Yamara kuvuka akabaho, hanyuma agapfa, akazozuka, agashorerwa kw’iyegeranirizo ry’ibiremwa, hanyuma agaharurirwa."
 }

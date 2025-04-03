@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5187",
-    "sura": "62",
-    "aya": "10",
-    "arabic_text": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُواْ فِي ٱلۡأَرۡضِ وَٱبۡتَغُواْ مِن فَضۡلِ ٱللَّهِ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ",
-    "translation": "Nimwamara kwumviriza inyigisho, mugaheza no gusenga, murakwiragira kw’isi, murondere icobabeshaho mu mpano z’Imana Allah, maze muninahaze kenshi Imana Allah aho muzoba muri hose, kugira muronke intsinzi kw’isi no mu buzima bw’inyuma yo gupfa.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 554,
+  "verse_key": "62:10",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 221,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا قُضِيَتِ ٱلصَّلَوٰةُ فَٱنتَشِرُواْ فِي ٱلۡأَرۡضِ وَٱبۡتَغُواْ مِن فَضۡلِ ٱللَّهِ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ",
+  "translation": "Nimwamara kwumviriza inyigisho, mugaheza no gusenga, murakwiragira kw’isi, murondere icobabeshaho mu mpano z’Imana Allah, maze muninahaze kenshi Imana Allah aho muzoba muri hose, kugira muronke intsinzi kw’isi no mu buzima bw’inyuma yo gupfa.",
+  "footnotes": ""
 }

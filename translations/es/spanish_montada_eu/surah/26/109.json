@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3041",
-    "sura": "26",
-    "aya": "109",
-    "arabic_text": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "109. »No os pido una remuneración (por transmitiros el mensaje); el Señor de toda la creación es Quien me recompensará por ello.",
-    "footnotes": ""
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 371,
+  "verse_key": "26:109",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۖ إِنۡ أَجۡرِيَ إِلَّا عَلَىٰ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "109. »No os pido una remuneración (por transmitiros el mensaje); el Señor de toda la creación es Quien me recompensará por ello.",
+  "footnotes": ""
 }

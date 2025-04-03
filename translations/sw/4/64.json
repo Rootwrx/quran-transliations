@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "557",
-    "sura": "4",
-    "aya": "64",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا",
-    "translation": "Na hatukumtuma Mtume yeyote ila at'iiwe kwa idhini ya Mwenyezi Mungu. Na lau pale walipo jidhulumu nafsi zao wangeli kujia, wakamwomba Mwenyezi Mungu msamaha, na Mtume akawaombea msamaha, hapana shaka wangeli mkuta Mwenyezi Mungu ni Mwenye kupokea toba na Mwenye kurehemu.",
-    "footnotes": "Na Sisi hatukumtuma Mtume yeyote ila jambo lake kuu ni kuwa at'iiwe, na ut'iifu huo ni kwa ruhusa iliyo toka kwa Mwenyezi Mungu. Na hakika mwenye kwenda kinyume, au kukanusha, au kukhaalifu, anakuwa ni mwenye kujidhulumu mwenyewe. Na lau kuwa hawa walio jidhulumu wakirejea kwenye uwongofu, wakakujia wakiomba msamaha kutokana na Mwenyezi Mungu kwa yale waliyo yatenda, na wewe ukawaombea msamaha kwa mujibu wa ujumbe wako na kwa ulivyo ona ilivyo geuka hali yao, basi hapana shaka watamkuta Mwenyezi Mungu, Aliye takasika na kutukuka, ni Mwingi wa kukubali toba, na Mwenye kuwarehemu waja wake."
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 88,
+  "verse_key": "4:64",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا",
+  "translation": "Na hatukumtuma Mtume yeyote ila at'iiwe kwa idhini ya Mwenyezi Mungu. Na lau pale walipo jidhulumu nafsi zao wangeli kujia, wakamwomba Mwenyezi Mungu msamaha, na Mtume akawaombea msamaha, hapana shaka wangeli mkuta Mwenyezi Mungu ni Mwenye kupokea toba na Mwenye kurehemu.",
+  "footnotes": "Na Sisi hatukumtuma Mtume yeyote ila jambo lake kuu ni kuwa at'iiwe, na ut'iifu huo ni kwa ruhusa iliyo toka kwa Mwenyezi Mungu. Na hakika mwenye kwenda kinyume, au kukanusha, au kukhaalifu, anakuwa ni mwenye kujidhulumu mwenyewe. Na lau kuwa hawa walio jidhulumu wakirejea kwenye uwongofu, wakakujia wakiomba msamaha kutokana na Mwenyezi Mungu kwa yale waliyo yatenda, na wewe ukawaombea msamaha kwa mujibu wa ujumbe wako na kwa ulivyo ona ilivyo geuka hali yao, basi hapana shaka watamkuta Mwenyezi Mungu, Aliye takasika na kutukuka, ni Mwingi wa kukubali toba, na Mwenye kuwarehemu waja wake."
 }

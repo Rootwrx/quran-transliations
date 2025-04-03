@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3709",
-    "sura": "36",
-    "aya": "4",
-    "arabic_text": "عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "4. (நீர்) நேரான வழியில் இருக்கிறீர்.",
-    "footnotes": null
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 440,
+  "verse_key": "36:4",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "4. (நீர்) நேரான வழியில் இருக்கிறீர்.",
+  "footnotes": null
 }

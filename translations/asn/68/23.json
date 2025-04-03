@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5294",
-    "sura": "68",
-    "aya": "23",
-    "arabic_text": "فَٱنطَلَقُواْ وَهُمۡ يَتَخَٰفَتُونَ",
-    "translation": "Enti wͻsii mu kͻe; na wͻberεε wͻn nne ase (kaa sε):",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 565,
+  "verse_key": "68:23",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱنطَلَقُواْ وَهُمۡ يَتَخَٰفَتُونَ",
+  "translation": "Enti wͻsii mu kͻe; na wͻberεε wͻn nne ase (kaa sε):",
+  "footnotes": ""
 }

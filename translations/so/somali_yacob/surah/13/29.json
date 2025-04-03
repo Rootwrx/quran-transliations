@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1736",
-    "sura": "13",
-    "aya": "29",
-    "arabic_text": "ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ طُوبَىٰ لَهُمۡ وَحُسۡنُ مَـَٔابٖ",
-    "translation": "29. Kuwa (Xaqa) rumeeyey oo fala samaha aayatiin wanaagsan14 bay leeyihiin iyo rug u laabasho fiican (Janno).",
-    "footnotes": "14. Nabigu s.c.w. wuxuu yidhi: Jannada waxaa ah geed uu u socdo hooskeeda kan gaadiid saaran boqol sano oo uusan goyneyn. W.w. Al-Bukhaari."
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 253,
+  "verse_key": "13:29",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ طُوبَىٰ لَهُمۡ وَحُسۡنُ مَـَٔابٖ",
+  "translation": "29. Kuwa (Xaqa) rumeeyey oo fala samaha aayatiin wanaagsan14 bay leeyihiin iyo rug u laabasho fiican (Janno).",
+  "footnotes": "14. Nabigu s.c.w. wuxuu yidhi: Jannada waxaa ah geed uu u socdo hooskeeda kan gaadiid saaran boqol sano oo uusan goyneyn. W.w. Al-Bukhaari."
 }

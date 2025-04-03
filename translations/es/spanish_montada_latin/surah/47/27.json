@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4572",
-    "sura": "47",
-    "aya": "27",
-    "arabic_text": "فَكَيۡفَ إِذَا تَوَفَّتۡهُمُ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ",
-    "translation": "27. ¿Y cuál será su estado cuando los ángeles se presenten (en el momento de su muerte) para tomar sus almas y los golpeen en el rostro y en la espalda (para poder arrancárselas)?",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 509,
+  "verse_key": "47:27",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَيۡفَ إِذَا تَوَفَّتۡهُمُ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ",
+  "translation": "27. ¿Y cuál será su estado cuando los ángeles se presenten (en el momento de su muerte) para tomar sus almas y los golpeen en el rostro y en la espalda (para poder arrancárselas)?",
+  "footnotes": ""
 }

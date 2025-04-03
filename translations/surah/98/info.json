@@ -1,0 +1,27 @@
+{
+  "number": 98,
+  "name": {
+    "ar": "البينة",
+    "en": "The Evidence",
+    "transliteration": "Al-Bayyinah"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 100,
+  "bismillah_pre": true,
+  "verses_count": 8,
+  "words_count": 94,
+  "letters_count": 412,
+  "pages": [
+    598,
+    599
+  ],
+  "name_simple": "Al-Bayyinah",
+  "name_complex": "Al-Bayyinah",
+  "name_arabic": "البينة",
+  "translated_name": "The Clear Proof",
+  "start_page": 598,
+  "end_page": 599
+}

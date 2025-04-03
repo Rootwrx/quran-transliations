@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5466",
-    "sura": "72",
-    "aya": "19",
-    "arabic_text": "وَأَنَّهُۥ لَمَّا قَامَ عَبۡدُ ٱللَّهِ يَدۡعُوهُ كَادُواْ يَكُونُونَ عَلَيۡهِ لِبَدٗا",
-    "translation": "Yet when the slave of Allah stood up supplicating Him, they swarmed around him[10].”",
-    "footnotes": "[10] Crowding in the manner of locusts on top of one another in order to hear him (ﷺ). It refers to the jinn or to the Arabs pagans."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 573,
+  "verse_key": "72:19",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّهُۥ لَمَّا قَامَ عَبۡدُ ٱللَّهِ يَدۡعُوهُ كَادُواْ يَكُونُونَ عَلَيۡهِ لِبَدٗا",
+  "translation": "Yet when the slave of Allah stood up supplicating Him, they swarmed around him[10].”",
+  "footnotes": "[10] Crowding in the manner of locusts on top of one another in order to hear him (ﷺ). It refers to the jinn or to the Arabs pagans."
 }

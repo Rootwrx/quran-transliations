@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4144",
-    "sura": "40",
-    "aya": "11",
-    "arabic_text": "قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ",
-    "translation": "They will say, “Our Lord, You have caused us to die twice[3] and brought us to life twice. Now we acknowledge our sins; is there any way out?”",
-    "footnotes": "[3] You created us from nothing, then gave us life in the wombs of our mothers, then caused us to die, and finally resurrected us after our death. See 2:28."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 468,
+  "verse_key": "40:11",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ",
+  "translation": "They will say, “Our Lord, You have caused us to die twice[3] and brought us to life twice. Now we acknowledge our sins; is there any way out?”",
+  "footnotes": "[3] You created us from nothing, then gave us life in the wombs of our mothers, then caused us to die, and finally resurrected us after our death. See 2:28."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1573",
-    "sura": "11",
-    "aya": "100",
-    "arabic_text": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡقُرَىٰ نَقُصُّهُۥ عَلَيۡكَۖ مِنۡهَا قَآئِمٞ وَحَصِيدٞ",
-    "translation": "Esses são alguns informes das cidades: Nós tos narramos, Muhammad. Entre elas, há umas de pé e outras ceifadas.",
-    "footnotes": ""
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 233,
+  "verse_key": "11:100",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡقُرَىٰ نَقُصُّهُۥ عَلَيۡكَۖ مِنۡهَا قَآئِمٞ وَحَصِيدٞ",
+  "translation": "Esses são alguns informes das cidades: Nós tos narramos, Muhammad. Entre elas, há umas de pé e outras ceifadas.",
+  "footnotes": ""
 }

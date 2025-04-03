@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3550",
-    "sura": "33",
-    "aya": "17",
-    "arabic_text": "قُلۡ مَن ذَا ٱلَّذِي يَعۡصِمُكُم مِّنَ ٱللَّهِ إِنۡ أَرَادَ بِكُمۡ سُوٓءًا أَوۡ أَرَادَ بِكُمۡ رَحۡمَةٗۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيّٗا وَلَا نَصِيرٗا",
-    "translation": "17. Katakanlah, \"Siapakah yang dapat melindungi kamu dari (ketentuan) Allah jika Dia menghendaki bencana atas kamu atau menghendaki rahmat untuk dirimu?\" Mereka itu tidak akan mendapatkan pelindung dan penolong selain Allah.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 420,
+  "verse_key": "33:17",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَن ذَا ٱلَّذِي يَعۡصِمُكُم مِّنَ ٱللَّهِ إِنۡ أَرَادَ بِكُمۡ سُوٓءًا أَوۡ أَرَادَ بِكُمۡ رَحۡمَةٗۚ وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيّٗا وَلَا نَصِيرٗا",
+  "translation": "17. Katakanlah, \"Siapakah yang dapat melindungi kamu dari (ketentuan) Allah jika Dia menghendaki bencana atas kamu atau menghendaki rahmat untuk dirimu?\" Mereka itu tidak akan mendapatkan pelindung dan penolong selain Allah.",
+  "footnotes": ""
 }

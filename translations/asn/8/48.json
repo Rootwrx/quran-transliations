@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1208",
-    "sura": "8",
-    "aya": "48",
-    "arabic_text": "وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارٞ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءٞ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
-    "translation": "Kae εberε a ͻbonsam maa wͻn dwumadi (bͻne no) yεε wͻn ani so fε, na ͻka kyerεε wͻn sε: “Ɛnnε da yi nnipa biara ntumi nni moso nkonim. Nokorε sε mene mo kyitaafoͻ“. Nanso εberε a akuo mmienu no hunuu wͻn ho (wͻ Badar hͻ) no, (ͻbonsam) danee ne ho wͻ ne nantin so (dwanee), ͻkaa sε: “Medeε matwe me ho afiri mo ho, efirisε mahunu adeε a monhunuiε. Nokorε mesuro Nyankopͻn, efirisε Nyankopͻn awerεtͻ ano yε den paa”.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 183,
+  "verse_key": "8:48",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارٞ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءٞ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
+  "translation": "Kae εberε a ͻbonsam maa wͻn dwumadi (bͻne no) yεε wͻn ani so fε, na ͻka kyerεε wͻn sε: “Ɛnnε da yi nnipa biara ntumi nni moso nkonim. Nokorε sε mene mo kyitaafoͻ“. Nanso εberε a akuo mmienu no hunuu wͻn ho (wͻ Badar hͻ) no, (ͻbonsam) danee ne ho wͻ ne nantin so (dwanee), ͻkaa sε: “Medeε matwe me ho afiri mo ho, efirisε mahunu adeε a monhunuiε. Nokorε mesuro Nyankopͻn, efirisε Nyankopͻn awerεtͻ ano yε den paa”.",
+  "footnotes": ""
 }

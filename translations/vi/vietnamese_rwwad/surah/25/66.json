@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2921",
-    "sura": "25",
-    "aya": "66",
-    "arabic_text": "إِنَّهَا سَآءَتۡ مُسۡتَقَرّٗا وَمُقَامٗا",
-    "translation": "Quả thật Hỏa Ngục là một nơi cư ngụ và là một nơi nghỉ vô cùng tồi tệ.",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 365,
+  "verse_key": "25:66",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهَا سَآءَتۡ مُسۡتَقَرّٗا وَمُقَامٗا",
+  "translation": "Quả thật Hỏa Ngục là một nơi cư ngụ và là một nơi nghỉ vô cùng tồi tệ.",
+  "footnotes": ""
 }

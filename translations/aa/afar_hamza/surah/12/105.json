@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1701",
-    "sura": "12",
-    "aya": "105",
-    "arabic_text": "وَكَأَيِّن مِّنۡ ءَايَةٖ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ يَمُرُّونَ عَلَيۡهَا وَهُمۡ عَنۡهَا مُعۡرِضُونَ",
-    "translation": "105. Yallih inkittinaane kee kay dudda tascasse astootiy Qaranwaa kee baaxol taniy usun yableeniih derre edde cabaanay elle tatraana ma gide takkee ?!",
-    "footnotes": ""
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 248,
+  "verse_key": "12:105",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَأَيِّن مِّنۡ ءَايَةٖ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ يَمُرُّونَ عَلَيۡهَا وَهُمۡ عَنۡهَا مُعۡرِضُونَ",
+  "translation": "105. Yallih inkittinaane kee kay dudda tascasse astootiy Qaranwaa kee baaxol taniy usun yableeniih derre edde cabaanay elle tatraana ma gide takkee ?!",
+  "footnotes": ""
 }

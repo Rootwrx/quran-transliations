@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3170",
-    "sura": "27",
-    "aya": "11",
-    "arabic_text": "إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسۡنَۢا بَعۡدَ سُوٓءٖ فَإِنِّي غَفُورٞ رَّحِيمٞ",
-    "translation": " 11. \"Except him who has done wrong and afterwards has changed evil for good; then surely, I am Oft-Forgiving, Most Merciful.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 377,
+  "verse_key": "27:11",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا مَن ظَلَمَ ثُمَّ بَدَّلَ حُسۡنَۢا بَعۡدَ سُوٓءٖ فَإِنِّي غَفُورٞ رَّحِيمٞ",
+  "translation": " 11. \"Except him who has done wrong and afterwards has changed evil for good; then surely, I am Oft-Forgiving, Most Merciful.",
+  "footnotes": ""
 }

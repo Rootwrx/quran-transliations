@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3785",
-    "sura": "36",
-    "aya": "80",
-    "arabic_text": "ٱلَّذِي جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلۡأَخۡضَرِ نَارٗا فَإِذَآ أَنتُم مِّنۡهُ تُوقِدُونَ",
-    "translation": "80. Él es Quien produce para vosotros fuego del árbol verde[844], y podéis encender (hogueras) con él. ",
-    "footnotes": "[844]  El árbol, el cual tiene su origen en el agua y es verde y húmedo, se convierte en madera seca que se utiliza como combustible vegetal para encender un fuego. También puede referirse aun tipo concreto de árbol que crece en el oeste de la península arábiga que posee la peculiaridad de que sus verdes ramas pueden producir chispas si se frotan entre ellas. Al-lah puede extraer algo como el fuego desde un origen totalmente contrario al mismo (el agua). Y del mismo modo que Él puede hacer que el árbol verde produzca fuego, también puede devolver la vida a los muertos, pues nada es imposible para Él."
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 445,
+  "verse_key": "36:80",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلۡأَخۡضَرِ نَارٗا فَإِذَآ أَنتُم مِّنۡهُ تُوقِدُونَ",
+  "translation": "80. Él es Quien produce para vosotros fuego del árbol verde[844], y podéis encender (hogueras) con él. ",
+  "footnotes": "[844]  El árbol, el cual tiene su origen en el agua y es verde y húmedo, se convierte en madera seca que se utiliza como combustible vegetal para encender un fuego. También puede referirse aun tipo concreto de árbol que crece en el oeste de la península arábiga que posee la peculiaridad de que sus verdes ramas pueden producir chispas si se frotan entre ellas. Al-lah puede extraer algo como el fuego desde un origen totalmente contrario al mismo (el agua). Y del mismo modo que Él puede hacer que el árbol verde produzca fuego, también puede devolver la vida a los muertos, pues nada es imposible para Él."
 }

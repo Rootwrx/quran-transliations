@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "999",
-    "sura": "7",
-    "aya": "45",
-    "arabic_text": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجٗا وَهُم بِٱلۡأٓخِرَةِ كَٰفِرُونَ",
-    "translation": "(yaitu) orang-orang yang menghalang-halangi (manusia) dari jalan Allah dan menginginkan agar jalan itu menjadi bengkok, dan mereka kafir kepada kehidupan akhirat\".",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 156,
+  "verse_key": "7:45",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 62,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجٗا وَهُم بِٱلۡأٓخِرَةِ كَٰفِرُونَ",
+  "translation": "(yaitu) orang-orang yang menghalang-halangi (manusia) dari jalan Allah dan menginginkan agar jalan itu menjadi bengkok, dan mereka kafir kepada kehidupan akhirat\".",
+  "footnotes": ""
 }

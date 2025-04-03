@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2583",
-    "sura": "21",
-    "aya": "100",
-    "arabic_text": "لَهُمۡ فِيهَا زَفِيرٞ وَهُمۡ فِيهَا لَا يَسۡمَعُونَ",
-    "translation": " 100. Therein they will be breathing out with deep sighs and roaring and therein they will hear not.[5]",
-    "footnotes": "(V.21:100) Ibn Mas‘ûd رضي الله عنه recited this Verse and then said: \"When those (who are destined to remain in the Hell-fire forever) will be thrown in the Hell-fire, each of them will be put in a separate Tabût (box) of Fire, so that he will not see anyone punished in the Hell fire except himself.\" Then Ibn Mas‘ûd recited this Verse (21:100). [Tafsir Ibn Kathir, Tabari and Qurtubî]."
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 330,
+  "verse_key": "21:100",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَهُمۡ فِيهَا زَفِيرٞ وَهُمۡ فِيهَا لَا يَسۡمَعُونَ",
+  "translation": " 100. Therein they will be breathing out with deep sighs and roaring and therein they will hear not.[5]",
+  "footnotes": "(V.21:100) Ibn Mas‘ûd رضي الله عنه recited this Verse and then said: \"When those (who are destined to remain in the Hell-fire forever) will be thrown in the Hell-fire, each of them will be put in a separate Tabût (box) of Fire, so that he will not see anyone punished in the Hell fire except himself.\" Then Ibn Mas‘ûd recited this Verse (21:100). [Tafsir Ibn Kathir, Tabari and Qurtubî]."
 }

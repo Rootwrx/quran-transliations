@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2358",
-    "sura": "20",
-    "aya": "10",
-    "arabic_text": "إِذۡ رَءَا نَارٗا فَقَالَ لِأَهۡلِهِ ٱمۡكُثُوٓاْ إِنِّيٓ ءَانَسۡتُ نَارٗا لَّعَلِّيٓ ءَاتِيكُم مِّنۡهَا بِقَبَسٍ أَوۡ أَجِدُ عَلَى ٱلنَّارِ هُدٗى",
-    "translation": "Khi (Musa) nhìn thấy một ngọn lửa (ở đằng xa), Y bảo gia đình của mình: “Mọi người hãy tạm dừng chân ở đây. Ta sẽ đến chỗ ngọn lửa biết đâu có thể mang về cho mọi người một cục than hồng hoặc biết đâu có thể tìm thấy nơi đống lửa đó một nguồn Chỉ Đạo.”",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 312,
+  "verse_key": "20:10",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ رَءَا نَارٗا فَقَالَ لِأَهۡلِهِ ٱمۡكُثُوٓاْ إِنِّيٓ ءَانَسۡتُ نَارٗا لَّعَلِّيٓ ءَاتِيكُم مِّنۡهَا بِقَبَسٍ أَوۡ أَجِدُ عَلَى ٱلنَّارِ هُدٗى",
+  "translation": "Khi (Musa) nhìn thấy một ngọn lửa (ở đằng xa), Y bảo gia đình của mình: “Mọi người hãy tạm dừng chân ở đây. Ta sẽ đến chỗ ngọn lửa biết đâu có thể mang về cho mọi người một cục than hồng hoặc biết đâu có thể tìm thấy nơi đống lửa đó một nguồn Chỉ Đạo.”",
+  "footnotes": ""
 }

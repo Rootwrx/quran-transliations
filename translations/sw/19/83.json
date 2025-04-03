@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2333",
-    "sura": "19",
-    "aya": "83",
-    "arabic_text": "أَلَمۡ تَرَ أَنَّآ أَرۡسَلۡنَا ٱلشَّيَٰطِينَ عَلَى ٱلۡكَٰفِرِينَ تَؤُزُّهُمۡ أَزّٗا",
-    "translation": "Kwani huoni ya kwamba tumewatuma mashet'ani kwa makafiri wawachochee kwa uchochezi?.",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 311,
+  "verse_key": "19:83",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ أَنَّآ أَرۡسَلۡنَا ٱلشَّيَٰطِينَ عَلَى ٱلۡكَٰفِرِينَ تَؤُزُّهُمۡ أَزّٗا",
+  "translation": "Kwani huoni ya kwamba tumewatuma mashet'ani kwa makafiri wawachochee kwa uchochezi?.",
+  "footnotes": ""
 }

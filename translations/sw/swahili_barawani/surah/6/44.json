@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "833",
-    "sura": "6",
-    "aya": "44",
-    "arabic_text": "فَلَمَّا نَسُواْ مَا ذُكِّرُواْ بِهِۦ فَتَحۡنَا عَلَيۡهِمۡ أَبۡوَٰبَ كُلِّ شَيۡءٍ حَتَّىٰٓ إِذَا فَرِحُواْ بِمَآ أُوتُوٓاْ أَخَذۡنَٰهُم بَغۡتَةٗ فَإِذَا هُم مُّبۡلِسُونَ",
-    "translation": "Basi walipo sahau walio kumbushwa tuliwafungulia milango ya kila kitu. Mpaka walipo furahia yale waliyo pewa tuliwashika kwa ghafla, na mara wakawa wenye kukata tamaa.",
-    "footnotes": "Walipo acha kuwaidhika kwa ufakiri na maradhi tulio wapa kuwa ni mtihani, tukawajaribu baada yake kwa kuwapa riziki zenye wasaa. Tukawafungulia milango ya kila sababu za riziki, mpaka walipo furahia neema zetu, na wao wasimshukuru Mwenyezi Mungu kwa hayo, ikawajia adhabu ghafla. Wakawa wanadahadari, wamekata tamaa, hawaipati njia ya kuokoka."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 132,
+  "verse_key": "6:44",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا نَسُواْ مَا ذُكِّرُواْ بِهِۦ فَتَحۡنَا عَلَيۡهِمۡ أَبۡوَٰبَ كُلِّ شَيۡءٍ حَتَّىٰٓ إِذَا فَرِحُواْ بِمَآ أُوتُوٓاْ أَخَذۡنَٰهُم بَغۡتَةٗ فَإِذَا هُم مُّبۡلِسُونَ",
+  "translation": "Basi walipo sahau walio kumbushwa tuliwafungulia milango ya kila kitu. Mpaka walipo furahia yale waliyo pewa tuliwashika kwa ghafla, na mara wakawa wenye kukata tamaa.",
+  "footnotes": "Walipo acha kuwaidhika kwa ufakiri na maradhi tulio wapa kuwa ni mtihani, tukawajaribu baada yake kwa kuwapa riziki zenye wasaa. Tukawafungulia milango ya kila sababu za riziki, mpaka walipo furahia neema zetu, na wao wasimshukuru Mwenyezi Mungu kwa hayo, ikawajia adhabu ghafla. Wakawa wanadahadari, wamekata tamaa, hawaipati njia ya kuokoka."
 }

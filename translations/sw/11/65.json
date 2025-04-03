@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1538",
-    "sura": "11",
-    "aya": "65",
-    "arabic_text": "فَعَقَرُوهَا فَقَالَ تَمَتَّعُواْ فِي دَارِكُمۡ ثَلَٰثَةَ أَيَّامٖۖ ذَٰلِكَ وَعۡدٌ غَيۡرُ مَكۡذُوبٖ",
-    "translation": "Wakamchinja. Basi (Swaleh) akasema: Stareheni katika mji wenu muda wa siku tatu. Hiyo ni ahadi isiyo kuwa ya uwongo.",
-    "footnotes": "Na wao wasiisikie nasaha yake, wala wasimkubalie. Kiburi chao na dharau yao iliwapelekea kumuuwa yule ngamia. Basi yeye akawaambia: Stareheni na maisha yenu ya kilimwengu katika miji yenu muda wa siku tatu. Kisha baadae itakujieni adhabu ya Mwenyezi Mungu. Hiyo ni ahadi ya kweli wala haina kinyume, wala haina uwongo ndani yake."
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 229,
+  "verse_key": "11:65",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَعَقَرُوهَا فَقَالَ تَمَتَّعُواْ فِي دَارِكُمۡ ثَلَٰثَةَ أَيَّامٖۖ ذَٰلِكَ وَعۡدٌ غَيۡرُ مَكۡذُوبٖ",
+  "translation": "Wakamchinja. Basi (Swaleh) akasema: Stareheni katika mji wenu muda wa siku tatu. Hiyo ni ahadi isiyo kuwa ya uwongo.",
+  "footnotes": "Na wao wasiisikie nasaha yake, wala wasimkubalie. Kiburi chao na dharau yao iliwapelekea kumuuwa yule ngamia. Basi yeye akawaambia: Stareheni na maisha yenu ya kilimwengu katika miji yenu muda wa siku tatu. Kisha baadae itakujieni adhabu ya Mwenyezi Mungu. Hiyo ni ahadi ya kweli wala haina kinyume, wala haina uwongo ndani yake."
 }

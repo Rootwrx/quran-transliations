@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "76",
-    "sura": "2",
-    "aya": "69",
-    "arabic_text": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوۡنُهَاۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ صَفۡرَآءُ فَاقِعٞ لَّوۡنُهَا تَسُرُّ ٱلنَّٰظِرِينَ",
-    "translation": "Wakasema: Tuombee kwa Mola wako atupambanulie nini rangi yake? Akasema: Yeye anasema, kuwa Ng'ombe huyo ni wa manjano, na rangi yake imekoza, huwapendeza wanao mtazama.",
-    "footnotes": "Lakini walikakamia katika kutaradadi kwao, wakasema: Tutakie kwa Mola wako Mlezi atupambanulie nini rangi yake. Akawajibu: Mwenyezi Mungu anasema: Ng'ombe huyo ni wa rangi ya manjano iliyo koza, na safi. Ukimtazama anapendeza kwa usafi wa rangi yake ilivyo zagaa."
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 10,
+  "verse_key": "2:69",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوۡنُهَاۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ صَفۡرَآءُ فَاقِعٞ لَّوۡنُهَا تَسُرُّ ٱلنَّٰظِرِينَ",
+  "translation": "Wakasema: Tuombee kwa Mola wako atupambanulie nini rangi yake? Akasema: Yeye anasema, kuwa Ng'ombe huyo ni wa manjano, na rangi yake imekoza, huwapendeza wanao mtazama.",
+  "footnotes": "Lakini walikakamia katika kutaradadi kwao, wakasema: Tutakie kwa Mola wako Mlezi atupambanulie nini rangi yake. Akawajibu: Mwenyezi Mungu anasema: Ng'ombe huyo ni wa rangi ya manjano iliyo koza, na safi. Ukimtazama anapendeza kwa usafi wa rangi yake ilivyo zagaa."
 }

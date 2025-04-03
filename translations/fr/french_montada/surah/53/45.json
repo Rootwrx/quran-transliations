@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4829",
-    "sura": "53",
-    "aya": "45",
-    "arabic_text": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ",
-    "translation": "45. et qu’Il a créé le couple en mâle et femelle,",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 528,
+  "verse_key": "53:45",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّهُۥ خَلَقَ ٱلزَّوۡجَيۡنِ ٱلذَّكَرَ وَٱلۡأُنثَىٰ",
+  "translation": "45. et qu’Il a créé le couple en mâle et femelle,",
+  "footnotes": ""
 }

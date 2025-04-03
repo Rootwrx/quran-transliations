@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1355",
-    "sura": "9",
-    "aya": "120",
-    "arabic_text": "مَا كَانَ لِأَهۡلِ ٱلۡمَدِينَةِ وَمَنۡ حَوۡلَهُم مِّنَ ٱلۡأَعۡرَابِ أَن يَتَخَلَّفُواْ عَن رَّسُولِ ٱللَّهِ وَلَا يَرۡغَبُواْ بِأَنفُسِهِمۡ عَن نَّفۡسِهِۦۚ ذَٰلِكَ بِأَنَّهُمۡ لَا يُصِيبُهُمۡ ظَمَأٞ وَلَا نَصَبٞ وَلَا مَخۡمَصَةٞ فِي سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوۡطِئٗا يَغِيظُ ٱلۡكُفَّارَ وَلَا يَنَالُونَ مِنۡ عَدُوّٖ نَّيۡلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٞ صَٰلِحٌۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
-    "translation": "Banorëve të Medinës dhe beduinëve që janë rreth saj, nuk u lejohet të mos ndjekin të Dërguarin e Allahut, as të kursejnë jetën e tyre para jetës së tij. Kjo është kështu, sepse ata që janë në rrugën e Allahut, sa herë që t’i godasë etja, lodhja e uria dhe sa herë që të shkelin në ndonjë vend ku do t’i zemërojnë mohuesit apo t’i gjejë gjë nga ana e armikut, atyre do t’iu shkruhet si vepër e mirë. Me të vërtetë, Allahu nuk do t’ua humbë shpërblimin punëmirëve.",
-    "footnotes": ""
-  }
+  "id": 120,
+  "verse_number": 120,
+  "page_number": 206,
+  "verse_key": "9:120",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 82,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا كَانَ لِأَهۡلِ ٱلۡمَدِينَةِ وَمَنۡ حَوۡلَهُم مِّنَ ٱلۡأَعۡرَابِ أَن يَتَخَلَّفُواْ عَن رَّسُولِ ٱللَّهِ وَلَا يَرۡغَبُواْ بِأَنفُسِهِمۡ عَن نَّفۡسِهِۦۚ ذَٰلِكَ بِأَنَّهُمۡ لَا يُصِيبُهُمۡ ظَمَأٞ وَلَا نَصَبٞ وَلَا مَخۡمَصَةٞ فِي سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوۡطِئٗا يَغِيظُ ٱلۡكُفَّارَ وَلَا يَنَالُونَ مِنۡ عَدُوّٖ نَّيۡلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٞ صَٰلِحٌۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+  "translation": "Banorëve të Medinës dhe beduinëve që janë rreth saj, nuk u lejohet të mos ndjekin të Dërguarin e Allahut, as të kursejnë jetën e tyre para jetës së tij. Kjo është kështu, sepse ata që janë në rrugën e Allahut, sa herë që t’i godasë etja, lodhja e uria dhe sa herë që të shkelin në ndonjë vend ku do t’i zemërojnë mohuesit apo t’i gjejë gjë nga ana e armikut, atyre do t’iu shkruhet si vepër e mirë. Me të vërtetë, Allahu nuk do t’ua humbë shpërblimin punëmirëve.",
+  "footnotes": ""
 }

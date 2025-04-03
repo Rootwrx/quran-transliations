@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5016",
-    "sura": "56",
-    "aya": "37",
-    "arabic_text": "عُرُبًا أَتۡرَابٗا",
-    "translation": "37. pleines de tendresse et toutes du même âge,",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 535,
+  "verse_key": "56:37",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عُرُبًا أَتۡرَابٗا",
+  "translation": "37. pleines de tendresse et toutes du même âge,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "597",
-    "sura": "4",
-    "aya": "104",
-    "arabic_text": "وَلَا تَهِنُواْ فِي ٱبۡتِغَآءِ ٱلۡقَوۡمِۖ إِن تَكُونُواْ تَأۡلَمُونَ فَإِنَّهُمۡ يَأۡلَمُونَ كَمَا تَأۡلَمُونَۖ وَتَرۡجُونَ مِنَ ٱللَّهِ مَا لَا يَرۡجُونَۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
-    "translation": "Ẹ má ṣe káàárẹ̀ nípa wíwá àwọn ènìyàn náà (láti jà wọ́n lógun). Tí ẹ̀yin bá ń jẹ ìrora (ọgbẹ́), dájúdájú àwọn náà ń jẹ ìrora (ọgbẹ́) gẹ́gẹ́ bí ẹ̀yin náà ṣe ń jẹ ìrora rẹ̀. Ẹ̀yin sì ń retí ohun tí àwọn kò retí lọ́dọ̀ Allāhu. Allāhu sì ń jẹ́ Onímọ̀, Ọlọ́gbọ́n.",
-    "footnotes": ""
-  }
+  "id": 104,
+  "verse_number": 104,
+  "page_number": 95,
+  "verse_key": "4:104",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَهِنُواْ فِي ٱبۡتِغَآءِ ٱلۡقَوۡمِۖ إِن تَكُونُواْ تَأۡلَمُونَ فَإِنَّهُمۡ يَأۡلَمُونَ كَمَا تَأۡلَمُونَۖ وَتَرۡجُونَ مِنَ ٱللَّهِ مَا لَا يَرۡجُونَۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمًا",
+  "translation": "Ẹ má ṣe káàárẹ̀ nípa wíwá àwọn ènìyàn náà (láti jà wọ́n lógun). Tí ẹ̀yin bá ń jẹ ìrora (ọgbẹ́), dájúdájú àwọn náà ń jẹ ìrora (ọgbẹ́) gẹ́gẹ́ bí ẹ̀yin náà ṣe ń jẹ ìrora rẹ̀. Ẹ̀yin sì ń retí ohun tí àwọn kò retí lọ́dọ̀ Allāhu. Allāhu sì ń jẹ́ Onímọ̀, Ọlọ́gbọ́n.",
+  "footnotes": ""
 }

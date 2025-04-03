@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1774",
-    "sura": "14",
-    "aya": "24",
-    "arabic_text": "أَلَمۡ تَرَ كَيۡفَ ضَرَبَ ٱللَّهُ مَثَلٗا كَلِمَةٗ طَيِّبَةٗ كَشَجَرَةٖ طَيِّبَةٍ أَصۡلُهَا ثَابِتٞ وَفَرۡعُهَا فِي ٱلسَّمَآءِ",
-    "translation": "Sila akkamitti akka Rabbiin fakkeenya godhe hin arginee? jechi gaariin akka muka gaarii hundeen ishee gadi dhaabbataa ta’ee, dameen ishee samii keessatti ta’eetti.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 258,
+  "verse_key": "14:24",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ كَيۡفَ ضَرَبَ ٱللَّهُ مَثَلٗا كَلِمَةٗ طَيِّبَةٗ كَشَجَرَةٖ طَيِّبَةٍ أَصۡلُهَا ثَابِتٞ وَفَرۡعُهَا فِي ٱلسَّمَآءِ",
+  "translation": "Sila akkamitti akka Rabbiin fakkeenya godhe hin arginee? jechi gaariin akka muka gaarii hundeen ishee gadi dhaabbataa ta’ee, dameen ishee samii keessatti ta’eetti.",
+  "footnotes": ""
 }

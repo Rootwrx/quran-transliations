@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3256",
-    "sura": "28",
-    "aya": "4",
-    "arabic_text": "إِنَّ فِرۡعَوۡنَ عَلَا فِي ٱلۡأَرۡضِ وَجَعَلَ أَهۡلَهَا شِيَعٗا يَسۡتَضۡعِفُ طَآئِفَةٗ مِّنۡهُمۡ يُذَبِّحُ أَبۡنَآءَهُمۡ وَيَسۡتَحۡيِۦ نِسَآءَهُمۡۚ إِنَّهُۥ كَانَ مِنَ ٱلۡمُفۡسِدِينَ",
-    "translation": "Firavun, yeryüzünde üstünlük/büyüklük taslayıp, oranın halkını fırkalara/gruplara ayırdı. Onlardan bir grubu zayıf ve güçsüz bırakıyor, erkek çocuklarını, boğazlıyor, kadınlarını sağ bırakıyordu. Çünkü o, bozgunculardan idi. ",
-    "footnotes": null
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 385,
+  "verse_key": "28:4",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِرۡعَوۡنَ عَلَا فِي ٱلۡأَرۡضِ وَجَعَلَ أَهۡلَهَا شِيَعٗا يَسۡتَضۡعِفُ طَآئِفَةٗ مِّنۡهُمۡ يُذَبِّحُ أَبۡنَآءَهُمۡ وَيَسۡتَحۡيِۦ نِسَآءَهُمۡۚ إِنَّهُۥ كَانَ مِنَ ٱلۡمُفۡسِدِينَ",
+  "translation": "Firavun, yeryüzünde üstünlük/büyüklük taslayıp, oranın halkını fırkalara/gruplara ayırdı. Onlardan bir grubu zayıf ve güçsüz bırakıyor, erkek çocuklarını, boğazlıyor, kadınlarını sağ bırakıyordu. Çünkü o, bozgunculardan idi. ",
+  "footnotes": null
 }

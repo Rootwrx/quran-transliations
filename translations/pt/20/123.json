@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2471",
-    "sura": "20",
-    "aya": "123",
-    "arabic_text": "قَالَ ٱهۡبِطَا مِنۡهَا جَمِيعَۢاۖ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَنِ ٱتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشۡقَىٰ",
-    "translation": "Ele disse: \"Descei ambos dele, todos vós, como inimigos uns dos outros. E se, em verdade, vos chega de Mim orientação, então, quem segue Minha orientação não se descaminhará nem se infelicitará.",
-    "footnotes": ""
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 320,
+  "verse_key": "20:123",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ ٱهۡبِطَا مِنۡهَا جَمِيعَۢاۖ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَنِ ٱتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشۡقَىٰ",
+  "translation": "Ele disse: \"Descei ambos dele, todos vós, como inimigos uns dos outros. E se, em verdade, vos chega de Mim orientação, então, quem segue Minha orientação não se descaminhará nem se infelicitará.",
+  "footnotes": ""
 }

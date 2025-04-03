@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3860",
-    "sura": "37",
-    "aya": "72",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا فِيهِم مُّنذِرِينَ",
-    "translation": "72. En voorwaar, Wij stuurden onder hen waarschuwers.",
-    "footnotes": ""
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 448,
+  "verse_key": "37:72",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَا فِيهِم مُّنذِرِينَ",
+  "translation": "72. En voorwaar, Wij stuurden onder hen waarschuwers.",
+  "footnotes": ""
 }

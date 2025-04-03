@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6205",
-    "sura": "108",
-    "aya": "1",
-    "arabic_text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
-    "translation": "Me të vërtetë që Ne të kemi dhënë ty shumë të mira,[433]",
-    "footnotes": "[433] “shumë të mira”: në tekstin origjinal thuhet “el Keuther”. Kjo fjalë, sipas disa transmetimeve, tregon një lumë në Xhenet, të cilin Allahu i Madhëruar ia ka premtuar si dhuratë Profetit Muhamed (a.s.), për ta kompensuar dhe ngushëlluar për gjithçka që ka hequr për çështjen e Tij. Komentet tradicionale thonë se ajo tregon pozitën e Profetit (a.s.) në Xhenet, ku do të vendoset në vendin më të lartë (el uesile) dhe do të kënaqet me mirësitë e dritës hyjnore."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 602,
+  "verse_key": "108:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+  "translation": "Me të vërtetë që Ne të kemi dhënë ty shumë të mira,[433]",
+  "footnotes": "[433] “shumë të mira”: në tekstin origjinal thuhet “el Keuther”. Kjo fjalë, sipas disa transmetimeve, tregon një lumë në Xhenet, të cilin Allahu i Madhëruar ia ka premtuar si dhuratë Profetit Muhamed (a.s.), për ta kompensuar dhe ngushëlluar për gjithçka që ka hequr për çështjen e Tij. Komentet tradicionale thonë se ajo tregon pozitën e Profetit (a.s.) në Xhenet, ku do të vendoset në vendin më të lartë (el uesile) dhe do të kënaqet me mirësitë e dritës hyjnore."
 }

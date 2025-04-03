@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "436",
-    "sura": "3",
-    "aya": "143",
-    "arabic_text": "وَلَقَدۡ كُنتُمۡ تَمَنَّوۡنَ ٱلۡمَوۡتَ مِن قَبۡلِ أَن تَلۡقَوۡهُ فَقَدۡ رَأَيۡتُمُوهُ وَأَنتُمۡ تَنظُرُونَ",
-    "translation": "Kuma lalle ne, haƙĩƙa kun kasance kuna gũrin mutuwa tun a gabãnin ku haɗu da ita, to lalle ne kun gan ta,* alhãli kuwa kuna kallo.",
-    "footnotes": "* Mutuwa watau, kunã gũrin wani yãƙi a bãyan na Badar yã zo."
-  }
+  "id": 143,
+  "verse_number": 143,
+  "page_number": 68,
+  "verse_key": "3:143",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ كُنتُمۡ تَمَنَّوۡنَ ٱلۡمَوۡتَ مِن قَبۡلِ أَن تَلۡقَوۡهُ فَقَدۡ رَأَيۡتُمُوهُ وَأَنتُمۡ تَنظُرُونَ",
+  "translation": "Kuma lalle ne, haƙĩƙa kun kasance kuna gũrin mutuwa tun a gabãnin ku haɗu da ita, to lalle ne kun gan ta,* alhãli kuwa kuna kallo.",
+  "footnotes": "* Mutuwa watau, kunã gũrin wani yãƙi a bãyan na Badar yã zo."
 }

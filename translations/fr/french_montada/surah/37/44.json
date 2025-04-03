@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3832",
-    "sura": "37",
-    "aya": "44",
-    "arabic_text": "عَلَىٰ سُرُرٖ مُّتَقَٰبِلِينَ",
-    "translation": "44. sur des couches et se faisant face.",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 447,
+  "verse_key": "37:44",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَىٰ سُرُرٖ مُّتَقَٰبِلِينَ",
+  "translation": "44. sur des couches et se faisant face.",
+  "footnotes": ""
 }

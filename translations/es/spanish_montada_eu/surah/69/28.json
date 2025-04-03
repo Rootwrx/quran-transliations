@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5351",
-    "sura": "69",
-    "aya": "28",
-    "arabic_text": "مَآ أَغۡنَىٰ عَنِّي مَالِيَهۡۜ",
-    "translation": "28. »De nada me han servido mis bienes.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 567,
+  "verse_key": "69:28",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَآ أَغۡنَىٰ عَنِّي مَالِيَهۡۜ",
+  "translation": "28. »De nada me han servido mis bienes.",
+  "footnotes": ""
 }

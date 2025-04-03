@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4572",
-    "sura": "47",
-    "aya": "27",
-    "arabic_text": "فَكَيۡفَ إِذَا تَوَفَّتۡهُمُ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ",
-    "translation": "(27) Then how [will it be] when the angels take them in death, striking their faces and their backs?",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 509,
+  "verse_key": "47:27",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَيۡفَ إِذَا تَوَفَّتۡهُمُ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ",
+  "translation": "(27) Then how [will it be] when the angels take them in death, striking their faces and their backs?",
+  "footnotes": ""
 }

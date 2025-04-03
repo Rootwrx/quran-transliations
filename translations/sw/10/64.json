@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1428",
-    "sura": "10",
-    "aya": "64",
-    "arabic_text": "لَهُمُ ٱلۡبُشۡرَىٰ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۚ لَا تَبۡدِيلَ لِكَلِمَٰتِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
-    "translation": "Wao wana bishara njema katika maisha ya dunia na katika Akhera. Hapana mabadiliko katika maneno ya Mwenyezi Mungu. Huko ndiko kufuzu kukubwa.",
-    "footnotes": "Kwa wapenzi hawa wa Mwenyezi Mungu pana bishara ya kheri hapa duniani, kwa vile Mwenyezi Mungu amewaahidi kuwapa ushindi na utukufu, na Akhera itatimia ahadi ya Mwenyezi Mungu. Na ahadi ya Mwenyezi Mungu haigeuki. Na haya ndiyo waliyo bashiriwa kwayo duniani, na watayapata Akhera. Na huko ndiko kufuzu kukubwa."
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 216,
+  "verse_key": "10:64",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَهُمُ ٱلۡبُشۡرَىٰ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۚ لَا تَبۡدِيلَ لِكَلِمَٰتِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+  "translation": "Wao wana bishara njema katika maisha ya dunia na katika Akhera. Hapana mabadiliko katika maneno ya Mwenyezi Mungu. Huko ndiko kufuzu kukubwa.",
+  "footnotes": "Kwa wapenzi hawa wa Mwenyezi Mungu pana bishara ya kheri hapa duniani, kwa vile Mwenyezi Mungu amewaahidi kuwapa ushindi na utukufu, na Akhera itatimia ahadi ya Mwenyezi Mungu. Na ahadi ya Mwenyezi Mungu haigeuki. Na haya ndiyo waliyo bashiriwa kwayo duniani, na watayapata Akhera. Na huko ndiko kufuzu kukubwa."
 }

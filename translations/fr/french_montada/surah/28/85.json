@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3337",
-    "sura": "28",
-    "aya": "85",
-    "arabic_text": "إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٖۚ قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "85. Celui qui t’a imposé le Coran entend te ramener au (lieu amène)[390] d’un retour. Dis : « Mon Seigneur est le Meilleur à Savoir qui indique (aux hommes) la bonne direction (hudâ) et qui est dans un égarement manifeste. »",
-    "footnotes": "[390] Le lieu amène (locus amoenus) est ici La Mecque. Ce sens, tout à fait plausible, prédit le retour du Prophète (paix et bénédiction d’Allah sur lui) à La Mecque. Quelques exégètes donnent une autre interprétation : Le Paradis. Les deux sens sont en harmonie avec l’idée du « lieu amène », et du retour heureux."
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 396,
+  "verse_key": "28:85",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 158,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٖۚ قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "85. Celui qui t’a imposé le Coran entend te ramener au (lieu amène)[390] d’un retour. Dis : « Mon Seigneur est le Meilleur à Savoir qui indique (aux hommes) la bonne direction (hudâ) et qui est dans un égarement manifeste. »",
+  "footnotes": "[390] Le lieu amène (locus amoenus) est ici La Mecque. Ce sens, tout à fait plausible, prédit le retour du Prophète (paix et bénédiction d’Allah sur lui) à La Mecque. Quelques exégètes donnent une autre interprétation : Le Paradis. Les deux sens sont en harmonie avec l’idée du « lieu amène », et du retour heureux."
 }

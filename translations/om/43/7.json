@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4332",
-    "sura": "43",
-    "aya": "7",
-    "arabic_text": "وَمَا يَأۡتِيهِم مِّن نَّبِيٍّ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
-    "translation": "Nabiyyiin tokkollee isaanitti dhufee yoo isatti qishinan (baacan) malee hin hafne.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 489,
+  "verse_key": "43:7",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا يَأۡتِيهِم مِّن نَّبِيٍّ إِلَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+  "translation": "Nabiyyiin tokkollee isaanitti dhufee yoo isatti qishinan (baacan) malee hin hafne.",
+  "footnotes": ""
 }

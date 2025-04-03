@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4081",
-    "sura": "39",
-    "aya": "23",
-    "arabic_text": "ٱللَّهُ نَزَّلَ أَحۡسَنَ ٱلۡحَدِيثِ كِتَٰبٗا مُّتَشَٰبِهٗا مَّثَانِيَ تَقۡشَعِرُّ مِنۡهُ جُلُودُ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُمۡ ثُمَّ تَلِينُ جُلُودُهُمۡ وَقُلُوبُهُمۡ إِلَىٰ ذِكۡرِ ٱللَّهِۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهۡدِي بِهِۦ مَن يَشَآءُۚ وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادٍ",
-    "translation": "Si Allāh ay nagbaba ng pinakamaganda sa pag-uusap, na isang Aklat na nagkakawangisan, na nauulit-ulit.[3] Nangingilabot mula rito ang mga balat ng mga natatakot sa Panginoon nila; pagkatapos lumalambot ang mga balat nila at ang mga puso nila sa pagkaalaala kay Allāh. Iyon ay patnubay ni Allāh; nagpapatnubay Siya sa pamamagitan niyon sa sinumang niloloob Niya. Ang sinumang ililigaw ni Allāh [dahil sa kapalaluan at pagpupumilit sa kasalanan] ay walang ukol dito na anumang tagapagpatnubay.",
-    "footnotes": "[3] Ibig sabihin: nauulit-ulit ang pagsambit ng mga kasaysayan, mga patakaran, mga katwiran, at mga patunay; at inuulit-ulit ang pagbigkas nito."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 461,
+  "verse_key": "39:23",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ نَزَّلَ أَحۡسَنَ ٱلۡحَدِيثِ كِتَٰبٗا مُّتَشَٰبِهٗا مَّثَانِيَ تَقۡشَعِرُّ مِنۡهُ جُلُودُ ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُمۡ ثُمَّ تَلِينُ جُلُودُهُمۡ وَقُلُوبُهُمۡ إِلَىٰ ذِكۡرِ ٱللَّهِۚ ذَٰلِكَ هُدَى ٱللَّهِ يَهۡدِي بِهِۦ مَن يَشَآءُۚ وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِنۡ هَادٍ",
+  "translation": "Si Allāh ay nagbaba ng pinakamaganda sa pag-uusap, na isang Aklat na nagkakawangisan, na nauulit-ulit.[3] Nangingilabot mula rito ang mga balat ng mga natatakot sa Panginoon nila; pagkatapos lumalambot ang mga balat nila at ang mga puso nila sa pagkaalaala kay Allāh. Iyon ay patnubay ni Allāh; nagpapatnubay Siya sa pamamagitan niyon sa sinumang niloloob Niya. Ang sinumang ililigaw ni Allāh [dahil sa kapalaluan at pagpupumilit sa kasalanan] ay walang ukol dito na anumang tagapagpatnubay.",
+  "footnotes": "[3] Ibig sabihin: nauulit-ulit ang pagsambit ng mga kasaysayan, mga patakaran, mga katwiran, at mga patunay; at inuulit-ulit ang pagbigkas nito."
 }

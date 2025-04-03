@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2913",
-    "sura": "25",
-    "aya": "58",
-    "arabic_text": "وَتَوَكَّلۡ عَلَى ٱلۡحَيِّ ٱلَّذِي لَا يَمُوتُ وَسَبِّحۡ بِحَمۡدِهِۦۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا",
-    "translation": "Ölümsüz ve daima diri olan Allah'a güvenip dayan. O'nu hamd ile tesbih et. Kullarının günahlarını O’nun bilmesi yeter.",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 365,
+  "verse_key": "25:58",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَوَكَّلۡ عَلَى ٱلۡحَيِّ ٱلَّذِي لَا يَمُوتُ وَسَبِّحۡ بِحَمۡدِهِۦۚ وَكَفَىٰ بِهِۦ بِذُنُوبِ عِبَادِهِۦ خَبِيرًا",
+  "translation": "Ölümsüz ve daima diri olan Allah'a güvenip dayan. O'nu hamd ile tesbih et. Kullarının günahlarını O’nun bilmesi yeter.",
+  "footnotes": ""
 }

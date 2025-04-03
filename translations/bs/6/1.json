@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "790",
-    "sura": "6",
-    "aya": "1",
-    "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَۖ ثُمَّ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ يَعۡدِلُونَ",
-    "translation": "Sva hvala neka je Allahu Koji je nebesa i Zemlju stvorio i tmine i svjetlo dao, ali i pored toga oni koji ne vjeruju - druge sa Gospodarom svojim izjednačuju. ",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 128,
+  "verse_key": "6:1",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَۖ ثُمَّ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ يَعۡدِلُونَ",
+  "translation": "Sva hvala neka je Allahu Koji je nebesa i Zemlju stvorio i tmine i svjetlo dao, ali i pored toga oni koji ne vjeruju - druge sa Gospodarom svojim izjednačuju. ",
+  "footnotes": ""
 }

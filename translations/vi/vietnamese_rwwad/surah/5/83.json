@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "752",
-    "sura": "5",
-    "aya": "83",
-    "arabic_text": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ",
-    "translation": "(Những người này – chẳng hạn như vua Al-Najashi (Negus) và quần thần của ông), khi họ nghe những điều được ban xuống cho Thiên Sứ (Muhammad), Ngươi (hỡi Thiên Sứ) thấy đôi mắt của họ rơi lệ khi nhận ra được chân lý, họ nói: “Lạy Thượng Đế của bầy tôi, bầy tôi đã tin tưởng, xin Ngài hãy ghi bầy tôi cùng với những người chứng nhận (sự thật), (đó là Muhammad và các tín đồ của Người).”",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 122,
+  "verse_key": "5:83",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ",
+  "translation": "(Những người này – chẳng hạn như vua Al-Najashi (Negus) và quần thần của ông), khi họ nghe những điều được ban xuống cho Thiên Sứ (Muhammad), Ngươi (hỡi Thiên Sứ) thấy đôi mắt của họ rơi lệ khi nhận ra được chân lý, họ nói: “Lạy Thượng Đế của bầy tôi, bầy tôi đã tin tưởng, xin Ngài hãy ghi bầy tôi cùng với những người chứng nhận (sự thật), (đó là Muhammad và các tín đồ của Người).”",
+  "footnotes": ""
 }

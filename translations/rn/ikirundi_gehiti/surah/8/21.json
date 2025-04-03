@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1181",
-    "sura": "8",
-    "aya": "21",
-    "arabic_text": "وَلَا تَكُونُواْ كَٱلَّذِينَ قَالُواْ سَمِعۡنَا وَهُمۡ لَا يَسۡمَعُونَ",
-    "translation": "Bemeramana! Eka ntimukabe nk’ababangikanyamana n’indyarya mu guca kubiri n’amabwirizwa y’Imana Allah n’Intumwa yayo Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah), igihe basomerwa Qor’ani bavuze bati: “Twumvise”, kandi batigeze bategera namba ivyo bumvise ngo babizirikane.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 179,
+  "verse_key": "8:21",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَكُونُواْ كَٱلَّذِينَ قَالُواْ سَمِعۡنَا وَهُمۡ لَا يَسۡمَعُونَ",
+  "translation": "Bemeramana! Eka ntimukabe nk’ababangikanyamana n’indyarya mu guca kubiri n’amabwirizwa y’Imana Allah n’Intumwa yayo Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah), igihe basomerwa Qor’ani bavuze bati: “Twumvise”, kandi batigeze bategera namba ivyo bumvise ngo babizirikane.",
+  "footnotes": ""
 }

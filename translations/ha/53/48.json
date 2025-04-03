@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4832",
-    "sura": "53",
-    "aya": "48",
-    "arabic_text": "وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ",
-    "translation": "Kuma lalle, Shĩ, Shĩ ne Ya azurta, kuma Ya wadãtar.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 528,
+  "verse_key": "53:48",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّهُۥ هُوَ أَغۡنَىٰ وَأَقۡنَىٰ",
+  "translation": "Kuma lalle, Shĩ, Shĩ ne Ya azurta, kuma Ya wadãtar.",
+  "footnotes": ""
 }

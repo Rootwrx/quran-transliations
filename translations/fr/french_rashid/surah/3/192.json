@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "485",
-    "sura": "3",
-    "aya": "192",
-    "arabic_text": "رَبَّنَآ إِنَّكَ مَن تُدۡخِلِ ٱلنَّارَ فَقَدۡ أَخۡزَيۡتَهُۥۖ وَمَا لِلظَّٰلِمِينَ مِنۡ أَنصَارٖ",
-    "translation": "192 Seigneur ! Celui que Tu feras entrer en Enfer sera assurément couvert d’opprobre. Nul ne saurait sauver les impies.",
-    "footnotes": ""
-  }
+  "id": 192,
+  "verse_number": 192,
+  "page_number": 75,
+  "verse_key": "3:192",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبَّنَآ إِنَّكَ مَن تُدۡخِلِ ٱلنَّارَ فَقَدۡ أَخۡزَيۡتَهُۥۖ وَمَا لِلظَّٰلِمِينَ مِنۡ أَنصَارٖ",
+  "translation": "192 Seigneur ! Celui que Tu feras entrer en Enfer sera assurément couvert d’opprobre. Nul ne saurait sauver les impies.",
+  "footnotes": ""
 }

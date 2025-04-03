@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "444",
-    "sura": "3",
-    "aya": "151",
-    "arabic_text": "سَنُلۡقِي فِي قُلُوبِ ٱلَّذِينَ كَفَرُواْ ٱلرُّعۡبَ بِمَآ أَشۡرَكُواْ بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗاۖ وَمَأۡوَىٰهُمُ ٱلنَّارُۖ وَبِئۡسَ مَثۡوَى ٱلظَّٰلِمِينَ",
-    "translation": "onnee warra kafaranii keessatti fuulduratti sodaa darbina Waan isaan wantoota inni ragaa qabatamaa ittiin hin buusin Rabbitti qindeessaniif jecha, Teessoon isaanii ibiddaTeessoon miidhaa raawwattootaa waa fokkate!",
-    "footnotes": ""
-  }
+  "id": 151,
+  "verse_number": 151,
+  "page_number": 69,
+  "verse_key": "3:151",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَنُلۡقِي فِي قُلُوبِ ٱلَّذِينَ كَفَرُواْ ٱلرُّعۡبَ بِمَآ أَشۡرَكُواْ بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗاۖ وَمَأۡوَىٰهُمُ ٱلنَّارُۖ وَبِئۡسَ مَثۡوَى ٱلظَّٰلِمِينَ",
+  "translation": "onnee warra kafaranii keessatti fuulduratti sodaa darbina Waan isaan wantoota inni ragaa qabatamaa ittiin hin buusin Rabbitti qindeessaniif jecha, Teessoon isaanii ibiddaTeessoon miidhaa raawwattootaa waa fokkate!",
+  "footnotes": ""
 }

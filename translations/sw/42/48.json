@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4320",
-    "sura": "42",
-    "aya": "48",
-    "arabic_text": "فَإِنۡ أَعۡرَضُواْ فَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظًاۖ إِنۡ عَلَيۡكَ إِلَّا ٱلۡبَلَٰغُۗ وَإِنَّآ إِذَآ أَذَقۡنَا ٱلۡإِنسَٰنَ مِنَّا رَحۡمَةٗ فَرِحَ بِهَاۖ وَإِن تُصِبۡهُمۡ سَيِّئَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ فَإِنَّ ٱلۡإِنسَٰنَ كَفُورٞ",
-    "translation": "Na wakipuuza, basi Sisi hatukukupeleka ili uwe mwangalizi wao. Si juu yako ila kufikisha Ujumbe tu. Na hakika Sisi tukimwonjesha mtu rehema kutoka kwetu, huifurahia. Na akisibiwa na ovu kwa sababu ya iliyo yatanguliza mikono yao, basi hakika mtu huyu anakufuru.",
-    "footnotes": "Wakipuuza washirikina kukuitikia wewe, ewe Mtume, basi usihuzunike. Kwani wewe si mwangalizi wao kwa hayo wanayo yatenda. Wewe umelazimishwa kufikisha Ujumbe tu, na hayo umeyabainisha wazi. Na tabia ya watu tukiwapa wasaa hupanda kiburi. Na ukiwasibu msiba kwa sababu ya maasi yao, mara wanasahau neema, wanahuzunika kwa kuteremkiwa na balaa, na wanaingia katika kufuru."
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 488,
+  "verse_key": "42:48",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنۡ أَعۡرَضُواْ فَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظًاۖ إِنۡ عَلَيۡكَ إِلَّا ٱلۡبَلَٰغُۗ وَإِنَّآ إِذَآ أَذَقۡنَا ٱلۡإِنسَٰنَ مِنَّا رَحۡمَةٗ فَرِحَ بِهَاۖ وَإِن تُصِبۡهُمۡ سَيِّئَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ فَإِنَّ ٱلۡإِنسَٰنَ كَفُورٞ",
+  "translation": "Na wakipuuza, basi Sisi hatukukupeleka ili uwe mwangalizi wao. Si juu yako ila kufikisha Ujumbe tu. Na hakika Sisi tukimwonjesha mtu rehema kutoka kwetu, huifurahia. Na akisibiwa na ovu kwa sababu ya iliyo yatanguliza mikono yao, basi hakika mtu huyu anakufuru.",
+  "footnotes": "Wakipuuza washirikina kukuitikia wewe, ewe Mtume, basi usihuzunike. Kwani wewe si mwangalizi wao kwa hayo wanayo yatenda. Wewe umelazimishwa kufikisha Ujumbe tu, na hayo umeyabainisha wazi. Na tabia ya watu tukiwapa wasaa hupanda kiburi. Na ukiwasibu msiba kwa sababu ya maasi yao, mara wanasahau neema, wanahuzunika kwa kuteremkiwa na balaa, na wanaingia katika kufuru."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1231",
-    "sura": "8",
-    "aya": "71",
-    "arabic_text": "وَإِن يُرِيدُواْ خِيَانَتَكَ فَقَدۡ خَانُواْ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ مِنۡهُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
-    "translation": "Sε wͻpε sε wͻdi wo hwammͻ nso a, wͻn adikan adi Nyankopͻn hwammͻ pεn, εna Ɔmaa wodii wͻn so (nkonim). Onyankopͻn ne Onimdefoͻ a Ɔnim biribiara, Ɔne Onyansafoͻ.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 186,
+  "verse_key": "8:71",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يُرِيدُواْ خِيَانَتَكَ فَقَدۡ خَانُواْ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ مِنۡهُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+  "translation": "Sε wͻpε sε wͻdi wo hwammͻ nso a, wͻn adikan adi Nyankopͻn hwammͻ pεn, εna Ɔmaa wodii wͻn so (nkonim). Onyankopͻn ne Onimdefoͻ a Ɔnim biribiara, Ɔne Onyansafoͻ.",
+  "footnotes": ""
 }

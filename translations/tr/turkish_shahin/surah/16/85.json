@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1986",
-    "sura": "16",
-    "aya": "85",
-    "arabic_text": "وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُواْ ٱلۡعَذَابَ فَلَا يُخَفَّفُ عَنۡهُمۡ وَلَا هُمۡ يُنظَرُونَ",
-    "translation": "O zulmedenler azabı gördüklerinde, artık onlardan azap hafifletilmez, onlara mühlet de verilmez.",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 276,
+  "verse_key": "16:85",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا رَءَا ٱلَّذِينَ ظَلَمُواْ ٱلۡعَذَابَ فَلَا يُخَفَّفُ عَنۡهُمۡ وَلَا هُمۡ يُنظَرُونَ",
+  "translation": "O zulmedenler azabı gördüklerinde, artık onlardan azap hafifletilmez, onlara mühlet de verilmez.",
+  "footnotes": ""
 }

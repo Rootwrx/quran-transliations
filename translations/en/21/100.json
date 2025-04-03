@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2583",
-    "sura": "21",
-    "aya": "100",
-    "arabic_text": "لَهُمۡ فِيهَا زَفِيرٞ وَهُمۡ فِيهَا لَا يَسۡمَعُونَ",
-    "translation": "(100) For them therein is heavy sighing, and they therein will not hear.",
-    "footnotes": ""
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 330,
+  "verse_key": "21:100",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَهُمۡ فِيهَا زَفِيرٞ وَهُمۡ فِيهَا لَا يَسۡمَعُونَ",
+  "translation": "(100) For them therein is heavy sighing, and they therein will not hear.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3871",
-    "sura": "37",
-    "aya": "83",
-    "arabic_text": "۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبۡرَٰهِيمَ",
-    "translation": "83. Ir iš tiesų, tarp tų, kurie pasekė jo [Nūho (Nojaus)] keliu (islamiškuoju monoteizmu (buvo Ibrahim (Abraomas)).",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 449,
+  "verse_key": "37:83",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَإِنَّ مِن شِيعَتِهِۦ لَإِبۡرَٰهِيمَ",
+  "translation": "83. Ir iš tiesų, tarp tų, kurie pasekė jo [Nūho (Nojaus)] keliu (islamiškuoju monoteizmu (buvo Ibrahim (Abraomas)).",
+  "footnotes": ""
 }

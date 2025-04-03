@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2925",
-    "sura": "25",
-    "aya": "70",
-    "arabic_text": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلٗا صَٰلِحٗا فَأُوْلَٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمۡ حَسَنَٰتٖۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
-    "translation": "Àfi ẹni tí ó bá ronú pìwàdà, tí ó gbàgbọ́ ní òdodo, tí ó sì ṣe iṣẹ́ rere. Àwọn wọ̀nyẹn ni Allāhu yóò fi iṣẹ́ rere rọ́pò iṣẹ́ aburú wọn (ìyẹn, nípa ìronúpìwàdà wọn). Allāhu sì ń jẹ́ Aláforíjìn, Àṣàkẹ́-ọ̀run.",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 366,
+  "verse_key": "25:70",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلٗا صَٰلِحٗا فَأُوْلَٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمۡ حَسَنَٰتٖۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
+  "translation": "Àfi ẹni tí ó bá ronú pìwàdà, tí ó gbàgbọ́ ní òdodo, tí ó sì ṣe iṣẹ́ rere. Àwọn wọ̀nyẹn ni Allāhu yóò fi iṣẹ́ rere rọ́pò iṣẹ́ aburú wọn (ìyẹn, nípa ìronúpìwàdà wọn). Allāhu sì ń jẹ́ Aláforíjìn, Àṣàkẹ́-ọ̀run.",
+  "footnotes": ""
 }

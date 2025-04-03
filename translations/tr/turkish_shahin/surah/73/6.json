@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5481",
-    "sura": "73",
-    "aya": "6",
-    "arabic_text": "إِنَّ نَاشِئَةَ ٱلَّيۡلِ هِيَ أَشَدُّ وَطۡـٔٗا وَأَقۡوَمُ قِيلًا",
-    "translation": "Şüphesiz gece kalkışı, (kalp ve uzuvlar arasında) tam bir uyuma ve sağlam bir kıraata daha elverişlidir.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 574,
+  "verse_key": "73:6",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ نَاشِئَةَ ٱلَّيۡلِ هِيَ أَشَدُّ وَطۡـٔٗا وَأَقۡوَمُ قِيلًا",
+  "translation": "Şüphesiz gece kalkışı, (kalp ve uzuvlar arasında) tam bir uyuma ve sağlam bir kıraata daha elverişlidir.",
+  "footnotes": ""
 }

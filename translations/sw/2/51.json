@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "58",
-    "sura": "2",
-    "aya": "51",
-    "arabic_text": "وَإِذۡ وَٰعَدۡنَا مُوسَىٰٓ أَرۡبَعِينَ لَيۡلَةٗ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
-    "translation": "Na tulipo muahidi Musa masiku arubaini, kisha mkachukua ndama (mkamuabudu) baada yake, na mkawa wenye kudhulumu.",
-    "footnotes": "Na kumbukeni wakati Mola wenu alipo agana na Musa muda wa masiku arubaini kwa ajili ya mazungumzo. Alipo kwenda walipo agana na akarejea alikukuteni mmekwisha geuka, na mkamfanya ndama aliye muunda Saamiriyu ndiye wa kuabudiwa. Mkawa kwa hivyo ni wenye kudhulumu kwa kumfanyia Mwenyezi Mungu aliye kuumbeni na kukuokoeni ana mshirika wake. (\"Masiku\" ni wingi wa Usiku. Wingi wa siku ni siku, kama ilivyo sahani, sabuni, silaha, sinia, sungura, saa. Ni makosa kwa Kiswahili kusema \"masiku\" kuwa ni wingi wa siku; \"Masiku\" ni wingi wa \"Usiku\". Kutumia \"Masaa\" kuwa ni wingi wa \"Saa\" ni makosa.)"
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 8,
+  "verse_key": "2:51",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ وَٰعَدۡنَا مُوسَىٰٓ أَرۡبَعِينَ لَيۡلَةٗ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
+  "translation": "Na tulipo muahidi Musa masiku arubaini, kisha mkachukua ndama (mkamuabudu) baada yake, na mkawa wenye kudhulumu.",
+  "footnotes": "Na kumbukeni wakati Mola wenu alipo agana na Musa muda wa masiku arubaini kwa ajili ya mazungumzo. Alipo kwenda walipo agana na akarejea alikukuteni mmekwisha geuka, na mkamfanya ndama aliye muunda Saamiriyu ndiye wa kuabudiwa. Mkawa kwa hivyo ni wenye kudhulumu kwa kumfanyia Mwenyezi Mungu aliye kuumbeni na kukuokoeni ana mshirika wake. (\"Masiku\" ni wingi wa Usiku. Wingi wa siku ni siku, kama ilivyo sahani, sabuni, silaha, sinia, sungura, saa. Ni makosa kwa Kiswahili kusema \"masiku\" kuwa ni wingi wa siku; \"Masiku\" ni wingi wa \"Usiku\". Kutumia \"Masaa\" kuwa ni wingi wa \"Saa\" ni makosa.)"
 }

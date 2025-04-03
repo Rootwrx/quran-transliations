@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1132",
-    "sura": "7",
-    "aya": "178",
-    "arabic_text": "مَن يَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِيۖ وَمَن يُضۡلِلۡ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
-    "translation": "Allah kime hidayet verirse o doğru yolu bulmuş olur. Kimi de saptırırsa onlar hüsrana uğrayanların ta kendileridirler.",
-    "footnotes": ""
-  }
+  "id": 178,
+  "verse_number": 178,
+  "page_number": 173,
+  "verse_key": "7:178",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 69,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَن يَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِيۖ وَمَن يُضۡلِلۡ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+  "translation": "Allah kime hidayet verirse o doğru yolu bulmuş olur. Kimi de saptırırsa onlar hüsrana uğrayanların ta kendileridirler.",
+  "footnotes": ""
 }

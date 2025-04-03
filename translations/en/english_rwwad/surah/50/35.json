@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4665",
-    "sura": "50",
-    "aya": "35",
-    "arabic_text": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيۡنَا مَزِيدٞ",
-    "translation": "They will have therein all what they wish for, and We have yet more[16].",
-    "footnotes": "[16] Of unimaginable pleasures such as looking at the Face of Allah Almighty. See 10:26 and 75:22-23."
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 519,
+  "verse_key": "50:35",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَهُم مَّا يَشَآءُونَ فِيهَا وَلَدَيۡنَا مَزِيدٞ",
+  "translation": "They will have therein all what they wish for, and We have yet more[16].",
+  "footnotes": "[16] Of unimaginable pleasures such as looking at the Face of Allah Almighty. See 10:26 and 75:22-23."
 }

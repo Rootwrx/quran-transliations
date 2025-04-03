@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3539",
-    "sura": "33",
-    "aya": "6",
-    "arabic_text": "ٱلنَّبِيُّ أَوۡلَىٰ بِٱلۡمُؤۡمِنِينَ مِنۡ أَنفُسِهِمۡۖ وَأَزۡوَٰجُهُۥٓ أُمَّهَٰتُهُمۡۗ وَأُوْلُواْ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضٖ فِي كِتَٰبِ ٱللَّهِ مِنَ ٱلۡمُؤۡمِنِينَ وَٱلۡمُهَٰجِرِينَ إِلَّآ أَن تَفۡعَلُوٓاْ إِلَىٰٓ أَوۡلِيَآئِكُم مَّعۡرُوفٗاۚ كَانَ ذَٰلِكَ فِي ٱلۡكِتَٰبِ مَسۡطُورٗا",
-    "translation": "Nabii ni bora zaidi kwa Waumini kuliko nafsi zao. Na wake zake ni mama zao. Na jamaa ni karibu wao kwa wao katika Kitabu cha Mwenyezi Mungu kuliko Waumini wengine na Wahamiaji. Ila muwe mnawafanyia wema marafiki zenu. Haya yamekwisha andikwa Kitabuni.",
-    "footnotes": "Nabii Muhammad ni mwenye kustahiki zaidi urafiki kwa Waumini, na ana huruma zaidi kwa Waumini kuliko nafsi zao. Basi yawapasa wao wampende na wamt'ii. Na wake zake ni Mama zao kwa kuwatukuza na kuwahishimu, na kuwa ni haramu juu yao kuwaoa baada yake. Na jamaa walio khusiana ni karibu zaidi kuliko Waumini wenginewe na Wahajiri, walio hama Makka, kwa kurithiana wao kwa wao kama ilivyo wajibika katika Qur'ani. Lakini inafaa kumfanyia wema mlio fanya urafiki naye katika Dini asiye kuwa jamaa yenu, kwa kuwapa wema na mapenzi au hata kumuandikia mali katika wasia. Hayo ya kurithiana jamaa walio khusiana yamethibiti katika Kitabu cha Qur'ani wala hayawezi kubadilishwa."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 418,
+  "verse_key": "33:6",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلنَّبِيُّ أَوۡلَىٰ بِٱلۡمُؤۡمِنِينَ مِنۡ أَنفُسِهِمۡۖ وَأَزۡوَٰجُهُۥٓ أُمَّهَٰتُهُمۡۗ وَأُوْلُواْ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضٖ فِي كِتَٰبِ ٱللَّهِ مِنَ ٱلۡمُؤۡمِنِينَ وَٱلۡمُهَٰجِرِينَ إِلَّآ أَن تَفۡعَلُوٓاْ إِلَىٰٓ أَوۡلِيَآئِكُم مَّعۡرُوفٗاۚ كَانَ ذَٰلِكَ فِي ٱلۡكِتَٰبِ مَسۡطُورٗا",
+  "translation": "Nabii ni bora zaidi kwa Waumini kuliko nafsi zao. Na wake zake ni mama zao. Na jamaa ni karibu wao kwa wao katika Kitabu cha Mwenyezi Mungu kuliko Waumini wengine na Wahamiaji. Ila muwe mnawafanyia wema marafiki zenu. Haya yamekwisha andikwa Kitabuni.",
+  "footnotes": "Nabii Muhammad ni mwenye kustahiki zaidi urafiki kwa Waumini, na ana huruma zaidi kwa Waumini kuliko nafsi zao. Basi yawapasa wao wampende na wamt'ii. Na wake zake ni Mama zao kwa kuwatukuza na kuwahishimu, na kuwa ni haramu juu yao kuwaoa baada yake. Na jamaa walio khusiana ni karibu zaidi kuliko Waumini wenginewe na Wahajiri, walio hama Makka, kwa kurithiana wao kwa wao kama ilivyo wajibika katika Qur'ani. Lakini inafaa kumfanyia wema mlio fanya urafiki naye katika Dini asiye kuwa jamaa yenu, kwa kuwapa wema na mapenzi au hata kumuandikia mali katika wasia. Hayo ya kurithiana jamaa walio khusiana yamethibiti katika Kitabu cha Qur'ani wala hayawezi kubadilishwa."
 }

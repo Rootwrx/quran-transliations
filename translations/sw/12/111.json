@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1707",
-    "sura": "12",
-    "aya": "111",
-    "arabic_text": "لَقَدۡ كَانَ فِي قَصَصِهِمۡ عِبۡرَةٞ لِّأُوْلِي ٱلۡأَلۡبَٰبِۗ مَا كَانَ حَدِيثٗا يُفۡتَرَىٰ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ كُلِّ شَيۡءٖ وَهُدٗى وَرَحۡمَةٗ لِّقَوۡمٖ يُؤۡمِنُونَ",
-    "translation": "Kwa hakika katika hadithi zao limo zingatio kwa wenye akili. Si maneno yaliyo zuliwa, bali ni ya kusadikisha yaliyo kabla yake, na ufafanuzi wa kila kitu, na ni uwongofu na rehema kwa kaumu yenye kuamini.",
-    "footnotes": "Na Sisi tumekufunulia tuliyo kufunulia katika visa vya Manabii ili kuuthibitisha moyo wako, na iwe ni hidaya kwa watu wako. Na tumetengeneza mazingatio na waadhi wa kuwanawirisha wenye akili na busara, na wanao tambua kuwa Qur'ani ni haki na kweli. Hizi hazikuwa ni hadithi za kutunga, wala nganu za kuzua. Bali hakika ni kweli na ufunuo, wahyi, wenye kuhakikisha ukweli wa yaliyo pita katika Vitabu vya mbinguni, na walio kuja nayo Mitume wengine! Na zinabainisha yanayo hitaji kufafanuliwa katika mambo ya Dini, na zinaongoa kwendea katika Haki na Njia Iliyo Nyooka, na zinafungua milango ya rehema ya Mwenyezi Mungu ili aongoke mwenye kufuata uwongofu wake, na akawa miongoni mwa Waumini wa kweli."
-  }
+  "id": 111,
+  "verse_number": 111,
+  "page_number": 248,
+  "verse_key": "12:111",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ كَانَ فِي قَصَصِهِمۡ عِبۡرَةٞ لِّأُوْلِي ٱلۡأَلۡبَٰبِۗ مَا كَانَ حَدِيثٗا يُفۡتَرَىٰ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ كُلِّ شَيۡءٖ وَهُدٗى وَرَحۡمَةٗ لِّقَوۡمٖ يُؤۡمِنُونَ",
+  "translation": "Kwa hakika katika hadithi zao limo zingatio kwa wenye akili. Si maneno yaliyo zuliwa, bali ni ya kusadikisha yaliyo kabla yake, na ufafanuzi wa kila kitu, na ni uwongofu na rehema kwa kaumu yenye kuamini.",
+  "footnotes": "Na Sisi tumekufunulia tuliyo kufunulia katika visa vya Manabii ili kuuthibitisha moyo wako, na iwe ni hidaya kwa watu wako. Na tumetengeneza mazingatio na waadhi wa kuwanawirisha wenye akili na busara, na wanao tambua kuwa Qur'ani ni haki na kweli. Hizi hazikuwa ni hadithi za kutunga, wala nganu za kuzua. Bali hakika ni kweli na ufunuo, wahyi, wenye kuhakikisha ukweli wa yaliyo pita katika Vitabu vya mbinguni, na walio kuja nayo Mitume wengine! Na zinabainisha yanayo hitaji kufafanuliwa katika mambo ya Dini, na zinaongoa kwendea katika Haki na Njia Iliyo Nyooka, na zinafungua milango ya rehema ya Mwenyezi Mungu ili aongoke mwenye kufuata uwongofu wake, na akawa miongoni mwa Waumini wa kweli."
 }

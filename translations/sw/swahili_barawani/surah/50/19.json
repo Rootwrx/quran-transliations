@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4649",
-    "sura": "50",
-    "aya": "19",
-    "arabic_text": "وَجَآءَتۡ سَكۡرَةُ ٱلۡمَوۡتِ بِٱلۡحَقِّۖ ذَٰلِكَ مَا كُنتَ مِنۡهُ تَحِيدُ",
-    "translation": "Na uchungu wa kutoka roho utamjia kwa haki. Hayo ndiyo uliyo kuwa ukiyakimbia.",
-    "footnotes": "Na yatapo kuja machungu ya kukata roho, kwa haki isiyo na shaka ndani yake, hilo ni jambo la kweli ulilo kuwa ukilikimbia."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 519,
+  "verse_key": "50:19",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَآءَتۡ سَكۡرَةُ ٱلۡمَوۡتِ بِٱلۡحَقِّۖ ذَٰلِكَ مَا كُنتَ مِنۡهُ تَحِيدُ",
+  "translation": "Na uchungu wa kutoka roho utamjia kwa haki. Hayo ndiyo uliyo kuwa ukiyakimbia.",
+  "footnotes": "Na yatapo kuja machungu ya kukata roho, kwa haki isiyo na shaka ndani yake, hilo ni jambo la kweli ulilo kuwa ukilikimbia."
 }

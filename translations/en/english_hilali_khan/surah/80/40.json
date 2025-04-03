@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5798",
-    "sura": "80",
-    "aya": "40",
-    "arabic_text": "وَوُجُوهٞ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٞ",
-    "translation": " 40. And other faces, that Day, will be dust-stained.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 585,
+  "verse_key": "80:40",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوُجُوهٞ يَوۡمَئِذٍ عَلَيۡهَا غَبَرَةٞ",
+  "translation": " 40. And other faces, that Day, will be dust-stained.",
+  "footnotes": ""
 }

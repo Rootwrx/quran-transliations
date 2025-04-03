@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2625",
-    "sura": "22",
-    "aya": "30",
-    "arabic_text": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرٞ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ",
-    "translation": "Wancan ne. Kuma wanda ya girmama hukunce-hukuncen Allah to shĩ ne mafĩfĩci a gare shi, a wurin Ubangijinsa. Kuma an halatta muku dabbõbin ni'ima* fãce abin da ake karantãwa a kanku. Sabõda haka ku nĩsanci ƙazanta daga gumãka kuma ku nĩsanci ƙazanta daga shaidar zur.",
-    "footnotes": "* Dabbõbin ni'ima, sũ ne raƙumai da shãnu da tumãki da awãki. An halatta cinsu sai waɗanda suka mutu a gabãnin a yanka. Kuma shaidar zur kamar bauta wa gumãka take wajen sabbaba azãba, dõmin anã halattar da haram kõ aharamtar da halat game da ita."
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 335,
+  "verse_key": "22:30",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرٞ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ",
+  "translation": "Wancan ne. Kuma wanda ya girmama hukunce-hukuncen Allah to shĩ ne mafĩfĩci a gare shi, a wurin Ubangijinsa. Kuma an halatta muku dabbõbin ni'ima* fãce abin da ake karantãwa a kanku. Sabõda haka ku nĩsanci ƙazanta daga gumãka kuma ku nĩsanci ƙazanta daga shaidar zur.",
+  "footnotes": "* Dabbõbin ni'ima, sũ ne raƙumai da shãnu da tumãki da awãki. An halatta cinsu sai waɗanda suka mutu a gabãnin a yanka. Kuma shaidar zur kamar bauta wa gumãka take wajen sabbaba azãba, dõmin anã halattar da haram kõ aharamtar da halat game da ita."
 }

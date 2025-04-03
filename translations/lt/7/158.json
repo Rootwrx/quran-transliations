@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1112",
-    "sura": "7",
-    "aya": "158",
-    "arabic_text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡ جَمِيعًا ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِيِّ ٱلۡأُمِّيِّ ٱلَّذِي يُؤۡمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمۡ تَهۡتَدُونَ",
-    "translation": "158. Sakyk (Muchammedai ﷺ): „Žmonės, iš tiesų, aš atsiųstas jums visiems kaip Pasiuntinys Allaho, Kuriam priklauso dangų ir žemės karalystė. La Ilaha illa huva (niekas neturi teisės būti garbinamas, tik Jis). Jis – Tas, Kuris suteikia gyvenimą ir sukelia mirtį. Taigi, tikėkite Allahą ir Jo Pasiuntinį (Muchammedą ﷺ), Pranašą, kuris negali nei skaityti, nei rašyti (t. y. Muchammedą ﷺ), kuris tiki Allahą ir Jo Žodžiais [(šiuo Koranu), Tauratu (Tora) ir Indžyliu (Evangelija) ir taip pat Allaho Žodžiu: „Būk!“ - ir jis buvo, t.y. Isa (Jėzus), Marjamos (Marijos) sūnus, ] ir sekite juo, kad būtumėte teisingai vedami.“",
-    "footnotes": ""
-  }
+  "id": 158,
+  "verse_number": 158,
+  "page_number": 170,
+  "verse_key": "7:158",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 68,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡ جَمِيعًا ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِيِّ ٱلۡأُمِّيِّ ٱلَّذِي يُؤۡمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمۡ تَهۡتَدُونَ",
+  "translation": "158. Sakyk (Muchammedai ﷺ): „Žmonės, iš tiesų, aš atsiųstas jums visiems kaip Pasiuntinys Allaho, Kuriam priklauso dangų ir žemės karalystė. La Ilaha illa huva (niekas neturi teisės būti garbinamas, tik Jis). Jis – Tas, Kuris suteikia gyvenimą ir sukelia mirtį. Taigi, tikėkite Allahą ir Jo Pasiuntinį (Muchammedą ﷺ), Pranašą, kuris negali nei skaityti, nei rašyti (t. y. Muchammedą ﷺ), kuris tiki Allahą ir Jo Žodžiais [(šiuo Koranu), Tauratu (Tora) ir Indžyliu (Evangelija) ir taip pat Allaho Žodžiu: „Būk!“ - ir jis buvo, t.y. Isa (Jėzus), Marjamos (Marijos) sūnus, ] ir sekite juo, kad būtumėte teisingai vedami.“",
+  "footnotes": ""
 }

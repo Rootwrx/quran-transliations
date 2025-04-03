@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "737",
-    "sura": "5",
-    "aya": "68",
-    "arabic_text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
-    "translation": "Ngươi (hỡi Thiên Sứ) hãy nói: “Hỡi dân Kinh Sách, các người không có bất cứ cơ sở nào (cho tôn giáo của mình) cho đến khi các người tuân thủ theo Tawrah và Injil và những điều được ban xuống cho các người từ Thượng Đế của các người (Qur’an). Chắc chắn bọn họ (dân Kinh Sách) sẽ càng thái quá và vô đức tin hơn nữa qua những gì mà Thượng Đế của Ngươi đã ban xuống cho Ngươi (hỡi Thiên Sứ), cho nên Ngươi chớ thương tiếc cho đám người vô đức tin.",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 119,
+  "verse_key": "5:68",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+  "translation": "Ngươi (hỡi Thiên Sứ) hãy nói: “Hỡi dân Kinh Sách, các người không có bất cứ cơ sở nào (cho tôn giáo của mình) cho đến khi các người tuân thủ theo Tawrah và Injil và những điều được ban xuống cho các người từ Thượng Đế của các người (Qur’an). Chắc chắn bọn họ (dân Kinh Sách) sẽ càng thái quá và vô đức tin hơn nữa qua những gì mà Thượng Đế của Ngươi đã ban xuống cho Ngươi (hỡi Thiên Sứ), cho nên Ngươi chớ thương tiếc cho đám người vô đức tin.",
+  "footnotes": ""
 }

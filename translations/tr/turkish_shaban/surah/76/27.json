@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5618",
-    "sura": "76",
-    "aya": "27",
-    "arabic_text": "إِنَّ هَٰٓؤُلَآءِ يُحِبُّونَ ٱلۡعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمۡ يَوۡمٗا ثَقِيلٗا",
-    "translation": " Onlar, acele olanı istiyorlar, ağır (çetin) günü arkalarına bırakıyorlar.",
-    "footnotes": null
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 580,
+  "verse_key": "76:27",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰٓؤُلَآءِ يُحِبُّونَ ٱلۡعَاجِلَةَ وَيَذَرُونَ وَرَآءَهُمۡ يَوۡمٗا ثَقِيلٗا",
+  "translation": " Onlar, acele olanı istiyorlar, ağır (çetin) günü arkalarına bırakıyorlar.",
+  "footnotes": null
 }

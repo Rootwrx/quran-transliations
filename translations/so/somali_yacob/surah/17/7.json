@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2036",
-    "sura": "17",
-    "aya": "7",
-    "arabic_text": "إِنۡ أَحۡسَنتُمۡ أَحۡسَنتُمۡ لِأَنفُسِكُمۡۖ وَإِنۡ أَسَأۡتُمۡ فَلَهَاۚ فَإِذَا جَآءَ وَعۡدُ ٱلۡأٓخِرَةِ لِيَسُـُٔواْ وُجُوهَكُمۡ وَلِيَدۡخُلُواْ ٱلۡمَسۡجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٖ وَلِيُتَبِّرُواْ مَا عَلَوۡاْ تَتۡبِيرًا",
-    "translation": "7. Haddaad samo fashaan, waxaad u sama fashaan uun nafahiinna, haddaad xumaan fashaanna (idinkay idiin daran tahay oo denbigaa) leh. Markuu wacadkii dambe (kii labaad) yimid (Waxaan soo dirnay cadowyadiinna Bukhtanassar iyo ciidankiisa) si ay ugu dhigaan tiiraanyo ka muuqaato wajiyadiinna, oo ay u galaan masjidka Al-Aqsaa (ee Qudus ku yaal) siday markii horeba u galeen, oo ay u baabbi’iyaan wax kastoy awood u yeeshaan baabba' muuqda.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 282,
+  "verse_key": "17:7",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ أَحۡسَنتُمۡ أَحۡسَنتُمۡ لِأَنفُسِكُمۡۖ وَإِنۡ أَسَأۡتُمۡ فَلَهَاۚ فَإِذَا جَآءَ وَعۡدُ ٱلۡأٓخِرَةِ لِيَسُـُٔواْ وُجُوهَكُمۡ وَلِيَدۡخُلُواْ ٱلۡمَسۡجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٖ وَلِيُتَبِّرُواْ مَا عَلَوۡاْ تَتۡبِيرًا",
+  "translation": "7. Haddaad samo fashaan, waxaad u sama fashaan uun nafahiinna, haddaad xumaan fashaanna (idinkay idiin daran tahay oo denbigaa) leh. Markuu wacadkii dambe (kii labaad) yimid (Waxaan soo dirnay cadowyadiinna Bukhtanassar iyo ciidankiisa) si ay ugu dhigaan tiiraanyo ka muuqaato wajiyadiinna, oo ay u galaan masjidka Al-Aqsaa (ee Qudus ku yaal) siday markii horeba u galeen, oo ay u baabbi’iyaan wax kastoy awood u yeeshaan baabba' muuqda.",
+  "footnotes": ""
 }

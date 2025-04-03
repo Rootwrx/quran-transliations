@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1297",
-    "sura": "9",
-    "aya": "62",
-    "arabic_text": "يَحۡلِفُونَ بِٱللَّهِ لَكُمۡ لِيُرۡضُوكُمۡ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ أَن يُرۡضُوهُ إِن كَانُواْ مُؤۡمِنِينَ",
-    "translation": "(62) They swear by Allāh to you [Muslims] to satisfy you. But Allāh and His Messenger are more worthy for them to satisfy,[489] if they were to be believers.",
-    "footnotes": "[489]- Literally, \"to satisfy Him,\" meaning that Allāh would be satisfied by obedience to the Messenger (ﷺ)."
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 197,
+  "verse_key": "9:62",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَحۡلِفُونَ بِٱللَّهِ لَكُمۡ لِيُرۡضُوكُمۡ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ أَن يُرۡضُوهُ إِن كَانُواْ مُؤۡمِنِينَ",
+  "translation": "(62) They swear by Allāh to you [Muslims] to satisfy you. But Allāh and His Messenger are more worthy for them to satisfy,[489] if they were to be believers.",
+  "footnotes": "[489]- Literally, \"to satisfy Him,\" meaning that Allāh would be satisfied by obedience to the Messenger (ﷺ)."
 }

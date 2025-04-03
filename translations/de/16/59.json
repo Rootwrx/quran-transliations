@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1960",
-    "sura": "16",
-    "aya": "59",
-    "arabic_text": "يَتَوَٰرَىٰ مِنَ ٱلۡقَوۡمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦٓۚ أَيُمۡسِكُهُۥ عَلَىٰ هُونٍ أَمۡ يَدُسُّهُۥ فِي ٱلتُّرَابِۗ أَلَا سَآءَ مَا يَحۡكُمُونَ",
-    "translation": "Er verbirgt sich vor den Leuten wegen der schlimmen Nachricht, die ihm verkündet worden ist. Soll er es trotz der Schmach behalten oder es in die Erde stecken? Wie böse ist, was sie urteilen!",
-    "footnotes": null
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 273,
+  "verse_key": "16:59",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَتَوَٰرَىٰ مِنَ ٱلۡقَوۡمِ مِن سُوٓءِ مَا بُشِّرَ بِهِۦٓۚ أَيُمۡسِكُهُۥ عَلَىٰ هُونٍ أَمۡ يَدُسُّهُۥ فِي ٱلتُّرَابِۗ أَلَا سَآءَ مَا يَحۡكُمُونَ",
+  "translation": "Er verbirgt sich vor den Leuten wegen der schlimmen Nachricht, die ihm verkündet worden ist. Soll er es trotz der Schmach behalten oder es in die Erde stecken? Wie böse ist, was sie urteilen!",
+  "footnotes": null
 }

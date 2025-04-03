@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5237",
-    "sura": "66",
-    "aya": "8",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ تُوبُوٓاْ إِلَى ٱللَّهِ تَوۡبَةٗ نَّصُوحًا عَسَىٰ رَبُّكُمۡ أَن يُكَفِّرَ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَيُدۡخِلَكُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ يَوۡمَ لَا يُخۡزِي ٱللَّهُ ٱلنَّبِيَّ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥۖ نُورُهُمۡ يَسۡعَىٰ بَيۡنَ أَيۡدِيهِمۡ وَبِأَيۡمَٰنِهِمۡ يَقُولُونَ رَبَّنَآ أَتۡمِمۡ لَنَا نُورَنَا وَٱغۡفِرۡ لَنَآۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ẹ ronú pìwàdà sí ọ̀dọ̀ Allāhu ní ìronúpìwàdà òdodo. Ó ṣeé ṣe pé Olúwa yín máa pa àwọn àṣìṣe yín rẹ́ fún yín. Ó sì máa mu yín wọ inú àwọn Ọgbà Ìdẹ̀ra tí àwọn odò ń ṣàn ní ìsàlẹ̀ rẹ̀. Ní ọjọ́ tí Allāhu kò níí dójú ti Ànábì àti àwọn tó gbàgbọ́ ní òdodo pẹ̀lú rẹ̀. Ìmọ́lẹ̀ wọn yóò máa tàn ní iwájú wọn àti ní ọwọ́ ọ̀tún wọn. Wọn yóò sọ pé: “Olúwa wa, pé ìmọ́lẹ̀ wa fún wa, kí O sì foríjìn wá. Dájúdájú Ìwọ ni Alágbára lórí gbogbo n̄ǹkan.”",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 561,
+  "verse_key": "66:8",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ تُوبُوٓاْ إِلَى ٱللَّهِ تَوۡبَةٗ نَّصُوحًا عَسَىٰ رَبُّكُمۡ أَن يُكَفِّرَ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَيُدۡخِلَكُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ يَوۡمَ لَا يُخۡزِي ٱللَّهُ ٱلنَّبِيَّ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥۖ نُورُهُمۡ يَسۡعَىٰ بَيۡنَ أَيۡدِيهِمۡ وَبِأَيۡمَٰنِهِمۡ يَقُولُونَ رَبَّنَآ أَتۡمِمۡ لَنَا نُورَنَا وَٱغۡفِرۡ لَنَآۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ẹ ronú pìwàdà sí ọ̀dọ̀ Allāhu ní ìronúpìwàdà òdodo. Ó ṣeé ṣe pé Olúwa yín máa pa àwọn àṣìṣe yín rẹ́ fún yín. Ó sì máa mu yín wọ inú àwọn Ọgbà Ìdẹ̀ra tí àwọn odò ń ṣàn ní ìsàlẹ̀ rẹ̀. Ní ọjọ́ tí Allāhu kò níí dójú ti Ànábì àti àwọn tó gbàgbọ́ ní òdodo pẹ̀lú rẹ̀. Ìmọ́lẹ̀ wọn yóò máa tàn ní iwájú wọn àti ní ọwọ́ ọ̀tún wọn. Wọn yóò sọ pé: “Olúwa wa, pé ìmọ́lẹ̀ wa fún wa, kí O sì foríjìn wá. Dájúdájú Ìwọ ni Alágbára lórí gbogbo n̄ǹkan.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5796",
-    "sura": "80",
-    "aya": "38",
-    "arabic_text": "وُجُوهٞ يَوۡمَئِذٖ مُّسۡفِرَةٞ",
-    "translation": "Raaren-kãngã, nems sẽn pɩnd bee be.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 585,
+  "verse_key": "80:38",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وُجُوهٞ يَوۡمَئِذٖ مُّسۡفِرَةٞ",
+  "translation": "Raaren-kãngã, nems sẽn pɩnd bee be.",
+  "footnotes": ""
 }

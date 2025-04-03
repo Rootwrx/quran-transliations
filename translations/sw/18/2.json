@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2142",
-    "sura": "18",
-    "aya": "2",
-    "arabic_text": "قَيِّمٗا لِّيُنذِرَ بَأۡسٗا شَدِيدٗا مِّن لَّدُنۡهُ وَيُبَشِّرَ ٱلۡمُؤۡمِنِينَ ٱلَّذِينَ يَعۡمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمۡ أَجۡرًا حَسَنٗا",
-    "translation": "Kimenyooka sawa, ili kitoe onyo kali kutoka kwake, na kiwabashirie Waumini watendao mema kwamba watapata ujira mzuri.",
-    "footnotes": "Na Mwenyezi Mungu ameijaalia Qur'ani imesimama, imenyooka sawa sawa katika mafunzo yake ili kuwaonya wanao kufuru na kukataa, kuwa watapata adhabu kali itokayo kwa Mwenyezi Mungu. Na iwape bishara njema wanao isadiki, ambao wanatenda vitendo vyema, ya kwamba watapata malipo mazuri."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 293,
+  "verse_key": "18:2",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَيِّمٗا لِّيُنذِرَ بَأۡسٗا شَدِيدٗا مِّن لَّدُنۡهُ وَيُبَشِّرَ ٱلۡمُؤۡمِنِينَ ٱلَّذِينَ يَعۡمَلُونَ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمۡ أَجۡرًا حَسَنٗا",
+  "translation": "Kimenyooka sawa, ili kitoe onyo kali kutoka kwake, na kiwabashirie Waumini watendao mema kwamba watapata ujira mzuri.",
+  "footnotes": "Na Mwenyezi Mungu ameijaalia Qur'ani imesimama, imenyooka sawa sawa katika mafunzo yake ili kuwaonya wanao kufuru na kukataa, kuwa watapata adhabu kali itokayo kwa Mwenyezi Mungu. Na iwape bishara njema wanao isadiki, ambao wanatenda vitendo vyema, ya kwamba watapata malipo mazuri."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3106",
-    "sura": "26",
-    "aya": "174",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
-    "translation": "İşte bunda da bir ayet/ibret vardır. Buna rağmen onların çoğu mümin değillerdir. ",
-    "footnotes": null
-  }
+  "id": 174,
+  "verse_number": 174,
+  "page_number": 374,
+  "verse_key": "26:174",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+  "translation": "İşte bunda da bir ayet/ibret vardır. Buna rağmen onların çoğu mümin değillerdir. ",
+  "footnotes": null
 }

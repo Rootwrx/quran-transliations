@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4872",
-    "sura": "54",
-    "aya": "26",
-    "arabic_text": "سَيَعۡلَمُونَ غَدٗا مَّنِ ٱلۡكَذَّابُ ٱلۡأَشِرُ",
-    "translation": "ಸುಳ್ಳುಗಾರ ಮತ್ತು ಅಹಂಭಾವಿ ಯಾರೆಂದು ಅವರು ನಾಳೆ ತಿಳಿಯುವರು.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 529,
+  "verse_key": "54:26",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَعۡلَمُونَ غَدٗا مَّنِ ٱلۡكَذَّابُ ٱلۡأَشِرُ",
+  "translation": "ಸುಳ್ಳುಗಾರ ಮತ್ತು ಅಹಂಭಾವಿ ಯಾರೆಂದು ಅವರು ನಾಳೆ ತಿಳಿಯುವರು.",
+  "footnotes": ""
 }

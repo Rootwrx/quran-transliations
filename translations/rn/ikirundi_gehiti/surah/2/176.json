@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "183",
-    "sura": "2",
-    "aya": "176",
-    "arabic_text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلۡكِتَٰبَ بِٱلۡحَقِّۗ وَإِنَّ ٱلَّذِينَ ٱخۡتَلَفُواْ فِي ٱلۡكِتَٰبِ لَفِي شِقَاقِۭ بَعِيدٖ",
-    "translation": "Ivyo bihano rero barabikwiye, kuko Imana Allah Yamanuye Ibitabu birimwo ukuri kugaragara, baraheza barabihakana bivuye inyuma. Mu vy’ukuri, abacanyemwo bakemera bimwe mu biri mu Gitabu bagahakana ibindi, bari mu mpari ziri kure y’ukuri.",
-    "footnotes": ""
-  }
+  "id": 176,
+  "verse_number": 176,
+  "page_number": 26,
+  "verse_key": "2:176",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلۡكِتَٰبَ بِٱلۡحَقِّۗ وَإِنَّ ٱلَّذِينَ ٱخۡتَلَفُواْ فِي ٱلۡكِتَٰبِ لَفِي شِقَاقِۭ بَعِيدٖ",
+  "translation": "Ivyo bihano rero barabikwiye, kuko Imana Allah Yamanuye Ibitabu birimwo ukuri kugaragara, baraheza barabihakana bivuye inyuma. Mu vy’ukuri, abacanyemwo bakemera bimwe mu biri mu Gitabu bagahakana ibindi, bari mu mpari ziri kure y’ukuri.",
+  "footnotes": ""
 }

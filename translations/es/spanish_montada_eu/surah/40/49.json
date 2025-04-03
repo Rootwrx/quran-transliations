@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4182",
-    "sura": "40",
-    "aya": "49",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ فِي ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدۡعُواْ رَبَّكُمۡ يُخَفِّفۡ عَنَّا يَوۡمٗا مِّنَ ٱلۡعَذَابِ",
-    "translation": "49. Y quienes se hallen en el fuego dirán a los ángeles guardianes del infierno: «Rogad a vuestro Señor para que nos mitigue el castigo, aunque sea por un día».",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 472,
+  "verse_key": "40:49",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ فِي ٱلنَّارِ لِخَزَنَةِ جَهَنَّمَ ٱدۡعُواْ رَبَّكُمۡ يُخَفِّفۡ عَنَّا يَوۡمٗا مِّنَ ٱلۡعَذَابِ",
+  "translation": "49. Y quienes se hallen en el fuego dirán a los ángeles guardianes del infierno: «Rogad a vuestro Señor para que nos mitigue el castigo, aunque sea por un día».",
+  "footnotes": ""
 }

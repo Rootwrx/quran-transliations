@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1484",
-    "sura": "11",
-    "aya": "11",
-    "arabic_text": "إِلَّا ٱلَّذِينَ صَبَرُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٞ",
-    "translation": "11. Longola sé baye bazelaki, mpe basalaki misala milamu, bango bakozalaka na bolimbisi na lifuta linene.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 222,
+  "verse_key": "11:11",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا ٱلَّذِينَ صَبَرُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٞ",
+  "translation": "11. Longola sé baye bazelaki, mpe basalaki misala milamu, bango bakozalaka na bolimbisi na lifuta linene.",
+  "footnotes": ""
 }

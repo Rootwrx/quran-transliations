@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1708",
-    "sura": "13",
-    "aya": "1",
-    "arabic_text": "الٓمٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِۗ وَٱلَّذِيٓ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ ٱلۡحَقُّ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ",
-    "translation": "1. Alif Lām Mīm Rā. Ini adalah ayat-ayat Kitab (Al-Qur`ān). Dan (Kitab) yang diturunkan kepadamu (Muhammad) dari Tuhanmu itu adalah benar, tetapi kebanyakan manusia tidak beriman (kepadanya).",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 249,
+  "verse_key": "13:1",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِۗ وَٱلَّذِيٓ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ ٱلۡحَقُّ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ",
+  "translation": "1. Alif Lām Mīm Rā. Ini adalah ayat-ayat Kitab (Al-Qur`ān). Dan (Kitab) yang diturunkan kepadamu (Muhammad) dari Tuhanmu itu adalah benar, tetapi kebanyakan manusia tidak beriman (kepadanya).",
+  "footnotes": ""
 }

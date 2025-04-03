@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3232",
-    "sura": "27",
-    "aya": "73",
-    "arabic_text": "وَإِنَّ رَبَّكَ لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَشۡكُرُونَ",
-    "translation": "Dan sesungguhnya, Tuhan-mu benar-benar mempunyai karunia yang besar (yang diberikan-Nya) kepada manusia, tetapi kebanyakan mereka tidak mensyukuri(nya).",
-    "footnotes": ""
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 383,
+  "verse_key": "27:73",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ رَبَّكَ لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَشۡكُرُونَ",
+  "translation": "Dan sesungguhnya, Tuhan-mu benar-benar mempunyai karunia yang besar (yang diberikan-Nya) kepada manusia, tetapi kebanyakan mereka tidak mensyukuri(nya).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "200",
-    "sura": "2",
-    "aya": "193",
-    "arabic_text": "وَقَٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةٞ وَيَكُونَ ٱلدِّينُ لِلَّهِۖ فَإِنِ ٱنتَهَوۡاْ فَلَا عُدۡوَٰنَ إِلَّا عَلَى ٱلظَّٰلِمِينَ",
-    "translation": "Na piganeni nao mpaka pasiwepo fitina, na Dini iwe ya Mwenyezi Mungu tu. Na kama wakiacha basi usiweko uadui ila kwa wenye kudhulumu.",
-    "footnotes": "Wapigeni vita walio taka kukuuweni na kukugeuzeni muache Dini yenu kwa maudhi na mateso mpaka ing'oke mizizi ya fitina na isafike Dini iwe ya Mwenyezi Mungu tu. Wakiuacha ukafiri wao basi wamejiokoa nafsi zao na wataepukana na adhabu. Hapo basi haifai kuwafanyia uadui. Uadui hufanyiwa mwenye kuidhulumu nafsi yake akaiteketeza kwa maasi na akaacha uadilifu kwa maneno na vitendo."
-  }
+  "id": 193,
+  "verse_number": 193,
+  "page_number": 30,
+  "verse_key": "2:193",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةٞ وَيَكُونَ ٱلدِّينُ لِلَّهِۖ فَإِنِ ٱنتَهَوۡاْ فَلَا عُدۡوَٰنَ إِلَّا عَلَى ٱلظَّٰلِمِينَ",
+  "translation": "Na piganeni nao mpaka pasiwepo fitina, na Dini iwe ya Mwenyezi Mungu tu. Na kama wakiacha basi usiweko uadui ila kwa wenye kudhulumu.",
+  "footnotes": "Wapigeni vita walio taka kukuuweni na kukugeuzeni muache Dini yenu kwa maudhi na mateso mpaka ing'oke mizizi ya fitina na isafike Dini iwe ya Mwenyezi Mungu tu. Wakiuacha ukafiri wao basi wamejiokoa nafsi zao na wataepukana na adhabu. Hapo basi haifai kuwafanyia uadui. Uadui hufanyiwa mwenye kuidhulumu nafsi yake akaiteketeza kwa maasi na akaacha uadilifu kwa maneno na vitendo."
 }

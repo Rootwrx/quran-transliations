@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "363",
-    "sura": "3",
-    "aya": "70",
-    "arabic_text": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَكۡفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَأَنتُمۡ تَشۡهَدُونَ",
-    "translation": "有经典的人啊！你们明知安拉的迹象是真实的，你们为什么不信那些迹象呢？",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 58,
+  "verse_key": "3:70",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَكۡفُرُونَ بِـَٔايَٰتِ ٱللَّهِ وَأَنتُمۡ تَشۡهَدُونَ",
+  "translation": "有经典的人啊！你们明知安拉的迹象是真实的，你们为什么不信那些迹象呢？",
+  "footnotes": ""
 }

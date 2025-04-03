@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6026",
-    "sura": "90",
-    "aya": "3",
-    "arabic_text": "وَوَالِدٖ وَمَا وَلَدَ",
-    "translation": "Et par le père et ce qu’il engendre !",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 594,
+  "verse_key": "90:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَالِدٖ وَمَا وَلَدَ",
+  "translation": "Et par le père et ce qu’il engendre !",
+  "footnotes": ""
 }

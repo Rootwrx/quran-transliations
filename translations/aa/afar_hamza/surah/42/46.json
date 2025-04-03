@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4318",
-    "sura": "42",
-    "aya": "46",
-    "arabic_text": "وَمَا كَانَ لَهُم مِّنۡ أَوۡلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِۗ وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ",
-    "translation": "46. Kaadu a koros qhiyaamah ayró Yallih digaalák ken catta awlaytit mali Yallak kalah, edde tanih tan koroosannih sabbatah Yalli makkoyse num addunyal cakki kaa gudduysa gita maliiy, akeeral jannat kaa gudduysa gita mali.",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 488,
+  "verse_key": "42:46",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ لَهُم مِّنۡ أَوۡلِيَآءَ يَنصُرُونَهُم مِّن دُونِ ٱللَّهِۗ وَمَن يُضۡلِلِ ٱللَّهُ فَمَا لَهُۥ مِن سَبِيلٍ",
+  "translation": "46. Kaadu a koros qhiyaamah ayró Yallih digaalák ken catta awlaytit mali Yallak kalah, edde tanih tan koroosannih sabbatah Yalli makkoyse num addunyal cakki kaa gudduysa gita maliiy, akeeral jannat kaa gudduysa gita mali.",
+  "footnotes": ""
 }

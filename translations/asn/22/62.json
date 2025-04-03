@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2657",
-    "sura": "22",
-    "aya": "62",
-    "arabic_text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِۦ هُوَ ٱلۡبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
-    "translation": "Saa na εteε, efrisε Nyankopͻn ne Nokorε no, na deε wͻfri N’akyi su frε wͻn no (nyinaa) yε nkontompo, nokorε nso sε, Nyankopͻn ne Okokuroko no, na Ɔno ara nso ne Ɔkεseε no.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 339,
+  "verse_key": "22:62",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِۦ هُوَ ٱلۡبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
+  "translation": "Saa na εteε, efrisε Nyankopͻn ne Nokorε no, na deε wͻfri N’akyi su frε wͻn no (nyinaa) yε nkontompo, nokorε nso sε, Nyankopͻn ne Okokuroko no, na Ɔno ara nso ne Ɔkεseε no.",
+  "footnotes": ""
 }

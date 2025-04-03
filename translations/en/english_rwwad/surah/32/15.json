@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3518",
-    "sura": "32",
-    "aya": "15",
-    "arabic_text": "إِنَّمَا يُؤۡمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُواْ بِهَا خَرُّواْۤ سُجَّدٗاۤ وَسَبَّحُواْ بِحَمۡدِ رَبِّهِمۡ وَهُمۡ لَا يَسۡتَكۡبِرُونَ۩",
-    "translation": "The true believers in Our verses are only those who, when they are reminded of them, fall in prostration and glorify their Lord with praise, and they do not show arrogance.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 416,
+  "verse_key": "32:15",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 9,
+  "text": "إِنَّمَا يُؤۡمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُواْ بِهَا خَرُّواْۤ سُجَّدٗاۤ وَسَبَّحُواْ بِحَمۡدِ رَبِّهِمۡ وَهُمۡ لَا يَسۡتَكۡبِرُونَ۩",
+  "translation": "The true believers in Our verses are only those who, when they are reminded of them, fall in prostration and glorify their Lord with praise, and they do not show arrogance.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1516",
-    "sura": "11",
-    "aya": "43",
-    "arabic_text": "قَالَ سَـَٔاوِيٓ إِلَىٰ جَبَلٖ يَعۡصِمُنِي مِنَ ٱلۡمَآءِۚ قَالَ لَا عَاصِمَ ٱلۡيَوۡمَ مِنۡ أَمۡرِ ٱللَّهِ إِلَّا مَن رَّحِمَۚ وَحَالَ بَيۡنَهُمَا ٱلۡمَوۡجُ فَكَانَ مِنَ ٱلۡمُغۡرَقِينَ",
-    "translation": "Akasema: Nitakimbilia mlimani unilinde na maji. (Nuhu) akasema: Leo hapana wa kulindwa na amri ya Mwenyezi Mungu ila aliye mrehemu mwenyewe. Na wimbi likawatenganisha, akawa katika walio zama.",
-    "footnotes": "Mtoto hakumt'ii baba yake mwenye kumwonea huruma! Akasema: Nitakwenda pahala pa kunilinda na maji! Baba, mwenye kujua hukumu ya Mwenyezi Mungu kwa wenye kuasi, alisema: Ewe mwanangu! Hakipatikani cha kuzuia hukumu ya Mwenyezi Mungu ya kuwazamisha walio dhulumu! Basi yule kijana akapotea kwenye macho ya baba yake anaye mnasihi nyuma ya wimbi lilio panda juu; akawa pamoja na wakanushao, walio zama, walio teketea."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 226,
+  "verse_key": "11:43",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ سَـَٔاوِيٓ إِلَىٰ جَبَلٖ يَعۡصِمُنِي مِنَ ٱلۡمَآءِۚ قَالَ لَا عَاصِمَ ٱلۡيَوۡمَ مِنۡ أَمۡرِ ٱللَّهِ إِلَّا مَن رَّحِمَۚ وَحَالَ بَيۡنَهُمَا ٱلۡمَوۡجُ فَكَانَ مِنَ ٱلۡمُغۡرَقِينَ",
+  "translation": "Akasema: Nitakimbilia mlimani unilinde na maji. (Nuhu) akasema: Leo hapana wa kulindwa na amri ya Mwenyezi Mungu ila aliye mrehemu mwenyewe. Na wimbi likawatenganisha, akawa katika walio zama.",
+  "footnotes": "Mtoto hakumt'ii baba yake mwenye kumwonea huruma! Akasema: Nitakwenda pahala pa kunilinda na maji! Baba, mwenye kujua hukumu ya Mwenyezi Mungu kwa wenye kuasi, alisema: Ewe mwanangu! Hakipatikani cha kuzuia hukumu ya Mwenyezi Mungu ya kuwazamisha walio dhulumu! Basi yule kijana akapotea kwenye macho ya baba yake anaye mnasihi nyuma ya wimbi lilio panda juu; akawa pamoja na wakanushao, walio zama, walio teketea."
 }

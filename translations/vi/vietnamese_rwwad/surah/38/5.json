@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3975",
-    "sura": "38",
-    "aya": "5",
-    "arabic_text": "أَجَعَلَ ٱلۡأٓلِهَةَ إِلَٰهٗا وَٰحِدًاۖ إِنَّ هَٰذَا لَشَيۡءٌ عُجَابٞ",
-    "translation": "“Lẽ nào hắn (Muhammad) nhập tất cả các thần linh thành một Thượng Ðế duy nhất, đây quả là một điều hết sức quái gở?”",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 453,
+  "verse_key": "38:5",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَجَعَلَ ٱلۡأٓلِهَةَ إِلَٰهٗا وَٰحِدًاۖ إِنَّ هَٰذَا لَشَيۡءٌ عُجَابٞ",
+  "translation": "“Lẽ nào hắn (Muhammad) nhập tất cả các thần linh thành một Thượng Ðế duy nhất, đây quả là một điều hết sức quái gở?”",
+  "footnotes": ""
 }

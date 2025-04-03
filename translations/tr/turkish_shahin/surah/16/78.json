@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1979",
-    "sura": "16",
-    "aya": "78",
-    "arabic_text": "وَٱللَّهُ أَخۡرَجَكُم مِّنۢ بُطُونِ أُمَّهَٰتِكُمۡ لَا تَعۡلَمُونَ شَيۡـٔٗا وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَ لَعَلَّكُمۡ تَشۡكُرُونَ",
-    "translation": "Siz, hiçbir şey bilmezken Allah, sizi analarınızın karnından çıkardı; şükredesiniz diye size kulaklar, gözler ve kalpler verdi.",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 275,
+  "verse_key": "16:78",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ أَخۡرَجَكُم مِّنۢ بُطُونِ أُمَّهَٰتِكُمۡ لَا تَعۡلَمُونَ شَيۡـٔٗا وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَ لَعَلَّكُمۡ تَشۡكُرُونَ",
+  "translation": "Siz, hiçbir şey bilmezken Allah, sizi analarınızın karnından çıkardı; şükredesiniz diye size kulaklar, gözler ve kalpler verdi.",
+  "footnotes": ""
 }

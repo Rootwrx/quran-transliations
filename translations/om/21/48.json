@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2531",
-    "sura": "21",
-    "aya": "48",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ وَهَٰرُونَ ٱلۡفُرۡقَانَ وَضِيَآءٗ وَذِكۡرٗا لِّلۡمُتَّقِينَ",
-    "translation": "Dhugumatti, Nuti Muusaafi Haaruuniif (kitaaba) adda baasaa, ifnanaafi yaadannoo warra Rabbiin sodaataniif ta’e kenninee jirra.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 326,
+  "verse_key": "21:48",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ وَهَٰرُونَ ٱلۡفُرۡقَانَ وَضِيَآءٗ وَذِكۡرٗا لِّلۡمُتَّقِينَ",
+  "translation": "Dhugumatti, Nuti Muusaafi Haaruuniif (kitaaba) adda baasaa, ifnanaafi yaadannoo warra Rabbiin sodaataniif ta’e kenninee jirra.",
+  "footnotes": ""
 }

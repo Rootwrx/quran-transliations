@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2884",
-    "sura": "25",
-    "aya": "29",
-    "arabic_text": "لَّقَدۡ أَضَلَّنِي عَنِ ٱلذِّكۡرِ بَعۡدَ إِذۡ جَآءَنِيۗ وَكَانَ ٱلشَّيۡطَٰنُ لِلۡإِنسَٰنِ خَذُولٗا",
-    "translation": "29. Wuxuu iga habaabiyey waanada13, intuu ii yimid kaddib. Shaydaanna wuxuu hagradaa dadka oo uga tagaa meel xun14 oo hungo ah.",
-    "footnotes": "13. Wuxuu ula jeedaa Qur’aanka ama Xusidda Alle.\n 14. Wuu isaga tagaa oo cidla’ uga dhaqaaqaa markuu lumiyo kaddib oo u horseedo xumaanta."
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 362,
+  "verse_key": "25:29",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّقَدۡ أَضَلَّنِي عَنِ ٱلذِّكۡرِ بَعۡدَ إِذۡ جَآءَنِيۗ وَكَانَ ٱلشَّيۡطَٰنُ لِلۡإِنسَٰنِ خَذُولٗا",
+  "translation": "29. Wuxuu iga habaabiyey waanada13, intuu ii yimid kaddib. Shaydaanna wuxuu hagradaa dadka oo uga tagaa meel xun14 oo hungo ah.",
+  "footnotes": "13. Wuxuu ula jeedaa Qur’aanka ama Xusidda Alle.\n 14. Wuu isaga tagaa oo cidla’ uga dhaqaaqaa markuu lumiyo kaddib oo u horseedo xumaanta."
 }

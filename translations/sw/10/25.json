@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1389",
-    "sura": "10",
-    "aya": "25",
-    "arabic_text": "وَٱللَّهُ يَدۡعُوٓاْ إِلَىٰ دَارِ ٱلسَّلَٰمِ وَيَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "Na Mwenyezi Mungu anaita kwendea Nyumba ya Amani, na anamwongoa amtakaye kwenye Njia Iliyo Nyooka.",
-    "footnotes": "Na Mwenyezi Mungu anawaitia waja wake kwa Imani na vitendo vyema wendee Peponi, makao ya amani na utulivu. Na Yeye Subhanahu humwongoa amtakaye - kwa kuwa kesha jitayarisha vyema na kaelekea kheri - kwenye Njia ya Haki, nayo ni ya Salama."
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 211,
+  "verse_key": "10:25",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ يَدۡعُوٓاْ إِلَىٰ دَارِ ٱلسَّلَٰمِ وَيَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "Na Mwenyezi Mungu anaita kwendea Nyumba ya Amani, na anamwongoa amtakaye kwenye Njia Iliyo Nyooka.",
+  "footnotes": "Na Mwenyezi Mungu anawaitia waja wake kwa Imani na vitendo vyema wendee Peponi, makao ya amani na utulivu. Na Yeye Subhanahu humwongoa amtakaye - kwa kuwa kesha jitayarisha vyema na kaelekea kheri - kwenye Njia ya Haki, nayo ni ya Salama."
 }

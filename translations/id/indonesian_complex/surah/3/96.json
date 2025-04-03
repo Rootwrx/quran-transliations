@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "389",
-    "sura": "3",
-    "aya": "96",
-    "arabic_text": "إِنَّ أَوَّلَ بَيۡتٖ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكٗا وَهُدٗى لِّلۡعَٰلَمِينَ",
-    "translation": "Sesungguhnya rumah yang mula-mula dibangun untuk (tempat beribadah) manusia, ialah Baitullah214 yang di Bakkah (Mekah), yang diberkahi dan menjadi petunjuk bagi semua manusia.",
-    "footnotes": "214.  Ahli kitab mengatakan bahwa rumah ibadah yang pertama dibangun berada di Baitul Maqdis, oleh karena itu Allah Subḥānahu wa Ta‘ālā membantahnya. "
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 62,
+  "verse_key": "3:96",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ أَوَّلَ بَيۡتٖ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكٗا وَهُدٗى لِّلۡعَٰلَمِينَ",
+  "translation": "Sesungguhnya rumah yang mula-mula dibangun untuk (tempat beribadah) manusia, ialah Baitullah214 yang di Bakkah (Mekah), yang diberkahi dan menjadi petunjuk bagi semua manusia.",
+  "footnotes": "214.  Ahli kitab mengatakan bahwa rumah ibadah yang pertama dibangun berada di Baitul Maqdis, oleh karena itu Allah Subḥānahu wa Ta‘ālā membantahnya. "
 }

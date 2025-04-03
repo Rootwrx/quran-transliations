@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5802",
-    "sura": "81",
-    "aya": "2",
-    "arabic_text": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ",
-    "translation": "2. cuando las estrellas pierdan su luz,",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 586,
+  "verse_key": "81:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ",
+  "translation": "2. cuando las estrellas pierdan su luz,",
+  "footnotes": ""
 }

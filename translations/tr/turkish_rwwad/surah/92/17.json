@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6075",
-    "sura": "92",
-    "aya": "17",
-    "arabic_text": "وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى",
-    "translation": "Takva sahibi ise oradan uzak tutulacaktır.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 596,
+  "verse_key": "92:17",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَسَيُجَنَّبُهَا ٱلۡأَتۡقَى",
+  "translation": "Takva sahibi ise oradan uzak tutulacaktır.",
+  "footnotes": ""
 }

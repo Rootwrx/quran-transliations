@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3744",
-    "sura": "36",
-    "aya": "39",
-    "arabic_text": "وَٱلۡقَمَرَ قَدَّرۡنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِيمِ",
-    "translation": " Ay’a da menziller belirledik ki, sonunda kuru bir hurma dalı gibi olur da geri döner.",
-    "footnotes": null
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 442,
+  "verse_key": "36:39",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡقَمَرَ قَدَّرۡنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِيمِ",
+  "translation": " Ay’a da menziller belirledik ki, sonunda kuru bir hurma dalı gibi olur da geri döner.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2035",
-    "sura": "17",
-    "aya": "6",
-    "arabic_text": "ثُمَّ رَدَدۡنَا لَكُمُ ٱلۡكَرَّةَ عَلَيۡهِمۡ وَأَمۡدَدۡنَٰكُم بِأَمۡوَٰلٖ وَبَنِينَ وَجَعَلۡنَٰكُمۡ أَكۡثَرَ نَفِيرًا",
-    "translation": "Ensuite, Nous vous donnâmes la revanche sur eux; et Nous vous renforçâmes en biens et en enfants. Et Nous vous fîmes [un peuple] plus nombreux :",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 282,
+  "verse_key": "17:6",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ رَدَدۡنَا لَكُمُ ٱلۡكَرَّةَ عَلَيۡهِمۡ وَأَمۡدَدۡنَٰكُم بِأَمۡوَٰلٖ وَبَنِينَ وَجَعَلۡنَٰكُمۡ أَكۡثَرَ نَفِيرًا",
+  "translation": "Ensuite, Nous vous donnâmes la revanche sur eux; et Nous vous renforçâmes en biens et en enfants. Et Nous vous fîmes [un peuple] plus nombreux :",
+  "footnotes": ""
 }

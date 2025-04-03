@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1897",
-    "sura": "15",
-    "aya": "95",
-    "arabic_text": "إِنَّا كَفَيۡنَٰكَ ٱلۡمُسۡتَهۡزِءِينَ",
-    "translation": "Lalle ne Mũ Mun isar maka daga mãsu* izgili.",
-    "footnotes": "* Mãsu tsananin izgili ga Annabi waɗanda Allah Ya isar masa daga gare su su biyar ne, daga Bani Asad bn Abdul'uzza bn Kusayyi akwai Aswadu bn el Muttalib, Abu zam'ah, kuma daga Bani Zuhrah akwai el Aswad bn Abdu Yagũth. Daga Bani Makhzumi akwai el walid bn Mugira. Daga Bani Sahmi akwai el Ãs bn wã'il. Daga Banĩ Khuzã'a akwai el Harith bn el-Tulãtilah. Su ne mãsu darajar mutãnensu. A lõkacin da suka dõge da sharri, Allah Ya hũtar da Annabi daga sharrinsu da nau'i-nau'i na masĩfu suka halaka. Dubi ƙarin bayãni daga tafsĩrin bn Kathĩr. tsare Annabi daga gare su, tun yanã shi kaɗaia Makka yã isa ya sanya shi ya dõgara ga Allah bãyan abubuwa sun ƙãra yawa da sauƙi."
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 267,
+  "verse_key": "15:95",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا كَفَيۡنَٰكَ ٱلۡمُسۡتَهۡزِءِينَ",
+  "translation": "Lalle ne Mũ Mun isar maka daga mãsu* izgili.",
+  "footnotes": "* Mãsu tsananin izgili ga Annabi waɗanda Allah Ya isar masa daga gare su su biyar ne, daga Bani Asad bn Abdul'uzza bn Kusayyi akwai Aswadu bn el Muttalib, Abu zam'ah, kuma daga Bani Zuhrah akwai el Aswad bn Abdu Yagũth. Daga Bani Makhzumi akwai el walid bn Mugira. Daga Bani Sahmi akwai el Ãs bn wã'il. Daga Banĩ Khuzã'a akwai el Harith bn el-Tulãtilah. Su ne mãsu darajar mutãnensu. A lõkacin da suka dõge da sharri, Allah Ya hũtar da Annabi daga sharrinsu da nau'i-nau'i na masĩfu suka halaka. Dubi ƙarin bayãni daga tafsĩrin bn Kathĩr. tsare Annabi daga gare su, tun yanã shi kaɗaia Makka yã isa ya sanya shi ya dõgara ga Allah bãyan abubuwa sun ƙãra yawa da sauƙi."
 }

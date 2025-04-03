@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3503",
-    "sura": "31",
-    "aya": "34",
-    "arabic_text": "إِنَّ ٱللَّهَ عِندَهُۥ عِلۡمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلۡغَيۡثَ وَيَعۡلَمُ مَا فِي ٱلۡأَرۡحَامِۖ وَمَا تَدۡرِي نَفۡسٞ مَّاذَا تَكۡسِبُ غَدٗاۖ وَمَا تَدۡرِي نَفۡسُۢ بِأَيِّ أَرۡضٖ تَمُوتُۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرُۢ",
-    "translation": "Hakika kuijua Saa (ya Kiyama) kuko kwa Mwenyezi Mungu. Na Yeye ndiye anaye iteremsha mvua. Na anavijua viliomo ndani ya matumbo ya uzazi. Na haijui nafsi yoyote itachuma nini kesho. Wala nafsi yoyote haijui itafia nchi gani. Hakika Mwenyezi Mungu ndiye Mwenye kujua, Mwenye khabari.",
-    "footnotes": "Hakika ujuzi wa Saa ya Kiyama uko kwa Mwenyezi Mungu umethibiti. Basi hapana anaye ijua isipo kuwa Yeye tu. Na Yeye huteremsha mvua kwa wakati wake alio uweka. Na anavijua viliomo ndani ya matumbo ya uzazi, kama wanaume, au wanawake, hivyo viliomo vimetimia au havikutimia mimba. Wala hapana mtu ajuaye, mwema na muovu, atapata nini kesho, kama kheri au shari. Wala hapana mtu ajuaye pahala gani duniani itamfika ajali yake ya kufa. Kwa hakika Mwenyezi Mungu ndiye aliye timia ujuzi wake na kuwa na khabari ya kila kitu. Wala hapana yeyote awezae kujua siri yake."
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 414,
+  "verse_key": "31:34",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ عِندَهُۥ عِلۡمُ ٱلسَّاعَةِ وَيُنَزِّلُ ٱلۡغَيۡثَ وَيَعۡلَمُ مَا فِي ٱلۡأَرۡحَامِۖ وَمَا تَدۡرِي نَفۡسٞ مَّاذَا تَكۡسِبُ غَدٗاۖ وَمَا تَدۡرِي نَفۡسُۢ بِأَيِّ أَرۡضٖ تَمُوتُۚ إِنَّ ٱللَّهَ عَلِيمٌ خَبِيرُۢ",
+  "translation": "Hakika kuijua Saa (ya Kiyama) kuko kwa Mwenyezi Mungu. Na Yeye ndiye anaye iteremsha mvua. Na anavijua viliomo ndani ya matumbo ya uzazi. Na haijui nafsi yoyote itachuma nini kesho. Wala nafsi yoyote haijui itafia nchi gani. Hakika Mwenyezi Mungu ndiye Mwenye kujua, Mwenye khabari.",
+  "footnotes": "Hakika ujuzi wa Saa ya Kiyama uko kwa Mwenyezi Mungu umethibiti. Basi hapana anaye ijua isipo kuwa Yeye tu. Na Yeye huteremsha mvua kwa wakati wake alio uweka. Na anavijua viliomo ndani ya matumbo ya uzazi, kama wanaume, au wanawake, hivyo viliomo vimetimia au havikutimia mimba. Wala hapana mtu ajuaye, mwema na muovu, atapata nini kesho, kama kheri au shari. Wala hapana mtu ajuaye pahala gani duniani itamfika ajali yake ya kufa. Kwa hakika Mwenyezi Mungu ndiye aliye timia ujuzi wake na kuwa na khabari ya kila kitu. Wala hapana yeyote awezae kujua siri yake."
 }

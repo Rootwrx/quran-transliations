@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2004",
-    "sura": "16",
-    "aya": "103",
-    "arabic_text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
-    "translation": "103. Dan sesungguhnya Kami mengetahui bahwa mereka berkata, “Sesungguhnya Al-Qur`ān itu hanya diajarkan oleh seorang manusia kepadanya (Muhammad).” Bahasa orang yang mereka tuduhkan (bahwa Muhammad belajar) kepadanya adalah bahasa `Ajam,*(464)  padahal ini (Al-Qur`ān) adalah dalam bahasa Arab yang jelas.",
-    "footnotes": "*464). Bahasa 'Ajam ialah bahasa selain Arab dan dapat juga berarti bahasa Arab yang tidak baik, karena orang yang dituduh mengajar Muhammad -ṣallallāhu 'alaihi wa sallam- itu bukan orang Arab dan hanya tahu sedikit bahasa Arab."
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 279,
+  "verse_key": "16:103",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
+  "translation": "103. Dan sesungguhnya Kami mengetahui bahwa mereka berkata, “Sesungguhnya Al-Qur`ān itu hanya diajarkan oleh seorang manusia kepadanya (Muhammad).” Bahasa orang yang mereka tuduhkan (bahwa Muhammad belajar) kepadanya adalah bahasa `Ajam,*(464)  padahal ini (Al-Qur`ān) adalah dalam bahasa Arab yang jelas.",
+  "footnotes": "*464). Bahasa 'Ajam ialah bahasa selain Arab dan dapat juga berarti bahasa Arab yang tidak baik, karena orang yang dituduh mengajar Muhammad -ṣallallāhu 'alaihi wa sallam- itu bukan orang Arab dan hanya tahu sedikit bahasa Arab."
 }

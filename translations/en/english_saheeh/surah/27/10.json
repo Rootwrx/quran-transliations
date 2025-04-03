@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3169",
-    "sura": "27",
-    "aya": "10",
-    "arabic_text": "وَأَلۡقِ عَصَاكَۚ فَلَمَّا رَءَاهَا تَهۡتَزُّ كَأَنَّهَا جَآنّٞ وَلَّىٰ مُدۡبِرٗا وَلَمۡ يُعَقِّبۡۚ يَٰمُوسَىٰ لَا تَخَفۡ إِنِّي لَا يَخَافُ لَدَيَّ ٱلۡمُرۡسَلُونَ",
-    "translation": "(10) And [he was told], \"Throw down your staff.\" But when he saw it writhing as if it were a snake, he turned in flight and did not return.[1072] [Allāh said], \"O Moses, fear not. Indeed, in My presence the messengers do not fear.",
-    "footnotes": "[1072]- Or \"did not look back.\""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 377,
+  "verse_key": "27:10",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَلۡقِ عَصَاكَۚ فَلَمَّا رَءَاهَا تَهۡتَزُّ كَأَنَّهَا جَآنّٞ وَلَّىٰ مُدۡبِرٗا وَلَمۡ يُعَقِّبۡۚ يَٰمُوسَىٰ لَا تَخَفۡ إِنِّي لَا يَخَافُ لَدَيَّ ٱلۡمُرۡسَلُونَ",
+  "translation": "(10) And [he was told], \"Throw down your staff.\" But when he saw it writhing as if it were a snake, he turned in flight and did not return.[1072] [Allāh said], \"O Moses, fear not. Indeed, in My presence the messengers do not fear.",
+  "footnotes": "[1072]- Or \"did not look back.\""
 }

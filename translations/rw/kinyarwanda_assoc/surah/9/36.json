@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1271",
-    "sura": "9",
-    "aya": "36",
-    "arabic_text": "إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثۡنَا عَشَرَ شَهۡرٗا فِي كِتَٰبِ ٱللَّهِ يَوۡمَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ مِنۡهَآ أَرۡبَعَةٌ حُرُمٞۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُۚ فَلَا تَظۡلِمُواْ فِيهِنَّ أَنفُسَكُمۡۚ وَقَٰتِلُواْ ٱلۡمُشۡرِكِينَ كَآفَّةٗ كَمَا يُقَٰتِلُونَكُمۡ كَآفَّةٗۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِينَ",
-    "translation": "Mu by’ukuri umubare w’amezi (agize umwaka) yagenwe na Allah ni amezi cumi n'abiri (nk’uko biri) mu gitabo cya Allah[1] ubwo yaremaga ibirere n'isi; muri yo harimo ane matagatifu. (Kubahiriza ayo mezi) ni ryo dini ritunganye; bityo ntimukayihemukiremo (mukora ibyaha). Kandi mujye murwanya ababangikanyamana bose nk’uko babarwanya mwese. Munamenye ko Allah ari kumwe n’abamutinya.",
-    "footnotes": "[1] Igitabo cya Allah kigamijwe hano ni urubaho rurinzwe rwanditsweho igeno ry’ibizaba kuzageza ku munsi w’imperuka (Lawuh ul Mah’fudhi)."
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 192,
+  "verse_key": "9:36",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ عِدَّةَ ٱلشُّهُورِ عِندَ ٱللَّهِ ٱثۡنَا عَشَرَ شَهۡرٗا فِي كِتَٰبِ ٱللَّهِ يَوۡمَ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ مِنۡهَآ أَرۡبَعَةٌ حُرُمٞۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُۚ فَلَا تَظۡلِمُواْ فِيهِنَّ أَنفُسَكُمۡۚ وَقَٰتِلُواْ ٱلۡمُشۡرِكِينَ كَآفَّةٗ كَمَا يُقَٰتِلُونَكُمۡ كَآفَّةٗۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِينَ",
+  "translation": "Mu by’ukuri umubare w’amezi (agize umwaka) yagenwe na Allah ni amezi cumi n'abiri (nk’uko biri) mu gitabo cya Allah[1] ubwo yaremaga ibirere n'isi; muri yo harimo ane matagatifu. (Kubahiriza ayo mezi) ni ryo dini ritunganye; bityo ntimukayihemukiremo (mukora ibyaha). Kandi mujye murwanya ababangikanyamana bose nk’uko babarwanya mwese. Munamenye ko Allah ari kumwe n’abamutinya.",
+  "footnotes": "[1] Igitabo cya Allah kigamijwe hano ni urubaho rurinzwe rwanditsweho igeno ry’ibizaba kuzageza ku munsi w’imperuka (Lawuh ul Mah’fudhi)."
 }

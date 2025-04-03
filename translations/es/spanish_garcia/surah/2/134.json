@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "141",
-    "sura": "2",
-    "aya": "134",
-    "arabic_text": "تِلۡكَ أُمَّةٞ قَدۡ خَلَتۡۖ لَهَا مَا كَسَبَتۡ وَلَكُم مَّا كَسَبۡتُمۡۖ وَلَا تُسۡـَٔلُونَ عَمَّا كَانُواْ يَعۡمَلُونَ",
-    "translation": "134. Aquella nación ya desapareció y recibió lo que merecía, y ustedes recibirán lo que merezcan, y no se les preguntará por lo que ellos hicieron[1].",
-    "footnotes": "[1] Esto establece el principio islámico de la responsabilidad individual. Nadie responde ni carga con los pecados cometidos por otra persona."
-  }
+  "id": 134,
+  "verse_number": 134,
+  "page_number": 20,
+  "verse_key": "2:134",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ أُمَّةٞ قَدۡ خَلَتۡۖ لَهَا مَا كَسَبَتۡ وَلَكُم مَّا كَسَبۡتُمۡۖ وَلَا تُسۡـَٔلُونَ عَمَّا كَانُواْ يَعۡمَلُونَ",
+  "translation": "134. Aquella nación ya desapareció y recibió lo que merecía, y ustedes recibirán lo que merezcan, y no se les preguntará por lo que ellos hicieron[1].",
+  "footnotes": "[1] Esto establece el principio islámico de la responsabilidad individual. Nadie responde ni carga con los pecados cometidos por otra persona."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4236",
-    "sura": "41",
-    "aya": "18",
-    "arabic_text": "وَنَجَّيۡنَا ٱلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ",
-    "translation": "18. En Wij redden hen die geloofden en die Allah vreesden (en het kwaad vermeden).",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 478,
+  "verse_key": "41:18",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنَجَّيۡنَا ٱلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ",
+  "translation": "18. En Wij redden hen die geloofden en die Allah vreesden (en het kwaad vermeden).",
+  "footnotes": ""
 }

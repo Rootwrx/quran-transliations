@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2760",
-    "sura": "23",
-    "aya": "87",
-    "arabic_text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَتَّقُونَ",
-    "translation": "87. Yalli ken gineeh, usun Yallih iimi axcelon, toysa Yallih digaalák mameesittaanaa? Kaak kalihim taqbuden waqdi keenik ixxic.",
-    "footnotes": ""
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 347,
+  "verse_key": "23:87",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَقُولُونَ لِلَّهِۚ قُلۡ أَفَلَا تَتَّقُونَ",
+  "translation": "87. Yalli ken gineeh, usun Yallih iimi axcelon, toysa Yallih digaalák mameesittaanaa? Kaak kalihim taqbuden waqdi keenik ixxic.",
+  "footnotes": ""
 }

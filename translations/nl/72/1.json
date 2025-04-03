@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5448",
-    "sura": "72",
-    "aya": "1",
-    "arabic_text": "قُلۡ أُوحِيَ إِلَيَّ أَنَّهُ ٱسۡتَمَعَ نَفَرٞ مِّنَ ٱلۡجِنِّ فَقَالُوٓاْ إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبٗا",
-    "translation": "1. (O Mohammed), zeg: “Er is aan mij geopenbaard dat een groep djinn (mee)luisterde.” En zij zeiden tegen hun mede-djinn :“Waarlijk! Wij hebben een wonderbaarlijke recitatie gehoord (tijdens het ochtendgebed)!",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 572,
+  "verse_key": "72:1",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أُوحِيَ إِلَيَّ أَنَّهُ ٱسۡتَمَعَ نَفَرٞ مِّنَ ٱلۡجِنِّ فَقَالُوٓاْ إِنَّا سَمِعۡنَا قُرۡءَانًا عَجَبٗا",
+  "translation": "1. (O Mohammed), zeg: “Er is aan mij geopenbaard dat een groep djinn (mee)luisterde.” En zij zeiden tegen hun mede-djinn :“Waarlijk! Wij hebben een wonderbaarlijke recitatie gehoord (tijdens het ochtendgebed)!",
+  "footnotes": ""
 }

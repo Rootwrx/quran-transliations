@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3613",
-    "sura": "34",
-    "aya": "7",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ هَلۡ نَدُلُّكُمۡ عَلَىٰ رَجُلٖ يُنَبِّئُكُمۡ إِذَا مُزِّقۡتُمۡ كُلَّ مُمَزَّقٍ إِنَّكُمۡ لَفِي خَلۡقٖ جَدِيدٍ",
-    "translation": "7. Kuwii gaaloobay waxay yidhaahdeen: Ma idin tusnaa nin idiin sheegi in markaad googo'daan googo’ dhan (oo carrada idin cunto) in la idin abuuri abuur cusub?.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 428,
+  "verse_key": "34:7",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ هَلۡ نَدُلُّكُمۡ عَلَىٰ رَجُلٖ يُنَبِّئُكُمۡ إِذَا مُزِّقۡتُمۡ كُلَّ مُمَزَّقٍ إِنَّكُمۡ لَفِي خَلۡقٖ جَدِيدٍ",
+  "translation": "7. Kuwii gaaloobay waxay yidhaahdeen: Ma idin tusnaa nin idiin sheegi in markaad googo'daan googo’ dhan (oo carrada idin cunto) in la idin abuuri abuur cusub?.",
+  "footnotes": ""
 }

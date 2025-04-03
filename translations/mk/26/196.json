@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3128",
-    "sura": "26",
-    "aya": "196",
-    "arabic_text": "وَإِنَّهُۥ لَفِي زُبُرِ ٱلۡأَوَّلِينَ",
-    "translation": "196. Тој е спомнат во книгите на претходните Пратеници,",
-    "footnotes": ""
-  }
+  "id": 196,
+  "verse_number": 196,
+  "page_number": 375,
+  "verse_key": "26:196",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّهُۥ لَفِي زُبُرِ ٱلۡأَوَّلِينَ",
+  "translation": "196. Тој е спомнат во книгите на претходните Пратеници,",
+  "footnotes": ""
 }

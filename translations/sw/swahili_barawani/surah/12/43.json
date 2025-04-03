@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1639",
-    "sura": "12",
-    "aya": "43",
-    "arabic_text": "وَقَالَ ٱلۡمَلِكُ إِنِّيٓ أَرَىٰ سَبۡعَ بَقَرَٰتٖ سِمَانٖ يَأۡكُلُهُنَّ سَبۡعٌ عِجَافٞ وَسَبۡعَ سُنۢبُلَٰتٍ خُضۡرٖ وَأُخَرَ يَابِسَٰتٖۖ يَٰٓأَيُّهَا ٱلۡمَلَأُ أَفۡتُونِي فِي رُءۡيَٰيَ إِن كُنتُمۡ لِلرُّءۡيَا تَعۡبُرُونَ",
-    "translation": "Na siku moja mfalme alisema: Hakika mimi nimeota ng'ombe saba wanene wanaliwa na ng'ombe saba walio konda. Na mashuke saba mabichi na mengine makavu. Enyi waheshimiwa! Nambieni maana ya ndoto zangu, ikiwa nyinyi mnaweza kuagua ndoto.",
-    "footnotes": "Mfalme akasema: Nimeota usingizini kuna ng'ombe saba wanene wanaliwa na wengine saba walio konda madhaifu. Na nimeota mashuke saba mabichi, na mengine saba makavu. Enyi wakuu wanazuoni na wenye maarifa! Nitoleeni fatwa ya hizi ndoto zangu, ikiwa ni kweli nyinyi mnajua tafsiri za ndoto na mnaweza kuzitolea fatwa."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 240,
+  "verse_key": "12:43",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلۡمَلِكُ إِنِّيٓ أَرَىٰ سَبۡعَ بَقَرَٰتٖ سِمَانٖ يَأۡكُلُهُنَّ سَبۡعٌ عِجَافٞ وَسَبۡعَ سُنۢبُلَٰتٍ خُضۡرٖ وَأُخَرَ يَابِسَٰتٖۖ يَٰٓأَيُّهَا ٱلۡمَلَأُ أَفۡتُونِي فِي رُءۡيَٰيَ إِن كُنتُمۡ لِلرُّءۡيَا تَعۡبُرُونَ",
+  "translation": "Na siku moja mfalme alisema: Hakika mimi nimeota ng'ombe saba wanene wanaliwa na ng'ombe saba walio konda. Na mashuke saba mabichi na mengine makavu. Enyi waheshimiwa! Nambieni maana ya ndoto zangu, ikiwa nyinyi mnaweza kuagua ndoto.",
+  "footnotes": "Mfalme akasema: Nimeota usingizini kuna ng'ombe saba wanene wanaliwa na wengine saba walio konda madhaifu. Na nimeota mashuke saba mabichi, na mengine saba makavu. Enyi wakuu wanazuoni na wenye maarifa! Nitoleeni fatwa ya hizi ndoto zangu, ikiwa ni kweli nyinyi mnajua tafsiri za ndoto na mnaweza kuzitolea fatwa."
 }

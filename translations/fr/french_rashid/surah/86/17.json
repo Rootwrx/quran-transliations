@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5948",
-    "sura": "86",
-    "aya": "17",
-    "arabic_text": "فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا",
-    "translation": "17 Accorde donc un sursis aux impies, accorde-leur un répit de courte durée.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 591,
+  "verse_key": "86:17",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَهِّلِ ٱلۡكَٰفِرِينَ أَمۡهِلۡهُمۡ رُوَيۡدَۢا",
+  "translation": "17 Accorde donc un sursis aux impies, accorde-leur un répit de courte durée.",
+  "footnotes": ""
 }

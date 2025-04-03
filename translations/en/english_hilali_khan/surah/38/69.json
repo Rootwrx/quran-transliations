@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4039",
-    "sura": "38",
-    "aya": "69",
-    "arabic_text": "مَا كَانَ لِيَ مِنۡ عِلۡمِۭ بِٱلۡمَلَإِ ٱلۡأَعۡلَىٰٓ إِذۡ يَخۡتَصِمُونَ",
-    "translation": " 69. \"I had no knowledge of the chiefs (angels) on high when they were disputing and discussing (about the creation of Adam).",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 457,
+  "verse_key": "38:69",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا كَانَ لِيَ مِنۡ عِلۡمِۭ بِٱلۡمَلَإِ ٱلۡأَعۡلَىٰٓ إِذۡ يَخۡتَصِمُونَ",
+  "translation": " 69. \"I had no knowledge of the chiefs (angels) on high when they were disputing and discussing (about the creation of Adam).",
+  "footnotes": ""
 }

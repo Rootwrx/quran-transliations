@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1557",
-    "sura": "11",
-    "aya": "84",
-    "arabic_text": "۞ وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥۖ وَلَا تَنقُصُواْ ٱلۡمِكۡيَالَ وَٱلۡمِيزَانَۖ إِنِّيٓ أَرَىٰكُم بِخَيۡرٖ وَإِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٖ مُّحِيطٖ",
-    "translation": "Medyen halkına da kardeşleri Şu’ayb’ı peygamber gönderdik. O, şöyle dedi: “Ey kavmim! Yalnızca Allah’a ibadet edin. Sizin O’ndan başka hiçbir ilâhınız yoktur. Ölçüyü ve tartıyı eksik yapmayın. Ben sizi bolluk içinde görüyorum. Ben sizin adınıza kuşatıcı bir günün azabından korkuyorum.''",
-    "footnotes": ""
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 231,
+  "verse_key": "11:84",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥۖ وَلَا تَنقُصُواْ ٱلۡمِكۡيَالَ وَٱلۡمِيزَانَۖ إِنِّيٓ أَرَىٰكُم بِخَيۡرٖ وَإِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٖ مُّحِيطٖ",
+  "translation": "Medyen halkına da kardeşleri Şu’ayb’ı peygamber gönderdik. O, şöyle dedi: “Ey kavmim! Yalnızca Allah’a ibadet edin. Sizin O’ndan başka hiçbir ilâhınız yoktur. Ölçüyü ve tartıyı eksik yapmayın. Ben sizi bolluk içinde görüyorum. Ben sizin adınıza kuşatıcı bir günün azabından korkuyorum.''",
+  "footnotes": ""
 }

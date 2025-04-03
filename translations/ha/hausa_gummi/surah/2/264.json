@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "271",
-    "sura": "2",
-    "aya": "264",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُبۡطِلُواْ صَدَقَٰتِكُم بِٱلۡمَنِّ وَٱلۡأَذَىٰ كَٱلَّذِي يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۖ فَمَثَلُهُۥ كَمَثَلِ صَفۡوَانٍ عَلَيۡهِ تُرَابٞ فَأَصَابَهُۥ وَابِلٞ فَتَرَكَهُۥ صَلۡدٗاۖ لَّا يَقۡدِرُونَ عَلَىٰ شَيۡءٖ مِّمَّا كَسَبُواْۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ",
-    "translation": "Yã ku waɗanda suka yi ĩmãni! Kada ku ɓãta sadakõkinku da gõri da cũtarwa, kamar wanda yake ciyar da dũkiyarsa dõmin nũna wa mutãne, kuma bã ya yin ĩmãni da Allah da Rãnar Lãhira. To, abin da yake misãlinsa, kamar falalen dũtse ne, a kansa akwai turɓãya, sai wãbilin hadari* ya sãme shi, sai ya bar shi ƙanƙara. Bã su iya amfani da kõme daga abin da suka sanã'anta. Kuma Allah ba Ya shiryar da mutãne kãfirai.",
-    "footnotes": "* 'Wabilin hadari' wãtau ruwan sama kamar da bakin ƙwarya."
-  }
+  "id": 264,
+  "verse_number": 264,
+  "page_number": 44,
+  "verse_key": "2:264",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 18,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُبۡطِلُواْ صَدَقَٰتِكُم بِٱلۡمَنِّ وَٱلۡأَذَىٰ كَٱلَّذِي يُنفِقُ مَالَهُۥ رِئَآءَ ٱلنَّاسِ وَلَا يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۖ فَمَثَلُهُۥ كَمَثَلِ صَفۡوَانٍ عَلَيۡهِ تُرَابٞ فَأَصَابَهُۥ وَابِلٞ فَتَرَكَهُۥ صَلۡدٗاۖ لَّا يَقۡدِرُونَ عَلَىٰ شَيۡءٖ مِّمَّا كَسَبُواْۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ",
+  "translation": "Yã ku waɗanda suka yi ĩmãni! Kada ku ɓãta sadakõkinku da gõri da cũtarwa, kamar wanda yake ciyar da dũkiyarsa dõmin nũna wa mutãne, kuma bã ya yin ĩmãni da Allah da Rãnar Lãhira. To, abin da yake misãlinsa, kamar falalen dũtse ne, a kansa akwai turɓãya, sai wãbilin hadari* ya sãme shi, sai ya bar shi ƙanƙara. Bã su iya amfani da kõme daga abin da suka sanã'anta. Kuma Allah ba Ya shiryar da mutãne kãfirai.",
+  "footnotes": "* 'Wabilin hadari' wãtau ruwan sama kamar da bakin ƙwarya."
 }

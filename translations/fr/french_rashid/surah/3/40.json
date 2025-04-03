@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "333",
-    "sura": "3",
-    "aya": "40",
-    "arabic_text": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَقَدۡ بَلَغَنِيَ ٱلۡكِبَرُ وَٱمۡرَأَتِي عَاقِرٞۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفۡعَلُ مَا يَشَآءُ",
-    "translation": "40 Zacharie dit : « Comment, Seigneur, pourrais-je avoir un fils alors que j’ai atteint la vieillesse et que mon épouse est stérile ? » Il répondit : « Il en sera ainsi, car la volonté d’Allah s’accomplit toujours. »",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 55,
+  "verse_key": "3:40",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَقَدۡ بَلَغَنِيَ ٱلۡكِبَرُ وَٱمۡرَأَتِي عَاقِرٞۖ قَالَ كَذَٰلِكَ ٱللَّهُ يَفۡعَلُ مَا يَشَآءُ",
+  "translation": "40 Zacharie dit : « Comment, Seigneur, pourrais-je avoir un fils alors que j’ai atteint la vieillesse et que mon épouse est stérile ? » Il répondit : « Il en sera ainsi, car la volonté d’Allah s’accomplit toujours. »",
+  "footnotes": ""
 }

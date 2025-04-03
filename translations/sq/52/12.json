@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4747",
-    "sura": "52",
-    "aya": "12",
-    "arabic_text": "ٱلَّذِينَ هُمۡ فِي خَوۡضٖ يَلۡعَبُونَ",
-    "translation": "që, të zhytur në gënjeshtra, argëtoheshin!",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 523,
+  "verse_key": "52:12",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ هُمۡ فِي خَوۡضٖ يَلۡعَبُونَ",
+  "translation": "që, të zhytur në gënjeshtra, argëtoheshin!",
+  "footnotes": ""
 }

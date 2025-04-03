@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6126",
-    "sura": "97",
-    "aya": "1",
-    "arabic_text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
-    "translation": "1 Nous l’avons révélé[1596] au cours de la Nuit des décrets divins[1597].",
-    "footnotes": "[1596] Le Coran, dont la révélation a débuté au cours de cette nuit bénie.\n[1597] Connue comme étant la « Nuit du destin » et située au mois de Ramadan. Le terme arabe « Qadr » traduit ici par « décrets divins » revêt un second sens : il signifie que cette nuit est sublime et d’une très grande valeur."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 598,
+  "verse_key": "97:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+  "translation": "1 Nous l’avons révélé[1596] au cours de la Nuit des décrets divins[1597].",
+  "footnotes": "[1596] Le Coran, dont la révélation a débuté au cours de cette nuit bénie.\n[1597] Connue comme étant la « Nuit du destin » et située au mois de Ramadan. Le terme arabe « Qadr » traduit ici par « décrets divins » revêt un second sens : il signifie que cette nuit est sublime et d’une très grande valeur."
 }

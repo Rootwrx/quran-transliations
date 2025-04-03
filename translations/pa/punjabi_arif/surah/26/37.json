@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2969",
-    "sura": "26",
-    "aya": "37",
-    "arabic_text": "يَأۡتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٖ",
-    "translation": "37਼ ਜਿਹੜੇ ਤੁਹਾਡੇ ਕੋਲ ਮਾਹਿਰ ਜਾਦੂਗਰਾਂ ਨੂੰ ਲਿਆਉਣ।",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 368,
+  "verse_key": "26:37",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَأۡتُوكَ بِكُلِّ سَحَّارٍ عَلِيمٖ",
+  "translation": "37਼ ਜਿਹੜੇ ਤੁਹਾਡੇ ਕੋਲ ਮਾਹਿਰ ਜਾਦੂਗਰਾਂ ਨੂੰ ਲਿਆਉਣ।",
+  "footnotes": ""
 }

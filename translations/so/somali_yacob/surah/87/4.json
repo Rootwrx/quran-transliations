@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5952",
-    "sura": "87",
-    "aya": "4",
-    "arabic_text": "وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ",
-    "translation": "4. Oo ah Kan soo saara daaqa.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 591,
+  "verse_key": "87:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِيٓ أَخۡرَجَ ٱلۡمَرۡعَىٰ",
+  "translation": "4. Oo ah Kan soo saara daaqa.",
+  "footnotes": ""
 }

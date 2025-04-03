@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2588",
-    "sura": "21",
-    "aya": "105",
-    "arabic_text": "وَلَقَدۡ كَتَبۡنَا فِي ٱلزَّبُورِ مِنۢ بَعۡدِ ٱلذِّكۡرِ أَنَّ ٱلۡأَرۡضَ يَرِثُهَا عِبَادِيَ ٱلصَّٰلِحُونَ",
-    "translation": "Et Nous avons certes écrit dans les Psaumes (Az-Zabûr), après l’avoir mentionné (dans le Livre céleste), que la Terre sera héritée par Mes bons serviteurs .\"",
-    "footnotes": "[614] Le Zabūr: mot commun pour tous les livres révélés. Livre céleste: le Livre-mère qui se trouve auprès d’Allah."
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 331,
+  "verse_key": "21:105",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ كَتَبۡنَا فِي ٱلزَّبُورِ مِنۢ بَعۡدِ ٱلذِّكۡرِ أَنَّ ٱلۡأَرۡضَ يَرِثُهَا عِبَادِيَ ٱلصَّٰلِحُونَ",
+  "translation": "Et Nous avons certes écrit dans les Psaumes (Az-Zabûr), après l’avoir mentionné (dans le Livre céleste), que la Terre sera héritée par Mes bons serviteurs .\"",
+  "footnotes": "[614] Le Zabūr: mot commun pour tous les livres révélés. Livre céleste: le Livre-mère qui se trouve auprès d’Allah."
 }

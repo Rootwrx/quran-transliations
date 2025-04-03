@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4293",
-    "sura": "42",
-    "aya": "21",
-    "arabic_text": "أَمۡ لَهُمۡ شُرَكَٰٓؤُاْ شَرَعُواْ لَهُم مِّنَ ٱلدِّينِ مَا لَمۡ يَأۡذَنۢ بِهِ ٱللَّهُۚ وَلَوۡلَا كَلِمَةُ ٱلۡفَصۡلِ لَقُضِيَ بَيۡنَهُمۡۗ وَإِنَّ ٱلظَّٰلِمِينَ لَهُمۡ عَذَابٌ أَلِيمٞ",
-    "translation": "Tàbí wọ́n ní àwọn òrìṣà kan tó ṣòfin (ìbọ̀rìṣà) fún wọn nínú ẹ̀sìn, èyí tí Allāhu kò yọ̀ǹda rẹ̀? Tí kò bá jẹ́ ti ọ̀rọ̀ àsọyán (pé A kò níí kánjú jẹ wọ́n ní ìyà), Àwa ìbá ti mú ìdájọ́ wá láààrin wọn. Dájúdájú àwọn alábòsí, ìyà ẹlẹ́ta-eléro sì wà fún wọn.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 485,
+  "verse_key": "42:21",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 194,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ لَهُمۡ شُرَكَٰٓؤُاْ شَرَعُواْ لَهُم مِّنَ ٱلدِّينِ مَا لَمۡ يَأۡذَنۢ بِهِ ٱللَّهُۚ وَلَوۡلَا كَلِمَةُ ٱلۡفَصۡلِ لَقُضِيَ بَيۡنَهُمۡۗ وَإِنَّ ٱلظَّٰلِمِينَ لَهُمۡ عَذَابٌ أَلِيمٞ",
+  "translation": "Tàbí wọ́n ní àwọn òrìṣà kan tó ṣòfin (ìbọ̀rìṣà) fún wọn nínú ẹ̀sìn, èyí tí Allāhu kò yọ̀ǹda rẹ̀? Tí kò bá jẹ́ ti ọ̀rọ̀ àsọyán (pé A kò níí kánjú jẹ wọ́n ní ìyà), Àwa ìbá ti mú ìdájọ́ wá láààrin wọn. Dájúdájú àwọn alábòsí, ìyà ẹlẹ́ta-eléro sì wà fún wọn.",
+  "footnotes": ""
 }

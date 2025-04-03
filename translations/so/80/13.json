@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5771",
-    "sura": "80",
-    "aya": "13",
-    "arabic_text": "فِي صُحُفٖ مُّكَرَّمَةٖ",
-    "translation": "13. Waxay ku sugan tahay (waanadan) kutub la sharfay (Looxa Maxfuudka).",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 585,
+  "verse_key": "80:13",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي صُحُفٖ مُّكَرَّمَةٖ",
+  "translation": "13. Waxay ku sugan tahay (waanadan) kutub la sharfay (Looxa Maxfuudka).",
+  "footnotes": ""
 }

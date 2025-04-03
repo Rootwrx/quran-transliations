@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5311",
-    "sura": "68",
-    "aya": "40",
-    "arabic_text": "سَلۡهُمۡ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
-    "translation": "Frage sie, wer von ihnen dafür Bürge ist.",
-    "footnotes": null
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 565,
+  "verse_key": "68:40",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَلۡهُمۡ أَيُّهُم بِذَٰلِكَ زَعِيمٌ",
+  "translation": "Frage sie, wer von ihnen dafür Bürge ist.",
+  "footnotes": null
 }

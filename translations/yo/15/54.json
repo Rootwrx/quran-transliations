@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1856",
-    "sura": "15",
-    "aya": "54",
-    "arabic_text": "قَالَ أَبَشَّرۡتُمُونِي عَلَىٰٓ أَن مَّسَّنِيَ ٱلۡكِبَرُ فَبِمَ تُبَشِّرُونَ",
-    "translation": "Ó sọ pé: “Ṣé ẹ̀ ń fún mi ní ìró ìdùnnú (nípa bíbí ọmọ) nígbà tí ogbó ti dé sí mi? Ìró ìdùnnú wo ni ẹ̀ ń fún mi ná?”",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 265,
+  "verse_key": "15:54",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ أَبَشَّرۡتُمُونِي عَلَىٰٓ أَن مَّسَّنِيَ ٱلۡكِبَرُ فَبِمَ تُبَشِّرُونَ",
+  "translation": "Ó sọ pé: “Ṣé ẹ̀ ń fún mi ní ìró ìdùnnú (nípa bíbí ọmọ) nígbà tí ogbó ti dé sí mi? Ìró ìdùnnú wo ni ẹ̀ ń fún mi ná?”",
+  "footnotes": ""
 }

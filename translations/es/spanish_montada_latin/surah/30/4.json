@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3413",
-    "sura": "30",
-    "aya": "4",
-    "arabic_text": "فِي بِضۡعِ سِنِينَۗ لِلَّهِ ٱلۡأَمۡرُ مِن قَبۡلُ وَمِنۢ بَعۡدُۚ وَيَوۡمَئِذٖ يَفۡرَحُ ٱلۡمُؤۡمِنُونَ",
-    "translation": "4. dentro de pocos años[770]. Tanto lo sucedido anteriormente (la derrota de los bizantinos) como lo que sucederá (su futuro triunfo sobre los persas) han sido decretados por Al-lah. Y ese día (el día en que los bizantinos derroten a los persas) los creyentes (musulmanes) se alegrarán",
-    "footnotes": "[770]  La expresión árabe bid’i sininsignifica, exactamente, entre tres y nueve años; y la victoria de los bizantinos sobre los persas ocurrió, según el libro History of the Byzantine State (La historia del Estado Bizantino), en el año 622 d.C., nueve años después de la fuerte derrota de los bizantinos en Antioquía en el 613, cumpliéndose así el suceso que Al-lah predice en esta aleya del Corán."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 404,
+  "verse_key": "30:4",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي بِضۡعِ سِنِينَۗ لِلَّهِ ٱلۡأَمۡرُ مِن قَبۡلُ وَمِنۢ بَعۡدُۚ وَيَوۡمَئِذٖ يَفۡرَحُ ٱلۡمُؤۡمِنُونَ",
+  "translation": "4. dentro de pocos años[770]. Tanto lo sucedido anteriormente (la derrota de los bizantinos) como lo que sucederá (su futuro triunfo sobre los persas) han sido decretados por Al-lah. Y ese día (el día en que los bizantinos derroten a los persas) los creyentes (musulmanes) se alegrarán",
+  "footnotes": "[770]  La expresión árabe bid’i sininsignifica, exactamente, entre tres y nueve años; y la victoria de los bizantinos sobre los persas ocurrió, según el libro History of the Byzantine State (La historia del Estado Bizantino), en el año 622 d.C., nueve años después de la fuerte derrota de los bizantinos en Antioquía en el 613, cumpliéndose así el suceso que Al-lah predice en esta aleya del Corán."
 }

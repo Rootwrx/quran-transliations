@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4144",
-    "sura": "40",
-    "aya": "11",
-    "arabic_text": "قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ",
-    "translation": "Họ sẽ nói: “Lạy Thượng Đế của bầy tôi! Ngài đã làm cho bầy tôi chết hai lần và sống hai lần[2]. Giờ bầy tôi đã thú nhận tội lỗi của mình. Vậy có cách nào để thoát khỏi (Hỏa Ngục) không?”",
-    "footnotes": "[2] Ông Ibnu Mas’ud nói: Câu Kinh này giống như lời phán của Allah ở câu 28 chương Al-Baqarah: {Sao các ngươi lại vô đức tin nơi Allah trong khi Ngài đã khởi tạo các ngươi từ không là gì, rồi Ngài cho các ngươi chết, rồi Ngài phục sinh các ngươi trở lại, sau đó các ngươi được triệu tập về trình diện Ngài?!} Ibnu ‘Abbas, Adh-Dhahaak, Qata-dah cũng nói như thế. Vì vậy, chết hai lần: Một lần lúc không là gì và một lần lúc lìa đời; sống hai lần: một lần lúc chào đời và một lần lúc được phục sinh."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 468,
+  "verse_key": "40:11",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ",
+  "translation": "Họ sẽ nói: “Lạy Thượng Đế của bầy tôi! Ngài đã làm cho bầy tôi chết hai lần và sống hai lần[2]. Giờ bầy tôi đã thú nhận tội lỗi của mình. Vậy có cách nào để thoát khỏi (Hỏa Ngục) không?”",
+  "footnotes": "[2] Ông Ibnu Mas’ud nói: Câu Kinh này giống như lời phán của Allah ở câu 28 chương Al-Baqarah: {Sao các ngươi lại vô đức tin nơi Allah trong khi Ngài đã khởi tạo các ngươi từ không là gì, rồi Ngài cho các ngươi chết, rồi Ngài phục sinh các ngươi trở lại, sau đó các ngươi được triệu tập về trình diện Ngài?!} Ibnu ‘Abbas, Adh-Dhahaak, Qata-dah cũng nói như thế. Vì vậy, chết hai lần: Một lần lúc không là gì và một lần lúc lìa đời; sống hai lần: một lần lúc chào đời và một lần lúc được phục sinh."
 }

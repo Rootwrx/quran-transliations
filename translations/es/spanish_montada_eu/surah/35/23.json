@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3683",
-    "sura": "35",
-    "aya": "23",
-    "arabic_text": "إِنۡ أَنتَ إِلَّا نَذِيرٌ",
-    "translation": "23. Tú no eres más que un amonestador.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 437,
+  "verse_key": "35:23",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ أَنتَ إِلَّا نَذِيرٌ",
+  "translation": "23. Tú no eres más que un amonestador.",
+  "footnotes": ""
 }

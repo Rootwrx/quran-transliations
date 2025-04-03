@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1703",
-    "sura": "12",
-    "aya": "107",
-    "arabic_text": "أَفَأَمِنُوٓاْ أَن تَأۡتِيَهُمۡ غَٰشِيَةٞ مِّنۡ عَذَابِ ٱللَّهِ أَوۡ تَأۡتِيَهُمُ ٱلسَّاعَةُ بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ",
-    "translation": "107. Ee ma waxay (dadku) ka yihiin aamin inay u timaaddo daboosho Cadaabka Alle ah, ama ugu timaaddo Saacadda (Qiyaame) kedis iyagoon dareemeyn.",
-    "footnotes": ""
-  }
+  "id": 107,
+  "verse_number": 107,
+  "page_number": 248,
+  "verse_key": "12:107",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَأَمِنُوٓاْ أَن تَأۡتِيَهُمۡ غَٰشِيَةٞ مِّنۡ عَذَابِ ٱللَّهِ أَوۡ تَأۡتِيَهُمُ ٱلسَّاعَةُ بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ",
+  "translation": "107. Ee ma waxay (dadku) ka yihiin aamin inay u timaaddo daboosho Cadaabka Alle ah, ama ugu timaaddo Saacadda (Qiyaame) kedis iyagoon dareemeyn.",
+  "footnotes": ""
 }

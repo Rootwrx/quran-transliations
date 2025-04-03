@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6117",
-    "sura": "96",
-    "aya": "11",
-    "arabic_text": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
-    "translation": "কি বুলি ভবা, যদি তেওঁ হিদায়তৰ ওপৰত প্ৰতিষ্ঠিত থাকে,",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 597,
+  "verse_key": "96:11",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَرَءَيۡتَ إِن كَانَ عَلَى ٱلۡهُدَىٰٓ",
+  "translation": "কি বুলি ভবা, যদি তেওঁ হিদায়তৰ ওপৰত প্ৰতিষ্ঠিত থাকে,",
+  "footnotes": ""
 }

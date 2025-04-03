@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "536",
-    "sura": "4",
-    "aya": "43",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَقۡرَبُواْ ٱلصَّلَوٰةَ وَأَنتُمۡ سُكَٰرَىٰ حَتَّىٰ تَعۡلَمُواْ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِي سَبِيلٍ حَتَّىٰ تَغۡتَسِلُواْۚ وَإِن كُنتُم مَّرۡضَىٰٓ أَوۡ عَلَىٰ سَفَرٍ أَوۡ جَآءَ أَحَدٞ مِّنكُم مِّنَ ٱلۡغَآئِطِ أَوۡ لَٰمَسۡتُمُ ٱلنِّسَآءَ فَلَمۡ تَجِدُواْ مَآءٗ فَتَيَمَّمُواْ صَعِيدٗا طَيِّبٗا فَٱمۡسَحُواْ بِوُجُوهِكُمۡ وَأَيۡدِيكُمۡۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
-    "translation": "43. Kuwa (Xaqa) rumeeyoow! Ha u dhowaannina salaadda idinkoo sarkhaansan31 jeer aad u kastaan (si wanaagsan) waxaad ku hadleysaan, ama idinkoo janaaba (qasli) qaba inaad jid gudbaysaan maahee jeer aad ka meyrataan (janaabada). Haddaad tihiin kuwo buka ama safar ah, ama uu ka yimaado mid idinka mid ah saxaro, ama aad taabateen haween32, oo aydaan heli karin biyo, ku gagabeysta carro daahir ah, markaa ku masaxa wajiyadiinna iyo gacmihiinna. Hubaal Alle waa Cafis Badane, Denbi Dhaaf Badan.",
-    "footnotes": "31. Isticmaalka khamrada si dhan baa loo xaaraanshay: eeg Q 5: 90-91\n 32. Culimada qaar waxay ku fasireen taabashadaas taabashada caadiga ah ee la isku taabto gacanta nin iyo naag, waxaa sidoo kale jira qaar ku fasiray jimaaca oo ah isu tagga ninka iyo naagtiisa - galmoodka, waana sida xoogga badan."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 85,
+  "verse_key": "4:43",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَقۡرَبُواْ ٱلصَّلَوٰةَ وَأَنتُمۡ سُكَٰرَىٰ حَتَّىٰ تَعۡلَمُواْ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِي سَبِيلٍ حَتَّىٰ تَغۡتَسِلُواْۚ وَإِن كُنتُم مَّرۡضَىٰٓ أَوۡ عَلَىٰ سَفَرٍ أَوۡ جَآءَ أَحَدٞ مِّنكُم مِّنَ ٱلۡغَآئِطِ أَوۡ لَٰمَسۡتُمُ ٱلنِّسَآءَ فَلَمۡ تَجِدُواْ مَآءٗ فَتَيَمَّمُواْ صَعِيدٗا طَيِّبٗا فَٱمۡسَحُواْ بِوُجُوهِكُمۡ وَأَيۡدِيكُمۡۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+  "translation": "43. Kuwa (Xaqa) rumeeyoow! Ha u dhowaannina salaadda idinkoo sarkhaansan31 jeer aad u kastaan (si wanaagsan) waxaad ku hadleysaan, ama idinkoo janaaba (qasli) qaba inaad jid gudbaysaan maahee jeer aad ka meyrataan (janaabada). Haddaad tihiin kuwo buka ama safar ah, ama uu ka yimaado mid idinka mid ah saxaro, ama aad taabateen haween32, oo aydaan heli karin biyo, ku gagabeysta carro daahir ah, markaa ku masaxa wajiyadiinna iyo gacmihiinna. Hubaal Alle waa Cafis Badane, Denbi Dhaaf Badan.",
+  "footnotes": "31. Isticmaalka khamrada si dhan baa loo xaaraanshay: eeg Q 5: 90-91\n 32. Culimada qaar waxay ku fasireen taabashadaas taabashada caadiga ah ee la isku taabto gacanta nin iyo naag, waxaa sidoo kale jira qaar ku fasiray jimaaca oo ah isu tagga ninka iyo naagtiisa - galmoodka, waana sida xoogga badan."
 }

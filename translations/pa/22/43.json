@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2638",
-    "sura": "22",
-    "aya": "43",
-    "arabic_text": "وَقَوۡمُ إِبۡرَٰهِيمَ وَقَوۡمُ لُوطٖ",
-    "translation": "43਼ ਅਤੇ ਇਬਰਾਹੀਮ ਅਤੇ ਲੂਤ ਦੀ ਕੌਮ ਨੇ ਵੀ ਇੰਜ ਹੀ ਕੀਤਾ ਸੀ।",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 337,
+  "verse_key": "22:43",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَوۡمُ إِبۡرَٰهِيمَ وَقَوۡمُ لُوطٖ",
+  "translation": "43਼ ਅਤੇ ਇਬਰਾਹੀਮ ਅਤੇ ਲੂਤ ਦੀ ਕੌਮ ਨੇ ਵੀ ਇੰਜ ਹੀ ਕੀਤਾ ਸੀ।",
+  "footnotes": ""
 }

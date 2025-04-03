@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4077",
-    "sura": "39",
-    "aya": "19",
-    "arabic_text": "أَفَمَنۡ حَقَّ عَلَيۡهِ كَلِمَةُ ٱلۡعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِي ٱلنَّارِ",
-    "translation": "Ntumwa y’Imana! Burya, uwagiriwe n’igihano ku gushishikara kwiwe mu bugarariji, nta buhinga wokoresha ngo umugire umugororotsi. Ntumwa y’Imana! Mbega none, burya urashoboye gukingira umuntu ari mu muriro ngo ntahanwe! Wanguha.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 460,
+  "verse_key": "39:19",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَمَنۡ حَقَّ عَلَيۡهِ كَلِمَةُ ٱلۡعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِي ٱلنَّارِ",
+  "translation": "Ntumwa y’Imana! Burya, uwagiriwe n’igihano ku gushishikara kwiwe mu bugarariji, nta buhinga wokoresha ngo umugire umugororotsi. Ntumwa y’Imana! Mbega none, burya urashoboye gukingira umuntu ari mu muriro ngo ntahanwe! Wanguha.",
+  "footnotes": ""
 }

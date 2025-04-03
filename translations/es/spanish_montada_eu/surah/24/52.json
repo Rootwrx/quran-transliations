@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2843",
-    "sura": "24",
-    "aya": "52",
-    "arabic_text": "وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخۡشَ ٱللَّهَ وَيَتَّقۡهِ فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَآئِزُونَ",
-    "translation": "52. Y quienes obedecen a Al-lah y a Su Mensajero, temen a Al-lah y son piadosos serán los vencedores.",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 356,
+  "verse_key": "24:52",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 142,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخۡشَ ٱللَّهَ وَيَتَّقۡهِ فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَآئِزُونَ",
+  "translation": "52. Y quienes obedecen a Al-lah y a Su Mensajero, temen a Al-lah y son piadosos serán los vencedores.",
+  "footnotes": ""
 }

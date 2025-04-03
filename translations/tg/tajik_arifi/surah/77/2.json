@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5624",
-    "sura": "77",
-    "aya": "2",
-    "arabic_text": "فَٱلۡعَٰصِفَٰتِ عَصۡفٗا",
-    "translation": "Ҳамчун тундбод мераванд",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 580,
+  "verse_key": "77:2",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱلۡعَٰصِفَٰتِ عَصۡفٗا",
+  "translation": "Ҳамчун тундбод мераванд",
+  "footnotes": ""
 }

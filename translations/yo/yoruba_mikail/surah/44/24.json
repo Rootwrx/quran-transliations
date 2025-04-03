@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4438",
-    "sura": "44",
-    "aya": "24",
-    "arabic_text": "وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندٞ مُّغۡرَقُونَ",
-    "translation": "Kí o sì fi agbami òkun náà sílẹ̀ (ná) kí ó dákẹ́ rọ́rọ́ láì níí ru (kí ojú ọ̀nà tí ẹ tọ̀ nínú rẹ̀ lè wà bẹ́ẹ̀, kí Fir‘aon àti ọmọ-ogun rẹ̀ lè kó sójú-ọ̀nà náà). Dájúdájú àwọn ni ọmọ ogun tí A máa tẹ̀rì sínú rẹ̀.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 497,
+  "verse_key": "44:24",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندٞ مُّغۡرَقُونَ",
+  "translation": "Kí o sì fi agbami òkun náà sílẹ̀ (ná) kí ó dákẹ́ rọ́rọ́ láì níí ru (kí ojú ọ̀nà tí ẹ tọ̀ nínú rẹ̀ lè wà bẹ́ẹ̀, kí Fir‘aon àti ọmọ-ogun rẹ̀ lè kó sójú-ọ̀nà náà). Dájúdájú àwọn ni ọmọ ogun tí A máa tẹ̀rì sínú rẹ̀.",
+  "footnotes": ""
 }

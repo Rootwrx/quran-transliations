@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1358",
-    "sura": "9",
-    "aya": "123",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ قَٰتِلُواْ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلۡكُفَّارِ وَلۡيَجِدُواْ فِيكُمۡ غِلۡظَةٗۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِينَ",
-    "translation": "Yemwe abemeye! Nimurwanye abahakanyi babegereye ndetse bababonemo ubukana (ku rugamba). Kandi mumenye ko Allah ari kumwe n'abamugandukira.",
-    "footnotes": ""
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 207,
+  "verse_key": "9:123",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ قَٰتِلُواْ ٱلَّذِينَ يَلُونَكُم مِّنَ ٱلۡكُفَّارِ وَلۡيَجِدُواْ فِيكُمۡ غِلۡظَةٗۚ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَعَ ٱلۡمُتَّقِينَ",
+  "translation": "Yemwe abemeye! Nimurwanye abahakanyi babegereye ndetse bababonemo ubukana (ku rugamba). Kandi mumenye ko Allah ari kumwe n'abamugandukira.",
+  "footnotes": ""
 }

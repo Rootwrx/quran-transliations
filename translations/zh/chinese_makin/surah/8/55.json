@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1215",
-    "sura": "8",
-    "aya": "55",
-    "arabic_text": "إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُواْ فَهُمۡ لَا يُؤۡمِنُونَ",
-    "translation": "在安拉看来，最劣等的动物确是不信道的人，他们是不信道的。",
-    "footnotes": ""
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 184,
+  "verse_key": "8:55",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ شَرَّ ٱلدَّوَآبِّ عِندَ ٱللَّهِ ٱلَّذِينَ كَفَرُواْ فَهُمۡ لَا يُؤۡمِنُونَ",
+  "translation": "在安拉看来，最劣等的动物确是不信道的人，他们是不信道的。",
+  "footnotes": ""
 }

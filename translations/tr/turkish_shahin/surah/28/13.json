@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3265",
-    "sura": "28",
-    "aya": "13",
-    "arabic_text": "فَرَدَدۡنَٰهُ إِلَىٰٓ أُمِّهِۦ كَيۡ تَقَرَّ عَيۡنُهَا وَلَا تَحۡزَنَ وَلِتَعۡلَمَ أَنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
-    "translation": "Böylelikle biz onu, anasına, gözü aydın olsun, gam çekmesin ve Allah'ın vadinin gerçek olduğunu bilsin diye geri verdik. Fakat yine de pek çoğu (bunu) bilmezler.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 386,
+  "verse_key": "28:13",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَرَدَدۡنَٰهُ إِلَىٰٓ أُمِّهِۦ كَيۡ تَقَرَّ عَيۡنُهَا وَلَا تَحۡزَنَ وَلِتَعۡلَمَ أَنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+  "translation": "Böylelikle biz onu, anasına, gözü aydın olsun, gam çekmesin ve Allah'ın vadinin gerçek olduğunu bilsin diye geri verdik. Fakat yine de pek çoğu (bunu) bilmezler.",
+  "footnotes": ""
 }

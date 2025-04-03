@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6061",
-    "sura": "92",
-    "aya": "3",
-    "arabic_text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
-    "translation": "3. Par ce qui[609] a créé le mâle et la femelle !",
-    "footnotes": "[609] Sur la valeur de ce pronom relatif, voir la note précédente, qui renvoyait aux versets 5, 6 et 7 de la sourate Ach-Chams. "
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 595,
+  "verse_key": "92:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+  "translation": "3. Par ce qui[609] a créé le mâle et la femelle !",
+  "footnotes": "[609] Sur la valeur de ce pronom relatif, voir la note précédente, qui renvoyait aux versets 5, 6 et 7 de la sourate Ach-Chams. "
 }

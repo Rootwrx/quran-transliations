@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1997",
-    "sura": "16",
-    "aya": "96",
-    "arabic_text": "مَا عِندَكُمۡ يَنفَدُ وَمَا عِندَ ٱللَّهِ بَاقٖۗ وَلَنَجۡزِيَنَّ ٱلَّذِينَ صَبَرُوٓاْ أَجۡرَهُم بِأَحۡسَنِ مَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Sizin yanınızda olanlar tükenir, fakat Allah’ın yanındakiler tükenmez. Sabredenlere yapmakta oldukları amellerin en güzeliyle mükâfatlarını vereceğiz. ",
-    "footnotes": null
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 278,
+  "verse_key": "16:96",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا عِندَكُمۡ يَنفَدُ وَمَا عِندَ ٱللَّهِ بَاقٖۗ وَلَنَجۡزِيَنَّ ٱلَّذِينَ صَبَرُوٓاْ أَجۡرَهُم بِأَحۡسَنِ مَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Sizin yanınızda olanlar tükenir, fakat Allah’ın yanındakiler tükenmez. Sabredenlere yapmakta oldukları amellerin en güzeliyle mükâfatlarını vereceğiz. ",
+  "footnotes": null
 }

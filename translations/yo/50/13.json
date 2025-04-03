@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4643",
-    "sura": "50",
-    "aya": "13",
-    "arabic_text": "وَعَادٞ وَفِرۡعَوۡنُ وَإِخۡوَٰنُ لُوطٖ",
-    "translation": "Àti àwọn ‘Ād, Fir‘aon àti àwọn ọmọ ìyá (Ànábì) Lūt,",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 518,
+  "verse_key": "50:13",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَادٞ وَفِرۡعَوۡنُ وَإِخۡوَٰنُ لُوطٖ",
+  "translation": "Àti àwọn ‘Ād, Fir‘aon àti àwọn ọmọ ìyá (Ànábì) Lūt,",
+  "footnotes": ""
 }

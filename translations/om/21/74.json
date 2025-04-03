@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2557",
-    "sura": "21",
-    "aya": "74",
-    "arabic_text": "وَلُوطًا ءَاتَيۡنَٰهُ حُكۡمٗا وَعِلۡمٗا وَنَجَّيۡنَٰهُ مِنَ ٱلۡقَرۡيَةِ ٱلَّتِي كَانَت تَّعۡمَلُ ٱلۡخَبَٰٓئِثَۚ إِنَّهُمۡ كَانُواْ قَوۡمَ سَوۡءٖ فَٰسِقِينَ",
-    "translation": "Luuxiin murtii haqaafi beekumsa (amantii) isaaf kenninee jirra. (Ummata) ganda badii fokkatoo hojjattu irraa isa baraarsinee jirra. isaan ummata badoo, finciltoota turan.",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 328,
+  "verse_key": "21:74",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلُوطًا ءَاتَيۡنَٰهُ حُكۡمٗا وَعِلۡمٗا وَنَجَّيۡنَٰهُ مِنَ ٱلۡقَرۡيَةِ ٱلَّتِي كَانَت تَّعۡمَلُ ٱلۡخَبَٰٓئِثَۚ إِنَّهُمۡ كَانُواْ قَوۡمَ سَوۡءٖ فَٰسِقِينَ",
+  "translation": "Luuxiin murtii haqaafi beekumsa (amantii) isaaf kenninee jirra. (Ummata) ganda badii fokkatoo hojjattu irraa isa baraarsinee jirra. isaan ummata badoo, finciltoota turan.",
+  "footnotes": ""
 }

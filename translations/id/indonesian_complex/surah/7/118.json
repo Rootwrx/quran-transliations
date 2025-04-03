@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1072",
-    "sura": "7",
-    "aya": "118",
-    "arabic_text": "فَوَقَعَ ٱلۡحَقُّ وَبَطَلَ مَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Karena itu, nyatalah yang benar dan batallah yang selalu mereka kerjakan.",
-    "footnotes": ""
-  }
+  "id": 118,
+  "verse_number": 118,
+  "page_number": 164,
+  "verse_key": "7:118",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَقَعَ ٱلۡحَقُّ وَبَطَلَ مَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Karena itu, nyatalah yang benar dan batallah yang selalu mereka kerjakan.",
+  "footnotes": ""
 }

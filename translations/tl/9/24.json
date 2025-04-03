@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1259",
-    "sura": "9",
-    "aya": "24",
-    "arabic_text": "قُلۡ إِن كَانَ ءَابَآؤُكُمۡ وَأَبۡنَآؤُكُمۡ وَإِخۡوَٰنُكُمۡ وَأَزۡوَٰجُكُمۡ وَعَشِيرَتُكُمۡ وَأَمۡوَٰلٌ ٱقۡتَرَفۡتُمُوهَا وَتِجَٰرَةٞ تَخۡشَوۡنَ كَسَادَهَا وَمَسَٰكِنُ تَرۡضَوۡنَهَآ أَحَبَّ إِلَيۡكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٖ فِي سَبِيلِهِۦ فَتَرَبَّصُواْ حَتَّىٰ يَأۡتِيَ ٱللَّهُ بِأَمۡرِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
-    "translation": "Sabihin mo: “Kung ang mga magulang ninyo, ang mga kapatid ninyo, ang mga asawa ninyo, ang angkan ninyo, ang ilang yamang nakamtan ninyo, ang isang pangangalakal na kinatatakutan ninyo ang pagtumal nito, at ang ilang tirahang kinalulugdan ninyo ay higit na kaibig-ibig sa inyo kaysa kay Allāh, sa Sugo Niya, at sa isang pakikibaka ayon sa landas Niya, mag-abang kayo hanggang sa magparating si Allāh ng utos Niya.” Si Allāh ay hindi nagpapatnubay sa mga taong suwail.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 190,
+  "verse_key": "9:24",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِن كَانَ ءَابَآؤُكُمۡ وَأَبۡنَآؤُكُمۡ وَإِخۡوَٰنُكُمۡ وَأَزۡوَٰجُكُمۡ وَعَشِيرَتُكُمۡ وَأَمۡوَٰلٌ ٱقۡتَرَفۡتُمُوهَا وَتِجَٰرَةٞ تَخۡشَوۡنَ كَسَادَهَا وَمَسَٰكِنُ تَرۡضَوۡنَهَآ أَحَبَّ إِلَيۡكُم مِّنَ ٱللَّهِ وَرَسُولِهِۦ وَجِهَادٖ فِي سَبِيلِهِۦ فَتَرَبَّصُواْ حَتَّىٰ يَأۡتِيَ ٱللَّهُ بِأَمۡرِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+  "translation": "Sabihin mo: “Kung ang mga magulang ninyo, ang mga kapatid ninyo, ang mga asawa ninyo, ang angkan ninyo, ang ilang yamang nakamtan ninyo, ang isang pangangalakal na kinatatakutan ninyo ang pagtumal nito, at ang ilang tirahang kinalulugdan ninyo ay higit na kaibig-ibig sa inyo kaysa kay Allāh, sa Sugo Niya, at sa isang pakikibaka ayon sa landas Niya, mag-abang kayo hanggang sa magparating si Allāh ng utos Niya.” Si Allāh ay hindi nagpapatnubay sa mga taong suwail.",
+  "footnotes": ""
 }

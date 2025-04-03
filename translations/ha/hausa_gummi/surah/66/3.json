@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5232",
-    "sura": "66",
-    "aya": "3",
-    "arabic_text": "وَإِذۡ أَسَرَّ ٱلنَّبِيُّ إِلَىٰ بَعۡضِ أَزۡوَٰجِهِۦ حَدِيثٗا فَلَمَّا نَبَّأَتۡ بِهِۦ وَأَظۡهَرَهُ ٱللَّهُ عَلَيۡهِ عَرَّفَ بَعۡضَهُۥ وَأَعۡرَضَ عَنۢ بَعۡضٖۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتۡ مَنۡ أَنۢبَأَكَ هَٰذَاۖ قَالَ نَبَّأَنِيَ ٱلۡعَلِيمُ ٱلۡخَبِيرُ",
-    "translation": "Kuma a sã'ilin da Annabi ya asirta wani lãbãri zuwa ga sãshen mãtansa, to, a lõkacin da ta bã da lãbari da shi. Kuma Allah Ya bayyana shi a gare shi, ya sanar da sãshensa kuma ya kau da kai daga wani sãshe. To, a lõkacin da ya bã ta lãbãri da shi, ta ce: \"Wãne ne ya gaya maka wannan?\" Ya ce: \"Masani, Mai labartãwa, Ya gaya mini.\"",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 560,
+  "verse_key": "66:3",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ أَسَرَّ ٱلنَّبِيُّ إِلَىٰ بَعۡضِ أَزۡوَٰجِهِۦ حَدِيثٗا فَلَمَّا نَبَّأَتۡ بِهِۦ وَأَظۡهَرَهُ ٱللَّهُ عَلَيۡهِ عَرَّفَ بَعۡضَهُۥ وَأَعۡرَضَ عَنۢ بَعۡضٖۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتۡ مَنۡ أَنۢبَأَكَ هَٰذَاۖ قَالَ نَبَّأَنِيَ ٱلۡعَلِيمُ ٱلۡخَبِيرُ",
+  "translation": "Kuma a sã'ilin da Annabi ya asirta wani lãbãri zuwa ga sãshen mãtansa, to, a lõkacin da ta bã da lãbari da shi. Kuma Allah Ya bayyana shi a gare shi, ya sanar da sãshensa kuma ya kau da kai daga wani sãshe. To, a lõkacin da ya bã ta lãbãri da shi, ta ce: \"Wãne ne ya gaya maka wannan?\" Ya ce: \"Masani, Mai labartãwa, Ya gaya mini.\"",
+  "footnotes": ""
 }

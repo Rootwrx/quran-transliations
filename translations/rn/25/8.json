@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2863",
-    "sura": "25",
-    "aya": "8",
-    "arabic_text": "أَوۡ يُلۡقَىٰٓ إِلَيۡهِ كَنزٌ أَوۡ تَكُونُ لَهُۥ جَنَّةٞ يَأۡكُلُ مِنۡهَاۚ وَقَالَ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلٗا مَّسۡحُورًا",
-    "translation": "Canke Ikamumanurira amatungo menshi yotuma tumwemera, canke Ikamuha umurima uteye igomwe, agafungura ivyamwa vyawo ha kuja gusumira kw’isoko!”. Abirenganije mu kugarariza, baranavuze kandi babwira abameramana bati: “Ntimukurikira kiretse umuntu yarozwe bigatuma akehanirwa mu bwenge!”.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 360,
+  "verse_key": "25:8",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ يُلۡقَىٰٓ إِلَيۡهِ كَنزٌ أَوۡ تَكُونُ لَهُۥ جَنَّةٞ يَأۡكُلُ مِنۡهَاۚ وَقَالَ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلٗا مَّسۡحُورًا",
+  "translation": "Canke Ikamumanurira amatungo menshi yotuma tumwemera, canke Ikamuha umurima uteye igomwe, agafungura ivyamwa vyawo ha kuja gusumira kw’isoko!”. Abirenganije mu kugarariza, baranavuze kandi babwira abameramana bati: “Ntimukurikira kiretse umuntu yarozwe bigatuma akehanirwa mu bwenge!”.",
+  "footnotes": ""
 }

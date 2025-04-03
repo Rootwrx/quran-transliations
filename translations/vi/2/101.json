@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "108",
-    "sura": "2",
-    "aya": "101",
-    "arabic_text": "وَلَمَّا جَآءَهُمۡ رَسُولٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ نَبَذَ فَرِيقٞ مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمۡ كَأَنَّهُمۡ لَا يَعۡلَمُونَ",
-    "translation": "Và cứ mỗi khi một vị Thiên Sứ nào đó được Allah cử phái đến với họ để xác nhận lại những điều ở nơi họ thì một nhóm người được ban cho Kinh Sách lại gạt bỏ Kinh Sách của Allah ra sau lưng họ như thể là họ không hề hay biết gì cả.",
-    "footnotes": ""
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 15,
+  "verse_key": "2:101",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا جَآءَهُمۡ رَسُولٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ نَبَذَ فَرِيقٞ مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمۡ كَأَنَّهُمۡ لَا يَعۡلَمُونَ",
+  "translation": "Và cứ mỗi khi một vị Thiên Sứ nào đó được Allah cử phái đến với họ để xác nhận lại những điều ở nơi họ thì một nhóm người được ban cho Kinh Sách lại gạt bỏ Kinh Sách của Allah ra sau lưng họ như thể là họ không hề hay biết gì cả.",
+  "footnotes": ""
 }

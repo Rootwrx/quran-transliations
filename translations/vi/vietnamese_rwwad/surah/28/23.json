@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3275",
-    "sura": "28",
-    "aya": "23",
-    "arabic_text": "وَلَمَّا وَرَدَ مَآءَ مَدۡيَنَ وَجَدَ عَلَيۡهِ أُمَّةٗ مِّنَ ٱلنَّاسِ يَسۡقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمۡرَأَتَيۡنِ تَذُودَانِۖ قَالَ مَا خَطۡبُكُمَاۖ قَالَتَا لَا نَسۡقِي حَتَّىٰ يُصۡدِرَ ٱلرِّعَآءُۖ وَأَبُونَا شَيۡخٞ كَبِيرٞ",
-    "translation": "Rồi khi đến chỗ có nước thuộc địa phận Madyan, (Musa) thấy một đám người đang múc nước, và ngoài đám người đó, (Musa) còn thấy hai người phụ nữ đang đứng riêng lẻ. (Musa) đến hỏi hai người phụ nữ đó: “Hai cô có chuyện gì vậy?” Hai người nữ kia trả lời: “Chúng tôi không thể múc nước cho đàn cừu của mình uống trừ phi những người chăn cừu kia dắt đàn cừu của họ rời khỏi chỗ đó; và cha của chúng tôi thì đã lớn tuổi.”",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 388,
+  "verse_key": "28:23",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا وَرَدَ مَآءَ مَدۡيَنَ وَجَدَ عَلَيۡهِ أُمَّةٗ مِّنَ ٱلنَّاسِ يَسۡقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمۡرَأَتَيۡنِ تَذُودَانِۖ قَالَ مَا خَطۡبُكُمَاۖ قَالَتَا لَا نَسۡقِي حَتَّىٰ يُصۡدِرَ ٱلرِّعَآءُۖ وَأَبُونَا شَيۡخٞ كَبِيرٞ",
+  "translation": "Rồi khi đến chỗ có nước thuộc địa phận Madyan, (Musa) thấy một đám người đang múc nước, và ngoài đám người đó, (Musa) còn thấy hai người phụ nữ đang đứng riêng lẻ. (Musa) đến hỏi hai người phụ nữ đó: “Hai cô có chuyện gì vậy?” Hai người nữ kia trả lời: “Chúng tôi không thể múc nước cho đàn cừu của mình uống trừ phi những người chăn cừu kia dắt đàn cừu của họ rời khỏi chỗ đó; và cha của chúng tôi thì đã lớn tuổi.”",
+  "footnotes": ""
 }

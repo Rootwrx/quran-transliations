@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "925",
-    "sura": "6",
-    "aya": "136",
-    "arabic_text": "وَجَعَلُواْ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلۡحَرۡثِ وَٱلۡأَنۡعَٰمِ نَصِيبٗا فَقَالُواْ هَٰذَا لِلَّهِ بِزَعۡمِهِمۡ وَهَٰذَا لِشُرَكَآئِنَاۖ فَمَا كَانَ لِشُرَكَآئِهِمۡ فَلَا يَصِلُ إِلَى ٱللَّهِۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمۡۗ سَآءَ مَا يَحۡكُمُونَ",
-    "translation": "They assign to Allah a portion of the crops and livestock He created, saying, “This is for Allah” – as they claim – “and this is for our partners [i.e., idols].” But that which is assigned for their partners does not reach Allah, while that which is assigned for Allah reaches their partners[44]. How unfair their judgment is!",
-    "footnotes": "[44] It was an Arab heathen ritual to allocate two shares out of their livestock; a share for God and a share for idols. If a portion of God’s share was mixed with that of their idols, they would not deduct it, saying that God is in no need of it. Yet if a portion of their idols’ share fell with that of God’s they would readily cut it and add it on to their idols’ share."
-  }
+  "id": 136,
+  "verse_number": 136,
+  "page_number": 145,
+  "verse_key": "6:136",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلُواْ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلۡحَرۡثِ وَٱلۡأَنۡعَٰمِ نَصِيبٗا فَقَالُواْ هَٰذَا لِلَّهِ بِزَعۡمِهِمۡ وَهَٰذَا لِشُرَكَآئِنَاۖ فَمَا كَانَ لِشُرَكَآئِهِمۡ فَلَا يَصِلُ إِلَى ٱللَّهِۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمۡۗ سَآءَ مَا يَحۡكُمُونَ",
+  "translation": "They assign to Allah a portion of the crops and livestock He created, saying, “This is for Allah” – as they claim – “and this is for our partners [i.e., idols].” But that which is assigned for their partners does not reach Allah, while that which is assigned for Allah reaches their partners[44]. How unfair their judgment is!",
+  "footnotes": "[44] It was an Arab heathen ritual to allocate two shares out of their livestock; a share for God and a share for idols. If a portion of God’s share was mixed with that of their idols, they would not deduct it, saying that God is in no need of it. Yet if a portion of their idols’ share fell with that of God’s they would readily cut it and add it on to their idols’ share."
 }

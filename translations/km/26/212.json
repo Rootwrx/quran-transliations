@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3144",
-    "sura": "26",
-    "aya": "212",
-    "arabic_text": "إِنَّهُمۡ عَنِ ٱلسَّمۡعِ لَمَعۡزُولُونَ",
-    "translation": "(ព្រោះ)ពួកវាពិតជាត្រូវបានគេបណេ្ដញចេញពីការលប ស្ដាប់(គម្ពីរគួរអាន)។",
-    "footnotes": ""
-  }
+  "id": 212,
+  "verse_number": 212,
+  "page_number": 376,
+  "verse_key": "26:212",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُمۡ عَنِ ٱلسَّمۡعِ لَمَعۡزُولُونَ",
+  "translation": "(ព្រោះ)ពួកវាពិតជាត្រូវបានគេបណេ្ដញចេញពីការលប ស្ដាប់(គម្ពីរគួរអាន)។",
+  "footnotes": ""
 }

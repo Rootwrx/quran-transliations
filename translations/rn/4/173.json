@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "666",
-    "sura": "4",
-    "aya": "173",
-    "arabic_text": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمۡ أُجُورَهُمۡ وَيَزِيدُهُم مِّن فَضۡلِهِۦۖ وَأَمَّا ٱلَّذِينَ ٱسۡتَنكَفُواْ وَٱسۡتَكۡبَرُواْ فَيُعَذِّبُهُمۡ عَذَابًا أَلِيمٗا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيّٗا وَلَا نَصِيرٗا",
-    "translation": "Abemeye rero Imana Allah bakanakora n’ivyiza bitegetswe, Imana Allah Izobatunganiriza bikwiye impembo y’ivyo bakoze, Iteko Ibongerereko mu mpano zayo. Nayo abanse kwumvira Imana Allah bakanagira amanyama mu kutayisenga ari Imwe Rudende, Imana Allah Izobaha ibihano bibabaza, nta n’umuhagarikizi bazoronka atari Imana Allah abakura mu bihano, eka nta n’umutabazi bazoronka abibakingira.",
-    "footnotes": ""
-  }
+  "id": 173,
+  "verse_number": 173,
+  "page_number": 105,
+  "verse_key": "4:173",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 42,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمۡ أُجُورَهُمۡ وَيَزِيدُهُم مِّن فَضۡلِهِۦۖ وَأَمَّا ٱلَّذِينَ ٱسۡتَنكَفُواْ وَٱسۡتَكۡبَرُواْ فَيُعَذِّبُهُمۡ عَذَابًا أَلِيمٗا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيّٗا وَلَا نَصِيرٗا",
+  "translation": "Abemeye rero Imana Allah bakanakora n’ivyiza bitegetswe, Imana Allah Izobatunganiriza bikwiye impembo y’ivyo bakoze, Iteko Ibongerereko mu mpano zayo. Nayo abanse kwumvira Imana Allah bakanagira amanyama mu kutayisenga ari Imwe Rudende, Imana Allah Izobaha ibihano bibabaza, nta n’umuhagarikizi bazoronka atari Imana Allah abakura mu bihano, eka nta n’umutabazi bazoronka abibakingira.",
+  "footnotes": ""
 }

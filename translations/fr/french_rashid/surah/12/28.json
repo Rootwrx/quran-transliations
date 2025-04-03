@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1624",
-    "sura": "12",
-    "aya": "28",
-    "arabic_text": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٖ قَالَ إِنَّهُۥ مِن كَيۡدِكُنَّۖ إِنَّ كَيۡدَكُنَّ عَظِيمٞ",
-    "translation": "28 Constatant que la tunique était déchirée par derrière, le mari dit : « Voilà bien une ruse dont les femmes sont coutumières ! Vos ruses sont redoutables ! »",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 238,
+  "verse_key": "12:28",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٖ قَالَ إِنَّهُۥ مِن كَيۡدِكُنَّۖ إِنَّ كَيۡدَكُنَّ عَظِيمٞ",
+  "translation": "28 Constatant que la tunique était déchirée par derrière, le mari dit : « Voilà bien une ruse dont les femmes sont coutumières ! Vos ruses sont redoutables ! »",
+  "footnotes": ""
 }

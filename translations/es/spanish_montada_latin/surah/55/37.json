@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4938",
-    "sura": "55",
-    "aya": "37",
-    "arabic_text": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ",
-    "translation": "37. Y cuando el cielo se rasgue (para que desciendan los ángeles el Día de la Resurrección) parecerá una flor teñida de rojo (o del color de los metales fundidos, debido al horror de ese día).",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 532,
+  "verse_key": "55:37",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا ٱنشَقَّتِ ٱلسَّمَآءُ فَكَانَتۡ وَرۡدَةٗ كَٱلدِّهَانِ",
+  "translation": "37. Y cuando el cielo se rasgue (para que desciendan los ángeles el Día de la Resurrección) parecerá una flor teñida de rojo (o del color de los metales fundidos, debido al horror de ese día).",
+  "footnotes": ""
 }

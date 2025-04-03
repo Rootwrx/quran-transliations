@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1291",
-    "sura": "9",
-    "aya": "56",
-    "arabic_text": "وَيَحۡلِفُونَ بِٱللَّهِ إِنَّهُمۡ لَمِنكُمۡ وَمَا هُم مِّنكُمۡ وَلَٰكِنَّهُمۡ قَوۡمٞ يَفۡرَقُونَ",
-    "translation": "Ata betohen për Allahun se janë në fenë tuaj, ndërkohë që nuk janë prej jush, por janë njerëz frikacakë (për të treguar si janë në të vërtetë).",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 196,
+  "verse_key": "9:56",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 78,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَحۡلِفُونَ بِٱللَّهِ إِنَّهُمۡ لَمِنكُمۡ وَمَا هُم مِّنكُمۡ وَلَٰكِنَّهُمۡ قَوۡمٞ يَفۡرَقُونَ",
+  "translation": "Ata betohen për Allahun se janë në fenë tuaj, ndërkohë që nuk janë prej jush, por janë njerëz frikacakë (për të treguar si janë në të vërtetë).",
+  "footnotes": ""
 }

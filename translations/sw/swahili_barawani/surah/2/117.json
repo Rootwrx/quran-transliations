@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "124",
-    "sura": "2",
-    "aya": "117",
-    "arabic_text": "بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَإِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
-    "translation": "Yeye ndiye Muumba wa mbingu na ardhi pasina ruwaza; na anapo taka jambo basi huliambia tu: Kuwa! Nalo huwa.",
-    "footnotes": "Vipi awe na haja ya uzazi au atafute mwana huyo aliye anzisha kuumba Mbingu na Ardhi bila ya kuwa na kiigizo chochote kabla yake, na akavifanya vyote viliomo humo vimt'ii Yeye kwa kila atakalo, na visiweze kumuasi? Yeye akitaka kitu basi husema tu: Kuwa! Kikawa."
-  }
+  "id": 117,
+  "verse_number": 117,
+  "page_number": 18,
+  "verse_key": "2:117",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَدِيعُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَإِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+  "translation": "Yeye ndiye Muumba wa mbingu na ardhi pasina ruwaza; na anapo taka jambo basi huliambia tu: Kuwa! Nalo huwa.",
+  "footnotes": "Vipi awe na haja ya uzazi au atafute mwana huyo aliye anzisha kuumba Mbingu na Ardhi bila ya kuwa na kiigizo chochote kabla yake, na akavifanya vyote viliomo humo vimt'ii Yeye kwa kila atakalo, na visiweze kumuasi? Yeye akitaka kitu basi husema tu: Kuwa! Kikawa."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3660",
-    "sura": "34",
-    "aya": "54",
-    "arabic_text": "وَحِيلَ بَيۡنَهُمۡ وَبَيۡنَ مَا يَشۡتَهُونَ كَمَا فُعِلَ بِأَشۡيَاعِهِم مِّن قَبۡلُۚ إِنَّهُمۡ كَانُواْ فِي شَكّٖ مُّرِيبِۭ",
-    "translation": "54. Waase la kala ooday iyaga iyo waxay rabeen24, sidii loo galay kuwii la midka ahaa ee ka horreeyey. Hubaal waxay ahaayeen kuwo ku sugan shaki walaac leh.",
-    "footnotes": "24. Macnaha waa haleelidda iimaanka iyo waxa khayr ku jira iyo faa’idooyin aad u badan ama gelitaanka Jannada."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 434,
+  "verse_key": "34:54",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَحِيلَ بَيۡنَهُمۡ وَبَيۡنَ مَا يَشۡتَهُونَ كَمَا فُعِلَ بِأَشۡيَاعِهِم مِّن قَبۡلُۚ إِنَّهُمۡ كَانُواْ فِي شَكّٖ مُّرِيبِۭ",
+  "translation": "54. Waase la kala ooday iyaga iyo waxay rabeen24, sidii loo galay kuwii la midka ahaa ee ka horreeyey. Hubaal waxay ahaayeen kuwo ku sugan shaki walaac leh.",
+  "footnotes": "24. Macnaha waa haleelidda iimaanka iyo waxa khayr ku jira iyo faa’idooyin aad u badan ama gelitaanka Jannada."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2165",
-    "sura": "18",
-    "aya": "25",
-    "arabic_text": "وَلَبِثُواْ فِي كَهۡفِهِمۡ ثَلَٰثَ مِاْئَةٖ سِنِينَ وَٱزۡدَادُواْ تِسۡعٗا",
-    "translation": "በዋሻቸውም ውስጥ ሶስት መቶ ዓመታትን ቆዩ፡፡ ዘጠኝንም ጨመሩ፡፡",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 296,
+  "verse_key": "18:25",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَبِثُواْ فِي كَهۡفِهِمۡ ثَلَٰثَ مِاْئَةٖ سِنِينَ وَٱزۡدَادُواْ تِسۡعٗا",
+  "translation": "በዋሻቸውም ውስጥ ሶስት መቶ ዓመታትን ቆዩ፡፡ ዘጠኝንም ጨመሩ፡፡",
+  "footnotes": ""
 }

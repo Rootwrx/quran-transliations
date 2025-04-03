@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5333",
-    "sura": "69",
-    "aya": "10",
-    "arabic_text": "فَعَصَوۡاْ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةٗ رَّابِيَةً",
-    "translation": "pa su bili neposlušni poslaniku Gospodara svoga, pa ih je On dohvatio žestokom kaznom. ",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 567,
+  "verse_key": "69:10",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَعَصَوۡاْ رَسُولَ رَبِّهِمۡ فَأَخَذَهُمۡ أَخۡذَةٗ رَّابِيَةً",
+  "translation": "pa su bili neposlušni poslaniku Gospodara svoga, pa ih je On dohvatio žestokom kaznom. ",
+  "footnotes": ""
 }

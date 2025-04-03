@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "116",
-    "sura": "2",
-    "aya": "109",
-    "arabic_text": "وَدَّ كَثِيرٞ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ لَوۡ يَرُدُّونَكُم مِّنۢ بَعۡدِ إِيمَٰنِكُمۡ كُفَّارًا حَسَدٗا مِّنۡ عِندِ أَنفُسِهِم مِّنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ ٱلۡحَقُّۖ فَٱعۡفُواْ وَٱصۡفَحُواْ حَتَّىٰ يَأۡتِيَ ٱللَّهُ بِأَمۡرِهِۦٓۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Ọ̀pọ̀lọ́pọ̀ nínú àwọn tí A fún ní Tírà fẹ́ láti da yín padà sípò kèfèrí lẹ́yìn tí ẹ ti ní ìgbàgbọ́ òdodo, ní ti kèéta láti inú ẹ̀mí wọn, (àti) lẹ́yìn tí òdodo (’Islām) ti fojú hàn sí wọn. Nítorí náà, ẹ foríjìn wọ́n, kí ẹ ṣàmójú kúrò fún wọn (nípa ìnira tí wọ́n ń fi kàn yín) títí Allāhu yó fi mú àṣẹ Rẹ̀ wá (láti jà wọ́n lógun). Dájúdájú Allāhu ni Alágbára lórí gbogbo n̄ǹkan.",
-    "footnotes": ""
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 17,
+  "verse_key": "2:109",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَدَّ كَثِيرٞ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ لَوۡ يَرُدُّونَكُم مِّنۢ بَعۡدِ إِيمَٰنِكُمۡ كُفَّارًا حَسَدٗا مِّنۡ عِندِ أَنفُسِهِم مِّنۢ بَعۡدِ مَا تَبَيَّنَ لَهُمُ ٱلۡحَقُّۖ فَٱعۡفُواْ وَٱصۡفَحُواْ حَتَّىٰ يَأۡتِيَ ٱللَّهُ بِأَمۡرِهِۦٓۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Ọ̀pọ̀lọ́pọ̀ nínú àwọn tí A fún ní Tírà fẹ́ láti da yín padà sípò kèfèrí lẹ́yìn tí ẹ ti ní ìgbàgbọ́ òdodo, ní ti kèéta láti inú ẹ̀mí wọn, (àti) lẹ́yìn tí òdodo (’Islām) ti fojú hàn sí wọn. Nítorí náà, ẹ foríjìn wọ́n, kí ẹ ṣàmójú kúrò fún wọn (nípa ìnira tí wọ́n ń fi kàn yín) títí Allāhu yó fi mú àṣẹ Rẹ̀ wá (láti jà wọ́n lógun). Dájúdájú Allāhu ni Alágbára lórí gbogbo n̄ǹkan.",
+  "footnotes": ""
 }

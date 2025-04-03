@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6095",
-    "sura": "94",
-    "aya": "5",
-    "arabic_text": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
-    "translation": "ከችግርም ጋር ምቾት አልለ፡፡",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 596,
+  "verse_key": "94:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنَّ مَعَ ٱلۡعُسۡرِ يُسۡرًا",
+  "translation": "ከችግርም ጋር ምቾት አልለ፡፡",
+  "footnotes": ""
 }

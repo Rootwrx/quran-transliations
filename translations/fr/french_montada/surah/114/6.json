@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6236",
-    "sura": "114",
-    "aya": "6",
-    "arabic_text": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
-    "translation": "6. qu’il soit (quant à lui) djinn ou homme. »[623] ",
-    "footnotes": "[623] Autre lecture: « qu’ils soient djinns ou hommes », en renvoyant aux « tentés » (parmi les hommes et les djinns) plutôt qu’au « tentateur » (Satan)."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 604,
+  "verse_key": "114:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+  "translation": "6. qu’il soit (quant à lui) djinn ou homme. »[623] ",
+  "footnotes": "[623] Autre lecture: « qu’ils soient djinns ou hommes », en renvoyant aux « tentés » (parmi les hommes et les djinns) plutôt qu’au « tentateur » (Satan)."
 }

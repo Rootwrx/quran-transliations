@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1021",
-    "sura": "7",
-    "aya": "67",
-    "arabic_text": "قَالَ يَٰقَوۡمِ لَيۡسَ بِي سَفَاهَةٞ وَلَٰكِنِّي رَسُولٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
-    "translation": " (Hûd ) dedi ki: «Ey kavmim! Bende beyinsizlik yok; fakat ben, Âlemlerin Rabbi tarafından gönderilmiş bir peygamberim.\n",
-    "footnotes": ""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 158,
+  "verse_key": "7:67",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ يَٰقَوۡمِ لَيۡسَ بِي سَفَاهَةٞ وَلَٰكِنِّي رَسُولٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+  "translation": " (Hûd ) dedi ki: «Ey kavmim! Bende beyinsizlik yok; fakat ben, Âlemlerin Rabbi tarafından gönderilmiş bir peygamberim.\n",
+  "footnotes": ""
 }

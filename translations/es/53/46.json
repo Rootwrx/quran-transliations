@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4830",
-    "sura": "53",
-    "aya": "46",
-    "arabic_text": "مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ",
-    "translation": "46. de una gota de esperma eyaculada.",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 528,
+  "verse_key": "53:46",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِن نُّطۡفَةٍ إِذَا تُمۡنَىٰ",
+  "translation": "46. de una gota de esperma eyaculada.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2007",
-    "sura": "16",
-    "aya": "106",
-    "arabic_text": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعۡدِ إِيمَٰنِهِۦٓ إِلَّا مَنۡ أُكۡرِهَ وَقَلۡبُهُۥ مُطۡمَئِنُّۢ بِٱلۡإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلۡكُفۡرِ صَدۡرٗا فَعَلَيۡهِمۡ غَضَبٞ مِّنَ ٱللَّهِ وَلَهُمۡ عَذَابٌ عَظِيمٞ",
-    "translation": "Abadohotse mu kwemera, bakatura ubugarariji inyuma y’aho bahora bemera Imana Allah, abo barakwiye gushavurirwa n’Imana Allah. Uwuhatiwe ku bugarariji akabwatura ku rurimi gusa, mu gihe umutima wiwe ugitsimbataye ku kwemera, uyo nta kabi kuri we; ahubwo akabi n’akabibi ni ku watuye ubugarariji ku rurimi abikuye ku mutima. Uyo rero ari mu bashavuriwe cane n’Imana Allah, baranategekanirijwe n'ibihano rutura;",
-    "footnotes": ""
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 279,
+  "verse_key": "16:106",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَن كَفَرَ بِٱللَّهِ مِنۢ بَعۡدِ إِيمَٰنِهِۦٓ إِلَّا مَنۡ أُكۡرِهَ وَقَلۡبُهُۥ مُطۡمَئِنُّۢ بِٱلۡإِيمَٰنِ وَلَٰكِن مَّن شَرَحَ بِٱلۡكُفۡرِ صَدۡرٗا فَعَلَيۡهِمۡ غَضَبٞ مِّنَ ٱللَّهِ وَلَهُمۡ عَذَابٌ عَظِيمٞ",
+  "translation": "Abadohotse mu kwemera, bakatura ubugarariji inyuma y’aho bahora bemera Imana Allah, abo barakwiye gushavurirwa n’Imana Allah. Uwuhatiwe ku bugarariji akabwatura ku rurimi gusa, mu gihe umutima wiwe ugitsimbataye ku kwemera, uyo nta kabi kuri we; ahubwo akabi n’akabibi ni ku watuye ubugarariji ku rurimi abikuye ku mutima. Uyo rero ari mu bashavuriwe cane n’Imana Allah, baranategekanirijwe n'ibihano rutura;",
+  "footnotes": ""
 }

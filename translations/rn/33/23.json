@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3556",
-    "sura": "33",
-    "aya": "23",
-    "arabic_text": "مِّنَ ٱلۡمُؤۡمِنِينَ رِجَالٞ صَدَقُواْ مَا عَٰهَدُواْ ٱللَّهَ عَلَيۡهِۖ فَمِنۡهُم مَّن قَضَىٰ نَحۡبَهُۥ وَمِنۡهُم مَّن يَنتَظِرُۖ وَمَا بَدَّلُواْ تَبۡدِيلٗا",
-    "translation": "Burya mu bemeramana, harimwo abagabo babushitse (b’ijunja n’ijambo), bubahiriza ivyo basezeraniye Imana Allah, bakihangana mu mahirwe no mu marushwa, no mu gihe bari ku rugamba. Muri bo rero, harimwo abashize mu ngiro ivyo biyemeje bapfira ku rugamba ku bw’Imana Allah, canke bapfa bakiri kuri nya sezerano bataridohotseko; harimwo n’abakirindiriye kuronka kimwe mu vyiza bibiri: intsinzi canke gupfira ku rugamba ku bw’Imana Allah; kandi ntibigeze na rimwe bivuguruza nk’indyarya ngo badohoke ku vyo basezeraniye Imana Allah;",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 421,
+  "verse_key": "33:23",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 168,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِّنَ ٱلۡمُؤۡمِنِينَ رِجَالٞ صَدَقُواْ مَا عَٰهَدُواْ ٱللَّهَ عَلَيۡهِۖ فَمِنۡهُم مَّن قَضَىٰ نَحۡبَهُۥ وَمِنۡهُم مَّن يَنتَظِرُۖ وَمَا بَدَّلُواْ تَبۡدِيلٗا",
+  "translation": "Burya mu bemeramana, harimwo abagabo babushitse (b’ijunja n’ijambo), bubahiriza ivyo basezeraniye Imana Allah, bakihangana mu mahirwe no mu marushwa, no mu gihe bari ku rugamba. Muri bo rero, harimwo abashize mu ngiro ivyo biyemeje bapfira ku rugamba ku bw’Imana Allah, canke bapfa bakiri kuri nya sezerano bataridohotseko; harimwo n’abakirindiriye kuronka kimwe mu vyiza bibiri: intsinzi canke gupfira ku rugamba ku bw’Imana Allah; kandi ntibigeze na rimwe bivuguruza nk’indyarya ngo badohoke ku vyo basezeraniye Imana Allah;",
+  "footnotes": ""
 }

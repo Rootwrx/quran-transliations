@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4558",
-    "sura": "47",
-    "aya": "13",
-    "arabic_text": "وَكَأَيِّن مِّن قَرۡيَةٍ هِيَ أَشَدُّ قُوَّةٗ مِّن قَرۡيَتِكَ ٱلَّتِيٓ أَخۡرَجَتۡكَ أَهۡلَكۡنَٰهُمۡ فَلَا نَاصِرَ لَهُمۡ",
-    "translation": "How many towns We destroyed that were more powerful than your town that expelled you, and there was none to help them!",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 508,
+  "verse_key": "47:13",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَأَيِّن مِّن قَرۡيَةٍ هِيَ أَشَدُّ قُوَّةٗ مِّن قَرۡيَتِكَ ٱلَّتِيٓ أَخۡرَجَتۡكَ أَهۡلَكۡنَٰهُمۡ فَلَا نَاصِرَ لَهُمۡ",
+  "translation": "How many towns We destroyed that were more powerful than your town that expelled you, and there was none to help them!",
+  "footnotes": ""
 }

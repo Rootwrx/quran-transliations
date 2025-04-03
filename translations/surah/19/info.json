@@ -1,0 +1,27 @@
+{
+  "number": 19,
+  "name": {
+    "ar": "مريم",
+    "en": "Mary",
+    "transliteration": "Maryam"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 44,
+  "bismillah_pre": true,
+  "verses_count": 98,
+  "words_count": 972,
+  "letters_count": 3835,
+  "pages": [
+    305,
+    312
+  ],
+  "name_simple": "Maryam",
+  "name_complex": "Maryam",
+  "name_arabic": "مريم",
+  "translated_name": "Mary",
+  "start_page": 305,
+  "end_page": 312
+}

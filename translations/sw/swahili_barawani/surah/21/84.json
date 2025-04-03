@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2567",
-    "sura": "21",
-    "aya": "84",
-    "arabic_text": "فَٱسۡتَجَبۡنَا لَهُۥ فَكَشَفۡنَا مَا بِهِۦ مِن ضُرّٖۖ وَءَاتَيۡنَٰهُ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةٗ مِّنۡ عِندِنَا وَذِكۡرَىٰ لِلۡعَٰبِدِينَ",
-    "translation": "Basi tukamwitikia, na tukamwondolea madhara aliyo kuwa nayo, na tukampa watu wake na mfano wao pamoja nao kuwa ni rehema inayo toka kwetu, na ukumbusho kwa wafanyao ibada.",
-    "footnotes": "Tukamwitikia kwa aliyo yaomba, tukamwondolea madhara, na tukampa watoto kwa kadri ya waliyo kwisha kufa. Na tukamwongezea mfano wa wale, kuwa ni rehema iliyo tokana na fadhila yetu, na pia ni kuwa ni kumbusho kwa wenginewe wanao tuabudu ili wapate nao kusubiri kama alivyo subiri yeye, na watumai kupata rehema ya Mwenyezi Mungu kama alivyo tumai yeye."
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 329,
+  "verse_key": "21:84",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱسۡتَجَبۡنَا لَهُۥ فَكَشَفۡنَا مَا بِهِۦ مِن ضُرّٖۖ وَءَاتَيۡنَٰهُ أَهۡلَهُۥ وَمِثۡلَهُم مَّعَهُمۡ رَحۡمَةٗ مِّنۡ عِندِنَا وَذِكۡرَىٰ لِلۡعَٰبِدِينَ",
+  "translation": "Basi tukamwitikia, na tukamwondolea madhara aliyo kuwa nayo, na tukampa watu wake na mfano wao pamoja nao kuwa ni rehema inayo toka kwetu, na ukumbusho kwa wafanyao ibada.",
+  "footnotes": "Tukamwitikia kwa aliyo yaomba, tukamwondolea madhara, na tukampa watoto kwa kadri ya waliyo kwisha kufa. Na tukamwongezea mfano wa wale, kuwa ni rehema iliyo tokana na fadhila yetu, na pia ni kuwa ni kumbusho kwa wenginewe wanao tuabudu ili wapate nao kusubiri kama alivyo subiri yeye, na watumai kupata rehema ya Mwenyezi Mungu kama alivyo tumai yeye."
 }

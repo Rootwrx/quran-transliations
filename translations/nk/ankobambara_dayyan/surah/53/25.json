@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4809",
-    "sura": "53",
-    "aya": "25",
-    "arabic_text": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ",
-    "translation": "ߒ߬ߓߵߊߟߊ߫ ߕߊ ߟߋ߬ ߛߎ߬ߟߊ߫ ߣߌ߫ ߘߎߢߊ߫ ߘߌ߫ ߥߍ߫",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 526,
+  "verse_key": "53:25",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلِلَّهِ ٱلۡأٓخِرَةُ وَٱلۡأُولَىٰ",
+  "translation": "ߒ߬ߓߵߊߟߊ߫ ߕߊ ߟߋ߬ ߛߎ߬ߟߊ߫ ߣߌ߫ ߘߎߢߊ߫ ߘߌ߫ ߥߍ߫",
+  "footnotes": ""
 }

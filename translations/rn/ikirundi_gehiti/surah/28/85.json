@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3337",
-    "sura": "28",
-    "aya": "85",
-    "arabic_text": "إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٖۚ قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "Ntumwa y’Imana! Mu vy’ukuri, Uwakumanuriye Qor’ani Akakubwiriza kuyigendera no kurarikira abantu kuyikurikira, ni ukuri Azogusubiza iyo waje uva i Makka. Ntumwa y’Imana! Vuga ubwire ababangikanyamana uti: “Imana yanje Rurema Allah, Irazi neza uwazanye uburongozi, Irazi n’uwuri mu muzimagiza ugaragara uri kure y’ukuri”.",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 396,
+  "verse_key": "28:85",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 158,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٖۚ قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "Ntumwa y’Imana! Mu vy’ukuri, Uwakumanuriye Qor’ani Akakubwiriza kuyigendera no kurarikira abantu kuyikurikira, ni ukuri Azogusubiza iyo waje uva i Makka. Ntumwa y’Imana! Vuga ubwire ababangikanyamana uti: “Imana yanje Rurema Allah, Irazi neza uwazanye uburongozi, Irazi n’uwuri mu muzimagiza ugaragara uri kure y’ukuri”.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1136",
-    "sura": "7",
-    "aya": "182",
-    "arabic_text": "وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا سَنَسۡتَدۡرِجُهُم مِّنۡ حَيۡثُ لَا يَعۡلَمُونَ",
-    "translation": "182. Y a quienes nieguen Nuestras aleyas (el Corán) los castigaremos poco a poco, de manera que no se den cuenta.",
-    "footnotes": ""
-  }
+  "id": 182,
+  "verse_number": 182,
+  "page_number": 174,
+  "verse_key": "7:182",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 69,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا سَنَسۡتَدۡرِجُهُم مِّنۡ حَيۡثُ لَا يَعۡلَمُونَ",
+  "translation": "182. Y a quienes nieguen Nuestras aleyas (el Corán) los castigaremos poco a poco, de manera que no se den cuenta.",
+  "footnotes": ""
 }

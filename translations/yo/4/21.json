@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "514",
-    "sura": "4",
-    "aya": "21",
-    "arabic_text": "وَكَيۡفَ تَأۡخُذُونَهُۥ وَقَدۡ أَفۡضَىٰ بَعۡضُكُمۡ إِلَىٰ بَعۡضٖ وَأَخَذۡنَ مِنكُم مِّيثَٰقًا غَلِيظٗا",
-    "translation": "Báwo ni ẹ̀yin ṣe lè gbà á padà nígbà tí ó jẹ́ pé ẹ ti wọlé tọ’ra yín, tí wọ́n sì ti gba àdéhùn tó nípọn lọ́wọ́ yín![1]",
-    "footnotes": "1. Àdéhùn tó nípọn tí ọkọ ṣe fún ìyàwó rẹ̀ ni pé, “Èmi yóò máa ṣe dáadáa pẹ̀lú rẹ̀ tàbí kí n̄g tú ọ sílẹ̀ pẹ̀lú dáadáa, ìyẹn tí ìkọ̀sílẹ̀ bá ṣẹlẹ̀.”"
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 81,
+  "verse_key": "4:21",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 32,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَيۡفَ تَأۡخُذُونَهُۥ وَقَدۡ أَفۡضَىٰ بَعۡضُكُمۡ إِلَىٰ بَعۡضٖ وَأَخَذۡنَ مِنكُم مِّيثَٰقًا غَلِيظٗا",
+  "translation": "Báwo ni ẹ̀yin ṣe lè gbà á padà nígbà tí ó jẹ́ pé ẹ ti wọlé tọ’ra yín, tí wọ́n sì ti gba àdéhùn tó nípọn lọ́wọ́ yín![1]",
+  "footnotes": "1. Àdéhùn tó nípọn tí ọkọ ṣe fún ìyàwó rẹ̀ ni pé, “Èmi yóò máa ṣe dáadáa pẹ̀lú rẹ̀ tàbí kí n̄g tú ọ sílẹ̀ pẹ̀lú dáadáa, ìyẹn tí ìkọ̀sílẹ̀ bá ṣẹlẹ̀.”"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4866",
-    "sura": "54",
-    "aya": "20",
-    "arabic_text": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٖ مُّنقَعِرٖ",
-    "translation": "20. qui arrachait les hommes comme des troncs creux de palmiers (déracinés).",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 529,
+  "verse_key": "54:20",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَنزِعُ ٱلنَّاسَ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٖ مُّنقَعِرٖ",
+  "translation": "20. qui arrachait les hommes comme des troncs creux de palmiers (déracinés).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3661",
-    "sura": "35",
-    "aya": "1",
-    "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ جَاعِلِ ٱلۡمَلَٰٓئِكَةِ رُسُلًا أُوْلِيٓ أَجۡنِحَةٖ مَّثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۚ يَزِيدُ فِي ٱلۡخَلۡقِ مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Aseda no wͻ Onyankopͻn, ͻsoro ne asaase Bͻfo no a Wayε Soro abͻfoᴐ asomafoͻ a (ebi) wͻ ntaban mmienu ne mmiεnsa ne nnan. Ɔde deε Ɔpε ka N’abͻdeε no ho. Nokorε sε, Nyankopͻn wͻ biribiara so tumi.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 434,
+  "verse_key": "35:1",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَمۡدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ جَاعِلِ ٱلۡمَلَٰٓئِكَةِ رُسُلًا أُوْلِيٓ أَجۡنِحَةٖ مَّثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۚ يَزِيدُ فِي ٱلۡخَلۡقِ مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Aseda no wͻ Onyankopͻn, ͻsoro ne asaase Bͻfo no a Wayε Soro abͻfoᴐ asomafoͻ a (ebi) wͻ ntaban mmienu ne mmiεnsa ne nnan. Ɔde deε Ɔpε ka N’abͻdeε no ho. Nokorε sε, Nyankopͻn wͻ biribiara so tumi.",
+  "footnotes": ""
 }

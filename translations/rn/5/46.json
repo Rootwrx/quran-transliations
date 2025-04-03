@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "715",
-    "sura": "5",
-    "aya": "46",
-    "arabic_text": "وَقَفَّيۡنَا عَلَىٰٓ ءَاثَٰرِهِم بِعِيسَى ٱبۡنِ مَرۡيَمَ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ مِنَ ٱلتَّوۡرَىٰةِۖ وَءَاتَيۡنَٰهُ ٱلۡإِنجِيلَ فِيهِ هُدٗى وَنُورٞ وَمُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ مِنَ ٱلتَّوۡرَىٰةِ وَهُدٗى وَمَوۡعِظَةٗ لِّلۡمُتَّقِينَ",
-    "translation": "Mu gusozera Abavugishwamana barungitswe muri Bene Israyeli, Twakurikije Intumwa Isa mwene Mariyamu, yemera kandi yubahiriza ibiri mu Gitabu ca Tawurati[16]. Twaranamumanuriye Igitabu c’Injili kirimwo uburongozi bukura abantu mu buhuvyi, kikabamwo n’umuco werekana ingingo z’Imana Allah, gishimangira n’ukuri kw’ibiri muri Tawurati. Muri iyo Njili rero, harimwo uburongozi n’inyigisho zitomoye ku batinya Imana Allah mu kwubahiriza amabwirizwa yayo.",
-    "footnotes": "[16] Ibitasubirijwe izindi ngingo mu Gitabu yahawe c’Injili."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 116,
+  "verse_key": "5:46",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 46,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَفَّيۡنَا عَلَىٰٓ ءَاثَٰرِهِم بِعِيسَى ٱبۡنِ مَرۡيَمَ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ مِنَ ٱلتَّوۡرَىٰةِۖ وَءَاتَيۡنَٰهُ ٱلۡإِنجِيلَ فِيهِ هُدٗى وَنُورٞ وَمُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ مِنَ ٱلتَّوۡرَىٰةِ وَهُدٗى وَمَوۡعِظَةٗ لِّلۡمُتَّقِينَ",
+  "translation": "Mu gusozera Abavugishwamana barungitswe muri Bene Israyeli, Twakurikije Intumwa Isa mwene Mariyamu, yemera kandi yubahiriza ibiri mu Gitabu ca Tawurati[16]. Twaranamumanuriye Igitabu c’Injili kirimwo uburongozi bukura abantu mu buhuvyi, kikabamwo n’umuco werekana ingingo z’Imana Allah, gishimangira n’ukuri kw’ibiri muri Tawurati. Muri iyo Njili rero, harimwo uburongozi n’inyigisho zitomoye ku batinya Imana Allah mu kwubahiriza amabwirizwa yayo.",
+  "footnotes": "[16] Ibitasubirijwe izindi ngingo mu Gitabu yahawe c’Injili."
 }

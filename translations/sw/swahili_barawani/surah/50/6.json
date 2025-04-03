@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4636",
-    "sura": "50",
-    "aya": "6",
-    "arabic_text": "أَفَلَمۡ يَنظُرُوٓاْ إِلَى ٱلسَّمَآءِ فَوۡقَهُمۡ كَيۡفَ بَنَيۡنَٰهَا وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٖ",
-    "translation": "Je! Hawaangalii mbingu zilizo juu yao! Vipi tulivyo zijenga, na tukazipamba. Wala hazina nyufa.",
-    "footnotes": "Wameghafilika hata hawaitazami mbingu ilivyo nyanyuliwa juu yao bila ya nguzo? Vipi tumetengeneza ujenzi wake, na tukaipamba kwa nyota, na haina nyufa za kuitia kombo! Mbingu ni kote kulio juu yetu, na ndani yake vimo vitu vya namna mbali mbali, vinaogelea katika njia zao, nyota na sayari. Na hayo ni kwa nidhamu ya uangalizi mkubwa, na mshikamano ulio timia, na vilevile zinafuata kwa mpango wake kuwafikiana na kanuni za mvutano, basi hazitelezi."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 518,
+  "verse_key": "50:6",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَلَمۡ يَنظُرُوٓاْ إِلَى ٱلسَّمَآءِ فَوۡقَهُمۡ كَيۡفَ بَنَيۡنَٰهَا وَزَيَّنَّٰهَا وَمَا لَهَا مِن فُرُوجٖ",
+  "translation": "Je! Hawaangalii mbingu zilizo juu yao! Vipi tulivyo zijenga, na tukazipamba. Wala hazina nyufa.",
+  "footnotes": "Wameghafilika hata hawaitazami mbingu ilivyo nyanyuliwa juu yao bila ya nguzo? Vipi tumetengeneza ujenzi wake, na tukaipamba kwa nyota, na haina nyufa za kuitia kombo! Mbingu ni kote kulio juu yetu, na ndani yake vimo vitu vya namna mbali mbali, vinaogelea katika njia zao, nyota na sayari. Na hayo ni kwa nidhamu ya uangalizi mkubwa, na mshikamano ulio timia, na vilevile zinafuata kwa mpango wake kuwafikiana na kanuni za mvutano, basi hazitelezi."
 }

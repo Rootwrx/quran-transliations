@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2521",
-    "sura": "21",
-    "aya": "38",
-    "arabic_text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "38. Mpe bakolobaka: Elaka yango ekokokisama tango nini, soki bozali koloba solo?.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 325,
+  "verse_key": "21:38",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "38. Mpe bakolobaka: Elaka yango ekokokisama tango nini, soki bozali koloba solo?.",
+  "footnotes": ""
 }

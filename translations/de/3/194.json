@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "487",
-    "sura": "3",
-    "aya": "194",
-    "arabic_text": "رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخۡزِنَا يَوۡمَ ٱلۡقِيَٰمَةِۖ إِنَّكَ لَا تُخۡلِفُ ٱلۡمِيعَادَ",
-    "translation": "Unser Herr, und gib uns, was Du uns durch Deine Gesandten versprochen hast, und stürze uns nicht in Schande am Tag der Auferstehung. Gewiß, Du brichst nicht, was Du versprochen hast.",
-    "footnotes": null
-  }
+  "id": 194,
+  "verse_number": 194,
+  "page_number": 75,
+  "verse_key": "3:194",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبَّنَا وَءَاتِنَا مَا وَعَدتَّنَا عَلَىٰ رُسُلِكَ وَلَا تُخۡزِنَا يَوۡمَ ٱلۡقِيَٰمَةِۖ إِنَّكَ لَا تُخۡلِفُ ٱلۡمِيعَادَ",
+  "translation": "Unser Herr, und gib uns, was Du uns durch Deine Gesandten versprochen hast, und stürze uns nicht in Schande am Tag der Auferstehung. Gewiß, Du brichst nicht, was Du versprochen hast.",
+  "footnotes": null
 }

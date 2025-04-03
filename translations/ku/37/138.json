@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3926",
-    "sura": "37",
-    "aya": "138",
-    "arabic_text": "وَبِٱلَّيۡلِۚ أَفَلَا تَعۡقِلُونَ",
-    "translation": "و بەشەودا ئایا ئیتر ژیر نابن\n",
-    "footnotes": null
-  }
+  "id": 138,
+  "verse_number": 138,
+  "page_number": 451,
+  "verse_key": "37:138",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبِٱلَّيۡلِۚ أَفَلَا تَعۡقِلُونَ",
+  "translation": "و بەشەودا ئایا ئیتر ژیر نابن\n",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "300",
-    "sura": "3",
-    "aya": "7",
-    "arabic_text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
-    "translation": "7. Ye nde akitiseli yo buku kati na yango ezali na mikapo mia polele ya mibeko, mikapo wana nde mizali misisa ya buku, mpe mikapo misusu mizali na bokokani kati na yango. Na yango bato baye bazali na bokono ya libungi o mitema mia bango, bazali sé kolanda mikapo miye mikokana mpona koluka bomekano to mpe koluka ndimbola na yango, kasi moto moko te ayebi ndimbola na yango, sé ye moko Allah. Nzoka nde, banganga Nzambe (Allah) baye batonda mayele balobaka ete: Biso tondimi na yango. Nyoso ewuti epai na Nkolo na biso, sé bato baye bazali na mayele nde bazali kokanisa mpe kondima na yango.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 50,
+  "verse_key": "3:7",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+  "translation": "7. Ye nde akitiseli yo buku kati na yango ezali na mikapo mia polele ya mibeko, mikapo wana nde mizali misisa ya buku, mpe mikapo misusu mizali na bokokani kati na yango. Na yango bato baye bazali na bokono ya libungi o mitema mia bango, bazali sé kolanda mikapo miye mikokana mpona koluka bomekano to mpe koluka ndimbola na yango, kasi moto moko te ayebi ndimbola na yango, sé ye moko Allah. Nzoka nde, banganga Nzambe (Allah) baye batonda mayele balobaka ete: Biso tondimi na yango. Nyoso ewuti epai na Nkolo na biso, sé bato baye bazali na mayele nde bazali kokanisa mpe kondima na yango.",
+  "footnotes": ""
 }

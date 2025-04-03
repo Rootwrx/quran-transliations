@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5152",
-    "sura": "60",
-    "aya": "2",
-    "arabic_text": "إِن يَثۡقَفُوكُمۡ يَكُونُواْ لَكُمۡ أَعۡدَآءٗ وَيَبۡسُطُوٓاْ إِلَيۡكُمۡ أَيۡدِيَهُمۡ وَأَلۡسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّواْ لَوۡ تَكۡفُرُونَ",
-    "translation": "B sã n wil yãmba, b vẽnegda b beemã ne yãmba, la b tẽeg b nusã la b zεlmã wã yãmb zug ne wẽnga, b maanda nonglem tɩ yãmb sã n da kɩflẽ.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 549,
+  "verse_key": "60:2",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 219,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن يَثۡقَفُوكُمۡ يَكُونُواْ لَكُمۡ أَعۡدَآءٗ وَيَبۡسُطُوٓاْ إِلَيۡكُمۡ أَيۡدِيَهُمۡ وَأَلۡسِنَتَهُم بِٱلسُّوٓءِ وَوَدُّواْ لَوۡ تَكۡفُرُونَ",
+  "translation": "B sã n wil yãmba, b vẽnegda b beemã ne yãmba, la b tẽeg b nusã la b zεlmã wã yãmb zug ne wẽnga, b maanda nonglem tɩ yãmb sã n da kɩflẽ.",
+  "footnotes": ""
 }

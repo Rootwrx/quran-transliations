@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1321",
-    "sura": "9",
-    "aya": "86",
-    "arabic_text": "وَإِذَآ أُنزِلَتۡ سُورَةٌ أَنۡ ءَامِنُواْ بِٱللَّهِ وَجَٰهِدُواْ مَعَ رَسُولِهِ ٱسۡتَـٔۡذَنَكَ أُوْلُواْ ٱلطَّوۡلِ مِنۡهُمۡ وَقَالُواْ ذَرۡنَا نَكُن مَّعَ ٱلۡقَٰعِدِينَ",
-    "translation": "86. Y cuando una sura es revelada y esta ordena creer en Al-lah y combatir al lado de Su Mensajero, los ricos de entre los hipócritas te piden que los eximas de luchar, y dicen: «Deja que permanezcamos con quienes se quedan (en sus hogares)».",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 200,
+  "verse_key": "9:86",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَآ أُنزِلَتۡ سُورَةٌ أَنۡ ءَامِنُواْ بِٱللَّهِ وَجَٰهِدُواْ مَعَ رَسُولِهِ ٱسۡتَـٔۡذَنَكَ أُوْلُواْ ٱلطَّوۡلِ مِنۡهُمۡ وَقَالُواْ ذَرۡنَا نَكُن مَّعَ ٱلۡقَٰعِدِينَ",
+  "translation": "86. Y cuando una sura es revelada y esta ordena creer en Al-lah y combatir al lado de Su Mensajero, los ricos de entre los hipócritas te piden que los eximas de luchar, y dicen: «Deja que permanezcamos con quienes se quedan (en sus hogares)».",
+  "footnotes": ""
 }

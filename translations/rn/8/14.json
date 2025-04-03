@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1174",
-    "sura": "8",
-    "aya": "14",
-    "arabic_text": "ذَٰلِكُمۡ فَذُوقُوهُ وَأَنَّ لِلۡكَٰفِرِينَ عَذَابَ ٱلنَّارِ",
-    "translation": "Bagarariji! Ico ni co gihano canyu, nimucumvirize ng’aha kw’isi. Muranategekanirijwe n’ibihano vyo mu muriro mu buzima bw’inyuma yo gupfa.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 178,
+  "verse_key": "8:14",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكُمۡ فَذُوقُوهُ وَأَنَّ لِلۡكَٰفِرِينَ عَذَابَ ٱلنَّارِ",
+  "translation": "Bagarariji! Ico ni co gihano canyu, nimucumvirize ng’aha kw’isi. Muranategekanirijwe n’ibihano vyo mu muriro mu buzima bw’inyuma yo gupfa.",
+  "footnotes": ""
 }

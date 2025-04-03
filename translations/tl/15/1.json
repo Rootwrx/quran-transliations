@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1803",
-    "sura": "15",
-    "aya": "1",
-    "arabic_text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ وَقُرۡءَانٖ مُّبِينٖ",
-    "translation": "Alif. Lām. Rā’.[1] Ang mga ito ay mga talata ng Aklat at isang Qur’ān na malinaw.[2]",
-    "footnotes": "[1] Ang Qur’ān ay nasa wikang Arabe na binubuo ng mga titiks Arabe gaya ng mga ito subalit walang isa mang nakagawa ng kahit pinkamaiikling kabanata ng mahimalang kababalaghan ng Qur’ān.\n[2] sa Tawḥīd at mga batas"
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 262,
+  "verse_key": "15:1",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ وَقُرۡءَانٖ مُّبِينٖ",
+  "translation": "Alif. Lām. Rā’.[1] Ang mga ito ay mga talata ng Aklat at isang Qur’ān na malinaw.[2]",
+  "footnotes": "[1] Ang Qur’ān ay nasa wikang Arabe na binubuo ng mga titiks Arabe gaya ng mga ito subalit walang isa mang nakagawa ng kahit pinkamaiikling kabanata ng mahimalang kababalaghan ng Qur’ān.\n[2] sa Tawḥīd at mga batas"
 }

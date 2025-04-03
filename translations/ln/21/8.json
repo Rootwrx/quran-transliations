@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2491",
-    "sura": "21",
-    "aya": "8",
-    "arabic_text": "وَمَا جَعَلۡنَٰهُمۡ جَسَدٗا لَّا يَأۡكُلُونَ ٱلطَّعَامَ وَمَا كَانُواْ خَٰلِدِينَ",
-    "translation": "8. Mpe topesaki bango nzoto mpo baliaka biloko, mpe batikalaki libela te.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 322,
+  "verse_key": "21:8",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا جَعَلۡنَٰهُمۡ جَسَدٗا لَّا يَأۡكُلُونَ ٱلطَّعَامَ وَمَا كَانُواْ خَٰلِدِينَ",
+  "translation": "8. Mpe topesaki bango nzoto mpo baliaka biloko, mpe batikalaki libela te.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5924",
-    "sura": "85",
-    "aya": "15",
-    "arabic_text": "ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ",
-    "translation": "yang mempunyai arasy, lagi Maha Mulia,",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 590,
+  "verse_key": "85:15",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذُو ٱلۡعَرۡشِ ٱلۡمَجِيدُ",
+  "translation": "yang mempunyai arasy, lagi Maha Mulia,",
+  "footnotes": ""
 }

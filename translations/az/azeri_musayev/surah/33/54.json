@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3587",
-    "sura": "33",
-    "aya": "54",
-    "arabic_text": "إِن تُبۡدُواْ شَيۡـًٔا أَوۡ تُخۡفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَيۡءٍ عَلِيمٗا",
-    "translation": "Bir şeyi aşkara çıxarsanız da, gizli saxlasanız da, şübhəsiz ki, Allah hər şeyi bilir.",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 425,
+  "verse_key": "33:54",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 170,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن تُبۡدُواْ شَيۡـًٔا أَوۡ تُخۡفُوهُ فَإِنَّ ٱللَّهَ كَانَ بِكُلِّ شَيۡءٍ عَلِيمٗا",
+  "translation": "Bir şeyi aşkara çıxarsanız da, gizli saxlasanız da, şübhəsiz ki, Allah hər şeyi bilir.",
+  "footnotes": ""
 }

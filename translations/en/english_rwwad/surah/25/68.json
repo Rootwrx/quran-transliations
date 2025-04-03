@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2923",
-    "sura": "25",
-    "aya": "68",
-    "arabic_text": "وَٱلَّذِينَ لَا يَدۡعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقۡتُلُونَ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّ وَلَا يَزۡنُونَۚ وَمَن يَفۡعَلۡ ذَٰلِكَ يَلۡقَ أَثَامٗا",
-    "translation": "and those who do not invoke besides Allah another god, and who do not kill a soul whom Allah has forbidden, except in the course of justice, and who do not commit adultery, for whoever does any of this will face the penalty,",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 366,
+  "verse_key": "25:68",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ لَا يَدۡعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقۡتُلُونَ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّ وَلَا يَزۡنُونَۚ وَمَن يَفۡعَلۡ ذَٰلِكَ يَلۡقَ أَثَامٗا",
+  "translation": "and those who do not invoke besides Allah another god, and who do not kill a soul whom Allah has forbidden, except in the course of justice, and who do not commit adultery, for whoever does any of this will face the penalty,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5960",
-    "sura": "87",
-    "aya": "12",
-    "arabic_text": "ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ",
-    "translation": "అలాంటి వాడే ఘోరమైన నరకాగ్నిలో పడి కాలుతాడు.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 591,
+  "verse_key": "87:12",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي يَصۡلَى ٱلنَّارَ ٱلۡكُبۡرَىٰ",
+  "translation": "అలాంటి వాడే ఘోరమైన నరకాగ్నిలో పడి కాలుతాడు.",
+  "footnotes": ""
 }

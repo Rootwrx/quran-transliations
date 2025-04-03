@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5999",
-    "sura": "89",
-    "aya": "6",
-    "arabic_text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
-    "translation": "ನಿಮ್ಮ ಪರಿಪಾಲಕನು (ಅಲ್ಲಾಹು) ಆದ್ ಗೋತ್ರದವರೊಂದಿಗೆ ಏನು ಮಾಡಿದನೆಂದು ನೀವು ನೋಡಿಲ್ಲವೇ?",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 593,
+  "verse_key": "89:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
+  "translation": "ನಿಮ್ಮ ಪರಿಪಾಲಕನು (ಅಲ್ಲಾಹು) ಆದ್ ಗೋತ್ರದವರೊಂದಿಗೆ ಏನು ಮಾಡಿದನೆಂದು ನೀವು ನೋಡಿಲ್ಲವೇ?",
+  "footnotes": ""
 }

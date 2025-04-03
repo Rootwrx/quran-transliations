@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1879",
-    "sura": "15",
-    "aya": "77",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّلۡمُؤۡمِنِينَ",
-    "translation": "77. En eso hay un signo para los creyentes.",
-    "footnotes": ""
-  }
+  "id": 77,
+  "verse_number": 77,
+  "page_number": 266,
+  "verse_key": "15:77",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّلۡمُؤۡمِنِينَ",
+  "translation": "77. En eso hay un signo para los creyentes.",
+  "footnotes": ""
 }

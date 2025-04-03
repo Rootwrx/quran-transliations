@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3258",
-    "sura": "28",
-    "aya": "6",
-    "arabic_text": "وَنُمَكِّنَ لَهُمۡ فِي ٱلۡأَرۡضِ وَنُرِيَ فِرۡعَوۡنَ وَهَٰمَٰنَ وَجُنُودَهُمَا مِنۡهُم مَّا كَانُواْ يَحۡذَرُونَ",
-    "translation": "(6) And establish them in the land and show Pharaoh and [his minister] Hāmān and their soldiers through them[1094] that which they had feared.",
-    "footnotes": "[1094]- By means of those whom they had oppressed and enslaved."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 386,
+  "verse_key": "28:6",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنُمَكِّنَ لَهُمۡ فِي ٱلۡأَرۡضِ وَنُرِيَ فِرۡعَوۡنَ وَهَٰمَٰنَ وَجُنُودَهُمَا مِنۡهُم مَّا كَانُواْ يَحۡذَرُونَ",
+  "translation": "(6) And establish them in the land and show Pharaoh and [his minister] Hāmān and their soldiers through them[1094] that which they had feared.",
+  "footnotes": "[1094]- By means of those whom they had oppressed and enslaved."
 }

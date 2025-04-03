@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "407",
-    "sura": "3",
-    "aya": "114",
-    "arabic_text": "يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِۖ وَأُوْلَٰٓئِكَ مِنَ ٱلصَّٰلِحِينَ",
-    "translation": "114. Waxay rumeysan yihiin Alle iyo Maalinta Aakhiro; waxayna amraan samaha oo reebaan xumaha19; oo iskula tartamaan u degdegidda camallada khayrka, kuwaa waxay ka mid yihiin kuwa wanaagsan.",
-    "footnotes": "19. Nabigu s.c.w. wuxuu yidhi: Alle baan ku dhaartee wanaaggaad amreysaan oo xumaantaad reebeysaan, ama wuxuu Alle idiin soo diri ciqaab Xaggiisa ah, markaasaad baryeysaan mase idinka aqbalayo baryada.”"
-  }
+  "id": 114,
+  "verse_number": 114,
+  "page_number": 64,
+  "verse_key": "3:114",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِۖ وَأُوْلَٰٓئِكَ مِنَ ٱلصَّٰلِحِينَ",
+  "translation": "114. Waxay rumeysan yihiin Alle iyo Maalinta Aakhiro; waxayna amraan samaha oo reebaan xumaha19; oo iskula tartamaan u degdegidda camallada khayrka, kuwaa waxay ka mid yihiin kuwa wanaagsan.",
+  "footnotes": "19. Nabigu s.c.w. wuxuu yidhi: Alle baan ku dhaartee wanaaggaad amreysaan oo xumaantaad reebeysaan, ama wuxuu Alle idiin soo diri ciqaab Xaggiisa ah, markaasaad baryeysaan mase idinka aqbalayo baryada.”"
 }

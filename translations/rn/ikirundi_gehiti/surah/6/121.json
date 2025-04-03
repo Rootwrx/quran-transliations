@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "910",
-    "sura": "6",
-    "aya": "121",
-    "arabic_text": "وَلَا تَأۡكُلُواْ مِمَّا لَمۡ يُذۡكَرِ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَإِنَّهُۥ لَفِسۡقٞۗ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوۡلِيَآئِهِمۡ لِيُجَٰدِلُوكُمۡۖ وَإِنۡ أَطَعۡتُمُوهُمۡ إِنَّكُمۡ لَمُشۡرِكُونَ",
-    "translation": "Bislamu! Ntimugafungure rero inyama z’ivyakerewe hatabanje kuvugwa izina ry’Imana Allah[20]. Mu vy’ukuri, ukuzifungura ni ubutumva bwo kurenga ku mabwirizwa y’Imana Allah. Mu vy’ukuri, intumva mu majini, ni ukuri zosha abahagarikizi bazo mu ntumva z’abantu gukora ibitera amakenga mu gufungura intumvyi, kugira zibaharirize ku vyerekeye iyo ngingo[21]. Nimwaramuka rero muzumviye mu kuzirura ivyaziririjwe, ni ukuri muzoba ababangikanyamana nkabo.",
-    "footnotes": "[20] Nk’intumvyi, icakererewe ibigirwamana canke amajini, n’ibindi.\n[21] Bakigovyora bati: “Kudafungura intumvyi, ni nko kudafungura ivyishwe n’Imana Allah mu gihe mubikereye kw'Izina ryayo”."
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 143,
+  "verse_key": "6:121",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَأۡكُلُواْ مِمَّا لَمۡ يُذۡكَرِ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَإِنَّهُۥ لَفِسۡقٞۗ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوۡلِيَآئِهِمۡ لِيُجَٰدِلُوكُمۡۖ وَإِنۡ أَطَعۡتُمُوهُمۡ إِنَّكُمۡ لَمُشۡرِكُونَ",
+  "translation": "Bislamu! Ntimugafungure rero inyama z’ivyakerewe hatabanje kuvugwa izina ry’Imana Allah[20]. Mu vy’ukuri, ukuzifungura ni ubutumva bwo kurenga ku mabwirizwa y’Imana Allah. Mu vy’ukuri, intumva mu majini, ni ukuri zosha abahagarikizi bazo mu ntumva z’abantu gukora ibitera amakenga mu gufungura intumvyi, kugira zibaharirize ku vyerekeye iyo ngingo[21]. Nimwaramuka rero muzumviye mu kuzirura ivyaziririjwe, ni ukuri muzoba ababangikanyamana nkabo.",
+  "footnotes": "[20] Nk’intumvyi, icakererewe ibigirwamana canke amajini, n’ibindi.\n[21] Bakigovyora bati: “Kudafungura intumvyi, ni nko kudafungura ivyishwe n’Imana Allah mu gihe mubikereye kw'Izina ryayo”."
 }

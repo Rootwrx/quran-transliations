@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2477",
-    "sura": "20",
-    "aya": "129",
-    "arabic_text": "وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامٗا وَأَجَلٞ مُّسَمّٗى",
-    "translation": "Were it not for a prior decree from your Lord[49] [O Prophet] and a time already set, they would have already been punished[50].",
-    "footnotes": "[49] That He will not punish until the argument is established on them on the Day of Judgment.\n [50] He would have punished the disbelievers in the life of this world as He did with the destroyed nations of the past."
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 321,
+  "verse_key": "20:129",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامٗا وَأَجَلٞ مُّسَمّٗى",
+  "translation": "Were it not for a prior decree from your Lord[49] [O Prophet] and a time already set, they would have already been punished[50].",
+  "footnotes": "[49] That He will not punish until the argument is established on them on the Day of Judgment.\n [50] He would have punished the disbelievers in the life of this world as He did with the destroyed nations of the past."
 }

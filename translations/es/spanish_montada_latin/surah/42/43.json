@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4315",
-    "sura": "42",
-    "aya": "43",
-    "arabic_text": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنۡ عَزۡمِ ٱلۡأُمُورِ",
-    "translation": "43. Y el ser paciente (ante una ofensa) y perdonar (aun pudiendo pedir que se aplique la ley en contra del agresor) es una virtud que requiere de gran determinación y entereza.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 487,
+  "verse_key": "42:43",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنۡ عَزۡمِ ٱلۡأُمُورِ",
+  "translation": "43. Y el ser paciente (ante una ofensa) y perdonar (aun pudiendo pedir que se aplique la ley en contra del agresor) es una virtud que requiere de gran determinación y entereza.",
+  "footnotes": ""
 }

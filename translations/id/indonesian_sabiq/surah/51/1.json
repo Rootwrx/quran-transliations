@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4676",
-    "sura": "51",
-    "aya": "1",
-    "arabic_text": "وَٱلذَّٰرِيَٰتِ ذَرۡوٗا",
-    "translation": "1. Demi (angin) yang menerbangkan debu,",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 520,
+  "verse_key": "51:1",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلذَّٰرِيَٰتِ ذَرۡوٗا",
+  "translation": "1. Demi (angin) yang menerbangkan debu,",
+  "footnotes": ""
 }

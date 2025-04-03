@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2772",
-    "sura": "23",
-    "aya": "99",
-    "arabic_text": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ رَبِّ ٱرۡجِعُونِ",
-    "translation": "E os renegadores da Fé permanecerão descrentes, até que, quando a morte chegar a um deles, dirá: \"Senhor meu! Fazei-me voltar à terra,",
-    "footnotes": ""
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 348,
+  "verse_key": "23:99",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ رَبِّ ٱرۡجِعُونِ",
+  "translation": "E os renegadores da Fé permanecerão descrentes, até que, quando a morte chegar a um deles, dirá: \"Senhor meu! Fazei-me voltar à terra,",
+  "footnotes": ""
 }

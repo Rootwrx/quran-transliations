@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "810",
-    "sura": "6",
-    "aya": "21",
-    "arabic_text": "وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ بِـَٔايَٰتِهِۦٓۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
-    "translation": "Nta n'umwe arenganya akimonogoza gusumba uwurementaniriza Imana Allah ko Ifise ababangikanywa na Yo mu gusengwa, canke ko Ifise umwana canke umugore, canke agahakana yivuye inyuma Aayah n’ivyemezo vyayo vyerekana ukuri kw’Intumwa zayo! Mu vy’ukuri, abirenganya mu kubeshera Imana Allah, ntibazokwigera baronka intsinzi kw’isi no mu buzima bw’inyuma yo gupfa,",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 130,
+  "verse_key": "6:21",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ بِـَٔايَٰتِهِۦٓۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
+  "translation": "Nta n'umwe arenganya akimonogoza gusumba uwurementaniriza Imana Allah ko Ifise ababangikanywa na Yo mu gusengwa, canke ko Ifise umwana canke umugore, canke agahakana yivuye inyuma Aayah n’ivyemezo vyayo vyerekana ukuri kw’Intumwa zayo! Mu vy’ukuri, abirenganya mu kubeshera Imana Allah, ntibazokwigera baronka intsinzi kw’isi no mu buzima bw’inyuma yo gupfa,",
+  "footnotes": ""
 }

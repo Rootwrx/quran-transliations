@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "205",
-    "sura": "2",
-    "aya": "198",
-    "arabic_text": "لَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡۚ فَإِذَآ أَفَضۡتُم مِّنۡ عَرَفَٰتٖ فَٱذۡكُرُواْ ٱللَّهَ عِندَ ٱلۡمَشۡعَرِ ٱلۡحَرَامِۖ وَٱذۡكُرُوهُ كَمَا هَدَىٰكُمۡ وَإِن كُنتُم مِّن قَبۡلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
-    "translation": "198. Nėra nuodėmės jums, jei jūs siekiate savo Viešpaties Dosnumo (prekiaudami piligriminės kelionės metu). Tada, kai jūs paliekate Arafate [24], prisiminkite Allahą (garsiai sakydami Jo Šlovinimą) Mašar-il-Haram (vietoje) [25]. Ir prisiminkite Jį (maldaudami Allaho viso gėrio), nes Jis išvedė jus į tiesą, ir iš tiesų, prieš tai jūs buvote iš paklydusiųjų.",
-    "footnotes": "[24] Arafat: gerai žinoma vietovė netoli Mekkos, kur piligrimai turi praleisti 9-ąją Zul-Hidža mėnesio dieną.\n[25] Al-Mašar Al-Haram, t. y. Muzdalifa: gerai žinoma vietovė netoli Mekkos, kur piligrimai turi stabtelėti ir praleisti visą, arba didžiąją dalį, 10-ios Zul-Hidža mėnesio nakties."
-  }
+  "id": 198,
+  "verse_number": 198,
+  "page_number": 31,
+  "verse_key": "2:198",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡۚ فَإِذَآ أَفَضۡتُم مِّنۡ عَرَفَٰتٖ فَٱذۡكُرُواْ ٱللَّهَ عِندَ ٱلۡمَشۡعَرِ ٱلۡحَرَامِۖ وَٱذۡكُرُوهُ كَمَا هَدَىٰكُمۡ وَإِن كُنتُم مِّن قَبۡلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+  "translation": "198. Nėra nuodėmės jums, jei jūs siekiate savo Viešpaties Dosnumo (prekiaudami piligriminės kelionės metu). Tada, kai jūs paliekate Arafate [24], prisiminkite Allahą (garsiai sakydami Jo Šlovinimą) Mašar-il-Haram (vietoje) [25]. Ir prisiminkite Jį (maldaudami Allaho viso gėrio), nes Jis išvedė jus į tiesą, ir iš tiesų, prieš tai jūs buvote iš paklydusiųjų.",
+  "footnotes": "[24] Arafat: gerai žinoma vietovė netoli Mekkos, kur piligrimai turi praleisti 9-ąją Zul-Hidža mėnesio dieną.\n[25] Al-Mašar Al-Haram, t. y. Muzdalifa: gerai žinoma vietovė netoli Mekkos, kur piligrimai turi stabtelėti ir praleisti visą, arba didžiąją dalį, 10-ios Zul-Hidža mėnesio nakties."
 }

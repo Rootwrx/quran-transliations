@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "964",
-    "sura": "7",
-    "aya": "10",
-    "arabic_text": "وَلَقَدۡ مَكَّنَّٰكُمۡ فِي ٱلۡأَرۡضِ وَجَعَلۡنَا لَكُمۡ فِيهَا مَعَٰيِشَۗ قَلِيلٗا مَّا تَشۡكُرُونَ",
-    "translation": "  Doğrusu biz sizi yeryüzüne yerleştirdik ve orada size geçim vasıtaları verdik. Ne kadar da az şükrediyorsunuz!",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 151,
+  "verse_key": "7:10",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ مَكَّنَّٰكُمۡ فِي ٱلۡأَرۡضِ وَجَعَلۡنَا لَكُمۡ فِيهَا مَعَٰيِشَۗ قَلِيلٗا مَّا تَشۡكُرُونَ",
+  "translation": "  Doğrusu biz sizi yeryüzüne yerleştirdik ve orada size geçim vasıtaları verdik. Ne kadar da az şükrediyorsunuz!",
+  "footnotes": ""
 }

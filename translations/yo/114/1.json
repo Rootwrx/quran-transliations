@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6231",
-    "sura": "114",
-    "aya": "1",
-    "arabic_text": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
-    "translation": "Sọ pé: “Mo sá di Olúwa àwọn ènìyàn,",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 604,
+  "verse_key": "114:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَعُوذُ بِرَبِّ ٱلنَّاسِ",
+  "translation": "Sọ pé: “Mo sá di Olúwa àwọn ènìyàn,",
+  "footnotes": ""
 }

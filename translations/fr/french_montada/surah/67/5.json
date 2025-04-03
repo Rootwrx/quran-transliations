@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5246",
-    "sura": "67",
-    "aya": "5",
-    "arabic_text": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ",
-    "translation": "5. Nous avons orné de luminaires (flamboyants) le ciel le plus proche de ce bas monde. Nous en avons fait des météores pour lapider les démons. Et Nous leur avons préparé le supplice du Brasier.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 562,
+  "verse_key": "67:5",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ",
+  "translation": "5. Nous avons orné de luminaires (flamboyants) le ciel le plus proche de ce bas monde. Nous en avons fait des météores pour lapider les démons. Et Nous leur avons préparé le supplice du Brasier.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6045",
-    "sura": "91",
-    "aya": "2",
-    "arabic_text": "وَٱلۡقَمَرِ إِذَا تَلَىٰهَا",
-    "translation": "以追随太阳时的月亮发誓，",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 595,
+  "verse_key": "91:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡقَمَرِ إِذَا تَلَىٰهَا",
+  "translation": "以追随太阳时的月亮发誓，",
+  "footnotes": ""
 }

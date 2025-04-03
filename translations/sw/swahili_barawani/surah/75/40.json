@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5591",
-    "sura": "75",
-    "aya": "40",
-    "arabic_text": "أَلَيۡسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰ",
-    "translation": "Je! Huyo hakuwa ni Muweza wa kufufua wafu?",
-    "footnotes": "Je! Huyo Muumba wa mwanzo aliye fanya yote haya, basi si muweza wa kuwahuisha maiti baada ya kuyakusanya mafupa yao?"
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 578,
+  "verse_key": "75:40",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَيۡسَ ذَٰلِكَ بِقَٰدِرٍ عَلَىٰٓ أَن يُحۡـِۧيَ ٱلۡمَوۡتَىٰ",
+  "translation": "Je! Huyo hakuwa ni Muweza wa kufufua wafu?",
+  "footnotes": "Je! Huyo Muumba wa mwanzo aliye fanya yote haya, basi si muweza wa kuwahuisha maiti baada ya kuyakusanya mafupa yao?"
 }

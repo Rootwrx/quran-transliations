@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2430",
-    "sura": "20",
-    "aya": "82",
-    "arabic_text": "وَإِنِّي لَغَفَّارٞ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحٗا ثُمَّ ٱهۡتَدَىٰ",
-    "translation": " 82. And verily, I am indeed forgiving to him who repents, believes (in My Oneness, and associates none in worship with Me) and does righteous good deeds, and then remains constant in doing them, (till his death).",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 317,
+  "verse_key": "20:82",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنِّي لَغَفَّارٞ لِّمَن تَابَ وَءَامَنَ وَعَمِلَ صَٰلِحٗا ثُمَّ ٱهۡتَدَىٰ",
+  "translation": " 82. And verily, I am indeed forgiving to him who repents, believes (in My Oneness, and associates none in worship with Me) and does righteous good deeds, and then remains constant in doing them, (till his death).",
+  "footnotes": ""
 }

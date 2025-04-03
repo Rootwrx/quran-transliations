@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1080",
-    "sura": "7",
-    "aya": "126",
-    "arabic_text": "وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنۡ ءَامَنَّا بِـَٔايَٰتِ رَبِّنَا لَمَّا جَآءَتۡنَاۚ رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرٗا وَتَوَفَّنَا مُسۡلِمِينَ",
-    "translation": " Sen sadece Rabbimizin âyetleri bize geldiğinde onlara inandığımız için bizden intikam alıyorsun. Ey Rabbimiz! Bize bol bol sabır ver, müslüman olarak canımızı al, dediler.",
-    "footnotes": ""
-  }
+  "id": 126,
+  "verse_number": 126,
+  "page_number": 165,
+  "verse_key": "7:126",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تَنقِمُ مِنَّآ إِلَّآ أَنۡ ءَامَنَّا بِـَٔايَٰتِ رَبِّنَا لَمَّا جَآءَتۡنَاۚ رَبَّنَآ أَفۡرِغۡ عَلَيۡنَا صَبۡرٗا وَتَوَفَّنَا مُسۡلِمِينَ",
+  "translation": " Sen sadece Rabbimizin âyetleri bize geldiğinde onlara inandığımız için bizden intikam alıyorsun. Ey Rabbimiz! Bize bol bol sabır ver, müslüman olarak canımızı al, dediler.",
+  "footnotes": ""
 }

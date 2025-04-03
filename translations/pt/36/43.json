@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3748",
-    "sura": "36",
-    "aya": "43",
-    "arabic_text": "وَإِن نَّشَأۡ نُغۡرِقۡهُمۡ فَلَا صَرِيخَ لَهُمۡ وَلَا هُمۡ يُنقَذُونَ",
-    "translation": "E, se quiséssemos, afogá-los-íamos; então não haveria, para eles, salvador algum, e não serão salvos,",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 443,
+  "verse_key": "36:43",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن نَّشَأۡ نُغۡرِقۡهُمۡ فَلَا صَرِيخَ لَهُمۡ وَلَا هُمۡ يُنقَذُونَ",
+  "translation": "E, se quiséssemos, afogá-los-íamos; então não haveria, para eles, salvador algum, e não serão salvos,",
+  "footnotes": ""
 }

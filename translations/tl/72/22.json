@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5469",
-    "sura": "72",
-    "aya": "22",
-    "arabic_text": "قُلۡ إِنِّي لَن يُجِيرَنِي مِنَ ٱللَّهِ أَحَدٞ وَلَنۡ أَجِدَ مِن دُونِهِۦ مُلۡتَحَدًا",
-    "translation": "Sabihin mo: “Tunay na ako ay hindi kakalingain laban kay Allāh ng isa man [kung susuway ako sa Kanya] at hindi makatatagpo bukod pa sa Kanya ng isang madadaupan,",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 573,
+  "verse_key": "72:22",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنِّي لَن يُجِيرَنِي مِنَ ٱللَّهِ أَحَدٞ وَلَنۡ أَجِدَ مِن دُونِهِۦ مُلۡتَحَدًا",
+  "translation": "Sabihin mo: “Tunay na ako ay hindi kakalingain laban kay Allāh ng isa man [kung susuway ako sa Kanya] at hindi makatatagpo bukod pa sa Kanya ng isang madadaupan,",
+  "footnotes": ""
 }

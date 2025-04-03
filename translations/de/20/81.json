@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2429",
-    "sura": "20",
-    "aya": "81",
-    "arabic_text": "كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡ وَلَا تَطۡغَوۡاْ فِيهِ فَيَحِلَّ عَلَيۡكُمۡ غَضَبِيۖ وَمَن يَحۡلِلۡ عَلَيۡهِ غَضَبِي فَقَدۡ هَوَىٰ",
-    "translation": "„Eßt von den guten Dingen, mit denen Wir euch versorgt haben, und lehnt euch dabei nicht (durch Undankbarkeit) auf, sonst bricht Mein Zorn über euch herein; denn derjenige, über den Mein Zorn hereinbricht, wird sicherlich stürzen.",
-    "footnotes": null
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 317,
+  "verse_key": "20:81",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُواْ مِن طَيِّبَٰتِ مَا رَزَقۡنَٰكُمۡ وَلَا تَطۡغَوۡاْ فِيهِ فَيَحِلَّ عَلَيۡكُمۡ غَضَبِيۖ وَمَن يَحۡلِلۡ عَلَيۡهِ غَضَبِي فَقَدۡ هَوَىٰ",
+  "translation": "„Eßt von den guten Dingen, mit denen Wir euch versorgt haben, und lehnt euch dabei nicht (durch Undankbarkeit) auf, sonst bricht Mein Zorn über euch herein; denn derjenige, über den Mein Zorn hereinbricht, wird sicherlich stürzen.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2898",
-    "sura": "25",
-    "aya": "43",
-    "arabic_text": "أَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيۡهِ وَكِيلًا",
-    "translation": "Arzularını ilah edinen kimseyi gördün mü? O halde sen mi onun üzerine bir koruyucu olacaksın? ",
-    "footnotes": null
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 363,
+  "verse_key": "25:43",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيۡهِ وَكِيلًا",
+  "translation": "Arzularını ilah edinen kimseyi gördün mü? O halde sen mi onun üzerine bir koruyucu olacaksın? ",
+  "footnotes": null
 }

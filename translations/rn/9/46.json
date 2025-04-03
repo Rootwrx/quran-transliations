@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1281",
-    "sura": "9",
-    "aya": "46",
-    "arabic_text": "۞ وَلَوۡ أَرَادُواْ ٱلۡخُرُوجَ لَأَعَدُّواْ لَهُۥ عُدَّةٗ وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمۡ فَثَبَّطَهُمۡ وَقِيلَ ٱقۡعُدُواْ مَعَ ٱلۡقَٰعِدِينَ",
-    "translation": "Muvugishwamana! Iyo indyarya zishaka kujana na we ku rugamba, zari kurwitegurira bikwiye mu gutegekanya impamba n’igitwazi, ariko Imana Allah mu vyagezwe ntiyashimye ko mujana, Iraheza Iraziremereza zibwirwa ziti: “Nimusibe ku rugamba, mugume mu zanyu hamwe n’abarekuriwe kuzigumamwo[11]”.",
-    "footnotes": "[11] Abarekuriwe kutaja ku rugamba, bakaba boguma muhira, ni abageze mu zabukuru, abarwaye, abakenyezi n’abana."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 194,
+  "verse_key": "9:46",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 78,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَوۡ أَرَادُواْ ٱلۡخُرُوجَ لَأَعَدُّواْ لَهُۥ عُدَّةٗ وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمۡ فَثَبَّطَهُمۡ وَقِيلَ ٱقۡعُدُواْ مَعَ ٱلۡقَٰعِدِينَ",
+  "translation": "Muvugishwamana! Iyo indyarya zishaka kujana na we ku rugamba, zari kurwitegurira bikwiye mu gutegekanya impamba n’igitwazi, ariko Imana Allah mu vyagezwe ntiyashimye ko mujana, Iraheza Iraziremereza zibwirwa ziti: “Nimusibe ku rugamba, mugume mu zanyu hamwe n’abarekuriwe kuzigumamwo[11]”.",
+  "footnotes": "[11] Abarekuriwe kutaja ku rugamba, bakaba boguma muhira, ni abageze mu zabukuru, abarwaye, abakenyezi n’abana."
 }

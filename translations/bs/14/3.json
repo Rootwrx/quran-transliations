@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1753",
-    "sura": "14",
-    "aya": "3",
-    "arabic_text": "ٱلَّذِينَ يَسۡتَحِبُّونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا عَلَى ٱلۡأٓخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجًاۚ أُوْلَٰٓئِكَ فِي ضَلَٰلِۭ بَعِيدٖ",
-    "translation": "onima koji život na dunjaluku više vole od ahireta i koji od Allahova puta odvraćaju i nastoje ga krivim prikazati! Oni su daleko zalutali.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 255,
+  "verse_key": "14:3",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يَسۡتَحِبُّونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا عَلَى ٱلۡأٓخِرَةِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجًاۚ أُوْلَٰٓئِكَ فِي ضَلَٰلِۭ بَعِيدٖ",
+  "translation": "onima koji život na dunjaluku više vole od ahireta i koji od Allahova puta odvraćaju i nastoje ga krivim prikazati! Oni su daleko zalutali.",
+  "footnotes": ""
 }

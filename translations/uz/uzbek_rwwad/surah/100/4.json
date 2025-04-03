@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6150",
-    "sura": "100",
-    "aya": "4",
-    "arabic_text": "فَأَثَرۡنَ بِهِۦ نَقۡعٗا",
-    "translation": "Ўша билан чанг-тўзон кўтариб,",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 599,
+  "verse_key": "100:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَثَرۡنَ بِهِۦ نَقۡعٗا",
+  "translation": "Ўша билан чанг-тўзон кўтариб,",
+  "footnotes": ""
 }

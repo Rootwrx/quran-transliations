@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3717",
-    "sura": "36",
-    "aya": "12",
-    "arabic_text": "إِنَّا نَحۡنُ نُحۡيِ ٱلۡمَوۡتَىٰ وَنَكۡتُبُ مَا قَدَّمُواْ وَءَاثَٰرَهُمۡۚ وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ فِيٓ إِمَامٖ مُّبِينٖ",
-    "translation": "Dájúdájú Àwa l’À ń sọ àwọn òkú di alàyè. A sì ń ṣe àkọsílẹ̀ ohun tí wọ́n tì síwájú àti orípa (iṣẹ́ ọwọ́) wọn. Gbogbo n̄ǹkan ni A ṣe àkọsílẹ̀ rẹ̀ sínú tírà kan tó yanjú.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 440,
+  "verse_key": "36:12",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا نَحۡنُ نُحۡيِ ٱلۡمَوۡتَىٰ وَنَكۡتُبُ مَا قَدَّمُواْ وَءَاثَٰرَهُمۡۚ وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ فِيٓ إِمَامٖ مُّبِينٖ",
+  "translation": "Dájúdájú Àwa l’À ń sọ àwọn òkú di alàyè. A sì ń ṣe àkọsílẹ̀ ohun tí wọ́n tì síwájú àti orípa (iṣẹ́ ọwọ́) wọn. Gbogbo n̄ǹkan ni A ṣe àkọsílẹ̀ rẹ̀ sínú tírà kan tó yanjú.",
+  "footnotes": ""
 }

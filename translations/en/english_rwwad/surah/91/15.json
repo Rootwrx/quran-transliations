@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6058",
-    "sura": "91",
-    "aya": "15",
-    "arabic_text": "وَلَا يَخَافُ عُقۡبَٰهَا",
-    "translation": "And He has no fear of the consequences thereof[7].",
-    "footnotes": "[7] Allah is not asked for what He does, but His slaves will be asked. See 21:23"
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 595,
+  "verse_key": "91:15",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَخَافُ عُقۡبَٰهَا",
+  "translation": "And He has no fear of the consequences thereof[7].",
+  "footnotes": "[7] Allah is not asked for what He does, but His slaves will be asked. See 21:23"
 }

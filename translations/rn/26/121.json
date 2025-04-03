@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3053",
-    "sura": "26",
-    "aya": "121",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
-    "translation": "Mu vy’ukuri, mu nkuru ya Nuhu n’ihonywa ry’abamugararije, ni ukuri harimwo inkebuzo ku bantu. Hamwe n’ivyo rero, abenshi mu bashikiriwe n’iyo nkuru, ntibahavuye bemera Imana Allah n’Intumwa zayo ngo bubahirize n’amabwirizwa yayo.",
-    "footnotes": ""
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 372,
+  "verse_key": "26:121",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+  "translation": "Mu vy’ukuri, mu nkuru ya Nuhu n’ihonywa ry’abamugararije, ni ukuri harimwo inkebuzo ku bantu. Hamwe n’ivyo rero, abenshi mu bashikiriwe n’iyo nkuru, ntibahavuye bemera Imana Allah n’Intumwa zayo ngo bubahirize n’amabwirizwa yayo.",
+  "footnotes": ""
 }

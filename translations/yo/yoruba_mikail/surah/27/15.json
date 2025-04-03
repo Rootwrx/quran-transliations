@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3174",
-    "sura": "27",
-    "aya": "15",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا دَاوُۥدَ وَسُلَيۡمَٰنَ عِلۡمٗاۖ وَقَالَا ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي فَضَّلَنَا عَلَىٰ كَثِيرٖ مِّنۡ عِبَادِهِ ٱلۡمُؤۡمِنِينَ",
-    "translation": "Dájúdájú A fún (Ànábì) Dāwūd àti (Ànábì) Sulaemọ̄n ní ìmọ̀. Àwọn méjèèjì sì sọ pé: “Gbogbo ẹyìn ń jẹ́ ti Allāhu, Ẹni tí Ó fún wa ní oore àjùlọ lórí ọ̀pọ̀lọ́pọ̀ nínú àwọn ẹrúsìn Rẹ̀, àwọn onígbàgbọ́ òdodo.”",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 378,
+  "verse_key": "27:15",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا دَاوُۥدَ وَسُلَيۡمَٰنَ عِلۡمٗاۖ وَقَالَا ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي فَضَّلَنَا عَلَىٰ كَثِيرٖ مِّنۡ عِبَادِهِ ٱلۡمُؤۡمِنِينَ",
+  "translation": "Dájúdájú A fún (Ànábì) Dāwūd àti (Ànábì) Sulaemọ̄n ní ìmọ̀. Àwọn méjèèjì sì sọ pé: “Gbogbo ẹyìn ń jẹ́ ti Allāhu, Ẹni tí Ó fún wa ní oore àjùlọ lórí ọ̀pọ̀lọ́pọ̀ nínú àwọn ẹrúsìn Rẹ̀, àwọn onígbàgbọ́ òdodo.”",
+  "footnotes": ""
 }

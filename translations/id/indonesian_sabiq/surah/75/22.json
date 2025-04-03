@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5573",
-    "sura": "75",
-    "aya": "22",
-    "arabic_text": "وُجُوهٞ يَوۡمَئِذٖ نَّاضِرَةٌ",
-    "translation": "22. Wajah-wajah (orang mukmin) pada hari itu berseri-seri.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 578,
+  "verse_key": "75:22",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وُجُوهٞ يَوۡمَئِذٖ نَّاضِرَةٌ",
+  "translation": "22. Wajah-wajah (orang mukmin) pada hari itu berseri-seri.",
+  "footnotes": ""
 }

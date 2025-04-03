@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "450",
-    "sura": "3",
-    "aya": "157",
-    "arabic_text": "وَلَئِن قُتِلۡتُمۡ فِي سَبِيلِ ٱللَّهِ أَوۡ مُتُّمۡ لَمَغۡفِرَةٞ مِّنَ ٱللَّهِ وَرَحۡمَةٌ خَيۡرٞ مِّمَّا يَجۡمَعُونَ",
-    "translation": "Na pindi mkiuliwa katika Njia ya Mwenyezi Mungu, au mkifa, hakika maghfira na rehema zitokazo kwa Mwenyezi Mungu ni bora kuliko yote wanayo yakusanya.",
-    "footnotes": "Na mkiuwawa katika Jihadi au mkafa wakati huo, basi hayo hakika ni kupata maghfira ya Mwenyezi Mungu kufutiwa dhambi zenu, na kupata rehema itokayo kwake. Hayo ni bora kuliko starehe za dunia ambazo mnge zikusanya lau mngeli bakia."
-  }
+  "id": 157,
+  "verse_number": 157,
+  "page_number": 70,
+  "verse_key": "3:157",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِن قُتِلۡتُمۡ فِي سَبِيلِ ٱللَّهِ أَوۡ مُتُّمۡ لَمَغۡفِرَةٞ مِّنَ ٱللَّهِ وَرَحۡمَةٌ خَيۡرٞ مِّمَّا يَجۡمَعُونَ",
+  "translation": "Na pindi mkiuliwa katika Njia ya Mwenyezi Mungu, au mkifa, hakika maghfira na rehema zitokazo kwa Mwenyezi Mungu ni bora kuliko yote wanayo yakusanya.",
+  "footnotes": "Na mkiuwawa katika Jihadi au mkafa wakati huo, basi hayo hakika ni kupata maghfira ya Mwenyezi Mungu kufutiwa dhambi zenu, na kupata rehema itokayo kwake. Hayo ni bora kuliko starehe za dunia ambazo mnge zikusanya lau mngeli bakia."
 }

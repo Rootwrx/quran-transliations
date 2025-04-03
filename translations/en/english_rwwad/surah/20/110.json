@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2458",
-    "sura": "20",
-    "aya": "110",
-    "arabic_text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يُحِيطُونَ بِهِۦ عِلۡمٗا",
-    "translation": "He knows all that is ahead of them and all that is behind them[38], but they do not encompass it[39] with their knowledge.",
-    "footnotes": "[38] i.e., what awaits them in the Hereafter and what they did in the world.\n [39] i.e., His knowledge."
-  }
+  "id": 110,
+  "verse_number": 110,
+  "page_number": 319,
+  "verse_key": "20:110",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يُحِيطُونَ بِهِۦ عِلۡمٗا",
+  "translation": "He knows all that is ahead of them and all that is behind them[38], but they do not encompass it[39] with their knowledge.",
+  "footnotes": "[38] i.e., what awaits them in the Hereafter and what they did in the world.\n [39] i.e., His knowledge."
 }

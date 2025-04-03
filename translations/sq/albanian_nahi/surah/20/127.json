@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2475",
-    "sura": "20",
-    "aya": "127",
-    "arabic_text": "وَكَذَٰلِكَ نَجۡزِي مَنۡ أَسۡرَفَ وَلَمۡ يُؤۡمِنۢ بِـَٔايَٰتِ رَبِّهِۦۚ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَدُّ وَأَبۡقَىٰٓ",
-    "translation": "Kështu e ndëshkojmë Ne atë që e tepron (me gjynahe) dhe nuk beson shenjat e Zotit të tij; e dënimi në jetën tjetër, në të vërtetë, është më i ashpër dhe më i qëndrueshëm.",
-    "footnotes": ""
-  }
+  "id": 127,
+  "verse_number": 127,
+  "page_number": 321,
+  "verse_key": "20:127",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ نَجۡزِي مَنۡ أَسۡرَفَ وَلَمۡ يُؤۡمِنۢ بِـَٔايَٰتِ رَبِّهِۦۚ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَدُّ وَأَبۡقَىٰٓ",
+  "translation": "Kështu e ndëshkojmë Ne atë që e tepron (me gjynahe) dhe nuk beson shenjat e Zotit të tij; e dënimi në jetën tjetër, në të vërtetë, është më i ashpër dhe më i qëndrueshëm.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2634",
-    "sura": "22",
-    "aya": "39",
-    "arabic_text": "أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمۡ ظُلِمُواْۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصۡرِهِمۡ لَقَدِيرٌ",
-    "translation": "(Abemeramana) bahawe uburenganzira bwo kwirwanaho igihe batewe kubera ko barenganyijwe, kandi rwose Allah ashobora kubatabara;[1]",
-    "footnotes": "[1] Mu bihe bya mbere, Abayisilamu bari babujijwe kurwanya abahakanyi, ahubwo bategetswe kwihanganira itotezwa bakorerwaga. Nyuma y’aho iryo totezwa rimaze gufatira indi ntera, ndetse na nyuma y’uko Intumwa Muhamadi yimukiye i Madina n’Ubuyisilamu bumaze gukomera, Allah yahishuye uyu murongo uha Abayisilamu uburenganzira bwo kwirwanaho."
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 337,
+  "verse_key": "22:39",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُذِنَ لِلَّذِينَ يُقَٰتَلُونَ بِأَنَّهُمۡ ظُلِمُواْۚ وَإِنَّ ٱللَّهَ عَلَىٰ نَصۡرِهِمۡ لَقَدِيرٌ",
+  "translation": "(Abemeramana) bahawe uburenganzira bwo kwirwanaho igihe batewe kubera ko barenganyijwe, kandi rwose Allah ashobora kubatabara;[1]",
+  "footnotes": "[1] Mu bihe bya mbere, Abayisilamu bari babujijwe kurwanya abahakanyi, ahubwo bategetswe kwihanganira itotezwa bakorerwaga. Nyuma y’aho iryo totezwa rimaze gufatira indi ntera, ndetse na nyuma y’uko Intumwa Muhamadi yimukiye i Madina n’Ubuyisilamu bumaze gukomera, Allah yahishuye uyu murongo uha Abayisilamu uburenganzira bwo kwirwanaho."
 }

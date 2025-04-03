@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2019",
-    "sura": "16",
-    "aya": "118",
-    "arabic_text": "وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا مَا قَصَصۡنَا عَلَيۡكَ مِن قَبۡلُۖ وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
-    "translation": "Ntumwa y’Imana! Twebwe Allah Twaranaziririje ku bayahudi gusa ivyo Twamaze kukudondagurira[346], ntitwigeze rero Tubarenganya namba muri iryo ziririza, ariko ni bo birenganije mu bugarariji, maze Tubahanisha iryo ziririza.",
-    "footnotes": "[346] Ivyaziririjwe ku bayahudi, ni ico ari co cose mu bikoko gifise ibinono bidasatuye, ibinure vy’inka canke intungwa, kiretse ibinure bisanzwe biri mu nyama canke umusokoro uri mu magufa."
-  }
+  "id": 118,
+  "verse_number": 118,
+  "page_number": 280,
+  "verse_key": "16:118",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا مَا قَصَصۡنَا عَلَيۡكَ مِن قَبۡلُۖ وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+  "translation": "Ntumwa y’Imana! Twebwe Allah Twaranaziririje ku bayahudi gusa ivyo Twamaze kukudondagurira[346], ntitwigeze rero Tubarenganya namba muri iryo ziririza, ariko ni bo birenganije mu bugarariji, maze Tubahanisha iryo ziririza.",
+  "footnotes": "[346] Ivyaziririjwe ku bayahudi, ni ico ari co cose mu bikoko gifise ibinono bidasatuye, ibinure vy’inka canke intungwa, kiretse ibinure bisanzwe biri mu nyama canke umusokoro uri mu magufa."
 }

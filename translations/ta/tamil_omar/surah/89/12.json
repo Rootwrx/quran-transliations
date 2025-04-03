@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6005",
-    "sura": "89",
-    "aya": "12",
-    "arabic_text": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ",
-    "translation": "ஆக, அவர்கள் அவற்றில் விஷமத்தை (-மக்கள் மீது அநீதி செய்வதை) அதிகப்படுத்தினர்.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 593,
+  "verse_key": "89:12",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَكۡثَرُواْ فِيهَا ٱلۡفَسَادَ",
+  "translation": "ஆக, அவர்கள் அவற்றில் விஷமத்தை (-மக்கள் மீது அநீதி செய்வதை) அதிகப்படுத்தினர்.",
+  "footnotes": ""
 }

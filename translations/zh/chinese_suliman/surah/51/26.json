@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4701",
-    "sura": "51",
-    "aya": "26",
-    "arabic_text": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
-    "translation": "于是他悄悄地走到他的家属那里，拿来一头肥嫩的牛犊，",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 521,
+  "verse_key": "51:26",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
+  "translation": "于是他悄悄地走到他的家属那里，拿来一头肥嫩的牛犊，",
+  "footnotes": ""
 }

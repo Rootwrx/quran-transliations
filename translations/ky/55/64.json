@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4965",
-    "sura": "55",
-    "aya": "64",
-    "arabic_text": "مُدۡهَآمَّتَانِ",
-    "translation": "Эки (күмүш) бейиш тең жашыл түстө.",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 533,
+  "verse_key": "55:64",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مُدۡهَآمَّتَانِ",
+  "translation": "Эки (күмүш) бейиш тең жашыл түстө.",
+  "footnotes": ""
 }

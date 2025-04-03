@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "210",
-    "sura": "2",
-    "aya": "203",
-    "arabic_text": "۞ وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ ٱتَّقَىٰۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ",
-    "translation": "203. Moominiiney dago Ayrooray ixxu-le (Qarfâ Qiidik lakal tan Sidiica Ayro kinnuk) Yalla cusa, tokkel yisissikeeh mina deqsita Aracak Namma Ayroh Addat (taban kee Nammey haytoh Ayro kinnuk) Ayro kortak Naharat jamaraat deqsita Aracat xeet Qideek lakal yewqe numul toysa dambi mayan, Qerfah Alsak taban kee Sidoc haytoh Ayro jamaraat deqsita Aracat xeet hayya haam fanah minai elle wadirroowe numul toysa dambi mayan, cajjil Yalli kaa как waaseh yaniimik Yallak meesiteh yan numul, moominiiney isin Abba haytaanamal inkih Yallak meesitaay Diggah isin cisab kee galtoh kay foocal maagowtoonu waytaanam ixiga Qhiyaamah Ayró.",
-    "footnotes": ""
-  }
+  "id": 203,
+  "verse_number": 203,
+  "page_number": 32,
+  "verse_key": "2:203",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ ٱتَّقَىٰۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ",
+  "translation": "203. Moominiiney dago Ayrooray ixxu-le (Qarfâ Qiidik lakal tan Sidiica Ayro kinnuk) Yalla cusa, tokkel yisissikeeh mina deqsita Aracak Namma Ayroh Addat (taban kee Nammey haytoh Ayro kinnuk) Ayro kortak Naharat jamaraat deqsita Aracat xeet Qideek lakal yewqe numul toysa dambi mayan, Qerfah Alsak taban kee Sidoc haytoh Ayro jamaraat deqsita Aracat xeet hayya haam fanah minai elle wadirroowe numul toysa dambi mayan, cajjil Yalli kaa как waaseh yaniimik Yallak meesiteh yan numul, moominiiney isin Abba haytaanamal inkih Yallak meesitaay Diggah isin cisab kee galtoh kay foocal maagowtoonu waytaanam ixiga Qhiyaamah Ayró.",
+  "footnotes": ""
 }

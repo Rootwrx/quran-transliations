@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "234",
-    "sura": "2",
-    "aya": "227",
-    "arabic_text": "وَإِنۡ عَزَمُواْ ٱلطَّلَٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
-    "translation": "Na wakiazimia kuwapa talaka basi, Mwenyezi Mungu ni Mwenye kusikia na Mjuzi.",
-    "footnotes": "Na ikiwa hawakuwaingilia wake zao katika muda huu inakuwa hayo ni madhara kwa mwanamke. Basi hapana ila t'alaka tu. Na Mwenyezi Mungu ni Mwenye kuzisikia yamini zao, na Mwenye kuzijua hali zao, na atawahisabu kwa hayo Siku ya Kiyama."
-  }
+  "id": 227,
+  "verse_number": 227,
+  "page_number": 36,
+  "verse_key": "2:227",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 14,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنۡ عَزَمُواْ ٱلطَّلَٰقَ فَإِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+  "translation": "Na wakiazimia kuwapa talaka basi, Mwenyezi Mungu ni Mwenye kusikia na Mjuzi.",
+  "footnotes": "Na ikiwa hawakuwaingilia wake zao katika muda huu inakuwa hayo ni madhara kwa mwanamke. Basi hapana ila t'alaka tu. Na Mwenyezi Mungu ni Mwenye kuzisikia yamini zao, na Mwenye kuzijua hali zao, na atawahisabu kwa hayo Siku ya Kiyama."
 }

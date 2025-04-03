@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6088",
-    "sura": "93",
-    "aya": "9",
-    "arabic_text": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ",
-    "translation": "కాబట్టి నీవు అనాథుల పట్ల కఠినంగా ప్రవర్తించకు;",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 596,
+  "verse_key": "93:9",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ",
+  "translation": "కాబట్టి నీవు అనాథుల పట్ల కఠినంగా ప్రవర్తించకు;",
+  "footnotes": ""
 }

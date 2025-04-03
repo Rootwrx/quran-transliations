@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "396",
-    "sura": "3",
-    "aya": "103",
-    "arabic_text": "وَٱعۡتَصِمُواْ بِحَبۡلِ ٱللَّهِ جَمِيعٗا وَلَا تَفَرَّقُواْۚ وَٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ كُنتُمۡ أَعۡدَآءٗ فَأَلَّفَ بَيۡنَ قُلُوبِكُمۡ فَأَصۡبَحۡتُم بِنِعۡمَتِهِۦٓ إِخۡوَٰنٗا وَكُنتُمۡ عَلَىٰ شَفَا حُفۡرَةٖ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنۡهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَهۡتَدُونَ",
-    "translation": "Mangunyapit kayo sa lubid ni Allāh[11] nang lahatan at huwag kayong magkahati-hati. Mag-alaala kayo sa biyaya ni Allāh sa inyo yayamang kayo noon ay magkakaaway at nagbuklod Siya sa pagitan ng mga puso ninyo kaya kayo dahil sa biyaya Niya ay naging magkakapatid. Kayo noon ay nasa isang bingit ng isang hukay ng Apoy[12] ngunit sumagip siya sa inyo mula roon. Gayon naglilinaw si Allāh para sa inyo ng mga tanda Niya, nang sa gayon kayo ay mapapatnubayan.",
-    "footnotes": "[11] Ibig sabihin: sa Qur’an at Sunnah.\n[12] dahil sa kawalang-pananampalataya"
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 63,
+  "verse_key": "3:103",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱعۡتَصِمُواْ بِحَبۡلِ ٱللَّهِ جَمِيعٗا وَلَا تَفَرَّقُواْۚ وَٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ كُنتُمۡ أَعۡدَآءٗ فَأَلَّفَ بَيۡنَ قُلُوبِكُمۡ فَأَصۡبَحۡتُم بِنِعۡمَتِهِۦٓ إِخۡوَٰنٗا وَكُنتُمۡ عَلَىٰ شَفَا حُفۡرَةٖ مِّنَ ٱلنَّارِ فَأَنقَذَكُم مِّنۡهَاۗ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَهۡتَدُونَ",
+  "translation": "Mangunyapit kayo sa lubid ni Allāh[11] nang lahatan at huwag kayong magkahati-hati. Mag-alaala kayo sa biyaya ni Allāh sa inyo yayamang kayo noon ay magkakaaway at nagbuklod Siya sa pagitan ng mga puso ninyo kaya kayo dahil sa biyaya Niya ay naging magkakapatid. Kayo noon ay nasa isang bingit ng isang hukay ng Apoy[12] ngunit sumagip siya sa inyo mula roon. Gayon naglilinaw si Allāh para sa inyo ng mga tanda Niya, nang sa gayon kayo ay mapapatnubayan.",
+  "footnotes": "[11] Ibig sabihin: sa Qur’an at Sunnah.\n[12] dahil sa kawalang-pananampalataya"
 }

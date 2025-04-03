@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3011",
-    "sura": "26",
-    "aya": "79",
-    "arabic_text": "وَٱلَّذِي هُوَ يُطۡعِمُنِي وَيَسۡقِينِ",
-    "translation": "79਼ ਉਹੀਓ ਮੈਨੂੰ ਖੁਆਉਂਦਾ-ਪਿਆਉਂਦਾ ਹੈ।",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 370,
+  "verse_key": "26:79",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِي هُوَ يُطۡعِمُنِي وَيَسۡقِينِ",
+  "translation": "79਼ ਉਹੀਓ ਮੈਨੂੰ ਖੁਆਉਂਦਾ-ਪਿਆਉਂਦਾ ਹੈ।",
+  "footnotes": ""
 }

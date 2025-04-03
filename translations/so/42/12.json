@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4284",
-    "sura": "42",
-    "aya": "12",
-    "arabic_text": "لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ إِنَّهُۥ بِكُلِّ شَيۡءٍ عَلِيمٞ",
-    "translation": "12. (Alle) baa iska leh khaznadaha samooyinka iyo arlada, wuxuu u waasiciyaa risiqa qofkuu doono oo ku cidhiidhiyaa (qofkuu doono), wax walbana (Alle) wuu Og yahay.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 484,
+  "verse_key": "42:12",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَهُۥ مَقَالِيدُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ إِنَّهُۥ بِكُلِّ شَيۡءٍ عَلِيمٞ",
+  "translation": "12. (Alle) baa iska leh khaznadaha samooyinka iyo arlada, wuxuu u waasiciyaa risiqa qofkuu doono oo ku cidhiidhiyaa (qofkuu doono), wax walbana (Alle) wuu Og yahay.",
+  "footnotes": ""
 }

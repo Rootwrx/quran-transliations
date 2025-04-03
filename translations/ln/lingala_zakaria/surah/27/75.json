@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3234",
-    "sura": "27",
-    "aya": "75",
-    "arabic_text": "وَمَا مِنۡ غَآئِبَةٖ فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِلَّا فِي كِتَٰبٖ مُّبِينٍ",
-    "translation": "75. Mpe eloko moko te ebombami o kati ya likolo na mabele sé ekomama o kati ya buku ya polele.",
-    "footnotes": ""
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 383,
+  "verse_key": "27:75",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا مِنۡ غَآئِبَةٖ فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِلَّا فِي كِتَٰبٖ مُّبِينٍ",
+  "translation": "75. Mpe eloko moko te ebombami o kati ya likolo na mabele sé ekomama o kati ya buku ya polele.",
+  "footnotes": ""
 }

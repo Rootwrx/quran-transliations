@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4660",
-    "sura": "50",
-    "aya": "30",
-    "arabic_text": "يَوۡمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمۡتَلَأۡتِ وَتَقُولُ هَلۡ مِن مَّزِيدٖ",
-    "translation": "30. Tą Dieną Mes pasakysime Pragarui: „Ar jau prisipildei?“ Ir jis atsakys: „Ar yra daugiau?“",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 519,
+  "verse_key": "50:30",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ نَقُولُ لِجَهَنَّمَ هَلِ ٱمۡتَلَأۡتِ وَتَقُولُ هَلۡ مِن مَّزِيدٖ",
+  "translation": "30. Tą Dieną Mes pasakysime Pragarui: „Ar jau prisipildei?“ Ir jis atsakys: „Ar yra daugiau?“",
+  "footnotes": ""
 }

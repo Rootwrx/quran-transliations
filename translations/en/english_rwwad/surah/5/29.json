@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "698",
-    "sura": "5",
-    "aya": "29",
-    "arabic_text": "إِنِّيٓ أُرِيدُ أَن تَبُوٓأَ بِإِثۡمِي وَإِثۡمِكَ فَتَكُونَ مِنۡ أَصۡحَٰبِ ٱلنَّارِۚ وَذَٰلِكَ جَزَٰٓؤُاْ ٱلظَّٰلِمِينَ",
-    "translation": "I would rather let you bear your sin against me[26] and your own sin, and thus you will be one of the people of the Fire; such is the recompense of the wrongdoers.”",
-    "footnotes": "[26] The sin of killing me."
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 112,
+  "verse_key": "5:29",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 45,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنِّيٓ أُرِيدُ أَن تَبُوٓأَ بِإِثۡمِي وَإِثۡمِكَ فَتَكُونَ مِنۡ أَصۡحَٰبِ ٱلنَّارِۚ وَذَٰلِكَ جَزَٰٓؤُاْ ٱلظَّٰلِمِينَ",
+  "translation": "I would rather let you bear your sin against me[26] and your own sin, and thus you will be one of the people of the Fire; such is the recompense of the wrongdoers.”",
+  "footnotes": "[26] The sin of killing me."
 }

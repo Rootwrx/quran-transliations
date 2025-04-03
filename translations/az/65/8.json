@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5225",
-    "sura": "65",
-    "aya": "8",
-    "arabic_text": "وَكَأَيِّن مِّن قَرۡيَةٍ عَتَتۡ عَنۡ أَمۡرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبۡنَٰهَا حِسَابٗا شَدِيدٗا وَعَذَّبۡنَٰهَا عَذَابٗا نُّكۡرٗا",
-    "translation": "Neçə-neçə məmləkət əhli öz Rəbbinin və Onun elçilərinin əmrinə asi oldu. Biz də onları şiddətli haqq-hesaba çəkib dəhşətli əzaba düçar etdik.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 559,
+  "verse_key": "65:8",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 223,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَأَيِّن مِّن قَرۡيَةٍ عَتَتۡ عَنۡ أَمۡرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبۡنَٰهَا حِسَابٗا شَدِيدٗا وَعَذَّبۡنَٰهَا عَذَابٗا نُّكۡرٗا",
+  "translation": "Neçə-neçə məmləkət əhli öz Rəbbinin və Onun elçilərinin əmrinə asi oldu. Biz də onları şiddətli haqq-hesaba çəkib dəhşətli əzaba düçar etdik.",
+  "footnotes": ""
 }

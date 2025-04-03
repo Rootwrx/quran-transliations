@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3492",
-    "sura": "31",
-    "aya": "23",
-    "arabic_text": "وَمَن كَفَرَ فَلَا يَحۡزُنكَ كُفۡرُهُۥٓۚ إِلَيۡنَا مَرۡجِعُهُمۡ فَنُنَبِّئُهُم بِمَا عَمِلُوٓاْۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
-    "translation": "Na anaye kufuru, isikuhuzunishe kufuru yake. Kwetu ndio marudio yao, na hapo tutawaambia waliyo yatenda. Hakika Mwenyezi Mungu ni Mjuzi wa yaliyomo vifuani.",
-    "footnotes": "Na asiye mtakasia Mwenyezi Mungu dhati yake na nafsi yake, basi usikuhuzunishe upinzani wake na mapuuza yake. Kwetu Sisi peke yetu ndio marejeo yao Siku ya Kiyama. Hapo tutawaonyesha vitendo vyao. Kwani Sisi tumezunguka kwa kuvijua viliomo ndani ya nafsi zao, seuze vitendo vyao vya dhaahiri."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 413,
+  "verse_key": "31:23",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن كَفَرَ فَلَا يَحۡزُنكَ كُفۡرُهُۥٓۚ إِلَيۡنَا مَرۡجِعُهُمۡ فَنُنَبِّئُهُم بِمَا عَمِلُوٓاْۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "translation": "Na anaye kufuru, isikuhuzunishe kufuru yake. Kwetu ndio marudio yao, na hapo tutawaambia waliyo yatenda. Hakika Mwenyezi Mungu ni Mjuzi wa yaliyomo vifuani.",
+  "footnotes": "Na asiye mtakasia Mwenyezi Mungu dhati yake na nafsi yake, basi usikuhuzunishe upinzani wake na mapuuza yake. Kwetu Sisi peke yetu ndio marejeo yao Siku ya Kiyama. Hapo tutawaonyesha vitendo vyao. Kwani Sisi tumezunguka kwa kuvijua viliomo ndani ya nafsi zao, seuze vitendo vyao vya dhaahiri."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2986",
-    "sura": "26",
-    "aya": "54",
-    "arabic_text": "إِنَّ هَٰٓؤُلَآءِ لَشِرۡذِمَةٞ قَلِيلُونَ",
-    "translation": "(54) [And said], \"Indeed, those are but a small band,",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 369,
+  "verse_key": "26:54",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰٓؤُلَآءِ لَشِرۡذِمَةٞ قَلِيلُونَ",
+  "translation": "(54) [And said], \"Indeed, those are but a small band,",
+  "footnotes": ""
 }

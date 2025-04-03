@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6032",
-    "sura": "90",
-    "aya": "9",
-    "arabic_text": "وَلِسَانٗا وَشَفَتَيۡنِ",
-    "translation": "dan lidah dan sepasang bibir?",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 594,
+  "verse_key": "90:9",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِسَانٗا وَشَفَتَيۡنِ",
+  "translation": "dan lidah dan sepasang bibir?",
+  "footnotes": ""
 }

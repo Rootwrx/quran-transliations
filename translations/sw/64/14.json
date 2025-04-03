@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5213",
-    "sura": "64",
-    "aya": "14",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ مِنۡ أَزۡوَٰجِكُمۡ وَأَوۡلَٰدِكُمۡ عَدُوّٗا لَّكُمۡ فَٱحۡذَرُوهُمۡۚ وَإِن تَعۡفُواْ وَتَصۡفَحُواْ وَتَغۡفِرُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
-    "translation": "Enyi mlio amini! Hakika miongoni mwa wake zenu na watoto wenu wamo maadui zenu. Basi tahadharini nao. Na mkisamehe, na mkapuuza, na mkaghufiria basi hakika Mwenyezi Mungu ni Mwingi wa maghfira, Mwenye kurehemu.",
-    "footnotes": "Enyi mlio amini! Hakika miongoni mwa wake zenu na watoto wenu wamo maadui zenu, ambao wanakuzuilieni msimt'ii Mwenyezi Mungu kwa kutaka kuwatimizia hao matakwa yao. Basi kuweni na hadhari nao. Na mkiweza kuyavuka makosa yao yanayo kubalika kusameheka, na mkayapuuza, na mkawafichia, basi Mwenyezi Mungu naye atakughufirieni nyinyi. Kwani hakika Mwenyezi Mungu ni Mkunjufu wa maghfira na rehema."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 557,
+  "verse_key": "64:14",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ مِنۡ أَزۡوَٰجِكُمۡ وَأَوۡلَٰدِكُمۡ عَدُوّٗا لَّكُمۡ فَٱحۡذَرُوهُمۡۚ وَإِن تَعۡفُواْ وَتَصۡفَحُواْ وَتَغۡفِرُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+  "translation": "Enyi mlio amini! Hakika miongoni mwa wake zenu na watoto wenu wamo maadui zenu. Basi tahadharini nao. Na mkisamehe, na mkapuuza, na mkaghufiria basi hakika Mwenyezi Mungu ni Mwingi wa maghfira, Mwenye kurehemu.",
+  "footnotes": "Enyi mlio amini! Hakika miongoni mwa wake zenu na watoto wenu wamo maadui zenu, ambao wanakuzuilieni msimt'ii Mwenyezi Mungu kwa kutaka kuwatimizia hao matakwa yao. Basi kuweni na hadhari nao. Na mkiweza kuyavuka makosa yao yanayo kubalika kusameheka, na mkayapuuza, na mkawafichia, basi Mwenyezi Mungu naye atakughufirieni nyinyi. Kwani hakika Mwenyezi Mungu ni Mkunjufu wa maghfira na rehema."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "123",
-    "sura": "2",
-    "aya": "116",
-    "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ بَل لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
-    "translation": "Na ati wanasema: Mwenyezi Mungu ana mwana. Subhanahu! Ametakasika na hayo. Bali vyote viliomo mbinguni na duniani ni vyake. Vyote vinamt'ii Yeye.",
-    "footnotes": "Basi huyo ambaye mambo yake ni kama hivi, na vyote viliomo ulimwenguni vinat'ii amri yake, vinanyenyekea kwa atakalo, basi Yeye huyo yuko juu mno, na mtukufu mno hata hahitajii kuwa na dhuriya au kujipa wana, kama wanavyo zua hawa Mayahudi na Wakristo na washirikina mapagani."
-  }
+  "id": 116,
+  "verse_number": 116,
+  "page_number": 18,
+  "verse_key": "2:116",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ بَل لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
+  "translation": "Na ati wanasema: Mwenyezi Mungu ana mwana. Subhanahu! Ametakasika na hayo. Bali vyote viliomo mbinguni na duniani ni vyake. Vyote vinamt'ii Yeye.",
+  "footnotes": "Basi huyo ambaye mambo yake ni kama hivi, na vyote viliomo ulimwenguni vinat'ii amri yake, vinanyenyekea kwa atakalo, basi Yeye huyo yuko juu mno, na mtukufu mno hata hahitajii kuwa na dhuriya au kujipa wana, kama wanavyo zua hawa Mayahudi na Wakristo na washirikina mapagani."
 }

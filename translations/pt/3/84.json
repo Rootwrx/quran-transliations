@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "377",
-    "sura": "3",
-    "aya": "84",
-    "arabic_text": "قُلۡ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيۡنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبۡرَٰهِيمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَمَآ أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمۡ لَا نُفَرِّقُ بَيۡنَ أَحَدٖ مِّنۡهُمۡ وَنَحۡنُ لَهُۥ مُسۡلِمُونَ",
-    "translation": "Dize: \"Cremos em Allah e no que foi revelado para nós, e no que fora revelado para Abraão e Ismael e Isaque e Jacó e para as tribos; e no que fora concedido a Moisés e a Jesus, e no que fora concedido aos profetas, por seu Senhor. Não fazemos distinção entre nenhum deles. E para Ele somos muçulmanos\".",
-    "footnotes": ""
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 61,
+  "verse_key": "3:84",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ عَلَيۡنَا وَمَآ أُنزِلَ عَلَىٰٓ إِبۡرَٰهِيمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَمَآ أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَٱلنَّبِيُّونَ مِن رَّبِّهِمۡ لَا نُفَرِّقُ بَيۡنَ أَحَدٖ مِّنۡهُمۡ وَنَحۡنُ لَهُۥ مُسۡلِمُونَ",
+  "translation": "Dize: \"Cremos em Allah e no que foi revelado para nós, e no que fora revelado para Abraão e Ismael e Isaque e Jacó e para as tribos; e no que fora concedido a Moisés e a Jesus, e no que fora concedido aos profetas, por seu Senhor. Não fazemos distinção entre nenhum deles. E para Ele somos muçulmanos\".",
+  "footnotes": ""
 }

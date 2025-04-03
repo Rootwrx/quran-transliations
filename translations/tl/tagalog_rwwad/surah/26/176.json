@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3108",
-    "sura": "26",
-    "aya": "176",
-    "arabic_text": "كَذَّبَ أَصۡحَٰبُ لۡـَٔيۡكَةِ ٱلۡمُرۡسَلِينَ",
-    "translation": "Nagpasinungaling ang mga naninirahan sa kasukalan [ng Midyan] sa mga isinugo",
-    "footnotes": ""
-  }
+  "id": 176,
+  "verse_number": 176,
+  "page_number": 374,
+  "verse_key": "26:176",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَّبَ أَصۡحَٰبُ لۡـَٔيۡكَةِ ٱلۡمُرۡسَلِينَ",
+  "translation": "Nagpasinungaling ang mga naninirahan sa kasukalan [ng Midyan] sa mga isinugo",
+  "footnotes": ""
 }

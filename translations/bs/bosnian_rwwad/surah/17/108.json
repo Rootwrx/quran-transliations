@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2137",
-    "sura": "17",
-    "aya": "108",
-    "arabic_text": "وَيَقُولُونَ سُبۡحَٰنَ رَبِّنَآ إِن كَانَ وَعۡدُ رَبِّنَا لَمَفۡعُولٗا",
-    "translation": "i govore: ‘Uzvišen neka je Gospodar naš, obećanje Gospodara našeg se ispunilo!’",
-    "footnotes": ""
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 293,
+  "verse_key": "17:108",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُونَ سُبۡحَٰنَ رَبِّنَآ إِن كَانَ وَعۡدُ رَبِّنَا لَمَفۡعُولٗا",
+  "translation": "i govore: ‘Uzvišen neka je Gospodar naš, obećanje Gospodara našeg se ispunilo!’",
+  "footnotes": ""
 }

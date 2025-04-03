@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1778",
-    "sura": "14",
-    "aya": "28",
-    "arabic_text": "۞ أَلَمۡ تَرَ إِلَى ٱلَّذِينَ بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا وَأَحَلُّواْ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ",
-    "translation": "Did you not see those who exchanged Allah’s blessings with disbelief[20], and led their people to the abode of ruin[21]?",
-    "footnotes": "[20] They met Allah’s blessings with denial instead of gratitude.\n [21] i.e., the Hellfire."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 259,
+  "verse_key": "14:28",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَلَمۡ تَرَ إِلَى ٱلَّذِينَ بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا وَأَحَلُّواْ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ",
+  "translation": "Did you not see those who exchanged Allah’s blessings with disbelief[20], and led their people to the abode of ruin[21]?",
+  "footnotes": "[20] They met Allah’s blessings with denial instead of gratitude.\n [21] i.e., the Hellfire."
 }

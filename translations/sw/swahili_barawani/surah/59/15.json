@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5141",
-    "sura": "59",
-    "aya": "15",
-    "arabic_text": "كَمَثَلِ ٱلَّذِينَ مِن قَبۡلِهِمۡ قَرِيبٗاۖ ذَاقُواْ وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
-    "translation": "Ni kama mfano wa walio kuwa kabla yao hivi karibuni. Walionja uovu wa mambo yao. Nao watapata adhabu iliyo chungu.",
-    "footnotes": "Mfano wa Bani Nnadhir ni kama mfano wa walio kufuru kabla yao karibuni. Hao walionja hapa hapa duniani matokeo ya ukafiri wao na kuvunja kwao mapatano. Na Akhera watapata adhabu ya uchungu mkali."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 547,
+  "verse_key": "59:15",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 219,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَمَثَلِ ٱلَّذِينَ مِن قَبۡلِهِمۡ قَرِيبٗاۖ ذَاقُواْ وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+  "translation": "Ni kama mfano wa walio kuwa kabla yao hivi karibuni. Walionja uovu wa mambo yao. Nao watapata adhabu iliyo chungu.",
+  "footnotes": "Mfano wa Bani Nnadhir ni kama mfano wa walio kufuru kabla yao karibuni. Hao walionja hapa hapa duniani matokeo ya ukafiri wao na kuvunja kwao mapatano. Na Akhera watapata adhabu ya uchungu mkali."
 }

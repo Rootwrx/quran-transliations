@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "403",
-    "sura": "3",
-    "aya": "110",
-    "arabic_text": "كُنتُمۡ خَيۡرَ أُمَّةٍ أُخۡرِجَتۡ لِلنَّاسِ تَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَتَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَتُؤۡمِنُونَ بِٱللَّهِۗ وَلَوۡ ءَامَنَ أَهۡلُ ٱلۡكِتَٰبِ لَكَانَ خَيۡرٗا لَّهُمۚ مِّنۡهُمُ ٱلۡمُؤۡمِنُونَ وَأَكۡثَرُهُمُ ٱلۡفَٰسِقُونَ",
-    "translation": "Bantu mwakurikiye Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah)! Ni mwebwe abeza b’abantu, mukaba na ba kirumara ku bantu; mubwiriza gukora ivyiza vy’ubwoko bwose mukabuza no gukora ibibi vy’ubwoko bwose, mukanemera Imana Allah ukwemera kubonekera mu bikorwa. Iyo rero abahawe Igitabu bemera Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) bakemera na Qor’ani; nk’uko mwemeye, ni ukuri vyari kuba vyiza cane kuri bo mu buzima bwo kw’isi n’ubw’inyuma yo gupfa. Muri bo, harimwo bake bemera ubutumwa bwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) yarungikanwe bakabwubahiriza; hakabamwo rero n’abandi benshi b’ibigaba birenga ku mabwirizwa y’Imana Allah.",
-    "footnotes": ""
-  }
+  "id": 110,
+  "verse_number": 110,
+  "page_number": 64,
+  "verse_key": "3:110",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُنتُمۡ خَيۡرَ أُمَّةٍ أُخۡرِجَتۡ لِلنَّاسِ تَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَتَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَتُؤۡمِنُونَ بِٱللَّهِۗ وَلَوۡ ءَامَنَ أَهۡلُ ٱلۡكِتَٰبِ لَكَانَ خَيۡرٗا لَّهُمۚ مِّنۡهُمُ ٱلۡمُؤۡمِنُونَ وَأَكۡثَرُهُمُ ٱلۡفَٰسِقُونَ",
+  "translation": "Bantu mwakurikiye Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah)! Ni mwebwe abeza b’abantu, mukaba na ba kirumara ku bantu; mubwiriza gukora ivyiza vy’ubwoko bwose mukabuza no gukora ibibi vy’ubwoko bwose, mukanemera Imana Allah ukwemera kubonekera mu bikorwa. Iyo rero abahawe Igitabu bemera Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) bakemera na Qor’ani; nk’uko mwemeye, ni ukuri vyari kuba vyiza cane kuri bo mu buzima bwo kw’isi n’ubw’inyuma yo gupfa. Muri bo, harimwo bake bemera ubutumwa bwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) yarungikanwe bakabwubahiriza; hakabamwo rero n’abandi benshi b’ibigaba birenga ku mabwirizwa y’Imana Allah.",
+  "footnotes": ""
 }

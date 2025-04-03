@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2667",
-    "sura": "22",
-    "aya": "72",
-    "arabic_text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ تَعۡرِفُ فِي وُجُوهِ ٱلَّذِينَ كَفَرُواْ ٱلۡمُنكَرَۖ يَكَادُونَ يَسۡطُونَ بِٱلَّذِينَ يَتۡلُونَ عَلَيۡهِمۡ ءَايَٰتِنَاۗ قُلۡ أَفَأُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكُمُۚ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُواْۖ وَبِئۡسَ ٱلۡمَصِيرُ",
-    "translation": "72 Lorsque Nos versets, parfaitement clairs, leur sont récités, l’horreur est lisible sur les visages des négateurs. Peu s’en faut qu’ils ne se jettent sur ceux qui leur récitent Nos paroles. Dis-leur : « Vous indiquerais-je ce qui est plus en droit de susciter votre horreur ? Le Feu promis par Allah à ceux qui ont rejeté la foi. Et quelle infâme demeure !",
-    "footnotes": ""
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 340,
+  "verse_key": "22:72",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ تَعۡرِفُ فِي وُجُوهِ ٱلَّذِينَ كَفَرُواْ ٱلۡمُنكَرَۖ يَكَادُونَ يَسۡطُونَ بِٱلَّذِينَ يَتۡلُونَ عَلَيۡهِمۡ ءَايَٰتِنَاۗ قُلۡ أَفَأُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكُمُۚ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُواْۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+  "translation": "72 Lorsque Nos versets, parfaitement clairs, leur sont récités, l’horreur est lisible sur les visages des négateurs. Peu s’en faut qu’ils ne se jettent sur ceux qui leur récitent Nos paroles. Dis-leur : « Vous indiquerais-je ce qui est plus en droit de susciter votre horreur ? Le Feu promis par Allah à ceux qui ont rejeté la foi. Et quelle infâme demeure !",
+  "footnotes": ""
 }

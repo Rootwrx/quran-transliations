@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "348",
-    "sura": "3",
-    "aya": "55",
-    "arabic_text": "إِذۡ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُواْ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوۡقَ ٱلَّذِينَ كَفَرُوٓاْ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِۖ ثُمَّ إِلَيَّ مَرۡجِعُكُمۡ فَأَحۡكُمُ بَيۡنَكُمۡ فِيمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
-    "translation": "Igihe Imana Allah Ibwiriye Intumwa Isa Iti: “Jewe mu vy’ukuri, Ndagukura kw’isi Ndakurerure iwanje uri muzima utaragirirwa nabi namba, maze Ndagukize abakugararije, Nongere Mpe abakwemeye bakagukurikira[11] intsinzi yo kunesha abakugararije gushika ku musi w’iherezo ry’isi”. Hanyuma rero ga bantu! Ku musi wo guharurirwa mwese muzogaruka iwanje Jewe Allah, Nshoke Ndabacira urutunganye ku vyo mwahora muhazanako mu vyerekeye Intumwa Isa (nyakugira amahoro y’Imana Allah).",
-    "footnotes": "[11] Mu kwubaha no kwubahiriza idini ryawe, mu kwemanga ibiranga umuzo w’Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah), mu kuyemera no kugendera amabwirizwa y’ubwislamu igihe yarungitswe ku bantu bose."
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 57,
+  "verse_key": "3:55",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَ ٱللَّهُ يَٰعِيسَىٰٓ إِنِّي مُتَوَفِّيكَ وَرَافِعُكَ إِلَيَّ وَمُطَهِّرُكَ مِنَ ٱلَّذِينَ كَفَرُواْ وَجَاعِلُ ٱلَّذِينَ ٱتَّبَعُوكَ فَوۡقَ ٱلَّذِينَ كَفَرُوٓاْ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِۖ ثُمَّ إِلَيَّ مَرۡجِعُكُمۡ فَأَحۡكُمُ بَيۡنَكُمۡ فِيمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+  "translation": "Igihe Imana Allah Ibwiriye Intumwa Isa Iti: “Jewe mu vy’ukuri, Ndagukura kw’isi Ndakurerure iwanje uri muzima utaragirirwa nabi namba, maze Ndagukize abakugararije, Nongere Mpe abakwemeye bakagukurikira[11] intsinzi yo kunesha abakugararije gushika ku musi w’iherezo ry’isi”. Hanyuma rero ga bantu! Ku musi wo guharurirwa mwese muzogaruka iwanje Jewe Allah, Nshoke Ndabacira urutunganye ku vyo mwahora muhazanako mu vyerekeye Intumwa Isa (nyakugira amahoro y’Imana Allah).",
+  "footnotes": "[11] Mu kwubaha no kwubahiriza idini ryawe, mu kwemanga ibiranga umuzo w’Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah), mu kuyemera no kugendera amabwirizwa y’ubwislamu igihe yarungitswe ku bantu bose."
 }

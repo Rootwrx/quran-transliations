@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3446",
-    "sura": "30",
-    "aya": "37",
-    "arabic_text": "أَوَلَمۡ يَرَوۡاْ أَنَّ ٱللَّهَ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
-    "translation": "Mbega ntibamenye ko Imana Allah Ironsa uwo Ishatse mu biremwa vyayo umusesekara w’ibimubeshaho kugira Imugerageze[13], Ikanagerera uwo Ishatse muri vyo kugira Imugerageze[14]! Mu vy’ukuri, muri iryo ronswa ry’umusesekara canke igererwa ry’ibimubeshaho, ni ukuri harimwo ivyemezo ku bemeramana, vyerekana impuhwe n’ubugwaneza vy’Imana Allah.",
-    "footnotes": "[13] Ko ashima inema z’Imana Allah akayisenga ari Imwe Rudende canke ko azihakana akayigarariza mu kuyibangikanya.\n[14] ko yihangana akigumya akabumbwa n’ivyo aronse canke ko ahababuka agata imiragwe ku Mana Allah no ku bantu."
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 408,
+  "verse_key": "30:37",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَلَمۡ يَرَوۡاْ أَنَّ ٱللَّهَ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
+  "translation": "Mbega ntibamenye ko Imana Allah Ironsa uwo Ishatse mu biremwa vyayo umusesekara w’ibimubeshaho kugira Imugerageze[13], Ikanagerera uwo Ishatse muri vyo kugira Imugerageze[14]! Mu vy’ukuri, muri iryo ronswa ry’umusesekara canke igererwa ry’ibimubeshaho, ni ukuri harimwo ivyemezo ku bemeramana, vyerekana impuhwe n’ubugwaneza vy’Imana Allah.",
+  "footnotes": "[13] Ko ashima inema z’Imana Allah akayisenga ari Imwe Rudende canke ko azihakana akayigarariza mu kuyibangikanya.\n[14] ko yihangana akigumya akabumbwa n’ivyo aronse canke ko ahababuka agata imiragwe ku Mana Allah no ku bantu."
 }

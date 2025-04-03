@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4016",
-    "sura": "38",
-    "aya": "46",
-    "arabic_text": "إِنَّآ أَخۡلَصۡنَٰهُم بِخَالِصَةٖ ذِكۡرَى ٱلدَّارِ",
-    "translation": "हमने उन्हें एक खास विशेषता के साथ चुन लिया, जो असल घर (आख़िरत) की याद है।",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 456,
+  "verse_key": "38:46",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَخۡلَصۡنَٰهُم بِخَالِصَةٖ ذِكۡرَى ٱلدَّارِ",
+  "translation": "हमने उन्हें एक खास विशेषता के साथ चुन लिया, जो असल घर (आख़िरत) की याद है।",
+  "footnotes": ""
 }

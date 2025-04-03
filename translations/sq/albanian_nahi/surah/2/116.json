@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "123",
-    "sura": "2",
-    "aya": "116",
-    "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ بَل لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
-    "translation": "Ata thonë: “Allahu ka bërë një fëmijë”. I Lavdishëm dhe i Lartësuar qoftë Ai! Përkundrazi, Atij i përket çdo gjë që gjendet në qiej e në Tokë dhe Atij i nënshtrohet gjithçka.",
-    "footnotes": ""
-  }
+  "id": 116,
+  "verse_number": 116,
+  "page_number": 18,
+  "verse_key": "2:116",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ بَل لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
+  "translation": "Ata thonë: “Allahu ka bërë një fëmijë”. I Lavdishëm dhe i Lartësuar qoftë Ai! Përkundrazi, Atij i përket çdo gjë që gjendet në qiej e në Tokë dhe Atij i nënshtrohet gjithçka.",
+  "footnotes": ""
 }

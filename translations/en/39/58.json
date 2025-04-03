@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4116",
-    "sura": "39",
-    "aya": "58",
-    "arabic_text": "أَوۡ تَقُولَ حِينَ تَرَى ٱلۡعَذَابَ لَوۡ أَنَّ لِي كَرَّةٗ فَأَكُونَ مِنَ ٱلۡمُحۡسِنِينَ",
-    "translation": "(58) Or [lest] it say when it sees the punishment, \"If only I had another turn[1356] so I could be among the doers of good.\"",
-    "footnotes": "[1356]- At worldly life."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 465,
+  "verse_key": "39:58",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ تَقُولَ حِينَ تَرَى ٱلۡعَذَابَ لَوۡ أَنَّ لِي كَرَّةٗ فَأَكُونَ مِنَ ٱلۡمُحۡسِنِينَ",
+  "translation": "(58) Or [lest] it say when it sees the punishment, \"If only I had another turn[1356] so I could be among the doers of good.\"",
+  "footnotes": "[1356]- At worldly life."
 }

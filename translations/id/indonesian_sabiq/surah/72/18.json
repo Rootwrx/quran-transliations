@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5465",
-    "sura": "72",
-    "aya": "18",
-    "arabic_text": "وَأَنَّ ٱلۡمَسَٰجِدَ لِلَّهِ فَلَا تَدۡعُواْ مَعَ ٱللَّهِ أَحَدٗا",
-    "translation": "18. Dan sesungguhnya masjid-masjid itu adalah untuk Allah. Maka janganlah kamu menyembah apa pun di dalamnya selain Allah.",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 573,
+  "verse_key": "72:18",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّ ٱلۡمَسَٰجِدَ لِلَّهِ فَلَا تَدۡعُواْ مَعَ ٱللَّهِ أَحَدٗا",
+  "translation": "18. Dan sesungguhnya masjid-masjid itu adalah untuk Allah. Maka janganlah kamu menyembah apa pun di dalamnya selain Allah.",
+  "footnotes": ""
 }

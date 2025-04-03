@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1657",
-    "sura": "12",
-    "aya": "61",
-    "arabic_text": "قَالُواْ سَنُرَٰوِدُ عَنۡهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ",
-    "translation": "دوى وويل: موږ به يې له پلاره غوښتنه وكړو او خامخا د دې كار كوونكي يو.",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 242,
+  "verse_key": "12:61",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ سَنُرَٰوِدُ عَنۡهُ أَبَاهُ وَإِنَّا لَفَٰعِلُونَ",
+  "translation": "دوى وويل: موږ به يې له پلاره غوښتنه وكړو او خامخا د دې كار كوونكي يو.",
+  "footnotes": ""
 }

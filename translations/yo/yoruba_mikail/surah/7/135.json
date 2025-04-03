@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1089",
-    "sura": "7",
-    "aya": "135",
-    "arabic_text": "فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلرِّجۡزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمۡ يَنكُثُونَ",
-    "translation": "Nígbà tí A gbé ìyà náà kúrò fún wọn fún àkókò kan tí wọn yóò lò (nínú ìṣẹ̀mí wọn), nígbà náà ni wọ́n tún ń yẹ àdéhùn.",
-    "footnotes": ""
-  }
+  "id": 135,
+  "verse_number": 135,
+  "page_number": 166,
+  "verse_key": "7:135",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا كَشَفۡنَا عَنۡهُمُ ٱلرِّجۡزَ إِلَىٰٓ أَجَلٍ هُم بَٰلِغُوهُ إِذَا هُمۡ يَنكُثُونَ",
+  "translation": "Nígbà tí A gbé ìyà náà kúrò fún wọn fún àkókò kan tí wọn yóò lò (nínú ìṣẹ̀mí wọn), nígbà náà ni wọ́n tún ń yẹ àdéhùn.",
+  "footnotes": ""
 }

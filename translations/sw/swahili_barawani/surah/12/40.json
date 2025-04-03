@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1636",
-    "sura": "12",
-    "aya": "40",
-    "arabic_text": "مَا تَعۡبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسۡمَآءٗ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِ أَمَرَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
-    "translation": "Hamuabudu badala yake ila majina tu mliyo yapanga nyinyi na baba zenu. Mwenyezi Mungu hakuyateremshia hayo uthibitisho wowote. Hapana hukumu ila ya Mwenyezi Mungu tu. Yeye ameamrisha msimuabudu yeyote isipo kuwa Yeye tu. Hiyo ndiyo Dini Iliyo Nyooka. Lakini watu wengi hawajui.",
-    "footnotes": "Hamuabudu badala ya Mwenyezi Mungu ila majina tu mliyo yazua nyinyi na baba zenu kwa mawazo bila ya kuwepo kweli. Mwenyezi Mungu hakuwateremshia hao hoja wala ushahidi wowote! Hapana wa kuhukumu nini kinacho faa kuabudiwa na kipi hakifai ila Mwenyezi Mungu tu. Yeye ameamrisha msimnyenyekee yeyote mwenginewe, na mumuabudu Yeye peke yake. Hiyo ndiyo Dini iliyo nzima iliyo nyooka, ambayo dalili zote na ushahidi unaelekea kwake. Lakini aghlabu ya watu hawataki uwongozi wa dalili hizi, wala hawajijui kuwa wamo katika ujinga na upotovu."
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 240,
+  "verse_key": "12:40",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا تَعۡبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسۡمَآءٗ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِ أَمَرَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+  "translation": "Hamuabudu badala yake ila majina tu mliyo yapanga nyinyi na baba zenu. Mwenyezi Mungu hakuyateremshia hayo uthibitisho wowote. Hapana hukumu ila ya Mwenyezi Mungu tu. Yeye ameamrisha msimuabudu yeyote isipo kuwa Yeye tu. Hiyo ndiyo Dini Iliyo Nyooka. Lakini watu wengi hawajui.",
+  "footnotes": "Hamuabudu badala ya Mwenyezi Mungu ila majina tu mliyo yazua nyinyi na baba zenu kwa mawazo bila ya kuwepo kweli. Mwenyezi Mungu hakuwateremshia hao hoja wala ushahidi wowote! Hapana wa kuhukumu nini kinacho faa kuabudiwa na kipi hakifai ila Mwenyezi Mungu tu. Yeye ameamrisha msimnyenyekee yeyote mwenginewe, na mumuabudu Yeye peke yake. Hiyo ndiyo Dini iliyo nzima iliyo nyooka, ambayo dalili zote na ushahidi unaelekea kwake. Lakini aghlabu ya watu hawataki uwongozi wa dalili hizi, wala hawajijui kuwa wamo katika ujinga na upotovu."
 }

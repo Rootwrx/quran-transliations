@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "77",
-    "sura": "2",
-    "aya": "70",
-    "arabic_text": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ إِنَّ ٱلۡبَقَرَ تَشَٰبَهَ عَلَيۡنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهۡتَدُونَ",
-    "translation": "Nagsabi sila: “Dumalangin ka para amin sa Panginoon mo, magpapalinaw Siya para sa amin kung ano ito; tunay na ang mga baka ay nagkahawigan sa amin. Tunay na kami, kung niloob ni Allāh, ay talagang mga mapapatnubayan [tungo sa bakang kakatayin].”",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 11,
+  "verse_key": "2:70",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ إِنَّ ٱلۡبَقَرَ تَشَٰبَهَ عَلَيۡنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهۡتَدُونَ",
+  "translation": "Nagsabi sila: “Dumalangin ka para amin sa Panginoon mo, magpapalinaw Siya para sa amin kung ano ito; tunay na ang mga baka ay nagkahawigan sa amin. Tunay na kami, kung niloob ni Allāh, ay talagang mga mapapatnubayan [tungo sa bakang kakatayin].”",
+  "footnotes": ""
 }

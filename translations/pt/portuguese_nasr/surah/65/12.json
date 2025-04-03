@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5229",
-    "sura": "65",
-    "aya": "12",
-    "arabic_text": "ٱللَّهُ ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتٖ وَمِنَ ٱلۡأَرۡضِ مِثۡلَهُنَّۖ يَتَنَزَّلُ ٱلۡأَمۡرُ بَيۡنَهُنَّ لِتَعۡلَمُوٓاْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ وَأَنَّ ٱللَّهَ قَدۡ أَحَاطَ بِكُلِّ شَيۡءٍ عِلۡمَۢا",
-    "translation": "Allah é Quem criou sete céus, e da terra, outras tantas, entre as quais a ordem desce, para que saibais que Allah, sobre todas as cousas, é Onipotente, e que Allah, com efeito, abarca todas as cousas, em ciência.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 559,
+  "verse_key": "65:12",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 223,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ ٱلَّذِي خَلَقَ سَبۡعَ سَمَٰوَٰتٖ وَمِنَ ٱلۡأَرۡضِ مِثۡلَهُنَّۖ يَتَنَزَّلُ ٱلۡأَمۡرُ بَيۡنَهُنَّ لِتَعۡلَمُوٓاْ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ وَأَنَّ ٱللَّهَ قَدۡ أَحَاطَ بِكُلِّ شَيۡءٍ عِلۡمَۢا",
+  "translation": "Allah é Quem criou sete céus, e da terra, outras tantas, entre as quais a ordem desce, para que saibais que Allah, sobre todas as cousas, é Onipotente, e que Allah, com efeito, abarca todas as cousas, em ciência.",
+  "footnotes": ""
 }

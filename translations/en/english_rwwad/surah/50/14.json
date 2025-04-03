@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4644",
-    "sura": "50",
-    "aya": "14",
-    "arabic_text": "وَأَصۡحَٰبُ ٱلۡأَيۡكَةِ وَقَوۡمُ تُبَّعٖۚ كُلّٞ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
-    "translation": "and the dwellers of the Forest[6], and the people of Tubba‘[7]. All of them rejected the messengers, so My warning was fulfilled.",
-    "footnotes": "[6] i.e., the people of Shu‘ayb (عليه السلام).\n [7] Tubba‘ al-Himyari, an ancient righteous Yemeni king. See 44:37."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 518,
+  "verse_key": "50:14",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَصۡحَٰبُ ٱلۡأَيۡكَةِ وَقَوۡمُ تُبَّعٖۚ كُلّٞ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "translation": "and the dwellers of the Forest[6], and the people of Tubba‘[7]. All of them rejected the messengers, so My warning was fulfilled.",
+  "footnotes": "[6] i.e., the people of Shu‘ayb (عليه السلام).\n [7] Tubba‘ al-Himyari, an ancient righteous Yemeni king. See 44:37."
 }

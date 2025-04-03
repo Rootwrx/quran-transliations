@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6139",
-    "sura": "99",
-    "aya": "1",
-    "arabic_text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
-    "translation": "ഭൂമി പ്രകമ്പനം കൊള്ളിക്കപ്പെട്ടാല്‍ - അതിന്‍റെ ഭയങ്കരമായ ആ പ്രകമ്പനം.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 599,
+  "verse_key": "99:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذَا زُلۡزِلَتِ ٱلۡأَرۡضُ زِلۡزَالَهَا",
+  "translation": "ഭൂമി പ്രകമ്പനം കൊള്ളിക്കപ്പെട്ടാല്‍ - അതിന്‍റെ ഭയങ്കരമായ ആ പ്രകമ്പനം.",
+  "footnotes": ""
 }

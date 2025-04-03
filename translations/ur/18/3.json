@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2143",
-    "sura": "18",
-    "aya": "3",
-    "arabic_text": "مَّٰكِثِينَ فِيهِ أَبَدٗا",
-    "translation": "جس میں وه ہمیشہ ہمیشہ رہیں گے.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 293,
+  "verse_key": "18:3",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّٰكِثِينَ فِيهِ أَبَدٗا",
+  "translation": "جس میں وه ہمیشہ ہمیشہ رہیں گے.",
+  "footnotes": ""
 }

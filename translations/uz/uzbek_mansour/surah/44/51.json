@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4465",
-    "sura": "44",
-    "aya": "51",
-    "arabic_text": "إِنَّ ٱلۡمُتَّقِينَ فِي مَقَامٍ أَمِينٖ",
-    "translation": "51. Албатта тақводор зотлар (у Кунда) осойишта жойда, ",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 498,
+  "verse_key": "44:51",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلۡمُتَّقِينَ فِي مَقَامٍ أَمِينٖ",
+  "translation": "51. Албатта тақводор зотлар (у Кунда) осойишта жойда, ",
+  "footnotes": ""
 }

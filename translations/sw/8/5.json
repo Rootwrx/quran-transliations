@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1165",
-    "sura": "8",
-    "aya": "5",
-    "arabic_text": "كَمَآ أَخۡرَجَكَ رَبُّكَ مِنۢ بَيۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِيقٗا مِّنَ ٱلۡمُؤۡمِنِينَ لَكَٰرِهُونَ",
-    "translation": "Kama Mola wako Mlezi alivyo kutoa nyumbani kwako kwa Haki, na hakika kundi moja la Waumini linachukia.",
-    "footnotes": "Ushindi, bila ya shaka, upo mikononi mwa Mwenyezi Mungu. Na funguo za mambo yote ziko kwake. Na hali ya Waumini katika kukhitalifiana kwao katika mambo ya ngawira ni kama hali yao pale alipo kuamrisha Mwenyezi Mungu utoke ukapigane na washirikina katika Badri, nayo ni Haki iliyo thibiti. Kwani miongoni mwa Waumini kulikuwapo na kikundi kilicho chukia vita kweli kweli."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 177,
+  "verse_key": "8:5",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَمَآ أَخۡرَجَكَ رَبُّكَ مِنۢ بَيۡتِكَ بِٱلۡحَقِّ وَإِنَّ فَرِيقٗا مِّنَ ٱلۡمُؤۡمِنِينَ لَكَٰرِهُونَ",
+  "translation": "Kama Mola wako Mlezi alivyo kutoa nyumbani kwako kwa Haki, na hakika kundi moja la Waumini linachukia.",
+  "footnotes": "Ushindi, bila ya shaka, upo mikononi mwa Mwenyezi Mungu. Na funguo za mambo yote ziko kwake. Na hali ya Waumini katika kukhitalifiana kwao katika mambo ya ngawira ni kama hali yao pale alipo kuamrisha Mwenyezi Mungu utoke ukapigane na washirikina katika Badri, nayo ni Haki iliyo thibiti. Kwani miongoni mwa Waumini kulikuwapo na kikundi kilicho chukia vita kweli kweli."
 }

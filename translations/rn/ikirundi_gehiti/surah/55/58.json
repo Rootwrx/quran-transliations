@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4959",
-    "sura": "55",
-    "aya": "58",
-    "arabic_text": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
-    "translation": "Nya bakenyezi bo mu Bwami bw’ijuru, ku bwiza bwabo womengo ni Yaakuuti[5] na Marjaani[6].",
-    "footnotes": "[5] Yaakuuti. ni ubwoko bw’ubutare bucukurwa musi y’ibahari, bukaba busa n’ibara ritukura canke ry’ubururu, buremye nk’ibuye, busayangana.\n[6] Marjaani, ni ubwoko bw’amabuye y’agaciro, acukurwa mw’ibahari, akaba yiremarema mu binyabuzima biba musi yaryo, aremye nk’ishurwe rifise udushami n’imizi, akagira n’ibara risa n’agahama canke rishaka gutukura."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 533,
+  "verse_key": "55:58",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَأَنَّهُنَّ ٱلۡيَاقُوتُ وَٱلۡمَرۡجَانُ",
+  "translation": "Nya bakenyezi bo mu Bwami bw’ijuru, ku bwiza bwabo womengo ni Yaakuuti[5] na Marjaani[6].",
+  "footnotes": "[5] Yaakuuti. ni ubwoko bw’ubutare bucukurwa musi y’ibahari, bukaba busa n’ibara ritukura canke ry’ubururu, buremye nk’ibuye, busayangana.\n[6] Marjaani, ni ubwoko bw’amabuye y’agaciro, acukurwa mw’ibahari, akaba yiremarema mu binyabuzima biba musi yaryo, aremye nk’ishurwe rifise udushami n’imizi, akagira n’ibara risa n’agahama canke rishaka gutukura."
 }

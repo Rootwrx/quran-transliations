@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "263",
-    "sura": "2",
-    "aya": "256",
-    "arabic_text": "لَآ إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ فَمَن يَكۡفُرۡ بِٱلطَّٰغُوتِ وَيُؤۡمِنۢ بِٱللَّهِ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰ لَا ٱنفِصَامَ لَهَاۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
-    "translation": "Hapana kulazimisha katika Dini. Kwani Uwongofu umekwisha pambanuka na upotofu. Basi anaye mkataa Shet'ani na akamuamini Mwenyezi Mungu bila ya shaka amekamata kishikio madhubuti, kisicho vunjika. Na Mwenyezi Mungu ni Mwenye kusikia, Mwenye kujua.",
-    "footnotes": "Hapana ruhusa kumlazimisha yeyote kuingia katika Dini. Kwa Aya na Ishara zilio zagaa Njia ya Haki imewekwa wazi kutokana na njia ya upotovu. Basi aliye ongoka akafuata Imani na akakataa kufuata chochote kisicho ingia akilini, na kinacho mpelekea kuacha Haki, basi huyo ameshika njia madhbuti kabisa ya kumkinga asiingie katika upotovu, kama yule mwenye kukamata kishikio imara kilicho fungika baraabara kitacho mlinda asitumbukie shimoni. Na Mwenyezi Mungu ni Mwenye kuyasikia mnayo yasema, ni Mwenye kuyajua mnayo yatenda, na ni Mwenye kukulipeni kwa vitendo vyenu."
-  }
+  "id": 256,
+  "verse_number": 256,
+  "page_number": 42,
+  "verse_key": "2:256",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 17,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَآ إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ فَمَن يَكۡفُرۡ بِٱلطَّٰغُوتِ وَيُؤۡمِنۢ بِٱللَّهِ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰ لَا ٱنفِصَامَ لَهَاۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+  "translation": "Hapana kulazimisha katika Dini. Kwani Uwongofu umekwisha pambanuka na upotofu. Basi anaye mkataa Shet'ani na akamuamini Mwenyezi Mungu bila ya shaka amekamata kishikio madhubuti, kisicho vunjika. Na Mwenyezi Mungu ni Mwenye kusikia, Mwenye kujua.",
+  "footnotes": "Hapana ruhusa kumlazimisha yeyote kuingia katika Dini. Kwa Aya na Ishara zilio zagaa Njia ya Haki imewekwa wazi kutokana na njia ya upotovu. Basi aliye ongoka akafuata Imani na akakataa kufuata chochote kisicho ingia akilini, na kinacho mpelekea kuacha Haki, basi huyo ameshika njia madhbuti kabisa ya kumkinga asiingie katika upotovu, kama yule mwenye kukamata kishikio imara kilicho fungika baraabara kitacho mlinda asitumbukie shimoni. Na Mwenyezi Mungu ni Mwenye kuyasikia mnayo yasema, ni Mwenye kuyajua mnayo yatenda, na ni Mwenye kukulipeni kwa vitendo vyenu."
 }

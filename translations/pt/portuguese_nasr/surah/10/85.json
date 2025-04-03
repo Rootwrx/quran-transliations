@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1449",
-    "sura": "10",
-    "aya": "85",
-    "arabic_text": "فَقَالُواْ عَلَى ٱللَّهِ تَوَكَّلۡنَا رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَةٗ لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
-    "translation": "Eles disseram: \"Em Allah confiamos. Senhor nosso! Não faças de nós vítimas da provação do povo injusto.\"",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 218,
+  "verse_key": "10:85",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَالُواْ عَلَى ٱللَّهِ تَوَكَّلۡنَا رَبَّنَا لَا تَجۡعَلۡنَا فِتۡنَةٗ لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+  "translation": "Eles disseram: \"Em Allah confiamos. Senhor nosso! Não faças de nós vítimas da provação do povo injusto.\"",
+  "footnotes": ""
 }

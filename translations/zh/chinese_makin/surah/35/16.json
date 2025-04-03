@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3676",
-    "sura": "35",
-    "aya": "16",
-    "arabic_text": "إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ",
-    "translation": "如果他意欲，他将毁灭你们，而创造新的众生。",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 436,
+  "verse_key": "35:16",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن يَشَأۡ يُذۡهِبۡكُمۡ وَيَأۡتِ بِخَلۡقٖ جَدِيدٖ",
+  "translation": "如果他意欲，他将毁灭你们，而创造新的众生。",
+  "footnotes": ""
 }

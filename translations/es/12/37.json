@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1633",
-    "sura": "12",
-    "aya": "37",
-    "arabic_text": "قَالَ لَا يَأۡتِيكُمَا طَعَامٞ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي تَرَكۡتُ مِلَّةَ قَوۡمٖ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
-    "translation": "37. [Dijo José:] “Antes de que traigan la comida ya les habré dado su interpretación. La interpretación de los sueños es algo que mi Señor me enseñó; sepan primero que rechazo las costumbres de un pueblo que no cree en Dios y niega la existencia de la otra vida.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 239,
+  "verse_key": "12:37",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَا يَأۡتِيكُمَا طَعَامٞ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي تَرَكۡتُ مِلَّةَ قَوۡمٖ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
+  "translation": "37. [Dijo José:] “Antes de que traigan la comida ya les habré dado su interpretación. La interpretación de los sueños es algo que mi Señor me enseñó; sepan primero que rechazo las costumbres de un pueblo que no cree en Dios y niega la existencia de la otra vida.",
+  "footnotes": ""
 }

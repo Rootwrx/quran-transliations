@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1401",
-    "sura": "10",
-    "aya": "37",
-    "arabic_text": "وَمَا كَانَ هَٰذَا ٱلۡقُرۡءَانُ أَن يُفۡتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ ٱلۡكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "Tidaklah mungkin Al-Qur`ān ini dibuat oleh selain Allah; akan tetapi (Al-Qur`ān itu) membenarkan kitab-kitab yang sebelumnya dan menjelaskan hukum-hukum yang telah ditetapkannya 691, tidak ada keraguan di dalamnya, (diturunkan) dari Tuhan semesta alam.",
-    "footnotes": "691. Maksudnya,  Al-Qur`ān itu menjelaskan secara terperinci hukum-hukum yang telah disebutkan dalam Al-Qur`ān itu pula. "
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 213,
+  "verse_key": "10:37",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ هَٰذَا ٱلۡقُرۡءَانُ أَن يُفۡتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ ٱلۡكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "Tidaklah mungkin Al-Qur`ān ini dibuat oleh selain Allah; akan tetapi (Al-Qur`ān itu) membenarkan kitab-kitab yang sebelumnya dan menjelaskan hukum-hukum yang telah ditetapkannya 691, tidak ada keraguan di dalamnya, (diturunkan) dari Tuhan semesta alam.",
+  "footnotes": "691. Maksudnya,  Al-Qur`ān itu menjelaskan secara terperinci hukum-hukum yang telah disebutkan dalam Al-Qur`ān itu pula. "
 }

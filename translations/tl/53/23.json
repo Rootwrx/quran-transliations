@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4807",
-    "sura": "53",
-    "aya": "23",
-    "arabic_text": "إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ",
-    "translation": "Walang iba ang mga [diyus-diyusang] ito kundi mga pangalang ipinangalan ninyo mismo at ng mga ninuno ninyo. Hindi nagpababa si Allāh kaugnay sa mga ito ng anumang katunayan. Hindi sila sumusunod maliban sa pagpapalagay at pinipithaya ng mga sarili. Talaga ngang dumating sa kanila mula sa Panginoon nila ang patnubay.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 526,
+  "verse_key": "53:23",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ هِيَ إِلَّآ أَسۡمَآءٞ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَمَا تَهۡوَى ٱلۡأَنفُسُۖ وَلَقَدۡ جَآءَهُم مِّن رَّبِّهِمُ ٱلۡهُدَىٰٓ",
+  "translation": "Walang iba ang mga [diyus-diyusang] ito kundi mga pangalang ipinangalan ninyo mismo at ng mga ninuno ninyo. Hindi nagpababa si Allāh kaugnay sa mga ito ng anumang katunayan. Hindi sila sumusunod maliban sa pagpapalagay at pinipithaya ng mga sarili. Talaga ngang dumating sa kanila mula sa Panginoon nila ang patnubay.",
+  "footnotes": ""
 }

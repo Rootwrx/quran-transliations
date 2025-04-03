@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3193",
-    "sura": "27",
-    "aya": "34",
-    "arabic_text": "قَالَتۡ إِنَّ ٱلۡمُلُوكَ إِذَا دَخَلُواْ قَرۡيَةً أَفۡسَدُوهَا وَجَعَلُوٓاْ أَعِزَّةَ أَهۡلِهَآ أَذِلَّةٗۚ وَكَذَٰلِكَ يَفۡعَلُونَ",
-    "translation": "(Bilƙīs) wí pé: “Dájúdájú àwọn ọba, nígbà tí wọ́n bá wọ inú ìlú kan, wọn yóò bà á jẹ́. Wọn yó sì sọ àwọn ẹni abiyì ibẹ̀ di ẹni yẹpẹrẹ. Báyẹn ni wọ́n máa ń ṣe.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 379,
+  "verse_key": "27:34",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ إِنَّ ٱلۡمُلُوكَ إِذَا دَخَلُواْ قَرۡيَةً أَفۡسَدُوهَا وَجَعَلُوٓاْ أَعِزَّةَ أَهۡلِهَآ أَذِلَّةٗۚ وَكَذَٰلِكَ يَفۡعَلُونَ",
+  "translation": "(Bilƙīs) wí pé: “Dájúdájú àwọn ọba, nígbà tí wọ́n bá wọ inú ìlú kan, wọn yóò bà á jẹ́. Wọn yó sì sọ àwọn ẹni abiyì ibẹ̀ di ẹni yẹpẹrẹ. Báyẹn ni wọ́n máa ń ṣe.",
+  "footnotes": ""
 }

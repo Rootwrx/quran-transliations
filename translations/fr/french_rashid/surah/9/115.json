@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1350",
-    "sura": "9",
-    "aya": "115",
-    "arabic_text": "وَمَا كَانَ ٱللَّهُ لِيُضِلَّ قَوۡمَۢا بَعۡدَ إِذۡ هَدَىٰهُمۡ حَتَّىٰ يُبَيِّنَ لَهُم مَّا يَتَّقُونَۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
-    "translation": "115 Il ne sied pas à Allah de laisser des croyants s’égarer après les avoir guidés, sans leur avoir clairement indiqué les péchés dont ils doivent se garder[564]. Allah a une parfaite connaissance de toute chose.",
-    "footnotes": "[564] Comme le fait d’implorer Son pardon en faveur des idolâtres."
-  }
+  "id": 115,
+  "verse_number": 115,
+  "page_number": 205,
+  "verse_key": "9:115",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 82,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ ٱللَّهُ لِيُضِلَّ قَوۡمَۢا بَعۡدَ إِذۡ هَدَىٰهُمۡ حَتَّىٰ يُبَيِّنَ لَهُم مَّا يَتَّقُونَۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
+  "translation": "115 Il ne sied pas à Allah de laisser des croyants s’égarer après les avoir guidés, sans leur avoir clairement indiqué les péchés dont ils doivent se garder[564]. Allah a une parfaite connaissance de toute chose.",
+  "footnotes": "[564] Comme le fait d’implorer Son pardon en faveur des idolâtres."
 }

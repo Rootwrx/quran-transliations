@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5755",
-    "sura": "79",
-    "aya": "43",
-    "arabic_text": "فِيمَ أَنتَ مِن ذِكۡرَىٰهَآ",
-    "translation": "Níbo ni ìwọ wà sí ìmọ̀ rẹ̀ ná?[1]",
-    "footnotes": "1. Ìyẹn ni pé, ìwọ kò lè ní ìmọ̀ ọjọ́ rẹ̀ ọjọ́ òpin ayé. Ọ̀dọ̀ Allāhu nìkan ṣoṣo ni ìmọ̀ rẹ̀ wà. Àmọ́ Allāhu fi àwọn àmì ìṣáájú ọjọ́ náà mọ Ànábì Rẹ̀ - kí ìkẹ́ àti ọlà Allāhu máa bá a -, ìyẹn ni àwọn àmì òpin ayé."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 584,
+  "verse_key": "79:43",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِيمَ أَنتَ مِن ذِكۡرَىٰهَآ",
+  "translation": "Níbo ni ìwọ wà sí ìmọ̀ rẹ̀ ná?[1]",
+  "footnotes": "1. Ìyẹn ni pé, ìwọ kò lè ní ìmọ̀ ọjọ́ rẹ̀ ọjọ́ òpin ayé. Ọ̀dọ̀ Allāhu nìkan ṣoṣo ni ìmọ̀ rẹ̀ wà. Àmọ́ Allāhu fi àwọn àmì ìṣáájú ọjọ́ náà mọ Ànábì Rẹ̀ - kí ìkẹ́ àti ọlà Allāhu máa bá a -, ìyẹn ni àwọn àmì òpin ayé."
 }

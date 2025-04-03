@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4847",
-    "sura": "54",
-    "aya": "1",
-    "arabic_text": "ٱقۡتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلۡقَمَرُ",
-    "translation": "The Hour has drawn near and the moon has split asunder[1].",
-    "footnotes": "[1] The Quraysh pagans challenged the Prophet (ﷺ) to split the moon in two so that they believe in him. The moon was split as they requested and then re-joined, and the incident was reported by several eyewitnesses in different parts of the land; however, they still refused to believe, considering it magic."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 528,
+  "verse_key": "54:1",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱقۡتَرَبَتِ ٱلسَّاعَةُ وَٱنشَقَّ ٱلۡقَمَرُ",
+  "translation": "The Hour has drawn near and the moon has split asunder[1].",
+  "footnotes": "[1] The Quraysh pagans challenged the Prophet (ﷺ) to split the moon in two so that they believe in him. The moon was split as they requested and then re-joined, and the incident was reported by several eyewitnesses in different parts of the land; however, they still refused to believe, considering it magic."
 }

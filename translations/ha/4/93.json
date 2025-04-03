@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "586",
-    "sura": "4",
-    "aya": "93",
-    "arabic_text": "وَمَن يَقۡتُلۡ مُؤۡمِنٗا مُّتَعَمِّدٗا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدٗا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيۡهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمٗا",
-    "translation": "Kuma wanda ya kashe wani mũmini da ganganci,* to, sakamakonsa Jahannama, yana madawwami a cikinta kuma Allah Yã yi fushi a kansa, kuma Ya la'ane shi, kuma Ya yi masa tattalin azãba mai girma.",
-    "footnotes": "* Wanda ya kashe mũminai da ganganci, kuma yana ƙudurcin halaccin kashe shi ɗin, to, shi kãfiri ne. Amma idan yana ƙudurcin haramcin kisa, amma duk da haka ya kashe shi domin wata fã'ida ta dũniya, ko domin adãwa, to yana nan mũmini, hukuncinsa ƙisãsi. Surar Baƙara, ãya ta179."
-  }
+  "id": 93,
+  "verse_number": 93,
+  "page_number": 93,
+  "verse_key": "4:93",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن يَقۡتُلۡ مُؤۡمِنٗا مُّتَعَمِّدٗا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدٗا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيۡهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمٗا",
+  "translation": "Kuma wanda ya kashe wani mũmini da ganganci,* to, sakamakonsa Jahannama, yana madawwami a cikinta kuma Allah Yã yi fushi a kansa, kuma Ya la'ane shi, kuma Ya yi masa tattalin azãba mai girma.",
+  "footnotes": "* Wanda ya kashe mũminai da ganganci, kuma yana ƙudurcin halaccin kashe shi ɗin, to, shi kãfiri ne. Amma idan yana ƙudurcin haramcin kisa, amma duk da haka ya kashe shi domin wata fã'ida ta dũniya, ko domin adãwa, to yana nan mũmini, hukuncinsa ƙisãsi. Surar Baƙara, ãya ta179."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5808",
-    "sura": "81",
-    "aya": "8",
-    "arabic_text": "وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ",
-    "translation": "and when the baby girl buried alive[3] is asked,",
-    "footnotes": "[3] As the pagan Arabs used to do for fear of shame or poverty. The Qur’an condemned this practice. See 16:58-59."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 586,
+  "verse_key": "81:8",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ",
+  "translation": "and when the baby girl buried alive[3] is asked,",
+  "footnotes": "[3] As the pagan Arabs used to do for fear of shame or poverty. The Qur’an condemned this practice. See 16:58-59."
 }

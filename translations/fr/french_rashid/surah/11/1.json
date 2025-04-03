@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1474",
-    "sura": "11",
-    "aya": "1",
-    "arabic_text": "الٓرۚ كِتَٰبٌ أُحۡكِمَتۡ ءَايَٰتُهُۥ ثُمَّ فُصِّلَتۡ مِن لَّدُنۡ حَكِيمٍ خَبِيرٍ",
-    "translation": "1 Alif-Lâm-Râ. Voici, émanant de Celui qui est infiniment Sage et qui connaît les réalités les mieux cachées, un livre aux versets parfaitement structurés et aux enseignements clairement exposés[592]",
-    "footnotes": "[592] Le Coran est parfait et inimitable dans la forme, le style coranique étant impeccable, et dans ses enseignements, d’une sagesse remarquable."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 221,
+  "verse_key": "11:1",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓرۚ كِتَٰبٌ أُحۡكِمَتۡ ءَايَٰتُهُۥ ثُمَّ فُصِّلَتۡ مِن لَّدُنۡ حَكِيمٍ خَبِيرٍ",
+  "translation": "1 Alif-Lâm-Râ. Voici, émanant de Celui qui est infiniment Sage et qui connaît les réalités les mieux cachées, un livre aux versets parfaitement structurés et aux enseignements clairement exposés[592]",
+  "footnotes": "[592] Le Coran est parfait et inimitable dans la forme, le style coranique étant impeccable, et dans ses enseignements, d’une sagesse remarquable."
 }

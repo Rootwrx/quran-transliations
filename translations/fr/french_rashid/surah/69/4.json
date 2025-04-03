@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5327",
-    "sura": "69",
-    "aya": "4",
-    "arabic_text": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ",
-    "translation": "4 Les Thamoud et les ‘Ad ont traité de mensonge la Grande terreur[1470].",
-    "footnotes": "[1470] Ou : le Grand choc. Tout comme « le Jour de vérité », « la Grande terreur » est l’un des noms coraniques du Jour dernier."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 566,
+  "verse_key": "69:4",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ",
+  "translation": "4 Les Thamoud et les ‘Ad ont traité de mensonge la Grande terreur[1470].",
+  "footnotes": "[1470] Ou : le Grand choc. Tout comme « le Jour de vérité », « la Grande terreur » est l’un des noms coraniques du Jour dernier."
 }

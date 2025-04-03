@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5074",
-    "sura": "56",
-    "aya": "95",
-    "arabic_text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
-    "translation": "Por certo, esta é a verdade certa.",
-    "footnotes": ""
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 537,
+  "verse_key": "56:95",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+  "translation": "Por certo, esta é a verdade certa.",
+  "footnotes": ""
 }

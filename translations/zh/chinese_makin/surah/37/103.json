@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3891",
-    "sura": "37",
-    "aya": "103",
-    "arabic_text": "فَلَمَّآ أَسۡلَمَا وَتَلَّهُۥ لِلۡجَبِينِ",
-    "translation": "他俩既已顺服安拉，而他使他的儿子侧卧着。",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 450,
+  "verse_key": "37:103",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّآ أَسۡلَمَا وَتَلَّهُۥ لِلۡجَبِينِ",
+  "translation": "他俩既已顺服安拉，而他使他的儿子侧卧着。",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2460",
-    "sura": "20",
-    "aya": "112",
-    "arabic_text": "وَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤۡمِنٞ فَلَا يَخَافُ ظُلۡمٗا وَلَا هَضۡمٗا",
-    "translation": "112. En cambio, el creyente que haya obrado rectamente no ha de temer que lo traten injustamente ni lo priven de la recompensa [de sus buenas obras].",
-    "footnotes": ""
-  }
+  "id": 112,
+  "verse_number": 112,
+  "page_number": 319,
+  "verse_key": "20:112",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن يَعۡمَلۡ مِنَ ٱلصَّٰلِحَٰتِ وَهُوَ مُؤۡمِنٞ فَلَا يَخَافُ ظُلۡمٗا وَلَا هَضۡمٗا",
+  "translation": "112. En cambio, el creyente que haya obrado rectamente no ha de temer que lo traten injustamente ni lo priven de la recompensa [de sus buenas obras].",
+  "footnotes": ""
 }

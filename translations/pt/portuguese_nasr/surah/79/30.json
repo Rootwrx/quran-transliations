@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5742",
-    "sura": "79",
-    "aya": "30",
-    "arabic_text": "وَٱلۡأَرۡضَ بَعۡدَ ذَٰلِكَ دَحَىٰهَآ",
-    "translation": "E a terra, após isso, estendeu-a.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 584,
+  "verse_key": "79:30",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡأَرۡضَ بَعۡدَ ذَٰلِكَ دَحَىٰهَآ",
+  "translation": "E a terra, após isso, estendeu-a.",
+  "footnotes": ""
 }

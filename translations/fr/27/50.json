@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3209",
-    "sura": "27",
-    "aya": "50",
-    "arabic_text": "وَمَكَرُواْ مَكۡرٗا وَمَكَرۡنَا مَكۡرٗا وَهُمۡ لَا يَشۡعُرُونَ",
-    "translation": "Ils ourdirent une ruse et Nous ourdîmes une ruse  sans qu’ils s’en rendent compte.",
-    "footnotes": "[678] Nous ourdîmes une ruse: en sauvant le prophète et sa famille et en les anéantissant."
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 381,
+  "verse_key": "27:50",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَكَرُواْ مَكۡرٗا وَمَكَرۡنَا مَكۡرٗا وَهُمۡ لَا يَشۡعُرُونَ",
+  "translation": "Ils ourdirent une ruse et Nous ourdîmes une ruse  sans qu’ils s’en rendent compte.",
+  "footnotes": "[678] Nous ourdîmes une ruse: en sauvant le prophète et sa famille et en les anéantissant."
 }

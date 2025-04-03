@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5084",
-    "sura": "57",
-    "aya": "9",
-    "arabic_text": "هُوَ ٱلَّذِي يُنَزِّلُ عَلَىٰ عَبۡدِهِۦٓ ءَايَٰتِۭ بَيِّنَٰتٖ لِّيُخۡرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَإِنَّ ٱللَّهَ بِكُمۡ لَرَءُوفٞ رَّحِيمٞ",
-    "translation": "Dialah yang menurunkan ayat-ayat yang terang (Al-Qur`an) kepada hamba-Nya (Muhammad) untuk mengeluarkan kamu dari kegelapan kepada cahaya. Dan sungguh, terhadap kamu Allah Maha Penyantun, Maha Penyayang.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 538,
+  "verse_key": "57:9",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي يُنَزِّلُ عَلَىٰ عَبۡدِهِۦٓ ءَايَٰتِۭ بَيِّنَٰتٖ لِّيُخۡرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَإِنَّ ٱللَّهَ بِكُمۡ لَرَءُوفٞ رَّحِيمٞ",
+  "translation": "Dialah yang menurunkan ayat-ayat yang terang (Al-Qur`an) kepada hamba-Nya (Muhammad) untuk mengeluarkan kamu dari kegelapan kepada cahaya. Dan sungguh, terhadap kamu Allah Maha Penyantun, Maha Penyayang.",
+  "footnotes": ""
 }

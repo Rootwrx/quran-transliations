@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4527",
-    "sura": "46",
-    "aya": "17",
-    "arabic_text": "وَٱلَّذِي قَالَ لِوَٰلِدَيۡهِ أُفّٖ لَّكُمَآ أَتَعِدَانِنِيٓ أَنۡ أُخۡرَجَ وَقَدۡ خَلَتِ ٱلۡقُرُونُ مِن قَبۡلِي وَهُمَا يَسۡتَغِيثَانِ ٱللَّهَ وَيۡلَكَ ءَامِنۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
-    "translation": "Ang nagsabi sa mga magulang niya: “Pagkasuya sa inyong dalawa! Nangangako ba kayong dalawa sa akin na palabasin ako [sa libingan] samantalang lumipas na ang mga [ibang] salinlahi bago ko pa?” samantalang silang dalawa [na mga madulang] ay nagpapasaklolo kay Allāh, [na nagsasabi]: “Kapighatian sa iyo! Sumampalataya ka! Tunay na ang pangako ni Allāh ay [laging] totoo,” ngunit nagsasabi naman siya: “Walang iba ito kundi mga alamat ng mga sinauna.”",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 504,
+  "verse_key": "46:17",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِي قَالَ لِوَٰلِدَيۡهِ أُفّٖ لَّكُمَآ أَتَعِدَانِنِيٓ أَنۡ أُخۡرَجَ وَقَدۡ خَلَتِ ٱلۡقُرُونُ مِن قَبۡلِي وَهُمَا يَسۡتَغِيثَانِ ٱللَّهَ وَيۡلَكَ ءَامِنۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+  "translation": "Ang nagsabi sa mga magulang niya: “Pagkasuya sa inyong dalawa! Nangangako ba kayong dalawa sa akin na palabasin ako [sa libingan] samantalang lumipas na ang mga [ibang] salinlahi bago ko pa?” samantalang silang dalawa [na mga madulang] ay nagpapasaklolo kay Allāh, [na nagsasabi]: “Kapighatian sa iyo! Sumampalataya ka! Tunay na ang pangako ni Allāh ay [laging] totoo,” ngunit nagsasabi naman siya: “Walang iba ito kundi mga alamat ng mga sinauna.”",
+  "footnotes": ""
 }

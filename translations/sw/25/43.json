@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2898",
-    "sura": "25",
-    "aya": "43",
-    "arabic_text": "أَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيۡهِ وَكِيلًا",
-    "translation": "Je! Umemwona aliye yafanya matamanio yake kuwa ndio mungu wake? Basi je, wewe utakuwa ni wakili wake?",
-    "footnotes": "Ewe Mtume! Umeona upotovu wa mwenye kufuata matamanio yake na pumbao lake hata akawa anaabudu mawe ambayo hayadhuru wala hayanafiishi? Na wewe umetumwa uwe mwonyaji na mbashiri, wala hukuwakilishwa kwa imani yao na uwongofu wao."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 363,
+  "verse_key": "25:43",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ أَفَأَنتَ تَكُونُ عَلَيۡهِ وَكِيلًا",
+  "translation": "Je! Umemwona aliye yafanya matamanio yake kuwa ndio mungu wake? Basi je, wewe utakuwa ni wakili wake?",
+  "footnotes": "Ewe Mtume! Umeona upotovu wa mwenye kufuata matamanio yake na pumbao lake hata akawa anaabudu mawe ambayo hayadhuru wala hayanafiishi? Na wewe umetumwa uwe mwonyaji na mbashiri, wala hukuwakilishwa kwa imani yao na uwongofu wao."
 }

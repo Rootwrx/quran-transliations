@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3597",
-    "sura": "33",
-    "aya": "64",
-    "arabic_text": "إِنَّ ٱللَّهَ لَعَنَ ٱلۡكَٰفِرِينَ وَأَعَدَّ لَهُمۡ سَعِيرًا",
-    "translation": "Sungguh, Allah melaknat orang-orang kafir dan menyediakan bagi mereka api yang menyala-nyala (neraka).",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 427,
+  "verse_key": "33:64",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ لَعَنَ ٱلۡكَٰفِرِينَ وَأَعَدَّ لَهُمۡ سَعِيرًا",
+  "translation": "Sungguh, Allah melaknat orang-orang kafir dan menyediakan bagi mereka api yang menyala-nyala (neraka).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4037",
-    "sura": "38",
-    "aya": "67",
-    "arabic_text": "قُلۡ هُوَ نَبَؤٌاْ عَظِيمٌ",
-    "translation": "Ngươi (hỡi Thiên Sứ) hãy nói (với những kẻ phủ nhận này): “Nó (Qur’an) là một nguồn tin vĩ đại.”",
-    "footnotes": ""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 457,
+  "verse_key": "38:67",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هُوَ نَبَؤٌاْ عَظِيمٌ",
+  "translation": "Ngươi (hỡi Thiên Sứ) hãy nói (với những kẻ phủ nhận này): “Nó (Qur’an) là một nguồn tin vĩ đại.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3665",
-    "sura": "35",
-    "aya": "5",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ فَلَا تَغُرَّنَّكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلۡغَرُورُ",
-    "translation": "Enyi watu! Hakika ahadi ya Mwenyezi Mungu ni ya kweli. Basi yasikudanganyeni maisha ya dunia, wala mdanganyifu asikudanganyeni juu ya Mwenyezi Mungu.",
-    "footnotes": "Enyi watu! Hakika ahadi ya Mwenyezi Mungu, juu ya mambo ya kufufuliwa, na malipo, na ushindi, ni haki ya kweli. Basi msiache dunia ikakukhadaini na Akhera. Wala Shetani akakukhadaini mkaacha kuwafuata Mitume, na akakupeni tamaa kuwa mtasamehewa na hali huku mnaendelea na maasi."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 435,
+  "verse_key": "35:5",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ فَلَا تَغُرَّنَّكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلۡغَرُورُ",
+  "translation": "Enyi watu! Hakika ahadi ya Mwenyezi Mungu ni ya kweli. Basi yasikudanganyeni maisha ya dunia, wala mdanganyifu asikudanganyeni juu ya Mwenyezi Mungu.",
+  "footnotes": "Enyi watu! Hakika ahadi ya Mwenyezi Mungu, juu ya mambo ya kufufuliwa, na malipo, na ushindi, ni haki ya kweli. Basi msiache dunia ikakukhadaini na Akhera. Wala Shetani akakukhadaini mkaacha kuwafuata Mitume, na akakupeni tamaa kuwa mtasamehewa na hali huku mnaendelea na maasi."
 }

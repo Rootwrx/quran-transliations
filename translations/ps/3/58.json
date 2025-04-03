@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "351",
-    "sura": "3",
-    "aya": "58",
-    "arabic_text": "ذَٰلِكَ نَتۡلُوهُ عَلَيۡكَ مِنَ ٱلۡأٓيَٰتِ وَٱلذِّكۡرِ ٱلۡحَكِيمِ",
-    "translation": "دا چې پر تا یې لولو د آیتونو، پند او حکمت څخه دي.",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 57,
+  "verse_key": "3:58",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ نَتۡلُوهُ عَلَيۡكَ مِنَ ٱلۡأٓيَٰتِ وَٱلذِّكۡرِ ٱلۡحَكِيمِ",
+  "translation": "دا چې پر تا یې لولو د آیتونو، پند او حکمت څخه دي.",
+  "footnotes": ""
 }

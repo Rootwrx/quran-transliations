@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3402",
-    "sura": "29",
-    "aya": "62",
-    "arabic_text": "ٱللَّهُ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ مِنۡ عِبَادِهِۦ وَيَقۡدِرُ لَهُۥٓۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٞ",
-    "translation": "Allahu, ia zgjeron furnizimin kujt të dojë nga robërit e Tij, e dikujt ia zvogëlon. Allahu është vërtet i Dijshëm për çdo gjë.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 403,
+  "verse_key": "29:62",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ مِنۡ عِبَادِهِۦ وَيَقۡدِرُ لَهُۥٓۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٞ",
+  "translation": "Allahu, ia zgjeron furnizimin kujt të dojë nga robërit e Tij, e dikujt ia zvogëlon. Allahu është vërtet i Dijshëm për çdo gjë.",
+  "footnotes": ""
 }

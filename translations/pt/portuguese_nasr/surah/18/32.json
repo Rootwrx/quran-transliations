@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2172",
-    "sura": "18",
-    "aya": "32",
-    "arabic_text": "۞ وَٱضۡرِبۡ لَهُم مَّثَلٗا رَّجُلَيۡنِ جَعَلۡنَا لِأَحَدِهِمَا جَنَّتَيۡنِ مِنۡ أَعۡنَٰبٖ وَحَفَفۡنَٰهُمَا بِنَخۡلٖ وَجَعَلۡنَا بَيۡنَهُمَا زَرۡعٗا",
-    "translation": "E propõe, para eles, um exemplo: dois homens. Fizemos, para um deles, dois jardins de videiras e cercamo-los com tamareiras e fizemos, entre ambos, searas.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 297,
+  "verse_key": "18:32",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 119,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَٱضۡرِبۡ لَهُم مَّثَلٗا رَّجُلَيۡنِ جَعَلۡنَا لِأَحَدِهِمَا جَنَّتَيۡنِ مِنۡ أَعۡنَٰبٖ وَحَفَفۡنَٰهُمَا بِنَخۡلٖ وَجَعَلۡنَا بَيۡنَهُمَا زَرۡعٗا",
+  "translation": "E propõe, para eles, um exemplo: dois homens. Fizemos, para um deles, dois jardins de videiras e cercamo-los com tamareiras e fizemos, entre ambos, searas.",
+  "footnotes": ""
 }

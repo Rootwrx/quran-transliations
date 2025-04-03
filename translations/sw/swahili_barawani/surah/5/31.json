@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "700",
-    "sura": "5",
-    "aya": "31",
-    "arabic_text": "فَبَعَثَ ٱللَّهُ غُرَابٗا يَبۡحَثُ فِي ٱلۡأَرۡضِ لِيُرِيَهُۥ كَيۡفَ يُوَٰرِي سَوۡءَةَ أَخِيهِۚ قَالَ يَٰوَيۡلَتَىٰٓ أَعَجَزۡتُ أَنۡ أَكُونَ مِثۡلَ هَٰذَا ٱلۡغُرَابِ فَأُوَٰرِيَ سَوۡءَةَ أَخِيۖ فَأَصۡبَحَ مِنَ ٱلنَّٰدِمِينَ",
-    "translation": "Hapo Mwenyezi Mungu akamleta kunguru anaye fukua katika ardhi ili amwonyeshe vipi kumsitiri nduguye. Akasema: Ole wangu! Nimeshindwa kuwa kama kunguru huyu nikamsitiri ndugu yangu? Basi akawa miongoni mwa wenye kujuta.",
-    "footnotes": "Baada ya kumuuwa yakamjia majuto na kubabaika. Akawa hajui amfanyeje maiti! Mwenyezi Mungu akampeleka kunguru akafukua udongo amzike kunguru mwengine aliye kufa, ili amfunze muuwaji vipi kumsitiri mwenzake aliye kwisha kufa. Alipo hisi uovu wa aliyo yatenda, alijuta kwa ukhalifu wake, akasema: Nimeshindwa hata kuwa kama kunguru huyu nikamsitiri ndugu yangu? Akawa basi miongoni wa walio juta kwa makosa yake, na kwenda kinyume na yanavyo takikana na maumbile."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 112,
+  "verse_key": "5:31",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 45,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَبَعَثَ ٱللَّهُ غُرَابٗا يَبۡحَثُ فِي ٱلۡأَرۡضِ لِيُرِيَهُۥ كَيۡفَ يُوَٰرِي سَوۡءَةَ أَخِيهِۚ قَالَ يَٰوَيۡلَتَىٰٓ أَعَجَزۡتُ أَنۡ أَكُونَ مِثۡلَ هَٰذَا ٱلۡغُرَابِ فَأُوَٰرِيَ سَوۡءَةَ أَخِيۖ فَأَصۡبَحَ مِنَ ٱلنَّٰدِمِينَ",
+  "translation": "Hapo Mwenyezi Mungu akamleta kunguru anaye fukua katika ardhi ili amwonyeshe vipi kumsitiri nduguye. Akasema: Ole wangu! Nimeshindwa kuwa kama kunguru huyu nikamsitiri ndugu yangu? Basi akawa miongoni mwa wenye kujuta.",
+  "footnotes": "Baada ya kumuuwa yakamjia majuto na kubabaika. Akawa hajui amfanyeje maiti! Mwenyezi Mungu akampeleka kunguru akafukua udongo amzike kunguru mwengine aliye kufa, ili amfunze muuwaji vipi kumsitiri mwenzake aliye kwisha kufa. Alipo hisi uovu wa aliyo yatenda, alijuta kwa ukhalifu wake, akasema: Nimeshindwa hata kuwa kama kunguru huyu nikamsitiri ndugu yangu? Akawa basi miongoni wa walio juta kwa makosa yake, na kwenda kinyume na yanavyo takikana na maumbile."
 }

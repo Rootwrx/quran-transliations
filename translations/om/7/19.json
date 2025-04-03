@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "973",
-    "sura": "7",
-    "aya": "19",
-    "arabic_text": "وَيَٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ فَكُلَا مِنۡ حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
-    "translation": "  Yaa Aadam! Atiifi niitiin kee jannata keessa taa'aa; iddoo feetan irraas nyaadhaa. Miidhaa raawwattoota irraa taatu mukattii tanatti immoo hin dhihaatinaa.\"",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 152,
+  "verse_key": "7:19",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ فَكُلَا مِنۡ حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+  "translation": "  Yaa Aadam! Atiifi niitiin kee jannata keessa taa'aa; iddoo feetan irraas nyaadhaa. Miidhaa raawwattoota irraa taatu mukattii tanatti immoo hin dhihaatinaa.\"",
+  "footnotes": ""
 }

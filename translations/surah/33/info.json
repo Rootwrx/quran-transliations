@@ -1,0 +1,27 @@
+{
+  "number": 33,
+  "name": {
+    "ar": "الأحزاب",
+    "en": "The Clans",
+    "transliteration": "Al-Ahzab"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 90,
+  "bismillah_pre": true,
+  "verses_count": 73,
+  "words_count": 1303,
+  "letters_count": 5618,
+  "pages": [
+    418,
+    427
+  ],
+  "name_simple": "Al-Ahzab",
+  "name_complex": "Al-'Aĥzāb",
+  "name_arabic": "الأحزاب",
+  "translated_name": "The Combined Forces",
+  "start_page": 418,
+  "end_page": 427
+}

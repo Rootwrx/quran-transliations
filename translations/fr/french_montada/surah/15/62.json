@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1864",
-    "sura": "15",
-    "aya": "62",
-    "arabic_text": "قَالَ إِنَّكُمۡ قَوۡمٞ مُّنكَرُونَ",
-    "translation": "62. celui-ci leur dit : « Vous nous êtes des inconnus. »",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 265,
+  "verse_key": "15:62",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ إِنَّكُمۡ قَوۡمٞ مُّنكَرُونَ",
+  "translation": "62. celui-ci leur dit : « Vous nous êtes des inconnus. »",
+  "footnotes": ""
 }

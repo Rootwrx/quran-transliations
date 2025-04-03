@@ -1,0 +1,27 @@
+{
+  "number": 76,
+  "name": {
+    "ar": "الإنسان",
+    "en": "Man",
+    "transliteration": "Al-Insan"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 98,
+  "bismillah_pre": true,
+  "verses_count": 31,
+  "words_count": 243,
+  "letters_count": 1165,
+  "pages": [
+    578,
+    580
+  ],
+  "name_simple": "Al-Insan",
+  "name_complex": "Al-'Insān",
+  "name_arabic": "الانسان",
+  "translated_name": "The Man",
+  "start_page": 578,
+  "end_page": 580
+}

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6001",
-    "sura": "89",
-    "aya": "8",
-    "arabic_text": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ",
-    "translation": "којима није било равних ни у једној земљи;",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 593,
+  "verse_key": "89:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّتِي لَمۡ يُخۡلَقۡ مِثۡلُهَا فِي ٱلۡبِلَٰدِ",
+  "translation": "којима није било равних ни у једној земљи;",
+  "footnotes": ""
 }

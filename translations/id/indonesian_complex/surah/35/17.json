@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3677",
-    "sura": "35",
-    "aya": "17",
-    "arabic_text": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ",
-    "translation": "Dan yang demikian itu sekali-kali tidak sulit bagi Allah.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 436,
+  "verse_key": "35:17",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ",
+  "translation": "Dan yang demikian itu sekali-kali tidak sulit bagi Allah.",
+  "footnotes": ""
 }

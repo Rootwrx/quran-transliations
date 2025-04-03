@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1302",
-    "sura": "9",
-    "aya": "67",
-    "arabic_text": "ٱلۡمُنَٰفِقُونَ وَٱلۡمُنَٰفِقَٰتُ بَعۡضُهُم مِّنۢ بَعۡضٖۚ يَأۡمُرُونَ بِٱلۡمُنكَرِ وَيَنۡهَوۡنَ عَنِ ٱلۡمَعۡرُوفِ وَيَقۡبِضُونَ أَيۡدِيَهُمۡۚ نَسُواْ ٱللَّهَ فَنَسِيَهُمۡۚ إِنَّ ٱلۡمُنَٰفِقِينَ هُمُ ٱلۡفَٰسِقُونَ",
-    "translation": "67. Veidmainiai, vyrai ir moterys, yra vieni iš kitų. Jie įsako (žmonėms) Al-Munkar (t. y. netikėjimą ir visų rūšių daugiadievystę ir visa, ką islamas uždraudė), ir draudžia (žmonėms) Al-Maruf (t. y. islamiškąjį monoteizmą ir visa, ką islamas įsako daryti), ir jie užgniaužia savo rankas [nuo išmaldos davimo (leidimo vardan Allaho)]. Jie pamiršo Allahą, taigi Jis pamiršo juos. Iš tiesų, veidmainiai yra Fasikūn (maištingieji, nepaklusnieji Allahui).",
-    "footnotes": ""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 197,
+  "verse_key": "9:67",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡمُنَٰفِقُونَ وَٱلۡمُنَٰفِقَٰتُ بَعۡضُهُم مِّنۢ بَعۡضٖۚ يَأۡمُرُونَ بِٱلۡمُنكَرِ وَيَنۡهَوۡنَ عَنِ ٱلۡمَعۡرُوفِ وَيَقۡبِضُونَ أَيۡدِيَهُمۡۚ نَسُواْ ٱللَّهَ فَنَسِيَهُمۡۚ إِنَّ ٱلۡمُنَٰفِقِينَ هُمُ ٱلۡفَٰسِقُونَ",
+  "translation": "67. Veidmainiai, vyrai ir moterys, yra vieni iš kitų. Jie įsako (žmonėms) Al-Munkar (t. y. netikėjimą ir visų rūšių daugiadievystę ir visa, ką islamas uždraudė), ir draudžia (žmonėms) Al-Maruf (t. y. islamiškąjį monoteizmą ir visa, ką islamas įsako daryti), ir jie užgniaužia savo rankas [nuo išmaldos davimo (leidimo vardan Allaho)]. Jie pamiršo Allahą, taigi Jis pamiršo juos. Iš tiesų, veidmainiai yra Fasikūn (maištingieji, nepaklusnieji Allahui).",
+  "footnotes": ""
 }

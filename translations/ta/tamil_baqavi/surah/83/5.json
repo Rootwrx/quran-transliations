@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5853",
-    "sura": "83",
-    "aya": "5",
-    "arabic_text": "لِيَوۡمٍ عَظِيمٖ",
-    "translation": "4, 5. மகத்தான ஒரு நாளில், நிச்சயமாக அவர்கள் (உயிர் கொடுத்து) எழுப்பப்படுவார்கள் என்பதை அவர்கள் நம்பவில்லையா?",
-    "footnotes": null
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 587,
+  "verse_key": "83:5",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِيَوۡمٍ عَظِيمٖ",
+  "translation": "4, 5. மகத்தான ஒரு நாளில், நிச்சயமாக அவர்கள் (உயிர் கொடுத்து) எழுப்பப்படுவார்கள் என்பதை அவர்கள் நம்பவில்லையா?",
+  "footnotes": null
 }

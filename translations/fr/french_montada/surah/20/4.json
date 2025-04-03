@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2352",
-    "sura": "20",
-    "aya": "4",
-    "arabic_text": "تَنزِيلٗا مِّمَّنۡ خَلَقَ ٱلۡأَرۡضَ وَٱلسَّمَٰوَٰتِ ٱلۡعُلَى",
-    "translation": "4. (Le Coran est) une révélation de la part de Celui Qui a créé la terre et les cieux altissimes.[316]",
-    "footnotes": "[316] Bien que parfois ironique, l’adjectif « altissime », signifiant « très haut », conserve bien ses colorations manifestement laudatives. Le Grand Robert mentionne qu’il est d’un emploi exclusivement littéraire. Voilà pourquoi nous l’utilisons pour qualifier la hauteur incommensurable des cieux. Mais le plus important est que nous l’utiliserons aussi pour traduire l’un des Beaux Nom d’Allah : الأعلى : « Le Plus Haut » ou « l’Altissime ». C’est le sens mélioratif que le mot a en espagnol et en italien : « Altissimo »."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 312,
+  "verse_key": "20:4",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَنزِيلٗا مِّمَّنۡ خَلَقَ ٱلۡأَرۡضَ وَٱلسَّمَٰوَٰتِ ٱلۡعُلَى",
+  "translation": "4. (Le Coran est) une révélation de la part de Celui Qui a créé la terre et les cieux altissimes.[316]",
+  "footnotes": "[316] Bien que parfois ironique, l’adjectif « altissime », signifiant « très haut », conserve bien ses colorations manifestement laudatives. Le Grand Robert mentionne qu’il est d’un emploi exclusivement littéraire. Voilà pourquoi nous l’utilisons pour qualifier la hauteur incommensurable des cieux. Mais le plus important est que nous l’utiliserons aussi pour traduire l’un des Beaux Nom d’Allah : الأعلى : « Le Plus Haut » ou « l’Altissime ». C’est le sens mélioratif que le mot a en espagnol et en italien : « Altissimo »."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "727",
-    "sura": "5",
-    "aya": "58",
-    "arabic_text": "وَإِذَا نَادَيۡتُمۡ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوٗا وَلَعِبٗاۚ ذَٰلِكَ بِأَنَّهُمۡ قَوۡمٞ لَّا يَعۡقِلُونَ",
-    "translation": "Namaza çağırdığınızda, onu alaya ve eğlenceye alırlar. Bu, onların akletmeyen bir toplum olmasındandır.",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 118,
+  "verse_key": "5:58",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 47,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا نَادَيۡتُمۡ إِلَى ٱلصَّلَوٰةِ ٱتَّخَذُوهَا هُزُوٗا وَلَعِبٗاۚ ذَٰلِكَ بِأَنَّهُمۡ قَوۡمٞ لَّا يَعۡقِلُونَ",
+  "translation": "Namaza çağırdığınızda, onu alaya ve eğlenceye alırlar. Bu, onların akletmeyen bir toplum olmasındandır.",
+  "footnotes": ""
 }

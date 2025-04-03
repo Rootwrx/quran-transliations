@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2089",
-    "sura": "17",
-    "aya": "60",
-    "arabic_text": "وَإِذۡ قُلۡنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِۚ وَمَا جَعَلۡنَا ٱلرُّءۡيَا ٱلَّتِيٓ أَرَيۡنَٰكَ إِلَّا فِتۡنَةٗ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلۡمَلۡعُونَةَ فِي ٱلۡقُرۡءَانِۚ وَنُخَوِّفُهُمۡ فَمَا يَزِيدُهُمۡ إِلَّا طُغۡيَٰنٗا كَبِيرٗا",
-    "translation": "[Banggitin] noong nagsabi Kami sa iyo: “Tunay na ang Panginoon mo ay pumaligid sa mga tao [para magsanggalang sa iyo].” Hindi Kami gumawa sa pangitaing ipinakita Namin sa iyo[4] malibang bilang pagsubok para sa mga tao at sa isinumpang punong-kahoy [ng zaqqūm na nasaad] sa Qur’ān. Nagpapangamba Kami sa kanila ngunit hindi nakadagdag ito sa kanila kundi ng isang pagmamalabis na malaki.",
-    "footnotes": "[4] sa gabi ng paglalakbay papunta sa Jerusalem at pag-akyat sa mga langit"
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 288,
+  "verse_key": "17:60",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قُلۡنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِۚ وَمَا جَعَلۡنَا ٱلرُّءۡيَا ٱلَّتِيٓ أَرَيۡنَٰكَ إِلَّا فِتۡنَةٗ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلۡمَلۡعُونَةَ فِي ٱلۡقُرۡءَانِۚ وَنُخَوِّفُهُمۡ فَمَا يَزِيدُهُمۡ إِلَّا طُغۡيَٰنٗا كَبِيرٗا",
+  "translation": "[Banggitin] noong nagsabi Kami sa iyo: “Tunay na ang Panginoon mo ay pumaligid sa mga tao [para magsanggalang sa iyo].” Hindi Kami gumawa sa pangitaing ipinakita Namin sa iyo[4] malibang bilang pagsubok para sa mga tao at sa isinumpang punong-kahoy [ng zaqqūm na nasaad] sa Qur’ān. Nagpapangamba Kami sa kanila ngunit hindi nakadagdag ito sa kanila kundi ng isang pagmamalabis na malaki.",
+  "footnotes": "[4] sa gabi ng paglalakbay papunta sa Jerusalem at pag-akyat sa mga langit"
 }

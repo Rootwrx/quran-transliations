@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4330",
-    "sura": "43",
-    "aya": "5",
-    "arabic_text": "أَفَنَضۡرِبُ عَنكُمُ ٱلذِّكۡرَ صَفۡحًا أَن كُنتُمۡ قَوۡمٗا مُّسۡرِفِينَ",
-    "translation": "Lẽ nào TA phải lấy lại Lời Nhắc Nhở (Qur’an) khỏi các ngươi bởi vì các ngươi là đám người tội lỗi quá độ?! (TA không làm thế vì lòng nhân từ của TA dành cho các ngươi đòi hỏi điều ngược lại).",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 489,
+  "verse_key": "43:5",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَنَضۡرِبُ عَنكُمُ ٱلذِّكۡرَ صَفۡحًا أَن كُنتُمۡ قَوۡمٗا مُّسۡرِفِينَ",
+  "translation": "Lẽ nào TA phải lấy lại Lời Nhắc Nhở (Qur’an) khỏi các ngươi bởi vì các ngươi là đám người tội lỗi quá độ?! (TA không làm thế vì lòng nhân từ của TA dành cho các ngươi đòi hỏi điều ngược lại).",
+  "footnotes": ""
 }

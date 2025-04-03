@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6083",
-    "sura": "93",
-    "aya": "4",
-    "arabic_text": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ",
-    "translation": " 4. And indeed the Hereafter is better for you than the present (life of this world).",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 596,
+  "verse_key": "93:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَلۡأٓخِرَةُ خَيۡرٞ لَّكَ مِنَ ٱلۡأُولَىٰ",
+  "translation": " 4. And indeed the Hereafter is better for you than the present (life of this world).",
+  "footnotes": ""
 }

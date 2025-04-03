@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "33",
-    "sura": "2",
-    "aya": "26",
-    "arabic_text": "۞ إِنَّ ٱللَّهَ لَا يَسۡتَحۡيِۦٓ أَن يَضۡرِبَ مَثَلٗا مَّا بَعُوضَةٗ فَمَا فَوۡقَهَاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۖ وَأَمَّا ٱلَّذِينَ كَفَرُواْ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۘ يُضِلُّ بِهِۦ كَثِيرٗا وَيَهۡدِي بِهِۦ كَثِيرٗاۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلۡفَٰسِقِينَ",
-    "translation": "Dhugumatti Rabbiin bookees taatee waan ishee irra guddaa (yookiin xiqqaa) fakkeenya taasisuu hin saalfatu. Warri amanan akka inni dhugaa Gooftaa isaanii irraa ta’e ni beeku. Isaan kafaran immoo \"Rabbiin fakkeenya kanatti maal fedhe?\" jedhu. [Rabbiin] kanaan (namoota) baay’ee jallisee, (namoota) baay’ees qajeelcha. Finciltoota malees (kan biraa) ittiin hin jallisu.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 5,
+  "verse_key": "2:26",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّ ٱللَّهَ لَا يَسۡتَحۡيِۦٓ أَن يَضۡرِبَ مَثَلٗا مَّا بَعُوضَةٗ فَمَا فَوۡقَهَاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۖ وَأَمَّا ٱلَّذِينَ كَفَرُواْ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۘ يُضِلُّ بِهِۦ كَثِيرٗا وَيَهۡدِي بِهِۦ كَثِيرٗاۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلۡفَٰسِقِينَ",
+  "translation": "Dhugumatti Rabbiin bookees taatee waan ishee irra guddaa (yookiin xiqqaa) fakkeenya taasisuu hin saalfatu. Warri amanan akka inni dhugaa Gooftaa isaanii irraa ta’e ni beeku. Isaan kafaran immoo \"Rabbiin fakkeenya kanatti maal fedhe?\" jedhu. [Rabbiin] kanaan (namoota) baay’ee jallisee, (namoota) baay’ees qajeelcha. Finciltoota malees (kan biraa) ittiin hin jallisu.",
+  "footnotes": ""
 }

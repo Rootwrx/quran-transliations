@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3179",
-    "sura": "27",
-    "aya": "20",
-    "arabic_text": "وَتَفَقَّدَ ٱلطَّيۡرَ فَقَالَ مَالِيَ لَآ أَرَى ٱلۡهُدۡهُدَ أَمۡ كَانَ مِنَ ٱلۡغَآئِبِينَ",
-    "translation": "Ni ho rero Sulayimani, yagendura ingabo ziwe z’inyoni kugira arabe ko ata yasivye muri zo, aca abona inyoni itahari, avuga ati: “Mbega vyagenze gute ko ntabona inyoni “Hudihudi[3]” nari menyereye kubona, canke yoba iri mu ngabo zasivye!”.",
-    "footnotes": "[3] Hudihudi, ni inyoni ikerebutse cane, inyaruka cane kandi ifise ubushobozi budasanzwe bw’ikoreshwa mw’itumatumanako, irarinda inzara n’inyota umwanya munini, ifise umunwa muremure usongoye hamwe n’umubiko muremure w’amubi atonze ku murongo ku mutwe wayo, ishobora guhagarika nya mubiko canke kuwuryamika, ifise ibara ryirabura rirobetse ibara ryera ku mababa no ku murizo, n’ibara risa n’inzahabu ku gatuntu no mw’izosi."
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 378,
+  "verse_key": "27:20",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَفَقَّدَ ٱلطَّيۡرَ فَقَالَ مَالِيَ لَآ أَرَى ٱلۡهُدۡهُدَ أَمۡ كَانَ مِنَ ٱلۡغَآئِبِينَ",
+  "translation": "Ni ho rero Sulayimani, yagendura ingabo ziwe z’inyoni kugira arabe ko ata yasivye muri zo, aca abona inyoni itahari, avuga ati: “Mbega vyagenze gute ko ntabona inyoni “Hudihudi[3]” nari menyereye kubona, canke yoba iri mu ngabo zasivye!”.",
+  "footnotes": "[3] Hudihudi, ni inyoni ikerebutse cane, inyaruka cane kandi ifise ubushobozi budasanzwe bw’ikoreshwa mw’itumatumanako, irarinda inzara n’inyota umwanya munini, ifise umunwa muremure usongoye hamwe n’umubiko muremure w’amubi atonze ku murongo ku mutwe wayo, ishobora guhagarika nya mubiko canke kuwuryamika, ifise ibara ryirabura rirobetse ibara ryera ku mababa no ku murizo, n’ibara risa n’inzahabu ku gatuntu no mw’izosi."
 }

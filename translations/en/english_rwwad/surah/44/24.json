@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4438",
-    "sura": "44",
-    "aya": "24",
-    "arabic_text": "وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندٞ مُّغۡرَقُونَ",
-    "translation": "And leave the sea parted[7]; for they are surely an army destined to drown.”",
-    "footnotes": "[7] i.e., calm and still, in order that Pharaoh and his soldiers would follow you and be drowned."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 497,
+  "verse_key": "44:24",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتۡرُكِ ٱلۡبَحۡرَ رَهۡوًاۖ إِنَّهُمۡ جُندٞ مُّغۡرَقُونَ",
+  "translation": "And leave the sea parted[7]; for they are surely an army destined to drown.”",
+  "footnotes": "[7] i.e., calm and still, in order that Pharaoh and his soldiers would follow you and be drowned."
 }

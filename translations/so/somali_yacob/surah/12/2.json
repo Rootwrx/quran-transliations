@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1598",
-    "sura": "12",
-    "aya": "2",
-    "arabic_text": "إِنَّآ أَنزَلۡنَٰهُ قُرۡءَٰنًا عَرَبِيّٗا لَّعَلَّكُمۡ تَعۡقِلُونَ",
-    "translation": "2. Annaga (Alle ah) baa soo dejinnay Qur’aan Carabi ah si aad u fahantaan2.",
-    "footnotes": "2. Allaah Qur’aanka wuxuu ku soo dejiyey afka u sharaf badan afafka, af Carabi, Nabiga ugu sharaf badan anbiyada,Nabi Muxammad, waxaa ka soo gaaarsiiyey xagga Alle Malagga ugu sharaf badan malaa’igta, malag Jabriil, meesha ugu sharaf badan meelaha waa lagu soo dejiyey (Makkah), bisha ugu sharaf badan bilahana (bisha Ramadaan) waa la soo dejiyey, waana Kitaabka u sharaf badan Kutubta uu soo dejiyey Alle. Sidaasuu dhan walba kaamil uga yahay Qur’aanku."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 235,
+  "verse_key": "12:2",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَنزَلۡنَٰهُ قُرۡءَٰنًا عَرَبِيّٗا لَّعَلَّكُمۡ تَعۡقِلُونَ",
+  "translation": "2. Annaga (Alle ah) baa soo dejinnay Qur’aan Carabi ah si aad u fahantaan2.",
+  "footnotes": "2. Allaah Qur’aanka wuxuu ku soo dejiyey afka u sharaf badan afafka, af Carabi, Nabiga ugu sharaf badan anbiyada,Nabi Muxammad, waxaa ka soo gaaarsiiyey xagga Alle Malagga ugu sharaf badan malaa’igta, malag Jabriil, meesha ugu sharaf badan meelaha waa lagu soo dejiyey (Makkah), bisha ugu sharaf badan bilahana (bisha Ramadaan) waa la soo dejiyey, waana Kitaabka u sharaf badan Kutubta uu soo dejiyey Alle. Sidaasuu dhan walba kaamil uga yahay Qur’aanku."
 }

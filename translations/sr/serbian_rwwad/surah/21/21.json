@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2504",
-    "sura": "21",
-    "aya": "21",
-    "arabic_text": "أَمِ ٱتَّخَذُوٓاْ ءَالِهَةٗ مِّنَ ٱلۡأَرۡضِ هُمۡ يُنشِرُونَ",
-    "translation": "Зар божанства која они од земље праве могу да оживе мртве?!",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 323,
+  "verse_key": "21:21",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمِ ٱتَّخَذُوٓاْ ءَالِهَةٗ مِّنَ ٱلۡأَرۡضِ هُمۡ يُنشِرُونَ",
+  "translation": "Зар божанства која они од земље праве могу да оживе мртве?!",
+  "footnotes": ""
 }

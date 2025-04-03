@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "768",
-    "sura": "5",
-    "aya": "99",
-    "arabic_text": "مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَٰغُۗ وَٱللَّهُ يَعۡلَمُ مَا تُبۡدُونَ وَمَا تَكۡتُمُونَ",
-    "translation": "Ɔsomafoͻ no deε n’asεdeε ara nesε, ͻbεbͻ asεm no ho dawuro; na Nyankopͻn deε Onim deε moda no adi wͻ badwa mu εna Onim deε mode suma nso.",
-    "footnotes": ""
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 124,
+  "verse_key": "5:99",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا عَلَى ٱلرَّسُولِ إِلَّا ٱلۡبَلَٰغُۗ وَٱللَّهُ يَعۡلَمُ مَا تُبۡدُونَ وَمَا تَكۡتُمُونَ",
+  "translation": "Ɔsomafoͻ no deε n’asεdeε ara nesε, ͻbεbͻ asεm no ho dawuro; na Nyankopͻn deε Onim deε moda no adi wͻ badwa mu εna Onim deε mode suma nso.",
+  "footnotes": ""
 }

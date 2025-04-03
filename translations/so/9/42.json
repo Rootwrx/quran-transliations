@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1277",
-    "sura": "9",
-    "aya": "42",
-    "arabic_text": "لَوۡ كَانَ عَرَضٗا قَرِيبٗا وَسَفَرٗا قَاصِدٗا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتۡ عَلَيۡهِمُ ٱلشُّقَّةُۚ وَسَيَحۡلِفُونَ بِٱللَّهِ لَوِ ٱسۡتَطَعۡنَا لَخَرَجۡنَا مَعَكُمۡ يُهۡلِكُونَ أَنفُسَهُمۡ وَٱللَّهُ يَعۡلَمُ إِنَّهُمۡ لَكَٰذِبُونَ",
-    "translation": "42. Hadday ahaan lahayd dheef dhow iyo safar fudud (munaafiqiintu) way ku raaci lahaayeen, tubtiise (duullaankii Tabuuk) baa ku dheeraatay, waxay ku dhaaran  Alle (markaad laabataan idinkoo soo guuleystey, iyagoo leh): haddaanu kareyno waa idin la bixi lahayn; waxay halaagi nafahooda, Allena wuu Og yahay inay yihiin beenalayaal.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 194,
+  "verse_key": "9:42",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَوۡ كَانَ عَرَضٗا قَرِيبٗا وَسَفَرٗا قَاصِدٗا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتۡ عَلَيۡهِمُ ٱلشُّقَّةُۚ وَسَيَحۡلِفُونَ بِٱللَّهِ لَوِ ٱسۡتَطَعۡنَا لَخَرَجۡنَا مَعَكُمۡ يُهۡلِكُونَ أَنفُسَهُمۡ وَٱللَّهُ يَعۡلَمُ إِنَّهُمۡ لَكَٰذِبُونَ",
+  "translation": "42. Hadday ahaan lahayd dheef dhow iyo safar fudud (munaafiqiintu) way ku raaci lahaayeen, tubtiise (duullaankii Tabuuk) baa ku dheeraatay, waxay ku dhaaran  Alle (markaad laabataan idinkoo soo guuleystey, iyagoo leh): haddaanu kareyno waa idin la bixi lahayn; waxay halaagi nafahooda, Allena wuu Og yahay inay yihiin beenalayaal.",
+  "footnotes": ""
 }

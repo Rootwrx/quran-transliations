@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4507",
-    "sura": "45",
-    "aya": "34",
-    "arabic_text": "وَقِيلَ ٱلۡيَوۡمَ نَنسَىٰكُمۡ كَمَا نَسِيتُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَا وَمَأۡوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ",
-    "translation": "Kuma aka ce: \"A yau zã Mu manta da ku, kamar yadda kuka manta da gamuwa da yininku wannan. Kuma mãkõmarku wutã ce, Kuma bã ku da waɗansu mãsu taimako.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 502,
+  "verse_key": "45:34",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقِيلَ ٱلۡيَوۡمَ نَنسَىٰكُمۡ كَمَا نَسِيتُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَا وَمَأۡوَىٰكُمُ ٱلنَّارُ وَمَا لَكُم مِّن نَّٰصِرِينَ",
+  "translation": "Kuma aka ce: \"A yau zã Mu manta da ku, kamar yadda kuka manta da gamuwa da yininku wannan. Kuma mãkõmarku wutã ce, Kuma bã ku da waɗansu mãsu taimako.",
+  "footnotes": ""
 }

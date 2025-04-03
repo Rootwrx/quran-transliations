@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "591",
-    "sura": "4",
-    "aya": "98",
-    "arabic_text": "إِلَّا ٱلۡمُسۡتَضۡعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلۡوِلۡدَٰنِ لَا يَسۡتَطِيعُونَ حِيلَةٗ وَلَا يَهۡتَدُونَ سَبِيلٗا",
-    "translation": " 98. Except the weak ones among men, women and children who cannot devise a plan, nor are they able to direct their way.",
-    "footnotes": ""
-  }
+  "id": 98,
+  "verse_number": 98,
+  "page_number": 94,
+  "verse_key": "4:98",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا ٱلۡمُسۡتَضۡعَفِينَ مِنَ ٱلرِّجَالِ وَٱلنِّسَآءِ وَٱلۡوِلۡدَٰنِ لَا يَسۡتَطِيعُونَ حِيلَةٗ وَلَا يَهۡتَدُونَ سَبِيلٗا",
+  "translation": " 98. Except the weak ones among men, women and children who cannot devise a plan, nor are they able to direct their way.",
+  "footnotes": ""
 }

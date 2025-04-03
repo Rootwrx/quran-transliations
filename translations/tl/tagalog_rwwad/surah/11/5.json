@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1478",
-    "sura": "11",
-    "aya": "5",
-    "arabic_text": "أَلَآ إِنَّهُمۡ يَثۡنُونَ صُدُورَهُمۡ لِيَسۡتَخۡفُواْ مِنۡهُۚ أَلَا حِينَ يَسۡتَغۡشُونَ ثِيَابَهُمۡ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
-    "translation": "Pansinin, tunay na sila ay nagtatakip ng mga dibdib nila upang makapagkubli sila [ng pagdududa] mula sa Kanya.[2] Pansinin, kapag nagpapabalot sila ng mga kasuutan nila ay nakaaalam Siya sa anumang inililihim nila at anumang inihahayag nila. Tunay na Siya ay Maalam sa nilalaman ng mga dibdib.",
-    "footnotes": "[2] O Pansinin, tunay na sila ay naglilihis ng mga dibdib nila upang makapagkubli sila mula sa Kanya. Pansinin, tunay na sila ay nagkikimkim ng ngitngit sa mga dibdib nila upang maikubli nila mula sa Kanya."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 221,
+  "verse_key": "11:5",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَآ إِنَّهُمۡ يَثۡنُونَ صُدُورَهُمۡ لِيَسۡتَخۡفُواْ مِنۡهُۚ أَلَا حِينَ يَسۡتَغۡشُونَ ثِيَابَهُمۡ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "translation": "Pansinin, tunay na sila ay nagtatakip ng mga dibdib nila upang makapagkubli sila [ng pagdududa] mula sa Kanya.[2] Pansinin, kapag nagpapabalot sila ng mga kasuutan nila ay nakaaalam Siya sa anumang inililihim nila at anumang inihahayag nila. Tunay na Siya ay Maalam sa nilalaman ng mga dibdib.",
+  "footnotes": "[2] O Pansinin, tunay na sila ay naglilihis ng mga dibdib nila upang makapagkubli sila mula sa Kanya. Pansinin, tunay na sila ay nagkikimkim ng ngitngit sa mga dibdib nila upang maikubli nila mula sa Kanya."
 }

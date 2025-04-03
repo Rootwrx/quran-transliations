@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5460",
-    "sura": "72",
-    "aya": "13",
-    "arabic_text": "وَأَنَّا لَمَّا سَمِعۡنَا ٱلۡهُدَىٰٓ ءَامَنَّا بِهِۦۖ فَمَن يُؤۡمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخۡسٗا وَلَا رَهَقٗا",
-    "translation": "13. Mpe ya sólo, tango toyokaki bokambi, (kurani) tondimaki na yango, mpe oyo akondima na Nkolo naye, abanga te тропа bokutolami ya lifuta naye, mpe akobebisama te.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 572,
+  "verse_key": "72:13",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّا لَمَّا سَمِعۡنَا ٱلۡهُدَىٰٓ ءَامَنَّا بِهِۦۖ فَمَن يُؤۡمِنۢ بِرَبِّهِۦ فَلَا يَخَافُ بَخۡسٗا وَلَا رَهَقٗا",
+  "translation": "13. Mpe ya sólo, tango toyokaki bokambi, (kurani) tondimaki na yango, mpe oyo akondima na Nkolo naye, abanga te тропа bokutolami ya lifuta naye, mpe akobebisama te.",
+  "footnotes": ""
 }

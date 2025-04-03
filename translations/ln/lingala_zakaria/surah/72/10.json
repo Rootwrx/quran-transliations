@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5457",
-    "sura": "72",
-    "aya": "10",
-    "arabic_text": "وَأَنَّا لَا نَدۡرِيٓ أَشَرٌّ أُرِيدَ بِمَن فِي ٱلۡأَرۡضِ أَمۡ أَرَادَ بِهِمۡ رَبُّهُمۡ رَشَدٗا",
-    "translation": "10. Mpe ya sólo, toyebi te soki bazali kolingela bato ya mokili mabe to Nkolo na bango alingi kotiya bango na nzela ya semba.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 572,
+  "verse_key": "72:10",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّا لَا نَدۡرِيٓ أَشَرٌّ أُرِيدَ بِمَن فِي ٱلۡأَرۡضِ أَمۡ أَرَادَ بِهِمۡ رَبُّهُمۡ رَشَدٗا",
+  "translation": "10. Mpe ya sólo, toyebi te soki bazali kolingela bato ya mokili mabe to Nkolo na bango alingi kotiya bango na nzela ya semba.",
+  "footnotes": ""
 }

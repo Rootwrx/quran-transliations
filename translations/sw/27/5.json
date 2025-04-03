@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3164",
-    "sura": "27",
-    "aya": "5",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ لَهُمۡ سُوٓءُ ٱلۡعَذَابِ وَهُمۡ فِي ٱلۡأٓخِرَةِ هُمُ ٱلۡأَخۡسَرُونَ",
-    "translation": "Hao ndio watapata adhabu mbaya kabisa, na hao katika Akhera ndio watapata khasara zaidi.",
-    "footnotes": "Hao ndio watapata adhabu mbaya kabisa, na Akhera ndio watakuwa khasarani kushinda wote."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 377,
+  "verse_key": "27:5",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ لَهُمۡ سُوٓءُ ٱلۡعَذَابِ وَهُمۡ فِي ٱلۡأٓخِرَةِ هُمُ ٱلۡأَخۡسَرُونَ",
+  "translation": "Hao ndio watapata adhabu mbaya kabisa, na hao katika Akhera ndio watapata khasara zaidi.",
+  "footnotes": "Hao ndio watapata adhabu mbaya kabisa, na Akhera ndio watakuwa khasarani kushinda wote."
 }

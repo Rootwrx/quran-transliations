@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4022",
-    "sura": "38",
-    "aya": "52",
-    "arabic_text": "۞ وَعِندَهُمۡ قَٰصِرَٰتُ ٱلطَّرۡفِ أَتۡرَابٌ",
-    "translation": "තවද සම වයසැති දමිත බැල්ම හෙළන කාන්තාවෝ ඔවුන් අබියස සිටිති.",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 456,
+  "verse_key": "38:52",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَعِندَهُمۡ قَٰصِرَٰتُ ٱلطَّرۡفِ أَتۡرَابٌ",
+  "translation": "තවද සම වයසැති දමිත බැල්ම හෙළන කාන්තාවෝ ඔවුන් අබියස සිටිති.",
+  "footnotes": ""
 }

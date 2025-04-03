@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "408",
-    "sura": "3",
-    "aya": "115",
-    "arabic_text": "وَمَا يَفۡعَلُواْ مِنۡ خَيۡرٖ فَلَن يُكۡفَرُوهُۗ وَٱللَّهُ عَلِيمُۢ بِٱلۡمُتَّقِينَ",
-    "translation": " Onların yaptıkları hiçbir hayır karşılıksız bırakılmayacaktır. Allah, takvâ sahiplerini hakkıyla bilendir.",
-    "footnotes": ""
-  }
+  "id": 115,
+  "verse_number": 115,
+  "page_number": 64,
+  "verse_key": "3:115",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا يَفۡعَلُواْ مِنۡ خَيۡرٖ فَلَن يُكۡفَرُوهُۗ وَٱللَّهُ عَلِيمُۢ بِٱلۡمُتَّقِينَ",
+  "translation": " Onların yaptıkları hiçbir hayır karşılıksız bırakılmayacaktır. Allah, takvâ sahiplerini hakkıyla bilendir.",
+  "footnotes": ""
 }

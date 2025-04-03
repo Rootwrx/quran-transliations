@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4735",
-    "sura": "51",
-    "aya": "60",
-    "arabic_text": "فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ",
-    "translation": "60. Malheur à ceux qui ont mécru, quand (viendra) ce jour qui est le leur et dont ils sont menacés !",
-    "footnotes": ""
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 523,
+  "verse_key": "51:60",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن يَوۡمِهِمُ ٱلَّذِي يُوعَدُونَ",
+  "translation": "60. Malheur à ceux qui ont mécru, quand (viendra) ce jour qui est le leur et dont ils sont menacés !",
+  "footnotes": ""
 }

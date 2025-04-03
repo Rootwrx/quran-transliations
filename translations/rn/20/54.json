@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2402",
-    "sura": "20",
-    "aya": "54",
-    "arabic_text": "كُلُواْ وَٱرۡعَوۡاْ أَنۡعَٰمَكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّأُوْلِي ٱلنُّهَىٰ",
-    "translation": "Bantu! Nimufungure rero mu vyiza bimera kw’isi, muheze muragire n’ibitungwa vyanyu ahari ubwatsi. Mu vy’ukuri muri ivyo vyose rero, ni ukuri harimwo ivyemezo vyotuma abanyabwenge babushitse[3], batahura ubushobozi n'ububasha vy’Imana Allah, bakayisenga ari Imwe Rudende.",
-    "footnotes": "[3] Abanyabwenge babushitse, ni abantu bafise ubwenge ndemanwa butuma barangwa n’ingeso nziza bagakora n’ivyiza."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 315,
+  "verse_key": "20:54",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُواْ وَٱرۡعَوۡاْ أَنۡعَٰمَكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّأُوْلِي ٱلنُّهَىٰ",
+  "translation": "Bantu! Nimufungure rero mu vyiza bimera kw’isi, muheze muragire n’ibitungwa vyanyu ahari ubwatsi. Mu vy’ukuri muri ivyo vyose rero, ni ukuri harimwo ivyemezo vyotuma abanyabwenge babushitse[3], batahura ubushobozi n'ububasha vy’Imana Allah, bakayisenga ari Imwe Rudende.",
+  "footnotes": "[3] Abanyabwenge babushitse, ni abantu bafise ubwenge ndemanwa butuma barangwa n’ingeso nziza bagakora n’ivyiza."
 }

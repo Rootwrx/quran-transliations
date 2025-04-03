@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4812",
-    "sura": "53",
-    "aya": "28",
-    "arabic_text": "وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـٔٗا",
-    "translation": "28. Kasi bazali na boyebi te, bazali sé kolanda makanisi. Mpe makanisi esalaka bosembo eloko te.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 527,
+  "verse_key": "53:28",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا لَهُم بِهِۦ مِنۡ عِلۡمٍۖ إِن يَتَّبِعُونَ إِلَّا ٱلظَّنَّۖ وَإِنَّ ٱلظَّنَّ لَا يُغۡنِي مِنَ ٱلۡحَقِّ شَيۡـٔٗا",
+  "translation": "28. Kasi bazali na boyebi te, bazali sé kolanda makanisi. Mpe makanisi esalaka bosembo eloko te.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6125",
-    "sura": "96",
-    "aya": "19",
-    "arabic_text": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
-    "translation": "Không! Ngươi (Thiên Sứ Muhammad) đừng nghe theo hắn, hãy cúi đầu quỳ lạy (Allah) và hãy đến gần (Ngài)!",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 597,
+  "verse_key": "96:19",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 14,
+  "text": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+  "translation": "Không! Ngươi (Thiên Sứ Muhammad) đừng nghe theo hắn, hãy cúi đầu quỳ lạy (Allah) và hãy đến gần (Ngài)!",
+  "footnotes": ""
 }

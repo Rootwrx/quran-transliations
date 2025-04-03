@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6010",
-    "sura": "89",
-    "aya": "17",
-    "arabic_text": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ",
-    "translation": "No indeed[6]! You are not kind to the orphan,",
-    "footnotes": "[6] It is not as you think. Allah puts people to test through prosperity and hardship and rewards their gratitude and patience in the Hereafter."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 593,
+  "verse_key": "89:17",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّاۖ بَل لَّا تُكۡرِمُونَ ٱلۡيَتِيمَ",
+  "translation": "No indeed[6]! You are not kind to the orphan,",
+  "footnotes": "[6] It is not as you think. Allah puts people to test through prosperity and hardship and rewards their gratitude and patience in the Hereafter."
 }

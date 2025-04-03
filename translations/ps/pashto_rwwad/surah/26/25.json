@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2957",
-    "sura": "26",
-    "aya": "25",
-    "arabic_text": "قَالَ لِمَنۡ حَوۡلَهُۥٓ أَلَا تَسۡتَمِعُونَ",
-    "translation": "فرعون خپلو شاوخوا خلكو ته وويل: تاسو نه اورئ؟",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 368,
+  "verse_key": "26:25",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لِمَنۡ حَوۡلَهُۥٓ أَلَا تَسۡتَمِعُونَ",
+  "translation": "فرعون خپلو شاوخوا خلكو ته وويل: تاسو نه اورئ؟",
+  "footnotes": ""
 }

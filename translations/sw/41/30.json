@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4248",
-    "sura": "41",
-    "aya": "30",
-    "arabic_text": "إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ ٱسۡتَقَٰمُواْ تَتَنَزَّلُ عَلَيۡهِمُ ٱلۡمَلَٰٓئِكَةُ أَلَّا تَخَافُواْ وَلَا تَحۡزَنُواْ وَأَبۡشِرُواْ بِٱلۡجَنَّةِ ٱلَّتِي كُنتُمۡ تُوعَدُونَ",
-    "translation": "Hakika walio sema: Mola wetu Mlezi ni Mwenyezi Mungu! Kisha wakanyooka sawa, hao huwateremkia Malaika wakawaambia: Msiogope, wala msihuzunike; nanyi furahini kwa Pepo mliyo kuwa mkiahidiwa.",
-    "footnotes": "Hakika walio sema: Mola wetu Mlezi ni Mwenyezi Mungu, kwa kuukubali Upweke wake, kisha wakasimama sawa sawa juu ya sharia zake, Malaika watawateremkia mara kwa mara wakiwaambia: Msikhofu kukuteremkieni shari, wala msihuzunike kuwa mtakosa kheri, na furahini kuwa mtapata Pepo mliyo ahidiwa kwa ndimi za Manabii na Mitume."
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 480,
+  "verse_key": "41:30",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ ٱسۡتَقَٰمُواْ تَتَنَزَّلُ عَلَيۡهِمُ ٱلۡمَلَٰٓئِكَةُ أَلَّا تَخَافُواْ وَلَا تَحۡزَنُواْ وَأَبۡشِرُواْ بِٱلۡجَنَّةِ ٱلَّتِي كُنتُمۡ تُوعَدُونَ",
+  "translation": "Hakika walio sema: Mola wetu Mlezi ni Mwenyezi Mungu! Kisha wakanyooka sawa, hao huwateremkia Malaika wakawaambia: Msiogope, wala msihuzunike; nanyi furahini kwa Pepo mliyo kuwa mkiahidiwa.",
+  "footnotes": "Hakika walio sema: Mola wetu Mlezi ni Mwenyezi Mungu, kwa kuukubali Upweke wake, kisha wakasimama sawa sawa juu ya sharia zake, Malaika watawateremkia mara kwa mara wakiwaambia: Msikhofu kukuteremkieni shari, wala msihuzunike kuwa mtakosa kheri, na furahini kuwa mtapata Pepo mliyo ahidiwa kwa ndimi za Manabii na Mitume."
 }

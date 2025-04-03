@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4219",
-    "sura": "41",
-    "aya": "1",
-    "arabic_text": "حمٓ",
-    "translation": "Hā mīm. (Allāhu ló mọ ohun tí Ó gbàlérò pẹ̀lú àwọn háràfí náà.)[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al Baƙọrah; 2:1."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 477,
+  "verse_key": "41:1",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حمٓ",
+  "translation": "Hā mīm. (Allāhu ló mọ ohun tí Ó gbàlérò pẹ̀lú àwọn háràfí náà.)[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al Baƙọrah; 2:1."
 }

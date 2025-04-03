@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "236",
-    "sura": "2",
-    "aya": "229",
-    "arabic_text": "ٱلطَّلَٰقُ مَرَّتَانِۖ فَإِمۡسَاكُۢ بِمَعۡرُوفٍ أَوۡ تَسۡرِيحُۢ بِإِحۡسَٰنٖۗ وَلَا يَحِلُّ لَكُمۡ أَن تَأۡخُذُواْ مِمَّآ ءَاتَيۡتُمُوهُنَّ شَيۡـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِۖ فَإِنۡ خِفۡتُمۡ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيۡهِمَا فِيمَا ٱفۡتَدَتۡ بِهِۦۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَعۡتَدُوهَاۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
-    "translation": "229. Bokabwani ya libala ezalaka sé mbala mibale. Na sima, bakoki kozongana na ndenge elongobani, to mpe kokabwana na lolenge ya malamu. Mpe esengeli te na bino mibali kobotola maye bopesaki bango na libala, sé soki babangi ete bakokoka te kobatela mibeko ya Allah.(1) Mpe soki bobangi ete bango mibale bakotelemisa mibeko ya Allah te, na bongo ezali lisumu te likolo na bango ete mobali andima kozua mwa lompata oyo mwasi apesi mpona komikangola, wana nde mibeko ya Allah. Bobuka yango te, oyo akobuka mibeko mia Allah bango wana nde bazali bato mabe.",
-    "footnotes": "1 Bango mibale."
-  }
+  "id": 229,
+  "verse_number": 229,
+  "page_number": 36,
+  "verse_key": "2:229",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 14,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلطَّلَٰقُ مَرَّتَانِۖ فَإِمۡسَاكُۢ بِمَعۡرُوفٍ أَوۡ تَسۡرِيحُۢ بِإِحۡسَٰنٖۗ وَلَا يَحِلُّ لَكُمۡ أَن تَأۡخُذُواْ مِمَّآ ءَاتَيۡتُمُوهُنَّ شَيۡـًٔا إِلَّآ أَن يَخَافَآ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِۖ فَإِنۡ خِفۡتُمۡ أَلَّا يُقِيمَا حُدُودَ ٱللَّهِ فَلَا جُنَاحَ عَلَيۡهِمَا فِيمَا ٱفۡتَدَتۡ بِهِۦۗ تِلۡكَ حُدُودُ ٱللَّهِ فَلَا تَعۡتَدُوهَاۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+  "translation": "229. Bokabwani ya libala ezalaka sé mbala mibale. Na sima, bakoki kozongana na ndenge elongobani, to mpe kokabwana na lolenge ya malamu. Mpe esengeli te na bino mibali kobotola maye bopesaki bango na libala, sé soki babangi ete bakokoka te kobatela mibeko ya Allah.(1) Mpe soki bobangi ete bango mibale bakotelemisa mibeko ya Allah te, na bongo ezali lisumu te likolo na bango ete mobali andima kozua mwa lompata oyo mwasi apesi mpona komikangola, wana nde mibeko ya Allah. Bobuka yango te, oyo akobuka mibeko mia Allah bango wana nde bazali bato mabe.",
+  "footnotes": "1 Bango mibale."
 }

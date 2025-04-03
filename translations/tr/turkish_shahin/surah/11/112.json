@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1585",
-    "sura": "11",
-    "aya": "112",
-    "arabic_text": "فَٱسۡتَقِمۡ كَمَآ أُمِرۡتَ وَمَن تَابَ مَعَكَ وَلَا تَطۡغَوۡاْۚ إِنَّهُۥ بِمَا تَعۡمَلُونَ بَصِيرٞ",
-    "translation": "  O halde seninle beraber tevbe edenlerle birlikte emrolunduğun gibi dosdoğru ol! Aşırı da gitmeyin. Çünkü O, sizin yaptıklarınızı çok iyi görendir.",
-    "footnotes": ""
-  }
+  "id": 112,
+  "verse_number": 112,
+  "page_number": 234,
+  "verse_key": "11:112",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱسۡتَقِمۡ كَمَآ أُمِرۡتَ وَمَن تَابَ مَعَكَ وَلَا تَطۡغَوۡاْۚ إِنَّهُۥ بِمَا تَعۡمَلُونَ بَصِيرٞ",
+  "translation": "  O halde seninle beraber tevbe edenlerle birlikte emrolunduğun gibi dosdoğru ol! Aşırı da gitmeyin. Çünkü O, sizin yaptıklarınızı çok iyi görendir.",
+  "footnotes": ""
 }

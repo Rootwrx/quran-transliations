@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3884",
-    "sura": "37",
-    "aya": "96",
-    "arabic_text": "وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ",
-    "translation": "हालाँकि अल्लाह ही ने तुम्हें पैदा किया तथा उसे भी जो तुम करते हो।",
-    "footnotes": ""
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 449,
+  "verse_key": "37:96",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ خَلَقَكُمۡ وَمَا تَعۡمَلُونَ",
+  "translation": "हालाँकि अल्लाह ही ने तुम्हें पैदा किया तथा उसे भी जो तुम करते हो।",
+  "footnotes": ""
 }

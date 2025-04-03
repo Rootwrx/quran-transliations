@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1452",
-    "sura": "10",
-    "aya": "88",
-    "arabic_text": "وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيۡتَ فِرۡعَوۡنَ وَمَلَأَهُۥ زِينَةٗ وَأَمۡوَٰلٗا فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا رَبَّنَا لِيُضِلُّواْ عَن سَبِيلِكَۖ رَبَّنَا ٱطۡمِسۡ عَلَىٰٓ أَمۡوَٰلِهِمۡ وَٱشۡدُدۡ عَلَىٰ قُلُوبِهِمۡ فَلَا يُؤۡمِنُواْ حَتَّىٰ يَرَوُاْ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
-    "translation": "Na Musa akasema: Mola wetu Mlezi! Hakika wewe umempa Firauni na wakuu wake mapambo na mali katika maisha ya dunia. Hivyo wanapoteza watu na Njia yako. Mola wetu Mlezi! Yafutilie mbali mali yao na zifunge nyoyo zao, wasiamini mpaka waione adhabu chungu.",
-    "footnotes": "Walivyo shikilia makafiri katika kumfanyia inda Musa, alimwomba Mwenyezi Mungu kwa kusema: Ewe Mola Mlezi wangu! Hakika Wewe umempa Firauni na watukufu wake starehe za duniani, na mali, na wana, na utawala. Na matokeo ya neema hizi ni kupita kwao mipaka katika kupotea na kupoteza watu waache Njia ya Haki! Ewe Mwenyezi Mungu! Yafutilie mbali mali yao, na uwaache katika kiza cha nyoyo zao, wasijaaliwe kuipata Imani mpaka waione kwa macho adhabu iliyo chungu, ambayo ndiyo mwisho unao wangojea, ili wawe ni onyo kwa wengineo."
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 218,
+  "verse_key": "10:88",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ مُوسَىٰ رَبَّنَآ إِنَّكَ ءَاتَيۡتَ فِرۡعَوۡنَ وَمَلَأَهُۥ زِينَةٗ وَأَمۡوَٰلٗا فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا رَبَّنَا لِيُضِلُّواْ عَن سَبِيلِكَۖ رَبَّنَا ٱطۡمِسۡ عَلَىٰٓ أَمۡوَٰلِهِمۡ وَٱشۡدُدۡ عَلَىٰ قُلُوبِهِمۡ فَلَا يُؤۡمِنُواْ حَتَّىٰ يَرَوُاْ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+  "translation": "Na Musa akasema: Mola wetu Mlezi! Hakika wewe umempa Firauni na wakuu wake mapambo na mali katika maisha ya dunia. Hivyo wanapoteza watu na Njia yako. Mola wetu Mlezi! Yafutilie mbali mali yao na zifunge nyoyo zao, wasiamini mpaka waione adhabu chungu.",
+  "footnotes": "Walivyo shikilia makafiri katika kumfanyia inda Musa, alimwomba Mwenyezi Mungu kwa kusema: Ewe Mola Mlezi wangu! Hakika Wewe umempa Firauni na watukufu wake starehe za duniani, na mali, na wana, na utawala. Na matokeo ya neema hizi ni kupita kwao mipaka katika kupotea na kupoteza watu waache Njia ya Haki! Ewe Mwenyezi Mungu! Yafutilie mbali mali yao, na uwaache katika kiza cha nyoyo zao, wasijaaliwe kuipata Imani mpaka waione kwa macho adhabu iliyo chungu, ambayo ndiyo mwisho unao wangojea, ili wawe ni onyo kwa wengineo."
 }

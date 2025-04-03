@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1359",
-    "sura": "9",
-    "aya": "124",
-    "arabic_text": "وَإِذَا مَآ أُنزِلَتۡ سُورَةٞ فَمِنۡهُم مَّن يَقُولُ أَيُّكُمۡ زَادَتۡهُ هَٰذِهِۦٓ إِيمَٰنٗاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَزَادَتۡهُمۡ إِيمَٰنٗا وَهُمۡ يَسۡتَبۡشِرُونَ",
-    "translation": "Wenn eine Sura (als Offenbarung) herabgesandt wird, dann gibt es unter ihnen manche, die sagen: Wem von euch hat dies(e Sura) seinen Glauben vermehrt? Was nun diejenigen angeht, die glauben, so hat sie ihren Glauben vermehrt, und sie freuen sich über die frohe Botschaft.",
-    "footnotes": null
-  }
+  "id": 124,
+  "verse_number": 124,
+  "page_number": 207,
+  "verse_key": "9:124",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا مَآ أُنزِلَتۡ سُورَةٞ فَمِنۡهُم مَّن يَقُولُ أَيُّكُمۡ زَادَتۡهُ هَٰذِهِۦٓ إِيمَٰنٗاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَزَادَتۡهُمۡ إِيمَٰنٗا وَهُمۡ يَسۡتَبۡشِرُونَ",
+  "translation": "Wenn eine Sura (als Offenbarung) herabgesandt wird, dann gibt es unter ihnen manche, die sagen: Wem von euch hat dies(e Sura) seinen Glauben vermehrt? Was nun diejenigen angeht, die glauben, so hat sie ihren Glauben vermehrt, und sie freuen sich über die frohe Botschaft.",
+  "footnotes": null
 }

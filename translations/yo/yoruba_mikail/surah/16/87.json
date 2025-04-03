@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1988",
-    "sura": "16",
-    "aya": "87",
-    "arabic_text": "وَأَلۡقَوۡاْ إِلَى ٱللَّهِ يَوۡمَئِذٍ ٱلسَّلَمَۖ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
-    "translation": "Wọ́n sì máa jura wọn sílẹ̀ fún Allāhu ní ọjọ́ yẹn. Ohun tí wọ́n ń dá ní àdápa irọ́ sì di òfo mọ́ wọn lọ́wọ́.[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-’Ani‘ām; 6:24."
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 276,
+  "verse_key": "16:87",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَلۡقَوۡاْ إِلَى ٱللَّهِ يَوۡمَئِذٍ ٱلسَّلَمَۖ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
+  "translation": "Wọ́n sì máa jura wọn sílẹ̀ fún Allāhu ní ọjọ́ yẹn. Ohun tí wọ́n ń dá ní àdápa irọ́ sì di òfo mọ́ wọn lọ́wọ́.[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-’Ani‘ām; 6:24."
 }

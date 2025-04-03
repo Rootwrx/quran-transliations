@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5569",
-    "sura": "75",
-    "aya": "18",
-    "arabic_text": "فَإِذَا قَرَأۡنَٰهُ فَٱتَّبِعۡ قُرۡءَانَهُۥ",
-    "translation": "ನಾವು ಅದನ್ನು ಪಠಿಸಿದರೆ ನೀವು ಆ ಪಠಣವನ್ನು ಹಿಂಬಾಲಿಸಿರಿ.",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 577,
+  "verse_key": "75:18",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا قَرَأۡنَٰهُ فَٱتَّبِعۡ قُرۡءَانَهُۥ",
+  "translation": "ನಾವು ಅದನ್ನು ಪಠಿಸಿದರೆ ನೀವು ಆ ಪಠಣವನ್ನು ಹಿಂಬಾಲಿಸಿರಿ.",
+  "footnotes": ""
 }

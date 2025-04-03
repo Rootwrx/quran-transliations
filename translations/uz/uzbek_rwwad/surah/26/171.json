@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3103",
-    "sura": "26",
-    "aya": "171",
-    "arabic_text": "إِلَّا عَجُوزٗا فِي ٱلۡغَٰبِرِينَ",
-    "translation": "(Азобда) қолгувчилардан бўлган бир кампиргина бундан мустасно.",
-    "footnotes": ""
-  }
+  "id": 171,
+  "verse_number": 171,
+  "page_number": 374,
+  "verse_key": "26:171",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا عَجُوزٗا فِي ٱلۡغَٰبِرِينَ",
+  "translation": "(Азобда) қолгувчилардан бўлган бир кампиргина бундан мустасно.",
+  "footnotes": ""
 }

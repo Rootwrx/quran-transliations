@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5541",
-    "sura": "74",
-    "aya": "46",
-    "arabic_text": "وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ",
-    "translation": "আৰু আমি প্ৰতিদান দিৱসক অস্বীকাৰ কৰিছিলোঁ,",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 576,
+  "verse_key": "74:46",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكُنَّا نُكَذِّبُ بِيَوۡمِ ٱلدِّينِ",
+  "translation": "আৰু আমি প্ৰতিদান দিৱসক অস্বীকাৰ কৰিছিলোঁ,",
+  "footnotes": ""
 }

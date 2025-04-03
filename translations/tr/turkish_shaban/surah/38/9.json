@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3979",
-    "sura": "38",
-    "aya": "9",
-    "arabic_text": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَحۡمَةِ رَبِّكَ ٱلۡعَزِيزِ ٱلۡوَهَّابِ",
-    "translation": "Yoksa Aziz ve Vehhab olan Rabbinin rahmet hazineleri onların yanında mı? ",
-    "footnotes": null
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 453,
+  "verse_key": "38:9",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَحۡمَةِ رَبِّكَ ٱلۡعَزِيزِ ٱلۡوَهَّابِ",
+  "translation": "Yoksa Aziz ve Vehhab olan Rabbinin rahmet hazineleri onların yanında mı? ",
+  "footnotes": null
 }

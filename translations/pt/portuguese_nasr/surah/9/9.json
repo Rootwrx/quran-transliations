@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1244",
-    "sura": "9",
-    "aya": "9",
-    "arabic_text": "ٱشۡتَرَوۡاْ بِـَٔايَٰتِ ٱللَّهِ ثَمَنٗا قَلِيلٗا فَصَدُّواْ عَن سَبِيلِهِۦٓۚ إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Venderam os versículos de Allah por ínfimo preço e afastaram os homens de Seu caminho. Por certo, que vil o que faziam!",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 188,
+  "verse_key": "9:9",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱشۡتَرَوۡاْ بِـَٔايَٰتِ ٱللَّهِ ثَمَنٗا قَلِيلٗا فَصَدُّواْ عَن سَبِيلِهِۦٓۚ إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Venderam os versículos de Allah por ínfimo preço e afastaram os homens de Seu caminho. Por certo, que vil o que faziam!",
+  "footnotes": ""
 }

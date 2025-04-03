@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "205",
-    "sura": "2",
-    "aya": "198",
-    "arabic_text": "لَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡۚ فَإِذَآ أَفَضۡتُم مِّنۡ عَرَفَٰتٖ فَٱذۡكُرُواْ ٱللَّهَ عِندَ ٱلۡمَشۡعَرِ ٱلۡحَرَامِۖ وَٱذۡكُرُوهُ كَمَا هَدَىٰكُمۡ وَإِن كُنتُم مِّن قَبۡلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
-    "translation": "(198) There is no blame upon you for seeking bounty[76] from your Lord [during ḥajj]. But when you depart from ʿArafāt, remember Allāh at al-Mashʿar al-Ḥarām.[77] And remember Him, as He has guided you, for indeed, you were before that among those astray.",
-    "footnotes": "[76]- i.e., profit from trade or business.\n[77]- Which is in Muzdalifah."
-  }
+  "id": 198,
+  "verse_number": 198,
+  "page_number": 31,
+  "verse_key": "2:198",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡۚ فَإِذَآ أَفَضۡتُم مِّنۡ عَرَفَٰتٖ فَٱذۡكُرُواْ ٱللَّهَ عِندَ ٱلۡمَشۡعَرِ ٱلۡحَرَامِۖ وَٱذۡكُرُوهُ كَمَا هَدَىٰكُمۡ وَإِن كُنتُم مِّن قَبۡلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+  "translation": "(198) There is no blame upon you for seeking bounty[76] from your Lord [during ḥajj]. But when you depart from ʿArafāt, remember Allāh at al-Mashʿar al-Ḥarām.[77] And remember Him, as He has guided you, for indeed, you were before that among those astray.",
+  "footnotes": "[76]- i.e., profit from trade or business.\n[77]- Which is in Muzdalifah."
 }

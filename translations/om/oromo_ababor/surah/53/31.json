@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4815",
-    "sura": "53",
-    "aya": "31",
-    "arabic_text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ أَسَٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى",
-    "translation": "Wanti samiilee keessa jiruufi wanti dachii keessa jirus kan Rabbiiti. Isaan hamtuu dalagan waan isaan dalaganiin isaaniif galata galchuuf isaan toltuu hojjatanis ishee caaltuu taate isaan mindeessuuf (uume).",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 527,
+  "verse_key": "53:31",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ لِيَجۡزِيَ ٱلَّذِينَ أَسَٰٓـُٔواْ بِمَا عَمِلُواْ وَيَجۡزِيَ ٱلَّذِينَ أَحۡسَنُواْ بِٱلۡحُسۡنَى",
+  "translation": "Wanti samiilee keessa jiruufi wanti dachii keessa jirus kan Rabbiiti. Isaan hamtuu dalagan waan isaan dalaganiin isaaniif galata galchuuf isaan toltuu hojjatanis ishee caaltuu taate isaan mindeessuuf (uume).",
+  "footnotes": ""
 }

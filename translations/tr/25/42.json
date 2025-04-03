@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2897",
-    "sura": "25",
-    "aya": "42",
-    "arabic_text": "إِن كَادَ لَيُضِلُّنَا عَنۡ ءَالِهَتِنَا لَوۡلَآ أَن صَبَرۡنَا عَلَيۡهَاۚ وَسَوۡفَ يَعۡلَمُونَ حِينَ يَرَوۡنَ ٱلۡعَذَابَ مَنۡ أَضَلُّ سَبِيلًا",
-    "translation": "“Eğer ilâhlarımıza sebat göstermeseydik az kalsın bizi ilâhlarımızdan saptıracaktı.” Yakında azabı gördüklerinde yolca kimin sapık olduğunu bileceklerdir.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 363,
+  "verse_key": "25:42",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن كَادَ لَيُضِلُّنَا عَنۡ ءَالِهَتِنَا لَوۡلَآ أَن صَبَرۡنَا عَلَيۡهَاۚ وَسَوۡفَ يَعۡلَمُونَ حِينَ يَرَوۡنَ ٱلۡعَذَابَ مَنۡ أَضَلُّ سَبِيلًا",
+  "translation": "“Eğer ilâhlarımıza sebat göstermeseydik az kalsın bizi ilâhlarımızdan saptıracaktı.” Yakında azabı gördüklerinde yolca kimin sapık olduğunu bileceklerdir.",
+  "footnotes": ""
 }

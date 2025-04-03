@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3413",
-    "sura": "30",
-    "aya": "4",
-    "arabic_text": "فِي بِضۡعِ سِنِينَۗ لِلَّهِ ٱلۡأَمۡرُ مِن قَبۡلُ وَمِنۢ بَعۡدُۚ وَيَوۡمَئِذٖ يَفۡرَحُ ٱلۡمُؤۡمِنُونَ",
-    "translation": "4. dentro de tres a nueve años[1]. Todo ocurre por voluntad de Dios, tanto la anterior derrota [de los bizantinos] como su victoria futura. Ese día los creyentes se alegrarán",
-    "footnotes": "[1] El ejército bizantino recibió una dura derrota en Antioquía en el 613 e. c., y como resultado de eso los persas empezaron a empujar y avanzar en todos los frentes. En aquel momento, hubiera sido muy difícil imaginar que los bizantinos irían a derrotar a los persas, pero el Corán prometió que ellos serían victoriosos en el espacio de 3 a 9 años. En el año 622 d.C, nueve años después de la derrota bizantina, las dos fuerzas (bizantinos y persas), se enfrentaron en las tierras de Armenia y el resultado de la batalla fue la victoria decisiva de los bizantinos sobre los persas, por primera vez, después de su derrota en el 613. La promesa fue cumplida tal y como Dios dijo. (Fuente: History of the Byzantine State [Historia del Estado Bizantino], Ostrogorsky, pp. 100-101; y History of Persia [Historia de Persia], Sykes, vol. 1, pp. 483-484.)"
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 404,
+  "verse_key": "30:4",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي بِضۡعِ سِنِينَۗ لِلَّهِ ٱلۡأَمۡرُ مِن قَبۡلُ وَمِنۢ بَعۡدُۚ وَيَوۡمَئِذٖ يَفۡرَحُ ٱلۡمُؤۡمِنُونَ",
+  "translation": "4. dentro de tres a nueve años[1]. Todo ocurre por voluntad de Dios, tanto la anterior derrota [de los bizantinos] como su victoria futura. Ese día los creyentes se alegrarán",
+  "footnotes": "[1] El ejército bizantino recibió una dura derrota en Antioquía en el 613 e. c., y como resultado de eso los persas empezaron a empujar y avanzar en todos los frentes. En aquel momento, hubiera sido muy difícil imaginar que los bizantinos irían a derrotar a los persas, pero el Corán prometió que ellos serían victoriosos en el espacio de 3 a 9 años. En el año 622 d.C, nueve años después de la derrota bizantina, las dos fuerzas (bizantinos y persas), se enfrentaron en las tierras de Armenia y el resultado de la batalla fue la victoria decisiva de los bizantinos sobre los persas, por primera vez, después de su derrota en el 613. La promesa fue cumplida tal y como Dios dijo. (Fuente: History of the Byzantine State [Historia del Estado Bizantino], Ostrogorsky, pp. 100-101; y History of Persia [Historia de Persia], Sykes, vol. 1, pp. 483-484.)"
 }

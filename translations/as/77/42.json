@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5664",
-    "sura": "77",
-    "aya": "42",
-    "arabic_text": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
-    "translation": "লগতে তেওঁলোকৰ হেঁপাহ অনুযায়ী ফলমূলৰ মাজত।",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 581,
+  "verse_key": "77:42",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفَوَٰكِهَ مِمَّا يَشۡتَهُونَ",
+  "translation": "লগতে তেওঁলোকৰ হেঁপাহ অনুযায়ী ফলমূলৰ মাজত।",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5532",
-    "sura": "74",
-    "aya": "37",
-    "arabic_text": "لِمَن شَآءَ مِنكُمۡ أَن يَتَقَدَّمَ أَوۡ يَتَأَخَّرَ",
-    "translation": "ಅಂದರೆ ನಿಮ್ಮಲ್ಲಿ ಮುಂದಕ್ಕೆ ಬರಲು ಅಥವಾ ಹಿಂದೆಯೇ ಉಳಿಯಲು ಇಚ್ಛಿಸುವವರಿಗೆ.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 576,
+  "verse_key": "74:37",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِمَن شَآءَ مِنكُمۡ أَن يَتَقَدَّمَ أَوۡ يَتَأَخَّرَ",
+  "translation": "ಅಂದರೆ ನಿಮ್ಮಲ್ಲಿ ಮುಂದಕ್ಕೆ ಬರಲು ಅಥವಾ ಹಿಂದೆಯೇ ಉಳಿಯಲು ಇಚ್ಛಿಸುವವರಿಗೆ.",
+  "footnotes": ""
 }

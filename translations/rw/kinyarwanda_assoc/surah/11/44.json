@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1517",
-    "sura": "11",
-    "aya": "44",
-    "arabic_text": "وَقِيلَ يَٰٓأَرۡضُ ٱبۡلَعِي مَآءَكِ وَيَٰسَمَآءُ أَقۡلِعِي وَغِيضَ ٱلۡمَآءُ وَقُضِيَ ٱلۡأَمۡرُ وَٱسۡتَوَتۡ عَلَى ٱلۡجُودِيِّۖ وَقِيلَ بُعۡدٗا لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
-    "translation": "Maze isi irabwirwa iti “Yewe wa si we! Mira amazi yawe! Nawe wa kirere we! Hagarika (imvura yawe). Nuko amazi arakama, iteka (ryo kuboreka) riba rirasohoye. Maze (inkuge) ihagarara ku musozi witwa Judi.[1] Nuko havugwa imvugo igira iti “Ukurimbuka kubaye ku bantu b’ababangikanyamana!”",
-    "footnotes": "[1] Umusozi witwa Judi, uherereye kuri ubu mu majyepfo y’igihugu cya Turukiya."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 226,
+  "verse_key": "11:44",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقِيلَ يَٰٓأَرۡضُ ٱبۡلَعِي مَآءَكِ وَيَٰسَمَآءُ أَقۡلِعِي وَغِيضَ ٱلۡمَآءُ وَقُضِيَ ٱلۡأَمۡرُ وَٱسۡتَوَتۡ عَلَى ٱلۡجُودِيِّۖ وَقِيلَ بُعۡدٗا لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+  "translation": "Maze isi irabwirwa iti “Yewe wa si we! Mira amazi yawe! Nawe wa kirere we! Hagarika (imvura yawe). Nuko amazi arakama, iteka (ryo kuboreka) riba rirasohoye. Maze (inkuge) ihagarara ku musozi witwa Judi.[1] Nuko havugwa imvugo igira iti “Ukurimbuka kubaye ku bantu b’ababangikanyamana!”",
+  "footnotes": "[1] Umusozi witwa Judi, uherereye kuri ubu mu majyepfo y’igihugu cya Turukiya."
 }

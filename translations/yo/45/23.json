@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4496",
-    "sura": "45",
-    "aya": "23",
-    "arabic_text": "أَفَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلۡمٖ وَخَتَمَ عَلَىٰ سَمۡعِهِۦ وَقَلۡبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةٗ فَمَن يَهۡدِيهِ مِنۢ بَعۡدِ ٱللَّهِۚ أَفَلَا تَذَكَّرُونَ",
-    "translation": "Sọ fún mi nípa ẹni tí ó sọ ìfẹ́-inú rẹ̀ di ọlọ́hun rẹ̀, tí Allāhu sì ṣì í lọ́nà pẹ̀lú ìmọ̀[1], tí Ó sì fi èdídí dí ìgbọ́rọ̀ rẹ̀ àti ọkàn rẹ̀, tí Ó tún fi èbìbò bo ojú rẹ̀! Ta ni ó máa fi ọ̀nà mọ̀ ọ́n lẹ́yìn Allāhu? Ṣé ẹ kò níí lo ìrántí ni?",
-    "footnotes": "1. Ìmọ̀ nípa ìṣìnà onífẹ̀ẹ́-inú ti wà lọ́dọ̀ Allāhu ṣíwájú ìṣẹ̀dá rẹ̀ pé kò níí tẹ̀lé ìmọ̀nà, kódà kí gbogbo ẹ̀rí tó yanjú dé àrọ́wọ́tó rẹ̀. Ìyẹn ni pé, ìṣìnà olùṣìnà kò bá Allāhu lójijì, kò sì titun sí I. Allāhu - Ọba Alámọ̀tán - kúkú ní ìmọ̀ ìbẹ̀rẹ̀ àti òpin ẹ̀dá."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 501,
+  "verse_key": "45:23",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلۡمٖ وَخَتَمَ عَلَىٰ سَمۡعِهِۦ وَقَلۡبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةٗ فَمَن يَهۡدِيهِ مِنۢ بَعۡدِ ٱللَّهِۚ أَفَلَا تَذَكَّرُونَ",
+  "translation": "Sọ fún mi nípa ẹni tí ó sọ ìfẹ́-inú rẹ̀ di ọlọ́hun rẹ̀, tí Allāhu sì ṣì í lọ́nà pẹ̀lú ìmọ̀[1], tí Ó sì fi èdídí dí ìgbọ́rọ̀ rẹ̀ àti ọkàn rẹ̀, tí Ó tún fi èbìbò bo ojú rẹ̀! Ta ni ó máa fi ọ̀nà mọ̀ ọ́n lẹ́yìn Allāhu? Ṣé ẹ kò níí lo ìrántí ni?",
+  "footnotes": "1. Ìmọ̀ nípa ìṣìnà onífẹ̀ẹ́-inú ti wà lọ́dọ̀ Allāhu ṣíwájú ìṣẹ̀dá rẹ̀ pé kò níí tẹ̀lé ìmọ̀nà, kódà kí gbogbo ẹ̀rí tó yanjú dé àrọ́wọ́tó rẹ̀. Ìyẹn ni pé, ìṣìnà olùṣìnà kò bá Allāhu lójijì, kò sì titun sí I. Allāhu - Ọba Alámọ̀tán - kúkú ní ìmọ̀ ìbẹ̀rẹ̀ àti òpin ẹ̀dá."
 }

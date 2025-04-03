@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4261",
-    "sura": "41",
-    "aya": "43",
-    "arabic_text": "مَّا يُقَالُ لَكَ إِلَّا مَا قَدۡ قِيلَ لِلرُّسُلِ مِن قَبۡلِكَۚ إِنَّ رَبَّكَ لَذُو مَغۡفِرَةٖ وَذُو عِقَابٍ أَلِيمٖ",
-    "translation": "Huambiwi ila yale yale waliyo ambiwa Mitume wa kabla yako. Hakika Mola wako Mlezi bila ya shaka ni Mwenye maghfira, na ni Mwenye adhabu chungu.",
-    "footnotes": "Ewe Muhammad! Huambiwi wewe na maadui wako ila kama walivyo ambiwa Mitume wa kabla yako na maadui wao, nayo ni matusi na kuambiwa mwongo. Hakika Muumba wako na Mlezi wako ana msamaha mwingi, na ni Mwenye kuadhibu kwa machungu makubwa. Basi Yeye humghufiria mwenye kutubu kwake, na humtesa mwenye kushikilia na inda yake."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 481,
+  "verse_key": "41:43",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا يُقَالُ لَكَ إِلَّا مَا قَدۡ قِيلَ لِلرُّسُلِ مِن قَبۡلِكَۚ إِنَّ رَبَّكَ لَذُو مَغۡفِرَةٖ وَذُو عِقَابٍ أَلِيمٖ",
+  "translation": "Huambiwi ila yale yale waliyo ambiwa Mitume wa kabla yako. Hakika Mola wako Mlezi bila ya shaka ni Mwenye maghfira, na ni Mwenye adhabu chungu.",
+  "footnotes": "Ewe Muhammad! Huambiwi wewe na maadui wako ila kama walivyo ambiwa Mitume wa kabla yako na maadui wao, nayo ni matusi na kuambiwa mwongo. Hakika Muumba wako na Mlezi wako ana msamaha mwingi, na ni Mwenye kuadhibu kwa machungu makubwa. Basi Yeye humghufiria mwenye kutubu kwake, na humtesa mwenye kushikilia na inda yake."
 }

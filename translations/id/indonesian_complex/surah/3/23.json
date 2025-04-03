@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "316",
-    "sura": "3",
-    "aya": "23",
-    "arabic_text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يُدۡعَوۡنَ إِلَىٰ كِتَٰبِ ٱللَّهِ لِيَحۡكُمَ بَيۡنَهُمۡ ثُمَّ يَتَوَلَّىٰ فَرِيقٞ مِّنۡهُمۡ وَهُم مُّعۡرِضُونَ",
-    "translation": "Tidakkah kamu memperhatikan orang-orang yang telah diberi bagian, yaitu Alkitab (Taurat), mereka diseru kepada kitab Allah supaya kitab itu menetapkan hukum diantara mereka; kemudian sebagian dari mereka berpaling, dan mereka selalu membelakangi (kebenaran).",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 53,
+  "verse_key": "3:23",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يُدۡعَوۡنَ إِلَىٰ كِتَٰبِ ٱللَّهِ لِيَحۡكُمَ بَيۡنَهُمۡ ثُمَّ يَتَوَلَّىٰ فَرِيقٞ مِّنۡهُمۡ وَهُم مُّعۡرِضُونَ",
+  "translation": "Tidakkah kamu memperhatikan orang-orang yang telah diberi bagian, yaitu Alkitab (Taurat), mereka diseru kepada kitab Allah supaya kitab itu menetapkan hukum diantara mereka; kemudian sebagian dari mereka berpaling, dan mereka selalu membelakangi (kebenaran).",
+  "footnotes": ""
 }

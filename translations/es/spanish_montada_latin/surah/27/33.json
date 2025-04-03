@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3192",
-    "sura": "27",
-    "aya": "33",
-    "arabic_text": "قَالُواْ نَحۡنُ أُوْلُواْ قُوَّةٖ وَأُوْلُواْ بَأۡسٖ شَدِيدٖ وَٱلۡأَمۡرُ إِلَيۡكِ فَٱنظُرِي مَاذَا تَأۡمُرِينَ",
-    "translation": "33. (Estos) respondieron: “Somos fuertes y diestros en la guerra, mas la decisión está en tus manos. Tú dirás lo que ordenas”.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 379,
+  "verse_key": "27:33",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ نَحۡنُ أُوْلُواْ قُوَّةٖ وَأُوْلُواْ بَأۡسٖ شَدِيدٖ وَٱلۡأَمۡرُ إِلَيۡكِ فَٱنظُرِي مَاذَا تَأۡمُرِينَ",
+  "translation": "33. (Estos) respondieron: “Somos fuertes y diestros en la guerra, mas la decisión está en tus manos. Tú dirás lo que ordenas”.",
+  "footnotes": ""
 }

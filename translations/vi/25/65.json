@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2920",
-    "sura": "25",
-    "aya": "65",
-    "arabic_text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصۡرِفۡ عَنَّا عَذَابَ جَهَنَّمَۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا",
-    "translation": "Họ là những người thường cầu nguyện: “Lạy Thượng Đế của bầy tôi, xin Ngài đưa bầy tôi ra xa khỏi hình phạt của Hỏa Ngục. Quả thật, sự trừng phạt nơi Hỏa Ngục là một sự trừng phạt dai dẳng.”",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 365,
+  "verse_key": "25:65",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا ٱصۡرِفۡ عَنَّا عَذَابَ جَهَنَّمَۖ إِنَّ عَذَابَهَا كَانَ غَرَامًا",
+  "translation": "Họ là những người thường cầu nguyện: “Lạy Thượng Đế của bầy tôi, xin Ngài đưa bầy tôi ra xa khỏi hình phạt của Hỏa Ngục. Quả thật, sự trừng phạt nơi Hỏa Ngục là một sự trừng phạt dai dẳng.”",
+  "footnotes": ""
 }

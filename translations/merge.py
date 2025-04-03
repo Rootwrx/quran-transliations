@@ -4,106 +4,118 @@ import glob
 from pathlib import Path
 
 def load_reference_data():
-    """Load reference data for all surahs and verses, including sajdah information."""
+    """Load reference data for all surahs and verses from the surah directory."""
     reference_data = {}
 
-    # Try to find the reference surah directory that contains the correct metadata
-    reference_dirs = ["surah", "en/surah", "ar/surah"]  # Add more potential paths if needed
+    # Path to the reference surah directory
+    surah_dir = "./surah"  # Adjust this path if needed
 
-    reference_dir = None
-    for dir_path in reference_dirs:
-        if os.path.exists(dir_path) and os.path.isdir(dir_path):
-            reference_dir = dir_path
-            break
+    if os.path.exists(surah_dir):
+        # Process each surah folder (1-114)
+        for surah_num in range(1, 115):
+            surah_folder = os.path.join(surah_dir, str(surah_num))
+            if os.path.exists(surah_folder):
+                surah_data = {}
 
-    if not reference_dir:
-        print("Warning: Could not find reference surah directory. Using default values.")
-        return reference_data
+                # Load index.json if it exists
+                index_file = os.path.join(surah_folder, "index.json")
+                if os.path.exists(index_file):
+                    try:
+                        with open(index_file, 'r', encoding='utf-8') as f:
+                            data = json.load(f)
+                            if "verses" in data and isinstance(data["verses"], list):
+                                for verse in data["verses"]:
+                                    verse_num = verse.get("number")
+                                    if verse_num:
+                                        surah_data[verse_num] = verse
+                    except json.JSONDecodeError:
+                        print(f"Error loading reference data from {index_file}")
 
-    # Load data from all surahs
-    for surah_num in range(1, 115):
-        surah_dir = os.path.join(reference_dir, str(surah_num))
-        if not os.path.exists(surah_dir):
-            continue
+                # Load individual verse files
+                verse_files = glob.glob(os.path.join(surah_folder, "[0-9]*.json"))
+                for verse_file in verse_files:
+                    try:
+                        verse_num = int(os.path.splitext(os.path.basename(verse_file))[0])
+                        with open(verse_file, 'r', encoding='utf-8') as f:
+                            verse_data = json.load(f)
+                            surah_data[verse_num] = verse_data
+                    except (ValueError, json.JSONDecodeError):
+                        continue
 
-        reference_data[str(surah_num)] = {"verses": {}}
-
-        # Load index file if it exists
-        index_file = os.path.join(surah_dir, "index.json")
-        if os.path.exists(index_file):
-            try:
-                with open(index_file, 'r', encoding='utf-8') as f:
-                    data = json.load(f)
-                    if "verses" in data and isinstance(data["verses"], list):
-                        for verse in data["verses"]:
-                            verse_num = str(verse.get("number", ""))
-                            if verse_num:
-                                reference_data[str(surah_num)]["verses"][verse_num] = verse
-            except json.JSONDecodeError:
-                print(f"Error loading reference data from {index_file}")
-
-        # Load individual verse files
-        verse_files = glob.glob(os.path.join(surah_dir, "[0-9]*.json"))
-        for verse_file in verse_files:
-            try:
-                verse_num = os.path.basename(verse_file).split('.')[0]
-                with open(verse_file, 'r', encoding='utf-8') as f:
-                    verse_data = json.load(f)
-                    reference_data[str(surah_num)]["verses"][verse_num] = verse_data
-            except (json.JSONDecodeError, IndexError):
-                print(f"Error loading reference data from {verse_file}")
+                reference_data[surah_num] = surah_data
 
     return reference_data
 
 def get_verse_metadata(reference_data, surah_num, verse_num):
     """Get metadata for a specific verse from reference data."""
-    default_metadata = {
+    try:
+        surah_num = int(surah_num)
+        verse_num = int(verse_num)
+
+        if surah_num in reference_data and verse_num in reference_data[surah_num]:
+            verse_data = reference_data[surah_num][verse_num]
+
+            # Determine sajdah_type based on sajdah_number
+            sajdah_type = None
+            if verse_data.get("sajdah_number") is not None:
+                sajdah_type = "obligatory"  # Default to obligatory, adjust as needed
+
+            return {
+                "hizb_number": verse_data.get("hizb_number", 1),
+                "rub_el_hizb_number": verse_data.get("rub_el_hizb_number", 1),
+                "ruku_number": verse_data.get("ruku_number", 1),
+                "manzil_number": verse_data.get("manzil_number", 1),
+                "sajdah_number": verse_data.get("sajdah_number"),
+                "sajdah_type": verse_data.get("sajdah_type", sajdah_type),
+                "page_number": verse_data.get("page_number", 1),
+                "juz_number": verse_data.get("juz_number", 1)
+            }
+    except (ValueError, TypeError):
+        pass
+
+    # Default values if reference data is not available
+    return {
         "hizb_number": 1,
         "rub_el_hizb_number": 1,
         "ruku_number": 1,
         "manzil_number": 1,
         "sajdah_number": None,
+        "sajdah_type": None,
         "page_number": 1,
         "juz_number": 1
     }
 
-    if not reference_data:
-        return default_metadata
-
-    surah_data = reference_data.get(str(surah_num), {})
-    verse_data = surah_data.get("verses", {}).get(str(verse_num), {})
-
-    metadata = default_metadata.copy()
-
-    # Update with reference data if available
-    for key in metadata:
-        if key in verse_data:
-            metadata[key] = verse_data[key]
-
-    return metadata
-
-def transform_verse(verse_data, reference_data=None, surah_num=None, verse_num=None):
+def transform_verse(verse_data, reference_data=None, surah_num=None):
     """Transform a verse from the old format to the new format."""
     # Extract data from the old format
-    sura = verse_data.get("sura", surah_num or "")
-    aya = verse_data.get("aya", verse_num or "")
+    sura = verse_data.get("sura", surah_num)
+    aya = verse_data.get("aya", "")
 
-    # Get metadata from reference data
-    metadata = get_verse_metadata(reference_data, sura, aya)
+    # Get metadata from reference data if available
+    metadata = {}
+    if reference_data and sura and aya:
+        metadata = get_verse_metadata(reference_data, sura, aya)
+
+    # Check if this is a sajdah verse
+    sajdah_number = metadata.get("sajdah_number")
+    sajdah_type = metadata.get("sajdah_type")
+
+    # If sajdah_number exists but sajdah_type doesn't, set a default type
+    if sajdah_number is not None and sajdah_type is None:
+        sajdah_type = "obligatory"  # Default type, adjust as needed
 
     # Create the new format
     new_verse = {
-        "id": int(aya) if aya and aya.isdigit() else None,
-        "number": int(aya) if aya and aya.isdigit() else None,
+        "id": int(aya) if aya and str(aya).isdigit() else None,
+        "verse_number": int(aya) if aya and str(aya).isdigit() else None,
+        "page_number": metadata.get("page_number", 1),
         "verse_key": f"{sura}:{aya}" if sura and aya else None,
-        "hizb_number": metadata["hizb_number"],
-        "rub_el_hizb_number": metadata["rub_el_hizb_number"],
-        "ruku_number": metadata["ruku_number"],
-        "manzil_number": metadata["manzil_number"],
-        "sajdah_number": metadata["sajdah_number"],  # This will now be correct from reference data
-        "page_number": metadata["page_number"],
-        "juz_number": metadata["juz_number"],
-        "arabic_text": verse_data.get("arabic_text", ""),
+        "juz_number": metadata.get("juz_number", 1),
+        "hizb_number": metadata.get("hizb_number", 1),
+        "rub_el_hizb_number": metadata.get("rub_el_hizb_number", 1),
+        "sajdah_type": sajdah_type,
+        "sajdah_number": sajdah_number,
+        "text": verse_data.get("arabic_text", ""),
         "translation": verse_data.get("translation", ""),
         "footnotes": verse_data.get("footnotes", "")
     }
@@ -152,8 +164,7 @@ def process_surah_folder(surah_num, surah_folder, reference_data):
                 if "result" in data and isinstance(data["result"], list):
                     verses = []
                     for verse_data in data["result"]:
-                        verse_num = verse_data.get("aya", "")
-                        new_verse = transform_verse(verse_data, reference_data, surah_num, verse_num)
+                        new_verse = transform_verse(verse_data, reference_data, surah_num)
                         verses.append(new_verse)
 
                     # Create the new index.json content
@@ -165,12 +176,13 @@ def process_surah_folder(surah_num, surah_folder, reference_data):
 
                     # Also process individual verse files
                     for verse in verses:
-                        verse_num = verse["number"]
-                        verse_file = os.path.join(surah_folder, f"{verse_num}.json")
+                        verse_num = verse["verse_number"]
+                        if verse_num:
+                            verse_file = os.path.join(surah_folder, f"{verse_num}.json")
 
-                        # Write the individual verse file
-                        with open(verse_file, 'w', encoding='utf-8') as f_verse:
-                            json.dump(verse, f_verse, ensure_ascii=False, indent=2)
+                            # Write the individual verse file
+                            with open(verse_file, 'w', encoding='utf-8') as f_verse:
+                                json.dump(verse, f_verse, ensure_ascii=False, indent=2)
             except json.JSONDecodeError:
                 print(f"    Error: Could not parse {index_file}")
 
@@ -179,14 +191,14 @@ def process_surah_folder(surah_num, surah_folder, reference_data):
     for verse_file in verse_files:
         if os.path.basename(verse_file) != "index.json":
             try:
-                verse_num = os.path.basename(verse_file).split('.')[0]
                 with open(verse_file, 'r', encoding='utf-8') as f:
                     data = json.load(f)
 
                     # Check if the data has the old format
                     if "result" in data and isinstance(data["result"], dict):
                         verse_data = data["result"]
-                        new_verse = transform_verse(verse_data, reference_data, surah_num, verse_num)
+                        verse_num = os.path.splitext(os.path.basename(verse_file))[0]
+                        new_verse = transform_verse(verse_data, reference_data, surah_num)
 
                         # Write the transformed verse
                         with open(verse_file, 'w', encoding='utf-8') as f_out:
@@ -198,10 +210,10 @@ def main():
     # Root directory containing all language folders
     root_dir = "."  # Change this to the actual root directory
 
-    # Load reference data first
+    # Load reference data for metadata
     print("Loading reference data...")
     reference_data = load_reference_data()
-    print(f"Loaded reference data for {len(reference_data)} surahs")
+    print(f"Reference data loaded for {len(reference_data)} surahs")
 
     # Get all language folders
     lang_folders = [f for f in os.listdir(root_dir) if os.path.isdir(os.path.join(root_dir, f)) and len(f) <= 3]

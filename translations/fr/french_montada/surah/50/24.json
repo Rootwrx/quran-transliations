@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4654",
-    "sura": "50",
-    "aya": "24",
-    "arabic_text": "أَلۡقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٖ",
-    "translation": "24. « Vous deux, (dira Allah), jetez dans la Géhenne tout mécréant obstiné et rebelle,",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 519,
+  "verse_key": "50:24",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلۡقِيَا فِي جَهَنَّمَ كُلَّ كَفَّارٍ عَنِيدٖ",
+  "translation": "24. « Vous deux, (dira Allah), jetez dans la Géhenne tout mécréant obstiné et rebelle,",
+  "footnotes": ""
 }

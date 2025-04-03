@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4444",
-    "sura": "44",
-    "aya": "30",
-    "arabic_text": "وَلَقَدۡ نَجَّيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ مِنَ ٱلۡعَذَابِ ٱلۡمُهِينِ",
-    "translation": "Ni ukuri, Twaranarokoye Bene Israyeli mu bihano bisuzuguza vyo gucurwa bufuni na buhoro;",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 497,
+  "verse_key": "44:30",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ نَجَّيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ مِنَ ٱلۡعَذَابِ ٱلۡمُهِينِ",
+  "translation": "Ni ukuri, Twaranarokoye Bene Israyeli mu bihano bisuzuguza vyo gucurwa bufuni na buhoro;",
+  "footnotes": ""
 }

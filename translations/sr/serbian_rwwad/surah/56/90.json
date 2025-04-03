@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5069",
-    "sura": "56",
-    "aya": "90",
-    "arabic_text": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
-    "translation": "А ако буде један од оних који су са десне стране,",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 537,
+  "verse_key": "56:90",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَمَّآ إِن كَانَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+  "translation": "А ако буде један од оних који су са десне стране,",
+  "footnotes": ""
 }

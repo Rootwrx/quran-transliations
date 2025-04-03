@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "652",
-    "sura": "4",
-    "aya": "159",
-    "arabic_text": "وَإِن مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ إِلَّا لَيُؤۡمِنَنَّ بِهِۦ قَبۡلَ مَوۡتِهِۦۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكُونُ عَلَيۡهِمۡ شَهِيدٗا",
-    "translation": "Kandi nta n’umwe mu bahawe igitabo utazamwemera mbere yo gupfa kwe.[1] Kandi no ku munsi w’imperuka azaba umuhamya wabo.",
-    "footnotes": "[1] Mbere yo gupfa kwe bifite ibisobanuro bibiri: - Bisobanuye ko nyuma y’uko Yesu azagaruka ku isi avuye mu Ijuru aho ari ubu, nawe igihe cye cyo gupfa kizagera. Aho rero ni ho abataramwemeraga cyangwa abamwemeraga ukundi bamwita Imana, bazemera nyabyo ko ari Intumwa y’Imana atari Imana. -Mbere yo gupfa k’uwahawe igitabo (Umuyahudi cyangwa Umunaswara); ubwo Malayika ushinzwe gukuramo roho z’ibiremwa azaba amugezeho, icyo gihe ni bwo yemera ko Yesu yari Intumwa ya Allah atari Imana, nyamara uko kwemera nta cyo kuba kukimumariye."
-  }
+  "id": 159,
+  "verse_number": 159,
+  "page_number": 103,
+  "verse_key": "4:159",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ إِلَّا لَيُؤۡمِنَنَّ بِهِۦ قَبۡلَ مَوۡتِهِۦۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكُونُ عَلَيۡهِمۡ شَهِيدٗا",
+  "translation": "Kandi nta n’umwe mu bahawe igitabo utazamwemera mbere yo gupfa kwe.[1] Kandi no ku munsi w’imperuka azaba umuhamya wabo.",
+  "footnotes": "[1] Mbere yo gupfa kwe bifite ibisobanuro bibiri: - Bisobanuye ko nyuma y’uko Yesu azagaruka ku isi avuye mu Ijuru aho ari ubu, nawe igihe cye cyo gupfa kizagera. Aho rero ni ho abataramwemeraga cyangwa abamwemeraga ukundi bamwita Imana, bazemera nyabyo ko ari Intumwa y’Imana atari Imana. -Mbere yo gupfa k’uwahawe igitabo (Umuyahudi cyangwa Umunaswara); ubwo Malayika ushinzwe gukuramo roho z’ibiremwa azaba amugezeho, icyo gihe ni bwo yemera ko Yesu yari Intumwa ya Allah atari Imana, nyamara uko kwemera nta cyo kuba kukimumariye."
 }

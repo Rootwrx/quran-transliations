@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4232",
-    "sura": "41",
-    "aya": "14",
-    "arabic_text": "إِذۡ جَآءَتۡهُمُ ٱلرُّسُلُ مِنۢ بَيۡنِ أَيۡدِيهِمۡ وَمِنۡ خَلۡفِهِمۡ أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۖ قَالُواْ لَوۡ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةٗ فَإِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
-    "translation": "(14) [That occurred] when the messengers had come to them before them and after them, [saying], \"Worship not except Allāh.\" They said, \"If our Lord had willed,[1388] He would have sent down the angels, so indeed we, in that with which you have been sent, are disbelievers.\"",
-    "footnotes": "[1388]- To send messengers."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 478,
+  "verse_key": "41:14",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ جَآءَتۡهُمُ ٱلرُّسُلُ مِنۢ بَيۡنِ أَيۡدِيهِمۡ وَمِنۡ خَلۡفِهِمۡ أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۖ قَالُواْ لَوۡ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةٗ فَإِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
+  "translation": "(14) [That occurred] when the messengers had come to them before them and after them, [saying], \"Worship not except Allāh.\" They said, \"If our Lord had willed,[1388] He would have sent down the angels, so indeed we, in that with which you have been sent, are disbelievers.\"",
+  "footnotes": "[1388]- To send messengers."
 }

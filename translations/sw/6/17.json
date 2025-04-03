@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "806",
-    "sura": "6",
-    "aya": "17",
-    "arabic_text": "وَإِن يَمۡسَسۡكَ ٱللَّهُ بِضُرّٖ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَۖ وَإِن يَمۡسَسۡكَ بِخَيۡرٖ فَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Na ikiwa Mwenyezi Mungu akikugusisha madhara, basi hapana wa kukuondolea hayo ila Yeye. Na ikiwa akikugusisha kheri, basi Yeye ndiye Mwenye uweza wa kila kitu.",
-    "footnotes": "Mwenyezi Mungu akikupatiliza kwa ovu, basi hapana wa kuliondoa hilo ila Yeye Mwenyewe. Na akikupa kheri basi hapana awezae kuirudisha fadhila yake, kwani Yeye ni Muweza wa kila kitu."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 129,
+  "verse_key": "6:17",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يَمۡسَسۡكَ ٱللَّهُ بِضُرّٖ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَۖ وَإِن يَمۡسَسۡكَ بِخَيۡرٖ فَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Na ikiwa Mwenyezi Mungu akikugusisha madhara, basi hapana wa kukuondolea hayo ila Yeye. Na ikiwa akikugusisha kheri, basi Yeye ndiye Mwenye uweza wa kila kitu.",
+  "footnotes": "Mwenyezi Mungu akikupatiliza kwa ovu, basi hapana wa kuliondoa hilo ila Yeye Mwenyewe. Na akikupa kheri basi hapana awezae kuirudisha fadhila yake, kwani Yeye ni Muweza wa kila kitu."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2070",
-    "sura": "17",
-    "aya": "41",
-    "arabic_text": "وَلَقَدۡ صَرَّفۡنَا فِي هَٰذَا ٱلۡقُرۡءَانِ لِيَذَّكَّرُواْ وَمَا يَزِيدُهُمۡ إِلَّا نُفُورٗا",
-    "translation": "Talaga ngang nagsarisari Kami sa Qur’ān na ito [ng mga pangaral] upang magsaalaala sila habang wala namang naidadagdag ito sa kanila kundi isang pagkaayaw.",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 286,
+  "verse_key": "17:41",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ صَرَّفۡنَا فِي هَٰذَا ٱلۡقُرۡءَانِ لِيَذَّكَّرُواْ وَمَا يَزِيدُهُمۡ إِلَّا نُفُورٗا",
+  "translation": "Talaga ngang nagsarisari Kami sa Qur’ān na ito [ng mga pangaral] upang magsaalaala sila habang wala namang naidadagdag ito sa kanila kundi isang pagkaayaw.",
+  "footnotes": ""
 }

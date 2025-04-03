@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2162",
-    "sura": "18",
-    "aya": "22",
-    "arabic_text": "سَيَقُولُونَ ثَلَٰثَةٞ رَّابِعُهُمۡ كَلۡبُهُمۡ وَيَقُولُونَ خَمۡسَةٞ سَادِسُهُمۡ كَلۡبُهُمۡ رَجۡمَۢا بِٱلۡغَيۡبِۖ وَيَقُولُونَ سَبۡعَةٞ وَثَامِنُهُمۡ كَلۡبُهُمۡۚ قُل رَّبِّيٓ أَعۡلَمُ بِعِدَّتِهِم مَّا يَعۡلَمُهُمۡ إِلَّا قَلِيلٞۗ فَلَا تُمَارِ فِيهِمۡ إِلَّا مِرَآءٗ ظَٰهِرٗا وَلَا تَسۡتَفۡتِ فِيهِم مِّنۡهُمۡ أَحَدٗا",
-    "translation": "(Bəziləri: “Onlar) üçdür, dördüncüsü köpəkləridir!”– deyəcəklər. (Digərləri isə “Onlar) beşdir, altıncısı köpəkləridir!”– deyəcəklər. (Bununla da) qeyb haqqında təxmini fikir yürüdəcəklər. (Bəziləri də:) “Onlar yeddidir, səkkizincisi köpəkləridir!”– deyəcəklər. De: “Onların sayını Rəbbim daha yaxşı bilir. (İnsanlardan) bunu bilən çox azdır!” Mağara əhli barədə (ayələrə əsaslanaraq) açıq mübahisə et və (kitab əhlinin) heç birindən onlar barədə bir şey soruşma!",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 296,
+  "verse_key": "18:22",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَقُولُونَ ثَلَٰثَةٞ رَّابِعُهُمۡ كَلۡبُهُمۡ وَيَقُولُونَ خَمۡسَةٞ سَادِسُهُمۡ كَلۡبُهُمۡ رَجۡمَۢا بِٱلۡغَيۡبِۖ وَيَقُولُونَ سَبۡعَةٞ وَثَامِنُهُمۡ كَلۡبُهُمۡۚ قُل رَّبِّيٓ أَعۡلَمُ بِعِدَّتِهِم مَّا يَعۡلَمُهُمۡ إِلَّا قَلِيلٞۗ فَلَا تُمَارِ فِيهِمۡ إِلَّا مِرَآءٗ ظَٰهِرٗا وَلَا تَسۡتَفۡتِ فِيهِم مِّنۡهُمۡ أَحَدٗا",
+  "translation": "(Bəziləri: “Onlar) üçdür, dördüncüsü köpəkləridir!”– deyəcəklər. (Digərləri isə “Onlar) beşdir, altıncısı köpəkləridir!”– deyəcəklər. (Bununla da) qeyb haqqında təxmini fikir yürüdəcəklər. (Bəziləri də:) “Onlar yeddidir, səkkizincisi köpəkləridir!”– deyəcəklər. De: “Onların sayını Rəbbim daha yaxşı bilir. (İnsanlardan) bunu bilən çox azdır!” Mağara əhli barədə (ayələrə əsaslanaraq) açıq mübahisə et və (kitab əhlinin) heç birindən onlar barədə bir şey soruşma!",
+  "footnotes": ""
 }

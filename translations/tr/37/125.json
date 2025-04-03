@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3913",
-    "sura": "37",
-    "aya": "125",
-    "arabic_text": "أَتَدۡعُونَ بَعۡلٗا وَتَذَرُونَ أَحۡسَنَ ٱلۡخَٰلِقِينَ",
-    "translation": "\"Yaratıcıların en iyisini bırakıp Ba’l (adlı puta) mi ibadet ediyorsunuz?\"",
-    "footnotes": ""
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 450,
+  "verse_key": "37:125",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَتَدۡعُونَ بَعۡلٗا وَتَذَرُونَ أَحۡسَنَ ٱلۡخَٰلِقِينَ",
+  "translation": "\"Yaratıcıların en iyisini bırakıp Ba’l (adlı puta) mi ibadet ediyorsunuz?\"",
+  "footnotes": ""
 }

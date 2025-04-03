@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2040",
-    "sura": "17",
-    "aya": "11",
-    "arabic_text": "وَيَدۡعُ ٱلۡإِنسَٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلۡخَيۡرِۖ وَكَانَ ٱلۡإِنسَٰنُ عَجُولٗا",
-    "translation": " 11. And man invokes (Allâh) for evil as he invokes (Allâh) for good and man is ever hasty [i.e., if he is angry with somebody, he invokes (saying): \"O Allâh! Curse him\" and that one should not do, but one should be patient].",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 283,
+  "verse_key": "17:11",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَدۡعُ ٱلۡإِنسَٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلۡخَيۡرِۖ وَكَانَ ٱلۡإِنسَٰنُ عَجُولٗا",
+  "translation": " 11. And man invokes (Allâh) for evil as he invokes (Allâh) for good and man is ever hasty [i.e., if he is angry with somebody, he invokes (saying): \"O Allâh! Curse him\" and that one should not do, but one should be patient].",
+  "footnotes": ""
 }

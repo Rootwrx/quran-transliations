@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5096",
-    "sura": "57",
-    "aya": "21",
-    "arabic_text": "سَابِقُوٓاْ إِلَىٰ مَغۡفِرَةٖ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا كَعَرۡضِ ٱلسَّمَآءِ وَٱلۡأَرۡضِ أُعِدَّتۡ لِلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦۚ ذَٰلِكَ فَضۡلُ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
-    "translation": "Ẹ yára lọ síbi àforíjìn láti ọ̀dọ̀ Olúwa yín àti Ọgbà Ìdẹ̀ra tí fífẹ̀ rẹ̀ dà bí fífẹ̀ sánmọ̀ àti ilẹ̀. Wọ́n pa á lésè sílẹ̀ de àwọn tó gbàgbọ́ nínú Allāhu àti àwọn Òjíṣẹ́ Rẹ̀. Ìyẹn ni oore àjùlọ Allāhu tí Ó ń fún ẹni tí Ó bá fẹ́. Allāhu sì ni Olóore ńlá.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 540,
+  "verse_key": "57:21",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 216,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَابِقُوٓاْ إِلَىٰ مَغۡفِرَةٖ مِّن رَّبِّكُمۡ وَجَنَّةٍ عَرۡضُهَا كَعَرۡضِ ٱلسَّمَآءِ وَٱلۡأَرۡضِ أُعِدَّتۡ لِلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦۚ ذَٰلِكَ فَضۡلُ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
+  "translation": "Ẹ yára lọ síbi àforíjìn láti ọ̀dọ̀ Olúwa yín àti Ọgbà Ìdẹ̀ra tí fífẹ̀ rẹ̀ dà bí fífẹ̀ sánmọ̀ àti ilẹ̀. Wọ́n pa á lésè sílẹ̀ de àwọn tó gbàgbọ́ nínú Allāhu àti àwọn Òjíṣẹ́ Rẹ̀. Ìyẹn ni oore àjùlọ Allāhu tí Ó ń fún ẹni tí Ó bá fẹ́. Allāhu sì ni Olóore ńlá.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "928",
-    "sura": "6",
-    "aya": "139",
-    "arabic_text": "وَقَالُواْ مَا فِي بُطُونِ هَٰذِهِ ٱلۡأَنۡعَٰمِ خَالِصَةٞ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزۡوَٰجِنَاۖ وَإِن يَكُن مَّيۡتَةٗ فَهُمۡ فِيهِ شُرَكَآءُۚ سَيَجۡزِيهِمۡ وَصۡفَهُمۡۚ إِنَّهُۥ حَكِيمٌ عَلِيمٞ",
-    "translation": "La b yeele: \"bũmb ning sẽn be rũm-kãeesã pʋsẽ wã welga toor ne tõnd raoapã, n gɩdg ne tõnd pagbã. La sã n ki gɩfo, bãmb lagemda taab a pʋgẽ. A na n rol-b lame b bilgrã. Ad A yaa bʋʋd-mita, n yaa Mita.",
-    "footnotes": ""
-  }
+  "id": 139,
+  "verse_number": 139,
+  "page_number": 146,
+  "verse_key": "6:139",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ مَا فِي بُطُونِ هَٰذِهِ ٱلۡأَنۡعَٰمِ خَالِصَةٞ لِّذُكُورِنَا وَمُحَرَّمٌ عَلَىٰٓ أَزۡوَٰجِنَاۖ وَإِن يَكُن مَّيۡتَةٗ فَهُمۡ فِيهِ شُرَكَآءُۚ سَيَجۡزِيهِمۡ وَصۡفَهُمۡۚ إِنَّهُۥ حَكِيمٌ عَلِيمٞ",
+  "translation": "La b yeele: \"bũmb ning sẽn be rũm-kãeesã pʋsẽ wã welga toor ne tõnd raoapã, n gɩdg ne tõnd pagbã. La sã n ki gɩfo, bãmb lagemda taab a pʋgẽ. A na n rol-b lame b bilgrã. Ad A yaa bʋʋd-mita, n yaa Mita.",
+  "footnotes": ""
 }

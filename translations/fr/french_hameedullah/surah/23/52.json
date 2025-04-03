@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2725",
-    "sura": "23",
-    "aya": "52",
-    "arabic_text": "وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱتَّقُونِ",
-    "translation": "Et cette communauté, la vôtre, est une seule communauté, tandis que Je suis votre Seigneur. Craignez-Moi donc.\"",
-    "footnotes": "[635] Communauté: dans le sens de l’humanité tout entière. Le Coran parle ici des Messagers qui ont précédé Mohmmed (صلى الله عليه وسلم). Et puisque tous les prophètes ont prêché la même religion, c’est-à-dire l’islam, toute l’humanité devrait former une seule communauté."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 345,
+  "verse_key": "23:52",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱتَّقُونِ",
+  "translation": "Et cette communauté, la vôtre, est une seule communauté, tandis que Je suis votre Seigneur. Craignez-Moi donc.\"",
+  "footnotes": "[635] Communauté: dans le sens de l’humanité tout entière. Le Coran parle ici des Messagers qui ont précédé Mohmmed (صلى الله عليه وسلم). Et puisque tous les prophètes ont prêché la même religion, c’est-à-dire l’islam, toute l’humanité devrait former une seule communauté."
 }

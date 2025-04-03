@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4489",
-    "sura": "45",
-    "aya": "16",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ",
-    "translation": "Kandi rwose twahaye bene Isiraheli igitabo, ubushishozi n’ubuhanuzi. Twanabahaye amafunguro meza, tunabarutisha ibiremwa (byo ku gihe cyabo).",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 500,
+  "verse_key": "45:16",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ",
+  "translation": "Kandi rwose twahaye bene Isiraheli igitabo, ubushishozi n’ubuhanuzi. Twanabahaye amafunguro meza, tunabarutisha ibiremwa (byo ku gihe cyabo).",
+  "footnotes": ""
 }

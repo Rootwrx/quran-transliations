@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2380",
-    "sura": "20",
-    "aya": "32",
-    "arabic_text": "وَأَشۡرِكۡهُ فِيٓ أَمۡرِي",
-    "translation": "32. y asócialo en mi misión[1]",
-    "footnotes": "[1] Es decir, te pido que lo nombres Profeta y Mensajero."
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 313,
+  "verse_key": "20:32",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَشۡرِكۡهُ فِيٓ أَمۡرِي",
+  "translation": "32. y asócialo en mi misión[1]",
+  "footnotes": "[1] Es decir, te pido que lo nombres Profeta y Mensajero."
 }

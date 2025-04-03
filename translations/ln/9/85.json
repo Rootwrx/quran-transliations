@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1320",
-    "sura": "9",
-    "aya": "85",
-    "arabic_text": "وَلَا تُعۡجِبۡكَ أَمۡوَٰلُهُمۡ وَأَوۡلَٰدُهُمۡۚ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِي ٱلدُّنۡيَا وَتَزۡهَقَ أَنفُسُهُمۡ وَهُمۡ كَٰفِرُونَ",
-    "translation": "85. Bana na misolo mia bango mikamwisa yo te. Mpo ya sólo, Allah alingi nde kopesa bango etumbu тропа yango awa na mokili, mpe azua milimo mia bango bazali na bopengwi.",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 200,
+  "verse_key": "9:85",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تُعۡجِبۡكَ أَمۡوَٰلُهُمۡ وَأَوۡلَٰدُهُمۡۚ إِنَّمَا يُرِيدُ ٱللَّهُ أَن يُعَذِّبَهُم بِهَا فِي ٱلدُّنۡيَا وَتَزۡهَقَ أَنفُسُهُمۡ وَهُمۡ كَٰفِرُونَ",
+  "translation": "85. Bana na misolo mia bango mikamwisa yo te. Mpo ya sólo, Allah alingi nde kopesa bango etumbu тропа yango awa na mokili, mpe azua milimo mia bango bazali na bopengwi.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5638",
-    "sura": "77",
-    "aya": "16",
-    "arabic_text": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ",
-    "translation": "Chẳng lẽ TA đã không tiêu diệt những kẻ thời trước?",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 580,
+  "verse_key": "77:16",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ نُهۡلِكِ ٱلۡأَوَّلِينَ",
+  "translation": "Chẳng lẽ TA đã không tiêu diệt những kẻ thời trước?",
+  "footnotes": ""
 }

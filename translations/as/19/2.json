@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2252",
-    "sura": "19",
-    "aya": "2",
-    "arabic_text": "ذِكۡرُ رَحۡمَتِ رَبِّكَ عَبۡدَهُۥ زَكَرِيَّآ",
-    "translation": "এইটো হৈছে তোমাৰ প্ৰতিপালকৰ অনুগ্ৰহৰ বিৱৰণ তেওঁৰ বান্দা যাকাৰিয়্যাৰ প্ৰতি,",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 305,
+  "verse_key": "19:2",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذِكۡرُ رَحۡمَتِ رَبِّكَ عَبۡدَهُۥ زَكَرِيَّآ",
+  "translation": "এইটো হৈছে তোমাৰ প্ৰতিপালকৰ অনুগ্ৰহৰ বিৱৰণ তেওঁৰ বান্দা যাকাৰিয়্যাৰ প্ৰতি,",
+  "footnotes": ""
 }

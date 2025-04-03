@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4068",
-    "sura": "39",
-    "aya": "10",
-    "arabic_text": "قُلۡ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ رَبَّكُمۡۚ لِلَّذِينَ أَحۡسَنُواْ فِي هَٰذِهِ ٱلدُّنۡيَا حَسَنَةٞۗ وَأَرۡضُ ٱللَّهِ وَٰسِعَةٌۗ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجۡرَهُم بِغَيۡرِ حِسَابٖ",
-    "translation": "Ka ce: (Allah Ya ce): \"Yã bãyĩ Na waɗanda suka yi ĩmãni! Ku bi Ubangijinku da taƙawa. Waɗanda suka kyautata a cikin wannan dũniya sunã da sakamako mai kyau, kuma ƙasar Allah mai fãɗi *ce. Mãsu haƙuri kawai ake cika wa ijãrarsu, bã da wani lissãfi ba.",
-    "footnotes": "* Bãbu dalĩli da zai sanya mutum ya zauna a inda bã ya iya bautawa Ubangijinsa da kyau. Watau hijira zuwa wurin yardar Allah, wãjibi ne, sai idan dũniya ta zama haka a kõ'ina bãbu wurin tafiya, kõ kuma tafiya can da wuya ƙwarai tanã kallafa nauyin da zai zama wani laifin da ke daidai da rashin hijirar, to, sai mutum ya zauna, ya tsare kansa gwargwadon hãli."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 459,
+  "verse_key": "39:10",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰعِبَادِ ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ رَبَّكُمۡۚ لِلَّذِينَ أَحۡسَنُواْ فِي هَٰذِهِ ٱلدُّنۡيَا حَسَنَةٞۗ وَأَرۡضُ ٱللَّهِ وَٰسِعَةٌۗ إِنَّمَا يُوَفَّى ٱلصَّٰبِرُونَ أَجۡرَهُم بِغَيۡرِ حِسَابٖ",
+  "translation": "Ka ce: (Allah Ya ce): \"Yã bãyĩ Na waɗanda suka yi ĩmãni! Ku bi Ubangijinku da taƙawa. Waɗanda suka kyautata a cikin wannan dũniya sunã da sakamako mai kyau, kuma ƙasar Allah mai fãɗi *ce. Mãsu haƙuri kawai ake cika wa ijãrarsu, bã da wani lissãfi ba.",
+  "footnotes": "* Bãbu dalĩli da zai sanya mutum ya zauna a inda bã ya iya bautawa Ubangijinsa da kyau. Watau hijira zuwa wurin yardar Allah, wãjibi ne, sai idan dũniya ta zama haka a kõ'ina bãbu wurin tafiya, kõ kuma tafiya can da wuya ƙwarai tanã kallafa nauyin da zai zama wani laifin da ke daidai da rashin hijirar, to, sai mutum ya zauna, ya tsare kansa gwargwadon hãli."
 }

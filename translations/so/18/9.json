@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2149",
-    "sura": "18",
-    "aya": "9",
-    "arabic_text": "أَمۡ حَسِبۡتَ أَنَّ أَصۡحَٰبَ ٱلۡكَهۡفِ وَٱلرَّقِيمِ كَانُواْ مِنۡ ءَايَٰتِنَا عَجَبًا",
-    "translation": "9. Mise, ma waxaad mooddaa in (dhacdadii) qolodii hogga iyo looxa (ay ku qornaayeen magacayadoodu)3 ay yihiin ku- wa calaamooyinkayaga ugu yaabka badan4?",
-    "footnotes": "3. Ar-Raqiim: waa looxii ama indhalkii ay ku qornaayeen xikmadaha iyo wararkii asxaabul kahaf. Waana mid ka mid ah waxyaalaha cajabta badan ee Allaah abuuray. \n4. Bal waa mid keliya ka mid ah waxyaalaha cajaa’ibta badan ee Alle."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 294,
+  "verse_key": "18:9",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ حَسِبۡتَ أَنَّ أَصۡحَٰبَ ٱلۡكَهۡفِ وَٱلرَّقِيمِ كَانُواْ مِنۡ ءَايَٰتِنَا عَجَبًا",
+  "translation": "9. Mise, ma waxaad mooddaa in (dhacdadii) qolodii hogga iyo looxa (ay ku qornaayeen magacayadoodu)3 ay yihiin ku- wa calaamooyinkayaga ugu yaabka badan4?",
+  "footnotes": "3. Ar-Raqiim: waa looxii ama indhalkii ay ku qornaayeen xikmadaha iyo wararkii asxaabul kahaf. Waana mid ka mid ah waxyaalaha cajabta badan ee Allaah abuuray. \n4. Bal waa mid keliya ka mid ah waxyaalaha cajaa’ibta badan ee Alle."
 }

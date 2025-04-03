@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4630",
-    "sura": "49",
-    "aya": "18",
-    "arabic_text": "إِنَّ ٱللَّهَ يَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ بَصِيرُۢ بِمَا تَعۡمَلُونَ",
-    "translation": "(18) Indeed, Allāh knows the unseen [aspects] of the heavens and the earth. And Allāh is Seeing of what you do.",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 517,
+  "verse_key": "49:18",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ يَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَٱللَّهُ بَصِيرُۢ بِمَا تَعۡمَلُونَ",
+  "translation": "(18) Indeed, Allāh knows the unseen [aspects] of the heavens and the earth. And Allāh is Seeing of what you do.",
+  "footnotes": ""
 }

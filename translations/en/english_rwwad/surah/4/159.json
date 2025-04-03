@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "652",
-    "sura": "4",
-    "aya": "159",
-    "arabic_text": "وَإِن مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ إِلَّا لَيُؤۡمِنَنَّ بِهِۦ قَبۡلَ مَوۡتِهِۦۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكُونُ عَلَيۡهِمۡ شَهِيدٗا",
-    "translation": "There will be none from the People of the Book but will believe in him [upon his return] before his death[107], and on the Day of Resurrection, he will be a witness against them.",
-    "footnotes": "[107] The prevalent interpretation is that the People of the Book, even the Jews, will believe in Jesus; his neither being ‘an impostor’ nor ‘the son of God’, when he descends from heaven at the end of time."
-  }
+  "id": 159,
+  "verse_number": 159,
+  "page_number": 103,
+  "verse_key": "4:159",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ إِلَّا لَيُؤۡمِنَنَّ بِهِۦ قَبۡلَ مَوۡتِهِۦۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكُونُ عَلَيۡهِمۡ شَهِيدٗا",
+  "translation": "There will be none from the People of the Book but will believe in him [upon his return] before his death[107], and on the Day of Resurrection, he will be a witness against them.",
+  "footnotes": "[107] The prevalent interpretation is that the People of the Book, even the Jews, will believe in Jesus; his neither being ‘an impostor’ nor ‘the son of God’, when he descends from heaven at the end of time."
 }

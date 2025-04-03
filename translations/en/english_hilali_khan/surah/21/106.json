@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2589",
-    "sura": "21",
-    "aya": "106",
-    "arabic_text": "إِنَّ فِي هَٰذَا لَبَلَٰغٗا لِّقَوۡمٍ عَٰبِدِينَ",
-    "translation": " 106. Verily, in this (the Qur’ân) there is a plain Message for people who worship Allâh (i.e. the true, real believers of Islâmic Monotheism who act practically on the Qur’ân and the Sunnah - legal ways of the Prophet صلى الله عليه وسلم).",
-    "footnotes": ""
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 331,
+  "verse_key": "21:106",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي هَٰذَا لَبَلَٰغٗا لِّقَوۡمٍ عَٰبِدِينَ",
+  "translation": " 106. Verily, in this (the Qur’ân) there is a plain Message for people who worship Allâh (i.e. the true, real believers of Islâmic Monotheism who act practically on the Qur’ân and the Sunnah - legal ways of the Prophet صلى الله عليه وسلم).",
+  "footnotes": ""
 }

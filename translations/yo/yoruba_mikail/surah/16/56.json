@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1957",
-    "sura": "16",
-    "aya": "56",
-    "arabic_text": "وَيَجۡعَلُونَ لِمَا لَا يَعۡلَمُونَ نَصِيبٗا مِّمَّا رَزَقۡنَٰهُمۡۗ تَٱللَّهِ لَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَفۡتَرُونَ",
-    "translation": "Wọ́n ń fi ìpín kan nínú ohun tí A pèsè fún wọn lélẹ̀ fún ohun tí wọn kò nímọ̀ nípa rẹ̀.[1] Mo fi Allāhu búra, dájúdájú wọn yóò bi yín léèrè nípa ohun tí ẹ̀ ń dá ní àdápa irọ́.",
-    "footnotes": "1. Ìyẹn ni pé, wọ́n ń pe àwọn n̄ǹkan kan ní n̄ǹkan òrìṣà bí àpẹ̀ẹrẹ, wọ́n ń pe àwọn ẹran kan ní ẹran òrìṣà, wọ́n sì ń fi àwọn kan rúbọ fún àwọn òrìṣà wọn."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 273,
+  "verse_key": "16:56",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَجۡعَلُونَ لِمَا لَا يَعۡلَمُونَ نَصِيبٗا مِّمَّا رَزَقۡنَٰهُمۡۗ تَٱللَّهِ لَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَفۡتَرُونَ",
+  "translation": "Wọ́n ń fi ìpín kan nínú ohun tí A pèsè fún wọn lélẹ̀ fún ohun tí wọn kò nímọ̀ nípa rẹ̀.[1] Mo fi Allāhu búra, dájúdájú wọn yóò bi yín léèrè nípa ohun tí ẹ̀ ń dá ní àdápa irọ́.",
+  "footnotes": "1. Ìyẹn ni pé, wọ́n ń pe àwọn n̄ǹkan kan ní n̄ǹkan òrìṣà bí àpẹ̀ẹrẹ, wọ́n ń pe àwọn ẹran kan ní ẹran òrìṣà, wọ́n sì ń fi àwọn kan rúbọ fún àwọn òrìṣà wọn."
 }

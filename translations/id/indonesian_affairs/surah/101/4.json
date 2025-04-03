@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6161",
-    "sura": "101",
-    "aya": "4",
-    "arabic_text": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ",
-    "translation": "Pada hari itu manusia seperti laron yang beterbangan,",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 600,
+  "verse_key": "101:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَكُونُ ٱلنَّاسُ كَٱلۡفَرَاشِ ٱلۡمَبۡثُوثِ",
+  "translation": "Pada hari itu manusia seperti laron yang beterbangan,",
+  "footnotes": ""
 }

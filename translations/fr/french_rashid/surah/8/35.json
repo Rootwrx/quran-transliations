@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1195",
-    "sura": "8",
-    "aya": "35",
-    "arabic_text": "وَمَا كَانَ صَلَاتُهُمۡ عِندَ ٱلۡبَيۡتِ إِلَّا مُكَآءٗ وَتَصۡدِيَةٗۚ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
-    "translation": "35 D’autant que leurs prières autour du Sanctuaire sacré ne sont que sifflements et battements de mains[496]. « Goûtez donc le châtiment pour prix de votre impiété ! »",
-    "footnotes": "[496] Les païens de la Mecque effectuaient les circumambulations autour de la Kaaba en étant nus, en sifflant et en battant des mains (Tafsîr ibn Kathîr)."
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 181,
+  "verse_key": "8:35",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ صَلَاتُهُمۡ عِندَ ٱلۡبَيۡتِ إِلَّا مُكَآءٗ وَتَصۡدِيَةٗۚ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+  "translation": "35 D’autant que leurs prières autour du Sanctuaire sacré ne sont que sifflements et battements de mains[496]. « Goûtez donc le châtiment pour prix de votre impiété ! »",
+  "footnotes": "[496] Les païens de la Mecque effectuaient les circumambulations autour de la Kaaba en étant nus, en sifflant et en battant des mains (Tafsîr ibn Kathîr)."
 }

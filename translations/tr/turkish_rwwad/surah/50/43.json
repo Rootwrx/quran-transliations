@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4673",
-    "sura": "50",
-    "aya": "43",
-    "arabic_text": "إِنَّا نَحۡنُ نُحۡيِۦ وَنُمِيتُ وَإِلَيۡنَا ٱلۡمَصِيرُ",
-    "translation": "Şüphesiz biz diriltir ve öldürürüz. Dönüş de ancak bizedir.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 520,
+  "verse_key": "50:43",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا نَحۡنُ نُحۡيِۦ وَنُمِيتُ وَإِلَيۡنَا ٱلۡمَصِيرُ",
+  "translation": "Şüphesiz biz diriltir ve öldürürüz. Dönüş de ancak bizedir.",
+  "footnotes": ""
 }

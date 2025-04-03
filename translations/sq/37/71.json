@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3859",
-    "sura": "37",
-    "aya": "71",
-    "arabic_text": "وَلَقَدۡ ضَلَّ قَبۡلَهُمۡ أَكۡثَرُ ٱلۡأَوَّلِينَ",
-    "translation": "Por, edhe para tyre humbën (rrugën) shumica e popujve të lashtë.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 448,
+  "verse_key": "37:71",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ضَلَّ قَبۡلَهُمۡ أَكۡثَرُ ٱلۡأَوَّلِينَ",
+  "translation": "Por, edhe para tyre humbën (rrugën) shumica e popujve të lashtë.",
+  "footnotes": ""
 }

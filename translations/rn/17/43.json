@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2072",
-    "sura": "17",
-    "aya": "43",
-    "arabic_text": "سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَقُولُونَ عُلُوّٗا كَبِيرٗا",
-    "translation": "Nihaninahazwe Imana Allah, Ihabwe n’icubahiro nta ngere mu buryo burengeye cane ivyo ababangikanyamana bavuga.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 286,
+  "verse_key": "17:43",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَقُولُونَ عُلُوّٗا كَبِيرٗا",
+  "translation": "Nihaninahazwe Imana Allah, Ihabwe n’icubahiro nta ngere mu buryo burengeye cane ivyo ababangikanyamana bavuga.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "306",
-    "sura": "3",
-    "aya": "13",
-    "arabic_text": "قَدۡ كَانَ لَكُمۡ ءَايَةٞ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةٞ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةٞ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
-    "translation": "Hakika ilikuwa ni Ishara kwenu katika yale majeshi mawili yalipo pambana. Jeshi moja likipigana katika Njia ya Mwenyezi Mungu, na jingine kafiri likiwaona zaidi kuliko wao mara mbili, kwa kuona kwa macho. Na Mwenyezi Mungu humuunga mkono amtakaye kwa nusura yake. Hakika katika hayo yapo mazingatio kwa wenye macho.",
-    "footnotes": "Ilikuwa Ishara wazi na mazingatio yaliyo dhaahiri katika makundi mawili ya wapiganaji walipo pambana siku ya Badri. Kundi moja, hilo la Waumini, likipigana kwa ajili ya kutukuza Neno la Mwenyezi Mungu na kueneza Haki. Na kundi la pili, hilo la makafiri, likipigania pumbao na matamanio. Ikawa, basi, Mwenyezi Mungu katika kuwaunga mkono Waumini aliwafanya wale makafiri wawaone Waumini idadi yao mara mbili kuliko walivyo. Kwa hivyo makafiri wakaingiwa na khofu nyoyoni mwao wakaemewa. Na Mwenyezi Mungu humnusuru amtakaye. Katika haya, hakika, pana mazingatio kwa wenye nadhari iliyo ongoka isiyo kengeuka na kuiacha Haki."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 51,
+  "verse_key": "3:13",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ كَانَ لَكُمۡ ءَايَةٞ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةٞ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةٞ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
+  "translation": "Hakika ilikuwa ni Ishara kwenu katika yale majeshi mawili yalipo pambana. Jeshi moja likipigana katika Njia ya Mwenyezi Mungu, na jingine kafiri likiwaona zaidi kuliko wao mara mbili, kwa kuona kwa macho. Na Mwenyezi Mungu humuunga mkono amtakaye kwa nusura yake. Hakika katika hayo yapo mazingatio kwa wenye macho.",
+  "footnotes": "Ilikuwa Ishara wazi na mazingatio yaliyo dhaahiri katika makundi mawili ya wapiganaji walipo pambana siku ya Badri. Kundi moja, hilo la Waumini, likipigana kwa ajili ya kutukuza Neno la Mwenyezi Mungu na kueneza Haki. Na kundi la pili, hilo la makafiri, likipigania pumbao na matamanio. Ikawa, basi, Mwenyezi Mungu katika kuwaunga mkono Waumini aliwafanya wale makafiri wawaone Waumini idadi yao mara mbili kuliko walivyo. Kwa hivyo makafiri wakaingiwa na khofu nyoyoni mwao wakaemewa. Na Mwenyezi Mungu humnusuru amtakaye. Katika haya, hakika, pana mazingatio kwa wenye nadhari iliyo ongoka isiyo kengeuka na kuiacha Haki."
 }

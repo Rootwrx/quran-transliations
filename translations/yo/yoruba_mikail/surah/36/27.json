@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3732",
-    "sura": "36",
-    "aya": "27",
-    "arabic_text": "بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ ٱلۡمُكۡرَمِينَ",
-    "translation": "nípa bí Olúwa mi ṣe foríjìn mí àti (bí) Ó ṣe fi mí sí ara àwọn alápọ̀n-ọ́nlé (wọn ìbá ronú pìwàdà).”",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 441,
+  "verse_key": "36:27",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بِمَا غَفَرَ لِي رَبِّي وَجَعَلَنِي مِنَ ٱلۡمُكۡرَمِينَ",
+  "translation": "nípa bí Olúwa mi ṣe foríjìn mí àti (bí) Ó ṣe fi mí sí ara àwọn alápọ̀n-ọ́nlé (wọn ìbá ronú pìwàdà).”",
+  "footnotes": ""
 }

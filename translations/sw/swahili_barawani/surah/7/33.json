@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "987",
-    "sura": "7",
-    "aya": "33",
-    "arabic_text": "قُلۡ إِنَّمَا حَرَّمَ رَبِّيَ ٱلۡفَوَٰحِشَ مَا ظَهَرَ مِنۡهَا وَمَا بَطَنَ وَٱلۡإِثۡمَ وَٱلۡبَغۡيَ بِغَيۡرِ ٱلۡحَقِّ وَأَن تُشۡرِكُواْ بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗا وَأَن تَقُولُواْ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
-    "translation": "Sema: Mola Mlezi wangu ameharimisha mambo machafu ya dhaahiri na ya siri, na dhambi, na uasi bila ya haki, na kumshirikisha Mwenyezi Mungu na asicho kiletea uthibitisho, na kumzulia Mwenyezi Mungu msiyo yajua.",
-    "footnotes": "Ewe Muhammad! Sema: Hakika Mola wangu Mlezi ameharimisha mambo yaliyo zidi kwa ubaya, kama uzinzi; sawa sawa ukifanywa kwa siri au kwa dhaahiri. Pia ameharimisha kila maasi ya namna yoyote, na dhulma isiyo na njia ya haki. Na ameharimisha kumshirikisha na chochote kisicho kuwa na hoja madhubuti, au dalili ya kweli. Na pia kumzulia uwongo Subhanahu, Aliye takasika, katika kuhalalisha na kuharimisha, na mengineyo."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 154,
+  "verse_key": "7:33",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 62,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنَّمَا حَرَّمَ رَبِّيَ ٱلۡفَوَٰحِشَ مَا ظَهَرَ مِنۡهَا وَمَا بَطَنَ وَٱلۡإِثۡمَ وَٱلۡبَغۡيَ بِغَيۡرِ ٱلۡحَقِّ وَأَن تُشۡرِكُواْ بِٱللَّهِ مَا لَمۡ يُنَزِّلۡ بِهِۦ سُلۡطَٰنٗا وَأَن تَقُولُواْ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+  "translation": "Sema: Mola Mlezi wangu ameharimisha mambo machafu ya dhaahiri na ya siri, na dhambi, na uasi bila ya haki, na kumshirikisha Mwenyezi Mungu na asicho kiletea uthibitisho, na kumzulia Mwenyezi Mungu msiyo yajua.",
+  "footnotes": "Ewe Muhammad! Sema: Hakika Mola wangu Mlezi ameharimisha mambo yaliyo zidi kwa ubaya, kama uzinzi; sawa sawa ukifanywa kwa siri au kwa dhaahiri. Pia ameharimisha kila maasi ya namna yoyote, na dhulma isiyo na njia ya haki. Na ameharimisha kumshirikisha na chochote kisicho kuwa na hoja madhubuti, au dalili ya kweli. Na pia kumzulia uwongo Subhanahu, Aliye takasika, katika kuhalalisha na kuharimisha, na mengineyo."
 }

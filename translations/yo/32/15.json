@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3518",
-    "sura": "32",
-    "aya": "15",
-    "arabic_text": "إِنَّمَا يُؤۡمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُواْ بِهَا خَرُّواْۤ سُجَّدٗاۤ وَسَبَّحُواْ بِحَمۡدِ رَبِّهِمۡ وَهُمۡ لَا يَسۡتَكۡبِرُونَ۩",
-    "translation": "Àwọn tó gbàgbọ́ nínú àwọn āyah Wa ni àwọn tí ó jẹ́ pé nígbà tí wọ́n bá fi ṣe ìṣítí fún wọn, wọn yóò dojú bolẹ̀ ní olùforíkanlẹ̀, wọn yó sì ṣe àfọ̀mọ́ pẹ̀lú ìdúpẹ́ fún Olúwa wọn. Wọn kò sì níí ṣègbéraga.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 416,
+  "verse_key": "32:15",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 9,
+  "text": "إِنَّمَا يُؤۡمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُواْ بِهَا خَرُّواْۤ سُجَّدٗاۤ وَسَبَّحُواْ بِحَمۡدِ رَبِّهِمۡ وَهُمۡ لَا يَسۡتَكۡبِرُونَ۩",
+  "translation": "Àwọn tó gbàgbọ́ nínú àwọn āyah Wa ni àwọn tí ó jẹ́ pé nígbà tí wọ́n bá fi ṣe ìṣítí fún wọn, wọn yóò dojú bolẹ̀ ní olùforíkanlẹ̀, wọn yó sì ṣe àfọ̀mọ́ pẹ̀lú ìdúpẹ́ fún Olúwa wọn. Wọn kò sì níí ṣègbéraga.",
+  "footnotes": ""
 }

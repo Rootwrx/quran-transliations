@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4880",
-    "sura": "54",
-    "aya": "34",
-    "arabic_text": "إِنَّآ أَرۡسَلۡنَا عَلَيۡهِمۡ حَاصِبًا إِلَّآ ءَالَ لُوطٖۖ نَّجَّيۡنَٰهُم بِسَحَرٖ",
-    "translation": "TA đã gửi một cơn bão đá tiêu diệt chúng, ngoại trừ gia đình của Lut, TA đã giải cứu họ trước rạng đông.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 530,
+  "verse_key": "54:34",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَرۡسَلۡنَا عَلَيۡهِمۡ حَاصِبًا إِلَّآ ءَالَ لُوطٖۖ نَّجَّيۡنَٰهُم بِسَحَرٖ",
+  "translation": "TA đã gửi một cơn bão đá tiêu diệt chúng, ngoại trừ gia đình của Lut, TA đã giải cứu họ trước rạng đông.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3399",
-    "sura": "29",
-    "aya": "59",
-    "arabic_text": "ٱلَّذِينَ صَبَرُواْ وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ",
-    "translation": "Ba bandi bihanganye bakaniringira Nyagasani wabo.",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 403,
+  "verse_key": "29:59",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ صَبَرُواْ وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ",
+  "translation": "Ba bandi bihanganye bakaniringira Nyagasani wabo.",
+  "footnotes": ""
 }

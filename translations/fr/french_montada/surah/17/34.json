@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2063",
-    "sura": "17",
-    "aya": "34",
-    "arabic_text": "وَلَا تَقۡرَبُواْ مَالَ ٱلۡيَتِيمِ إِلَّا بِٱلَّتِي هِيَ أَحۡسَنُ حَتَّىٰ يَبۡلُغَ أَشُدَّهُۥۚ وَأَوۡفُواْ بِٱلۡعَهۡدِۖ إِنَّ ٱلۡعَهۡدَ كَانَ مَسۡـُٔولٗا",
-    "translation": "34. Et n’approchez pas les biens de l’orphelin, sauf de la meilleure façon qui convienne et jusqu’à ce qu’il atteigne sa majorité. Honorez vos engagements car vous aurez à répondre de vos engagements.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 285,
+  "verse_key": "17:34",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَقۡرَبُواْ مَالَ ٱلۡيَتِيمِ إِلَّا بِٱلَّتِي هِيَ أَحۡسَنُ حَتَّىٰ يَبۡلُغَ أَشُدَّهُۥۚ وَأَوۡفُواْ بِٱلۡعَهۡدِۖ إِنَّ ٱلۡعَهۡدَ كَانَ مَسۡـُٔولٗا",
+  "translation": "34. Et n’approchez pas les biens de l’orphelin, sauf de la meilleure façon qui convienne et jusqu’à ce qu’il atteigne sa majorité. Honorez vos engagements car vous aurez à répondre de vos engagements.",
+  "footnotes": ""
 }

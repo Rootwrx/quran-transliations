@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5695",
-    "sura": "78",
-    "aya": "23",
-    "arabic_text": "لَّٰبِثِينَ فِيهَآ أَحۡقَابٗا",
-    "translation": "Nela, permanecerão por séculos.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 582,
+  "verse_key": "78:23",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّٰبِثِينَ فِيهَآ أَحۡقَابٗا",
+  "translation": "Nela, permanecerão por séculos.",
+  "footnotes": ""
 }

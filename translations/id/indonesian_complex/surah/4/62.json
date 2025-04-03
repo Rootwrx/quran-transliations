@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "555",
-    "sura": "4",
-    "aya": "62",
-    "arabic_text": "فَكَيۡفَ إِذَآ أَصَٰبَتۡهُم مُّصِيبَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ ثُمَّ جَآءُوكَ يَحۡلِفُونَ بِٱللَّهِ إِنۡ أَرَدۡنَآ إِلَّآ إِحۡسَٰنٗا وَتَوۡفِيقًا",
-    "translation": "Maka bagaimanakah halnya apabila mereka (orang-orang munafik) ditimpa sesuatu musibah disebabkan perbuatan tangan mereka sendiri, kemudian mereka datang kepadamu sambil bersumpah, \"Demi Allah, kami sekali-kali tidak menghendaki selain penyelesaian yang baik dan perdamaian yang sempurna\".",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 88,
+  "verse_key": "4:62",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَيۡفَ إِذَآ أَصَٰبَتۡهُم مُّصِيبَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ ثُمَّ جَآءُوكَ يَحۡلِفُونَ بِٱللَّهِ إِنۡ أَرَدۡنَآ إِلَّآ إِحۡسَٰنٗا وَتَوۡفِيقًا",
+  "translation": "Maka bagaimanakah halnya apabila mereka (orang-orang munafik) ditimpa sesuatu musibah disebabkan perbuatan tangan mereka sendiri, kemudian mereka datang kepadamu sambil bersumpah, \"Demi Allah, kami sekali-kali tidak menghendaki selain penyelesaian yang baik dan perdamaian yang sempurna\".",
+  "footnotes": ""
 }

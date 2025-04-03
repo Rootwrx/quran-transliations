@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4797",
-    "sura": "53",
-    "aya": "13",
-    "arabic_text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
-    "translation": "Он га је и други пут видео.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 526,
+  "verse_key": "53:13",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
+  "translation": "Он га је и други пут видео.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1297",
-    "sura": "9",
-    "aya": "62",
-    "arabic_text": "يَحۡلِفُونَ بِٱللَّهِ لَكُمۡ لِيُرۡضُوكُمۡ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ أَن يُرۡضُوهُ إِن كَانُواْ مُؤۡمِنِينَ",
-    "translation": "(Hỡi những người có đức tin), chúng thề nhân danh Allah với các ngươi để làm hài lòng các ngươi trong khi (đáng lẽ ra) chúng phải làm hài lòng Allah và Thiên Sứ của Ngài nếu chúng đúng thật là những người có đức tin.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 197,
+  "verse_key": "9:62",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَحۡلِفُونَ بِٱللَّهِ لَكُمۡ لِيُرۡضُوكُمۡ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ أَن يُرۡضُوهُ إِن كَانُواْ مُؤۡمِنِينَ",
+  "translation": "(Hỡi những người có đức tin), chúng thề nhân danh Allah với các ngươi để làm hài lòng các ngươi trong khi (đáng lẽ ra) chúng phải làm hài lòng Allah và Thiên Sứ của Ngài nếu chúng đúng thật là những người có đức tin.",
+  "footnotes": ""
 }

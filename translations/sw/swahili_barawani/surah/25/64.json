@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2919",
-    "sura": "25",
-    "aya": "64",
-    "arabic_text": "وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمۡ سُجَّدٗا وَقِيَٰمٗا",
-    "translation": "Na wale wanao kesha kwa ajili ya Mola wao Mlezi kwa kusujudu na kusimama.",
-    "footnotes": "Na wale ambao wanakesha katika ibada na Sala, wakimdhukuru Mwenyezi Mungu kwa wingi."
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 365,
+  "verse_key": "25:64",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يَبِيتُونَ لِرَبِّهِمۡ سُجَّدٗا وَقِيَٰمٗا",
+  "translation": "Na wale wanao kesha kwa ajili ya Mola wao Mlezi kwa kusujudu na kusimama.",
+  "footnotes": "Na wale ambao wanakesha katika ibada na Sala, wakimdhukuru Mwenyezi Mungu kwa wingi."
 }

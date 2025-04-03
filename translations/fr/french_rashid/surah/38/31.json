@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4001",
-    "sura": "38",
-    "aya": "31",
-    "arabic_text": "إِذۡ عُرِضَ عَلَيۡهِ بِٱلۡعَشِيِّ ٱلصَّٰفِنَٰتُ ٱلۡجِيَادُ",
-    "translation": "31 Un soir, l’on fit défiler de magnifiques chevaux de race[1173] devant Salomon,",
-    "footnotes": "[1173] Il s’agit, selon les commentateurs, de chevaux qui se tiennent sur trois pattes et le bout du sabot de la quatrième, signe d’élégance et de légèreté."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 455,
+  "verse_key": "38:31",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ عُرِضَ عَلَيۡهِ بِٱلۡعَشِيِّ ٱلصَّٰفِنَٰتُ ٱلۡجِيَادُ",
+  "translation": "31 Un soir, l’on fit défiler de magnifiques chevaux de race[1173] devant Salomon,",
+  "footnotes": "[1173] Il s’agit, selon les commentateurs, de chevaux qui se tiennent sur trois pattes et le bout du sabot de la quatrième, signe d’élégance et de légèreté."
 }

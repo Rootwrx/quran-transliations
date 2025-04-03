@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1628",
-    "sura": "12",
-    "aya": "32",
-    "arabic_text": "قَالَتۡ فَذَٰلِكُنَّ ٱلَّذِي لُمۡتُنَّنِي فِيهِۖ وَلَقَدۡ رَٰوَدتُّهُۥ عَن نَّفۡسِهِۦ فَٱسۡتَعۡصَمَۖ وَلَئِن لَّمۡ يَفۡعَلۡ مَآ ءَامُرُهُۥ لَيُسۡجَنَنَّ وَلَيَكُونٗا مِّنَ ٱلصَّٰغِرِينَ",
-    "translation": "32. Waxay tidhi: Kani waa midkaad igu eedayseen, anigaana doonay naftiisa, wuuse is dhowray, hadduusanna falin waxaan amrayo, wallee waa la xabbisi, wuxuuna  ka mid noqon kuwa la liido.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 239,
+  "verse_key": "12:32",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ فَذَٰلِكُنَّ ٱلَّذِي لُمۡتُنَّنِي فِيهِۖ وَلَقَدۡ رَٰوَدتُّهُۥ عَن نَّفۡسِهِۦ فَٱسۡتَعۡصَمَۖ وَلَئِن لَّمۡ يَفۡعَلۡ مَآ ءَامُرُهُۥ لَيُسۡجَنَنَّ وَلَيَكُونٗا مِّنَ ٱلصَّٰغِرِينَ",
+  "translation": "32. Waxay tidhi: Kani waa midkaad igu eedayseen, anigaana doonay naftiisa, wuuse is dhowray, hadduusanna falin waxaan amrayo, wallee waa la xabbisi, wuxuuna  ka mid noqon kuwa la liido.",
+  "footnotes": ""
 }

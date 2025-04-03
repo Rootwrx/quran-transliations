@@ -1,0 +1,27 @@
+{
+  "number": 3,
+  "name": {
+    "ar": "آل عمران",
+    "en": "The Family of Imraan",
+    "transliteration": "Ali 'Imran"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 89,
+  "bismillah_pre": true,
+  "verses_count": 200,
+  "words_count": 3503,
+  "letters_count": 14605,
+  "pages": [
+    50,
+    76
+  ],
+  "name_simple": "Ali 'Imran",
+  "name_complex": "Āli `Imrān",
+  "name_arabic": "آل عمران",
+  "translated_name": "Family of Imran",
+  "start_page": 50,
+  "end_page": 76
+}

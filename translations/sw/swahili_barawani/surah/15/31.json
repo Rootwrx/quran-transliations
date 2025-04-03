@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1833",
-    "sura": "15",
-    "aya": "31",
-    "arabic_text": "إِلَّآ إِبۡلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ",
-    "translation": "Isipo kuwa Iblisi. Yeye alikataa kuwa pamoja na walio sujudu.",
-    "footnotes": "Lakini Iblisi alijivuna na akakataa kuwa pamoja na Malaika waliyo it'ii amri ya Mwenyezi Mungu."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 263,
+  "verse_key": "15:31",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّآ إِبۡلِيسَ أَبَىٰٓ أَن يَكُونَ مَعَ ٱلسَّٰجِدِينَ",
+  "translation": "Isipo kuwa Iblisi. Yeye alikataa kuwa pamoja na walio sujudu.",
+  "footnotes": "Lakini Iblisi alijivuna na akakataa kuwa pamoja na Malaika waliyo it'ii amri ya Mwenyezi Mungu."
 }

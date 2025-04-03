@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3978",
-    "sura": "38",
-    "aya": "8",
-    "arabic_text": "أَءُنزِلَ عَلَيۡهِ ٱلذِّكۡرُ مِنۢ بَيۡنِنَاۚ بَلۡ هُمۡ فِي شَكّٖ مِّن ذِكۡرِيۚ بَل لَّمَّا يَذُوقُواْ عَذَابِ",
-    "translation": "Has the Reminder been sent down to him from among us?” Rather, they are in doubt about My Reminder[6], for they have not yet tasted My punishment.",
-    "footnotes": "[6] They do not question the Prophet's (ﷺ) honesty; rather, they question the Qur’an itself. See 6:33."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 453,
+  "verse_key": "38:8",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَءُنزِلَ عَلَيۡهِ ٱلذِّكۡرُ مِنۢ بَيۡنِنَاۚ بَلۡ هُمۡ فِي شَكّٖ مِّن ذِكۡرِيۚ بَل لَّمَّا يَذُوقُواْ عَذَابِ",
+  "translation": "Has the Reminder been sent down to him from among us?” Rather, they are in doubt about My Reminder[6], for they have not yet tasted My punishment.",
+  "footnotes": "[6] They do not question the Prophet's (ﷺ) honesty; rather, they question the Qur’an itself. See 6:33."
 }

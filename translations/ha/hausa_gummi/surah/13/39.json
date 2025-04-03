@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1746",
-    "sura": "13",
-    "aya": "39",
-    "arabic_text": "يَمۡحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثۡبِتُۖ وَعِندَهُۥٓ أُمُّ ٱلۡكِتَٰبِ",
-    "translation": "Allah Yanã shafe abin da Yake so, kuma Yanã tabbatarwa kuma a wurinsa asalin Littãfin yake.",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 254,
+  "verse_key": "13:39",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَمۡحُواْ ٱللَّهُ مَا يَشَآءُ وَيُثۡبِتُۖ وَعِندَهُۥٓ أُمُّ ٱلۡكِتَٰبِ",
+  "translation": "Allah Yanã shafe abin da Yake so, kuma Yanã tabbatarwa kuma a wurinsa asalin Littãfin yake.",
+  "footnotes": ""
 }

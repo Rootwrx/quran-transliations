@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2301",
-    "sura": "19",
-    "aya": "51",
-    "arabic_text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مُوسَىٰٓۚ إِنَّهُۥ كَانَ مُخۡلَصٗا وَكَانَ رَسُولٗا نَّبِيّٗا",
-    "translation": "51. Ku xusna Ktiaabka (Qur’aanka) Muuse. Wuxuu ahaa mid la doortay, Rasuul Nabi ah 7.",
-    "footnotes": "7. Rasuul waa midka Alle u xil saaro inuu hanuuniyo dadka oo gaarsiiyo Fartiintiisa, halka Nabi loola jeedo midka ka hela Waxyi xagga Alle aanse la amrin inuu dadka gaarsiiyo, anbiyada baana ka badan Rususha."
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 308,
+  "verse_key": "19:51",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مُوسَىٰٓۚ إِنَّهُۥ كَانَ مُخۡلَصٗا وَكَانَ رَسُولٗا نَّبِيّٗا",
+  "translation": "51. Ku xusna Ktiaabka (Qur’aanka) Muuse. Wuxuu ahaa mid la doortay, Rasuul Nabi ah 7.",
+  "footnotes": "7. Rasuul waa midka Alle u xil saaro inuu hanuuniyo dadka oo gaarsiiyo Fartiintiisa, halka Nabi loola jeedo midka ka hela Waxyi xagga Alle aanse la amrin inuu dadka gaarsiiyo, anbiyada baana ka badan Rususha."
 }

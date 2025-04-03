@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1315",
-    "sura": "9",
-    "aya": "80",
-    "arabic_text": "ٱسۡتَغۡفِرۡ لَهُمۡ أَوۡ لَا تَسۡتَغۡفِرۡ لَهُمۡ إِن تَسۡتَغۡفِرۡ لَهُمۡ سَبۡعِينَ مَرَّةٗ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ ذَٰلِكَ بِأَنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
-    "translation": "Fo kos yɑɑf n kõ-ba, f bas n pa kos n kõ-ba; ba tɩ f sã n kos yɑɑfɑ b yĩng noor pis-yopoe, ɑd Wẽnd pɑ nɑ n yɑɑf-b lɑe. Rẽ yɑɑ b sẽn mɑɑn sõm-zɩɩlmã ne Wẽnd lɑ A Tẽn-tʋʋmã yĩngã, lɑ Wẽnd kɑ wilgd tɑr-n-yi-dĩin rãmbã sor tɩ b rɩk ye.",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 200,
+  "verse_key": "9:80",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱسۡتَغۡفِرۡ لَهُمۡ أَوۡ لَا تَسۡتَغۡفِرۡ لَهُمۡ إِن تَسۡتَغۡفِرۡ لَهُمۡ سَبۡعِينَ مَرَّةٗ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ ذَٰلِكَ بِأَنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+  "translation": "Fo kos yɑɑf n kõ-ba, f bas n pa kos n kõ-ba; ba tɩ f sã n kos yɑɑfɑ b yĩng noor pis-yopoe, ɑd Wẽnd pɑ nɑ n yɑɑf-b lɑe. Rẽ yɑɑ b sẽn mɑɑn sõm-zɩɩlmã ne Wẽnd lɑ A Tẽn-tʋʋmã yĩngã, lɑ Wẽnd kɑ wilgd tɑr-n-yi-dĩin rãmbã sor tɩ b rɩk ye.",
+  "footnotes": ""
 }

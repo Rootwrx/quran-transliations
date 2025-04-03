@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "939",
-    "sura": "6",
-    "aya": "150",
-    "arabic_text": "قُلۡ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشۡهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَٰذَاۖ فَإِن شَهِدُواْ فَلَا تَشۡهَدۡ مَعَهُمۡۚ وَلَا تَتَّبِعۡ أَهۡوَآءَ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ وَهُم بِرَبِّهِمۡ يَعۡدِلُونَ",
-    "translation": "Ka sε: ‘’Monfa moadansefoͻ a wͻ’di adanseε sε: “Nokorε sε Nyankopͻn abra woi no mmra”. Sε wͻ’di adanseε no a hwε na woanka ho ne wͻn anni adanseε no; na hwε na woani wͻn a wͻ’po Yε’nsεm no ne wͻn a wͻ’nnye Daakye no nnie no na wͻ’de biribi toto wͻn Wura Nyankopͻn ho no apεdeε akyi.",
-    "footnotes": ""
-  }
+  "id": 150,
+  "verse_number": 150,
+  "page_number": 148,
+  "verse_key": "6:150",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 59,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هَلُمَّ شُهَدَآءَكُمُ ٱلَّذِينَ يَشۡهَدُونَ أَنَّ ٱللَّهَ حَرَّمَ هَٰذَاۖ فَإِن شَهِدُواْ فَلَا تَشۡهَدۡ مَعَهُمۡۚ وَلَا تَتَّبِعۡ أَهۡوَآءَ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ وَهُم بِرَبِّهِمۡ يَعۡدِلُونَ",
+  "translation": "Ka sε: ‘’Monfa moadansefoͻ a wͻ’di adanseε sε: “Nokorε sε Nyankopͻn abra woi no mmra”. Sε wͻ’di adanseε no a hwε na woanka ho ne wͻn anni adanseε no; na hwε na woani wͻn a wͻ’po Yε’nsεm no ne wͻn a wͻ’nnye Daakye no nnie no na wͻ’de biribi toto wͻn Wura Nyankopͻn ho no apεdeε akyi.",
+  "footnotes": ""
 }

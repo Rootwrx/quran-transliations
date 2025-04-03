@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2606",
-    "sura": "22",
-    "aya": "11",
-    "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يَعۡبُدُ ٱللَّهَ عَلَىٰ حَرۡفٖۖ فَإِنۡ أَصَابَهُۥ خَيۡرٌ ٱطۡمَأَنَّ بِهِۦۖ وَإِنۡ أَصَابَتۡهُ فِتۡنَةٌ ٱنقَلَبَ عَلَىٰ وَجۡهِهِۦ خَسِرَ ٱلدُّنۡيَا وَٱلۡأٓخِرَةَۚ ذَٰلِكَ هُوَ ٱلۡخُسۡرَانُ ٱلۡمُبِينُ",
-    "translation": "Na katika watu wapo wanao muabudu Mwenyezi Mungu kwa ukingoni. Ikimfikia kheri hutulia kwayo, na ukimfikia msukosuko hugeuza uso wake. Amekhasiri dunia na Akhera; hiyo ndiyo khasara iliyo wazi.",
-    "footnotes": "Na miongoni mwa watu wapo wa namna ya tatu, ambao Imani bado haijatulia katika nyoyo zao, bali itikadi yao inayumba yumba. Maslaha ya nafsi zao ndiyo yanatawala katika Imani yao. Wakipata kheri hufurahi na hutulizana. Na wakipata shida yoyote katika nafsi zao, au mali zao, au wana wao, hurejea ukafirini. Hao huwa wamekosa duniani raha ya utulivu kwa hukumu ya Mwenyezi Mungu na nusura yake, kama Akhera walivyo kosa neema ambayo Mwenyezi Mungu amewaahidi Waumini walio thibiti na wakasubiri. Hiyo khasara ya mara mbili ndiyo khasara ya kweli kweli iliyo wazi."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 333,
+  "verse_key": "22:11",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلنَّاسِ مَن يَعۡبُدُ ٱللَّهَ عَلَىٰ حَرۡفٖۖ فَإِنۡ أَصَابَهُۥ خَيۡرٌ ٱطۡمَأَنَّ بِهِۦۖ وَإِنۡ أَصَابَتۡهُ فِتۡنَةٌ ٱنقَلَبَ عَلَىٰ وَجۡهِهِۦ خَسِرَ ٱلدُّنۡيَا وَٱلۡأٓخِرَةَۚ ذَٰلِكَ هُوَ ٱلۡخُسۡرَانُ ٱلۡمُبِينُ",
+  "translation": "Na katika watu wapo wanao muabudu Mwenyezi Mungu kwa ukingoni. Ikimfikia kheri hutulia kwayo, na ukimfikia msukosuko hugeuza uso wake. Amekhasiri dunia na Akhera; hiyo ndiyo khasara iliyo wazi.",
+  "footnotes": "Na miongoni mwa watu wapo wa namna ya tatu, ambao Imani bado haijatulia katika nyoyo zao, bali itikadi yao inayumba yumba. Maslaha ya nafsi zao ndiyo yanatawala katika Imani yao. Wakipata kheri hufurahi na hutulizana. Na wakipata shida yoyote katika nafsi zao, au mali zao, au wana wao, hurejea ukafirini. Hao huwa wamekosa duniani raha ya utulivu kwa hukumu ya Mwenyezi Mungu na nusura yake, kama Akhera walivyo kosa neema ambayo Mwenyezi Mungu amewaahidi Waumini walio thibiti na wakasubiri. Hiyo khasara ya mara mbili ndiyo khasara ya kweli kweli iliyo wazi."
 }

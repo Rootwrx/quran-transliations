@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4165",
-    "sura": "40",
-    "aya": "32",
-    "arabic_text": "وَيَٰقَوۡمِ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ يَوۡمَ ٱلتَّنَادِ",
-    "translation": "32. Tolkaygow! Waxaan anigu idiinka cabsan Maalinta isu Yeeridda7.",
-    "footnotes": "7. Waa maalinta Qiyaamaha, markay denbiilayaasha la qeylin argarax, dadku waa isu yeeran goobta Qiyaamaha iyagoo in loo shafeeco raba."
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 470,
+  "verse_key": "40:32",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَٰقَوۡمِ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ يَوۡمَ ٱلتَّنَادِ",
+  "translation": "32. Tolkaygow! Waxaan anigu idiinka cabsan Maalinta isu Yeeridda7.",
+  "footnotes": "7. Waa maalinta Qiyaamaha, markay denbiilayaasha la qeylin argarax, dadku waa isu yeeran goobta Qiyaamaha iyagoo in loo shafeeco raba."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3250",
-    "sura": "27",
-    "aya": "91",
-    "arabic_text": "إِنَّمَآ أُمِرۡتُ أَنۡ أَعۡبُدَ رَبَّ هَٰذِهِ ٱلۡبَلۡدَةِ ٱلَّذِي حَرَّمَهَا وَلَهُۥ كُلُّ شَيۡءٖۖ وَأُمِرۡتُ أَنۡ أَكُونَ مِنَ ٱلۡمُسۡلِمِينَ",
-    "translation": "Aku (Muhammad) hanya diperintahkan menyembah Tuhan negeri ini (Mekkah) yang Dia telah menjadikannya tanah haram, dan segala sesuatu adalah milik-Nya. Dan aku diperintahkan agar aku termasuk orang muslim,",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 385,
+  "verse_key": "27:91",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَآ أُمِرۡتُ أَنۡ أَعۡبُدَ رَبَّ هَٰذِهِ ٱلۡبَلۡدَةِ ٱلَّذِي حَرَّمَهَا وَلَهُۥ كُلُّ شَيۡءٖۖ وَأُمِرۡتُ أَنۡ أَكُونَ مِنَ ٱلۡمُسۡلِمِينَ",
+  "translation": "Aku (Muhammad) hanya diperintahkan menyembah Tuhan negeri ini (Mekkah) yang Dia telah menjadikannya tanah haram, dan segala sesuatu adalah milik-Nya. Dan aku diperintahkan agar aku termasuk orang muslim,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "286",
-    "sura": "2",
-    "aya": "279",
-    "arabic_text": "فَإِن لَّمۡ تَفۡعَلُواْ فَأۡذَنُواْ بِحَرۡبٖ مِّنَ ٱللَّهِ وَرَسُولِهِۦۖ وَإِن تُبۡتُمۡ فَلَكُمۡ رُءُوسُ أَمۡوَٰلِكُمۡ لَا تَظۡلِمُونَ وَلَا تُظۡلَمُونَ",
-    "translation": "Ngunit kung hindi ninyo ginawa [ang utos sa inyo], tumiyak kayo ng isang digmaan mula kay Allāh at sa Sugo Niya. Kung nagbalik-loob kayo[70] ay ukol sa inyo ang mga puhunan ng mga salapi ninyo. Hindi kayo lalabag sa katarungan[71] at hindi kayo lalabagin sa katarungan. [72]",
-    "footnotes": "[70] at tumigil sa pagkuha ng patubo\n[71] sa pamamagitan ng pagdagdag ng patubo sa pautang ninyo\n[72] sa pamamagitan ng pagbawas sa pagbayad sa pautang ninyo"
-  }
+  "id": 279,
+  "verse_number": 279,
+  "page_number": 47,
+  "verse_key": "2:279",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 19,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن لَّمۡ تَفۡعَلُواْ فَأۡذَنُواْ بِحَرۡبٖ مِّنَ ٱللَّهِ وَرَسُولِهِۦۖ وَإِن تُبۡتُمۡ فَلَكُمۡ رُءُوسُ أَمۡوَٰلِكُمۡ لَا تَظۡلِمُونَ وَلَا تُظۡلَمُونَ",
+  "translation": "Ngunit kung hindi ninyo ginawa [ang utos sa inyo], tumiyak kayo ng isang digmaan mula kay Allāh at sa Sugo Niya. Kung nagbalik-loob kayo[70] ay ukol sa inyo ang mga puhunan ng mga salapi ninyo. Hindi kayo lalabag sa katarungan[71] at hindi kayo lalabagin sa katarungan. [72]",
+  "footnotes": "[70] at tumigil sa pagkuha ng patubo\n[71] sa pamamagitan ng pagdagdag ng patubo sa pautang ninyo\n[72] sa pamamagitan ng pagbawas sa pagbayad sa pautang ninyo"
 }

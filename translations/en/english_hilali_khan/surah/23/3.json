@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2676",
-    "sura": "23",
-    "aya": "3",
-    "arabic_text": "وَٱلَّذِينَ هُمۡ عَنِ ٱللَّغۡوِ مُعۡرِضُونَ",
-    "translation": " 3. And those who turn away from Al-Laghw (dirty, false, evil vain talk, falsehood, and all that Allâh has forbidden).",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 342,
+  "verse_key": "23:3",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ هُمۡ عَنِ ٱللَّغۡوِ مُعۡرِضُونَ",
+  "translation": " 3. And those who turn away from Al-Laghw (dirty, false, evil vain talk, falsehood, and all that Allâh has forbidden).",
+  "footnotes": ""
 }

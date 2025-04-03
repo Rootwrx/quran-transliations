@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3981",
-    "sura": "38",
-    "aya": "11",
-    "arabic_text": "جُندٞ مَّا هُنَالِكَ مَهۡزُومٞ مِّنَ ٱلۡأَحۡزَابِ",
-    "translation": "Suatu tentara yang besar yang berada di sana dari golongan-golongan yang berserikat pasti akan dikalahkan 1299.",
-    "footnotes": "1299.  Ayat ini menceritakan peperangan Khandaq saat terdapat tentara yang terdiri atas beberapa golongan, yaitu golongan kaum musyrikin, Yahudi, dan beberapa kabilah Arab yang menyerang kaum muslimin di Madinah.  Peperangan ini berakhir dengan kocar-kacirnya tentara mereka.  Sebagian ahli tafsir mengatakan bahwa yang dimaksud di sini ialah peperangan Badar. "
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 453,
+  "verse_key": "38:11",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "جُندٞ مَّا هُنَالِكَ مَهۡزُومٞ مِّنَ ٱلۡأَحۡزَابِ",
+  "translation": "Suatu tentara yang besar yang berada di sana dari golongan-golongan yang berserikat pasti akan dikalahkan 1299.",
+  "footnotes": "1299.  Ayat ini menceritakan peperangan Khandaq saat terdapat tentara yang terdiri atas beberapa golongan, yaitu golongan kaum musyrikin, Yahudi, dan beberapa kabilah Arab yang menyerang kaum muslimin di Madinah.  Peperangan ini berakhir dengan kocar-kacirnya tentara mereka.  Sebagian ahli tafsir mengatakan bahwa yang dimaksud di sini ialah peperangan Badar. "
 }

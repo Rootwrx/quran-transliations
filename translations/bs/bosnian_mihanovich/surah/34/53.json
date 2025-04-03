@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3659",
-    "sura": "34",
-    "aya": "53",
-    "arabic_text": "وَقَدۡ كَفَرُواْ بِهِۦ مِن قَبۡلُۖ وَيَقۡذِفُونَ بِٱلۡغَيۡبِ مِن مَّكَانِۭ بَعِيدٖ",
-    "translation": "U nju oni nisu prije vjerovali, nagađajući izdaleka o onome što je čulima nedokučivo; ",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 434,
+  "verse_key": "34:53",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَدۡ كَفَرُواْ بِهِۦ مِن قَبۡلُۖ وَيَقۡذِفُونَ بِٱلۡغَيۡبِ مِن مَّكَانِۭ بَعِيدٖ",
+  "translation": "U nju oni nisu prije vjerovali, nagađajući izdaleka o onome što je čulima nedokučivo; ",
+  "footnotes": ""
 }

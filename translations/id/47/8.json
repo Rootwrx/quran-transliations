@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4553",
-    "sura": "47",
-    "aya": "8",
-    "arabic_text": "وَٱلَّذِينَ كَفَرُواْ فَتَعۡسٗا لَّهُمۡ وَأَضَلَّ أَعۡمَٰلَهُمۡ",
-    "translation": "Dan orang-orang yang kafir, maka celakalah mereka, dan Allah menghapus segala amalnya.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 507,
+  "verse_key": "47:8",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ كَفَرُواْ فَتَعۡسٗا لَّهُمۡ وَأَضَلَّ أَعۡمَٰلَهُمۡ",
+  "translation": "Dan orang-orang yang kafir, maka celakalah mereka, dan Allah menghapus segala amalnya.",
+  "footnotes": ""
 }

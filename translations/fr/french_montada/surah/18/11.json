@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2151",
-    "sura": "18",
-    "aya": "11",
-    "arabic_text": "فَضَرَبۡنَا عَلَىٰٓ ءَاذَانِهِمۡ فِي ٱلۡكَهۡفِ سِنِينَ عَدَدٗا",
-    "translation": "11. Nous avons alors frappé (de surdité) leurs oreilles[298] pendant de nombreuses années. ",
-    "footnotes": "[298] Nous avons traduit par l’expression littérale. Cela signifie : Nous les avons plongés dans le sommeil le plus profond."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 294,
+  "verse_key": "18:11",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَضَرَبۡنَا عَلَىٰٓ ءَاذَانِهِمۡ فِي ٱلۡكَهۡفِ سِنِينَ عَدَدٗا",
+  "translation": "11. Nous avons alors frappé (de surdité) leurs oreilles[298] pendant de nombreuses années. ",
+  "footnotes": "[298] Nous avons traduit par l’expression littérale. Cela signifie : Nous les avons plongés dans le sommeil le plus profond."
 }

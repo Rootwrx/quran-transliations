@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "552",
-    "sura": "4",
-    "aya": "59",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا",
-    "translation": "59. ¡Oh, creyentes!, obedezcan a Al-lah, al Mensajero[153] y a quienes tengan autoridad sobre ustedes (siempre y cuando no se opongan a los mandatos de Al-lah). Y si discrepan en algo, remítanlo a Al-lah y a Su Mensajero, si de verdad creen en Él y en el Día de la Resurrección. Esto es lo mejor para ustedes y la solución más correcta al final.",
-    "footnotes": "[153]  Las fuentes principales del Islam son dos: el Corán y la sunnah,que podemos resumir como la recopilación de las enseñanzas del Profeta —que Al-lah lo bendiga y le dé la paz—. La sunnah es imprescindible para entender el Corán, y asuntos tan básicos y fundamentales en la religión como la manera de rezar o de efectuar el salat los encontramos descritos en la sunnah, y no en el Corán; así pues, resulta indispensable seguirla para completar la práctica de la religión. Esta aleya, junto con la 69 y 80 de esta misma sura y muchas otras más, es una prueba de que debemos obedecer al Profeta Muhammad —que Al-lah lo bendiga y le dé la paz—. Hay un dicho (hadiz) que recoge las siguientes palabras del Profeta —que Al-lah lo bendiga y le dé la paz—:“Todos entrarán al Paraíso, salvo aquellos que se nieguen a hacerlo”. Los presentes preguntaron extrañados: “Pero ¿acaso hay quien se niegue a entrar al Paraíso?”. El Profeta —que Al-lah lo bendiga y le dé la paz— respondió: “Quien obedezca las enseñanzas que doy entrará al Paraíso; y quien se niegue, se habrá negado a entrar en él”."
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 87,
+  "verse_key": "4:59",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا",
+  "translation": "59. ¡Oh, creyentes!, obedezcan a Al-lah, al Mensajero[153] y a quienes tengan autoridad sobre ustedes (siempre y cuando no se opongan a los mandatos de Al-lah). Y si discrepan en algo, remítanlo a Al-lah y a Su Mensajero, si de verdad creen en Él y en el Día de la Resurrección. Esto es lo mejor para ustedes y la solución más correcta al final.",
+  "footnotes": "[153]  Las fuentes principales del Islam son dos: el Corán y la sunnah,que podemos resumir como la recopilación de las enseñanzas del Profeta —que Al-lah lo bendiga y le dé la paz—. La sunnah es imprescindible para entender el Corán, y asuntos tan básicos y fundamentales en la religión como la manera de rezar o de efectuar el salat los encontramos descritos en la sunnah, y no en el Corán; así pues, resulta indispensable seguirla para completar la práctica de la religión. Esta aleya, junto con la 69 y 80 de esta misma sura y muchas otras más, es una prueba de que debemos obedecer al Profeta Muhammad —que Al-lah lo bendiga y le dé la paz—. Hay un dicho (hadiz) que recoge las siguientes palabras del Profeta —que Al-lah lo bendiga y le dé la paz—:“Todos entrarán al Paraíso, salvo aquellos que se nieguen a hacerlo”. Los presentes preguntaron extrañados: “Pero ¿acaso hay quien se niegue a entrar al Paraíso?”. El Profeta —que Al-lah lo bendiga y le dé la paz— respondió: “Quien obedezca las enseñanzas que doy entrará al Paraíso; y quien se niegue, se habrá negado a entrar en él”."
 }

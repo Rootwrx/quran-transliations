@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4330",
-    "sura": "43",
-    "aya": "5",
-    "arabic_text": "أَفَنَضۡرِبُ عَنكُمُ ٱلذِّكۡرَ صَفۡحًا أَن كُنتُمۡ قَوۡمٗا مُّسۡرِفِينَ",
-    "translation": "Siz, haddi aşan kimseler oldunuz diye, sizi Kur'an'la uyarmaktan vaz mı geçelim?",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 489,
+  "verse_key": "43:5",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَنَضۡرِبُ عَنكُمُ ٱلذِّكۡرَ صَفۡحًا أَن كُنتُمۡ قَوۡمٗا مُّسۡرِفِينَ",
+  "translation": "Siz, haddi aşan kimseler oldunuz diye, sizi Kur'an'la uyarmaktan vaz mı geçelim?",
+  "footnotes": ""
 }

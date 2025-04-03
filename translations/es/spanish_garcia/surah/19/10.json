@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2260",
-    "sura": "19",
-    "aya": "10",
-    "arabic_text": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٖ سَوِيّٗا",
-    "translation": "10. Dijo [Zacarías]: “¡Señor mío! Concédeme una señal [de que mi esposa quedará embarazada]”. Dijo: “Tu señal será que no podrás hablar a la gente durante tres noches seguidas, a pesar de no tener impedimento[1]”.",
-    "footnotes": "[1] A pesar de que no tenía ningún defecto o enfermedad, durante esos días y noches no podía hablar con la gente, excepto por señas, aunque sí podía pronunciar alabanzas a su Señor. Ver Corán 3:41."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 305,
+  "verse_key": "19:10",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٖ سَوِيّٗا",
+  "translation": "10. Dijo [Zacarías]: “¡Señor mío! Concédeme una señal [de que mi esposa quedará embarazada]”. Dijo: “Tu señal será que no podrás hablar a la gente durante tres noches seguidas, a pesar de no tener impedimento[1]”.",
+  "footnotes": "[1] A pesar de que no tenía ningún defecto o enfermedad, durante esos días y noches no podía hablar con la gente, excepto por señas, aunque sí podía pronunciar alabanzas a su Señor. Ver Corán 3:41."
 }

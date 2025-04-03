@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4474",
-    "sura": "45",
-    "aya": "1",
-    "arabic_text": "حمٓ",
-    "translation": "Ha. Mim.[1]",
-    "footnotes": "[1] Xem lại phần chú thích ở câu 1 của chương Al-Baqarah."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 499,
+  "verse_key": "45:1",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حمٓ",
+  "translation": "Ha. Mim.[1]",
+  "footnotes": "[1] Xem lại phần chú thích ở câu 1 của chương Al-Baqarah."
 }

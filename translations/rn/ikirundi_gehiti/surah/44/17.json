@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4431",
-    "sura": "44",
-    "aya": "17",
-    "arabic_text": "۞ وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَجَآءَهُمۡ رَسُولٞ كَرِيمٌ",
-    "translation": "Ni ukuri, hambere y’ababangikanyamana b’i Makka, Twaragerageje abantu ba Firawuni, maze Tubarungikira Intumwa Musa (nyakugira amahoro y’Imana Allah) yubashwe, baraheza barayihakana bivuye inyuma, Duca Turabahana. Ntumwa y’Imana! Ni nk’ukwo nyene rero Tuzohana abo warungitsweko, nibatakwemera;",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 496,
+  "verse_key": "44:17",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَقَدۡ فَتَنَّا قَبۡلَهُمۡ قَوۡمَ فِرۡعَوۡنَ وَجَآءَهُمۡ رَسُولٞ كَرِيمٌ",
+  "translation": "Ni ukuri, hambere y’ababangikanyamana b’i Makka, Twaragerageje abantu ba Firawuni, maze Tubarungikira Intumwa Musa (nyakugira amahoro y’Imana Allah) yubashwe, baraheza barayihakana bivuye inyuma, Duca Turabahana. Ntumwa y’Imana! Ni nk’ukwo nyene rero Tuzohana abo warungitsweko, nibatakwemera;",
+  "footnotes": ""
 }

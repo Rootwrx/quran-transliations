@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3502",
-    "sura": "31",
-    "aya": "33",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمۡ وَٱخۡشَوۡاْ يَوۡمٗا لَّا يَجۡزِي وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوۡلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيۡـًٔاۚ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ فَلَا تَغُرَّنَّكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلۡغَرُورُ",
-    "translation": "Yemwe bantu! Nimugandukire Nyagasani wanyu, munatinye umunsi umubyeyi atazagira icyo amarira umwana we, cyangwa ngo umwana agire icyo amarira umubyeyi we. Mu by’ukuri isezerano rya Allah ni ukuri. Bityo ubuzima bw’isi ntibuzabashuke cyangwa ngo umushukanyi mukuru (Shitani) abashuke abakura mu nzira ya Allah.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 414,
+  "verse_key": "31:33",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمۡ وَٱخۡشَوۡاْ يَوۡمٗا لَّا يَجۡزِي وَالِدٌ عَن وَلَدِهِۦ وَلَا مَوۡلُودٌ هُوَ جَازٍ عَن وَالِدِهِۦ شَيۡـًٔاۚ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۖ فَلَا تَغُرَّنَّكُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَلَا يَغُرَّنَّكُم بِٱللَّهِ ٱلۡغَرُورُ",
+  "translation": "Yemwe bantu! Nimugandukire Nyagasani wanyu, munatinye umunsi umubyeyi atazagira icyo amarira umwana we, cyangwa ngo umwana agire icyo amarira umubyeyi we. Mu by’ukuri isezerano rya Allah ni ukuri. Bityo ubuzima bw’isi ntibuzabashuke cyangwa ngo umushukanyi mukuru (Shitani) abashuke abakura mu nzira ya Allah.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6107",
-    "sura": "96",
-    "aya": "1",
-    "arabic_text": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
-    "translation": "Soma kwa jina la Mola wako Mlezi aliye umba!",
-    "footnotes": "Ewe Muhammad! Soma unayo funuliwa kwa kufunguliwa kwa Jina la Mola wako Mlezi ambaye ni Yeye tu peke yake ndiye Mwenye uweza wa kuumba."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 597,
+  "verse_key": "96:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱقۡرَأۡ بِٱسۡمِ رَبِّكَ ٱلَّذِي خَلَقَ",
+  "translation": "Soma kwa jina la Mola wako Mlezi aliye umba!",
+  "footnotes": "Ewe Muhammad! Soma unayo funuliwa kwa kufunguliwa kwa Jina la Mola wako Mlezi ambaye ni Yeye tu peke yake ndiye Mwenye uweza wa kuumba."
 }

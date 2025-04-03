@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4743",
-    "sura": "52",
-    "aya": "8",
-    "arabic_text": "مَّا لَهُۥ مِن دَافِعٖ",
-    "translation": "8. Ekozala na moto ya kopekisa yango te.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 523,
+  "verse_key": "52:8",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا لَهُۥ مِن دَافِعٖ",
+  "translation": "8. Ekozala na moto ya kopekisa yango te.",
+  "footnotes": ""
 }

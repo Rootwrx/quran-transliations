@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2445",
-    "sura": "20",
-    "aya": "97",
-    "arabic_text": "قَالَ فَٱذۡهَبۡ فَإِنَّ لَكَ فِي ٱلۡحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَۖ وَإِنَّ لَكَ مَوۡعِدٗا لَّن تُخۡلَفَهُۥۖ وَٱنظُرۡ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِي ظَلۡتَ عَلَيۡهِ عَاكِفٗاۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِي ٱلۡيَمِّ نَسۡفًا",
-    "translation": "Mûsâ: \"Haydi git. Artık (ceza olarak) hayatın boyunca bana dokunmayın diyeceksin. Bir de senin için hiç kaçamayacağın bir azap günü var. Üzerine sarılıp ibadet ettiğin ilahına bir bak, şimdi onu yakacağız. Sonra parça parça edip denize savuracağız.\" dedi.",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 318,
+  "verse_key": "20:97",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ فَٱذۡهَبۡ فَإِنَّ لَكَ فِي ٱلۡحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَۖ وَإِنَّ لَكَ مَوۡعِدٗا لَّن تُخۡلَفَهُۥۖ وَٱنظُرۡ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِي ظَلۡتَ عَلَيۡهِ عَاكِفٗاۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِي ٱلۡيَمِّ نَسۡفًا",
+  "translation": "Mûsâ: \"Haydi git. Artık (ceza olarak) hayatın boyunca bana dokunmayın diyeceksin. Bir de senin için hiç kaçamayacağın bir azap günü var. Üzerine sarılıp ibadet ettiğin ilahına bir bak, şimdi onu yakacağız. Sonra parça parça edip denize savuracağız.\" dedi.",
+  "footnotes": ""
 }

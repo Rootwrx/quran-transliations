@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2622",
-    "sura": "22",
-    "aya": "27",
-    "arabic_text": "وَأَذِّن فِي ٱلنَّاسِ بِٱلۡحَجِّ يَأۡتُوكَ رِجَالٗا وَعَلَىٰ كُلِّ ضَامِرٖ يَأۡتِينَ مِن كُلِّ فَجٍّ عَمِيقٖ",
-    "translation": "27 Nous lui avons ordonné d’appeler les hommes à venir y accomplir le pèlerinage à pied ou sur toute monture efflanquée, en provenance des contrées les plus éloignées,",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 335,
+  "verse_key": "22:27",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَذِّن فِي ٱلنَّاسِ بِٱلۡحَجِّ يَأۡتُوكَ رِجَالٗا وَعَلَىٰ كُلِّ ضَامِرٖ يَأۡتِينَ مِن كُلِّ فَجٍّ عَمِيقٖ",
+  "translation": "27 Nous lui avons ordonné d’appeler les hommes à venir y accomplir le pèlerinage à pied ou sur toute monture efflanquée, en provenance des contrées les plus éloignées,",
+  "footnotes": ""
 }

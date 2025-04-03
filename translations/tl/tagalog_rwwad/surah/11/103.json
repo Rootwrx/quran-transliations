@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1576",
-    "sura": "11",
-    "aya": "103",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّمَنۡ خَافَ عَذَابَ ٱلۡأٓخِرَةِۚ ذَٰلِكَ يَوۡمٞ مَّجۡمُوعٞ لَّهُ ٱلنَّاسُ وَذَٰلِكَ يَوۡمٞ مَّشۡهُودٞ",
-    "translation": "Tunay na sa gayon ay talagang may tanda para sa sinumang nangamba sa pagdurusa sa Kabilang-buhay. Iyon ay araw na titipunin para roon ang mga tao at iyon ay araw na sasaksihan [ng lahat].",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 233,
+  "verse_key": "11:103",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّمَنۡ خَافَ عَذَابَ ٱلۡأٓخِرَةِۚ ذَٰلِكَ يَوۡمٞ مَّجۡمُوعٞ لَّهُ ٱلنَّاسُ وَذَٰلِكَ يَوۡمٞ مَّشۡهُودٞ",
+  "translation": "Tunay na sa gayon ay talagang may tanda para sa sinumang nangamba sa pagdurusa sa Kabilang-buhay. Iyon ay araw na titipunin para roon ang mga tao at iyon ay araw na sasaksihan [ng lahat].",
+  "footnotes": ""
 }

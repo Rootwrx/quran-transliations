@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2256",
-    "sura": "19",
-    "aya": "6",
-    "arabic_text": "يَرِثُنِي وَيَرِثُ مِنۡ ءَالِ يَعۡقُوبَۖ وَٱجۡعَلۡهُ رَبِّ رَضِيّٗا",
-    "translation": "(tí) ó máa jogún mi, tí ó sì máa jogún àwọn ẹbí (Ànábì) Ya‘ƙūb. Kí O sì ṣe é ní ẹni tí O yọ́nú sí, Olúwa mi.”",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 305,
+  "verse_key": "19:6",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَرِثُنِي وَيَرِثُ مِنۡ ءَالِ يَعۡقُوبَۖ وَٱجۡعَلۡهُ رَبِّ رَضِيّٗا",
+  "translation": "(tí) ó máa jogún mi, tí ó sì máa jogún àwọn ẹbí (Ànábì) Ya‘ƙūb. Kí O sì ṣe é ní ẹni tí O yọ́nú sí, Olúwa mi.”",
+  "footnotes": ""
 }

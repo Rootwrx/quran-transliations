@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3396",
-    "sura": "29",
-    "aya": "56",
-    "arabic_text": "يَٰعِبَادِيَ ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ أَرۡضِي وَٰسِعَةٞ فَإِيَّٰيَ فَٱعۡبُدُونِ",
-    "translation": "56. Mano vergai, kurie tikite, be abejonės, plati yra Mano žemė. Taigi garbinkite Mane (Vienintelį).“",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 403,
+  "verse_key": "29:56",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰعِبَادِيَ ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ أَرۡضِي وَٰسِعَةٞ فَإِيَّٰيَ فَٱعۡبُدُونِ",
+  "translation": "56. Mano vergai, kurie tikite, be abejonės, plati yra Mano žemė. Taigi garbinkite Mane (Vienintelį).“",
+  "footnotes": ""
 }

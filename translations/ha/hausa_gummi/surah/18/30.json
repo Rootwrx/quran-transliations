@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2170",
-    "sura": "18",
-    "aya": "30",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ إِنَّا لَا نُضِيعُ أَجۡرَ مَنۡ أَحۡسَنَ عَمَلًا",
-    "translation": "Lalle ne waɗanda suka yi ĩmãni kuma suka aikata ayyukan ƙwarai lalle ne Mũ bã Mu tõzartar da lãdar wanda ya kyautata aiki.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 297,
+  "verse_key": "18:30",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ إِنَّا لَا نُضِيعُ أَجۡرَ مَنۡ أَحۡسَنَ عَمَلًا",
+  "translation": "Lalle ne waɗanda suka yi ĩmãni kuma suka aikata ayyukan ƙwarai lalle ne Mũ bã Mu tõzartar da lãdar wanda ya kyautata aiki.",
+  "footnotes": ""
 }

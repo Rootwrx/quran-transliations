@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2991",
-    "sura": "26",
-    "aya": "59",
-    "arabic_text": "كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا بَنِيٓ إِسۡرَٰٓءِيلَ",
-    "translation": "Báyẹn (lọ̀rọ̀ rí). A sì jogún rẹ̀ fún àwọn ọmọ ’Isrọ̄’īl.",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 369,
+  "verse_key": "26:59",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَٰلِكَۖ وَأَوۡرَثۡنَٰهَا بَنِيٓ إِسۡرَٰٓءِيلَ",
+  "translation": "Báyẹn (lọ̀rọ̀ rí). A sì jogún rẹ̀ fún àwọn ọmọ ’Isrọ̄’īl.",
+  "footnotes": ""
 }

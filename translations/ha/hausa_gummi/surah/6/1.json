@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "790",
-    "sura": "6",
-    "aya": "1",
-    "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَۖ ثُمَّ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ يَعۡدِلُونَ",
-    "translation": "Gõdiya ta tabbata ga Allah wanda Ya halitta sammai da ƙasa, kuma Ya sanya duffai da haske*, sa'an nan kuma waɗanda suka kãfirta, da Ubangijinsu suke karkacewa.",
-    "footnotes": "* Duffai na dare da zãlunci da bin hukunce-hukuncen al'ãdu, haske kuma shĩ ne na taurãri da wuta da shari'u na Littãfi da annabci."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 128,
+  "verse_key": "6:1",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَجَعَلَ ٱلظُّلُمَٰتِ وَٱلنُّورَۖ ثُمَّ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡ يَعۡدِلُونَ",
+  "translation": "Gõdiya ta tabbata ga Allah wanda Ya halitta sammai da ƙasa, kuma Ya sanya duffai da haske*, sa'an nan kuma waɗanda suka kãfirta, da Ubangijinsu suke karkacewa.",
+  "footnotes": "* Duffai na dare da zãlunci da bin hukunce-hukuncen al'ãdu, haske kuma shĩ ne na taurãri da wuta da shari'u na Littãfi da annabci."
 }

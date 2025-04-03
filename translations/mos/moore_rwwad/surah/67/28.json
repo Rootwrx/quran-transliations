@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5269",
-    "sura": "67",
-    "aya": "28",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِيَ ٱللَّهُ وَمَن مَّعِيَ أَوۡ رَحِمَنَا فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمٖ",
-    "translation": "Yeele: \"yãmb yãame, Wẽnd sã n kʋ maam la sẽn lagem-b maamã, ma A yols tõndo, rẽ fãɑ be A nungẽ, lɑ ãnd n na n fãag kɩfr-dãmb n yi naong sẽn zabde?",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 564,
+  "verse_key": "67:28",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِيَ ٱللَّهُ وَمَن مَّعِيَ أَوۡ رَحِمَنَا فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمٖ",
+  "translation": "Yeele: \"yãmb yãame, Wẽnd sã n kʋ maam la sẽn lagem-b maamã, ma A yols tõndo, rẽ fãɑ be A nungẽ, lɑ ãnd n na n fãag kɩfr-dãmb n yi naong sẽn zabde?",
+  "footnotes": ""
 }

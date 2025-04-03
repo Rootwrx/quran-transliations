@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4797",
-    "sura": "53",
-    "aya": "13",
-    "arabic_text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
-    "translation": "Àti pé dájúdájú ó tún rí i nígbà kejì[1]",
-    "footnotes": "1. Igun kan nínú àwọn àáfà sọ pé, mọlāika Jibrīl ni Ànábì Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a - rí. Igun kejì sì sọ pé, Allāhu - tó ga jùlọ - ni ó rí, bí ó tilẹ̀ jẹ́ pé igun yìí fi kún un pé ọkàn l’ó fi rí Allāhu, kì í ṣe ojú."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 526,
+  "verse_key": "53:13",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ رَءَاهُ نَزۡلَةً أُخۡرَىٰ",
+  "translation": "Àti pé dájúdájú ó tún rí i nígbà kejì[1]",
+  "footnotes": "1. Igun kan nínú àwọn àáfà sọ pé, mọlāika Jibrīl ni Ànábì Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a - rí. Igun kejì sì sọ pé, Allāhu - tó ga jùlọ - ni ó rí, bí ó tilẹ̀ jẹ́ pé igun yìí fi kún un pé ọkàn l’ó fi rí Allāhu, kì í ṣe ojú."
 }

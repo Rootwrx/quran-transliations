@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "245",
-    "sura": "2",
-    "aya": "238",
-    "arabic_text": "حَٰفِظُواْ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلۡوُسۡطَىٰ وَقُومُواْ لِلَّهِ قَٰنِتِينَ",
-    "translation": "Ku tsare* lõkatai a kan sallõli da salla mafificiya. Kuma ku tsayu kuna mãsu ƙanƙan da kai ga Allah.",
-    "footnotes": "* Bayãnin hukuncin tsare lõkutan salla a cikin kõwane hãli: aminci ko tsõro, da bãyar da salla yadda hãli ya bãyar duka; tsaye kõ da tafiya kõ gudãne. Hikimar sanya wannan hukunci a tsakãnin hukunce-hukuncen aure dõmin farkarwa a kan muhimmancin salla, dõmin kada mu'ãmala ta shagaltar da Musulmi daga gare ta."
-  }
+  "id": 238,
+  "verse_number": 238,
+  "page_number": 39,
+  "verse_key": "2:238",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 15,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَٰفِظُواْ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلۡوُسۡطَىٰ وَقُومُواْ لِلَّهِ قَٰنِتِينَ",
+  "translation": "Ku tsare* lõkatai a kan sallõli da salla mafificiya. Kuma ku tsayu kuna mãsu ƙanƙan da kai ga Allah.",
+  "footnotes": "* Bayãnin hukuncin tsare lõkutan salla a cikin kõwane hãli: aminci ko tsõro, da bãyar da salla yadda hãli ya bãyar duka; tsaye kõ da tafiya kõ gudãne. Hikimar sanya wannan hukunci a tsakãnin hukunce-hukuncen aure dõmin farkarwa a kan muhimmancin salla, dõmin kada mu'ãmala ta shagaltar da Musulmi daga gare ta."
 }

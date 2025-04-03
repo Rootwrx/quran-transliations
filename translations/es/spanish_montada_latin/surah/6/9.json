@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "798",
-    "sura": "6",
-    "aya": "9",
-    "arabic_text": "وَلَوۡ جَعَلۡنَٰهُ مَلَكٗا لَّجَعَلۡنَٰهُ رَجُلٗا وَلَلَبَسۡنَا عَلَيۡهِم مَّا يَلۡبِسُونَ",
-    "translation": "9. Y si les hubiésemos enviado un ángel le habríamos dado apariencia humana (para que pudieran hablar con él y beneficiarse de sus enseñanzas), y habríamos causado en ellos dudas (acerca de si era realmente un Mensajero de Al-lah) del mismo modo que dudan (acerca de Muhammad).",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 129,
+  "verse_key": "6:9",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ جَعَلۡنَٰهُ مَلَكٗا لَّجَعَلۡنَٰهُ رَجُلٗا وَلَلَبَسۡنَا عَلَيۡهِم مَّا يَلۡبِسُونَ",
+  "translation": "9. Y si les hubiésemos enviado un ángel le habríamos dado apariencia humana (para que pudieran hablar con él y beneficiarse de sus enseñanzas), y habríamos causado en ellos dudas (acerca de si era realmente un Mensajero de Al-lah) del mismo modo que dudan (acerca de Muhammad).",
+  "footnotes": ""
 }

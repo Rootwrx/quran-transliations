@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "40",
-    "sura": "2",
-    "aya": "33",
-    "arabic_text": "قَالَ يَٰٓـَٔادَمُ أَنۢبِئۡهُم بِأَسۡمَآئِهِمۡۖ فَلَمَّآ أَنۢبَأَهُم بِأَسۡمَآئِهِمۡ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَأَعۡلَمُ مَا تُبۡدُونَ وَمَا كُنتُمۡ تَكۡتُمُونَ",
-    "translation": "Ya ce: \"Yã Ãdam! Ka gaya musu sũnãyensu.\" To, a lokacin da ya gaya musu sũnãyensu, (Allah) Ya ce: \"Ashe, ban ce muku *ba, lalle Ni, Inã sane da gaibin sammai da ƙasa, kuma (Inã sane da) abin da kuke bayyanawa da abin da kuka kasance kuna ɓõyewa?\"",
-    "footnotes": "* Wannan ƙissa ta nũna cewa shũgabanci da ilmi ake yinsa, bã da yawan ibãda wadda mutum yake keɓanta da yin ta ba. Dõmin an nũna wa mala'iku fĩfĩkon Ãdam a kansu da ilmi,bã da ibãda ba. Kuma da wannan sifa zai zama Halĩfa, kõ dã Iblis bai fitar da shi ba, daga cikin Aljanna, zai fita ta wata hanya dõmin zartar da hukuncin Allah."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 6,
+  "verse_key": "2:33",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ يَٰٓـَٔادَمُ أَنۢبِئۡهُم بِأَسۡمَآئِهِمۡۖ فَلَمَّآ أَنۢبَأَهُم بِأَسۡمَآئِهِمۡ قَالَ أَلَمۡ أَقُل لَّكُمۡ إِنِّيٓ أَعۡلَمُ غَيۡبَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَأَعۡلَمُ مَا تُبۡدُونَ وَمَا كُنتُمۡ تَكۡتُمُونَ",
+  "translation": "Ya ce: \"Yã Ãdam! Ka gaya musu sũnãyensu.\" To, a lokacin da ya gaya musu sũnãyensu, (Allah) Ya ce: \"Ashe, ban ce muku *ba, lalle Ni, Inã sane da gaibin sammai da ƙasa, kuma (Inã sane da) abin da kuke bayyanawa da abin da kuka kasance kuna ɓõyewa?\"",
+  "footnotes": "* Wannan ƙissa ta nũna cewa shũgabanci da ilmi ake yinsa, bã da yawan ibãda wadda mutum yake keɓanta da yin ta ba. Dõmin an nũna wa mala'iku fĩfĩkon Ãdam a kansu da ilmi,bã da ibãda ba. Kuma da wannan sifa zai zama Halĩfa, kõ dã Iblis bai fitar da shi ba, daga cikin Aljanna, zai fita ta wata hanya dõmin zartar da hukuncin Allah."
 }

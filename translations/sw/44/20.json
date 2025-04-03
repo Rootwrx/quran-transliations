@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4434",
-    "sura": "44",
-    "aya": "20",
-    "arabic_text": "وَإِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُمۡ أَن تَرۡجُمُونِ",
-    "translation": "Nami najikinga kwa Mola wangu Mlezi na ndiye Mola wenu Mlezi pia, ili msinipige mawe.",
-    "footnotes": "Na mimi najilinda na Mwenye kuniumba msiweze kuniuwa kwa kunipiga mawe."
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 497,
+  "verse_key": "44:20",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُمۡ أَن تَرۡجُمُونِ",
+  "translation": "Nami najikinga kwa Mola wangu Mlezi na ndiye Mola wenu Mlezi pia, ili msinipige mawe.",
+  "footnotes": "Na mimi najilinda na Mwenye kuniumba msiweze kuniuwa kwa kunipiga mawe."
 }

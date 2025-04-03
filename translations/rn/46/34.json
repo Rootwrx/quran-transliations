@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4544",
-    "sura": "46",
-    "aya": "34",
-    "arabic_text": "وَيَوۡمَ يُعۡرَضُ ٱلَّذِينَ كَفَرُواْ عَلَى ٱلنَّارِ أَلَيۡسَ هَٰذَا بِٱلۡحَقِّۖ قَالُواْ بَلَىٰ وَرَبِّنَاۚ قَالَ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
-    "translation": "Umusi rero abagararije beretswe ibihano vy’umuriro kugira bahanwe, maze bakabazwa n’agashinyaguro n’akantu bati: “Ibi bihano si ivy’ukuri!”, bazokwishura n’agahinda n’akantu bati: “Ego cane turarahiye kw’izina ry’Imana yacu Rurema Allah, ko ari ivy’ukuri koko”. Maze bace babwirwa bati: “Nimuhonje rero ibihano biturutse ku kuntu mwahora mubihakana kw’isi”.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 506,
+  "verse_key": "46:34",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَوۡمَ يُعۡرَضُ ٱلَّذِينَ كَفَرُواْ عَلَى ٱلنَّارِ أَلَيۡسَ هَٰذَا بِٱلۡحَقِّۖ قَالُواْ بَلَىٰ وَرَبِّنَاۚ قَالَ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+  "translation": "Umusi rero abagararije beretswe ibihano vy’umuriro kugira bahanwe, maze bakabazwa n’agashinyaguro n’akantu bati: “Ibi bihano si ivy’ukuri!”, bazokwishura n’agahinda n’akantu bati: “Ego cane turarahiye kw’izina ry’Imana yacu Rurema Allah, ko ari ivy’ukuri koko”. Maze bace babwirwa bati: “Nimuhonje rero ibihano biturutse ku kuntu mwahora mubihakana kw’isi”.",
+  "footnotes": ""
 }

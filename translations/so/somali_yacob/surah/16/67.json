@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1968",
-    "sura": "16",
-    "aya": "67",
-    "arabic_text": "وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلۡأَعۡنَٰبِ تَتَّخِذُونَ مِنۡهُ سَكَرٗا وَرِزۡقًا حَسَنًاۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَعۡقِلُونَ",
-    "translation": "67. Iyo midhaha geedaha timirta iyo canabyada oo aad ka samaysataan cabbitaan culus16 iyo risiq wanaagsan. Arrinkani waxaa ugu sugan calaamo ciddii garasho leh.",
-    "footnotes": "16. Aayaddan waxaa la soo dejiyey ka hor inta aan la xarrimin khamriga. Waxay muujineysaa xaqiiqda in waxyaalaha qaarkood ay ku jiraan dhibaato iyo in sidoo kale lahaan karaan xoogaa wanaag ah."
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 274,
+  "verse_key": "16:67",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِن ثَمَرَٰتِ ٱلنَّخِيلِ وَٱلۡأَعۡنَٰبِ تَتَّخِذُونَ مِنۡهُ سَكَرٗا وَرِزۡقًا حَسَنًاۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَعۡقِلُونَ",
+  "translation": "67. Iyo midhaha geedaha timirta iyo canabyada oo aad ka samaysataan cabbitaan culus16 iyo risiq wanaagsan. Arrinkani waxaa ugu sugan calaamo ciddii garasho leh.",
+  "footnotes": "16. Aayaddan waxaa la soo dejiyey ka hor inta aan la xarrimin khamriga. Waxay muujineysaa xaqiiqda in waxyaalaha qaarkood ay ku jiraan dhibaato iyo in sidoo kale lahaan karaan xoogaa wanaag ah."
 }

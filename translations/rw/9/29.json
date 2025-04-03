@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1264",
-    "sura": "9",
-    "aya": "29",
-    "arabic_text": "قَٰتِلُواْ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلۡحَقِّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حَتَّىٰ يُعۡطُواْ ٱلۡجِزۡيَةَ عَن يَدٖ وَهُمۡ صَٰغِرُونَ",
-    "translation": "Nimurwanye ba bandi batemera Allah n’umunsi w'imperuka, batanaziririza ibyo Allah n’Intumwa ye baziririje (bakomoka) mu bahawe Igitabo. (Munarwanye) bamwe mu bahawe igitabo batayobotse idini ry’ukuri (Isilamu), kugeza batanze Jiziyat1 ubwabo (badahagarariwe) kandi baciye bugufi.[1]",
-    "footnotes": "[1] 1 Jiziyat: Ni umusoro utangwa n’abatari Abayisilamu baba mu bihugu bya Kisilamu, kubera kurindirwa umutekano wabo n’ibyabo. Ukaba warashyizweho kugira ngo nabo bagire uruhare mu iterambere ry’igihugu barimo nk’uko n’abayisilamu bagituyemo batanga amaturo bategekwa n’idini ateza imbere igihugu."
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 191,
+  "verse_key": "9:29",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَٰتِلُواْ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلۡحَقِّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حَتَّىٰ يُعۡطُواْ ٱلۡجِزۡيَةَ عَن يَدٖ وَهُمۡ صَٰغِرُونَ",
+  "translation": "Nimurwanye ba bandi batemera Allah n’umunsi w'imperuka, batanaziririza ibyo Allah n’Intumwa ye baziririje (bakomoka) mu bahawe Igitabo. (Munarwanye) bamwe mu bahawe igitabo batayobotse idini ry’ukuri (Isilamu), kugeza batanze Jiziyat1 ubwabo (badahagarariwe) kandi baciye bugufi.[1]",
+  "footnotes": "[1] 1 Jiziyat: Ni umusoro utangwa n’abatari Abayisilamu baba mu bihugu bya Kisilamu, kubera kurindirwa umutekano wabo n’ibyabo. Ukaba warashyizweho kugira ngo nabo bagire uruhare mu iterambere ry’igihugu barimo nk’uko n’abayisilamu bagituyemo batanga amaturo bategekwa n’idini ateza imbere igihugu."
 }

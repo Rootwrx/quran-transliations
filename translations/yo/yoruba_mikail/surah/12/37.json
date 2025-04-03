@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1633",
-    "sura": "12",
-    "aya": "37",
-    "arabic_text": "قَالَ لَا يَأۡتِيكُمَا طَعَامٞ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي تَرَكۡتُ مِلَّةَ قَوۡمٖ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
-    "translation": "Ó sọ pé: “Oúnjẹ tí wọ́n ń pèsè fún ẹ̀yin méjèèjì kò ní tí ì dé ba yín, àfi kí èmi ti sọ ìtúmọ̀ rẹ̀ fún ẹ̀yin méjèèjì ṣíwájú kí ó tó dé ba yín. Ìyẹn wà nínú n̄ǹkan tí Olúwa mi fi mọ̀ mí. Dájúdájú èmi fi ẹ̀sìn àwọn ènìyàn tí kò gbàgbọ́ nínú Allāhu sílẹ̀. Àwọn sì ni aláìgbàgbọ́ nínú Ọjọ́ Ìkẹ́yìn.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 239,
+  "verse_key": "12:37",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَا يَأۡتِيكُمَا طَعَامٞ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي تَرَكۡتُ مِلَّةَ قَوۡمٖ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
+  "translation": "Ó sọ pé: “Oúnjẹ tí wọ́n ń pèsè fún ẹ̀yin méjèèjì kò ní tí ì dé ba yín, àfi kí èmi ti sọ ìtúmọ̀ rẹ̀ fún ẹ̀yin méjèèjì ṣíwájú kí ó tó dé ba yín. Ìyẹn wà nínú n̄ǹkan tí Olúwa mi fi mọ̀ mí. Dájúdájú èmi fi ẹ̀sìn àwọn ènìyàn tí kò gbàgbọ́ nínú Allāhu sílẹ̀. Àwọn sì ni aláìgbàgbọ́ nínú Ọjọ́ Ìkẹ́yìn.",
+  "footnotes": ""
 }

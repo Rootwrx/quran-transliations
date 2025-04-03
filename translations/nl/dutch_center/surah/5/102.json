@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "771",
-    "sura": "5",
-    "aya": "102",
-    "arabic_text": "قَدۡ سَأَلَهَا قَوۡمٞ مِّن قَبۡلِكُمۡ ثُمَّ أَصۡبَحُواْ بِهَا كَٰفِرِينَ",
-    "translation": "102. Vóór jullie heeft een gemeenschap zulk soort vragen gesteld, vervolgens werden zij ongelovig.",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 124,
+  "verse_key": "5:102",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ سَأَلَهَا قَوۡمٞ مِّن قَبۡلِكُمۡ ثُمَّ أَصۡبَحُواْ بِهَا كَٰفِرِينَ",
+  "translation": "102. Vóór jullie heeft een gemeenschap zulk soort vragen gesteld, vervolgens werden zij ongelovig.",
+  "footnotes": ""
 }

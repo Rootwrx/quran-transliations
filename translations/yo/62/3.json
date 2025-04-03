@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5180",
-    "sura": "62",
-    "aya": "3",
-    "arabic_text": "وَءَاخَرِينَ مِنۡهُمۡ لَمَّا يَلۡحَقُواْ بِهِمۡۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "(Iṣẹ́ jíjẹ́ rẹ̀ tún wà fún) àwọn mìíràn tí wọ́n máa wà nínú àwọn (ọmọlẹ́yìn rẹ̀), àmọ́ tí wọn kò ì pàdé wọn. (Allāhu) Òun ni Alágbára, Ọlọ́gbọ́n.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 553,
+  "verse_key": "62:3",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 221,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاخَرِينَ مِنۡهُمۡ لَمَّا يَلۡحَقُواْ بِهِمۡۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "(Iṣẹ́ jíjẹ́ rẹ̀ tún wà fún) àwọn mìíràn tí wọ́n máa wà nínú àwọn (ọmọlẹ́yìn rẹ̀), àmọ́ tí wọn kò ì pàdé wọn. (Allāhu) Òun ni Alágbára, Ọlọ́gbọ́n.",
+  "footnotes": ""
 }

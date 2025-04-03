@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5218",
-    "sura": "65",
-    "aya": "1",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحۡصُواْ ٱلۡعِدَّةَۖ وَٱتَّقُواْ ٱللَّهَ رَبَّكُمۡۖ لَا تُخۡرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخۡرُجۡنَ إِلَّآ أَن يَأۡتِينَ بِفَٰحِشَةٖ مُّبَيِّنَةٖۚ وَتِلۡكَ حُدُودُ ٱللَّهِۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ لَا تَدۡرِي لَعَلَّ ٱللَّهَ يُحۡدِثُ بَعۡدَ ذَٰلِكَ أَمۡرٗا",
-    "translation": "O Propeta, kapag magdidiborsiyo kayo ng mga maybahay ay magdiborsiyo kayo sa kanila sa para sa [simula ng] panahon ng paghihintay nila, [1] magbilang kayo ng panahon ng paghihintay,[2] at mangilag kayong magkasala kay Allāh na Panginoon ninyo. Huwag kayong magpalisan sa kanila sa mga bahay [ng mga asawa] nila at hindi sila lilisan [sa panahon ng paghihintay] maliban na makagawa sila ng isang mahalay na naglilinaw. Iyon ay ang mga hangganan ni Allāh. Ang sinumang lalabag sa mga hangganan ni Allāh ay lumabag nga siya sa katarungan sa sarili niya. Hindi ka nakababatid marahil si Allāh ay magpangyari matapos niyon ng isang bagay [para magbalikan].",
-    "footnotes": "[1] Ibig sabihin: matapos na pagkalubos ng buwang dalaw ngunit bago maganap ang pakikipagtalik o sa panahon ng natiyak na pagdadalang-tao.\n[2] Ibig sabihin: maghintay ng tatlong buwanang dalaw."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 558,
+  "verse_key": "65:1",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 223,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحۡصُواْ ٱلۡعِدَّةَۖ وَٱتَّقُواْ ٱللَّهَ رَبَّكُمۡۖ لَا تُخۡرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخۡرُجۡنَ إِلَّآ أَن يَأۡتِينَ بِفَٰحِشَةٖ مُّبَيِّنَةٖۚ وَتِلۡكَ حُدُودُ ٱللَّهِۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ لَا تَدۡرِي لَعَلَّ ٱللَّهَ يُحۡدِثُ بَعۡدَ ذَٰلِكَ أَمۡرٗا",
+  "translation": "O Propeta, kapag magdidiborsiyo kayo ng mga maybahay ay magdiborsiyo kayo sa kanila sa para sa [simula ng] panahon ng paghihintay nila, [1] magbilang kayo ng panahon ng paghihintay,[2] at mangilag kayong magkasala kay Allāh na Panginoon ninyo. Huwag kayong magpalisan sa kanila sa mga bahay [ng mga asawa] nila at hindi sila lilisan [sa panahon ng paghihintay] maliban na makagawa sila ng isang mahalay na naglilinaw. Iyon ay ang mga hangganan ni Allāh. Ang sinumang lalabag sa mga hangganan ni Allāh ay lumabag nga siya sa katarungan sa sarili niya. Hindi ka nakababatid marahil si Allāh ay magpangyari matapos niyon ng isang bagay [para magbalikan].",
+  "footnotes": "[1] Ibig sabihin: matapos na pagkalubos ng buwang dalaw ngunit bago maganap ang pakikipagtalik o sa panahon ng natiyak na pagdadalang-tao.\n[2] Ibig sabihin: maghintay ng tatlong buwanang dalaw."
 }

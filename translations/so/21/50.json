@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2533",
-    "sura": "21",
-    "aya": "50",
-    "arabic_text": "وَهَٰذَا ذِكۡرٞ مُّبَارَكٌ أَنزَلۡنَٰهُۚ أَفَأَنتُمۡ لَهُۥ مُنكِرُونَ",
-    "translation": "50.Kanina (Qur'aanku) waa waano barakaysan aanu soo dejinnay, ee miyaad  diideysaan oo ka jeesinaysaan?14.",
-    "footnotes": "14. Idinkoo iska yeelaya inaydaan aqoon, inkiraya ama diidaya inaad qirtaan."
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 326,
+  "verse_key": "21:50",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهَٰذَا ذِكۡرٞ مُّبَارَكٌ أَنزَلۡنَٰهُۚ أَفَأَنتُمۡ لَهُۥ مُنكِرُونَ",
+  "translation": "50.Kanina (Qur'aanku) waa waano barakaysan aanu soo dejinnay, ee miyaad  diideysaan oo ka jeesinaysaan?14.",
+  "footnotes": "14. Idinkoo iska yeelaya inaydaan aqoon, inkiraya ama diidaya inaad qirtaan."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2526",
-    "sura": "21",
-    "aya": "43",
-    "arabic_text": "أَمۡ لَهُمۡ ءَالِهَةٞ تَمۡنَعُهُم مِّن دُونِنَاۚ لَا يَسۡتَطِيعُونَ نَصۡرَ أَنفُسِهِمۡ وَلَا هُم مِّنَّا يُصۡحَبُونَ",
-    "translation": "Au wao wanao miungu watao weza kuwakinga nasi? Hao hawawezi kujinusuru nafsi zao, wala hawatalindwa nasi!",
-    "footnotes": "Kwani wao wanao miungu wa kuwalinda na adhabu itokayo kwetu? Hasha! Hiyo miungu yao haiwezi kujilinda wenyewe, licha kumlinda mwenginewe. Wala hapana yeyote awezae kumlinda yeyote kati yao karibu yake au pamoja naye pindi tukitaka kumuadhibu na kumteketeza."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 325,
+  "verse_key": "21:43",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ لَهُمۡ ءَالِهَةٞ تَمۡنَعُهُم مِّن دُونِنَاۚ لَا يَسۡتَطِيعُونَ نَصۡرَ أَنفُسِهِمۡ وَلَا هُم مِّنَّا يُصۡحَبُونَ",
+  "translation": "Au wao wanao miungu watao weza kuwakinga nasi? Hao hawawezi kujinusuru nafsi zao, wala hawatalindwa nasi!",
+  "footnotes": "Kwani wao wanao miungu wa kuwalinda na adhabu itokayo kwetu? Hasha! Hiyo miungu yao haiwezi kujilinda wenyewe, licha kumlinda mwenginewe. Wala hapana yeyote awezae kumlinda yeyote kati yao karibu yake au pamoja naye pindi tukitaka kumuadhibu na kumteketeza."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "622",
-    "sura": "4",
-    "aya": "129",
-    "arabic_text": "وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
-    "translation": "Bagabo mwubatse izanyu! Ntimuzoshobora gutunganiriza abakenyezi banyu mu rukundo mu buryo bungana n’aho mwovyitwararika, kubera ivyo rero, ntimukirengagize burundu uwo mudahurumbira cane muri bo mu rukundo ngo mumugire intabwa, maze abe nk’uwumanitswe ku gati atabiriwe atahukanye, gutyo mucumure ku Mana Allah. Nimwatunganya ibikorwa vyanyu maze mukagaburira abakenyezi banyu ibibabeshaho bingana ata nkunzi, mugaheza mugatinya Imana Allah mu kwubahiriza amabwirizwa yayo mu kuntu mubanye, bizoba bikwiye. Mu vy’ukuri, Imana Allah Yamye ari Nyenimbabazi-ntangere ku bigaya, Nyenimbabazi ku batoni bayo.",
-    "footnotes": ""
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 99,
+  "verse_key": "4:129",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
+  "translation": "Bagabo mwubatse izanyu! Ntimuzoshobora gutunganiriza abakenyezi banyu mu rukundo mu buryo bungana n’aho mwovyitwararika, kubera ivyo rero, ntimukirengagize burundu uwo mudahurumbira cane muri bo mu rukundo ngo mumugire intabwa, maze abe nk’uwumanitswe ku gati atabiriwe atahukanye, gutyo mucumure ku Mana Allah. Nimwatunganya ibikorwa vyanyu maze mukagaburira abakenyezi banyu ibibabeshaho bingana ata nkunzi, mugaheza mugatinya Imana Allah mu kwubahiriza amabwirizwa yayo mu kuntu mubanye, bizoba bikwiye. Mu vy’ukuri, Imana Allah Yamye ari Nyenimbabazi-ntangere ku bigaya, Nyenimbabazi ku batoni bayo.",
+  "footnotes": ""
 }

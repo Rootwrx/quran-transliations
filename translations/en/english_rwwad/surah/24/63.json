@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2854",
-    "sura": "24",
-    "aya": "63",
-    "arabic_text": "لَّا تَجۡعَلُواْ دُعَآءَ ٱلرَّسُولِ بَيۡنَكُمۡ كَدُعَآءِ بَعۡضِكُم بَعۡضٗاۚ قَدۡ يَعۡلَمُ ٱللَّهُ ٱلَّذِينَ يَتَسَلَّلُونَ مِنكُمۡ لِوَاذٗاۚ فَلۡيَحۡذَرِ ٱلَّذِينَ يُخَالِفُونَ عَنۡ أَمۡرِهِۦٓ أَن تُصِيبَهُمۡ فِتۡنَةٌ أَوۡ يُصِيبَهُمۡ عَذَابٌ أَلِيمٌ",
-    "translation": "Do not consider the Messenger’s summons to you as your summons to one another[37]. Allah surely knows those of you who slip away hiding behind others. So let those who disobey his command beware lest some trial[38] may afflict them or they may be afflicted with a painful punishment.",
-    "footnotes": "[37] i.e., Do not call him, ‘O Muhammad.’ Rather, call him, ‘O Prophet.’\n [38] i.e., affliction, strife, dissension, etc."
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 359,
+  "verse_key": "24:63",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 143,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا تَجۡعَلُواْ دُعَآءَ ٱلرَّسُولِ بَيۡنَكُمۡ كَدُعَآءِ بَعۡضِكُم بَعۡضٗاۚ قَدۡ يَعۡلَمُ ٱللَّهُ ٱلَّذِينَ يَتَسَلَّلُونَ مِنكُمۡ لِوَاذٗاۚ فَلۡيَحۡذَرِ ٱلَّذِينَ يُخَالِفُونَ عَنۡ أَمۡرِهِۦٓ أَن تُصِيبَهُمۡ فِتۡنَةٌ أَوۡ يُصِيبَهُمۡ عَذَابٌ أَلِيمٌ",
+  "translation": "Do not consider the Messenger’s summons to you as your summons to one another[37]. Allah surely knows those of you who slip away hiding behind others. So let those who disobey his command beware lest some trial[38] may afflict them or they may be afflicted with a painful punishment.",
+  "footnotes": "[37] i.e., Do not call him, ‘O Muhammad.’ Rather, call him, ‘O Prophet.’\n [38] i.e., affliction, strife, dissension, etc."
 }

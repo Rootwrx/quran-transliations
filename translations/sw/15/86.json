@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1888",
-    "sura": "15",
-    "aya": "86",
-    "arabic_text": "إِنَّ رَبَّكَ هُوَ ٱلۡخَلَّٰقُ ٱلۡعَلِيمُ",
-    "translation": "Hakika Mola wako Mlezi ndiye Muumbaji Mjuzi.",
-    "footnotes": "Ewe Nabii! Mwenyezi Mungu aliye kuumba na akakulea, ni Mwenye viumbe vyote, na anajua hali yako na yao. Yeye anastahiki umtegemezee mambo yako na yao. Naye anajua maslaha yako na yao."
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 266,
+  "verse_key": "15:86",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ رَبَّكَ هُوَ ٱلۡخَلَّٰقُ ٱلۡعَلِيمُ",
+  "translation": "Hakika Mola wako Mlezi ndiye Muumbaji Mjuzi.",
+  "footnotes": "Ewe Nabii! Mwenyezi Mungu aliye kuumba na akakulea, ni Mwenye viumbe vyote, na anajua hali yako na yao. Yeye anastahiki umtegemezee mambo yako na yao. Naye anajua maslaha yako na yao."
 }

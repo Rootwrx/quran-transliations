@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4144",
-    "sura": "40",
-    "aya": "11",
-    "arabic_text": "قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ",
-    "translation": "Suka ce: \"Ya Ubangijinmu! Kã matar da mu sau biyu, kuma Kã rãyar da mu sau biyu, sabõda haka mun yarda da laifuffukan mu. To, shin, akwai wata hanya zuwa ga fita?\"",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 468,
+  "verse_key": "40:11",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ",
+  "translation": "Suka ce: \"Ya Ubangijinmu! Kã matar da mu sau biyu, kuma Kã rãyar da mu sau biyu, sabõda haka mun yarda da laifuffukan mu. To, shin, akwai wata hanya zuwa ga fita?\"",
+  "footnotes": ""
 }

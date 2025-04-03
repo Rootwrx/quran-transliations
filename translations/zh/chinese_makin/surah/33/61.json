@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3594",
-    "sura": "33",
-    "aya": "61",
-    "arabic_text": "مَّلۡعُونِينَۖ أَيۡنَمَا ثُقِفُوٓاْ أُخِذُواْ وَقُتِّلُواْ تَقۡتِيلٗا",
-    "translation": "他们将被弃绝，无论他们在哪里被发现，就在哪里被逮捕，而被处死。",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 426,
+  "verse_key": "33:61",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّلۡعُونِينَۖ أَيۡنَمَا ثُقِفُوٓاْ أُخِذُواْ وَقُتِّلُواْ تَقۡتِيلٗا",
+  "translation": "他们将被弃绝，无论他们在哪里被发现，就在哪里被逮捕，而被处死。",
+  "footnotes": ""
 }

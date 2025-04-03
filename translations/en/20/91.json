@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2439",
-    "sura": "20",
-    "aya": "91",
-    "arabic_text": "قَالُواْ لَن نَّبۡرَحَ عَلَيۡهِ عَٰكِفِينَ حَتَّىٰ يَرۡجِعَ إِلَيۡنَا مُوسَىٰ",
-    "translation": "(91) They said, \"We will never cease being devoted to it [i.e., the calf] until Moses returns to us.\"",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 318,
+  "verse_key": "20:91",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ لَن نَّبۡرَحَ عَلَيۡهِ عَٰكِفِينَ حَتَّىٰ يَرۡجِعَ إِلَيۡنَا مُوسَىٰ",
+  "translation": "(91) They said, \"We will never cease being devoted to it [i.e., the calf] until Moses returns to us.\"",
+  "footnotes": ""
 }

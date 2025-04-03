@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5568",
-    "sura": "75",
-    "aya": "17",
-    "arabic_text": "إِنَّ عَلَيۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ",
-    "translation": " 17. It is for Us to collect it and to give you (O Muhammad صلى الله عليه وسلم) the ability to recite it (the Qur’ân).",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 577,
+  "verse_key": "75:17",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ عَلَيۡنَا جَمۡعَهُۥ وَقُرۡءَانَهُۥ",
+  "translation": " 17. It is for Us to collect it and to give you (O Muhammad صلى الله عليه وسلم) the ability to recite it (the Qur’ân).",
+  "footnotes": ""
 }

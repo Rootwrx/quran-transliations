@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "855",
-    "sura": "6",
-    "aya": "66",
-    "arabic_text": "وَكَذَّبَ بِهِۦ قَوۡمُكَ وَهُوَ ٱلۡحَقُّۚ قُل لَّسۡتُ عَلَيۡكُم بِوَكِيلٖ",
-    "translation": "Àwọn ènìyàn rẹ pe al-Ƙur’ān nírọ́! (Àmọ́) òdodo ni. Sọ pé: “Èmi kì í ṣe olùṣọ́ lórí yín.”",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 135,
+  "verse_key": "6:66",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 54,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَّبَ بِهِۦ قَوۡمُكَ وَهُوَ ٱلۡحَقُّۚ قُل لَّسۡتُ عَلَيۡكُم بِوَكِيلٖ",
+  "translation": "Àwọn ènìyàn rẹ pe al-Ƙur’ān nírọ́! (Àmọ́) òdodo ni. Sọ pé: “Èmi kì í ṣe olùṣọ́ lórí yín.”",
+  "footnotes": ""
 }

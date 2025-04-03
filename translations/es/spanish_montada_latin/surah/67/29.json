@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5270",
-    "sura": "67",
-    "aya": "29",
-    "arabic_text": "قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "29. Diles: “Él es el Clemente. En Él creemos y en Él depositamos nuestra confianza. Y ya sabrán quiénes son los que están en un claro extravío”.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 564,
+  "verse_key": "67:29",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "29. Diles: “Él es el Clemente. En Él creemos y en Él depositamos nuestra confianza. Y ya sabrán quiénes son los que están en un claro extravío”.",
+  "footnotes": ""
 }

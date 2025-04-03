@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6118",
-    "sura": "96",
-    "aya": "12",
-    "arabic_text": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
-    "translation": "Ma a sagla ne wẽn-zoεεga?",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 597,
+  "verse_key": "96:12",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ أَمَرَ بِٱلتَّقۡوَىٰٓ",
+  "translation": "Ma a sagla ne wẽn-zoεεga?",
+  "footnotes": ""
 }

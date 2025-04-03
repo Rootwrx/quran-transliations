@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "196",
-    "sura": "2",
-    "aya": "189",
-    "arabic_text": "۞ يَسۡـَٔلُونَكَ عَنِ ٱلۡأَهِلَّةِۖ قُلۡ هِيَ مَوَٰقِيتُ لِلنَّاسِ وَٱلۡحَجِّۗ وَلَيۡسَ ٱلۡبِرُّ بِأَن تَأۡتُواْ ٱلۡبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلۡبِرَّ مَنِ ٱتَّقَىٰۗ وَأۡتُواْ ٱلۡبُيُوتَ مِنۡ أَبۡوَٰبِهَاۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
-    "translation": "189.Waxay wax kaa weydiin Bilaha dhasha. Dheh: Waa waqtiyo loo cayimay dadka iyo Xajka. Mana aha samahu inaad guryaha ka soo gashaan duleedkooda40, waxaase sama ah in qofku iska jiro (xumaha), ugana imaada guryaha albaabbadooda, dhowrana (xilkuu idin saaray) Alle si aad u liibaantaan.",
-    "footnotes": "40. Waagii jaahiliyaddda qofka u xarman Xajka wuxuu ka soo gali jirey guriga duleedka iyo halka dambe, oo kama soo geli jirin horay, markaasay asxaabtii wax ka weydiiyeen taasi Rasuulkii Alle, markaasay soo degtay Aayaddan."
-  }
+  "id": 189,
+  "verse_number": 189,
+  "page_number": 29,
+  "verse_key": "2:189",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ يَسۡـَٔلُونَكَ عَنِ ٱلۡأَهِلَّةِۖ قُلۡ هِيَ مَوَٰقِيتُ لِلنَّاسِ وَٱلۡحَجِّۗ وَلَيۡسَ ٱلۡبِرُّ بِأَن تَأۡتُواْ ٱلۡبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلۡبِرَّ مَنِ ٱتَّقَىٰۗ وَأۡتُواْ ٱلۡبُيُوتَ مِنۡ أَبۡوَٰبِهَاۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+  "translation": "189.Waxay wax kaa weydiin Bilaha dhasha. Dheh: Waa waqtiyo loo cayimay dadka iyo Xajka. Mana aha samahu inaad guryaha ka soo gashaan duleedkooda40, waxaase sama ah in qofku iska jiro (xumaha), ugana imaada guryaha albaabbadooda, dhowrana (xilkuu idin saaray) Alle si aad u liibaantaan.",
+  "footnotes": "40. Waagii jaahiliyaddda qofka u xarman Xajka wuxuu ka soo gali jirey guriga duleedka iyo halka dambe, oo kama soo geli jirin horay, markaasay asxaabtii wax ka weydiiyeen taasi Rasuulkii Alle, markaasay soo degtay Aayaddan."
 }

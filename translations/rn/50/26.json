@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4656",
-    "sura": "50",
-    "aya": "26",
-    "arabic_text": "ٱلَّذِي جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَأَلۡقِيَاهُ فِي ٱلۡعَذَابِ ٱلشَّدِيدِ",
-    "translation": "Uwabangikanije Imana Allah n’iyindi mana, nimumuterere mu bihano bikaze vya Jahannamu”;",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 519,
+  "verse_key": "50:26",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي جَعَلَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ فَأَلۡقِيَاهُ فِي ٱلۡعَذَابِ ٱلشَّدِيدِ",
+  "translation": "Uwabangikanije Imana Allah n’iyindi mana, nimumuterere mu bihano bikaze vya Jahannamu”;",
+  "footnotes": ""
 }

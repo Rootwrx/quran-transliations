@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1428",
-    "sura": "10",
-    "aya": "64",
-    "arabic_text": "لَهُمُ ٱلۡبُشۡرَىٰ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۚ لَا تَبۡدِيلَ لِكَلِمَٰتِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
-    "translation": "Bagi mereka berita gembira di dalam kehidupan di dunia dan di akhirat. Tidak ada perubahan bagi janji-janji Allah. Demikian itulah kemenangan yang agung.",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 216,
+  "verse_key": "10:64",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَهُمُ ٱلۡبُشۡرَىٰ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۚ لَا تَبۡدِيلَ لِكَلِمَٰتِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+  "translation": "Bagi mereka berita gembira di dalam kehidupan di dunia dan di akhirat. Tidak ada perubahan bagi janji-janji Allah. Demikian itulah kemenangan yang agung.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4578",
-    "sura": "47",
-    "aya": "33",
-    "arabic_text": "۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَلَا تُبۡطِلُوٓاْ أَعۡمَٰلَكُمۡ",
-    "translation": "Yaa warra amantan! Rabbiif ajajamaa; ergamaa (Isaatifis) ajajamaa; dalagaawwan keessan hin balleessinaa.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 510,
+  "verse_key": "47:33",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَلَا تُبۡطِلُوٓاْ أَعۡمَٰلَكُمۡ",
+  "translation": "Yaa warra amantan! Rabbiif ajajamaa; ergamaa (Isaatifis) ajajamaa; dalagaawwan keessan hin balleessinaa.",
+  "footnotes": ""
 }

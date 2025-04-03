@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3221",
-    "sura": "27",
-    "aya": "62",
-    "arabic_text": "أَمَّن يُجِيبُ ٱلۡمُضۡطَرَّ إِذَا دَعَاهُ وَيَكۡشِفُ ٱلسُّوٓءَ وَيَجۡعَلُكُمۡ خُلَفَآءَ ٱلۡأَرۡضِۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
-    "translation": "Au nani yule anaye mjibu mwenye shida pale anapo mwomba, na akaiondoa dhiki, na akakufanyeni warithi wa ardhi? Je! Yupo mungu pamoja na Mwenyezi Mungu? Ni machache mnayo yazingatia.",
-    "footnotes": "Bali waulize, ewe Mtume: Nani anaye muitikia aliye shikwa na shida katika maombi yake, pale anapo shikwa na shida, akamtegemea Mwenyezi Mungu kwa unyonge na unyenyekevu, naye akamwondolea huyo mtu karaha iliyo msibu, na akakufanyeni warithi wa walio kutangulieni katika nchi? Hapana mungu pamoja na Mwenyezi Mungu wa kukupeni neema zote hizi. Lakini nyinyi makafiri, ni kuchache kabisa kuwaidhika kwenu."
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 382,
+  "verse_key": "27:62",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمَّن يُجِيبُ ٱلۡمُضۡطَرَّ إِذَا دَعَاهُ وَيَكۡشِفُ ٱلسُّوٓءَ وَيَجۡعَلُكُمۡ خُلَفَآءَ ٱلۡأَرۡضِۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
+  "translation": "Au nani yule anaye mjibu mwenye shida pale anapo mwomba, na akaiondoa dhiki, na akakufanyeni warithi wa ardhi? Je! Yupo mungu pamoja na Mwenyezi Mungu? Ni machache mnayo yazingatia.",
+  "footnotes": "Bali waulize, ewe Mtume: Nani anaye muitikia aliye shikwa na shida katika maombi yake, pale anapo shikwa na shida, akamtegemea Mwenyezi Mungu kwa unyonge na unyenyekevu, naye akamwondolea huyo mtu karaha iliyo msibu, na akakufanyeni warithi wa walio kutangulieni katika nchi? Hapana mungu pamoja na Mwenyezi Mungu wa kukupeni neema zote hizi. Lakini nyinyi makafiri, ni kuchache kabisa kuwaidhika kwenu."
 }

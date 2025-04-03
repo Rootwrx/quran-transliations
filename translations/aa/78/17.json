@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5689",
-    "sura": "78",
-    "aya": "17",
-    "arabic_text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتٗا",
-    "translation": "17. Diggah, baxsi ayroy ginô fan edde baxsaana yimixxige wakti yckke. (qhiyaamah ayró kinnuk).",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 582,
+  "verse_key": "78:17",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ كَانَ مِيقَٰتٗا",
+  "translation": "17. Diggah, baxsi ayroy ginô fan edde baxsaana yimixxige wakti yckke. (qhiyaamah ayró kinnuk).",
+  "footnotes": ""
 }

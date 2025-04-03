@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4343",
-    "sura": "43",
-    "aya": "18",
-    "arabic_text": "أَوَمَن يُنَشَّؤُاْ فِي ٱلۡحِلۡيَةِ وَهُوَ فِي ٱلۡخِصَامِ غَيۡرُ مُبِينٖ",
-    "translation": "Ati aliye lelewa katika mapambo, na katika mabishano hawezi kusema kwa bayana?",
-    "footnotes": "Hivyo hawa wana fanya jeuri ya kumpachikia Mwenyezi Mungu mwana, ambaye kwa maumbile yake amelelewa katika mapambo, na hata hawezi kujadiliana na kupambana kwa hoja kwa nuksani yake ya kubaini. Ama hili ni jambo la ajabu!"
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 490,
+  "verse_key": "43:18",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَمَن يُنَشَّؤُاْ فِي ٱلۡحِلۡيَةِ وَهُوَ فِي ٱلۡخِصَامِ غَيۡرُ مُبِينٖ",
+  "translation": "Ati aliye lelewa katika mapambo, na katika mabishano hawezi kusema kwa bayana?",
+  "footnotes": "Hivyo hawa wana fanya jeuri ya kumpachikia Mwenyezi Mungu mwana, ambaye kwa maumbile yake amelelewa katika mapambo, na hata hawezi kujadiliana na kupambana kwa hoja kwa nuksani yake ya kubaini. Ama hili ni jambo la ajabu!"
 }

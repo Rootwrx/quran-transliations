@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6145",
-    "sura": "99",
-    "aya": "7",
-    "arabic_text": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
-    "translation": "Icyo gihe uzaba yarakoze icyiza gifite uburemere bungana n’akantu gato cyane kurusha ibindi, azakibona (agihemberwe).",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 599,
+  "verse_key": "99:7",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٍ خَيۡرٗا يَرَهُۥ",
+  "translation": "Icyo gihe uzaba yarakoze icyiza gifite uburemere bungana n’akantu gato cyane kurusha ibindi, azakibona (agihemberwe).",
+  "footnotes": ""
 }

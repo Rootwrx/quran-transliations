@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5473",
-    "sura": "72",
-    "aya": "26",
-    "arabic_text": "عَٰلِمُ ٱلۡغَيۡبِ فَلَا يُظۡهِرُ عَلَىٰ غَيۡبِهِۦٓ أَحَدًا",
-    "translation": "〔他〕是全知幽玄的，他不让任何人窥见他的幽玄，",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 573,
+  "verse_key": "72:26",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَٰلِمُ ٱلۡغَيۡبِ فَلَا يُظۡهِرُ عَلَىٰ غَيۡبِهِۦٓ أَحَدًا",
+  "translation": "〔他〕是全知幽玄的，他不让任何人窥见他的幽玄，",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1883",
-    "sura": "15",
-    "aya": "81",
-    "arabic_text": "وَءَاتَيۡنَٰهُمۡ ءَايَٰتِنَا فَكَانُواْ عَنۡهَا مُعۡرِضِينَ",
-    "translation": "A Mi smo im dokaze Naše bili dali, ali su oni od njih glave okrenuli.",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 266,
+  "verse_key": "15:81",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاتَيۡنَٰهُمۡ ءَايَٰتِنَا فَكَانُواْ عَنۡهَا مُعۡرِضِينَ",
+  "translation": "A Mi smo im dokaze Naše bili dali, ali su oni od njih glave okrenuli.",
+  "footnotes": ""
 }

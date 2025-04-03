@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1608",
-    "sura": "12",
-    "aya": "12",
-    "arabic_text": "أَرۡسِلۡهُ مَعَنَا غَدٗا يَرۡتَعۡ وَيَلۡعَبۡ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
-    "translation": "12. Tinda ye akende elongo na biso lobi kotambola mpe kosakana, kaši ya soló tokobatela ye.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 236,
+  "verse_key": "12:12",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَرۡسِلۡهُ مَعَنَا غَدٗا يَرۡتَعۡ وَيَلۡعَبۡ وَإِنَّا لَهُۥ لَحَٰفِظُونَ",
+  "translation": "12. Tinda ye akende elongo na biso lobi kotambola mpe kosakana, kaši ya soló tokobatela ye.",
+  "footnotes": ""
 }

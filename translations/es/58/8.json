@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5112",
-    "sura": "58",
-    "aya": "8",
-    "arabic_text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ نُهُواْ عَنِ ٱلنَّجۡوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُواْ عَنۡهُ وَيَتَنَٰجَوۡنَ بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَمَعۡصِيَتِ ٱلرَّسُولِۖ وَإِذَا جَآءُوكَ حَيَّوۡكَ بِمَا لَمۡ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِيٓ أَنفُسِهِمۡ لَوۡلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُۚ حَسۡبُهُمۡ جَهَنَّمُ يَصۡلَوۡنَهَاۖ فَبِئۡسَ ٱلۡمَصِيرُ",
-    "translation": "8. ¿Acaso no ves a aquellos a los que se les habían prohibido los conciliábulos, pero igualmente persisten en hacerlo en secreto? Se confabulan para la maldad, la enemistad y la desobediencia al Mensajero. Cuando se presentan ante ti [¡Oh, Mujámmad!] no te saludan como Dios ha ordenado que lo hagan[1], y se dicen ente ellos [en tono burlón]: “¿Por qué será que Dios no nos castiga por lo que decimos?” Será suficiente el Infierno al que serán arrojados. ¡Qué pésimo destino!",
-    "footnotes": "[1] Sino que te insultan usando sonidos similares."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 543,
+  "verse_key": "58:8",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 217,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ نُهُواْ عَنِ ٱلنَّجۡوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُواْ عَنۡهُ وَيَتَنَٰجَوۡنَ بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَمَعۡصِيَتِ ٱلرَّسُولِۖ وَإِذَا جَآءُوكَ حَيَّوۡكَ بِمَا لَمۡ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِيٓ أَنفُسِهِمۡ لَوۡلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُۚ حَسۡبُهُمۡ جَهَنَّمُ يَصۡلَوۡنَهَاۖ فَبِئۡسَ ٱلۡمَصِيرُ",
+  "translation": "8. ¿Acaso no ves a aquellos a los que se les habían prohibido los conciliábulos, pero igualmente persisten en hacerlo en secreto? Se confabulan para la maldad, la enemistad y la desobediencia al Mensajero. Cuando se presentan ante ti [¡Oh, Mujámmad!] no te saludan como Dios ha ordenado que lo hagan[1], y se dicen ente ellos [en tono burlón]: “¿Por qué será que Dios no nos castiga por lo que decimos?” Será suficiente el Infierno al que serán arrojados. ¡Qué pésimo destino!",
+  "footnotes": "[1] Sino que te insultan usando sonidos similares."
 }

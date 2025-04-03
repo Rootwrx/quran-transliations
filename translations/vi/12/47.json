@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1643",
-    "sura": "12",
-    "aya": "47",
-    "arabic_text": "قَالَ تَزۡرَعُونَ سَبۡعَ سِنِينَ دَأَبٗا فَمَا حَصَدتُّمۡ فَذَرُوهُ فِي سُنۢبُلِهِۦٓ إِلَّا قَلِيلٗا مِّمَّا تَأۡكُلُونَ",
-    "translation": "(Yusuf) nói: “Các người hãy trồng liên tiếp trong bảy năm. Những gì thu hoạch được, các người hãy để nguyên nhánh bông mà dự trữ, chỉ trừ một ít để ăn.”",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 241,
+  "verse_key": "12:47",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ تَزۡرَعُونَ سَبۡعَ سِنِينَ دَأَبٗا فَمَا حَصَدتُّمۡ فَذَرُوهُ فِي سُنۢبُلِهِۦٓ إِلَّا قَلِيلٗا مِّمَّا تَأۡكُلُونَ",
+  "translation": "(Yusuf) nói: “Các người hãy trồng liên tiếp trong bảy năm. Những gì thu hoạch được, các người hãy để nguyên nhánh bông mà dự trữ, chỉ trừ một ít để ăn.”",
+  "footnotes": ""
 }

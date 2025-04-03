@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1317",
-    "sura": "9",
-    "aya": "82",
-    "arabic_text": "فَلۡيَضۡحَكُواْ قَلِيلٗا وَلۡيَبۡكُواْ كَثِيرٗا جَزَآءَۢ بِمَا كَانُواْ يَكۡسِبُونَ",
-    "translation": "82. Ee ha qoslaan wax yar (adduunka), hana ooyaan wax badan (Aakhiro) abaal marin ahaan waxay kasbadeen (oo denbiyo ah).",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 200,
+  "verse_key": "9:82",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلۡيَضۡحَكُواْ قَلِيلٗا وَلۡيَبۡكُواْ كَثِيرٗا جَزَآءَۢ بِمَا كَانُواْ يَكۡسِبُونَ",
+  "translation": "82. Ee ha qoslaan wax yar (adduunka), hana ooyaan wax badan (Aakhiro) abaal marin ahaan waxay kasbadeen (oo denbiyo ah).",
+  "footnotes": ""
 }

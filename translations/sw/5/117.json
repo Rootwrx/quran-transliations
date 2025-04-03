@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "786",
-    "sura": "5",
-    "aya": "117",
-    "arabic_text": "مَا قُلۡتُ لَهُمۡ إِلَّا مَآ أَمَرۡتَنِي بِهِۦٓ أَنِ ٱعۡبُدُواْ ٱللَّهَ رَبِّي وَرَبَّكُمۡۚ وَكُنتُ عَلَيۡهِمۡ شَهِيدٗا مَّا دُمۡتُ فِيهِمۡۖ فَلَمَّا تَوَفَّيۡتَنِي كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيۡهِمۡۚ وَأَنتَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
-    "translation": "Sikuwaambia lolote ila uliyo niamrisha, nayo ni: Muabuduni Mwenyezi Mungu, Mola wangu Mlezi na Mola wenu Mlezi. Na mimi nilikuwa shahidi juu yao nilipo kuwa nao. Na ulipo nifisha ukawa Wewe ndiye Muangalizi juu yao. Na Wewe ni shahidi juu ya kila kitu.",
-    "footnotes": "Mimi sikuwaambia ila uliyo niamrisha niwafikishie. Nimewaambia: Muabuduni Mwenyezi Mungu peke yake. Kwani Yeye ndiye Mwenye kumiliki mambo yangu na yenu. Na mimi nilikuwa naijua hali yao nilipo kuwa nao. Na ulipo malizika muda uliyo nikadiria nikae nao ulikuwa Wewe peke yako ndiye unaye wajua. Na Wewe ni Mwenye kujua kila kitu."
-  }
+  "id": 117,
+  "verse_number": 117,
+  "page_number": 127,
+  "verse_key": "5:117",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا قُلۡتُ لَهُمۡ إِلَّا مَآ أَمَرۡتَنِي بِهِۦٓ أَنِ ٱعۡبُدُواْ ٱللَّهَ رَبِّي وَرَبَّكُمۡۚ وَكُنتُ عَلَيۡهِمۡ شَهِيدٗا مَّا دُمۡتُ فِيهِمۡۖ فَلَمَّا تَوَفَّيۡتَنِي كُنتَ أَنتَ ٱلرَّقِيبَ عَلَيۡهِمۡۚ وَأَنتَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+  "translation": "Sikuwaambia lolote ila uliyo niamrisha, nayo ni: Muabuduni Mwenyezi Mungu, Mola wangu Mlezi na Mola wenu Mlezi. Na mimi nilikuwa shahidi juu yao nilipo kuwa nao. Na ulipo nifisha ukawa Wewe ndiye Muangalizi juu yao. Na Wewe ni shahidi juu ya kila kitu.",
+  "footnotes": "Mimi sikuwaambia ila uliyo niamrisha niwafikishie. Nimewaambia: Muabuduni Mwenyezi Mungu peke yake. Kwani Yeye ndiye Mwenye kumiliki mambo yangu na yenu. Na mimi nilikuwa naijua hali yao nilipo kuwa nao. Na ulipo malizika muda uliyo nikadiria nikae nao ulikuwa Wewe peke yako ndiye unaye wajua. Na Wewe ni Mwenye kujua kila kitu."
 }

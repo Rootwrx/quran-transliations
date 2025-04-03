@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "655",
-    "sura": "4",
-    "aya": "162",
-    "arabic_text": "لَّٰكِنِ ٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ مِنۡهُمۡ وَٱلۡمُؤۡمِنُونَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَۚ وَٱلۡمُقِيمِينَ ٱلصَّلَوٰةَۚ وَٱلۡمُؤۡتُونَ ٱلزَّكَوٰةَ وَٱلۡمُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ أُوْلَٰٓئِكَ سَنُؤۡتِيهِمۡ أَجۡرًا عَظِيمًا",
-    "translation": "Lakini walio bobea katika ilimu miongoni mwao, na Waumini, wanayaamini uliyo teremshiwa wewe, na yaliyo teremshwa kabla yako. Na wanao shika Swala, na wakatoa Zaka, na wanao muamini Mwenyezi Mungu na Siku ya Mwisho - hao tutawapa malipo makubwa.",
-    "footnotes": "Lakini walio bobea katika ilimu, yaani wataalamu kweli kweli, miongoni mwa Mayahudi, na Waumini katika umma wako, Ewe Nabii, wanasadiki wahyi ulio funuliwa wewe, na walio letewa Mitume wa kabla yako. Na wanao shika Swala baraabara, na wanatoa Zaka, na wanamuamini Mwenyezi Mungu na kufufuliwa na hisabu, hao Mwenyezi Mungu atawalipa malipo mema kabisa kwa imani yao na ut'iifu wao."
-  }
+  "id": 162,
+  "verse_number": 162,
+  "page_number": 103,
+  "verse_key": "4:162",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّٰكِنِ ٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ مِنۡهُمۡ وَٱلۡمُؤۡمِنُونَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَۚ وَٱلۡمُقِيمِينَ ٱلصَّلَوٰةَۚ وَٱلۡمُؤۡتُونَ ٱلزَّكَوٰةَ وَٱلۡمُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ أُوْلَٰٓئِكَ سَنُؤۡتِيهِمۡ أَجۡرًا عَظِيمًا",
+  "translation": "Lakini walio bobea katika ilimu miongoni mwao, na Waumini, wanayaamini uliyo teremshiwa wewe, na yaliyo teremshwa kabla yako. Na wanao shika Swala, na wakatoa Zaka, na wanao muamini Mwenyezi Mungu na Siku ya Mwisho - hao tutawapa malipo makubwa.",
+  "footnotes": "Lakini walio bobea katika ilimu, yaani wataalamu kweli kweli, miongoni mwa Mayahudi, na Waumini katika umma wako, Ewe Nabii, wanasadiki wahyi ulio funuliwa wewe, na walio letewa Mitume wa kabla yako. Na wanao shika Swala baraabara, na wanatoa Zaka, na wanamuamini Mwenyezi Mungu na kufufuliwa na hisabu, hao Mwenyezi Mungu atawalipa malipo mema kabisa kwa imani yao na ut'iifu wao."
 }

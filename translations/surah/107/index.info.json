@@ -1,0 +1,42 @@
+{
+  "number": 107,
+  "revelation_order": 17,
+  "bismillah_pre": true,
+  "verses_count": 7,
+  "words_count": 25,
+  "letters_count": 112,
+  "name_simple": "Al-Ma'un",
+  "name_complex": "Al-Mā`ūn",
+  "name_arabic": "الماعون",
+  "translated_name": "The Small kindnesses",
+  "start_page": 602,
+  "end_page": 602,
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "name": {
+    "ar": "الماعون",
+    "en": "Almsgiving",
+    "transliteration": "Al-Ma'un"
+  },
+  "juz": [
+    {
+      "index": "30",
+      "verse": {
+        "start": "1",
+        "end": "7"
+      }
+    }
+  ],
+  "verses": {
+    "0": "بِسْمِ اللَّهِ الرَّحْمَٰنِ الرَّحِيمِ",
+    "1": "أَرَءَيْتَ ٱلَّذِى يُكَذِّبُ بِٱلدِّينِ",
+    "2": "فَذَٰلِكَ ٱلَّذِى يَدُعُّ ٱلْيَتِيمَ",
+    "3": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلْمِسْكِينِ",
+    "4": "فَوَيْلٌۭ لِّلْمُصَلِّينَ",
+    "5": "ٱلَّذِينَ هُمْ عَن صَلَاتِهِمْ سَاهُونَ",
+    "6": "ٱلَّذِينَ هُمْ يُرَآءُونَ",
+    "7": "وَيَمْنَعُونَ ٱلْمَاعُونَ"
+  }
+}

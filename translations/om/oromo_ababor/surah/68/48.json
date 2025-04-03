@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5319",
-    "sura": "68",
-    "aya": "48",
-    "arabic_text": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومٞ",
-    "translation": "Murtii Gooftaa keetiitiif obsi. Akka saahiba qurxummii hintahin yeroo lallabe inni dallansuun guutame.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 566,
+  "verse_key": "68:48",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱصۡبِرۡ لِحُكۡمِ رَبِّكَ وَلَا تَكُن كَصَاحِبِ ٱلۡحُوتِ إِذۡ نَادَىٰ وَهُوَ مَكۡظُومٞ",
+  "translation": "Murtii Gooftaa keetiitiif obsi. Akka saahiba qurxummii hintahin yeroo lallabe inni dallansuun guutame.",
+  "footnotes": ""
 }

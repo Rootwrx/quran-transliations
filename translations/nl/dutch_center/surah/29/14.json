@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3354",
-    "sura": "29",
-    "aya": "14",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَلَبِثَ فِيهِمۡ أَلۡفَ سَنَةٍ إِلَّا خَمۡسِينَ عَامٗا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمۡ ظَٰلِمُونَ",
-    "translation": "14. En voorwaar, Wij hebben Noeh naar zijn volk gestuurd, en hij bleef onder hen duizend jaren minus vijftig jaar en de zondvloed overspoelde hen terwijl zij onrechtvaardigen waren.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 397,
+  "verse_key": "29:14",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَلَبِثَ فِيهِمۡ أَلۡفَ سَنَةٍ إِلَّا خَمۡسِينَ عَامٗا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمۡ ظَٰلِمُونَ",
+  "translation": "14. En voorwaar, Wij hebben Noeh naar zijn volk gestuurd, en hij bleef onder hen duizend jaren minus vijftig jaar en de zondvloed overspoelde hen terwijl zij onrechtvaardigen waren.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "61",
-    "sura": "2",
-    "aya": "54",
-    "arabic_text": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ إِنَّكُمۡ ظَلَمۡتُمۡ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلۡعِجۡلَ فَتُوبُوٓاْ إِلَىٰ بَارِئِكُمۡ فَٱقۡتُلُوٓاْ أَنفُسَكُمۡ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ عِندَ بَارِئِكُمۡ فَتَابَ عَلَيۡكُمۡۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
-    "translation": "Nimwibuke inema zanje Nabahaye muheze mushime, mwibuke n’igihe Intumwa y’Imana Musa (nyakugira amahoro y’Imana Allah) ibwira abantu bayo iti: “Bantu banje! Mu vy’ukuri, mwarirenganije mu gusenga igishusho c’inyana y’inka. Kubera ivyo rero, nimugaruke ku Mana Allah Umuremyi wanyu, maze mwigaye ibicumuro vyanyu mu kwicana hagati yanyu. Ivyo rero mu gihe mwobigira, ni ku neza yanyu imbere y’Imana Allah Umuremyi wanyu. Ico gihe mwaricanye hapfa ibihumbi mirongo indwi, gutyo Iyabaremye Irabababarira”. Mu vy’ukuri rero, ni Yo Nyenukwumvirabigaya, Yumvira abayitakambira mu biremwa, Nyenimbabazi ku batoni bayo.",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 8,
+  "verse_key": "2:54",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦ يَٰقَوۡمِ إِنَّكُمۡ ظَلَمۡتُمۡ أَنفُسَكُم بِٱتِّخَاذِكُمُ ٱلۡعِجۡلَ فَتُوبُوٓاْ إِلَىٰ بَارِئِكُمۡ فَٱقۡتُلُوٓاْ أَنفُسَكُمۡ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ عِندَ بَارِئِكُمۡ فَتَابَ عَلَيۡكُمۡۚ إِنَّهُۥ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "translation": "Nimwibuke inema zanje Nabahaye muheze mushime, mwibuke n’igihe Intumwa y’Imana Musa (nyakugira amahoro y’Imana Allah) ibwira abantu bayo iti: “Bantu banje! Mu vy’ukuri, mwarirenganije mu gusenga igishusho c’inyana y’inka. Kubera ivyo rero, nimugaruke ku Mana Allah Umuremyi wanyu, maze mwigaye ibicumuro vyanyu mu kwicana hagati yanyu. Ivyo rero mu gihe mwobigira, ni ku neza yanyu imbere y’Imana Allah Umuremyi wanyu. Ico gihe mwaricanye hapfa ibihumbi mirongo indwi, gutyo Iyabaremye Irabababarira”. Mu vy’ukuri rero, ni Yo Nyenukwumvirabigaya, Yumvira abayitakambira mu biremwa, Nyenimbabazi ku batoni bayo.",
+  "footnotes": ""
 }

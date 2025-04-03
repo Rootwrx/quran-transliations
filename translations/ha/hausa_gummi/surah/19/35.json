@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2285",
-    "sura": "19",
-    "aya": "35",
-    "arabic_text": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٖۖ سُبۡحَٰنَهُۥٓۚ إِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
-    "translation": "Bã ya kasancẽwa ga Allah Ya riƙi wani ɗã*. Tsarki ya tabbata a gare shi! Idan Yã hukunta wani al'amari sai kawai Ya ce masa, \"Kasance.\" Sai ya dinga kasan cẽwa.",
-    "footnotes": "* Ba ya kasancewa ga Allah Ya riƙi ɗã, dõmin bã Ya mutuwa balle Ya yi bukãtar mai gãdo ga tsaron dũkiya. Shi kaɗai ne, bã Ya bukãtar wani ɗã mai tsaron dangi dõmin kada su bar hanya."
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 307,
+  "verse_key": "19:35",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٖۖ سُبۡحَٰنَهُۥٓۚ إِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+  "translation": "Bã ya kasancẽwa ga Allah Ya riƙi wani ɗã*. Tsarki ya tabbata a gare shi! Idan Yã hukunta wani al'amari sai kawai Ya ce masa, \"Kasance.\" Sai ya dinga kasan cẽwa.",
+  "footnotes": "* Ba ya kasancewa ga Allah Ya riƙi ɗã, dõmin bã Ya mutuwa balle Ya yi bukãtar mai gãdo ga tsaron dũkiya. Shi kaɗai ne, bã Ya bukãtar wani ɗã mai tsaron dangi dõmin kada su bar hanya."
 }

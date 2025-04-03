@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3022",
-    "sura": "26",
-    "aya": "90",
-    "arabic_text": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ",
-    "translation": "90. Ese día, el paraíso se aproximará a los piadosos,",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 371,
+  "verse_key": "26:90",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ",
+  "translation": "90. Ese día, el paraíso se aproximará a los piadosos,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4479",
-    "sura": "45",
-    "aya": "6",
-    "arabic_text": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۖ فَبِأَيِّ حَدِيثِۭ بَعۡدَ ٱللَّهِ وَءَايَٰتِهِۦ يُؤۡمِنُونَ",
-    "translation": "6. Ce sont là les versets[498] d’Allah que Nous te récitons en toute vérité. En quelle parole, après celle d’Allah et (après) Ses versets, vont-ils désormais croire ?",
-    "footnotes": "[498] Le mot « âya » dans le texte coranique signifie la plupart du temps « Signe, prodige, miracle ». Mais il arrive qu’il signifie « verset ». C’est ici le cas, comme en témoigne le verbe « réciter » qui suit. Cela correspond d’ailleurs à l’exégèse d’Ibn Kathîr."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 499,
+  "verse_key": "45:6",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۖ فَبِأَيِّ حَدِيثِۭ بَعۡدَ ٱللَّهِ وَءَايَٰتِهِۦ يُؤۡمِنُونَ",
+  "translation": "6. Ce sont là les versets[498] d’Allah que Nous te récitons en toute vérité. En quelle parole, après celle d’Allah et (après) Ses versets, vont-ils désormais croire ?",
+  "footnotes": "[498] Le mot « âya » dans le texte coranique signifie la plupart du temps « Signe, prodige, miracle ». Mais il arrive qu’il signifie « verset ». C’est ici le cas, comme en témoigne le verbe « réciter » qui suit. Cela correspond d’ailleurs à l’exégèse d’Ibn Kathîr."
 }

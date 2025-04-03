@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2780",
-    "sura": "23",
-    "aya": "107",
-    "arabic_text": "رَبَّنَآ أَخۡرِجۡنَا مِنۡهَا فَإِنۡ عُدۡنَا فَإِنَّا ظَٰلِمُونَ",
-    "translation": "107. Ni-Rabbow girak nee eyyecqaay, addunyâ fanah nee gacis, tokkel nanu koroosannuu kee umaaneh gacnek, toysa nanu diggah ninni nafsi koroosannut yudlume mara akkennok iyyan.",
-    "footnotes": ""
-  }
+  "id": 107,
+  "verse_number": 107,
+  "page_number": 349,
+  "verse_key": "23:107",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبَّنَآ أَخۡرِجۡنَا مِنۡهَا فَإِنۡ عُدۡنَا فَإِنَّا ظَٰلِمُونَ",
+  "translation": "107. Ni-Rabbow girak nee eyyecqaay, addunyâ fanah nee gacis, tokkel nanu koroosannuu kee umaaneh gacnek, toysa nanu diggah ninni nafsi koroosannut yudlume mara akkennok iyyan.",
+  "footnotes": ""
 }

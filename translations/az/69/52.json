@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5375",
-    "sura": "69",
-    "aya": "52",
-    "arabic_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
-    "translation": "(Ey Peyğəmbər!) Elə isə Əzəmətli Rəbbinin adı ilə təsbih et!",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 568,
+  "verse_key": "69:52",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+  "translation": "(Ey Peyğəmbər!) Elə isə Əzəmətli Rəbbinin adı ilə təsbih et!",
+  "footnotes": ""
 }

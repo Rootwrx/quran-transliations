@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4261",
-    "sura": "41",
-    "aya": "43",
-    "arabic_text": "مَّا يُقَالُ لَكَ إِلَّا مَا قَدۡ قِيلَ لِلرُّسُلِ مِن قَبۡلِكَۚ إِنَّ رَبَّكَ لَذُو مَغۡفِرَةٖ وَذُو عِقَابٍ أَلِيمٖ",
-    "translation": "Tidaklah ada yang dikatakan (oleh orang-orang kafir) kepadamu itu, selain apa yang sesungguhnya telah dikatakan kepada rasul-rasul sebelum kamu.  Sesungguhnya Tuhan kamu benar-benar mempunyai ampunan dan hukuman yang pedih.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 481,
+  "verse_key": "41:43",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا يُقَالُ لَكَ إِلَّا مَا قَدۡ قِيلَ لِلرُّسُلِ مِن قَبۡلِكَۚ إِنَّ رَبَّكَ لَذُو مَغۡفِرَةٖ وَذُو عِقَابٍ أَلِيمٖ",
+  "translation": "Tidaklah ada yang dikatakan (oleh orang-orang kafir) kepadamu itu, selain apa yang sesungguhnya telah dikatakan kepada rasul-rasul sebelum kamu.  Sesungguhnya Tuhan kamu benar-benar mempunyai ampunan dan hukuman yang pedih.",
+  "footnotes": ""
 }

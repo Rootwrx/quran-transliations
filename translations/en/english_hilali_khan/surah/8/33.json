@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1193",
-    "sura": "8",
-    "aya": "33",
-    "arabic_text": "وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمۡ وَأَنتَ فِيهِمۡۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمۡ وَهُمۡ يَسۡتَغۡفِرُونَ",
-    "translation": " 33. And Allâh would not punish them while you (Muhammad صلى الله عليه وسلم) are amongst them, nor will He punish them while they seek (Allâh’s) Forgiveness.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 180,
+  "verse_key": "8:33",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمۡ وَأَنتَ فِيهِمۡۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمۡ وَهُمۡ يَسۡتَغۡفِرُونَ",
+  "translation": " 33. And Allâh would not punish them while you (Muhammad صلى الله عليه وسلم) are amongst them, nor will He punish them while they seek (Allâh’s) Forgiveness.",
+  "footnotes": ""
 }

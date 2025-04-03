@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "668",
-    "sura": "4",
-    "aya": "175",
-    "arabic_text": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَٱعۡتَصَمُواْ بِهِۦ فَسَيُدۡخِلُهُمۡ فِي رَحۡمَةٖ مِّنۡهُ وَفَضۡلٖ وَيَهۡدِيهِمۡ إِلَيۡهِ صِرَٰطٗا مُّسۡتَقِيمٗا",
-    "translation": "As for those who believe in Allah and hold fast to Him, He will admit them into His mercy and grace[113], and guide them to Himself through a straight path.",
-    "footnotes": "[113] i.e., Paradise."
-  }
+  "id": 175,
+  "verse_number": 175,
+  "page_number": 105,
+  "verse_key": "4:175",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 42,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَٱعۡتَصَمُواْ بِهِۦ فَسَيُدۡخِلُهُمۡ فِي رَحۡمَةٖ مِّنۡهُ وَفَضۡلٖ وَيَهۡدِيهِمۡ إِلَيۡهِ صِرَٰطٗا مُّسۡتَقِيمٗا",
+  "translation": "As for those who believe in Allah and hold fast to Him, He will admit them into His mercy and grace[113], and guide them to Himself through a straight path.",
+  "footnotes": "[113] i.e., Paradise."
 }

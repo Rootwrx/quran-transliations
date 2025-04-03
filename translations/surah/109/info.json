@@ -1,0 +1,27 @@
+{
+  "number": 109,
+  "name": {
+    "ar": "الكافرون",
+    "en": "The Disbelievers",
+    "transliteration": "Al-Kafirun"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 18,
+  "bismillah_pre": true,
+  "verses_count": 6,
+  "words_count": 27,
+  "letters_count": 95,
+  "pages": [
+    603,
+    603
+  ],
+  "name_simple": "Al-Kafirun",
+  "name_complex": "Al-Kāfirūn",
+  "name_arabic": "الكافرون",
+  "translated_name": "The Disbelievers",
+  "start_page": 603,
+  "end_page": 603
+}

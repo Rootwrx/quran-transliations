@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3736",
-    "sura": "36",
-    "aya": "31",
-    "arabic_text": "أَلَمۡ يَرَوۡاْ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ أَنَّهُمۡ إِلَيۡهِمۡ لَا يَرۡجِعُونَ",
-    "translation": "31. ¿Acaso no ven cuántas generaciones que los precedieron, y que nunca regresarán, destruimos (y reflexionan sobre ello)?",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 442,
+  "verse_key": "36:31",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ يَرَوۡاْ كَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّنَ ٱلۡقُرُونِ أَنَّهُمۡ إِلَيۡهِمۡ لَا يَرۡجِعُونَ",
+  "translation": "31. ¿Acaso no ven cuántas generaciones que los precedieron, y que nunca regresarán, destruimos (y reflexionan sobre ello)?",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2915",
-    "sura": "25",
-    "aya": "60",
-    "arabic_text": "وَإِذَا قِيلَ لَهُمُ ٱسۡجُدُواْۤ لِلرَّحۡمَٰنِ قَالُواْ وَمَا ٱلرَّحۡمَٰنُ أَنَسۡجُدُ لِمَا تَأۡمُرُنَا وَزَادَهُمۡ نُفُورٗا۩",
-    "translation": "Nígbà tí wọ́n bá sọ fún wọn pé: “Ẹ forí kanlẹ̀ fún Àjọkẹ́-ayé.” Wọ́n á wí pé: “Kí ni Àjọkẹ-ayé? Ṣé kí á forí kanlẹ̀ fún ohun tí ò ń pa wá láṣẹ rẹ̀ ni?” (Ìpèpè náà) sì mú wọn lékún ní sísá-sẹ́yìn.",
-    "footnotes": ""
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 365,
+  "verse_key": "25:60",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 7,
+  "text": "وَإِذَا قِيلَ لَهُمُ ٱسۡجُدُواْۤ لِلرَّحۡمَٰنِ قَالُواْ وَمَا ٱلرَّحۡمَٰنُ أَنَسۡجُدُ لِمَا تَأۡمُرُنَا وَزَادَهُمۡ نُفُورٗا۩",
+  "translation": "Nígbà tí wọ́n bá sọ fún wọn pé: “Ẹ forí kanlẹ̀ fún Àjọkẹ́-ayé.” Wọ́n á wí pé: “Kí ni Àjọkẹ-ayé? Ṣé kí á forí kanlẹ̀ fún ohun tí ò ń pa wá láṣẹ rẹ̀ ni?” (Ìpèpè náà) sì mú wọn lékún ní sísá-sẹ́yìn.",
+  "footnotes": ""
 }

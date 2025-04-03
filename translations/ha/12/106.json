@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1702",
-    "sura": "12",
-    "aya": "106",
-    "arabic_text": "وَمَا يُؤۡمِنُ أَكۡثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشۡرِكُونَ",
-    "translation": "Kuma mafi yawansu ba su yin ĩmãni da Allah fãce kuma sunã mãsu shirki.",
-    "footnotes": ""
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 248,
+  "verse_key": "12:106",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا يُؤۡمِنُ أَكۡثَرُهُم بِٱللَّهِ إِلَّا وَهُم مُّشۡرِكُونَ",
+  "translation": "Kuma mafi yawansu ba su yin ĩmãni da Allah fãce kuma sunã mãsu shirki.",
+  "footnotes": ""
 }

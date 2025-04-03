@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3081",
-    "sura": "26",
-    "aya": "149",
-    "arabic_text": "وَتَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتٗا فَٰرِهِينَ",
-    "translation": "149. [Por ostentación] esculpen sus viviendas en las montañas.",
-    "footnotes": ""
-  }
+  "id": 149,
+  "verse_number": 149,
+  "page_number": 373,
+  "verse_key": "26:149",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَنۡحِتُونَ مِنَ ٱلۡجِبَالِ بُيُوتٗا فَٰرِهِينَ",
+  "translation": "149. [Por ostentación] esculpen sus viviendas en las montañas.",
+  "footnotes": ""
 }

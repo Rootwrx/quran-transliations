@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5354",
-    "sura": "69",
-    "aya": "31",
-    "arabic_text": "ثُمَّ ٱلۡجَحِيمَ صَلُّوهُ",
-    "translation": "31. Sima bobwaka ye na moto!",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 567,
+  "verse_key": "69:31",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ ٱلۡجَحِيمَ صَلُّوهُ",
+  "translation": "31. Sima bobwaka ye na moto!",
+  "footnotes": ""
 }

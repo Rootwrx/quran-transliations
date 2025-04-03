@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "82",
-    "sura": "2",
-    "aya": "75",
-    "arabic_text": "۞ أَفَتَطۡمَعُونَ أَن يُؤۡمِنُواْ لَكُمۡ وَقَدۡ كَانَ فَرِيقٞ مِّنۡهُمۡ يَسۡمَعُونَ كَلَٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعۡدِ مَا عَقَلُوهُ وَهُمۡ يَعۡلَمُونَ",
-    "translation": "75. Ma waxaad damac ka qabtaan (mu’miniintoy) inay wax idinka rumeystaan (Yuhuuddu) iyagoo koox ka mid ah ay dhageysan jireen Hadalka Alle, haddana beddelaan (Towraadda)14 intay fahmeen kaddib iyagoo og (inay gefsan yihiin)?",
-    "footnotes": "14. waxaa loolaa jeedaa Yuhuuddii ku nooleyd Madiina ee beddelay Towraadda gaar ahaan wixii ku saabsanaa oo la xiriiray imaanshaha Nabi Muxammad s.c.w."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 11,
+  "verse_key": "2:75",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَفَتَطۡمَعُونَ أَن يُؤۡمِنُواْ لَكُمۡ وَقَدۡ كَانَ فَرِيقٞ مِّنۡهُمۡ يَسۡمَعُونَ كَلَٰمَ ٱللَّهِ ثُمَّ يُحَرِّفُونَهُۥ مِنۢ بَعۡدِ مَا عَقَلُوهُ وَهُمۡ يَعۡلَمُونَ",
+  "translation": "75. Ma waxaad damac ka qabtaan (mu’miniintoy) inay wax idinka rumeystaan (Yuhuuddu) iyagoo koox ka mid ah ay dhageysan jireen Hadalka Alle, haddana beddelaan (Towraadda)14 intay fahmeen kaddib iyagoo og (inay gefsan yihiin)?",
+  "footnotes": "14. waxaa loolaa jeedaa Yuhuuddii ku nooleyd Madiina ee beddelay Towraadda gaar ahaan wixii ku saabsanaa oo la xiriiray imaanshaha Nabi Muxammad s.c.w."
 }

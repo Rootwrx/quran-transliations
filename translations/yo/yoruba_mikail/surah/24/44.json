@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2835",
-    "sura": "24",
-    "aya": "44",
-    "arabic_text": "يُقَلِّبُ ٱللَّهُ ٱلَّيۡلَ وَٱلنَّهَارَۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
-    "translation": "Allāhu ń yí òru àti ọ̀sán padà (ìkíní kejì n wá ní tẹ̀léǹtẹ̀lé pẹ̀lú àlékún àti àdínkù). Dájúdájú àríwòye wà nínú ìyẹn fún àwọn tó ní ojú ìríran.",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 356,
+  "verse_key": "24:44",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 142,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُقَلِّبُ ٱللَّهُ ٱلَّيۡلَ وَٱلنَّهَارَۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
+  "translation": "Allāhu ń yí òru àti ọ̀sán padà (ìkíní kejì n wá ní tẹ̀léǹtẹ̀lé pẹ̀lú àlékún àti àdínkù). Dájúdájú àríwòye wà nínú ìyẹn fún àwọn tó ní ojú ìríran.",
+  "footnotes": ""
 }

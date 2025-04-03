@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1295",
-    "sura": "9",
-    "aya": "60",
-    "arabic_text": "۞ إِنَّمَا ٱلصَّدَقَٰتُ لِلۡفُقَرَآءِ وَٱلۡمَسَٰكِينِ وَٱلۡعَٰمِلِينَ عَلَيۡهَا وَٱلۡمُؤَلَّفَةِ قُلُوبُهُمۡ وَفِي ٱلرِّقَابِ وَٱلۡغَٰرِمِينَ وَفِي سَبِيلِ ٱللَّهِ وَٱبۡنِ ٱلسَّبِيلِۖ فَرِيضَةٗ مِّنَ ٱللَّهِۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
-    "translation": "Sadakalar/zekatlar, Allah’tan bir farz olarak fakirler, miskinler, onu toplayan memurlar, kalpleri (İslam’a) ısındırılanlar, köleler, borçlular, Allah yolunda (cihad edenler) ve yolda kalanlar içindir. Allah Alim'dir, Hakim'dir.",
-    "footnotes": null
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 196,
+  "verse_key": "9:60",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّمَا ٱلصَّدَقَٰتُ لِلۡفُقَرَآءِ وَٱلۡمَسَٰكِينِ وَٱلۡعَٰمِلِينَ عَلَيۡهَا وَٱلۡمُؤَلَّفَةِ قُلُوبُهُمۡ وَفِي ٱلرِّقَابِ وَٱلۡغَٰرِمِينَ وَفِي سَبِيلِ ٱللَّهِ وَٱبۡنِ ٱلسَّبِيلِۖ فَرِيضَةٗ مِّنَ ٱللَّهِۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
+  "translation": "Sadakalar/zekatlar, Allah’tan bir farz olarak fakirler, miskinler, onu toplayan memurlar, kalpleri (İslam’a) ısındırılanlar, köleler, borçlular, Allah yolunda (cihad edenler) ve yolda kalanlar içindir. Allah Alim'dir, Hakim'dir.",
+  "footnotes": null
 }

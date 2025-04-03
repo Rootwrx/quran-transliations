@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "300",
-    "sura": "3",
-    "aya": "7",
-    "arabic_text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
-    "translation": "7. C’est Lui Qui, sur toi, a fait descendre (en révélation) le Livre dont certains versets, clairs et ne prêtant à aucune confusion, sont le fondement de l’Écriture ; d’autres, cependant, ont de multiples sens. Les gens dont les cœurs ont dévié suivent les versets ambigus pour semer la discorde en leur donnant les interprétations (qu’ils veulent) ; or Allah Seul en connaît l’interprétation ; les gens au savoir bien ancré, quant à eux, disent : « Nous y avons cru car Tout vient de notre Seigneur ! » Seuls s’en souviennent, cependant, les esprits sagaces.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 50,
+  "verse_key": "3:7",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+  "translation": "7. C’est Lui Qui, sur toi, a fait descendre (en révélation) le Livre dont certains versets, clairs et ne prêtant à aucune confusion, sont le fondement de l’Écriture ; d’autres, cependant, ont de multiples sens. Les gens dont les cœurs ont dévié suivent les versets ambigus pour semer la discorde en leur donnant les interprétations (qu’ils veulent) ; or Allah Seul en connaît l’interprétation ; les gens au savoir bien ancré, quant à eux, disent : « Nous y avons cru car Tout vient de notre Seigneur ! » Seuls s’en souviennent, cependant, les esprits sagaces.",
+  "footnotes": ""
 }

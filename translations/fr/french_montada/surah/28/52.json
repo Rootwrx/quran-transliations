@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3304",
-    "sura": "28",
-    "aya": "52",
-    "arabic_text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ مِن قَبۡلِهِۦ هُم بِهِۦ يُؤۡمِنُونَ",
-    "translation": "52. Ceux à qui Nous avons donné le Livre avant (le Coran), croient pourtant à celui-ci.[385]",
-    "footnotes": "[385] Des gens du Livre (Juifs et Chrétiens) s’étaient effectivement convertis à l’Islam."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 392,
+  "verse_key": "28:52",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ مِن قَبۡلِهِۦ هُم بِهِۦ يُؤۡمِنُونَ",
+  "translation": "52. Ceux à qui Nous avons donné le Livre avant (le Coran), croient pourtant à celui-ci.[385]",
+  "footnotes": "[385] Des gens du Livre (Juifs et Chrétiens) s’étaient effectivement convertis à l’Islam."
 }

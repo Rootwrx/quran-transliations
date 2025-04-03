@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2507",
-    "sura": "21",
-    "aya": "24",
-    "arabic_text": "أَمِ ٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗۖ قُلۡ هَاتُواْ بُرۡهَٰنَكُمۡۖ هَٰذَا ذِكۡرُ مَن مَّعِيَ وَذِكۡرُ مَن قَبۡلِيۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ ٱلۡحَقَّۖ فَهُم مُّعۡرِضُونَ",
-    "translation": "Tàbí wọ́n sọ àwọn kan di ọlọ́hun lẹ́yìn Allāhu ni? Sọ pé: “Ẹ mú ẹ̀rí ọ̀rọ̀ yín wa.” (Al-Ƙur’ān) yìí ni ọ̀rọ̀ nípa àwọn tó wà pẹ̀lú mi àti ọ̀rọ̀ nípa àwọn tó ṣíwájú mi.[1] Ṣùgbọ́n ọ̀pọ̀lọ́pọ̀ wọn kò mọ òdodo; wọ́n sì ń gbúnrí kúrò níbẹ̀.",
-    "footnotes": "1. “ọ̀rọ̀ nípa àwọn tó wà pẹ̀lú mi àti ọ̀rọ̀ nípa àwọn tó ṣíwájú mi” ìyẹn ni pé, ìkángun àwọn ẹni àná àti ìkángun àwọn ẹni òní wà nínú al-Ƙur’ān alápọ̀n-ọ́nlé fún ẹni tí ó bá fẹ́ fẹ̀yíkọ́gbọ́n."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 323,
+  "verse_key": "21:24",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمِ ٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗۖ قُلۡ هَاتُواْ بُرۡهَٰنَكُمۡۖ هَٰذَا ذِكۡرُ مَن مَّعِيَ وَذِكۡرُ مَن قَبۡلِيۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ ٱلۡحَقَّۖ فَهُم مُّعۡرِضُونَ",
+  "translation": "Tàbí wọ́n sọ àwọn kan di ọlọ́hun lẹ́yìn Allāhu ni? Sọ pé: “Ẹ mú ẹ̀rí ọ̀rọ̀ yín wa.” (Al-Ƙur’ān) yìí ni ọ̀rọ̀ nípa àwọn tó wà pẹ̀lú mi àti ọ̀rọ̀ nípa àwọn tó ṣíwájú mi.[1] Ṣùgbọ́n ọ̀pọ̀lọ́pọ̀ wọn kò mọ òdodo; wọ́n sì ń gbúnrí kúrò níbẹ̀.",
+  "footnotes": "1. “ọ̀rọ̀ nípa àwọn tó wà pẹ̀lú mi àti ọ̀rọ̀ nípa àwọn tó ṣíwájú mi” ìyẹn ni pé, ìkángun àwọn ẹni àná àti ìkángun àwọn ẹni òní wà nínú al-Ƙur’ān alápọ̀n-ọ́nlé fún ẹni tí ó bá fẹ́ fẹ̀yíkọ́gbọ́n."
 }

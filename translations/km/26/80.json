@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3012",
-    "sura": "26",
-    "aya": "80",
-    "arabic_text": "وَإِذَا مَرِضۡتُ فَهُوَ يَشۡفِينِ",
-    "translation": "ហើយនៅពេលខ្ញុំមានជម្ងឺ គឺទ្រង់ជាអ្នកដែលធ្វើឱ្យខ្ញុំជាសះ ស្បើយ។",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 370,
+  "verse_key": "26:80",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا مَرِضۡتُ فَهُوَ يَشۡفِينِ",
+  "translation": "ហើយនៅពេលខ្ញុំមានជម្ងឺ គឺទ្រង់ជាអ្នកដែលធ្វើឱ្យខ្ញុំជាសះ ស្បើយ។",
+  "footnotes": ""
 }

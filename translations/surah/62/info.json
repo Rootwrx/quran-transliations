@@ -1,0 +1,27 @@
+{
+  "number": 62,
+  "name": {
+    "ar": "الجمعة",
+    "en": "Friday",
+    "transliteration": "Al-Jumu'ah"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 110,
+  "bismillah_pre": true,
+  "verses_count": 11,
+  "words_count": 177,
+  "letters_count": 749,
+  "pages": [
+    553,
+    554
+  ],
+  "name_simple": "Al-Jumu'ah",
+  "name_complex": "Al-Jumu`ah",
+  "name_arabic": "الجمعة",
+  "translated_name": "The Congregation, Friday",
+  "start_page": 553,
+  "end_page": 554
+}

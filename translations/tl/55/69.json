@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4970",
-    "sura": "55",
-    "aya": "69",
-    "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
-    "translation": "Kaya sa alin sa mga biyaya ng Panginoon ninyong dalawa magpapasinungaling kayong dalawa?",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 534,
+  "verse_key": "55:69",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+  "translation": "Kaya sa alin sa mga biyaya ng Panginoon ninyong dalawa magpapasinungaling kayong dalawa?",
+  "footnotes": ""
 }

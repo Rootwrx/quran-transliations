@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3738",
-    "sura": "36",
-    "aya": "33",
-    "arabic_text": "وَءَايَةٞ لَّهُمُ ٱلۡأَرۡضُ ٱلۡمَيۡتَةُ أَحۡيَيۡنَٰهَا وَأَخۡرَجۡنَا مِنۡهَا حَبّٗا فَمِنۡهُ يَأۡكُلُونَ",
-    "translation": "Na Ishara hiyo kwao - ardhi iliyo kufa, nasi tukaifufua, na tukatoa ndani yake nafaka, wakawa wanazila!",
-    "footnotes": "Na dalili kwao ya uweza wetu wa kufufua ni kuangalia vipi ardhi yenye ukame tunavyo ihuisha kwa maji, na kutoa ndani yake nafaka wanazo zila."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 442,
+  "verse_key": "36:33",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَايَةٞ لَّهُمُ ٱلۡأَرۡضُ ٱلۡمَيۡتَةُ أَحۡيَيۡنَٰهَا وَأَخۡرَجۡنَا مِنۡهَا حَبّٗا فَمِنۡهُ يَأۡكُلُونَ",
+  "translation": "Na Ishara hiyo kwao - ardhi iliyo kufa, nasi tukaifufua, na tukatoa ndani yake nafaka, wakawa wanazila!",
+  "footnotes": "Na dalili kwao ya uweza wetu wa kufufua ni kuangalia vipi ardhi yenye ukame tunavyo ihuisha kwa maji, na kutoa ndani yake nafaka wanazo zila."
 }

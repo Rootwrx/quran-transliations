@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "692",
-    "sura": "5",
-    "aya": "23",
-    "arabic_text": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِمَا ٱدۡخُلُواْ عَلَيۡهِمُ ٱلۡبَابَ فَإِذَا دَخَلۡتُمُوهُ فَإِنَّكُمۡ غَٰلِبُونَۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓاْ إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": "Àwọn ọkùnrin méjì kan nínú àwọn tí ń páyà (Allāhu) - Allāhu sì kẹ́ àwọn méjèèjì[1] - wọ́n sọ pé: “Ẹ gba ẹnu bodè wọ inú ìlú tọ̀ wọ́n. Tí ẹ bá wọ inú ìlú tọ̀ wọ́n, dájúdájú ẹ máa borí wọn. Allāhu sì ni kí ẹ gbáralé, tí ẹ bá jẹ́ onígbàgbọ́ òdodo.”",
-    "footnotes": "1. Allāhu ṣe ìtẹ̀lé-àṣẹ Rẹ̀ ní ìrọ̀rùn fún àwọn méjèèjì. Èyí ni ìkẹ́ Allāhu lórí àwọn méjèèjì."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 111,
+  "verse_key": "5:23",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 44,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِمَا ٱدۡخُلُواْ عَلَيۡهِمُ ٱلۡبَابَ فَإِذَا دَخَلۡتُمُوهُ فَإِنَّكُمۡ غَٰلِبُونَۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓاْ إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": "Àwọn ọkùnrin méjì kan nínú àwọn tí ń páyà (Allāhu) - Allāhu sì kẹ́ àwọn méjèèjì[1] - wọ́n sọ pé: “Ẹ gba ẹnu bodè wọ inú ìlú tọ̀ wọ́n. Tí ẹ bá wọ inú ìlú tọ̀ wọ́n, dájúdájú ẹ máa borí wọn. Allāhu sì ni kí ẹ gbáralé, tí ẹ bá jẹ́ onígbàgbọ́ òdodo.”",
+  "footnotes": "1. Allāhu ṣe ìtẹ̀lé-àṣẹ Rẹ̀ ní ìrọ̀rùn fún àwọn méjèèjì. Èyí ni ìkẹ́ Allāhu lórí àwọn méjèèjì."
 }

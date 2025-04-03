@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5269",
-    "sura": "67",
-    "aya": "28",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِيَ ٱللَّهُ وَمَن مَّعِيَ أَوۡ رَحِمَنَا فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمٖ",
-    "translation": "Vuga (yewe Muhamadi) uti “Nimumbwire! Allah aramutse anyoretse njye n’abo turi kumwe (nk’uko mubyifuza) cyangwa akatugirira impuhwe, ni nde warinda abahakanyi ibihano bibabaza?”",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 564,
+  "verse_key": "67:28",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَهۡلَكَنِيَ ٱللَّهُ وَمَن مَّعِيَ أَوۡ رَحِمَنَا فَمَن يُجِيرُ ٱلۡكَٰفِرِينَ مِنۡ عَذَابٍ أَلِيمٖ",
+  "translation": "Vuga (yewe Muhamadi) uti “Nimumbwire! Allah aramutse anyoretse njye n’abo turi kumwe (nk’uko mubyifuza) cyangwa akatugirira impuhwe, ni nde warinda abahakanyi ibihano bibabaza?”",
+  "footnotes": ""
 }

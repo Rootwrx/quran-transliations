@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1979",
-    "sura": "16",
-    "aya": "78",
-    "arabic_text": "وَٱللَّهُ أَخۡرَجَكُم مِّنۢ بُطُونِ أُمَّهَٰتِكُمۡ لَا تَعۡلَمُونَ شَيۡـٔٗا وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَ لَعَلَّكُمۡ تَشۡكُرُونَ",
-    "translation": "Na Mwenyezi Mungu amekutoeni matumboni mwa mama zenu, hali ya kuwa hamjui kitu, na amekujaalieni masikio na macho na nyoyo ili mpate kushukuru.",
-    "footnotes": "Na Mwenyezi Mungu amekutoeni kutokana na matumbo ya mama zenu hali hamjui chochote katika yaliyo kuzungukeni. Na akakupeni kusikia na kuona na nyoyo, kuwa ndio silaha za kujifunzia na kufahamu, ili mpate kumuamini kwa njia ya ilimu, na mumshukuru kwa alivyo kufadhilini. Utabibu wa kisasa umethibitisha kuwa kuweza kusikia kunaanza mapema sana katika maisha ya mtoto mchanga, mnamo wiki chache za mwanzo. Ama kuona huanza mwezi wa tatu. Wala kuona hakuwi baraabara mpaka katika mwezi wa sita. Ama \"moyo \" wa kufahamu na kutambua huwa baada ya hayo. Mpango ulio letwa na Qur'ani ni mpango unao lingana na hisiya hizo."
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 275,
+  "verse_key": "16:78",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ أَخۡرَجَكُم مِّنۢ بُطُونِ أُمَّهَٰتِكُمۡ لَا تَعۡلَمُونَ شَيۡـٔٗا وَجَعَلَ لَكُمُ ٱلسَّمۡعَ وَٱلۡأَبۡصَٰرَ وَٱلۡأَفۡـِٔدَةَ لَعَلَّكُمۡ تَشۡكُرُونَ",
+  "translation": "Na Mwenyezi Mungu amekutoeni matumboni mwa mama zenu, hali ya kuwa hamjui kitu, na amekujaalieni masikio na macho na nyoyo ili mpate kushukuru.",
+  "footnotes": "Na Mwenyezi Mungu amekutoeni kutokana na matumbo ya mama zenu hali hamjui chochote katika yaliyo kuzungukeni. Na akakupeni kusikia na kuona na nyoyo, kuwa ndio silaha za kujifunzia na kufahamu, ili mpate kumuamini kwa njia ya ilimu, na mumshukuru kwa alivyo kufadhilini. Utabibu wa kisasa umethibitisha kuwa kuweza kusikia kunaanza mapema sana katika maisha ya mtoto mchanga, mnamo wiki chache za mwanzo. Ama kuona huanza mwezi wa tatu. Wala kuona hakuwi baraabara mpaka katika mwezi wa sita. Ama \"moyo \" wa kufahamu na kutambua huwa baada ya hayo. Mpango ulio letwa na Qur'ani ni mpango unao lingana na hisiya hizo."
 }

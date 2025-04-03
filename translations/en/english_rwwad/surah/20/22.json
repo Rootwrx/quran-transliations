@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2370",
-    "sura": "20",
-    "aya": "22",
-    "arabic_text": "وَٱضۡمُمۡ يَدَكَ إِلَىٰ جَنَاحِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوٓءٍ ءَايَةً أُخۡرَىٰ",
-    "translation": "Put your hand under your armpit; it will come out shining white without blemish, as another sign[7],",
-    "footnotes": "[7] Moses had dark skin, so putting his hand under his armpit and then taking it out shining white without blemish or disease was a real miraculous sign."
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 313,
+  "verse_key": "20:22",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱضۡمُمۡ يَدَكَ إِلَىٰ جَنَاحِكَ تَخۡرُجۡ بَيۡضَآءَ مِنۡ غَيۡرِ سُوٓءٍ ءَايَةً أُخۡرَىٰ",
+  "translation": "Put your hand under your armpit; it will come out shining white without blemish, as another sign[7],",
+  "footnotes": "[7] Moses had dark skin, so putting his hand under his armpit and then taking it out shining white without blemish or disease was a real miraculous sign."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1451",
-    "sura": "10",
-    "aya": "87",
-    "arabic_text": "وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوۡمِكُمَا بِمِصۡرَ بُيُوتٗا وَٱجۡعَلُواْ بُيُوتَكُمۡ قِبۡلَةٗ وَأَقِيمُواْ ٱلصَّلَوٰةَۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
-    "translation": "87. Waxaana u waxyoonnay Muuse iyo walaalki (Haaruun, Annagoo leh) Uga yeela qolodiinna20 guryo ay degaan Masar gudaheeda, oo ka dhiga guryihiinna goobo cibaado (isu dhow, oo u furan booqashada) oogana salaadda oo u bishaaree mu’miniinta.",
-    "footnotes": "20. Si ay ugu tukadaan halkaa iyagoo uusan arkayn cadowgooda iyo si ay deris u ahaadaan iska warqaba oo isa soo booqda."
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 218,
+  "verse_key": "10:87",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوۡمِكُمَا بِمِصۡرَ بُيُوتٗا وَٱجۡعَلُواْ بُيُوتَكُمۡ قِبۡلَةٗ وَأَقِيمُواْ ٱلصَّلَوٰةَۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
+  "translation": "87. Waxaana u waxyoonnay Muuse iyo walaalki (Haaruun, Annagoo leh) Uga yeela qolodiinna20 guryo ay degaan Masar gudaheeda, oo ka dhiga guryihiinna goobo cibaado (isu dhow, oo u furan booqashada) oogana salaadda oo u bishaaree mu’miniinta.",
+  "footnotes": "20. Si ay ugu tukadaan halkaa iyagoo uusan arkayn cadowgooda iyo si ay deris u ahaadaan iska warqaba oo isa soo booqda."
 }

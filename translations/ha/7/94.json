@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1048",
-    "sura": "7",
-    "aya": "94",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا فِي قَرۡيَةٖ مِّن نَّبِيٍّ إِلَّآ أَخَذۡنَآ أَهۡلَهَا بِٱلۡبَأۡسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمۡ يَضَّرَّعُونَ",
-    "translation": "Kuma ba Mu aika wani Annabi* a cikin wata alƙarya ba, fãce Mun kãma mutãnenta da azãba da cũta, tsammãninsu sunã yin ƙasƙantar da kai.",
-    "footnotes": "* Daga ãyã ta 94 zuwa ãyã ta l03 duka tãlĩƙi ne dõmin farkarwa ga muhimman manganganu waɗanda ƙissoshin Annabawan nan da mutãnensu suka ƙunsa, kuma aka ce haka dai sauran Annabawa da ba a faɗa ba suka zauna da mutãnensu a cikin faɗa a tsakanin gaskiya da ƙarya."
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 162,
+  "verse_key": "7:94",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا فِي قَرۡيَةٖ مِّن نَّبِيٍّ إِلَّآ أَخَذۡنَآ أَهۡلَهَا بِٱلۡبَأۡسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمۡ يَضَّرَّعُونَ",
+  "translation": "Kuma ba Mu aika wani Annabi* a cikin wata alƙarya ba, fãce Mun kãma mutãnenta da azãba da cũta, tsammãninsu sunã yin ƙasƙantar da kai.",
+  "footnotes": "* Daga ãyã ta 94 zuwa ãyã ta l03 duka tãlĩƙi ne dõmin farkarwa ga muhimman manganganu waɗanda ƙissoshin Annabawan nan da mutãnensu suka ƙunsa, kuma aka ce haka dai sauran Annabawa da ba a faɗa ba suka zauna da mutãnensu a cikin faɗa a tsakanin gaskiya da ƙarya."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4245",
-    "sura": "41",
-    "aya": "27",
-    "arabic_text": "فَلَنُذِيقَنَّ ٱلَّذِينَ كَفَرُواْ عَذَابٗا شَدِيدٗا وَلَنَجۡزِيَنَّهُمۡ أَسۡوَأَ ٱلَّذِي كَانُواْ يَعۡمَلُونَ",
-    "translation": "Zato ćemo Mi, sigurno, dati da nevjernici iskuse bolnu patnju, i kaznit ćemo ih za ono loše što su činili.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 479,
+  "verse_key": "41:27",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَنُذِيقَنَّ ٱلَّذِينَ كَفَرُواْ عَذَابٗا شَدِيدٗا وَلَنَجۡزِيَنَّهُمۡ أَسۡوَأَ ٱلَّذِي كَانُواْ يَعۡمَلُونَ",
+  "translation": "Zato ćemo Mi, sigurno, dati da nevjernici iskuse bolnu patnju, i kaznit ćemo ih za ono loše što su činili.",
+  "footnotes": ""
 }

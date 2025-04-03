@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4418",
-    "sura": "44",
-    "aya": "4",
-    "arabic_text": "فِيهَا يُفۡرَقُ كُلُّ أَمۡرٍ حَكِيمٍ",
-    "translation": "ആ രാത്രിയില്‍ യുക്തിപൂര്‍ണ്ണമായ ഓരോ കാര്യവും വേര്‍തിരിച്ചു വിവരിക്കപ്പെടുന്നു.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 496,
+  "verse_key": "44:4",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِيهَا يُفۡرَقُ كُلُّ أَمۡرٍ حَكِيمٍ",
+  "translation": "ആ രാത്രിയില്‍ യുക്തിപൂര്‍ണ്ണമായ ഓരോ കാര്യവും വേര്‍തിരിച്ചു വിവരിക്കപ്പെടുന്നു.",
+  "footnotes": ""
 }

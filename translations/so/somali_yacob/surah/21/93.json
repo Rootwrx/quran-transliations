@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2576",
-    "sura": "21",
-    "aya": "93",
-    "arabic_text": "وَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡۖ كُلٌّ إِلَيۡنَا رَٰجِعُونَ",
-    "translation": "93. Waxayse u kala goosgoosteen diintoodii (kooxo) dhexdooda28. Xaggayagay dhammaan u soo wada noqon",
-    "footnotes": "28. Iyagoo noqday dariiqooyin iyo kooxo kala duwan."
-  }
+  "id": 93,
+  "verse_number": 93,
+  "page_number": 330,
+  "verse_key": "21:93",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَقَطَّعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡۖ كُلٌّ إِلَيۡنَا رَٰجِعُونَ",
+  "translation": "93. Waxayse u kala goosgoosteen diintoodii (kooxo) dhexdooda28. Xaggayagay dhammaan u soo wada noqon",
+  "footnotes": "28. Iyagoo noqday dariiqooyin iyo kooxo kala duwan."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2381",
-    "sura": "20",
-    "aya": "33",
-    "arabic_text": "كَيۡ نُسَبِّحَكَ كَثِيرٗا",
-    "translation": "da bismo Te mnogo veličanjem slavili ",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 313,
+  "verse_key": "20:33",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَيۡ نُسَبِّحَكَ كَثِيرٗا",
+  "translation": "da bismo Te mnogo veličanjem slavili ",
+  "footnotes": ""
 }

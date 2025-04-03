@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3772",
-    "sura": "36",
-    "aya": "67",
-    "arabic_text": "وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ مُضِيّٗا وَلَا يَرۡجِعُونَ",
-    "translation": "Na tungeli taka tunge wageuza sura hapo hapo walipo, basi wasinge weza kwenda wala kurudi.",
-    "footnotes": "Na lau tungeli taka kuzigeuza sura zao tungeli zigeuza zikawa mbaya, juu ya kuwa wana nguvu na vyeo. Hata wasinge weza kwenda mbele wala kurudi nyuma, kwa kuwa inge kuwa tumevunja nguvu zao."
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 444,
+  "verse_key": "36:67",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ مُضِيّٗا وَلَا يَرۡجِعُونَ",
+  "translation": "Na tungeli taka tunge wageuza sura hapo hapo walipo, basi wasinge weza kwenda wala kurudi.",
+  "footnotes": "Na lau tungeli taka kuzigeuza sura zao tungeli zigeuza zikawa mbaya, juu ya kuwa wana nguvu na vyeo. Hata wasinge weza kwenda mbele wala kurudi nyuma, kwa kuwa inge kuwa tumevunja nguvu zao."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1582",
-    "sura": "11",
-    "aya": "109",
-    "arabic_text": "فَلَا تَكُ فِي مِرۡيَةٖ مِّمَّا يَعۡبُدُ هَٰٓؤُلَآءِۚ مَا يَعۡبُدُونَ إِلَّا كَمَا يَعۡبُدُ ءَابَآؤُهُم مِّن قَبۡلُۚ وَإِنَّا لَمُوَفُّوهُمۡ نَصِيبَهُمۡ غَيۡرَ مَنقُوصٖ",
-    "translation": "Zato ne sumnjaj da je lažno ono što oni obožavaju; oni obožavaju upravo ono što su, još prije, obožavali preci njihovi. Mi ćemo im, doista, ono što su zaslužili – bez odbitka dati!",
-    "footnotes": ""
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 234,
+  "verse_key": "11:109",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا تَكُ فِي مِرۡيَةٖ مِّمَّا يَعۡبُدُ هَٰٓؤُلَآءِۚ مَا يَعۡبُدُونَ إِلَّا كَمَا يَعۡبُدُ ءَابَآؤُهُم مِّن قَبۡلُۚ وَإِنَّا لَمُوَفُّوهُمۡ نَصِيبَهُمۡ غَيۡرَ مَنقُوصٖ",
+  "translation": "Zato ne sumnjaj da je lažno ono što oni obožavaju; oni obožavaju upravo ono što su, još prije, obožavali preci njihovi. Mi ćemo im, doista, ono što su zaslužili – bez odbitka dati!",
+  "footnotes": ""
 }

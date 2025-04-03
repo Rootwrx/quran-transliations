@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "267",
-    "sura": "2",
-    "aya": "260",
-    "arabic_text": "وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ أَرِنِي كَيۡفَ تُحۡيِ ٱلۡمَوۡتَىٰۖ قَالَ أَوَلَمۡ تُؤۡمِنۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطۡمَئِنَّ قَلۡبِيۖ قَالَ فَخُذۡ أَرۡبَعَةٗ مِّنَ ٱلطَّيۡرِ فَصُرۡهُنَّ إِلَيۡكَ ثُمَّ ٱجۡعَلۡ عَلَىٰ كُلِّ جَبَلٖ مِّنۡهُنَّ جُزۡءٗا ثُمَّ ٱدۡعُهُنَّ يَأۡتِينَكَ سَعۡيٗاۚ وَٱعۡلَمۡ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
-    "translation": "Unibuke ubwo Aburahamu yavugaga ati “Nyagasani wanjye! Nyereka uko uzura ibyapfuye.” Allah aravuga ati “Ese ntiwari wemera?” (Aburahamu) aravuga ati “Yego, naremeye ariko ni ukugira ngo umutima wanjye urusheho gutuza.” Allah aravuga ati “Ngaho fata inyoni enye (uzitoze kukumvira), nuko uzibage uzicagagure, hanyuma ushyire igice kuri buri musozi, maze uzihamagare ziraza zikugana zihuta.” Kandi unamenye ko mu by’ukuri, Allah ari Umunyacyubahiro bihebuje, Nyirubugenge buhambaye.",
-    "footnotes": ""
-  }
+  "id": 260,
+  "verse_number": 260,
+  "page_number": 44,
+  "verse_key": "2:260",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 17,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ أَرِنِي كَيۡفَ تُحۡيِ ٱلۡمَوۡتَىٰۖ قَالَ أَوَلَمۡ تُؤۡمِنۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطۡمَئِنَّ قَلۡبِيۖ قَالَ فَخُذۡ أَرۡبَعَةٗ مِّنَ ٱلطَّيۡرِ فَصُرۡهُنَّ إِلَيۡكَ ثُمَّ ٱجۡعَلۡ عَلَىٰ كُلِّ جَبَلٖ مِّنۡهُنَّ جُزۡءٗا ثُمَّ ٱدۡعُهُنَّ يَأۡتِينَكَ سَعۡيٗاۚ وَٱعۡلَمۡ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
+  "translation": "Unibuke ubwo Aburahamu yavugaga ati “Nyagasani wanjye! Nyereka uko uzura ibyapfuye.” Allah aravuga ati “Ese ntiwari wemera?” (Aburahamu) aravuga ati “Yego, naremeye ariko ni ukugira ngo umutima wanjye urusheho gutuza.” Allah aravuga ati “Ngaho fata inyoni enye (uzitoze kukumvira), nuko uzibage uzicagagure, hanyuma ushyire igice kuri buri musozi, maze uzihamagare ziraza zikugana zihuta.” Kandi unamenye ko mu by’ukuri, Allah ari Umunyacyubahiro bihebuje, Nyirubugenge buhambaye.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4482",
-    "sura": "45",
-    "aya": "9",
-    "arabic_text": "وَإِذَا عَلِمَ مِنۡ ءَايَٰتِنَا شَيۡـًٔا ٱتَّخَذَهَا هُزُوًاۚ أُوْلَٰٓئِكَ لَهُمۡ عَذَابٞ مُّهِينٞ",
-    "translation": "Nígbà tí ó bá nímọ̀ nípa kiní kan nínú àwọn āyah Wa (tí òun náà jẹ́rìí sí òdodo rẹ̀), ó máa mú un ní n̄ǹkan yẹ̀yẹ́. Àwọn wọ̀nyẹn ni ìyà tí í yẹpẹrẹ ẹ̀dá ń bẹ fún.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 499,
+  "verse_key": "45:9",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا عَلِمَ مِنۡ ءَايَٰتِنَا شَيۡـًٔا ٱتَّخَذَهَا هُزُوًاۚ أُوْلَٰٓئِكَ لَهُمۡ عَذَابٞ مُّهِينٞ",
+  "translation": "Nígbà tí ó bá nímọ̀ nípa kiní kan nínú àwọn āyah Wa (tí òun náà jẹ́rìí sí òdodo rẹ̀), ó máa mú un ní n̄ǹkan yẹ̀yẹ́. Àwọn wọ̀nyẹn ni ìyà tí í yẹpẹrẹ ẹ̀dá ń bẹ fún.",
+  "footnotes": ""
 }

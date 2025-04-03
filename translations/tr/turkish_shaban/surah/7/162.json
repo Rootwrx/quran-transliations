@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1116",
-    "sura": "7",
-    "aya": "162",
-    "arabic_text": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُواْ مِنۡهُمۡ قَوۡلًا غَيۡرَ ٱلَّذِي قِيلَ لَهُمۡ فَأَرۡسَلۡنَا عَلَيۡهِمۡ رِجۡزٗا مِّنَ ٱلسَّمَآءِ بِمَا كَانُواْ يَظۡلِمُونَ",
-    "translation": "Onların zulmedenleri, sözü kendilerine söylenenden başkası ile değiştirdiler. İşledikleri zulüm dolayısıyla onlara gökten bir azap gönderdik.",
-    "footnotes": null
-  }
+  "id": 162,
+  "verse_number": 162,
+  "page_number": 171,
+  "verse_key": "7:162",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 68,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَبَدَّلَ ٱلَّذِينَ ظَلَمُواْ مِنۡهُمۡ قَوۡلًا غَيۡرَ ٱلَّذِي قِيلَ لَهُمۡ فَأَرۡسَلۡنَا عَلَيۡهِمۡ رِجۡزٗا مِّنَ ٱلسَّمَآءِ بِمَا كَانُواْ يَظۡلِمُونَ",
+  "translation": "Onların zulmedenleri, sözü kendilerine söylenenden başkası ile değiştirdiler. İşledikleri zulüm dolayısıyla onlara gökten bir azap gönderdik.",
+  "footnotes": null
 }

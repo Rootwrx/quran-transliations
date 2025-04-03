@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3224",
-    "sura": "27",
-    "aya": "65",
-    "arabic_text": "قُل لَّا يَعۡلَمُ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ ٱلۡغَيۡبَ إِلَّا ٱللَّهُۚ وَمَا يَشۡعُرُونَ أَيَّانَ يُبۡعَثُونَ",
-    "translation": "65 Dis encore : « Nul parmi ceux qui peuplent les cieux et la terre ne connaît les mystères dont seul Allah a connaissance. » Ils n’ont pas même la plus petite idée du Jour où ils seront ressuscités.",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 383,
+  "verse_key": "27:65",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لَّا يَعۡلَمُ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ ٱلۡغَيۡبَ إِلَّا ٱللَّهُۚ وَمَا يَشۡعُرُونَ أَيَّانَ يُبۡعَثُونَ",
+  "translation": "65 Dis encore : « Nul parmi ceux qui peuplent les cieux et la terre ne connaît les mystères dont seul Allah a connaissance. » Ils n’ont pas même la plus petite idée du Jour où ils seront ressuscités.",
+  "footnotes": ""
 }

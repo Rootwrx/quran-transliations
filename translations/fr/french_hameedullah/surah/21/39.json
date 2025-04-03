@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2522",
-    "sura": "21",
-    "aya": "39",
-    "arabic_text": "لَوۡ يَعۡلَمُ ٱلَّذِينَ كَفَرُواْ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمۡ وَلَا هُمۡ يُنصَرُونَ",
-    "translation": "Si [seulement] les mécréants connaissaient le moment où ils ne pourront empêcher le Feu de [brûler] leurs visages ni leurs dos, et où ils se seront point secourus….",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 325,
+  "verse_key": "21:39",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَوۡ يَعۡلَمُ ٱلَّذِينَ كَفَرُواْ حِينَ لَا يَكُفُّونَ عَن وُجُوهِهِمُ ٱلنَّارَ وَلَا عَن ظُهُورِهِمۡ وَلَا هُمۡ يُنصَرُونَ",
+  "translation": "Si [seulement] les mécréants connaissaient le moment où ils ne pourront empêcher le Feu de [brûler] leurs visages ni leurs dos, et où ils se seront point secourus….",
+  "footnotes": ""
 }

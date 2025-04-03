@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "197",
-    "sura": "2",
-    "aya": "190",
-    "arabic_text": "وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
-    "translation": "190. Y luchad por la causa de Al-lah contra los que os combaten, mas no traspaséis los límites[66](ni seáis los primeros en atacar). En verdad, Al-lah no ama a los transgresores.",
-    "footnotes": "[66]  Los límites a los que hace referencia la aleya son: mutilar a los muertos; robar parte del botín; matar a mujeres, ancianos y niños y a todo aquel que no participa en la batalla; destruir templos y matar a quienes se hallan dentro; derribar árboles y matar animales sin razón alguna. "
-  }
+  "id": 190,
+  "verse_number": 190,
+  "page_number": 29,
+  "verse_key": "2:190",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
+  "translation": "190. Y luchad por la causa de Al-lah contra los que os combaten, mas no traspaséis los límites[66](ni seáis los primeros en atacar). En verdad, Al-lah no ama a los transgresores.",
+  "footnotes": "[66]  Los límites a los que hace referencia la aleya son: mutilar a los muertos; robar parte del botín; matar a mujeres, ancianos y niños y a todo aquel que no participa en la batalla; destruir templos y matar a quienes se hallan dentro; derribar árboles y matar animales sin razón alguna. "
 }

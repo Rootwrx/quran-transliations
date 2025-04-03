@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5942",
-    "sura": "86",
-    "aya": "11",
-    "arabic_text": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ",
-    "translation": "11. Қайта-қайта тушгувчи (ёмғир) эгаси бўлмиш осмонга қасам;",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 591,
+  "verse_key": "86:11",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلسَّمَآءِ ذَاتِ ٱلرَّجۡعِ",
+  "translation": "11. Қайта-қайта тушгувчи (ёмғир) эгаси бўлмиш осмонга қасам;",
+  "footnotes": ""
 }

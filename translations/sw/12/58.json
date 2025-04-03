@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1654",
-    "sura": "12",
-    "aya": "58",
-    "arabic_text": "وَجَآءَ إِخۡوَةُ يُوسُفَ فَدَخَلُواْ عَلَيۡهِ فَعَرَفَهُمۡ وَهُمۡ لَهُۥ مُنكِرُونَ",
-    "translation": "Wakaja ndugu zake Yusuf, na wakaingia kwake. Yeye akawajua na wao hawakumjua.",
-    "footnotes": "Ukame ukazidi kushtadi katika nchi jirani na Misri. Ikawapata watu wa Yaa'qub shida vile vile kama ilivyo wapata wengineo. Watu walikwenda Misri kutoka kila pande baada ya kujua matengenezo ya Yusuf ya kuweka akiba chakula, na kujitayarisha kwake kwa miaka ya ukame. Yaa'qub aliwatuma wanawe wende kutafuta chakula, lakini akabaki naye nduguye Yusuf kwa mama kwa kumkhofia. Wale watoto wake walipo fika Misri wakenda moja kwa moja kwa Yusuf, naye akawatambua, lakini wao hawakumjua."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 242,
+  "verse_key": "12:58",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَآءَ إِخۡوَةُ يُوسُفَ فَدَخَلُواْ عَلَيۡهِ فَعَرَفَهُمۡ وَهُمۡ لَهُۥ مُنكِرُونَ",
+  "translation": "Wakaja ndugu zake Yusuf, na wakaingia kwake. Yeye akawajua na wao hawakumjua.",
+  "footnotes": "Ukame ukazidi kushtadi katika nchi jirani na Misri. Ikawapata watu wa Yaa'qub shida vile vile kama ilivyo wapata wengineo. Watu walikwenda Misri kutoka kila pande baada ya kujua matengenezo ya Yusuf ya kuweka akiba chakula, na kujitayarisha kwake kwa miaka ya ukame. Yaa'qub aliwatuma wanawe wende kutafuta chakula, lakini akabaki naye nduguye Yusuf kwa mama kwa kumkhofia. Wale watoto wake walipo fika Misri wakenda moja kwa moja kwa Yusuf, naye akawatambua, lakini wao hawakumjua."
 }

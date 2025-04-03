@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4019",
-    "sura": "38",
-    "aya": "49",
-    "arabic_text": "هَٰذَا ذِكۡرٞۚ وَإِنَّ لِلۡمُتَّقِينَ لَحُسۡنَ مَـَٔابٖ",
-    "translation": "Huu ni ukumbusho. Na hakika wachamngu wana marudio mazuri.",
-    "footnotes": "Haya tuliyo kusimulia ni khabari za baadhi ya Mitume ili kukukumbusha wewe na kuwakumbusha watu wako. Na hakika wachamngu walio jikinga na kumuasi Mwenyezi Mungu Mtukufu watapata marejeo mazuri na natija njema."
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 456,
+  "verse_key": "38:49",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا ذِكۡرٞۚ وَإِنَّ لِلۡمُتَّقِينَ لَحُسۡنَ مَـَٔابٖ",
+  "translation": "Huu ni ukumbusho. Na hakika wachamngu wana marudio mazuri.",
+  "footnotes": "Haya tuliyo kusimulia ni khabari za baadhi ya Mitume ili kukukumbusha wewe na kuwakumbusha watu wako. Na hakika wachamngu walio jikinga na kumuasi Mwenyezi Mungu Mtukufu watapata marejeo mazuri na natija njema."
 }

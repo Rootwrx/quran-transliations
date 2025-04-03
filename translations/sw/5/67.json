@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "736",
-    "sura": "5",
-    "aya": "67",
-    "arabic_text": "۞ يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغۡ مَآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَۖ وَإِن لَّمۡ تَفۡعَلۡ فَمَا بَلَّغۡتَ رِسَالَتَهُۥۚ وَٱللَّهُ يَعۡصِمُكَ مِنَ ٱلنَّاسِۗ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ",
-    "translation": "Ewe Mtume! Fikisha uliyo teremshiwa kutoka kwa Mola wako Mlezi. Na ikiwa hukufanya hayo basi hukufikisha ujumbe wake. Na Mwenyezi Mungu atakulinda na watu. Hakika Mwenyezi Mungu hawaongoi watu makafiri.",
-    "footnotes": "Ewe uliye tumwa na Mwenyezi Mungu! Waeleze watu yote uliyo funuliwa na Mola wako Mlezi, na waite wafuate huo ujumbe, wala usiogope maudhi ya yeyote. Na ukitofanya hivyo basi imekuwa hukufikisha ujumbe wa Mwenyezi Mungu. Kwani wewe umekalifishwa ufikishe ujumbe kwa watu wote. Na Mwenyezi Mungu atakulinda na maudhi ya makafiri. Ni mtindo wake Mwenyezi Mungu kuwa hamnusuru aliye potea akaiacha Haki. Hakika Mwenyezi Mungu hawaongoi makafiri kwenye Njia iliyo kaa sawa."
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 119,
+  "verse_key": "5:67",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ يَٰٓأَيُّهَا ٱلرَّسُولُ بَلِّغۡ مَآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَۖ وَإِن لَّمۡ تَفۡعَلۡ فَمَا بَلَّغۡتَ رِسَالَتَهُۥۚ وَٱللَّهُ يَعۡصِمُكَ مِنَ ٱلنَّاسِۗ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ",
+  "translation": "Ewe Mtume! Fikisha uliyo teremshiwa kutoka kwa Mola wako Mlezi. Na ikiwa hukufanya hayo basi hukufikisha ujumbe wake. Na Mwenyezi Mungu atakulinda na watu. Hakika Mwenyezi Mungu hawaongoi watu makafiri.",
+  "footnotes": "Ewe uliye tumwa na Mwenyezi Mungu! Waeleze watu yote uliyo funuliwa na Mola wako Mlezi, na waite wafuate huo ujumbe, wala usiogope maudhi ya yeyote. Na ukitofanya hivyo basi imekuwa hukufikisha ujumbe wa Mwenyezi Mungu. Kwani wewe umekalifishwa ufikishe ujumbe kwa watu wote. Na Mwenyezi Mungu atakulinda na maudhi ya makafiri. Ni mtindo wake Mwenyezi Mungu kuwa hamnusuru aliye potea akaiacha Haki. Hakika Mwenyezi Mungu hawaongoi makafiri kwenye Njia iliyo kaa sawa."
 }

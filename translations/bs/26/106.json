@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3038",
-    "sura": "26",
-    "aya": "106",
-    "arabic_text": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ نُوحٌ أَلَا تَتَّقُونَ",
-    "translation": "Kad im brat njihov Nuh reče: \"Zar se sačuvati nećete?!",
-    "footnotes": ""
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 371,
+  "verse_key": "26:106",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَ لَهُمۡ أَخُوهُمۡ نُوحٌ أَلَا تَتَّقُونَ",
+  "translation": "Kad im brat njihov Nuh reče: \"Zar se sačuvati nećete?!",
+  "footnotes": ""
 }

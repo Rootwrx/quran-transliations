@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5917",
-    "sura": "85",
-    "aya": "8",
-    "arabic_text": "وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
-    "translation": "E não os censuravam senão por crerem em Allah, O Todo-Poderoso, O Louvável,",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 590,
+  "verse_key": "85:8",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا نَقَمُواْ مِنۡهُمۡ إِلَّآ أَن يُؤۡمِنُواْ بِٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+  "translation": "E não os censuravam senão por crerem em Allah, O Todo-Poderoso, O Louvável,",
+  "footnotes": ""
 }

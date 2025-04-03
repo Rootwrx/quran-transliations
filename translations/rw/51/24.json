@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4699",
-    "sura": "51",
-    "aya": "24",
-    "arabic_text": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ",
-    "translation": "Ese wamenye iby’inkuru y’abashyitsi ba Aburahamu b’abanyacyubahiro?",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 521,
+  "verse_key": "51:24",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَلۡ أَتَىٰكَ حَدِيثُ ضَيۡفِ إِبۡرَٰهِيمَ ٱلۡمُكۡرَمِينَ",
+  "translation": "Ese wamenye iby’inkuru y’abashyitsi ba Aburahamu b’abanyacyubahiro?",
+  "footnotes": ""
 }

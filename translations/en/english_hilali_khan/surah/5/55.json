@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "724",
-    "sura": "5",
-    "aya": "55",
-    "arabic_text": "إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُواْ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَهُمۡ رَٰكِعُونَ",
-    "translation": " 55. Verily, your Walî (Protector or Helper) is none other than Allâh, His Messenger, and the believers, - those who perform As-Salât (Iqâmat-as-Salât), and give Zakât, and they are Râki‘ûn [1] (those who bow down or submit themselves with obedience to Allâh in prayer).",
-    "footnotes": "(V.5:55) See the footnote of (V.2:43)."
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 117,
+  "verse_key": "5:55",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 47,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا وَلِيُّكُمُ ٱللَّهُ وَرَسُولُهُۥ وَٱلَّذِينَ ءَامَنُواْ ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَهُمۡ رَٰكِعُونَ",
+  "translation": " 55. Verily, your Walî (Protector or Helper) is none other than Allâh, His Messenger, and the believers, - those who perform As-Salât (Iqâmat-as-Salât), and give Zakât, and they are Râki‘ûn [1] (those who bow down or submit themselves with obedience to Allâh in prayer).",
+  "footnotes": "(V.5:55) See the footnote of (V.2:43)."
 }

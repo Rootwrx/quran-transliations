@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3498",
-    "sura": "31",
-    "aya": "29",
-    "arabic_text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ يَجۡرِيٓ إِلَىٰٓ أَجَلٖ مُّسَمّٗى وَأَنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ خَبِيرٞ",
-    "translation": "Kako ne vidiš da Allah uvodi noć u dan i uvodi dan u noć, i da je potčinio Sunce i Mjesec – svako se kreće do roka određenog – i da Allah dobro zna ono što radite?",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 414,
+  "verse_key": "31:29",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَيُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِ وَسَخَّرَ ٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ يَجۡرِيٓ إِلَىٰٓ أَجَلٖ مُّسَمّٗى وَأَنَّ ٱللَّهَ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+  "translation": "Kako ne vidiš da Allah uvodi noć u dan i uvodi dan u noć, i da je potčinio Sunce i Mjesec – svako se kreće do roka određenog – i da Allah dobro zna ono što radite?",
+  "footnotes": ""
 }

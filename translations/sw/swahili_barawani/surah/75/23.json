@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5574",
-    "sura": "75",
-    "aya": "23",
-    "arabic_text": "إِلَىٰ رَبِّهَا نَاظِرَةٞ",
-    "translation": "Zinamwangallia Mola wao Mlezi.",
-    "footnotes": "Siku hiyo zitakuwapo nyuso nzuri, zenye kumwangalia Mola wao Mlezi bila ya kusema kwa sifa gani, wajihi gani, au masafa gani."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 578,
+  "verse_key": "75:23",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَىٰ رَبِّهَا نَاظِرَةٞ",
+  "translation": "Zinamwangallia Mola wao Mlezi.",
+  "footnotes": "Siku hiyo zitakuwapo nyuso nzuri, zenye kumwangalia Mola wao Mlezi bila ya kusema kwa sifa gani, wajihi gani, au masafa gani."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5833",
-    "sura": "82",
-    "aya": "4",
-    "arabic_text": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
-    "translation": "4. que les tombes seront renversées,",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 587,
+  "verse_key": "82:4",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱلۡقُبُورُ بُعۡثِرَتۡ",
+  "translation": "4. que les tombes seront renversées,",
+  "footnotes": ""
 }

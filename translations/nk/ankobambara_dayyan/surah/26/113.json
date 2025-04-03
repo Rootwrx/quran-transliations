@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3045",
-    "sura": "26",
-    "aya": "113",
-    "arabic_text": "إِنۡ حِسَابُهُمۡ إِلَّا عَلَىٰ رَبِّيۖ لَوۡ تَشۡعُرُونَ",
-    "translation": "ߏ߬ ߟߎ߬ ߟߊ߫ ߖߊ߬ߕߋ߬ߓߐ ߕߍ߫ ߝߏߦߌ߫ ߡߊ߬ ߒ ߡߊ߰ߙߌ ߞߐ߫ ߣߴߊߟߎ߫ ߓߍ߫ ߏ߬ ߟߐ߲߫ ߠߊ߫",
-    "footnotes": ""
-  }
+  "id": 113,
+  "verse_number": 113,
+  "page_number": 372,
+  "verse_key": "26:113",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ حِسَابُهُمۡ إِلَّا عَلَىٰ رَبِّيۖ لَوۡ تَشۡعُرُونَ",
+  "translation": "ߏ߬ ߟߎ߬ ߟߊ߫ ߖߊ߬ߕߋ߬ߓߐ ߕߍ߫ ߝߏߦߌ߫ ߡߊ߬ ߒ ߡߊ߰ߙߌ ߞߐ߫ ߣߴߊߟߎ߫ ߓߍ߫ ߏ߬ ߟߐ߲߫ ߠߊ߫",
+  "footnotes": ""
 }

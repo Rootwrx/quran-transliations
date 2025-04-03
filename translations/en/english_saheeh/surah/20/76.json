@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2424",
-    "sura": "20",
-    "aya": "76",
-    "arabic_text": "جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ",
-    "translation": "(76) Gardens of perpetual residence beneath which rivers flow, wherein they abide eternally. And that is the reward of one who purifies himself.[844]",
-    "footnotes": "[844]- From all uncleanliness, the greatest of which is worship and obedience to other than Allāh."
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 316,
+  "verse_key": "20:76",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "جَنَّٰتُ عَدۡنٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ وَذَٰلِكَ جَزَآءُ مَن تَزَكَّىٰ",
+  "translation": "(76) Gardens of perpetual residence beneath which rivers flow, wherein they abide eternally. And that is the reward of one who purifies himself.[844]",
+  "footnotes": "[844]- From all uncleanliness, the greatest of which is worship and obedience to other than Allāh."
 }

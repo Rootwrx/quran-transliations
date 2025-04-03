@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "328",
-    "sura": "3",
-    "aya": "35",
-    "arabic_text": "إِذۡ قَالَتِ ٱمۡرَأَتُ عِمۡرَٰنَ رَبِّ إِنِّي نَذَرۡتُ لَكَ مَا فِي بَطۡنِي مُحَرَّرٗا فَتَقَبَّلۡ مِنِّيٓۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
-    "translation": "Ntumwa y’Imana! Ibuka ivyashikiye Isa na nyina wiwe Mariyamu hamwe na inakuru wiwe, ari we mukenyezi wa Amraani, igihe yasama imbanyi ya Mariyamu maze akavuga ati: “Mana yanje Rurema Allah! Jewe mu vy’ukuri, ndiyemeje kukwegurira ico nibungenze (kizokwame gikorera ingoro yawe Bayti l-Maqdisi), ndakwinginze rero ukinyemerere, mu vy’ukuri ni Wewe Nyenukwumva igisabisho canje, Nyenubumenyikurivyose, Uzi umuzirikanyi wanje”.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 54,
+  "verse_key": "3:35",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَتِ ٱمۡرَأَتُ عِمۡرَٰنَ رَبِّ إِنِّي نَذَرۡتُ لَكَ مَا فِي بَطۡنِي مُحَرَّرٗا فَتَقَبَّلۡ مِنِّيٓۖ إِنَّكَ أَنتَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "translation": "Ntumwa y’Imana! Ibuka ivyashikiye Isa na nyina wiwe Mariyamu hamwe na inakuru wiwe, ari we mukenyezi wa Amraani, igihe yasama imbanyi ya Mariyamu maze akavuga ati: “Mana yanje Rurema Allah! Jewe mu vy’ukuri, ndiyemeje kukwegurira ico nibungenze (kizokwame gikorera ingoro yawe Bayti l-Maqdisi), ndakwinginze rero ukinyemerere, mu vy’ukuri ni Wewe Nyenukwumva igisabisho canje, Nyenubumenyikurivyose, Uzi umuzirikanyi wanje”.",
+  "footnotes": ""
 }

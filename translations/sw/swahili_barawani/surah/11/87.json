@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1560",
-    "sura": "11",
-    "aya": "87",
-    "arabic_text": "قَالُواْ يَٰشُعَيۡبُ أَصَلَوٰتُكَ تَأۡمُرُكَ أَن نَّتۡرُكَ مَا يَعۡبُدُ ءَابَآؤُنَآ أَوۡ أَن نَّفۡعَلَ فِيٓ أَمۡوَٰلِنَا مَا نَشَٰٓؤُاْۖ إِنَّكَ لَأَنتَ ٱلۡحَلِيمُ ٱلرَّشِيدُ",
-    "translation": "Wakasema: Ewe Shua'ibu! Ni swala zako ndizo zinazo kuamrisha tuyaache waliyo kuwa wakiyaabudu baba zetu, au tuache kufanya tupendavyo katika mali zetu? Ama hakika wewe ni mstahamilivu kweli na mwongofu!",
-    "footnotes": "Wakasema kwa maskhara na kukejeli: Ewe Shua'ibu! Hivyo ni hizo swala zako ndizo zinazo kuamrisha kutushikilia tuache kuabudu masanamu waliyo kuwa wakiyaabudu baba zetu, na tuache kustarehe kutumia mali zetu kama tunavyoona wenyewe kuwa ni maslaha yetu? Hakika huo ndio mwisho wa upumbavu na utovu wa akili, wala haulingani na akili na rai njema tunazo kujua unazo; kwani wewe ni maarufu kwa ustahamilivu wako na uwongofu wako!"
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 231,
+  "verse_key": "11:87",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰشُعَيۡبُ أَصَلَوٰتُكَ تَأۡمُرُكَ أَن نَّتۡرُكَ مَا يَعۡبُدُ ءَابَآؤُنَآ أَوۡ أَن نَّفۡعَلَ فِيٓ أَمۡوَٰلِنَا مَا نَشَٰٓؤُاْۖ إِنَّكَ لَأَنتَ ٱلۡحَلِيمُ ٱلرَّشِيدُ",
+  "translation": "Wakasema: Ewe Shua'ibu! Ni swala zako ndizo zinazo kuamrisha tuyaache waliyo kuwa wakiyaabudu baba zetu, au tuache kufanya tupendavyo katika mali zetu? Ama hakika wewe ni mstahamilivu kweli na mwongofu!",
+  "footnotes": "Wakasema kwa maskhara na kukejeli: Ewe Shua'ibu! Hivyo ni hizo swala zako ndizo zinazo kuamrisha kutushikilia tuache kuabudu masanamu waliyo kuwa wakiyaabudu baba zetu, na tuache kustarehe kutumia mali zetu kama tunavyoona wenyewe kuwa ni maslaha yetu? Hakika huo ndio mwisho wa upumbavu na utovu wa akili, wala haulingani na akili na rai njema tunazo kujua unazo; kwani wewe ni maarufu kwa ustahamilivu wako na uwongofu wako!"
 }

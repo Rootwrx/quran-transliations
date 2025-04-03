@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "854",
-    "sura": "6",
-    "aya": "65",
-    "arabic_text": "قُلۡ هُوَ ٱلۡقَادِرُ عَلَىٰٓ أَن يَبۡعَثَ عَلَيۡكُمۡ عَذَابٗا مِّن فَوۡقِكُمۡ أَوۡ مِن تَحۡتِ أَرۡجُلِكُمۡ أَوۡ يَلۡبِسَكُمۡ شِيَعٗا وَيُذِيقَ بَعۡضَكُم بَأۡسَ بَعۡضٍۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ لَعَلَّهُمۡ يَفۡقَهُونَ",
-    "translation": "Sabihin mo: “Siya ay ang Nakakakaya na magpadala sa inyo ng isang pagdurusa mula sa ibabaw ninyo o mula sa ilalim ng mga paa ninyo, o na magpalito sa inyo [para maging] mga pangkatin at magpalasap sa ilan sa inyo ng karahasan ng iba pa.” Tumingin ka kung papaano Kaming nagsasarisari ng mga tanda, nang sa gayon sila ay makauunawa.",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 135,
+  "verse_key": "6:65",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 54,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هُوَ ٱلۡقَادِرُ عَلَىٰٓ أَن يَبۡعَثَ عَلَيۡكُمۡ عَذَابٗا مِّن فَوۡقِكُمۡ أَوۡ مِن تَحۡتِ أَرۡجُلِكُمۡ أَوۡ يَلۡبِسَكُمۡ شِيَعٗا وَيُذِيقَ بَعۡضَكُم بَأۡسَ بَعۡضٍۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ لَعَلَّهُمۡ يَفۡقَهُونَ",
+  "translation": "Sabihin mo: “Siya ay ang Nakakakaya na magpadala sa inyo ng isang pagdurusa mula sa ibabaw ninyo o mula sa ilalim ng mga paa ninyo, o na magpalito sa inyo [para maging] mga pangkatin at magpalasap sa ilan sa inyo ng karahasan ng iba pa.” Tumingin ka kung papaano Kaming nagsasarisari ng mga tanda, nang sa gayon sila ay makauunawa.",
+  "footnotes": ""
 }

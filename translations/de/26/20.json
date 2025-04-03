@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2952",
-    "sura": "26",
-    "aya": "20",
-    "arabic_text": "قَالَ فَعَلۡتُهَآ إِذٗا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ",
-    "translation": "Er sagte: „Ich habe sie da(mals) verübt, als ich (noch) zu den Irregehenden gehörte.",
-    "footnotes": null
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 368,
+  "verse_key": "26:20",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ فَعَلۡتُهَآ إِذٗا وَأَنَا۠ مِنَ ٱلضَّآلِّينَ",
+  "translation": "Er sagte: „Ich habe sie da(mals) verübt, als ich (noch) zu den Irregehenden gehörte.",
+  "footnotes": null
 }

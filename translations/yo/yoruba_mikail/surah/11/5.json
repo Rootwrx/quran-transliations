@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1478",
-    "sura": "11",
-    "aya": "5",
-    "arabic_text": "أَلَآ إِنَّهُمۡ يَثۡنُونَ صُدُورَهُمۡ لِيَسۡتَخۡفُواْ مِنۡهُۚ أَلَا حِينَ يَسۡتَغۡشُونَ ثِيَابَهُمۡ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
-    "translation": "Gbọ́, dájúdájú àwọn ṣọ̀bẹ-ṣèlu mùsùlùmí ń ká (iyèméjì àti ọ̀tá) sínú igbá-àyà wọn láti lè fara pamọ́ fún Allāhu. Kíyè sí i, nígbà tí wọ́n ń yíṣọ wọn bora, Allāhu mọ n̄ǹkan tí wọ́n ń fi pamọ́ àti n̄ǹkan tí wọ́n ń ṣàfi hàn rẹ̀. Dájúdájú Òun ni Onímọ̀ nípa n̄ǹkan tí ń bẹ nínú igbá-àyà ẹ̀dá.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 221,
+  "verse_key": "11:5",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَآ إِنَّهُمۡ يَثۡنُونَ صُدُورَهُمۡ لِيَسۡتَخۡفُواْ مِنۡهُۚ أَلَا حِينَ يَسۡتَغۡشُونَ ثِيَابَهُمۡ يَعۡلَمُ مَا يُسِرُّونَ وَمَا يُعۡلِنُونَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "translation": "Gbọ́, dájúdájú àwọn ṣọ̀bẹ-ṣèlu mùsùlùmí ń ká (iyèméjì àti ọ̀tá) sínú igbá-àyà wọn láti lè fara pamọ́ fún Allāhu. Kíyè sí i, nígbà tí wọ́n ń yíṣọ wọn bora, Allāhu mọ n̄ǹkan tí wọ́n ń fi pamọ́ àti n̄ǹkan tí wọ́n ń ṣàfi hàn rẹ̀. Dájúdájú Òun ni Onímọ̀ nípa n̄ǹkan tí ń bẹ nínú igbá-àyà ẹ̀dá.",
+  "footnotes": ""
 }

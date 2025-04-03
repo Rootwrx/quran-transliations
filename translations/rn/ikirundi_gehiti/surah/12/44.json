@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1640",
-    "sura": "12",
-    "aya": "44",
-    "arabic_text": "قَالُوٓاْ أَضۡغَٰثُ أَحۡلَٰمٖۖ وَمَا نَحۡنُ بِتَأۡوِيلِ ٱلۡأَحۡلَٰمِ بِعَٰلِمِينَ",
-    "translation": "Bamwishuye bati: “Indoto yawe, ni nko kurazirana, nta nsiguro ifise, kandi burya twebwe ntituzi cane kurotora indoto”.",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 241,
+  "verse_key": "12:44",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَضۡغَٰثُ أَحۡلَٰمٖۖ وَمَا نَحۡنُ بِتَأۡوِيلِ ٱلۡأَحۡلَٰمِ بِعَٰلِمِينَ",
+  "translation": "Bamwishuye bati: “Indoto yawe, ni nko kurazirana, nta nsiguro ifise, kandi burya twebwe ntituzi cane kurotora indoto”.",
+  "footnotes": ""
 }

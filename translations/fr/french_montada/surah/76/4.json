@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5595",
-    "sura": "76",
-    "aya": "4",
-    "arabic_text": "إِنَّآ أَعۡتَدۡنَا لِلۡكَٰفِرِينَ سَلَٰسِلَاْ وَأَغۡلَٰلٗا وَسَعِيرًا",
-    "translation": "4. Nous avons préparé pour les mécréants des chaînes, des carcans et un Brasier ardent.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 578,
+  "verse_key": "76:4",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَعۡتَدۡنَا لِلۡكَٰفِرِينَ سَلَٰسِلَاْ وَأَغۡلَٰلٗا وَسَعِيرًا",
+  "translation": "4. Nous avons préparé pour les mécréants des chaînes, des carcans et un Brasier ardent.",
+  "footnotes": ""
 }

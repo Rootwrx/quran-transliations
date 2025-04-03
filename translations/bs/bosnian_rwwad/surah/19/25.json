@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2275",
-    "sura": "19",
-    "aya": "25",
-    "arabic_text": "وَهُزِّيٓ إِلَيۡكِ بِجِذۡعِ ٱلنَّخۡلَةِ تُسَٰقِطۡ عَلَيۡكِ رُطَبٗا جَنِيّٗا",
-    "translation": "Zatresi palmino stablo, posut će po tebi datule svježe,",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 306,
+  "verse_key": "19:25",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُزِّيٓ إِلَيۡكِ بِجِذۡعِ ٱلنَّخۡلَةِ تُسَٰقِطۡ عَلَيۡكِ رُطَبٗا جَنِيّٗا",
+  "translation": "Zatresi palmino stablo, posut će po tebi datule svježe,",
+  "footnotes": ""
 }

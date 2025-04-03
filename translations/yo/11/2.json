@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1475",
-    "sura": "11",
-    "aya": "2",
-    "arabic_text": "أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۚ إِنَّنِي لَكُم مِّنۡهُ نَذِيرٞ وَبَشِيرٞ",
-    "translation": "(A ti ṣàlàyé rẹ̀) pé ẹ má jọ́sìn fún kiní kan àfi Allāhu. Dájúdájú èmi ni olùkìlọ̀ àti oníròó ìdùnnú fún yín láti ọ̀dọ̀ Rẹ̀.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 221,
+  "verse_key": "11:2",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۚ إِنَّنِي لَكُم مِّنۡهُ نَذِيرٞ وَبَشِيرٞ",
+  "translation": "(A ti ṣàlàyé rẹ̀) pé ẹ má jọ́sìn fún kiní kan àfi Allāhu. Dájúdájú èmi ni olùkìlọ̀ àti oníròó ìdùnnú fún yín láti ọ̀dọ̀ Rẹ̀.",
+  "footnotes": ""
 }

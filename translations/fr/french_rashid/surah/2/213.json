@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "220",
-    "sura": "2",
-    "aya": "213",
-    "arabic_text": "كَانَ ٱلنَّاسُ أُمَّةٗ وَٰحِدَةٗ فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّـۧنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلۡكِتَٰبَ بِٱلۡحَقِّ لِيَحۡكُمَ بَيۡنَ ٱلنَّاسِ فِيمَا ٱخۡتَلَفُواْ فِيهِۚ وَمَا ٱخۡتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَٰتُ بَغۡيَۢا بَيۡنَهُمۡۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ لِمَا ٱخۡتَلَفُواْ فِيهِ مِنَ ٱلۡحَقِّ بِإِذۡنِهِۦۗ وَٱللَّهُ يَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٍ",
-    "translation": "213 Les hommes ne professaient à l’origine qu’une seule religion[126]. Allah a alors suscité les prophètes pour leur annoncer la bonne nouvelle du Paradis et les mettre en garde contre l’Enfer, et a révélé à Ses Messagers la parole de vérité afin de trancher leurs différends. Or, ce sont ceux-là mêmes auxquels la vérité a été annoncée qui, poussés par la jalousie, se sont opposés après avoir pourtant reçu toutes les preuves. Allah, par Sa grâce, a alors guidé les croyants[127] vers la vérité à propos de laquelle les autres nations se sont opposées. Allah guide qui Il veut vers le droit chemin.",
-    "footnotes": "[126] La religion de l’unicité d’Allah, avant que certains ne se mettent à vénérer de fausses divinités.\n[127] La nation de Mouhammad."
-  }
+  "id": 213,
+  "verse_number": 213,
+  "page_number": 33,
+  "verse_key": "2:213",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَانَ ٱلنَّاسُ أُمَّةٗ وَٰحِدَةٗ فَبَعَثَ ٱللَّهُ ٱلنَّبِيِّـۧنَ مُبَشِّرِينَ وَمُنذِرِينَ وَأَنزَلَ مَعَهُمُ ٱلۡكِتَٰبَ بِٱلۡحَقِّ لِيَحۡكُمَ بَيۡنَ ٱلنَّاسِ فِيمَا ٱخۡتَلَفُواْ فِيهِۚ وَمَا ٱخۡتَلَفَ فِيهِ إِلَّا ٱلَّذِينَ أُوتُوهُ مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَٰتُ بَغۡيَۢا بَيۡنَهُمۡۖ فَهَدَى ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ لِمَا ٱخۡتَلَفُواْ فِيهِ مِنَ ٱلۡحَقِّ بِإِذۡنِهِۦۗ وَٱللَّهُ يَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٍ",
+  "translation": "213 Les hommes ne professaient à l’origine qu’une seule religion[126]. Allah a alors suscité les prophètes pour leur annoncer la bonne nouvelle du Paradis et les mettre en garde contre l’Enfer, et a révélé à Ses Messagers la parole de vérité afin de trancher leurs différends. Or, ce sont ceux-là mêmes auxquels la vérité a été annoncée qui, poussés par la jalousie, se sont opposés après avoir pourtant reçu toutes les preuves. Allah, par Sa grâce, a alors guidé les croyants[127] vers la vérité à propos de laquelle les autres nations se sont opposées. Allah guide qui Il veut vers le droit chemin.",
+  "footnotes": "[126] La religion de l’unicité d’Allah, avant que certains ne se mettent à vénérer de fausses divinités.\n[127] La nation de Mouhammad."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "421",
-    "sura": "3",
-    "aya": "128",
-    "arabic_text": "لَيۡسَ لَكَ مِنَ ٱلۡأَمۡرِ شَيۡءٌ أَوۡ يَتُوبَ عَلَيۡهِمۡ أَوۡ يُعَذِّبَهُمۡ فَإِنَّهُمۡ ظَٰلِمُونَ",
-    "translation": "Kò sí ohun tó kàn ọ́ nínú ọ̀rọ̀ náà. Yálà (Allāhu) máa gba ìronúpìwàdà wọn tàbí Ó máa jẹ wọ́n níyà; dájúdájú alábòsí ni wọ́n.[1]",
-    "footnotes": "1. Ẹ̀kọ́ tí āyah yìí fẹ́ kọ́ wa ni pé, mùsùlùmí kan kò gbọdọ̀ ro kèfèrí kan pin pé kó níí gba ’Islām títí ọjọ́ ikú rẹ̀. Ó ṣeé ṣe kí kèfèrí náà parí ìrìn-àjò ìṣẹ̀mí ayé rẹ̀ sínú ’Islām, tí Allāhu bá fẹ́ foríjìn ín. Ó sì ṣeé ṣe kí ó bá àìgbàgbọ́ rẹ̀ kú, tí Allāhu bá fẹ́ jẹ ẹ́ níyà."
-  }
+  "id": 128,
+  "verse_number": 128,
+  "page_number": 66,
+  "verse_key": "3:128",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَيۡسَ لَكَ مِنَ ٱلۡأَمۡرِ شَيۡءٌ أَوۡ يَتُوبَ عَلَيۡهِمۡ أَوۡ يُعَذِّبَهُمۡ فَإِنَّهُمۡ ظَٰلِمُونَ",
+  "translation": "Kò sí ohun tó kàn ọ́ nínú ọ̀rọ̀ náà. Yálà (Allāhu) máa gba ìronúpìwàdà wọn tàbí Ó máa jẹ wọ́n níyà; dájúdájú alábòsí ni wọ́n.[1]",
+  "footnotes": "1. Ẹ̀kọ́ tí āyah yìí fẹ́ kọ́ wa ni pé, mùsùlùmí kan kò gbọdọ̀ ro kèfèrí kan pin pé kó níí gba ’Islām títí ọjọ́ ikú rẹ̀. Ó ṣeé ṣe kí kèfèrí náà parí ìrìn-àjò ìṣẹ̀mí ayé rẹ̀ sínú ’Islām, tí Allāhu bá fẹ́ foríjìn ín. Ó sì ṣeé ṣe kí ó bá àìgbàgbọ́ rẹ̀ kú, tí Allāhu bá fẹ́ jẹ ẹ́ níyà."
 }

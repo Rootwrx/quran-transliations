@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6081",
-    "sura": "93",
-    "aya": "2",
-    "arabic_text": "وَٱلَّيۡلِ إِذَا سَجَىٰ",
-    "translation": " Sükuna erdiği vakit geceye,",
-    "footnotes": null
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 596,
+  "verse_key": "93:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّيۡلِ إِذَا سَجَىٰ",
+  "translation": " Sükuna erdiği vakit geceye,",
+  "footnotes": null
 }

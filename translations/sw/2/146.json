@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "153",
-    "sura": "2",
-    "aya": "146",
-    "arabic_text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡرِفُونَهُۥ كَمَا يَعۡرِفُونَ أَبۡنَآءَهُمۡۖ وَإِنَّ فَرِيقٗا مِّنۡهُمۡ لَيَكۡتُمُونَ ٱلۡحَقَّ وَهُمۡ يَعۡلَمُونَ",
-    "translation": "Wale tulio wapa Kitabu wanayajua haya kama wanavyo wajua watoto wao; na kuna kikundi katika wao huificha haki na hali wanajua.",
-    "footnotes": "Na hakika Watu wa Kitabu wanajua kuwa huku kugeuza Kibla ni jambo la haki, na wanakutambua kuwa wewe ndiye Nabii aliye sifiwa katika vitabu vyao, na miongoni mwa sifa hizo kuwa atasali kuelekea Alkaaba. Na kujua kwao Unabii wako na kukijua Kibla chako ni sawa sawa wanavyo wajua watoto wao kwa uwazi kabisa. Lakini baadhi yao wanaificha kweli hii juu ya kuwa wanajua, kwa kufuata pumbao na chuki zao za upotovu kuwania mila zao kwa ajili ya kulinda madaraka yao, na wanatafuta hila za kukupotoeni nyie."
-  }
+  "id": 146,
+  "verse_number": 146,
+  "page_number": 23,
+  "verse_key": "2:146",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡرِفُونَهُۥ كَمَا يَعۡرِفُونَ أَبۡنَآءَهُمۡۖ وَإِنَّ فَرِيقٗا مِّنۡهُمۡ لَيَكۡتُمُونَ ٱلۡحَقَّ وَهُمۡ يَعۡلَمُونَ",
+  "translation": "Wale tulio wapa Kitabu wanayajua haya kama wanavyo wajua watoto wao; na kuna kikundi katika wao huificha haki na hali wanajua.",
+  "footnotes": "Na hakika Watu wa Kitabu wanajua kuwa huku kugeuza Kibla ni jambo la haki, na wanakutambua kuwa wewe ndiye Nabii aliye sifiwa katika vitabu vyao, na miongoni mwa sifa hizo kuwa atasali kuelekea Alkaaba. Na kujua kwao Unabii wako na kukijua Kibla chako ni sawa sawa wanavyo wajua watoto wao kwa uwazi kabisa. Lakini baadhi yao wanaificha kweli hii juu ya kuwa wanajua, kwa kufuata pumbao na chuki zao za upotovu kuwania mila zao kwa ajili ya kulinda madaraka yao, na wanatafuta hila za kukupotoeni nyie."
 }

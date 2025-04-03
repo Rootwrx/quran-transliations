@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2268",
-    "sura": "19",
-    "aya": "18",
-    "arabic_text": "قَالَتۡ إِنِّيٓ أَعُوذُ بِٱلرَّحۡمَٰنِ مِنكَ إِن كُنتَ تَقِيّٗا",
-    "translation": "(Mọryam) sọ pé: “Èmi sá di Àjọkẹ́-ayé kúrò lọ́dọ̀ rẹ, tí o bá jẹ́ olùbẹ̀rù (Allāhu).”[1]",
-    "footnotes": "1. Ìyẹn ni pé, tí o bá jẹ́ olùbẹ̀rù Allāhu, ìbẹ̀rù Allāhu kò níí jẹ́ kí o ṣe aburú tí mò ń ṣọ́ra fún lọ́dọ̀ rẹ."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 306,
+  "verse_key": "19:18",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ إِنِّيٓ أَعُوذُ بِٱلرَّحۡمَٰنِ مِنكَ إِن كُنتَ تَقِيّٗا",
+  "translation": "(Mọryam) sọ pé: “Èmi sá di Àjọkẹ́-ayé kúrò lọ́dọ̀ rẹ, tí o bá jẹ́ olùbẹ̀rù (Allāhu).”[1]",
+  "footnotes": "1. Ìyẹn ni pé, tí o bá jẹ́ olùbẹ̀rù Allāhu, ìbẹ̀rù Allāhu kò níí jẹ́ kí o ṣe aburú tí mò ń ṣọ́ra fún lọ́dọ̀ rẹ."
 }

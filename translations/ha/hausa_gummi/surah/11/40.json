@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1513",
-    "sura": "11",
-    "aya": "40",
-    "arabic_text": "حَتَّىٰٓ إِذَا جَآءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ قُلۡنَا ٱحۡمِلۡ فِيهَا مِن كُلّٖ زَوۡجَيۡنِ ٱثۡنَيۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ وَمَنۡ ءَامَنَۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٞ",
-    "translation": "Har a lõkacin da umurninMu ya je, kuma tandã ta ɓulɓula. Muka ce: \"Ka ɗauka, a cikinta, daga kõme, ma'aura biyu, da kuma iyalanka, fãce wanda magana ta gabãta a kansa*, da wanda ya yi ĩmãni.\" Amma kuma bãbu waɗanda suka yi ĩmãni tãre da shi fãce kaɗan.\"",
-    "footnotes": "* Iyalan Nũhu sun yi ĩmãni banda ɗansa Yãmu, da matarsa guda kãfira. Waɗanda suka yi ĩmãni daga sauran mutãnensa tamãnin ne maza da mãtã. Amma kuma an ce mutãne saba'in da biyu ne, kuma an ce gõma ne. Allah ne Mafi sani."
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 226,
+  "verse_key": "11:40",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا جَآءَ أَمۡرُنَا وَفَارَ ٱلتَّنُّورُ قُلۡنَا ٱحۡمِلۡ فِيهَا مِن كُلّٖ زَوۡجَيۡنِ ٱثۡنَيۡنِ وَأَهۡلَكَ إِلَّا مَن سَبَقَ عَلَيۡهِ ٱلۡقَوۡلُ وَمَنۡ ءَامَنَۚ وَمَآ ءَامَنَ مَعَهُۥٓ إِلَّا قَلِيلٞ",
+  "translation": "Har a lõkacin da umurninMu ya je, kuma tandã ta ɓulɓula. Muka ce: \"Ka ɗauka, a cikinta, daga kõme, ma'aura biyu, da kuma iyalanka, fãce wanda magana ta gabãta a kansa*, da wanda ya yi ĩmãni.\" Amma kuma bãbu waɗanda suka yi ĩmãni tãre da shi fãce kaɗan.\"",
+  "footnotes": "* Iyalan Nũhu sun yi ĩmãni banda ɗansa Yãmu, da matarsa guda kãfira. Waɗanda suka yi ĩmãni daga sauran mutãnensa tamãnin ne maza da mãtã. Amma kuma an ce mutãne saba'in da biyu ne, kuma an ce gõma ne. Allah ne Mafi sani."
 }

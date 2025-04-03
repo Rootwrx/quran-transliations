@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2130",
-    "sura": "17",
-    "aya": "101",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ تِسۡعَ ءَايَٰتِۭ بَيِّنَٰتٖۖ فَسۡـَٔلۡ بَنِيٓ إِسۡرَٰٓءِيلَ إِذۡ جَآءَهُمۡ فَقَالَ لَهُۥ فِرۡعَوۡنُ إِنِّي لَأَظُنُّكَ يَٰمُوسَىٰ مَسۡحُورٗا",
-    "translation": "Ni ukuri Twebwe Allah, Twarahaye Musa ibitangaro icenda bigaragara, vyemeza ukuri kw’ubutumwa bwiwe[363]. Ntumwa y’Imana! Urabaza Bene Israyeli ingene vyagenze igihe Musa yabazanira nya bitangaro bigaragara, maze Firawuni akamubwira ati: “Jewe mu vy’ukuri, nibaza ko wewe Musa warozwe, ugakeherwa n’ubwenge!”.",
-    "footnotes": "[363] Ivyo bitangaro bikaba vyari ibi bikurikira: ihinduka ry’inkoni ikaba inzoka amahanga, gusayangana kw’ikiganza mu gihe agikuye mu kwaha, itera ry’amapfa, ikeha ry’umwimbu w’ivyamwa, itera ry’imyuzurire y’amazi, itera ry’inzige, itera ry’udukoko turya ico ari co cose duhuye na co, itera ry’ibikere bikwiragiye hose n’ihinduka ry’ibinyobwa bigacika amaraso."
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 292,
+  "verse_key": "17:101",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ تِسۡعَ ءَايَٰتِۭ بَيِّنَٰتٖۖ فَسۡـَٔلۡ بَنِيٓ إِسۡرَٰٓءِيلَ إِذۡ جَآءَهُمۡ فَقَالَ لَهُۥ فِرۡعَوۡنُ إِنِّي لَأَظُنُّكَ يَٰمُوسَىٰ مَسۡحُورٗا",
+  "translation": "Ni ukuri Twebwe Allah, Twarahaye Musa ibitangaro icenda bigaragara, vyemeza ukuri kw’ubutumwa bwiwe[363]. Ntumwa y’Imana! Urabaza Bene Israyeli ingene vyagenze igihe Musa yabazanira nya bitangaro bigaragara, maze Firawuni akamubwira ati: “Jewe mu vy’ukuri, nibaza ko wewe Musa warozwe, ugakeherwa n’ubwenge!”.",
+  "footnotes": "[363] Ivyo bitangaro bikaba vyari ibi bikurikira: ihinduka ry’inkoni ikaba inzoka amahanga, gusayangana kw’ikiganza mu gihe agikuye mu kwaha, itera ry’amapfa, ikeha ry’umwimbu w’ivyamwa, itera ry’imyuzurire y’amazi, itera ry’inzige, itera ry’udukoko turya ico ari co cose duhuye na co, itera ry’ibikere bikwiragiye hose n’ihinduka ry’ibinyobwa bigacika amaraso."
 }

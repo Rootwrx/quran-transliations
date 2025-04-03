@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1636",
-    "sura": "12",
-    "aya": "40",
-    "arabic_text": "مَا تَعۡبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسۡمَآءٗ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِ أَمَرَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
-    "translation": "Allah'ı bırakıp da taptıklarınız, sizin ve atalarınızın taktığı birtakım isimlerden başka bir şey değildir. Allah, onlar hakkında hiçbir delil de indirmemiştir. Hüküm, yalnız Allah’ındır. Yalnızca ona ibadet etmenizi emretmiştir. Başka bir şeye değil. Dosdoğru din budur. Fakat insanların çoğu bilmez. ",
-    "footnotes": null
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 240,
+  "verse_key": "12:40",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا تَعۡبُدُونَ مِن دُونِهِۦٓ إِلَّآ أَسۡمَآءٗ سَمَّيۡتُمُوهَآ أَنتُمۡ وَءَابَآؤُكُم مَّآ أَنزَلَ ٱللَّهُ بِهَا مِن سُلۡطَٰنٍۚ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِ أَمَرَ أَلَّا تَعۡبُدُوٓاْ إِلَّآ إِيَّاهُۚ ذَٰلِكَ ٱلدِّينُ ٱلۡقَيِّمُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+  "translation": "Allah'ı bırakıp da taptıklarınız, sizin ve atalarınızın taktığı birtakım isimlerden başka bir şey değildir. Allah, onlar hakkında hiçbir delil de indirmemiştir. Hüküm, yalnız Allah’ındır. Yalnızca ona ibadet etmenizi emretmiştir. Başka bir şeye değil. Dosdoğru din budur. Fakat insanların çoğu bilmez. ",
+  "footnotes": null
 }

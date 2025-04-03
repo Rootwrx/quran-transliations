@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1295",
-    "sura": "9",
-    "aya": "60",
-    "arabic_text": "۞ إِنَّمَا ٱلصَّدَقَٰتُ لِلۡفُقَرَآءِ وَٱلۡمَسَٰكِينِ وَٱلۡعَٰمِلِينَ عَلَيۡهَا وَٱلۡمُؤَلَّفَةِ قُلُوبُهُمۡ وَفِي ٱلرِّقَابِ وَٱلۡغَٰرِمِينَ وَفِي سَبِيلِ ٱللَّهِ وَٱبۡنِ ٱلسَّبِيلِۖ فَرِيضَةٗ مِّنَ ٱللَّهِۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
-    "translation": "60 L’aumône légale est réservée aux pauvres, aux nécessiteux, à ceux chargés de la collecter, à ceux dont les cœurs sont à gagner[546], à l’affranchissement des esclaves et au rachat des captifs, aux musulmans incapables de rembourser leurs dettes, à ceux qui luttent pour la cause d’Allah et aux voyageurs démunis. Voilà ce qu’Allah, Omniscient et infiniment Sage, vous impose.",
-    "footnotes": "[546] Ceux auxquels l’aumône est accordée afin de les amener à embrasser l’islam, à devenir de bons musulmans ou encore afin d’inciter leurs semblables à se convertir (Tafsîr ibn Kathîr)."
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 196,
+  "verse_key": "9:60",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّمَا ٱلصَّدَقَٰتُ لِلۡفُقَرَآءِ وَٱلۡمَسَٰكِينِ وَٱلۡعَٰمِلِينَ عَلَيۡهَا وَٱلۡمُؤَلَّفَةِ قُلُوبُهُمۡ وَفِي ٱلرِّقَابِ وَٱلۡغَٰرِمِينَ وَفِي سَبِيلِ ٱللَّهِ وَٱبۡنِ ٱلسَّبِيلِۖ فَرِيضَةٗ مِّنَ ٱللَّهِۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
+  "translation": "60 L’aumône légale est réservée aux pauvres, aux nécessiteux, à ceux chargés de la collecter, à ceux dont les cœurs sont à gagner[546], à l’affranchissement des esclaves et au rachat des captifs, aux musulmans incapables de rembourser leurs dettes, à ceux qui luttent pour la cause d’Allah et aux voyageurs démunis. Voilà ce qu’Allah, Omniscient et infiniment Sage, vous impose.",
+  "footnotes": "[546] Ceux auxquels l’aumône est accordée afin de les amener à embrasser l’islam, à devenir de bons musulmans ou encore afin d’inciter leurs semblables à se convertir (Tafsîr ibn Kathîr)."
 }

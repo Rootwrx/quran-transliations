@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "494",
-    "sura": "4",
-    "aya": "1",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ وَخَلَقَ مِنۡهَا زَوۡجَهَا وَبَثَّ مِنۡهُمَا رِجَالٗا كَثِيرٗا وَنِسَآءٗۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِي تَسَآءَلُونَ بِهِۦ وَٱلۡأَرۡحَامَۚ إِنَّ ٱللَّهَ كَانَ عَلَيۡكُمۡ رَقِيبٗا",
-    "translation": "O mga tao, mangilag kayong magkasala sa Panginoon ninyo na lumikha sa inyo mula sa nag-iisang kaluluwa, lumikha mula rito ng kabiyak nito, at nagkalat mula sa dalawang ito ng kalalakihang marami at kababaihan. Mangilag kayong magkasala kay Allāh, na naghihilingan kayo sa pamamagitan Niya, at sa mga kaanak. Tunay na si Allāh laging sa inyo ay Mapagmasid.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 77,
+  "verse_key": "4:1",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ وَخَلَقَ مِنۡهَا زَوۡجَهَا وَبَثَّ مِنۡهُمَا رِجَالٗا كَثِيرٗا وَنِسَآءٗۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِي تَسَآءَلُونَ بِهِۦ وَٱلۡأَرۡحَامَۚ إِنَّ ٱللَّهَ كَانَ عَلَيۡكُمۡ رَقِيبٗا",
+  "translation": "O mga tao, mangilag kayong magkasala sa Panginoon ninyo na lumikha sa inyo mula sa nag-iisang kaluluwa, lumikha mula rito ng kabiyak nito, at nagkalat mula sa dalawang ito ng kalalakihang marami at kababaihan. Mangilag kayong magkasala kay Allāh, na naghihilingan kayo sa pamamagitan Niya, at sa mga kaanak. Tunay na si Allāh laging sa inyo ay Mapagmasid.",
+  "footnotes": ""
 }

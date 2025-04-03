@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "778",
-    "sura": "5",
-    "aya": "109",
-    "arabic_text": "۞ يَوۡمَ يَجۡمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبۡتُمۡۖ قَالُواْ لَا عِلۡمَ لَنَآۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلۡغُيُوبِ",
-    "translation": "Allah peygamberleri toplayacağı gün: “Size ne cevap verildi?” buyuracak, onlar da: “Bizim hiçbir bilgimiz yok. Şüphesiz gaybları çok iyi bilen ancak sensin.” diyecekler.",
-    "footnotes": ""
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 126,
+  "verse_key": "5:109",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ يَوۡمَ يَجۡمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبۡتُمۡۖ قَالُواْ لَا عِلۡمَ لَنَآۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلۡغُيُوبِ",
+  "translation": "Allah peygamberleri toplayacağı gün: “Size ne cevap verildi?” buyuracak, onlar da: “Bizim hiçbir bilgimiz yok. Şüphesiz gaybları çok iyi bilen ancak sensin.” diyecekler.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2658",
-    "sura": "22",
-    "aya": "63",
-    "arabic_text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَتُصۡبِحُ ٱلۡأَرۡضُ مُخۡضَرَّةًۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٞ",
-    "translation": "Ashe, ba ka gani ba, lalle ne, Allah Yã saukar da ruwa* daga sama, sai ƙasa ta wãyi gari kõriya? Lalle Allah Mai tausasawa ne, Mai ƙididdigewa.",
-    "footnotes": "* Ya misalta Alƙur'ãni da ruwan girgije. Kamar yadda ruwa ke sauka daga sama ya rãya ƙasã haka Alƙur'ãni yake sauka ya rãya zukãta."
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 339,
+  "verse_key": "22:63",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَتُصۡبِحُ ٱلۡأَرۡضُ مُخۡضَرَّةًۚ إِنَّ ٱللَّهَ لَطِيفٌ خَبِيرٞ",
+  "translation": "Ashe, ba ka gani ba, lalle ne, Allah Yã saukar da ruwa* daga sama, sai ƙasa ta wãyi gari kõriya? Lalle Allah Mai tausasawa ne, Mai ƙididdigewa.",
+  "footnotes": "* Ya misalta Alƙur'ãni da ruwan girgije. Kamar yadda ruwa ke sauka daga sama ya rãya ƙasã haka Alƙur'ãni yake sauka ya rãya zukãta."
 }

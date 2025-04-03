@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "53",
-    "sura": "2",
-    "aya": "46",
-    "arabic_text": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ رَبِّهِمۡ وَأَنَّهُمۡ إِلَيۡهِ رَٰجِعُونَ",
-    "translation": "[Isaan] warra Gooftaa isaanii qunnamuufi gara Isaatti deebi’uu mirkaneeffataniidha.",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 7,
+  "verse_key": "2:46",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ رَبِّهِمۡ وَأَنَّهُمۡ إِلَيۡهِ رَٰجِعُونَ",
+  "translation": "[Isaan] warra Gooftaa isaanii qunnamuufi gara Isaatti deebi’uu mirkaneeffataniidha.",
+  "footnotes": ""
 }

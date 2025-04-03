@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "665",
-    "sura": "4",
-    "aya": "172",
-    "arabic_text": "لَّن يَسۡتَنكِفَ ٱلۡمَسِيحُ أَن يَكُونَ عَبۡدٗا لِّلَّهِ وَلَا ٱلۡمَلَٰٓئِكَةُ ٱلۡمُقَرَّبُونَۚ وَمَن يَسۡتَنكِفۡ عَنۡ عِبَادَتِهِۦ وَيَسۡتَكۡبِرۡ فَسَيَحۡشُرُهُمۡ إِلَيۡهِ جَمِيعٗا",
-    "translation": "Masihi hataona uvunjifu kuwa mtumwa wa Mwenyezi Mungu, wala Malaika walio karibishwa. Na watakao ona uvunjifu utumwa wa Mwenyezi Mungu na kufanya kiburi, basi atawakusanya wote kwake.",
-    "footnotes": "Masihi hakujiona bora hata akatae kuwa ni mtumwa wa Mwenyezi Mungu, wala hawakujiona bora Malaika walio karibishwa. Na mwenye kutakabari na kujiona mtu wa juu hataweza kuikimbia adhabu ya Mwenyezi Mungu Siku atakayo wakusanya watu kwa ajili ya hisabu."
-  }
+  "id": 172,
+  "verse_number": 172,
+  "page_number": 105,
+  "verse_key": "4:172",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 42,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّن يَسۡتَنكِفَ ٱلۡمَسِيحُ أَن يَكُونَ عَبۡدٗا لِّلَّهِ وَلَا ٱلۡمَلَٰٓئِكَةُ ٱلۡمُقَرَّبُونَۚ وَمَن يَسۡتَنكِفۡ عَنۡ عِبَادَتِهِۦ وَيَسۡتَكۡبِرۡ فَسَيَحۡشُرُهُمۡ إِلَيۡهِ جَمِيعٗا",
+  "translation": "Masihi hataona uvunjifu kuwa mtumwa wa Mwenyezi Mungu, wala Malaika walio karibishwa. Na watakao ona uvunjifu utumwa wa Mwenyezi Mungu na kufanya kiburi, basi atawakusanya wote kwake.",
+  "footnotes": "Masihi hakujiona bora hata akatae kuwa ni mtumwa wa Mwenyezi Mungu, wala hawakujiona bora Malaika walio karibishwa. Na mwenye kutakabari na kujiona mtu wa juu hataweza kuikimbia adhabu ya Mwenyezi Mungu Siku atakayo wakusanya watu kwa ajili ya hisabu."
 }

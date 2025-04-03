@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1190",
-    "sura": "8",
-    "aya": "30",
-    "arabic_text": "وَإِذۡ يَمۡكُرُ بِكَ ٱلَّذِينَ كَفَرُواْ لِيُثۡبِتُوكَ أَوۡ يَقۡتُلُوكَ أَوۡ يُخۡرِجُوكَۚ وَيَمۡكُرُونَ وَيَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
-    "translation": "Kae εberε a boniayεfoͻ no kͻͻ wo tiri so apam sε wͻde wo bεto afiase, anaasε wͻɛbeku wo, anaasε wͻbɛtu wo (afiri ͻman no mu); wͻbͻͻ pͻ paa, na Nyankopͻn nso bͻͻ pͻ, na Nyankopͻn pͻbͻ na εyε pͻbͻ pa kyεn apͻ bͻfoͻ nyinaa.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 180,
+  "verse_key": "8:30",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ يَمۡكُرُ بِكَ ٱلَّذِينَ كَفَرُواْ لِيُثۡبِتُوكَ أَوۡ يَقۡتُلُوكَ أَوۡ يُخۡرِجُوكَۚ وَيَمۡكُرُونَ وَيَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
+  "translation": "Kae εberε a boniayεfoͻ no kͻͻ wo tiri so apam sε wͻde wo bεto afiase, anaasε wͻɛbeku wo, anaasε wͻbɛtu wo (afiri ͻman no mu); wͻbͻͻ pͻ paa, na Nyankopͻn nso bͻͻ pͻ, na Nyankopͻn pͻbͻ na εyε pͻbͻ pa kyεn apͻ bͻfoͻ nyinaa.",
+  "footnotes": ""
 }

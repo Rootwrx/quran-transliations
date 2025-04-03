@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4992",
-    "sura": "56",
-    "aya": "13",
-    "arabic_text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
-    "translation": "ከፊተኞቹ ብዙ ጭፍሮች ናቸው፡፡",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 534,
+  "verse_key": "56:13",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+  "translation": "ከፊተኞቹ ብዙ ጭፍሮች ናቸው፡፡",
+  "footnotes": ""
 }

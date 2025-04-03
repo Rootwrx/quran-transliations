@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5043",
-    "sura": "56",
-    "aya": "64",
-    "arabic_text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّٰرِعُونَ",
-    "translation": "ṣé ẹ̀yin l’ẹ̀ ń jẹ́ kí ó hù jáde tàbí Àwa l’À ń jẹ́ kí ó hù jáde?",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 536,
+  "verse_key": "56:64",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّٰرِعُونَ",
+  "translation": "ṣé ẹ̀yin l’ẹ̀ ń jẹ́ kí ó hù jáde tàbí Àwa l’À ń jẹ́ kí ó hù jáde?",
+  "footnotes": ""
 }

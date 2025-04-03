@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1607",
-    "sura": "12",
-    "aya": "11",
-    "arabic_text": "قَالُواْ يَٰٓأَبَانَا مَا لَكَ لَا تَأۡمَ۬نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ",
-    "translation": "They said, “O our father, why do you not trust us with Joseph[5], although we truly care for him?",
-    "footnotes": "[5] They formulated their challenging scheme carefully, in order to throw their father off guard."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 236,
+  "verse_key": "12:11",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰٓأَبَانَا مَا لَكَ لَا تَأۡمَ۬نَّا عَلَىٰ يُوسُفَ وَإِنَّا لَهُۥ لَنَٰصِحُونَ",
+  "translation": "They said, “O our father, why do you not trust us with Joseph[5], although we truly care for him?",
+  "footnotes": "[5] They formulated their challenging scheme carefully, in order to throw their father off guard."
 }

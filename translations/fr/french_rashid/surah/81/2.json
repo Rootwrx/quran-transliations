@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5802",
-    "sura": "81",
-    "aya": "2",
-    "arabic_text": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ",
-    "translation": "2 lorsque les étoiles chuteront et perdront toute clarté[1553],",
-    "footnotes": "[1553] Les phénomènes cosmologiques d’une extrême complexité que décrit chacun de ces deux versets par un seul terme - le verbe « enrouler » pour le premier verset et le verbe « chuter » pour le second - ont été diversement expliqués par les exégètes musulmans qui s’accordent néanmoins, ou presque, sur le résultat de ces phénomènes : l’extinction du soleil et des étoiles, d’où notre traduction."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 586,
+  "verse_key": "81:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱلنُّجُومُ ٱنكَدَرَتۡ",
+  "translation": "2 lorsque les étoiles chuteront et perdront toute clarté[1553],",
+  "footnotes": "[1553] Les phénomènes cosmologiques d’une extrême complexité que décrit chacun de ces deux versets par un seul terme - le verbe « enrouler » pour le premier verset et le verbe « chuter » pour le second - ont été diversement expliqués par les exégètes musulmans qui s’accordent néanmoins, ou presque, sur le résultat de ces phénomènes : l’extinction du soleil et des étoiles, d’où notre traduction."
 }

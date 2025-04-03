@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2111",
-    "sura": "17",
-    "aya": "82",
-    "arabic_text": "وَنُنَزِّلُ مِنَ ٱلۡقُرۡءَانِ مَا هُوَ شِفَآءٞ وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ وَلَا يَزِيدُ ٱلظَّٰلِمِينَ إِلَّا خَسَارٗا",
-    "translation": "Ne shpallim nga Kurani atë që është shërim dhe mëshirë për besimtarët e që mohuesve keqbërës u shton vetëm humbje.",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 290,
+  "verse_key": "17:82",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنُنَزِّلُ مِنَ ٱلۡقُرۡءَانِ مَا هُوَ شِفَآءٞ وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ وَلَا يَزِيدُ ٱلظَّٰلِمِينَ إِلَّا خَسَارٗا",
+  "translation": "Ne shpallim nga Kurani atë që është shërim dhe mëshirë për besimtarët e që mohuesve keqbërës u shton vetëm humbje.",
+  "footnotes": ""
 }

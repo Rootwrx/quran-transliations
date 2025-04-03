@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1234",
-    "sura": "8",
-    "aya": "74",
-    "arabic_text": "وَٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ",
-    "translation": "Na walio amini wakahama na wakapigana Jihadi katika Njia ya Mwenyezi Mungu, na walio toa mahala pa kukaa na wakanusuru, hao ndio Waumini wa kweli. Watapata msamaha wa Mwenyezi Mungu na kuruzukiwa kwema.",
-    "footnotes": "Na walio amini, na wakahajiri, na wakapigana Jihadi katika Njia ya Mwenyezi Mungu, na walio wapa makaazi, na wakaisaidia Haki na Neno la Mwenyezi Mungu - hao ndio walio na Imani ya kweli. Na Mwenyezi Mungu Mtukufu atawasamehe, na watapata riziki kubwa duniani na Akhera."
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 186,
+  "verse_key": "8:74",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ ءَامَنُواْ وَهَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ وَٱلَّذِينَ ءَاوَواْ وَّنَصَرُوٓاْ أُوْلَٰٓئِكَ هُمُ ٱلۡمُؤۡمِنُونَ حَقّٗاۚ لَّهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ",
+  "translation": "Na walio amini wakahama na wakapigana Jihadi katika Njia ya Mwenyezi Mungu, na walio toa mahala pa kukaa na wakanusuru, hao ndio Waumini wa kweli. Watapata msamaha wa Mwenyezi Mungu na kuruzukiwa kwema.",
+  "footnotes": "Na walio amini, na wakahajiri, na wakapigana Jihadi katika Njia ya Mwenyezi Mungu, na walio wapa makaazi, na wakaisaidia Haki na Neno la Mwenyezi Mungu - hao ndio walio na Imani ya kweli. Na Mwenyezi Mungu Mtukufu atawasamehe, na watapata riziki kubwa duniani na Akhera."
 }

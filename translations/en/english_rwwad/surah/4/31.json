@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "524",
-    "sura": "4",
-    "aya": "31",
-    "arabic_text": "إِن تَجۡتَنِبُواْ كَبَآئِرَ مَا تُنۡهَوۡنَ عَنۡهُ نُكَفِّرۡ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَنُدۡخِلۡكُم مُّدۡخَلٗا كَرِيمٗا",
-    "translation": "If you avoid the major sins[20] which are forbidden to you, We will absolve your [minor] sins and admit you to a noble entrance.",
-    "footnotes": "[20] The Prophet (ﷺ) said: \"Avoid the seven great destructive sins.\" They asked, \"O Allah’s Messenger! What are they?\" He said, \"(1) To associate partners with Allah, (2) sorcery; (3) to kill a person whom Allah has forbidden except for a just cause; (4) to consume Ribā (usury); (5) to eat up the property of an orphan; (6) to turn one’s back to the enemy and fleeing from the battlefield at the time of fighting and (7) to accuse innocent chaste women of immorality.\" [Sahih al-Bukhāri: 840]"
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 83,
+  "verse_key": "4:31",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 33,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن تَجۡتَنِبُواْ كَبَآئِرَ مَا تُنۡهَوۡنَ عَنۡهُ نُكَفِّرۡ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَنُدۡخِلۡكُم مُّدۡخَلٗا كَرِيمٗا",
+  "translation": "If you avoid the major sins[20] which are forbidden to you, We will absolve your [minor] sins and admit you to a noble entrance.",
+  "footnotes": "[20] The Prophet (ﷺ) said: \"Avoid the seven great destructive sins.\" They asked, \"O Allah’s Messenger! What are they?\" He said, \"(1) To associate partners with Allah, (2) sorcery; (3) to kill a person whom Allah has forbidden except for a just cause; (4) to consume Ribā (usury); (5) to eat up the property of an orphan; (6) to turn one’s back to the enemy and fleeing from the battlefield at the time of fighting and (7) to accuse innocent chaste women of immorality.\" [Sahih al-Bukhāri: 840]"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2778",
-    "sura": "23",
-    "aya": "105",
-    "arabic_text": "أَلَمۡ تَكُنۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُم بِهَا تُكَذِّبُونَ",
-    "translation": "Baheze babwirwe bati: “Mbega ntimwahora musomerwa Aayah zanje Jewe Allah mukiri kw’isi mukazihakana mwivuye inyuma!”.",
-    "footnotes": ""
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 349,
+  "verse_key": "23:105",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَكُنۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُم بِهَا تُكَذِّبُونَ",
+  "translation": "Baheze babwirwe bati: “Mbega ntimwahora musomerwa Aayah zanje Jewe Allah mukiri kw’isi mukazihakana mwivuye inyuma!”.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1654",
-    "sura": "12",
-    "aya": "58",
-    "arabic_text": "وَجَآءَ إِخۡوَةُ يُوسُفَ فَدَخَلُواْ عَلَيۡهِ فَعَرَفَهُمۡ وَهُمۡ لَهُۥ مُنكِرُونَ",
-    "translation": "58.Yuusuf walaalihiis baa yimid15, markaasay u soo galeen, wuuna aqoonsaday iyagoon garanayn16.",
-    "footnotes": "15. Taariikhyahannada waxay sheegeen inay ka dhacday abaar daran Masar iyo nawaaxigeeda. Wuxuuna Nabi Yacquub u tilmaamay Yuusuf walaaladi inay aadaan Madyan oo la kulmaan ragga Masar u haya xilka si ay uga dalbaan raashin.\n 16. Iyagu ma garan isbeddelka ku dhacay muuqaalkiisa darteed ee sannado soo mareen."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 242,
+  "verse_key": "12:58",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَآءَ إِخۡوَةُ يُوسُفَ فَدَخَلُواْ عَلَيۡهِ فَعَرَفَهُمۡ وَهُمۡ لَهُۥ مُنكِرُونَ",
+  "translation": "58.Yuusuf walaalihiis baa yimid15, markaasay u soo galeen, wuuna aqoonsaday iyagoon garanayn16.",
+  "footnotes": "15. Taariikhyahannada waxay sheegeen inay ka dhacday abaar daran Masar iyo nawaaxigeeda. Wuxuuna Nabi Yacquub u tilmaamay Yuusuf walaaladi inay aadaan Madyan oo la kulmaan ragga Masar u haya xilka si ay uga dalbaan raashin.\n 16. Iyagu ma garan isbeddelka ku dhacay muuqaalkiisa darteed ee sannado soo mareen."
 }

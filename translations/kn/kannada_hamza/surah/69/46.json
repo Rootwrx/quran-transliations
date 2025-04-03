@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5369",
-    "sura": "69",
-    "aya": "46",
-    "arabic_text": "ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِينَ",
-    "translation": "ನಂತರ ನಾವು ಅವರ ಅಪಧಮನಿಯನ್ನು ಕತ್ತರಿಸುತ್ತಿದ್ದೆವು.",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 568,
+  "verse_key": "69:46",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ لَقَطَعۡنَا مِنۡهُ ٱلۡوَتِينَ",
+  "translation": "ನಂತರ ನಾವು ಅವರ ಅಪಧಮನಿಯನ್ನು ಕತ್ತರಿಸುತ್ತಿದ್ದೆವು.",
+  "footnotes": ""
 }

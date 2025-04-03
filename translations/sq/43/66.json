@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4391",
-    "sura": "43",
-    "aya": "66",
-    "arabic_text": "هَلۡ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ",
-    "translation": "A mos presin ata diçka tjetër, përveç Orës (së Kiametit), që do t’u vijë papritmas e pa e ndier fare?!",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 494,
+  "verse_key": "43:66",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَلۡ يَنظُرُونَ إِلَّا ٱلسَّاعَةَ أَن تَأۡتِيَهُم بَغۡتَةٗ وَهُمۡ لَا يَشۡعُرُونَ",
+  "translation": "A mos presin ata diçka tjetër, përveç Orës (së Kiametit), që do t’u vijë papritmas e pa e ndier fare?!",
+  "footnotes": ""
 }

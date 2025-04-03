@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1310",
-    "sura": "9",
-    "aya": "75",
-    "arabic_text": "۞ وَمِنۡهُم مَّنۡ عَٰهَدَ ٱللَّهَ لَئِنۡ ءَاتَىٰنَا مِن فَضۡلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّٰلِحِينَ",
-    "translation": "    Onlardan kimi de, «Eğer Allah lütuf ve kereminden bize verirse, mutlaka sadaka vereceğiz ve elbette biz sâlihlerden olacağız!» diye Allah'a and içti.",
-    "footnotes": ""
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 199,
+  "verse_key": "9:75",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَمِنۡهُم مَّنۡ عَٰهَدَ ٱللَّهَ لَئِنۡ ءَاتَىٰنَا مِن فَضۡلِهِۦ لَنَصَّدَّقَنَّ وَلَنَكُونَنَّ مِنَ ٱلصَّٰلِحِينَ",
+  "translation": "    Onlardan kimi de, «Eğer Allah lütuf ve kereminden bize verirse, mutlaka sadaka vereceğiz ve elbette biz sâlihlerden olacağız!» diye Allah'a and içti.",
+  "footnotes": ""
 }

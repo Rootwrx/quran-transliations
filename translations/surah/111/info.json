@@ -1,0 +1,27 @@
+{
+  "number": 111,
+  "name": {
+    "ar": "المسد",
+    "en": "The Palm Fibre",
+    "transliteration": "Al-Masad"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 6,
+  "bismillah_pre": true,
+  "verses_count": 5,
+  "words_count": 29,
+  "letters_count": 81,
+  "pages": [
+    603,
+    603
+  ],
+  "name_simple": "Al-Masad",
+  "name_complex": "Al-Masad",
+  "name_arabic": "المسد",
+  "translated_name": "The Palm Fiber",
+  "start_page": 603,
+  "end_page": 603
+}

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "33",
-    "sura": "2",
-    "aya": "26",
-    "arabic_text": "۞ إِنَّ ٱللَّهَ لَا يَسۡتَحۡيِۦٓ أَن يَضۡرِبَ مَثَلٗا مَّا بَعُوضَةٗ فَمَا فَوۡقَهَاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۖ وَأَمَّا ٱلَّذِينَ كَفَرُواْ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۘ يُضِلُّ بِهِۦ كَثِيرٗا وَيَهۡدِي بِهِۦ كَثِيرٗاۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلۡفَٰسِقِينَ",
-    "translation": "Dájúdájú Allāhu kò níí tijú láti fí ohun kan (tí ó mọ) bí ẹ̀fọn tàbí ohun tí ó jù ú lọ ṣàkàwé ọ̀rọ̀. Ní ti àwọn tó gbàgbọ́ ní òdodo, wọn yóò mọ̀ pé dájúdájú òdodo ni láti ọ̀dọ̀ Olúwa wọn. Ní ti àwọn tó ṣàì gbàgbọ́, wọn yóò wí pé: “Kí ni ohun tí Allāhu gbàlérò pẹ̀lú àkàwé yìí?” Allāhu ń fi ṣi ọ̀pọ̀lọ́pọ̀ lọ́nà. Ó sì ń fi tọ́ ọ̀pọ̀lọ́pọ̀ sọ́nà. Kò sì níí fi ṣi ẹnikẹ́ni lọ́nà àyàfi àwọn arúfin.[1]",
-    "footnotes": "1. Ìtúmọ̀ “fāsiƙ” ni ẹni tí ó jáde kúrò lábẹ́ àṣẹ Allāhu àti Òjíṣẹ́ Rẹ̀ - kí ìkẹ́ àti ọlà Allāhu máa bá a -; ẹni tí ó gbé àṣẹ Allāhu àti Òjíṣẹ́ Rẹ̀ jù sílẹ̀."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 5,
+  "verse_key": "2:26",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّ ٱللَّهَ لَا يَسۡتَحۡيِۦٓ أَن يَضۡرِبَ مَثَلٗا مَّا بَعُوضَةٗ فَمَا فَوۡقَهَاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۖ وَأَمَّا ٱلَّذِينَ كَفَرُواْ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۘ يُضِلُّ بِهِۦ كَثِيرٗا وَيَهۡدِي بِهِۦ كَثِيرٗاۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلۡفَٰسِقِينَ",
+  "translation": "Dájúdájú Allāhu kò níí tijú láti fí ohun kan (tí ó mọ) bí ẹ̀fọn tàbí ohun tí ó jù ú lọ ṣàkàwé ọ̀rọ̀. Ní ti àwọn tó gbàgbọ́ ní òdodo, wọn yóò mọ̀ pé dájúdájú òdodo ni láti ọ̀dọ̀ Olúwa wọn. Ní ti àwọn tó ṣàì gbàgbọ́, wọn yóò wí pé: “Kí ni ohun tí Allāhu gbàlérò pẹ̀lú àkàwé yìí?” Allāhu ń fi ṣi ọ̀pọ̀lọ́pọ̀ lọ́nà. Ó sì ń fi tọ́ ọ̀pọ̀lọ́pọ̀ sọ́nà. Kò sì níí fi ṣi ẹnikẹ́ni lọ́nà àyàfi àwọn arúfin.[1]",
+  "footnotes": "1. Ìtúmọ̀ “fāsiƙ” ni ẹni tí ó jáde kúrò lábẹ́ àṣẹ Allāhu àti Òjíṣẹ́ Rẹ̀ - kí ìkẹ́ àti ọlà Allāhu máa bá a -; ẹni tí ó gbé àṣẹ Allāhu àti Òjíṣẹ́ Rẹ̀ jù sílẹ̀."
 }

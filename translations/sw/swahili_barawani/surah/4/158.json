@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "651",
-    "sura": "4",
-    "aya": "158",
-    "arabic_text": "بَل رَّفَعَهُ ٱللَّهُ إِلَيۡهِۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمٗا",
-    "translation": "Bali Mwenyezi Mungu alim- tukuza kwake, na hakika Mwenyezi Mungu ni Mwenye nguvu, Mwenye hikima.",
-    "footnotes": "Bali Mwenyezi Mungu alimtukuza kwake, akamwokoa na maadui zake, wasimsalibu na wasimuuwe. Na Mwenyezi Mungu ni Mwenye kushinda, hashindiki, ni Mwenye hikima katika vitendo vyake. (Taaurati inayo kubaliwa na Mayahudi na Wakristo imesema kuwa anaye kufa kwa kutundikwa msalabani amelaaniwa. Ndio maana Mayahudi wakawa na hamu wamtundike Nabii Isa ili wathibitishe kuwa huyo si chochote ila ni mlaanifu. Je, Mwenyezi Mungu Mtukufu vipi aachilie jambo hilo liwe kwa Mtume wake?)"
-  }
+  "id": 158,
+  "verse_number": 158,
+  "page_number": 103,
+  "verse_key": "4:158",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَل رَّفَعَهُ ٱللَّهُ إِلَيۡهِۚ وَكَانَ ٱللَّهُ عَزِيزًا حَكِيمٗا",
+  "translation": "Bali Mwenyezi Mungu alim- tukuza kwake, na hakika Mwenyezi Mungu ni Mwenye nguvu, Mwenye hikima.",
+  "footnotes": "Bali Mwenyezi Mungu alimtukuza kwake, akamwokoa na maadui zake, wasimsalibu na wasimuuwe. Na Mwenyezi Mungu ni Mwenye kushinda, hashindiki, ni Mwenye hikima katika vitendo vyake. (Taaurati inayo kubaliwa na Mayahudi na Wakristo imesema kuwa anaye kufa kwa kutundikwa msalabani amelaaniwa. Ndio maana Mayahudi wakawa na hamu wamtundike Nabii Isa ili wathibitishe kuwa huyo si chochote ila ni mlaanifu. Je, Mwenyezi Mungu Mtukufu vipi aachilie jambo hilo liwe kwa Mtume wake?)"
 }

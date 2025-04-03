@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1216",
-    "sura": "8",
-    "aya": "56",
-    "arabic_text": "ٱلَّذِينَ عَٰهَدتَّ مِنۡهُمۡ ثُمَّ يَنقُضُونَ عَهۡدَهُمۡ فِي كُلِّ مَرَّةٖ وَهُمۡ لَا يَتَّقُونَ",
-    "translation": " (Isaan) warra ati waadaa isaan irraa fuutee, yeroo (waadaa seenan) hunda ahdii isaanii nidiigan, isaan Rabbiin hin sodaatan.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 184,
+  "verse_key": "8:56",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ عَٰهَدتَّ مِنۡهُمۡ ثُمَّ يَنقُضُونَ عَهۡدَهُمۡ فِي كُلِّ مَرَّةٖ وَهُمۡ لَا يَتَّقُونَ",
+  "translation": " (Isaan) warra ati waadaa isaan irraa fuutee, yeroo (waadaa seenan) hunda ahdii isaanii nidiigan, isaan Rabbiin hin sodaatan.",
+  "footnotes": ""
 }

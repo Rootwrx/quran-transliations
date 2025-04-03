@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "392",
-    "sura": "3",
-    "aya": "99",
-    "arabic_text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنۡ ءَامَنَ تَبۡغُونَهَا عِوَجٗا وَأَنتُمۡ شُهَدَآءُۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
-    "translation": "Vuga uti “Yemwe abahawe igitabo! Kuki mukumira abashaka kugana inzira ya Allah (idini rya Isilamu), muyihimbira ko idatunganye, nyamara namwe muri abahamya (ko Isilamu ari yo nzira y’ukuri)? Kandi Allah ntabwo ayobewe ibyo mukora.”",
-    "footnotes": ""
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 62,
+  "verse_key": "3:99",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنۡ ءَامَنَ تَبۡغُونَهَا عِوَجٗا وَأَنتُمۡ شُهَدَآءُۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+  "translation": "Vuga uti “Yemwe abahawe igitabo! Kuki mukumira abashaka kugana inzira ya Allah (idini rya Isilamu), muyihimbira ko idatunganye, nyamara namwe muri abahamya (ko Isilamu ari yo nzira y’ukuri)? Kandi Allah ntabwo ayobewe ibyo mukora.”",
+  "footnotes": ""
 }

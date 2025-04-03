@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2183",
-    "sura": "18",
-    "aya": "43",
-    "arabic_text": "وَلَمۡ تَكُن لَّهُۥ فِئَةٞ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مُنتَصِرًا",
-    "translation": "Wala hakuwa nacho kikundi cha kumsaidia badala ya Mwenyezi Mungu, wala mwenyewe hakuweza kujisaidia.",
-    "footnotes": "Katika balaa hii hakuwa na jamaa wa kuja mnusuru badala ya Mwenyezi Mungu kama alivyo kuwa akijitapa. Wala hakuwa anaweza kujisaidia nafsi yake."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 298,
+  "verse_key": "18:43",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 119,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمۡ تَكُن لَّهُۥ فِئَةٞ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مُنتَصِرًا",
+  "translation": "Wala hakuwa nacho kikundi cha kumsaidia badala ya Mwenyezi Mungu, wala mwenyewe hakuweza kujisaidia.",
+  "footnotes": "Katika balaa hii hakuwa na jamaa wa kuja mnusuru badala ya Mwenyezi Mungu kama alivyo kuwa akijitapa. Wala hakuwa anaweza kujisaidia nafsi yake."
 }

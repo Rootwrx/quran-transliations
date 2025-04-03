@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "694",
-    "sura": "5",
-    "aya": "25",
-    "arabic_text": "قَالَ رَبِّ إِنِّي لَآ أَمۡلِكُ إِلَّا نَفۡسِي وَأَخِيۖ فَٱفۡرُقۡ بَيۡنَنَا وَبَيۡنَ ٱلۡقَوۡمِ ٱلۡفَٰسِقِينَ",
-    "translation": "(Musa) cầu nguyện: “Lạy Thượng Đế của bề tôi, quả thật bề tôi (không quản lý được ai) ngoài bản thân bề tôi và người anh em (Harun) của bề tôi. Xin Ngài hãy tách bầy tôi ra khỏi đám người bất tuân kia!”",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 112,
+  "verse_key": "5:25",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 44,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّ إِنِّي لَآ أَمۡلِكُ إِلَّا نَفۡسِي وَأَخِيۖ فَٱفۡرُقۡ بَيۡنَنَا وَبَيۡنَ ٱلۡقَوۡمِ ٱلۡفَٰسِقِينَ",
+  "translation": "(Musa) cầu nguyện: “Lạy Thượng Đế của bề tôi, quả thật bề tôi (không quản lý được ai) ngoài bản thân bề tôi và người anh em (Harun) của bề tôi. Xin Ngài hãy tách bầy tôi ra khỏi đám người bất tuân kia!”",
+  "footnotes": ""
 }

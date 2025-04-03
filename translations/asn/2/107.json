@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "114",
-    "sura": "2",
-    "aya": "107",
-    "arabic_text": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٍ",
-    "translation": "Anaasε wonnim sε ͻsoro ne asaase so ahennie nyinaa wͻ Nyankopͻn, na Nyankopɔn akyi no monni okyitaafoͻ anaasε ͻboafoͻ biara?",
-    "footnotes": ""
-  }
+  "id": 107,
+  "verse_number": 107,
+  "page_number": 17,
+  "verse_key": "2:107",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَمَا لَكُم مِّن دُونِ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٍ",
+  "translation": "Anaasε wonnim sε ͻsoro ne asaase so ahennie nyinaa wͻ Nyankopͻn, na Nyankopɔn akyi no monni okyitaafoͻ anaasε ͻboafoͻ biara?",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3376",
-    "sura": "29",
-    "aya": "36",
-    "arabic_text": "وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبٗا فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ وَٱرۡجُواْ ٱلۡيَوۡمَ ٱلۡأٓخِرَ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
-    "translation": "A tún ránṣẹ́ sí ará ìlú Mọdyan. (A rán) arákùnrin wọn, (Ànábì) Ṣu‘aeb (níṣẹ́ sí wọn). Ó sì sọ pé: “Ẹ̀yin ìjọ mi, ẹ jọ́sìn fún Allāhu. Ẹ retí Ọjọ́ Ìkẹ́yìn, kí ẹ sì má ṣèbàjẹ́ sórí ilẹ̀.”",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 400,
+  "verse_key": "29:36",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبٗا فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ وَٱرۡجُواْ ٱلۡيَوۡمَ ٱلۡأٓخِرَ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
+  "translation": "A tún ránṣẹ́ sí ará ìlú Mọdyan. (A rán) arákùnrin wọn, (Ànábì) Ṣu‘aeb (níṣẹ́ sí wọn). Ó sì sọ pé: “Ẹ̀yin ìjọ mi, ẹ jọ́sìn fún Allāhu. Ẹ retí Ọjọ́ Ìkẹ́yìn, kí ẹ sì má ṣèbàjẹ́ sórí ilẹ̀.”",
+  "footnotes": ""
 }

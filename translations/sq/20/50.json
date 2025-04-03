@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2398",
-    "sura": "20",
-    "aya": "50",
-    "arabic_text": "قَالَ رَبُّنَا ٱلَّذِيٓ أَعۡطَىٰ كُلَّ شَيۡءٍ خَلۡقَهُۥ ثُمَّ هَدَىٰ",
-    "translation": "(Musai) tha: “Zoti ynë është Ai që çdo gjëje i ka dhënë trajtën e vet e pastaj e ka udhëzuar”.",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 314,
+  "verse_key": "20:50",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبُّنَا ٱلَّذِيٓ أَعۡطَىٰ كُلَّ شَيۡءٍ خَلۡقَهُۥ ثُمَّ هَدَىٰ",
+  "translation": "(Musai) tha: “Zoti ynë është Ai që çdo gjëje i ka dhënë trajtën e vet e pastaj e ka udhëzuar”.",
+  "footnotes": ""
 }

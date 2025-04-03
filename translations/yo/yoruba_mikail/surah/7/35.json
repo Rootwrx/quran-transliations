@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "989",
-    "sura": "7",
-    "aya": "35",
-    "arabic_text": "يَٰبَنِيٓ ءَادَمَ إِمَّا يَأۡتِيَنَّكُمۡ رُسُلٞ مِّنكُمۡ يَقُصُّونَ عَلَيۡكُمۡ ءَايَٰتِي فَمَنِ ٱتَّقَىٰ وَأَصۡلَحَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "Ẹ̀yin ọmọ (Ànábì) Ādam, nígbà tí àwọn Òjíṣẹ́ nínú yín bá wá ba yín, tí wọn yóò máa ka àwọn āyah Mi fún yín, ẹnikẹ́ni tí ó bá bẹ̀rù (Mi), tí ó sì ṣàtúnṣe, kò níí sí ìbẹ̀rù kan fún wọn, wọn kò sì níí banújẹ́.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 154,
+  "verse_key": "7:35",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 62,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰبَنِيٓ ءَادَمَ إِمَّا يَأۡتِيَنَّكُمۡ رُسُلٞ مِّنكُمۡ يَقُصُّونَ عَلَيۡكُمۡ ءَايَٰتِي فَمَنِ ٱتَّقَىٰ وَأَصۡلَحَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "Ẹ̀yin ọmọ (Ànábì) Ādam, nígbà tí àwọn Òjíṣẹ́ nínú yín bá wá ba yín, tí wọn yóò máa ka àwọn āyah Mi fún yín, ẹnikẹ́ni tí ó bá bẹ̀rù (Mi), tí ó sì ṣàtúnṣe, kò níí sí ìbẹ̀rù kan fún wọn, wọn kò sì níí banújẹ́.",
+  "footnotes": ""
 }

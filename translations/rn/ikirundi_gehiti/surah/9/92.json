@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1327",
-    "sura": "9",
-    "aya": "92",
-    "arabic_text": "وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوۡكَ لِتَحۡمِلَهُمۡ قُلۡتَ لَآ أَجِدُ مَآ أَحۡمِلُكُمۡ عَلَيۡهِ تَوَلَّواْ وَّأَعۡيُنُهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ حَزَنًا أَلَّا يَجِدُواْ مَا يُنفِقُونَ",
-    "translation": "Ntumwa y’Imana! Eka nta n’icaha ku baje bakugana bashaka ko ubafasha icobashikana ku rugamba, maze ukababwira uti: “Nta bitwazi noronka vyobashikana ku rugamba!”, bagaca basubira inyuma amosozi yicunda bishwe n’agahinda n’akantu ko kutagira ico batanga n’icobashikana ku rugamba.",
-    "footnotes": ""
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 201,
+  "verse_key": "9:92",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا عَلَى ٱلَّذِينَ إِذَا مَآ أَتَوۡكَ لِتَحۡمِلَهُمۡ قُلۡتَ لَآ أَجِدُ مَآ أَحۡمِلُكُمۡ عَلَيۡهِ تَوَلَّواْ وَّأَعۡيُنُهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ حَزَنًا أَلَّا يَجِدُواْ مَا يُنفِقُونَ",
+  "translation": "Ntumwa y’Imana! Eka nta n’icaha ku baje bakugana bashaka ko ubafasha icobashikana ku rugamba, maze ukababwira uti: “Nta bitwazi noronka vyobashikana ku rugamba!”, bagaca basubira inyuma amosozi yicunda bishwe n’agahinda n’akantu ko kutagira ico batanga n’icobashikana ku rugamba.",
+  "footnotes": ""
 }

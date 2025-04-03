@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4262",
-    "sura": "41",
-    "aya": "44",
-    "arabic_text": "وَلَوۡ جَعَلۡنَٰهُ قُرۡءَانًا أَعۡجَمِيّٗا لَّقَالُواْ لَوۡلَا فُصِّلَتۡ ءَايَٰتُهُۥٓۖ ءَا۬عۡجَمِيّٞ وَعَرَبِيّٞۗ قُلۡ هُوَ لِلَّذِينَ ءَامَنُواْ هُدٗى وَشِفَآءٞۚ وَٱلَّذِينَ لَا يُؤۡمِنُونَ فِيٓ ءَاذَانِهِمۡ وَقۡرٞ وَهُوَ عَلَيۡهِمۡ عَمًىۚ أُوْلَٰٓئِكَ يُنَادَوۡنَ مِن مَّكَانِۭ بَعِيدٖ",
-    "translation": "Dan sekiranya Al-Qur`an Kami jadikan sebagai bacaan dalam bahasa selain bahasa Arab, niscaya mereka mengatakan, \"Mengapa tidak dijelaskan ayat-ayatnya?\" Apakah patut (Al-Qur`an) dalam bahasa selain bahasa Arab sedang (rasul) orang Arab? Katakanlah, \"Al-Qur`an adalah petunjuk dan penyembuh bagi orang-orang yang beriman. Dan orang-orang yang tidak beriman pada telinga mereka ada sumbatan, dan (Al-Qur`an) itu merupakan kegelapan bagi mereka.776) Mereka itu (seperti) orang-orang yang dipanggil dari tempat yang jauh.\"",
-    "footnotes": "*776) Tidak memberi petunjuk kepada mereka."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 481,
+  "verse_key": "41:44",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ جَعَلۡنَٰهُ قُرۡءَانًا أَعۡجَمِيّٗا لَّقَالُواْ لَوۡلَا فُصِّلَتۡ ءَايَٰتُهُۥٓۖ ءَا۬عۡجَمِيّٞ وَعَرَبِيّٞۗ قُلۡ هُوَ لِلَّذِينَ ءَامَنُواْ هُدٗى وَشِفَآءٞۚ وَٱلَّذِينَ لَا يُؤۡمِنُونَ فِيٓ ءَاذَانِهِمۡ وَقۡرٞ وَهُوَ عَلَيۡهِمۡ عَمًىۚ أُوْلَٰٓئِكَ يُنَادَوۡنَ مِن مَّكَانِۭ بَعِيدٖ",
+  "translation": "Dan sekiranya Al-Qur`an Kami jadikan sebagai bacaan dalam bahasa selain bahasa Arab, niscaya mereka mengatakan, \"Mengapa tidak dijelaskan ayat-ayatnya?\" Apakah patut (Al-Qur`an) dalam bahasa selain bahasa Arab sedang (rasul) orang Arab? Katakanlah, \"Al-Qur`an adalah petunjuk dan penyembuh bagi orang-orang yang beriman. Dan orang-orang yang tidak beriman pada telinga mereka ada sumbatan, dan (Al-Qur`an) itu merupakan kegelapan bagi mereka.776) Mereka itu (seperti) orang-orang yang dipanggil dari tempat yang jauh.\"",
+  "footnotes": "*776) Tidak memberi petunjuk kepada mereka."
 }

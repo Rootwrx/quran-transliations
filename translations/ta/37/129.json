@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3917",
-    "sura": "37",
-    "aya": "129",
-    "arabic_text": "وَتَرَكۡنَا عَلَيۡهِ فِي ٱلۡأٓخِرِينَ",
-    "translation": "129. பிற்காலத்தில் உள்ளவர்களிலும் இவருடைய கீர்த்தியை நிலைக்கச் செய்தோம்.",
-    "footnotes": null
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 451,
+  "verse_key": "37:129",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَرَكۡنَا عَلَيۡهِ فِي ٱلۡأٓخِرِينَ",
+  "translation": "129. பிற்காலத்தில் உள்ளவர்களிலும் இவருடைய கீர்த்தியை நிலைக்கச் செய்தோம்.",
+  "footnotes": null
 }

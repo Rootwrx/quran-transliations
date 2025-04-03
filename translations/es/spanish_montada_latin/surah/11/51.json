@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1524",
-    "sura": "11",
-    "aya": "51",
-    "arabic_text": "يَٰقَوۡمِ لَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ أَجۡرًاۖ إِنۡ أَجۡرِيَ إِلَّا عَلَى ٱلَّذِي فَطَرَنِيٓۚ أَفَلَا تَعۡقِلُونَ",
-    "translation": "51. ¡Pueblo mío!, no les pido una retribución (por transmitirles el mensaje); Quien me creó me recompensará por ello. ¿Acaso no razonan?",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 227,
+  "verse_key": "11:51",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰقَوۡمِ لَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ أَجۡرًاۖ إِنۡ أَجۡرِيَ إِلَّا عَلَى ٱلَّذِي فَطَرَنِيٓۚ أَفَلَا تَعۡقِلُونَ",
+  "translation": "51. ¡Pueblo mío!, no les pido una retribución (por transmitirles el mensaje); Quien me creó me recompensará por ello. ¿Acaso no razonan?",
+  "footnotes": ""
 }

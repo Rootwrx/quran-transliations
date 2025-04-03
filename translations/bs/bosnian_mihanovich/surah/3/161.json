@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "454",
-    "sura": "3",
-    "aya": "161",
-    "arabic_text": "وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّۚ وَمَن يَغۡلُلۡ يَأۡتِ بِمَا غَلَّ يَوۡمَ ٱلۡقِيَٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
-    "translation": "Nije moguće da Vjerovjesnik šta utaji! A onaj ko šta utaji, doći će na Kijametski dan s tim što je utajio. Zatim će svakome u potpunosti biti dato ono što je zaslužio, i nikome neće zulum biti učinjen. ",
-    "footnotes": ""
-  }
+  "id": 161,
+  "verse_number": 161,
+  "page_number": 71,
+  "verse_key": "3:161",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّۚ وَمَن يَغۡلُلۡ يَأۡتِ بِمَا غَلَّ يَوۡمَ ٱلۡقِيَٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
+  "translation": "Nije moguće da Vjerovjesnik šta utaji! A onaj ko šta utaji, doći će na Kijametski dan s tim što je utajio. Zatim će svakome u potpunosti biti dato ono što je zaslužio, i nikome neće zulum biti učinjen. ",
+  "footnotes": ""
 }

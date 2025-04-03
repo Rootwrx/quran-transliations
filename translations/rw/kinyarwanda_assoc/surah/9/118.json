@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1353",
-    "sura": "9",
-    "aya": "118",
-    "arabic_text": "وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُواْ حَتَّىٰٓ إِذَا ضَاقَتۡ عَلَيۡهِمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ وَضَاقَتۡ عَلَيۡهِمۡ أَنفُسُهُمۡ وَظَنُّوٓاْ أَن لَّا مَلۡجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيۡهِ ثُمَّ تَابَ عَلَيۡهِمۡ لِيَتُوبُوٓاْۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
-    "translation": "Kandi (Allah yakiriye ukwicuza) kwa ba bandi batatu[1] bari barasigaye inyuma (batagiye ku rugamba bari mu kato, bategereje ko Allah yakira ukwicuza kwabo), kugeza ubwo isi ibabanye ntoya n’ukuntu ari ngari, n'imitima yabo ikabura amahwemo; nuko bamenya ko ntaho bahungira Allah usibye kuri We. Hanyuma (Allah) yakira ukwicuza kwabo kugira ngo bamugarukire. Mu by’ukuri Allah ni Uwakira ukwicuza, Nyirimbabazi.",
-    "footnotes": "[1] Abo batatu (Hilali mwene Umaya, Ka’abu mwene Maliki na Murarat mwene Rabii) ni ba bandi bavuzwe mu murongo wa 106 muri iyi Surat. Bakoze icyaha cyo kutajya ku rugamba rwa Tabuuk kandi bari babifitiye ubushobozi, maze bicuza ku Mana ariko babwirwa ko bagomba gutegereza kuko ukwicuza kwabo kwari kutarakirwa. Muri uyu murongo baragaragarizwa ko ukwicuza kwabo kwakiriwe nyuma y’amarira n’agahinda batewe n’amakosa yabo."
-  }
+  "id": 118,
+  "verse_number": 118,
+  "page_number": 206,
+  "verse_key": "9:118",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 82,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُواْ حَتَّىٰٓ إِذَا ضَاقَتۡ عَلَيۡهِمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ وَضَاقَتۡ عَلَيۡهِمۡ أَنفُسُهُمۡ وَظَنُّوٓاْ أَن لَّا مَلۡجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيۡهِ ثُمَّ تَابَ عَلَيۡهِمۡ لِيَتُوبُوٓاْۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "translation": "Kandi (Allah yakiriye ukwicuza) kwa ba bandi batatu[1] bari barasigaye inyuma (batagiye ku rugamba bari mu kato, bategereje ko Allah yakira ukwicuza kwabo), kugeza ubwo isi ibabanye ntoya n’ukuntu ari ngari, n'imitima yabo ikabura amahwemo; nuko bamenya ko ntaho bahungira Allah usibye kuri We. Hanyuma (Allah) yakira ukwicuza kwabo kugira ngo bamugarukire. Mu by’ukuri Allah ni Uwakira ukwicuza, Nyirimbabazi.",
+  "footnotes": "[1] Abo batatu (Hilali mwene Umaya, Ka’abu mwene Maliki na Murarat mwene Rabii) ni ba bandi bavuzwe mu murongo wa 106 muri iyi Surat. Bakoze icyaha cyo kutajya ku rugamba rwa Tabuuk kandi bari babifitiye ubushobozi, maze bicuza ku Mana ariko babwirwa ko bagomba gutegereza kuko ukwicuza kwabo kwari kutarakirwa. Muri uyu murongo baragaragarizwa ko ukwicuza kwabo kwakiriwe nyuma y’amarira n’agahinda batewe n’amakosa yabo."
 }

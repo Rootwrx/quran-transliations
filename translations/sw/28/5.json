@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3257",
-    "sura": "28",
-    "aya": "5",
-    "arabic_text": "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسۡتُضۡعِفُواْ فِي ٱلۡأَرۡضِ وَنَجۡعَلَهُمۡ أَئِمَّةٗ وَنَجۡعَلَهُمُ ٱلۡوَٰرِثِينَ",
-    "translation": "Na tukataka kuwafadhili walio dhoofishwa katika nchi hiyo na kuwafanya wawe waongozi na kuwafanya ni warithi.",
-    "footnotes": "Na Mwenyezi Mungu akataka kuwafadhilisha alio wafanya wanyonge Firauni katika nchi, na awafanye ndio wa kuongoza katika njia za kheri, na awarithishe ufalme na madaraka ya nchi."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 385,
+  "verse_key": "28:5",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسۡتُضۡعِفُواْ فِي ٱلۡأَرۡضِ وَنَجۡعَلَهُمۡ أَئِمَّةٗ وَنَجۡعَلَهُمُ ٱلۡوَٰرِثِينَ",
+  "translation": "Na tukataka kuwafadhili walio dhoofishwa katika nchi hiyo na kuwafanya wawe waongozi na kuwafanya ni warithi.",
+  "footnotes": "Na Mwenyezi Mungu akataka kuwafadhilisha alio wafanya wanyonge Firauni katika nchi, na awafanye ndio wa kuongoza katika njia za kheri, na awarithishe ufalme na madaraka ya nchi."
 }

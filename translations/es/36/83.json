@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3788",
-    "sura": "36",
-    "aya": "83",
-    "arabic_text": "فَسُبۡحَٰنَ ٱلَّذِي بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَإِلَيۡهِ تُرۡجَعُونَ",
-    "translation": "83. Glorificado sea Aquel en Cuya mano está la soberanía de todas las cosas, y ante Él retornarán [para ser juzgados].",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 445,
+  "verse_key": "36:83",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسُبۡحَٰنَ ٱلَّذِي بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَإِلَيۡهِ تُرۡجَعُونَ",
+  "translation": "83. Glorificado sea Aquel en Cuya mano está la soberanía de todas las cosas, y ante Él retornarán [para ser juzgados].",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5436",
-    "sura": "71",
-    "aya": "17",
-    "arabic_text": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلۡأَرۡضِ نَبَاتٗا",
-    "translation": "Allah sizi (atanız Adəmi) yerdən bir bitki kimi bitirdi.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 571,
+  "verse_key": "71:17",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ أَنۢبَتَكُم مِّنَ ٱلۡأَرۡضِ نَبَاتٗا",
+  "translation": "Allah sizi (atanız Adəmi) yerdən bir bitki kimi bitirdi.",
+  "footnotes": ""
 }

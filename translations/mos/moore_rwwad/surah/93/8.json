@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6087",
-    "sura": "93",
-    "aya": "8",
-    "arabic_text": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ",
-    "translation": "La A leb n mik foo tɩ f yaa talga, t'A sek-fo?",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 596,
+  "verse_key": "93:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَجَدَكَ عَآئِلٗا فَأَغۡنَىٰ",
+  "translation": "La A leb n mik foo tɩ f yaa talga, t'A sek-fo?",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "85",
-    "sura": "2",
-    "aya": "78",
-    "arabic_text": "وَمِنۡهُمۡ أُمِّيُّونَ لَا يَعۡلَمُونَ ٱلۡكِتَٰبَ إِلَّآ أَمَانِيَّ وَإِنۡ هُمۡ إِلَّا يَظُنُّونَ",
-    "translation": "Àti pé ó wà nínú wọn, àwọn aláìmọ̀ọ́nkọmọ̀ọ́nkà, tí wọn kò nímọ̀ nípa Tírà àfi àwọn irọ́. Wọn kò jẹ́ n̄ǹkan kan bí kò ṣe pé wọ́n ń dá àbá (àròsọ).",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 12,
+  "verse_key": "2:78",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡهُمۡ أُمِّيُّونَ لَا يَعۡلَمُونَ ٱلۡكِتَٰبَ إِلَّآ أَمَانِيَّ وَإِنۡ هُمۡ إِلَّا يَظُنُّونَ",
+  "translation": "Àti pé ó wà nínú wọn, àwọn aláìmọ̀ọ́nkọmọ̀ọ́nkà, tí wọn kò nímọ̀ nípa Tírà àfi àwọn irọ́. Wọn kò jẹ́ n̄ǹkan kan bí kò ṣe pé wọ́n ń dá àbá (àròsọ).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5612",
-    "sura": "76",
-    "aya": "21",
-    "arabic_text": "عَٰلِيَهُمۡ ثِيَابُ سُندُسٍ خُضۡرٞ وَإِسۡتَبۡرَقٞۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةٖ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابٗا طَهُورًا",
-    "translation": "21. Мре bakolata bilamba ya langi ya mayi ya pondu ya lolenge ebele тре basinga ya palata na maboko na bango mpo na bonzenga. Mpe Nkolo wa bango akomelisa bango mayi ya bopeto.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 579,
+  "verse_key": "76:21",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَٰلِيَهُمۡ ثِيَابُ سُندُسٍ خُضۡرٞ وَإِسۡتَبۡرَقٞۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةٖ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابٗا طَهُورًا",
+  "translation": "21. Мре bakolata bilamba ya langi ya mayi ya pondu ya lolenge ebele тре basinga ya palata na maboko na bango mpo na bonzenga. Mpe Nkolo wa bango akomelisa bango mayi ya bopeto.",
+  "footnotes": ""
 }

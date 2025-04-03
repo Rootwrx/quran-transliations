@@ -1,0 +1,27 @@
+{
+  "number": 85,
+  "name": {
+    "ar": "البروج",
+    "en": "The Constellations",
+    "transliteration": "Al-Buruj"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 27,
+  "bismillah_pre": true,
+  "verses_count": 22,
+  "words_count": 109,
+  "letters_count": 459,
+  "pages": [
+    590,
+    590
+  ],
+  "name_simple": "Al-Buruj",
+  "name_complex": "Al-Burūj",
+  "name_arabic": "البروج",
+  "translated_name": "The Mansions of the Stars",
+  "start_page": 590,
+  "end_page": 590
+}

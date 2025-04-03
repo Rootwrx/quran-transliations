@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "835",
-    "sura": "6",
-    "aya": "46",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَخَذَ ٱللَّهُ سَمۡعَكُمۡ وَأَبۡصَٰرَكُمۡ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنۡ إِلَٰهٌ غَيۡرُ ٱللَّهِ يَأۡتِيكُم بِهِۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ ثُمَّ هُمۡ يَصۡدِفُونَ",
-    "translation": "Sema: Mwaonaje Mwenyezi Mungu akanyakua kusikia kwenu, na kuona kwenu, na akaziziba nyoyo zenu, ni mungu gani asiye kuwa Mwenyezi Mungu ataye kuleteeni hayo tena? Angalia vipi tunavyo zieleza Ishara, kisha wao wanapuuza.",
-    "footnotes": "Waambie, ewe Nabii: Hebu nambieni--Mwenyezi Mungu akinyakua kusikia kwenu, na akazifunika nyoyo zenu zisiweze kutambua kitu, akakufanyeni viziwi, vipofu hamfahamu kitu - mtamuabudu mungu gani isipo kuwa Mwenyezi Mungu atakae weza kukurejesheeni aliyo kunyang'anyeni Mwenyezi Mungu? Ewe Nabii! Tazama vipi tunavyo ziweka wazi hoja na kuzipanga mbali mbali. Kisha pamoja na haya wao wanakataa kuzizingatia na kunafiika kwazo."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 133,
+  "verse_key": "6:46",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَخَذَ ٱللَّهُ سَمۡعَكُمۡ وَأَبۡصَٰرَكُمۡ وَخَتَمَ عَلَىٰ قُلُوبِكُم مَّنۡ إِلَٰهٌ غَيۡرُ ٱللَّهِ يَأۡتِيكُم بِهِۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ ثُمَّ هُمۡ يَصۡدِفُونَ",
+  "translation": "Sema: Mwaonaje Mwenyezi Mungu akanyakua kusikia kwenu, na kuona kwenu, na akaziziba nyoyo zenu, ni mungu gani asiye kuwa Mwenyezi Mungu ataye kuleteeni hayo tena? Angalia vipi tunavyo zieleza Ishara, kisha wao wanapuuza.",
+  "footnotes": "Waambie, ewe Nabii: Hebu nambieni--Mwenyezi Mungu akinyakua kusikia kwenu, na akazifunika nyoyo zenu zisiweze kutambua kitu, akakufanyeni viziwi, vipofu hamfahamu kitu - mtamuabudu mungu gani isipo kuwa Mwenyezi Mungu atakae weza kukurejesheeni aliyo kunyang'anyeni Mwenyezi Mungu? Ewe Nabii! Tazama vipi tunavyo ziweka wazi hoja na kuzipanga mbali mbali. Kisha pamoja na haya wao wanakataa kuzizingatia na kunafiika kwazo."
 }

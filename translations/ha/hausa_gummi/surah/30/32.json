@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3441",
-    "sura": "30",
-    "aya": "32",
-    "arabic_text": "مِنَ ٱلَّذِينَ فَرَّقُواْ دِينَهُمۡ وَكَانُواْ شِيَعٗاۖ كُلُّ حِزۡبِۭ بِمَا لَدَيۡهِمۡ فَرِحُونَ",
-    "translation": "Wãtau waɗanda suka rarrabe addininsu kuma suka kasance ƙungiya-ƙungiya, kõwace ƙungiya tanã mai farin ciki da abin da ke a gare ta kawai.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 407,
+  "verse_key": "30:32",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِنَ ٱلَّذِينَ فَرَّقُواْ دِينَهُمۡ وَكَانُواْ شِيَعٗاۖ كُلُّ حِزۡبِۭ بِمَا لَدَيۡهِمۡ فَرِحُونَ",
+  "translation": "Wãtau waɗanda suka rarrabe addininsu kuma suka kasance ƙungiya-ƙungiya, kõwace ƙungiya tanã mai farin ciki da abin da ke a gare ta kawai.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3299",
-    "sura": "28",
-    "aya": "47",
-    "arabic_text": "وَلَوۡلَآ أَن تُصِيبَهُم مُّصِيبَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ فَيَقُولُواْ رَبَّنَا لَوۡلَآ أَرۡسَلۡتَ إِلَيۡنَا رَسُولٗا فَنَتَّبِعَ ءَايَٰتِكَ وَنَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
-    "translation": "Tí ó bá jẹ́ pé àdánwò kan kàn wọ́n nítorí ohun tí wọ́n fi ọwọ́ wọn tì síwájú, wọn ìbá wí pé: “Olúwa wa, ti Ó bá jẹ́ pé O rán Òjíṣẹ́ kan sí wa ni, a à bá tẹ̀lé àwọn āyah Rẹ, a à bá sì wà nínú àwọn onígbàgbọ́ òdodo.”",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 391,
+  "verse_key": "28:47",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡلَآ أَن تُصِيبَهُم مُّصِيبَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ فَيَقُولُواْ رَبَّنَا لَوۡلَآ أَرۡسَلۡتَ إِلَيۡنَا رَسُولٗا فَنَتَّبِعَ ءَايَٰتِكَ وَنَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
+  "translation": "Tí ó bá jẹ́ pé àdánwò kan kàn wọ́n nítorí ohun tí wọ́n fi ọwọ́ wọn tì síwájú, wọn ìbá wí pé: “Olúwa wa, ti Ó bá jẹ́ pé O rán Òjíṣẹ́ kan sí wa ni, a à bá tẹ̀lé àwọn āyah Rẹ, a à bá sì wà nínú àwọn onígbàgbọ́ òdodo.”",
+  "footnotes": ""
 }

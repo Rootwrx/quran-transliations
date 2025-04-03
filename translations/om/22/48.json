@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2643",
-    "sura": "22",
-    "aya": "48",
-    "arabic_text": "وَكَأَيِّن مِّن قَرۡيَةٍ أَمۡلَيۡتُ لَهَا وَهِيَ ظَالِمَةٞ ثُمَّ أَخَذۡتُهَا وَإِلَيَّ ٱلۡمَصِيرُ",
-    "translation": "Magaalota irraa meeqaatama tan Ani yeroo isheef kennee, haala isaan miidhaa hojjatoo ta’anii jiraniin ergasii (adabaan) ishee qabee, deebiin gara kiyya.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 338,
+  "verse_key": "22:48",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَأَيِّن مِّن قَرۡيَةٍ أَمۡلَيۡتُ لَهَا وَهِيَ ظَالِمَةٞ ثُمَّ أَخَذۡتُهَا وَإِلَيَّ ٱلۡمَصِيرُ",
+  "translation": "Magaalota irraa meeqaatama tan Ani yeroo isheef kennee, haala isaan miidhaa hojjatoo ta’anii jiraniin ergasii (adabaan) ishee qabee, deebiin gara kiyya.",
+  "footnotes": ""
 }

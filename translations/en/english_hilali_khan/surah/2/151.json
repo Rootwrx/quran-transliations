@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "158",
-    "sura": "2",
-    "aya": "151",
-    "arabic_text": "كَمَآ أَرۡسَلۡنَا فِيكُمۡ رَسُولٗا مِّنكُمۡ يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِنَا وَيُزَكِّيكُمۡ وَيُعَلِّمُكُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُعَلِّمُكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ",
-    "translation": " 151. Similarly (to complete My Blessings on you), We have sent among you a Messenger (Muhammad صلى الله عليه وسلم) of your own, reciting to you Our Verses (the Qur’ân) and purifying you, and teaching you the Book (the Qur’ân) and the Hikmah (i.e. Sunnah, Islâmic laws and Fiqh - jurisprudence), and teaching you that which you used not to know.",
-    "footnotes": ""
-  }
+  "id": 151,
+  "verse_number": 151,
+  "page_number": 23,
+  "verse_key": "2:151",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَمَآ أَرۡسَلۡنَا فِيكُمۡ رَسُولٗا مِّنكُمۡ يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِنَا وَيُزَكِّيكُمۡ وَيُعَلِّمُكُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُعَلِّمُكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ",
+  "translation": " 151. Similarly (to complete My Blessings on you), We have sent among you a Messenger (Muhammad صلى الله عليه وسلم) of your own, reciting to you Our Verses (the Qur’ân) and purifying you, and teaching you the Book (the Qur’ân) and the Hikmah (i.e. Sunnah, Islâmic laws and Fiqh - jurisprudence), and teaching you that which you used not to know.",
+  "footnotes": ""
 }

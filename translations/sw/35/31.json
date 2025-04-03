@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3691",
-    "sura": "35",
-    "aya": "31",
-    "arabic_text": "وَٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ هُوَ ٱلۡحَقُّ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِۗ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرُۢ بَصِيرٞ",
-    "translation": "Na hayo tuliyo kufunulia kutoka Kitabuni ni Kweli yenye kusadikisha yaliyo kuwa kabla yake. Hakika Mwenyezi Mungu kwa waja wake ni Mwenye khabari na Mwenye kuona.",
-    "footnotes": "Na tuliyo kuletea Wahyi wewe katika hii Qur'ani ni Haki tupu isiyo kuwa na shaka yoyote. Tumeiteremsha kuthibitisha Vitabu vilivyo teremshwa kwa Mitume walio kuwa kabla yako, kwa kuwa vyote ni asli moja. Hakika Mwenyezi Mungu ni Mkunjufu wa kujua na kuona kwa waja wake."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 438,
+  "verse_key": "35:31",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ مِنَ ٱلۡكِتَٰبِ هُوَ ٱلۡحَقُّ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِۗ إِنَّ ٱللَّهَ بِعِبَادِهِۦ لَخَبِيرُۢ بَصِيرٞ",
+  "translation": "Na hayo tuliyo kufunulia kutoka Kitabuni ni Kweli yenye kusadikisha yaliyo kuwa kabla yake. Hakika Mwenyezi Mungu kwa waja wake ni Mwenye khabari na Mwenye kuona.",
+  "footnotes": "Na tuliyo kuletea Wahyi wewe katika hii Qur'ani ni Haki tupu isiyo kuwa na shaka yoyote. Tumeiteremsha kuthibitisha Vitabu vilivyo teremshwa kwa Mitume walio kuwa kabla yako, kwa kuwa vyote ni asli moja. Hakika Mwenyezi Mungu ni Mkunjufu wa kujua na kuona kwa waja wake."
 }

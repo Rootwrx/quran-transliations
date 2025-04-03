@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2942",
-    "sura": "26",
-    "aya": "10",
-    "arabic_text": "وَإِذۡ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئۡتِ ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
-    "translation": "Na Mola wako Mlezi, alipo mwita Musa, akamwambia: Fika kwa watu madhaalimu,",
-    "footnotes": "Ewe Muhammad! Watajie watu wako kisa cha Musa pale Mola wako Mlezi alipo mwita: Ewe Musa! Nenda kwa Utume kwa watu walio dhulumu nafsi zao kwa ukafiri, na wakawadhulumu Wana wa Israili kwa kuwafanya watumwa na kuwauwa watoto wao wanaume."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 367,
+  "verse_key": "26:10",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ نَادَىٰ رَبُّكَ مُوسَىٰٓ أَنِ ٱئۡتِ ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+  "translation": "Na Mola wako Mlezi, alipo mwita Musa, akamwambia: Fika kwa watu madhaalimu,",
+  "footnotes": "Ewe Muhammad! Watajie watu wako kisa cha Musa pale Mola wako Mlezi alipo mwita: Ewe Musa! Nenda kwa Utume kwa watu walio dhulumu nafsi zao kwa ukafiri, na wakawadhulumu Wana wa Israili kwa kuwafanya watumwa na kuwauwa watoto wao wanaume."
 }

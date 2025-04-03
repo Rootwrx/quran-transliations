@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2287",
-    "sura": "19",
-    "aya": "37",
-    "arabic_text": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن مَّشۡهَدِ يَوۡمٍ عَظِيمٍ",
-    "translation": "Ngunit nagkaiba-iba ang mga lapian sa gitna nila kaya kapighatian ay ukol sa mga tumangging sumampalataya, mula sa isang masasaksihan sa isang araw na sukdulan.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 307,
+  "verse_key": "19:37",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ كَفَرُواْ مِن مَّشۡهَدِ يَوۡمٍ عَظِيمٍ",
+  "translation": "Ngunit nagkaiba-iba ang mga lapian sa gitna nila kaya kapighatian ay ukol sa mga tumangging sumampalataya, mula sa isang masasaksihan sa isang araw na sukdulan.",
+  "footnotes": ""
 }

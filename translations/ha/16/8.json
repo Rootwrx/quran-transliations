@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1909",
-    "sura": "16",
-    "aya": "8",
-    "arabic_text": "وَٱلۡخَيۡلَ وَٱلۡبِغَالَ وَٱلۡحَمِيرَ لِتَرۡكَبُوهَا وَزِينَةٗۚ وَيَخۡلُقُ مَا لَا تَعۡلَمُونَ",
-    "translation": "Kuma da dawãki* da alfadarai da jãkuna, dõmin ku hau su, kuma da ƙawa. Kuma Yana halitta abin da ba ku sani ba.",
-    "footnotes": "* Haɗa dawãki da alfadarai zuwa ga jãkuna kuma aka ce dõmin \"hawansu da yin ƙawã\" yana nũna cewa ba a cin dawãki da alfadarai dõmin an san cewa an hana cin jãkuna a lõkacin yãƙin Khaibara, kuma ãyõyin da ke gaba da wannan ãya sun nũna anã cin dabbõbin ni'ima kuma anã hawansu, kuma cin nãma yã fi hawa zama ni'ima, sabõda haka, shĩ ne ya kamãta a ambata inda ya halatta. Wannan ne mazhabar Mãliki da Ahu Hanĩfa, kuma shĩ ne maganar Abdullah bn Abbãs Allah Ya yarda da su. Wasu sun ce ana cin dawãki da alfadarai dõmin cewa, \"Anã hawansu dõmin ƙawa,\" bã ya hana a yi wani abu da su, wato cin nãmansu, dõmin a cikin Bukhãri daMuslim an ruwaito halaccin cin dawãki. Wannan shĩ ne maganar Al-Hasan da Shuraih da 'Aɗa' a da Sa'ĩd bn Jubair. Kuma Shi ne mazhabar shãfi'i da Is'hãƙ. Sun yi hujja da halaccin nãman dawãki da abin da Asmã'u bint Abĩ Bakar Assiddiƙ ta ce, \"Mun sõke wata gõɗiya' muka ci a zamanin Manzon Allah,a Madina.\" Kuma a cikin Bukhãri da Muslim daga jãbir, Allah Ya yarda da shi, \"Mun ci dawãki da jãkunan jeji a Khaibara, kuma Annabi tsira da aminci sun tabbata a gare shi, ya hana jãkunan gida\" Acikin Abĩ Dãwud, \"Mun yanke dawãki da alfadarai da jakuna alhãli yunwa ta kãmã mu, amma sai Annabi ya hana mu cin jãkuna da alfadarai, bai hana mu cin dawãki ba\" Nĩ, a ganina, ra'ayin cin dawãki ya fi ƙarfi dõmin sũrar ta sauka a Makka, amma hadisin yankan gõɗiyar, a Madĩna aka yi shi. Saboda haka surar ba ta shãfe shi ba. Dũbi Radd Al-Azhãn."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 268,
+  "verse_key": "16:8",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡخَيۡلَ وَٱلۡبِغَالَ وَٱلۡحَمِيرَ لِتَرۡكَبُوهَا وَزِينَةٗۚ وَيَخۡلُقُ مَا لَا تَعۡلَمُونَ",
+  "translation": "Kuma da dawãki* da alfadarai da jãkuna, dõmin ku hau su, kuma da ƙawa. Kuma Yana halitta abin da ba ku sani ba.",
+  "footnotes": "* Haɗa dawãki da alfadarai zuwa ga jãkuna kuma aka ce dõmin \"hawansu da yin ƙawã\" yana nũna cewa ba a cin dawãki da alfadarai dõmin an san cewa an hana cin jãkuna a lõkacin yãƙin Khaibara, kuma ãyõyin da ke gaba da wannan ãya sun nũna anã cin dabbõbin ni'ima kuma anã hawansu, kuma cin nãma yã fi hawa zama ni'ima, sabõda haka, shĩ ne ya kamãta a ambata inda ya halatta. Wannan ne mazhabar Mãliki da Ahu Hanĩfa, kuma shĩ ne maganar Abdullah bn Abbãs Allah Ya yarda da su. Wasu sun ce ana cin dawãki da alfadarai dõmin cewa, \"Anã hawansu dõmin ƙawa,\" bã ya hana a yi wani abu da su, wato cin nãmansu, dõmin a cikin Bukhãri daMuslim an ruwaito halaccin cin dawãki. Wannan shĩ ne maganar Al-Hasan da Shuraih da 'Aɗa' a da Sa'ĩd bn Jubair. Kuma Shi ne mazhabar shãfi'i da Is'hãƙ. Sun yi hujja da halaccin nãman dawãki da abin da Asmã'u bint Abĩ Bakar Assiddiƙ ta ce, \"Mun sõke wata gõɗiya' muka ci a zamanin Manzon Allah,a Madina.\" Kuma a cikin Bukhãri da Muslim daga jãbir, Allah Ya yarda da shi, \"Mun ci dawãki da jãkunan jeji a Khaibara, kuma Annabi tsira da aminci sun tabbata a gare shi, ya hana jãkunan gida\" Acikin Abĩ Dãwud, \"Mun yanke dawãki da alfadarai da jakuna alhãli yunwa ta kãmã mu, amma sai Annabi ya hana mu cin jãkuna da alfadarai, bai hana mu cin dawãki ba\" Nĩ, a ganina, ra'ayin cin dawãki ya fi ƙarfi dõmin sũrar ta sauka a Makka, amma hadisin yankan gõɗiyar, a Madĩna aka yi shi. Saboda haka surar ba ta shãfe shi ba. Dũbi Radd Al-Azhãn."
 }

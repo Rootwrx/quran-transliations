@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "753",
-    "sura": "5",
-    "aya": "84",
-    "arabic_text": "وَمَا لَنَا لَا نُؤۡمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلۡحَقِّ وَنَطۡمَعُ أَن يُدۡخِلَنَا رَبُّنَا مَعَ ٱلۡقَوۡمِ ٱلصَّٰلِحِينَ",
-    "translation": "Pourquoi ne croirions-nous pas en Allah et à ce qui nous est parvenu de la vérité. Pourquoi ne convoiterions-nous pas que notre Seigneur nous fasse entrer en la compagnie des gens vertueux ?\"",
-    "footnotes": ""
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 122,
+  "verse_key": "5:84",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا لَنَا لَا نُؤۡمِنُ بِٱللَّهِ وَمَا جَآءَنَا مِنَ ٱلۡحَقِّ وَنَطۡمَعُ أَن يُدۡخِلَنَا رَبُّنَا مَعَ ٱلۡقَوۡمِ ٱلصَّٰلِحِينَ",
+  "translation": "Pourquoi ne croirions-nous pas en Allah et à ce qui nous est parvenu de la vérité. Pourquoi ne convoiterions-nous pas que notre Seigneur nous fasse entrer en la compagnie des gens vertueux ?\"",
+  "footnotes": ""
 }

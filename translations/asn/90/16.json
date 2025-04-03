@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6039",
-    "sura": "90",
-    "aya": "16",
-    "arabic_text": "أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ",
-    "translation": "Anaa sԑ ohiani a wabᴐ fam (anaa ohiani buruburoo).",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 594,
+  "verse_key": "90:16",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ مِسۡكِينٗا ذَا مَتۡرَبَةٖ",
+  "translation": "Anaa sԑ ohiani a wabᴐ fam (anaa ohiani buruburoo).",
+  "footnotes": ""
 }

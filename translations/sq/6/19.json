@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "808",
-    "sura": "6",
-    "aya": "19",
-    "arabic_text": "قُلۡ أَيُّ شَيۡءٍ أَكۡبَرُ شَهَٰدَةٗۖ قُلِ ٱللَّهُۖ شَهِيدُۢ بَيۡنِي وَبَيۡنَكُمۡۚ وَأُوحِيَ إِلَيَّ هَٰذَا ٱلۡقُرۡءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَۚ أَئِنَّكُمۡ لَتَشۡهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخۡرَىٰۚ قُل لَّآ أَشۡهَدُۚ قُلۡ إِنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ وَإِنَّنِي بَرِيٓءٞ مِّمَّا تُشۡرِكُونَ",
-    "translation": "Thuaj: “Cila është dëshmia më e madhe (që ti je profet)?” dhe përgjigju: “Allahu është dëshmitar midis meje dhe jush”. Ky Kuran më është shpallur, në mënyrë që nëpërmjet tij t’ju tërheq vërejtjen juve dhe kujtdo që i përcillet. A mos vallë ju dëshmoni se, përveç Allahut ka edhe zota tjerë? Thuaj: “Unë nuk dëshmoj”. Thuaj: “Vërtet, Ai është vetëm Një Zot dhe unë jam larg nga ato që ju ia shoqëroni Allahut (në adhurim)”.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 130,
+  "verse_key": "6:19",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَيُّ شَيۡءٍ أَكۡبَرُ شَهَٰدَةٗۖ قُلِ ٱللَّهُۖ شَهِيدُۢ بَيۡنِي وَبَيۡنَكُمۡۚ وَأُوحِيَ إِلَيَّ هَٰذَا ٱلۡقُرۡءَانُ لِأُنذِرَكُم بِهِۦ وَمَنۢ بَلَغَۚ أَئِنَّكُمۡ لَتَشۡهَدُونَ أَنَّ مَعَ ٱللَّهِ ءَالِهَةً أُخۡرَىٰۚ قُل لَّآ أَشۡهَدُۚ قُلۡ إِنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ وَإِنَّنِي بَرِيٓءٞ مِّمَّا تُشۡرِكُونَ",
+  "translation": "Thuaj: “Cila është dëshmia më e madhe (që ti je profet)?” dhe përgjigju: “Allahu është dëshmitar midis meje dhe jush”. Ky Kuran më është shpallur, në mënyrë që nëpërmjet tij t’ju tërheq vërejtjen juve dhe kujtdo që i përcillet. A mos vallë ju dëshmoni se, përveç Allahut ka edhe zota tjerë? Thuaj: “Unë nuk dëshmoj”. Thuaj: “Vërtet, Ai është vetëm Një Zot dhe unë jam larg nga ato që ju ia shoqëroni Allahut (në adhurim)”.",
+  "footnotes": ""
 }

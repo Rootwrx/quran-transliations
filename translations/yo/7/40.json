@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "994",
-    "sura": "7",
-    "aya": "40",
-    "arabic_text": "إِنَّ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَٱسۡتَكۡبَرُواْ عَنۡهَا لَا تُفَتَّحُ لَهُمۡ أَبۡوَٰبُ ٱلسَّمَآءِ وَلَا يَدۡخُلُونَ ٱلۡجَنَّةَ حَتَّىٰ يَلِجَ ٱلۡجَمَلُ فِي سَمِّ ٱلۡخِيَاطِۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُجۡرِمِينَ",
-    "translation": "Dájúdájú àwọn tó pe àwọn āyah Wa ní irọ́, tí wọ́n sì ṣègbéraga sí i, wọn kò níí ṣí àwọn ìlẹ̀kùn sánmọ̀ fún wọn, wọn kò sì níí wọ inú Ọgbà Ìdẹ̀ra àfi tí ràkúnmí bá lè wọ inú ihò ìdí abẹ́rẹ́. Báyẹn ni A ṣe ń san àwọn ẹlẹ́ṣẹ̀ ní ẹ̀san.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 155,
+  "verse_key": "7:40",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 62,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَٱسۡتَكۡبَرُواْ عَنۡهَا لَا تُفَتَّحُ لَهُمۡ أَبۡوَٰبُ ٱلسَّمَآءِ وَلَا يَدۡخُلُونَ ٱلۡجَنَّةَ حَتَّىٰ يَلِجَ ٱلۡجَمَلُ فِي سَمِّ ٱلۡخِيَاطِۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُجۡرِمِينَ",
+  "translation": "Dájúdájú àwọn tó pe àwọn āyah Wa ní irọ́, tí wọ́n sì ṣègbéraga sí i, wọn kò níí ṣí àwọn ìlẹ̀kùn sánmọ̀ fún wọn, wọn kò sì níí wọ inú Ọgbà Ìdẹ̀ra àfi tí ràkúnmí bá lè wọ inú ihò ìdí abẹ́rẹ́. Báyẹn ni A ṣe ń san àwọn ẹlẹ́ṣẹ̀ ní ẹ̀san.",
+  "footnotes": ""
 }

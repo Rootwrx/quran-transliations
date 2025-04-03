@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "47",
-    "sura": "2",
-    "aya": "40",
-    "arabic_text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَوۡفُواْ بِعَهۡدِيٓ أُوفِ بِعَهۡدِكُمۡ وَإِيَّٰيَ فَٱرۡهَبُونِ",
-    "translation": "Ẹ̀yin ọmọ ’Isrọ̄’īl,[1] ẹ rántí ìdẹ̀ra Mi, èyí tí Mo ṣe fún yín. Ẹ mú májẹ̀mu Mi ṣẹ, Mo máa mú (ẹ̀san) májẹ̀mu yín ṣẹ. Èmi nìkan ni kí ẹ sì páyà.",
-    "footnotes": "1. Ibn ‘Abbās - kí Allāhu yọ́nú sí i - sọ pé: “Nínú èdè ‘Abrāniyyah (Hébérù), “’Isrọ̄” túmọ̀ sí “ẹrú”, “ ’īl” sì túmọ̀ sí “Allāhu”. Èyí já sí pé, “ẹrú Allāhu” ni ìtúmọ̀ “’Isrọ̄’īl”. (Tọbariy)"
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 7,
+  "verse_key": "2:40",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَوۡفُواْ بِعَهۡدِيٓ أُوفِ بِعَهۡدِكُمۡ وَإِيَّٰيَ فَٱرۡهَبُونِ",
+  "translation": "Ẹ̀yin ọmọ ’Isrọ̄’īl,[1] ẹ rántí ìdẹ̀ra Mi, èyí tí Mo ṣe fún yín. Ẹ mú májẹ̀mu Mi ṣẹ, Mo máa mú (ẹ̀san) májẹ̀mu yín ṣẹ. Èmi nìkan ni kí ẹ sì páyà.",
+  "footnotes": "1. Ibn ‘Abbās - kí Allāhu yọ́nú sí i - sọ pé: “Nínú èdè ‘Abrāniyyah (Hébérù), “’Isrọ̄” túmọ̀ sí “ẹrú”, “ ’īl” sì túmọ̀ sí “Allāhu”. Èyí já sí pé, “ẹrú Allāhu” ni ìtúmọ̀ “’Isrọ̄’īl”. (Tọbariy)"
 }

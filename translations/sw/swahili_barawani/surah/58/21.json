@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5125",
-    "sura": "58",
-    "aya": "21",
-    "arabic_text": "كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِيٓۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ",
-    "translation": "Mwenyezi Mungu ameandika: Hapana shaka Mimi na Mtume wangu tutashinda. Hakika Mwenyezi Mungu ni Mwenye nguvu, Mwenye kushinda.",
-    "footnotes": "Mwenyezi Mungu amekata hukumu: Bila ya shaka Mimi na Mtume wangu tutashinda. Hakika Mwenyezi Mungu ni Mwenye nguvu zilizo timia, hashindwi na yeyote."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 544,
+  "verse_key": "58:21",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِيٓۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ",
+  "translation": "Mwenyezi Mungu ameandika: Hapana shaka Mimi na Mtume wangu tutashinda. Hakika Mwenyezi Mungu ni Mwenye nguvu, Mwenye kushinda.",
+  "footnotes": "Mwenyezi Mungu amekata hukumu: Bila ya shaka Mimi na Mtume wangu tutashinda. Hakika Mwenyezi Mungu ni Mwenye nguvu zilizo timia, hashindwi na yeyote."
 }

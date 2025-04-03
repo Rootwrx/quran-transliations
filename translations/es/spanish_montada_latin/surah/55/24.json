@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4925",
-    "sura": "55",
-    "aya": "24",
-    "arabic_text": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ",
-    "translation": "24. A Él pertenece (el hecho de) que embarcaciones como montañas (por su gran tamaño) naveguen en el mar.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 532,
+  "verse_key": "55:24",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَهُ ٱلۡجَوَارِ ٱلۡمُنشَـَٔاتُ فِي ٱلۡبَحۡرِ كَٱلۡأَعۡلَٰمِ",
+  "translation": "24. A Él pertenece (el hecho de) que embarcaciones como montañas (por su gran tamaño) naveguen en el mar.",
+  "footnotes": ""
 }

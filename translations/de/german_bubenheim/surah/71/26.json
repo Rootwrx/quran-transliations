@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5445",
-    "sura": "71",
-    "aya": "26",
-    "arabic_text": "وَقَالَ نُوحٞ رَّبِّ لَا تَذَرۡ عَلَى ٱلۡأَرۡضِ مِنَ ٱلۡكَٰفِرِينَ دَيَّارًا",
-    "translation": "Und Nuh sagte: Mein Herr, lasse auf der Erde von den Ungläubigen nicht einen einzigen Bewohner.",
-    "footnotes": null
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 571,
+  "verse_key": "71:26",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ نُوحٞ رَّبِّ لَا تَذَرۡ عَلَى ٱلۡأَرۡضِ مِنَ ٱلۡكَٰفِرِينَ دَيَّارًا",
+  "translation": "Und Nuh sagte: Mein Herr, lasse auf der Erde von den Ungläubigen nicht einen einzigen Bewohner.",
+  "footnotes": null
 }

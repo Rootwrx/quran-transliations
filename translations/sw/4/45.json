@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "538",
-    "sura": "4",
-    "aya": "45",
-    "arabic_text": "وَٱللَّهُ أَعۡلَمُ بِأَعۡدَآئِكُمۡۚ وَكَفَىٰ بِٱللَّهِ وَلِيّٗا وَكَفَىٰ بِٱللَّهِ نَصِيرٗا",
-    "translation": "Na Mwenyezi Mungu anawajua vyema maadui zenu. Na Mwenyezi Mungu anatosha kuwa ni Mlinzi, na anatosha kuwa ni Mwenye kukunusuruni.",
-    "footnotes": "Na Mwenyezi Mungu ni Mjuzi zaidi kuliko nyinyi kuwajua maadui zenu wa kweli, na anatambua zaidi yaliyo ndani ya nafsi zao. Ulinzi wa Mwenyezi Mungu unakulindeni, na unakuangalieni, na unakutosheni. Basi msitafute ulinzi wa mwenginewe usio kuwa wake. Msaada na nusura yake inakutoshelezeni; basi msiwe kutaka msaada wa mwenginewe."
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 86,
+  "verse_key": "4:45",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ أَعۡلَمُ بِأَعۡدَآئِكُمۡۚ وَكَفَىٰ بِٱللَّهِ وَلِيّٗا وَكَفَىٰ بِٱللَّهِ نَصِيرٗا",
+  "translation": "Na Mwenyezi Mungu anawajua vyema maadui zenu. Na Mwenyezi Mungu anatosha kuwa ni Mlinzi, na anatosha kuwa ni Mwenye kukunusuruni.",
+  "footnotes": "Na Mwenyezi Mungu ni Mjuzi zaidi kuliko nyinyi kuwajua maadui zenu wa kweli, na anatambua zaidi yaliyo ndani ya nafsi zao. Ulinzi wa Mwenyezi Mungu unakulindeni, na unakuangalieni, na unakutosheni. Basi msitafute ulinzi wa mwenginewe usio kuwa wake. Msaada na nusura yake inakutoshelezeni; basi msiwe kutaka msaada wa mwenginewe."
 }

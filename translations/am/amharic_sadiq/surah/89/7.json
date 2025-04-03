@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6000",
-    "sura": "89",
-    "aya": "7",
-    "arabic_text": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
-    "translation": "በኢረም በባለ ረዣዢሚቱ አዕማድ፡፡",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 593,
+  "verse_key": "89:7",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِرَمَ ذَاتِ ٱلۡعِمَادِ",
+  "translation": "በኢረም በባለ ረዣዢሚቱ አዕማድ፡፡",
+  "footnotes": ""
 }

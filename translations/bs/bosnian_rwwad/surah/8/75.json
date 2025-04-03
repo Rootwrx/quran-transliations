@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1235",
-    "sura": "8",
-    "aya": "75",
-    "arabic_text": "وَٱلَّذِينَ ءَامَنُواْ مِنۢ بَعۡدُ وَهَاجَرُواْ وَجَٰهَدُواْ مَعَكُمۡ فَأُوْلَٰٓئِكَ مِنكُمۡۚ وَأُوْلُواْ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضٖ فِي كِتَٰبِ ٱللَّهِۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمُۢ",
-    "translation": "A oni koji kasnije vjernici postanu pa se isele i u borbi zajedno s vama sudjeluju – i oni su vaši. A rođaci su, prema Allahovoj Knjizi, jedni drugima preči. Allah, zaista, sve zna.",
-    "footnotes": ""
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 186,
+  "verse_key": "8:75",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ ءَامَنُواْ مِنۢ بَعۡدُ وَهَاجَرُواْ وَجَٰهَدُواْ مَعَكُمۡ فَأُوْلَٰٓئِكَ مِنكُمۡۚ وَأُوْلُواْ ٱلۡأَرۡحَامِ بَعۡضُهُمۡ أَوۡلَىٰ بِبَعۡضٖ فِي كِتَٰبِ ٱللَّهِۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمُۢ",
+  "translation": "A oni koji kasnije vjernici postanu pa se isele i u borbi zajedno s vama sudjeluju – i oni su vaši. A rođaci su, prema Allahovoj Knjizi, jedni drugima preči. Allah, zaista, sve zna.",
+  "footnotes": ""
 }

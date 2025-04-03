@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5234",
-    "sura": "66",
-    "aya": "5",
-    "arabic_text": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرٗا مِّنكُنَّ مُسۡلِمَٰتٖ مُّؤۡمِنَٰتٖ قَٰنِتَٰتٖ تَٰٓئِبَٰتٍ عَٰبِدَٰتٖ سَٰٓئِحَٰتٖ ثَيِّبَٰتٖ وَأَبۡكَارٗا",
-    "translation": "5. Waa intaasoo, Rabbigi, hadduu (Nabigu) idin furo, siiyo beddelkiin xaasas idinka khayr badan, muslimooyin ah, mu’minooyin, daacad, soo noqosho iyo toobad keen badan, caabidooyin, soomanooyin3, leh garoobbo iyo gabdhaba bikrooyin ah.",
-    "footnotes": "3. Saa’ixaat waxaa lagu fasiray soomanooyin. Waxaa sidoo kale lagu fasiray kuwa u socda  khayrka iyo fidinta diinta Ilaahay (Islaamka)."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 560,
+  "verse_key": "66:5",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرٗا مِّنكُنَّ مُسۡلِمَٰتٖ مُّؤۡمِنَٰتٖ قَٰنِتَٰتٖ تَٰٓئِبَٰتٍ عَٰبِدَٰتٖ سَٰٓئِحَٰتٖ ثَيِّبَٰتٖ وَأَبۡكَارٗا",
+  "translation": "5. Waa intaasoo, Rabbigi, hadduu (Nabigu) idin furo, siiyo beddelkiin xaasas idinka khayr badan, muslimooyin ah, mu’minooyin, daacad, soo noqosho iyo toobad keen badan, caabidooyin, soomanooyin3, leh garoobbo iyo gabdhaba bikrooyin ah.",
+  "footnotes": "3. Saa’ixaat waxaa lagu fasiray soomanooyin. Waxaa sidoo kale lagu fasiray kuwa u socda  khayrka iyo fidinta diinta Ilaahay (Islaamka)."
 }

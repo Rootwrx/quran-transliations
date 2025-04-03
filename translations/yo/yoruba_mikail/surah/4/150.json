@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "643",
-    "sura": "4",
-    "aya": "150",
-    "arabic_text": "إِنَّ ٱلَّذِينَ يَكۡفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُواْ بَيۡنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤۡمِنُ بِبَعۡضٖ وَنَكۡفُرُ بِبَعۡضٖ وَيُرِيدُونَ أَن يَتَّخِذُواْ بَيۡنَ ذَٰلِكَ سَبِيلًا",
-    "translation": "Dájúdájú àwọn tó ń ṣàì gbàgbọ́ nínú Allāhu àti àwọn Òjíṣẹ́ Rẹ̀, wọ́n sì fẹ́ máa ṣòpínyà láààrin Allāhu àti àwọn Òjíṣẹ́ Rẹ̀, wọ́n sì ń wí pé: “A gbàgbọ́ nínú apá kan, a sì ṣàì gbàgbọ́ nínú apá kan,” wọ́n sì fẹ́ mú ọ̀nà kan tọ̀ (lẹ́sìn) láààrin ìyẹn.",
-    "footnotes": ""
-  }
+  "id": 150,
+  "verse_number": 150,
+  "page_number": 102,
+  "verse_key": "4:150",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ يَكۡفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُواْ بَيۡنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤۡمِنُ بِبَعۡضٖ وَنَكۡفُرُ بِبَعۡضٖ وَيُرِيدُونَ أَن يَتَّخِذُواْ بَيۡنَ ذَٰلِكَ سَبِيلًا",
+  "translation": "Dájúdájú àwọn tó ń ṣàì gbàgbọ́ nínú Allāhu àti àwọn Òjíṣẹ́ Rẹ̀, wọ́n sì fẹ́ máa ṣòpínyà láààrin Allāhu àti àwọn Òjíṣẹ́ Rẹ̀, wọ́n sì ń wí pé: “A gbàgbọ́ nínú apá kan, a sì ṣàì gbàgbọ́ nínú apá kan,” wọ́n sì fẹ́ mú ọ̀nà kan tọ̀ (lẹ́sìn) láààrin ìyẹn.",
+  "footnotes": ""
 }

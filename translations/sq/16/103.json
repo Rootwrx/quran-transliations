@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2004",
-    "sura": "16",
-    "aya": "103",
-    "arabic_text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
-    "translation": "Ne e dimë mirë që ata[169] thonë: “Atë[170] e mëson një njeri”! Por ai për të cilin flasin, flet në gjuhën e të huajve, kurse ky (Kurani) është në gjuhën e qartë arabe.[171]",
-    "footnotes": "[169] Paganët e Mekës.\n[170] Muhamedin (a.s.).\n[171] Sipas komentuesve të Kuranit, ky varg bën fjalë për një skllav të krishterë që jetonte në Mekë e të cilit Profeti Muhamed (a.s.) i fliste herë pas here. Për këtë arsye, paganët e Mekës thoshin se ishte ky skllav që ia mësonte Muhamedit (a.s.) Kuranin. Mirëpo ai ishte i huaj dhe nuk dinte mirë arabisht, prandaj nuk kishte mundësi që t’i mësonte Profetit (a.s.) Kuranin, që është në gjuhë arabe të kulluar."
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 279,
+  "verse_key": "16:103",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
+  "translation": "Ne e dimë mirë që ata[169] thonë: “Atë[170] e mëson një njeri”! Por ai për të cilin flasin, flet në gjuhën e të huajve, kurse ky (Kurani) është në gjuhën e qartë arabe.[171]",
+  "footnotes": "[169] Paganët e Mekës.\n[170] Muhamedin (a.s.).\n[171] Sipas komentuesve të Kuranit, ky varg bën fjalë për një skllav të krishterë që jetonte në Mekë e të cilit Profeti Muhamed (a.s.) i fliste herë pas here. Për këtë arsye, paganët e Mekës thoshin se ishte ky skllav që ia mësonte Muhamedit (a.s.) Kuranin. Mirëpo ai ishte i huaj dhe nuk dinte mirë arabisht, prandaj nuk kishte mundësi që t’i mësonte Profetit (a.s.) Kuranin, që është në gjuhë arabe të kulluar."
 }

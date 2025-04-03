@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3162",
-    "sura": "27",
-    "aya": "3",
-    "arabic_text": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلۡأٓخِرَةِ هُمۡ يُوقِنُونَ",
-    "translation": "ceux qui accomplissent la prière (As-Salât), acquittent l’aumône (Az-Zakât) et croient avec certitude en l’au-delà.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 377,
+  "verse_key": "27:3",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلۡأٓخِرَةِ هُمۡ يُوقِنُونَ",
+  "translation": "ceux qui accomplissent la prière (As-Salât), acquittent l’aumône (Az-Zakât) et croient avec certitude en l’au-delà.",
+  "footnotes": ""
 }

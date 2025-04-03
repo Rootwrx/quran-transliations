@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1869",
-    "sura": "15",
-    "aya": "67",
-    "arabic_text": "وَجَآءَ أَهۡلُ ٱلۡمَدِينَةِ يَسۡتَبۡشِرُونَ",
-    "translation": " 67. And the inhabitants of the city came rejoicing (at the news of the young men’s arrival).",
-    "footnotes": ""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 265,
+  "verse_key": "15:67",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَآءَ أَهۡلُ ٱلۡمَدِينَةِ يَسۡتَبۡشِرُونَ",
+  "translation": " 67. And the inhabitants of the city came rejoicing (at the news of the young men’s arrival).",
+  "footnotes": ""
 }

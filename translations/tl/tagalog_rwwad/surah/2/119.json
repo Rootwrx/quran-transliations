@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "126",
-    "sura": "2",
-    "aya": "119",
-    "arabic_text": "إِنَّآ أَرۡسَلۡنَٰكَ بِٱلۡحَقِّ بَشِيرٗا وَنَذِيرٗاۖ وَلَا تُسۡـَٔلُ عَنۡ أَصۡحَٰبِ ٱلۡجَحِيمِ",
-    "translation": "Tunay na Kami ay nagsugo sa iyo [O Propeta Muḥammad] kalakip ng katotohanan bilang mapagbalita ng nakagagalak [hinggil sa Paraiso] at bilang mapagbabala [hinggil sa Impiyerno]. Hindi ka tatanungin tungkol sa mga maninirahan sa Impiyerno.",
-    "footnotes": ""
-  }
+  "id": 119,
+  "verse_number": 119,
+  "page_number": 18,
+  "verse_key": "2:119",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَرۡسَلۡنَٰكَ بِٱلۡحَقِّ بَشِيرٗا وَنَذِيرٗاۖ وَلَا تُسۡـَٔلُ عَنۡ أَصۡحَٰبِ ٱلۡجَحِيمِ",
+  "translation": "Tunay na Kami ay nagsugo sa iyo [O Propeta Muḥammad] kalakip ng katotohanan bilang mapagbalita ng nakagagalak [hinggil sa Paraiso] at bilang mapagbabala [hinggil sa Impiyerno]. Hindi ka tatanungin tungkol sa mga maninirahan sa Impiyerno.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1761",
-    "sura": "14",
-    "aya": "11",
-    "arabic_text": "قَالَتۡ لَهُمۡ رُسُلُهُمۡ إِن نَّحۡنُ إِلَّا بَشَرٞ مِّثۡلُكُمۡ وَلَٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ وَمَا كَانَ لَنَآ أَن نَّأۡتِيَكُم بِسُلۡطَٰنٍ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
-    "translation": "Mitume wao wakawaambia: Sisi kweli si chochote ila ni wanaadamu kama nyinyi. Lakini Mwenyezi Mungu humfanyia hisani amtakaye katika waja wake. Wala sisi hatuwezi kuleta uthibitisho ila kwa idhini ya Mwenyezi Mungu. Na juu ya Mwenyezi Mungu ndio wategemee Waumini.",
-    "footnotes": "Mitume wao wakawaambia: Sisi si chochote ila ni watu kama nyinyi, kama mlivyo sema. Walakini Mwenyezi Mungu huwateua awatakaye miongoni mwa waja wake akawapa Unabii na Utume. Wala hatuna sisi uwezo wa kukuleteeni hoja mnayo taka ila Mwenyezi Mungu apendavyo. Na ni juu ya Mwenyezi Mungu tu peke yake ndio wategemee Waumini, na wamtegemee kwa kustahamilia inda zenu na upinzani wenu."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 257,
+  "verse_key": "14:11",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ لَهُمۡ رُسُلُهُمۡ إِن نَّحۡنُ إِلَّا بَشَرٞ مِّثۡلُكُمۡ وَلَٰكِنَّ ٱللَّهَ يَمُنُّ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ وَمَا كَانَ لَنَآ أَن نَّأۡتِيَكُم بِسُلۡطَٰنٍ إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
+  "translation": "Mitume wao wakawaambia: Sisi kweli si chochote ila ni wanaadamu kama nyinyi. Lakini Mwenyezi Mungu humfanyia hisani amtakaye katika waja wake. Wala sisi hatuwezi kuleta uthibitisho ila kwa idhini ya Mwenyezi Mungu. Na juu ya Mwenyezi Mungu ndio wategemee Waumini.",
+  "footnotes": "Mitume wao wakawaambia: Sisi si chochote ila ni watu kama nyinyi, kama mlivyo sema. Walakini Mwenyezi Mungu huwateua awatakaye miongoni mwa waja wake akawapa Unabii na Utume. Wala hatuna sisi uwezo wa kukuleteeni hoja mnayo taka ila Mwenyezi Mungu apendavyo. Na ni juu ya Mwenyezi Mungu tu peke yake ndio wategemee Waumini, na wamtegemee kwa kustahamilia inda zenu na upinzani wenu."
 }

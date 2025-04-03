@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2594",
-    "sura": "21",
-    "aya": "111",
-    "arabic_text": "وَإِنۡ أَدۡرِي لَعَلَّهُۥ فِتۡنَةٞ لَّكُمۡ وَمَتَٰعٌ إِلَىٰ حِينٖ",
-    "translation": "I do not know; perhaps this [delay][48] is a test for you[49] and an enjoyment for a while.”",
-    "footnotes": "[48] i.e., this postponement of punishment.\n [49] To increase sin."
-  }
+  "id": 111,
+  "verse_number": 111,
+  "page_number": 331,
+  "verse_key": "21:111",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنۡ أَدۡرِي لَعَلَّهُۥ فِتۡنَةٞ لَّكُمۡ وَمَتَٰعٌ إِلَىٰ حِينٖ",
+  "translation": "I do not know; perhaps this [delay][48] is a test for you[49] and an enjoyment for a while.”",
+  "footnotes": "[48] i.e., this postponement of punishment.\n [49] To increase sin."
 }

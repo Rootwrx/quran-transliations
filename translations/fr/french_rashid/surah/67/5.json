@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5246",
-    "sura": "67",
-    "aya": "5",
-    "arabic_text": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ",
-    "translation": "5 Nous avons, en vérité, paré le ciel le plus proche d’astres lumineux dont Nous foudroyons les démons[1460] auxquels Nous avons préparé le châtiment du Brasier.",
-    "footnotes": "[1460] Empêchés - par les météores qui se détachent de ces astres, précisent certains exégètes - d’écouter la Révélation."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 562,
+  "verse_key": "67:5",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ",
+  "translation": "5 Nous avons, en vérité, paré le ciel le plus proche d’astres lumineux dont Nous foudroyons les démons[1460] auxquels Nous avons préparé le châtiment du Brasier.",
+  "footnotes": "[1460] Empêchés - par les météores qui se détachent de ces astres, précisent certains exégètes - d’écouter la Révélation."
 }

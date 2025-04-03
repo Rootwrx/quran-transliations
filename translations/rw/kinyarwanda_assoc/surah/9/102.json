@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1337",
-    "sura": "9",
-    "aya": "102",
-    "arabic_text": "وَءَاخَرُونَ ٱعۡتَرَفُواْ بِذُنُوبِهِمۡ خَلَطُواْ عَمَلٗا صَٰلِحٗا وَءَاخَرَ سَيِّئًا عَسَى ٱللَّهُ أَن يَتُوبَ عَلَيۡهِمۡۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
-    "translation": "Hari n’abandi bemeye ibyaha byabo, bavanze ibikorwa byiza (kwicuza no gusaba imbabazi) n’ibibi (kutajya ku rugamba). Hari ubwo Allah yazakira ukwicuza kwabo. Mu by’ukuri Allah ni Ubabarira ibyaha, Nyirimpuhwe.",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 203,
+  "verse_key": "9:102",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 81,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاخَرُونَ ٱعۡتَرَفُواْ بِذُنُوبِهِمۡ خَلَطُواْ عَمَلٗا صَٰلِحٗا وَءَاخَرَ سَيِّئًا عَسَى ٱللَّهُ أَن يَتُوبَ عَلَيۡهِمۡۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+  "translation": "Hari n’abandi bemeye ibyaha byabo, bavanze ibikorwa byiza (kwicuza no gusaba imbabazi) n’ibibi (kutajya ku rugamba). Hari ubwo Allah yazakira ukwicuza kwabo. Mu by’ukuri Allah ni Ubabarira ibyaha, Nyirimpuhwe.",
+  "footnotes": ""
 }

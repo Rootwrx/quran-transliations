@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4550",
-    "sura": "47",
-    "aya": "5",
-    "arabic_text": "سَيَهۡدِيهِمۡ وَيُصۡلِحُ بَالَهُمۡ",
-    "translation": "Ngài sẽ hướng dẫn họ và cải thiện tình trạng của họ.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 507,
+  "verse_key": "47:5",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَهۡدِيهِمۡ وَيُصۡلِحُ بَالَهُمۡ",
+  "translation": "Ngài sẽ hướng dẫn họ và cải thiện tình trạng của họ.",
+  "footnotes": ""
 }

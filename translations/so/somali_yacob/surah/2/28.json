@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "35",
-    "sura": "2",
-    "aya": "28",
-    "arabic_text": "كَيۡفَ تَكۡفُرُونَ بِٱللَّهِ وَكُنتُمۡ أَمۡوَٰتٗا فَأَحۡيَٰكُمۡۖ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡ ثُمَّ إِلَيۡهِ تُرۡجَعُونَ",
-    "translation": "28.Sidee baad (dadow) ugu gaaloobeysaan Alle idinkoo ahaa meyti (ku jira uurarka hooyooyinkiin) buu markaa idin nooleeyey (naf idin galiyey), dabadadeed idin dhinsiin, dabadeedna idin soo nooleyn mar kale (Aakhirada), kaddibna Xaggiisa la idiin soo celin (Qiyaamada).",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 5,
+  "verse_key": "2:28",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَيۡفَ تَكۡفُرُونَ بِٱللَّهِ وَكُنتُمۡ أَمۡوَٰتٗا فَأَحۡيَٰكُمۡۖ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡ ثُمَّ إِلَيۡهِ تُرۡجَعُونَ",
+  "translation": "28.Sidee baad (dadow) ugu gaaloobeysaan Alle idinkoo ahaa meyti (ku jira uurarka hooyooyinkiin) buu markaa idin nooleeyey (naf idin galiyey), dabadadeed idin dhinsiin, dabadeedna idin soo nooleyn mar kale (Aakhirada), kaddibna Xaggiisa la idiin soo celin (Qiyaamada).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4178",
-    "sura": "40",
-    "aya": "45",
-    "arabic_text": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُواْۖ وَحَاقَ بِـَٔالِ فِرۡعَوۡنَ سُوٓءُ ٱلۡعَذَابِ",
-    "translation": "So bewahrte Allah ihn vor den Bosheiten dessen, was sie an Ränken geschmiedet hatten, und die Leute Fir’auns umschloß die böse Strafe,",
-    "footnotes": null
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 472,
+  "verse_key": "40:45",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَقَىٰهُ ٱللَّهُ سَيِّـَٔاتِ مَا مَكَرُواْۖ وَحَاقَ بِـَٔالِ فِرۡعَوۡنَ سُوٓءُ ٱلۡعَذَابِ",
+  "translation": "So bewahrte Allah ihn vor den Bosheiten dessen, was sie an Ränken geschmiedet hatten, und die Leute Fir’auns umschloß die böse Strafe,",
+  "footnotes": null
 }

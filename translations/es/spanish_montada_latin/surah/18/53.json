@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2193",
-    "sura": "18",
-    "aya": "53",
-    "arabic_text": "وَرَءَا ٱلۡمُجۡرِمُونَ ٱلنَّارَ فَظَنُّوٓاْ أَنَّهُم مُّوَاقِعُوهَا وَلَمۡ يَجِدُواْ عَنۡهَا مَصۡرِفٗا",
-    "translation": "53. Y los pecadores idólatras verán el fuego y tendrán la certeza de que serán arrojados a él, y no encontrarán ninguna escapatoria.",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 299,
+  "verse_key": "18:53",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَرَءَا ٱلۡمُجۡرِمُونَ ٱلنَّارَ فَظَنُّوٓاْ أَنَّهُم مُّوَاقِعُوهَا وَلَمۡ يَجِدُواْ عَنۡهَا مَصۡرِفٗا",
+  "translation": "53. Y los pecadores idólatras verán el fuego y tendrán la certeza de que serán arrojados a él, y no encontrarán ninguna escapatoria.",
+  "footnotes": ""
 }

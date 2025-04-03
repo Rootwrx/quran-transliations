@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1881",
-    "sura": "15",
-    "aya": "79",
-    "arabic_text": "فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامٖ مُّبِينٖ",
-    "translation": "79. Taigi, atkeršijome jiems. Jie abu yra pagrindiniame kelyje, aiškiai matomi.",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 266,
+  "verse_key": "15:79",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامٖ مُّبِينٖ",
+  "translation": "79. Taigi, atkeršijome jiems. Jie abu yra pagrindiniame kelyje, aiškiai matomi.",
+  "footnotes": ""
 }

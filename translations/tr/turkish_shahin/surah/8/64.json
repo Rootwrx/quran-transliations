@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1224",
-    "sura": "8",
-    "aya": "64",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَسۡبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِينَ",
-    "translation": "Ey Peygamber! Sana ve sana uyan müminlere Allah yeter.",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 185,
+  "verse_key": "8:64",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَسۡبُكَ ٱللَّهُ وَمَنِ ٱتَّبَعَكَ مِنَ ٱلۡمُؤۡمِنِينَ",
+  "translation": "Ey Peygamber! Sana ve sana uyan müminlere Allah yeter.",
+  "footnotes": ""
 }

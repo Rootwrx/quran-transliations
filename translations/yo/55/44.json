@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4945",
-    "sura": "55",
-    "aya": "44",
-    "arabic_text": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ",
-    "translation": "Wọn yóò máa rìn lọ rìn bọ̀ láààrin Iná àti omi tó gbóná parí.[1]",
-    "footnotes": "1. Ìyẹn ni pé, nínú Iná, yàtọ̀ sí pé oríṣiríṣi omi burúkú l’ó wà nínú rẹ̀ bíi omi tó gbóná parí, omi rẹ́funrẹ́fun, omi ètútú, omi àwọnúwẹ̀jẹ̀, àwọn omi wọ̀nyí máa wà nínú ọ̀gbun kan fún àwọn ọmọ Iná nínú Iná, bí Iná bá ti ń jó wọn, bẹ́ẹ̀ náà ni wọ́n á lọ máa mu omi ìmukúmu wọ̀nyí sí i, wọ́n á tún padà síbi Iná, wọ́n á tún padà síbi omi, wọ́n á tún padà síbi Ina. Wọ́n á wà bẹ́ẹ̀ títí láéláé."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 533,
+  "verse_key": "55:44",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَطُوفُونَ بَيۡنَهَا وَبَيۡنَ حَمِيمٍ ءَانٖ",
+  "translation": "Wọn yóò máa rìn lọ rìn bọ̀ láààrin Iná àti omi tó gbóná parí.[1]",
+  "footnotes": "1. Ìyẹn ni pé, nínú Iná, yàtọ̀ sí pé oríṣiríṣi omi burúkú l’ó wà nínú rẹ̀ bíi omi tó gbóná parí, omi rẹ́funrẹ́fun, omi ètútú, omi àwọnúwẹ̀jẹ̀, àwọn omi wọ̀nyí máa wà nínú ọ̀gbun kan fún àwọn ọmọ Iná nínú Iná, bí Iná bá ti ń jó wọn, bẹ́ẹ̀ náà ni wọ́n á lọ máa mu omi ìmukúmu wọ̀nyí sí i, wọ́n á tún padà síbi Iná, wọ́n á tún padà síbi omi, wọ́n á tún padà síbi Ina. Wọ́n á wà bẹ́ẹ̀ títí láéláé."
 }

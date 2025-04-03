@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3163",
-    "sura": "27",
-    "aya": "4",
-    "arabic_text": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ زَيَّنَّا لَهُمۡ أَعۡمَٰلَهُمۡ فَهُمۡ يَعۡمَهُونَ",
-    "translation": "Şüphesiz biz, ahirete inanmayanların işlerini kendilerine süslü gösterdik; o yüzden bocalar dururlar.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 377,
+  "verse_key": "27:4",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ زَيَّنَّا لَهُمۡ أَعۡمَٰلَهُمۡ فَهُمۡ يَعۡمَهُونَ",
+  "translation": "Şüphesiz biz, ahirete inanmayanların işlerini kendilerine süslü gösterdik; o yüzden bocalar dururlar.",
+  "footnotes": ""
 }

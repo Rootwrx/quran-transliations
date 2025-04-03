@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "35",
-    "sura": "2",
-    "aya": "28",
-    "arabic_text": "كَيۡفَ تَكۡفُرُونَ بِٱللَّهِ وَكُنتُمۡ أَمۡوَٰتٗا فَأَحۡيَٰكُمۡۖ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡ ثُمَّ إِلَيۡهِ تُرۡجَعُونَ",
-    "translation": "28. Comment mécroyez-vous en Allah alors que vous étiez morts et qu’Il vous a donné la vie ? Puis Il vous fera mourir, puis vous fera revivre, puis à Lui vous serez ramenés.[16]",
-    "footnotes": "[16] Nous avons préféré l’emploi du passif, plus fidèle à l’expression coranique : إليه ترجعون."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 5,
+  "verse_key": "2:28",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَيۡفَ تَكۡفُرُونَ بِٱللَّهِ وَكُنتُمۡ أَمۡوَٰتٗا فَأَحۡيَٰكُمۡۖ ثُمَّ يُمِيتُكُمۡ ثُمَّ يُحۡيِيكُمۡ ثُمَّ إِلَيۡهِ تُرۡجَعُونَ",
+  "translation": "28. Comment mécroyez-vous en Allah alors que vous étiez morts et qu’Il vous a donné la vie ? Puis Il vous fera mourir, puis vous fera revivre, puis à Lui vous serez ramenés.[16]",
+  "footnotes": "[16] Nous avons préféré l’emploi du passif, plus fidèle à l’expression coranique : إليه ترجعون."
 }

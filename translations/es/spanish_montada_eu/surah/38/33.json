@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4003",
-    "sura": "38",
-    "aya": "33",
-    "arabic_text": "رُدُّوهَا عَلَيَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ",
-    "translation": "33. Entonces dijo: «¡Traédmelos de nuevo!». Y pasó la mano (o la espada)[862] por sus patas y cuellos.",
-    "footnotes": "[862]  Hay dos interpretaciones principales acerca del significado de esta aleya. La primera es que Salomón sacrificó los corceles con la espada buscando la complacencia de Al-lah, a pesar del amor que sentía por ellos, porque le hicieron olvidar sus oraciones y no quería que esto volviera a sucederle; y Al-lah compensó dicho sacrificio que había hecho por Él sometiendo el viento a su voluntad. La otra posible interpretación es que Salomón acarició las patas y los cuellos de los corceles cuando volvieron a traérselos."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 455,
+  "verse_key": "38:33",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رُدُّوهَا عَلَيَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ",
+  "translation": "33. Entonces dijo: «¡Traédmelos de nuevo!». Y pasó la mano (o la espada)[862] por sus patas y cuellos.",
+  "footnotes": "[862]  Hay dos interpretaciones principales acerca del significado de esta aleya. La primera es que Salomón sacrificó los corceles con la espada buscando la complacencia de Al-lah, a pesar del amor que sentía por ellos, porque le hicieron olvidar sus oraciones y no quería que esto volviera a sucederle; y Al-lah compensó dicho sacrificio que había hecho por Él sometiendo el viento a su voluntad. La otra posible interpretación es que Salomón acarició las patas y los cuellos de los corceles cuando volvieron a traérselos."
 }

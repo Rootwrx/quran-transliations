@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5491",
-    "sura": "73",
-    "aya": "16",
-    "arabic_text": "فَعَصَىٰ فِرۡعَوۡنُ ٱلرَّسُولَ فَأَخَذۡنَٰهُ أَخۡذٗا وَبِيلٗا",
-    "translation": "16 qui, pour avoir désobéi à Notre Messager, fut violemment saisi par Notre châtiment.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 574,
+  "verse_key": "73:16",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَعَصَىٰ فِرۡعَوۡنُ ٱلرَّسُولَ فَأَخَذۡنَٰهُ أَخۡذٗا وَبِيلٗا",
+  "translation": "16 qui, pour avoir désobéi à Notre Messager, fut violemment saisi par Notre châtiment.",
+  "footnotes": ""
 }

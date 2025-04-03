@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5322",
-    "sura": "68",
-    "aya": "51",
-    "arabic_text": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُواْ لَيُزۡلِقُونَكَ بِأَبۡصَٰرِهِمۡ لَمَّا سَمِعُواْ ٱلذِّكۡرَ وَيَقُولُونَ إِنَّهُۥ لَمَجۡنُونٞ",
-    "translation": "51. Kuwaa gaalada ahise waxay sigaan inay kugu gubaan indhahooda (dhabatoda) naceyb gala awgiis markay maqlaan Waanada (Qur’aankan); waxayna yidhaahdaan: Kani waa jinnoole.",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 566,
+  "verse_key": "68:51",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يَكَادُ ٱلَّذِينَ كَفَرُواْ لَيُزۡلِقُونَكَ بِأَبۡصَٰرِهِمۡ لَمَّا سَمِعُواْ ٱلذِّكۡرَ وَيَقُولُونَ إِنَّهُۥ لَمَجۡنُونٞ",
+  "translation": "51. Kuwaa gaalada ahise waxay sigaan inay kugu gubaan indhahooda (dhabatoda) naceyb gala awgiis markay maqlaan Waanada (Qur’aankan); waxayna yidhaahdaan: Kani waa jinnoole.",
+  "footnotes": ""
 }

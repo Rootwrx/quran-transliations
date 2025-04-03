@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4718",
-    "sura": "51",
-    "aya": "43",
-    "arabic_text": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ",
-    "translation": "サムード*にも（、われら*は御徴を残した）。彼らに「暫くの間、楽しんでいいるがよい」と言われた時のこと。",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 522,
+  "verse_key": "51:43",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفِي ثَمُودَ إِذۡ قِيلَ لَهُمۡ تَمَتَّعُواْ حَتَّىٰ حِينٖ",
+  "translation": "サムード*にも（、われら*は御徴を残した）。彼らに「暫くの間、楽しんでいいるがよい」と言われた時のこと。",
+  "footnotes": ""
 }

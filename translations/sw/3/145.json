@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "438",
-    "sura": "3",
-    "aya": "145",
-    "arabic_text": "وَمَا كَانَ لِنَفۡسٍ أَن تَمُوتَ إِلَّا بِإِذۡنِ ٱللَّهِ كِتَٰبٗا مُّؤَجَّلٗاۗ وَمَن يُرِدۡ ثَوَابَ ٱلدُّنۡيَا نُؤۡتِهِۦ مِنۡهَا وَمَن يُرِدۡ ثَوَابَ ٱلۡأٓخِرَةِ نُؤۡتِهِۦ مِنۡهَاۚ وَسَنَجۡزِي ٱلشَّٰكِرِينَ",
-    "translation": "Na haiwezi nafsi kuwa ife ila kwa idhini ya Mwenyezi Mungu kama ilivyo andikwa ajali yake. Na mwenye kutaka malipo ya duniani tutampa; na mwenye kutaka malipo ya Akhera tutampa. Na tutawalipa wenye kushukuru.",
-    "footnotes": "Hayumkini mtu kufa ila kwa idhini ya Mwenyezi Mungu. Naye amekwisha viandikia viumbe ajali yao. Na atakaye starehe ya dunia Mwenyezi Mungu atampa, na atakaye malipo ya Akhera atayapata. Na Mwenyezi Mungu atawalipa wanao shukuru neema yake wakamt'ii kwa aliyo waamrisha ikiwa ni kupigana Jihadi au mengineyo."
-  }
+  "id": 145,
+  "verse_number": 145,
+  "page_number": 68,
+  "verse_key": "3:145",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ لِنَفۡسٍ أَن تَمُوتَ إِلَّا بِإِذۡنِ ٱللَّهِ كِتَٰبٗا مُّؤَجَّلٗاۗ وَمَن يُرِدۡ ثَوَابَ ٱلدُّنۡيَا نُؤۡتِهِۦ مِنۡهَا وَمَن يُرِدۡ ثَوَابَ ٱلۡأٓخِرَةِ نُؤۡتِهِۦ مِنۡهَاۚ وَسَنَجۡزِي ٱلشَّٰكِرِينَ",
+  "translation": "Na haiwezi nafsi kuwa ife ila kwa idhini ya Mwenyezi Mungu kama ilivyo andikwa ajali yake. Na mwenye kutaka malipo ya duniani tutampa; na mwenye kutaka malipo ya Akhera tutampa. Na tutawalipa wenye kushukuru.",
+  "footnotes": "Hayumkini mtu kufa ila kwa idhini ya Mwenyezi Mungu. Naye amekwisha viandikia viumbe ajali yao. Na atakaye starehe ya dunia Mwenyezi Mungu atampa, na atakaye malipo ya Akhera atayapata. Na Mwenyezi Mungu atawalipa wanao shukuru neema yake wakamt'ii kwa aliyo waamrisha ikiwa ni kupigana Jihadi au mengineyo."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3637",
-    "sura": "34",
-    "aya": "31",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَن نُّؤۡمِنَ بِهَٰذَا ٱلۡقُرۡءَانِ وَلَا بِٱلَّذِي بَيۡنَ يَدَيۡهِۗ وَلَوۡ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ مَوۡقُوفُونَ عِندَ رَبِّهِمۡ يَرۡجِعُ بَعۡضُهُمۡ إِلَىٰ بَعۡضٍ ٱلۡقَوۡلَ يَقُولُ ٱلَّذِينَ ٱسۡتُضۡعِفُواْ لِلَّذِينَ ٱسۡتَكۡبَرُواْ لَوۡلَآ أَنتُمۡ لَكُنَّا مُؤۡمِنِينَ",
-    "translation": "Lɑ sẽn kɩfl-bã yeelɑme: \"tõnd kɑ nɑ n kõ sɩd ne karen-kãngã lɑ sẽn deng ɑ tɑoorã ye, lɑ tɩ sã n dɑ be yãab tɩ fo nɑ n yã wẽgdbã tɩ b yɑls-b b Soɑbã nengẽ tɩ b leebd tɑɑb ne goɑm tɩ vɑlemsã yet sẽn mɑɑn-b wɑoog-m-mengã: \"sã n kɑ yãmb yĩngɑ tõnd rɑ yɩtẽ-lɑ sɩd-kõɑtbɑ\".",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 431,
+  "verse_key": "34:31",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَن نُّؤۡمِنَ بِهَٰذَا ٱلۡقُرۡءَانِ وَلَا بِٱلَّذِي بَيۡنَ يَدَيۡهِۗ وَلَوۡ تَرَىٰٓ إِذِ ٱلظَّٰلِمُونَ مَوۡقُوفُونَ عِندَ رَبِّهِمۡ يَرۡجِعُ بَعۡضُهُمۡ إِلَىٰ بَعۡضٍ ٱلۡقَوۡلَ يَقُولُ ٱلَّذِينَ ٱسۡتُضۡعِفُواْ لِلَّذِينَ ٱسۡتَكۡبَرُواْ لَوۡلَآ أَنتُمۡ لَكُنَّا مُؤۡمِنِينَ",
+  "translation": "Lɑ sẽn kɩfl-bã yeelɑme: \"tõnd kɑ nɑ n kõ sɩd ne karen-kãngã lɑ sẽn deng ɑ tɑoorã ye, lɑ tɩ sã n dɑ be yãab tɩ fo nɑ n yã wẽgdbã tɩ b yɑls-b b Soɑbã nengẽ tɩ b leebd tɑɑb ne goɑm tɩ vɑlemsã yet sẽn mɑɑn-b wɑoog-m-mengã: \"sã n kɑ yãmb yĩngɑ tõnd rɑ yɩtẽ-lɑ sɩd-kõɑtbɑ\".",
+  "footnotes": ""
 }

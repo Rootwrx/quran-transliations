@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2409",
-    "sura": "20",
-    "aya": "61",
-    "arabic_text": "قَالَ لَهُم مُّوسَىٰ وَيۡلَكُمۡ لَا تَفۡتَرُواْ عَلَى ٱللَّهِ كَذِبٗا فَيُسۡحِتَكُم بِعَذَابٖۖ وَقَدۡ خَابَ مَنِ ٱفۡتَرَىٰ",
-    "translation": "Nagsabi sa kanila[3] si Moises: “Kapighatian sa inyo! Huwag kayong gumawa-gawa laban kay Allāh ng isang kasinungalingan sapagkat pupuksa Siya sa inyo sa pamamagitan ng isang pagdurusa. Nabigo nga ang sinumang gumawa-gawa [ng kasinungalingan laban kay Allāh].”",
-    "footnotes": "[3] Ibig sabihin: sa mga manggagaway."
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 315,
+  "verse_key": "20:61",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَهُم مُّوسَىٰ وَيۡلَكُمۡ لَا تَفۡتَرُواْ عَلَى ٱللَّهِ كَذِبٗا فَيُسۡحِتَكُم بِعَذَابٖۖ وَقَدۡ خَابَ مَنِ ٱفۡتَرَىٰ",
+  "translation": "Nagsabi sa kanila[3] si Moises: “Kapighatian sa inyo! Huwag kayong gumawa-gawa laban kay Allāh ng isang kasinungalingan sapagkat pupuksa Siya sa inyo sa pamamagitan ng isang pagdurusa. Nabigo nga ang sinumang gumawa-gawa [ng kasinungalingan laban kay Allāh].”",
+  "footnotes": "[3] Ibig sabihin: sa mga manggagaway."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2516",
-    "sura": "21",
-    "aya": "33",
-    "arabic_text": "وَهُوَ ٱلَّذِي خَلَقَ ٱلَّيۡلَ وَٱلنَّهَارَ وَٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ فِي فَلَكٖ يَسۡبَحُونَ",
-    "translation": "33. Y Él es Quien creó la noche y el día. Y también creó el sol y la luna, y cada uno recorresu propia órbita[603].",
-    "footnotes": "[603]  La teoría geocéntrica del universo pasó a ser heliocéntrica a principios del siglo XVI situando a un sol inmóvil en el centro del universo. A pesar de que las teorías han ido cambiando con el transcurso de los años, el Corán está de acuerdo con la ciencia moderna que afirma que el sol no está inmóvil sino que se desplaza en el universo, viajando a una velocidad de 720.000 km/h en dirección a la estrella Vega, acompañado por los planetas de su sistema solar. Asimismo sigue una órbita llamada Solar Apex en torno al centro de la Galaxia, la cual tampoco está estática, y recorre diariamente, junto con los planetas y satélites de su sistema gravitacional, unos 17.280.000 kilómetros."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 324,
+  "verse_key": "21:33",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِي خَلَقَ ٱلَّيۡلَ وَٱلنَّهَارَ وَٱلشَّمۡسَ وَٱلۡقَمَرَۖ كُلّٞ فِي فَلَكٖ يَسۡبَحُونَ",
+  "translation": "33. Y Él es Quien creó la noche y el día. Y también creó el sol y la luna, y cada uno recorresu propia órbita[603].",
+  "footnotes": "[603]  La teoría geocéntrica del universo pasó a ser heliocéntrica a principios del siglo XVI situando a un sol inmóvil en el centro del universo. A pesar de que las teorías han ido cambiando con el transcurso de los años, el Corán está de acuerdo con la ciencia moderna que afirma que el sol no está inmóvil sino que se desplaza en el universo, viajando a una velocidad de 720.000 km/h en dirección a la estrella Vega, acompañado por los planetas de su sistema solar. Asimismo sigue una órbita llamada Solar Apex en torno al centro de la Galaxia, la cual tampoco está estática, y recorre diariamente, junto con los planetas y satélites de su sistema gravitacional, unos 17.280.000 kilómetros."
 }

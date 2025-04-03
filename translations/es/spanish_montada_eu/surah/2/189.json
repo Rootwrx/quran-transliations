@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "196",
-    "sura": "2",
-    "aya": "189",
-    "arabic_text": "۞ يَسۡـَٔلُونَكَ عَنِ ٱلۡأَهِلَّةِۖ قُلۡ هِيَ مَوَٰقِيتُ لِلنَّاسِ وَٱلۡحَجِّۗ وَلَيۡسَ ٱلۡبِرُّ بِأَن تَأۡتُواْ ٱلۡبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلۡبِرَّ مَنِ ٱتَّقَىٰۗ وَأۡتُواْ ٱلۡبُيُوتَ مِنۡ أَبۡوَٰبِهَاۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
-    "translation": "189. Te preguntan acerca de las lunas crecientes (¡oh, Muhammad!). Diles: «Son señales para que los hombres puedan calcular el tiempo y la fecha de la peregrinación del hajj». Y la piedad no consiste en entrar en las casas por detrás[65], sino que consiste en temer a Al-lah (alejándose de lo que Él prohíbe y obedeciendo Sus mandatos). Entrad, pues, en las casas por sus puertas. Y temed a Al-lah para que podáis triunfar.",
-    "footnotes": "[65]  En la época previa al islam, cuando alguien salía de su casa con la intención de iniciar un viaje y después decidía no viajar, regresaba a su casa escalando el muro de la parte posterior de esta y no entraba por la puerta, pensando que lo que hacía era más piadoso. También se ha relatado que, en general, quienes volvían de un viaje o tras entrar en el estado de consagración (ihram) para realizar la peregrinación del hajj entraban en la casa de la misma manera."
-  }
+  "id": 189,
+  "verse_number": 189,
+  "page_number": 29,
+  "verse_key": "2:189",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ يَسۡـَٔلُونَكَ عَنِ ٱلۡأَهِلَّةِۖ قُلۡ هِيَ مَوَٰقِيتُ لِلنَّاسِ وَٱلۡحَجِّۗ وَلَيۡسَ ٱلۡبِرُّ بِأَن تَأۡتُواْ ٱلۡبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلۡبِرَّ مَنِ ٱتَّقَىٰۗ وَأۡتُواْ ٱلۡبُيُوتَ مِنۡ أَبۡوَٰبِهَاۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+  "translation": "189. Te preguntan acerca de las lunas crecientes (¡oh, Muhammad!). Diles: «Son señales para que los hombres puedan calcular el tiempo y la fecha de la peregrinación del hajj». Y la piedad no consiste en entrar en las casas por detrás[65], sino que consiste en temer a Al-lah (alejándose de lo que Él prohíbe y obedeciendo Sus mandatos). Entrad, pues, en las casas por sus puertas. Y temed a Al-lah para que podáis triunfar.",
+  "footnotes": "[65]  En la época previa al islam, cuando alguien salía de su casa con la intención de iniciar un viaje y después decidía no viajar, regresaba a su casa escalando el muro de la parte posterior de esta y no entraba por la puerta, pensando que lo que hacía era más piadoso. También se ha relatado que, en general, quienes volvían de un viaje o tras entrar en el estado de consagración (ihram) para realizar la peregrinación del hajj entraban en la casa de la misma manera."
 }

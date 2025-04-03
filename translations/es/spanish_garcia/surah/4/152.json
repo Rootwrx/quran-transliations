@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "645",
-    "sura": "4",
-    "aya": "152",
-    "arabic_text": "وَٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦ وَلَمۡ يُفَرِّقُواْ بَيۡنَ أَحَدٖ مِّنۡهُمۡ أُوْلَٰٓئِكَ سَوۡفَ يُؤۡتِيهِمۡ أُجُورَهُمۡۚ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
-    "translation": "152. Pero quienes crean [realmente] en Dios y en Sus Mensajeros sin hacer distinciones entre ellos, Él les concederá Sus recompensas. Dios es Perdonador, Misericordioso.",
-    "footnotes": ""
-  }
+  "id": 152,
+  "verse_number": 152,
+  "page_number": 102,
+  "verse_key": "4:152",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦ وَلَمۡ يُفَرِّقُواْ بَيۡنَ أَحَدٖ مِّنۡهُمۡ أُوْلَٰٓئِكَ سَوۡفَ يُؤۡتِيهِمۡ أُجُورَهُمۡۚ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
+  "translation": "152. Pero quienes crean [realmente] en Dios y en Sus Mensajeros sin hacer distinciones entre ellos, Él les concederá Sus recompensas. Dios es Perdonador, Misericordioso.",
+  "footnotes": ""
 }

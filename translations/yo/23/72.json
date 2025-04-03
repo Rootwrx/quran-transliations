@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2745",
-    "sura": "23",
-    "aya": "72",
-    "arabic_text": "أَمۡ تَسۡـَٔلُهُمۡ خَرۡجٗا فَخَرَاجُ رَبِّكَ خَيۡرٞۖ وَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ",
-    "translation": "Tàbí ò ń béèrè owó-ọ̀yà kan lọ́wọ́ wọn ni? Owó-ọ̀yà Olúwa rẹ̀ lóore jùlọ. Àti pé Òun l’óore jùlọ nínú àwọn olùpèsè.[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah as-Sọ̄ffāt; 37:125."
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 346,
+  "verse_key": "23:72",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ تَسۡـَٔلُهُمۡ خَرۡجٗا فَخَرَاجُ رَبِّكَ خَيۡرٞۖ وَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ",
+  "translation": "Tàbí ò ń béèrè owó-ọ̀yà kan lọ́wọ́ wọn ni? Owó-ọ̀yà Olúwa rẹ̀ lóore jùlọ. Àti pé Òun l’óore jùlọ nínú àwọn olùpèsè.[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah as-Sọ̄ffāt; 37:125."
 }

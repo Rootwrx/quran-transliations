@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "494",
-    "sura": "4",
-    "aya": "1",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ وَخَلَقَ مِنۡهَا زَوۡجَهَا وَبَثَّ مِنۡهُمَا رِجَالٗا كَثِيرٗا وَنِسَآءٗۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِي تَسَآءَلُونَ بِهِۦ وَٱلۡأَرۡحَامَۚ إِنَّ ٱللَّهَ كَانَ عَلَيۡكُمۡ رَقِيبٗا",
-    "translation": "(1) O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom[156] you ask one another,[157] and the wombs.[158] Indeed Allāh is ever,[159] over you, an Observer.[160]",
-    "footnotes": "[156]- In whose name.\n[157]- i.e., request favors and demand rights.\n[158]- i.e., fear Allāh in regard to relations of kinship.\n[159]- When used in conjunction with Allāh's attributes, the word \"ever\" (occurring repeatedly throughout this sūrah and elsewhere, such as in sūrah al-Aḥzāb) is quite inadequate in imparting the sense of continuation expressed by the word \"kāna\" in Arabic, which indicates \"always was, is, and always will be.\"\n[160]- Ever-present and taking account of everything."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 77,
+  "verse_key": "4:1",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱتَّقُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ وَخَلَقَ مِنۡهَا زَوۡجَهَا وَبَثَّ مِنۡهُمَا رِجَالٗا كَثِيرٗا وَنِسَآءٗۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِي تَسَآءَلُونَ بِهِۦ وَٱلۡأَرۡحَامَۚ إِنَّ ٱللَّهَ كَانَ عَلَيۡكُمۡ رَقِيبٗا",
+  "translation": "(1) O mankind, fear your Lord, who created you from one soul and created from it its mate and dispersed from both of them many men and women. And fear Allāh, through whom[156] you ask one another,[157] and the wombs.[158] Indeed Allāh is ever,[159] over you, an Observer.[160]",
+  "footnotes": "[156]- In whose name.\n[157]- i.e., request favors and demand rights.\n[158]- i.e., fear Allāh in regard to relations of kinship.\n[159]- When used in conjunction with Allāh's attributes, the word \"ever\" (occurring repeatedly throughout this sūrah and elsewhere, such as in sūrah al-Aḥzāb) is quite inadequate in imparting the sense of continuation expressed by the word \"kāna\" in Arabic, which indicates \"always was, is, and always will be.\"\n[160]- Ever-present and taking account of everything."
 }

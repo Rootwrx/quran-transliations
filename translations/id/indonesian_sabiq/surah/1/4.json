@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4",
-    "sura": "1",
-    "aya": "4",
-    "arabic_text": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
-    "translation": "4. Pemilik hari pembalasan.*(1)",
-    "footnotes": "*1). Yaumiddīn (hari pembalasan), hari waktu manusia menerima pembalasan amalnya, baik atau buruk. Disebut juga yaumul qiyāmah, yaumul ḥisāb dan sebagainya."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 1,
+  "verse_key": "1:4",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+  "translation": "4. Pemilik hari pembalasan.*(1)",
+  "footnotes": "*1). Yaumiddīn (hari pembalasan), hari waktu manusia menerima pembalasan amalnya, baik atau buruk. Disebut juga yaumul qiyāmah, yaumul ḥisāb dan sebagainya."
 }

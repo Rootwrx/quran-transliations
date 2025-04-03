@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1882",
-    "sura": "15",
-    "aya": "80",
-    "arabic_text": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ",
-    "translation": "80.nummah Cijri deqsita daqaarih mari (Nabii Saalic mara kinnuk) farmoytit dirabboyseeh wohul Yallih farmoytit inkih dirabboyse mara yekken.",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 266,
+  "verse_key": "15:80",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ",
+  "translation": "80.nummah Cijri deqsita daqaarih mari (Nabii Saalic mara kinnuk) farmoytit dirabboyseeh wohul Yallih farmoytit inkih dirabboyse mara yekken.",
+  "footnotes": ""
 }

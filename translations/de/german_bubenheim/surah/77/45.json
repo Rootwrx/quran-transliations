@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5667",
-    "sura": "77",
-    "aya": "45",
-    "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
-    "translation": "Wehe an jenem Tag den Leugnern!",
-    "footnotes": null
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 581,
+  "verse_key": "77:45",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+  "translation": "Wehe an jenem Tag den Leugnern!",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "439",
-    "sura": "3",
-    "aya": "146",
-    "arabic_text": "وَكَأَيِّن مِّن نَّبِيّٖ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٞ فَمَا وَهَنُواْ لِمَآ أَصَابَهُمۡ فِي سَبِيلِ ٱللَّهِ وَمَا ضَعُفُواْ وَمَا ٱسۡتَكَانُواْۗ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ",
-    "translation": "Na Manabii wangapi walipigana na pamoja nao Waumini wengi wenye ikhlasi! Hawakufanya woga kwa yaliyo wasibu katika Njia ya Mwenyezi Mungu, wala hawakudhoofika wala hawakuwa wanyonge. Na Mwenyezi Mungu huwapenda wanao subiri.",
-    "footnotes": "Na Manabii wangapi wamepigana vita na pamoja nao Waumini wengi wenye ikhlasi kwa Mola wao Mlezi! Nyoyo zao hazikuingia woga, wala azma zao hazikudahadari, wala hawakuwanyenyekea maadui zao kwa sababu ya masaibu yaliyo wapata katika Sabili Llahi, Njia ya Mwenyezi Mungu. Haya ni kwa sababu wamo katika ut'iifu wake, na Mwenyezi Mungu huwalipa wanao vumilia ikiwafika balaa."
-  }
+  "id": 146,
+  "verse_number": 146,
+  "page_number": 68,
+  "verse_key": "3:146",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَأَيِّن مِّن نَّبِيّٖ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٞ فَمَا وَهَنُواْ لِمَآ أَصَابَهُمۡ فِي سَبِيلِ ٱللَّهِ وَمَا ضَعُفُواْ وَمَا ٱسۡتَكَانُواْۗ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ",
+  "translation": "Na Manabii wangapi walipigana na pamoja nao Waumini wengi wenye ikhlasi! Hawakufanya woga kwa yaliyo wasibu katika Njia ya Mwenyezi Mungu, wala hawakudhoofika wala hawakuwa wanyonge. Na Mwenyezi Mungu huwapenda wanao subiri.",
+  "footnotes": "Na Manabii wangapi wamepigana vita na pamoja nao Waumini wengi wenye ikhlasi kwa Mola wao Mlezi! Nyoyo zao hazikuingia woga, wala azma zao hazikudahadari, wala hawakuwanyenyekea maadui zao kwa sababu ya masaibu yaliyo wapata katika Sabili Llahi, Njia ya Mwenyezi Mungu. Haya ni kwa sababu wamo katika ut'iifu wake, na Mwenyezi Mungu huwalipa wanao vumilia ikiwafika balaa."
 }

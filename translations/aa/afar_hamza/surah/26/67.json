@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2999",
-    "sura": "26",
-    "aya": "67",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
-    "translation": "67. Diggah tohut Yallih inkittinaanee kee kay dudda tascasse astá tan, kaadu keenik maggo mari yeemene mara makkinna.",
-    "footnotes": ""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 370,
+  "verse_key": "26:67",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+  "translation": "67. Diggah tohut Yallih inkittinaanee kee kay dudda tascasse astá tan, kaadu keenik maggo mari yeemene mara makkinna.",
+  "footnotes": ""
 }

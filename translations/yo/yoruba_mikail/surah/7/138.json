@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1092",
-    "sura": "7",
-    "aya": "138",
-    "arabic_text": "وَجَٰوَزۡنَا بِبَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡبَحۡرَ فَأَتَوۡاْ عَلَىٰ قَوۡمٖ يَعۡكُفُونَ عَلَىٰٓ أَصۡنَامٖ لَّهُمۡۚ قَالُواْ يَٰمُوسَى ٱجۡعَل لَّنَآ إِلَٰهٗا كَمَا لَهُمۡ ءَالِهَةٞۚ قَالَ إِنَّكُمۡ قَوۡمٞ تَجۡهَلُونَ",
-    "translation": "A mú àwọn ọmọ ’Isrọ̄‘īl la agbami òkun kọjá. Nígbà náà, wọ́n kọjá lọ́dọ̀ àwọn ènìyàn kan tí wọ́n dúró ti àwọn òrìṣà wọn. Wọ́n sì wí pé: “Mūsā, ṣe òrìṣà kan fún wa, gẹ́gẹ́ bí àwọn (wọ̀nyí) ṣe ní àwọn òrìṣà kan.” (Ànábì) Mūsā sọ pé: “Dájúdájú ẹ̀yin ni ìjọ aláìmọ̀kan.[1]",
-    "footnotes": "1. Nínú ẹ̀rí tó ń fi rinlẹ̀ pé iṣẹ́-ìyanu kì í sábà mú ọ̀pọ̀lọ́pọ̀ àwọn ènìyàn di onígbàgbọ́ òdodo ni āyah yìí wa."
-  }
+  "id": 138,
+  "verse_number": 138,
+  "page_number": 167,
+  "verse_key": "7:138",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَٰوَزۡنَا بِبَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡبَحۡرَ فَأَتَوۡاْ عَلَىٰ قَوۡمٖ يَعۡكُفُونَ عَلَىٰٓ أَصۡنَامٖ لَّهُمۡۚ قَالُواْ يَٰمُوسَى ٱجۡعَل لَّنَآ إِلَٰهٗا كَمَا لَهُمۡ ءَالِهَةٞۚ قَالَ إِنَّكُمۡ قَوۡمٞ تَجۡهَلُونَ",
+  "translation": "A mú àwọn ọmọ ’Isrọ̄‘īl la agbami òkun kọjá. Nígbà náà, wọ́n kọjá lọ́dọ̀ àwọn ènìyàn kan tí wọ́n dúró ti àwọn òrìṣà wọn. Wọ́n sì wí pé: “Mūsā, ṣe òrìṣà kan fún wa, gẹ́gẹ́ bí àwọn (wọ̀nyí) ṣe ní àwọn òrìṣà kan.” (Ànábì) Mūsā sọ pé: “Dájúdájú ẹ̀yin ni ìjọ aláìmọ̀kan.[1]",
+  "footnotes": "1. Nínú ẹ̀rí tó ń fi rinlẹ̀ pé iṣẹ́-ìyanu kì í sábà mú ọ̀pọ̀lọ́pọ̀ àwọn ènìyàn di onígbàgbọ́ òdodo ni āyah yìí wa."
 }

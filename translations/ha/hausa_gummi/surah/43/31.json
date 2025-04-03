@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4356",
-    "sura": "43",
-    "aya": "31",
-    "arabic_text": "وَقَالُواْ لَوۡلَا نُزِّلَ هَٰذَا ٱلۡقُرۡءَانُ عَلَىٰ رَجُلٖ مِّنَ ٱلۡقَرۡيَتَيۡنِ عَظِيمٍ",
-    "translation": "Kuma suka ce: \"Don me ba a saukar da wannan Alƙur'ãni a kan wani mutum mai girma daga alƙaryun* nan biyu ba?\"",
-    "footnotes": "* Sunã nufin Makka da tã'ifa, kuma sunã nufi a saukar da Alƙur'ãni ga walĩdu ɗan Mugĩra na Makka kõ ga Urwatu ɗan Mas'ũdi As saƙafi a Ta'ifa. Watau sunã sũkar Muhammadu dõmin bã shi da dũkiya. A gare su mai dũkiya shĩ ne babban mutum, wanda ya cancanta Allah Ya aiko shi ga mutãne."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 491,
+  "verse_key": "43:31",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ لَوۡلَا نُزِّلَ هَٰذَا ٱلۡقُرۡءَانُ عَلَىٰ رَجُلٖ مِّنَ ٱلۡقَرۡيَتَيۡنِ عَظِيمٍ",
+  "translation": "Kuma suka ce: \"Don me ba a saukar da wannan Alƙur'ãni a kan wani mutum mai girma daga alƙaryun* nan biyu ba?\"",
+  "footnotes": "* Sunã nufin Makka da tã'ifa, kuma sunã nufi a saukar da Alƙur'ãni ga walĩdu ɗan Mugĩra na Makka kõ ga Urwatu ɗan Mas'ũdi As saƙafi a Ta'ifa. Watau sunã sũkar Muhammadu dõmin bã shi da dũkiya. A gare su mai dũkiya shĩ ne babban mutum, wanda ya cancanta Allah Ya aiko shi ga mutãne."
 }

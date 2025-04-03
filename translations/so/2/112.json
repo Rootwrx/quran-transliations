@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "119",
-    "sura": "2",
-    "aya": "112",
-    "arabic_text": "بَلَىٰۚ مَنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنٞ فَلَهُۥٓ أَجۡرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "112. Haayoo! Qofkii isu dhiiba isagoo wada dhan Alle oo isagu sama fale ah (raaca dowga Nabi Muxammad s.c.w.), wuxuu ka heleyaa abaalgudkiisa (ah Janno) xagga Rabbigiis, mana ahaaneyso cabsi dushooda (xagga waxa soo socda ee arrinka Aakhirada) mana ka murugoodaan (waxa ku seega adduunka).",
-    "footnotes": ""
-  }
+  "id": 112,
+  "verse_number": 112,
+  "page_number": 17,
+  "verse_key": "2:112",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلَىٰۚ مَنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنٞ فَلَهُۥٓ أَجۡرُهُۥ عِندَ رَبِّهِۦ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "112. Haayoo! Qofkii isu dhiiba isagoo wada dhan Alle oo isagu sama fale ah (raaca dowga Nabi Muxammad s.c.w.), wuxuu ka heleyaa abaalgudkiisa (ah Janno) xagga Rabbigiis, mana ahaaneyso cabsi dushooda (xagga waxa soo socda ee arrinka Aakhirada) mana ka murugoodaan (waxa ku seega adduunka).",
+  "footnotes": ""
 }

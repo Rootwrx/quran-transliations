@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6184",
-    "sura": "104",
-    "aya": "5",
-    "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ",
-    "translation": "5. (நபியே!) ‘ஹுதமா' (என்றால்) என்னவென்று நீர் அறிவீரா?",
-    "footnotes": null
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 601,
+  "verse_key": "104:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحُطَمَةُ",
+  "translation": "5. (நபியே!) ‘ஹுதமா' (என்றால்) என்னவென்று நீர் அறிவீரா?",
+  "footnotes": null
 }

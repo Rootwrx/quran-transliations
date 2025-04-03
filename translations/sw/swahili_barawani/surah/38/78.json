@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4048",
-    "sura": "38",
-    "aya": "78",
-    "arabic_text": "وَإِنَّ عَلَيۡكَ لَعۡنَتِيٓ إِلَىٰ يَوۡمِ ٱلدِّينِ",
-    "translation": "Na hakika laana yangu itakuwa juu yako mpaka Siku ya Malipo.",
-    "footnotes": "Na hakika wewe umetengwa mbali na kila kheri mpaka Siku ya Malipo. Hapo utalipwa kwa sababu ya kunikufuru Mimi na kunifanyia kiburi."
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 457,
+  "verse_key": "38:78",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ عَلَيۡكَ لَعۡنَتِيٓ إِلَىٰ يَوۡمِ ٱلدِّينِ",
+  "translation": "Na hakika laana yangu itakuwa juu yako mpaka Siku ya Malipo.",
+  "footnotes": "Na hakika wewe umetengwa mbali na kila kheri mpaka Siku ya Malipo. Hapo utalipwa kwa sababu ya kunikufuru Mimi na kunifanyia kiburi."
 }

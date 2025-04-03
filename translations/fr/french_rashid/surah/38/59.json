@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4029",
-    "sura": "38",
-    "aya": "59",
-    "arabic_text": "هَٰذَا فَوۡجٞ مُّقۡتَحِمٞ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ صَالُواْ ٱلنَّارِ",
-    "translation": "59 « Voici[1180] un groupe prêt à nous rejoindre. Qu’il ne soit pas le bienvenu. Il va entrer en Enfer. »",
-    "footnotes": "[1180] Diront les chefs de l’impiété en Enfer, selon nombre d’exégètes."
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 456,
+  "verse_key": "38:59",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا فَوۡجٞ مُّقۡتَحِمٞ مَّعَكُمۡ لَا مَرۡحَبَۢا بِهِمۡۚ إِنَّهُمۡ صَالُواْ ٱلنَّارِ",
+  "translation": "59 « Voici[1180] un groupe prêt à nous rejoindre. Qu’il ne soit pas le bienvenu. Il va entrer en Enfer. »",
+  "footnotes": "[1180] Diront les chefs de l’impiété en Enfer, selon nombre d’exégètes."
 }

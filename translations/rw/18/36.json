@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2176",
-    "sura": "18",
-    "aya": "36",
-    "arabic_text": "وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةٗ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّي لَأَجِدَنَّ خَيۡرٗا مِّنۡهَا مُنقَلَبٗا",
-    "translation": "Kandi sinkeka ko imperuka izigera ibaho! Ndetse inabaye ngasubizwa kwa Nyagasani wanjye, rwose nzasangayo ibyiza biruta ibi.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 298,
+  "verse_key": "18:36",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 119,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَظُنُّ ٱلسَّاعَةَ قَآئِمَةٗ وَلَئِن رُّدِدتُّ إِلَىٰ رَبِّي لَأَجِدَنَّ خَيۡرٗا مِّنۡهَا مُنقَلَبٗا",
+  "translation": "Kandi sinkeka ko imperuka izigera ibaho! Ndetse inabaye ngasubizwa kwa Nyagasani wanjye, rwose nzasangayo ibyiza biruta ibi.",
+  "footnotes": ""
 }

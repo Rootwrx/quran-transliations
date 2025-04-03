@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1694",
-    "sura": "12",
-    "aya": "98",
-    "arabic_text": "قَالَ سَوۡفَ أَسۡتَغۡفِرُ لَكُمۡ رَبِّيٓۖ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ",
-    "translation": "他说：“我将要为你们向我的养主求饶。他确是至赦的，确是至慈的。”",
-    "footnotes": ""
-  }
+  "id": 98,
+  "verse_number": 98,
+  "page_number": 247,
+  "verse_key": "12:98",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ سَوۡفَ أَسۡتَغۡفِرُ لَكُمۡ رَبِّيٓۖ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ",
+  "translation": "他说：“我将要为你们向我的养主求饶。他确是至赦的，确是至慈的。”",
+  "footnotes": ""
 }

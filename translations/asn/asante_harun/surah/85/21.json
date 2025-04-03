@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5930",
-    "sura": "85",
-    "aya": "21",
-    "arabic_text": "بَلۡ هُوَ قُرۡءَانٞ مَّجِيدٞ",
-    "translation": "Aane, εyε Qur’aan, Animuonyam (Nwoma) noa,",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 590,
+  "verse_key": "85:21",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ هُوَ قُرۡءَانٞ مَّجِيدٞ",
+  "translation": "Aane, εyε Qur’aan, Animuonyam (Nwoma) noa,",
+  "footnotes": ""
 }

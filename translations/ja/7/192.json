@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1146",
-    "sura": "7",
-    "aya": "192",
-    "arabic_text": "وَلَا يَسۡتَطِيعُونَ لَهُمۡ نَصۡرٗا وَلَآ أَنفُسَهُمۡ يَنصُرُونَ",
-    "translation": "それからは彼らへの援助も出来ないどころか、自分自身すら救えないというのに。",
-    "footnotes": ""
-  }
+  "id": 192,
+  "verse_number": 192,
+  "page_number": 175,
+  "verse_key": "7:192",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَسۡتَطِيعُونَ لَهُمۡ نَصۡرٗا وَلَآ أَنفُسَهُمۡ يَنصُرُونَ",
+  "translation": "それからは彼らへの援助も出来ないどころか、自分自身すら救えないというのに。",
+  "footnotes": ""
 }

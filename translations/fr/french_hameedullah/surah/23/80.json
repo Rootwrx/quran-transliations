@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2753",
-    "sura": "23",
-    "aya": "80",
-    "arabic_text": "وَهُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُ وَلَهُ ٱخۡتِلَٰفُ ٱلَّيۡلِ وَٱلنَّهَارِۚ أَفَلَا تَعۡقِلُونَ",
-    "translation": "Et c’est Lui qui donne la vie et qui donne la mort; et l’alternance de la nuit et du jour dépend de Lui. Ne raisonnerez-vous donc pas ?",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 347,
+  "verse_key": "23:80",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُ وَلَهُ ٱخۡتِلَٰفُ ٱلَّيۡلِ وَٱلنَّهَارِۚ أَفَلَا تَعۡقِلُونَ",
+  "translation": "Et c’est Lui qui donne la vie et qui donne la mort; et l’alternance de la nuit et du jour dépend de Lui. Ne raisonnerez-vous donc pas ?",
+  "footnotes": ""
 }

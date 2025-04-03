@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1673",
-    "sura": "12",
-    "aya": "77",
-    "arabic_text": "۞ قَالُوٓاْ إِن يَسۡرِقۡ فَقَدۡ سَرَقَ أَخٞ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا يُوسُفُ فِي نَفۡسِهِۦ وَلَمۡ يُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرّٞ مَّكَانٗاۖ وَٱللَّهُ أَعۡلَمُ بِمَا تَصِفُونَ",
-    "translation": "(Bijtë e Jakubit) thanë: “Nëse ka vjedhur, më parë ka vjedhur edhe vëllai i tij!”[152] Jusufi heshti për këtë dhe nuk shpalli gjë, por mendoi në vetvete: “Ju jeni në pozitë më të keqe. Allahu është më i dijshëm për ato që thoni ju”.",
-    "footnotes": "[152] Disa komentues të Kuranit (midis të cilëve edhe Taberiu), thonë se ky pohim i referohet një ngjarjeje, kur Jusufi ishte i vogël. Atë kohë ai i kishte vjedhur gjyshit nga nëna, që ishte pagan, një statujë të vogël idhulli dhe ia kishte thyer."
-  }
+  "id": 77,
+  "verse_number": 77,
+  "page_number": 244,
+  "verse_key": "12:77",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قَالُوٓاْ إِن يَسۡرِقۡ فَقَدۡ سَرَقَ أَخٞ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا يُوسُفُ فِي نَفۡسِهِۦ وَلَمۡ يُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرّٞ مَّكَانٗاۖ وَٱللَّهُ أَعۡلَمُ بِمَا تَصِفُونَ",
+  "translation": "(Bijtë e Jakubit) thanë: “Nëse ka vjedhur, më parë ka vjedhur edhe vëllai i tij!”[152] Jusufi heshti për këtë dhe nuk shpalli gjë, por mendoi në vetvete: “Ju jeni në pozitë më të keqe. Allahu është më i dijshëm për ato që thoni ju”.",
+  "footnotes": "[152] Disa komentues të Kuranit (midis të cilëve edhe Taberiu), thonë se ky pohim i referohet një ngjarjeje, kur Jusufi ishte i vogël. Atë kohë ai i kishte vjedhur gjyshit nga nëna, që ishte pagan, një statujë të vogël idhulli dhe ia kishte thyer."
 }

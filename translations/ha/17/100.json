@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2129",
-    "sura": "17",
-    "aya": "100",
-    "arabic_text": "قُل لَّوۡ أَنتُمۡ تَمۡلِكُونَ خَزَآئِنَ رَحۡمَةِ رَبِّيٓ إِذٗا لَّأَمۡسَكۡتُمۡ خَشۡيَةَ ٱلۡإِنفَاقِۚ وَكَانَ ٱلۡإِنسَٰنُ قَتُورٗا",
-    "translation": "Ka ce: \"Dã dai kũ, kunã mallakar* taskõkin rahamar Ubangijĩna, a lõkacin, haƙĩƙa dã kun kãme dõmin tsõron ƙãrẽwar taskõkin. Kuma mutum yã kasance mai ƙwauro ne.\"",
-    "footnotes": "* Muƙãrana a tsakãnin kyautar mutum da rõwarsa ga dũkiyar da ya mallaka."
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 292,
+  "verse_key": "17:100",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لَّوۡ أَنتُمۡ تَمۡلِكُونَ خَزَآئِنَ رَحۡمَةِ رَبِّيٓ إِذٗا لَّأَمۡسَكۡتُمۡ خَشۡيَةَ ٱلۡإِنفَاقِۚ وَكَانَ ٱلۡإِنسَٰنُ قَتُورٗا",
+  "translation": "Ka ce: \"Dã dai kũ, kunã mallakar* taskõkin rahamar Ubangijĩna, a lõkacin, haƙĩƙa dã kun kãme dõmin tsõron ƙãrẽwar taskõkin. Kuma mutum yã kasance mai ƙwauro ne.\"",
+  "footnotes": "* Muƙãrana a tsakãnin kyautar mutum da rõwarsa ga dũkiyar da ya mallaka."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "175",
-    "sura": "2",
-    "aya": "168",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ كُلُواْ مِمَّا فِي ٱلۡأَرۡضِ حَلَٰلٗا طَيِّبٗا وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٌ",
-    "translation": "Enyi watu! Kuleni vilivyomo katika ardhi, halali na vizuri, wala msifuate nyayo za Shet'ani. Hakika yeye ni adui yenu aliye dhaahiri.",
-    "footnotes": "Enyi watu! Kuleni vyakula alivyo kuumbieni Mwenyezi Mungu katika ardhi vilivyo halali, visivyo harimishwa, vilivyo vizuri, vinavyo pendwa na nafsi. Wala msimfuate Shetani anaye kupendezeni kula chakula cha haramu, au kuharimisha kilicho halali. Nyinyi mmeujua uadui wa Shetani kwenu, na umebainika ubaya wa anayo kuamrisheni."
-  }
+  "id": 168,
+  "verse_number": 168,
+  "page_number": 25,
+  "verse_key": "2:168",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّاسُ كُلُواْ مِمَّا فِي ٱلۡأَرۡضِ حَلَٰلٗا طَيِّبٗا وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٌ",
+  "translation": "Enyi watu! Kuleni vilivyomo katika ardhi, halali na vizuri, wala msifuate nyayo za Shet'ani. Hakika yeye ni adui yenu aliye dhaahiri.",
+  "footnotes": "Enyi watu! Kuleni vyakula alivyo kuumbieni Mwenyezi Mungu katika ardhi vilivyo halali, visivyo harimishwa, vilivyo vizuri, vinavyo pendwa na nafsi. Wala msimfuate Shetani anaye kupendezeni kula chakula cha haramu, au kuharimisha kilicho halali. Nyinyi mmeujua uadui wa Shetani kwenu, na umebainika ubaya wa anayo kuamrisheni."
 }

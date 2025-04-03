@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2582",
-    "sura": "21",
-    "aya": "99",
-    "arabic_text": "لَوۡ كَانَ هَٰٓؤُلَآءِ ءَالِهَةٗ مَّا وَرَدُوهَاۖ وَكُلّٞ فِيهَا خَٰلِدُونَ",
-    "translation": "Seandainya (berhala-berhala) itu tuhan, tentu mereka tidak akan memasukinya (neraka). Tetapi semuanya akan kekal di dalamnya.",
-    "footnotes": ""
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 330,
+  "verse_key": "21:99",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَوۡ كَانَ هَٰٓؤُلَآءِ ءَالِهَةٗ مَّا وَرَدُوهَاۖ وَكُلّٞ فِيهَا خَٰلِدُونَ",
+  "translation": "Seandainya (berhala-berhala) itu tuhan, tentu mereka tidak akan memasukinya (neraka). Tetapi semuanya akan kekal di dalamnya.",
+  "footnotes": ""
 }

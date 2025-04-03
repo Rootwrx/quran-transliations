@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "446",
-    "sura": "3",
-    "aya": "153",
-    "arabic_text": "۞ إِذۡ تُصۡعِدُونَ وَلَا تَلۡوُۥنَ عَلَىٰٓ أَحَدٖ وَٱلرَّسُولُ يَدۡعُوكُمۡ فِيٓ أُخۡرَىٰكُمۡ فَأَثَٰبَكُمۡ غَمَّۢا بِغَمّٖ لِّكَيۡلَا تَحۡزَنُواْ عَلَىٰ مَا فَاتَكُمۡ وَلَا مَآ أَصَٰبَكُمۡۗ وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ",
-    "translation": "153. Markaad cararteen idinkoo xiimaya aan cidna jalleeceyn, Rasuulkuna uu idiinka dhawaaqayey gadaashiinna29, markaasuu Wuxuu idinku abaal mariyey hammi kale halkii hammigiinna30, si aydaan uga murugoon waxa idin dhaafay, iyo waxa idinku dhacay midna. Allena waa u Xog Ogaal waxaad fashaan.",
-    "footnotes": "29. Muslimiinta kuma ayan guuleysan inay ka adkaadaan. \n30. Waxay muslimiintii ka xumaadeen inayan adeecin amarka Rasuulka s.c.w. taasoo ahayd sababta jabkooda."
-  }
+  "id": 153,
+  "verse_number": 153,
+  "page_number": 69,
+  "verse_key": "3:153",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِذۡ تُصۡعِدُونَ وَلَا تَلۡوُۥنَ عَلَىٰٓ أَحَدٖ وَٱلرَّسُولُ يَدۡعُوكُمۡ فِيٓ أُخۡرَىٰكُمۡ فَأَثَٰبَكُمۡ غَمَّۢا بِغَمّٖ لِّكَيۡلَا تَحۡزَنُواْ عَلَىٰ مَا فَاتَكُمۡ وَلَا مَآ أَصَٰبَكُمۡۗ وَٱللَّهُ خَبِيرُۢ بِمَا تَعۡمَلُونَ",
+  "translation": "153. Markaad cararteen idinkoo xiimaya aan cidna jalleeceyn, Rasuulkuna uu idiinka dhawaaqayey gadaashiinna29, markaasuu Wuxuu idinku abaal mariyey hammi kale halkii hammigiinna30, si aydaan uga murugoon waxa idin dhaafay, iyo waxa idinku dhacay midna. Allena waa u Xog Ogaal waxaad fashaan.",
+  "footnotes": "29. Muslimiinta kuma ayan guuleysan inay ka adkaadaan. \n30. Waxay muslimiintii ka xumaadeen inayan adeecin amarka Rasuulka s.c.w. taasoo ahayd sababta jabkooda."
 }

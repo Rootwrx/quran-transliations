@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1401",
-    "sura": "10",
-    "aya": "37",
-    "arabic_text": "وَمَا كَانَ هَٰذَا ٱلۡقُرۡءَانُ أَن يُفۡتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ ٱلۡكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "Nta n’umwe yoshobora kwiyitirira Qor’ani akavuga ko itavuye ku Mana Allah, ariko Imana Allah Yayimanuye kugira ishimangire ibiri mu Bitabu vy’aho hambere yayo, ko idini ry’Imana Allah ari rimwe, no kugira itomore neza amabwirizwa yahawe abantu barungikiwe Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) muri Qor'ani, ata makenga ko yahishuwe n’Imana Rurema Allah, Umubungabunzi w’ibiremwa vyose.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 213,
+  "verse_key": "10:37",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ هَٰذَا ٱلۡقُرۡءَانُ أَن يُفۡتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ ٱلۡكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "Nta n’umwe yoshobora kwiyitirira Qor’ani akavuga ko itavuye ku Mana Allah, ariko Imana Allah Yayimanuye kugira ishimangire ibiri mu Bitabu vy’aho hambere yayo, ko idini ry’Imana Allah ari rimwe, no kugira itomore neza amabwirizwa yahawe abantu barungikiwe Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) muri Qor'ani, ata makenga ko yahishuwe n’Imana Rurema Allah, Umubungabunzi w’ibiremwa vyose.",
+  "footnotes": ""
 }

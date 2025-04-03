@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1720",
-    "sura": "13",
-    "aya": "13",
-    "arabic_text": "وَيُسَبِّحُ ٱلرَّعۡدُ بِحَمۡدِهِۦ وَٱلۡمَلَٰٓئِكَةُ مِنۡ خِيفَتِهِۦ وَيُرۡسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمۡ يُجَٰدِلُونَ فِي ٱللَّهِ وَهُوَ شَدِيدُ ٱلۡمِحَالِ",
-    "translation": "Na radi inamtakasa Mwenyezi Mungu kwa kumhimidi, na Malaika pia, kwa kumkhofu. Naye hupeleka mapigo ya radi yakampata amtakaye. Nao wanabishana juu ya Mwenyezi Mungu. Na Yeye ni Mwenye adhabu kali!",
-    "footnotes": "Na hakika radi zinamnyenyekea Mwenyezi Mungu Subhanahu wa Taa'la kwa unyenyekevu ulio timia, mpaka ikawa sauti yake mnayo isikia ni kama kwamba inamtakasa na kumsabihi kwa kumhimidi, kumsifu na kumshukuru, kwa kuumba kwake kama ni ishara ya unyenyekevu wake. Na vile vile Roho safi msizo ziona, yaani Malaika, pia zinamtakasa Yeye. Na Yeye ndiye anaye peleka moto wa radi unao unguza ukampata amtakaye. Na juu ya kuwepo ishara hizi zinazo onekana zenye dalili ya uwezo wake Subhanahu wao bado wanabisha shani ya Mwenyezi Mungu Aliye takasika. Na Yeye ni Mwenye nguvu kubwa za kuvipinga vitimbi vya maadui."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 250,
+  "verse_key": "13:13",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُسَبِّحُ ٱلرَّعۡدُ بِحَمۡدِهِۦ وَٱلۡمَلَٰٓئِكَةُ مِنۡ خِيفَتِهِۦ وَيُرۡسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمۡ يُجَٰدِلُونَ فِي ٱللَّهِ وَهُوَ شَدِيدُ ٱلۡمِحَالِ",
+  "translation": "Na radi inamtakasa Mwenyezi Mungu kwa kumhimidi, na Malaika pia, kwa kumkhofu. Naye hupeleka mapigo ya radi yakampata amtakaye. Nao wanabishana juu ya Mwenyezi Mungu. Na Yeye ni Mwenye adhabu kali!",
+  "footnotes": "Na hakika radi zinamnyenyekea Mwenyezi Mungu Subhanahu wa Taa'la kwa unyenyekevu ulio timia, mpaka ikawa sauti yake mnayo isikia ni kama kwamba inamtakasa na kumsabihi kwa kumhimidi, kumsifu na kumshukuru, kwa kuumba kwake kama ni ishara ya unyenyekevu wake. Na vile vile Roho safi msizo ziona, yaani Malaika, pia zinamtakasa Yeye. Na Yeye ndiye anaye peleka moto wa radi unao unguza ukampata amtakaye. Na juu ya kuwepo ishara hizi zinazo onekana zenye dalili ya uwezo wake Subhanahu wao bado wanabisha shani ya Mwenyezi Mungu Aliye takasika. Na Yeye ni Mwenye nguvu kubwa za kuvipinga vitimbi vya maadui."
 }

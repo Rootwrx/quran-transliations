@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2030",
-    "sura": "17",
-    "aya": "1",
-    "arabic_text": "سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِي بَٰرَكۡنَا حَوۡلَهُۥ لِنُرِيَهُۥ مِنۡ ءَايَٰتِنَآۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
-    "translation": "SUBHANA, Ametakasika aliye mchukua mja wake usiku mmoja kutoka Msikiti Mtukufu mpaka Msikiti wa Mbali, ambao tumevibariki vilivyo uzunguka, ili tumuonyeshe baadhi ya Ishara zetu. Hakika Yeye ni Mwenye kusikia na Mwenye kuona.",
-    "footnotes": "Mwenyezi Mungu aliye takasika na kila ambalo lisio laiki naye. Yeye ndiye aliye mchukua mja wake Muhammad wakati wa usiku kutoka Msikiti Mtakatifu wa Makka kwendea Msikiti wa Mbali wa Baitul Muqaddas, ambao tuliwabarikia wakaazi majirani wa Msikiti huo katika mahitaji yao, ili tumwonyeshe baadhi ya Ishara zetu zenye ushahidi wa kutosha wa kuthibitisha kuwa Mimi ni Mungu Mmoja peke yangu, na ukubwa wa uwezo wangu! Hakika Mwenyezi Mungu peke yake ndiye Mwenye kusikia na Mwenye kuona."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 282,
+  "verse_key": "17:1",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِي بَٰرَكۡنَا حَوۡلَهُۥ لِنُرِيَهُۥ مِنۡ ءَايَٰتِنَآۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
+  "translation": "SUBHANA, Ametakasika aliye mchukua mja wake usiku mmoja kutoka Msikiti Mtukufu mpaka Msikiti wa Mbali, ambao tumevibariki vilivyo uzunguka, ili tumuonyeshe baadhi ya Ishara zetu. Hakika Yeye ni Mwenye kusikia na Mwenye kuona.",
+  "footnotes": "Mwenyezi Mungu aliye takasika na kila ambalo lisio laiki naye. Yeye ndiye aliye mchukua mja wake Muhammad wakati wa usiku kutoka Msikiti Mtakatifu wa Makka kwendea Msikiti wa Mbali wa Baitul Muqaddas, ambao tuliwabarikia wakaazi majirani wa Msikiti huo katika mahitaji yao, ili tumwonyeshe baadhi ya Ishara zetu zenye ushahidi wa kutosha wa kuthibitisha kuwa Mimi ni Mungu Mmoja peke yangu, na ukubwa wa uwezo wangu! Hakika Mwenyezi Mungu peke yake ndiye Mwenye kusikia na Mwenye kuona."
 }

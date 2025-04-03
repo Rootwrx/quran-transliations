@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1996",
-    "sura": "16",
-    "aya": "95",
-    "arabic_text": "وَلَا تَشۡتَرُواْ بِعَهۡدِ ٱللَّهِ ثَمَنٗا قَلِيلًاۚ إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
-    "translation": "Wala msinunue ahadi ya Mwenyezi Mungu kwa thamani ndogo. Hakika kilichoko kwa Mwenyezi Mungu ndicho bora kwenu, ikiwa mnajua.",
-    "footnotes": "Wala msibadilishe ahadi ya kweli kweli kwa kutaka pato la dunia, na hilo ni duni na lingali onekana kubwa. Maana yaliopo kwa Mwenyezi Mungu, malipo ya wanao hifadhi ahadi zao duniani, na malipo ya Akhera ya milele, ni bora kwenu kuliko yote yanayo kudanganyeni kwa kuvunja ahadi. Basi zingatieni na mfahamu, ikiwa nyinyi ni watu wa ilimu na utambuzi baina ya jema na lisio kuwa jema. Wala msitende ila lilio na maslaha kwenu duniani na Akhera."
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 278,
+  "verse_key": "16:95",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَشۡتَرُواْ بِعَهۡدِ ٱللَّهِ ثَمَنٗا قَلِيلًاۚ إِنَّمَا عِندَ ٱللَّهِ هُوَ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+  "translation": "Wala msinunue ahadi ya Mwenyezi Mungu kwa thamani ndogo. Hakika kilichoko kwa Mwenyezi Mungu ndicho bora kwenu, ikiwa mnajua.",
+  "footnotes": "Wala msibadilishe ahadi ya kweli kweli kwa kutaka pato la dunia, na hilo ni duni na lingali onekana kubwa. Maana yaliopo kwa Mwenyezi Mungu, malipo ya wanao hifadhi ahadi zao duniani, na malipo ya Akhera ya milele, ni bora kwenu kuliko yote yanayo kudanganyeni kwa kuvunja ahadi. Basi zingatieni na mfahamu, ikiwa nyinyi ni watu wa ilimu na utambuzi baina ya jema na lisio kuwa jema. Wala msitende ila lilio na maslaha kwenu duniani na Akhera."
 }

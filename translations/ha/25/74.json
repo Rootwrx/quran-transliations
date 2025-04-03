@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2929",
-    "sura": "25",
-    "aya": "74",
-    "arabic_text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبۡ لَنَا مِنۡ أَزۡوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعۡيُنٖ وَٱجۡعَلۡنَا لِلۡمُتَّقِينَ إِمَامًا",
-    "translation": "Kuma waɗanda suke cẽwa \"Yã Ubangijinmu! Ka bã mu sanyin idãnu daga mãtanmu da zũriyarmu, kuma Ka sanya* mu shũgabanni ga mãsu taƙawa.\"",
-    "footnotes": "* Anã son mutum ya rõƙi Allah Ya ɗaukaka shi, shi da zuriyarsa, ɗaukakar addini, kamar yadda Annabi Ibrãhĩm ya yi rõƙon haka. Kuma wannan yanã cikin sifõfin Bãyin Mai rahama."
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 366,
+  "verse_key": "25:74",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يَقُولُونَ رَبَّنَا هَبۡ لَنَا مِنۡ أَزۡوَٰجِنَا وَذُرِّيَّٰتِنَا قُرَّةَ أَعۡيُنٖ وَٱجۡعَلۡنَا لِلۡمُتَّقِينَ إِمَامًا",
+  "translation": "Kuma waɗanda suke cẽwa \"Yã Ubangijinmu! Ka bã mu sanyin idãnu daga mãtanmu da zũriyarmu, kuma Ka sanya* mu shũgabanni ga mãsu taƙawa.\"",
+  "footnotes": "* Anã son mutum ya rõƙi Allah Ya ɗaukaka shi, shi da zuriyarsa, ɗaukakar addini, kamar yadda Annabi Ibrãhĩm ya yi rõƙon haka. Kuma wannan yanã cikin sifõfin Bãyin Mai rahama."
 }

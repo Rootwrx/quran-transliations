@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5867",
-    "sura": "83",
-    "aya": "19",
-    "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا عِلِّيُّونَ",
-    "translation": " İlliyyun’un ne olduğunu nereden bileceksin? ",
-    "footnotes": null
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 588,
+  "verse_key": "83:19",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَدۡرَىٰكَ مَا عِلِّيُّونَ",
+  "translation": " İlliyyun’un ne olduğunu nereden bileceksin? ",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3526",
-    "sura": "32",
-    "aya": "23",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ فَلَا تَكُن فِي مِرۡيَةٖ مِّن لِّقَآئِهِۦۖ وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَٰٓءِيلَ",
-    "translation": "Wir gaben bereits Musa die Schrift - so sei nicht im Zweifel über die Begegnung mit Ihm - und machten sie zu einer Rechtleitung für die Kinder Isra’ils.",
-    "footnotes": null
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 417,
+  "verse_key": "32:23",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ فَلَا تَكُن فِي مِرۡيَةٖ مِّن لِّقَآئِهِۦۖ وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَٰٓءِيلَ",
+  "translation": "Wir gaben bereits Musa die Schrift - so sei nicht im Zweifel über die Begegnung mit Ihm - und machten sie zu einer Rechtleitung für die Kinder Isra’ils.",
+  "footnotes": null
 }

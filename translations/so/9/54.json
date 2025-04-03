@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1289",
-    "sura": "9",
-    "aya": "54",
-    "arabic_text": "وَمَا مَنَعَهُمۡ أَن تُقۡبَلَ مِنۡهُمۡ نَفَقَٰتُهُمۡ إِلَّآ أَنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأۡتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمۡ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمۡ كَٰرِهُونَ",
-    "translation": "54. Waxna uma diidin in laga aqbalo wax bixintooda aan aheyn inay ku gaaloobeen Alle iyo Rasuulkiisa; mana yimaadaan salaadda iyagoo wahsanaya maahee17; waxnana ma bixiyaan iyagoo kahanaya maahee.",
-    "footnotes": "17. Nabigu s.c.w. wuxuu yidhi: “Ma jirto salaad uga culus munaafiqiinta salaadda Subax iyo Cishe, haddayna ogaan lahaayeen waxa ku jira oo ajar ah, waa ay imaan lahaayeen kolay u soo guurguurtaan”. W.w. Al-Bukhaari."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 195,
+  "verse_key": "9:54",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 78,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا مَنَعَهُمۡ أَن تُقۡبَلَ مِنۡهُمۡ نَفَقَٰتُهُمۡ إِلَّآ أَنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأۡتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمۡ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمۡ كَٰرِهُونَ",
+  "translation": "54. Waxna uma diidin in laga aqbalo wax bixintooda aan aheyn inay ku gaaloobeen Alle iyo Rasuulkiisa; mana yimaadaan salaadda iyagoo wahsanaya maahee17; waxnana ma bixiyaan iyagoo kahanaya maahee.",
+  "footnotes": "17. Nabigu s.c.w. wuxuu yidhi: “Ma jirto salaad uga culus munaafiqiinta salaadda Subax iyo Cishe, haddayna ogaan lahaayeen waxa ku jira oo ajar ah, waa ay imaan lahaayeen kolay u soo guurguurtaan”. W.w. Al-Bukhaari."
 }

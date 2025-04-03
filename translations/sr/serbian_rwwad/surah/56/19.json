@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4998",
-    "sura": "56",
-    "aya": "19",
-    "arabic_text": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
-    "translation": "од кога глава неће да их боли и због кога неће памет да изгубе,",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 535,
+  "verse_key": "56:19",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يُصَدَّعُونَ عَنۡهَا وَلَا يُنزِفُونَ",
+  "translation": "од кога глава неће да их боли и због кога неће памет да изгубе,",
+  "footnotes": ""
 }

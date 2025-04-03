@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "313",
-    "sura": "3",
-    "aya": "20",
-    "arabic_text": "فَإِنۡ حَآجُّوكَ فَقُلۡ أَسۡلَمۡتُ وَجۡهِيَ لِلَّهِ وَمَنِ ٱتَّبَعَنِۗ وَقُل لِّلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡأُمِّيِّـۧنَ ءَأَسۡلَمۡتُمۡۚ فَإِنۡ أَسۡلَمُواْ فَقَدِ ٱهۡتَدَواْۖ وَّإِن تَوَلَّوۡاْ فَإِنَّمَا عَلَيۡكَ ٱلۡبَلَٰغُۗ وَٱللَّهُ بَصِيرُۢ بِٱلۡعِبَادِ",
-    "translation": "Əgər onlar səninlə mübahisə etsələr, de: “Mən özümü Allaha təslim etdim. Mənə tabe olanlar da, (həmçinin).” Kitab verilənlərə və savadsızlara (özlərində kitab olmayan ərəb müşriklərinə): “Siz də, təslim oldunuzmu?” Əgər təslim olsalar, doğru yola yönəlmiş olarlar. Yox əgər üz döndərsələr, (bil ki,) sənin öhdənə düşən ancaq (haqqı) təbliğ etməkdir. Allah qullarını görəndir.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 52,
+  "verse_key": "3:20",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنۡ حَآجُّوكَ فَقُلۡ أَسۡلَمۡتُ وَجۡهِيَ لِلَّهِ وَمَنِ ٱتَّبَعَنِۗ وَقُل لِّلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡأُمِّيِّـۧنَ ءَأَسۡلَمۡتُمۡۚ فَإِنۡ أَسۡلَمُواْ فَقَدِ ٱهۡتَدَواْۖ وَّإِن تَوَلَّوۡاْ فَإِنَّمَا عَلَيۡكَ ٱلۡبَلَٰغُۗ وَٱللَّهُ بَصِيرُۢ بِٱلۡعِبَادِ",
+  "translation": "Əgər onlar səninlə mübahisə etsələr, de: “Mən özümü Allaha təslim etdim. Mənə tabe olanlar da, (həmçinin).” Kitab verilənlərə və savadsızlara (özlərində kitab olmayan ərəb müşriklərinə): “Siz də, təslim oldunuzmu?” Əgər təslim olsalar, doğru yola yönəlmiş olarlar. Yox əgər üz döndərsələr, (bil ki,) sənin öhdənə düşən ancaq (haqqı) təbliğ etməkdir. Allah qullarını görəndir.",
+  "footnotes": ""
 }

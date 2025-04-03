@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3143",
-    "sura": "26",
-    "aya": "211",
-    "arabic_text": "وَمَا يَنۢبَغِي لَهُمۡ وَمَا يَسۡتَطِيعُونَ",
-    "translation": "Улар учун бунинг имкони йўқ ва бунга қодир ҳам эмаслар.",
-    "footnotes": ""
-  }
+  "id": 211,
+  "verse_number": 211,
+  "page_number": 376,
+  "verse_key": "26:211",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا يَنۢبَغِي لَهُمۡ وَمَا يَسۡتَطِيعُونَ",
+  "translation": "Улар учун бунинг имкони йўқ ва бунга қодир ҳам эмаслар.",
+  "footnotes": ""
 }

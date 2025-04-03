@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1786",
-    "sura": "14",
-    "aya": "36",
-    "arabic_text": "رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ",
-    "translation": "Olúwa mi, dájúdájú àwọn òrìṣà ti kó ọ̀pọ̀lọ́pọ̀ nínú àwọn ènìyàn ṣìnà. Nítorí náà, ẹnikẹ́ni tí ó bá tẹ̀lé mi, dájúdájú òun ni ẹni mi. Ẹnikẹ́ni tí ó bá sì yapa mi, dájúdájú Ìwọ ni Aláforíjìn, Aláàánú.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 260,
+  "verse_key": "14:36",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ",
+  "translation": "Olúwa mi, dájúdájú àwọn òrìṣà ti kó ọ̀pọ̀lọ́pọ̀ nínú àwọn ènìyàn ṣìnà. Nítorí náà, ẹnikẹ́ni tí ó bá tẹ̀lé mi, dájúdájú òun ni ẹni mi. Ẹnikẹ́ni tí ó bá sì yapa mi, dájúdájú Ìwọ ni Aláforíjìn, Aláàánú.",
+  "footnotes": ""
 }

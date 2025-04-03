@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "437",
-    "sura": "3",
-    "aya": "144",
-    "arabic_text": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٞ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُۚ أَفَإِيْن مَّاتَ أَوۡ قُتِلَ ٱنقَلَبۡتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡۚ وَمَن يَنقَلِبۡ عَلَىٰ عَقِبَيۡهِ فَلَن يَضُرَّ ٱللَّهَ شَيۡـٔٗاۚ وَسَيَجۡزِي ٱللَّهُ ٱلشَّٰكِرِينَ",
-    "translation": "Kí ni (Ànábì) Muhammad bí kò ṣe Òjíṣẹ́, tí àwọn Òjíṣẹ́ kan ti lọ ṣíwájú rẹ̀.[1] Ṣé tí ó bá kú tàbí tí wọ́n bá pa á, ẹ máa pẹ̀yìndà (sẹ́sìn)? Ẹnikẹ́ni tí ó bá pẹ̀yìndà (sẹ́sìn) kò lè kó ìnira kan kan bá Allāhu. Allāhu yó sì san àwọn olùdúpẹ́ ní ẹ̀san rere.",
-    "footnotes": "1. Āyah yìí jẹ́ kò tako ìpadàbọ̀ Ànábì ‘Īsā ọmọ Mọryam - kí ọlà Allāhu máa bá a -, torí pé, ìpadàbọ̀ rẹ̀ ní òpin ayé ní àwọn ẹ̀rí tirẹ̀ lọ́tọ̀ nínú àwọn hadīth tó fẹsẹ̀ rinlẹ̀."
-  }
+  "id": 144,
+  "verse_number": 144,
+  "page_number": 68,
+  "verse_key": "3:144",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٞ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُۚ أَفَإِيْن مَّاتَ أَوۡ قُتِلَ ٱنقَلَبۡتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡۚ وَمَن يَنقَلِبۡ عَلَىٰ عَقِبَيۡهِ فَلَن يَضُرَّ ٱللَّهَ شَيۡـٔٗاۚ وَسَيَجۡزِي ٱللَّهُ ٱلشَّٰكِرِينَ",
+  "translation": "Kí ni (Ànábì) Muhammad bí kò ṣe Òjíṣẹ́, tí àwọn Òjíṣẹ́ kan ti lọ ṣíwájú rẹ̀.[1] Ṣé tí ó bá kú tàbí tí wọ́n bá pa á, ẹ máa pẹ̀yìndà (sẹ́sìn)? Ẹnikẹ́ni tí ó bá pẹ̀yìndà (sẹ́sìn) kò lè kó ìnira kan kan bá Allāhu. Allāhu yó sì san àwọn olùdúpẹ́ ní ẹ̀san rere.",
+  "footnotes": "1. Āyah yìí jẹ́ kò tako ìpadàbọ̀ Ànábì ‘Īsā ọmọ Mọryam - kí ọlà Allāhu máa bá a -, torí pé, ìpadàbọ̀ rẹ̀ ní òpin ayé ní àwọn ẹ̀rí tirẹ̀ lọ́tọ̀ nínú àwọn hadīth tó fẹsẹ̀ rinlẹ̀."
 }

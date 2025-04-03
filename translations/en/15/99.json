@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1901",
-    "sura": "15",
-    "aya": "99",
-    "arabic_text": "وَٱعۡبُدۡ رَبَّكَ حَتَّىٰ يَأۡتِيَكَ ٱلۡيَقِينُ",
-    "translation": "(99) And worship your Lord until there comes to you the certainty [i.e., death].",
-    "footnotes": ""
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 267,
+  "verse_key": "15:99",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱعۡبُدۡ رَبَّكَ حَتَّىٰ يَأۡتِيَكَ ٱلۡيَقِينُ",
+  "translation": "(99) And worship your Lord until there comes to you the certainty [i.e., death].",
+  "footnotes": ""
 }

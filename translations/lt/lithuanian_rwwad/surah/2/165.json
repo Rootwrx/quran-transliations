@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "172",
-    "sura": "2",
-    "aya": "165",
-    "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ",
-    "translation": "165. Ir tarp žmonių yra keli, kurie priskiria (garbinimui) kitus šalia Allaho kaip priešininkus (Allahui). Jie myli juos kaip jie turėtų mylėti Allahą. Bet tie, kurie tiki, myli Allahą labiau (nei ką nors kitą). Jei tik tie, kurie elgiasi blogai, galėtų suvokti, (jog) matydami jų bausmę, (jie bus tikri), kad visa galia priklauso Allahui ir kad Allahas yra Rūstus bausdamas.",
-    "footnotes": ""
-  }
+  "id": 165,
+  "verse_number": 165,
+  "page_number": 25,
+  "verse_key": "2:165",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ",
+  "translation": "165. Ir tarp žmonių yra keli, kurie priskiria (garbinimui) kitus šalia Allaho kaip priešininkus (Allahui). Jie myli juos kaip jie turėtų mylėti Allahą. Bet tie, kurie tiki, myli Allahą labiau (nei ką nors kitą). Jei tik tie, kurie elgiasi blogai, galėtų suvokti, (jog) matydami jų bausmę, (jie bus tikri), kad visa galia priklauso Allahui ir kad Allahas yra Rūstus bausdamas.",
+  "footnotes": ""
 }

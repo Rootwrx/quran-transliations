@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "97",
-    "sura": "2",
-    "aya": "90",
-    "arabic_text": "بِئۡسَمَا ٱشۡتَرَوۡاْ بِهِۦٓ أَنفُسَهُمۡ أَن يَكۡفُرُواْ بِمَآ أَنزَلَ ٱللَّهُ بَغۡيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضۡلِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٖۚ وَلِلۡكَٰفِرِينَ عَذَابٞ مُّهِينٞ",
-    "translation": "Aburú ni ohun tí wọ́n rà fún ẹ̀mí ara wọn nípa bí wọ́n ṣe ṣàì gbàgbọ́ nínú ohun tí Allāhu sọ̀kalẹ̀, ní ti ìlara pé Allāhu ń sọ (Tírà) kalẹ̀ nínú oore àjùlọ Rẹ̀ fún ẹni tí Ó fẹ́ nínú àwọn ẹrúsìn Rẹ̀. Wọ́n sì padà pẹ̀lú ìbínú (mìíràn) lórí ìbínú (Allāhu tí ó ti wà lórí wọn tẹ́lẹ̀). Ìyà tí í yẹpẹrẹ (ẹ̀dá) sì ń bẹ fún àwọn aláìgbàgbọ́.",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 14,
+  "verse_key": "2:90",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بِئۡسَمَا ٱشۡتَرَوۡاْ بِهِۦٓ أَنفُسَهُمۡ أَن يَكۡفُرُواْ بِمَآ أَنزَلَ ٱللَّهُ بَغۡيًا أَن يُنَزِّلَ ٱللَّهُ مِن فَضۡلِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦۖ فَبَآءُو بِغَضَبٍ عَلَىٰ غَضَبٖۚ وَلِلۡكَٰفِرِينَ عَذَابٞ مُّهِينٞ",
+  "translation": "Aburú ni ohun tí wọ́n rà fún ẹ̀mí ara wọn nípa bí wọ́n ṣe ṣàì gbàgbọ́ nínú ohun tí Allāhu sọ̀kalẹ̀, ní ti ìlara pé Allāhu ń sọ (Tírà) kalẹ̀ nínú oore àjùlọ Rẹ̀ fún ẹni tí Ó fẹ́ nínú àwọn ẹrúsìn Rẹ̀. Wọ́n sì padà pẹ̀lú ìbínú (mìíràn) lórí ìbínú (Allāhu tí ó ti wà lórí wọn tẹ́lẹ̀). Ìyà tí í yẹpẹrẹ (ẹ̀dá) sì ń bẹ fún àwọn aláìgbàgbọ́.",
+  "footnotes": ""
 }

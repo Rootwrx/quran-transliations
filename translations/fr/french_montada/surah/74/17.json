@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5512",
-    "sura": "74",
-    "aya": "17",
-    "arabic_text": "سَأُرۡهِقُهُۥ صَعُودًا",
-    "translation": "17. Je l’épuiserai en lui faisant gravir les montées (les plus abruptes).",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 575,
+  "verse_key": "74:17",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَأُرۡهِقُهُۥ صَعُودًا",
+  "translation": "17. Je l’épuiserai en lui faisant gravir les montées (les plus abruptes).",
+  "footnotes": ""
 }

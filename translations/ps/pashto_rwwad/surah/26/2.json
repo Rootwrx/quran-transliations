@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2934",
-    "sura": "26",
-    "aya": "2",
-    "arabic_text": "تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ",
-    "translation": "دا د هغه څرګند كتاب آيتونه دي.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 367,
+  "verse_key": "26:2",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+  "translation": "دا د هغه څرګند كتاب آيتونه دي.",
+  "footnotes": ""
 }

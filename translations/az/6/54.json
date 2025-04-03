@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "843",
-    "sura": "6",
-    "aya": "54",
-    "arabic_text": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤۡمِنُونَ بِـَٔايَٰتِنَا فَقُلۡ سَلَٰمٌ عَلَيۡكُمۡۖ كَتَبَ رَبُّكُمۡ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَ أَنَّهُۥ مَنۡ عَمِلَ مِنكُمۡ سُوٓءَۢا بِجَهَٰلَةٖ ثُمَّ تَابَ مِنۢ بَعۡدِهِۦ وَأَصۡلَحَ فَأَنَّهُۥ غَفُورٞ رَّحِيمٞ",
-    "translation": "Ayələrimizə iman gətirənlər sənin yanına gəldikdə (onlara) de: “Sizə salam olsun! Rəbbiniz Özünə rəhmli olmağı (əzəldən) vacib etmişdir; sizlərdən hər kəs cahilliyi üzündən pis iş görsə, sonra tövbə edib (əməllərini) islah etsə, (Allah onu bağışlayar). Həqiqətən, O, Bağışlayandır, Rəhmlidir”.",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 134,
+  "verse_key": "6:54",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤۡمِنُونَ بِـَٔايَٰتِنَا فَقُلۡ سَلَٰمٌ عَلَيۡكُمۡۖ كَتَبَ رَبُّكُمۡ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَ أَنَّهُۥ مَنۡ عَمِلَ مِنكُمۡ سُوٓءَۢا بِجَهَٰلَةٖ ثُمَّ تَابَ مِنۢ بَعۡدِهِۦ وَأَصۡلَحَ فَأَنَّهُۥ غَفُورٞ رَّحِيمٞ",
+  "translation": "Ayələrimizə iman gətirənlər sənin yanına gəldikdə (onlara) de: “Sizə salam olsun! Rəbbiniz Özünə rəhmli olmağı (əzəldən) vacib etmişdir; sizlərdən hər kəs cahilliyi üzündən pis iş görsə, sonra tövbə edib (əməllərini) islah etsə, (Allah onu bağışlayar). Həqiqətən, O, Bağışlayandır, Rəhmlidir”.",
+  "footnotes": ""
 }

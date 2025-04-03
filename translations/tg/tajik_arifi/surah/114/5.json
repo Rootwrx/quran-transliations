@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6235",
-    "sura": "114",
-    "aya": "5",
-    "arabic_text": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
-    "translation": "Ҳамоне, ки дар дилҳои мардум васваса мекунад",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 604,
+  "verse_key": "114:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي يُوَسۡوِسُ فِي صُدُورِ ٱلنَّاسِ",
+  "translation": "Ҳамоне, ки дар дилҳои мардум васваса мекунад",
+  "footnotes": ""
 }

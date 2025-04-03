@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3126",
-    "sura": "26",
-    "aya": "194",
-    "arabic_text": "عَلَىٰ قَلۡبِكَ لِتَكُونَ مِنَ ٱلۡمُنذِرِينَ",
-    "translation": "তোমাৰ হৃদয়ত, যাতে তুমি সতৰ্ককাৰীসকলৰ অন্তৰ্ভুক্ত হোৱা।",
-    "footnotes": ""
-  }
+  "id": 194,
+  "verse_number": 194,
+  "page_number": 375,
+  "verse_key": "26:194",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَىٰ قَلۡبِكَ لِتَكُونَ مِنَ ٱلۡمُنذِرِينَ",
+  "translation": "তোমাৰ হৃদয়ত, যাতে তুমি সতৰ্ককাৰীসকলৰ অন্তৰ্ভুক্ত হোৱা।",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3157",
-    "sura": "26",
-    "aya": "225",
-    "arabic_text": "أَلَمۡ تَرَ أَنَّهُمۡ فِي كُلِّ وَادٖ يَهِيمُونَ",
-    "translation": " ئایا نابینیت کەئەوانە بەھەموو دۆڵ و شیوێکدا بەسەر لێشێواوی دەڕۆن (شیعر دەڵێن)\n",
-    "footnotes": null
-  }
+  "id": 225,
+  "verse_number": 225,
+  "page_number": 376,
+  "verse_key": "26:225",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ أَنَّهُمۡ فِي كُلِّ وَادٖ يَهِيمُونَ",
+  "translation": " ئایا نابینیت کەئەوانە بەھەموو دۆڵ و شیوێکدا بەسەر لێشێواوی دەڕۆن (شیعر دەڵێن)\n",
+  "footnotes": null
 }

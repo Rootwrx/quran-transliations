@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3685",
-    "sura": "35",
-    "aya": "25",
-    "arabic_text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَبِٱلزُّبُرِ وَبِٱلۡكِتَٰبِ ٱلۡمُنِيرِ",
-    "translation": "Lɑ b sã n yɑgs foom, sɩd la hakɩɩka, sẽn deng-b bãmb tɑoorã me yɑgsɑme. B tẽn-tʋʋmbã waa b nengẽ ne yel-vẽenese, lɑ sεb toor-toore, lɑ sebr sẽn yɑɑ vẽenem.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 437,
+  "verse_key": "35:25",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَبِٱلزُّبُرِ وَبِٱلۡكِتَٰبِ ٱلۡمُنِيرِ",
+  "translation": "Lɑ b sã n yɑgs foom, sɩd la hakɩɩka, sẽn deng-b bãmb tɑoorã me yɑgsɑme. B tẽn-tʋʋmbã waa b nengẽ ne yel-vẽenese, lɑ sεb toor-toore, lɑ sebr sẽn yɑɑ vẽenem.",
+  "footnotes": ""
 }

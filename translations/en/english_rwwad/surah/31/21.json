@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3490",
-    "sura": "31",
-    "aya": "21",
-    "arabic_text": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُواْ مَآ أَنزَلَ ٱللَّهُ قَالُواْ بَلۡ نَتَّبِعُ مَا وَجَدۡنَا عَلَيۡهِ ءَابَآءَنَآۚ أَوَلَوۡ كَانَ ٱلشَّيۡطَٰنُ يَدۡعُوهُمۡ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
-    "translation": "When it is said to them, “Follow what Allah has sent down,” they say, “No, we follow what we found our forefathers doing.” Is that so, even if Satan is calling them to the punishment of the Blazing Fire?",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 413,
+  "verse_key": "31:21",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا قِيلَ لَهُمُ ٱتَّبِعُواْ مَآ أَنزَلَ ٱللَّهُ قَالُواْ بَلۡ نَتَّبِعُ مَا وَجَدۡنَا عَلَيۡهِ ءَابَآءَنَآۚ أَوَلَوۡ كَانَ ٱلشَّيۡطَٰنُ يَدۡعُوهُمۡ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+  "translation": "When it is said to them, “Follow what Allah has sent down,” they say, “No, we follow what we found our forefathers doing.” Is that so, even if Satan is calling them to the punishment of the Blazing Fire?",
+  "footnotes": ""
 }

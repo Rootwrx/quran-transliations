@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "138",
-    "sura": "2",
-    "aya": "131",
-    "arabic_text": "إِذۡ قَالَ لَهُۥ رَبُّهُۥٓ أَسۡلِمۡۖ قَالَ أَسۡلَمۡتُ لِرَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "When his Lord said to him, “Submit[56],” he said, “I have submitted to the Lord of the worlds.”",
-    "footnotes": "[56] The meaning of the word \"Islam\" is \"submission to the will of Allah.\" This is ordained by Allah and taught by all of the prophets from Adam to Muhammad (ﷺ). A Muslim is one who submits himself to Allah."
-  }
+  "id": 131,
+  "verse_number": 131,
+  "page_number": 20,
+  "verse_key": "2:131",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَ لَهُۥ رَبُّهُۥٓ أَسۡلِمۡۖ قَالَ أَسۡلَمۡتُ لِرَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "When his Lord said to him, “Submit[56],” he said, “I have submitted to the Lord of the worlds.”",
+  "footnotes": "[56] The meaning of the word \"Islam\" is \"submission to the will of Allah.\" This is ordained by Allah and taught by all of the prophets from Adam to Muhammad (ﷺ). A Muslim is one who submits himself to Allah."
 }

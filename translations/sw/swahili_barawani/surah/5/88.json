@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "757",
-    "sura": "5",
-    "aya": "88",
-    "arabic_text": "وَكُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلٗا طَيِّبٗاۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ أَنتُم بِهِۦ مُؤۡمِنُونَ",
-    "translation": "Na kuleni katika alivyo kuruzukuni Mwenyezi Mungu, halali na vizuri. Na mcheni Mwenyezi Mungu ambaye mnamuamini.",
-    "footnotes": "Na kuleni vitu alivyo kupeni Mwenyezi Mungu na akavifanya vyepesi kwenu, na akavifanya ni halali na ni vizuri kwa nafsi zenu. Na daima mwogopeni Mwenyezi Mungu, na mt'iini Yeye maadamu nyinyi mnamuamini Yeye."
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 122,
+  "verse_key": "5:88",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلٗا طَيِّبٗاۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ أَنتُم بِهِۦ مُؤۡمِنُونَ",
+  "translation": "Na kuleni katika alivyo kuruzukuni Mwenyezi Mungu, halali na vizuri. Na mcheni Mwenyezi Mungu ambaye mnamuamini.",
+  "footnotes": "Na kuleni vitu alivyo kupeni Mwenyezi Mungu na akavifanya vyepesi kwenu, na akavifanya ni halali na ni vizuri kwa nafsi zenu. Na daima mwogopeni Mwenyezi Mungu, na mt'iini Yeye maadamu nyinyi mnamuamini Yeye."
 }

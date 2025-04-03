@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1389",
-    "sura": "10",
-    "aya": "25",
-    "arabic_text": "وَٱللَّهُ يَدۡعُوٓاْ إِلَىٰ دَارِ ٱلسَّلَٰمِ وَيَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "25. Alle wuxuu ku baaqaa Daarta Nabadda (Jannada) wuxuuna ku hanuuniyaa cidduu doono Jid Toosan (Islaamka).",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 211,
+  "verse_key": "10:25",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ يَدۡعُوٓاْ إِلَىٰ دَارِ ٱلسَّلَٰمِ وَيَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "25. Alle wuxuu ku baaqaa Daarta Nabadda (Jannada) wuxuuna ku hanuuniyaa cidduu doono Jid Toosan (Islaamka).",
+  "footnotes": ""
 }

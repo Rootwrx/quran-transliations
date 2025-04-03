@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "583",
-    "sura": "4",
-    "aya": "90",
-    "arabic_text": "إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٌ أَوۡ جَآءُوكُمۡ حَصِرَتۡ صُدُورُهُمۡ أَن يُقَٰتِلُوكُمۡ أَوۡ يُقَٰتِلُواْ قَوۡمَهُمۡۚ وَلَوۡ شَآءَ ٱللَّهُ لَسَلَّطَهُمۡ عَلَيۡكُمۡ فَلَقَٰتَلُوكُمۡۚ فَإِنِ ٱعۡتَزَلُوكُمۡ فَلَمۡ يُقَٰتِلُوكُمۡ وَأَلۡقَوۡاْ إِلَيۡكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمۡ عَلَيۡهِمۡ سَبِيلٗا",
-    "translation": "Exceto os que se vincularem com um povo entre o qual e vós exista aliança, ou os que chegarem a vós com os peitos constritos por combater-vos ou por combater seu povo. E, se Allah quisesse, haver-Ihes-ia dado poder sobre vós, e eles vos haveriam combatido. Então, se se apartarem de vós e não mais vos combaterem e vos lançarem a paz, Allah não vos fará caminho algum contra eles.",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 92,
+  "verse_key": "4:90",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا ٱلَّذِينَ يَصِلُونَ إِلَىٰ قَوۡمِۭ بَيۡنَكُمۡ وَبَيۡنَهُم مِّيثَٰقٌ أَوۡ جَآءُوكُمۡ حَصِرَتۡ صُدُورُهُمۡ أَن يُقَٰتِلُوكُمۡ أَوۡ يُقَٰتِلُواْ قَوۡمَهُمۡۚ وَلَوۡ شَآءَ ٱللَّهُ لَسَلَّطَهُمۡ عَلَيۡكُمۡ فَلَقَٰتَلُوكُمۡۚ فَإِنِ ٱعۡتَزَلُوكُمۡ فَلَمۡ يُقَٰتِلُوكُمۡ وَأَلۡقَوۡاْ إِلَيۡكُمُ ٱلسَّلَمَ فَمَا جَعَلَ ٱللَّهُ لَكُمۡ عَلَيۡهِمۡ سَبِيلٗا",
+  "translation": "Exceto os que se vincularem com um povo entre o qual e vós exista aliança, ou os que chegarem a vós com os peitos constritos por combater-vos ou por combater seu povo. E, se Allah quisesse, haver-Ihes-ia dado poder sobre vós, e eles vos haveriam combatido. Então, se se apartarem de vós e não mais vos combaterem e vos lançarem a paz, Allah não vos fará caminho algum contra eles.",
+  "footnotes": ""
 }

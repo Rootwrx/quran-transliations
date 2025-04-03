@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3764",
-    "sura": "36",
-    "aya": "59",
-    "arabic_text": "وَٱمۡتَٰزُواْ ٱلۡيَوۡمَ أَيُّهَا ٱلۡمُجۡرِمُونَ",
-    "translation": "59. (Y Al-lah dirá a quienes rechazaron la verdad:) «¡Apartaos (de los creyentes), oh, pecadores incrédulos!",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 444,
+  "verse_key": "36:59",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱمۡتَٰزُواْ ٱلۡيَوۡمَ أَيُّهَا ٱلۡمُجۡرِمُونَ",
+  "translation": "59. (Y Al-lah dirá a quienes rechazaron la verdad:) «¡Apartaos (de los creyentes), oh, pecadores incrédulos!",
+  "footnotes": ""
 }

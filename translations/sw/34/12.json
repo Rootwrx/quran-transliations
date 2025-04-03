@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3618",
-    "sura": "34",
-    "aya": "12",
-    "arabic_text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهۡرٞ وَرَوَاحُهَا شَهۡرٞۖ وَأَسَلۡنَا لَهُۥ عَيۡنَ ٱلۡقِطۡرِۖ وَمِنَ ٱلۡجِنِّ مَن يَعۡمَلُ بَيۡنَ يَدَيۡهِ بِإِذۡنِ رَبِّهِۦۖ وَمَن يَزِغۡ مِنۡهُمۡ عَنۡ أَمۡرِنَا نُذِقۡهُ مِنۡ عَذَابِ ٱلسَّعِيرِ",
-    "translation": "Na Suleiman tuliufanya upepo umtumikie. Safari yake ya asubuhi ni mwendo wa mwezi mmoja, na safari yake ya jioni ni mwendo wa mwezi mmoja. Na tukamyayushia chemchem ya shaba. Na katika majini walikuwako walio kuwa wakifanya kazi mbele yake kwa idhini ya Mola wake Mlezi. Na kila anaye jitenga na amri yetu katika wao, tunamwonjesha adhabu ya Moto unao waka.",
-    "footnotes": "Na Suleiman tukamfanyia upepo umtumikie. Mwendo wake wakati wa asubuhi mmoja ni sawa na safari ya dasturi inayo chukua mwezi mzima. Na mwendo wake wakati wa jioni moja ni kama safari ya kuchukua mwezi. Na tukamyayushia maadeni ya shaba ikawa inatiririka kwa wingi moja kwa moja. Na tukawafanya majini wawe wakimtumikia mbele yake kwa amri ya Mola wake Mlezi. Na yeyote katika majini aliye wacha kut'ii amri ya Suleiman basi tulimwonjesha adhabu ya Moto unao waka kwa nguvu."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 429,
+  "verse_key": "34:12",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهۡرٞ وَرَوَاحُهَا شَهۡرٞۖ وَأَسَلۡنَا لَهُۥ عَيۡنَ ٱلۡقِطۡرِۖ وَمِنَ ٱلۡجِنِّ مَن يَعۡمَلُ بَيۡنَ يَدَيۡهِ بِإِذۡنِ رَبِّهِۦۖ وَمَن يَزِغۡ مِنۡهُمۡ عَنۡ أَمۡرِنَا نُذِقۡهُ مِنۡ عَذَابِ ٱلسَّعِيرِ",
+  "translation": "Na Suleiman tuliufanya upepo umtumikie. Safari yake ya asubuhi ni mwendo wa mwezi mmoja, na safari yake ya jioni ni mwendo wa mwezi mmoja. Na tukamyayushia chemchem ya shaba. Na katika majini walikuwako walio kuwa wakifanya kazi mbele yake kwa idhini ya Mola wake Mlezi. Na kila anaye jitenga na amri yetu katika wao, tunamwonjesha adhabu ya Moto unao waka.",
+  "footnotes": "Na Suleiman tukamfanyia upepo umtumikie. Mwendo wake wakati wa asubuhi mmoja ni sawa na safari ya dasturi inayo chukua mwezi mzima. Na mwendo wake wakati wa jioni moja ni kama safari ya kuchukua mwezi. Na tukamyayushia maadeni ya shaba ikawa inatiririka kwa wingi moja kwa moja. Na tukawafanya majini wawe wakimtumikia mbele yake kwa amri ya Mola wake Mlezi. Na yeyote katika majini aliye wacha kut'ii amri ya Suleiman basi tulimwonjesha adhabu ya Moto unao waka kwa nguvu."
 }

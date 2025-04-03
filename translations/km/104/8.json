@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6187",
-    "sura": "104",
-    "aya": "8",
-    "arabic_text": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ",
-    "translation": "ពិតប្រាកដណាស់ នរកនោះត្រូវបានបិទជិត ដើម្បីកុំឱ្យ ពួកគេចេញ។",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 601,
+  "verse_key": "104:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهَا عَلَيۡهِم مُّؤۡصَدَةٞ",
+  "translation": "ពិតប្រាកដណាស់ នរកនោះត្រូវបានបិទជិត ដើម្បីកុំឱ្យ ពួកគេចេញ។",
+  "footnotes": ""
 }

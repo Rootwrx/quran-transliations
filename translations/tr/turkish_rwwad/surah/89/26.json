@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6019",
-    "sura": "89",
-    "aya": "26",
-    "arabic_text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ",
-    "translation": "Ve O'nun vuracağı bağı hiç kimse vuramaz.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 594,
+  "verse_key": "89:26",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يُوثِقُ وَثَاقَهُۥٓ أَحَدٞ",
+  "translation": "Ve O'nun vuracağı bağı hiç kimse vuramaz.",
+  "footnotes": ""
 }

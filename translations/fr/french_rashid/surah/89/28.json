@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6021",
-    "sura": "89",
-    "aya": "28",
-    "arabic_text": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ",
-    "translation": "28 Retourne à ton Seigneur satisfaite et agréée !",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 594,
+  "verse_key": "89:28",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱرۡجِعِيٓ إِلَىٰ رَبِّكِ رَاضِيَةٗ مَّرۡضِيَّةٗ",
+  "translation": "28 Retourne à ton Seigneur satisfaite et agréée !",
+  "footnotes": ""
 }

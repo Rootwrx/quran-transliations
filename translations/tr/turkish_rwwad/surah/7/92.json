@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1046",
-    "sura": "7",
-    "aya": "92",
-    "arabic_text": "ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَاۚ ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَانُواْ هُمُ ٱلۡخَٰسِرِينَ",
-    "translation": "Şu’ayb’ı yalanlayanlar sanki orada hiç yaşamamışlardı. Şuayb’ı yalanlayanlar var ya, asıl ziyana uğrayanlar onlar oldu.",
-    "footnotes": ""
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 162,
+  "verse_key": "7:92",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَاۚ ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَانُواْ هُمُ ٱلۡخَٰسِرِينَ",
+  "translation": "Şu’ayb’ı yalanlayanlar sanki orada hiç yaşamamışlardı. Şuayb’ı yalanlayanlar var ya, asıl ziyana uğrayanlar onlar oldu.",
+  "footnotes": ""
 }

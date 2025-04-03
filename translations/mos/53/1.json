@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4785",
-    "sura": "53",
-    "aya": "1",
-    "arabic_text": "وَٱلنَّجۡمِ إِذَا هَوَىٰ",
-    "translation": "M wẽen ne ãdg t'a sã n wa lʋɩ.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 526,
+  "verse_key": "53:1",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلنَّجۡمِ إِذَا هَوَىٰ",
+  "translation": "M wẽen ne ãdg t'a sã n wa lʋɩ.",
+  "footnotes": ""
 }

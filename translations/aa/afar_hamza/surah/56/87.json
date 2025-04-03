@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5066",
-    "sura": "56",
-    "aya": "87",
-    "arabic_text": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "87. Isin nummat yaaba mara tekkeenik Rooci xagarah gacissaanam maay duddan (woh ma-duddan).",
-    "footnotes": ""
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 537,
+  "verse_key": "56:87",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَرۡجِعُونَهَآ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "87. Isin nummat yaaba mara tekkeenik Rooci xagarah gacissaanam maay duddan (woh ma-duddan).",
+  "footnotes": ""
 }

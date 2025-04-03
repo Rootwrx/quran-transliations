@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2786",
-    "sura": "23",
-    "aya": "113",
-    "arabic_text": "قَالُواْ لَبِثۡنَا يَوۡمًا أَوۡ بَعۡضَ يَوۡمٖ فَسۡـَٔلِ ٱلۡعَآدِّينَ",
-    "translation": "Onlar: “Bir gün yahut bir günün bir bölümü kadar eğlendik. Haydi sayanlara sor” diyecekler.",
-    "footnotes": ""
-  }
+  "id": 113,
+  "verse_number": 113,
+  "page_number": 349,
+  "verse_key": "23:113",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ لَبِثۡنَا يَوۡمًا أَوۡ بَعۡضَ يَوۡمٖ فَسۡـَٔلِ ٱلۡعَآدِّينَ",
+  "translation": "Onlar: “Bir gün yahut bir günün bir bölümü kadar eğlendik. Haydi sayanlara sor” diyecekler.",
+  "footnotes": ""
 }

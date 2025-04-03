@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3844",
-    "sura": "37",
-    "aya": "56",
-    "arabic_text": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرۡدِينِ",
-    "translation": "তেওঁ ক’ব, ‘আল্লাহৰ শপত! তুমিতো মোক প্ৰায় ধ্বংসই কৰিছিলা,",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 448,
+  "verse_key": "37:56",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ تَٱللَّهِ إِن كِدتَّ لَتُرۡدِينِ",
+  "translation": "তেওঁ ক’ব, ‘আল্লাহৰ শপত! তুমিতো মোক প্ৰায় ধ্বংসই কৰিছিলা,",
+  "footnotes": ""
 }

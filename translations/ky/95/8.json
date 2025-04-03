@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6106",
-    "sura": "95",
-    "aya": "8",
-    "arabic_text": "أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ",
-    "translation": "Аллах эң даанышман өкүмдар эмеспи?",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 597,
+  "verse_key": "95:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَيۡسَ ٱللَّهُ بِأَحۡكَمِ ٱلۡحَٰكِمِينَ",
+  "translation": "Аллах эң даанышман өкүмдар эмеспи?",
+  "footnotes": ""
 }

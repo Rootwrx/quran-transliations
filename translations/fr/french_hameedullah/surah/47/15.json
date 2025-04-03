@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4560",
-    "sura": "47",
-    "aya": "15",
-    "arabic_text": "مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ فِيهَآ أَنۡهَٰرٞ مِّن مَّآءٍ غَيۡرِ ءَاسِنٖ وَأَنۡهَٰرٞ مِّن لَّبَنٖ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرٞ مِّنۡ خَمۡرٖ لَّذَّةٖ لِّلشَّٰرِبِينَ وَأَنۡهَٰرٞ مِّنۡ عَسَلٖ مُّصَفّٗىۖ وَلَهُمۡ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةٞ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدٞ فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمٗا فَقَطَّعَ أَمۡعَآءَهُمۡ",
-    "translation": "Voici la description du Paradis qui a été promis aux pieux : il y aura là des ruisseaux d’une eau jamais malodorante, et des ruisseaux d’un lait au goût inaltérable, et des ruisseaux d’un vin délicieux à boire, ainsi que des ruisseaux d’un miel purifié. Et il y a là, pour eux, des fruits de toutes sortes, ainsi qu’un pardon de la part de leur Seigneur. [Ceux-là] seront-ils pareils à ceux qui s’éternisent dans le Feu et qui sont abreuvés d’une eau bouillante qui leur déchire les entrailles ?",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 508,
+  "verse_key": "47:15",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ فِيهَآ أَنۡهَٰرٞ مِّن مَّآءٍ غَيۡرِ ءَاسِنٖ وَأَنۡهَٰرٞ مِّن لَّبَنٖ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرٞ مِّنۡ خَمۡرٖ لَّذَّةٖ لِّلشَّٰرِبِينَ وَأَنۡهَٰرٞ مِّنۡ عَسَلٖ مُّصَفّٗىۖ وَلَهُمۡ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةٞ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدٞ فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمٗا فَقَطَّعَ أَمۡعَآءَهُمۡ",
+  "translation": "Voici la description du Paradis qui a été promis aux pieux : il y aura là des ruisseaux d’une eau jamais malodorante, et des ruisseaux d’un lait au goût inaltérable, et des ruisseaux d’un vin délicieux à boire, ainsi que des ruisseaux d’un miel purifié. Et il y a là, pour eux, des fruits de toutes sortes, ainsi qu’un pardon de la part de leur Seigneur. [Ceux-là] seront-ils pareils à ceux qui s’éternisent dans le Feu et qui sont abreuvés d’une eau bouillante qui leur déchire les entrailles ?",
+  "footnotes": ""
 }

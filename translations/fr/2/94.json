@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "101",
-    "sura": "2",
-    "aya": "94",
-    "arabic_text": "قُلۡ إِن كَانَتۡ لَكُمُ ٱلدَّارُ ٱلۡأٓخِرَةُ عِندَ ٱللَّهِ خَالِصَةٗ مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُاْ ٱلۡمَوۡتَ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "Dis: \"Si l’Ultime demeure auprès d’Allah est pour vous seuls, à l’exclusion des autres gens, souhaitez donc la mort [immédiate] si vous êtes véridiques!\"",
-    "footnotes": ""
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 15,
+  "verse_key": "2:94",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِن كَانَتۡ لَكُمُ ٱلدَّارُ ٱلۡأٓخِرَةُ عِندَ ٱللَّهِ خَالِصَةٗ مِّن دُونِ ٱلنَّاسِ فَتَمَنَّوُاْ ٱلۡمَوۡتَ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "Dis: \"Si l’Ultime demeure auprès d’Allah est pour vous seuls, à l’exclusion des autres gens, souhaitez donc la mort [immédiate] si vous êtes véridiques!\"",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "737",
-    "sura": "5",
-    "aya": "68",
-    "arabic_text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
-    "translation": "Sọ pé: “Ẹ̀yin onítírà, ẹ ò rí kiní kan ṣe (nínú ẹ̀sìn) títí ẹ máa fi lo at-Taorāh àti al-’Injīl àti ohun tí A sọ̀kalẹ̀ fún yín láti ọ̀dọ̀ Olúwa yín (ìyẹn, al-Ƙur’ān).” Ohun tí wọ́n sọ̀kalẹ̀ fún ọ láti ọ̀dọ̀ Olúwa Rẹ yóò kúkú jẹ́ kí ọ̀pọ̀lọ́pọ̀ wọn lékún ní ìgbéraga àti àìgbàgbọ́ ni. Nítorí náà, má ṣe banújẹ́ nítorí ìjọ aláìgbàgbọ́.",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 119,
+  "verse_key": "5:68",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+  "translation": "Sọ pé: “Ẹ̀yin onítírà, ẹ ò rí kiní kan ṣe (nínú ẹ̀sìn) títí ẹ máa fi lo at-Taorāh àti al-’Injīl àti ohun tí A sọ̀kalẹ̀ fún yín láti ọ̀dọ̀ Olúwa yín (ìyẹn, al-Ƙur’ān).” Ohun tí wọ́n sọ̀kalẹ̀ fún ọ láti ọ̀dọ̀ Olúwa Rẹ yóò kúkú jẹ́ kí ọ̀pọ̀lọ́pọ̀ wọn lékún ní ìgbéraga àti àìgbàgbọ́ ni. Nítorí náà, má ṣe banújẹ́ nítorí ìjọ aláìgbàgbọ́.",
+  "footnotes": ""
 }

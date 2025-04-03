@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1061",
-    "sura": "7",
-    "aya": "107",
-    "arabic_text": "فَأَلۡقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعۡبَانٞ مُّبِينٞ",
-    "translation": "Basi akaitupa fimbo yake, na mara ikawa nyoka dhaahiri.",
-    "footnotes": "Kiasi ya Musa kuitupa fimbo aliyo kuwa nayo mkononi mwake wa kulia mbele ya Firauni, mara hiyo fimbo ikawa nyoka khasa dhaahiri, anakwenda mbio huku na huku, kwa nguvu zinazo onyesha kuwa ana uhai timamu."
-  }
+  "id": 107,
+  "verse_number": 107,
+  "page_number": 164,
+  "verse_key": "7:107",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَلۡقَىٰ عَصَاهُ فَإِذَا هِيَ ثُعۡبَانٞ مُّبِينٞ",
+  "translation": "Basi akaitupa fimbo yake, na mara ikawa nyoka dhaahiri.",
+  "footnotes": "Kiasi ya Musa kuitupa fimbo aliyo kuwa nayo mkononi mwake wa kulia mbele ya Firauni, mara hiyo fimbo ikawa nyoka khasa dhaahiri, anakwenda mbio huku na huku, kwa nguvu zinazo onyesha kuwa ana uhai timamu."
 }

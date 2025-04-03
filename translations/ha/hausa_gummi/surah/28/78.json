@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3330",
-    "sura": "28",
-    "aya": "78",
-    "arabic_text": "قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلۡمٍ عِندِيٓۚ أَوَلَمۡ يَعۡلَمۡ أَنَّ ٱللَّهَ قَدۡ أَهۡلَكَ مِن قَبۡلِهِۦ مِنَ ٱلۡقُرُونِ مَنۡ هُوَ أَشَدُّ مِنۡهُ قُوَّةٗ وَأَكۡثَرُ جَمۡعٗاۚ وَلَا يُسۡـَٔلُ عَن ذُنُوبِهِمُ ٱلۡمُجۡرِمُونَ",
-    "translation": "Ya ce: \"An bã ni shi a kan wani ilmi wanda yake gare ni ne kawai.\" Shin, kuma bai sani ba cẽwa lalle Allah haƙiƙa Ya halakar a gabaninsa, daga ƙarnõni, wanda yake Shi ne mafi tsananin ƙarfi daga gare shi, kuma mafi yawan tãrawar dũkiya, kuma bã zã a tambayi mãsu laifi daga zunubansu ba?*",
-    "footnotes": "* Yanã ganin dũkiyar da ya samu, ya sãme ta ne sabõda ya san ilmin fatauci da sana'a kuma yanã da ƙarfin neman dũkiyar, sabõda raddin irin tunãninsa Allah Ya ce Ya halaka wanda ya fi shi tsananin ƙarfi da ƙõƙarin tãra dũkiya, kuma idan Ya tãshi halaka mai laifi bã Ya tsayãwa tambayarsa dalĩlin da ya sa ya yi laifin kãfin Ya halakar da shi. Waɗannan abũbuwa uku sun isa ga mai dũkiya ya yi tunãni, dõmin kada annashuwa ta shige shi ya ƙi gõde waAllah."
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 395,
+  "verse_key": "28:78",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 158,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلۡمٍ عِندِيٓۚ أَوَلَمۡ يَعۡلَمۡ أَنَّ ٱللَّهَ قَدۡ أَهۡلَكَ مِن قَبۡلِهِۦ مِنَ ٱلۡقُرُونِ مَنۡ هُوَ أَشَدُّ مِنۡهُ قُوَّةٗ وَأَكۡثَرُ جَمۡعٗاۚ وَلَا يُسۡـَٔلُ عَن ذُنُوبِهِمُ ٱلۡمُجۡرِمُونَ",
+  "translation": "Ya ce: \"An bã ni shi a kan wani ilmi wanda yake gare ni ne kawai.\" Shin, kuma bai sani ba cẽwa lalle Allah haƙiƙa Ya halakar a gabaninsa, daga ƙarnõni, wanda yake Shi ne mafi tsananin ƙarfi daga gare shi, kuma mafi yawan tãrawar dũkiya, kuma bã zã a tambayi mãsu laifi daga zunubansu ba?*",
+  "footnotes": "* Yanã ganin dũkiyar da ya samu, ya sãme ta ne sabõda ya san ilmin fatauci da sana'a kuma yanã da ƙarfin neman dũkiyar, sabõda raddin irin tunãninsa Allah Ya ce Ya halaka wanda ya fi shi tsananin ƙarfi da ƙõƙarin tãra dũkiya, kuma idan Ya tãshi halaka mai laifi bã Ya tsayãwa tambayarsa dalĩlin da ya sa ya yi laifin kãfin Ya halakar da shi. Waɗannan abũbuwa uku sun isa ga mai dũkiya ya yi tunãni, dõmin kada annashuwa ta shige shi ya ƙi gõde waAllah."
 }

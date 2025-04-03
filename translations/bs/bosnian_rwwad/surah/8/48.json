@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1208",
-    "sura": "8",
-    "aya": "48",
-    "arabic_text": "وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارٞ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءٞ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
-    "translation": "I kada im je šejtan kao lijepe njihove postupke predstavio i rekao: “Niko vas danas ne može pobijediti, i ja sam vaš zaštitnik!” – onda je on, kada su se dva protivnička tabora sukobila, natrag uzmaknuo, i rekao: “Ja nemam ništa s vama, ja vidim ono što vi ne vidite, i ja se bojim Allaha, jer Allah strašno kažnjava!”",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 183,
+  "verse_key": "8:48",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارٞ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءٞ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
+  "translation": "I kada im je šejtan kao lijepe njihove postupke predstavio i rekao: “Niko vas danas ne može pobijediti, i ja sam vaš zaštitnik!” – onda je on, kada su se dva protivnička tabora sukobila, natrag uzmaknuo, i rekao: “Ja nemam ništa s vama, ja vidim ono što vi ne vidite, i ja se bojim Allaha, jer Allah strašno kažnjava!”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5551",
-    "sura": "74",
-    "aya": "56",
-    "arabic_text": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ",
-    "translation": "Wọn kò sì níí rántí (al-Ƙur’ān) àfi tí Allāhu bá fẹ́. (Allāhu) Òun l’a gbọ́dọ̀ bẹ̀rù. Òun l’ó sì ni àforíjìn.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 577,
+  "verse_key": "74:56",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ",
+  "translation": "Wọn kò sì níí rántí (al-Ƙur’ān) àfi tí Allāhu bá fẹ́. (Allāhu) Òun l’a gbọ́dọ̀ bẹ̀rù. Òun l’ó sì ni àforíjìn.",
+  "footnotes": ""
 }

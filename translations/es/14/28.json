@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1778",
-    "sura": "14",
-    "aya": "28",
-    "arabic_text": "۞ أَلَمۡ تَرَ إِلَى ٱلَّذِينَ بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا وَأَحَلُّواْ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ",
-    "translation": "28. ¿Acaso no reparas en aquellos que en vez de agradecer a Dios por Sus bendiciones son ingratos y conducen a su pueblo a la perdición?",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 259,
+  "verse_key": "14:28",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَلَمۡ تَرَ إِلَى ٱلَّذِينَ بَدَّلُواْ نِعۡمَتَ ٱللَّهِ كُفۡرٗا وَأَحَلُّواْ قَوۡمَهُمۡ دَارَ ٱلۡبَوَارِ",
+  "translation": "28. ¿Acaso no reparas en aquellos que en vez de agradecer a Dios por Sus bendiciones son ingratos y conducen a su pueblo a la perdición?",
+  "footnotes": ""
 }

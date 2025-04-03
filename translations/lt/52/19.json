@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4754",
-    "sura": "52",
-    "aya": "19",
-    "arabic_text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "19. „Valgykit ir gerkite džiaugsme už tai, ką darėte (pirmame gyvenime).“",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 524,
+  "verse_key": "52:19",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "19. „Valgykit ir gerkite džiaugsme už tai, ką darėte (pirmame gyvenime).“",
+  "footnotes": ""
 }

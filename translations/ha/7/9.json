@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "963",
-    "sura": "7",
-    "aya": "9",
-    "arabic_text": "وَمَنۡ خَفَّتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُم بِمَا كَانُواْ بِـَٔايَٰتِنَا يَظۡلِمُونَ",
-    "translation": "Kuma wanda sikẽlansa suka yi sauƙi, to, waɗannan ne waɗanda suka yi hasarar rayukansu, sabõda abin da suka kasance, da ãyõyinMu, sunã yi na zãlunci.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 151,
+  "verse_key": "7:9",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَنۡ خَفَّتۡ مَوَٰزِينُهُۥ فَأُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُم بِمَا كَانُواْ بِـَٔايَٰتِنَا يَظۡلِمُونَ",
+  "translation": "Kuma wanda sikẽlansa suka yi sauƙi, to, waɗannan ne waɗanda suka yi hasarar rayukansu, sabõda abin da suka kasance, da ãyõyinMu, sunã yi na zãlunci.",
+  "footnotes": ""
 }

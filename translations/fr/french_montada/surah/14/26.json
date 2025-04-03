@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1776",
-    "sura": "14",
-    "aya": "26",
-    "arabic_text": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٖ كَشَجَرَةٍ خَبِيثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارٖ",
-    "translation": "26. Tandis qu’une parole maléfique[256] ressemble à un arbre d’une mauvaise venue, (qui aurait été) arraché du sol et qui n’a point de base stable.",
-    "footnotes": "[256] Littéralement : « une mauvaise parole ». Nous utilisons l’expression « parole maléfique » qui fait pendant à « parole de bien » utilisée dans le verset 24. Si la « parole de bien » est celle par laquelle l’homme reconnaît l’unicité du Créateur, la « parole maléfique » réfère à toute proclamation associâtre et mécréante."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 259,
+  "verse_key": "14:26",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٖ كَشَجَرَةٍ خَبِيثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارٖ",
+  "translation": "26. Tandis qu’une parole maléfique[256] ressemble à un arbre d’une mauvaise venue, (qui aurait été) arraché du sol et qui n’a point de base stable.",
+  "footnotes": "[256] Littéralement : « une mauvaise parole ». Nous utilisons l’expression « parole maléfique » qui fait pendant à « parole de bien » utilisée dans le verset 24. Si la « parole de bien » est celle par laquelle l’homme reconnaît l’unicité du Créateur, la « parole maléfique » réfère à toute proclamation associâtre et mécréante."
 }

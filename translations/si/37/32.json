@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3820",
-    "sura": "37",
-    "aya": "32",
-    "arabic_text": "فَأَغۡوَيۡنَٰكُمۡ إِنَّا كُنَّا غَٰوِينَ",
-    "translation": "තවද අපි නුඹලා නොමග හැරියෙමු. නියත වශයෙන් ම අප ද නොමග ගියවුන් වූයෙමු.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 447,
+  "verse_key": "37:32",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَغۡوَيۡنَٰكُمۡ إِنَّا كُنَّا غَٰوِينَ",
+  "translation": "තවද අපි නුඹලා නොමග හැරියෙමු. නියත වශයෙන් ම අප ද නොමග ගියවුන් වූයෙමු.",
+  "footnotes": ""
 }

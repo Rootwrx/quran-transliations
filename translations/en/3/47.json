@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "340",
-    "sura": "3",
-    "aya": "47",
-    "arabic_text": "قَالَتۡ رَبِّ أَنَّىٰ يَكُونُ لِي وَلَدٞ وَلَمۡ يَمۡسَسۡنِي بَشَرٞۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخۡلُقُ مَا يَشَآءُۚ إِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
-    "translation": "(47) She said, \"My Lord, how will I have a child when no man has touched me?\" [The angel] said, \"Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 56,
+  "verse_key": "3:47",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ رَبِّ أَنَّىٰ يَكُونُ لِي وَلَدٞ وَلَمۡ يَمۡسَسۡنِي بَشَرٞۖ قَالَ كَذَٰلِكِ ٱللَّهُ يَخۡلُقُ مَا يَشَآءُۚ إِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+  "translation": "(47) She said, \"My Lord, how will I have a child when no man has touched me?\" [The angel] said, \"Such is Allāh; He creates what He wills. When He decrees a matter, He only says to it, 'Be,' and it is.",
+  "footnotes": ""
 }

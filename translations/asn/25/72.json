@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2927",
-    "sura": "25",
-    "aya": "72",
-    "arabic_text": "وَٱلَّذِينَ لَا يَشۡهَدُونَ ٱلزُّورَ وَإِذَا مَرُّواْ بِٱللَّغۡوِ مَرُّواْ كِرَامٗا",
-    "translation": "Ne wͻn a wͻnni adanse wia anaa adanse kurumuu, na sε wͻretwa mu wͻ ahuhudeε bi ho a, wͻtwa mu wͻ ahonidie mu,",
-    "footnotes": ""
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 366,
+  "verse_key": "25:72",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ لَا يَشۡهَدُونَ ٱلزُّورَ وَإِذَا مَرُّواْ بِٱللَّغۡوِ مَرُّواْ كِرَامٗا",
+  "translation": "Ne wͻn a wͻnni adanse wia anaa adanse kurumuu, na sε wͻretwa mu wͻ ahuhudeε bi ho a, wͻtwa mu wͻ ahonidie mu,",
+  "footnotes": ""
 }

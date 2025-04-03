@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3576",
-    "sura": "33",
-    "aya": "43",
-    "arabic_text": "هُوَ ٱلَّذِي يُصَلِّي عَلَيۡكُمۡ وَمَلَٰٓئِكَتُهُۥ لِيُخۡرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَكَانَ بِٱلۡمُؤۡمِنِينَ رَحِيمٗا",
-    "translation": "C’est Lui qui prie  sur vous, - ainsi que Ses anges, - afin qu’Il vous fasse sortir des ténèbres à la lumière; et Il est Miséricordieux envers les croyants.",
-    "footnotes": "[739] Prie sur vous…: la prière d’Allah est une bénédiction et celle des anges est une demande d’absolution des péchés."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 423,
+  "verse_key": "33:43",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي يُصَلِّي عَلَيۡكُمۡ وَمَلَٰٓئِكَتُهُۥ لِيُخۡرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَكَانَ بِٱلۡمُؤۡمِنِينَ رَحِيمٗا",
+  "translation": "C’est Lui qui prie  sur vous, - ainsi que Ses anges, - afin qu’Il vous fasse sortir des ténèbres à la lumière; et Il est Miséricordieux envers les croyants.",
+  "footnotes": "[739] Prie sur vous…: la prière d’Allah est une bénédiction et celle des anges est une demande d’absolution des péchés."
 }

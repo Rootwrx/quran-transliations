@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4846",
-    "sura": "53",
-    "aya": "62",
-    "arabic_text": "فَٱسۡجُدُواْۤ لِلَّهِۤ وَٱعۡبُدُواْ۩",
-    "translation": "ߒ߬ߓߵߊߟߎ߫ ߦߋ߫ ߕߌ߲ߓߌߘߌ߲ ߞߍ߫ ߊߟߊ߫ ߦߋ߫ ߘߋ߬ ߊ߬ ߣߌ߫ ߞߵߊ߬ ߓߊ߬ߕߏ߬",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 528,
+  "verse_key": "53:62",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 12,
+  "text": "فَٱسۡجُدُواْۤ لِلَّهِۤ وَٱعۡبُدُواْ۩",
+  "translation": "ߒ߬ߓߵߊߟߎ߫ ߦߋ߫ ߕߌ߲ߓߌߘߌ߲ ߞߍ߫ ߊߟߊ߫ ߦߋ߫ ߘߋ߬ ߊ߬ ߣߌ߫ ߞߵߊ߬ ߓߊ߬ߕߏ߬",
+  "footnotes": ""
 }

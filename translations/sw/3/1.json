@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "294",
-    "sura": "3",
-    "aya": "1",
-    "arabic_text": "الٓمٓ",
-    "translation": "Alif Laam Miim.",
-    "footnotes": "\"Alif Laam Miim\", yaani \"A.L.M.\" ni harufi za kutamkwa na kusikilizana kwa sauti. Zimeletwa kubainisha kuwa hii Qur'ani ya miujiza imetokana na hizi hizi harufi zinazo tamkwa, ili watu watanabahi na wasikilize."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 50,
+  "verse_key": "3:1",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓ",
+  "translation": "Alif Laam Miim.",
+  "footnotes": "\"Alif Laam Miim\", yaani \"A.L.M.\" ni harufi za kutamkwa na kusikilizana kwa sauti. Zimeletwa kubainisha kuwa hii Qur'ani ya miujiza imetokana na hizi hizi harufi zinazo tamkwa, ili watu watanabahi na wasikilize."
 }

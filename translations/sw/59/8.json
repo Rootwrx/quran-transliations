@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5134",
-    "sura": "59",
-    "aya": "8",
-    "arabic_text": "لِلۡفُقَرَآءِ ٱلۡمُهَٰجِرِينَ ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِمۡ وَأَمۡوَٰلِهِمۡ يَبۡتَغُونَ فَضۡلٗا مِّنَ ٱللَّهِ وَرِضۡوَٰنٗا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓۚ أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
-    "translation": "Wapewe mafakiri Wahajiri walio tolewa majumbani mwao na mali yao kwa ajili ya kutafuta fadhila kutoka kwa Mwenyezi Mungu na radhi zake, na wanamsaidia Mwenyezi Mungu na Mtume wake. Hao ndio wa kweli.",
-    "footnotes": "Na hivyo yale mali ya watu wa vijiji aliyo yarudisha Mwenyezi Mungu kwa Mtume wake wapewe mafakiri katika Wahajiri, walio kimbilia Madina, ambao wametolewa majumbani kwao na mali yao huko Makka. Wao wanataraji ziada kutoka kwa Mwenyezi Mungu katika riziki zao na radhi. Na wanamsaidia Mwenyezi Mungu na Mtume wake kwa nafsi zao na mali yao. Hao ndio Waumini wa kweli."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 546,
+  "verse_key": "59:8",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِلۡفُقَرَآءِ ٱلۡمُهَٰجِرِينَ ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِمۡ وَأَمۡوَٰلِهِمۡ يَبۡتَغُونَ فَضۡلٗا مِّنَ ٱللَّهِ وَرِضۡوَٰنٗا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓۚ أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+  "translation": "Wapewe mafakiri Wahajiri walio tolewa majumbani mwao na mali yao kwa ajili ya kutafuta fadhila kutoka kwa Mwenyezi Mungu na radhi zake, na wanamsaidia Mwenyezi Mungu na Mtume wake. Hao ndio wa kweli.",
+  "footnotes": "Na hivyo yale mali ya watu wa vijiji aliyo yarudisha Mwenyezi Mungu kwa Mtume wake wapewe mafakiri katika Wahajiri, walio kimbilia Madina, ambao wametolewa majumbani kwao na mali yao huko Makka. Wao wanataraji ziada kutoka kwa Mwenyezi Mungu katika riziki zao na radhi. Na wanamsaidia Mwenyezi Mungu na Mtume wake kwa nafsi zao na mali yao. Hao ndio Waumini wa kweli."
 }

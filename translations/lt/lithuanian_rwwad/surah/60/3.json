@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5153",
-    "sura": "60",
-    "aya": "3",
-    "arabic_text": "لَن تَنفَعَكُمۡ أَرۡحَامُكُمۡ وَلَآ أَوۡلَٰدُكُمۡۚ يَوۡمَ ٱلۡقِيَٰمَةِ يَفۡصِلُ بَيۡنَكُمۡۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ",
-    "translation": "3. Niekada jūsų artimieji arba jūsų vaikai neduos jums naudos. Prikėlimo Dieną Jis teis jus. Ir Allahas yra Visa Matantis, ką jūs darote.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 549,
+  "verse_key": "60:3",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 219,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَن تَنفَعَكُمۡ أَرۡحَامُكُمۡ وَلَآ أَوۡلَٰدُكُمۡۚ يَوۡمَ ٱلۡقِيَٰمَةِ يَفۡصِلُ بَيۡنَكُمۡۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ",
+  "translation": "3. Niekada jūsų artimieji arba jūsų vaikai neduos jums naudos. Prikėlimo Dieną Jis teis jus. Ir Allahas yra Visa Matantis, ką jūs darote.",
+  "footnotes": ""
 }

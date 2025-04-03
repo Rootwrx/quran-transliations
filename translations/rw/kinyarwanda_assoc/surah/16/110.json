@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2011",
-    "sura": "16",
-    "aya": "110",
-    "arabic_text": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُواْ مِنۢ بَعۡدِ مَا فُتِنُواْ ثُمَّ جَٰهَدُواْ وَصَبَرُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٞ",
-    "translation": "Naho ba bandi bimutse nyuma yo gutotezwa, maze bagaharanira inzira ya Allah bakanihangana, nyuma y’ibyo byose, Nyagasani wawe (ku bantu nk’abo) ni Ubabarira ibyaha, Nyirimpuhwe.",
-    "footnotes": ""
-  }
+  "id": 110,
+  "verse_number": 110,
+  "page_number": 279,
+  "verse_key": "16:110",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ هَاجَرُواْ مِنۢ بَعۡدِ مَا فُتِنُواْ ثُمَّ جَٰهَدُواْ وَصَبَرُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٞ",
+  "translation": "Naho ba bandi bimutse nyuma yo gutotezwa, maze bagaharanira inzira ya Allah bakanihangana, nyuma y’ibyo byose, Nyagasani wawe (ku bantu nk’abo) ni Ubabarira ibyaha, Nyirimpuhwe.",
+  "footnotes": ""
 }

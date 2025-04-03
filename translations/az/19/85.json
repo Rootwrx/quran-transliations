@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2335",
-    "sura": "19",
-    "aya": "85",
-    "arabic_text": "يَوۡمَ نَحۡشُرُ ٱلۡمُتَّقِينَ إِلَى ٱلرَّحۡمَٰنِ وَفۡدٗا",
-    "translation": "O gün Biz müttəqiləri Rəhmanın hüzuruna hörmətli nümayəndələr olaraq toplayarıq.",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 311,
+  "verse_key": "19:85",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ نَحۡشُرُ ٱلۡمُتَّقِينَ إِلَى ٱلرَّحۡمَٰنِ وَفۡدٗا",
+  "translation": "O gün Biz müttəqiləri Rəhmanın hüzuruna hörmətli nümayəndələr olaraq toplayarıq.",
+  "footnotes": ""
 }

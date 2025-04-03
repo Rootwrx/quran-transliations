@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5344",
-    "sura": "69",
-    "aya": "21",
-    "arabic_text": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ",
-    "translation": "So he will be in a pleasant life,",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 567,
+  "verse_key": "69:21",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَهُوَ فِي عِيشَةٖ رَّاضِيَةٖ",
+  "translation": "So he will be in a pleasant life,",
+  "footnotes": ""
 }

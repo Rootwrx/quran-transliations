@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "22",
-    "sura": "2",
-    "aya": "15",
-    "arabic_text": "ٱللَّهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
-    "translation": "Allāhu máa fi wọ́n ṣe yẹ̀yẹ́. Ó sì máa mú wọn lékún sí i nínú àgbéré wọn, tí wọn yóò máa pa rìdàrìdà.[1]",
-    "footnotes": "1. Kì í ṣe gbogbo ìṣe tí Allāhu bá fi ròyìn Ara Rẹ̀ ni ó máa di orúkọ Rẹ̀ àfi èyí tí Allāhu àti Òjíṣẹ́ Rẹ̀ - sọllallāhu alaehi wa sallam - bá pè ní orúkọ Rẹ̀ àti ìròyìn Rẹ̀."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 3,
+  "verse_key": "2:15",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
+  "translation": "Allāhu máa fi wọ́n ṣe yẹ̀yẹ́. Ó sì máa mú wọn lékún sí i nínú àgbéré wọn, tí wọn yóò máa pa rìdàrìdà.[1]",
+  "footnotes": "1. Kì í ṣe gbogbo ìṣe tí Allāhu bá fi ròyìn Ara Rẹ̀ ni ó máa di orúkọ Rẹ̀ àfi èyí tí Allāhu àti Òjíṣẹ́ Rẹ̀ - sọllallāhu alaehi wa sallam - bá pè ní orúkọ Rẹ̀ àti ìròyìn Rẹ̀."
 }

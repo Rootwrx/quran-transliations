@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1851",
-    "sura": "15",
-    "aya": "49",
-    "arabic_text": "۞ نَبِّئۡ عِبَادِيٓ أَنِّيٓ أَنَا ٱلۡغَفُورُ ٱلرَّحِيمُ",
-    "translation": "Ntumwa y’Imana! Iganira abaja banje ko mu vy’ukuri, ari Jewe Nyenikigongwe-ntangere ku bigaya, Nyenimbabazi ku batoni banje;",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 264,
+  "verse_key": "15:49",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ نَبِّئۡ عِبَادِيٓ أَنِّيٓ أَنَا ٱلۡغَفُورُ ٱلرَّحِيمُ",
+  "translation": "Ntumwa y’Imana! Iganira abaja banje ko mu vy’ukuri, ari Jewe Nyenikigongwe-ntangere ku bigaya, Nyenimbabazi ku batoni banje;",
+  "footnotes": ""
 }

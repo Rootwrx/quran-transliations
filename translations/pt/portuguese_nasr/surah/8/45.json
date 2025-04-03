@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1205",
-    "sura": "8",
-    "aya": "45",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمۡ فِئَةٗ فَٱثۡبُتُواْ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ",
-    "translation": "Ó vós que credes! Quando deparardes com uma hoste, mantende-vos firmes e lembrai-vos amiúde de Allah, na esperança de serdes bem-aventurados.",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 182,
+  "verse_key": "8:45",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمۡ فِئَةٗ فَٱثۡبُتُواْ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ",
+  "translation": "Ó vós que credes! Quando deparardes com uma hoste, mantende-vos firmes e lembrai-vos amiúde de Allah, na esperança de serdes bem-aventurados.",
+  "footnotes": ""
 }

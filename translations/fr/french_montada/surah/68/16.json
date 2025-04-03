@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5287",
-    "sura": "68",
-    "aya": "16",
-    "arabic_text": "سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ",
-    "translation": "16. Nous lui marquerons le nez.[568]",
-    "footnotes": "[568] Littéralement : la trompe, le museau, le mufle."
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 565,
+  "verse_key": "68:16",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَنَسِمُهُۥ عَلَى ٱلۡخُرۡطُومِ",
+  "translation": "16. Nous lui marquerons le nez.[568]",
+  "footnotes": "[568] Littéralement : la trompe, le museau, le mufle."
 }

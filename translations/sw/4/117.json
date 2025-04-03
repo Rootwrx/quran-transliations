@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "610",
-    "sura": "4",
-    "aya": "117",
-    "arabic_text": "إِن يَدۡعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثٗا وَإِن يَدۡعُونَ إِلَّا شَيۡطَٰنٗا مَّرِيدٗا",
-    "translation": "Wao hawawaombi badala yake Yeye ila wanawake, wala hawamuombi ila Shet'ani aliye asi.",
-    "footnotes": "Katika upotovu ulio wazi kabisa ambao uko mbali na Haki ni ule wa mwenye kumshirikisha Mwenyezi Mungu. Huyo anaabudu kitu ambacho hakisikii wala hakioni, hakidhuru wala hakinafiishi. Na huita hiyo miungu yake kwa majina ya kike, kama Laata na Uzza na Manaata na mengineyo ya majina ya kike. Yeye hakika kwa hivyo anamuabudu Shetani."
-  }
+  "id": 117,
+  "verse_number": 117,
+  "page_number": 97,
+  "verse_key": "4:117",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن يَدۡعُونَ مِن دُونِهِۦٓ إِلَّآ إِنَٰثٗا وَإِن يَدۡعُونَ إِلَّا شَيۡطَٰنٗا مَّرِيدٗا",
+  "translation": "Wao hawawaombi badala yake Yeye ila wanawake, wala hawamuombi ila Shet'ani aliye asi.",
+  "footnotes": "Katika upotovu ulio wazi kabisa ambao uko mbali na Haki ni ule wa mwenye kumshirikisha Mwenyezi Mungu. Huyo anaabudu kitu ambacho hakisikii wala hakioni, hakidhuru wala hakinafiishi. Na huita hiyo miungu yake kwa majina ya kike, kama Laata na Uzza na Manaata na mengineyo ya majina ya kike. Yeye hakika kwa hivyo anamuabudu Shetani."
 }

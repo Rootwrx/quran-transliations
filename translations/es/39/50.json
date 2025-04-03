@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4108",
-    "sura": "39",
-    "aya": "50",
-    "arabic_text": "قَدۡ قَالَهَا ٱلَّذِينَ مِن قَبۡلِهِمۡ فَمَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يَكۡسِبُونَ",
-    "translation": "50. Así dijeron sus ancestros, y [cuando los sorprendió el castigo] no los beneficiaron en absoluto las riquezas que habían obtenido.",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 464,
+  "verse_key": "39:50",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ قَالَهَا ٱلَّذِينَ مِن قَبۡلِهِمۡ فَمَآ أَغۡنَىٰ عَنۡهُم مَّا كَانُواْ يَكۡسِبُونَ",
+  "translation": "50. Así dijeron sus ancestros, y [cuando los sorprendió el castigo] no los beneficiaron en absoluto las riquezas que habían obtenido.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4311",
-    "sura": "42",
-    "aya": "39",
-    "arabic_text": "وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلۡبَغۡيُ هُمۡ يَنتَصِرُونَ",
-    "translation": "Ne wͻn a sε obi redi wͻn amim a (wͻngo wͻn ho mma saa nipa no, na mmom) wͻbͻ wͻn ho ban.",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 487,
+  "verse_key": "42:39",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ إِذَآ أَصَابَهُمُ ٱلۡبَغۡيُ هُمۡ يَنتَصِرُونَ",
+  "translation": "Ne wͻn a sε obi redi wͻn amim a (wͻngo wͻn ho mma saa nipa no, na mmom) wͻbͻ wͻn ho ban.",
+  "footnotes": ""
 }

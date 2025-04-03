@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5514",
-    "sura": "74",
-    "aya": "19",
-    "arabic_text": "فَقُتِلَ كَيۡفَ قَدَّرَ",
-    "translation": "19. ¡Que sea privado de toda misericordia! ¡Qué pésimo fue lo que decidió!",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 576,
+  "verse_key": "74:19",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقُتِلَ كَيۡفَ قَدَّرَ",
+  "translation": "19. ¡Que sea privado de toda misericordia! ¡Qué pésimo fue lo que decidió!",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2947",
-    "sura": "26",
-    "aya": "15",
-    "arabic_text": "قَالَ كَلَّاۖ فَٱذۡهَبَا بِـَٔايَٰتِنَآۖ إِنَّا مَعَكُم مُّسۡتَمِعُونَ",
-    "translation": "15. (Alle) wuxuu yidhi: “Ma jirto! Ee la taga idinku Aayadahayaga. Hubaal, Annagaa idinla jirna oo idin maqleyna.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 367,
+  "verse_key": "26:15",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ كَلَّاۖ فَٱذۡهَبَا بِـَٔايَٰتِنَآۖ إِنَّا مَعَكُم مُّسۡتَمِعُونَ",
+  "translation": "15. (Alle) wuxuu yidhi: “Ma jirto! Ee la taga idinku Aayadahayaga. Hubaal, Annagaa idinla jirna oo idin maqleyna.",
+  "footnotes": ""
 }

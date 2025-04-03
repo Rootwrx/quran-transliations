@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3659",
-    "sura": "34",
-    "aya": "53",
-    "arabic_text": "وَقَدۡ كَفَرُواْ بِهِۦ مِن قَبۡلُۖ وَيَقۡذِفُونَ بِٱلۡغَيۡبِ مِن مَّكَانِۭ بَعِيدٖ",
-    "translation": "53. Waxay dhab ahaan horey22 ugu gaaloobeen (Xaqa), waxayna kaga sheegayeen been waxyaalaha aan muuqan ee Ghaybka ahaa xagga meel fog23.",
-    "footnotes": "22. Noloshoodii hore ee arlada, ay ku heysteen fursad kasta, ha yeeshee hadda dhaaftay, waana fursad aan marnaba soo laabanayn. \n23. Af ahaan, iyagoo wax iska mala awaalayey, oo inkirayey Xaqa sida Aakhirada, Naarta, Jannada, Iska soo bixinta qubuuraha, iwm."
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 434,
+  "verse_key": "34:53",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَدۡ كَفَرُواْ بِهِۦ مِن قَبۡلُۖ وَيَقۡذِفُونَ بِٱلۡغَيۡبِ مِن مَّكَانِۭ بَعِيدٖ",
+  "translation": "53. Waxay dhab ahaan horey22 ugu gaaloobeen (Xaqa), waxayna kaga sheegayeen been waxyaalaha aan muuqan ee Ghaybka ahaa xagga meel fog23.",
+  "footnotes": "22. Noloshoodii hore ee arlada, ay ku heysteen fursad kasta, ha yeeshee hadda dhaaftay, waana fursad aan marnaba soo laabanayn. \n23. Af ahaan, iyagoo wax iska mala awaalayey, oo inkirayey Xaqa sida Aakhirada, Naarta, Jannada, Iska soo bixinta qubuuraha, iwm."
 }

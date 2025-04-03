@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2542",
-    "sura": "21",
-    "aya": "59",
-    "arabic_text": "قَالُواْ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ",
-    "translation": "59. (Cuando vieron sus ídolos destrozados) dijeron: «¿Quién ha hecho esto con nuestros ídolos? Tiene que ser un injusto».",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 327,
+  "verse_key": "21:59",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ مَن فَعَلَ هَٰذَا بِـَٔالِهَتِنَآ إِنَّهُۥ لَمِنَ ٱلظَّٰلِمِينَ",
+  "translation": "59. (Cuando vieron sus ídolos destrozados) dijeron: «¿Quién ha hecho esto con nuestros ídolos? Tiene que ser un injusto».",
+  "footnotes": ""
 }

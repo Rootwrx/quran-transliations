@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1628",
-    "sura": "12",
-    "aya": "32",
-    "arabic_text": "قَالَتۡ فَذَٰلِكُنَّ ٱلَّذِي لُمۡتُنَّنِي فِيهِۖ وَلَقَدۡ رَٰوَدتُّهُۥ عَن نَّفۡسِهِۦ فَٱسۡتَعۡصَمَۖ وَلَئِن لَّمۡ يَفۡعَلۡ مَآ ءَامُرُهُۥ لَيُسۡجَنَنَّ وَلَيَكُونٗا مِّنَ ٱلصَّٰغِرِينَ",
-    "translation": "(Lúc bấy giờ) nữ ta lên tiếng: “Đấy là người mà quí bà đã chỉ trích tôi (rằng tôi đã quyến rũ cậu ta”. Quả thật, tôi đã tìm cách quyến rũ cậu ta nhưng cậu ta đã quyết từ chối. Nếu cậu ta không làm theo những gì tôi ra lệnh cho cậu ta thì cậu ta chắc chắn sẽ bị bỏ tù và sẽ là kẻ bị hạ nhục.”",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 239,
+  "verse_key": "12:32",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ فَذَٰلِكُنَّ ٱلَّذِي لُمۡتُنَّنِي فِيهِۖ وَلَقَدۡ رَٰوَدتُّهُۥ عَن نَّفۡسِهِۦ فَٱسۡتَعۡصَمَۖ وَلَئِن لَّمۡ يَفۡعَلۡ مَآ ءَامُرُهُۥ لَيُسۡجَنَنَّ وَلَيَكُونٗا مِّنَ ٱلصَّٰغِرِينَ",
+  "translation": "(Lúc bấy giờ) nữ ta lên tiếng: “Đấy là người mà quí bà đã chỉ trích tôi (rằng tôi đã quyến rũ cậu ta”. Quả thật, tôi đã tìm cách quyến rũ cậu ta nhưng cậu ta đã quyết từ chối. Nếu cậu ta không làm theo những gì tôi ra lệnh cho cậu ta thì cậu ta chắc chắn sẽ bị bỏ tù và sẽ là kẻ bị hạ nhục.”",
+  "footnotes": ""
 }

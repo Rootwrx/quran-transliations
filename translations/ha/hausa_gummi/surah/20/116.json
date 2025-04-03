@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2464",
-    "sura": "20",
-    "aya": "116",
-    "arabic_text": "وَإِذۡ قُلۡنَا لِلۡمَلَٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ أَبَىٰ",
-    "translation": "Kuma sa'ad da Muka ce wa malã'iku, \"Ku yi sujada ga Ãdamu.\" Sai suka yi sujada, fãce Iblĩsa, yã ƙiya.",
-    "footnotes": ""
-  }
+  "id": 116,
+  "verse_number": 116,
+  "page_number": 320,
+  "verse_key": "20:116",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قُلۡنَا لِلۡمَلَٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ أَبَىٰ",
+  "translation": "Kuma sa'ad da Muka ce wa malã'iku, \"Ku yi sujada ga Ãdamu.\" Sai suka yi sujada, fãce Iblĩsa, yã ƙiya.",
+  "footnotes": ""
 }

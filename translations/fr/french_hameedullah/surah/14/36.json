@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1786",
-    "sura": "14",
-    "aya": "36",
-    "arabic_text": "رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ",
-    "translation": "Seigneur ! Elles (les idoles) ont égaré beaucoup de gens. Quiconque me suit est des miens. Quand à celui qui me désobéit... alors c’est Toi, le Pardonneur, le Très Miséricordieux !",
-    "footnotes": "[489] Quant à celui... Miséricordieux: Abraham a dit cela avant que son Seigneur ne l’informe qu’Il n’absout jamais le pêché de quiconque Lui associe quoi que ce soit."
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 260,
+  "verse_key": "14:36",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ",
+  "translation": "Seigneur ! Elles (les idoles) ont égaré beaucoup de gens. Quiconque me suit est des miens. Quand à celui qui me désobéit... alors c’est Toi, le Pardonneur, le Très Miséricordieux !",
+  "footnotes": "[489] Quant à celui... Miséricordieux: Abraham a dit cela avant que son Seigneur ne l’informe qu’Il n’absout jamais le pêché de quiconque Lui associe quoi que ce soit."
 }

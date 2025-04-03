@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6098",
-    "sura": "94",
-    "aya": "8",
-    "arabic_text": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب",
-    "translation": "at sa Panginoon mo ay magmithi ka.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 596,
+  "verse_key": "94:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِلَىٰ رَبِّكَ فَٱرۡغَب",
+  "translation": "at sa Panginoon mo ay magmithi ka.",
+  "footnotes": ""
 }

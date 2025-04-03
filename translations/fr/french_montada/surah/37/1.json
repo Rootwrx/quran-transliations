@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3789",
-    "sura": "37",
-    "aya": "1",
-    "arabic_text": "وَٱلصَّٰٓفَّٰتِ صَفّٗا",
-    "translation": "1. Par (les Anges) qui se tiennent harmonieusement alignés,",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 446,
+  "verse_key": "37:1",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلصَّٰٓفَّٰتِ صَفّٗا",
+  "translation": "1. Par (les Anges) qui se tiennent harmonieusement alignés,",
+  "footnotes": ""
 }

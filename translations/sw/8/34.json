@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1194",
-    "sura": "8",
-    "aya": "34",
-    "arabic_text": "وَمَا لَهُمۡ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمۡ يَصُدُّونَ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَمَا كَانُوٓاْ أَوۡلِيَآءَهُۥٓۚ إِنۡ أَوۡلِيَآؤُهُۥٓ إِلَّا ٱلۡمُتَّقُونَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
-    "translation": "Lakini wana jambo gani hata Mwenyezi Mungu asiwaadhibu, na hali ya kuwa wanawazuilia watu Msikiti Mtakatifu? Wala wao hawakuwa ndio walinzi wake, bali walinzi wake hawakuwa ila wacha-Mngu tu. Lakini wengi katika wao hawajui.",
-    "footnotes": "Hakika hali yao iliyo sasa inaruhusu kuwaadhibu, kwani wanawazuia watu wasiutumie Msikiti ambao Mwenyezi Mungu ameutukuza kwa kuharimisha vita karibu yake. Lakini Mwenyezi Mungu anawaakhirisha kwa alivyo wakadiria katika ujuzi wake kuwa wengi wao watakuja amini. Wao wakati huu wa sasa sio walinzi wa kuunusuru huo Msikiti Mtukufu, bali wao wameunajisi kwa kutia ibada ya masanamu ndani yake. Ama wa kuunusuru hakika ni Waumini, wenye kumt'ii Mwenyezi Mungu. Lakini wengi katika washirikina hawaijui Dini, wala hawajui cheo cha Nyumba hiyo Tukufu."
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 181,
+  "verse_key": "8:34",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا لَهُمۡ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمۡ يَصُدُّونَ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَمَا كَانُوٓاْ أَوۡلِيَآءَهُۥٓۚ إِنۡ أَوۡلِيَآؤُهُۥٓ إِلَّا ٱلۡمُتَّقُونَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+  "translation": "Lakini wana jambo gani hata Mwenyezi Mungu asiwaadhibu, na hali ya kuwa wanawazuilia watu Msikiti Mtakatifu? Wala wao hawakuwa ndio walinzi wake, bali walinzi wake hawakuwa ila wacha-Mngu tu. Lakini wengi katika wao hawajui.",
+  "footnotes": "Hakika hali yao iliyo sasa inaruhusu kuwaadhibu, kwani wanawazuia watu wasiutumie Msikiti ambao Mwenyezi Mungu ameutukuza kwa kuharimisha vita karibu yake. Lakini Mwenyezi Mungu anawaakhirisha kwa alivyo wakadiria katika ujuzi wake kuwa wengi wao watakuja amini. Wao wakati huu wa sasa sio walinzi wa kuunusuru huo Msikiti Mtukufu, bali wao wameunajisi kwa kutia ibada ya masanamu ndani yake. Ama wa kuunusuru hakika ni Waumini, wenye kumt'ii Mwenyezi Mungu. Lakini wengi katika washirikina hawaijui Dini, wala hawajui cheo cha Nyumba hiyo Tukufu."
 }

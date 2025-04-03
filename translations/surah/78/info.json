@@ -1,0 +1,27 @@
+{
+  "number": 78,
+  "name": {
+    "ar": "النبأ",
+    "en": "The Emissaries",
+    "transliteration": "An-Naba"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 80,
+  "bismillah_pre": true,
+  "verses_count": 40,
+  "words_count": 174,
+  "letters_count": 766,
+  "pages": [
+    582,
+    583
+  ],
+  "name_simple": "An-Naba",
+  "name_complex": "An-Naba",
+  "name_arabic": "النبإ",
+  "translated_name": "The Tidings",
+  "start_page": 582,
+  "end_page": 583
+}

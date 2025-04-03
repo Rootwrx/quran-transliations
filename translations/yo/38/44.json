@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4014",
-    "sura": "38",
-    "aya": "44",
-    "arabic_text": "وَخُذۡ بِيَدِكَ ضِغۡثٗا فَٱضۡرِب بِّهِۦ وَلَا تَحۡنَثۡۗ إِنَّا وَجَدۡنَٰهُ صَابِرٗاۚ نِّعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٞ",
-    "translation": "Fi ọwọ́ rẹ mú ìdì igi koríko tútù kí o fi lu (ìyàwó) rẹ. Má ṣe yapa ìbúra rẹ.[1] Dájúdájú Àwa rí (’Ayyūb) ní onísùúrù. Ẹrúsìn rere ni. Dájúdájú olùṣẹ́rí sí ọ̀dọ̀ Allāhu ni (nípa ìronúpìwàdà).",
-    "footnotes": "1. Ní àsìkò tí àìlera wà fún Ànábì ’Ayyūb - kí ọlà Allāhu máa bá a -, ìyàwó rẹ̀ ṣẹ̀ ẹ́ ní ẹ̀ṣẹ̀ kan. Ànábì ’Ayyūb sì fi Allāhu búra pé òun yóò lù ú ní ẹgba ọgọ́rùn-ún lórí àṣìṣe náà tí òun bá gbádùn."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 456,
+  "verse_key": "38:44",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَخُذۡ بِيَدِكَ ضِغۡثٗا فَٱضۡرِب بِّهِۦ وَلَا تَحۡنَثۡۗ إِنَّا وَجَدۡنَٰهُ صَابِرٗاۚ نِّعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٞ",
+  "translation": "Fi ọwọ́ rẹ mú ìdì igi koríko tútù kí o fi lu (ìyàwó) rẹ. Má ṣe yapa ìbúra rẹ.[1] Dájúdájú Àwa rí (’Ayyūb) ní onísùúrù. Ẹrúsìn rere ni. Dájúdájú olùṣẹ́rí sí ọ̀dọ̀ Allāhu ni (nípa ìronúpìwàdà).",
+  "footnotes": "1. Ní àsìkò tí àìlera wà fún Ànábì ’Ayyūb - kí ọlà Allāhu máa bá a -, ìyàwó rẹ̀ ṣẹ̀ ẹ́ ní ẹ̀ṣẹ̀ kan. Ànábì ’Ayyūb sì fi Allāhu búra pé òun yóò lù ú ní ẹgba ọgọ́rùn-ún lórí àṣìṣe náà tí òun bá gbádùn."
 }

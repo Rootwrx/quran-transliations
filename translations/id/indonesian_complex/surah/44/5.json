@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4419",
-    "sura": "44",
-    "aya": "5",
-    "arabic_text": "أَمۡرٗا مِّنۡ عِندِنَآۚ إِنَّا كُنَّا مُرۡسِلِينَ",
-    "translation": "(yaitu) urusan yang besar dari sisi Kami. Sesungguhnya Kami adalah Yang mengutus rasul-rasul,",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 496,
+  "verse_key": "44:5",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡرٗا مِّنۡ عِندِنَآۚ إِنَّا كُنَّا مُرۡسِلِينَ",
+  "translation": "(yaitu) urusan yang besar dari sisi Kami. Sesungguhnya Kami adalah Yang mengutus rasul-rasul,",
+  "footnotes": ""
 }

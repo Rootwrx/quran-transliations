@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3546",
-    "sura": "33",
-    "aya": "13",
-    "arabic_text": "وَإِذۡ قَالَت طَّآئِفَةٞ مِّنۡهُمۡ يَٰٓأَهۡلَ يَثۡرِبَ لَا مُقَامَ لَكُمۡ فَٱرۡجِعُواْۚ وَيَسۡتَـٔۡذِنُ فَرِيقٞ مِّنۡهُمُ ٱلنَّبِيَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوۡرَةٞ وَمَا هِيَ بِعَوۡرَةٍۖ إِن يُرِيدُونَ إِلَّا فِرَارٗا",
-    "translation": "(Ẹ rántí) nígbà tí igun kan nínú wọn wí pé: “Ẹ̀yin ará Yẹthrib,[1] kò sí àyè (ìṣẹ́gun) fún yín, nítorí náà, ẹ ṣẹ́rí padà (lọ́dọ̀ Òjíṣẹ́).” Apá kan nínú wọn sì ń tọrọ ìyọ̀ǹda lọ́wọ́ Ànábì, wọ́n ń wí pé: “Dájúdájú ilé wa dá páropáro ni.” (Ilé wọn) kò sì dá páropáro. Wọn kò sì gbèrò ohun kan tayọ síságun.",
-    "footnotes": "1. Yẹthrib ni orúkọ ìlú Mọdīnah ṣíwájú kí Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - tó ṣe hijrah wá sí ibẹ̀."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 419,
+  "verse_key": "33:13",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَت طَّآئِفَةٞ مِّنۡهُمۡ يَٰٓأَهۡلَ يَثۡرِبَ لَا مُقَامَ لَكُمۡ فَٱرۡجِعُواْۚ وَيَسۡتَـٔۡذِنُ فَرِيقٞ مِّنۡهُمُ ٱلنَّبِيَّ يَقُولُونَ إِنَّ بُيُوتَنَا عَوۡرَةٞ وَمَا هِيَ بِعَوۡرَةٍۖ إِن يُرِيدُونَ إِلَّا فِرَارٗا",
+  "translation": "(Ẹ rántí) nígbà tí igun kan nínú wọn wí pé: “Ẹ̀yin ará Yẹthrib,[1] kò sí àyè (ìṣẹ́gun) fún yín, nítorí náà, ẹ ṣẹ́rí padà (lọ́dọ̀ Òjíṣẹ́).” Apá kan nínú wọn sì ń tọrọ ìyọ̀ǹda lọ́wọ́ Ànábì, wọ́n ń wí pé: “Dájúdájú ilé wa dá páropáro ni.” (Ilé wọn) kò sì dá páropáro. Wọn kò sì gbèrò ohun kan tayọ síságun.",
+  "footnotes": "1. Yẹthrib ni orúkọ ìlú Mọdīnah ṣíwájú kí Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - tó ṣe hijrah wá sí ibẹ̀."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "148",
-    "sura": "2",
-    "aya": "141",
-    "arabic_text": "تِلۡكَ أُمَّةٞ قَدۡ خَلَتۡۖ لَهَا مَا كَسَبَتۡ وَلَكُم مَّا كَسَبۡتُمۡۖ وَلَا تُسۡـَٔلُونَ عَمَّا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Uwo rero ni umugwi w’abakurambere banyu mu kwemera bamaze kurengana, bafise ivyiza barondeye, na mwe nyene mufise ivyiza canke ibibi mwarondeye, kandi ntimuzobazwa ku bikorwa bari barakoze, eka mbere na bo nyene ntibazobazwa ku bikorwa mwakoze[17].",
-    "footnotes": "[17] Iyi Aayah, irerekana ko imbere y’Imana Allah ata kwitwaza ubuvandimwe canke ubwoko, n’uko umwe wese mu biremwa azobazwa ivyo yakoze canke yagizemwo uruhara ku gatwe kiwe, n’uko kandi ukwemera kurimwo agakiza, ari ukwemera Imana Imwe Rudende Allah n’Intumwa zayo zose, hamwe rero no kuzikurikira. Uwuhakanye rero Intumwa imwe muri zo, afatwa nk’uwuhakanye Intumwa zose."
-  }
+  "id": 141,
+  "verse_number": 141,
+  "page_number": 21,
+  "verse_key": "2:141",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ أُمَّةٞ قَدۡ خَلَتۡۖ لَهَا مَا كَسَبَتۡ وَلَكُم مَّا كَسَبۡتُمۡۖ وَلَا تُسۡـَٔلُونَ عَمَّا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Uwo rero ni umugwi w’abakurambere banyu mu kwemera bamaze kurengana, bafise ivyiza barondeye, na mwe nyene mufise ivyiza canke ibibi mwarondeye, kandi ntimuzobazwa ku bikorwa bari barakoze, eka mbere na bo nyene ntibazobazwa ku bikorwa mwakoze[17].",
+  "footnotes": "[17] Iyi Aayah, irerekana ko imbere y’Imana Allah ata kwitwaza ubuvandimwe canke ubwoko, n’uko umwe wese mu biremwa azobazwa ivyo yakoze canke yagizemwo uruhara ku gatwe kiwe, n’uko kandi ukwemera kurimwo agakiza, ari ukwemera Imana Imwe Rudende Allah n’Intumwa zayo zose, hamwe rero no kuzikurikira. Uwuhakanye rero Intumwa imwe muri zo, afatwa nk’uwuhakanye Intumwa zose."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1908",
-    "sura": "16",
-    "aya": "7",
-    "arabic_text": "وَتَحۡمِلُ أَثۡقَالَكُمۡ إِلَىٰ بَلَدٖ لَّمۡ تَكُونُواْ بَٰلِغِيهِ إِلَّا بِشِقِّ ٱلۡأَنفُسِۚ إِنَّ رَبَّكُمۡ لَرَءُوفٞ رَّحِيمٞ",
-    "translation": "(Ayo matungo) anikorera imitwaro yanyu iremereye akayijyana aho mutari gushobora kugera bitabagoye. Mu by’ukuri Nyagasani wanyu ni Nyirimpuhwe zihebuje, Nyirimbabazi.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 268,
+  "verse_key": "16:7",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَحۡمِلُ أَثۡقَالَكُمۡ إِلَىٰ بَلَدٖ لَّمۡ تَكُونُواْ بَٰلِغِيهِ إِلَّا بِشِقِّ ٱلۡأَنفُسِۚ إِنَّ رَبَّكُمۡ لَرَءُوفٞ رَّحِيمٞ",
+  "translation": "(Ayo matungo) anikorera imitwaro yanyu iremereye akayijyana aho mutari gushobora kugera bitabagoye. Mu by’ukuri Nyagasani wanyu ni Nyirimpuhwe zihebuje, Nyirimbabazi.",
+  "footnotes": ""
 }

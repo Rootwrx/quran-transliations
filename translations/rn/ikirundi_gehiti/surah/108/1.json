@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6205",
-    "sura": "108",
-    "aya": "1",
-    "arabic_text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
-    "translation": "Muvugishwamana! Mu vy’ukuri, Twarakweguriye impano y’ivyiza vyinshi nta ngere kw’isi no mu buzima bw’inyuma yo gupfa[1].",
-    "footnotes": "[1] Muri ivyo vyiza, ni uruzi “Kawthar” ruri mu Bwami bw’ijuru, ku nkengera zarwo hari amahema yubatswe mu butare bw’agaciro “lulu”, umusenyi wo muri rwo, ni “miski”."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 602,
+  "verse_key": "108:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+  "translation": "Muvugishwamana! Mu vy’ukuri, Twarakweguriye impano y’ivyiza vyinshi nta ngere kw’isi no mu buzima bw’inyuma yo gupfa[1].",
+  "footnotes": "[1] Muri ivyo vyiza, ni uruzi “Kawthar” ruri mu Bwami bw’ijuru, ku nkengera zarwo hari amahema yubatswe mu butare bw’agaciro “lulu”, umusenyi wo muri rwo, ni “miski”."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1698",
-    "sura": "12",
-    "aya": "102",
-    "arabic_text": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهِ إِلَيۡكَۖ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ أَجۡمَعُوٓاْ أَمۡرَهُمۡ وَهُمۡ يَمۡكُرُونَ",
-    "translation": "Iyon ay kabilang sa mga balita ng nakalingid; nagkakasi Kami nito sa iyo. Wala ka noon sa piling nila noong nagkaisa sila sa pasya nila samantalang sila ay nagpapakana.",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 247,
+  "verse_key": "12:102",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهِ إِلَيۡكَۖ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ أَجۡمَعُوٓاْ أَمۡرَهُمۡ وَهُمۡ يَمۡكُرُونَ",
+  "translation": "Iyon ay kabilang sa mga balita ng nakalingid; nagkakasi Kami nito sa iyo. Wala ka noon sa piling nila noong nagkaisa sila sa pasya nila samantalang sila ay nagpapakana.",
+  "footnotes": ""
 }

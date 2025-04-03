@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2759",
-    "sura": "23",
-    "aya": "86",
-    "arabic_text": "قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبۡعِ وَرَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ",
-    "translation": "86 Demande-leur : « Qui est le Seigneur des sept cieux et le Maître du Trône glorieux ? »",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 347,
+  "verse_key": "23:86",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ ٱلسَّبۡعِ وَرَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ",
+  "translation": "86 Demande-leur : « Qui est le Seigneur des sept cieux et le Maître du Trône glorieux ? »",
+  "footnotes": ""
 }

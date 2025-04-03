@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6009",
-    "sura": "89",
-    "aya": "16",
-    "arabic_text": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ",
-    "translation": "Ama onu, imtihan edip rızkını daralttığında: \"Rabbim beni zelil etti\" der.",
-    "footnotes": null
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 593,
+  "verse_key": "89:16",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَمَّآ إِذَا مَا ٱبۡتَلَىٰهُ فَقَدَرَ عَلَيۡهِ رِزۡقَهُۥ فَيَقُولُ رَبِّيٓ أَهَٰنَنِ",
+  "translation": "Ama onu, imtihan edip rızkını daralttığında: \"Rabbim beni zelil etti\" der.",
+  "footnotes": null
 }

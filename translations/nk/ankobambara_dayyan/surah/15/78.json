@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1880",
-    "sura": "15",
-    "aya": "78",
-    "arabic_text": "وَإِن كَانَ أَصۡحَٰبُ ٱلۡأَيۡكَةِ لَظَٰلِمِينَ",
-    "translation": "ߣߌ߫ ߛߓߋ߬ߕߎ ߘߏ߲߬ߞߏ ߟߎ߫ ߕߌ߲߬ ߞߍ߫ ߘߊ߫ ߕߐ߬ߢߍ߰ߒߕߋ ߟߎ߬ ߘߌ߫",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 266,
+  "verse_key": "15:78",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن كَانَ أَصۡحَٰبُ ٱلۡأَيۡكَةِ لَظَٰلِمِينَ",
+  "translation": "ߣߌ߫ ߛߓߋ߬ߕߎ ߘߏ߲߬ߞߏ ߟߎ߫ ߕߌ߲߬ ߞߍ߫ ߘߊ߫ ߕߐ߬ߢߍ߰ߒߕߋ ߟߎ߬ ߘߌ߫",
+  "footnotes": ""
 }

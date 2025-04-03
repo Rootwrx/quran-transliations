@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5886",
-    "sura": "84",
-    "aya": "2",
-    "arabic_text": "وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ",
-    "translation": "තවද එය එහි පරමාධිපතිට අවනත වූ විට. එයට (එසේ සිදු වීම) නියම කරන ලදී.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 589,
+  "verse_key": "84:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ",
+  "translation": "තවද එය එහි පරමාධිපතිට අවනත වූ විට. එයට (එසේ සිදු වීම) නියම කරන ලදී.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2946",
-    "sura": "26",
-    "aya": "14",
-    "arabic_text": "وَلَهُمۡ عَلَيَّ ذَنۢبٞ فَأَخَافُ أَن يَقۡتُلُونِ",
-    "translation": "14. Ellos me acusan de un crimen[1] y temo que me maten”.",
-    "footnotes": "[1] Ver Corán 28:15-21."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 367,
+  "verse_key": "26:14",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَهُمۡ عَلَيَّ ذَنۢبٞ فَأَخَافُ أَن يَقۡتُلُونِ",
+  "translation": "14. Ellos me acusan de un crimen[1] y temo que me maten”.",
+  "footnotes": "[1] Ver Corán 28:15-21."
 }

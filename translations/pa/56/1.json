@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4980",
-    "sura": "56",
-    "aya": "1",
-    "arabic_text": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
-    "translation": "1਼ ਜਦ ਵਾਪਰਨ ਵਾਲੀ (ਕਿਆਮਤ) ਵਾਪਰੇਗੀ।",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 534,
+  "verse_key": "56:1",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذَا وَقَعَتِ ٱلۡوَاقِعَةُ",
+  "translation": "1਼ ਜਦ ਵਾਪਰਨ ਵਾਲੀ (ਕਿਆਮਤ) ਵਾਪਰੇਗੀ।",
+  "footnotes": ""
 }

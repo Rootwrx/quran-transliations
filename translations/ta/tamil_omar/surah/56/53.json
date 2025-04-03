@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5032",
-    "sura": "56",
-    "aya": "53",
-    "arabic_text": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
-    "translation": "ஆக, அதில் இருந்து (உங்கள்) வயிறுகளை நிரப்புவீர்கள்.",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 536,
+  "verse_key": "56:53",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَالِـُٔونَ مِنۡهَا ٱلۡبُطُونَ",
+  "translation": "ஆக, அதில் இருந்து (உங்கள்) வயிறுகளை நிரப்புவீர்கள்.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1637",
-    "sura": "12",
-    "aya": "41",
-    "arabic_text": "يَٰصَٰحِبَيِ ٱلسِّجۡنِ أَمَّآ أَحَدُكُمَا فَيَسۡقِي رَبَّهُۥ خَمۡرٗاۖ وَأَمَّا ٱلۡأٓخَرُ فَيُصۡلَبُ فَتَأۡكُلُ ٱلطَّيۡرُ مِن رَّأۡسِهِۦۚ قُضِيَ ٱلۡأَمۡرُ ٱلَّذِي فِيهِ تَسۡتَفۡتِيَانِ",
-    "translation": "Yaa m bãens tũud-n-taas a yiibu! Sã n yɑɑ ne yãmb nin-yɛngã, ɑ na n yũnuga a zu-soabã rãam; la ned a to wã, b na n sãr-ɑ lame tɩ liuuli wã tɑr ɑ zugã n rɩtẽ. Yel ning yãmb sẽn sokd ɑ võorã pidɑme n nɑ n yɩ\".",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 240,
+  "verse_key": "12:41",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰصَٰحِبَيِ ٱلسِّجۡنِ أَمَّآ أَحَدُكُمَا فَيَسۡقِي رَبَّهُۥ خَمۡرٗاۖ وَأَمَّا ٱلۡأٓخَرُ فَيُصۡلَبُ فَتَأۡكُلُ ٱلطَّيۡرُ مِن رَّأۡسِهِۦۚ قُضِيَ ٱلۡأَمۡرُ ٱلَّذِي فِيهِ تَسۡتَفۡتِيَانِ",
+  "translation": "Yaa m bãens tũud-n-taas a yiibu! Sã n yɑɑ ne yãmb nin-yɛngã, ɑ na n yũnuga a zu-soabã rãam; la ned a to wã, b na n sãr-ɑ lame tɩ liuuli wã tɑr ɑ zugã n rɩtẽ. Yel ning yãmb sẽn sokd ɑ võorã pidɑme n nɑ n yɩ\".",
+  "footnotes": ""
 }

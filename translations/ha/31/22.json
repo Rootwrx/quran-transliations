@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3491",
-    "sura": "31",
-    "aya": "22",
-    "arabic_text": "۞ وَمَن يُسۡلِمۡ وَجۡهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحۡسِنٞ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰۗ وَإِلَى ٱللَّهِ عَٰقِبَةُ ٱلۡأُمُورِ",
-    "translation": "kuma wanda ya mĩka fuskarsa zuwa ga Allah, alhãli kuma yanã mai kyautatãwa, to, lalle ya yi riƙo ga igiya amintacciya. Kuma zuwa ga Allah ãƙibar al'amura take.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 413,
+  "verse_key": "31:22",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَمَن يُسۡلِمۡ وَجۡهَهُۥٓ إِلَى ٱللَّهِ وَهُوَ مُحۡسِنٞ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰۗ وَإِلَى ٱللَّهِ عَٰقِبَةُ ٱلۡأُمُورِ",
+  "translation": "kuma wanda ya mĩka fuskarsa zuwa ga Allah, alhãli kuma yanã mai kyautatãwa, to, lalle ya yi riƙo ga igiya amintacciya. Kuma zuwa ga Allah ãƙibar al'amura take.",
+  "footnotes": ""
 }

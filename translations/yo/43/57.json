@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4382",
-    "sura": "43",
-    "aya": "57",
-    "arabic_text": "۞ وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡيَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ يَصِدُّونَ",
-    "translation": "Nígbà tí àwọn ọ̀ṣẹbọ fi ọmọ Mọryam ṣe àpẹ̀ẹrẹ (fún òrìṣà wọn), nígbà náà ni àwọn ènìyàn rẹ bá ń fi (àpẹ̀ẹrẹ náà) rẹ́rìn-ín.",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 493,
+  "verse_key": "43:57",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡيَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ يَصِدُّونَ",
+  "translation": "Nígbà tí àwọn ọ̀ṣẹbọ fi ọmọ Mọryam ṣe àpẹ̀ẹrẹ (fún òrìṣà wọn), nígbà náà ni àwọn ènìyàn rẹ bá ń fi (àpẹ̀ẹrẹ náà) rẹ́rìn-ín.",
+  "footnotes": ""
 }

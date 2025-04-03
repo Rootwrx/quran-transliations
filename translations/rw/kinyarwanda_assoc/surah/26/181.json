@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3113",
-    "sura": "26",
-    "aya": "181",
-    "arabic_text": "۞ أَوۡفُواْ ٱلۡكَيۡلَ وَلَا تَكُونُواْ مِنَ ٱلۡمُخۡسِرِينَ",
-    "translation": "“Mujye mwuzuza ibipimo (by’iminzani) kandi ntimugatere (abandi) igihombo.”",
-    "footnotes": ""
-  }
+  "id": 181,
+  "verse_number": 181,
+  "page_number": 374,
+  "verse_key": "26:181",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَوۡفُواْ ٱلۡكَيۡلَ وَلَا تَكُونُواْ مِنَ ٱلۡمُخۡسِرِينَ",
+  "translation": "“Mujye mwuzuza ibipimo (by’iminzani) kandi ntimugatere (abandi) igihombo.”",
+  "footnotes": ""
 }

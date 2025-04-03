@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5104",
-    "sura": "57",
-    "aya": "29",
-    "arabic_text": "لِّئَلَّا يَعۡلَمَ أَهۡلُ ٱلۡكِتَٰبِ أَلَّا يَقۡدِرُونَ عَلَىٰ شَيۡءٖ مِّن فَضۡلِ ٱللَّهِ وَأَنَّ ٱلۡفَضۡلَ بِيَدِ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
-    "translation": "29. Si ay ehlu-Kitaabku u ogaadaan inaysan hayn waxna ka mid ah Galladda Alle, iyo in Gallad oo dhan ay ku jirto Gacanta Alle12, wuxuu siiyaa cidduu doono. Alle waa Rabbiga leh Galladda Weyn.",
-    "footnotes": "12. Gacanta Alle : Alle kor ahaaye wuxuu ku caddeeyey Qur’aanka inuu leeyahay tilmaamo gaar ah sida maqal, arag, labo indhood, weji, labo gacmood, sacabbo, faro, labo lugood, cago, inuu qoslo, cadhoodo, wax jeclaado, wax naco, wax karho, iwm. Iyadoo taasi jirto buu iska fogeeyey inuu yahay mid ay suureysan karaan aadmiga, oo wax la mid ah ma jiraan waana Isaga Maqal Badanaha, arkidda Badan, sidaas oy tahay waa in loo qiro tilmaamaha u sheegtay Alle ama Rasuulkiisu uu sheegay inuu leeyahay."
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 541,
+  "verse_key": "57:29",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 216,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّئَلَّا يَعۡلَمَ أَهۡلُ ٱلۡكِتَٰبِ أَلَّا يَقۡدِرُونَ عَلَىٰ شَيۡءٖ مِّن فَضۡلِ ٱللَّهِ وَأَنَّ ٱلۡفَضۡلَ بِيَدِ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
+  "translation": "29. Si ay ehlu-Kitaabku u ogaadaan inaysan hayn waxna ka mid ah Galladda Alle, iyo in Gallad oo dhan ay ku jirto Gacanta Alle12, wuxuu siiyaa cidduu doono. Alle waa Rabbiga leh Galladda Weyn.",
+  "footnotes": "12. Gacanta Alle : Alle kor ahaaye wuxuu ku caddeeyey Qur’aanka inuu leeyahay tilmaamo gaar ah sida maqal, arag, labo indhood, weji, labo gacmood, sacabbo, faro, labo lugood, cago, inuu qoslo, cadhoodo, wax jeclaado, wax naco, wax karho, iwm. Iyadoo taasi jirto buu iska fogeeyey inuu yahay mid ay suureysan karaan aadmiga, oo wax la mid ah ma jiraan waana Isaga Maqal Badanaha, arkidda Badan, sidaas oy tahay waa in loo qiro tilmaamaha u sheegtay Alle ama Rasuulkiisu uu sheegay inuu leeyahay."
 }

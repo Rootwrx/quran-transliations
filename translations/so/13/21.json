@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1728",
-    "sura": "13",
-    "aya": "21",
-    "arabic_text": "وَٱلَّذِينَ يَصِلُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيَخۡشَوۡنَ رَبَّهُمۡ وَيَخَافُونَ سُوٓءَ ٱلۡحِسَابِ",
-    "translation": "21. Kuwa xidhiidhiya waxa uu Alle amray in la xidhiidhiyo13, oo ka baqa Rabbigood, kana cabsada Xisaab Daran.",
-    "footnotes": "13. Waa in aad loo ilaaliyo xiriirka qaraabada iyo deriska oo lagu dadaalo wanaajintooda. Nabigu s.c.w. wuxuu yidhi: “Ma galo Jannada qof qaraabo goys ah”."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 252,
+  "verse_key": "13:21",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يَصِلُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيَخۡشَوۡنَ رَبَّهُمۡ وَيَخَافُونَ سُوٓءَ ٱلۡحِسَابِ",
+  "translation": "21. Kuwa xidhiidhiya waxa uu Alle amray in la xidhiidhiyo13, oo ka baqa Rabbigood, kana cabsada Xisaab Daran.",
+  "footnotes": "13. Waa in aad loo ilaaliyo xiriirka qaraabada iyo deriska oo lagu dadaalo wanaajintooda. Nabigu s.c.w. wuxuu yidhi: “Ma galo Jannada qof qaraabo goys ah”."
 }

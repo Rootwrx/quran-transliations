@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3870",
-    "sura": "37",
-    "aya": "82",
-    "arabic_text": "ثُمَّ أَغۡرَقۡنَا ٱلۡأٓخَرِينَ",
-    "translation": "Кейин бошқаларни ғарқ айладик.",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 449,
+  "verse_key": "37:82",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ أَغۡرَقۡنَا ٱلۡأٓخَرِينَ",
+  "translation": "Кейин бошқаларни ғарқ айладик.",
+  "footnotes": ""
 }

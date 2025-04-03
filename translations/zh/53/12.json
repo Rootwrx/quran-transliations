@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4796",
-    "sura": "53",
-    "aya": "12",
-    "arabic_text": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
-    "translation": "难道你们要为他所见的而与他争论吗？",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 526,
+  "verse_key": "53:12",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَتُمَٰرُونَهُۥ عَلَىٰ مَا يَرَىٰ",
+  "translation": "难道你们要为他所见的而与他争论吗？",
+  "footnotes": ""
 }

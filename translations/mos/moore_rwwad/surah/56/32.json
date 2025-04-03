@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5011",
-    "sura": "56",
-    "aya": "32",
-    "arabic_text": "وَفَٰكِهَةٖ كَثِيرَةٖ",
-    "translation": "La tɩ-biis wʋsgo.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 535,
+  "verse_key": "56:32",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفَٰكِهَةٖ كَثِيرَةٖ",
+  "translation": "La tɩ-biis wʋsgo.",
+  "footnotes": ""
 }

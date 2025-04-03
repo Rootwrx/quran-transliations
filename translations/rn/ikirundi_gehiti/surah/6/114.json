@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "903",
-    "sura": "6",
-    "aya": "114",
-    "arabic_text": "أَفَغَيۡرَ ٱللَّهِ أَبۡتَغِي حَكَمٗا وَهُوَ ٱلَّذِيٓ أَنزَلَ إِلَيۡكُمُ ٱلۡكِتَٰبَ مُفَصَّلٗاۚ وَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡلَمُونَ أَنَّهُۥ مُنَزَّلٞ مِّن رَّبِّكَ بِٱلۡحَقِّۖ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ",
-    "translation": "Ntumwa y’Imana! Bwira ababangikanyamana uti: “Mbega nosaba gute ikitari Imana yanje kitari n’Imana yanyu Allah, ko coruducira jewe na mwe, kandi ari Yo Yabamanuriye Igitabu ca Qor’ani gitomora neza ingingo yofatwa ku vyo duhazanako!”. Kira noneho, n’abo Twahaye Igitabu ca Tawurati n’ic’Injili, barazi neza ko Qor’ani wayimanuriwe vy’ukuri n’Imana yawe Rurema Allah. Ntukabe namba mu bafise amakenga rero ku vyo Twaguhishuriye.",
-    "footnotes": ""
-  }
+  "id": 114,
+  "verse_number": 114,
+  "page_number": 142,
+  "verse_key": "6:114",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَغَيۡرَ ٱللَّهِ أَبۡتَغِي حَكَمٗا وَهُوَ ٱلَّذِيٓ أَنزَلَ إِلَيۡكُمُ ٱلۡكِتَٰبَ مُفَصَّلٗاۚ وَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡلَمُونَ أَنَّهُۥ مُنَزَّلٞ مِّن رَّبِّكَ بِٱلۡحَقِّۖ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ",
+  "translation": "Ntumwa y’Imana! Bwira ababangikanyamana uti: “Mbega nosaba gute ikitari Imana yanje kitari n’Imana yanyu Allah, ko coruducira jewe na mwe, kandi ari Yo Yabamanuriye Igitabu ca Qor’ani gitomora neza ingingo yofatwa ku vyo duhazanako!”. Kira noneho, n’abo Twahaye Igitabu ca Tawurati n’ic’Injili, barazi neza ko Qor’ani wayimanuriwe vy’ukuri n’Imana yawe Rurema Allah. Ntukabe namba mu bafise amakenga rero ku vyo Twaguhishuriye.",
+  "footnotes": ""
 }

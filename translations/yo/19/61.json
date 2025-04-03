@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2311",
-    "sura": "19",
-    "aya": "61",
-    "arabic_text": "جَنَّٰتِ عَدۡنٍ ٱلَّتِي وَعَدَ ٱلرَّحۡمَٰنُ عِبَادَهُۥ بِٱلۡغَيۡبِۚ إِنَّهُۥ كَانَ وَعۡدُهُۥ مَأۡتِيّٗا",
-    "translation": "(Wọn yóò wọ inú) àwọn Ọgbà Ìdẹ̀ra gbére tí Àjọkẹ́-ayé ṣe ní àdéhùn ní ìkọ̀kọ̀[1] fún àwọn ẹrúsìn Rẹ̀. Dájúdájú (Allāhu), àdéhùn Rẹ̀ ń bọ̀ wá ṣẹ.",
-    "footnotes": "1. Ìyẹn ni pé, wọn kò lè fojú rí àdéhùn náà nílé ayé, àmọ́ òdodo ni, wọ́n sì máa rí i ṣójú ní Ọjọ́ Àjíǹde."
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 309,
+  "verse_key": "19:61",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "جَنَّٰتِ عَدۡنٍ ٱلَّتِي وَعَدَ ٱلرَّحۡمَٰنُ عِبَادَهُۥ بِٱلۡغَيۡبِۚ إِنَّهُۥ كَانَ وَعۡدُهُۥ مَأۡتِيّٗا",
+  "translation": "(Wọn yóò wọ inú) àwọn Ọgbà Ìdẹ̀ra gbére tí Àjọkẹ́-ayé ṣe ní àdéhùn ní ìkọ̀kọ̀[1] fún àwọn ẹrúsìn Rẹ̀. Dájúdájú (Allāhu), àdéhùn Rẹ̀ ń bọ̀ wá ṣẹ.",
+  "footnotes": "1. Ìyẹn ni pé, wọn kò lè fojú rí àdéhùn náà nílé ayé, àmọ́ òdodo ni, wọ́n sì máa rí i ṣójú ní Ọjọ́ Àjíǹde."
 }

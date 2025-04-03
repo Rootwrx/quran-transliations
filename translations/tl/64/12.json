@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5211",
-    "sura": "64",
-    "aya": "12",
-    "arabic_text": "وَأَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَۚ فَإِن تَوَلَّيۡتُمۡ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
-    "translation": "Tumalima kayo kay Allāh at tumalima kayo sa Sugo [na si Propeta Muḥammad]. Kaya kung tumalikod kayo, tanging kailangan sa Sugo Namin ang pagpapaabot na malinaw [ng mensahe].",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 557,
+  "verse_key": "64:12",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَۚ فَإِن تَوَلَّيۡتُمۡ فَإِنَّمَا عَلَىٰ رَسُولِنَا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+  "translation": "Tumalima kayo kay Allāh at tumalima kayo sa Sugo [na si Propeta Muḥammad]. Kaya kung tumalikod kayo, tanging kailangan sa Sugo Namin ang pagpapaabot na malinaw [ng mensahe].",
+  "footnotes": ""
 }

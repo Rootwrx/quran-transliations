@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2961",
-    "sura": "26",
-    "aya": "29",
-    "arabic_text": "قَالَ لَئِنِ ٱتَّخَذۡتَ إِلَٰهًا غَيۡرِي لَأَجۡعَلَنَّكَ مِنَ ٱلۡمَسۡجُونِينَ",
-    "translation": "(Fir‘aon) wí pé: “Dájúdájú tí o bá fi lè jọ́sìn fún ọlọ́hun kan yàtọ̀ sí mi, dájúdájú mo máa sọ ọ́ di ara àwọn ẹlẹ́wọ̀n.”",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 368,
+  "verse_key": "26:29",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَئِنِ ٱتَّخَذۡتَ إِلَٰهًا غَيۡرِي لَأَجۡعَلَنَّكَ مِنَ ٱلۡمَسۡجُونِينَ",
+  "translation": "(Fir‘aon) wí pé: “Dájúdájú tí o bá fi lè jọ́sìn fún ọlọ́hun kan yàtọ̀ sí mi, dájúdájú mo máa sọ ọ́ di ara àwọn ẹlẹ́wọ̀n.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1277",
-    "sura": "9",
-    "aya": "42",
-    "arabic_text": "لَوۡ كَانَ عَرَضٗا قَرِيبٗا وَسَفَرٗا قَاصِدٗا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتۡ عَلَيۡهِمُ ٱلشُّقَّةُۚ وَسَيَحۡلِفُونَ بِٱللَّهِ لَوِ ٱسۡتَطَعۡنَا لَخَرَجۡنَا مَعَكُمۡ يُهۡلِكُونَ أَنفُسَهُمۡ وَٱللَّهُ يَعۡلَمُ إِنَّهُمۡ لَكَٰذِبُونَ",
-    "translation": "Ntumwa y’Imana! Indyarya iyo zisabwa kuja kwegeranya iminyago hatarinze kuba indwano no gufata urugendo rutaruhisha, zari kugukurikira[10]. Ariko icatumye zisiba ku rugamba rwa “Tabuuki” rwo kurwanya Abaromani, ni uko urugamba rwabaye mu gihe c’ici. Zizoheza rero zitange ivyireguzo ku gusiba kuri nya rugamba, zirahire zirengwe kw’Izina ry’Imana Allah ko iyo zishobora kuza, zari kujana na mwe ku rugamba, gutyo zihonye zo nyene kuri ico kinyoma n’uburyarya, kandi Imana Allah Izi neza ko mu vy’ukuri zibesha mu vyireguzo vyazo.",
-    "footnotes": "[10] Muri iyi Aayah, Imana Allah Iranebagura ingendo y’indyarya zasavye Intumwa uruhusha rwo gusiba ku rugamba rwabereye ahitwa “Tabuuki”."
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 194,
+  "verse_key": "9:42",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَوۡ كَانَ عَرَضٗا قَرِيبٗا وَسَفَرٗا قَاصِدٗا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتۡ عَلَيۡهِمُ ٱلشُّقَّةُۚ وَسَيَحۡلِفُونَ بِٱللَّهِ لَوِ ٱسۡتَطَعۡنَا لَخَرَجۡنَا مَعَكُمۡ يُهۡلِكُونَ أَنفُسَهُمۡ وَٱللَّهُ يَعۡلَمُ إِنَّهُمۡ لَكَٰذِبُونَ",
+  "translation": "Ntumwa y’Imana! Indyarya iyo zisabwa kuja kwegeranya iminyago hatarinze kuba indwano no gufata urugendo rutaruhisha, zari kugukurikira[10]. Ariko icatumye zisiba ku rugamba rwa “Tabuuki” rwo kurwanya Abaromani, ni uko urugamba rwabaye mu gihe c’ici. Zizoheza rero zitange ivyireguzo ku gusiba kuri nya rugamba, zirahire zirengwe kw’Izina ry’Imana Allah ko iyo zishobora kuza, zari kujana na mwe ku rugamba, gutyo zihonye zo nyene kuri ico kinyoma n’uburyarya, kandi Imana Allah Izi neza ko mu vy’ukuri zibesha mu vyireguzo vyazo.",
+  "footnotes": "[10] Muri iyi Aayah, Imana Allah Iranebagura ingendo y’indyarya zasavye Intumwa uruhusha rwo gusiba ku rugamba rwabereye ahitwa “Tabuuki”."
 }

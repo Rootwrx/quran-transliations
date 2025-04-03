@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5103",
-    "sura": "57",
-    "aya": "28",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَءَامِنُواْ بِرَسُولِهِۦ يُؤۡتِكُمۡ كِفۡلَيۡنِ مِن رَّحۡمَتِهِۦ وَيَجۡعَل لَّكُمۡ نُورٗا تَمۡشُونَ بِهِۦ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
-    "translation": "28 Vous qui croyez ! Craignez Allah et croyez en Son Messager ! Il vous accordera une double part de Sa grâce[1395], une lumière pour vous guider et Son pardon. Allah est Très Clément et Très Miséricordieux.",
-    "footnotes": "[1395] Selon nombre d’exégètes, Allah s’adresse ici aux juifs et aux chrétiens qu’Il invite à embrasser l’islam. En effet, plusieurs traditions prophétiques indiquent que ces derniers seront doublement récompensés pour avoir cru en leur prophète, puis en la mission de Mouhammad."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 541,
+  "verse_key": "57:28",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 216,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَءَامِنُواْ بِرَسُولِهِۦ يُؤۡتِكُمۡ كِفۡلَيۡنِ مِن رَّحۡمَتِهِۦ وَيَجۡعَل لَّكُمۡ نُورٗا تَمۡشُونَ بِهِۦ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "translation": "28 Vous qui croyez ! Craignez Allah et croyez en Son Messager ! Il vous accordera une double part de Sa grâce[1395], une lumière pour vous guider et Son pardon. Allah est Très Clément et Très Miséricordieux.",
+  "footnotes": "[1395] Selon nombre d’exégètes, Allah s’adresse ici aux juifs et aux chrétiens qu’Il invite à embrasser l’islam. En effet, plusieurs traditions prophétiques indiquent que ces derniers seront doublement récompensés pour avoir cru en leur prophète, puis en la mission de Mouhammad."
 }

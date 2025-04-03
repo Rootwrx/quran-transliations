@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2451",
-    "sura": "20",
-    "aya": "103",
-    "arabic_text": "يَتَخَٰفَتُونَ بَيۡنَهُمۡ إِن لَّبِثۡتُمۡ إِلَّا عَشۡرٗا",
-    "translation": "103. Hablarán en voz baja entre ellos y dirán que solo vivieron en la tierra unos diez días.",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 319,
+  "verse_key": "20:103",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَتَخَٰفَتُونَ بَيۡنَهُمۡ إِن لَّبِثۡتُمۡ إِلَّا عَشۡرٗا",
+  "translation": "103. Hablarán en voz baja entre ellos y dirán que solo vivieron en la tierra unos diez días.",
+  "footnotes": ""
 }

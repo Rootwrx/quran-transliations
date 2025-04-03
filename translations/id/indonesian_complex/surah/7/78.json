@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1032",
-    "sura": "7",
-    "aya": "78",
-    "arabic_text": "فَأَخَذَتۡهُمُ ٱلرَّجۡفَةُ فَأَصۡبَحُواْ فِي دَارِهِمۡ جَٰثِمِينَ",
-    "translation": "Karena itu, mereka ditimpa gempa, maka jadilah mereka mayat-mayat yang bergelimpangan di tempat tinggal mereka.",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 160,
+  "verse_key": "7:78",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَخَذَتۡهُمُ ٱلرَّجۡفَةُ فَأَصۡبَحُواْ فِي دَارِهِمۡ جَٰثِمِينَ",
+  "translation": "Karena itu, mereka ditimpa gempa, maka jadilah mereka mayat-mayat yang bergelimpangan di tempat tinggal mereka.",
+  "footnotes": ""
 }

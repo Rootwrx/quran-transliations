@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6185",
-    "sura": "104",
-    "aya": "6",
-    "arabic_text": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ",
-    "translation": "(Ал) Аллахтын алоолонгон тозогу,",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 601,
+  "verse_key": "104:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نَارُ ٱللَّهِ ٱلۡمُوقَدَةُ",
+  "translation": "(Ал) Аллахтын алоолонгон тозогу,",
+  "footnotes": ""
 }

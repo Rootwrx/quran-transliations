@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1501",
-    "sura": "11",
-    "aya": "28",
-    "arabic_text": "قَالَ يَٰقَوۡمِ أَرَءَيۡتُمۡ إِن كُنتُ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّي وَءَاتَىٰنِي رَحۡمَةٗ مِّنۡ عِندِهِۦ فَعُمِّيَتۡ عَلَيۡكُمۡ أَنُلۡزِمُكُمُوهَا وَأَنتُمۡ لَهَا كَٰرِهُونَ",
-    "translation": "28. Alobaki ete: Oh bato na ngai! В omoni boni soki nazali na elembo ya bosembo kowuta epai ya Nkolo wa ngai, mpe apesi ngai ngolu kowuta epai naye mpe bozangi yango, biso tokokanga bino na makasi te mpo bozua yango mpe bino bozali koyina?",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 224,
+  "verse_key": "11:28",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ يَٰقَوۡمِ أَرَءَيۡتُمۡ إِن كُنتُ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّي وَءَاتَىٰنِي رَحۡمَةٗ مِّنۡ عِندِهِۦ فَعُمِّيَتۡ عَلَيۡكُمۡ أَنُلۡزِمُكُمُوهَا وَأَنتُمۡ لَهَا كَٰرِهُونَ",
+  "translation": "28. Alobaki ete: Oh bato na ngai! В omoni boni soki nazali na elembo ya bosembo kowuta epai ya Nkolo wa ngai, mpe apesi ngai ngolu kowuta epai naye mpe bozangi yango, biso tokokanga bino na makasi te mpo bozua yango mpe bino bozali koyina?",
+  "footnotes": ""
 }

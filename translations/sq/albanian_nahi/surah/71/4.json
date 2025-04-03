@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5423",
-    "sura": "71",
-    "aya": "4",
-    "arabic_text": "يَغۡفِرۡ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرۡكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمًّىۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُۚ لَوۡ كُنتُمۡ تَعۡلَمُونَ",
-    "translation": "me qëllim që Ai të falë disa nga gjynahet tuaja dhe t’ju lërë (të jetoni) deri në një afat të caktuar. Dhe, kur t’ju vijë çasti i caktuar i Allahut, askush nuk do të mund ta shtyjë atë, veç sikur ta dinit”!",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 570,
+  "verse_key": "71:4",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَغۡفِرۡ لَكُم مِّن ذُنُوبِكُمۡ وَيُؤَخِّرۡكُمۡ إِلَىٰٓ أَجَلٖ مُّسَمًّىۚ إِنَّ أَجَلَ ٱللَّهِ إِذَا جَآءَ لَا يُؤَخَّرُۚ لَوۡ كُنتُمۡ تَعۡلَمُونَ",
+  "translation": "me qëllim që Ai të falë disa nga gjynahet tuaja dhe t’ju lërë (të jetoni) deri në një afat të caktuar. Dhe, kur t’ju vijë çasti i caktuar i Allahut, askush nuk do të mund ta shtyjë atë, veç sikur ta dinit”!",
+  "footnotes": ""
 }

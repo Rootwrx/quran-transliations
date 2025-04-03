@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1192",
-    "sura": "8",
-    "aya": "32",
-    "arabic_text": "وَإِذۡ قَالُواْ ٱللَّهُمَّ إِن كَانَ هَٰذَا هُوَ ٱلۡحَقَّ مِنۡ عِندِكَ فَأَمۡطِرۡ عَلَيۡنَا حِجَارَةٗ مِّنَ ٱلسَّمَآءِ أَوِ ٱئۡتِنَا بِعَذَابٍ أَلِيمٖ",
-    "translation": "And [remember] when they said, “O Allah, if this is indeed the truth from You, then rain down upon us stones from the heaven or bring upon us a painful punishment[19].”",
-    "footnotes": "[19] Abu Jahl and other disbelievers invoked this supplication."
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 180,
+  "verse_key": "8:32",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالُواْ ٱللَّهُمَّ إِن كَانَ هَٰذَا هُوَ ٱلۡحَقَّ مِنۡ عِندِكَ فَأَمۡطِرۡ عَلَيۡنَا حِجَارَةٗ مِّنَ ٱلسَّمَآءِ أَوِ ٱئۡتِنَا بِعَذَابٍ أَلِيمٖ",
+  "translation": "And [remember] when they said, “O Allah, if this is indeed the truth from You, then rain down upon us stones from the heaven or bring upon us a painful punishment[19].”",
+  "footnotes": "[19] Abu Jahl and other disbelievers invoked this supplication."
 }

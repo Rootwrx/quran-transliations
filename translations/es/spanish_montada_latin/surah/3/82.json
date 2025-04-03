@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "375",
-    "sura": "3",
-    "aya": "82",
-    "arabic_text": "فَمَن تَوَلَّىٰ بَعۡدَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ",
-    "translation": "82. Y quienes (aleguen seguir a sus profetas, como los judíos y los cristianos, y) le den la espalda (a Muhammad) después del pacto (que establecieron los profetas con Al-lah acerca de creer y apoyar a Su Mensajero), esos serán los rebeldes.",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 60,
+  "verse_key": "3:82",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَن تَوَلَّىٰ بَعۡدَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ",
+  "translation": "82. Y quienes (aleguen seguir a sus profetas, como los judíos y los cristianos, y) le den la espalda (a Muhammad) después del pacto (que establecieron los profetas con Al-lah acerca de creer y apoyar a Su Mensajero), esos serán los rebeldes.",
+  "footnotes": ""
 }

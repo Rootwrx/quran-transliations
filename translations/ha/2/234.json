@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "241",
-    "sura": "2",
-    "aya": "234",
-    "arabic_text": "وَٱلَّذِينَ يُتَوَفَّوۡنَ مِنكُمۡ وَيَذَرُونَ أَزۡوَٰجٗا يَتَرَبَّصۡنَ بِأَنفُسِهِنَّ أَرۡبَعَةَ أَشۡهُرٖ وَعَشۡرٗاۖ فَإِذَا بَلَغۡنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا فَعَلۡنَ فِيٓ أَنفُسِهِنَّ بِٱلۡمَعۡرُوفِۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
-    "translation": "Kuma waɗanda suke mutuwa* daga gare ku suna barin mãtan aure, mãtan suna jinkiri da kansu wata huɗu da kwãna goma. To, idan sun isa ga ajalinsu, to, bãbu laifi a kanku a cikin abin da suka aikata game da kansu ga al'ãda. Kuma Allah ga abin da kuke aikatawa Masani ne.",
-    "footnotes": "* Bayãnin iddar mutuwar maza; mace ɗiya za ta zauna wata huɗu da kwana gõma. Baiwa mãtar aure tanã a kan rabi. Wadda ke shakkar ciki sai ta zauna sai shakka tã ɗebe. Ana takaba watau mai iddar mutuwa ta nisanci ƙawa kõwace iri ce, sai tã ƙãre idda."
-  }
+  "id": 234,
+  "verse_number": 234,
+  "page_number": 38,
+  "verse_key": "2:234",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 15,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يُتَوَفَّوۡنَ مِنكُمۡ وَيَذَرُونَ أَزۡوَٰجٗا يَتَرَبَّصۡنَ بِأَنفُسِهِنَّ أَرۡبَعَةَ أَشۡهُرٖ وَعَشۡرٗاۖ فَإِذَا بَلَغۡنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا فَعَلۡنَ فِيٓ أَنفُسِهِنَّ بِٱلۡمَعۡرُوفِۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+  "translation": "Kuma waɗanda suke mutuwa* daga gare ku suna barin mãtan aure, mãtan suna jinkiri da kansu wata huɗu da kwãna goma. To, idan sun isa ga ajalinsu, to, bãbu laifi a kanku a cikin abin da suka aikata game da kansu ga al'ãda. Kuma Allah ga abin da kuke aikatawa Masani ne.",
+  "footnotes": "* Bayãnin iddar mutuwar maza; mace ɗiya za ta zauna wata huɗu da kwana gõma. Baiwa mãtar aure tanã a kan rabi. Wadda ke shakkar ciki sai ta zauna sai shakka tã ɗebe. Ana takaba watau mai iddar mutuwa ta nisanci ƙawa kõwace iri ce, sai tã ƙãre idda."
 }

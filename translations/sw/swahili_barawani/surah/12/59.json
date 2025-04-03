@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1655",
-    "sura": "12",
-    "aya": "59",
-    "arabic_text": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ قَالَ ٱئۡتُونِي بِأَخٖ لَّكُم مِّنۡ أَبِيكُمۡۚ أَلَا تَرَوۡنَ أَنِّيٓ أُوفِي ٱلۡكَيۡلَ وَأَنَا۠ خَيۡرُ ٱلۡمُنزِلِينَ",
-    "translation": "Na alipo watengenezea tayari haja yao alisema: Nileteeni ndugu yenu kwa baba. Je! Hamwoni ya kwamba mimi ninatimiza kipimo, nami ni mbora wa kukirimu?",
-    "footnotes": "Yusuf akaamrisha wakaribishwe ugeni, na wapewe mahitaji wanayo yataka. Wakapewa hayo. Akaingia kuzungumza nao na kuwauliza hali zao kama mtu asiye wajua! Naye anawajua vyema. Nao wakamwambia kuwa wamemwacha ndugu yao mmoja kwa baba yao, kwani hapendi kuachana naye. Naye huyo ni Bin-yamini nduguye Yusuf kwa baba na mama. Basi yeye akasema: Mwacheni ndugu yenu aje nanyi, wala msiogope chochote. Nyinyi mmekwisha ona vipi ninavyo kutimizieni vipimo vyenu, na ninavyo kukirimuni."
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 242,
+  "verse_key": "12:59",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا جَهَّزَهُم بِجَهَازِهِمۡ قَالَ ٱئۡتُونِي بِأَخٖ لَّكُم مِّنۡ أَبِيكُمۡۚ أَلَا تَرَوۡنَ أَنِّيٓ أُوفِي ٱلۡكَيۡلَ وَأَنَا۠ خَيۡرُ ٱلۡمُنزِلِينَ",
+  "translation": "Na alipo watengenezea tayari haja yao alisema: Nileteeni ndugu yenu kwa baba. Je! Hamwoni ya kwamba mimi ninatimiza kipimo, nami ni mbora wa kukirimu?",
+  "footnotes": "Yusuf akaamrisha wakaribishwe ugeni, na wapewe mahitaji wanayo yataka. Wakapewa hayo. Akaingia kuzungumza nao na kuwauliza hali zao kama mtu asiye wajua! Naye anawajua vyema. Nao wakamwambia kuwa wamemwacha ndugu yao mmoja kwa baba yao, kwani hapendi kuachana naye. Naye huyo ni Bin-yamini nduguye Yusuf kwa baba na mama. Basi yeye akasema: Mwacheni ndugu yenu aje nanyi, wala msiogope chochote. Nyinyi mmekwisha ona vipi ninavyo kutimizieni vipimo vyenu, na ninavyo kukirimuni."
 }

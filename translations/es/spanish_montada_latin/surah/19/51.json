@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2301",
-    "sura": "19",
-    "aya": "51",
-    "arabic_text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مُوسَىٰٓۚ إِنَّهُۥ كَانَ مُخۡلَصٗا وَكَانَ رَسُولٗا نَّبِيّٗا",
-    "translation": "51. Y recuerda (¡oh, Muhammad!) lo que te hemos revelado en el Libro (el Corán) acerca de Moisés. Adoraba solamente a Al-lah con sincera devoción[552] y fue un Mensajero y un Profeta[553].",
-    "footnotes": "[552]  También puede significar que Al-lah lo había purificado de cualquier impureza o que lo había escogido entre los demás hombres.\n[553]  A pesar de que los términos “Profeta” y “Mensajero” parecen sinónimos y se utilizan normalmente como tales, la mayoría de los exégetas musulmanes ven algunas diferencias entre ellos. La palabra “Mensajero” suele ser la traducción del árabe rasul, y se refiere a la persona que recibe una revelación de Al-lah y se le ordena transmitirla; mientras que la palabra «Profeta» suele ser la traducción del árabe nabi e indica a la persona que recibe una revelación pero no se le ordena transmitirla. El Sheij Al Islam Ibn Taimiiah sostuvo, no obstante, que el Mensajero es el que es enviado a personas incrédulas; mientras que el Profeta es el que es enviado a personas creyentes con la ley del mensajero que lo precedió con el objetivo de enseñarla y de juzgar entre los hombres. "
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 308,
+  "verse_key": "19:51",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مُوسَىٰٓۚ إِنَّهُۥ كَانَ مُخۡلَصٗا وَكَانَ رَسُولٗا نَّبِيّٗا",
+  "translation": "51. Y recuerda (¡oh, Muhammad!) lo que te hemos revelado en el Libro (el Corán) acerca de Moisés. Adoraba solamente a Al-lah con sincera devoción[552] y fue un Mensajero y un Profeta[553].",
+  "footnotes": "[552]  También puede significar que Al-lah lo había purificado de cualquier impureza o que lo había escogido entre los demás hombres.\n[553]  A pesar de que los términos “Profeta” y “Mensajero” parecen sinónimos y se utilizan normalmente como tales, la mayoría de los exégetas musulmanes ven algunas diferencias entre ellos. La palabra “Mensajero” suele ser la traducción del árabe rasul, y se refiere a la persona que recibe una revelación de Al-lah y se le ordena transmitirla; mientras que la palabra «Profeta» suele ser la traducción del árabe nabi e indica a la persona que recibe una revelación pero no se le ordena transmitirla. El Sheij Al Islam Ibn Taimiiah sostuvo, no obstante, que el Mensajero es el que es enviado a personas incrédulas; mientras que el Profeta es el que es enviado a personas creyentes con la ley del mensajero que lo precedió con el objetivo de enseñarla y de juzgar entre los hombres. "
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1261",
-    "sura": "9",
-    "aya": "26",
-    "arabic_text": "ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلۡمُؤۡمِنِينَ وَأَنزَلَ جُنُودٗا لَّمۡ تَرَوۡهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُواْۚ وَذَٰلِكَ جَزَآءُ ٱلۡكَٰفِرِينَ",
-    "translation": "Kisha Mwenyezi Mungu akateremsha utulivu wake juu ya Mtume wake na juu ya Waumini. Na akateremsha majeshi ambayo hamkuyaona, na akawaadhibu wale walio kufuru. Na hayo ndiyo malipo ya makafiri.",
-    "footnotes": "Tena mkapata himaya ya Mwenyezi Mungu. Akateremsha utulivu juu ya Mtume wake, na akaujaza utulivu katika nyoyo za Waumini, na akakuungeni mkono kwa Malaika, jeshi lake, walio tia imara miguu yenu. Nanyi hamkuwaona Malaika hao...Na Mwenyezi Mungu akawaonjesha maadui zenu machungu ya kushindwa. Na hayo ndiyo malipo ya makafiri duniani."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 190,
+  "verse_key": "9:26",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ أَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَىٰ رَسُولِهِۦ وَعَلَى ٱلۡمُؤۡمِنِينَ وَأَنزَلَ جُنُودٗا لَّمۡ تَرَوۡهَا وَعَذَّبَ ٱلَّذِينَ كَفَرُواْۚ وَذَٰلِكَ جَزَآءُ ٱلۡكَٰفِرِينَ",
+  "translation": "Kisha Mwenyezi Mungu akateremsha utulivu wake juu ya Mtume wake na juu ya Waumini. Na akateremsha majeshi ambayo hamkuyaona, na akawaadhibu wale walio kufuru. Na hayo ndiyo malipo ya makafiri.",
+  "footnotes": "Tena mkapata himaya ya Mwenyezi Mungu. Akateremsha utulivu juu ya Mtume wake, na akaujaza utulivu katika nyoyo za Waumini, na akakuungeni mkono kwa Malaika, jeshi lake, walio tia imara miguu yenu. Nanyi hamkuwaona Malaika hao...Na Mwenyezi Mungu akawaonjesha maadui zenu machungu ya kushindwa. Na hayo ndiyo malipo ya makafiri duniani."
 }

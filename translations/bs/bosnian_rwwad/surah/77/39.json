@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5661",
-    "sura": "77",
-    "aya": "39",
-    "arabic_text": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ",
-    "translation": "pa ako se lukavstvom kakvim budete znali poslužiti, dovijte se protiv Mene!",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 581,
+  "verse_key": "77:39",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن كَانَ لَكُمۡ كَيۡدٞ فَكِيدُونِ",
+  "translation": "pa ako se lukavstvom kakvim budete znali poslužiti, dovijte se protiv Mene!",
+  "footnotes": ""
 }

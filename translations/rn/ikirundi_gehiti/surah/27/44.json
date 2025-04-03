@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3203",
-    "sura": "27",
-    "aya": "44",
-    "arabic_text": "قِيلَ لَهَا ٱدۡخُلِي ٱلصَّرۡحَۖ فَلَمَّا رَأَتۡهُ حَسِبَتۡهُ لُجَّةٗ وَكَشَفَتۡ عَن سَاقَيۡهَاۚ قَالَ إِنَّهُۥ صَرۡحٞ مُّمَرَّدٞ مِّن قَوَارِيرَۗ قَالَتۡ رَبِّ إِنِّي ظَلَمۡتُ نَفۡسِي وَأَسۡلَمۡتُ مَعَ سُلَيۡمَٰنَ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "Nya mwamikazi yabwiwe ati: “Shika winjire rero mu kirimba”. Nya kirimba cari gishashwe n’ibiyo bibonerana hasi, musi yavyo hatemba amazi. Nya mwamikazi abonye nya biyo bishashe hasi, yibwiye ko ari amazi, aca akutsa impuzu kugira ayacemwo; Sulayimani amubonye, aca amubwira ati: “Ivyo, ni ibiyo bibonerana bishashe hasi, amazi aca musi yavyo”. Ni ho rero nya mwamikazi yatahura ko ubwami bwa Sulayimani buhambaye, maze aca avuga ati: “Mana yanje Rurema Allah! Jewe mu vy’ukuri narirenganije mu kukubangikanya, nicishije bugufi rero mu gukurikira hamwe na Sulayimani idini ry’ubwislamu, idini ry’Imana Rurema Allah, Umubungabunzi w’ibiremwa vyose”.",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 380,
+  "verse_key": "27:44",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قِيلَ لَهَا ٱدۡخُلِي ٱلصَّرۡحَۖ فَلَمَّا رَأَتۡهُ حَسِبَتۡهُ لُجَّةٗ وَكَشَفَتۡ عَن سَاقَيۡهَاۚ قَالَ إِنَّهُۥ صَرۡحٞ مُّمَرَّدٞ مِّن قَوَارِيرَۗ قَالَتۡ رَبِّ إِنِّي ظَلَمۡتُ نَفۡسِي وَأَسۡلَمۡتُ مَعَ سُلَيۡمَٰنَ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "Nya mwamikazi yabwiwe ati: “Shika winjire rero mu kirimba”. Nya kirimba cari gishashwe n’ibiyo bibonerana hasi, musi yavyo hatemba amazi. Nya mwamikazi abonye nya biyo bishashe hasi, yibwiye ko ari amazi, aca akutsa impuzu kugira ayacemwo; Sulayimani amubonye, aca amubwira ati: “Ivyo, ni ibiyo bibonerana bishashe hasi, amazi aca musi yavyo”. Ni ho rero nya mwamikazi yatahura ko ubwami bwa Sulayimani buhambaye, maze aca avuga ati: “Mana yanje Rurema Allah! Jewe mu vy’ukuri narirenganije mu kukubangikanya, nicishije bugufi rero mu gukurikira hamwe na Sulayimani idini ry’ubwislamu, idini ry’Imana Rurema Allah, Umubungabunzi w’ibiremwa vyose”.",
+  "footnotes": ""
 }

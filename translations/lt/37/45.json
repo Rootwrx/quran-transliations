@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3833",
-    "sura": "37",
-    "aya": "45",
-    "arabic_text": "يُطَافُ عَلَيۡهِم بِكَأۡسٖ مِّن مَّعِينِۭ",
-    "translation": "45. Aplink juos bus perduodama gryno vyno taurė -",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 447,
+  "verse_key": "37:45",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُطَافُ عَلَيۡهِم بِكَأۡسٖ مِّن مَّعِينِۭ",
+  "translation": "45. Aplink juos bus perduodama gryno vyno taurė -",
+  "footnotes": ""
 }

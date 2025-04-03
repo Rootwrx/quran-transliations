@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3257",
-    "sura": "28",
-    "aya": "5",
-    "arabic_text": "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسۡتُضۡعِفُواْ فِي ٱلۡأَرۡضِ وَنَجۡعَلَهُمۡ أَئِمَّةٗ وَنَجۡعَلَهُمُ ٱلۡوَٰرِثِينَ",
-    "translation": "5. Y quisimos favorecer a quienes habían sido oprimidos en la tierra haciendo que se convirtieran en unos guías espirituales y que heredaran (la tierra)[743].",
-    "footnotes": "[743]  Posiblemente se refiere a la tierra de la Gran Siria, donde se establecieron tras abandonar Egipto (ver la nota de la aleya 137 de la sura 7)."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 385,
+  "verse_key": "28:5",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسۡتُضۡعِفُواْ فِي ٱلۡأَرۡضِ وَنَجۡعَلَهُمۡ أَئِمَّةٗ وَنَجۡعَلَهُمُ ٱلۡوَٰرِثِينَ",
+  "translation": "5. Y quisimos favorecer a quienes habían sido oprimidos en la tierra haciendo que se convirtieran en unos guías espirituales y que heredaran (la tierra)[743].",
+  "footnotes": "[743]  Posiblemente se refiere a la tierra de la Gran Siria, donde se establecieron tras abandonar Egipto (ver la nota de la aleya 137 de la sura 7)."
 }

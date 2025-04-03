@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6111",
-    "sura": "96",
-    "aya": "5",
-    "arabic_text": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ",
-    "translation": "Ба инсон он чиро, ки намедонист, омӯхт",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 597,
+  "verse_key": "96:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَّمَ ٱلۡإِنسَٰنَ مَا لَمۡ يَعۡلَمۡ",
+  "translation": "Ба инсон он чиро, ки намедонист, омӯхт",
+  "footnotes": ""
 }

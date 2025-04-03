@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5245",
-    "sura": "67",
-    "aya": "4",
-    "arabic_text": "ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَيۡنِ يَنقَلِبۡ إِلَيۡكَ ٱلۡبَصَرُ خَاسِئٗا وَهُوَ حَسِيرٞ",
-    "translation": "Puis, retourne ton regard à deux fois: le regard te reviendra humilié et frustré.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 562,
+  "verse_key": "67:4",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ ٱرۡجِعِ ٱلۡبَصَرَ كَرَّتَيۡنِ يَنقَلِبۡ إِلَيۡكَ ٱلۡبَصَرُ خَاسِئٗا وَهُوَ حَسِيرٞ",
+  "translation": "Puis, retourne ton regard à deux fois: le regard te reviendra humilié et frustré.",
+  "footnotes": ""
 }

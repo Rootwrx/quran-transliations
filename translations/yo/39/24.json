@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4082",
-    "sura": "39",
-    "aya": "24",
-    "arabic_text": "أَفَمَن يَتَّقِي بِوَجۡهِهِۦ سُوٓءَ ٱلۡعَذَابِ يَوۡمَ ٱلۡقِيَٰمَةِۚ وَقِيلَ لِلظَّٰلِمِينَ ذُوقُواْ مَا كُنتُمۡ تَكۡسِبُونَ",
-    "translation": "Ǹjẹ́ ẹni tí ó máa fojú ara rẹ̀ ko aburú ìyà Iná ní Ọjọ́ Àjíǹde (dà bí ẹni tí ó máa wọ inú Ọgbà Ìdẹ̀ra wọ́ọ́rọ́wọ́)? Wọn yó sì sọ fún àwọn alábòsí pé: “Ẹ tọ́ ìyà ohun tí ẹ̀ ń ṣe níṣẹ́ wò.”",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 461,
+  "verse_key": "39:24",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَمَن يَتَّقِي بِوَجۡهِهِۦ سُوٓءَ ٱلۡعَذَابِ يَوۡمَ ٱلۡقِيَٰمَةِۚ وَقِيلَ لِلظَّٰلِمِينَ ذُوقُواْ مَا كُنتُمۡ تَكۡسِبُونَ",
+  "translation": "Ǹjẹ́ ẹni tí ó máa fojú ara rẹ̀ ko aburú ìyà Iná ní Ọjọ́ Àjíǹde (dà bí ẹni tí ó máa wọ inú Ọgbà Ìdẹ̀ra wọ́ọ́rọ́wọ́)? Wọn yó sì sọ fún àwọn alábòsí pé: “Ẹ tọ́ ìyà ohun tí ẹ̀ ń ṣe níṣẹ́ wò.”",
+  "footnotes": ""
 }

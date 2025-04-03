@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3577",
-    "sura": "33",
-    "aya": "44",
-    "arabic_text": "تَحِيَّتُهُمۡ يَوۡمَ يَلۡقَوۡنَهُۥ سَلَٰمٞۚ وَأَعَدَّ لَهُمۡ أَجۡرٗا كَرِيمٗا",
-    "translation": "Maamkiano yao siku ya kukutana naye yatakuwa: Salama! Na amewaandalia malipo ya ukarimu.",
-    "footnotes": "Maamkio yao siku watakapo kutana naye ni: Amani na Salama kwao. Na amewatengezea kwa vitendo vyao ujira wa ukarimu utakao waonyesha fadhila zake."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 424,
+  "verse_key": "33:44",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَحِيَّتُهُمۡ يَوۡمَ يَلۡقَوۡنَهُۥ سَلَٰمٞۚ وَأَعَدَّ لَهُمۡ أَجۡرٗا كَرِيمٗا",
+  "translation": "Maamkiano yao siku ya kukutana naye yatakuwa: Salama! Na amewaandalia malipo ya ukarimu.",
+  "footnotes": "Maamkio yao siku watakapo kutana naye ni: Amani na Salama kwao. Na amewatengezea kwa vitendo vyao ujira wa ukarimu utakao waonyesha fadhila zake."
 }

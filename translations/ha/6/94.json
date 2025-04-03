@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "883",
-    "sura": "6",
-    "aya": "94",
-    "arabic_text": "وَلَقَدۡ جِئۡتُمُونَا فُرَٰدَىٰ كَمَا خَلَقۡنَٰكُمۡ أَوَّلَ مَرَّةٖ وَتَرَكۡتُم مَّا خَوَّلۡنَٰكُمۡ وَرَآءَ ظُهُورِكُمۡۖ وَمَا نَرَىٰ مَعَكُمۡ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمۡتُمۡ أَنَّهُمۡ فِيكُمۡ شُرَكَٰٓؤُاْۚ لَقَد تَّقَطَّعَ بَيۡنَكُمۡ وَضَلَّ عَنكُم مَّا كُنتُمۡ تَزۡعُمُونَ",
-    "translation": "Kuma lalle ne haƙĩƙa, kun zo Mana ɗai ɗai, kamar yadda Muka halittã ku a farkon lõkaci. Kuma kun bar abin da Muka mallaka muku a bayan bayayyakinku, kuma ba Mu gani a tãre da kũ ba, macẽtanku waɗanda kuka riya cẽwa lalle ne sũ, a cikinku mãsu tãrayya ne. Lalle ne, hãƙĩƙa, kõme yã yanyanke a tsakãninku, kuma abin da kuka kasance kunã riyãwa ya ɓace daga gare ku.",
-    "footnotes": ""
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 139,
+  "verse_key": "6:94",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 55,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ جِئۡتُمُونَا فُرَٰدَىٰ كَمَا خَلَقۡنَٰكُمۡ أَوَّلَ مَرَّةٖ وَتَرَكۡتُم مَّا خَوَّلۡنَٰكُمۡ وَرَآءَ ظُهُورِكُمۡۖ وَمَا نَرَىٰ مَعَكُمۡ شُفَعَآءَكُمُ ٱلَّذِينَ زَعَمۡتُمۡ أَنَّهُمۡ فِيكُمۡ شُرَكَٰٓؤُاْۚ لَقَد تَّقَطَّعَ بَيۡنَكُمۡ وَضَلَّ عَنكُم مَّا كُنتُمۡ تَزۡعُمُونَ",
+  "translation": "Kuma lalle ne haƙĩƙa, kun zo Mana ɗai ɗai, kamar yadda Muka halittã ku a farkon lõkaci. Kuma kun bar abin da Muka mallaka muku a bayan bayayyakinku, kuma ba Mu gani a tãre da kũ ba, macẽtanku waɗanda kuka riya cẽwa lalle ne sũ, a cikinku mãsu tãrayya ne. Lalle ne, hãƙĩƙa, kõme yã yanyanke a tsakãninku, kuma abin da kuka kasance kunã riyãwa ya ɓace daga gare ku.",
+  "footnotes": ""
 }

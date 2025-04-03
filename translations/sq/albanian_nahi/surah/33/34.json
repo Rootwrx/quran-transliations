@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3567",
-    "sura": "33",
-    "aya": "34",
-    "arabic_text": "وَٱذۡكُرۡنَ مَا يُتۡلَىٰ فِي بُيُوتِكُنَّ مِنۡ ءَايَٰتِ ٱللَّهِ وَٱلۡحِكۡمَةِۚ إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا",
-    "translation": "Mbani në mendje ato që lexohen në shtëpitë tuaja prej Shpalljes së Allahut dhe Urtësisë (profetike)! Me të vërtetë, Allahu është Bamirës i pakufishëm dhe di çdo gjë.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 422,
+  "verse_key": "33:34",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرۡنَ مَا يُتۡلَىٰ فِي بُيُوتِكُنَّ مِنۡ ءَايَٰتِ ٱللَّهِ وَٱلۡحِكۡمَةِۚ إِنَّ ٱللَّهَ كَانَ لَطِيفًا خَبِيرًا",
+  "translation": "Mbani në mendje ato që lexohen në shtëpitë tuaja prej Shpalljes së Allahut dhe Urtësisë (profetike)! Me të vërtetë, Allahu është Bamirës i pakufishëm dhe di çdo gjë.",
+  "footnotes": ""
 }

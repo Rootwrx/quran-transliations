@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1507",
-    "sura": "11",
-    "aya": "34",
-    "arabic_text": "وَلَا يَنفَعُكُمۡ نُصۡحِيٓ إِنۡ أَرَدتُّ أَنۡ أَنصَحَ لَكُمۡ إِن كَانَ ٱللَّهُ يُرِيدُ أَن يُغۡوِيَكُمۡۚ هُوَ رَبُّكُمۡ وَإِلَيۡهِ تُرۡجَعُونَ",
-    "translation": "34. Et pour autant que je veuille vous conseiller, mes conseils ne vous serviraient à rien, si Allah veut vous égarer. Il est votre Seigneur et c’est vers Lui que vous serez ramenés. » ",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 225,
+  "verse_key": "11:34",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَنفَعُكُمۡ نُصۡحِيٓ إِنۡ أَرَدتُّ أَنۡ أَنصَحَ لَكُمۡ إِن كَانَ ٱللَّهُ يُرِيدُ أَن يُغۡوِيَكُمۡۚ هُوَ رَبُّكُمۡ وَإِلَيۡهِ تُرۡجَعُونَ",
+  "translation": "34. Et pour autant que je veuille vous conseiller, mes conseils ne vous serviraient à rien, si Allah veut vous égarer. Il est votre Seigneur et c’est vers Lui que vous serez ramenés. » ",
+  "footnotes": ""
 }

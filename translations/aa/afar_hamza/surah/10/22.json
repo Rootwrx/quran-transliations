@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1386",
-    "sura": "10",
-    "aya": "22",
-    "arabic_text": "هُوَ ٱلَّذِي يُسَيِّرُكُمۡ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِۖ حَتَّىٰٓ إِذَا كُنتُمۡ فِي ٱلۡفُلۡكِ وَجَرَيۡنَ بِهِم بِرِيحٖ طَيِّبَةٖ وَفَرِحُواْ بِهَا جَآءَتۡهَا رِيحٌ عَاصِفٞ وَجَآءَهُمُ ٱلۡمَوۡجُ مِن كُلِّ مَكَانٖ وَظَنُّوٓاْ أَنَّهُمۡ أُحِيطَ بِهِمۡ دَعَوُاْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ لَئِنۡ أَنجَيۡتَنَا مِنۡ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
-    "translation": "22.Yalla kinni sinaamey barril lac kee lacak kalah taniimiy feertaanamkeh siinih gineh amol sin beytam, Yalla kinni badal doynik amol sin beytam, isin doynikit sugtan waqdi, is ken luk baddi amol meqe caacayat gexxaah usun kaat (caacay kinnuk) yafriceenih, garciik gibdi caacay teetit yemeeteeh haffo kulli gambik ken takkuqeeh keenit temeetek diggah finqi maro keenit heem yasmiteenih, tokkel usun aqbudak sugen yallitte hawweenanaah dooqa dubuk Yallah caglisan, Ni Rabbow nanu taway edde nan gibdaabinak nee naggossek ku niqmatal koo faatita mara akenno iyyan.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 211,
+  "verse_key": "10:22",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي يُسَيِّرُكُمۡ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِۖ حَتَّىٰٓ إِذَا كُنتُمۡ فِي ٱلۡفُلۡكِ وَجَرَيۡنَ بِهِم بِرِيحٖ طَيِّبَةٖ وَفَرِحُواْ بِهَا جَآءَتۡهَا رِيحٌ عَاصِفٞ وَجَآءَهُمُ ٱلۡمَوۡجُ مِن كُلِّ مَكَانٖ وَظَنُّوٓاْ أَنَّهُمۡ أُحِيطَ بِهِمۡ دَعَوُاْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ لَئِنۡ أَنجَيۡتَنَا مِنۡ هَٰذِهِۦ لَنَكُونَنَّ مِنَ ٱلشَّٰكِرِينَ",
+  "translation": "22.Yalla kinni sinaamey barril lac kee lacak kalah taniimiy feertaanamkeh siinih gineh amol sin beytam, Yalla kinni badal doynik amol sin beytam, isin doynikit sugtan waqdi, is ken luk baddi amol meqe caacayat gexxaah usun kaat (caacay kinnuk) yafriceenih, garciik gibdi caacay teetit yemeeteeh haffo kulli gambik ken takkuqeeh keenit temeetek diggah finqi maro keenit heem yasmiteenih, tokkel usun aqbudak sugen yallitte hawweenanaah dooqa dubuk Yallah caglisan, Ni Rabbow nanu taway edde nan gibdaabinak nee naggossek ku niqmatal koo faatita mara akenno iyyan.",
+  "footnotes": ""
 }

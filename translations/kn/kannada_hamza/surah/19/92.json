@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2342",
-    "sura": "19",
-    "aya": "92",
-    "arabic_text": "وَمَا يَنۢبَغِي لِلرَّحۡمَٰنِ أَن يَتَّخِذَ وَلَدًا",
-    "translation": "ಒಬ್ಬ ಪುತ್ರನಿರುವುದು ಪರಮ ದಯಾಮಯನಿಗೆ (ಅಲ್ಲಾಹನಿಗೆ) ಯೋಗ್ಯವಾದುದಲ್ಲ.",
-    "footnotes": ""
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 311,
+  "verse_key": "19:92",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا يَنۢبَغِي لِلرَّحۡمَٰنِ أَن يَتَّخِذَ وَلَدًا",
+  "translation": "ಒಬ್ಬ ಪುತ್ರನಿರುವುದು ಪರಮ ದಯಾಮಯನಿಗೆ (ಅಲ್ಲಾಹನಿಗೆ) ಯೋಗ್ಯವಾದುದಲ್ಲ.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3131",
-    "sura": "26",
-    "aya": "199",
-    "arabic_text": "فَقَرَأَهُۥ عَلَيۡهِم مَّا كَانُواْ بِهِۦ مُؤۡمِنِينَ",
-    "translation": "Maze akayibasomera, ntibari kuyemera.",
-    "footnotes": ""
-  }
+  "id": 199,
+  "verse_number": 199,
+  "page_number": 375,
+  "verse_key": "26:199",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَرَأَهُۥ عَلَيۡهِم مَّا كَانُواْ بِهِۦ مُؤۡمِنِينَ",
+  "translation": "Maze akayibasomera, ntibari kuyemera.",
+  "footnotes": ""
 }

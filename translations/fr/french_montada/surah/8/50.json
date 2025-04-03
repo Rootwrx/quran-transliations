@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1210",
-    "sura": "8",
-    "aya": "50",
-    "arabic_text": "وَلَوۡ تَرَىٰٓ إِذۡ يَتَوَفَّى ٱلَّذِينَ كَفَرُواْ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ وَذُوقُواْ عَذَابَ ٱلۡحَرِيقِ",
-    "translation": "50. Ah ! Si tu voyais les Anges reprendre les âmes de ceux qui ont mécru et les frapper sur le visage et sur le postérieur en leur disant : « Goûtez donc le supplice de la Fournaise !",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 183,
+  "verse_key": "8:50",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ تَرَىٰٓ إِذۡ يَتَوَفَّى ٱلَّذِينَ كَفَرُواْ ٱلۡمَلَٰٓئِكَةُ يَضۡرِبُونَ وُجُوهَهُمۡ وَأَدۡبَٰرَهُمۡ وَذُوقُواْ عَذَابَ ٱلۡحَرِيقِ",
+  "translation": "50. Ah ! Si tu voyais les Anges reprendre les âmes de ceux qui ont mécru et les frapper sur le visage et sur le postérieur en leur disant : « Goûtez donc le supplice de la Fournaise !",
+  "footnotes": ""
 }

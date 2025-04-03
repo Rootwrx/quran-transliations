@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1735",
-    "sura": "13",
-    "aya": "28",
-    "arabic_text": "ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ",
-    "translation": "One koji vjeruju i čija se srca, kad se Allah spomene, smiruju - a srca se, doista, kad se Allah spomene, smiruju. ",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 252,
+  "verse_key": "13:28",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ",
+  "translation": "One koji vjeruju i čija se srca, kad se Allah spomene, smiruju - a srca se, doista, kad se Allah spomene, smiruju. ",
+  "footnotes": ""
 }

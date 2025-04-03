@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2131",
-    "sura": "17",
-    "aya": "102",
-    "arabic_text": "قَالَ لَقَدۡ عَلِمۡتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ بَصَآئِرَ وَإِنِّي لَأَظُنُّكَ يَٰفِرۡعَوۡنُ مَثۡبُورٗا",
-    "translation": "(Ànábì Mūsā) sọ pé: “O kúkú mọ̀ pé kò sí ẹni tí ó sọ àwọn (àmì) wọ̀nyí kalẹ̀ bí kò ṣe Olúwa àwọn sánmọ̀ àti ilẹ̀; (ó sì jẹ́) ìmọ̀ àmọ̀dájú àti ẹ̀rí. Dájúdájú èmi náà lérò pé ẹni ìparun ni ọ́, Fir‘aon.”",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 292,
+  "verse_key": "17:102",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَقَدۡ عَلِمۡتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ بَصَآئِرَ وَإِنِّي لَأَظُنُّكَ يَٰفِرۡعَوۡنُ مَثۡبُورٗا",
+  "translation": "(Ànábì Mūsā) sọ pé: “O kúkú mọ̀ pé kò sí ẹni tí ó sọ àwọn (àmì) wọ̀nyí kalẹ̀ bí kò ṣe Olúwa àwọn sánmọ̀ àti ilẹ̀; (ó sì jẹ́) ìmọ̀ àmọ̀dájú àti ẹ̀rí. Dájúdájú èmi náà lérò pé ẹni ìparun ni ọ́, Fir‘aon.”",
+  "footnotes": ""
 }

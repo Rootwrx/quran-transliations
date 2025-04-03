@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4210",
-    "sura": "40",
-    "aya": "77",
-    "arabic_text": "فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۚ فَإِمَّا نُرِيَنَّكَ بَعۡضَ ٱلَّذِي نَعِدُهُمۡ أَوۡ نَتَوَفَّيَنَّكَ فَإِلَيۡنَا يُرۡجَعُونَ",
-    "translation": "Sabret, kuşkusuz Allah’ın vaadi haktır. Biz onlara vaat ettiğimiz azabın bir kısmını ya sana gösteririz, ya da seni vefat ettiririz. Ama neticede onlar, bize döndürüleceklerdir. ",
-    "footnotes": null
-  }
+  "id": 77,
+  "verse_number": 77,
+  "page_number": 475,
+  "verse_key": "40:77",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞۚ فَإِمَّا نُرِيَنَّكَ بَعۡضَ ٱلَّذِي نَعِدُهُمۡ أَوۡ نَتَوَفَّيَنَّكَ فَإِلَيۡنَا يُرۡجَعُونَ",
+  "translation": "Sabret, kuşkusuz Allah’ın vaadi haktır. Biz onlara vaat ettiğimiz azabın bir kısmını ya sana gösteririz, ya da seni vefat ettiririz. Ama neticede onlar, bize döndürüleceklerdir. ",
+  "footnotes": null
 }

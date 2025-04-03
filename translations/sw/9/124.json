@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1359",
-    "sura": "9",
-    "aya": "124",
-    "arabic_text": "وَإِذَا مَآ أُنزِلَتۡ سُورَةٞ فَمِنۡهُم مَّن يَقُولُ أَيُّكُمۡ زَادَتۡهُ هَٰذِهِۦٓ إِيمَٰنٗاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَزَادَتۡهُمۡ إِيمَٰنٗا وَهُمۡ يَسۡتَبۡشِرُونَ",
-    "translation": "Na inapo teremshwa Sura wapo miongoni mwao wasemao: Ni nani miongoni mwenu Sura hii imemzidishia Imani? Ama wale walio amini inawazidishia Imani, nao wanafurahi.",
-    "footnotes": "Na ikiteremka Sura ya Qur'ani wakaisikia wanaafiki huifanyia maskhara na kuikejeli. Huambizana wao kwa wao: Nani katika nyinyi iliyo mzidisha Imani? Ndio Mwenyezi Mungu anawajibu ya kwamba ipo farka baina ya wanaafiki na Waumini. Ama Waumini ndio wale walio iona Nuru na wakaijua Haki. Hao Aya za Mwenyezi Mungu zimewazidishia Imani, na wao huzifurahia wakati zinapo teremka."
-  }
+  "id": 124,
+  "verse_number": 124,
+  "page_number": 207,
+  "verse_key": "9:124",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا مَآ أُنزِلَتۡ سُورَةٞ فَمِنۡهُم مَّن يَقُولُ أَيُّكُمۡ زَادَتۡهُ هَٰذِهِۦٓ إِيمَٰنٗاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَزَادَتۡهُمۡ إِيمَٰنٗا وَهُمۡ يَسۡتَبۡشِرُونَ",
+  "translation": "Na inapo teremshwa Sura wapo miongoni mwao wasemao: Ni nani miongoni mwenu Sura hii imemzidishia Imani? Ama wale walio amini inawazidishia Imani, nao wanafurahi.",
+  "footnotes": "Na ikiteremka Sura ya Qur'ani wakaisikia wanaafiki huifanyia maskhara na kuikejeli. Huambizana wao kwa wao: Nani katika nyinyi iliyo mzidisha Imani? Ndio Mwenyezi Mungu anawajibu ya kwamba ipo farka baina ya wanaafiki na Waumini. Ama Waumini ndio wale walio iona Nuru na wakaijua Haki. Hao Aya za Mwenyezi Mungu zimewazidishia Imani, na wao huzifurahia wakati zinapo teremka."
 }

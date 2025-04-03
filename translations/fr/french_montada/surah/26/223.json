@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3155",
-    "sura": "26",
-    "aya": "223",
-    "arabic_text": "يُلۡقُونَ ٱلسَّمۡعَ وَأَكۡثَرُهُمۡ كَٰذِبُونَ",
-    "translation": "223. Ils tendent l’oreille[372] et la plupart d’entre eux sont des menteurs.",
-    "footnotes": "[372] Deux sens sont possibles: soit ils tendent l’oreille à ce qui se dit au ciel, soit aux calomnies que colportent les humains. "
-  }
+  "id": 223,
+  "verse_number": 223,
+  "page_number": 376,
+  "verse_key": "26:223",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُلۡقُونَ ٱلسَّمۡعَ وَأَكۡثَرُهُمۡ كَٰذِبُونَ",
+  "translation": "223. Ils tendent l’oreille[372] et la plupart d’entre eux sont des menteurs.",
+  "footnotes": "[372] Deux sens sont possibles: soit ils tendent l’oreille à ce qui se dit au ciel, soit aux calomnies que colportent les humains. "
 }

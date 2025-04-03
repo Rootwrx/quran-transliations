@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4001",
-    "sura": "38",
-    "aya": "31",
-    "arabic_text": "إِذۡ عُرِضَ عَلَيۡهِ بِٱلۡعَشِيِّ ٱلصَّٰفِنَٰتُ ٱلۡجِيَادُ",
-    "translation": "Kur një pasdite iu paraqitën kuajt këmbëshpejtë,",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 455,
+  "verse_key": "38:31",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ عُرِضَ عَلَيۡهِ بِٱلۡعَشِيِّ ٱلصَّٰفِنَٰتُ ٱلۡجِيَادُ",
+  "translation": "Kur një pasdite iu paraqitën kuajt këmbëshpejtë,",
+  "footnotes": ""
 }

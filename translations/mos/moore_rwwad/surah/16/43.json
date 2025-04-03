@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1944",
-    "sura": "16",
-    "aya": "43",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِمۡۖ فَسۡـَٔلُوٓاْ أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ",
-    "translation": "Lɑ Tõnd pa tʋms taoor tɩ fo pɑ wɑ rẽnda raopa; tɩ Tõnd tʋmd wahɩ wã b nengẽ. Bɩ y sok gɑfã rãmbã tɩ y sã n pa miẽ.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 272,
+  "verse_key": "16:43",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِمۡۖ فَسۡـَٔلُوٓاْ أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ",
+  "translation": "Lɑ Tõnd pa tʋms taoor tɩ fo pɑ wɑ rẽnda raopa; tɩ Tõnd tʋmd wahɩ wã b nengẽ. Bɩ y sok gɑfã rãmbã tɩ y sã n pa miẽ.",
+  "footnotes": ""
 }

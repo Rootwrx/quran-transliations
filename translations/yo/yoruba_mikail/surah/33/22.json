@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3555",
-    "sura": "33",
-    "aya": "22",
-    "arabic_text": "وَلَمَّا رَءَا ٱلۡمُؤۡمِنُونَ ٱلۡأَحۡزَابَ قَالُواْ هَٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥۚ وَمَا زَادَهُمۡ إِلَّآ إِيمَٰنٗا وَتَسۡلِيمٗا",
-    "translation": "Nígbà tí àwọn onígbàgbọ́ òdodo rí àwọn ọmọ ogun oníjọ, wọ́n sọ pé: “Èyí ni ohun tí Allāhu àti Òjíṣẹ́ Rẹ̀ ṣe ní àdéhùn fún wa.[1] Allāhu àti Òjíṣẹ́ Rẹ̀ ti sọ òdodo ọ̀rọ̀.” (Rírí wọn) kò ṣe àlékún kan fún wọn bí kò ṣe (àlékún) ìgbàgbọ́ òdodo àti ìjuwọ́-jusẹ̀-sílẹ̀ (fún àṣẹ Allāhu).",
-    "footnotes": "1. Àdéhùn náà wà nínú sūrah al-Baƙọrah; 2:214 àti sūrah al-‘Ankabūt; 29:1 - 3."
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 420,
+  "verse_key": "33:22",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 168,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا رَءَا ٱلۡمُؤۡمِنُونَ ٱلۡأَحۡزَابَ قَالُواْ هَٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥۚ وَمَا زَادَهُمۡ إِلَّآ إِيمَٰنٗا وَتَسۡلِيمٗا",
+  "translation": "Nígbà tí àwọn onígbàgbọ́ òdodo rí àwọn ọmọ ogun oníjọ, wọ́n sọ pé: “Èyí ni ohun tí Allāhu àti Òjíṣẹ́ Rẹ̀ ṣe ní àdéhùn fún wa.[1] Allāhu àti Òjíṣẹ́ Rẹ̀ ti sọ òdodo ọ̀rọ̀.” (Rírí wọn) kò ṣe àlékún kan fún wọn bí kò ṣe (àlékún) ìgbàgbọ́ òdodo àti ìjuwọ́-jusẹ̀-sílẹ̀ (fún àṣẹ Allāhu).",
+  "footnotes": "1. Àdéhùn náà wà nínú sūrah al-Baƙọrah; 2:214 àti sūrah al-‘Ankabūt; 29:1 - 3."
 }

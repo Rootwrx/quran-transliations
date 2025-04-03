@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5227",
-    "sura": "65",
-    "aya": "10",
-    "arabic_text": "أَعَدَّ ٱللَّهُ لَهُمۡ عَذَابٗا شَدِيدٗاۖ فَٱتَّقُواْ ٱللَّهَ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ ٱلَّذِينَ ءَامَنُواْۚ قَدۡ أَنزَلَ ٱللَّهُ إِلَيۡكُمۡ ذِكۡرٗا",
-    "translation": "Wẽnd seglga naong sẽn yaa kεgeng b yĩnga; bɩ y zoe Wẽnde yaa yãmb a yam-bεεl rãmb nins sẽn kõ-b sɩda! Sɩd la hakɩɩka Wẽnd sika tẽegr yãmb nengẽ.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 559,
+  "verse_key": "65:10",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 223,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَعَدَّ ٱللَّهُ لَهُمۡ عَذَابٗا شَدِيدٗاۖ فَٱتَّقُواْ ٱللَّهَ يَٰٓأُوْلِي ٱلۡأَلۡبَٰبِ ٱلَّذِينَ ءَامَنُواْۚ قَدۡ أَنزَلَ ٱللَّهُ إِلَيۡكُمۡ ذِكۡرٗا",
+  "translation": "Wẽnd seglga naong sẽn yaa kεgeng b yĩnga; bɩ y zoe Wẽnde yaa yãmb a yam-bεεl rãmb nins sẽn kõ-b sɩda! Sɩd la hakɩɩka Wẽnd sika tẽegr yãmb nengẽ.",
+  "footnotes": ""
 }

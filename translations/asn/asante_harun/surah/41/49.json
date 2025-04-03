@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4267",
-    "sura": "41",
-    "aya": "49",
-    "arabic_text": "لَّا يَسۡـَٔمُ ٱلۡإِنسَٰنُ مِن دُعَآءِ ٱلۡخَيۡرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٞ قَنُوطٞ",
-    "translation": "Onipa (Kaafir’ni) mmrε ho sε ͻsrε papa (firi Nyame hͻ), nanso sε bͻne bi to no a, na n’aba mu abu, na wapa aba.",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 482,
+  "verse_key": "41:49",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَسۡـَٔمُ ٱلۡإِنسَٰنُ مِن دُعَآءِ ٱلۡخَيۡرِ وَإِن مَّسَّهُ ٱلشَّرُّ فَيَـُٔوسٞ قَنُوطٞ",
+  "translation": "Onipa (Kaafir’ni) mmrε ho sε ͻsrε papa (firi Nyame hͻ), nanso sε bͻne bi to no a, na n’aba mu abu, na wapa aba.",
+  "footnotes": ""
 }

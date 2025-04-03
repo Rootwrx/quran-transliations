@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2221",
-    "sura": "18",
-    "aya": "81",
-    "arabic_text": "فَأَرَدۡنَآ أَن يُبۡدِلَهُمَا رَبُّهُمَا خَيۡرٗا مِّنۡهُ زَكَوٰةٗ وَأَقۡرَبَ رُحۡمٗا",
-    "translation": "81. Onze bedoeling (voor zijn moord) was dat hun Heer hem zou vervangen door een (zoon) die rechtvaardiger en godvrezender is, en (daarmee) onder Onze genade valt (ten gunste van zijn ouders).",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 302,
+  "verse_key": "18:81",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَرَدۡنَآ أَن يُبۡدِلَهُمَا رَبُّهُمَا خَيۡرٗا مِّنۡهُ زَكَوٰةٗ وَأَقۡرَبَ رُحۡمٗا",
+  "translation": "81. Onze bedoeling (voor zijn moord) was dat hun Heer hem zou vervangen door een (zoon) die rechtvaardiger en godvrezender is, en (daarmee) onder Onze genade valt (ten gunste van zijn ouders).",
+  "footnotes": ""
 }

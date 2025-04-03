@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2468",
-    "sura": "20",
-    "aya": "120",
-    "arabic_text": "فَوَسۡوَسَ إِلَيۡهِ ٱلشَّيۡطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلۡ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلۡخُلۡدِ وَمُلۡكٖ لَّا يَبۡلَىٰ",
-    "translation": "Aber da flüsterte ihm der Satan ein und sagte: „O Adam, soll ich dich auf den Baum der Ewigkeit hinweisen und auf eine Herrschaft, die nicht vergeht?",
-    "footnotes": null
-  }
+  "id": 120,
+  "verse_number": 120,
+  "page_number": 320,
+  "verse_key": "20:120",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَسۡوَسَ إِلَيۡهِ ٱلشَّيۡطَٰنُ قَالَ يَٰٓـَٔادَمُ هَلۡ أَدُلُّكَ عَلَىٰ شَجَرَةِ ٱلۡخُلۡدِ وَمُلۡكٖ لَّا يَبۡلَىٰ",
+  "translation": "Aber da flüsterte ihm der Satan ein und sagte: „O Adam, soll ich dich auf den Baum der Ewigkeit hinweisen und auf eine Herrschaft, die nicht vergeht?",
+  "footnotes": null
 }

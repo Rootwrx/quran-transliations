@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2206",
-    "sura": "18",
-    "aya": "66",
-    "arabic_text": "قَالَ لَهُۥ مُوسَىٰ هَلۡ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمۡتَ رُشۡدٗا",
-    "translation": "66. Moisés le dijo: «¿Puedo acompañarte para que me enseñes parte del conocimiento que te ha sido concedido?».",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 301,
+  "verse_key": "18:66",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَهُۥ مُوسَىٰ هَلۡ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمۡتَ رُشۡدٗا",
+  "translation": "66. Moisés le dijo: «¿Puedo acompañarte para que me enseñes parte del conocimiento que te ha sido concedido?».",
+  "footnotes": ""
 }

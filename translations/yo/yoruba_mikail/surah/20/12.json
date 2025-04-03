@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2360",
-    "sura": "20",
-    "aya": "12",
-    "arabic_text": "إِنِّيٓ أَنَا۠ رَبُّكَ فَٱخۡلَعۡ نَعۡلَيۡكَ إِنَّكَ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوٗى",
-    "translation": "Dájúdájú Èmi ni Olúwa rẹ. Nítorí náà, bọ́ bàtà rẹ méjèèjì sílẹ̀.[1] Dájúdájú ìwọ wà ní àfonífojì mímọ́, Tuwā.",
-    "footnotes": "1. Ìdí tí Allāhu - tó ga jùlọ - fi pa á láṣẹ fún Ànábì Mūsā - kí ọlà Allāhu máa bá a - láti bọ́ bàtà ẹsẹ̀ rẹ̀ sílẹ̀, gẹ́gẹ́ bí ọmọ Mọs‘ūd - kí Allāhu yọ́nú sí i - ṣe gbà á wá ni pé, awọ òkúǹbete kẹ́tẹ́kẹ́tẹ́ tí wọn kò pa lósè ni wọ́n fi ṣe bàtà náà."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 312,
+  "verse_key": "20:12",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنِّيٓ أَنَا۠ رَبُّكَ فَٱخۡلَعۡ نَعۡلَيۡكَ إِنَّكَ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوٗى",
+  "translation": "Dájúdájú Èmi ni Olúwa rẹ. Nítorí náà, bọ́ bàtà rẹ méjèèjì sílẹ̀.[1] Dájúdájú ìwọ wà ní àfonífojì mímọ́, Tuwā.",
+  "footnotes": "1. Ìdí tí Allāhu - tó ga jùlọ - fi pa á láṣẹ fún Ànábì Mūsā - kí ọlà Allāhu máa bá a - láti bọ́ bàtà ẹsẹ̀ rẹ̀ sílẹ̀, gẹ́gẹ́ bí ọmọ Mọs‘ūd - kí Allāhu yọ́nú sí i - ṣe gbà á wá ni pé, awọ òkúǹbete kẹ́tẹ́kẹ́tẹ́ tí wọn kò pa lósè ni wọ́n fi ṣe bàtà náà."
 }

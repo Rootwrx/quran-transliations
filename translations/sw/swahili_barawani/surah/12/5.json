@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1601",
-    "sura": "12",
-    "aya": "5",
-    "arabic_text": "قَالَ يَٰبُنَيَّ لَا تَقۡصُصۡ رُءۡيَاكَ عَلَىٰٓ إِخۡوَتِكَ فَيَكِيدُواْ لَكَ كَيۡدًاۖ إِنَّ ٱلشَّيۡطَٰنَ لِلۡإِنسَٰنِ عَدُوّٞ مُّبِينٞ",
-    "translation": "(Baba) akasema: Ewe mwanangu! Usiwasimulie nduguzo ndoto yako, wasije wakakufanyia vitimbi. Hakika Shet'ani ni adui aliye dhaahiri kwa mwanaadamu.",
-    "footnotes": "Baba yake akamwambia: Ewe mwanangu! Usiwasimulie nduguzo ndoto yako hii. Itakuja watia husda katika nyoyo zao, na Shetani atawachochea wazue njama kukupinga. Watakuja kufanyia hila na vitimbi! Hakika Shetani ni adui wazi wa binaadamu!"
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 236,
+  "verse_key": "12:5",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ يَٰبُنَيَّ لَا تَقۡصُصۡ رُءۡيَاكَ عَلَىٰٓ إِخۡوَتِكَ فَيَكِيدُواْ لَكَ كَيۡدًاۖ إِنَّ ٱلشَّيۡطَٰنَ لِلۡإِنسَٰنِ عَدُوّٞ مُّبِينٞ",
+  "translation": "(Baba) akasema: Ewe mwanangu! Usiwasimulie nduguzo ndoto yako, wasije wakakufanyia vitimbi. Hakika Shet'ani ni adui aliye dhaahiri kwa mwanaadamu.",
+  "footnotes": "Baba yake akamwambia: Ewe mwanangu! Usiwasimulie nduguzo ndoto yako hii. Itakuja watia husda katika nyoyo zao, na Shetani atawachochea wazue njama kukupinga. Watakuja kufanyia hila na vitimbi! Hakika Shetani ni adui wazi wa binaadamu!"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2750",
-    "sura": "23",
-    "aya": "77",
-    "arabic_text": "حَتَّىٰٓ إِذَا فَتَحۡنَا عَلَيۡهِم بَابٗا ذَا عَذَابٖ شَدِيدٍ إِذَا هُمۡ فِيهِ مُبۡلِسُونَ",
-    "translation": "tek kad im kapiju teške patnje otvorimo, oni će nadu izgubiti i u očajanje zapasti.",
-    "footnotes": ""
-  }
+  "id": 77,
+  "verse_number": 77,
+  "page_number": 347,
+  "verse_key": "23:77",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا فَتَحۡنَا عَلَيۡهِم بَابٗا ذَا عَذَابٖ شَدِيدٍ إِذَا هُمۡ فِيهِ مُبۡلِسُونَ",
+  "translation": "tek kad im kapiju teške patnje otvorimo, oni će nadu izgubiti i u očajanje zapasti.",
+  "footnotes": ""
 }

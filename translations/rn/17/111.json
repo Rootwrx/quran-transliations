@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2140",
-    "sura": "17",
-    "aya": "111",
-    "arabic_text": "وَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي لَمۡ يَتَّخِذۡ وَلَدٗا وَلَمۡ يَكُن لَّهُۥ شَرِيكٞ فِي ٱلۡمُلۡكِ وَلَمۡ يَكُن لَّهُۥ وَلِيّٞ مِّنَ ٱلذُّلِّۖ وَكَبِّرۡهُ تَكۡبِيرَۢا",
-    "translation": "Ntumwa y’Imana! Vuga uti: “Nihashimagizwe Imana Allah Itigeze Yigenera umwana, Itigeze Inagira na kimwe kibangikanijwe na Yo mu bumana bwayo, eka ntiyigeze Inagira umuhagarikizi mu biremwa kuko Yikwije kandi Yikenuye”; uraheza rero kandi uyikuze mu kuyisenga utayibangikanya, no mu kuyitumbera muri vyose, kuko ari Yo Nkuru Irengeye vyose”.",
-    "footnotes": ""
-  }
+  "id": 111,
+  "verse_number": 111,
+  "page_number": 293,
+  "verse_key": "17:111",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُلِ ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي لَمۡ يَتَّخِذۡ وَلَدٗا وَلَمۡ يَكُن لَّهُۥ شَرِيكٞ فِي ٱلۡمُلۡكِ وَلَمۡ يَكُن لَّهُۥ وَلِيّٞ مِّنَ ٱلذُّلِّۖ وَكَبِّرۡهُ تَكۡبِيرَۢا",
+  "translation": "Ntumwa y’Imana! Vuga uti: “Nihashimagizwe Imana Allah Itigeze Yigenera umwana, Itigeze Inagira na kimwe kibangikanijwe na Yo mu bumana bwayo, eka ntiyigeze Inagira umuhagarikizi mu biremwa kuko Yikwije kandi Yikenuye”; uraheza rero kandi uyikuze mu kuyisenga utayibangikanya, no mu kuyitumbera muri vyose, kuko ari Yo Nkuru Irengeye vyose”.",
+  "footnotes": ""
 }

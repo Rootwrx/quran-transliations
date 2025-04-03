@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "51",
-    "sura": "2",
-    "aya": "44",
-    "arabic_text": "۞ أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَٰبَۚ أَفَلَا تَعۡقِلُونَ",
-    "translation": "Commanderez-vous aux gens de faire le bien, et vous oubliez vous- mêmes de le faire, alors que vous récitez le Livre? Êtes-vous donc dépourvus de raison?",
-    "footnotes": "[19] Le mot arabe «al-Birr» (la bonté pieuse): est un mot qui englobe la saine foi et toutes les bonnes œuvres (S. 2, v. 177). Alors que vous récitez le livre: la Thora. Le reproche qui est fait ici aux Juifs c’est de ne pas croire en la Thora et de ne pas s’y conformer car dans la Thora est mentionnée la venue du Prophète Muḥammad (صلى الله عليه وسلم)."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 7,
+  "verse_key": "2:44",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَٰبَۚ أَفَلَا تَعۡقِلُونَ",
+  "translation": "Commanderez-vous aux gens de faire le bien, et vous oubliez vous- mêmes de le faire, alors que vous récitez le Livre? Êtes-vous donc dépourvus de raison?",
+  "footnotes": "[19] Le mot arabe «al-Birr» (la bonté pieuse): est un mot qui englobe la saine foi et toutes les bonnes œuvres (S. 2, v. 177). Alors que vous récitez le livre: la Thora. Le reproche qui est fait ici aux Juifs c’est de ne pas croire en la Thora et de ne pas s’y conformer car dans la Thora est mentionnée la venue du Prophète Muḥammad (صلى الله عليه وسلم)."
 }

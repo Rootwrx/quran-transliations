@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "69",
-    "sura": "2",
-    "aya": "62",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "Quả thật, những người có đức tin (trong cộng đồng Islam) và các cộng đồng người Do Thái, người Thiên Chúa và người Sobi-un (Sabian)[3], ai trong số họ đã tin tưởng vào Allah, tin vào Đời Sau và hành thiện thì họ đã đạt được phần thưởng từ Thượng Đế của mình, họ sẽ không phải lo sợ cũng sẽ không buồn phiền.",
-    "footnotes": "[3] Sobi-un là danh từ mà người Ả-rập gọi chung tất cả những ai đã cải đạo sang tôn giáo khác, họ theo một số Thiên Sứ của Allah ở thời trước đây. Cố học giả Sheikh Al-Islam Ibnu Taimiyah nói: “Sobi-un có hai nhóm, một nhóm tin tưởng và thờ phượng Allah duy nhất, họ được nhắc ở câu 62 của chương Al-Baqarah và nhóm còn lại là nhóm đa thần, họ được nhắc ở câu 17 của chương Al-Hajj.”"
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 10,
+  "verse_key": "2:62",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "Quả thật, những người có đức tin (trong cộng đồng Islam) và các cộng đồng người Do Thái, người Thiên Chúa và người Sobi-un (Sabian)[3], ai trong số họ đã tin tưởng vào Allah, tin vào Đời Sau và hành thiện thì họ đã đạt được phần thưởng từ Thượng Đế của mình, họ sẽ không phải lo sợ cũng sẽ không buồn phiền.",
+  "footnotes": "[3] Sobi-un là danh từ mà người Ả-rập gọi chung tất cả những ai đã cải đạo sang tôn giáo khác, họ theo một số Thiên Sứ của Allah ở thời trước đây. Cố học giả Sheikh Al-Islam Ibnu Taimiyah nói: “Sobi-un có hai nhóm, một nhóm tin tưởng và thờ phượng Allah duy nhất, họ được nhắc ở câu 62 của chương Al-Baqarah và nhóm còn lại là nhóm đa thần, họ được nhắc ở câu 17 của chương Al-Hajj.”"
 }

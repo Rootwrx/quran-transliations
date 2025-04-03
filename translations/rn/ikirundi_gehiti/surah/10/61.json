@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1425",
-    "sura": "10",
-    "aya": "61",
-    "arabic_text": "وَمَا تَكُونُ فِي شَأۡنٖ وَمَا تَتۡلُواْ مِنۡهُ مِن قُرۡءَانٖ وَلَا تَعۡمَلُونَ مِنۡ عَمَلٍ إِلَّا كُنَّا عَلَيۡكُمۡ شُهُودًا إِذۡ تُفِيضُونَ فِيهِۚ وَمَا يَعۡزُبُ عَن رَّبِّكَ مِن مِّثۡقَالِ ذَرَّةٖ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ وَلَآ أَصۡغَرَ مِن ذَٰلِكَ وَلَآ أَكۡبَرَ إِلَّا فِي كِتَٰبٖ مُّبِينٍ",
-    "translation": "Ntumwa y’Imana! Ntivyigera bishika na rimwe ko hagira ico utunganya, ico usoma muri Aayah za Qor’ani, eka nta n’ico mukora mwebwe abantu caba iciza canke ikibi, kiretse ko Twebwe Allah Tuba Turi Icabona, Tubibona neza igihe mutanguye kubikora kugira Tubibungabunge, Tuzonabibahembere; nta n’icinyegeza Imana yawe Rurema Allah mw’isi eka no mw’ijuru nyene, n’aho coba kingana n’akantu inzatsa, eka mbere n’aho coba gito cane canke kinini kuruta inzatsa, kiretse ko canditswe kandi kibungabunzwe ku Mana Allah mu Gitabu gitomora vyose.",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 215,
+  "verse_key": "10:61",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تَكُونُ فِي شَأۡنٖ وَمَا تَتۡلُواْ مِنۡهُ مِن قُرۡءَانٖ وَلَا تَعۡمَلُونَ مِنۡ عَمَلٍ إِلَّا كُنَّا عَلَيۡكُمۡ شُهُودًا إِذۡ تُفِيضُونَ فِيهِۚ وَمَا يَعۡزُبُ عَن رَّبِّكَ مِن مِّثۡقَالِ ذَرَّةٖ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ وَلَآ أَصۡغَرَ مِن ذَٰلِكَ وَلَآ أَكۡبَرَ إِلَّا فِي كِتَٰبٖ مُّبِينٍ",
+  "translation": "Ntumwa y’Imana! Ntivyigera bishika na rimwe ko hagira ico utunganya, ico usoma muri Aayah za Qor’ani, eka nta n’ico mukora mwebwe abantu caba iciza canke ikibi, kiretse ko Twebwe Allah Tuba Turi Icabona, Tubibona neza igihe mutanguye kubikora kugira Tubibungabunge, Tuzonabibahembere; nta n’icinyegeza Imana yawe Rurema Allah mw’isi eka no mw’ijuru nyene, n’aho coba kingana n’akantu inzatsa, eka mbere n’aho coba gito cane canke kinini kuruta inzatsa, kiretse ko canditswe kandi kibungabunzwe ku Mana Allah mu Gitabu gitomora vyose.",
+  "footnotes": ""
 }

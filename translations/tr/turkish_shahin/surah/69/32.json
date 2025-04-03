@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5355",
-    "sura": "69",
-    "aya": "32",
-    "arabic_text": "ثُمَّ فِي سِلۡسِلَةٖ ذَرۡعُهَا سَبۡعُونَ ذِرَاعٗا فَٱسۡلُكُوهُ",
-    "translation": "Sonra da onu yetmiş arşın uzunluğunda bir zincir içinde oraya sokun!",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 567,
+  "verse_key": "69:32",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ فِي سِلۡسِلَةٖ ذَرۡعُهَا سَبۡعُونَ ذِرَاعٗا فَٱسۡلُكُوهُ",
+  "translation": "Sonra da onu yetmiş arşın uzunluğunda bir zincir içinde oraya sokun!",
+  "footnotes": ""
 }

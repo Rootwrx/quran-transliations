@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1248",
-    "sura": "9",
-    "aya": "13",
-    "arabic_text": "أَلَا تُقَٰتِلُونَ قَوۡمٗا نَّكَثُوٓاْ أَيۡمَٰنَهُمۡ وَهَمُّواْ بِإِخۡرَاجِ ٱلرَّسُولِ وَهُم بَدَءُوكُمۡ أَوَّلَ مَرَّةٍۚ أَتَخۡشَوۡنَهُمۡۚ فَٱللَّهُ أَحَقُّ أَن تَخۡشَوۡهُ إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": "Hindi ba kayo nakikipaglaban sa mga taong lumabag sa mga sinumpaan nila at nagbalak ng pagpapalisan sa Sugo samantalang sila ay nagpasimula [sa pakikipag-away] sa inyo sa unang pagkakataon? Natatakot ba kayo sa kanila gayong si Allāh ay higit na karapat-dapat na katakutan ninyo kung kayo ay mga mananampalataya?",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 188,
+  "verse_key": "9:13",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَا تُقَٰتِلُونَ قَوۡمٗا نَّكَثُوٓاْ أَيۡمَٰنَهُمۡ وَهَمُّواْ بِإِخۡرَاجِ ٱلرَّسُولِ وَهُم بَدَءُوكُمۡ أَوَّلَ مَرَّةٍۚ أَتَخۡشَوۡنَهُمۡۚ فَٱللَّهُ أَحَقُّ أَن تَخۡشَوۡهُ إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": "Hindi ba kayo nakikipaglaban sa mga taong lumabag sa mga sinumpaan nila at nagbalak ng pagpapalisan sa Sugo samantalang sila ay nagpasimula [sa pakikipag-away] sa inyo sa unang pagkakataon? Natatakot ba kayo sa kanila gayong si Allāh ay higit na karapat-dapat na katakutan ninyo kung kayo ay mga mananampalataya?",
+  "footnotes": ""
 }

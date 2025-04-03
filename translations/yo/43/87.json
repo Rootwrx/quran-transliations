@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4412",
-    "sura": "43",
-    "aya": "87",
-    "arabic_text": "وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَهُمۡ لَيَقُولُنَّ ٱللَّهُۖ فَأَنَّىٰ يُؤۡفَكُونَ",
-    "translation": "Àti pé tí o bá bi wọ́n léèrè pé: “Ta ni Ó dá wọn?”, dájúdájú wọn á wí pé: “Allāhu ni.” Nítorí náà, báwo ni wọ́n ṣe ń ṣẹ́rí wọn kúrò níbi òdodo?",
-    "footnotes": ""
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 495,
+  "verse_key": "43:87",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَهُمۡ لَيَقُولُنَّ ٱللَّهُۖ فَأَنَّىٰ يُؤۡفَكُونَ",
+  "translation": "Àti pé tí o bá bi wọ́n léèrè pé: “Ta ni Ó dá wọn?”, dájúdájú wọn á wí pé: “Allāhu ni.” Nítorí náà, báwo ni wọ́n ṣe ń ṣẹ́rí wọn kúrò níbi òdodo?",
+  "footnotes": ""
 }

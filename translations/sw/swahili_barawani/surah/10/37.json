@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1401",
-    "sura": "10",
-    "aya": "37",
-    "arabic_text": "وَمَا كَانَ هَٰذَا ٱلۡقُرۡءَانُ أَن يُفۡتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ ٱلۡكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "Na haiwezekani Qur'ani hii kuwa imetungwa na haitoki kwa Mwenyezi Mungu. Lakini hii inasadikisha yaliyo tangulia, na ni mfafanuo wa Kitabu kisicho na shaka ndani yake, kutokana na Mola Mlezi wa viumbe vyote.",
-    "footnotes": "Haiwezi kutokea kuwa hii Qur'ani aizue mtu yeyote, kwani katika kuwa haiwezi kuigwa, na katika uwongofu wake, na hukumu zake, hayumkini kuwa itoke kwa yeyote isipo kuwa kwa Mwenyezi Mungu tu. Nayo inasadikisha Vitabu vya mbinguni vilivyo tangulia katika mambo ya Haki yaliyo tajwa humo, na inaweka wazi yaliyo kwisha andikwa na kuthibitishwa katika mambo ya hakika na sharia. Hapana shaka kuwa Qur'ani hii ina cheo maalumu kwa Mwenyezi Mungu, nayo ni muujiza ambao hapana mtu anaye weza kuleta mfano wake."
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 213,
+  "verse_key": "10:37",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ هَٰذَا ٱلۡقُرۡءَانُ أَن يُفۡتَرَىٰ مِن دُونِ ٱللَّهِ وَلَٰكِن تَصۡدِيقَ ٱلَّذِي بَيۡنَ يَدَيۡهِ وَتَفۡصِيلَ ٱلۡكِتَٰبِ لَا رَيۡبَ فِيهِ مِن رَّبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "Na haiwezekani Qur'ani hii kuwa imetungwa na haitoki kwa Mwenyezi Mungu. Lakini hii inasadikisha yaliyo tangulia, na ni mfafanuo wa Kitabu kisicho na shaka ndani yake, kutokana na Mola Mlezi wa viumbe vyote.",
+  "footnotes": "Haiwezi kutokea kuwa hii Qur'ani aizue mtu yeyote, kwani katika kuwa haiwezi kuigwa, na katika uwongofu wake, na hukumu zake, hayumkini kuwa itoke kwa yeyote isipo kuwa kwa Mwenyezi Mungu tu. Nayo inasadikisha Vitabu vya mbinguni vilivyo tangulia katika mambo ya Haki yaliyo tajwa humo, na inaweka wazi yaliyo kwisha andikwa na kuthibitishwa katika mambo ya hakika na sharia. Hapana shaka kuwa Qur'ani hii ina cheo maalumu kwa Mwenyezi Mungu, nayo ni muujiza ambao hapana mtu anaye weza kuleta mfano wake."
 }

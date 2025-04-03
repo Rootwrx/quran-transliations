@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4066",
-    "sura": "39",
-    "aya": "8",
-    "arabic_text": "۞ وَإِذَا مَسَّ ٱلۡإِنسَٰنَ ضُرّٞ دَعَا رَبَّهُۥ مُنِيبًا إِلَيۡهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعۡمَةٗ مِّنۡهُ نَسِيَ مَا كَانَ يَدۡعُوٓاْ إِلَيۡهِ مِن قَبۡلُ وَجَعَلَ لِلَّهِ أَندَادٗا لِّيُضِلَّ عَن سَبِيلِهِۦۚ قُلۡ تَمَتَّعۡ بِكُفۡرِكَ قَلِيلًا إِنَّكَ مِنۡ أَصۡحَٰبِ ٱلنَّارِ",
-    "translation": "Kur njeriun e godet një e keqe, ai i lutet Zotit të vet, duke iu drejtuar me pendesë. E kur atij i vjen një e mirë prej Zotit, ai harron se për çfarë ishte duke u lutur më parë dhe sajon zota të tjerë të barabartë me Allahun, për t’i larguar të tjerët nga rruga e Tij. Thuaj (o Muhamed)[282]: “Kënaqu pak me mosbesimin tënd! Ti, me siguri, do të jesh nga banorët e zjarrit!”",
-    "footnotes": "[282] Pra, thuaji këtij lloj njeriu."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 459,
+  "verse_key": "39:8",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَإِذَا مَسَّ ٱلۡإِنسَٰنَ ضُرّٞ دَعَا رَبَّهُۥ مُنِيبًا إِلَيۡهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعۡمَةٗ مِّنۡهُ نَسِيَ مَا كَانَ يَدۡعُوٓاْ إِلَيۡهِ مِن قَبۡلُ وَجَعَلَ لِلَّهِ أَندَادٗا لِّيُضِلَّ عَن سَبِيلِهِۦۚ قُلۡ تَمَتَّعۡ بِكُفۡرِكَ قَلِيلًا إِنَّكَ مِنۡ أَصۡحَٰبِ ٱلنَّارِ",
+  "translation": "Kur njeriun e godet një e keqe, ai i lutet Zotit të vet, duke iu drejtuar me pendesë. E kur atij i vjen një e mirë prej Zotit, ai harron se për çfarë ishte duke u lutur më parë dhe sajon zota të tjerë të barabartë me Allahun, për t’i larguar të tjerët nga rruga e Tij. Thuaj (o Muhamed)[282]: “Kënaqu pak me mosbesimin tënd! Ti, me siguri, do të jesh nga banorët e zjarrit!”",
+  "footnotes": "[282] Pra, thuaji këtij lloj njeriu."
 }

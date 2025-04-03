@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4857",
-    "sura": "54",
-    "aya": "11",
-    "arabic_text": "فَفَتَحۡنَآ أَبۡوَٰبَ ٱلسَّمَآءِ بِمَآءٖ مُّنۡهَمِرٖ",
-    "translation": "11. Markaasaan ka soo furnay albaabadii daruuraha biyo da’aya oo badan.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 529,
+  "verse_key": "54:11",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَفَتَحۡنَآ أَبۡوَٰبَ ٱلسَّمَآءِ بِمَآءٖ مُّنۡهَمِرٖ",
+  "translation": "11. Markaasaan ka soo furnay albaabadii daruuraha biyo da’aya oo badan.",
+  "footnotes": ""
 }

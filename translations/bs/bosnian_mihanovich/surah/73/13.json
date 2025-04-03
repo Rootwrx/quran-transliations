@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5488",
-    "sura": "73",
-    "aya": "13",
-    "arabic_text": "وَطَعَامٗا ذَا غُصَّةٖ وَعَذَابًا أَلِيمٗا",
-    "translation": "i jela koje u grlu zastaje, i patnje nesnosne, ",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 574,
+  "verse_key": "73:13",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَطَعَامٗا ذَا غُصَّةٖ وَعَذَابًا أَلِيمٗا",
+  "translation": "i jela koje u grlu zastaje, i patnje nesnosne, ",
+  "footnotes": ""
 }

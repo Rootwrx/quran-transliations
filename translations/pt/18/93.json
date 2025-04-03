@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2233",
-    "sura": "18",
-    "aya": "93",
-    "arabic_text": "حَتَّىٰٓ إِذَا بَلَغَ بَيۡنَ ٱلسَّدَّيۡنِ وَجَدَ مِن دُونِهِمَا قَوۡمٗا لَّا يَكَادُونَ يَفۡقَهُونَ قَوۡلٗا",
-    "translation": "Até que, quando atingiu um lugar entre as duas barreiras, encontrou, para além delas, um povo que quase não entendia língua alguma.",
-    "footnotes": ""
-  }
+  "id": 93,
+  "verse_number": 93,
+  "page_number": 303,
+  "verse_key": "18:93",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا بَلَغَ بَيۡنَ ٱلسَّدَّيۡنِ وَجَدَ مِن دُونِهِمَا قَوۡمٗا لَّا يَكَادُونَ يَفۡقَهُونَ قَوۡلٗا",
+  "translation": "Até que, quando atingiu um lugar entre as duas barreiras, encontrou, para além delas, um povo que quase não entendia língua alguma.",
+  "footnotes": ""
 }

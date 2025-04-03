@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4777",
-    "sura": "52",
-    "aya": "42",
-    "arabic_text": "أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ",
-    "translation": "Tàbí wọ́n ń gbèrò ète kan ni? Nígbà náà, àwọn tó ṣàì gbàgbọ́, àwọn l’ó máa f’orí kó ète náà.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 525,
+  "verse_key": "52:42",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ",
+  "translation": "Tàbí wọ́n ń gbèrò ète kan ni? Nígbà náà, àwọn tó ṣàì gbàgbọ́, àwọn l’ó máa f’orí kó ète náà.",
+  "footnotes": ""
 }

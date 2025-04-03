@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2953",
-    "sura": "26",
-    "aya": "21",
-    "arabic_text": "فَفَرَرۡتُ مِنكُمۡ لَمَّا خِفۡتُكُمۡ فَوَهَبَ لِي رَبِّي حُكۡمٗا وَجَعَلَنِي مِنَ ٱلۡمُرۡسَلِينَ",
-    "translation": "Kaya tumalilis ako mula sa inyo noong nangamba ako sa inyo ngunit nagkaloob sa akin ang Panginoon ko ng karunungan at nagtalaga Siya sa akin kabilang sa mga isinugo.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 368,
+  "verse_key": "26:21",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَفَرَرۡتُ مِنكُمۡ لَمَّا خِفۡتُكُمۡ فَوَهَبَ لِي رَبِّي حُكۡمٗا وَجَعَلَنِي مِنَ ٱلۡمُرۡسَلِينَ",
+  "translation": "Kaya tumalilis ako mula sa inyo noong nangamba ako sa inyo ngunit nagkaloob sa akin ang Panginoon ko ng karunungan at nagtalaga Siya sa akin kabilang sa mga isinugo.",
+  "footnotes": ""
 }

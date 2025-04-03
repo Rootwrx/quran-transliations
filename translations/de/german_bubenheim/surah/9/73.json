@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1308",
-    "sura": "9",
-    "aya": "73",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ جَٰهِدِ ٱلۡكُفَّارَ وَٱلۡمُنَٰفِقِينَ وَٱغۡلُظۡ عَلَيۡهِمۡۚ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِيرُ",
-    "translation": "O Prophet, mühe dich gegen die Ungläubigen und die Heuchler ab und sei hart gegen sie. Ihr Zufluchtsort wird die Hölle sein - ein schlimmer Ausgang!",
-    "footnotes": null
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 199,
+  "verse_key": "9:73",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ جَٰهِدِ ٱلۡكُفَّارَ وَٱلۡمُنَٰفِقِينَ وَٱغۡلُظۡ عَلَيۡهِمۡۚ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+  "translation": "O Prophet, mühe dich gegen die Ungläubigen und die Heuchler ab und sei hart gegen sie. Ihr Zufluchtsort wird die Hölle sein - ein schlimmer Ausgang!",
+  "footnotes": null
 }

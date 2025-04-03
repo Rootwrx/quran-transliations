@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1126",
-    "sura": "7",
-    "aya": "172",
-    "arabic_text": "وَإِذۡ أَخَذَ رَبُّكَ مِنۢ بَنِيٓ ءَادَمَ مِن ظُهُورِهِمۡ ذُرِّيَّتَهُمۡ وَأَشۡهَدَهُمۡ عَلَىٰٓ أَنفُسِهِمۡ أَلَسۡتُ بِرَبِّكُمۡۖ قَالُواْ بَلَىٰ شَهِدۡنَآۚ أَن تَقُولُواْ يَوۡمَ ٱلۡقِيَٰمَةِ إِنَّا كُنَّا عَنۡ هَٰذَا غَٰفِلِينَ",
-    "translation": "(Rántí) nígbà tí Olúwa rẹ gba àdéhùn lọ́wọ́ àwọn ọmọ Ādam nínú àrọ́mọdọ́mọ wọn tó fà jáde láti (ìbàdí ní) ẹ̀yìn (bàbá ńlá) wọn, Ó sì fi wọ́n ṣe ẹlẹ́rìí lórí ara wọn pé: “Ṣé Èmi kọ́ ni Olúwa yín ni?” Wọ́n sọ pé: “Bẹ́ẹ̀ ni – (Ìwọ ni Olúwa wa) - a jẹ́rìí sí i.” Nítorí kí ẹ má baà sọ ní Ọjọ́ Àjíǹdé pé: “Dájúdájú àwa jẹ́ aláìmọ̀ nípa èyí.”",
-    "footnotes": ""
-  }
+  "id": 172,
+  "verse_number": 172,
+  "page_number": 173,
+  "verse_key": "7:172",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 69,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ أَخَذَ رَبُّكَ مِنۢ بَنِيٓ ءَادَمَ مِن ظُهُورِهِمۡ ذُرِّيَّتَهُمۡ وَأَشۡهَدَهُمۡ عَلَىٰٓ أَنفُسِهِمۡ أَلَسۡتُ بِرَبِّكُمۡۖ قَالُواْ بَلَىٰ شَهِدۡنَآۚ أَن تَقُولُواْ يَوۡمَ ٱلۡقِيَٰمَةِ إِنَّا كُنَّا عَنۡ هَٰذَا غَٰفِلِينَ",
+  "translation": "(Rántí) nígbà tí Olúwa rẹ gba àdéhùn lọ́wọ́ àwọn ọmọ Ādam nínú àrọ́mọdọ́mọ wọn tó fà jáde láti (ìbàdí ní) ẹ̀yìn (bàbá ńlá) wọn, Ó sì fi wọ́n ṣe ẹlẹ́rìí lórí ara wọn pé: “Ṣé Èmi kọ́ ni Olúwa yín ni?” Wọ́n sọ pé: “Bẹ́ẹ̀ ni – (Ìwọ ni Olúwa wa) - a jẹ́rìí sí i.” Nítorí kí ẹ má baà sọ ní Ọjọ́ Àjíǹdé pé: “Dájúdájú àwa jẹ́ aláìmọ̀ nípa èyí.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3690",
-    "sura": "35",
-    "aya": "30",
-    "arabic_text": "لِيُوَفِّيَهُمۡ أُجُورَهُمۡ وَيَزِيدَهُم مِّن فَضۡلِهِۦٓۚ إِنَّهُۥ غَفُورٞ شَكُورٞ",
-    "translation": "Ili Yeye awalipe ujira wao kwa ukamilifu, na awazidishie kutokana na fadhila zake. Hakika Yeye ni Mwenye kusamehe Mwenye shukrani.",
-    "footnotes": "Ili Mwenyezi Mungu awalipe ujira wao, na awazidishie juu yake kutokana na fadhila yake kwa anavyo waongezea mema yao na kuwafutia maovu yao. Yeye ni Msamehevu, Mwingi wa kufutia makosa ya kujikwaa, Mwenye kushukuru, Mwingi wa kushukuru kwa ut'iifu wa waja."
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 437,
+  "verse_key": "35:30",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِيُوَفِّيَهُمۡ أُجُورَهُمۡ وَيَزِيدَهُم مِّن فَضۡلِهِۦٓۚ إِنَّهُۥ غَفُورٞ شَكُورٞ",
+  "translation": "Ili Yeye awalipe ujira wao kwa ukamilifu, na awazidishie kutokana na fadhila zake. Hakika Yeye ni Mwenye kusamehe Mwenye shukrani.",
+  "footnotes": "Ili Mwenyezi Mungu awalipe ujira wao, na awazidishie juu yake kutokana na fadhila yake kwa anavyo waongezea mema yao na kuwafutia maovu yao. Yeye ni Msamehevu, Mwingi wa kufutia makosa ya kujikwaa, Mwenye kushukuru, Mwingi wa kushukuru kwa ut'iifu wa waja."
 }

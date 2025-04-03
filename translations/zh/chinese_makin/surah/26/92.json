@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3024",
-    "sura": "26",
-    "aya": "92",
-    "arabic_text": "وَقِيلَ لَهُمۡ أَيۡنَ مَا كُنتُمۡ تَعۡبُدُونَ",
-    "translation": "将要向他们说：“你们以前舍安拉而崇拜的，如今在哪里呢？",
-    "footnotes": ""
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 371,
+  "verse_key": "26:92",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقِيلَ لَهُمۡ أَيۡنَ مَا كُنتُمۡ تَعۡبُدُونَ",
+  "translation": "将要向他们说：“你们以前舍安拉而崇拜的，如今在哪里呢？",
+  "footnotes": ""
 }

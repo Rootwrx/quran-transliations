@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3609",
-    "sura": "34",
-    "aya": "3",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَا تَأۡتِينَا ٱلسَّاعَةُۖ قُلۡ بَلَىٰ وَرَبِّي لَتَأۡتِيَنَّكُمۡ عَٰلِمِ ٱلۡغَيۡبِۖ لَا يَعۡزُبُ عَنۡهُ مِثۡقَالُ ذَرَّةٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِ وَلَآ أَصۡغَرُ مِن ذَٰلِكَ وَلَآ أَكۡبَرُ إِلَّا فِي كِتَٰبٖ مُّبِينٖ",
-    "translation": "3. Dicen los que se negaron a creer: “No habrá Día del Juicio”. Diles [¡Oh, Mujámmad!]: “¡Sí!, habrá, se los juro por mi Señor, Él es el Conocedor de lo oculto, no se Le escapa el conocimiento de la existencia de una pequeña partícula en los cielos o en la Tierra, ni existe nada menor ni mayor que no esté en un Libro evidente[1].",
-    "footnotes": "[1] La Tabla Protegida."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 428,
+  "verse_key": "34:3",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لَا تَأۡتِينَا ٱلسَّاعَةُۖ قُلۡ بَلَىٰ وَرَبِّي لَتَأۡتِيَنَّكُمۡ عَٰلِمِ ٱلۡغَيۡبِۖ لَا يَعۡزُبُ عَنۡهُ مِثۡقَالُ ذَرَّةٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِ وَلَآ أَصۡغَرُ مِن ذَٰلِكَ وَلَآ أَكۡبَرُ إِلَّا فِي كِتَٰبٖ مُّبِينٖ",
+  "translation": "3. Dicen los que se negaron a creer: “No habrá Día del Juicio”. Diles [¡Oh, Mujámmad!]: “¡Sí!, habrá, se los juro por mi Señor, Él es el Conocedor de lo oculto, no se Le escapa el conocimiento de la existencia de una pequeña partícula en los cielos o en la Tierra, ni existe nada menor ni mayor que no esté en un Libro evidente[1].",
+  "footnotes": "[1] La Tabla Protegida."
 }

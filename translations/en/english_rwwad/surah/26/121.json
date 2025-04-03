@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3053",
-    "sura": "26",
-    "aya": "121",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
-    "translation": "Indeed, there is a sign in this, yet most of them would not believe.",
-    "footnotes": ""
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 372,
+  "verse_key": "26:121",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+  "translation": "Indeed, there is a sign in this, yet most of them would not believe.",
+  "footnotes": ""
 }

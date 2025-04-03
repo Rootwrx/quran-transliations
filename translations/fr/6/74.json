@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "863",
-    "sura": "6",
-    "aya": "74",
-    "arabic_text": "۞ وَإِذۡ قَالَ إِبۡرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصۡنَامًا ءَالِهَةً إِنِّيٓ أَرَىٰكَ وَقَوۡمَكَ فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "Et (Rappelle le moment) où Abraham dit à son père Azar : \"Prends-tu des idoles comme divinités ? Je te vois, toi et ton peuple, dans un égarement manifeste !\"",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 137,
+  "verse_key": "6:74",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 55,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَإِذۡ قَالَ إِبۡرَٰهِيمُ لِأَبِيهِ ءَازَرَ أَتَتَّخِذُ أَصۡنَامًا ءَالِهَةً إِنِّيٓ أَرَىٰكَ وَقَوۡمَكَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "Et (Rappelle le moment) où Abraham dit à son père Azar : \"Prends-tu des idoles comme divinités ? Je te vois, toi et ton peuple, dans un égarement manifeste !\"",
+  "footnotes": ""
 }

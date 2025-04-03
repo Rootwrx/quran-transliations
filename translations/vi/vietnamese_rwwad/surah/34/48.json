@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3654",
-    "sura": "34",
-    "aya": "48",
-    "arabic_text": "قُلۡ إِنَّ رَبِّي يَقۡذِفُ بِٱلۡحَقِّ عَلَّٰمُ ٱلۡغُيُوبِ",
-    "translation": "Ngươi (hỡi Thiên Sứ) hãy nói: “Quả thật, Thượng Đế của Ta ban Chân Lý xuống (để loại bỏ điều ngụy tạo) và Ngài là Đấng Thông Toàn mọi điều vô hình.”",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 433,
+  "verse_key": "34:48",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنَّ رَبِّي يَقۡذِفُ بِٱلۡحَقِّ عَلَّٰمُ ٱلۡغُيُوبِ",
+  "translation": "Ngươi (hỡi Thiên Sứ) hãy nói: “Quả thật, Thượng Đế của Ta ban Chân Lý xuống (để loại bỏ điều ngụy tạo) và Ngài là Đấng Thông Toàn mọi điều vô hình.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4671",
-    "sura": "50",
-    "aya": "41",
-    "arabic_text": "وَٱسۡتَمِعۡ يَوۡمَ يُنَادِ ٱلۡمُنَادِ مِن مَّكَانٖ قَرِيبٖ",
-    "translation": "Và Ngươi hãy lắng nghe vào Ngày mà (Thiên Thần) Hô Gọi sẽ hô gọi từ một nơi rất gần.",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 520,
+  "verse_key": "50:41",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱسۡتَمِعۡ يَوۡمَ يُنَادِ ٱلۡمُنَادِ مِن مَّكَانٖ قَرِيبٖ",
+  "translation": "Và Ngươi hãy lắng nghe vào Ngày mà (Thiên Thần) Hô Gọi sẽ hô gọi từ một nơi rất gần.",
+  "footnotes": ""
 }

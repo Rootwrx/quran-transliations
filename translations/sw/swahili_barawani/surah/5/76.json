@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "745",
-    "sura": "5",
-    "aya": "76",
-    "arabic_text": "قُلۡ أَتَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمۡلِكُ لَكُمۡ ضَرّٗا وَلَا نَفۡعٗاۚ وَٱللَّهُ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
-    "translation": "Sema: Je! Mnawaabudu, badala ya Mwenyezi Mungu, wale ambao hawawezi kukudhuruni wala kukufaeni? Na Mwenyezi Mungu ndiye Mwenye kusikia, Mwenye kujua.",
-    "footnotes": "Ewe Mtume! Waambie hawa wapotovu: Vipi mnamuabudu mungu asiye weza kukudhuruni kwa lolote mkiacha kumuabudu, wala hawezi kukufaeni kwa lolote mkimuabudu!! Vipi mnaacha kumuabudu Mwenyezi Mungu ambaye Yeye ndiye Mungu Mwenye uweza wa kila kitu, naye ni Mwenye kusikia, na Mwenye ujuzi."
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 120,
+  "verse_key": "5:76",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَتَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمۡلِكُ لَكُمۡ ضَرّٗا وَلَا نَفۡعٗاۚ وَٱللَّهُ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "translation": "Sema: Je! Mnawaabudu, badala ya Mwenyezi Mungu, wale ambao hawawezi kukudhuruni wala kukufaeni? Na Mwenyezi Mungu ndiye Mwenye kusikia, Mwenye kujua.",
+  "footnotes": "Ewe Mtume! Waambie hawa wapotovu: Vipi mnamuabudu mungu asiye weza kukudhuruni kwa lolote mkiacha kumuabudu, wala hawezi kukufaeni kwa lolote mkimuabudu!! Vipi mnaacha kumuabudu Mwenyezi Mungu ambaye Yeye ndiye Mungu Mwenye uweza wa kila kitu, naye ni Mwenye kusikia, na Mwenye ujuzi."
 }

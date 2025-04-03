@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5580",
-    "sura": "75",
-    "aya": "29",
-    "arabic_text": "وَٱلۡتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
-    "translation": "29. y a la gravedad de dejar este mundo se le añada la de afrontar la otra vida[1100],",
-    "footnotes": "[1100]  Otra posible interpretación es “y se junten sus piernas”, indicando que ya ha muerto y ha sido amortajado. "
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 578,
+  "verse_key": "75:29",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡتَفَّتِ ٱلسَّاقُ بِٱلسَّاقِ",
+  "translation": "29. y a la gravedad de dejar este mundo se le añada la de afrontar la otra vida[1100],",
+  "footnotes": "[1100]  Otra posible interpretación es “y se junten sus piernas”, indicando que ya ha muerto y ha sido amortajado. "
 }

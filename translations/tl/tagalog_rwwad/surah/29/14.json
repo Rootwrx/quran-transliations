@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3354",
-    "sura": "29",
-    "aya": "14",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَلَبِثَ فِيهِمۡ أَلۡفَ سَنَةٍ إِلَّا خَمۡسِينَ عَامٗا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمۡ ظَٰلِمُونَ",
-    "translation": "Talaga ngang nagsugo Kami kay Noe sa mga tao niya, kaya nanatili siya sa kanila ng isang libong taon maliban sa limampung taon, saka dumaklot sa kanila ang gunaw habang sila ay mga tagalabag sa katarungan.[5]",
-    "footnotes": "[5] dahilan sa kawalang-pananampalataya nila kay Allāh at pagpapasinungaling nila sa mga sugo Niya."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 397,
+  "verse_key": "29:14",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَلَبِثَ فِيهِمۡ أَلۡفَ سَنَةٍ إِلَّا خَمۡسِينَ عَامٗا فَأَخَذَهُمُ ٱلطُّوفَانُ وَهُمۡ ظَٰلِمُونَ",
+  "translation": "Talaga ngang nagsugo Kami kay Noe sa mga tao niya, kaya nanatili siya sa kanila ng isang libong taon maliban sa limampung taon, saka dumaklot sa kanila ang gunaw habang sila ay mga tagalabag sa katarungan.[5]",
+  "footnotes": "[5] dahilan sa kawalang-pananampalataya nila kay Allāh at pagpapasinungaling nila sa mga sugo Niya."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "829",
-    "sura": "6",
-    "aya": "40",
-    "arabic_text": "قُلۡ أَرَءَيۡتَكُمۡ إِنۡ أَتَىٰكُمۡ عَذَابُ ٱللَّهِ أَوۡ أَتَتۡكُمُ ٱلسَّاعَةُ أَغَيۡرَ ٱللَّهِ تَدۡعُونَ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "40. Loba: Boyebisa ngai soki etumbu ya Allah eyeli bino to mpe mokolo ya suka ekomeli bino? Bokobelela nzambe mosusu botika Allah soki bozali na bosembo?",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 132,
+  "verse_key": "6:40",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتَكُمۡ إِنۡ أَتَىٰكُمۡ عَذَابُ ٱللَّهِ أَوۡ أَتَتۡكُمُ ٱلسَّاعَةُ أَغَيۡرَ ٱللَّهِ تَدۡعُونَ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "40. Loba: Boyebisa ngai soki etumbu ya Allah eyeli bino to mpe mokolo ya suka ekomeli bino? Bokobelela nzambe mosusu botika Allah soki bozali na bosembo?",
+  "footnotes": ""
 }

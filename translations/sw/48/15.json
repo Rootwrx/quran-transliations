@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4598",
-    "sura": "48",
-    "aya": "15",
-    "arabic_text": "سَيَقُولُ ٱلۡمُخَلَّفُونَ إِذَا ٱنطَلَقۡتُمۡ إِلَىٰ مَغَانِمَ لِتَأۡخُذُوهَا ذَرُونَا نَتَّبِعۡكُمۡۖ يُرِيدُونَ أَن يُبَدِّلُواْ كَلَٰمَ ٱللَّهِۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمۡ قَالَ ٱللَّهُ مِن قَبۡلُۖ فَسَيَقُولُونَ بَلۡ تَحۡسُدُونَنَاۚ بَلۡ كَانُواْ لَا يَفۡقَهُونَ إِلَّا قَلِيلٗا",
-    "translation": "Walio baki nyuma watasema: Mtapo kwenda kuchukua ngawira, tuacheni tukufuateni! Wanataka kuyabadili maneno ya Mwenyezi Mungu. Sema: Hamtatufuata kabisa. Mwenyezi Mungu alikwisha sema kama hivi zamani. Hapo watasema: Bali nyinyi mnatuhusudu. Siyo, bali walikuwa hawafahamu ila kidogo.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 512,
+  "verse_key": "48:15",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَقُولُ ٱلۡمُخَلَّفُونَ إِذَا ٱنطَلَقۡتُمۡ إِلَىٰ مَغَانِمَ لِتَأۡخُذُوهَا ذَرُونَا نَتَّبِعۡكُمۡۖ يُرِيدُونَ أَن يُبَدِّلُواْ كَلَٰمَ ٱللَّهِۚ قُل لَّن تَتَّبِعُونَا كَذَٰلِكُمۡ قَالَ ٱللَّهُ مِن قَبۡلُۖ فَسَيَقُولُونَ بَلۡ تَحۡسُدُونَنَاۚ بَلۡ كَانُواْ لَا يَفۡقَهُونَ إِلَّا قَلِيلٗا",
+  "translation": "Walio baki nyuma watasema: Mtapo kwenda kuchukua ngawira, tuacheni tukufuateni! Wanataka kuyabadili maneno ya Mwenyezi Mungu. Sema: Hamtatufuata kabisa. Mwenyezi Mungu alikwisha sema kama hivi zamani. Hapo watasema: Bali nyinyi mnatuhusudu. Siyo, bali walikuwa hawafahamu ila kidogo.",
+  "footnotes": ""
 }

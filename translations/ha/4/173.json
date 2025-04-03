@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "666",
-    "sura": "4",
-    "aya": "173",
-    "arabic_text": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمۡ أُجُورَهُمۡ وَيَزِيدُهُم مِّن فَضۡلِهِۦۖ وَأَمَّا ٱلَّذِينَ ٱسۡتَنكَفُواْ وَٱسۡتَكۡبَرُواْ فَيُعَذِّبُهُمۡ عَذَابًا أَلِيمٗا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيّٗا وَلَا نَصِيرٗا",
-    "translation": "To, amma waɗanda suka yi ĩmãni, kuma suka aikata ayyukan ƙwaiai, to zã Ya cika musu ijãrõrinsu, kuma Yanã ƙãra musu daga falalarSa. Kuma amma waɗanda suka yi ƙyãma, kuma suka yi girman kai, to, zã Ya yi musu azãba, azãba mai raɗɗi kuma bã su samun wani masõyi dõmin kansu, baicin Allah, kuma bã su samun mataimaki.",
-    "footnotes": ""
-  }
+  "id": 173,
+  "verse_number": 173,
+  "page_number": 105,
+  "verse_key": "4:173",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 42,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمۡ أُجُورَهُمۡ وَيَزِيدُهُم مِّن فَضۡلِهِۦۖ وَأَمَّا ٱلَّذِينَ ٱسۡتَنكَفُواْ وَٱسۡتَكۡبَرُواْ فَيُعَذِّبُهُمۡ عَذَابًا أَلِيمٗا وَلَا يَجِدُونَ لَهُم مِّن دُونِ ٱللَّهِ وَلِيّٗا وَلَا نَصِيرٗا",
+  "translation": "To, amma waɗanda suka yi ĩmãni, kuma suka aikata ayyukan ƙwaiai, to zã Ya cika musu ijãrõrinsu, kuma Yanã ƙãra musu daga falalarSa. Kuma amma waɗanda suka yi ƙyãma, kuma suka yi girman kai, to, zã Ya yi musu azãba, azãba mai raɗɗi kuma bã su samun wani masõyi dõmin kansu, baicin Allah, kuma bã su samun mataimaki.",
+  "footnotes": ""
 }

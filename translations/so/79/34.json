@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5746",
-    "sura": "79",
-    "aya": "34",
-    "arabic_text": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلۡكُبۡرَىٰ",
-    "translation": "34. Markase ay timaaddo musiibada weyni.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 584,
+  "verse_key": "79:34",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا جَآءَتِ ٱلطَّآمَّةُ ٱلۡكُبۡرَىٰ",
+  "translation": "34. Markase ay timaaddo musiibada weyni.",
+  "footnotes": ""
 }

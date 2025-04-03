@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "193",
-    "sura": "2",
-    "aya": "186",
-    "arabic_text": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِۖ فَلۡيَسۡتَجِيبُواْ لِي وَلۡيُؤۡمِنُواْ بِي لَعَلَّهُمۡ يَرۡشُدُونَ",
-    "translation": "Kullarım benden sana sorarlarsa; şüphesiz ben yakınım. Bana dua edenin, dua ettiği zaman, duasına karşılık veririm. O halde onlar da benim davetime icabet etsinler ve bana iman etsinler ki doğru yolda olsunlar. ",
-    "footnotes": null
-  }
+  "id": 186,
+  "verse_number": 186,
+  "page_number": 28,
+  "verse_key": "2:186",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 11,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِۖ فَلۡيَسۡتَجِيبُواْ لِي وَلۡيُؤۡمِنُواْ بِي لَعَلَّهُمۡ يَرۡشُدُونَ",
+  "translation": "Kullarım benden sana sorarlarsa; şüphesiz ben yakınım. Bana dua edenin, dua ettiği zaman, duasına karşılık veririm. O halde onlar da benim davetime icabet etsinler ve bana iman etsinler ki doğru yolda olsunlar. ",
+  "footnotes": null
 }

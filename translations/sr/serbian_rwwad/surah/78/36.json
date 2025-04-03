@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5708",
-    "sura": "78",
-    "aya": "36",
-    "arabic_text": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابٗا",
-    "translation": "то им је награда од твога Господара, довољан дар.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 583,
+  "verse_key": "78:36",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "جَزَآءٗ مِّن رَّبِّكَ عَطَآءً حِسَابٗا",
+  "translation": "то им је награда од твога Господара, довољан дар.",
+  "footnotes": ""
 }

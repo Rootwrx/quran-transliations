@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1492",
-    "sura": "11",
-    "aya": "19",
-    "arabic_text": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجٗا وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
-    "translation": "Ambao wanazuilia Njia ya Mwenyezi Mungu, na wanaitakia ipotoke, na wanaikataa Akhera.",
-    "footnotes": "Hawa ndio wanawageuza watu wasiifuate Dini ya Mwenyezi Mungu, na wanawazuia. Nayo hiyo ndiyo Njia yake Iliyo Nyooka. Na wanataka Njia hii iwafikiane na matamanio yao na pumbao lao, kwa hivyo yende upogo. Hao wanaikanya Akhera, na yaliyomo ndani ya kulipwa thawabu Muumini na kuadhibiwa kafiri."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 223,
+  "verse_key": "11:19",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يَصُدُّونَ عَن سَبِيلِ ٱللَّهِ وَيَبۡغُونَهَا عِوَجٗا وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
+  "translation": "Ambao wanazuilia Njia ya Mwenyezi Mungu, na wanaitakia ipotoke, na wanaikataa Akhera.",
+  "footnotes": "Hawa ndio wanawageuza watu wasiifuate Dini ya Mwenyezi Mungu, na wanawazuia. Nayo hiyo ndiyo Njia yake Iliyo Nyooka. Na wanataka Njia hii iwafikiane na matamanio yao na pumbao lao, kwa hivyo yende upogo. Hao wanaikanya Akhera, na yaliyomo ndani ya kulipwa thawabu Muumini na kuadhibiwa kafiri."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3400",
-    "sura": "29",
-    "aya": "60",
-    "arabic_text": "وَكَأَيِّن مِّن دَآبَّةٖ لَّا تَحۡمِلُ رِزۡقَهَا ٱللَّهُ يَرۡزُقُهَا وَإِيَّاكُمۡۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
-    "translation": "60. Badanaa noole dhul socod ah oo aan xambaarsaneyn risiqeeda, Alle baa arsaaqa iyo idinkaba. Allena Waa wax kasta Maqlaha, wax kasta Ogsoonaha ah.",
-    "footnotes": ""
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 403,
+  "verse_key": "29:60",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَأَيِّن مِّن دَآبَّةٖ لَّا تَحۡمِلُ رِزۡقَهَا ٱللَّهُ يَرۡزُقُهَا وَإِيَّاكُمۡۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "translation": "60. Badanaa noole dhul socod ah oo aan xambaarsaneyn risiqeeda, Alle baa arsaaqa iyo idinkaba. Allena Waa wax kasta Maqlaha, wax kasta Ogsoonaha ah.",
+  "footnotes": ""
 }

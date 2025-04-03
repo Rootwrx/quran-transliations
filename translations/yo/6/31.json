@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "820",
-    "sura": "6",
-    "aya": "31",
-    "arabic_text": "قَدۡ خَسِرَ ٱلَّذِينَ كَذَّبُواْ بِلِقَآءِ ٱللَّهِۖ حَتَّىٰٓ إِذَا جَآءَتۡهُمُ ٱلسَّاعَةُ بَغۡتَةٗ قَالُواْ يَٰحَسۡرَتَنَا عَلَىٰ مَا فَرَّطۡنَا فِيهَا وَهُمۡ يَحۡمِلُونَ أَوۡزَارَهُمۡ عَلَىٰ ظُهُورِهِمۡۚ أَلَا سَآءَ مَا يَزِرُونَ",
-    "translation": "Dájúdájú àwọn tó pe pípàdé Allāhu (lọ́run) nírọ́ ti ṣòfò débi pé nígbà tí Àkókò náà bá dé bá wọn lójijì, wọ́n á wí pé: “A ká àbámọ̀ lórí ohun tí a fi jáfira nílé ayé.” Wọ́n sì máa ru ẹ̀ṣẹ̀ wọn sẹ́yìn wọn. Kíyè sí i, ohun tí wọn yóò rù lẹ́ṣẹ̀ sì burú.",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 131,
+  "verse_key": "6:31",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ خَسِرَ ٱلَّذِينَ كَذَّبُواْ بِلِقَآءِ ٱللَّهِۖ حَتَّىٰٓ إِذَا جَآءَتۡهُمُ ٱلسَّاعَةُ بَغۡتَةٗ قَالُواْ يَٰحَسۡرَتَنَا عَلَىٰ مَا فَرَّطۡنَا فِيهَا وَهُمۡ يَحۡمِلُونَ أَوۡزَارَهُمۡ عَلَىٰ ظُهُورِهِمۡۚ أَلَا سَآءَ مَا يَزِرُونَ",
+  "translation": "Dájúdájú àwọn tó pe pípàdé Allāhu (lọ́run) nírọ́ ti ṣòfò débi pé nígbà tí Àkókò náà bá dé bá wọn lójijì, wọ́n á wí pé: “A ká àbámọ̀ lórí ohun tí a fi jáfira nílé ayé.” Wọ́n sì máa ru ẹ̀ṣẹ̀ wọn sẹ́yìn wọn. Kíyè sí i, ohun tí wọn yóò rù lẹ́ṣẹ̀ sì burú.",
+  "footnotes": ""
 }

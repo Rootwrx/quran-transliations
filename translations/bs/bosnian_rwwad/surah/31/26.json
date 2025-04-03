@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3495",
-    "sura": "31",
-    "aya": "26",
-    "arabic_text": "لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّ ٱللَّهَ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ",
-    "translation": "Allahovo je sve na nebesima i na Zemlji! Allah je, uistinu, neovisan i hvale dostojan.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 413,
+  "verse_key": "31:26",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّ ٱللَّهَ هُوَ ٱلۡغَنِيُّ ٱلۡحَمِيدُ",
+  "translation": "Allahovo je sve na nebesima i na Zemlji! Allah je, uistinu, neovisan i hvale dostojan.",
+  "footnotes": ""
 }

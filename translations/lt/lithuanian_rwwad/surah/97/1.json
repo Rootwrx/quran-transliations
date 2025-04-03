@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6126",
-    "sura": "97",
-    "aya": "1",
-    "arabic_text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
-    "translation": "1. Iš tiesų, Mes nuleidome jį (t. y. Koraną) Al-Kadr (Lemties naktį). [1]",
-    "footnotes": "[1] Tame (tą naktį) yra nulemti visi iš anksto nustatytų dalykų reikalai. (Koranas, aja 44:4) t. y. mirčių, gimimų, aprūpinimų, sunkumų ir t. t. klausimai visiems (ateinantiems) metams, kaip nulemta Allaho."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 598,
+  "verse_key": "97:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+  "translation": "1. Iš tiesų, Mes nuleidome jį (t. y. Koraną) Al-Kadr (Lemties naktį). [1]",
+  "footnotes": "[1] Tame (tą naktį) yra nulemti visi iš anksto nustatytų dalykų reikalai. (Koranas, aja 44:4) t. y. mirčių, gimimų, aprūpinimų, sunkumų ir t. t. klausimai visiems (ateinantiems) metams, kaip nulemta Allaho."
 }

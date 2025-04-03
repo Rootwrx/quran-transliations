@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2817",
-    "sura": "24",
-    "aya": "26",
-    "arabic_text": "ٱلۡخَبِيثَٰتُ لِلۡخَبِيثِينَ وَٱلۡخَبِيثُونَ لِلۡخَبِيثَٰتِۖ وَٱلطَّيِّبَٰتُ لِلطَّيِّبِينَ وَٱلطَّيِّبُونَ لِلطَّيِّبَٰتِۚ أُوْلَٰٓئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَۖ لَهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ",
-    "translation": "Wanawake waovu ni wa wanaume waovu, na wanaume waovu ni wa wanawake waovu. Na wanawake wema ni wa wanaume wema, na wanaume wema ni wa wanawake wema. Hao wameepushwa na hayo wanayo yasema; wao watapata msamaha na riziki ya ukarimu.",
-    "footnotes": "Wanawake waovu ni wa wanaume waovu, na wanaume waovu ni wa wanawake waovu. Na kadhaalika wanawake wema ni wa wanaume wema, na wanaume wema ni wa wanawake wema. Basi yamkini vipi kuwepo uwovu katika wema ulio hifadhiwa nao ni mke wa mwema muaminifu Mtume Mtukufu s.a.w.? Na wema hawa wamehifadhika na tuhuma wanazo wasingizia hao waovu. Na wao wana maghfira ya Mwenyezi Mungu kwa vijidhambi vidogo vidogo ambavyo mwanaadamu hakosekani kuwa navyo. Na watapata ukarimu mkubwa wa kupata neema za Peponi."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 352,
+  "verse_key": "24:26",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 141,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡخَبِيثَٰتُ لِلۡخَبِيثِينَ وَٱلۡخَبِيثُونَ لِلۡخَبِيثَٰتِۖ وَٱلطَّيِّبَٰتُ لِلطَّيِّبِينَ وَٱلطَّيِّبُونَ لِلطَّيِّبَٰتِۚ أُوْلَٰٓئِكَ مُبَرَّءُونَ مِمَّا يَقُولُونَۖ لَهُم مَّغۡفِرَةٞ وَرِزۡقٞ كَرِيمٞ",
+  "translation": "Wanawake waovu ni wa wanaume waovu, na wanaume waovu ni wa wanawake waovu. Na wanawake wema ni wa wanaume wema, na wanaume wema ni wa wanawake wema. Hao wameepushwa na hayo wanayo yasema; wao watapata msamaha na riziki ya ukarimu.",
+  "footnotes": "Wanawake waovu ni wa wanaume waovu, na wanaume waovu ni wa wanawake waovu. Na kadhaalika wanawake wema ni wa wanaume wema, na wanaume wema ni wa wanawake wema. Basi yamkini vipi kuwepo uwovu katika wema ulio hifadhiwa nao ni mke wa mwema muaminifu Mtume Mtukufu s.a.w.? Na wema hawa wamehifadhika na tuhuma wanazo wasingizia hao waovu. Na wao wana maghfira ya Mwenyezi Mungu kwa vijidhambi vidogo vidogo ambavyo mwanaadamu hakosekani kuwa navyo. Na watapata ukarimu mkubwa wa kupata neema za Peponi."
 }

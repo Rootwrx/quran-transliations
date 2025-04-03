@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5944",
-    "sura": "86",
-    "aya": "13",
-    "arabic_text": "إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ",
-    "translation": "13. Kani (Qur'aanku) waa hadal dhab ah oo cad oo kala saara (xaqa iyo baadilka).",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 591,
+  "verse_key": "86:13",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُۥ لَقَوۡلٞ فَصۡلٞ",
+  "translation": "13. Kani (Qur'aanku) waa hadal dhab ah oo cad oo kala saara (xaqa iyo baadilka).",
+  "footnotes": ""
 }

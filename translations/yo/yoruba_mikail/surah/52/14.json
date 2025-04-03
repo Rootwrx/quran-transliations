@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4749",
-    "sura": "52",
-    "aya": "14",
-    "arabic_text": "هَٰذِهِ ٱلنَّارُ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ",
-    "translation": "Èyí ni Iná náà tí ẹ̀ ń pè ní irọ́.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 523,
+  "verse_key": "52:14",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذِهِ ٱلنَّارُ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ",
+  "translation": "Èyí ni Iná náà tí ẹ̀ ń pè ní irọ́.",
+  "footnotes": ""
 }

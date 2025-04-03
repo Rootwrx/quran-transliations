@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5502",
-    "sura": "74",
-    "aya": "7",
-    "arabic_text": "وَلِرَبِّكَ فَٱصۡبِرۡ",
-    "translation": "И трпи ради свога Господара!",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 575,
+  "verse_key": "74:7",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِرَبِّكَ فَٱصۡبِرۡ",
+  "translation": "И трпи ради свога Господара!",
+  "footnotes": ""
 }

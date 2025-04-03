@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "104",
-    "sura": "2",
-    "aya": "97",
-    "arabic_text": "قُلۡ مَن كَانَ عَدُوّٗا لِّـجِبۡرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلۡبِكَ بِإِذۡنِ ٱللَّهِ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ وَهُدٗى وَبُشۡرَىٰ لِلۡمُؤۡمِنِينَ",
-    "translation": "(Nkͻmhyεni), ka sε: ‘’Obi a netamfo ne Gabriel no, εyε ɔno na Nyankopͻn akwamma mu no osiane (Adiyisεm) no ba w’akoma mu defoa (Adiyisεm) a edi n’anim kan no soͻ a εyε kwan kyerε, ne anigyesεm dema agyidiefoͻ no.",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 15,
+  "verse_key": "2:97",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَن كَانَ عَدُوّٗا لِّـجِبۡرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلۡبِكَ بِإِذۡنِ ٱللَّهِ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ وَهُدٗى وَبُشۡرَىٰ لِلۡمُؤۡمِنِينَ",
+  "translation": "(Nkͻmhyεni), ka sε: ‘’Obi a netamfo ne Gabriel no, εyε ɔno na Nyankopͻn akwamma mu no osiane (Adiyisεm) no ba w’akoma mu defoa (Adiyisεm) a edi n’anim kan no soͻ a εyε kwan kyerε, ne anigyesεm dema agyidiefoͻ no.",
+  "footnotes": ""
 }

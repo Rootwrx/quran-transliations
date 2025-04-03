@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1868",
-    "sura": "15",
-    "aya": "66",
-    "arabic_text": "وَقَضَيۡنَآ إِلَيۡهِ ذَٰلِكَ ٱلۡأَمۡرَ أَنَّ دَابِرَ هَٰٓؤُلَآءِ مَقۡطُوعٞ مُّصۡبِحِينَ",
-    "translation": "Dhe Ne ia shpallëm atij atë që do të ngjajë: që i gjithë populli i tij, deri në të mbramin, do të zhdukej në agim.",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 265,
+  "verse_key": "15:66",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَضَيۡنَآ إِلَيۡهِ ذَٰلِكَ ٱلۡأَمۡرَ أَنَّ دَابِرَ هَٰٓؤُلَآءِ مَقۡطُوعٞ مُّصۡبِحِينَ",
+  "translation": "Dhe Ne ia shpallëm atij atë që do të ngjajë: që i gjithë populli i tij, deri në të mbramin, do të zhdukej në agim.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "908",
-    "sura": "6",
-    "aya": "119",
-    "arabic_text": "وَمَا لَكُمۡ أَلَّا تَأۡكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَقَدۡ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيۡكُمۡ إِلَّا مَا ٱضۡطُرِرۡتُمۡ إِلَيۡهِۗ وَإِنَّ كَثِيرٗا لَّيُضِلُّونَ بِأَهۡوَآئِهِم بِغَيۡرِ عِلۡمٍۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِٱلۡمُعۡتَدِينَ",
-    "translation": "119. Ir kodėl jūs turėtumėte nevalgyti tos (mėsos), virš kurios buvo ištartas Allaho vardas (skerdžiant gyvulį), kai Jis išaiškino jums detaliai tai, kas jums draudžiama, išskyrus kai verčia būtinumas? Ir tikrai, daugybė paklaidina (žmoniją) savo pačių troškimais, dėl žinių trūkumo. Be abejonės, jūsų Viešpats geriausiai žino prasižengėlius.",
-    "footnotes": ""
-  }
+  "id": 119,
+  "verse_number": 119,
+  "page_number": 143,
+  "verse_key": "6:119",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا لَكُمۡ أَلَّا تَأۡكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَقَدۡ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيۡكُمۡ إِلَّا مَا ٱضۡطُرِرۡتُمۡ إِلَيۡهِۗ وَإِنَّ كَثِيرٗا لَّيُضِلُّونَ بِأَهۡوَآئِهِم بِغَيۡرِ عِلۡمٍۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِٱلۡمُعۡتَدِينَ",
+  "translation": "119. Ir kodėl jūs turėtumėte nevalgyti tos (mėsos), virš kurios buvo ištartas Allaho vardas (skerdžiant gyvulį), kai Jis išaiškino jums detaliai tai, kas jums draudžiama, išskyrus kai verčia būtinumas? Ir tikrai, daugybė paklaidina (žmoniją) savo pačių troškimais, dėl žinių trūkumo. Be abejonės, jūsų Viešpats geriausiai žino prasižengėlius.",
+  "footnotes": ""
 }

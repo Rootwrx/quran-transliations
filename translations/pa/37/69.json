@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3857",
-    "sura": "37",
-    "aya": "69",
-    "arabic_text": "إِنَّهُمۡ أَلۡفَوۡاْ ءَابَآءَهُمۡ ضَآلِّينَ",
-    "translation": "69਼ ਇਹ ਉਹ ਲੋਕ ਹਨ ਜਿਨ੍ਹਾਂ ਨੇ ਆਪਣੇ ਪਿਓ ਦਾਦਿਆਂ ਨੂੰ ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ ਵੇਖਿਆ।",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 448,
+  "verse_key": "37:69",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُمۡ أَلۡفَوۡاْ ءَابَآءَهُمۡ ضَآلِّينَ",
+  "translation": "69਼ ਇਹ ਉਹ ਲੋਕ ਹਨ ਜਿਨ੍ਹਾਂ ਨੇ ਆਪਣੇ ਪਿਓ ਦਾਦਿਆਂ ਨੂੰ ਕੁਰਾਹੇ ਪਿਆ ਹੋਇਆ ਵੇਖਿਆ।",
+  "footnotes": ""
 }

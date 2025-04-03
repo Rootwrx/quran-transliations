@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1911",
-    "sura": "16",
-    "aya": "10",
-    "arabic_text": "هُوَ ٱلَّذِيٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗۖ لَّكُم مِّنۡهُ شَرَابٞ وَمِنۡهُ شَجَرٞ فِيهِ تُسِيمُونَ",
-    "translation": "On spušta s neba vodu koju pijete i kojom se natapa rastinje kojim stoku napasate.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 268,
+  "verse_key": "16:10",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِيٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗۖ لَّكُم مِّنۡهُ شَرَابٞ وَمِنۡهُ شَجَرٞ فِيهِ تُسِيمُونَ",
+  "translation": "On spušta s neba vodu koju pijete i kojom se natapa rastinje kojim stoku napasate.",
+  "footnotes": ""
 }

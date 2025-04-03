@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3624",
-    "sura": "34",
-    "aya": "18",
-    "arabic_text": "وَجَعَلۡنَا بَيۡنَهُمۡ وَبَيۡنَ ٱلۡقُرَى ٱلَّتِي بَٰرَكۡنَا فِيهَا قُرٗى ظَٰهِرَةٗ وَقَدَّرۡنَا فِيهَا ٱلسَّيۡرَۖ سِيرُواْ فِيهَا لَيَالِيَ وَأَيَّامًا ءَامِنِينَ",
-    "translation": "18. Entre eux et les cités que Nous avons bénies,[418] Nous établîmes des villes qui se prolongeaient les unes les autres. Nous avons déterminé avec mesure les distances qui les séparaient, (et Nous dîmes) : « Voyagez donc entre elles, de nuit comme de jour, en toute sûreté. »",
-    "footnotes": "[418] Selon la majorité des exégètes, les villes bénies sont celles du Cham (le Levant)."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 430,
+  "verse_key": "34:18",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلۡنَا بَيۡنَهُمۡ وَبَيۡنَ ٱلۡقُرَى ٱلَّتِي بَٰرَكۡنَا فِيهَا قُرٗى ظَٰهِرَةٗ وَقَدَّرۡنَا فِيهَا ٱلسَّيۡرَۖ سِيرُواْ فِيهَا لَيَالِيَ وَأَيَّامًا ءَامِنِينَ",
+  "translation": "18. Entre eux et les cités que Nous avons bénies,[418] Nous établîmes des villes qui se prolongeaient les unes les autres. Nous avons déterminé avec mesure les distances qui les séparaient, (et Nous dîmes) : « Voyagez donc entre elles, de nuit comme de jour, en toute sûreté. »",
+  "footnotes": "[418] Selon la majorité des exégètes, les villes bénies sont celles du Cham (le Levant)."
 }

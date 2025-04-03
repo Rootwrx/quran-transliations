@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "285",
-    "sura": "2",
-    "aya": "278",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَوٰٓاْ إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": "Yaa warra amantan! Rabbiin sodaadhaa; yoo mu’uminoota taataniif dhala irraa waan (nama irratti) hafe dhiisaa.",
-    "footnotes": ""
-  }
+  "id": 278,
+  "verse_number": 278,
+  "page_number": 47,
+  "verse_key": "2:278",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 19,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَوٰٓاْ إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": "Yaa warra amantan! Rabbiin sodaadhaa; yoo mu’uminoota taataniif dhala irraa waan (nama irratti) hafe dhiisaa.",
+  "footnotes": ""
 }

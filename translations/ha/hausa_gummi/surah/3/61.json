@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "354",
-    "sura": "3",
-    "aya": "61",
-    "arabic_text": "فَمَنۡ حَآجَّكَ فِيهِ مِنۢ بَعۡدِ مَا جَآءَكَ مِنَ ٱلۡعِلۡمِ فَقُلۡ تَعَالَوۡاْ نَدۡعُ أَبۡنَآءَنَا وَأَبۡنَآءَكُمۡ وَنِسَآءَنَا وَنِسَآءَكُمۡ وَأَنفُسَنَا وَأَنفُسَكُمۡ ثُمَّ نَبۡتَهِلۡ فَنَجۡعَل لَّعۡنَتَ ٱللَّهِ عَلَى ٱلۡكَٰذِبِينَ",
-    "translation": "To, wanda ya yi musu* da kai a cikinsa, a bãyan abin da ya zo maka daga ilmi, to ka ce: \"Ku zo mu kirãyi, 'yã'yanmu da 'yã'yanku da mãtan mu da mãtanku da kanmu da kanku sa'an nan kuma mu ƙanƙantar da kai sa'an nan kuma mu sanya la'anar, Allah a kan maƙaryata.\"",
-    "footnotes": "* Wanda ya yi hujjacewa da Annabi a kan sha'anin Ĩsã; kamar Nasãran Najrãn, sun tafi dõmin su yi jãyayya da Annabi. Ya kira su zuwa ga mubãhala, suka ce: sai sun yi shãwara, suka ce wa jũnansu: \"Kun san gaskiya mutumin nan Annabi ne. Ku bar ra'ayinku na mubãhala, dõmin wani Annabi bai taɓa yin ta tãre da wasu mutãne ba, fãce sun halaka.\" Bãyan haka suka iske Annabi yã fito shi da Hasan da Husaini da Fãtima da Ali, kuma ya ce musu: \"ldan na yi addu'a ku ce, Ãmin.\" Sai suka ƙi mubahãlar, suka yi sulhu akan jizya."
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 57,
+  "verse_key": "3:61",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَنۡ حَآجَّكَ فِيهِ مِنۢ بَعۡدِ مَا جَآءَكَ مِنَ ٱلۡعِلۡمِ فَقُلۡ تَعَالَوۡاْ نَدۡعُ أَبۡنَآءَنَا وَأَبۡنَآءَكُمۡ وَنِسَآءَنَا وَنِسَآءَكُمۡ وَأَنفُسَنَا وَأَنفُسَكُمۡ ثُمَّ نَبۡتَهِلۡ فَنَجۡعَل لَّعۡنَتَ ٱللَّهِ عَلَى ٱلۡكَٰذِبِينَ",
+  "translation": "To, wanda ya yi musu* da kai a cikinsa, a bãyan abin da ya zo maka daga ilmi, to ka ce: \"Ku zo mu kirãyi, 'yã'yanmu da 'yã'yanku da mãtan mu da mãtanku da kanmu da kanku sa'an nan kuma mu ƙanƙantar da kai sa'an nan kuma mu sanya la'anar, Allah a kan maƙaryata.\"",
+  "footnotes": "* Wanda ya yi hujjacewa da Annabi a kan sha'anin Ĩsã; kamar Nasãran Najrãn, sun tafi dõmin su yi jãyayya da Annabi. Ya kira su zuwa ga mubãhala, suka ce: sai sun yi shãwara, suka ce wa jũnansu: \"Kun san gaskiya mutumin nan Annabi ne. Ku bar ra'ayinku na mubãhala, dõmin wani Annabi bai taɓa yin ta tãre da wasu mutãne ba, fãce sun halaka.\" Bãyan haka suka iske Annabi yã fito shi da Hasan da Husaini da Fãtima da Ali, kuma ya ce musu: \"ldan na yi addu'a ku ce, Ãmin.\" Sai suka ƙi mubahãlar, suka yi sulhu akan jizya."
 }

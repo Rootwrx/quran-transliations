@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2578",
-    "sura": "21",
-    "aya": "95",
-    "arabic_text": "وَحَرَٰمٌ عَلَىٰ قَرۡيَةٍ أَهۡلَكۡنَٰهَآ أَنَّهُمۡ لَا يَرۡجِعُونَ",
-    "translation": "Dan tidak mungkin bagi (penduduk) suatu negeri yang telah Kami binasakan, bahwa mereka tidak akan kembali (kepada Kami).",
-    "footnotes": ""
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 330,
+  "verse_key": "21:95",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَحَرَٰمٌ عَلَىٰ قَرۡيَةٍ أَهۡلَكۡنَٰهَآ أَنَّهُمۡ لَا يَرۡجِعُونَ",
+  "translation": "Dan tidak mungkin bagi (penduduk) suatu negeri yang telah Kami binasakan, bahwa mereka tidak akan kembali (kepada Kami).",
+  "footnotes": ""
 }

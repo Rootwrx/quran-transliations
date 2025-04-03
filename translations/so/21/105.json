@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2588",
-    "sura": "21",
-    "aya": "105",
-    "arabic_text": "وَلَقَدۡ كَتَبۡنَا فِي ٱلزَّبُورِ مِنۢ بَعۡدِ ٱلذِّكۡرِ أَنَّ ٱلۡأَرۡضَ يَرِثُهَا عِبَادِيَ ٱلصَّٰلِحُونَ",
-    "translation": "105. Waxaanu ku qornay Zabuurka30 kaddib (markaan horay ugu) xusnay Kitaabka31 in arlada (Jannada) ay dhaxli addoomahyaga wanaagsan.",
-    "footnotes": "30. Zabuur waa kitaabkii loo waxyooday Nabi Daawuud c.s.Waxaa sidoo kale la yidhi waxaa loola jeedaa Kutubta Alle oo dhan. \n31. Waa Towraadda, waxaa sidoo kale lagu fasiray Looxa Maxfuudka."
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 331,
+  "verse_key": "21:105",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ كَتَبۡنَا فِي ٱلزَّبُورِ مِنۢ بَعۡدِ ٱلذِّكۡرِ أَنَّ ٱلۡأَرۡضَ يَرِثُهَا عِبَادِيَ ٱلصَّٰلِحُونَ",
+  "translation": "105. Waxaanu ku qornay Zabuurka30 kaddib (markaan horay ugu) xusnay Kitaabka31 in arlada (Jannada) ay dhaxli addoomahyaga wanaagsan.",
+  "footnotes": "30. Zabuur waa kitaabkii loo waxyooday Nabi Daawuud c.s.Waxaa sidoo kale la yidhi waxaa loola jeedaa Kutubta Alle oo dhan. \n31. Waa Towraadda, waxaa sidoo kale lagu fasiray Looxa Maxfuudka."
 }

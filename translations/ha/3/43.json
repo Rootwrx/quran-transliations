@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "336",
-    "sura": "3",
-    "aya": "43",
-    "arabic_text": "يَٰمَرۡيَمُ ٱقۡنُتِي لِرَبِّكِ وَٱسۡجُدِي وَٱرۡكَعِي مَعَ ٱلرَّٰكِعِينَ",
-    "translation": "\"Yã Maryamu! Ki yi ƙanƙan da kai ga Ubangijinki, kuma ki yi sujada, kuma ki yi rukũ'i tãre* da mãsu rukũ'i.\"",
-    "footnotes": "* Wannan ya nũna muhimmancin salla tãre da jama'a a masallaci, kõ da ga mãta. Sai dai hãli ya nũna an fi son mace ta yi salla a ɗakinta."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 55,
+  "verse_key": "3:43",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰمَرۡيَمُ ٱقۡنُتِي لِرَبِّكِ وَٱسۡجُدِي وَٱرۡكَعِي مَعَ ٱلرَّٰكِعِينَ",
+  "translation": "\"Yã Maryamu! Ki yi ƙanƙan da kai ga Ubangijinki, kuma ki yi sujada, kuma ki yi rukũ'i tãre* da mãsu rukũ'i.\"",
+  "footnotes": "* Wannan ya nũna muhimmancin salla tãre da jama'a a masallaci, kõ da ga mãta. Sai dai hãli ya nũna an fi son mace ta yi salla a ɗakinta."
 }

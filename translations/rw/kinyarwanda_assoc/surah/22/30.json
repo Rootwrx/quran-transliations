@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2625",
-    "sura": "22",
-    "aya": "30",
-    "arabic_text": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرٞ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ",
-    "translation": "Ibyo (mwategetswe bigomba kubahirizwa) kandi uzubaha ibyo Allah yagize bitagatifu, bizaba ari byiza kuri we imbere ya Nyagasani we. Mwanaziruriwe (kurya) amatungo, usibye ayo mwagaragarijwe (ko yaziririjwe). Bityo, nimwirinde (kugaragira) ibigirwamana (kuko ari) umwanda, munirinde amagambo y’ibinyoma,",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 335,
+  "verse_key": "22:30",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرٞ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ",
+  "translation": "Ibyo (mwategetswe bigomba kubahirizwa) kandi uzubaha ibyo Allah yagize bitagatifu, bizaba ari byiza kuri we imbere ya Nyagasani we. Mwanaziruriwe (kurya) amatungo, usibye ayo mwagaragarijwe (ko yaziririjwe). Bityo, nimwirinde (kugaragira) ibigirwamana (kuko ari) umwanda, munirinde amagambo y’ibinyoma,",
+  "footnotes": ""
 }

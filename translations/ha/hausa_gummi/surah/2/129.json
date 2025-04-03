@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "136",
-    "sura": "2",
-    "aya": "129",
-    "arabic_text": "رَبَّنَا وَٱبۡعَثۡ فِيهِمۡ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِكَ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُزَكِّيهِمۡۖ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "\"Ya Ubangijinmu! Ka aiko, a cikinsu, wani manzo* daga gare su, yana karanta musu ãyõyinKa, kuma yana karantar da su Littãfin** da hikimar, kuma yana tsarkake su. Lalle ne Kai, Kai ne Mabuwãyi Mai hikima.\"",
-    "footnotes": "* Addu'ar an karɓa, ta aiko Muhammadu, tsira da amincin Allah su tabbata a gare shi. ** Littãfin-ya bayyana cewa Alƙur'ãni ne, dõmin bãbu wani sai shi. Hikima kuwa ita ce shari'ar da ke a cikinsa. Zai tsarkake su daga dauɗar shirka idan sun bĩ shi."
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 20,
+  "verse_key": "2:129",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبَّنَا وَٱبۡعَثۡ فِيهِمۡ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِكَ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُزَكِّيهِمۡۖ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "\"Ya Ubangijinmu! Ka aiko, a cikinsu, wani manzo* daga gare su, yana karanta musu ãyõyinKa, kuma yana karantar da su Littãfin** da hikimar, kuma yana tsarkake su. Lalle ne Kai, Kai ne Mabuwãyi Mai hikima.\"",
+  "footnotes": "* Addu'ar an karɓa, ta aiko Muhammadu, tsira da amincin Allah su tabbata a gare shi. ** Littãfin-ya bayyana cewa Alƙur'ãni ne, dõmin bãbu wani sai shi. Hikima kuwa ita ce shari'ar da ke a cikinsa. Zai tsarkake su daga dauɗar shirka idan sun bĩ shi."
 }

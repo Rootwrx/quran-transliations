@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6004",
-    "sura": "89",
-    "aya": "11",
-    "arabic_text": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ",
-    "translation": "ئەوانەی کە یاخی بوون لە وڵاتدا\n",
-    "footnotes": null
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 593,
+  "verse_key": "89:11",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ طَغَوۡاْ فِي ٱلۡبِلَٰدِ",
+  "translation": "ئەوانەی کە یاخی بوون لە وڵاتدا\n",
+  "footnotes": null
 }

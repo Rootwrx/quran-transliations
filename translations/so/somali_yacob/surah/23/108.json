@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2781",
-    "sura": "23",
-    "aya": "108",
-    "arabic_text": "قَالَ ٱخۡسَـُٔواْ فِيهَا وَلَا تُكَلِّمُونِ",
-    "translation": "108. (Alle) Wuxuu odhan: Ku dullooba dhexdeeda (Naarta), hana ila hadlina.",
-    "footnotes": ""
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 349,
+  "verse_key": "23:108",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ ٱخۡسَـُٔواْ فِيهَا وَلَا تُكَلِّمُونِ",
+  "translation": "108. (Alle) Wuxuu odhan: Ku dullooba dhexdeeda (Naarta), hana ila hadlina.",
+  "footnotes": ""
 }

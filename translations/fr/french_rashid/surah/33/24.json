@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3557",
-    "sura": "33",
-    "aya": "24",
-    "arabic_text": "لِّيَجۡزِيَ ٱللَّهُ ٱلصَّٰدِقِينَ بِصِدۡقِهِمۡ وَيُعَذِّبَ ٱلۡمُنَٰفِقِينَ إِن شَآءَ أَوۡ يَتُوبَ عَلَيۡهِمۡۚ إِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
-    "translation": "24 Allah récompensera donc ceux qui ont été fidèles à leur engagement et châtiera, s’Il le veut, les hypocrites ou les guidera vers le repentir. Allah, en vérité, est Très Clément et Très Miséricordieux.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 421,
+  "verse_key": "33:24",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 168,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّيَجۡزِيَ ٱللَّهُ ٱلصَّٰدِقِينَ بِصِدۡقِهِمۡ وَيُعَذِّبَ ٱلۡمُنَٰفِقِينَ إِن شَآءَ أَوۡ يَتُوبَ عَلَيۡهِمۡۚ إِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
+  "translation": "24 Allah récompensera donc ceux qui ont été fidèles à leur engagement et châtiera, s’Il le veut, les hypocrites ou les guidera vers le repentir. Allah, en vérité, est Très Clément et Très Miséricordieux.",
+  "footnotes": ""
 }

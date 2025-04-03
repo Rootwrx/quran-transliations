@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5908",
-    "sura": "84",
-    "aya": "24",
-    "arabic_text": "فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٍ",
-    "translation": "ئۇلارغا قاتتىق ئازاب بىلەن خۇشخەۋەر بەرگىن[24].",
-    "footnotes": null
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 589,
+  "verse_key": "84:24",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٍ",
+  "translation": "ئۇلارغا قاتتىق ئازاب بىلەن خۇشخەۋەر بەرگىن[24].",
+  "footnotes": null
 }

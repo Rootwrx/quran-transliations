@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4251",
-    "sura": "41",
-    "aya": "33",
-    "arabic_text": "وَمَنۡ أَحۡسَنُ قَوۡلٗا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَٰلِحٗا وَقَالَ إِنَّنِي مِنَ ٱلۡمُسۡلِمِينَ",
-    "translation": "33. Y ¡¿quién hace mejor uso de la palabra que quien invita al camino de su Señor, obra rectamente y dice: “Yo soy de quienes se someten a Al-lah”?!",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 480,
+  "verse_key": "41:33",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَنۡ أَحۡسَنُ قَوۡلٗا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَٰلِحٗا وَقَالَ إِنَّنِي مِنَ ٱلۡمُسۡلِمِينَ",
+  "translation": "33. Y ¡¿quién hace mejor uso de la palabra que quien invita al camino de su Señor, obra rectamente y dice: “Yo soy de quienes se someten a Al-lah”?!",
+  "footnotes": ""
 }

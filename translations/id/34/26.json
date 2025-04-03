@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3632",
-    "sura": "34",
-    "aya": "26",
-    "arabic_text": "قُلۡ يَجۡمَعُ بَيۡنَنَا رَبُّنَا ثُمَّ يَفۡتَحُ بَيۡنَنَا بِٱلۡحَقِّ وَهُوَ ٱلۡفَتَّاحُ ٱلۡعَلِيمُ",
-    "translation": "Katakanlah, \"Tuhan kita akan mengumpulkan kita semua, kemudian Dia memberi keputusan antara kita dengan benar. Dan Dia Yang Maha Pemberi keputusan, Maha Mengetahui.\"",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 431,
+  "verse_key": "34:26",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَجۡمَعُ بَيۡنَنَا رَبُّنَا ثُمَّ يَفۡتَحُ بَيۡنَنَا بِٱلۡحَقِّ وَهُوَ ٱلۡفَتَّاحُ ٱلۡعَلِيمُ",
+  "translation": "Katakanlah, \"Tuhan kita akan mengumpulkan kita semua, kemudian Dia memberi keputusan antara kita dengan benar. Dan Dia Yang Maha Pemberi keputusan, Maha Mengetahui.\"",
+  "footnotes": ""
 }

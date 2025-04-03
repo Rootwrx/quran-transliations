@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4331",
-    "sura": "43",
-    "aya": "6",
-    "arabic_text": "وَكَمۡ أَرۡسَلۡنَا مِن نَّبِيّٖ فِي ٱلۡأَوَّلِينَ",
-    "translation": "ನಾವು ಪೂರ್ವಿಕ ಸಮುದಾಯಗಳಲ್ಲಿ ಎಷ್ಟೋ ಪ್ರವಾದಿಗಳನ್ನು ಕಳುಹಿಸಿದ್ದೇವೆ.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 489,
+  "verse_key": "43:6",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَمۡ أَرۡسَلۡنَا مِن نَّبِيّٖ فِي ٱلۡأَوَّلِينَ",
+  "translation": "ನಾವು ಪೂರ್ವಿಕ ಸಮುದಾಯಗಳಲ್ಲಿ ಎಷ್ಟೋ ಪ್ರವಾದಿಗಳನ್ನು ಕಳುಹಿಸಿದ್ದೇವೆ.",
+  "footnotes": ""
 }

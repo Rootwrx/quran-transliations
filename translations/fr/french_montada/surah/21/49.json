@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2532",
-    "sura": "21",
-    "aya": "49",
-    "arabic_text": "ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشۡفِقُونَ",
-    "translation": "49. qui craignent leur Seigneur sans Le voir (et sans ostentation)[327] et qui s’angoissent au souvenir de l’Heure.",
-    "footnotes": "[327] Les deux interprétations se rejoignent. Le fait de craindre Allah sans Le voir ne fait qu’accentuer le mérite du croyant. Idem de celui qui Le craint dans le secret du cœur, sans ostentation ni parade. Encore que la croyance, la vraie, ait lieu, en principe, en dehors de toute vision, avec ou sans ostentation."
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 326,
+  "verse_key": "21:49",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشۡفِقُونَ",
+  "translation": "49. qui craignent leur Seigneur sans Le voir (et sans ostentation)[327] et qui s’angoissent au souvenir de l’Heure.",
+  "footnotes": "[327] Les deux interprétations se rejoignent. Le fait de craindre Allah sans Le voir ne fait qu’accentuer le mérite du croyant. Idem de celui qui Le craint dans le secret du cœur, sans ostentation ni parade. Encore que la croyance, la vraie, ait lieu, en principe, en dehors de toute vision, avec ou sans ostentation."
 }

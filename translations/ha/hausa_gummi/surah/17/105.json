@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2134",
-    "sura": "17",
-    "aya": "105",
-    "arabic_text": "وَبِٱلۡحَقِّ أَنزَلۡنَٰهُ وَبِٱلۡحَقِّ نَزَلَۗ وَمَآ أَرۡسَلۡنَٰكَ إِلَّا مُبَشِّرٗا وَنَذِيرٗا",
-    "translation": "Kuma da gaskiya Muka saukar da shi, kuma da gaskiya ya sauka. Kuma ba Mu aike ka ba fãce kanã mai bãyar da bushãra kuma mai gargaɗi.",
-    "footnotes": ""
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 293,
+  "verse_key": "17:105",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبِٱلۡحَقِّ أَنزَلۡنَٰهُ وَبِٱلۡحَقِّ نَزَلَۗ وَمَآ أَرۡسَلۡنَٰكَ إِلَّا مُبَشِّرٗا وَنَذِيرٗا",
+  "translation": "Kuma da gaskiya Muka saukar da shi, kuma da gaskiya ya sauka. Kuma ba Mu aike ka ba fãce kanã mai bãyar da bushãra kuma mai gargaɗi.",
+  "footnotes": ""
 }

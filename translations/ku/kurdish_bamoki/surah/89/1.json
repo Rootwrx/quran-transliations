@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5994",
-    "sura": "89",
-    "aya": "1",
-    "arabic_text": "وَٱلۡفَجۡرِ",
-    "translation": "سوێند بە بەرەبەیان\n",
-    "footnotes": null
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 593,
+  "verse_key": "89:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡفَجۡرِ",
+  "translation": "سوێند بە بەرەبەیان\n",
+  "footnotes": null
 }

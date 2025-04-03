@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5945",
-    "sura": "86",
-    "aya": "14",
-    "arabic_text": "وَمَا هُوَ بِٱلۡهَزۡلِ",
-    "translation": "dhe nuk është aspak shaka!",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 591,
+  "verse_key": "86:14",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا هُوَ بِٱلۡهَزۡلِ",
+  "translation": "dhe nuk është aspak shaka!",
+  "footnotes": ""
 }

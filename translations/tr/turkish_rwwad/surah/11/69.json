@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1542",
-    "sura": "11",
-    "aya": "69",
-    "arabic_text": "وَلَقَدۡ جَآءَتۡ رُسُلُنَآ إِبۡرَٰهِيمَ بِٱلۡبُشۡرَىٰ قَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞۖ فَمَا لَبِثَ أَن جَآءَ بِعِجۡلٍ حَنِيذٖ",
-    "translation": "Andolsun, elçilerimiz (melekler), İbrahim’e müjde getirip; “Selâm sana!” dediler. O, “Size de selâm” dedi ve kızartılmış bir buzağı getirmekte gecikmedi.",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 229,
+  "verse_key": "11:69",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ جَآءَتۡ رُسُلُنَآ إِبۡرَٰهِيمَ بِٱلۡبُشۡرَىٰ قَالُواْ سَلَٰمٗاۖ قَالَ سَلَٰمٞۖ فَمَا لَبِثَ أَن جَآءَ بِعِجۡلٍ حَنِيذٖ",
+  "translation": "Andolsun, elçilerimiz (melekler), İbrahim’e müjde getirip; “Selâm sana!” dediler. O, “Size de selâm” dedi ve kızartılmış bir buzağı getirmekte gecikmedi.",
+  "footnotes": ""
 }

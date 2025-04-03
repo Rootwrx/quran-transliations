@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3942",
-    "sura": "37",
-    "aya": "154",
-    "arabic_text": "مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ",
-    "translation": "Kí l’ó ń ṣe yín tí ẹ fi ń dájọ́ báyìí?",
-    "footnotes": ""
-  }
+  "id": 154,
+  "verse_number": 154,
+  "page_number": 452,
+  "verse_key": "37:154",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ",
+  "translation": "Kí l’ó ń ṣe yín tí ẹ fi ń dájọ́ báyìí?",
+  "footnotes": ""
 }

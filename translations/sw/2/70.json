@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "77",
-    "sura": "2",
-    "aya": "70",
-    "arabic_text": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ إِنَّ ٱلۡبَقَرَ تَشَٰبَهَ عَلَيۡنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهۡتَدُونَ",
-    "translation": "Wakasema: Tuombee kwa Mola wako Mlezi atupambanulie ni yupi? Hakika tunaona ng'ombe wamefanana. Na kwa yakini, Inshaallah, Mwenyezi Mungu akipenda, tutaongoka.",
-    "footnotes": "Tena wakashikilia kuuliza kwao, wakasema: Tuombee kwa Mola wako Mlezi atupambanulie khasa huyo ni yupi? Kwani ng'ombe wanatudanganyikia sisi, hatujui. Na Inshallah, Mwenyezi Mungu akipenda, sisi tutaongokewa tumjue."
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 11,
+  "verse_key": "2:70",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا هِيَ إِنَّ ٱلۡبَقَرَ تَشَٰبَهَ عَلَيۡنَا وَإِنَّآ إِن شَآءَ ٱللَّهُ لَمُهۡتَدُونَ",
+  "translation": "Wakasema: Tuombee kwa Mola wako Mlezi atupambanulie ni yupi? Hakika tunaona ng'ombe wamefanana. Na kwa yakini, Inshaallah, Mwenyezi Mungu akipenda, tutaongoka.",
+  "footnotes": "Tena wakashikilia kuuliza kwao, wakasema: Tuombee kwa Mola wako Mlezi atupambanulie khasa huyo ni yupi? Kwani ng'ombe wanatudanganyikia sisi, hatujui. Na Inshallah, Mwenyezi Mungu akipenda, sisi tutaongokewa tumjue."
 }

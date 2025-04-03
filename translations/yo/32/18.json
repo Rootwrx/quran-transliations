@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3521",
-    "sura": "32",
-    "aya": "18",
-    "arabic_text": "أَفَمَن كَانَ مُؤۡمِنٗا كَمَن كَانَ فَاسِقٗاۚ لَّا يَسۡتَوُۥنَ",
-    "translation": "Ǹjẹ́ ẹni tó jẹ́ onígbàgbọ́ òdodo dà bí ẹni tó jẹ́ òbìlẹ̀jẹ́ bí? Wọn kò dọ́gba.",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 416,
+  "verse_key": "32:18",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَمَن كَانَ مُؤۡمِنٗا كَمَن كَانَ فَاسِقٗاۚ لَّا يَسۡتَوُۥنَ",
+  "translation": "Ǹjẹ́ ẹni tó jẹ́ onígbàgbọ́ òdodo dà bí ẹni tó jẹ́ òbìlẹ̀jẹ́ bí? Wọn kò dọ́gba.",
+  "footnotes": ""
 }

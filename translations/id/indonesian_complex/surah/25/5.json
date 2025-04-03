@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2860",
-    "sura": "25",
-    "aya": "5",
-    "arabic_text": "وَقَالُوٓاْ أَسَٰطِيرُ ٱلۡأَوَّلِينَ ٱكۡتَتَبَهَا فَهِيَ تُمۡلَىٰ عَلَيۡهِ بُكۡرَةٗ وَأَصِيلٗا",
-    "translation": "Dan mereka berkata, \"Dongengan-dongengan orang-orang dahulu, dimintanya supaya dituliskan, maka dibacakanlah dongengan itu kepadanya setiap pagi dan petang.\"",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 360,
+  "verse_key": "25:5",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُوٓاْ أَسَٰطِيرُ ٱلۡأَوَّلِينَ ٱكۡتَتَبَهَا فَهِيَ تُمۡلَىٰ عَلَيۡهِ بُكۡرَةٗ وَأَصِيلٗا",
+  "translation": "Dan mereka berkata, \"Dongengan-dongengan orang-orang dahulu, dimintanya supaya dituliskan, maka dibacakanlah dongengan itu kepadanya setiap pagi dan petang.\"",
+  "footnotes": ""
 }

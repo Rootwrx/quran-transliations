@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4114",
-    "sura": "39",
-    "aya": "56",
-    "arabic_text": "أَن تَقُولَ نَفۡسٞ يَٰحَسۡرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِي جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّٰخِرِينَ",
-    "translation": "agar jangan ada orang yang mengatakan, \"Alangkah besar penyesalanku atas kelalaianku dalam (menunaikan kewajiban) terhadap Allah, dan sesungguhnya aku termasuk orang-orang yang memperolok-olokkan (agama Allah)\",",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 464,
+  "verse_key": "39:56",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَن تَقُولَ نَفۡسٞ يَٰحَسۡرَتَىٰ عَلَىٰ مَا فَرَّطتُ فِي جَنۢبِ ٱللَّهِ وَإِن كُنتُ لَمِنَ ٱلسَّٰخِرِينَ",
+  "translation": "agar jangan ada orang yang mengatakan, \"Alangkah besar penyesalanku atas kelalaianku dalam (menunaikan kewajiban) terhadap Allah, dan sesungguhnya aku termasuk orang-orang yang memperolok-olokkan (agama Allah)\",",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5866",
-    "sura": "83",
-    "aya": "18",
-    "arabic_text": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ",
-    "translation": "በእውነቱ የእውነተኞቹ ምእምናን መጽሐፍ በዒሊዮን ውስጥ ነው፡፡",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 588,
+  "verse_key": "83:18",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ",
+  "translation": "በእውነቱ የእውነተኞቹ ምእምናን መጽሐፍ በዒሊዮን ውስጥ ነው፡፡",
+  "footnotes": ""
 }

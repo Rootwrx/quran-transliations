@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5458",
-    "sura": "72",
-    "aya": "11",
-    "arabic_text": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَۖ كُنَّا طَرَآئِقَ قِدَدٗا",
-    "translation": "(11) And among us are the righteous, and among us are [others] not so; we were [of] divided ways.[1768]",
-    "footnotes": "[1768]- In opinion, belief and religious practice."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 572,
+  "verse_key": "72:11",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَۖ كُنَّا طَرَآئِقَ قِدَدٗا",
+  "translation": "(11) And among us are the righteous, and among us are [others] not so; we were [of] divided ways.[1768]",
+  "footnotes": "[1768]- In opinion, belief and religious practice."
 }

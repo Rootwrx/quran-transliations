@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1218",
-    "sura": "8",
-    "aya": "58",
-    "arabic_text": "وَإِمَّا تَخَافَنَّ مِن قَوۡمٍ خِيَانَةٗ فَٱنۢبِذۡ إِلَيۡهِمۡ عَلَىٰ سَوَآءٍۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡخَآئِنِينَ",
-    "translation": "(Nkͻmhyεni), sε wonya suro wͻ amanfoͻ bi ho sε wͻbɛdi wo hwammͻ a, to (wͻn apam no) san ma wͻn (wͻ nhyehyεε) pa so, efirisε Nyankopͻn mpε wͻn a wͻdi hwammͻ no asεm.",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 184,
+  "verse_key": "8:58",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِمَّا تَخَافَنَّ مِن قَوۡمٍ خِيَانَةٗ فَٱنۢبِذۡ إِلَيۡهِمۡ عَلَىٰ سَوَآءٍۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡخَآئِنِينَ",
+  "translation": "(Nkͻmhyεni), sε wonya suro wͻ amanfoͻ bi ho sε wͻbɛdi wo hwammͻ a, to (wͻn apam no) san ma wͻn (wͻ nhyehyεε) pa so, efirisε Nyankopͻn mpε wͻn a wͻdi hwammͻ no asεm.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "629",
-    "sura": "4",
-    "aya": "136",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ ءَامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِي نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِيٓ أَنزَلَ مِن قَبۡلُۚ وَمَن يَكۡفُرۡ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ فَقَدۡ ضَلَّ ضَلَٰلَۢا بَعِيدًا",
-    "translation": "Yã kũ waɗanda suka yi ĩmãni! Ku yi ĩmãni* da Allah da Manzonsa, da Littãfin da Ya sassaukar ga ManzonSa da Littãfin nan wanda Ya saukar daga gabãni. To, wanda ya kãfirta da Allah da malã'ikunSa, da LittattafanSa, da ManzanninSa, da Rãnar Lãhira, to, lalle ne yã ɓace, ɓata mai nĩsa.",
-    "footnotes": "* ĩmãni da dukan rukunnan ĩmãni shida yana cikin tsaron amãna. Rukunnan ĩmãni su ne, ĩmãni da Allah da ManzanninSa, da malã'iku da LittattafanSa da Rãnar Lãhira da Ƙaddara."
-  }
+  "id": 136,
+  "verse_number": 136,
+  "page_number": 100,
+  "verse_key": "4:136",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 40,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ ءَامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِي نَزَّلَ عَلَىٰ رَسُولِهِۦ وَٱلۡكِتَٰبِ ٱلَّذِيٓ أَنزَلَ مِن قَبۡلُۚ وَمَن يَكۡفُرۡ بِٱللَّهِ وَمَلَٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ فَقَدۡ ضَلَّ ضَلَٰلَۢا بَعِيدًا",
+  "translation": "Yã kũ waɗanda suka yi ĩmãni! Ku yi ĩmãni* da Allah da Manzonsa, da Littãfin da Ya sassaukar ga ManzonSa da Littãfin nan wanda Ya saukar daga gabãni. To, wanda ya kãfirta da Allah da malã'ikunSa, da LittattafanSa, da ManzanninSa, da Rãnar Lãhira, to, lalle ne yã ɓace, ɓata mai nĩsa.",
+  "footnotes": "* ĩmãni da dukan rukunnan ĩmãni shida yana cikin tsaron amãna. Rukunnan ĩmãni su ne, ĩmãni da Allah da ManzanninSa, da malã'iku da LittattafanSa da Rãnar Lãhira da Ƙaddara."
 }

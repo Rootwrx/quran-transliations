@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "185",
-    "sura": "2",
-    "aya": "178",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُتِبَ عَلَيۡكُمُ ٱلۡقِصَاصُ فِي ٱلۡقَتۡلَىۖ ٱلۡحُرُّ بِٱلۡحُرِّ وَٱلۡعَبۡدُ بِٱلۡعَبۡدِ وَٱلۡأُنثَىٰ بِٱلۡأُنثَىٰۚ فَمَنۡ عُفِيَ لَهُۥ مِنۡ أَخِيهِ شَيۡءٞ فَٱتِّبَاعُۢ بِٱلۡمَعۡرُوفِ وَأَدَآءٌ إِلَيۡهِ بِإِحۡسَٰنٖۗ ذَٰلِكَ تَخۡفِيفٞ مِّن رَّبِّكُمۡ وَرَحۡمَةٞۗ فَمَنِ ٱعۡتَدَىٰ بَعۡدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٞ",
-    "translation": "178 Vous qui croyez ! La loi du talion vous est prescrite en cas de meurtre. Homme libre pour homme libre, esclave pour esclave, femme pour femme. Si toutefois le meurtrier obtient le pardon de son frère[89], qu’une compensation lui soit réclamée selon les usages et qu’il s’en acquitte de bonne grâce. C’est là un effet de la miséricorde de votre Seigneur qui vous offre ainsi un allégement. Quiconque, cependant, transgressera la loi après cela[90] subira un douloureux châtiment.",
-    "footnotes": "[89] C’est-à-dire, la victime, avant de succomber à ses blessures, ou ses agnats qui pardonnent au meurtrier en renonçant à son exécution, se contentant du versement du prix du sang.\n[90] Après avoir accepté le prix du sang, en tuant le meurtrier, expliquent nombre d’exégètes."
-  }
+  "id": 178,
+  "verse_number": 178,
+  "page_number": 27,
+  "verse_key": "2:178",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 11,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ كُتِبَ عَلَيۡكُمُ ٱلۡقِصَاصُ فِي ٱلۡقَتۡلَىۖ ٱلۡحُرُّ بِٱلۡحُرِّ وَٱلۡعَبۡدُ بِٱلۡعَبۡدِ وَٱلۡأُنثَىٰ بِٱلۡأُنثَىٰۚ فَمَنۡ عُفِيَ لَهُۥ مِنۡ أَخِيهِ شَيۡءٞ فَٱتِّبَاعُۢ بِٱلۡمَعۡرُوفِ وَأَدَآءٌ إِلَيۡهِ بِإِحۡسَٰنٖۗ ذَٰلِكَ تَخۡفِيفٞ مِّن رَّبِّكُمۡ وَرَحۡمَةٞۗ فَمَنِ ٱعۡتَدَىٰ بَعۡدَ ذَٰلِكَ فَلَهُۥ عَذَابٌ أَلِيمٞ",
+  "translation": "178 Vous qui croyez ! La loi du talion vous est prescrite en cas de meurtre. Homme libre pour homme libre, esclave pour esclave, femme pour femme. Si toutefois le meurtrier obtient le pardon de son frère[89], qu’une compensation lui soit réclamée selon les usages et qu’il s’en acquitte de bonne grâce. C’est là un effet de la miséricorde de votre Seigneur qui vous offre ainsi un allégement. Quiconque, cependant, transgressera la loi après cela[90] subira un douloureux châtiment.",
+  "footnotes": "[89] C’est-à-dire, la victime, avant de succomber à ses blessures, ou ses agnats qui pardonnent au meurtrier en renonçant à son exécution, se contentant du versement du prix du sang.\n[90] Après avoir accepté le prix du sang, en tuant le meurtrier, expliquent nombre d’exégètes."
 }

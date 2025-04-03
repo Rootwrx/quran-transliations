@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1525",
-    "sura": "11",
-    "aya": "52",
-    "arabic_text": "وَيَٰقَوۡمِ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ ثُمَّ تُوبُوٓاْ إِلَيۡهِ يُرۡسِلِ ٱلسَّمَآءَ عَلَيۡكُم مِّدۡرَارٗا وَيَزِدۡكُمۡ قُوَّةً إِلَىٰ قُوَّتِكُمۡ وَلَا تَتَوَلَّوۡاْ مُجۡرِمِينَ",
-    "translation": "Ẹ̀yin ìjọ mi, ẹ tọrọ àforíjìn lọ́dọ̀ Olùwa Ẹlẹ́dàá yín, lẹ́yìn náà, kí ẹ ronú pìwàdà sọ́dọ̀ Rẹ̀ nítorí kí Ó lè rọ̀jò fún yín ní púpọ̀ láti sánmọ̀ àti nítorí kí Ó lè ṣe àlékún agbára kún agbára yín. Ẹ má ṣe pẹ̀yìn dà láti di ẹlẹ́ṣẹ̀ (sínú àìgbàgbọ́).”",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 227,
+  "verse_key": "11:52",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَٰقَوۡمِ ٱسۡتَغۡفِرُواْ رَبَّكُمۡ ثُمَّ تُوبُوٓاْ إِلَيۡهِ يُرۡسِلِ ٱلسَّمَآءَ عَلَيۡكُم مِّدۡرَارٗا وَيَزِدۡكُمۡ قُوَّةً إِلَىٰ قُوَّتِكُمۡ وَلَا تَتَوَلَّوۡاْ مُجۡرِمِينَ",
+  "translation": "Ẹ̀yin ìjọ mi, ẹ tọrọ àforíjìn lọ́dọ̀ Olùwa Ẹlẹ́dàá yín, lẹ́yìn náà, kí ẹ ronú pìwàdà sọ́dọ̀ Rẹ̀ nítorí kí Ó lè rọ̀jò fún yín ní púpọ̀ láti sánmọ̀ àti nítorí kí Ó lè ṣe àlékún agbára kún agbára yín. Ẹ má ṣe pẹ̀yìn dà láti di ẹlẹ́ṣẹ̀ (sínú àìgbàgbọ́).”",
+  "footnotes": ""
 }

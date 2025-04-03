@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2508",
-    "sura": "21",
-    "aya": "25",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولٍ إِلَّا نُوحِيٓ إِلَيۡهِ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدُونِ",
-    "translation": "(Yaa Muhammad!) Si dura ergamaa irraa tokkoyyuu “Ana malee dhugaan gabbaramaan hin jiru, Ana (qofa) gabbaraa” jechuun wahyii gara isaatti buufnu malee hin ergine.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 324,
+  "verse_key": "21:25",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ مِن رَّسُولٍ إِلَّا نُوحِيٓ إِلَيۡهِ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدُونِ",
+  "translation": "(Yaa Muhammad!) Si dura ergamaa irraa tokkoyyuu “Ana malee dhugaan gabbaramaan hin jiru, Ana (qofa) gabbaraa” jechuun wahyii gara isaatti buufnu malee hin ergine.",
+  "footnotes": ""
 }

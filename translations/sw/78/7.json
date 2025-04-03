@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5679",
-    "sura": "78",
-    "aya": "7",
-    "arabic_text": "وَٱلۡجِبَالَ أَوۡتَادٗا",
-    "translation": "kama Na milima vigingi?",
-    "footnotes": "Na tukaifanya milima ni vigingi vya ardhi vya kuituliza? Sehemu ya gamba gumu lilio juu ya ardhi linfikilia kiasi ya kilomita 60 unene wake, na inazidi mikunjo, mifimbi, inapanda juu kuwa milima, na huteremka chini kuwa ni vina vya bahari; na hiyo hulingana kwa sababu ya uzito unao patikana kutokana na milima. Na kulingana huko hakuharibiki ila kwa kubugunyika, kwani gamba kavu la ardhi linazuiliwa na milima, kama vigingi vinavyo zuilia khema. (Rejea Maoni ya Wataalamu juu ya Aya 7 ya Surat Qaf)."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 582,
+  "verse_key": "78:7",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡجِبَالَ أَوۡتَادٗا",
+  "translation": "kama Na milima vigingi?",
+  "footnotes": "Na tukaifanya milima ni vigingi vya ardhi vya kuituliza? Sehemu ya gamba gumu lilio juu ya ardhi linfikilia kiasi ya kilomita 60 unene wake, na inazidi mikunjo, mifimbi, inapanda juu kuwa milima, na huteremka chini kuwa ni vina vya bahari; na hiyo hulingana kwa sababu ya uzito unao patikana kutokana na milima. Na kulingana huko hakuharibiki ila kwa kubugunyika, kwani gamba kavu la ardhi linazuiliwa na milima, kama vigingi vinavyo zuilia khema. (Rejea Maoni ya Wataalamu juu ya Aya 7 ya Surat Qaf)."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2223",
-    "sura": "18",
-    "aya": "83",
-    "arabic_text": "وَيَسۡـَٔلُونَكَ عَن ذِي ٱلۡقَرۡنَيۡنِۖ قُلۡ سَأَتۡلُواْ عَلَيۡكُم مِّنۡهُ ذِكۡرًا",
-    "translation": "Và họ hỏi Ngươi (Muhammad) về Zdul-Qarnain[1]. Ngươi hãy bảo họ: “Ta sẽ đọc cho các người nghe về một phần câu chuyện của Người.”",
-    "footnotes": "[1] Zdul-Qarnain có nghĩa là người có hai chiếc sừng. Ông được cho là một vị vua công bằng và Qur’an cho biết rằng ông chuyên đi kêu gọi thiên hạ tôn thờ Allah và thực thi theo luật lệ của Ngài. Có một số Tafsir cho rằng Zdul-Qarnain là một vị Nabi. Tuy nhiên, theo lời giảng giải đúng nhất, Zdul-Qarnain chỉ là một vị vua và một nhà kêu gọi đến với tôn giáo của Allah."
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 302,
+  "verse_key": "18:83",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَسۡـَٔلُونَكَ عَن ذِي ٱلۡقَرۡنَيۡنِۖ قُلۡ سَأَتۡلُواْ عَلَيۡكُم مِّنۡهُ ذِكۡرًا",
+  "translation": "Và họ hỏi Ngươi (Muhammad) về Zdul-Qarnain[1]. Ngươi hãy bảo họ: “Ta sẽ đọc cho các người nghe về một phần câu chuyện của Người.”",
+  "footnotes": "[1] Zdul-Qarnain có nghĩa là người có hai chiếc sừng. Ông được cho là một vị vua công bằng và Qur’an cho biết rằng ông chuyên đi kêu gọi thiên hạ tôn thờ Allah và thực thi theo luật lệ của Ngài. Có một số Tafsir cho rằng Zdul-Qarnain là một vị Nabi. Tuy nhiên, theo lời giảng giải đúng nhất, Zdul-Qarnain chỉ là một vị vua và một nhà kêu gọi đến với tôn giáo của Allah."
 }

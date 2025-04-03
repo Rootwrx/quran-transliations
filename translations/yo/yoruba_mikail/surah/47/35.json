@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4580",
-    "sura": "47",
-    "aya": "35",
-    "arabic_text": "فَلَا تَهِنُواْ وَتَدۡعُوٓاْ إِلَى ٱلسَّلۡمِ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ وَٱللَّهُ مَعَكُمۡ وَلَن يَتِرَكُمۡ أَعۡمَٰلَكُمۡ",
-    "translation": "Ẹ má ṣe káàárẹ̀, kí ẹ sì má ṣe pèpè fún kòsógunmọ́, nígbà tí ẹ bá ń lékè lọ́wọ́. Allāhu wà pẹ̀lú yín; kò sì níí kó àdínkù bá ẹ̀san àwọn iṣẹ́ yín.[1]",
-    "footnotes": "1. Lẹ́yìn tí ìtayọ ẹnu-ààlà ti wáyé láti ọ̀dọ̀ àwọn ọ̀ṣẹbọ àti àwọn ahlul-kitāb sí àwa mùsùlùmí, tí wọ́n ti fọwọ́ ara wọn fa ogun, tí Allāhu sì ti pa á láṣẹ fún àwa mùsùlùmí láti jàjà gbára fún ẹ̀sìn wa, ẹ̀mí wa àti dúkìá wa, ogun ẹ̀sìn kò níí kásẹ̀ nílẹ̀ mọ́ lórí ilẹ̀ ayé àfi nígbà tí Ànábì ‘Īsā ọmọ Mọryam - kí ọlà Allāhu máa bá a - bá sọ̀kalẹ̀ láti ojú sánmọ̀."
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 510,
+  "verse_key": "47:35",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا تَهِنُواْ وَتَدۡعُوٓاْ إِلَى ٱلسَّلۡمِ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ وَٱللَّهُ مَعَكُمۡ وَلَن يَتِرَكُمۡ أَعۡمَٰلَكُمۡ",
+  "translation": "Ẹ má ṣe káàárẹ̀, kí ẹ sì má ṣe pèpè fún kòsógunmọ́, nígbà tí ẹ bá ń lékè lọ́wọ́. Allāhu wà pẹ̀lú yín; kò sì níí kó àdínkù bá ẹ̀san àwọn iṣẹ́ yín.[1]",
+  "footnotes": "1. Lẹ́yìn tí ìtayọ ẹnu-ààlà ti wáyé láti ọ̀dọ̀ àwọn ọ̀ṣẹbọ àti àwọn ahlul-kitāb sí àwa mùsùlùmí, tí wọ́n ti fọwọ́ ara wọn fa ogun, tí Allāhu sì ti pa á láṣẹ fún àwa mùsùlùmí láti jàjà gbára fún ẹ̀sìn wa, ẹ̀mí wa àti dúkìá wa, ogun ẹ̀sìn kò níí kásẹ̀ nílẹ̀ mọ́ lórí ilẹ̀ ayé àfi nígbà tí Ànábì ‘Īsā ọmọ Mọryam - kí ọlà Allāhu máa bá a - bá sọ̀kalẹ̀ láti ojú sánmọ̀."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "10",
-    "sura": "2",
-    "aya": "3",
-    "arabic_text": "ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
-    "translation": "他们确信幽玄，谨守拜功，并分舍我所给与他们的。",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 2,
+  "verse_key": "2:3",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+  "translation": "他们确信幽玄，谨守拜功，并分舍我所给与他们的。",
+  "footnotes": ""
 }

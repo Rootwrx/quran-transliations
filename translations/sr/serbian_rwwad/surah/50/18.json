@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4648",
-    "sura": "50",
-    "aya": "18",
-    "arabic_text": "مَّا يَلۡفِظُ مِن قَوۡلٍ إِلَّا لَدَيۡهِ رَقِيبٌ عَتِيدٞ",
-    "translation": "Он не изусти ниједну реч, а да поред њега није онај који надзире.",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 519,
+  "verse_key": "50:18",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا يَلۡفِظُ مِن قَوۡلٍ إِلَّا لَدَيۡهِ رَقِيبٌ عَتِيدٞ",
+  "translation": "Он не изусти ниједну реч, а да поред њега није онај који надзире.",
+  "footnotes": ""
 }

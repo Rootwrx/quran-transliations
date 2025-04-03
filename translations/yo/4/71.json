@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "564",
-    "sura": "4",
-    "aya": "71",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ خُذُواْ حِذۡرَكُمۡ فَٱنفِرُواْ ثُبَاتٍ أَوِ ٱنفِرُواْ جَمِيعٗا",
-    "translation": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ẹ mú ohun ìṣọ́ra yín lọ́wọ́, kí ẹ sì tú jáde s’ójú ogun ẹ̀sìn níkọ̀níkọ̀ tàbí kí ẹ tú jáde ní àpapọ̀.[1]",
-    "footnotes": "1. Má ṣe gba ìtànjẹ nípa títúmọ̀ ìṣọ́ra sí lílo òògùn ẹbọ bíi àgbéró, òkígbẹ́, ìṣíjú, ayẹta, àfẹ́ẹ̀rí, asákì àti bẹ́ẹ̀ bẹ́ẹ̀ lọ. Èèwọ̀ ni gbogbo ìwọ̀nyẹn."
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 89,
+  "verse_key": "4:71",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ خُذُواْ حِذۡرَكُمۡ فَٱنفِرُواْ ثُبَاتٍ أَوِ ٱنفِرُواْ جَمِيعٗا",
+  "translation": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ẹ mú ohun ìṣọ́ra yín lọ́wọ́, kí ẹ sì tú jáde s’ójú ogun ẹ̀sìn níkọ̀níkọ̀ tàbí kí ẹ tú jáde ní àpapọ̀.[1]",
+  "footnotes": "1. Má ṣe gba ìtànjẹ nípa títúmọ̀ ìṣọ́ra sí lílo òògùn ẹbọ bíi àgbéró, òkígbẹ́, ìṣíjú, ayẹta, àfẹ́ẹ̀rí, asákì àti bẹ́ẹ̀ bẹ́ẹ̀ lọ. Èèwọ̀ ni gbogbo ìwọ̀nyẹn."
 }

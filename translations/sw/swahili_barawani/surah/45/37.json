@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4510",
-    "sura": "45",
-    "aya": "37",
-    "arabic_text": "وَلَهُ ٱلۡكِبۡرِيَآءُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "Na ukubwa ni wake Yeye tu, mbinguni na katika ardhi, naye ni Mwenye nguvu, Mwenye hikima.",
-    "footnotes": "Na ni wake Yeye, Subhanahu, utukufu na utawala katika mbingu na ardhi. Na Yeye ni Mwenye nguvu, asiye shindika, Mwenye hikima, asiye kosea katika hikima yake. Na Mwenyezi Mungu ndiye Mjuzi kuliko wote."
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 502,
+  "verse_key": "45:37",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَهُ ٱلۡكِبۡرِيَآءُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "Na ukubwa ni wake Yeye tu, mbinguni na katika ardhi, naye ni Mwenye nguvu, Mwenye hikima.",
+  "footnotes": "Na ni wake Yeye, Subhanahu, utukufu na utawala katika mbingu na ardhi. Na Yeye ni Mwenye nguvu, asiye shindika, Mwenye hikima, asiye kosea katika hikima yake. Na Mwenyezi Mungu ndiye Mjuzi kuliko wote."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "564",
-    "sura": "4",
-    "aya": "71",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ خُذُواْ حِذۡرَكُمۡ فَٱنفِرُواْ ثُبَاتٍ أَوِ ٱنفِرُواْ جَمِيعٗا",
-    "translation": "71. Kuwa (Xaqa) rumeeyow! Qaata digtoonidiinna, oo u baxa (dagaalka) idinkoo koox koox ah, ama baxa oo duula giddigiin idinkoo wada jira.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 89,
+  "verse_key": "4:71",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ خُذُواْ حِذۡرَكُمۡ فَٱنفِرُواْ ثُبَاتٍ أَوِ ٱنفِرُواْ جَمِيعٗا",
+  "translation": "71. Kuwa (Xaqa) rumeeyow! Qaata digtoonidiinna, oo u baxa (dagaalka) idinkoo koox koox ah, ama baxa oo duula giddigiin idinkoo wada jira.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1786",
-    "sura": "14",
-    "aya": "36",
-    "arabic_text": "رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ",
-    "translation": "Ewe Mola wangu Mlezi! Hakika hayo yamewapoteza watu wengi. Basi aliye nifuata mimi huyo ni wangu, na aliye niasi, hakika Wewe ni Mwenye kusamehe Mwenye kurehemu.",
-    "footnotes": "Kwani masanamu yamepelekea kupotea watu wengi kwa kuyaabudu. Basi katika dhuriya zangu, wenye kunifuata mimi na wakakuabudu Wewe kwa ikhlasi, basi hao ni watu wa Dini yangu. Na wenye kuniasi kwa kushika ushirikina, basi Wewe ni Muweza wa kuwaongoa, kwani Wewe ni Mwingi wa maghfira na rehema."
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 260,
+  "verse_key": "14:36",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ",
+  "translation": "Ewe Mola wangu Mlezi! Hakika hayo yamewapoteza watu wengi. Basi aliye nifuata mimi huyo ni wangu, na aliye niasi, hakika Wewe ni Mwenye kusamehe Mwenye kurehemu.",
+  "footnotes": "Kwani masanamu yamepelekea kupotea watu wengi kwa kuyaabudu. Basi katika dhuriya zangu, wenye kunifuata mimi na wakakuabudu Wewe kwa ikhlasi, basi hao ni watu wa Dini yangu. Na wenye kuniasi kwa kushika ushirikina, basi Wewe ni Muweza wa kuwaongoa, kwani Wewe ni Mwingi wa maghfira na rehema."
 }

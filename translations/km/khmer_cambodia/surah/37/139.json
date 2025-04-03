@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3927",
-    "sura": "37",
-    "aya": "139",
-    "arabic_text": "وَإِنَّ يُونُسَ لَمِنَ ٱلۡمُرۡسَلِينَ",
-    "translation": "ហើយពិតប្រាកដណាស់ យូនូសគឺជាអ្នកនាំសារម្នាក់ក្នុង ចំណោមអ្នកនាំសារទាំងឡាយ។",
-    "footnotes": ""
-  }
+  "id": 139,
+  "verse_number": 139,
+  "page_number": 451,
+  "verse_key": "37:139",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ يُونُسَ لَمِنَ ٱلۡمُرۡسَلِينَ",
+  "translation": "ហើយពិតប្រាកដណាស់ យូនូសគឺជាអ្នកនាំសារម្នាក់ក្នុង ចំណោមអ្នកនាំសារទាំងឡាយ។",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1572",
-    "sura": "11",
-    "aya": "99",
-    "arabic_text": "وَأُتۡبِعُواْ فِي هَٰذِهِۦ لَعۡنَةٗ وَيَوۡمَ ٱلۡقِيَٰمَةِۚ بِئۡسَ ٱلرِّفۡدُ ٱلۡمَرۡفُودُ",
-    "translation": "A fi ègún tẹ̀lé wọn nílé ayé yìí àti ní Ọjọ́ Àjíǹde. Ẹ̀bùn náà tí wọ́n fún wọn ní tẹ̀léǹtẹ̀lé (ègún àti Iná) sì burú.",
-    "footnotes": ""
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 233,
+  "verse_key": "11:99",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأُتۡبِعُواْ فِي هَٰذِهِۦ لَعۡنَةٗ وَيَوۡمَ ٱلۡقِيَٰمَةِۚ بِئۡسَ ٱلرِّفۡدُ ٱلۡمَرۡفُودُ",
+  "translation": "A fi ègún tẹ̀lé wọn nílé ayé yìí àti ní Ọjọ́ Àjíǹde. Ẹ̀bùn náà tí wọ́n fún wọn ní tẹ̀léǹtẹ̀lé (ègún àti Iná) sì burú.",
+  "footnotes": ""
 }

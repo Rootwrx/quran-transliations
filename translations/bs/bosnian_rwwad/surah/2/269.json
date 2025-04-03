@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "276",
-    "sura": "2",
-    "aya": "269",
-    "arabic_text": "يُؤۡتِي ٱلۡحِكۡمَةَ مَن يَشَآءُۚ وَمَن يُؤۡتَ ٱلۡحِكۡمَةَ فَقَدۡ أُوتِيَ خَيۡرٗا كَثِيرٗاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
-    "translation": "On daje mudrost kome hoće, a onome kome je mudrost data, darovano je veliko dobro! A samo razumom obdareni prisjećaju se i pouku prihvataju.",
-    "footnotes": ""
-  }
+  "id": 269,
+  "verse_number": 269,
+  "page_number": 45,
+  "verse_key": "2:269",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 18,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُؤۡتِي ٱلۡحِكۡمَةَ مَن يَشَآءُۚ وَمَن يُؤۡتَ ٱلۡحِكۡمَةَ فَقَدۡ أُوتِيَ خَيۡرٗا كَثِيرٗاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+  "translation": "On daje mudrost kome hoće, a onome kome je mudrost data, darovano je veliko dobro! A samo razumom obdareni prisjećaju se i pouku prihvataju.",
+  "footnotes": ""
 }

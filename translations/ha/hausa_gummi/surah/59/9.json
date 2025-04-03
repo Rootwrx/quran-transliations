@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5135",
-    "sura": "59",
-    "aya": "9",
-    "arabic_text": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلۡإِيمَٰنَ مِن قَبۡلِهِمۡ يُحِبُّونَ مَنۡ هَاجَرَ إِلَيۡهِمۡ وَلَا يَجِدُونَ فِي صُدُورِهِمۡ حَاجَةٗ مِّمَّآ أُوتُواْ وَيُؤۡثِرُونَ عَلَىٰٓ أَنفُسِهِمۡ وَلَوۡ كَانَ بِهِمۡ خَصَاصَةٞۚ وَمَن يُوقَ شُحَّ نَفۡسِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
-    "translation": "Da waɗanda suka zaunar da gidãjensu (ga Musulunci) kuma (suka zãɓi) ĩmãni, a gabãnin zuwansu,* sunã son wanda ya yi hijira zuwa gare su, kuma bã su tunãnin wata bukãta a cikin ƙirãzansu daga abin da aka bai wa muhãjirĩna, kuma sunã fĩfĩta waɗansu a kan kãwunansu, kuma ko dã sunã da wata larũra. Wanda ya sãɓã wa rõwar ransa, to, waɗannan sũ ne mãsu babban rabo.",
-    "footnotes": "* Muhãjirĩna sun yi hijira zuwa Madĩna daga Makka kõ waɗansu wurãre. Ansar, su ne mutãnen Madĩna. Waɗannan sũ ne ya kamãta a yi mãmãkin yadda suka taimaki addini a lõkacin tsanani. Muhãjirina sun bar gidãjensu da dũyarsu sun yi hijira, Ansarai sun raba dũkiyarsu da gidãjensu da iyãlansu sun bai wa Muhãjirĩna dõmin taimakon addĩni."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 546,
+  "verse_key": "59:9",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ تَبَوَّءُو ٱلدَّارَ وَٱلۡإِيمَٰنَ مِن قَبۡلِهِمۡ يُحِبُّونَ مَنۡ هَاجَرَ إِلَيۡهِمۡ وَلَا يَجِدُونَ فِي صُدُورِهِمۡ حَاجَةٗ مِّمَّآ أُوتُواْ وَيُؤۡثِرُونَ عَلَىٰٓ أَنفُسِهِمۡ وَلَوۡ كَانَ بِهِمۡ خَصَاصَةٞۚ وَمَن يُوقَ شُحَّ نَفۡسِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+  "translation": "Da waɗanda suka zaunar da gidãjensu (ga Musulunci) kuma (suka zãɓi) ĩmãni, a gabãnin zuwansu,* sunã son wanda ya yi hijira zuwa gare su, kuma bã su tunãnin wata bukãta a cikin ƙirãzansu daga abin da aka bai wa muhãjirĩna, kuma sunã fĩfĩta waɗansu a kan kãwunansu, kuma ko dã sunã da wata larũra. Wanda ya sãɓã wa rõwar ransa, to, waɗannan sũ ne mãsu babban rabo.",
+  "footnotes": "* Muhãjirĩna sun yi hijira zuwa Madĩna daga Makka kõ waɗansu wurãre. Ansar, su ne mutãnen Madĩna. Waɗannan sũ ne ya kamãta a yi mãmãkin yadda suka taimaki addini a lõkacin tsanani. Muhãjirina sun bar gidãjensu da dũyarsu sun yi hijira, Ansarai sun raba dũkiyarsu da gidãjensu da iyãlansu sun bai wa Muhãjirĩna dõmin taimakon addĩni."
 }

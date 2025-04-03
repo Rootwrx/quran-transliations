@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5276",
-    "sura": "68",
-    "aya": "5",
-    "arabic_text": "فَسَتُبۡصِرُ وَيُبۡصِرُونَ",
-    "translation": "अतः शीघ्र ही आप देख लेंगे तथा वे भी देख लेंगे।",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 564,
+  "verse_key": "68:5",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَتُبۡصِرُ وَيُبۡصِرُونَ",
+  "translation": "अतः शीघ्र ही आप देख लेंगे तथा वे भी देख लेंगे।",
+  "footnotes": ""
 }

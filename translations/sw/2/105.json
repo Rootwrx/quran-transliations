@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "112",
-    "sura": "2",
-    "aya": "105",
-    "arabic_text": "مَّا يَوَدُّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَلَا ٱلۡمُشۡرِكِينَ أَن يُنَزَّلَ عَلَيۡكُم مِّنۡ خَيۡرٖ مِّن رَّبِّكُمۡۚ وَٱللَّهُ يَخۡتَصُّ بِرَحۡمَتِهِۦ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
-    "translation": "Walio kufuru miongoni mwa watu wa Kitabu na washirikina hawapendi mteremshiwe kheri yoyote kutoka kwa Mola wenu Mlezi. Na Mwenyezi Mungu humkusudia kumpa rehema yake ampendaye. Na Mwenyezi Mungu ni mwenye fadhila kubwa.",
-    "footnotes": "Na yafaa mjue kuwa hawa makafiri wa Kiyahudi na washirikina waabuduo masanamu hawakutakieni ila mdhurike tu, wala hawapendelei iteremke kheri yoyote kwenu kutoka kwa Mola wenu Mlezi. Na Mwenyezi Mungu hathamini chochote wanacho kipenda wala wanacho kichukia. Kwani Mwenyezi Mungu humteua amtakaye kwa kumkhusisha kumpa rehema yake, na Mwenyezi Mungu ni mwenye fadhila kubwa."
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 16,
+  "verse_key": "2:105",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا يَوَدُّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَلَا ٱلۡمُشۡرِكِينَ أَن يُنَزَّلَ عَلَيۡكُم مِّنۡ خَيۡرٖ مِّن رَّبِّكُمۡۚ وَٱللَّهُ يَخۡتَصُّ بِرَحۡمَتِهِۦ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
+  "translation": "Walio kufuru miongoni mwa watu wa Kitabu na washirikina hawapendi mteremshiwe kheri yoyote kutoka kwa Mola wenu Mlezi. Na Mwenyezi Mungu humkusudia kumpa rehema yake ampendaye. Na Mwenyezi Mungu ni mwenye fadhila kubwa.",
+  "footnotes": "Na yafaa mjue kuwa hawa makafiri wa Kiyahudi na washirikina waabuduo masanamu hawakutakieni ila mdhurike tu, wala hawapendelei iteremke kheri yoyote kwenu kutoka kwa Mola wenu Mlezi. Na Mwenyezi Mungu hathamini chochote wanacho kipenda wala wanacho kichukia. Kwani Mwenyezi Mungu humteua amtakaye kwa kumkhusisha kumpa rehema yake, na Mwenyezi Mungu ni mwenye fadhila kubwa."
 }

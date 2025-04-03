@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6129",
-    "sura": "97",
-    "aya": "4",
-    "arabic_text": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ",
-    "translation": "4 Porteurs de tous les arrêts divins[1599], les anges et l’Esprit[1600] descendent sur ordre de leur Seigneur au cours de cette nuit.",
-    "footnotes": "[1599] Relatifs à l’année à venir, expliquent les commentateurs. Voir sourate 44, versets 3-5.\n[1600] L’ange Gabriel, selon la majorité des exégètes."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 598,
+  "verse_key": "97:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَنَزَّلُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ فِيهَا بِإِذۡنِ رَبِّهِم مِّن كُلِّ أَمۡرٖ",
+  "translation": "4 Porteurs de tous les arrêts divins[1599], les anges et l’Esprit[1600] descendent sur ordre de leur Seigneur au cours de cette nuit.",
+  "footnotes": "[1599] Relatifs à l’année à venir, expliquent les commentateurs. Voir sourate 44, versets 3-5.\n[1600] L’ange Gabriel, selon la majorité des exégètes."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1686",
-    "sura": "12",
-    "aya": "90",
-    "arabic_text": "قَالُوٓاْ أَءِنَّكَ لَأَنتَ يُوسُفُۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِيۖ قَدۡ مَنَّ ٱللَّهُ عَلَيۡنَآۖ إِنَّهُۥ مَن يَتَّقِ وَيَصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
-    "translation": "Wọ́n sọ pé: “Ṣé dájúdájú ìwọ ni Yūsuf?” Ó sọ pé: “Èmi ni Yūsuf. Ọmọ ìyá mi sì nìyí. Dájúdájú Allāhu ti ṣe ìdẹ̀ra fún wa. Dájúdájú ẹnikẹ́ni tí ó bá bẹ̀rù (Allāhu), tí ó sì ṣe sùúrù, dájúdájú Allāhu kò níí fi ẹ̀san àwọn olùṣe-rere ráre.”",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 246,
+  "verse_key": "12:90",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَءِنَّكَ لَأَنتَ يُوسُفُۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِيۖ قَدۡ مَنَّ ٱللَّهُ عَلَيۡنَآۖ إِنَّهُۥ مَن يَتَّقِ وَيَصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+  "translation": "Wọ́n sọ pé: “Ṣé dájúdájú ìwọ ni Yūsuf?” Ó sọ pé: “Èmi ni Yūsuf. Ọmọ ìyá mi sì nìyí. Dájúdájú Allāhu ti ṣe ìdẹ̀ra fún wa. Dájúdájú ẹnikẹ́ni tí ó bá bẹ̀rù (Allāhu), tí ó sì ṣe sùúrù, dájúdájú Allāhu kò níí fi ẹ̀san àwọn olùṣe-rere ráre.”",
+  "footnotes": ""
 }

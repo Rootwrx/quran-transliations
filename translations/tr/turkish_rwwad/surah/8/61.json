@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1221",
-    "sura": "8",
-    "aya": "61",
-    "arabic_text": "۞ وَإِن جَنَحُواْ لِلسَّلۡمِ فَٱجۡنَحۡ لَهَا وَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
-    "translation": "Eğer onlar; barışa yanaşırlarsa, sen de onlara yanaş ve Allah’a tevekkül et. Çünkü O hakkıyla işitendir, hakkıyla bilendir.",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 184,
+  "verse_key": "8:61",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَإِن جَنَحُواْ لِلسَّلۡمِ فَٱجۡنَحۡ لَهَا وَتَوَكَّلۡ عَلَى ٱللَّهِۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "translation": "Eğer onlar; barışa yanaşırlarsa, sen de onlara yanaş ve Allah’a tevekkül et. Çünkü O hakkıyla işitendir, hakkıyla bilendir.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1751",
-    "sura": "14",
-    "aya": "1",
-    "arabic_text": "الٓرۚ كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ لِتُخۡرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِ رَبِّهِمۡ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
-    "translation": "1. Alif, lâm, râ.(1) buku eye tokitisi yango epai nayo ete obimisa na yango bato na molili komema bango na mwinda na ndingisa ya Nkolo wa bango, komema bango na nzela ya oyo azali na nguya atonda lokumu.",
-    "footnotes": "1 Bótala suratu Al-Baqarah mokapo: 1."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 255,
+  "verse_key": "14:1",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓرۚ كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ لِتُخۡرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِ رَبِّهِمۡ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+  "translation": "1. Alif, lâm, râ.(1) buku eye tokitisi yango epai nayo ete obimisa na yango bato na molili komema bango na mwinda na ndingisa ya Nkolo wa bango, komema bango na nzela ya oyo azali na nguya atonda lokumu.",
+  "footnotes": "1 Bótala suratu Al-Baqarah mokapo: 1."
 }

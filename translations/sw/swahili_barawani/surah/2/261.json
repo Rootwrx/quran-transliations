@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "268",
-    "sura": "2",
-    "aya": "261",
-    "arabic_text": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمۡ فِي سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتۡ سَبۡعَ سَنَابِلَ فِي كُلِّ سُنۢبُلَةٖ مِّاْئَةُ حَبَّةٖۗ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
-    "translation": "Mfano wa wanao tumia mali zao katika Njia ya Mwenyezi Mungu ni kama mfano wa punje moja iliyo chipuza mashuke saba. Katika kila shuke zimo punje mia. Na Mwenyezi Mungu humzidishia amtakaye, na Mwenyezi Mungu ni Mwenye wasaa na Mwenye kujua.",
-    "footnotes": "Hakika hali ya wale wanao toa mali yao kwa ajili ya kumt'ii Mwenyezi Mungu na kufanya kheri, na wanapata kwa hivyo thawabu za kuzidia mara nyingi, ni kama hali ya mwenye kuatika punje moja katika ardhi yenye rutuba ikamea mmea wenye mashuke saba, katika kila shuke mna punje mia. Hii ni sura ya wingi wa Mwenyezi Mungu anavyo walipa wanao toa katika dunia. Na Mwenyezi Mungu humzidishia amtakae. Yeye ni Mwenye wasaa wa fadhila, Mwenye kuwajua wanao stahiki na wasio stahiki."
-  }
+  "id": 261,
+  "verse_number": 261,
+  "page_number": 44,
+  "verse_key": "2:261",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 17,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّثَلُ ٱلَّذِينَ يُنفِقُونَ أَمۡوَٰلَهُمۡ فِي سَبِيلِ ٱللَّهِ كَمَثَلِ حَبَّةٍ أَنۢبَتَتۡ سَبۡعَ سَنَابِلَ فِي كُلِّ سُنۢبُلَةٖ مِّاْئَةُ حَبَّةٖۗ وَٱللَّهُ يُضَٰعِفُ لِمَن يَشَآءُۚ وَٱللَّهُ وَٰسِعٌ عَلِيمٌ",
+  "translation": "Mfano wa wanao tumia mali zao katika Njia ya Mwenyezi Mungu ni kama mfano wa punje moja iliyo chipuza mashuke saba. Katika kila shuke zimo punje mia. Na Mwenyezi Mungu humzidishia amtakaye, na Mwenyezi Mungu ni Mwenye wasaa na Mwenye kujua.",
+  "footnotes": "Hakika hali ya wale wanao toa mali yao kwa ajili ya kumt'ii Mwenyezi Mungu na kufanya kheri, na wanapata kwa hivyo thawabu za kuzidia mara nyingi, ni kama hali ya mwenye kuatika punje moja katika ardhi yenye rutuba ikamea mmea wenye mashuke saba, katika kila shuke mna punje mia. Hii ni sura ya wingi wa Mwenyezi Mungu anavyo walipa wanao toa katika dunia. Na Mwenyezi Mungu humzidishia amtakae. Yeye ni Mwenye wasaa wa fadhila, Mwenye kuwajua wanao stahiki na wasio stahiki."
 }

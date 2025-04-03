@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "337",
-    "sura": "3",
-    "aya": "44",
-    "arabic_text": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهِ إِلَيۡكَۚ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ يُلۡقُونَ أَقۡلَٰمَهُمۡ أَيُّهُمۡ يَكۡفُلُ مَرۡيَمَ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ يَخۡتَصِمُونَ",
-    "translation": "Wannan yana daga lãbarun* gaibi, Munã yin wahayinsa zuwa gare ka (Muhammadu). Ba ka kasance ba a wurinsu a lõkacin da suke jẽfa alƙalumansu (domin ƙuri'a) wãne ne zai yi rẽnon Maryam. Kuma ba ka kasance a wurinsu ba a lõkacin da suke ta yin husũma**.",
-    "footnotes": "* Wannan yana daga cikin dalĩlan annabcin Annabi Muhammad, tsira da aminci su tabbata a gare shi, wajen faɗar lãbãrin abin da bai halarta ba. ** Uwar Maryamu tã ɗauke ta, tã kai ta ga Bani kãhin ɗan Hãrũna ɗan'uwan MũSã, a lõkacin nan, sũ ne suke tsaron Baitil Muƙaddas, ta mĩka musu ita, ta ce: \"Ku karɓa. Na 'yantar da ita, kuma mace mai haila bã ta shiga masallaci, kuma bã zan mayar da ita a gidanã ba.\" Sai suka ce: \"Wannan ɗiyar limãminmu ce kuma shugaban Ƙurbãninmu.\" Zakariyya ya ce: \"Ku bã ni ita dõmin innarta tanã tãre da ni.\" Su ka ce: \"Rãyukanmu bã su iya barin ta ga wani.\" Sai suka yi ƙuri'a da alƙalumansu da suke rubũtun Attaura da su. Sai Zakariyya ya rinjãya. An ce sun tafi kõgin Urdun ne suka jefa alƙaluman nãsu, a kan cewa wanda alƙalaminsa bai bi ruwa ba, ya tsaya, shĩ ne ya rinjãya. Sai Zakariyya ya rinjãya, ga shi kuma shĩ ne shugabansu, kuma malaminsu, kuma annabinsu, sai ya sanya ta a cikin bene, a cikin masallacin sa."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 55,
+  "verse_key": "3:44",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهِ إِلَيۡكَۚ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ يُلۡقُونَ أَقۡلَٰمَهُمۡ أَيُّهُمۡ يَكۡفُلُ مَرۡيَمَ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ يَخۡتَصِمُونَ",
+  "translation": "Wannan yana daga lãbarun* gaibi, Munã yin wahayinsa zuwa gare ka (Muhammadu). Ba ka kasance ba a wurinsu a lõkacin da suke jẽfa alƙalumansu (domin ƙuri'a) wãne ne zai yi rẽnon Maryam. Kuma ba ka kasance a wurinsu ba a lõkacin da suke ta yin husũma**.",
+  "footnotes": "* Wannan yana daga cikin dalĩlan annabcin Annabi Muhammad, tsira da aminci su tabbata a gare shi, wajen faɗar lãbãrin abin da bai halarta ba. ** Uwar Maryamu tã ɗauke ta, tã kai ta ga Bani kãhin ɗan Hãrũna ɗan'uwan MũSã, a lõkacin nan, sũ ne suke tsaron Baitil Muƙaddas, ta mĩka musu ita, ta ce: \"Ku karɓa. Na 'yantar da ita, kuma mace mai haila bã ta shiga masallaci, kuma bã zan mayar da ita a gidanã ba.\" Sai suka ce: \"Wannan ɗiyar limãminmu ce kuma shugaban Ƙurbãninmu.\" Zakariyya ya ce: \"Ku bã ni ita dõmin innarta tanã tãre da ni.\" Su ka ce: \"Rãyukanmu bã su iya barin ta ga wani.\" Sai suka yi ƙuri'a da alƙalumansu da suke rubũtun Attaura da su. Sai Zakariyya ya rinjãya. An ce sun tafi kõgin Urdun ne suka jefa alƙaluman nãsu, a kan cewa wanda alƙalaminsa bai bi ruwa ba, ya tsaya, shĩ ne ya rinjãya. Sai Zakariyya ya rinjãya, ga shi kuma shĩ ne shugabansu, kuma malaminsu, kuma annabinsu, sai ya sanya ta a cikin bene, a cikin masallacin sa."
 }

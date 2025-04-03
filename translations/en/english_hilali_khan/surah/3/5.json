@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "298",
-    "sura": "3",
-    "aya": "5",
-    "arabic_text": "إِنَّ ٱللَّهَ لَا يَخۡفَىٰ عَلَيۡهِ شَيۡءٞ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ",
-    "translation": " 5. Truly, nothing is hidden from Allâh, in the earth or in the heaven.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 50,
+  "verse_key": "3:5",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ لَا يَخۡفَىٰ عَلَيۡهِ شَيۡءٞ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ",
+  "translation": " 5. Truly, nothing is hidden from Allâh, in the earth or in the heaven.",
+  "footnotes": ""
 }

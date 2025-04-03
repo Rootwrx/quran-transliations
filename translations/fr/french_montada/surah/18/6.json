@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2146",
-    "sura": "18",
-    "aya": "6",
-    "arabic_text": "فَلَعَلَّكَ بَٰخِعٞ نَّفۡسَكَ عَلَىٰٓ ءَاثَٰرِهِمۡ إِن لَّمۡ يُؤۡمِنُواْ بِهَٰذَا ٱلۡحَدِيثِ أَسَفًا",
-    "translation": "6. Peut-être vas-tu te tourmenter pour eux (à en mourir) parce qu’ils ne croient pas en ce discours (le Coran).",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 294,
+  "verse_key": "18:6",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَعَلَّكَ بَٰخِعٞ نَّفۡسَكَ عَلَىٰٓ ءَاثَٰرِهِمۡ إِن لَّمۡ يُؤۡمِنُواْ بِهَٰذَا ٱلۡحَدِيثِ أَسَفًا",
+  "translation": "6. Peut-être vas-tu te tourmenter pour eux (à en mourir) parce qu’ils ne croient pas en ce discours (le Coran).",
+  "footnotes": ""
 }

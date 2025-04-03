@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "489",
-    "sura": "3",
-    "aya": "196",
-    "arabic_text": "لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُواْ فِي ٱلۡبِلَٰدِ",
-    "translation": "Lasse dich ja nicht durch den Wandel derer in den Landstrichen täuschen, die ungläubig sind.",
-    "footnotes": null
-  }
+  "id": 196,
+  "verse_number": 196,
+  "page_number": 76,
+  "verse_key": "3:196",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا يَغُرَّنَّكَ تَقَلُّبُ ٱلَّذِينَ كَفَرُواْ فِي ٱلۡبِلَٰدِ",
+  "translation": "Lasse dich ja nicht durch den Wandel derer in den Landstrichen täuschen, die ungläubig sind.",
+  "footnotes": null
 }

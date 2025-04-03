@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5391",
-    "sura": "70",
-    "aya": "16",
-    "arabic_text": "نَزَّاعَةٗ لِّلشَّوَىٰ",
-    "translation": "ដែលវាបកស្បែកក្បាល (និងខ្លួនប្រាណ)។",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 569,
+  "verse_key": "70:16",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نَزَّاعَةٗ لِّلشَّوَىٰ",
+  "translation": "ដែលវាបកស្បែកក្បាល (និងខ្លួនប្រាណ)។",
+  "footnotes": ""
 }

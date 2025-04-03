@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3376",
-    "sura": "29",
-    "aya": "36",
-    "arabic_text": "وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبٗا فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ وَٱرۡجُواْ ٱلۡيَوۡمَ ٱلۡأٓخِرَ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
-    "translation": "Kuma zuwa ga Madyana, Mun aika ɗan'uwansu shu'aibu, sai ya ce: \"Ya mutãnena! Ku bauta wa Allah kuma ku yi fatan (rahamar) Rãnar Lãhira, kuma kada ku yi ɓarna a cikin ƙasã, alhãli kuwa kunã mãsu lãlãtarwa.\"",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 400,
+  "verse_key": "29:36",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِلَىٰ مَدۡيَنَ أَخَاهُمۡ شُعَيۡبٗا فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ وَٱرۡجُواْ ٱلۡيَوۡمَ ٱلۡأٓخِرَ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
+  "translation": "Kuma zuwa ga Madyana, Mun aika ɗan'uwansu shu'aibu, sai ya ce: \"Ya mutãnena! Ku bauta wa Allah kuma ku yi fatan (rahamar) Rãnar Lãhira, kuma kada ku yi ɓarna a cikin ƙasã, alhãli kuwa kunã mãsu lãlãtarwa.\"",
+  "footnotes": ""
 }

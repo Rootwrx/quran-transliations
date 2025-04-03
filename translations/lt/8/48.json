@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1208",
-    "sura": "8",
-    "aya": "48",
-    "arabic_text": "وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارٞ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءٞ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
-    "translation": "48. Ir (atminkite) kai Šaitan (Šėtonas) privertė savo (blogus) darbus atrodyti tartum teisingus jiems ir sakė: „Niekas iš žmonijos negali nugalėti jūsų šią (Badr mūšio) Dieną ir tikrai, aš esu jūsų artimas (kiekvienai pagalbai).“ Tačiau, kai du būriai pasirodė vienas kitam, jis pabėgo ir tarė: „Iš tikrųjų, aš neturiu su jumis nieko bendra, iš tiesų, aš matau tai, ko jūs nematote. Iš tiesų, aš bijau Allaho, nes Allahas Rūstus bausmėje.“",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 183,
+  "verse_key": "8:48",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارٞ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءٞ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
+  "translation": "48. Ir (atminkite) kai Šaitan (Šėtonas) privertė savo (blogus) darbus atrodyti tartum teisingus jiems ir sakė: „Niekas iš žmonijos negali nugalėti jūsų šią (Badr mūšio) Dieną ir tikrai, aš esu jūsų artimas (kiekvienai pagalbai).“ Tačiau, kai du būriai pasirodė vienas kitam, jis pabėgo ir tarė: „Iš tikrųjų, aš neturiu su jumis nieko bendra, iš tiesų, aš matau tai, ko jūs nematote. Iš tiesų, aš bijau Allaho, nes Allahas Rūstus bausmėje.“",
+  "footnotes": ""
 }

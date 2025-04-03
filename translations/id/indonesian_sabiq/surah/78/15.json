@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5687",
-    "sura": "78",
-    "aya": "15",
-    "arabic_text": "لِّنُخۡرِجَ بِهِۦ حَبّٗا وَنَبَاتٗا",
-    "translation": "15. Untuk Kami tumbuhkan dengan air itu biji-bijian dan tanam-tanaman,",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 582,
+  "verse_key": "78:15",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّنُخۡرِجَ بِهِۦ حَبّٗا وَنَبَاتٗا",
+  "translation": "15. Untuk Kami tumbuhkan dengan air itu biji-bijian dan tanam-tanaman,",
+  "footnotes": ""
 }

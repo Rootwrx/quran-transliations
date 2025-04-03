@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4662",
-    "sura": "50",
-    "aya": "32",
-    "arabic_text": "هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٖ",
-    "translation": "32. [Será dicho:] “Esto es lo que se había prometido para todos los que vuelven a Dios[1], son cumplidores[2],",
-    "footnotes": "[1] Volver a Dios arrepentido luego de haber cometido un pecado.\n[2] De los preceptos de Dios."
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 519,
+  "verse_key": "50:32",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا مَا تُوعَدُونَ لِكُلِّ أَوَّابٍ حَفِيظٖ",
+  "translation": "32. [Será dicho:] “Esto es lo que se había prometido para todos los que vuelven a Dios[1], son cumplidores[2],",
+  "footnotes": "[1] Volver a Dios arrepentido luego de haber cometido un pecado.\n[2] De los preceptos de Dios."
 }

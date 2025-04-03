@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6216",
-    "sura": "110",
-    "aya": "3",
-    "arabic_text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
-    "translation": "nítorí náà, ṣe àfọ̀mọ́ àti ẹyìn fún Olúwa rẹ. Kí o sì tọrọ àforíjìn lọ́dọ̀ Rẹ̀.[1] Dájúdájú Ó ń jẹ́ Olùgba-ìronúpìwàdà.",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah Gọ̄fir; 40:55."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 603,
+  "verse_key": "110:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+  "translation": "nítorí náà, ṣe àfọ̀mọ́ àti ẹyìn fún Olúwa rẹ. Kí o sì tọrọ àforíjìn lọ́dọ̀ Rẹ̀.[1] Dájúdájú Ó ń jẹ́ Olùgba-ìronúpìwàdà.",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah Gọ̄fir; 40:55."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "407",
-    "sura": "3",
-    "aya": "114",
-    "arabic_text": "يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِۖ وَأُوْلَٰٓئِكَ مِنَ ٱلصَّٰلِحِينَ",
-    "translation": "114. Jie tiki Allahą ir Paskutiniąją Dieną. Jie įsako Al-Marūf (islamiškąjį monoteizmą ir sekima Pranašu Muchammedu ﷺ ) ir draudžia Al-Munkar (daugiadievystę, netikėjimą ir priešinimąsi Pranašui Muchammedui ﷺ ). Ir jie skuba daryti (visus) gerus darbus, ir jie yra iš teisingųjų.",
-    "footnotes": ""
-  }
+  "id": 114,
+  "verse_number": 114,
+  "page_number": 64,
+  "verse_key": "3:114",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِۖ وَأُوْلَٰٓئِكَ مِنَ ٱلصَّٰلِحِينَ",
+  "translation": "114. Jie tiki Allahą ir Paskutiniąją Dieną. Jie įsako Al-Marūf (islamiškąjį monoteizmą ir sekima Pranašu Muchammedu ﷺ ) ir draudžia Al-Munkar (daugiadievystę, netikėjimą ir priešinimąsi Pranašui Muchammedui ﷺ ). Ir jie skuba daryti (visus) gerus darbus, ir jie yra iš teisingųjų.",
+  "footnotes": ""
 }

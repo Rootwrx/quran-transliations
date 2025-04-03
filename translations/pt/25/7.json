@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2862",
-    "sura": "25",
-    "aya": "7",
-    "arabic_text": "وَقَالُواْ مَالِ هَٰذَا ٱلرَّسُولِ يَأۡكُلُ ٱلطَّعَامَ وَيَمۡشِي فِي ٱلۡأَسۡوَاقِ لَوۡلَآ أُنزِلَ إِلَيۡهِ مَلَكٞ فَيَكُونَ مَعَهُۥ نَذِيرًا",
-    "translation": "E dizem: \"Por que razão este Mensageiro come o mesmo alimento e anda pelos mercados, como nós? Que se fizesse descer um anjo, para ele e, com ele, fosse admoestador!",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 360,
+  "verse_key": "25:7",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ مَالِ هَٰذَا ٱلرَّسُولِ يَأۡكُلُ ٱلطَّعَامَ وَيَمۡشِي فِي ٱلۡأَسۡوَاقِ لَوۡلَآ أُنزِلَ إِلَيۡهِ مَلَكٞ فَيَكُونَ مَعَهُۥ نَذِيرًا",
+  "translation": "E dizem: \"Por que razão este Mensageiro come o mesmo alimento e anda pelos mercados, como nós? Que se fizesse descer um anjo, para ele e, com ele, fosse admoestador!",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4620",
-    "sura": "49",
-    "aya": "8",
-    "arabic_text": "فَضۡلٗا مِّنَ ٱللَّهِ وَنِعۡمَةٗۚ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
-    "translation": "(ئەوە) بەخشش ونیعمەتێکە لەلایەن خواوە خواش زانا ودانایە\n",
-    "footnotes": null
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 516,
+  "verse_key": "49:8",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 206,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَضۡلٗا مِّنَ ٱللَّهِ وَنِعۡمَةٗۚ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
+  "translation": "(ئەوە) بەخشش ونیعمەتێکە لەلایەن خواوە خواش زانا ودانایە\n",
+  "footnotes": null
 }

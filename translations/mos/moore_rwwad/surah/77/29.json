@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5651",
-    "sura": "77",
-    "aya": "29",
-    "arabic_text": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
-    "translation": "Kẽng-y n tʋg bũmb ning y sẽn da yagsdã.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 581,
+  "verse_key": "77:29",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱنطَلِقُوٓاْ إِلَىٰ مَا كُنتُم بِهِۦ تُكَذِّبُونَ",
+  "translation": "Kẽng-y n tʋg bũmb ning y sẽn da yagsdã.",
+  "footnotes": ""
 }

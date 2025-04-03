@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4758",
-    "sura": "52",
-    "aya": "23",
-    "arabic_text": "يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ",
-    "translation": "Di dalam surga mereka saling memperebutkan piala (gelas) yang isinya tidak (menimbulkan) kata-kata yang tidak berfaedah dan tiada pula perbuatan dosa.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 524,
+  "verse_key": "52:23",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ",
+  "translation": "Di dalam surga mereka saling memperebutkan piala (gelas) yang isinya tidak (menimbulkan) kata-kata yang tidak berfaedah dan tiada pula perbuatan dosa.",
+  "footnotes": ""
 }

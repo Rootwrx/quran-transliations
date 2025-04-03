@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5572",
-    "sura": "75",
-    "aya": "21",
-    "arabic_text": "وَتَذَرُونَ ٱلۡأٓخِرَةَ",
-    "translation": "और बाद में आने वाली (आख़िरत) को छोड़ देते हो।",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 578,
+  "verse_key": "75:21",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَذَرُونَ ٱلۡأٓخِرَةَ",
+  "translation": "और बाद में आने वाली (आख़िरत) को छोड़ देते हो।",
+  "footnotes": ""
 }

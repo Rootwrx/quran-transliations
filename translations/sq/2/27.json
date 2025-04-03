@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "34",
-    "sura": "2",
-    "aya": "27",
-    "arabic_text": "ٱلَّذِينَ يَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِيثَٰقِهِۦ وَيَقۡطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفۡسِدُونَ فِي ٱلۡأَرۡضِۚ أُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
-    "translation": "të cilët shkelin besën e Allahut, pasi e patën dhënë, ndërpresin atë që ka urdhëruar Allahu për ta mbajtur lidhur[16] dhe bëjnë ngatërresa në Tokë; ata janë njëmend të shkatërruar.",
-    "footnotes": "[16] “ndërpresin atë që ka urdhëruar Allahu për ta mbajtur lidhur” - Allahu i Madhëruar na ka urdhëruar të mbajmë lidhjet me Të, duke besuar tek Ai dhe duke e adhuruar Atë; të mbajmë lidhjet me Profetin e Tij, duke e besuar atë, duke e dashur dhe duke ndjekur shembullin e tij; pastaj të mbajmë lidhjet me prindërit, të afërmit, shokët dhe njerëzit e tjerë dhe duke zbatuar detyrimet që kemi kundrejt atyre."
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 5,
+  "verse_key": "2:27",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِيثَٰقِهِۦ وَيَقۡطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفۡسِدُونَ فِي ٱلۡأَرۡضِۚ أُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+  "translation": "të cilët shkelin besën e Allahut, pasi e patën dhënë, ndërpresin atë që ka urdhëruar Allahu për ta mbajtur lidhur[16] dhe bëjnë ngatërresa në Tokë; ata janë njëmend të shkatërruar.",
+  "footnotes": "[16] “ndërpresin atë që ka urdhëruar Allahu për ta mbajtur lidhur” - Allahu i Madhëruar na ka urdhëruar të mbajmë lidhjet me Të, duke besuar tek Ai dhe duke e adhuruar Atë; të mbajmë lidhjet me Profetin e Tij, duke e besuar atë, duke e dashur dhe duke ndjekur shembullin e tij; pastaj të mbajmë lidhjet me prindërit, të afërmit, shokët dhe njerëzit e tjerë dhe duke zbatuar detyrimet që kemi kundrejt atyre."
 }

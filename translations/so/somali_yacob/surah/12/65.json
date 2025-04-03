@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1661",
-    "sura": "12",
-    "aya": "65",
-    "arabic_text": "وَلَمَّا فَتَحُواْ مَتَٰعَهُمۡ وَجَدُواْ بِضَٰعَتَهُمۡ رُدَّتۡ إِلَيۡهِمۡۖ قَالُواْ يَٰٓأَبَانَا مَا نَبۡغِيۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتۡ إِلَيۡنَاۖ وَنَمِيرُ أَهۡلَنَا وَنَحۡفَظُ أَخَانَا وَنَزۡدَادُ كَيۡلَ بَعِيرٖۖ ذَٰلِكَ كَيۡلٞ يَسِيرٞ",
-    "translation": "65. Markay fureen alaabtoodii waxay heleen badeecaddoodii oo loo soo ceshay19. Waxay yidhaahdeen: Aabbow! Maxaan (kaloo) rabnaa? Tani waa badeecaddayadii oo naloo soo ceshay, marka waxaan ugu keeni haruur (hor leh) reerkayaga waana ilaalin walaalkayo oo soo kororsan rati muggiis oo beeg siyaado ah. Kanu waa beeg sahlan20.",
-    "footnotes": "19. Waxay u sameeyeen taa siyaasad ahaan inay u celiyaan alaabadoodii oo ugu axsaan falaan, iyo si ay ugu soo laabtaan Masar iyagoo uu la socdo walaalkood Binyaamiin. Binyaamiin waxay isku hooyo iyo aabbe yihiin Yuusuf, hooyadood Raashiil waxay la dhalatay oo ka yareyd liya oo aheyd xaaska weyn ee Yacquub, shareecadooda waxaa ku bannaanaa in la isla guursan karo labo gabdhood oo walaalo ah. Marka Yuusuf iyo walaalki Binyaamiin waxaa dhashay Raashiil, halka liyana ay dhashay tobanka ilmood ee kale ee Yacquub, waxayna ahayd habar yartood. 20.Waa iyaga u fudud ama mid aan ku heli karno si sahlan."
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 243,
+  "verse_key": "12:65",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا فَتَحُواْ مَتَٰعَهُمۡ وَجَدُواْ بِضَٰعَتَهُمۡ رُدَّتۡ إِلَيۡهِمۡۖ قَالُواْ يَٰٓأَبَانَا مَا نَبۡغِيۖ هَٰذِهِۦ بِضَٰعَتُنَا رُدَّتۡ إِلَيۡنَاۖ وَنَمِيرُ أَهۡلَنَا وَنَحۡفَظُ أَخَانَا وَنَزۡدَادُ كَيۡلَ بَعِيرٖۖ ذَٰلِكَ كَيۡلٞ يَسِيرٞ",
+  "translation": "65. Markay fureen alaabtoodii waxay heleen badeecaddoodii oo loo soo ceshay19. Waxay yidhaahdeen: Aabbow! Maxaan (kaloo) rabnaa? Tani waa badeecaddayadii oo naloo soo ceshay, marka waxaan ugu keeni haruur (hor leh) reerkayaga waana ilaalin walaalkayo oo soo kororsan rati muggiis oo beeg siyaado ah. Kanu waa beeg sahlan20.",
+  "footnotes": "19. Waxay u sameeyeen taa siyaasad ahaan inay u celiyaan alaabadoodii oo ugu axsaan falaan, iyo si ay ugu soo laabtaan Masar iyagoo uu la socdo walaalkood Binyaamiin. Binyaamiin waxay isku hooyo iyo aabbe yihiin Yuusuf, hooyadood Raashiil waxay la dhalatay oo ka yareyd liya oo aheyd xaaska weyn ee Yacquub, shareecadooda waxaa ku bannaanaa in la isla guursan karo labo gabdhood oo walaalo ah. Marka Yuusuf iyo walaalki Binyaamiin waxaa dhashay Raashiil, halka liyana ay dhashay tobanka ilmood ee kale ee Yacquub, waxayna ahayd habar yartood. 20.Waa iyaga u fudud ama mid aan ku heli karno si sahlan."
 }

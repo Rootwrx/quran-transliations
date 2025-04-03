@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1678",
-    "sura": "12",
-    "aya": "82",
-    "arabic_text": "وَسۡـَٔلِ ٱلۡقَرۡيَةَ ٱلَّتِي كُنَّا فِيهَا وَٱلۡعِيرَ ٱلَّتِيٓ أَقۡبَلۡنَا فِيهَاۖ وَإِنَّا لَصَٰدِقُونَ",
-    "translation": "Pitaj naselje u kojem smo boravili i karavanu s kojom smo došli. Mi, zaista, govorimo istinu!' \"",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 245,
+  "verse_key": "12:82",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَسۡـَٔلِ ٱلۡقَرۡيَةَ ٱلَّتِي كُنَّا فِيهَا وَٱلۡعِيرَ ٱلَّتِيٓ أَقۡبَلۡنَا فِيهَاۖ وَإِنَّا لَصَٰدِقُونَ",
+  "translation": "Pitaj naselje u kojem smo boravili i karavanu s kojom smo došli. Mi, zaista, govorimo istinu!' \"",
+  "footnotes": ""
 }

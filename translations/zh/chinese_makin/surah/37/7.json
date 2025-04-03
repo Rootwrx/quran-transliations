@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3795",
-    "sura": "37",
-    "aya": "7",
-    "arabic_text": "وَحِفۡظٗا مِّن كُلِّ شَيۡطَٰنٖ مَّارِدٖ",
-    "translation": "我对一切叛逆的恶魔保护它，",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 446,
+  "verse_key": "37:7",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَحِفۡظٗا مِّن كُلِّ شَيۡطَٰنٖ مَّارِدٖ",
+  "translation": "我对一切叛逆的恶魔保护它，",
+  "footnotes": ""
 }

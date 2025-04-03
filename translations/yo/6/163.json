@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "952",
-    "sura": "6",
-    "aya": "163",
-    "arabic_text": "لَا شَرِيكَ لَهُۥۖ وَبِذَٰلِكَ أُمِرۡتُ وَأَنَا۠ أَوَّلُ ٱلۡمُسۡلِمِينَ",
-    "translation": "Kò sí akẹgbẹ́ fún Un. Ìyẹn ni wọ́n pa láṣẹ fún mi. Èmi sì ni ẹni-àkọ́kọ́ àwọn mùsùlùmí (ní àsìkò tèmi).”[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-’Ani‘ām; 6:14."
-  }
+  "id": 163,
+  "verse_number": 163,
+  "page_number": 150,
+  "verse_key": "6:163",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا شَرِيكَ لَهُۥۖ وَبِذَٰلِكَ أُمِرۡتُ وَأَنَا۠ أَوَّلُ ٱلۡمُسۡلِمِينَ",
+  "translation": "Kò sí akẹgbẹ́ fún Un. Ìyẹn ni wọ́n pa láṣẹ fún mi. Èmi sì ni ẹni-àkọ́kọ́ àwọn mùsùlùmí (ní àsìkò tèmi).”[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-’Ani‘ām; 6:14."
 }

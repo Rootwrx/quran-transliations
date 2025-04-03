@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3949",
-    "sura": "37",
-    "aya": "161",
-    "arabic_text": "فَإِنَّكُمۡ وَمَا تَعۡبُدُونَ",
-    "translation": "Basi hakika nyinyi na mnao waabudu.",
-    "footnotes": "Enyi makafiri! Hakika nyinyi, na hao mnao waabudu badala ya Mwenyezi Mungu - Nyinyi kwa kuwaabudu kwenu badala yake Yeye, hamtampoteza yeyote kwa upotovu wenu. Isipo kuwa yule ambaye tangu hapo Mwenyezi Mungu Mtukufu anamjua ni katika watu wa Motoni, na huko ataingia."
-  }
+  "id": 161,
+  "verse_number": 161,
+  "page_number": 452,
+  "verse_key": "37:161",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنَّكُمۡ وَمَا تَعۡبُدُونَ",
+  "translation": "Basi hakika nyinyi na mnao waabudu.",
+  "footnotes": "Enyi makafiri! Hakika nyinyi, na hao mnao waabudu badala ya Mwenyezi Mungu - Nyinyi kwa kuwaabudu kwenu badala yake Yeye, hamtampoteza yeyote kwa upotovu wenu. Isipo kuwa yule ambaye tangu hapo Mwenyezi Mungu Mtukufu anamjua ni katika watu wa Motoni, na huko ataingia."
 }

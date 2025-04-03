@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "654",
-    "sura": "4",
-    "aya": "161",
-    "arabic_text": "وَأَخۡذِهِمُ ٱلرِّبَوٰاْ وَقَدۡ نُهُواْ عَنۡهُ وَأَكۡلِهِمۡ أَمۡوَٰلَ ٱلنَّاسِ بِٱلۡبَٰطِلِۚ وَأَعۡتَدۡنَا لِلۡكَٰفِرِينَ مِنۡهُمۡ عَذَابًا أَلِيمٗا",
-    "translation": "Na kuchukua kwao riba, nao wamekatazwa, na kula kwao mali ya watu kwa dhulma. Basi tumewaandalia makafiri katika wao adhabu yenye uchungu.",
-    "footnotes": "Na kwa sababu ya kupenda kula riba - na Mwenyezi Mungu alikwisha wakataza hayo - na kuchukua mali ya watu kwa njia isiyo ya haki, ndio ikawa adabu ya dini ni kuwazuilia na kula vyakula vilivyo vizuri. Na Mwenyezi Mungu amewawekea hao walio kufuru adhabu yenye kutia machungu."
-  }
+  "id": 161,
+  "verse_number": 161,
+  "page_number": 103,
+  "verse_key": "4:161",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَخۡذِهِمُ ٱلرِّبَوٰاْ وَقَدۡ نُهُواْ عَنۡهُ وَأَكۡلِهِمۡ أَمۡوَٰلَ ٱلنَّاسِ بِٱلۡبَٰطِلِۚ وَأَعۡتَدۡنَا لِلۡكَٰفِرِينَ مِنۡهُمۡ عَذَابًا أَلِيمٗا",
+  "translation": "Na kuchukua kwao riba, nao wamekatazwa, na kula kwao mali ya watu kwa dhulma. Basi tumewaandalia makafiri katika wao adhabu yenye uchungu.",
+  "footnotes": "Na kwa sababu ya kupenda kula riba - na Mwenyezi Mungu alikwisha wakataza hayo - na kuchukua mali ya watu kwa njia isiyo ya haki, ndio ikawa adabu ya dini ni kuwazuilia na kula vyakula vilivyo vizuri. Na Mwenyezi Mungu amewawekea hao walio kufuru adhabu yenye kutia machungu."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "600",
-    "sura": "4",
-    "aya": "107",
-    "arabic_text": "وَلَا تُجَٰدِلۡ عَنِ ٱلَّذِينَ يَخۡتَانُونَ أَنفُسَهُمۡۚ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمٗا",
-    "translation": "Má ṣe bá àwọn tó ń jàǹbá ẹ̀mí ara wọn wá àwíjàre. Dájúdájú Allāhu kò fẹ́ràn ẹnikẹ́ni tí ó jẹ́ oníjàǹbá, ẹlẹ́ṣẹ̀.[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ āyah 105."
-  }
+  "id": 107,
+  "verse_number": 107,
+  "page_number": 96,
+  "verse_key": "4:107",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تُجَٰدِلۡ عَنِ ٱلَّذِينَ يَخۡتَانُونَ أَنفُسَهُمۡۚ إِنَّ ٱللَّهَ لَا يُحِبُّ مَن كَانَ خَوَّانًا أَثِيمٗا",
+  "translation": "Má ṣe bá àwọn tó ń jàǹbá ẹ̀mí ara wọn wá àwíjàre. Dájúdájú Allāhu kò fẹ́ràn ẹnikẹ́ni tí ó jẹ́ oníjàǹbá, ẹlẹ́ṣẹ̀.[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ āyah 105."
 }

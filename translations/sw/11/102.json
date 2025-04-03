@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1575",
-    "sura": "11",
-    "aya": "102",
-    "arabic_text": "وَكَذَٰلِكَ أَخۡذُ رَبِّكَ إِذَآ أَخَذَ ٱلۡقُرَىٰ وَهِيَ ظَٰلِمَةٌۚ إِنَّ أَخۡذَهُۥٓ أَلِيمٞ شَدِيدٌ",
-    "translation": "Na ndio kama hivyo ndivyo inavyo kuwa Mola wako Mlezi anapo ikamata miji inapo kuwa imedhulumu. Hakika mkamato wake ni mchungu na mkali.",
-    "footnotes": "Na kuwateketeza kwa ukali kama huu, ewe Nabii, alivyo wateketeza Mola wako Mlezi kaumu ya Nuhu, na ya A'adi, na ya Thamud, na wengineo, ndivyo anavyo itwaa kwa nguvu miji inapo kuwa watu wake wanaingia katika dhulma kwa ukafiri na uharibifu! Hakika kuangamiza kwake Mwenyezi Mungu kuna nguvu, na kuna uchungu, na ukali kwa wenye kudhulumu."
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 233,
+  "verse_key": "11:102",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ أَخۡذُ رَبِّكَ إِذَآ أَخَذَ ٱلۡقُرَىٰ وَهِيَ ظَٰلِمَةٌۚ إِنَّ أَخۡذَهُۥٓ أَلِيمٞ شَدِيدٌ",
+  "translation": "Na ndio kama hivyo ndivyo inavyo kuwa Mola wako Mlezi anapo ikamata miji inapo kuwa imedhulumu. Hakika mkamato wake ni mchungu na mkali.",
+  "footnotes": "Na kuwateketeza kwa ukali kama huu, ewe Nabii, alivyo wateketeza Mola wako Mlezi kaumu ya Nuhu, na ya A'adi, na ya Thamud, na wengineo, ndivyo anavyo itwaa kwa nguvu miji inapo kuwa watu wake wanaingia katika dhulma kwa ukafiri na uharibifu! Hakika kuangamiza kwake Mwenyezi Mungu kuna nguvu, na kuna uchungu, na ukali kwa wenye kudhulumu."
 }

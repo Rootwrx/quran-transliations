@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2874",
-    "sura": "25",
-    "aya": "19",
-    "arabic_text": "فَقَدۡ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسۡتَطِيعُونَ صَرۡفٗا وَلَا نَصۡرٗاۚ وَمَن يَظۡلِم مِّنكُمۡ نُذِقۡهُ عَذَابٗا كَبِيرٗا",
-    "translation": "Allah phán bảo (những kẻ thờ đa thần): “Quả thật, (những thần linh mà các ngươi thờ phượng ngoài TA) đã khẳng định các ngươi gian dối về những điều mà các ngươi nói. Cho nên, các ngươi không thể gở gạc cũng không được giúp đỡ.” Và người nào trong các ngươi làm điều sai quấy thì TA sẽ cho y nếm sự trừng phạt to lớn.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 361,
+  "verse_key": "25:19",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَدۡ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسۡتَطِيعُونَ صَرۡفٗا وَلَا نَصۡرٗاۚ وَمَن يَظۡلِم مِّنكُمۡ نُذِقۡهُ عَذَابٗا كَبِيرٗا",
+  "translation": "Allah phán bảo (những kẻ thờ đa thần): “Quả thật, (những thần linh mà các ngươi thờ phượng ngoài TA) đã khẳng định các ngươi gian dối về những điều mà các ngươi nói. Cho nên, các ngươi không thể gở gạc cũng không được giúp đỡ.” Và người nào trong các ngươi làm điều sai quấy thì TA sẽ cho y nếm sự trừng phạt to lớn.",
+  "footnotes": ""
 }

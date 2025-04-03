@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1361",
-    "sura": "9",
-    "aya": "126",
-    "arabic_text": "أَوَلَا يَرَوۡنَ أَنَّهُمۡ يُفۡتَنُونَ فِي كُلِّ عَامٖ مَّرَّةً أَوۡ مَرَّتَيۡنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمۡ يَذَّكَّرُونَ",
-    "translation": "126. Boye, bazali kornona te ete mbula na mbula bazali komekama mbala moko to mbala mibale, mpe bazali kotubela te mpe bazali kokanisa te?",
-    "footnotes": ""
-  }
+  "id": 126,
+  "verse_number": 126,
+  "page_number": 207,
+  "verse_key": "9:126",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَلَا يَرَوۡنَ أَنَّهُمۡ يُفۡتَنُونَ فِي كُلِّ عَامٖ مَّرَّةً أَوۡ مَرَّتَيۡنِ ثُمَّ لَا يَتُوبُونَ وَلَا هُمۡ يَذَّكَّرُونَ",
+  "translation": "126. Boye, bazali kornona te ete mbula na mbula bazali komekama mbala moko to mbala mibale, mpe bazali kotubela te mpe bazali kokanisa te?",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6",
-    "sura": "1",
-    "aya": "6",
-    "arabic_text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
-    "translation": "6. Ee nagu hanuuni (oo sug) Jidka Toosan.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 1,
+  "verse_key": "1:6",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+  "translation": "6. Ee nagu hanuuni (oo sug) Jidka Toosan.",
+  "footnotes": ""
 }

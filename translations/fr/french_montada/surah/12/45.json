@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1641",
-    "sura": "12",
-    "aya": "45",
-    "arabic_text": "وَقَالَ ٱلَّذِي نَجَا مِنۡهُمَا وَٱدَّكَرَ بَعۡدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأۡوِيلِهِۦ فَأَرۡسِلُونِ",
-    "translation": "45. Or celui des deux serviteurs emprisonnés qui avait été libéré, se souvint après plusieurs années et dit : « Moi, je vous en donnerai l’interprétation, envoyez-moi donc (à Joseph) »",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 241,
+  "verse_key": "12:45",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِي نَجَا مِنۡهُمَا وَٱدَّكَرَ بَعۡدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأۡوِيلِهِۦ فَأَرۡسِلُونِ",
+  "translation": "45. Or celui des deux serviteurs emprisonnés qui avait été libéré, se souvint après plusieurs années et dit : « Moi, je vous en donnerai l’interprétation, envoyez-moi donc (à Joseph) »",
+  "footnotes": ""
 }

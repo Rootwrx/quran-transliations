@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2",
-    "sura": "1",
-    "aya": "2",
-    "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "2. Visa šlovė ir dėkingumas – Allahui, Alamyn (žmonijos, džinų ir visa, kas egzistuoja) Viešpačiui [1].",
-    "footnotes": "[1] Žodis „Viešpats“: Korane vartojamas žodis Rab, tačiau jam lietuvių kalboje nėra vieno deramo atitikmens. Rab reiškia Vienintelį visos visatos Viešpatį, jos Kūrėją, Šeimininką, visų reikalų Tvarkytoją, Aprūpintoją, Valdytoją, Planuotoją, Palaikytoją, Globėją ir Saugumo Teikėją. Rab taip pat yra vienas iš Allaho vardų. Čia pavartotas žodis „Viešpats“ kaip artimiausias arabiško žodžio Rab atitikmuo. Visame šiame Tauriojo Korano prasmių vertime sutinkamas žodis „Viešpats“ iš tiesų reiškia žodį Rab ir turi būti suprantamas pastarojo reikšme."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 1,
+  "verse_key": "1:2",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "2. Visa šlovė ir dėkingumas – Allahui, Alamyn (žmonijos, džinų ir visa, kas egzistuoja) Viešpačiui [1].",
+  "footnotes": "[1] Žodis „Viešpats“: Korane vartojamas žodis Rab, tačiau jam lietuvių kalboje nėra vieno deramo atitikmens. Rab reiškia Vienintelį visos visatos Viešpatį, jos Kūrėją, Šeimininką, visų reikalų Tvarkytoją, Aprūpintoją, Valdytoją, Planuotoją, Palaikytoją, Globėją ir Saugumo Teikėją. Rab taip pat yra vienas iš Allaho vardų. Čia pavartotas žodis „Viešpats“ kaip artimiausias arabiško žodžio Rab atitikmuo. Visame šiame Tauriojo Korano prasmių vertime sutinkamas žodis „Viešpats“ iš tiesų reiškia žodį Rab ir turi būti suprantamas pastarojo reikšme."
 }

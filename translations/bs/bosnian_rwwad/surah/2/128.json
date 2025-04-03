@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "135",
-    "sura": "2",
-    "aya": "128",
-    "arabic_text": "رَبَّنَا وَٱجۡعَلۡنَا مُسۡلِمَيۡنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةٗ مُّسۡلِمَةٗ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبۡ عَلَيۡنَآۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
-    "translation": "Gospodaru naš, učini nas dvojicu muslimanima – Tebi predanim, a i u potomstvu našem neka bude zajednica Tebi predana, pokaži nam obrede naše i oprosti nam! Ti si, doista, stalni Primatelj pokajanja, Milostivi!",
-    "footnotes": ""
-  }
+  "id": 128,
+  "verse_number": 128,
+  "page_number": 20,
+  "verse_key": "2:128",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبَّنَا وَٱجۡعَلۡنَا مُسۡلِمَيۡنِ لَكَ وَمِن ذُرِّيَّتِنَآ أُمَّةٗ مُّسۡلِمَةٗ لَّكَ وَأَرِنَا مَنَاسِكَنَا وَتُبۡ عَلَيۡنَآۖ إِنَّكَ أَنتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "translation": "Gospodaru naš, učini nas dvojicu muslimanima – Tebi predanim, a i u potomstvu našem neka bude zajednica Tebi predana, pokaži nam obrede naše i oprosti nam! Ti si, doista, stalni Primatelj pokajanja, Milostivi!",
+  "footnotes": ""
 }

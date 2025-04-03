@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "222",
-    "sura": "2",
-    "aya": "215",
-    "arabic_text": "يَسۡـَٔلُونَكَ مَاذَا يُنفِقُونَۖ قُلۡ مَآ أَنفَقۡتُم مِّنۡ خَيۡرٖ فَلِلۡوَٰلِدَيۡنِ وَٱلۡأَقۡرَبِينَ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِۗ وَمَا تَفۡعَلُواْ مِنۡ خَيۡرٖ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٞ",
-    "translation": "Nagtatanong sila sa iyo kung ano ang gugugulin nila. Sabihin mo: “Ang anumang gugugulin ninyo na kabutihan ay ukol sa mga magulang, mga kamag-anak, mga ulila, mga dukha, at kinapos sa daan.” Ang anumang ginagawa ninyo na kabutihan, tunay na si Allāh dito ay Maalam.",
-    "footnotes": ""
-  }
+  "id": 215,
+  "verse_number": 215,
+  "page_number": 33,
+  "verse_key": "2:215",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَسۡـَٔلُونَكَ مَاذَا يُنفِقُونَۖ قُلۡ مَآ أَنفَقۡتُم مِّنۡ خَيۡرٖ فَلِلۡوَٰلِدَيۡنِ وَٱلۡأَقۡرَبِينَ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِۗ وَمَا تَفۡعَلُواْ مِنۡ خَيۡرٖ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٞ",
+  "translation": "Nagtatanong sila sa iyo kung ano ang gugugulin nila. Sabihin mo: “Ang anumang gugugulin ninyo na kabutihan ay ukol sa mga magulang, mga kamag-anak, mga ulila, mga dukha, at kinapos sa daan.” Ang anumang ginagawa ninyo na kabutihan, tunay na si Allāh dito ay Maalam.",
+  "footnotes": ""
 }

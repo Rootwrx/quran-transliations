@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4348",
-    "sura": "43",
-    "aya": "23",
-    "arabic_text": "وَكَذَٰلِكَ مَآ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي قَرۡيَةٖ مِّن نَّذِيرٍ إِلَّا قَالَ مُتۡرَفُوهَآ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقۡتَدُونَ",
-    "translation": "Na kadhaalika hatukumtuma mwonyaji kwenye mji wowote ila watu wake walio deka kwa starehe walisema: Hakika sisi tuliwakuta baba zetu wanashika dini makhsusi, na sisi tunafuata nyayo zao.",
-    "footnotes": "Mfano wa hali ya watu hawa ni mfano wa mataifa yaliyo tangulia. Hatukumtuma Mtume yeyote kwenye mji kabla yako ila walisema wale wenye kuneemeka katika huo mji, nao ndio walio takabari kwa hizo neema: Hakika sisi tumewakuta baba zetu wakifuata dini hii, basi ndio sisi tunakwenda mwendo wao. Basi kufuata kijinga ni upotovu wa tangu kale."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 491,
+  "verse_key": "43:23",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ مَآ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي قَرۡيَةٖ مِّن نَّذِيرٍ إِلَّا قَالَ مُتۡرَفُوهَآ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّقۡتَدُونَ",
+  "translation": "Na kadhaalika hatukumtuma mwonyaji kwenye mji wowote ila watu wake walio deka kwa starehe walisema: Hakika sisi tuliwakuta baba zetu wanashika dini makhsusi, na sisi tunafuata nyayo zao.",
+  "footnotes": "Mfano wa hali ya watu hawa ni mfano wa mataifa yaliyo tangulia. Hatukumtuma Mtume yeyote kwenye mji kabla yako ila walisema wale wenye kuneemeka katika huo mji, nao ndio walio takabari kwa hizo neema: Hakika sisi tumewakuta baba zetu wakifuata dini hii, basi ndio sisi tunakwenda mwendo wao. Basi kufuata kijinga ni upotovu wa tangu kale."
 }

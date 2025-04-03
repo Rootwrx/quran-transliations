@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2995",
-    "sura": "26",
-    "aya": "63",
-    "arabic_text": "فَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضۡرِب بِّعَصَاكَ ٱلۡبَحۡرَۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرۡقٖ كَٱلطَّوۡدِ ٱلۡعَظِيمِ",
-    "translation": "Tulimletea wahyi Musa tukamwambia: Piga bahari kwa fimbo yako. Basi ikatengana, na kila sehemu ikawa kama mlima mkubwa.",
-    "footnotes": "Tukamuamrisha Musa kwa wahyi, ufunuo, aipige bahari kwa fimbo yake. Ikapasuka bahari njia kumi na mbili kwa mujibu wa idadi ya mataifa ya Wana wa Israili. Kila njia katika hizo njia ilikuwa na kizuizi cha maji yaliyo nyanyuka kama mlima ulio simama imara."
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 370,
+  "verse_key": "26:63",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰٓ أَنِ ٱضۡرِب بِّعَصَاكَ ٱلۡبَحۡرَۖ فَٱنفَلَقَ فَكَانَ كُلُّ فِرۡقٖ كَٱلطَّوۡدِ ٱلۡعَظِيمِ",
+  "translation": "Tulimletea wahyi Musa tukamwambia: Piga bahari kwa fimbo yako. Basi ikatengana, na kila sehemu ikawa kama mlima mkubwa.",
+  "footnotes": "Tukamuamrisha Musa kwa wahyi, ufunuo, aipige bahari kwa fimbo yake. Ikapasuka bahari njia kumi na mbili kwa mujibu wa idadi ya mataifa ya Wana wa Israili. Kila njia katika hizo njia ilikuwa na kizuizi cha maji yaliyo nyanyuka kama mlima ulio simama imara."
 }

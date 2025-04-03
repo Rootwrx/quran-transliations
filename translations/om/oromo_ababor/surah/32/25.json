@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3528",
-    "sura": "32",
-    "aya": "25",
-    "arabic_text": "إِنَّ رَبَّكَ هُوَ يَفۡصِلُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
-    "translation": "Gooftaan kee isumatu Guyyaa Qiyaamaa gidduu isaaniitti murteessa wantoota isaan isa keessatti wal dhabaa turan keessatti.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 417,
+  "verse_key": "32:25",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ رَبَّكَ هُوَ يَفۡصِلُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
+  "translation": "Gooftaan kee isumatu Guyyaa Qiyaamaa gidduu isaaniitti murteessa wantoota isaan isa keessatti wal dhabaa turan keessatti.",
+  "footnotes": ""
 }

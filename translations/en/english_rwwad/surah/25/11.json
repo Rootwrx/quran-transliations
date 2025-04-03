@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2866",
-    "sura": "25",
-    "aya": "11",
-    "arabic_text": "بَلۡ كَذَّبُواْ بِٱلسَّاعَةِۖ وَأَعۡتَدۡنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ سَعِيرًا",
-    "translation": "But they deny the Hour, and We have prepared for those who deny the Hour[4] a Blazing Fire.",
-    "footnotes": "[4] i.e., the Resurrection Day."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 360,
+  "verse_key": "25:11",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ كَذَّبُواْ بِٱلسَّاعَةِۖ وَأَعۡتَدۡنَا لِمَن كَذَّبَ بِٱلسَّاعَةِ سَعِيرًا",
+  "translation": "But they deny the Hour, and We have prepared for those who deny the Hour[4] a Blazing Fire.",
+  "footnotes": "[4] i.e., the Resurrection Day."
 }

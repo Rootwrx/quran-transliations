@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1343",
-    "sura": "9",
-    "aya": "108",
-    "arabic_text": "لَا تَقُمۡ فِيهِ أَبَدٗاۚ لَّمَسۡجِدٌ أُسِّسَ عَلَى ٱلتَّقۡوَىٰ مِنۡ أَوَّلِ يَوۡمٍ أَحَقُّ أَن تَقُومَ فِيهِۚ فِيهِ رِجَالٞ يُحِبُّونَ أَن يَتَطَهَّرُواْۚ وَٱللَّهُ يُحِبُّ ٱلۡمُطَّهِّرِينَ",
-    "translation": "Usisimame kwenye msikiti huo kabisa. Msikiti ulio jengwa juu ya msingi wa uchamngu tangu siku ya mwanzo unastahiki zaidi wewe usimame ndani yake. Humo wamo watu wanao penda kujitakasa. Na Mwenyezi Mungu anawapenda wanao jitakasa.",
-    "footnotes": "Ewe Mtume! Usisali kabisa katika msikiti huo. Msikiti unao faa kupata rehema za Mwenyezi Mungu na radhi zake tangu mwanzo kama Masjid Qubaa ndio unao stahiki kusimamishwa ndani yake ibada za Mwenyezi Mungu. Katika msikiti huo wamo watu wanao penda kujinadhifisha miili yao na nyoyo zao kwa kutekeleza ibada zilizo sawa. Na Mwenyezi anawapenda na anawalipa thawabu wanao jikaribisha kwake kwa kujit'ahirisha nje na ndani, kiwiliwili na kiroho."
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 204,
+  "verse_key": "9:108",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 81,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا تَقُمۡ فِيهِ أَبَدٗاۚ لَّمَسۡجِدٌ أُسِّسَ عَلَى ٱلتَّقۡوَىٰ مِنۡ أَوَّلِ يَوۡمٍ أَحَقُّ أَن تَقُومَ فِيهِۚ فِيهِ رِجَالٞ يُحِبُّونَ أَن يَتَطَهَّرُواْۚ وَٱللَّهُ يُحِبُّ ٱلۡمُطَّهِّرِينَ",
+  "translation": "Usisimame kwenye msikiti huo kabisa. Msikiti ulio jengwa juu ya msingi wa uchamngu tangu siku ya mwanzo unastahiki zaidi wewe usimame ndani yake. Humo wamo watu wanao penda kujitakasa. Na Mwenyezi Mungu anawapenda wanao jitakasa.",
+  "footnotes": "Ewe Mtume! Usisali kabisa katika msikiti huo. Msikiti unao faa kupata rehema za Mwenyezi Mungu na radhi zake tangu mwanzo kama Masjid Qubaa ndio unao stahiki kusimamishwa ndani yake ibada za Mwenyezi Mungu. Katika msikiti huo wamo watu wanao penda kujinadhifisha miili yao na nyoyo zao kwa kutekeleza ibada zilizo sawa. Na Mwenyezi anawapenda na anawalipa thawabu wanao jikaribisha kwake kwa kujit'ahirisha nje na ndani, kiwiliwili na kiroho."
 }

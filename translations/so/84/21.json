@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5905",
-    "sura": "84",
-    "aya": "21",
-    "arabic_text": "وَإِذَا قُرِئَ عَلَيۡهِمُ ٱلۡقُرۡءَانُ لَا يَسۡجُدُونَۤ۩",
-    "translation": "21. Marka Qur’aanka loo akhriyana uma sujuudaan Rabbigood (umana hoggansamaan)?",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 589,
+  "verse_key": "84:21",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 13,
+  "text": "وَإِذَا قُرِئَ عَلَيۡهِمُ ٱلۡقُرۡءَانُ لَا يَسۡجُدُونَۤ۩",
+  "translation": "21. Marka Qur’aanka loo akhriyana uma sujuudaan Rabbigood (umana hoggansamaan)?",
+  "footnotes": ""
 }

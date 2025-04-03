@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4414",
-    "sura": "43",
-    "aya": "89",
-    "arabic_text": "فَٱصۡفَحۡ عَنۡهُمۡ وَقُلۡ سَلَٰمٞۚ فَسَوۡفَ يَعۡلَمُونَ",
-    "translation": " 89. So turn away from them (O Muhammad صلى الله عليه و سلم), and say: Salâm (peace)! But they will come to know.[3]",
-    "footnotes": "(V.43:89) The provision of this Verse was abrogated by the revelation of the Verse of fighting them (V.9.5)."
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 495,
+  "verse_key": "43:89",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱصۡفَحۡ عَنۡهُمۡ وَقُلۡ سَلَٰمٞۚ فَسَوۡفَ يَعۡلَمُونَ",
+  "translation": " 89. So turn away from them (O Muhammad صلى الله عليه و سلم), and say: Salâm (peace)! But they will come to know.[3]",
+  "footnotes": "(V.43:89) The provision of this Verse was abrogated by the revelation of the Verse of fighting them (V.9.5)."
 }

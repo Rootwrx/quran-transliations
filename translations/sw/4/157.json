@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "650",
-    "sura": "4",
-    "aya": "157",
-    "arabic_text": "وَقَوۡلِهِمۡ إِنَّا قَتَلۡنَا ٱلۡمَسِيحَ عِيسَى ٱبۡنَ مَرۡيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمۡۚ وَإِنَّ ٱلَّذِينَ ٱخۡتَلَفُواْ فِيهِ لَفِي شَكّٖ مِّنۡهُۚ مَا لَهُم بِهِۦ مِنۡ عِلۡمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّۚ وَمَا قَتَلُوهُ يَقِينَۢا",
-    "translation": "Na kwa kusema kwao: Sisi tumemuuwa Masihi Isa, mwana wa Maryamu, Mtume wa Mwenyezi Mungu - nao hawakumuuwa wala hawakumsalibu, bali walifananishiwa tu. Na hakika walio khitalifiana katika haya wamo katika shaka nayo. Wao hawana ujuzi nayo wowote, ila ni kufuata dhana tu. Wala hawakumuuwa kwa yakini.",
-    "footnotes": "Na Mwenyezi Mungu pia amewaghadhibikia kwa kusema kwao uwongo: Hakika sisi tumemuuwa Masihi Isa bin Maryamu, Mtume wa Mwenyezi Mungu. Na kweli ya yakini ni kuwa hawakumuuwa kama wanavyo zua. Wala hawakumsulubu kama wanavyo dai. Lakini walifananishiwa, nao wakadhani kuwa wamemuuwa na wamemsalibu. Na hakika walimuuwa na kumsalibu aliye shabihiana naye. Nao wakaja kukhitalifiana baada ya hayo, kuwa aliyeuwawa ni Isa au mtu mwengine? Na wote hao, kwa hakika, wamo katika shaka tu juu ya jambo hilo. Kweli iliyopo ni kuwa hawana ujuzi nayo mambo haya, ila ni dhana tu. Kabisa hawakumuuwa Isa. (Wataalamu wa Biblia mpaka hii leo wamo kuzozana katika jambo hili. Mwenye kuzichungua Injili zinazo kubaliwa na Wakristo ataona kuwa hazina uthibitisho kuwa aliye salibiwa ndiye Yesu, au hata huyo naye alikufa msalabani au la.)"
-  }
+  "id": 157,
+  "verse_number": 157,
+  "page_number": 103,
+  "verse_key": "4:157",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَوۡلِهِمۡ إِنَّا قَتَلۡنَا ٱلۡمَسِيحَ عِيسَى ٱبۡنَ مَرۡيَمَ رَسُولَ ٱللَّهِ وَمَا قَتَلُوهُ وَمَا صَلَبُوهُ وَلَٰكِن شُبِّهَ لَهُمۡۚ وَإِنَّ ٱلَّذِينَ ٱخۡتَلَفُواْ فِيهِ لَفِي شَكّٖ مِّنۡهُۚ مَا لَهُم بِهِۦ مِنۡ عِلۡمٍ إِلَّا ٱتِّبَاعَ ٱلظَّنِّۚ وَمَا قَتَلُوهُ يَقِينَۢا",
+  "translation": "Na kwa kusema kwao: Sisi tumemuuwa Masihi Isa, mwana wa Maryamu, Mtume wa Mwenyezi Mungu - nao hawakumuuwa wala hawakumsalibu, bali walifananishiwa tu. Na hakika walio khitalifiana katika haya wamo katika shaka nayo. Wao hawana ujuzi nayo wowote, ila ni kufuata dhana tu. Wala hawakumuuwa kwa yakini.",
+  "footnotes": "Na Mwenyezi Mungu pia amewaghadhibikia kwa kusema kwao uwongo: Hakika sisi tumemuuwa Masihi Isa bin Maryamu, Mtume wa Mwenyezi Mungu. Na kweli ya yakini ni kuwa hawakumuuwa kama wanavyo zua. Wala hawakumsulubu kama wanavyo dai. Lakini walifananishiwa, nao wakadhani kuwa wamemuuwa na wamemsalibu. Na hakika walimuuwa na kumsalibu aliye shabihiana naye. Nao wakaja kukhitalifiana baada ya hayo, kuwa aliyeuwawa ni Isa au mtu mwengine? Na wote hao, kwa hakika, wamo katika shaka tu juu ya jambo hilo. Kweli iliyopo ni kuwa hawana ujuzi nayo mambo haya, ila ni dhana tu. Kabisa hawakumuuwa Isa. (Wataalamu wa Biblia mpaka hii leo wamo kuzozana katika jambo hili. Mwenye kuzichungua Injili zinazo kubaliwa na Wakristo ataona kuwa hazina uthibitisho kuwa aliye salibiwa ndiye Yesu, au hata huyo naye alikufa msalabani au la.)"
 }

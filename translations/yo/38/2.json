@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3972",
-    "sura": "38",
-    "aya": "2",
-    "arabic_text": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي عِزَّةٖ وَشِقَاقٖ",
-    "translation": "Síbẹ̀síbẹ̀ àwọn tó ṣàì gbàgbọ́ wà nínú ìgbéraga àti ìyapa (òdodo).",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 453,
+  "verse_key": "38:2",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي عِزَّةٖ وَشِقَاقٖ",
+  "translation": "Síbẹ̀síbẹ̀ àwọn tó ṣàì gbàgbọ́ wà nínú ìgbéraga àti ìyapa (òdodo).",
+  "footnotes": ""
 }

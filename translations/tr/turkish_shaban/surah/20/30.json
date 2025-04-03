@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2378",
-    "sura": "20",
-    "aya": "30",
-    "arabic_text": "هَٰرُونَ أَخِي",
-    "translation": "Kardeşim Harun’u ",
-    "footnotes": null
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 313,
+  "verse_key": "20:30",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰرُونَ أَخِي",
+  "translation": "Kardeşim Harun’u ",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3412",
-    "sura": "30",
-    "aya": "3",
-    "arabic_text": "فِيٓ أَدۡنَى ٱلۡأَرۡضِ وَهُم مِّنۢ بَعۡدِ غَلَبِهِمۡ سَيَغۡلِبُونَ",
-    "translation": "3. Ken (Ruum macxu kinnuk) baaxók fursi baaxól xayuk raqta baaxól buksumen, kaadu Ruum macxi buksumeek (kobrimeeniik) lakal fursi bukse-lon.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 404,
+  "verse_key": "30:3",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِيٓ أَدۡنَى ٱلۡأَرۡضِ وَهُم مِّنۢ بَعۡدِ غَلَبِهِمۡ سَيَغۡلِبُونَ",
+  "translation": "3. Ken (Ruum macxu kinnuk) baaxók fursi baaxól xayuk raqta baaxól buksumen, kaadu Ruum macxi buksumeek (kobrimeeniik) lakal fursi bukse-lon.",
+  "footnotes": ""
 }

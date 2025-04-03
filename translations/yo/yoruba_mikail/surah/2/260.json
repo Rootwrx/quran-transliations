@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "267",
-    "sura": "2",
-    "aya": "260",
-    "arabic_text": "وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ أَرِنِي كَيۡفَ تُحۡيِ ٱلۡمَوۡتَىٰۖ قَالَ أَوَلَمۡ تُؤۡمِنۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطۡمَئِنَّ قَلۡبِيۖ قَالَ فَخُذۡ أَرۡبَعَةٗ مِّنَ ٱلطَّيۡرِ فَصُرۡهُنَّ إِلَيۡكَ ثُمَّ ٱجۡعَلۡ عَلَىٰ كُلِّ جَبَلٖ مِّنۡهُنَّ جُزۡءٗا ثُمَّ ٱدۡعُهُنَّ يَأۡتِينَكَ سَعۡيٗاۚ وَٱعۡلَمۡ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
-    "translation": "Nígbà tí (Ànábì) ’Ibrọ̄hīm sọ pé: “Olúwa mi, fi hàn mí bí Ìwọ yó ṣe sọ àwọn òkú di alààyè.” (Allāhu) sọ pé: “Ṣé ìwọ kò gbàgbọ́ ni?” Ó sọ pé: “Bẹ́ẹ̀ ni (mo gbàgbọ́), ṣùgbọ́n kí ọkàn mi lè balẹ̀ ni”. (Allāhu) sọ pé: “Mú mẹ́rin nínú àwọn ẹyẹ, kí o so wọ́n mọ́lẹ̀ sí ọ̀dọ̀ rẹ (kí o pa wọ́n, kí o sì gún wọn papọ̀ mọ́ra wọn). Lẹ́yìn náà, fi ìpín nínú wọn sórí àpáta kọ̀ọ̀kan. Lẹ́yìn náà, pè wọ́n. Wọ́n máa sáré wá bá ọ. Kí o sì mọ̀ pé dájúdájú Allāhu ni Alágbára, Ọlọ́gbọ́n.”",
-    "footnotes": ""
-  }
+  "id": 260,
+  "verse_number": 260,
+  "page_number": 44,
+  "verse_key": "2:260",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 17,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ أَرِنِي كَيۡفَ تُحۡيِ ٱلۡمَوۡتَىٰۖ قَالَ أَوَلَمۡ تُؤۡمِنۖ قَالَ بَلَىٰ وَلَٰكِن لِّيَطۡمَئِنَّ قَلۡبِيۖ قَالَ فَخُذۡ أَرۡبَعَةٗ مِّنَ ٱلطَّيۡرِ فَصُرۡهُنَّ إِلَيۡكَ ثُمَّ ٱجۡعَلۡ عَلَىٰ كُلِّ جَبَلٖ مِّنۡهُنَّ جُزۡءٗا ثُمَّ ٱدۡعُهُنَّ يَأۡتِينَكَ سَعۡيٗاۚ وَٱعۡلَمۡ أَنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
+  "translation": "Nígbà tí (Ànábì) ’Ibrọ̄hīm sọ pé: “Olúwa mi, fi hàn mí bí Ìwọ yó ṣe sọ àwọn òkú di alààyè.” (Allāhu) sọ pé: “Ṣé ìwọ kò gbàgbọ́ ni?” Ó sọ pé: “Bẹ́ẹ̀ ni (mo gbàgbọ́), ṣùgbọ́n kí ọkàn mi lè balẹ̀ ni”. (Allāhu) sọ pé: “Mú mẹ́rin nínú àwọn ẹyẹ, kí o so wọ́n mọ́lẹ̀ sí ọ̀dọ̀ rẹ (kí o pa wọ́n, kí o sì gún wọn papọ̀ mọ́ra wọn). Lẹ́yìn náà, fi ìpín nínú wọn sórí àpáta kọ̀ọ̀kan. Lẹ́yìn náà, pè wọ́n. Wọ́n máa sáré wá bá ọ. Kí o sì mọ̀ pé dájúdájú Allāhu ni Alágbára, Ọlọ́gbọ́n.”",
+  "footnotes": ""
 }

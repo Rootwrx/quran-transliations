@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4394",
-    "sura": "43",
-    "aya": "69",
-    "arabic_text": "ٱلَّذِينَ ءَامَنُواْ بِـَٔايَٰتِنَا وَكَانُواْ مُسۡلِمِينَ",
-    "translation": "69. Kuwa rumeeyey Aayadahayaga ee ahaa Muslimiinta.",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 494,
+  "verse_key": "43:69",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَامَنُواْ بِـَٔايَٰتِنَا وَكَانُواْ مُسۡلِمِينَ",
+  "translation": "69. Kuwa rumeeyey Aayadahayaga ee ahaa Muslimiinta.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3659",
-    "sura": "34",
-    "aya": "53",
-    "arabic_text": "وَقَدۡ كَفَرُواْ بِهِۦ مِن قَبۡلُۖ وَيَقۡذِفُونَ بِٱلۡغَيۡبِ مِن مَّكَانِۭ بَعِيدٖ",
-    "translation": "53. Y rechazaron anteriormente la verdad (en la tierra) y solían hacer conjeturas sobre el gaib[824] cuando estaban lejos (de poder abarcar dicho conocimiento).",
-    "footnotes": "[824]  Ver la primera nota de la aleya 3 de la sura 2. En la vida mundanal dudaban sobre el Profeta Muhammad —que Al-lah lo bendiga y le dé la paz— y sobre la existencia de la otra vida, del Infierno y del Paraíso, etc."
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 434,
+  "verse_key": "34:53",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَدۡ كَفَرُواْ بِهِۦ مِن قَبۡلُۖ وَيَقۡذِفُونَ بِٱلۡغَيۡبِ مِن مَّكَانِۭ بَعِيدٖ",
+  "translation": "53. Y rechazaron anteriormente la verdad (en la tierra) y solían hacer conjeturas sobre el gaib[824] cuando estaban lejos (de poder abarcar dicho conocimiento).",
+  "footnotes": "[824]  Ver la primera nota de la aleya 3 de la sura 2. En la vida mundanal dudaban sobre el Profeta Muhammad —que Al-lah lo bendiga y le dé la paz— y sobre la existencia de la otra vida, del Infierno y del Paraíso, etc."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1765",
-    "sura": "14",
-    "aya": "15",
-    "arabic_text": "وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٖ",
-    "translation": "Et ils  demandèrent [à Allah] la victoire. Et tout tyran insolent fut déçu.",
-    "footnotes": "[485] Ils: peut se référer soit aux prophètes qui voulaient avoir la victoire contre les mécréants ou aux autres qui voulaient mettre fin aux menaces des prophètes contre eux."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 257,
+  "verse_key": "14:15",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٖ",
+  "translation": "Et ils  demandèrent [à Allah] la victoire. Et tout tyran insolent fut déçu.",
+  "footnotes": "[485] Ils: peut se référer soit aux prophètes qui voulaient avoir la victoire contre les mécréants ou aux autres qui voulaient mettre fin aux menaces des prophètes contre eux."
 }

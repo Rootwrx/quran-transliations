@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3840",
-    "sura": "37",
-    "aya": "52",
-    "arabic_text": "يَقُولُ أَءِنَّكَ لَمِنَ ٱلۡمُصَدِّقِينَ",
-    "translation": "der da sagte: .Gehörst du wirklich zu denjenigen, die es für wahr halten?",
-    "footnotes": null
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 448,
+  "verse_key": "37:52",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَقُولُ أَءِنَّكَ لَمِنَ ٱلۡمُصَدِّقِينَ",
+  "translation": "der da sagte: .Gehörst du wirklich zu denjenigen, die es für wahr halten?",
+  "footnotes": null
 }

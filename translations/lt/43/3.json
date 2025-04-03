@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4328",
-    "sura": "43",
-    "aya": "3",
-    "arabic_text": "إِنَّا جَعَلۡنَٰهُ قُرۡءَٰنًا عَرَبِيّٗا لَّعَلَّكُمۡ تَعۡقِلُونَ",
-    "translation": "3. Iš tiesų, Mes padarėme tai Koranu arabų kalba tam, kad jūs galėtumėte suprasti (jo reikšmes ir jo perspėjimus).",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 489,
+  "verse_key": "43:3",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا جَعَلۡنَٰهُ قُرۡءَٰنًا عَرَبِيّٗا لَّعَلَّكُمۡ تَعۡقِلُونَ",
+  "translation": "3. Iš tiesų, Mes padarėme tai Koranu arabų kalba tam, kad jūs galėtumėte suprasti (jo reikšmes ir jo perspėjimus).",
+  "footnotes": ""
 }

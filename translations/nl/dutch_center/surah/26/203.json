@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3135",
-    "sura": "26",
-    "aya": "203",
-    "arabic_text": "فَيَقُولُواْ هَلۡ نَحۡنُ مُنظَرُونَ",
-    "translation": "203. Dan zullen zij zeggen: “Kunnen wij uitstel krijgen?”",
-    "footnotes": ""
-  }
+  "id": 203,
+  "verse_number": 203,
+  "page_number": 375,
+  "verse_key": "26:203",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَيَقُولُواْ هَلۡ نَحۡنُ مُنظَرُونَ",
+  "translation": "203. Dan zullen zij zeggen: “Kunnen wij uitstel krijgen?”",
+  "footnotes": ""
 }

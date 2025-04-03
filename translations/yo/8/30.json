@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1190",
-    "sura": "8",
-    "aya": "30",
-    "arabic_text": "وَإِذۡ يَمۡكُرُ بِكَ ٱلَّذِينَ كَفَرُواْ لِيُثۡبِتُوكَ أَوۡ يَقۡتُلُوكَ أَوۡ يُخۡرِجُوكَۚ وَيَمۡكُرُونَ وَيَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
-    "translation": "(Rántí) nígbà tí àwọn tó ṣàì gbàgbọ́ ń déte sí ọ láti dè ọ́ mọ́lẹ̀ tàbí láti pa ọ́ tàbí láti yọ ọ́ kúrò nínú ìlú; wọ́n ń déte, Allāhu sì ń déte. Allāhu sì lóore jùlọ nínú àwọn adéte.[1]",
-    "footnotes": "1. Allāhu - subhānahu wa ta‘ālā - kì í ṣe adéte. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Baƙọrah; 2:15 àti sūrah as-Sọ̄ffāt; 37:125."
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 180,
+  "verse_key": "8:30",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ يَمۡكُرُ بِكَ ٱلَّذِينَ كَفَرُواْ لِيُثۡبِتُوكَ أَوۡ يَقۡتُلُوكَ أَوۡ يُخۡرِجُوكَۚ وَيَمۡكُرُونَ وَيَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
+  "translation": "(Rántí) nígbà tí àwọn tó ṣàì gbàgbọ́ ń déte sí ọ láti dè ọ́ mọ́lẹ̀ tàbí láti pa ọ́ tàbí láti yọ ọ́ kúrò nínú ìlú; wọ́n ń déte, Allāhu sì ń déte. Allāhu sì lóore jùlọ nínú àwọn adéte.[1]",
+  "footnotes": "1. Allāhu - subhānahu wa ta‘ālā - kì í ṣe adéte. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Baƙọrah; 2:15 àti sūrah as-Sọ̄ffāt; 37:125."
 }

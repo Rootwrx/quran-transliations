@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1056",
-    "sura": "7",
-    "aya": "102",
-    "arabic_text": "وَمَا وَجَدۡنَا لِأَكۡثَرِهِم مِّنۡ عَهۡدٖۖ وَإِن وَجَدۡنَآ أَكۡثَرَهُمۡ لَفَٰسِقِينَ",
-    "translation": "Dan Kami tidak mendapati kebanyakan mereka memenuhi janji. Sebaliknya yang Kami dapati kebanyakan mereka adalah orang-orang yang benar-benar fasik.",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 163,
+  "verse_key": "7:102",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا وَجَدۡنَا لِأَكۡثَرِهِم مِّنۡ عَهۡدٖۖ وَإِن وَجَدۡنَآ أَكۡثَرَهُمۡ لَفَٰسِقِينَ",
+  "translation": "Dan Kami tidak mendapati kebanyakan mereka memenuhi janji. Sebaliknya yang Kami dapati kebanyakan mereka adalah orang-orang yang benar-benar fasik.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5132",
-    "sura": "59",
-    "aya": "6",
-    "arabic_text": "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنۡهُمۡ فَمَآ أَوۡجَفۡتُمۡ عَلَيۡهِ مِنۡ خَيۡلٖ وَلَا رِكَابٖ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Na mali aliyo leta Mwenyezi Mungu kwa Mtume wake kutoka kwao hamkuyakimbilia mbio kwa farasi wala ngamia. Lakini Mwenyezi Mungu huwapa mamlaka Mitume wake juu ya wowote awatakao. Na Mwenyezi Mungu ni Muweza juu ya kila kitu.",
-    "footnotes": "Na aliyo yaleta Mwenyezi Mungu na akayarudisha kwa Mtume wake katika mali ya Banu Nnadhir hamkuyapigia mbio nyinyi kwa farasi wala ngamia. Lakini Mwenyezi Mungu huwapa madaraka Mitume wake kwa awatakao katika waja wake bila ya kupigana vita. Na Mwenyezi Mungu ni Mtimilivu wa uweza juu ya kila kitu."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 546,
+  "verse_key": "59:6",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنۡهُمۡ فَمَآ أَوۡجَفۡتُمۡ عَلَيۡهِ مِنۡ خَيۡلٖ وَلَا رِكَابٖ وَلَٰكِنَّ ٱللَّهَ يُسَلِّطُ رُسُلَهُۥ عَلَىٰ مَن يَشَآءُۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Na mali aliyo leta Mwenyezi Mungu kwa Mtume wake kutoka kwao hamkuyakimbilia mbio kwa farasi wala ngamia. Lakini Mwenyezi Mungu huwapa mamlaka Mitume wake juu ya wowote awatakao. Na Mwenyezi Mungu ni Muweza juu ya kila kitu.",
+  "footnotes": "Na aliyo yaleta Mwenyezi Mungu na akayarudisha kwa Mtume wake katika mali ya Banu Nnadhir hamkuyapigia mbio nyinyi kwa farasi wala ngamia. Lakini Mwenyezi Mungu huwapa madaraka Mitume wake kwa awatakao katika waja wake bila ya kupigana vita. Na Mwenyezi Mungu ni Mtimilivu wa uweza juu ya kila kitu."
 }

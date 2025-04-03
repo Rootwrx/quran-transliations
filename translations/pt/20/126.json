@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2474",
-    "sura": "20",
-    "aya": "126",
-    "arabic_text": "قَالَ كَذَٰلِكَ أَتَتۡكَ ءَايَٰتُنَا فَنَسِيتَهَاۖ وَكَذَٰلِكَ ٱلۡيَوۡمَ تُنسَىٰ",
-    "translation": "Allah dirá: \"Assim é. Nossos sinais chegaram-te e tu os esqueceste. E assim, hoje, és esquecido.\"",
-    "footnotes": ""
-  }
+  "id": 126,
+  "verse_number": 126,
+  "page_number": 321,
+  "verse_key": "20:126",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ كَذَٰلِكَ أَتَتۡكَ ءَايَٰتُنَا فَنَسِيتَهَاۖ وَكَذَٰلِكَ ٱلۡيَوۡمَ تُنسَىٰ",
+  "translation": "Allah dirá: \"Assim é. Nossos sinais chegaram-te e tu os esqueceste. E assim, hoje, és esquecido.\"",
+  "footnotes": ""
 }

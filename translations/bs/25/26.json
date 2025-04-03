@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2881",
-    "sura": "25",
-    "aya": "26",
-    "arabic_text": "ٱلۡمُلۡكُ يَوۡمَئِذٍ ٱلۡحَقُّ لِلرَّحۡمَٰنِۚ وَكَانَ يَوۡمًا عَلَى ٱلۡكَٰفِرِينَ عَسِيرٗا",
-    "translation": "taj dan će istinska vlast biti samo u Svemilosnog, a bit će to mučan dan za nevjernike. ",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 362,
+  "verse_key": "25:26",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡمُلۡكُ يَوۡمَئِذٍ ٱلۡحَقُّ لِلرَّحۡمَٰنِۚ وَكَانَ يَوۡمًا عَلَى ٱلۡكَٰفِرِينَ عَسِيرٗا",
+  "translation": "taj dan će istinska vlast biti samo u Svemilosnog, a bit će to mučan dan za nevjernike. ",
+  "footnotes": ""
 }

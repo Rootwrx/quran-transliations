@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3900",
-    "sura": "37",
-    "aya": "112",
-    "arabic_text": "وَبَشَّرۡنَٰهُ بِإِسۡحَٰقَ نَبِيّٗا مِّنَ ٱلصَّٰلِحِينَ",
-    "translation": "A tún fún un ní ìró ìdùnnú (nípa bíbí) ’Ishāƙ, (ó máa jẹ́) Ànábì. (Ó sì máa wà) nínú àwọn ẹni rere.",
-    "footnotes": ""
-  }
+  "id": 112,
+  "verse_number": 112,
+  "page_number": 450,
+  "verse_key": "37:112",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبَشَّرۡنَٰهُ بِإِسۡحَٰقَ نَبِيّٗا مِّنَ ٱلصَّٰلِحِينَ",
+  "translation": "A tún fún un ní ìró ìdùnnú (nípa bíbí) ’Ishāƙ, (ó máa jẹ́) Ànábì. (Ó sì máa wà) nínú àwọn ẹni rere.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1160",
-    "sura": "7",
-    "aya": "206",
-    "arabic_text": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسۡجُدُونَۤ۩",
-    "translation": "Indeed, those [angels] who are near to your Lord do not disdain to worship Him; they glorify Him, and to Him they prostrate.",
-    "footnotes": ""
-  }
+  "id": 206,
+  "verse_number": 206,
+  "page_number": 176,
+  "verse_key": "7:206",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 1,
+  "text": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسۡجُدُونَۤ۩",
+  "translation": "Indeed, those [angels] who are near to your Lord do not disdain to worship Him; they glorify Him, and to Him they prostrate.",
+  "footnotes": ""
 }

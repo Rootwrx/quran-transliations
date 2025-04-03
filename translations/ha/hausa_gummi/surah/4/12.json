@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "505",
-    "sura": "4",
-    "aya": "12",
-    "arabic_text": "۞ وَلَكُمۡ نِصۡفُ مَا تَرَكَ أَزۡوَٰجُكُمۡ إِن لَّمۡ يَكُن لَّهُنَّ وَلَدٞۚ فَإِن كَانَ لَهُنَّ وَلَدٞ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكۡنَۚ مِنۢ بَعۡدِ وَصِيَّةٖ يُوصِينَ بِهَآ أَوۡ دَيۡنٖۚ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكۡتُمۡ إِن لَّمۡ يَكُن لَّكُمۡ وَلَدٞۚ فَإِن كَانَ لَكُمۡ وَلَدٞ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكۡتُمۚ مِّنۢ بَعۡدِ وَصِيَّةٖ تُوصُونَ بِهَآ أَوۡ دَيۡنٖۗ وَإِن كَانَ رَجُلٞ يُورَثُ كَلَٰلَةً أَوِ ٱمۡرَأَةٞ وَلَهُۥٓ أَخٌ أَوۡ أُخۡتٞ فَلِكُلِّ وَٰحِدٖ مِّنۡهُمَا ٱلسُّدُسُۚ فَإِن كَانُوٓاْ أَكۡثَرَ مِن ذَٰلِكَ فَهُمۡ شُرَكَآءُ فِي ٱلثُّلُثِۚ مِنۢ بَعۡدِ وَصِيَّةٖ يُوصَىٰ بِهَآ أَوۡ دَيۡنٍ غَيۡرَ مُضَآرّٖۚ وَصِيَّةٗ مِّنَ ٱللَّهِۗ وَٱللَّهُ عَلِيمٌ حَلِيمٞ",
-    "translation": "Kuma kunã da rabin abin da mãtanku na aure suka bari idan rẽshe bai kasance gare su ba. Sa'an nan idan rẽshe ya kasance gare su, to, kunã da rubu'i (ɗaya daga cikin kashi huɗu) daga abin da suka barin, daga bãyan wasiyya wadda suka yi kõ kuma bãshi. (Sũ) kuma suna da rubu'i daga abin da kuka bari idan rẽshe bai kasance ba gare ku, idan kuwa rẽshe ya kasance gare ku, to, sunã da sumuni (ɗaya daga cikin kashi takwas) daga abin da kuka bari, daga bãyan wasiyya wadda kuka yi kõ kuwa bãshi. Idan wani namiji ya kasance ana gãdon sa bisa kalãla, ko kuwa wata mace alhãli kuwa yana da ɗan'uwa kõ 'yar'uwa* to, kõwane ɗaya daga cikinsu yana da sudusi (ɗaya daga cikin kashi shida), sai idan sun kasance mafi yawa daga wannan, to, sũ abõkan tãrayya ne a cikinsulusi (ɗaya bisa uku), daga bãyan wasiyya wadda aka yi kõ kuma bãshi. Bã da yana mai cũtarwa ba, ga wasiyya, daga Allah. Kuma Allah Masani ne Mai haƙuri.",
-    "footnotes": "* Ɗan'uwa kõ 'yar'uwa, a nan,ana nufin li'ummi kõ li'ummiya, kõwane ɗayansu yana da sudusi; idan sunã da yawa, watau sun kai biyu kõ abin da ya fi biyu, to, suna da sulusi. Babu bambanci tsakanin namiji da mace gare su, dõmin jihar gadonsu mace ce,watau uwar mamacin."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 79,
+  "verse_key": "4:12",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 32,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَكُمۡ نِصۡفُ مَا تَرَكَ أَزۡوَٰجُكُمۡ إِن لَّمۡ يَكُن لَّهُنَّ وَلَدٞۚ فَإِن كَانَ لَهُنَّ وَلَدٞ فَلَكُمُ ٱلرُّبُعُ مِمَّا تَرَكۡنَۚ مِنۢ بَعۡدِ وَصِيَّةٖ يُوصِينَ بِهَآ أَوۡ دَيۡنٖۚ وَلَهُنَّ ٱلرُّبُعُ مِمَّا تَرَكۡتُمۡ إِن لَّمۡ يَكُن لَّكُمۡ وَلَدٞۚ فَإِن كَانَ لَكُمۡ وَلَدٞ فَلَهُنَّ ٱلثُّمُنُ مِمَّا تَرَكۡتُمۚ مِّنۢ بَعۡدِ وَصِيَّةٖ تُوصُونَ بِهَآ أَوۡ دَيۡنٖۗ وَإِن كَانَ رَجُلٞ يُورَثُ كَلَٰلَةً أَوِ ٱمۡرَأَةٞ وَلَهُۥٓ أَخٌ أَوۡ أُخۡتٞ فَلِكُلِّ وَٰحِدٖ مِّنۡهُمَا ٱلسُّدُسُۚ فَإِن كَانُوٓاْ أَكۡثَرَ مِن ذَٰلِكَ فَهُمۡ شُرَكَآءُ فِي ٱلثُّلُثِۚ مِنۢ بَعۡدِ وَصِيَّةٖ يُوصَىٰ بِهَآ أَوۡ دَيۡنٍ غَيۡرَ مُضَآرّٖۚ وَصِيَّةٗ مِّنَ ٱللَّهِۗ وَٱللَّهُ عَلِيمٌ حَلِيمٞ",
+  "translation": "Kuma kunã da rabin abin da mãtanku na aure suka bari idan rẽshe bai kasance gare su ba. Sa'an nan idan rẽshe ya kasance gare su, to, kunã da rubu'i (ɗaya daga cikin kashi huɗu) daga abin da suka barin, daga bãyan wasiyya wadda suka yi kõ kuma bãshi. (Sũ) kuma suna da rubu'i daga abin da kuka bari idan rẽshe bai kasance ba gare ku, idan kuwa rẽshe ya kasance gare ku, to, sunã da sumuni (ɗaya daga cikin kashi takwas) daga abin da kuka bari, daga bãyan wasiyya wadda kuka yi kõ kuwa bãshi. Idan wani namiji ya kasance ana gãdon sa bisa kalãla, ko kuwa wata mace alhãli kuwa yana da ɗan'uwa kõ 'yar'uwa* to, kõwane ɗaya daga cikinsu yana da sudusi (ɗaya daga cikin kashi shida), sai idan sun kasance mafi yawa daga wannan, to, sũ abõkan tãrayya ne a cikinsulusi (ɗaya bisa uku), daga bãyan wasiyya wadda aka yi kõ kuma bãshi. Bã da yana mai cũtarwa ba, ga wasiyya, daga Allah. Kuma Allah Masani ne Mai haƙuri.",
+  "footnotes": "* Ɗan'uwa kõ 'yar'uwa, a nan,ana nufin li'ummi kõ li'ummiya, kõwane ɗayansu yana da sudusi; idan sunã da yawa, watau sun kai biyu kõ abin da ya fi biyu, to, suna da sulusi. Babu bambanci tsakanin namiji da mace gare su, dõmin jihar gadonsu mace ce,watau uwar mamacin."
 }

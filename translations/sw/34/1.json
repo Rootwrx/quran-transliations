@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3607",
-    "sura": "34",
-    "aya": "1",
-    "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَلَهُ ٱلۡحَمۡدُ فِي ٱلۡأٓخِرَةِۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ",
-    "translation": "Sifa njema zote ni za Mwenyezi Mungu, ambaye ni vyake vyote viliomo mbnguni na katika ardhi. Na sifa ni zake Yeye katika Akhera. Naye ni Mwenye hikima, Mwenye khabari.",
-    "footnotes": "Sifa zote nzuri ni haki ya Mwenyezi Mungu, ambaye ndiye Mwenye kuumba, na Mwenye kumiliki, na Mwenye kupanga vyote vilioko mbinguni, na vilioko katika ardhi. Na Yeye peke yake ndiye Mwenye sifa Akhera, kwa kutamalaki kwake kuliko enea. Naye ndiye Mwenye hikima asiye kosa, Mwenye khabari zote, hapana asicho kijua siri yake."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 428,
+  "verse_key": "34:1",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَلَهُ ٱلۡحَمۡدُ فِي ٱلۡأٓخِرَةِۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ",
+  "translation": "Sifa njema zote ni za Mwenyezi Mungu, ambaye ni vyake vyote viliomo mbnguni na katika ardhi. Na sifa ni zake Yeye katika Akhera. Naye ni Mwenye hikima, Mwenye khabari.",
+  "footnotes": "Sifa zote nzuri ni haki ya Mwenyezi Mungu, ambaye ndiye Mwenye kuumba, na Mwenye kumiliki, na Mwenye kupanga vyote vilioko mbinguni, na vilioko katika ardhi. Na Yeye peke yake ndiye Mwenye sifa Akhera, kwa kutamalaki kwake kuliko enea. Naye ndiye Mwenye hikima asiye kosa, Mwenye khabari zote, hapana asicho kijua siri yake."
 }

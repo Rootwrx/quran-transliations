@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4454",
-    "sura": "44",
-    "aya": "40",
-    "arabic_text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ",
-    "translation": "40. Ciertamente, el día decisivo (el Día de la Resurrección, en el que los creyentes se separarán de quienes rechazaron la verdad)es la fecha decretada para reunirlos a todos (y juzgarlos).",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 498,
+  "verse_key": "44:40",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ يَوۡمَ ٱلۡفَصۡلِ مِيقَٰتُهُمۡ أَجۡمَعِينَ",
+  "translation": "40. Ciertamente, el día decisivo (el Día de la Resurrección, en el que los creyentes se separarán de quienes rechazaron la verdad)es la fecha decretada para reunirlos a todos (y juzgarlos).",
+  "footnotes": ""
 }

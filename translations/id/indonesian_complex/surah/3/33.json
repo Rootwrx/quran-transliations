@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "326",
-    "sura": "3",
-    "aya": "33",
-    "arabic_text": "۞ إِنَّ ٱللَّهَ ٱصۡطَفَىٰٓ ءَادَمَ وَنُوحٗا وَءَالَ إِبۡرَٰهِيمَ وَءَالَ عِمۡرَٰنَ عَلَى ٱلۡعَٰلَمِينَ",
-    "translation": "Sesungguhnya Allah telah memilih Adam, Nūḥ, keluarga Ibrāhīm dan keluarga ʻImrān melebihi segala umat (di masa mereka masing-masing),",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 54,
+  "verse_key": "3:33",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّ ٱللَّهَ ٱصۡطَفَىٰٓ ءَادَمَ وَنُوحٗا وَءَالَ إِبۡرَٰهِيمَ وَءَالَ عِمۡرَٰنَ عَلَى ٱلۡعَٰلَمِينَ",
+  "translation": "Sesungguhnya Allah telah memilih Adam, Nūḥ, keluarga Ibrāhīm dan keluarga ʻImrān melebihi segala umat (di masa mereka masing-masing),",
+  "footnotes": ""
 }

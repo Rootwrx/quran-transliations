@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1951",
-    "sura": "16",
-    "aya": "50",
-    "arabic_text": "يَخَافُونَ رَبَّهُم مِّن فَوۡقِهِمۡ وَيَفۡعَلُونَ مَا يُؤۡمَرُونَ۩",
-    "translation": "50 poussés par la crainte de leur Seigneur qui, au-dessus d’eux, règne sur la Création et dont ils mettent tous les ordres à exécution.",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 272,
+  "verse_key": "16:50",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 3,
+  "text": "يَخَافُونَ رَبَّهُم مِّن فَوۡقِهِمۡ وَيَفۡعَلُونَ مَا يُؤۡمَرُونَ۩",
+  "translation": "50 poussés par la crainte de leur Seigneur qui, au-dessus d’eux, règne sur la Création et dont ils mettent tous les ordres à exécution.",
+  "footnotes": ""
 }

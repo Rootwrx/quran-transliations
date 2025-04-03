@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2506",
-    "sura": "21",
-    "aya": "23",
-    "arabic_text": "لَا يُسۡـَٔلُ عَمَّا يَفۡعَلُ وَهُمۡ يُسۡـَٔلُونَ",
-    "translation": "O, yaptıklarından sorulmaz, oysa onlar sorguya çekilirler.",
-    "footnotes": null
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 323,
+  "verse_key": "21:23",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا يُسۡـَٔلُ عَمَّا يَفۡعَلُ وَهُمۡ يُسۡـَٔلُونَ",
+  "translation": "O, yaptıklarından sorulmaz, oysa onlar sorguya çekilirler.",
+  "footnotes": null
 }

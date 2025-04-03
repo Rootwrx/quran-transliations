@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4728",
-    "sura": "51",
-    "aya": "53",
-    "arabic_text": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
-    "translation": "难道他们曾以此话互相嘱咐吗？不然，他们都是悖逆的民众。",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 523,
+  "verse_key": "51:53",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
+  "translation": "难道他们曾以此话互相嘱咐吗？不然，他们都是悖逆的民众。",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2466",
-    "sura": "20",
-    "aya": "118",
-    "arabic_text": "إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعۡرَىٰ",
-    "translation": "Nokorε sε (Turo yi mu deε) εkͻm nne wo, na wonna adagya nso.",
-    "footnotes": ""
-  }
+  "id": 118,
+  "verse_number": 118,
+  "page_number": 320,
+  "verse_key": "20:118",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ لَكَ أَلَّا تَجُوعَ فِيهَا وَلَا تَعۡرَىٰ",
+  "translation": "Nokorε sε (Turo yi mu deε) εkͻm nne wo, na wonna adagya nso.",
+  "footnotes": ""
 }

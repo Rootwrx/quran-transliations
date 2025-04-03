@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3718",
-    "sura": "36",
-    "aya": "13",
-    "arabic_text": "وَٱضۡرِبۡ لَهُم مَّثَلًا أَصۡحَٰبَ ٱلۡقَرۡيَةِ إِذۡ جَآءَهَا ٱلۡمُرۡسَلُونَ",
-    "translation": "Fi àpèjúwe kan lélẹ̀ fún wọn nípa àwọn ará ìlú kan nígbà tí àwọn Òjíṣẹ́ wá bá wọn.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 441,
+  "verse_key": "36:13",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱضۡرِبۡ لَهُم مَّثَلًا أَصۡحَٰبَ ٱلۡقَرۡيَةِ إِذۡ جَآءَهَا ٱلۡمُرۡسَلُونَ",
+  "translation": "Fi àpèjúwe kan lélẹ̀ fún wọn nípa àwọn ará ìlú kan nígbà tí àwọn Òjíṣẹ́ wá bá wọn.",
+  "footnotes": ""
 }

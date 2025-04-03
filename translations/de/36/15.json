@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3720",
-    "sura": "36",
-    "aya": "15",
-    "arabic_text": "قَالُواْ مَآ أَنتُمۡ إِلَّا بَشَرٞ مِّثۡلُنَا وَمَآ أَنزَلَ ٱلرَّحۡمَٰنُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا تَكۡذِبُونَ",
-    "translation": "Sie sagten: „Ihr seid nur menschliche Wesen wie wir. Nichts (als Offenbarung) hat der Allerbarmer herabgesandt. Ihr lügt nur.",
-    "footnotes": null
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 441,
+  "verse_key": "36:15",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ مَآ أَنتُمۡ إِلَّا بَشَرٞ مِّثۡلُنَا وَمَآ أَنزَلَ ٱلرَّحۡمَٰنُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا تَكۡذِبُونَ",
+  "translation": "Sie sagten: „Ihr seid nur menschliche Wesen wie wir. Nichts (als Offenbarung) hat der Allerbarmer herabgesandt. Ihr lügt nur.",
+  "footnotes": null
 }

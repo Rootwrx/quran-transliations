@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4144",
-    "sura": "40",
-    "aya": "11",
-    "arabic_text": "قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ",
-    "translation": "11. Waxay odhan: Rabbigayow! Waxaad naga yeeshay meyd (aan nafi ku jirin) labo jeer, oo na siisay nolol labo jeer3. waan qirsannahay dunuubtayada’e, ee ma jiraa jid looga baxo (Naarta)?",
-    "footnotes": "3. Meyd labo jeer waa markuu qofka ku jiray uurka hooyadi ka hor intaan nafta la gelin iyo markuu dhinto. Nolol labo jeer waa marka nafta la geliyo isagoo uurka hooyadi ku jira iyo aakhirada marka la soo nooleeyo dhimasho kaddib."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 468,
+  "verse_key": "40:11",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ",
+  "translation": "11. Waxay odhan: Rabbigayow! Waxaad naga yeeshay meyd (aan nafi ku jirin) labo jeer, oo na siisay nolol labo jeer3. waan qirsannahay dunuubtayada’e, ee ma jiraa jid looga baxo (Naarta)?",
+  "footnotes": "3. Meyd labo jeer waa markuu qofka ku jiray uurka hooyadi ka hor intaan nafta la gelin iyo markuu dhinto. Nolol labo jeer waa marka nafta la geliyo isagoo uurka hooyadi ku jira iyo aakhirada marka la soo nooleeyo dhimasho kaddib."
 }

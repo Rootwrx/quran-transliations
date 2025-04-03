@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4242",
-    "sura": "41",
-    "aya": "24",
-    "arabic_text": "فَإِن يَصۡبِرُواْ فَٱلنَّارُ مَثۡوٗى لَّهُمۡۖ وَإِن يَسۡتَعۡتِبُواْ فَمَا هُم مِّنَ ٱلۡمُعۡتَبِينَ",
-    "translation": "Pa i ako bi otrpjeli, njihovo boravište bit će Vatra; a ako budu tražili naklonost da se vrate, oni neće biti od onih koji će naklonost zadobiti.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 479,
+  "verse_key": "41:24",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن يَصۡبِرُواْ فَٱلنَّارُ مَثۡوٗى لَّهُمۡۖ وَإِن يَسۡتَعۡتِبُواْ فَمَا هُم مِّنَ ٱلۡمُعۡتَبِينَ",
+  "translation": "Pa i ako bi otrpjeli, njihovo boravište bit će Vatra; a ako budu tražili naklonost da se vrate, oni neće biti od onih koji će naklonost zadobiti.",
+  "footnotes": ""
 }

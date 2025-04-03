@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "245",
-    "sura": "2",
-    "aya": "238",
-    "arabic_text": "حَٰفِظُواْ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلۡوُسۡطَىٰ وَقُومُواْ لِلَّهِ قَٰنِتِينَ",
-    "translation": " 238. Guard strictly (five obligatory) As-Salawât (the prayers) especially the middle Salât (i.e. the best prayer - ‘Asr )[1]. And stand before Allâh with obedience [and do not speak to others during the Salât (prayers)].",
-    "footnotes": "(V.2:238).\na) The sin of one who misses the ‘Asr prayer (intentionally):\n\"Narrated Ibn ‘Umar رضي الله عنهما: Allâh’s Messenger صلى الله عليه وسلم said, \"Whoever misses the ‘Asr prayers (intentionally), then it is as if he lost his family and property.\" (Sahih Al-Bukhâri, Vol.1, Hadîth No. 527).\n(b) One who omits (does not offer) the ‘Asr prayer (intentionally):*\nNarrated Abu Al-Malîh: We were with Buraidah in a battle on a cloudy day and he said, \"Offer the ‘Asr prayer early as the Prophet صلى الله عليه وسلم said, \"Whoever omits the ‘Asr prayer, all his (good) deeds will be lost.\" (Sahih Al-Bukhâri, Vol.1, Hadîth No.528).\n* i.e. The one who omits (does not offer) the ‘Asr prayer intentionally until its stated time is over and if he prays after that time, then it is useless."
-  }
+  "id": 238,
+  "verse_number": 238,
+  "page_number": 39,
+  "verse_key": "2:238",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 15,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَٰفِظُواْ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلۡوُسۡطَىٰ وَقُومُواْ لِلَّهِ قَٰنِتِينَ",
+  "translation": " 238. Guard strictly (five obligatory) As-Salawât (the prayers) especially the middle Salât (i.e. the best prayer - ‘Asr )[1]. And stand before Allâh with obedience [and do not speak to others during the Salât (prayers)].",
+  "footnotes": "(V.2:238).\na) The sin of one who misses the ‘Asr prayer (intentionally):\n\"Narrated Ibn ‘Umar رضي الله عنهما: Allâh’s Messenger صلى الله عليه وسلم said, \"Whoever misses the ‘Asr prayers (intentionally), then it is as if he lost his family and property.\" (Sahih Al-Bukhâri, Vol.1, Hadîth No. 527).\n(b) One who omits (does not offer) the ‘Asr prayer (intentionally):*\nNarrated Abu Al-Malîh: We were with Buraidah in a battle on a cloudy day and he said, \"Offer the ‘Asr prayer early as the Prophet صلى الله عليه وسلم said, \"Whoever omits the ‘Asr prayer, all his (good) deeds will be lost.\" (Sahih Al-Bukhâri, Vol.1, Hadîth No.528).\n* i.e. The one who omits (does not offer) the ‘Asr prayer intentionally until its stated time is over and if he prays after that time, then it is useless."
 }

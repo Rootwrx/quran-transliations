@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "443",
-    "sura": "3",
-    "aya": "150",
-    "arabic_text": "بَلِ ٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ خَيۡرُ ٱلنَّٰصِرِينَ",
-    "translation": "૧૫૦. પરંતુ અલ્લાહ જ તમારો દોસ્ત છે અને તે જ ઉત્તમ મદદ કરનાર છે.",
-    "footnotes": ""
-  }
+  "id": 150,
+  "verse_number": 150,
+  "page_number": 69,
+  "verse_key": "3:150",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلِ ٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ خَيۡرُ ٱلنَّٰصِرِينَ",
+  "translation": "૧૫૦. પરંતુ અલ્લાહ જ તમારો દોસ્ત છે અને તે જ ઉત્તમ મદદ કરનાર છે.",
+  "footnotes": ""
 }

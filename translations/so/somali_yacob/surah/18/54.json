@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2194",
-    "sura": "18",
-    "aya": "54",
-    "arabic_text": "وَلَقَدۡ صَرَّفۡنَا فِي هَٰذَا ٱلۡقُرۡءَانِ لِلنَّاسِ مِن كُلِّ مَثَلٖۚ وَكَانَ ٱلۡإِنسَٰنُ أَكۡثَرَ شَيۡءٖ جَدَلٗا",
-    "translation": "54. Waxaan dhab ahaan dadka ugu caddaynay Qur’aankan nooc kasta oo tusaale ah, Aadmiguna waa kan wax walba ugu dood badan.",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 300,
+  "verse_key": "18:54",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ صَرَّفۡنَا فِي هَٰذَا ٱلۡقُرۡءَانِ لِلنَّاسِ مِن كُلِّ مَثَلٖۚ وَكَانَ ٱلۡإِنسَٰنُ أَكۡثَرَ شَيۡءٖ جَدَلٗا",
+  "translation": "54. Waxaan dhab ahaan dadka ugu caddaynay Qur’aankan nooc kasta oo tusaale ah, Aadmiguna waa kan wax walba ugu dood badan.",
+  "footnotes": ""
 }

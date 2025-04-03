@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "422",
-    "sura": "3",
-    "aya": "129",
-    "arabic_text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
-    "translation": "Und Allah gehört (alles), was in den Himmeln und was auf der Erde ist. Er vergibt, wem Er will, und Er straft, wen Er will. Und Allah ist Allvergebend und Barmherzig.",
-    "footnotes": null
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 66,
+  "verse_key": "3:129",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "translation": "Und Allah gehört (alles), was in den Himmeln und was auf der Erde ist. Er vergibt, wem Er will, und Er straft, wen Er will. Und Allah ist Allvergebend und Barmherzig.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4345",
-    "sura": "43",
-    "aya": "20",
-    "arabic_text": "وَقَالُواْ لَوۡ شَآءَ ٱلرَّحۡمَٰنُ مَا عَبَدۡنَٰهُمۗ مَّا لَهُم بِذَٰلِكَ مِنۡ عِلۡمٍۖ إِنۡ هُمۡ إِلَّا يَخۡرُصُونَ",
-    "translation": "Baranavuze bati: “Iyo Nyenimpuhwe Ashaka, ntitwari gusenga na kimwe mu gishingo ciwe[4]”. Banguha! Nta cemezo bafise gishingiye ku bumenyi cemeza ivyo bavuga, bapfa kuvuga ibisunitswe n’impwemu, batanafitiye ivyemezo bivuye ku Mana Allah.",
-    "footnotes": "[4] Icitwazo c’ivyagezwe n’ishirwa mu ngiro ryavyo mu kubangikanya Imana Allah, nta shingiro namba gifise, kuko Imana Allah Yararungitse Intumwa, Izimanurira n’Ibitabu kugira zishikirize ibiremwa ubutumwa bw’Imana Allah butomoye."
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 490,
+  "verse_key": "43:20",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ لَوۡ شَآءَ ٱلرَّحۡمَٰنُ مَا عَبَدۡنَٰهُمۗ مَّا لَهُم بِذَٰلِكَ مِنۡ عِلۡمٍۖ إِنۡ هُمۡ إِلَّا يَخۡرُصُونَ",
+  "translation": "Baranavuze bati: “Iyo Nyenimpuhwe Ashaka, ntitwari gusenga na kimwe mu gishingo ciwe[4]”. Banguha! Nta cemezo bafise gishingiye ku bumenyi cemeza ivyo bavuga, bapfa kuvuga ibisunitswe n’impwemu, batanafitiye ivyemezo bivuye ku Mana Allah.",
+  "footnotes": "[4] Icitwazo c’ivyagezwe n’ishirwa mu ngiro ryavyo mu kubangikanya Imana Allah, nta shingiro namba gifise, kuko Imana Allah Yararungitse Intumwa, Izimanurira n’Ibitabu kugira zishikirize ibiremwa ubutumwa bw’Imana Allah butomoye."
 }

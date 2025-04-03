@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5665",
-    "sura": "77",
-    "aya": "43",
-    "arabic_text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "Yaptığınız ameller sebebi ile afiyetle yiyin, için.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 581,
+  "verse_key": "77:43",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "Yaptığınız ameller sebebi ile afiyetle yiyin, için.",
+  "footnotes": ""
 }

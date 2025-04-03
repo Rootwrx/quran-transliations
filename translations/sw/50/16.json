@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4646",
-    "sura": "50",
-    "aya": "16",
-    "arabic_text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥۖ وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنۡ حَبۡلِ ٱلۡوَرِيدِ",
-    "translation": "Na hakika tumemuumba mtu, nasi tunayajua yanayo mpitikia katika nafsi yake. Na Sisi tuko karibu naye kuliko mshipa wa shingoni mwake.",
-    "footnotes": "Ninaapa: Bila ya shaka tumemuumba mtu, na Sisi tunajua hata anayo semezwa na nafsi yake. Na Sisi kwa kuzijua hali zake zote, ni karibu kuliko mshipa wake wa damu ulioko shingoni mwake. Na hicho ndicho kitu kilicho karibu mno naye."
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 519,
+  "verse_key": "50:16",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥۖ وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنۡ حَبۡلِ ٱلۡوَرِيدِ",
+  "translation": "Na hakika tumemuumba mtu, nasi tunayajua yanayo mpitikia katika nafsi yake. Na Sisi tuko karibu naye kuliko mshipa wa shingoni mwake.",
+  "footnotes": "Ninaapa: Bila ya shaka tumemuumba mtu, na Sisi tunajua hata anayo semezwa na nafsi yake. Na Sisi kwa kuzijua hali zake zote, ni karibu kuliko mshipa wake wa damu ulioko shingoni mwake. Na hicho ndicho kitu kilicho karibu mno naye."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1683",
-    "sura": "12",
-    "aya": "87",
-    "arabic_text": "يَٰبَنِيَّ ٱذۡهَبُواْ فَتَحَسَّسُواْ مِن يُوسُفَ وَأَخِيهِ وَلَا تَاْيۡـَٔسُواْ مِن رَّوۡحِ ٱللَّهِۖ إِنَّهُۥ لَا يَاْيۡـَٔسُ مِن رَّوۡحِ ٱللَّهِ إِلَّا ٱلۡقَوۡمُ ٱلۡكَٰفِرُونَ",
-    "translation": "“O bijtë e mi, shkoni e kërkoni lajme për Jusufin dhe vëllain e tij dhe mos e humbni shpresën në mëshirën e Allahut. Shpresën në mëshirën e Allahut nuk e humb askush, përveç jobesimtarëve”.",
-    "footnotes": ""
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 246,
+  "verse_key": "12:87",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰبَنِيَّ ٱذۡهَبُواْ فَتَحَسَّسُواْ مِن يُوسُفَ وَأَخِيهِ وَلَا تَاْيۡـَٔسُواْ مِن رَّوۡحِ ٱللَّهِۖ إِنَّهُۥ لَا يَاْيۡـَٔسُ مِن رَّوۡحِ ٱللَّهِ إِلَّا ٱلۡقَوۡمُ ٱلۡكَٰفِرُونَ",
+  "translation": "“O bijtë e mi, shkoni e kërkoni lajme për Jusufin dhe vëllain e tij dhe mos e humbni shpresën në mëshirën e Allahut. Shpresën në mëshirën e Allahut nuk e humb askush, përveç jobesimtarëve”.",
+  "footnotes": ""
 }

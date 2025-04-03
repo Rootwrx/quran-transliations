@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "422",
-    "sura": "3",
-    "aya": "129",
-    "arabic_text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
-    "translation": "Ti Allāhu ni ohunkóhun tó wà nínú àwọn sánmọ̀ àti ohunkóhun tó wà nínú ilẹ̀. Ó ń foríjin ẹni tí Ó bá fẹ́, Ó sì ń jẹ ẹni tí Ó bá fẹ́ níyà. Allāhu sì ni Aláforíjìn, Aláàánú.",
-    "footnotes": ""
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 66,
+  "verse_key": "3:129",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "translation": "Ti Allāhu ni ohunkóhun tó wà nínú àwọn sánmọ̀ àti ohunkóhun tó wà nínú ilẹ̀. Ó ń foríjin ẹni tí Ó bá fẹ́, Ó sì ń jẹ ẹni tí Ó bá fẹ́ níyà. Allāhu sì ni Aláforíjìn, Aláàánú.",
+  "footnotes": ""
 }

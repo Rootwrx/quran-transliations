@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5902",
-    "sura": "84",
-    "aya": "18",
-    "arabic_text": "وَٱلۡقَمَرِ إِذَا ٱتَّسَقَ",
-    "translation": " Dolunay halindeki Ay’a.",
-    "footnotes": null
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 589,
+  "verse_key": "84:18",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡقَمَرِ إِذَا ٱتَّسَقَ",
+  "translation": " Dolunay halindeki Ay’a.",
+  "footnotes": null
 }

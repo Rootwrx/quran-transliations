@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3010",
-    "sura": "26",
-    "aya": "78",
-    "arabic_text": "ٱلَّذِي خَلَقَنِي فَهُوَ يَهۡدِينِ",
-    "translation": "ఆయనే నన్ను సృష్టించాడు. కాబట్టి ఆయనే నాకు మార్గదర్శకత్వం చేస్తాడు.",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 370,
+  "verse_key": "26:78",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي خَلَقَنِي فَهُوَ يَهۡدِينِ",
+  "translation": "ఆయనే నన్ను సృష్టించాడు. కాబట్టి ఆయనే నాకు మార్గదర్శకత్వం చేస్తాడు.",
+  "footnotes": ""
 }

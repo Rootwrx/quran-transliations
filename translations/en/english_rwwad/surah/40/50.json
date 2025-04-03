@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4183",
-    "sura": "40",
-    "aya": "50",
-    "arabic_text": "قَالُوٓاْ أَوَلَمۡ تَكُ تَأۡتِيكُمۡ رُسُلُكُم بِٱلۡبَيِّنَٰتِۖ قَالُواْ بَلَىٰۚ قَالُواْ فَٱدۡعُواْۗ وَمَا دُعَٰٓؤُاْ ٱلۡكَٰفِرِينَ إِلَّا فِي ضَلَٰلٍ",
-    "translation": "They will say, “Did your messengers not come to you with clear proofs?” They will say, “Yes.” They will say, “Then keep praying! The prayer of the disbelievers is only in vain.”",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 473,
+  "verse_key": "40:50",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَوَلَمۡ تَكُ تَأۡتِيكُمۡ رُسُلُكُم بِٱلۡبَيِّنَٰتِۖ قَالُواْ بَلَىٰۚ قَالُواْ فَٱدۡعُواْۗ وَمَا دُعَٰٓؤُاْ ٱلۡكَٰفِرِينَ إِلَّا فِي ضَلَٰلٍ",
+  "translation": "They will say, “Did your messengers not come to you with clear proofs?” They will say, “Yes.” They will say, “Then keep praying! The prayer of the disbelievers is only in vain.”",
+  "footnotes": ""
 }

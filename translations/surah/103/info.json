@@ -1,0 +1,27 @@
+{
+  "number": 103,
+  "name": {
+    "ar": "العصر",
+    "en": "The Declining Day, Epoch",
+    "transliteration": "Al-'Asr"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 13,
+  "bismillah_pre": true,
+  "verses_count": 3,
+  "words_count": 14,
+  "letters_count": 70,
+  "pages": [
+    601,
+    601
+  ],
+  "name_simple": "Al-'Asr",
+  "name_complex": "Al-`Aşr",
+  "name_arabic": "العصر",
+  "translated_name": "The Declining Day",
+  "start_page": 601,
+  "end_page": 601
+}

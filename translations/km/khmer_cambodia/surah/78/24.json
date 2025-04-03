@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5696",
-    "sura": "78",
-    "aya": "24",
-    "arabic_text": "لَّا يَذُوقُونَ فِيهَا بَرۡدٗا وَلَا شَرَابًا",
-    "translation": "ពួកគេមិនដែលស្គាល់រសជាតិត្រជាក់នៅទីនោះឡើយ ហើយក៏គ្មានទឹកផឹកដែរ។",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 582,
+  "verse_key": "78:24",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَذُوقُونَ فِيهَا بَرۡدٗا وَلَا شَرَابًا",
+  "translation": "ពួកគេមិនដែលស្គាល់រសជាតិត្រជាក់នៅទីនោះឡើយ ហើយក៏គ្មានទឹកផឹកដែរ។",
+  "footnotes": ""
 }

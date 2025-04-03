@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2157",
-    "sura": "18",
-    "aya": "17",
-    "arabic_text": "۞ وَتَرَى ٱلشَّمۡسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهۡفِهِمۡ ذَاتَ ٱلۡيَمِينِ وَإِذَا غَرَبَت تَّقۡرِضُهُمۡ ذَاتَ ٱلشِّمَالِ وَهُمۡ فِي فَجۡوَةٖ مِّنۡهُۚ ذَٰلِكَ مِنۡ ءَايَٰتِ ٱللَّهِۗ مَن يَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِۖ وَمَن يُضۡلِلۡ فَلَن تَجِدَ لَهُۥ وَلِيّٗا مُّرۡشِدٗا",
-    "translation": "Na unaliona jua linapo chomoza linainamia kuliani mwao kutoka hapo pangoni; na linapo kuchwa linawakwepa kushotoni, na wao wamo katika uwazi wa pango. Hizo ni katika ishara za Mwenyezi Mungu. Ambaye Mwenyezi Mungu anamwongoa basi huyo ni mwenye kuongoka. Na anaye muacha kupotea basi hutampatia mlinzi wala mwongozi.",
-    "footnotes": "Na lile pango lilikuwa kwenye mlima, lina nafasi ndani. Lilielekea kaskazini, linapigwa na upepo mzuri. Jua likichomoza muanga wake huwa kuliani mwao, na miale yake huwa mbali nao; na likichwa huwa kushotoni mwao. Kwa hivyo lile jua halipigi ndani ya pango, na kwa hivyo walisalimika na joto la jua, na upepo wa kaskazi unawaingilia. Na yote hayo ni katika ishara za kudra ya Mwenyezi Mungu. Na anaye pata tawfiki ya Mwenyezi Mungu kuokoka basi huokoka, na aliye kosa tawfiki hatopata wa kumwongoa baada yake."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 295,
+  "verse_key": "18:17",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَتَرَى ٱلشَّمۡسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهۡفِهِمۡ ذَاتَ ٱلۡيَمِينِ وَإِذَا غَرَبَت تَّقۡرِضُهُمۡ ذَاتَ ٱلشِّمَالِ وَهُمۡ فِي فَجۡوَةٖ مِّنۡهُۚ ذَٰلِكَ مِنۡ ءَايَٰتِ ٱللَّهِۗ مَن يَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِۖ وَمَن يُضۡلِلۡ فَلَن تَجِدَ لَهُۥ وَلِيّٗا مُّرۡشِدٗا",
+  "translation": "Na unaliona jua linapo chomoza linainamia kuliani mwao kutoka hapo pangoni; na linapo kuchwa linawakwepa kushotoni, na wao wamo katika uwazi wa pango. Hizo ni katika ishara za Mwenyezi Mungu. Ambaye Mwenyezi Mungu anamwongoa basi huyo ni mwenye kuongoka. Na anaye muacha kupotea basi hutampatia mlinzi wala mwongozi.",
+  "footnotes": "Na lile pango lilikuwa kwenye mlima, lina nafasi ndani. Lilielekea kaskazini, linapigwa na upepo mzuri. Jua likichomoza muanga wake huwa kuliani mwao, na miale yake huwa mbali nao; na likichwa huwa kushotoni mwao. Kwa hivyo lile jua halipigi ndani ya pango, na kwa hivyo walisalimika na joto la jua, na upepo wa kaskazi unawaingilia. Na yote hayo ni katika ishara za kudra ya Mwenyezi Mungu. Na anaye pata tawfiki ya Mwenyezi Mungu kuokoka basi huokoka, na aliye kosa tawfiki hatopata wa kumwongoa baada yake."
 }

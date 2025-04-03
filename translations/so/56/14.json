@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4993",
-    "sura": "56",
-    "aya": "14",
-    "arabic_text": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
-    "translation": "14.Iyo in yar oo ka mid ah facyadii dambe4.",
-    "footnotes": "4. Waxaa loola jeedaa kuwii ahaa aakhirka ummaddan."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 534,
+  "verse_key": "56:14",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَلِيلٞ مِّنَ ٱلۡأٓخِرِينَ",
+  "translation": "14.Iyo in yar oo ka mid ah facyadii dambe4.",
+  "footnotes": "4. Waxaa loola jeedaa kuwii ahaa aakhirka ummaddan."
 }

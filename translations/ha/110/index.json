@@ -1,26 +1,44 @@
 {
-  "result": [
+  "verses": [
     {
-      "id": "6214",
-      "sura": "110",
-      "aya": "1",
-      "arabic_text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+      "id": 1,
+      "verse_number": 1,
+      "page_number": 603,
+      "verse_key": "110:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
       "translation": "Idan taimakon Allah ya zo da cin nasara.",
       "footnotes": ""
     },
     {
-      "id": "6215",
-      "sura": "110",
-      "aya": "2",
-      "arabic_text": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا",
+      "id": 2,
+      "verse_number": 2,
+      "page_number": 603,
+      "verse_key": "110:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا",
       "translation": "Kuma ka ga mutane suna shiga addinin Allah, ƙungiya-ƙungiya.",
       "footnotes": ""
     },
     {
-      "id": "6216",
-      "sura": "110",
-      "aya": "3",
-      "arabic_text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+      "id": 3,
+      "verse_number": 3,
+      "page_number": 603,
+      "verse_key": "110:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
       "translation": "To, ka yi tasbihi game da gõde wa Ubangijinka, kuma ka nẽme Shi gafara, lalle Shi (Ubangijinka) Ya kasance Mai karɓar tũba ne.",
       "footnotes": ""
     }

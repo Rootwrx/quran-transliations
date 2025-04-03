@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4033",
-    "sura": "38",
-    "aya": "63",
-    "arabic_text": "أَتَّخَذۡنَٰهُمۡ سِخۡرِيًّا أَمۡ زَاغَتۡ عَنۡهُمُ ٱلۡأَبۡصَٰرُ",
-    "translation": "63. Nous étions-nous donc trompés en les raillant ou sont-ils là qui se dérobent à nos regards ? »",
-    "footnotes": ""
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 457,
+  "verse_key": "38:63",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَتَّخَذۡنَٰهُمۡ سِخۡرِيًّا أَمۡ زَاغَتۡ عَنۡهُمُ ٱلۡأَبۡصَٰرُ",
+  "translation": "63. Nous étions-nous donc trompés en les raillant ou sont-ils là qui se dérobent à nos regards ? »",
+  "footnotes": ""
 }

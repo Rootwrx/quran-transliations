@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4629",
-    "sura": "49",
-    "aya": "17",
-    "arabic_text": "يَمُنُّونَ عَلَيۡكَ أَنۡ أَسۡلَمُواْۖ قُل لَّا تَمُنُّواْ عَلَيَّ إِسۡلَٰمَكُمۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيۡكُمۡ أَنۡ هَدَىٰكُمۡ لِلۡإِيمَٰنِ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "Müslüman oldular diye seni minnet altında tutmak istiyorlar. De ki: Müslüman olmanız sebebiyle beni minnet altında bırakmayın, bilakis size doğru yolu gösterdiği için Allah sizi minnet altında tutar, eğer samimi iseniz. ",
-    "footnotes": null
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 517,
+  "verse_key": "49:17",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَمُنُّونَ عَلَيۡكَ أَنۡ أَسۡلَمُواْۖ قُل لَّا تَمُنُّواْ عَلَيَّ إِسۡلَٰمَكُمۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيۡكُمۡ أَنۡ هَدَىٰكُمۡ لِلۡإِيمَٰنِ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "Müslüman oldular diye seni minnet altında tutmak istiyorlar. De ki: Müslüman olmanız sebebiyle beni minnet altında bırakmayın, bilakis size doğru yolu gösterdiği için Allah sizi minnet altında tutar, eğer samimi iseniz. ",
+  "footnotes": null
 }

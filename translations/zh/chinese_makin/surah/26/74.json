@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3006",
-    "sura": "26",
-    "aya": "74",
-    "arabic_text": "قَالُواْ بَلۡ وَجَدۡنَآ ءَابَآءَنَا كَذَٰلِكَ يَفۡعَلُونَ",
-    "translation": "他们说：“不然，我们曾发现我们的祖先是那样做的。”",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 370,
+  "verse_key": "26:74",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ بَلۡ وَجَدۡنَآ ءَابَآءَنَا كَذَٰلِكَ يَفۡعَلُونَ",
+  "translation": "他们说：“不然，我们曾发现我们的祖先是那样做的。”",
+  "footnotes": ""
 }

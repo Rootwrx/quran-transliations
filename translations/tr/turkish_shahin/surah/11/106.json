@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1579",
-    "sura": "11",
-    "aya": "106",
-    "arabic_text": "فَأَمَّا ٱلَّذِينَ شَقُواْ فَفِي ٱلنَّارِ لَهُمۡ فِيهَا زَفِيرٞ وَشَهِيقٌ",
-    "translation": " Bedbaht olanlar ateştedirler, orada onların (öyle feci) nefes alıp vermeleri vardır ki;",
-    "footnotes": ""
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 233,
+  "verse_key": "11:106",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا ٱلَّذِينَ شَقُواْ فَفِي ٱلنَّارِ لَهُمۡ فِيهَا زَفِيرٞ وَشَهِيقٌ",
+  "translation": " Bedbaht olanlar ateştedirler, orada onların (öyle feci) nefes alıp vermeleri vardır ki;",
+  "footnotes": ""
 }

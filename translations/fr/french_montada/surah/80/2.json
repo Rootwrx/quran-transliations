@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5760",
-    "sura": "80",
-    "aya": "2",
-    "arabic_text": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
-    "translation": "2. parce que l’aveugle est venu vers lui (lui parler).[591]",
-    "footnotes": "[591] Allusion à l’aveugle Ibn Umm Maktûm qui était venu trouver le Prophète (paix et bénédiction d’Allah sur lui) pendant qu’il discutait avec des personnages importants de La Mecque. Gêné par cette irruption inopinée, le Prophète fronça les sourcils et ne cacha pas sa contrariété. Allah le lui a reproché dans cette sourate."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 585,
+  "verse_key": "80:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
+  "translation": "2. parce que l’aveugle est venu vers lui (lui parler).[591]",
+  "footnotes": "[591] Allusion à l’aveugle Ibn Umm Maktûm qui était venu trouver le Prophète (paix et bénédiction d’Allah sur lui) pendant qu’il discutait avec des personnages importants de La Mecque. Gêné par cette irruption inopinée, le Prophète fronça les sourcils et ne cacha pas sa contrariété. Allah le lui a reproché dans cette sourate."
 }

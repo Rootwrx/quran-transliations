@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2874",
-    "sura": "25",
-    "aya": "19",
-    "arabic_text": "فَقَدۡ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسۡتَطِيعُونَ صَرۡفٗا وَلَا نَصۡرٗاۚ وَمَن يَظۡلِم مِّنكُمۡ نُذِقۡهُ عَذَابٗا كَبِيرٗا",
-    "translation": "Oni će poreći to što vi govorite, a vi nećete biti u mogućnosti da patnju otklonite niti da pomoć nađete. A onome od vas koji je nepravdu činio dat ćemo da patnju veliku iskusi.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 361,
+  "verse_key": "25:19",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَدۡ كَذَّبُوكُم بِمَا تَقُولُونَ فَمَا تَسۡتَطِيعُونَ صَرۡفٗا وَلَا نَصۡرٗاۚ وَمَن يَظۡلِم مِّنكُمۡ نُذِقۡهُ عَذَابٗا كَبِيرٗا",
+  "translation": "Oni će poreći to što vi govorite, a vi nećete biti u mogućnosti da patnju otklonite niti da pomoć nađete. A onome od vas koji je nepravdu činio dat ćemo da patnju veliku iskusi.",
+  "footnotes": ""
 }

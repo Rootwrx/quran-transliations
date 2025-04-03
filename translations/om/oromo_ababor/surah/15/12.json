@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1814",
-    "sura": "15",
-    "aya": "12",
-    "arabic_text": "كَذَٰلِكَ نَسۡلُكُهُۥ فِي قُلُوبِ ٱلۡمُجۡرِمِينَ",
-    "translation": "Akka kanatti onnee yakkamtootaa keessa isa (sobsiisuu) seensifna.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 262,
+  "verse_key": "15:12",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَٰلِكَ نَسۡلُكُهُۥ فِي قُلُوبِ ٱلۡمُجۡرِمِينَ",
+  "translation": "Akka kanatti onnee yakkamtootaa keessa isa (sobsiisuu) seensifna.",
+  "footnotes": ""
 }

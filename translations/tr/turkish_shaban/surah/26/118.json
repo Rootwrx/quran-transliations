@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3050",
-    "sura": "26",
-    "aya": "118",
-    "arabic_text": "فَٱفۡتَحۡ بَيۡنِي وَبَيۡنَهُمۡ فَتۡحٗا وَنَجِّنِي وَمَن مَّعِيَ مِنَ ٱلۡمُؤۡمِنِينَ",
-    "translation": "Artık benimle onların arasında sen hükmünü ver. Beni ve beraberimdeki müminleri kurtar.",
-    "footnotes": null
-  }
+  "id": 118,
+  "verse_number": 118,
+  "page_number": 372,
+  "verse_key": "26:118",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱفۡتَحۡ بَيۡنِي وَبَيۡنَهُمۡ فَتۡحٗا وَنَجِّنِي وَمَن مَّعِيَ مِنَ ٱلۡمُؤۡمِنِينَ",
+  "translation": "Artık benimle onların arasında sen hükmünü ver. Beni ve beraberimdeki müminleri kurtar.",
+  "footnotes": null
 }

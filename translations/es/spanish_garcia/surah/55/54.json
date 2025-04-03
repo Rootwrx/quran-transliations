@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4955",
-    "sura": "55",
-    "aya": "54",
-    "arabic_text": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٖ",
-    "translation": "54. Estarán reclinados en sofás tapizados de brocado, y la fruta de ambos jardines estará al alcance de la mano.",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 533,
+  "verse_key": "55:54",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مُتَّكِـِٔينَ عَلَىٰ فُرُشِۭ بَطَآئِنُهَا مِنۡ إِسۡتَبۡرَقٖۚ وَجَنَى ٱلۡجَنَّتَيۡنِ دَانٖ",
+  "translation": "54. Estarán reclinados en sofás tapizados de brocado, y la fruta de ambos jardines estará al alcance de la mano.",
+  "footnotes": ""
 }

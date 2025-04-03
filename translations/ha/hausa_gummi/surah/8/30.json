@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1190",
-    "sura": "8",
-    "aya": "30",
-    "arabic_text": "وَإِذۡ يَمۡكُرُ بِكَ ٱلَّذِينَ كَفَرُواْ لِيُثۡبِتُوكَ أَوۡ يَقۡتُلُوكَ أَوۡ يُخۡرِجُوكَۚ وَيَمۡكُرُونَ وَيَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
-    "translation": "Kuma a lõkacin da waɗanda* suka kãfirta sukẽ yin mãkirci game da kai, dõmin su tabbatar da kai, kõ kuwa su kashe ka, kõ kuwa su fitar da kai, sunã mãkirci kuma Allah Yanã mayar musa da mãkirci kuma Allah ne Mafificin mãsu mãkirci.",
-    "footnotes": "* Ƙuraishãwa suka tãru sunã shãwarar yadda zã su yi da Muhammadu; kõ su ɗaure shi a cikin gida, kõ su kashe shi, kõ su kõre shi. Ra'ayinsu ya tsaya ga su kashe shi da zãɓaɓɓun mutãne daga kõwace ƙabĩla yadda danginsa, Banĩ Hãshim, bã su iya faɗa da dukkan Lãrabãwa, har su kõma ga diyya. A rãnar da suka shirya kashe shi, Allah Ya umurce shi da hijira zuwa Madĩna. A lõkacin da ya fita daga gidansa ya iske su tsaitsaye, sunã barci, ya zuba turɓãya a kunnuwansu, sa'annan ya shige suka tafi tãre da Abũbakar, suka sauka a cikin kõgon dũtsen Thaur. Bãyan kwãnaki uku, suka fita zuwa Madina."
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 180,
+  "verse_key": "8:30",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ يَمۡكُرُ بِكَ ٱلَّذِينَ كَفَرُواْ لِيُثۡبِتُوكَ أَوۡ يَقۡتُلُوكَ أَوۡ يُخۡرِجُوكَۚ وَيَمۡكُرُونَ وَيَمۡكُرُ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
+  "translation": "Kuma a lõkacin da waɗanda* suka kãfirta sukẽ yin mãkirci game da kai, dõmin su tabbatar da kai, kõ kuwa su kashe ka, kõ kuwa su fitar da kai, sunã mãkirci kuma Allah Yanã mayar musa da mãkirci kuma Allah ne Mafificin mãsu mãkirci.",
+  "footnotes": "* Ƙuraishãwa suka tãru sunã shãwarar yadda zã su yi da Muhammadu; kõ su ɗaure shi a cikin gida, kõ su kashe shi, kõ su kõre shi. Ra'ayinsu ya tsaya ga su kashe shi da zãɓaɓɓun mutãne daga kõwace ƙabĩla yadda danginsa, Banĩ Hãshim, bã su iya faɗa da dukkan Lãrabãwa, har su kõma ga diyya. A rãnar da suka shirya kashe shi, Allah Ya umurce shi da hijira zuwa Madĩna. A lõkacin da ya fita daga gidansa ya iske su tsaitsaye, sunã barci, ya zuba turɓãya a kunnuwansu, sa'annan ya shige suka tafi tãre da Abũbakar, suka sauka a cikin kõgon dũtsen Thaur. Bãyan kwãnaki uku, suka fita zuwa Madina."
 }

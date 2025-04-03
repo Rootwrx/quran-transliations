@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5106",
-    "sura": "58",
-    "aya": "2",
-    "arabic_text": "ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمۡۖ إِنۡ أُمَّهَٰتُهُمۡ إِلَّا ٱلَّٰٓـِٔي وَلَدۡنَهُمۡۚ وَإِنَّهُمۡ لَيَقُولُونَ مُنكَرٗا مِّنَ ٱلۡقَوۡلِ وَزُورٗاۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٞ",
-    "translation": "Những ai trong các ngươi thôi vợ của mình theo lối Zhihar[1] thì hãy biết rằng vợ của họ không phải là mẹ của họ. Bởi lẽ mẹ của họ là người đã sinh đẻ ra họ. Quả thật, họ đang nói một tuyên bố phản cảm và sai sự thật. Tuy nhiên, Allah thực sự là Đấng Hằng Tha Thứ, Đấng Độ Lượng.",
-    "footnotes": "[1] Zhihar là một hình thức thôi vợ của những người Ả-rập thời trước Islam bằng câu thành ngữ mà họ thường dùng để nói với vợ của mình: “Cô đối với tôi giống như cái lưng của mẹ tôi vậy!” ngụ ý không được phép ăn nằm với vợ."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 542,
+  "verse_key": "58:2",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 217,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يُظَٰهِرُونَ مِنكُم مِّن نِّسَآئِهِم مَّا هُنَّ أُمَّهَٰتِهِمۡۖ إِنۡ أُمَّهَٰتُهُمۡ إِلَّا ٱلَّٰٓـِٔي وَلَدۡنَهُمۡۚ وَإِنَّهُمۡ لَيَقُولُونَ مُنكَرٗا مِّنَ ٱلۡقَوۡلِ وَزُورٗاۚ وَإِنَّ ٱللَّهَ لَعَفُوٌّ غَفُورٞ",
+  "translation": "Những ai trong các ngươi thôi vợ của mình theo lối Zhihar[1] thì hãy biết rằng vợ của họ không phải là mẹ của họ. Bởi lẽ mẹ của họ là người đã sinh đẻ ra họ. Quả thật, họ đang nói một tuyên bố phản cảm và sai sự thật. Tuy nhiên, Allah thực sự là Đấng Hằng Tha Thứ, Đấng Độ Lượng.",
+  "footnotes": "[1] Zhihar là một hình thức thôi vợ của những người Ả-rập thời trước Islam bằng câu thành ngữ mà họ thường dùng để nói với vợ của mình: “Cô đối với tôi giống như cái lưng của mẹ tôi vậy!” ngụ ý không được phép ăn nằm với vợ."
 }

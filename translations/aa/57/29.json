@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5104",
-    "sura": "57",
-    "aya": "29",
-    "arabic_text": "لِّئَلَّا يَعۡلَمَ أَهۡلُ ٱلۡكِتَٰبِ أَلَّا يَقۡدِرُونَ عَلَىٰ شَيۡءٖ مِّن فَضۡلِ ٱللَّهِ وَأَنَّ ٱلۡفَضۡلَ بِيَدِ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
-    "translation": "29.Yalli tamah inkih siinih kah yeceem, kitab le mari (yahuud kee nasaara kinnuk) Yallih muxxok tul dudda aalle waanam sinnik yaaxigeeni gida. Diggah muxxo inkih Yallih gabat taniih isih faxa marah tet yacee isi naqoosak. Yalli isi ginoh kaxxa muxxo li kinni.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 541,
+  "verse_key": "57:29",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 216,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّئَلَّا يَعۡلَمَ أَهۡلُ ٱلۡكِتَٰبِ أَلَّا يَقۡدِرُونَ عَلَىٰ شَيۡءٖ مِّن فَضۡلِ ٱللَّهِ وَأَنَّ ٱلۡفَضۡلَ بِيَدِ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
+  "translation": "29.Yalli tamah inkih siinih kah yeceem, kitab le mari (yahuud kee nasaara kinnuk) Yallih muxxok tul dudda aalle waanam sinnik yaaxigeeni gida. Diggah muxxo inkih Yallih gabat taniih isih faxa marah tet yacee isi naqoosak. Yalli isi ginoh kaxxa muxxo li kinni.",
+  "footnotes": ""
 }

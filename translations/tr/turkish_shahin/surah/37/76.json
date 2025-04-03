@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3864",
-    "sura": "37",
-    "aya": "76",
-    "arabic_text": "وَنَجَّيۡنَٰهُ وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِيمِ",
-    "translation": "Kendisini ve ailesini büyük felâketten kurtardık. ",
-    "footnotes": ""
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 448,
+  "verse_key": "37:76",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنَجَّيۡنَٰهُ وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِيمِ",
+  "translation": "Kendisini ve ailesini büyük felâketten kurtardık. ",
+  "footnotes": ""
 }

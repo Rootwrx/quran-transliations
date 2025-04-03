@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2252",
-    "sura": "19",
-    "aya": "2",
-    "arabic_text": "ذِكۡرُ رَحۡمَتِ رَبِّكَ عَبۡدَهُۥ زَكَرِيَّآ",
-    "translation": "Nhắc lại hồng ân Thượng Đế của Ngươi được ban cho người bề tôi của Ngài, Zakariya[2].",
-    "footnotes": "[2] Zakariya là một vị Nabi trong các vị Nabi của Allah, Người là cha của Nabi Yahya. Trong The Bible (Kinh Thánh), Zakariya được ghi là Zacharias (phiên âm tiếng Việt: Gia-ca-ri-a)."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 305,
+  "verse_key": "19:2",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذِكۡرُ رَحۡمَتِ رَبِّكَ عَبۡدَهُۥ زَكَرِيَّآ",
+  "translation": "Nhắc lại hồng ân Thượng Đế của Ngươi được ban cho người bề tôi của Ngài, Zakariya[2].",
+  "footnotes": "[2] Zakariya là một vị Nabi trong các vị Nabi của Allah, Người là cha của Nabi Yahya. Trong The Bible (Kinh Thánh), Zakariya được ghi là Zacharias (phiên âm tiếng Việt: Gia-ca-ri-a)."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2974",
-    "sura": "26",
-    "aya": "42",
-    "arabic_text": "قَالَ نَعَمۡ وَإِنَّكُمۡ إِذٗا لَّمِنَ ٱلۡمُقَرَّبِينَ",
-    "translation": "Firavun: “Evet! Hem o takdirde mutlaka bana yakın kimselerden olacaksınız.” dedi.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 369,
+  "verse_key": "26:42",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ نَعَمۡ وَإِنَّكُمۡ إِذٗا لَّمِنَ ٱلۡمُقَرَّبِينَ",
+  "translation": "Firavun: “Evet! Hem o takdirde mutlaka bana yakın kimselerden olacaksınız.” dedi.",
+  "footnotes": ""
 }

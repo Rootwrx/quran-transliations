@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4133",
-    "sura": "39",
-    "aya": "75",
-    "arabic_text": "وَتَرَى ٱلۡمَلَٰٓئِكَةَ حَآفِّينَ مِنۡ حَوۡلِ ٱلۡعَرۡشِ يُسَبِّحُونَ بِحَمۡدِ رَبِّهِمۡۚ وَقُضِيَ بَيۡنَهُم بِٱلۡحَقِّۚ وَقِيلَ ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "Na utawaona Malaika wakizunguka pembeni mwa Kiti cha enzi cha Mwenyezi Mungu, wakimtakasa na kumsifu Mola wao Mlezi. Na patahukumiwa baina yao kwa haki na patasemwa: Sifa zote njema ni za Mwenyezi Mungu, Mola Mlezi wa viumbe vyote!",
-    "footnotes": "Na utaona, ewe mwenye kuona, Malaika wakiizunguka A'rshi, wakimtakasa Mwenyezi Mungu na kila upungufu, kwa utakaso unao fuatana na kumhimidi Muumba wao na Mlezi wao, na akapambanua baina ya viumbe vyote kwa uadilifu, na ulimwengu wote ukatamka kwa kusema: Sifa njema zote ni za Mwenyezi Mungu, Mola Mlezi wa viumbe vyote."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 467,
+  "verse_key": "39:75",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَرَى ٱلۡمَلَٰٓئِكَةَ حَآفِّينَ مِنۡ حَوۡلِ ٱلۡعَرۡشِ يُسَبِّحُونَ بِحَمۡدِ رَبِّهِمۡۚ وَقُضِيَ بَيۡنَهُم بِٱلۡحَقِّۚ وَقِيلَ ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "Na utawaona Malaika wakizunguka pembeni mwa Kiti cha enzi cha Mwenyezi Mungu, wakimtakasa na kumsifu Mola wao Mlezi. Na patahukumiwa baina yao kwa haki na patasemwa: Sifa zote njema ni za Mwenyezi Mungu, Mola Mlezi wa viumbe vyote!",
+  "footnotes": "Na utaona, ewe mwenye kuona, Malaika wakiizunguka A'rshi, wakimtakasa Mwenyezi Mungu na kila upungufu, kwa utakaso unao fuatana na kumhimidi Muumba wao na Mlezi wao, na akapambanua baina ya viumbe vyote kwa uadilifu, na ulimwengu wote ukatamka kwa kusema: Sifa njema zote ni za Mwenyezi Mungu, Mola Mlezi wa viumbe vyote."
 }

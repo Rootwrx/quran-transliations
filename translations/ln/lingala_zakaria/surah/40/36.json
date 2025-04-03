@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4169",
-    "sura": "40",
-    "aya": "36",
-    "arabic_text": "وَقَالَ فِرۡعَوۡنُ يَٰهَٰمَٰنُ ٱبۡنِ لِي صَرۡحٗا لَّعَلِّيٓ أَبۡلُغُ ٱلۡأَسۡبَٰبَ",
-    "translation": "36. Mpe falo alobi: Eh Hâmân! Tongela ngai ndako ya likolo koleka, tango mosusu nakoki kozua banzela,",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 471,
+  "verse_key": "40:36",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ فِرۡعَوۡنُ يَٰهَٰمَٰنُ ٱبۡنِ لِي صَرۡحٗا لَّعَلِّيٓ أَبۡلُغُ ٱلۡأَسۡبَٰبَ",
+  "translation": "36. Mpe falo alobi: Eh Hâmân! Tongela ngai ndako ya likolo koleka, tango mosusu nakoki kozua banzela,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1554",
-    "sura": "11",
-    "aya": "81",
-    "arabic_text": "قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ بِقَرِيبٖ",
-    "translation": "81. Jie (pasiuntiniai) tarė: „Lūtai (Lotai), iš tiesų, mes esame pasiuntiniai nuo tavo Viešpaties! Jie nepasieks tavęs. [2] Taigi, keliauk su savo šeima dalį nakties, ir neleisk nė vienam iš jūsų žiūrėti atgal, tačiau tavo žmona (liks užnugaryje), iš tiesų, bausmė, kuri apims juos, apims ir ją. Iš tiesų, rytas yra jų paskirtas laikas. Ar rytas dar ne arti?“",
-    "footnotes": "[2] Žr. Korano ajas 54:33-39."
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 230,
+  "verse_key": "11:81",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ بِقَرِيبٖ",
+  "translation": "81. Jie (pasiuntiniai) tarė: „Lūtai (Lotai), iš tiesų, mes esame pasiuntiniai nuo tavo Viešpaties! Jie nepasieks tavęs. [2] Taigi, keliauk su savo šeima dalį nakties, ir neleisk nė vienam iš jūsų žiūrėti atgal, tačiau tavo žmona (liks užnugaryje), iš tiesų, bausmė, kuri apims juos, apims ir ją. Iš tiesų, rytas yra jų paskirtas laikas. Ar rytas dar ne arti?“",
+  "footnotes": "[2] Žr. Korano ajas 54:33-39."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5003",
-    "sura": "56",
-    "aya": "24",
-    "arabic_text": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "24 en récompense de leurs œuvres passées.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 535,
+  "verse_key": "56:24",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "24 en récompense de leurs œuvres passées.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3309",
-    "sura": "28",
-    "aya": "57",
-    "arabic_text": "وَقَالُوٓاْ إِن نَّتَّبِعِ ٱلۡهُدَىٰ مَعَكَ نُتَخَطَّفۡ مِنۡ أَرۡضِنَآۚ أَوَلَمۡ نُمَكِّن لَّهُمۡ حَرَمًا ءَامِنٗا يُجۡبَىٰٓ إِلَيۡهِ ثَمَرَٰتُ كُلِّ شَيۡءٖ رِّزۡقٗا مِّن لَّدُنَّا وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
-    "translation": "Kuma suka ce: \"Idan mun bi shiriya tãre da kai anã fizge mu* daga ƙasamiu.\" Shin, ba Mu tabbatar musu da mallakar Hurumi ba, ya zama amintacce, anã jãwõwa zuwa gare shi, 'ya'yan itãcen kõwane iri, bisa ga azurtãwa daga gare Mu? Amma kuma mafi yawansu ba su sani ba.",
-    "footnotes": "* Wanda ya makkana musu Hurumi ya zama amintacce, yanã iya tsare bãwanSa kuma Yabã shi arziki a kõ'ina yake a cikin ƙasa, sabõda haka tsõron fita daga Hurumi da tsõron wuyar abinci a wurin baƙunci, bã zai hana mũmini ya yi hijira da addininsa ba zuwa wurin yardar Allah."
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 392,
+  "verse_key": "28:57",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُوٓاْ إِن نَّتَّبِعِ ٱلۡهُدَىٰ مَعَكَ نُتَخَطَّفۡ مِنۡ أَرۡضِنَآۚ أَوَلَمۡ نُمَكِّن لَّهُمۡ حَرَمًا ءَامِنٗا يُجۡبَىٰٓ إِلَيۡهِ ثَمَرَٰتُ كُلِّ شَيۡءٖ رِّزۡقٗا مِّن لَّدُنَّا وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+  "translation": "Kuma suka ce: \"Idan mun bi shiriya tãre da kai anã fizge mu* daga ƙasamiu.\" Shin, ba Mu tabbatar musu da mallakar Hurumi ba, ya zama amintacce, anã jãwõwa zuwa gare shi, 'ya'yan itãcen kõwane iri, bisa ga azurtãwa daga gare Mu? Amma kuma mafi yawansu ba su sani ba.",
+  "footnotes": "* Wanda ya makkana musu Hurumi ya zama amintacce, yanã iya tsare bãwanSa kuma Yabã shi arziki a kõ'ina yake a cikin ƙasa, sabõda haka tsõron fita daga Hurumi da tsõron wuyar abinci a wurin baƙunci, bã zai hana mũmini ya yi hijira da addininsa ba zuwa wurin yardar Allah."
 }

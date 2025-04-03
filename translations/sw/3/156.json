@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "449",
-    "sura": "3",
-    "aya": "156",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَكُونُواْ كَٱلَّذِينَ كَفَرُواْ وَقَالُواْ لِإِخۡوَٰنِهِمۡ إِذَا ضَرَبُواْ فِي ٱلۡأَرۡضِ أَوۡ كَانُواْ غُزّٗى لَّوۡ كَانُواْ عِندَنَا مَا مَاتُواْ وَمَا قُتِلُواْ لِيَجۡعَلَ ٱللَّهُ ذَٰلِكَ حَسۡرَةٗ فِي قُلُوبِهِمۡۗ وَٱللَّهُ يُحۡيِۦ وَيُمِيتُۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ",
-    "translation": "Enyi mlio amini! Msiwe kama wale walio kufuru na wakawasema ndugu zao walipo safiri katika nchi au walipo kuwa vitani: Wangeli kuwa kwetu wasingeli kufa na wasingeli uwawa. Ili Mwenyezi Mungu afanye hayo kuwa ni majuto katika nyoyo zao. Na Mwenyezi Mungu huhuisha na hufisha. Na Mwenyezi Mungu ni Mwenye kuyaona myatendayo.",
-    "footnotes": "Enyi mlio amini! Msiwe kama walio kufuru wakasema, kwa mintarafu ya wenzao wanapo ondoka kwenda safarini kutafuta maisha wakafa, au wakenda vitani wakauwawa: Lau wangeli bakia nasi hapa wasingeli kufa, na wasingeli uwawa. Mwenyezi Mungu amejaalia kauli yao hiyo na dhana yao iwe ni majuto ya nyoyoni mwao. Mwenyezi Mungu ndiye Mwenye kuhuisha na Mwenye kufisha, na kudra ya kila kitu imo mikononi mwake. Yeye anayajua yote myatendayo, ya kheri na shari. Na Yeye ndiye wa kukulipeni."
-  }
+  "id": 156,
+  "verse_number": 156,
+  "page_number": 70,
+  "verse_key": "3:156",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَكُونُواْ كَٱلَّذِينَ كَفَرُواْ وَقَالُواْ لِإِخۡوَٰنِهِمۡ إِذَا ضَرَبُواْ فِي ٱلۡأَرۡضِ أَوۡ كَانُواْ غُزّٗى لَّوۡ كَانُواْ عِندَنَا مَا مَاتُواْ وَمَا قُتِلُواْ لِيَجۡعَلَ ٱللَّهُ ذَٰلِكَ حَسۡرَةٗ فِي قُلُوبِهِمۡۗ وَٱللَّهُ يُحۡيِۦ وَيُمِيتُۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ",
+  "translation": "Enyi mlio amini! Msiwe kama wale walio kufuru na wakawasema ndugu zao walipo safiri katika nchi au walipo kuwa vitani: Wangeli kuwa kwetu wasingeli kufa na wasingeli uwawa. Ili Mwenyezi Mungu afanye hayo kuwa ni majuto katika nyoyo zao. Na Mwenyezi Mungu huhuisha na hufisha. Na Mwenyezi Mungu ni Mwenye kuyaona myatendayo.",
+  "footnotes": "Enyi mlio amini! Msiwe kama walio kufuru wakasema, kwa mintarafu ya wenzao wanapo ondoka kwenda safarini kutafuta maisha wakafa, au wakenda vitani wakauwawa: Lau wangeli bakia nasi hapa wasingeli kufa, na wasingeli uwawa. Mwenyezi Mungu amejaalia kauli yao hiyo na dhana yao iwe ni majuto ya nyoyoni mwao. Mwenyezi Mungu ndiye Mwenye kuhuisha na Mwenye kufisha, na kudra ya kila kitu imo mikononi mwake. Yeye anayajua yote myatendayo, ya kheri na shari. Na Yeye ndiye wa kukulipeni."
 }

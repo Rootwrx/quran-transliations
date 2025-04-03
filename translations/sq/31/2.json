@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3471",
-    "sura": "31",
-    "aya": "2",
-    "arabic_text": "تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ",
-    "translation": "Këto janë vargje të Librit plot Urtësi,",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 411,
+  "verse_key": "31:2",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ",
+  "translation": "Këto janë vargje të Librit plot Urtësi,",
+  "footnotes": ""
 }

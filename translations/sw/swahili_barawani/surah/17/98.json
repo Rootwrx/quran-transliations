@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2127",
-    "sura": "17",
-    "aya": "98",
-    "arabic_text": "ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمۡ كَفَرُواْ بِـَٔايَٰتِنَا وَقَالُوٓاْ أَءِذَا كُنَّا عِظَٰمٗا وَرُفَٰتًا أَءِنَّا لَمَبۡعُوثُونَ خَلۡقٗا جَدِيدًا",
-    "translation": "Hayo ni malipo yao kwa sababu walizikataa ishara zetu, na wakasema: Hivyo tukisha kuwa mifupa na mapande yaliyo vurugika tutafufuliwa kwa umbo jipya?",
-    "footnotes": "Adhabu hiyo ndiyo malipo yao kwa sababu ya kuzikataa dalili tulizo waletea za kuthibitisha Haki, na kwa ile kauli yao kusema: Hivyo sisi tutafufuliwa kwa umbo jipya baada ya kwisha kuwa mifupa na vumbi?"
-  }
+  "id": 98,
+  "verse_number": 98,
+  "page_number": 292,
+  "verse_key": "17:98",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ جَزَآؤُهُم بِأَنَّهُمۡ كَفَرُواْ بِـَٔايَٰتِنَا وَقَالُوٓاْ أَءِذَا كُنَّا عِظَٰمٗا وَرُفَٰتًا أَءِنَّا لَمَبۡعُوثُونَ خَلۡقٗا جَدِيدًا",
+  "translation": "Hayo ni malipo yao kwa sababu walizikataa ishara zetu, na wakasema: Hivyo tukisha kuwa mifupa na mapande yaliyo vurugika tutafufuliwa kwa umbo jipya?",
+  "footnotes": "Adhabu hiyo ndiyo malipo yao kwa sababu ya kuzikataa dalili tulizo waletea za kuthibitisha Haki, na kwa ile kauli yao kusema: Hivyo sisi tutafufuliwa kwa umbo jipya baada ya kwisha kuwa mifupa na vumbi?"
 }

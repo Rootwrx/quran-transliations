@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3311",
-    "sura": "28",
-    "aya": "59",
-    "arabic_text": "وَمَا كَانَ رَبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ حَتَّىٰ يَبۡعَثَ فِيٓ أُمِّهَا رَسُولٗا يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِنَاۚ وَمَا كُنَّا مُهۡلِكِي ٱلۡقُرَىٰٓ إِلَّا وَأَهۡلُهَا ظَٰلِمُونَ",
-    "translation": "Na Mola wako Mlezi haangamizi miji mpaka ampeleke Mtume katika miji yake mikuu awasomee Ishara zetu. Wala hatuiangamizi miji mpaka watu wake wawe madhaalimu.",
-    "footnotes": "Na haikuwa katika hikima ya Mwenyezi Mungu Mtukufu - naye ndiye Mola wako Mlezi aliye kuumba na kukuteuwa - kuiangamiza miji mikubwa ila baada ya kuwapelekea watu wake Mtume mwenye miujiza iliyo wazi awasomee Kitabu kilicho teremshwa, na awabainishie sharia, na kisha wawe hawaamini. Wala Sisi hatuangamizi miji mikubwa ila wakiwa watu wake wanaendelea na udhalimu na uadui."
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 392,
+  "verse_key": "28:59",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ رَبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ حَتَّىٰ يَبۡعَثَ فِيٓ أُمِّهَا رَسُولٗا يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِنَاۚ وَمَا كُنَّا مُهۡلِكِي ٱلۡقُرَىٰٓ إِلَّا وَأَهۡلُهَا ظَٰلِمُونَ",
+  "translation": "Na Mola wako Mlezi haangamizi miji mpaka ampeleke Mtume katika miji yake mikuu awasomee Ishara zetu. Wala hatuiangamizi miji mpaka watu wake wawe madhaalimu.",
+  "footnotes": "Na haikuwa katika hikima ya Mwenyezi Mungu Mtukufu - naye ndiye Mola wako Mlezi aliye kuumba na kukuteuwa - kuiangamiza miji mikubwa ila baada ya kuwapelekea watu wake Mtume mwenye miujiza iliyo wazi awasomee Kitabu kilicho teremshwa, na awabainishie sharia, na kisha wawe hawaamini. Wala Sisi hatuangamizi miji mikubwa ila wakiwa watu wake wanaendelea na udhalimu na uadui."
 }

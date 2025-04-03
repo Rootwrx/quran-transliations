@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "737",
-    "sura": "5",
-    "aya": "68",
-    "arabic_text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
-    "translation": "Sema: Enyi Watu wa Kitabu! Hamna lenu jambo mpaka muishike Taurati na Injili na yote mlio teremshiwa kutokana na Mola wenu Mlezi. Na hakika ulio teremshiwa wewe kutokana na Mola wako Mlezi yatawazidishia wengi katika wao uasi na ukafiri. Basi usiwasikitikie watu makafiri.",
-    "footnotes": "Ewe Mtume! Waambie Watu wa Kitabu (yaani Biblia): Hakika nyinyi hamtakuwa mnafuata Dini sahihi ila mtapo zitangaza hukumu zote za Taurati na Injili na mkazitenda. Na mkaiamini Qur'ani iliyo teremshwa na Mwenyezi Mungu kwa Mtume wake kwa ajili ya kuwaongoa watu. Na yakinika, ewe Mtume, kwamba wengi wa Watu wa Kitabu watazidi udhalimu, na ukafiri, na inadi, juu ya Qur'ani kwa uhasidi wao na chuki. Basi usiwahuzunikie watu ambao wametiwa muhuri wa upinzani."
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 119,
+  "verse_key": "5:68",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+  "translation": "Sema: Enyi Watu wa Kitabu! Hamna lenu jambo mpaka muishike Taurati na Injili na yote mlio teremshiwa kutokana na Mola wenu Mlezi. Na hakika ulio teremshiwa wewe kutokana na Mola wako Mlezi yatawazidishia wengi katika wao uasi na ukafiri. Basi usiwasikitikie watu makafiri.",
+  "footnotes": "Ewe Mtume! Waambie Watu wa Kitabu (yaani Biblia): Hakika nyinyi hamtakuwa mnafuata Dini sahihi ila mtapo zitangaza hukumu zote za Taurati na Injili na mkazitenda. Na mkaiamini Qur'ani iliyo teremshwa na Mwenyezi Mungu kwa Mtume wake kwa ajili ya kuwaongoa watu. Na yakinika, ewe Mtume, kwamba wengi wa Watu wa Kitabu watazidi udhalimu, na ukafiri, na inadi, juu ya Qur'ani kwa uhasidi wao na chuki. Basi usiwahuzunikie watu ambao wametiwa muhuri wa upinzani."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3964",
-    "sura": "37",
-    "aya": "176",
-    "arabic_text": "أَفَبِعَذَابِنَا يَسۡتَعۡجِلُونَ",
-    "translation": "Do they really seek to hasten Our punishment?",
-    "footnotes": ""
-  }
+  "id": 176,
+  "verse_number": 176,
+  "page_number": 452,
+  "verse_key": "37:176",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَبِعَذَابِنَا يَسۡتَعۡجِلُونَ",
+  "translation": "Do they really seek to hasten Our punishment?",
+  "footnotes": ""
 }

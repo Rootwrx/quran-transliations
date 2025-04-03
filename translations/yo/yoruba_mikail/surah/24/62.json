@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2853",
-    "sura": "24",
-    "aya": "62",
-    "arabic_text": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَإِذَا كَانُواْ مَعَهُۥ عَلَىٰٓ أَمۡرٖ جَامِعٖ لَّمۡ يَذۡهَبُواْ حَتَّىٰ يَسۡتَـٔۡذِنُوهُۚ إِنَّ ٱلَّذِينَ يَسۡتَـٔۡذِنُونَكَ أُوْلَٰٓئِكَ ٱلَّذِينَ يُؤۡمِنُونَ بِٱللَّهِ وَرَسُولِهِۦۚ فَإِذَا ٱسۡتَـٔۡذَنُوكَ لِبَعۡضِ شَأۡنِهِمۡ فَأۡذَن لِّمَن شِئۡتَ مِنۡهُمۡ وَٱسۡتَغۡفِرۡ لَهُمُ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
-    "translation": "Àwọn onígbàgbọ́ ni àwọn tó gbàgbọ́ nínú Allāhu àti Òjíṣẹ́ Rẹ̀. Nígbà tí wọ́n bá sì wà pẹ̀lú rẹ̀ lórí ọ̀rọ̀ kan tí ó kan gbogbogbò, wọn kò níí lọ títí wọn yóò fi gba ìyọ̀ǹda lọ́dọ̀ rẹ̀. Dájúdájú àwọn tó ń gba ìyọ̀ǹda lọ́dọ̀ rẹ, àwọn wọ̀nyẹn ni àwọn tó gbàgbọ́ nínú Allāhu àti Òjíṣẹ́ Rẹ̀. Nítorí náà, tí wọ́n bá gba ìyọ̀ǹda lọ́dọ̀ rẹ fún apá kan ọ̀rọ̀ ara wọn, fún ẹni tí o bá fẹ́ ní ìyọ̀ǹda nínú wọn, kí o sì bá wọn tọrọ àforíjìn lọ́dọ̀ Allāhu. Dájúdájú Allāhu ni Aláforíjìn, Àṣàkẹ́-ọ̀run.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 359,
+  "verse_key": "24:62",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 143,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَإِذَا كَانُواْ مَعَهُۥ عَلَىٰٓ أَمۡرٖ جَامِعٖ لَّمۡ يَذۡهَبُواْ حَتَّىٰ يَسۡتَـٔۡذِنُوهُۚ إِنَّ ٱلَّذِينَ يَسۡتَـٔۡذِنُونَكَ أُوْلَٰٓئِكَ ٱلَّذِينَ يُؤۡمِنُونَ بِٱللَّهِ وَرَسُولِهِۦۚ فَإِذَا ٱسۡتَـٔۡذَنُوكَ لِبَعۡضِ شَأۡنِهِمۡ فَأۡذَن لِّمَن شِئۡتَ مِنۡهُمۡ وَٱسۡتَغۡفِرۡ لَهُمُ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+  "translation": "Àwọn onígbàgbọ́ ni àwọn tó gbàgbọ́ nínú Allāhu àti Òjíṣẹ́ Rẹ̀. Nígbà tí wọ́n bá sì wà pẹ̀lú rẹ̀ lórí ọ̀rọ̀ kan tí ó kan gbogbogbò, wọn kò níí lọ títí wọn yóò fi gba ìyọ̀ǹda lọ́dọ̀ rẹ̀. Dájúdájú àwọn tó ń gba ìyọ̀ǹda lọ́dọ̀ rẹ, àwọn wọ̀nyẹn ni àwọn tó gbàgbọ́ nínú Allāhu àti Òjíṣẹ́ Rẹ̀. Nítorí náà, tí wọ́n bá gba ìyọ̀ǹda lọ́dọ̀ rẹ fún apá kan ọ̀rọ̀ ara wọn, fún ẹni tí o bá fẹ́ ní ìyọ̀ǹda nínú wọn, kí o sì bá wọn tọrọ àforíjìn lọ́dọ̀ Allāhu. Dájúdájú Allāhu ni Aláforíjìn, Àṣàkẹ́-ọ̀run.",
+  "footnotes": ""
 }

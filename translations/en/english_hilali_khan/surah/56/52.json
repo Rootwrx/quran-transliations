@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5031",
-    "sura": "56",
-    "aya": "52",
-    "arabic_text": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
-    "translation": " 52. \"You verily will eat of the trees of Zaqqûm.",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 536,
+  "verse_key": "56:52",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَأٓكِلُونَ مِن شَجَرٖ مِّن زَقُّومٖ",
+  "translation": " 52. \"You verily will eat of the trees of Zaqqûm.",
+  "footnotes": ""
 }

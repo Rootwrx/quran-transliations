@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5057",
-    "sura": "56",
-    "aya": "78",
-    "arabic_text": "فِي كِتَٰبٖ مَّكۡنُونٖ",
-    "translation": "Ó wà nínú Tírà kan tí wọ́n ń fi ààbò bò (ìyẹn Laohul-Mahfūṭḥ).",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 537,
+  "verse_key": "56:78",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي كِتَٰبٖ مَّكۡنُونٖ",
+  "translation": "Ó wà nínú Tírà kan tí wọ́n ń fi ààbò bò (ìyẹn Laohul-Mahfūṭḥ).",
+  "footnotes": ""
 }

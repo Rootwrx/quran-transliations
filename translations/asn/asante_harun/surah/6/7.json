@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "796",
-    "sura": "6",
-    "aya": "7",
-    "arabic_text": "وَلَوۡ نَزَّلۡنَا عَلَيۡكَ كِتَٰبٗا فِي قِرۡطَاسٖ فَلَمَسُوهُ بِأَيۡدِيهِمۡ لَقَالَ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٞ",
-    "translation": "Sε anka Yesianee Nwoma no maa wo wͻ krataa so, εna wͻ’de wͻn nsa tumi sͻ mu mpo a, anka (Kaafrifoͻ) boniayεfoͻ no bεka sε: “Nokorε, woi deε εyε nkonyaa pefee”.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 128,
+  "verse_key": "6:7",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ نَزَّلۡنَا عَلَيۡكَ كِتَٰبٗا فِي قِرۡطَاسٖ فَلَمَسُوهُ بِأَيۡدِيهِمۡ لَقَالَ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٞ",
+  "translation": "Sε anka Yesianee Nwoma no maa wo wͻ krataa so, εna wͻ’de wͻn nsa tumi sͻ mu mpo a, anka (Kaafrifoͻ) boniayεfoͻ no bεka sε: “Nokorε, woi deε εyε nkonyaa pefee”.",
+  "footnotes": ""
 }

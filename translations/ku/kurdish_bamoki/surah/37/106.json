@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3894",
-    "sura": "37",
-    "aya": "106",
-    "arabic_text": "إِنَّ هَٰذَا لَهُوَ ٱلۡبَلَٰٓؤُاْ ٱلۡمُبِينُ",
-    "translation": "بێگومان ئەمە تاقیکردنەوەی ئاشکرابوو\n",
-    "footnotes": null
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 450,
+  "verse_key": "37:106",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰذَا لَهُوَ ٱلۡبَلَٰٓؤُاْ ٱلۡمُبِينُ",
+  "translation": "بێگومان ئەمە تاقیکردنەوەی ئاشکرابوو\n",
+  "footnotes": null
 }

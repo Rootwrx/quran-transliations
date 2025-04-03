@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4838",
-    "sura": "53",
-    "aya": "54",
-    "arabic_text": "فَغَشَّىٰهَا مَا غَشَّىٰ",
-    "translation": "(54) And covered them by that which He covered.[1574]",
-    "footnotes": "[1574]- i.e., a rain of stones."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 528,
+  "verse_key": "53:54",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَغَشَّىٰهَا مَا غَشَّىٰ",
+  "translation": "(54) And covered them by that which He covered.[1574]",
+  "footnotes": "[1574]- i.e., a rain of stones."
 }

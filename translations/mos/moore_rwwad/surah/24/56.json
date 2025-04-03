@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2847",
-    "sura": "24",
-    "aya": "56",
-    "arabic_text": "وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَأَطِيعُواْ ٱلرَّسُولَ لَعَلَّكُمۡ تُرۡحَمُونَ",
-    "translation": "La yãnes-y tɩrg ne Pʋʋsgo, la y yãk Zaka, la y tũ Tẽn-tʋʋmã, tɩ raar ninga y na tɩlge.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 357,
+  "verse_key": "24:56",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 143,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَأَطِيعُواْ ٱلرَّسُولَ لَعَلَّكُمۡ تُرۡحَمُونَ",
+  "translation": "La yãnes-y tɩrg ne Pʋʋsgo, la y yãk Zaka, la y tũ Tẽn-tʋʋmã, tɩ raar ninga y na tɩlge.",
+  "footnotes": ""
 }

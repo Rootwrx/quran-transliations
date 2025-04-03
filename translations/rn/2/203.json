@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "210",
-    "sura": "2",
-    "aya": "203",
-    "arabic_text": "۞ وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ ٱتَّقَىٰۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ",
-    "translation": "Muraninahaza mwongere mutazire Imana Allah mu misi imparurwa[34]. Uwuzoshaka kwihuta kuva “Mina” imbere yuko izuba rirenga ku musi ugira uw’icumi na kabiri, akaba yahejeje gutera amabuye ku biterero (Jamaraat), nta caha kuri we. N’uwuzocererwa kuva “Mina[35]”, akavayo ahejeje gutera amabuye ku biterero ku musi ugira uw’icumi na gatatu, nta caha kirimwo ku wugamburukira Imana Allah mu kwubahiriza imigirwa yo gushengerera ingoro ntagatifu. Muraheza rero mutinye Imana Allah mu kuyigamburukira mu vyo mukora, muheze mumenye kandi ko muzokwegeranirizwa kuri Yo, kugira Ibaharurire Yongere Ibahembere ivyo mwakoze.",
-    "footnotes": "[34] Ni imisi itatu ikurikirana, igenekerezo rya 11, 12 na 13 ikurikira ilayidi nkuru mu kwezi kwa “Dhu l-Hijja” kwa 12.\n[35] Ugucererwa kuva “Mina”, ukavayo uhejeje gutera amabuye ku biterero ku musi ugira uw’icumi na gatatu, ni na vyo vyiza kuko ari ko Intumwa yabigenjeje."
-  }
+  "id": 203,
+  "verse_number": 203,
+  "page_number": 32,
+  "verse_key": "2:203",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ ٱتَّقَىٰۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ",
+  "translation": "Muraninahaza mwongere mutazire Imana Allah mu misi imparurwa[34]. Uwuzoshaka kwihuta kuva “Mina” imbere yuko izuba rirenga ku musi ugira uw’icumi na kabiri, akaba yahejeje gutera amabuye ku biterero (Jamaraat), nta caha kuri we. N’uwuzocererwa kuva “Mina[35]”, akavayo ahejeje gutera amabuye ku biterero ku musi ugira uw’icumi na gatatu, nta caha kirimwo ku wugamburukira Imana Allah mu kwubahiriza imigirwa yo gushengerera ingoro ntagatifu. Muraheza rero mutinye Imana Allah mu kuyigamburukira mu vyo mukora, muheze mumenye kandi ko muzokwegeranirizwa kuri Yo, kugira Ibaharurire Yongere Ibahembere ivyo mwakoze.",
+  "footnotes": "[34] Ni imisi itatu ikurikirana, igenekerezo rya 11, 12 na 13 ikurikira ilayidi nkuru mu kwezi kwa “Dhu l-Hijja” kwa 12.\n[35] Ugucererwa kuva “Mina”, ukavayo uhejeje gutera amabuye ku biterero ku musi ugira uw’icumi na gatatu, ni na vyo vyiza kuko ari ko Intumwa yabigenjeje."
 }

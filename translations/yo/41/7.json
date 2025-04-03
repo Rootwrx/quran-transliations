@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4225",
-    "sura": "41",
-    "aya": "7",
-    "arabic_text": "ٱلَّذِينَ لَا يُؤۡتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
-    "translation": "Àwọn tí kò yọ Zakāh, àwọn sì ni aláìgbàgbọ́ nínú Ọjọ́ Ìkẹ́yìn.[1]",
-    "footnotes": "1. Bí āyah yìí bá sọpọ̀ mọ́ āyah tí ó ṣíwájú rẹ̀, “zakāh” máa dúró fún àfọ̀mọ́ ọkàn àti àfọ̀mọ́ ara. Àmọ́ tí āyah yìí bá dádúró, “zakāh” máa túmọ̀ sí àfọ̀mọ́ dúkìá."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 477,
+  "verse_key": "41:7",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ لَا يُؤۡتُونَ ٱلزَّكَوٰةَ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
+  "translation": "Àwọn tí kò yọ Zakāh, àwọn sì ni aláìgbàgbọ́ nínú Ọjọ́ Ìkẹ́yìn.[1]",
+  "footnotes": "1. Bí āyah yìí bá sọpọ̀ mọ́ āyah tí ó ṣíwájú rẹ̀, “zakāh” máa dúró fún àfọ̀mọ́ ọkàn àti àfọ̀mọ́ ara. Àmọ́ tí āyah yìí bá dádúró, “zakāh” máa túmọ̀ sí àfọ̀mọ́ dúkìá."
 }

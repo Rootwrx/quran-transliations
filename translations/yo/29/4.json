@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3344",
-    "sura": "29",
-    "aya": "4",
-    "arabic_text": "أَمۡ حَسِبَ ٱلَّذِينَ يَعۡمَلُونَ ٱلسَّيِّـَٔاتِ أَن يَسۡبِقُونَاۚ سَآءَ مَا يَحۡكُمُونَ",
-    "translation": "Àbí àwọn tó ń ṣe iṣẹ́ aburú lérò pé àwọn máa mórí bọ́ mọ́ Wa lọ́wọ́ ni? Ohun tí wọ́n ń dá lẹ́jọ́ burú.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 396,
+  "verse_key": "29:4",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ حَسِبَ ٱلَّذِينَ يَعۡمَلُونَ ٱلسَّيِّـَٔاتِ أَن يَسۡبِقُونَاۚ سَآءَ مَا يَحۡكُمُونَ",
+  "translation": "Àbí àwọn tó ń ṣe iṣẹ́ aburú lérò pé àwọn máa mórí bọ́ mọ́ Wa lọ́wọ́ ni? Ohun tí wọ́n ń dá lẹ́jọ́ burú.",
+  "footnotes": ""
 }

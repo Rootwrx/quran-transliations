@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4651",
-    "sura": "50",
-    "aya": "21",
-    "arabic_text": "وَجَآءَتۡ كُلُّ نَفۡسٖ مَّعَهَا سَآئِقٞ وَشَهِيدٞ",
-    "translation": "21. Chaque âme viendra accompagnée d’un guide et d’un témoin.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 519,
+  "verse_key": "50:21",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَآءَتۡ كُلُّ نَفۡسٖ مَّعَهَا سَآئِقٞ وَشَهِيدٞ",
+  "translation": "21. Chaque âme viendra accompagnée d’un guide et d’un témoin.",
+  "footnotes": ""
 }

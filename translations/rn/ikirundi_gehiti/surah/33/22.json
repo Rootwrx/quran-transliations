@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3555",
-    "sura": "33",
-    "aya": "22",
-    "arabic_text": "وَلَمَّا رَءَا ٱلۡمُؤۡمِنُونَ ٱلۡأَحۡزَابَ قَالُواْ هَٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥۚ وَمَا زَادَهُمۡ إِلَّآ إِيمَٰنٗا وَتَسۡلِيمٗا",
-    "translation": "Abemeramana rero, aho baboneye ingabo ziyunze zamaze kwugariza i Madina, baributse isezerano ry’intsinzi y’Imana Allah ko igiye gushika, baraheza bavuga bati: “Iri, ni rya sezerano ry’igeragezwa n’intsinzi twahawe n’Imana Allah hamwe n’Intumwa yayo, Imana Allah Yarishize mu ngiro, n’Intumwa yayo yavuze ukuri mu vyo yadushikirije”. Umuzo w’ingabo ziyunze rero, nta co wabongerereje kiretse ugutsimbatara ku kwemera Imana Allah, no ku kwicisha bugufi mu kwakira neza ishirwa mu ngiro ry’ivyagezwe kuri bo.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 420,
+  "verse_key": "33:22",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 168,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا رَءَا ٱلۡمُؤۡمِنُونَ ٱلۡأَحۡزَابَ قَالُواْ هَٰذَا مَا وَعَدَنَا ٱللَّهُ وَرَسُولُهُۥ وَصَدَقَ ٱللَّهُ وَرَسُولُهُۥۚ وَمَا زَادَهُمۡ إِلَّآ إِيمَٰنٗا وَتَسۡلِيمٗا",
+  "translation": "Abemeramana rero, aho baboneye ingabo ziyunze zamaze kwugariza i Madina, baributse isezerano ry’intsinzi y’Imana Allah ko igiye gushika, baraheza bavuga bati: “Iri, ni rya sezerano ry’igeragezwa n’intsinzi twahawe n’Imana Allah hamwe n’Intumwa yayo, Imana Allah Yarishize mu ngiro, n’Intumwa yayo yavuze ukuri mu vyo yadushikirije”. Umuzo w’ingabo ziyunze rero, nta co wabongerereje kiretse ugutsimbatara ku kwemera Imana Allah, no ku kwicisha bugufi mu kwakira neza ishirwa mu ngiro ry’ivyagezwe kuri bo.",
+  "footnotes": ""
 }

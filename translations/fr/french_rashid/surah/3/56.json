@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "349",
-    "sura": "3",
-    "aya": "56",
-    "arabic_text": "فَأَمَّا ٱلَّذِينَ كَفَرُواْ فَأُعَذِّبُهُمۡ عَذَابٗا شَدِيدٗا فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ",
-    "translation": "56 A ceux qui auront rejeté la foi, J’infligerai ici-bas et dans l’au-delà un terrible châtiment dont nul ne pourra les sauver.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 57,
+  "verse_key": "3:56",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا ٱلَّذِينَ كَفَرُواْ فَأُعَذِّبُهُمۡ عَذَابٗا شَدِيدٗا فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ وَمَا لَهُم مِّن نَّٰصِرِينَ",
+  "translation": "56 A ceux qui auront rejeté la foi, J’infligerai ici-bas et dans l’au-delà un terrible châtiment dont nul ne pourra les sauver.",
+  "footnotes": ""
 }

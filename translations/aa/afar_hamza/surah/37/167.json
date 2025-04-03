@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3955",
-    "sura": "37",
-    "aya": "167",
-    "arabic_text": "وَإِن كَانُواْ لَيَقُولُونَ",
-    "translation": "167. Diggah nabiyow atu rubsumtak naharat Makki koros axcuk sugte:",
-    "footnotes": ""
-  }
+  "id": 167,
+  "verse_number": 167,
+  "page_number": 452,
+  "verse_key": "37:167",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن كَانُواْ لَيَقُولُونَ",
+  "translation": "167. Diggah nabiyow atu rubsumtak naharat Makki koros axcuk sugte:",
+  "footnotes": ""
 }

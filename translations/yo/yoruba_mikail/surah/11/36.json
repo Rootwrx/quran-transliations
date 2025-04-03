@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1509",
-    "sura": "11",
-    "aya": "36",
-    "arabic_text": "وَأُوحِيَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤۡمِنَ مِن قَوۡمِكَ إِلَّا مَن قَدۡ ءَامَنَ فَلَا تَبۡتَئِسۡ بِمَا كَانُواْ يَفۡعَلُونَ",
-    "translation": "A sì fi ìmísí ránṣẹ́ sí (Ànábì) Nūh pé, dájúdájú kò sí ẹnì kan tí ó máa gbàgbọ́ mọ́ nínú ìjọ rẹ àfi ẹni tó ti gbàgbọ́ tẹ́lẹ̀. Nítorí náà, má ṣe banújẹ́ nípa n̄ǹkan tí wọ́n ń ṣe níṣẹ́.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 225,
+  "verse_key": "11:36",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأُوحِيَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤۡمِنَ مِن قَوۡمِكَ إِلَّا مَن قَدۡ ءَامَنَ فَلَا تَبۡتَئِسۡ بِمَا كَانُواْ يَفۡعَلُونَ",
+  "translation": "A sì fi ìmísí ránṣẹ́ sí (Ànábì) Nūh pé, dájúdájú kò sí ẹnì kan tí ó máa gbàgbọ́ mọ́ nínú ìjọ rẹ àfi ẹni tó ti gbàgbọ́ tẹ́lẹ̀. Nítorí náà, má ṣe banújẹ́ nípa n̄ǹkan tí wọ́n ń ṣe níṣẹ́.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2579",
-    "sura": "21",
-    "aya": "96",
-    "arabic_text": "حَتَّىٰٓ إِذَا فُتِحَتۡ يَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبٖ يَنسِلُونَ",
-    "translation": "Har sa'ad da aka bũde Yãjũju da Mãjũju alhãli kuwa sunã gaggãwa daga kõwane tudun ƙasa.",
-    "footnotes": ""
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 330,
+  "verse_key": "21:96",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا فُتِحَتۡ يَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبٖ يَنسِلُونَ",
+  "translation": "Har sa'ad da aka bũde Yãjũju da Mãjũju alhãli kuwa sunã gaggãwa daga kõwane tudun ƙasa.",
+  "footnotes": ""
 }

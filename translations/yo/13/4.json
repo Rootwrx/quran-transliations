@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1711",
-    "sura": "13",
-    "aya": "4",
-    "arabic_text": "وَفِي ٱلۡأَرۡضِ قِطَعٞ مُّتَجَٰوِرَٰتٞ وَجَنَّٰتٞ مِّنۡ أَعۡنَٰبٖ وَزَرۡعٞ وَنَخِيلٞ صِنۡوَانٞ وَغَيۡرُ صِنۡوَانٖ يُسۡقَىٰ بِمَآءٖ وَٰحِدٖ وَنُفَضِّلُ بَعۡضَهَا عَلَىٰ بَعۡضٖ فِي ٱلۡأُكُلِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ",
-    "translation": "Ó tún wà nínú ilẹ̀ àwọn abala-abala ilẹ̀ (oníran-ànran) tó wà nítòsí ara wọn[1] àti àwọn ọgbà oko àjàrà, irúgbìn àti igi dàbínù tó pẹka àti èyí tí kò pẹka, tí wọ́n ń fún wọn ní omi ẹyọ kan mu. (Síbẹ̀síbẹ̀) A ṣe àjùlọ fún apá kan rẹ̀ lórí apá kan níbi àwọn èso wọn. Dájúdájú àwọn àmì wà nínú ìyẹn fún ìjọ tó ní làákàyè.",
-    "footnotes": "1. Bíi ilẹ̀ yanrìn nítòsí ilẹ̀ amọ̀, ilẹ́ yangí nítòsí ilẹ̀ tí kì í ṣe ilẹ̀ yangí, ilẹ̀ tó lọ́ràá nítòsí ilẹ̀ tó sá àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 249,
+  "verse_key": "13:4",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفِي ٱلۡأَرۡضِ قِطَعٞ مُّتَجَٰوِرَٰتٞ وَجَنَّٰتٞ مِّنۡ أَعۡنَٰبٖ وَزَرۡعٞ وَنَخِيلٞ صِنۡوَانٞ وَغَيۡرُ صِنۡوَانٖ يُسۡقَىٰ بِمَآءٖ وَٰحِدٖ وَنُفَضِّلُ بَعۡضَهَا عَلَىٰ بَعۡضٖ فِي ٱلۡأُكُلِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ",
+  "translation": "Ó tún wà nínú ilẹ̀ àwọn abala-abala ilẹ̀ (oníran-ànran) tó wà nítòsí ara wọn[1] àti àwọn ọgbà oko àjàrà, irúgbìn àti igi dàbínù tó pẹka àti èyí tí kò pẹka, tí wọ́n ń fún wọn ní omi ẹyọ kan mu. (Síbẹ̀síbẹ̀) A ṣe àjùlọ fún apá kan rẹ̀ lórí apá kan níbi àwọn èso wọn. Dájúdájú àwọn àmì wà nínú ìyẹn fún ìjọ tó ní làákàyè.",
+  "footnotes": "1. Bíi ilẹ̀ yanrìn nítòsí ilẹ̀ amọ̀, ilẹ́ yangí nítòsí ilẹ̀ tí kì í ṣe ilẹ̀ yangí, ilẹ̀ tó lọ́ràá nítòsí ilẹ̀ tó sá àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
 }

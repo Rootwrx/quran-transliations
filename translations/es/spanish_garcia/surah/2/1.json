@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "8",
-    "sura": "2",
-    "aya": "1",
-    "arabic_text": "الٓمٓ",
-    "translation": "1. Álif. Lam. Mim[1].",
-    "footnotes": "[1] Éstas son algunas de las catorce letras que aparecen en diversas combinaciones al comienzo de veintinueve capítulos del Corán. Si bien hay muchas interpretaciones en cuanto a su significado, el mismo no fue revelado por Dios y Él sabe más sobre su verdadero significado."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 2,
+  "verse_key": "2:1",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓ",
+  "translation": "1. Álif. Lam. Mim[1].",
+  "footnotes": "[1] Éstas son algunas de las catorce letras que aparecen en diversas combinaciones al comienzo de veintinueve capítulos del Corán. Si bien hay muchas interpretaciones en cuanto a su significado, el mismo no fue revelado por Dios y Él sabe más sobre su verdadero significado."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1017",
-    "sura": "7",
-    "aya": "63",
-    "arabic_text": "أَوَعَجِبۡتُمۡ أَن جَآءَكُمۡ ذِكۡرٞ مِّن رَّبِّكُمۡ عَلَىٰ رَجُلٖ مِّنكُمۡ لِيُنذِرَكُمۡ وَلِتَتَّقُواْ وَلَعَلَّكُمۡ تُرۡحَمُونَ",
-    "translation": "Je, mnastaajabu kukujieni mawaidha yanayotoka kwa Mola Mlezi wenu kwa njia ya mtu aliye ni mmoja katika nyinyi, ili akuonyeni na ili mumchemngu, na ili mpate kurehemewa?",
-    "footnotes": "Mnanizulia kuwa nimepotea na kuwa nipo mbali na Haki? Na mnastaajabu kukujieni kumbusho kutokana na Mwenyezi Mungu aliye kuumbeni kwa ulimi wa mtu aliye kuja kwenu kukuonyeni adhabu pindi mkikanusha, na akakuiteni mwende kuufuata uwongofu, na kutengeza nyoyo, na kujiepusha na ghadhabu ya Mwenyezi Mungu Mtukufu, kwa kutaraji muwe katika rehema ya Mwenyezi Mungu Mtukufu duniani na Akhera? Haifai kuwa mnastaajabu na mnakanusha juu ya kuwepo hoja zenye kuthibitisha Utume huu."
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 158,
+  "verse_key": "7:63",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَعَجِبۡتُمۡ أَن جَآءَكُمۡ ذِكۡرٞ مِّن رَّبِّكُمۡ عَلَىٰ رَجُلٖ مِّنكُمۡ لِيُنذِرَكُمۡ وَلِتَتَّقُواْ وَلَعَلَّكُمۡ تُرۡحَمُونَ",
+  "translation": "Je, mnastaajabu kukujieni mawaidha yanayotoka kwa Mola Mlezi wenu kwa njia ya mtu aliye ni mmoja katika nyinyi, ili akuonyeni na ili mumchemngu, na ili mpate kurehemewa?",
+  "footnotes": "Mnanizulia kuwa nimepotea na kuwa nipo mbali na Haki? Na mnastaajabu kukujieni kumbusho kutokana na Mwenyezi Mungu aliye kuumbeni kwa ulimi wa mtu aliye kuja kwenu kukuonyeni adhabu pindi mkikanusha, na akakuiteni mwende kuufuata uwongofu, na kutengeza nyoyo, na kujiepusha na ghadhabu ya Mwenyezi Mungu Mtukufu, kwa kutaraji muwe katika rehema ya Mwenyezi Mungu Mtukufu duniani na Akhera? Haifai kuwa mnastaajabu na mnakanusha juu ya kuwepo hoja zenye kuthibitisha Utume huu."
 }

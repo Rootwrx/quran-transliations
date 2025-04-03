@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5261",
-    "sura": "67",
-    "aya": "20",
-    "arabic_text": "أَمَّنۡ هَٰذَا ٱلَّذِي هُوَ جُندٞ لَّكُمۡ يَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَٰنِۚ إِنِ ٱلۡكَٰفِرُونَ إِلَّا فِي غُرُورٍ",
-    "translation": "20. Quel est donc celui qui serait pour vous (à lui seul) une armée et vous secourrait en dehors du Tout Clément ? Les mécréants sont vraiment en pleine illusion.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 563,
+  "verse_key": "67:20",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمَّنۡ هَٰذَا ٱلَّذِي هُوَ جُندٞ لَّكُمۡ يَنصُرُكُم مِّن دُونِ ٱلرَّحۡمَٰنِۚ إِنِ ٱلۡكَٰفِرُونَ إِلَّا فِي غُرُورٍ",
+  "translation": "20. Quel est donc celui qui serait pour vous (à lui seul) une armée et vous secourrait en dehors du Tout Clément ? Les mécréants sont vraiment en pleine illusion.",
+  "footnotes": ""
 }

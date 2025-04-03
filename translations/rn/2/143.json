@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "150",
-    "sura": "2",
-    "aya": "143",
-    "arabic_text": "وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ",
-    "translation": "Bislamu! Ni nk’uko nyene rero Twabarongoye mw’idini ry’ubwislamu, Twabagize intore n’intungane mu bantu, kugira ngo mube ivyabona ku bantu bose ku musi w’izuka ko Intumwa z’Imana zashikirije ubutumwa; no kugira rero Intumwa y’Imana Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) na yo, izobe icabona kuri mwebwe ko yabashikaniye ubutumwa. Ntumwa y’Imana! Ubutumbero bwa Bayti l-Maqdis wahora werekezako mu gusenga, ntitwabuhinduye ngo Tugutumbereze Al-Ka’ba, atari ukugira hamenyekane ku vyo Dusanzwe Tuzi, uwumvira agakurikira Intumwa, hamwe rero n’uwutayumvira akagenza umugongo mu kwemera. Ukwo guhindura ubutumbero mu gusenga, ni ukuri ni ikintu kiremereye kigoye kwumva kiretse kuri barya Imana Allah Yarongoye mu nzira y’ukwemera n’iy’igamburukiramana. Kandi rero Imana Allah ntiyari kugira impfagusa ukwemera kwanyu ngo ntibemerere amasengesho yanyu mwasenze mugitumbera Bayti l-Maqdis. Mu vy’ukuri, Imana Allah ni Nyenikigongwe, Nyenimbabazi ku batoni bayo.",
-    "footnotes": ""
-  }
+  "id": 143,
+  "verse_number": 143,
+  "page_number": 22,
+  "verse_key": "2:143",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ",
+  "translation": "Bislamu! Ni nk’uko nyene rero Twabarongoye mw’idini ry’ubwislamu, Twabagize intore n’intungane mu bantu, kugira ngo mube ivyabona ku bantu bose ku musi w’izuka ko Intumwa z’Imana zashikirije ubutumwa; no kugira rero Intumwa y’Imana Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) na yo, izobe icabona kuri mwebwe ko yabashikaniye ubutumwa. Ntumwa y’Imana! Ubutumbero bwa Bayti l-Maqdis wahora werekezako mu gusenga, ntitwabuhinduye ngo Tugutumbereze Al-Ka’ba, atari ukugira hamenyekane ku vyo Dusanzwe Tuzi, uwumvira agakurikira Intumwa, hamwe rero n’uwutayumvira akagenza umugongo mu kwemera. Ukwo guhindura ubutumbero mu gusenga, ni ukuri ni ikintu kiremereye kigoye kwumva kiretse kuri barya Imana Allah Yarongoye mu nzira y’ukwemera n’iy’igamburukiramana. Kandi rero Imana Allah ntiyari kugira impfagusa ukwemera kwanyu ngo ntibemerere amasengesho yanyu mwasenze mugitumbera Bayti l-Maqdis. Mu vy’ukuri, Imana Allah ni Nyenikigongwe, Nyenimbabazi ku batoni bayo.",
+  "footnotes": ""
 }

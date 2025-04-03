@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4241",
-    "sura": "41",
-    "aya": "23",
-    "arabic_text": "وَذَٰلِكُمۡ ظَنُّكُمُ ٱلَّذِي ظَنَنتُم بِرَبِّكُمۡ أَرۡدَىٰكُمۡ فَأَصۡبَحۡتُم مِّنَ ٱلۡخَٰسِرِينَ",
-    "translation": "Yaong pagpapalagay ninyo na ipinagpalagay ninyo sa Panginoon ninyo ay nagpasawi sa inyo kaya kayo [sa Araw na ito] ay naging kabilang sa mga lugi.”",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 479,
+  "verse_key": "41:23",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَذَٰلِكُمۡ ظَنُّكُمُ ٱلَّذِي ظَنَنتُم بِرَبِّكُمۡ أَرۡدَىٰكُمۡ فَأَصۡبَحۡتُم مِّنَ ٱلۡخَٰسِرِينَ",
+  "translation": "Yaong pagpapalagay ninyo na ipinagpalagay ninyo sa Panginoon ninyo ay nagpasawi sa inyo kaya kayo [sa Araw na ito] ay naging kabilang sa mga lugi.”",
+  "footnotes": ""
 }

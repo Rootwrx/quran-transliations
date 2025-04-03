@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3941",
-    "sura": "37",
-    "aya": "153",
-    "arabic_text": "أَصۡطَفَى ٱلۡبَنَاتِ عَلَى ٱلۡبَنِينَ",
-    "translation": "难道他不要儿子，却要女儿吗？",
-    "footnotes": ""
-  }
+  "id": 153,
+  "verse_number": 153,
+  "page_number": 451,
+  "verse_key": "37:153",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَصۡطَفَى ٱلۡبَنَاتِ عَلَى ٱلۡبَنِينَ",
+  "translation": "难道他不要儿子，却要女儿吗？",
+  "footnotes": ""
 }

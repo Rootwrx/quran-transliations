@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5714",
-    "sura": "79",
-    "aya": "2",
-    "arabic_text": "وَٱلنَّٰشِطَٰتِ نَشۡطٗا",
-    "translation": "මෘදු ලෙස ගලවන්නන් මත ද දිවුරමින්.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 583,
+  "verse_key": "79:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلنَّٰشِطَٰتِ نَشۡطٗا",
+  "translation": "මෘදු ලෙස ගලවන්නන් මත ද දිවුරමින්.",
+  "footnotes": ""
 }

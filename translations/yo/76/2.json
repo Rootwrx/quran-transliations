@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5593",
-    "sura": "76",
-    "aya": "2",
-    "arabic_text": "إِنَّا خَلَقۡنَا ٱلۡإِنسَٰنَ مِن نُّطۡفَةٍ أَمۡشَاجٖ نَّبۡتَلِيهِ فَجَعَلۡنَٰهُ سَمِيعَۢا بَصِيرًا",
-    "translation": "Dájúdájú Àwa ṣẹ̀dá ènìyàn láti ara àtọ̀ tó ròpọ̀ mọ́ra wọn (láti ara ọkùnrin àti obìnrin), A sì máa dán an wò.[1] A sì ṣe é ní olùgbọ́, olùríran.",
-    "footnotes": "1. “A sì máa dán an wò.” Ìyẹn ni pé, A máa la ẹ̀sìn bọ̀ ọ́ lọ́rùn nígbà tí ó bá bàlágà."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 578,
+  "verse_key": "76:2",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا خَلَقۡنَا ٱلۡإِنسَٰنَ مِن نُّطۡفَةٍ أَمۡشَاجٖ نَّبۡتَلِيهِ فَجَعَلۡنَٰهُ سَمِيعَۢا بَصِيرًا",
+  "translation": "Dájúdájú Àwa ṣẹ̀dá ènìyàn láti ara àtọ̀ tó ròpọ̀ mọ́ra wọn (láti ara ọkùnrin àti obìnrin), A sì máa dán an wò.[1] A sì ṣe é ní olùgbọ́, olùríran.",
+  "footnotes": "1. “A sì máa dán an wò.” Ìyẹn ni pé, A máa la ẹ̀sìn bọ̀ ọ́ lọ́rùn nígbà tí ó bá bàlágà."
 }

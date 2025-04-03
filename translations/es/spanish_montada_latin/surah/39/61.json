@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4119",
-    "sura": "39",
-    "aya": "61",
-    "arabic_text": "وَيُنَجِّي ٱللَّهُ ٱلَّذِينَ ٱتَّقَوۡاْ بِمَفَازَتِهِمۡ لَا يَمَسُّهُمُ ٱلسُّوٓءُ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "61. Y Al-lah salvará del castigo (del Infierno) a quienes hayan sido piadosos (obedeciendo Sus mandatos y alejándose de Sus prohibiciones) y les concederá el triunfo en el Paraíso. No sufrirán ningún mal ni se sentirán afligidos.",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 465,
+  "verse_key": "39:61",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُنَجِّي ٱللَّهُ ٱلَّذِينَ ٱتَّقَوۡاْ بِمَفَازَتِهِمۡ لَا يَمَسُّهُمُ ٱلسُّوٓءُ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "61. Y Al-lah salvará del castigo (del Infierno) a quienes hayan sido piadosos (obedeciendo Sus mandatos y alejándose de Sus prohibiciones) y les concederá el triunfo en el Paraíso. No sufrirán ningún mal ni se sentirán afligidos.",
+  "footnotes": ""
 }

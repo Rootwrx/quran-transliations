@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1735",
-    "sura": "13",
-    "aya": "28",
-    "arabic_text": "ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ",
-    "translation": "28. »esos que creen y cuyos corazones se tranquilizan con la mención de Al-lah». Ciertamente, los corazones encuentran sosiego al mencionar y glorificar a Al-lah (exaltando Su nombre)[414].",
-    "footnotes": "[414]  La palabra árabe dhiker, que puede significar «recuerdo» o «mención», incluye también el salat, suplicar a Al-lah o invocarlo con oraciones que exaltan Su grandeza."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 252,
+  "verse_key": "13:28",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ",
+  "translation": "28. »esos que creen y cuyos corazones se tranquilizan con la mención de Al-lah». Ciertamente, los corazones encuentran sosiego al mencionar y glorificar a Al-lah (exaltando Su nombre)[414].",
+  "footnotes": "[414]  La palabra árabe dhiker, que puede significar «recuerdo» o «mención», incluye también el salat, suplicar a Al-lah o invocarlo con oraciones que exaltan Su grandeza."
 }

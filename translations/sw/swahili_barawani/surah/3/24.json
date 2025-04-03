@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "317",
-    "sura": "3",
-    "aya": "24",
-    "arabic_text": "ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامٗا مَّعۡدُودَٰتٖۖ وَغَرَّهُمۡ فِي دِينِهِم مَّا كَانُواْ يَفۡتَرُونَ",
-    "translation": "Hayo ni kwa sababu walisema: Hautatugusa Moto isipo kuwa kwa siku chache tu. Na yakawadanganya katika dini yao yale ambayo wenyewe waliyo kuwa wakiyazua.",
-    "footnotes": "Hao wanao kataa miongoni mwa Mayahudi wamedanganyika kwa kukataa kwao na matumaini ya uwongo wanao jitamanisha nafsi zao ya kuwa Moto hautawagusa ila siku chache tu. Na kudanganyika huko na matamanio hayo yamewapelekea kuendelea kuzua katika dini yao kunako endelea."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 53,
+  "verse_key": "3:24",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامٗا مَّعۡدُودَٰتٖۖ وَغَرَّهُمۡ فِي دِينِهِم مَّا كَانُواْ يَفۡتَرُونَ",
+  "translation": "Hayo ni kwa sababu walisema: Hautatugusa Moto isipo kuwa kwa siku chache tu. Na yakawadanganya katika dini yao yale ambayo wenyewe waliyo kuwa wakiyazua.",
+  "footnotes": "Hao wanao kataa miongoni mwa Mayahudi wamedanganyika kwa kukataa kwao na matumaini ya uwongo wanao jitamanisha nafsi zao ya kuwa Moto hautawagusa ila siku chache tu. Na kudanganyika huko na matamanio hayo yamewapelekea kuendelea kuzua katika dini yao kunako endelea."
 }

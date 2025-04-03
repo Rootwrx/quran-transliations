@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2644",
-    "sura": "22",
-    "aya": "49",
-    "arabic_text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمۡ نَذِيرٞ مُّبِينٞ",
-    "translation": "Sema: Enyi watu! Hakika mimi ni mwonyaji kwenu niliye dhaahiri.",
-    "footnotes": "Ewe Nabii! Waambie hao wanao kanusha, wanao kuhimiza waletewe adhabu: Sio kazi yangu mimi kukulipeni kwa vitendo vyenu. Bali hakika mimi ni mwenye kukuhadharisheni kwa hadhari iliyo wazi kwamba kuna adhabu. Na Mwenyezi Mungu ndiye wa kukuhisabuni na kukulipeni."
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 338,
+  "verse_key": "22:49",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنَّمَآ أَنَا۠ لَكُمۡ نَذِيرٞ مُّبِينٞ",
+  "translation": "Sema: Enyi watu! Hakika mimi ni mwonyaji kwenu niliye dhaahiri.",
+  "footnotes": "Ewe Nabii! Waambie hao wanao kanusha, wanao kuhimiza waletewe adhabu: Sio kazi yangu mimi kukulipeni kwa vitendo vyenu. Bali hakika mimi ni mwenye kukuhadharisheni kwa hadhari iliyo wazi kwamba kuna adhabu. Na Mwenyezi Mungu ndiye wa kukuhisabuni na kukulipeni."
 }

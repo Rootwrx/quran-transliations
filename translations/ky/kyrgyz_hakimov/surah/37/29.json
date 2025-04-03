@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3817",
-    "sura": "37",
-    "aya": "29",
-    "arabic_text": "قَالُواْ بَل لَّمۡ تَكُونُواْ مُؤۡمِنِينَ",
-    "translation": "(Башчылар) айтат: «Жок! Өзүңөр ыйманды кабыл албай койгонсуңар.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 447,
+  "verse_key": "37:29",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ بَل لَّمۡ تَكُونُواْ مُؤۡمِنِينَ",
+  "translation": "(Башчылар) айтат: «Жок! Өзүңөр ыйманды кабыл албай койгонсуңар.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1667",
-    "sura": "12",
-    "aya": "71",
-    "arabic_text": "قَالُواْ وَأَقۡبَلُواْ عَلَيۡهِم مَّاذَا تَفۡقِدُونَ",
-    "translation": "[Бародарони Юсуф] Рӯ ба онон карданд ва гуфтанд: «Чи гум кардаед»?",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 244,
+  "verse_key": "12:71",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ وَأَقۡبَلُواْ عَلَيۡهِم مَّاذَا تَفۡقِدُونَ",
+  "translation": "[Бародарони Юсуф] Рӯ ба онон карданд ва гуфтанд: «Чи гум кардаед»?",
+  "footnotes": ""
 }

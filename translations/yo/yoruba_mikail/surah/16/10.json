@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1911",
-    "sura": "16",
-    "aya": "10",
-    "arabic_text": "هُوَ ٱلَّذِيٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗۖ لَّكُم مِّنۡهُ شَرَابٞ وَمِنۡهُ شَجَرٞ فِيهِ تُسِيمُونَ",
-    "translation": "Òun ni Ẹni tó ń sọ omi kalẹ̀ (fún yín) láti sánmọ̀. Mímu wà fún yín nínú rẹ̀. Igi ewéko tún ń wù jáde láti inú rẹ̀, tí ẹ fi ń bọ́ àwọn ẹran-ọ̀sìn.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 268,
+  "verse_key": "16:10",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِيٓ أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗۖ لَّكُم مِّنۡهُ شَرَابٞ وَمِنۡهُ شَجَرٞ فِيهِ تُسِيمُونَ",
+  "translation": "Òun ni Ẹni tó ń sọ omi kalẹ̀ (fún yín) láti sánmọ̀. Mímu wà fún yín nínú rẹ̀. Igi ewéko tún ń wù jáde láti inú rẹ̀, tí ẹ fi ń bọ́ àwọn ẹran-ọ̀sìn.",
+  "footnotes": ""
 }

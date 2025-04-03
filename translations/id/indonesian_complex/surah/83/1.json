@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5849",
-    "sura": "83",
-    "aya": "1",
-    "arabic_text": "وَيۡلٞ لِّلۡمُطَفِّفِينَ",
-    "translation": "Kecelakaan besarlah bagi orang-orang yang curang1562,",
-    "footnotes": "1562.  Yang dimaksud dengan \"orang-orang yang curang\" di sini ialah orang-orang yang curang dalam menakar dan menimbang. "
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 587,
+  "verse_key": "83:1",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيۡلٞ لِّلۡمُطَفِّفِينَ",
+  "translation": "Kecelakaan besarlah bagi orang-orang yang curang1562,",
+  "footnotes": "1562.  Yang dimaksud dengan \"orang-orang yang curang\" di sini ialah orang-orang yang curang dalam menakar dan menimbang. "
 }

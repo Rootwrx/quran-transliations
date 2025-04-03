@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5977",
-    "sura": "88",
-    "aya": "10",
-    "arabic_text": "فِي جَنَّةٍ عَالِيَةٖ",
-    "translation": "yüce bir cennettedirler. ",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 592,
+  "verse_key": "88:10",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي جَنَّةٍ عَالِيَةٖ",
+  "translation": "yüce bir cennettedirler. ",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4738",
-    "sura": "52",
-    "aya": "3",
-    "arabic_text": "فِي رَقّٖ مَّنشُورٖ",
-    "translation": "విప్పబడిన చర్మపత్రం మీద.[1]",
-    "footnotes": "[1] రఖ్ఖిన్: Parchment, అంటే రాతకు అనువయ్యేటట్లు పదును చేసిన గొర్రెతోలు, చర్మపత్రం, చర్మపత్ర రాతప్రతి."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 523,
+  "verse_key": "52:3",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي رَقّٖ مَّنشُورٖ",
+  "translation": "విప్పబడిన చర్మపత్రం మీద.[1]",
+  "footnotes": "[1] రఖ్ఖిన్: Parchment, అంటే రాతకు అనువయ్యేటట్లు పదును చేసిన గొర్రెతోలు, చర్మపత్రం, చర్మపత్ర రాతప్రతి."
 }

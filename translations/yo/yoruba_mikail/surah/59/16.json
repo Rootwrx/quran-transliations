@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5142",
-    "sura": "59",
-    "aya": "16",
-    "arabic_text": "كَمَثَلِ ٱلشَّيۡطَٰنِ إِذۡ قَالَ لِلۡإِنسَٰنِ ٱكۡفُرۡ فَلَمَّا كَفَرَ قَالَ إِنِّي بَرِيٓءٞ مِّنكَ إِنِّيٓ أَخَافُ ٱللَّهَ رَبَّ ٱلۡعَٰلَمِينَ",
-    "translation": "Àpẹ̀ẹrẹ wọn dà bí aṣ-Ṣaetọ̄n nígbà tí ó bá wí fún ènìyàn pé: “Ṣàì gbàgbọ́.” Nígbà tí ó bá ṣàì gbàgbọ́ (tán), ó máa wí pé: “Dájúdájú èmi yọwọ́ yọsẹ̀ kúrò nínú ọ̀rọ̀ rẹ. Dájúdájú èmi ń páyà Allāhu, Olúwa gbogbo ẹ̀dá.”",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 547,
+  "verse_key": "59:16",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 219,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَمَثَلِ ٱلشَّيۡطَٰنِ إِذۡ قَالَ لِلۡإِنسَٰنِ ٱكۡفُرۡ فَلَمَّا كَفَرَ قَالَ إِنِّي بَرِيٓءٞ مِّنكَ إِنِّيٓ أَخَافُ ٱللَّهَ رَبَّ ٱلۡعَٰلَمِينَ",
+  "translation": "Àpẹ̀ẹrẹ wọn dà bí aṣ-Ṣaetọ̄n nígbà tí ó bá wí fún ènìyàn pé: “Ṣàì gbàgbọ́.” Nígbà tí ó bá ṣàì gbàgbọ́ (tán), ó máa wí pé: “Dájúdájú èmi yọwọ́ yọsẹ̀ kúrò nínú ọ̀rọ̀ rẹ. Dájúdájú èmi ń páyà Allāhu, Olúwa gbogbo ẹ̀dá.”",
+  "footnotes": ""
 }

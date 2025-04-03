@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "69",
-    "sura": "2",
-    "aya": "62",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "Şübhəsiz ki, möminlərin, (habelə,) yəhudi, nəsrani və sabiilərdən Allaha və Axirət gününə iman gətirənlərin və yaxşı iş görənlərin mükafatı öz Rəbbi yanındadır. Onlara heç bir qorxu yoxdur və onlar kədərlənməyəcəklər.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 10,
+  "verse_key": "2:62",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "Şübhəsiz ki, möminlərin, (habelə,) yəhudi, nəsrani və sabiilərdən Allaha və Axirət gününə iman gətirənlərin və yaxşı iş görənlərin mükafatı öz Rəbbi yanındadır. Onlara heç bir qorxu yoxdur və onlar kədərlənməyəcəklər.",
+  "footnotes": ""
 }

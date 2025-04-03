@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5617",
-    "sura": "76",
-    "aya": "26",
-    "arabic_text": "وَمِنَ ٱلَّيۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَيۡلٗا طَوِيلًا",
-    "translation": "Sa bahagi ng gabi[2] ay magpatirapa ka sa Kanya at magluwalhati ka sa Kanya sa [bahagi ng] gabi nang matagal.[3]",
-    "footnotes": "[2] sa dasal sa pagkalubog ng araw at dasal sa gabi at kusang-loob na dasal sa gabi\n[3] sa dasal na tahajjud."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 580,
+  "verse_key": "76:26",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلَّيۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَيۡلٗا طَوِيلًا",
+  "translation": "Sa bahagi ng gabi[2] ay magpatirapa ka sa Kanya at magluwalhati ka sa Kanya sa [bahagi ng] gabi nang matagal.[3]",
+  "footnotes": "[2] sa dasal sa pagkalubog ng araw at dasal sa gabi at kusang-loob na dasal sa gabi\n[3] sa dasal na tahajjud."
 }

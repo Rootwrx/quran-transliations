@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3087",
-    "sura": "26",
-    "aya": "155",
-    "arabic_text": "قَالَ هَٰذِهِۦ نَاقَةٞ لَّهَا شِرۡبٞ وَلَكُمۡ شِرۡبُ يَوۡمٖ مَّعۡلُومٖ",
-    "translation": "(Saleh) bảo họ: “Đây là con lạc đà cái (mà Allah đã mang nó ra từ tảng đá), nó sẽ uống phần nước của nó và các người sẽ uống phần nước của các người vào ngày được ấn định.”",
-    "footnotes": ""
-  }
+  "id": 155,
+  "verse_number": 155,
+  "page_number": 373,
+  "verse_key": "26:155",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ هَٰذِهِۦ نَاقَةٞ لَّهَا شِرۡبٞ وَلَكُمۡ شِرۡبُ يَوۡمٖ مَّعۡلُومٖ",
+  "translation": "(Saleh) bảo họ: “Đây là con lạc đà cái (mà Allah đã mang nó ra từ tảng đá), nó sẽ uống phần nước của nó và các người sẽ uống phần nước của các người vào ngày được ấn định.”",
+  "footnotes": ""
 }

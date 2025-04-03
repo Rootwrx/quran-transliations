@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3920",
-    "sura": "37",
-    "aya": "132",
-    "arabic_text": "إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِينَ",
-    "translation": "Inni gabroota keenya mu’uminoota irraayi.",
-    "footnotes": ""
-  }
+  "id": 132,
+  "verse_number": 132,
+  "page_number": 451,
+  "verse_key": "37:132",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِينَ",
+  "translation": "Inni gabroota keenya mu’uminoota irraayi.",
+  "footnotes": ""
 }

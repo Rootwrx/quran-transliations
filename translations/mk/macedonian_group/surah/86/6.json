@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5937",
-    "sura": "86",
-    "aya": "6",
-    "arabic_text": "خُلِقَ مِن مَّآءٖ دَافِقٖ",
-    "translation": "6. Создаден е од течноста што се исфрла,",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 591,
+  "verse_key": "86:6",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خُلِقَ مِن مَّآءٖ دَافِقٖ",
+  "translation": "6. Создаден е од течноста што се исфрла,",
+  "footnotes": ""
 }

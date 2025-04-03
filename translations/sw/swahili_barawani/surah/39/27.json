@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4085",
-    "sura": "39",
-    "aya": "27",
-    "arabic_text": "وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖ لَّعَلَّهُمۡ يَتَذَكَّرُونَ",
-    "translation": "Na bila ya shaka tumewapigia watu mifano ya kila namna katika hii Qur'ani ili wapate kukumbuka.",
-    "footnotes": "Na bila ya shaka tulikwisha wabainishia watu katika hii Qur'ani kwa kila mfano wa kuwakumbusha Haki, kwa kutaraji kuwa watakumbuka na watawaidhika."
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 461,
+  "verse_key": "39:27",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖ لَّعَلَّهُمۡ يَتَذَكَّرُونَ",
+  "translation": "Na bila ya shaka tumewapigia watu mifano ya kila namna katika hii Qur'ani ili wapate kukumbuka.",
+  "footnotes": "Na bila ya shaka tulikwisha wabainishia watu katika hii Qur'ani kwa kila mfano wa kuwakumbusha Haki, kwa kutaraji kuwa watakumbuka na watawaidhika."
 }

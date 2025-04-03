@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3363",
-    "sura": "29",
-    "aya": "23",
-    "arabic_text": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ وَلِقَآئِهِۦٓ أُوْلَٰٓئِكَ يَئِسُواْ مِن رَّحۡمَتِي وَأُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ أَلِيمٞ",
-    "translation": "Abagararije Imana Allah bagahakana n’ivyemezo vyayo, n’uko bazohura na Yo ku musi w’izuka, abo nibamara kubona ibihano bibarindiriye, bazokwihebura mu kutaziga kuronka impuhwe zanje Jewe Allah. Abo, ni na bo rero bategekanirijwe n’ibihano bibabaza cane mu buzima bw’inyuma yo gupfa.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 398,
+  "verse_key": "29:23",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ وَلِقَآئِهِۦٓ أُوْلَٰٓئِكَ يَئِسُواْ مِن رَّحۡمَتِي وَأُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ أَلِيمٞ",
+  "translation": "Abagararije Imana Allah bagahakana n’ivyemezo vyayo, n’uko bazohura na Yo ku musi w’izuka, abo nibamara kubona ibihano bibarindiriye, bazokwihebura mu kutaziga kuronka impuhwe zanje Jewe Allah. Abo, ni na bo rero bategekanirijwe n’ibihano bibabaza cane mu buzima bw’inyuma yo gupfa.",
+  "footnotes": ""
 }

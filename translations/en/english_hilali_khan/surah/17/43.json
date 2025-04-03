@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2072",
-    "sura": "17",
-    "aya": "43",
-    "arabic_text": "سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَقُولُونَ عُلُوّٗا كَبِيرٗا",
-    "translation": " 43. Glorified and Exalted be He! High above (the great falsehood) that they say! (i.e. forged statements that there are other gods along with Allâh, but He is Allâh, the One, the Self-Sufficient Master, Whom all creatures need. He begets not, nor was He begotten, and there is none comparable or coequal unto Him).",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 286,
+  "verse_key": "17:43",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَقُولُونَ عُلُوّٗا كَبِيرٗا",
+  "translation": " 43. Glorified and Exalted be He! High above (the great falsehood) that they say! (i.e. forged statements that there are other gods along with Allâh, but He is Allâh, the One, the Self-Sufficient Master, Whom all creatures need. He begets not, nor was He begotten, and there is none comparable or coequal unto Him).",
+  "footnotes": ""
 }

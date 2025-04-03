@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2939",
-    "sura": "26",
-    "aya": "7",
-    "arabic_text": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلۡأَرۡضِ كَمۡ أَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجٖ كَرِيمٍ",
-    "translation": "难道他们没有观察大地吗？我使各种优良的植物在大地上繁衍。",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 367,
+  "verse_key": "26:7",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلۡأَرۡضِ كَمۡ أَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجٖ كَرِيمٍ",
+  "translation": "难道他们没有观察大地吗？我使各种优良的植物在大地上繁衍。",
+  "footnotes": ""
 }

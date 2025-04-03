@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "843",
-    "sura": "6",
-    "aya": "54",
-    "arabic_text": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤۡمِنُونَ بِـَٔايَٰتِنَا فَقُلۡ سَلَٰمٌ عَلَيۡكُمۡۖ كَتَبَ رَبُّكُمۡ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَ أَنَّهُۥ مَنۡ عَمِلَ مِنكُمۡ سُوٓءَۢا بِجَهَٰلَةٖ ثُمَّ تَابَ مِنۢ بَعۡدِهِۦ وَأَصۡلَحَ فَأَنَّهُۥ غَفُورٞ رَّحِيمٞ",
-    "translation": "Nígbà tí àwọn tó gba àwọn āyah Wa gbọ́ bá wá bá ọ, sọ (fún wọn) pé: “Kí àlàáfíà máa ba yín. Olúwa yín ṣe àánú ní ọ̀ran-anyàn léra Rẹ̀ lórí pé, dájúdájú ẹnikẹ́ni nínú yín tí ó bá ṣe iṣẹ́ aburú pẹ̀lú àìmọ̀kan, lẹ́yìn náà, tí ó ronú pìwàdà lẹ́yìn rẹ̀, tí ó sì ṣe àtúnṣe, dájúdájú Òun ni Aláforíjìn, Àṣàkẹ́-ọ̀run.”[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ āyah 12."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 134,
+  "verse_key": "6:54",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤۡمِنُونَ بِـَٔايَٰتِنَا فَقُلۡ سَلَٰمٌ عَلَيۡكُمۡۖ كَتَبَ رَبُّكُمۡ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَ أَنَّهُۥ مَنۡ عَمِلَ مِنكُمۡ سُوٓءَۢا بِجَهَٰلَةٖ ثُمَّ تَابَ مِنۢ بَعۡدِهِۦ وَأَصۡلَحَ فَأَنَّهُۥ غَفُورٞ رَّحِيمٞ",
+  "translation": "Nígbà tí àwọn tó gba àwọn āyah Wa gbọ́ bá wá bá ọ, sọ (fún wọn) pé: “Kí àlàáfíà máa ba yín. Olúwa yín ṣe àánú ní ọ̀ran-anyàn léra Rẹ̀ lórí pé, dájúdájú ẹnikẹ́ni nínú yín tí ó bá ṣe iṣẹ́ aburú pẹ̀lú àìmọ̀kan, lẹ́yìn náà, tí ó ronú pìwàdà lẹ́yìn rẹ̀, tí ó sì ṣe àtúnṣe, dájúdájú Òun ni Aláforíjìn, Àṣàkẹ́-ọ̀run.”[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ āyah 12."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "711",
-    "sura": "5",
-    "aya": "42",
-    "arabic_text": "سَمَّٰعُونَ لِلۡكَذِبِ أَكَّٰلُونَ لِلسُّحۡتِۚ فَإِن جَآءُوكَ فَٱحۡكُم بَيۡنَهُمۡ أَوۡ أَعۡرِضۡ عَنۡهُمۡۖ وَإِن تُعۡرِضۡ عَنۡهُمۡ فَلَن يَضُرُّوكَ شَيۡـٔٗاۖ وَإِنۡ حَكَمۡتَ فَٱحۡكُم بَيۡنَهُم بِٱلۡقِسۡطِۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُقۡسِطِينَ",
-    "translation": "Hao ni wasikilizaji kwa ajili ya kusema uwongo, na ni walaji mno vya haramu! Basi wakikujia, wahukumu baina yao au jipuuze nao. Na ukijipuuza nao, basi wao hawatakudhuru kitu. Na ukiwahukumu, basi hukumu baina yao kwa uadilifu. Hakika Mwenyezi Mungu anawapenda waadilifu.",
-    "footnotes": "Hao hukithiri kusikiliza ili wapate kuzua, na hukithiri kula mali ya haramu ambayo hayana baraka yoyote, kama vile rushwa na riba na mengineyo. Basi wakikujia kukutaka uwahukumu, wewe wahukumu pindi ukiona hayo yana maslaha, au jipuuze nao. Na ukijipuuza nao hawatokudhuru kwa lolote, kwa kuwa Mwenyezi Mungu ndiye wa kukulinda na watu. Na ukihukumu baina yao basi hukumu kwa uadilifu alio kuamrisha Mwenyezi Mungu. Hakika Mwenyezi Mungu huwapenda waadilifu, naye huwahifadhi na huwalipa thawabu."
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 115,
+  "verse_key": "5:42",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 46,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَمَّٰعُونَ لِلۡكَذِبِ أَكَّٰلُونَ لِلسُّحۡتِۚ فَإِن جَآءُوكَ فَٱحۡكُم بَيۡنَهُمۡ أَوۡ أَعۡرِضۡ عَنۡهُمۡۖ وَإِن تُعۡرِضۡ عَنۡهُمۡ فَلَن يَضُرُّوكَ شَيۡـٔٗاۖ وَإِنۡ حَكَمۡتَ فَٱحۡكُم بَيۡنَهُم بِٱلۡقِسۡطِۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُقۡسِطِينَ",
+  "translation": "Hao ni wasikilizaji kwa ajili ya kusema uwongo, na ni walaji mno vya haramu! Basi wakikujia, wahukumu baina yao au jipuuze nao. Na ukijipuuza nao, basi wao hawatakudhuru kitu. Na ukiwahukumu, basi hukumu baina yao kwa uadilifu. Hakika Mwenyezi Mungu anawapenda waadilifu.",
+  "footnotes": "Hao hukithiri kusikiliza ili wapate kuzua, na hukithiri kula mali ya haramu ambayo hayana baraka yoyote, kama vile rushwa na riba na mengineyo. Basi wakikujia kukutaka uwahukumu, wewe wahukumu pindi ukiona hayo yana maslaha, au jipuuze nao. Na ukijipuuza nao hawatokudhuru kwa lolote, kwa kuwa Mwenyezi Mungu ndiye wa kukulinda na watu. Na ukihukumu baina yao basi hukumu kwa uadilifu alio kuamrisha Mwenyezi Mungu. Hakika Mwenyezi Mungu huwapenda waadilifu, naye huwahifadhi na huwalipa thawabu."
 }

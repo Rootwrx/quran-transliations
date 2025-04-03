@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "285",
-    "sura": "2",
-    "aya": "278",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَوٰٓاْ إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": "Enyi mlio amini! Mcheni Mwenyezi Mungu, na acheni riba zilizo bakia, ikiwa nyinyi ni Waumini.",
-    "footnotes": "Enyi mlio amini! Mwogopeni Mwenyezi Mungu, na wacheni heba yake na khofu yake ijae katika nyoyo zenu, na wacheni kudai hiyo riba iliyo bakia juu ya shingo za watu ikiwa ni kweli nyinyi ni Waumini."
-  }
+  "id": 278,
+  "verse_number": 278,
+  "page_number": 47,
+  "verse_key": "2:278",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 19,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱتَّقُواْ ٱللَّهَ وَذَرُواْ مَا بَقِيَ مِنَ ٱلرِّبَوٰٓاْ إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": "Enyi mlio amini! Mcheni Mwenyezi Mungu, na acheni riba zilizo bakia, ikiwa nyinyi ni Waumini.",
+  "footnotes": "Enyi mlio amini! Mwogopeni Mwenyezi Mungu, na wacheni heba yake na khofu yake ijae katika nyoyo zenu, na wacheni kudai hiyo riba iliyo bakia juu ya shingo za watu ikiwa ni kweli nyinyi ni Waumini."
 }

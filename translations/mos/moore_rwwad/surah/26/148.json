@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3080",
-    "sura": "26",
-    "aya": "148",
-    "arabic_text": "وَزُرُوعٖ وَنَخۡلٖ طَلۡعُهَا هَضِيمٞ",
-    "translation": "La koodo la tamar tɩɩs biis sẽn yaa lom-lome (n sakd rɩɩbo)?",
-    "footnotes": ""
-  }
+  "id": 148,
+  "verse_number": 148,
+  "page_number": 373,
+  "verse_key": "26:148",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَزُرُوعٖ وَنَخۡلٖ طَلۡعُهَا هَضِيمٞ",
+  "translation": "La koodo la tamar tɩɩs biis sẽn yaa lom-lome (n sakd rɩɩbo)?",
+  "footnotes": ""
 }

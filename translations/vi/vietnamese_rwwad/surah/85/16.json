@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5925",
-    "sura": "85",
-    "aya": "16",
-    "arabic_text": "فَعَّالٞ لِّمَا يُرِيدُ",
-    "translation": "Ngài làm bất cứ điều gì Ngài muốn.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 590,
+  "verse_key": "85:16",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَعَّالٞ لِّمَا يُرِيدُ",
+  "translation": "Ngài làm bất cứ điều gì Ngài muốn.",
+  "footnotes": ""
 }

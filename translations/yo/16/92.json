@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1993",
-    "sura": "16",
-    "aya": "92",
-    "arabic_text": "وَلَا تَكُونُواْ كَٱلَّتِي نَقَضَتۡ غَزۡلَهَا مِنۢ بَعۡدِ قُوَّةٍ أَنكَٰثٗا تَتَّخِذُونَ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ أَن تَكُونَ أُمَّةٌ هِيَ أَرۡبَىٰ مِنۡ أُمَّةٍۚ إِنَّمَا يَبۡلُوكُمُ ٱللَّهُ بِهِۦۚ وَلَيُبَيِّنَنَّ لَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ مَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
-    "translation": "Kí ẹ sì má ṣe dà bí (obìnrin) èyí tí ó tú òwú dídì rẹ̀ palẹ̀ yẹ́lẹyẹ̀lẹ lẹ́yìn tí ó tí dì í le. Ńṣe ni ẹ̀ ń lo ìbúra yín fún ẹ̀tàn láààrin ara yín nítorí pé ìran kan pọ̀ ju ìran kan. Dájúdájú Allāhu ń dan yín wò pẹ̀lú rẹ̀ ni. Àti pé ní Ọjọ́ Àjíǹde Ó kúkú máa ṣàlàyé fún yín ohun tí ẹ̀ ń yapa ẹnu sí.",
-    "footnotes": ""
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 277,
+  "verse_key": "16:92",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَكُونُواْ كَٱلَّتِي نَقَضَتۡ غَزۡلَهَا مِنۢ بَعۡدِ قُوَّةٍ أَنكَٰثٗا تَتَّخِذُونَ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ أَن تَكُونَ أُمَّةٌ هِيَ أَرۡبَىٰ مِنۡ أُمَّةٍۚ إِنَّمَا يَبۡلُوكُمُ ٱللَّهُ بِهِۦۚ وَلَيُبَيِّنَنَّ لَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ مَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+  "translation": "Kí ẹ sì má ṣe dà bí (obìnrin) èyí tí ó tú òwú dídì rẹ̀ palẹ̀ yẹ́lẹyẹ̀lẹ lẹ́yìn tí ó tí dì í le. Ńṣe ni ẹ̀ ń lo ìbúra yín fún ẹ̀tàn láààrin ara yín nítorí pé ìran kan pọ̀ ju ìran kan. Dájúdájú Allāhu ń dan yín wò pẹ̀lú rẹ̀ ni. Àti pé ní Ọjọ́ Àjíǹde Ó kúkú máa ṣàlàyé fún yín ohun tí ẹ̀ ń yapa ẹnu sí.",
+  "footnotes": ""
 }

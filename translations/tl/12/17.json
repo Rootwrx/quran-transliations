@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1613",
-    "sura": "12",
-    "aya": "17",
-    "arabic_text": "قَالُواْ يَٰٓأَبَانَآ إِنَّا ذَهَبۡنَا نَسۡتَبِقُ وَتَرَكۡنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئۡبُۖ وَمَآ أَنتَ بِمُؤۡمِنٖ لَّنَا وَلَوۡ كُنَّا صَٰدِقِينَ",
-    "translation": "Nagsabi sila: “O ama namin, tunay na kami ay umalis, na nag-uunahan, at iniwan namin si Jose sa tabi ng dala-dalahan namin, saka kinain siya ng lobo. Ikaw ay hindi maniniwala sa amin kahit pa man nangyaring kami ay mga tapat.”",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 237,
+  "verse_key": "12:17",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰٓأَبَانَآ إِنَّا ذَهَبۡنَا نَسۡتَبِقُ وَتَرَكۡنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئۡبُۖ وَمَآ أَنتَ بِمُؤۡمِنٖ لَّنَا وَلَوۡ كُنَّا صَٰدِقِينَ",
+  "translation": "Nagsabi sila: “O ama namin, tunay na kami ay umalis, na nag-uunahan, at iniwan namin si Jose sa tabi ng dala-dalahan namin, saka kinain siya ng lobo. Ikaw ay hindi maniniwala sa amin kahit pa man nangyaring kami ay mga tapat.”",
+  "footnotes": ""
 }

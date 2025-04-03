@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2204",
-    "sura": "18",
-    "aya": "64",
-    "arabic_text": "قَالَ ذَٰلِكَ مَا كُنَّا نَبۡغِۚ فَٱرۡتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصٗا",
-    "translation": "(Ànábì Mūsā) sọ pé: “(Ibi tí ẹja ti lọ) yẹn ni ohun tí à ń wá.”[1] Àwọn méjèèjì sì padà sẹ́yìn láti tọ orípa ẹsẹ̀ wọn bí wọ́n ti ṣe tọ̀ ọ́ wá.",
-    "footnotes": "1. Ìyẹn ni pé, wọ́n ti sọ fún Ànábì Mūsā - kí ọlà Allāhu máa bá a - tẹ́lẹ̀ pé, ibi tí wọ́n bá gbàgbé ẹja sí, ibẹ̀ ni wọ́n máa ti pàdé ẹni tí ó ń lọ ṣàbẹ̀wò rẹ̀."
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 301,
+  "verse_key": "18:64",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ ذَٰلِكَ مَا كُنَّا نَبۡغِۚ فَٱرۡتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصٗا",
+  "translation": "(Ànábì Mūsā) sọ pé: “(Ibi tí ẹja ti lọ) yẹn ni ohun tí à ń wá.”[1] Àwọn méjèèjì sì padà sẹ́yìn láti tọ orípa ẹsẹ̀ wọn bí wọ́n ti ṣe tọ̀ ọ́ wá.",
+  "footnotes": "1. Ìyẹn ni pé, wọ́n ti sọ fún Ànábì Mūsā - kí ọlà Allāhu máa bá a - tẹ́lẹ̀ pé, ibi tí wọ́n bá gbàgbé ẹja sí, ibẹ̀ ni wọ́n máa ti pàdé ẹni tí ó ń lọ ṣàbẹ̀wò rẹ̀."
 }

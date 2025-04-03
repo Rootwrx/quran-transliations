@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1250",
-    "sura": "9",
-    "aya": "15",
-    "arabic_text": "وَيُذۡهِبۡ غَيۡظَ قُلُوبِهِمۡۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
-    "translation": "Na aondoe hasira ya nyoyo zao. Na Mwenyezi Mungu humkubalia toba ya amtakaye. Na Mwenyezi Mungu ni Mwenye kujua Mwenye hikima.",
-    "footnotes": "Na Mwenyezi Mungu atazijaza nyoyo za Waumini furaha ya kushinda baada ya kuwa na hamu na khofu, na atawaondolea hasira, na Mwenyezi Mungu atapokea toba ya amtakaye kumkubalia katika wao. Na Mwenyezi Mungu ni Mkunjufu wa ujuzi kwa mambo yote ya waja wake, ni Mkuu wa hikima katika anayo waamrisha."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 189,
+  "verse_key": "9:15",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُذۡهِبۡ غَيۡظَ قُلُوبِهِمۡۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+  "translation": "Na aondoe hasira ya nyoyo zao. Na Mwenyezi Mungu humkubalia toba ya amtakaye. Na Mwenyezi Mungu ni Mwenye kujua Mwenye hikima.",
+  "footnotes": "Na Mwenyezi Mungu atazijaza nyoyo za Waumini furaha ya kushinda baada ya kuwa na hamu na khofu, na atawaondolea hasira, na Mwenyezi Mungu atapokea toba ya amtakaye kumkubalia katika wao. Na Mwenyezi Mungu ni Mkunjufu wa ujuzi kwa mambo yote ya waja wake, ni Mkuu wa hikima katika anayo waamrisha."
 }

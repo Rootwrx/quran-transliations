@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3934",
-    "sura": "37",
-    "aya": "146",
-    "arabic_text": "وَأَنۢبَتۡنَا عَلَيۡهِ شَجَرَةٗ مِّن يَقۡطِينٖ",
-    "translation": "146. ஆகவே, அவருக்கு (நிழலிடுவதற்காக) ஒரு சுரைச்செடியை முளைப்பித்தோம்.",
-    "footnotes": null
-  }
+  "id": 146,
+  "verse_number": 146,
+  "page_number": 451,
+  "verse_key": "37:146",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنۢبَتۡنَا عَلَيۡهِ شَجَرَةٗ مِّن يَقۡطِينٖ",
+  "translation": "146. ஆகவே, அவருக்கு (நிழலிடுவதற்காக) ஒரு சுரைச்செடியை முளைப்பித்தோம்.",
+  "footnotes": null
 }

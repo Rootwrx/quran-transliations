@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5895",
-    "sura": "84",
-    "aya": "11",
-    "arabic_text": "فَسَوۡفَ يَدۡعُواْ ثُبُورٗا",
-    "translation": "derhal yok olmayı isteyecek; ",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 589,
+  "verse_key": "84:11",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَوۡفَ يَدۡعُواْ ثُبُورٗا",
+  "translation": "derhal yok olmayı isteyecek; ",
+  "footnotes": ""
 }

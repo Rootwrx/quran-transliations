@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4174",
-    "sura": "40",
-    "aya": "41",
-    "arabic_text": "۞ وَيَٰقَوۡمِ مَا لِيٓ أَدۡعُوكُمۡ إِلَى ٱلنَّجَوٰةِ وَتَدۡعُونَنِيٓ إِلَى ٱلنَّارِ",
-    "translation": "Na enyi watu wangu! Kwa nini mimi nakuiteni kwenye uwokofu, nanyi mnaniita kwenye Moto?",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 472,
+  "verse_key": "40:41",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَيَٰقَوۡمِ مَا لِيٓ أَدۡعُوكُمۡ إِلَى ٱلنَّجَوٰةِ وَتَدۡعُونَنِيٓ إِلَى ٱلنَّارِ",
+  "translation": "Na enyi watu wangu! Kwa nini mimi nakuiteni kwenye uwokofu, nanyi mnaniita kwenye Moto?",
+  "footnotes": ""
 }

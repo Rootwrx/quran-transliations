@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "368",
-    "sura": "3",
-    "aya": "75",
-    "arabic_text": "۞ وَمِنۡ أَهۡلِ ٱلۡكِتَٰبِ مَنۡ إِن تَأۡمَنۡهُ بِقِنطَارٖ يُؤَدِّهِۦٓ إِلَيۡكَ وَمِنۡهُم مَّنۡ إِن تَأۡمَنۡهُ بِدِينَارٖ لَّا يُؤَدِّهِۦٓ إِلَيۡكَ إِلَّا مَا دُمۡتَ عَلَيۡهِ قَآئِمٗاۗ ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَيۡسَ عَلَيۡنَا فِي ٱلۡأُمِّيِّـۧنَ سَبِيلٞ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ",
-    "translation": "75. Y entre los judíos hay quienes, si les confías una gran suma de dinero, te la devuelven enseguida; y hay quienes, si les confías una sola moneda, no te la devuelven a no ser que la reclames con insistencia. Ello se debe a que dicen: «No nos pasará nada por lo que les hagamos a los iletrados[108] (de los árabes)». E inventan mentiras contra Al-lah a sabiendas.",
-    "footnotes": "[108]  Los judíos despreciaban a los gentiles, es decir, a cualquier persona que no fuera judía como ellos, y se creían superiores a los demás en todos los aspectos, llegando a rebajarlos por debajo de la condición humana. Este desprecio está presente en muchos pasajes del Talmud, obra que recoge principalmente las discusiones rabínicas sobre leyes judías, tradiciones, costumbres, etc., y que constituye la interpretación orgánica de la Torá."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 59,
+  "verse_key": "3:75",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَمِنۡ أَهۡلِ ٱلۡكِتَٰبِ مَنۡ إِن تَأۡمَنۡهُ بِقِنطَارٖ يُؤَدِّهِۦٓ إِلَيۡكَ وَمِنۡهُم مَّنۡ إِن تَأۡمَنۡهُ بِدِينَارٖ لَّا يُؤَدِّهِۦٓ إِلَيۡكَ إِلَّا مَا دُمۡتَ عَلَيۡهِ قَآئِمٗاۗ ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَيۡسَ عَلَيۡنَا فِي ٱلۡأُمِّيِّـۧنَ سَبِيلٞ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ",
+  "translation": "75. Y entre los judíos hay quienes, si les confías una gran suma de dinero, te la devuelven enseguida; y hay quienes, si les confías una sola moneda, no te la devuelven a no ser que la reclames con insistencia. Ello se debe a que dicen: «No nos pasará nada por lo que les hagamos a los iletrados[108] (de los árabes)». E inventan mentiras contra Al-lah a sabiendas.",
+  "footnotes": "[108]  Los judíos despreciaban a los gentiles, es decir, a cualquier persona que no fuera judía como ellos, y se creían superiores a los demás en todos los aspectos, llegando a rebajarlos por debajo de la condición humana. Este desprecio está presente en muchos pasajes del Talmud, obra que recoge principalmente las discusiones rabínicas sobre leyes judías, tradiciones, costumbres, etc., y que constituye la interpretación orgánica de la Torá."
 }

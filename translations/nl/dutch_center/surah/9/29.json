@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1264",
-    "sura": "9",
-    "aya": "29",
-    "arabic_text": "قَٰتِلُواْ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلۡحَقِّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حَتَّىٰ يُعۡطُواْ ٱلۡجِزۡيَةَ عَن يَدٖ وَهُمۡ صَٰغِرُونَ",
-    "translation": "29. Bestrijd degenen die niet in Allah geloven, noch in de laatste dag noch verbieden wat door Allah en Zijn boodschapper verboden is, en degenen die de godsdienst van de waarheid niet erkennen onder de mensen van het Boek tot zij de schatting (al-djizjah) betalen en nederig zijn. [1]",
-    "footnotes": "[1] Dit betalen de niet-moslims om onder gezag van de moslims te leven en bescherming, en rechten genieten zonder onderdrukt of onrecht aangedaan te worden. Dit vervalt echter onder de vrouwen, kinderen, ouderen en de armen. De geschiedenis is daar zeker een getuige van als verlichting."
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 191,
+  "verse_key": "9:29",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَٰتِلُواْ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلۡحَقِّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حَتَّىٰ يُعۡطُواْ ٱلۡجِزۡيَةَ عَن يَدٖ وَهُمۡ صَٰغِرُونَ",
+  "translation": "29. Bestrijd degenen die niet in Allah geloven, noch in de laatste dag noch verbieden wat door Allah en Zijn boodschapper verboden is, en degenen die de godsdienst van de waarheid niet erkennen onder de mensen van het Boek tot zij de schatting (al-djizjah) betalen en nederig zijn. [1]",
+  "footnotes": "[1] Dit betalen de niet-moslims om onder gezag van de moslims te leven en bescherming, en rechten genieten zonder onderdrukt of onrecht aangedaan te worden. Dit vervalt echter onder de vrouwen, kinderen, ouderen en de armen. De geschiedenis is daar zeker een getuige van als verlichting."
 }

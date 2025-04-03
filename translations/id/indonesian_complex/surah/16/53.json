@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1954",
-    "sura": "16",
-    "aya": "53",
-    "arabic_text": "وَمَا بِكُم مِّن نِّعۡمَةٖ فَمِنَ ٱللَّهِۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَيۡهِ تَجۡـَٔرُونَ",
-    "translation": "Dan apa saja nikmat yang ada pada kamu, maka dari Allah-lah (datangnya) dan bila kamu ditimpa oleh kemudaratan, maka hanya kepada-Nya-lah kamu meminta pertolongan.",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 272,
+  "verse_key": "16:53",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا بِكُم مِّن نِّعۡمَةٖ فَمِنَ ٱللَّهِۖ ثُمَّ إِذَا مَسَّكُمُ ٱلضُّرُّ فَإِلَيۡهِ تَجۡـَٔرُونَ",
+  "translation": "Dan apa saja nikmat yang ada pada kamu, maka dari Allah-lah (datangnya) dan bila kamu ditimpa oleh kemudaratan, maka hanya kepada-Nya-lah kamu meminta pertolongan.",
+  "footnotes": ""
 }

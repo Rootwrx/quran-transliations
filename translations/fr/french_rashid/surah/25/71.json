@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2926",
-    "sura": "25",
-    "aya": "71",
-    "arabic_text": "وَمَن تَابَ وَعَمِلَ صَٰلِحٗا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابٗا",
-    "translation": "71 Quiconque se repent et accomplit de bonnes œuvres reviendra ainsi à Allah qui acceptera son repentir.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 366,
+  "verse_key": "25:71",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن تَابَ وَعَمِلَ صَٰلِحٗا فَإِنَّهُۥ يَتُوبُ إِلَى ٱللَّهِ مَتَابٗا",
+  "translation": "71 Quiconque se repent et accomplit de bonnes œuvres reviendra ainsi à Allah qui acceptera son repentir.",
+  "footnotes": ""
 }

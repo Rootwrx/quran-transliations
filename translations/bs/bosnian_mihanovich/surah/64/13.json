@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5212",
-    "sura": "64",
-    "aya": "13",
-    "arabic_text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
-    "translation": "Samo je Allah Bog, i neka se vjernici samo u Allaha pouzdaju! ",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 557,
+  "verse_key": "64:13",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
+  "translation": "Samo je Allah Bog, i neka se vjernici samo u Allaha pouzdaju! ",
+  "footnotes": ""
 }

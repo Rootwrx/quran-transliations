@@ -1,0 +1,27 @@
+{
+  "number": 105,
+  "name": {
+    "ar": "الفيل",
+    "en": "The Elephant",
+    "transliteration": "Al-Fil"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 19,
+  "bismillah_pre": true,
+  "verses_count": 5,
+  "words_count": 23,
+  "letters_count": 96,
+  "pages": [
+    601,
+    601
+  ],
+  "name_simple": "Al-Fil",
+  "name_complex": "Al-Fīl",
+  "name_arabic": "الفيل",
+  "translated_name": "The Elephant",
+  "start_page": 601,
+  "end_page": 601
+}

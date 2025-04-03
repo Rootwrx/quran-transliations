@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4932",
-    "sura": "55",
-    "aya": "31",
-    "arabic_text": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
-    "translation": " 31. We shall attend to you, O you two classes (jinn and men)!",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 532,
+  "verse_key": "55:31",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَنَفۡرُغُ لَكُمۡ أَيُّهَ ٱلثَّقَلَانِ",
+  "translation": " 31. We shall attend to you, O you two classes (jinn and men)!",
+  "footnotes": ""
 }

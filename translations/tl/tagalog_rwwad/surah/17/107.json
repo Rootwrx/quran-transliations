@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2136",
-    "sura": "17",
-    "aya": "107",
-    "arabic_text": "قُلۡ ءَامِنُواْ بِهِۦٓ أَوۡ لَا تُؤۡمِنُوٓاْۚ إِنَّ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ مِن قَبۡلِهِۦٓ إِذَا يُتۡلَىٰ عَلَيۡهِمۡ يَخِرُّونَۤ لِلۡأَذۡقَانِۤ سُجَّدٗاۤ",
-    "translation": "Sabihin mo: “Sumampalataya kayo rito [sa Qur’ān] o huwag kayong sumampalataya.” Tunay na ang mga binigyan ng kaalaman bago pa nito, kapag binibigkas ito sa kanila, ay sumusubsob sa mga mukha na mga nakapatirapa",
-    "footnotes": ""
-  }
+  "id": 107,
+  "verse_number": 107,
+  "page_number": 293,
+  "verse_key": "17:107",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ ءَامِنُواْ بِهِۦٓ أَوۡ لَا تُؤۡمِنُوٓاْۚ إِنَّ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ مِن قَبۡلِهِۦٓ إِذَا يُتۡلَىٰ عَلَيۡهِمۡ يَخِرُّونَۤ لِلۡأَذۡقَانِۤ سُجَّدٗاۤ",
+  "translation": "Sabihin mo: “Sumampalataya kayo rito [sa Qur’ān] o huwag kayong sumampalataya.” Tunay na ang mga binigyan ng kaalaman bago pa nito, kapag binibigkas ito sa kanila, ay sumusubsob sa mga mukha na mga nakapatirapa",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6003",
-    "sura": "89",
-    "aya": "10",
-    "arabic_text": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
-    "translation": "او د ميخونو والا فرعون سره.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 593,
+  "verse_key": "89:10",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفِرۡعَوۡنَ ذِي ٱلۡأَوۡتَادِ",
+  "translation": "او د ميخونو والا فرعون سره.",
+  "footnotes": ""
 }

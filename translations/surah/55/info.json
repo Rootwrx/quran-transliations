@@ -1,0 +1,27 @@
+{
+  "number": 55,
+  "name": {
+    "ar": "الرحمن",
+    "en": "The Beneficent",
+    "transliteration": "Ar-Rahman"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 97,
+  "bismillah_pre": true,
+  "verses_count": 78,
+  "words_count": 352,
+  "letters_count": 1585,
+  "pages": [
+    531,
+    534
+  ],
+  "name_simple": "Ar-Rahman",
+  "name_complex": "Ar-Raĥmān",
+  "name_arabic": "الرحمن",
+  "translated_name": "The Beneficent",
+  "start_page": 531,
+  "end_page": 534
+}

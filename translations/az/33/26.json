@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3559",
-    "sura": "33",
-    "aya": "26",
-    "arabic_text": "وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ مِن صَيَاصِيهِمۡ وَقَذَفَ فِي قُلُوبِهِمُ ٱلرُّعۡبَ فَرِيقٗا تَقۡتُلُونَ وَتَأۡسِرُونَ فَرِيقٗا",
-    "translation": "(Allah) Kitab əhlindən müttəfiqlərə yardım edənləri öz qalalarından endirdi və onların qəlbinə qorxu saldı. Siz onların bir qismini öldürür, bir qismini də əsir götürürdünüz.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 421,
+  "verse_key": "33:26",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 168,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنزَلَ ٱلَّذِينَ ظَٰهَرُوهُم مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ مِن صَيَاصِيهِمۡ وَقَذَفَ فِي قُلُوبِهِمُ ٱلرُّعۡبَ فَرِيقٗا تَقۡتُلُونَ وَتَأۡسِرُونَ فَرِيقٗا",
+  "translation": "(Allah) Kitab əhlindən müttəfiqlərə yardım edənləri öz qalalarından endirdi və onların qəlbinə qorxu saldı. Siz onların bir qismini öldürür, bir qismini də əsir götürürdünüz.",
+  "footnotes": ""
 }

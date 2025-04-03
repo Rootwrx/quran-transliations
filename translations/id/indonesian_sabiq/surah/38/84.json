@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4054",
-    "sura": "38",
-    "aya": "84",
-    "arabic_text": "قَالَ فَٱلۡحَقُّ وَٱلۡحَقَّ أَقُولُ",
-    "translation": "84. (Allah) berfirman, “Maka kebenaran itu dari-Ku, dan hanya kebenaran itulah yang Aku katakan.",
-    "footnotes": ""
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 458,
+  "verse_key": "38:84",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ فَٱلۡحَقُّ وَٱلۡحَقَّ أَقُولُ",
+  "translation": "84. (Allah) berfirman, “Maka kebenaran itu dari-Ku, dan hanya kebenaran itulah yang Aku katakan.",
+  "footnotes": ""
 }

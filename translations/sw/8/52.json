@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1212",
-    "sura": "8",
-    "aya": "52",
-    "arabic_text": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۚ إِنَّ ٱللَّهَ قَوِيّٞ شَدِيدُ ٱلۡعِقَابِ",
-    "translation": "Kama ada ya watu wa Firauni na walio kuwa kabla yao - walizikataa Ishara za Mwenyezi Mungu. Basi Mwenyezi Mungu aliwashika kwa sababu ya madhambi yao. Na hakika Mwenyezi Mungu ni Mwenye nguvu na mkali wa kuadhibu.",
-    "footnotes": "Hakika ada ya hawa washirikina, na shani yao katika ukafiri, ni kama shani ya Mafirauni na majabari wote walio baki walio kuwa kabla yao. Walizipinga Ishara za Mwenyezi Mungu, basi Mwenyezi Mungu aliwaadhibu kwa madhambi yao. Wala Yeye si mwenye kuwadhulumu. Hakika Mwenyezi Mungu ni Mwenye nguvu katika kutekeleza hukumu yake, na Mkali wa kumlipa anaye stahiki adhabu."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 183,
+  "verse_key": "8:52",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۚ إِنَّ ٱللَّهَ قَوِيّٞ شَدِيدُ ٱلۡعِقَابِ",
+  "translation": "Kama ada ya watu wa Firauni na walio kuwa kabla yao - walizikataa Ishara za Mwenyezi Mungu. Basi Mwenyezi Mungu aliwashika kwa sababu ya madhambi yao. Na hakika Mwenyezi Mungu ni Mwenye nguvu na mkali wa kuadhibu.",
+  "footnotes": "Hakika ada ya hawa washirikina, na shani yao katika ukafiri, ni kama shani ya Mafirauni na majabari wote walio baki walio kuwa kabla yao. Walizipinga Ishara za Mwenyezi Mungu, basi Mwenyezi Mungu aliwaadhibu kwa madhambi yao. Wala Yeye si mwenye kuwadhulumu. Hakika Mwenyezi Mungu ni Mwenye nguvu katika kutekeleza hukumu yake, na Mkali wa kumlipa anaye stahiki adhabu."
 }

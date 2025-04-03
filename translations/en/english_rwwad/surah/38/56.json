@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4026",
-    "sura": "38",
-    "aya": "56",
-    "arabic_text": "جَهَنَّمَ يَصۡلَوۡنَهَا فَبِئۡسَ ٱلۡمِهَادُ",
-    "translation": "Hell, where they will burn. What a terrible resting place!",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 456,
+  "verse_key": "38:56",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "جَهَنَّمَ يَصۡلَوۡنَهَا فَبِئۡسَ ٱلۡمِهَادُ",
+  "translation": "Hell, where they will burn. What a terrible resting place!",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6212",
-    "sura": "109",
-    "aya": "5",
-    "arabic_text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
-    "translation": "dhe as ju nuk do të jeni adhurues të Atij që unë adhuroj![436]",
-    "footnotes": "[436] Vargu flet për ata jobesimtarë që Allahu e di se nuk do të besojnë asnjëherë."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 603,
+  "verse_key": "109:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+  "translation": "dhe as ju nuk do të jeni adhurues të Atij që unë adhuroj![436]",
+  "footnotes": "[436] Vargu flet për ata jobesimtarë që Allahu e di se nuk do të besojnë asnjëherë."
 }

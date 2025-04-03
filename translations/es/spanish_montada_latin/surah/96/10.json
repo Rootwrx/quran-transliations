@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6116",
-    "sura": "96",
-    "aya": "10",
-    "arabic_text": "عَبۡدًا إِذَا صَلَّىٰٓ",
-    "translation": "10. rezar a un siervo (de Al-lah)?[1167]",
-    "footnotes": "[1167]  Estas aleyas aluden a Abu Yahal, un acérrimo enemigo del Islam, que amenazó a Muhammad —que Al-lah lo bendiga y le dé la paz— por rezar cerca de la Kaaba."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 597,
+  "verse_key": "96:10",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَبۡدًا إِذَا صَلَّىٰٓ",
+  "translation": "10. rezar a un siervo (de Al-lah)?[1167]",
+  "footnotes": "[1167]  Estas aleyas aluden a Abu Yahal, un acérrimo enemigo del Islam, que amenazó a Muhammad —que Al-lah lo bendiga y le dé la paz— por rezar cerca de la Kaaba."
 }

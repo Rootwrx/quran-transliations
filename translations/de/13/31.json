@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1738",
-    "sura": "13",
-    "aya": "31",
-    "arabic_text": "وَلَوۡ أَنَّ قُرۡءَانٗا سُيِّرَتۡ بِهِ ٱلۡجِبَالُ أَوۡ قُطِّعَتۡ بِهِ ٱلۡأَرۡضُ أَوۡ كُلِّمَ بِهِ ٱلۡمَوۡتَىٰۗ بَل لِّلَّهِ ٱلۡأَمۡرُ جَمِيعًاۗ أَفَلَمۡ يَاْيۡـَٔسِ ٱلَّذِينَ ءَامَنُوٓاْ أَن لَّوۡ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعٗاۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُواْ تُصِيبُهُم بِمَا صَنَعُواْ قَارِعَةٌ أَوۡ تَحُلُّ قَرِيبٗا مِّن دَارِهِمۡ حَتَّىٰ يَأۡتِيَ وَعۡدُ ٱللَّهِۚ إِنَّ ٱللَّهَ لَا يُخۡلِفُ ٱلۡمِيعَادَ",
-    "translation": "Wenn es auch einen Qur’an gäbe, mit dem die Berge versetzt oder die Erde in Stücke gerissen oder zu den Toten gesprochen werden könnte ... (würden sie doch nicht glauben). Nein! Vielmehr steht die Angelegenheit ganz bei Allah. Wissen denn nicht diejenigen, die glauben, daß wenn Allah wollte, Er die Menschen wahrlich alle rechtleiten würde? Diejenigen, die ungläubig sind, wird immer wieder ein Verhängnis treffen für das, was sie gemacht haben, oder es wird in der Nähe ihrer Wohnstätten geschehen, bis Allahs Versprechen eintrifft. Gewiß, Allah bricht nicht, was Er versprochen hat.",
-    "footnotes": null
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 253,
+  "verse_key": "13:31",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ أَنَّ قُرۡءَانٗا سُيِّرَتۡ بِهِ ٱلۡجِبَالُ أَوۡ قُطِّعَتۡ بِهِ ٱلۡأَرۡضُ أَوۡ كُلِّمَ بِهِ ٱلۡمَوۡتَىٰۗ بَل لِّلَّهِ ٱلۡأَمۡرُ جَمِيعًاۗ أَفَلَمۡ يَاْيۡـَٔسِ ٱلَّذِينَ ءَامَنُوٓاْ أَن لَّوۡ يَشَآءُ ٱللَّهُ لَهَدَى ٱلنَّاسَ جَمِيعٗاۗ وَلَا يَزَالُ ٱلَّذِينَ كَفَرُواْ تُصِيبُهُم بِمَا صَنَعُواْ قَارِعَةٌ أَوۡ تَحُلُّ قَرِيبٗا مِّن دَارِهِمۡ حَتَّىٰ يَأۡتِيَ وَعۡدُ ٱللَّهِۚ إِنَّ ٱللَّهَ لَا يُخۡلِفُ ٱلۡمِيعَادَ",
+  "translation": "Wenn es auch einen Qur’an gäbe, mit dem die Berge versetzt oder die Erde in Stücke gerissen oder zu den Toten gesprochen werden könnte ... (würden sie doch nicht glauben). Nein! Vielmehr steht die Angelegenheit ganz bei Allah. Wissen denn nicht diejenigen, die glauben, daß wenn Allah wollte, Er die Menschen wahrlich alle rechtleiten würde? Diejenigen, die ungläubig sind, wird immer wieder ein Verhängnis treffen für das, was sie gemacht haben, oder es wird in der Nähe ihrer Wohnstätten geschehen, bis Allahs Versprechen eintrifft. Gewiß, Allah bricht nicht, was Er versprochen hat.",
+  "footnotes": null
 }

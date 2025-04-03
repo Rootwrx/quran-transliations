@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2091",
-    "sura": "17",
-    "aya": "62",
-    "arabic_text": "قَالَ أَرَءَيۡتَكَ هَٰذَا ٱلَّذِي كَرَّمۡتَ عَلَيَّ لَئِنۡ أَخَّرۡتَنِ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَأَحۡتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلٗا",
-    "translation": "62. Puis il ajouta : « Vois-Tu celui-là que Tu as honoré plus que moi ? Eh bien, si Tu m’accordes un sursis jusqu’au Jour de la Résurrection, je m’emploierai à dévoyer sa descendance, hormis un petit nombre. » ",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 288,
+  "verse_key": "17:62",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ أَرَءَيۡتَكَ هَٰذَا ٱلَّذِي كَرَّمۡتَ عَلَيَّ لَئِنۡ أَخَّرۡتَنِ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَأَحۡتَنِكَنَّ ذُرِّيَّتَهُۥٓ إِلَّا قَلِيلٗا",
+  "translation": "62. Puis il ajouta : « Vois-Tu celui-là que Tu as honoré plus que moi ? Eh bien, si Tu m’accordes un sursis jusqu’au Jour de la Résurrection, je m’emploierai à dévoyer sa descendance, hormis un petit nombre. » ",
+  "footnotes": ""
 }

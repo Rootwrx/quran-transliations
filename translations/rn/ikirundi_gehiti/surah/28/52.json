@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3304",
-    "sura": "28",
-    "aya": "52",
-    "arabic_text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ مِن قَبۡلِهِۦ هُم بِهِۦ يُؤۡمِنُونَ",
-    "translation": "Abo Twahaye Igitabu imbere y’imanurwa rya Qor’ani mu bayahudi n’abanaswara batahindaguye ibiri muri nya Gitabu, baremera Qor’ani hamwe n’Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah);",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 392,
+  "verse_key": "28:52",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ مِن قَبۡلِهِۦ هُم بِهِۦ يُؤۡمِنُونَ",
+  "translation": "Abo Twahaye Igitabu imbere y’imanurwa rya Qor’ani mu bayahudi n’abanaswara batahindaguye ibiri muri nya Gitabu, baremera Qor’ani hamwe n’Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah);",
+  "footnotes": ""
 }

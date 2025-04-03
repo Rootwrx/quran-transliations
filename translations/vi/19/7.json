@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2257",
-    "sura": "19",
-    "aya": "7",
-    "arabic_text": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسۡمُهُۥ يَحۡيَىٰ لَمۡ نَجۡعَل لَّهُۥ مِن قَبۡلُ سَمِيّٗا",
-    "translation": "Này hỡi Zakariya! Quả thật, TA (Allah) báo tin mừng cho Ngươi về một đứa con trai; tên của Nó là Yahya, cái tên mà từ trước đến nay TA chưa hề đặt cho ai.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 305,
+  "verse_key": "19:7",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسۡمُهُۥ يَحۡيَىٰ لَمۡ نَجۡعَل لَّهُۥ مِن قَبۡلُ سَمِيّٗا",
+  "translation": "Này hỡi Zakariya! Quả thật, TA (Allah) báo tin mừng cho Ngươi về một đứa con trai; tên của Nó là Yahya, cái tên mà từ trước đến nay TA chưa hề đặt cho ai.",
+  "footnotes": ""
 }

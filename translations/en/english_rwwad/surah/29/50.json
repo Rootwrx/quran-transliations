@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3390",
-    "sura": "29",
-    "aya": "50",
-    "arabic_text": "وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَٰتٞ مِّن رَّبِّهِۦۚ قُلۡ إِنَّمَا ٱلۡأٓيَٰتُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٌ",
-    "translation": "They say, “Why is it that no signs have been sent down to him from his Lord?” Say, “The signs are only with Allah, and I am only a clear warner.”",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 402,
+  "verse_key": "29:50",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَٰتٞ مِّن رَّبِّهِۦۚ قُلۡ إِنَّمَا ٱلۡأٓيَٰتُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٌ",
+  "translation": "They say, “Why is it that no signs have been sent down to him from his Lord?” Say, “The signs are only with Allah, and I am only a clear warner.”",
+  "footnotes": ""
 }

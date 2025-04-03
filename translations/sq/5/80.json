@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "749",
-    "sura": "5",
-    "aya": "80",
-    "arabic_text": "تَرَىٰ كَثِيرٗا مِّنۡهُمۡ يَتَوَلَّوۡنَ ٱلَّذِينَ كَفَرُواْۚ لَبِئۡسَ مَا قَدَّمَتۡ لَهُمۡ أَنفُسُهُمۡ أَن سَخِطَ ٱللَّهُ عَلَيۡهِمۡ وَفِي ٱلۡعَذَابِ هُمۡ خَٰلِدُونَ",
-    "translation": "Ti e sheh se shumë prej tyre[90] miqësohen me jobesimtarët. Me të vërtetë, e keqe është ajo që i përgatisin ata vetes: që Allahu të zemërohet me ta dhe të mbesin në dënim përjetësisht.",
-    "footnotes": "[90] D.m.th. hipokritëve."
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 121,
+  "verse_key": "5:80",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَرَىٰ كَثِيرٗا مِّنۡهُمۡ يَتَوَلَّوۡنَ ٱلَّذِينَ كَفَرُواْۚ لَبِئۡسَ مَا قَدَّمَتۡ لَهُمۡ أَنفُسُهُمۡ أَن سَخِطَ ٱللَّهُ عَلَيۡهِمۡ وَفِي ٱلۡعَذَابِ هُمۡ خَٰلِدُونَ",
+  "translation": "Ti e sheh se shumë prej tyre[90] miqësohen me jobesimtarët. Me të vërtetë, e keqe është ajo që i përgatisin ata vetes: që Allahu të zemërohet me ta dhe të mbesin në dënim përjetësisht.",
+  "footnotes": "[90] D.m.th. hipokritëve."
 }

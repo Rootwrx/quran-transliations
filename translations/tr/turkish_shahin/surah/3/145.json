@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "438",
-    "sura": "3",
-    "aya": "145",
-    "arabic_text": "وَمَا كَانَ لِنَفۡسٍ أَن تَمُوتَ إِلَّا بِإِذۡنِ ٱللَّهِ كِتَٰبٗا مُّؤَجَّلٗاۗ وَمَن يُرِدۡ ثَوَابَ ٱلدُّنۡيَا نُؤۡتِهِۦ مِنۡهَا وَمَن يُرِدۡ ثَوَابَ ٱلۡأٓخِرَةِ نُؤۡتِهِۦ مِنۡهَاۚ وَسَنَجۡزِي ٱلشَّٰكِرِينَ",
-    "translation": "  Hiçbir kimse yok ki, ölümü Allah’ın iznine bağlı olmasın. (Ölüm), belli bir süreye göre yazılmıştır. Her kim, dünya nimetini isterse, kendisine ondan veririz; kim de ahiret sevabını isterse, ona da bundan veririz. Biz şükredenleri mükâfatlandıracağız.",
-    "footnotes": ""
-  }
+  "id": 145,
+  "verse_number": 145,
+  "page_number": 68,
+  "verse_key": "3:145",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ لِنَفۡسٍ أَن تَمُوتَ إِلَّا بِإِذۡنِ ٱللَّهِ كِتَٰبٗا مُّؤَجَّلٗاۗ وَمَن يُرِدۡ ثَوَابَ ٱلدُّنۡيَا نُؤۡتِهِۦ مِنۡهَا وَمَن يُرِدۡ ثَوَابَ ٱلۡأٓخِرَةِ نُؤۡتِهِۦ مِنۡهَاۚ وَسَنَجۡزِي ٱلشَّٰكِرِينَ",
+  "translation": "  Hiçbir kimse yok ki, ölümü Allah’ın iznine bağlı olmasın. (Ölüm), belli bir süreye göre yazılmıştır. Her kim, dünya nimetini isterse, kendisine ondan veririz; kim de ahiret sevabını isterse, ona da bundan veririz. Biz şükredenleri mükâfatlandıracağız.",
+  "footnotes": ""
 }

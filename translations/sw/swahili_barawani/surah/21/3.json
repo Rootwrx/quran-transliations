@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2486",
-    "sura": "21",
-    "aya": "3",
-    "arabic_text": "لَاهِيَةٗ قُلُوبُهُمۡۗ وَأَسَرُّواْ ٱلنَّجۡوَى ٱلَّذِينَ ظَلَمُواْ هَلۡ هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡۖ أَفَتَأۡتُونَ ٱلسِّحۡرَ وَأَنتُمۡ تُبۡصِرُونَ",
-    "translation": "Zimeghafilika nyoyo zao. Na wale walio dhulumu hunong'onezana kwa siri: Ni nani ati huyu isipo kuwa ni binaadamu tu kama nyinyi! Mnauwendea uchawi hali nanyi mnaona?",
-    "footnotes": "Nyoyo zao zimo katika pumbao, hazizingatii, wameshikilia kuficha njama zao za kumpinga Nabii na Qur'ani, wakiambizana wenyewe kwa wenyewe: Huyu Muhammad si chochote ila ni mtu tu kama nyinyi. Na Mtume hawi ila Malaika. Basi, je! Mnamsadiki Muhammad na mnahudhuria baraza za uchawi na hali nyinyi mnaona kuwa hakika huo ni uchawi?"
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 322,
+  "verse_key": "21:3",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَاهِيَةٗ قُلُوبُهُمۡۗ وَأَسَرُّواْ ٱلنَّجۡوَى ٱلَّذِينَ ظَلَمُواْ هَلۡ هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡۖ أَفَتَأۡتُونَ ٱلسِّحۡرَ وَأَنتُمۡ تُبۡصِرُونَ",
+  "translation": "Zimeghafilika nyoyo zao. Na wale walio dhulumu hunong'onezana kwa siri: Ni nani ati huyu isipo kuwa ni binaadamu tu kama nyinyi! Mnauwendea uchawi hali nanyi mnaona?",
+  "footnotes": "Nyoyo zao zimo katika pumbao, hazizingatii, wameshikilia kuficha njama zao za kumpinga Nabii na Qur'ani, wakiambizana wenyewe kwa wenyewe: Huyu Muhammad si chochote ila ni mtu tu kama nyinyi. Na Mtume hawi ila Malaika. Basi, je! Mnamsadiki Muhammad na mnahudhuria baraza za uchawi na hali nyinyi mnaona kuwa hakika huo ni uchawi?"
 }

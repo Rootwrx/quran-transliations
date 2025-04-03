@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3909",
-    "sura": "37",
-    "aya": "121",
-    "arabic_text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
-    "translation": "തീര്‍ച്ചയായും അപ്രകാരമാകുന്നു സദ്‌വൃത്തര്‍ക്ക് നാം പ്രതിഫലം നല്‍കുന്നത്‌.",
-    "footnotes": ""
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 450,
+  "verse_key": "37:121",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+  "translation": "തീര്‍ച്ചയായും അപ്രകാരമാകുന്നു സദ്‌വൃത്തര്‍ക്ക് നാം പ്രതിഫലം നല്‍കുന്നത്‌.",
+  "footnotes": ""
 }

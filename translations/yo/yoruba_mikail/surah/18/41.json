@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2181",
-    "sura": "18",
-    "aya": "41",
-    "arabic_text": "أَوۡ يُصۡبِحَ مَآؤُهَا غَوۡرٗا فَلَن تَسۡتَطِيعَ لَهُۥ طَلَبٗا",
-    "translation": "Tàbí kí omi rẹ̀ gbẹ. O ò sì níí lè wá omi kàn.”",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 298,
+  "verse_key": "18:41",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 119,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ يُصۡبِحَ مَآؤُهَا غَوۡرٗا فَلَن تَسۡتَطِيعَ لَهُۥ طَلَبٗا",
+  "translation": "Tàbí kí omi rẹ̀ gbẹ. O ò sì níí lè wá omi kàn.”",
+  "footnotes": ""
 }

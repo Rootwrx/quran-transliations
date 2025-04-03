@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5566",
-    "sura": "75",
-    "aya": "15",
-    "arabic_text": "وَلَوۡ أَلۡقَىٰ مَعَاذِيرَهُۥ",
-    "translation": "makar iznosio svoja opravdanja. ",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 577,
+  "verse_key": "75:15",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ أَلۡقَىٰ مَعَاذِيرَهُۥ",
+  "translation": "makar iznosio svoja opravdanja. ",
+  "footnotes": ""
 }

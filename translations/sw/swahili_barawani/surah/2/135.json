@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "142",
-    "sura": "2",
-    "aya": "135",
-    "arabic_text": "وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُواْۗ قُلۡ بَلۡ مِلَّةَ إِبۡرَٰهِـۧمَ حَنِيفٗاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
-    "translation": "Na wakasema: Kuweni Mayahudi au Wakristo ndio mtaongoka. Sema: Bali tunashika mila ya Ibrahim mwongofu, wala hakuwa katika washirikina.",
-    "footnotes": "Lakini wao hawaachi kuendelea katika ghasia na inda zao. Kila kikundi katika hao hudai kuwa ni dini yao wao tu ndiyo iliyo sawa. Mayahudi hukuambieni: Kuweni Mayahudi mpate kuhidika na kuongokewa kwenye njia sawa. Na Wakristo nao wanasema: Kuweni Wakristo ndio mpate kuongoka kwenye haki iliyo nyooka. Nyinyi wajibuni kuwa sisi hatufuati hii wala hii kwa sababu dini zote hizo mbili zimekwisha potoka na zimeacha ile asli yake ya kweli, na zimeingia ndani yake ushirikina (upagani), na ziko mbali kabisa na mila ya Ibrahim. Bali sisi tunaufuata Uislamu ndio ulio ifanya mila ya Ibrahim kuwa safi iliyo safika."
-  }
+  "id": 135,
+  "verse_number": 135,
+  "page_number": 21,
+  "verse_key": "2:135",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ كُونُواْ هُودًا أَوۡ نَصَٰرَىٰ تَهۡتَدُواْۗ قُلۡ بَلۡ مِلَّةَ إِبۡرَٰهِـۧمَ حَنِيفٗاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+  "translation": "Na wakasema: Kuweni Mayahudi au Wakristo ndio mtaongoka. Sema: Bali tunashika mila ya Ibrahim mwongofu, wala hakuwa katika washirikina.",
+  "footnotes": "Lakini wao hawaachi kuendelea katika ghasia na inda zao. Kila kikundi katika hao hudai kuwa ni dini yao wao tu ndiyo iliyo sawa. Mayahudi hukuambieni: Kuweni Mayahudi mpate kuhidika na kuongokewa kwenye njia sawa. Na Wakristo nao wanasema: Kuweni Wakristo ndio mpate kuongoka kwenye haki iliyo nyooka. Nyinyi wajibuni kuwa sisi hatufuati hii wala hii kwa sababu dini zote hizo mbili zimekwisha potoka na zimeacha ile asli yake ya kweli, na zimeingia ndani yake ushirikina (upagani), na ziko mbali kabisa na mila ya Ibrahim. Bali sisi tunaufuata Uislamu ndio ulio ifanya mila ya Ibrahim kuwa safi iliyo safika."
 }

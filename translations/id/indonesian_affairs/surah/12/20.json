@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1616",
-    "sura": "12",
-    "aya": "20",
-    "arabic_text": "وَشَرَوۡهُ بِثَمَنِۭ بَخۡسٖ دَرَٰهِمَ مَعۡدُودَةٖ وَكَانُواْ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
-    "translation": "Dan mereka menjualnya (Yusuf) dengan harga murah, yaitu beberapa dirham saja, sebab mereka tidak tertarik kepadanya.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 237,
+  "verse_key": "12:20",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَشَرَوۡهُ بِثَمَنِۭ بَخۡسٖ دَرَٰهِمَ مَعۡدُودَةٖ وَكَانُواْ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
+  "translation": "Dan mereka menjualnya (Yusuf) dengan harga murah, yaitu beberapa dirham saja, sebab mereka tidak tertarik kepadanya.",
+  "footnotes": ""
 }

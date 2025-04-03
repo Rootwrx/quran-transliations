@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "935",
-    "sura": "6",
-    "aya": "146",
-    "arabic_text": "وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا كُلَّ ذِي ظُفُرٖۖ وَمِنَ ٱلۡبَقَرِ وَٱلۡغَنَمِ حَرَّمۡنَا عَلَيۡهِمۡ شُحُومَهُمَآ إِلَّا مَا حَمَلَتۡ ظُهُورُهُمَآ أَوِ ٱلۡحَوَايَآ أَوۡ مَا ٱخۡتَلَطَ بِعَظۡمٖۚ ذَٰلِكَ جَزَيۡنَٰهُم بِبَغۡيِهِمۡۖ وَإِنَّا لَصَٰدِقُونَ",
-    "translation": "Na wale walio fuata dini ya Kiyahudi tumewaharimishia kila mwenye kucha. Na katika ng'ombe na kondoo na mbuzi tumewaharimishia shahamu yao, isipo kuwa ile iliyo beba migongo yao au matumbo yao, au iliyo gandamana na mifupa. Tuliwalipa hivyo kwa sababu ya uasi wao. Na bila ya shaka Sisi ndio wasema kweli.",
-    "footnotes": "Basi hivi ndivyo tulivyo kuharimishieni nyinyi. Na Mayahudi tuliwaharimishia nyama na shahamu na kila kitu cha wenye makucha katika wanyama, kama ngamia na wanyama wawindao. Na katika ng'ombe na mbuzi na kondoo tuliwaharimishia shahamu yake tu, ila shahamu ya mgongoni, au iliyoko matumboni, au iliyo changanyika na mafupa. Na kuharimishwa huku kulikuwa kwa ajili ya kuwatesa tu kwa ajili ya dhulma zao, na kuziachisha nafsi zao waweze kujilinda na matamanio. Na hakika Sisi tunasema kweli katika maneno yetu yote, na miongoni ya hayo ni khabari hii."
-  }
+  "id": 146,
+  "verse_number": 146,
+  "page_number": 147,
+  "verse_key": "6:146",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 59,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا كُلَّ ذِي ظُفُرٖۖ وَمِنَ ٱلۡبَقَرِ وَٱلۡغَنَمِ حَرَّمۡنَا عَلَيۡهِمۡ شُحُومَهُمَآ إِلَّا مَا حَمَلَتۡ ظُهُورُهُمَآ أَوِ ٱلۡحَوَايَآ أَوۡ مَا ٱخۡتَلَطَ بِعَظۡمٖۚ ذَٰلِكَ جَزَيۡنَٰهُم بِبَغۡيِهِمۡۖ وَإِنَّا لَصَٰدِقُونَ",
+  "translation": "Na wale walio fuata dini ya Kiyahudi tumewaharimishia kila mwenye kucha. Na katika ng'ombe na kondoo na mbuzi tumewaharimishia shahamu yao, isipo kuwa ile iliyo beba migongo yao au matumbo yao, au iliyo gandamana na mifupa. Tuliwalipa hivyo kwa sababu ya uasi wao. Na bila ya shaka Sisi ndio wasema kweli.",
+  "footnotes": "Basi hivi ndivyo tulivyo kuharimishieni nyinyi. Na Mayahudi tuliwaharimishia nyama na shahamu na kila kitu cha wenye makucha katika wanyama, kama ngamia na wanyama wawindao. Na katika ng'ombe na mbuzi na kondoo tuliwaharimishia shahamu yake tu, ila shahamu ya mgongoni, au iliyoko matumboni, au iliyo changanyika na mafupa. Na kuharimishwa huku kulikuwa kwa ajili ya kuwatesa tu kwa ajili ya dhulma zao, na kuziachisha nafsi zao waweze kujilinda na matamanio. Na hakika Sisi tunasema kweli katika maneno yetu yote, na miongoni ya hayo ni khabari hii."
 }

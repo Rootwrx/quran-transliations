@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1621",
-    "sura": "12",
-    "aya": "25",
-    "arabic_text": "وَٱسۡتَبَقَا ٱلۡبَابَ وَقَدَّتۡ قَمِيصَهُۥ مِن دُبُرٖ وَأَلۡفَيَا سَيِّدَهَا لَدَا ٱلۡبَابِۚ قَالَتۡ مَا جَزَآءُ مَنۡ أَرَادَ بِأَهۡلِكَ سُوٓءًا إِلَّآ أَن يُسۡجَنَ أَوۡ عَذَابٌ أَلِيمٞ",
-    "translation": "Ni ho rero Yusufu yatanguranwa na nya mugore ku muryango kugira asohoke, wa mugore agize ngo aramukwega, ikanzu yiwe ica itabuka mu mugongo, wa mugore aho nyene aca atubiranira n’umugabo wiwe ku muryango, aca aramwitanga arinamura n’ishavu n’akantu ati: “Umuntu ashaka kukurengera ibigo, akwiye ikihe gihano, atari ukuja mw’ibohero, canke agahabwa igihano kibabaza!”.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 238,
+  "verse_key": "12:25",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱسۡتَبَقَا ٱلۡبَابَ وَقَدَّتۡ قَمِيصَهُۥ مِن دُبُرٖ وَأَلۡفَيَا سَيِّدَهَا لَدَا ٱلۡبَابِۚ قَالَتۡ مَا جَزَآءُ مَنۡ أَرَادَ بِأَهۡلِكَ سُوٓءًا إِلَّآ أَن يُسۡجَنَ أَوۡ عَذَابٌ أَلِيمٞ",
+  "translation": "Ni ho rero Yusufu yatanguranwa na nya mugore ku muryango kugira asohoke, wa mugore agize ngo aramukwega, ikanzu yiwe ica itabuka mu mugongo, wa mugore aho nyene aca atubiranira n’umugabo wiwe ku muryango, aca aramwitanga arinamura n’ishavu n’akantu ati: “Umuntu ashaka kukurengera ibigo, akwiye ikihe gihano, atari ukuja mw’ibohero, canke agahabwa igihano kibabaza!”.",
+  "footnotes": ""
 }

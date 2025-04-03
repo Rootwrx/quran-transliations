@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5",
-    "sura": "1",
-    "aya": "5",
-    "arabic_text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
-    "translation": "5. Solo a Ti adoramos y solo a Ti pedimos ayuda.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 1,
+  "verse_key": "1:5",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+  "translation": "5. Solo a Ti adoramos y solo a Ti pedimos ayuda.",
+  "footnotes": ""
 }

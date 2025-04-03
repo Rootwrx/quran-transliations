@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3763",
-    "sura": "36",
-    "aya": "58",
-    "arabic_text": "سَلَٰمٞ قَوۡلٗا مِّن رَّبّٖ رَّحِيمٖ",
-    "translation": "58. „Селам на вас“ – ќе бидат зборовите на Милостивиот Господар –",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 444,
+  "verse_key": "36:58",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَلَٰمٞ قَوۡلٗا مِّن رَّبّٖ رَّحِيمٖ",
+  "translation": "58. „Селам на вас“ – ќе бидат зборовите на Милостивиот Господар –",
+  "footnotes": ""
 }

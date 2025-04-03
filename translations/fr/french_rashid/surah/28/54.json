@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3306",
-    "sura": "28",
-    "aya": "54",
-    "arabic_text": "أُوْلَٰٓئِكَ يُؤۡتَوۡنَ أَجۡرَهُم مَّرَّتَيۡنِ بِمَا صَبَرُواْ وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
-    "translation": "54 Voilà ceux qui, pour leur constance, seront doublement récompensés[1016], eux qui effacent leurs mauvaises actions par de bonnes œuvres[1017] et offrent par charité une partie de ce que Nous leur avons accordé.",
-    "footnotes": "[1016] Les juifs et les chrétiens qui sont devenus musulmans seront doublement récompensés pour avoir cru à la fois en la Bible et au Coran.\n[1017] Ou : eux qui rendent le bien pour le mal."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 392,
+  "verse_key": "28:54",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ يُؤۡتَوۡنَ أَجۡرَهُم مَّرَّتَيۡنِ بِمَا صَبَرُواْ وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+  "translation": "54 Voilà ceux qui, pour leur constance, seront doublement récompensés[1016], eux qui effacent leurs mauvaises actions par de bonnes œuvres[1017] et offrent par charité une partie de ce que Nous leur avons accordé.",
+  "footnotes": "[1016] Les juifs et les chrétiens qui sont devenus musulmans seront doublement récompensés pour avoir cru à la fois en la Bible et au Coran.\n[1017] Ou : eux qui rendent le bien pour le mal."
 }

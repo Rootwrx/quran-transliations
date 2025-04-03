@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4237",
-    "sura": "41",
-    "aya": "19",
-    "arabic_text": "وَيَوۡمَ يُحۡشَرُ أَعۡدَآءُ ٱللَّهِ إِلَى ٱلنَّارِ فَهُمۡ يُوزَعُونَ",
-    "translation": "19. Y recuerda (¡oh, Muhammad!) el día en que los enemigos de Al-lah (los idólatras y quienes rechazan la verdad) serán conducidos al fuego.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 478,
+  "verse_key": "41:19",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَوۡمَ يُحۡشَرُ أَعۡدَآءُ ٱللَّهِ إِلَى ٱلنَّارِ فَهُمۡ يُوزَعُونَ",
+  "translation": "19. Y recuerda (¡oh, Muhammad!) el día en que los enemigos de Al-lah (los idólatras y quienes rechazan la verdad) serán conducidos al fuego.",
+  "footnotes": ""
 }

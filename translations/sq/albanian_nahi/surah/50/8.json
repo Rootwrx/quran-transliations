@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4638",
-    "sura": "50",
-    "aya": "8",
-    "arabic_text": "تَبۡصِرَةٗ وَذِكۡرَىٰ لِكُلِّ عَبۡدٖ مُّنِيبٖ",
-    "translation": "si mjet ndriçimi të mendjes dhe përkujtesë për çdo rob që i drejtohet Zotit të vet.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 518,
+  "verse_key": "50:8",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَبۡصِرَةٗ وَذِكۡرَىٰ لِكُلِّ عَبۡدٖ مُّنِيبٖ",
+  "translation": "si mjet ndriçimi të mendjes dhe përkujtesë për çdo rob që i drejtohet Zotit të vet.",
+  "footnotes": ""
 }

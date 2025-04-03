@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6085",
-    "sura": "93",
-    "aya": "6",
-    "arabic_text": "أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ",
-    "translation": "Ashe, bai sãme ka marãya ba, sa'an nan Ya yi maka makõma?",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 596,
+  "verse_key": "93:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ يَجِدۡكَ يَتِيمٗا فَـَٔاوَىٰ",
+  "translation": "Ashe, bai sãme ka marãya ba, sa'an nan Ya yi maka makõma?",
+  "footnotes": ""
 }

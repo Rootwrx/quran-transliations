@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4104",
-    "sura": "39",
-    "aya": "46",
-    "arabic_text": "قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ عَٰلِمَ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ أَنتَ تَحۡكُمُ بَيۡنَ عِبَادِكَ فِي مَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
-    "translation": "Ntumwa y’Imana! Vuga uti: “Ewe Mana yanje Nzima! Rutanguzandemo Waremye amajuru n’isi! Rumenyi w’ibintu vyose; ibinyegeje n’ibiboneka! Ni Wewe ku musi w’izuka, Uzocira abaja bawe urutunganye, rugaragaza ukuri hagati y’abemeramana n’abagarariji ku vyo bahora bahazanako mw’idini, ndongora mu kunshikana ku kuri ku burenganzira bwawe, Wewe mu vy’ukuri, Urongora uwo Ushatse mu nzira igororotse[6]”.",
-    "footnotes": "[6] Iki gisabisho, ni kimwe mu bisabisho Intumwa yakunda gusaba mu ntumbero yo kwigisha abemeramana kugaruka ku Mana Allah mu kuyisaba hakoreshejwe amazina n’amatazirano vyayo."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 463,
+  "verse_key": "39:46",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهُمَّ فَاطِرَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ عَٰلِمَ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ أَنتَ تَحۡكُمُ بَيۡنَ عِبَادِكَ فِي مَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
+  "translation": "Ntumwa y’Imana! Vuga uti: “Ewe Mana yanje Nzima! Rutanguzandemo Waremye amajuru n’isi! Rumenyi w’ibintu vyose; ibinyegeje n’ibiboneka! Ni Wewe ku musi w’izuka, Uzocira abaja bawe urutunganye, rugaragaza ukuri hagati y’abemeramana n’abagarariji ku vyo bahora bahazanako mw’idini, ndongora mu kunshikana ku kuri ku burenganzira bwawe, Wewe mu vy’ukuri, Urongora uwo Ushatse mu nzira igororotse[6]”.",
+  "footnotes": "[6] Iki gisabisho, ni kimwe mu bisabisho Intumwa yakunda gusaba mu ntumbero yo kwigisha abemeramana kugaruka ku Mana Allah mu kuyisaba hakoreshejwe amazina n’amatazirano vyayo."
 }

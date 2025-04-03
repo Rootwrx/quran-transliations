@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3526",
-    "sura": "32",
-    "aya": "23",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ فَلَا تَكُن فِي مِرۡيَةٖ مِّن لِّقَآئِهِۦۖ وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَٰٓءِيلَ",
-    "translation": "Ampa sε, Yεde Nwoma no maa Mose, enti εmma w'adwen nnyε wo ntanta wͻ Ne nhyiamu no ho; na Yεyεε no kwankyerε (Nwoma) de maa Israel mma.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 417,
+  "verse_key": "32:23",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ فَلَا تَكُن فِي مِرۡيَةٖ مِّن لِّقَآئِهِۦۖ وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَٰٓءِيلَ",
+  "translation": "Ampa sε, Yεde Nwoma no maa Mose, enti εmma w'adwen nnyε wo ntanta wͻ Ne nhyiamu no ho; na Yεyεε no kwankyerε (Nwoma) de maa Israel mma.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1146",
-    "sura": "7",
-    "aya": "192",
-    "arabic_text": "وَلَا يَسۡتَطِيعُونَ لَهُمۡ نَصۡرٗا وَلَآ أَنفُسَهُمۡ يَنصُرُونَ",
-    "translation": "Dan (berhala) itu tidak dapat memberikan pertolongan kepada penyembahnya, dan kepada dirinya sendiri pun mereka tidak dapat memberi pertolongan.",
-    "footnotes": ""
-  }
+  "id": 192,
+  "verse_number": 192,
+  "page_number": 175,
+  "verse_key": "7:192",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَسۡتَطِيعُونَ لَهُمۡ نَصۡرٗا وَلَآ أَنفُسَهُمۡ يَنصُرُونَ",
+  "translation": "Dan (berhala) itu tidak dapat memberikan pertolongan kepada penyembahnya, dan kepada dirinya sendiri pun mereka tidak dapat memberi pertolongan.",
+  "footnotes": ""
 }

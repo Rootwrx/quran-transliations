@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4850",
-    "sura": "54",
-    "aya": "4",
-    "arabic_text": "وَلَقَدۡ جَآءَهُم مِّنَ ٱلۡأَنۢبَآءِ مَا فِيهِ مُزۡدَجَرٌ",
-    "translation": "තවද අවවාදයන් ඇතුළත් තොරතුරු ඔවුන් වෙත සැබැවින් ම පැමිණ ඇත.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 528,
+  "verse_key": "54:4",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ جَآءَهُم مِّنَ ٱلۡأَنۢبَآءِ مَا فِيهِ مُزۡدَجَرٌ",
+  "translation": "තවද අවවාදයන් ඇතුළත් තොරතුරු ඔවුන් වෙත සැබැවින් ම පැමිණ ඇත.",
+  "footnotes": ""
 }

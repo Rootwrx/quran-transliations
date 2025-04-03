@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2095",
-    "sura": "17",
-    "aya": "66",
-    "arabic_text": "رَّبُّكُمُ ٱلَّذِي يُزۡجِي لَكُمُ ٱلۡفُلۡكَ فِي ٱلۡبَحۡرِ لِتَبۡتَغُواْ مِن فَضۡلِهِۦٓۚ إِنَّهُۥ كَانَ بِكُمۡ رَحِيمٗا",
-    "translation": "66. Nkolo wa bino nde oyo atiela bino masuwa likolo ya ebale, bozali kotambola na yango тропа koluka litomba naye. Ya sólo, ye azalaka na mawa na bino.",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 288,
+  "verse_key": "17:66",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَّبُّكُمُ ٱلَّذِي يُزۡجِي لَكُمُ ٱلۡفُلۡكَ فِي ٱلۡبَحۡرِ لِتَبۡتَغُواْ مِن فَضۡلِهِۦٓۚ إِنَّهُۥ كَانَ بِكُمۡ رَحِيمٗا",
+  "translation": "66. Nkolo wa bino nde oyo atiela bino masuwa likolo ya ebale, bozali kotambola na yango тропа koluka litomba naye. Ya sólo, ye azalaka na mawa na bino.",
+  "footnotes": ""
 }

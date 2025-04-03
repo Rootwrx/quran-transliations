@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "701",
-    "sura": "5",
-    "aya": "32",
-    "arabic_text": "مِنۡ أَجۡلِ ذَٰلِكَ كَتَبۡنَا عَلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفۡسَۢا بِغَيۡرِ نَفۡسٍ أَوۡ فَسَادٖ فِي ٱلۡأَرۡضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعٗا وَمَنۡ أَحۡيَاهَا فَكَأَنَّمَآ أَحۡيَا ٱلنَّاسَ جَمِيعٗاۚ وَلَقَدۡ جَآءَتۡهُمۡ رُسُلُنَا بِٱلۡبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرٗا مِّنۡهُم بَعۡدَ ذَٰلِكَ فِي ٱلۡأَرۡضِ لَمُسۡرِفُونَ",
-    "translation": "Daga sababin wannan,* Muka rubuta a kan Banĩ lsrã'ĩla cewa, lalle ne wanda ya kashe rai bã da wani rai ba, ko ɓarna a cikin ƙasa, to kamar yã kashe mutãne duka ne, kuma wanda ya rãya rai, to, kamar yã rãyar da mutãne ne gabã ɗaya. Kuma lalle ne, haƙĩƙa, Manzannin Mu sun je musu da hujjõji bayyanannu, sa'an nan kuma lalle ne, mãsu yawa daga gare su, a bãyan wannan, haƙĩƙa, mãsuɓarna ne a cikin ƙasa.",
-    "footnotes": "* Aikata ƙaramin laifi yana sabbaba babban laifi har ɓarna mai yawa ta wãtsu a cikin ƙasa."
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 113,
+  "verse_key": "5:32",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 45,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِنۡ أَجۡلِ ذَٰلِكَ كَتَبۡنَا عَلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ أَنَّهُۥ مَن قَتَلَ نَفۡسَۢا بِغَيۡرِ نَفۡسٍ أَوۡ فَسَادٖ فِي ٱلۡأَرۡضِ فَكَأَنَّمَا قَتَلَ ٱلنَّاسَ جَمِيعٗا وَمَنۡ أَحۡيَاهَا فَكَأَنَّمَآ أَحۡيَا ٱلنَّاسَ جَمِيعٗاۚ وَلَقَدۡ جَآءَتۡهُمۡ رُسُلُنَا بِٱلۡبَيِّنَٰتِ ثُمَّ إِنَّ كَثِيرٗا مِّنۡهُم بَعۡدَ ذَٰلِكَ فِي ٱلۡأَرۡضِ لَمُسۡرِفُونَ",
+  "translation": "Daga sababin wannan,* Muka rubuta a kan Banĩ lsrã'ĩla cewa, lalle ne wanda ya kashe rai bã da wani rai ba, ko ɓarna a cikin ƙasa, to kamar yã kashe mutãne duka ne, kuma wanda ya rãya rai, to, kamar yã rãyar da mutãne ne gabã ɗaya. Kuma lalle ne, haƙĩƙa, Manzannin Mu sun je musu da hujjõji bayyanannu, sa'an nan kuma lalle ne, mãsu yawa daga gare su, a bãyan wannan, haƙĩƙa, mãsuɓarna ne a cikin ƙasa.",
+  "footnotes": "* Aikata ƙaramin laifi yana sabbaba babban laifi har ɓarna mai yawa ta wãtsu a cikin ƙasa."
 }

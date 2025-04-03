@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5216",
-    "sura": "64",
-    "aya": "17",
-    "arabic_text": "إِن تُقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗا يُضَٰعِفۡهُ لَكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
-    "translation": "Tí ẹ bá yá Allāhu ní dúkìá tó dára, Ó máa ṣàdìpèlé rẹ̀ fún yín. Ó sì máa foríjìn yín. Allāhu sì ni Ọlọ́pẹ́[1], Aláfaradà,",
-    "footnotes": "1. Nínú orúkọ àti ìròyìn Allāhu ni “Ṣākir” àti “Ṣakūr”."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 557,
+  "verse_key": "64:17",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن تُقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗا يُضَٰعِفۡهُ لَكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
+  "translation": "Tí ẹ bá yá Allāhu ní dúkìá tó dára, Ó máa ṣàdìpèlé rẹ̀ fún yín. Ó sì máa foríjìn yín. Allāhu sì ni Ọlọ́pẹ́[1], Aláfaradà,",
+  "footnotes": "1. Nínú orúkọ àti ìròyìn Allāhu ni “Ṣākir” àti “Ṣakūr”."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6128",
-    "sura": "97",
-    "aya": "3",
-    "arabic_text": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ",
-    "translation": "Kadir Gecesi bin aydan daha hayırlıdır.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 598,
+  "verse_key": "97:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَيۡلَةُ ٱلۡقَدۡرِ خَيۡرٞ مِّنۡ أَلۡفِ شَهۡرٖ",
+  "translation": "Kadir Gecesi bin aydan daha hayırlıdır.",
+  "footnotes": ""
 }

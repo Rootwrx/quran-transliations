@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5648",
-    "sura": "77",
-    "aya": "26",
-    "arabic_text": "أَحۡيَآءٗ وَأَمۡوَٰتٗا",
-    "translation": "(26) Of the living and the dead?",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 581,
+  "verse_key": "77:26",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَحۡيَآءٗ وَأَمۡوَٰتٗا",
+  "translation": "(26) Of the living and the dead?",
+  "footnotes": ""
 }

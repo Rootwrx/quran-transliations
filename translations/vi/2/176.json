@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "183",
-    "sura": "2",
-    "aya": "176",
-    "arabic_text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلۡكِتَٰبَ بِٱلۡحَقِّۗ وَإِنَّ ٱلَّذِينَ ٱخۡتَلَفُواْ فِي ٱلۡكِتَٰبِ لَفِي شِقَاقِۭ بَعِيدٖ",
-    "translation": "(Họ bị như thế là do họ cố tình che giấu) sự thật được Allah thiên khải trong Kinh Sách; và quả thật những ai bất đồng về Kinh Sách chắc chắn là những kẻ lạc lối rất xa.",
-    "footnotes": ""
-  }
+  "id": 176,
+  "verse_number": 176,
+  "page_number": 26,
+  "verse_key": "2:176",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ نَزَّلَ ٱلۡكِتَٰبَ بِٱلۡحَقِّۗ وَإِنَّ ٱلَّذِينَ ٱخۡتَلَفُواْ فِي ٱلۡكِتَٰبِ لَفِي شِقَاقِۭ بَعِيدٖ",
+  "translation": "(Họ bị như thế là do họ cố tình che giấu) sự thật được Allah thiên khải trong Kinh Sách; và quả thật những ai bất đồng về Kinh Sách chắc chắn là những kẻ lạc lối rất xa.",
+  "footnotes": ""
 }

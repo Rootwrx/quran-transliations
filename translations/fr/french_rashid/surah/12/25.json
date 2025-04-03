@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1621",
-    "sura": "12",
-    "aya": "25",
-    "arabic_text": "وَٱسۡتَبَقَا ٱلۡبَابَ وَقَدَّتۡ قَمِيصَهُۥ مِن دُبُرٖ وَأَلۡفَيَا سَيِّدَهَا لَدَا ٱلۡبَابِۚ قَالَتۡ مَا جَزَآءُ مَنۡ أَرَادَ بِأَهۡلِكَ سُوٓءًا إِلَّآ أَن يُسۡجَنَ أَوۡ عَذَابٌ أَلِيمٞ",
-    "translation": "25 Alors que tous deux se précipitaient vers la porte[628], elle déchira sa tunique par derrière. Arrivés à la porte, ils se retrouvèrent face au maître de maison auquel la femme dit : « Quelle sanction mérite celui qui a voulu abuser de ton épouse sinon d’être jeté en prison ou d’être impitoyablement châtié ? »",
-    "footnotes": "[628] Joseph tentant de lui échapper et elle de le rattraper."
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 238,
+  "verse_key": "12:25",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱسۡتَبَقَا ٱلۡبَابَ وَقَدَّتۡ قَمِيصَهُۥ مِن دُبُرٖ وَأَلۡفَيَا سَيِّدَهَا لَدَا ٱلۡبَابِۚ قَالَتۡ مَا جَزَآءُ مَنۡ أَرَادَ بِأَهۡلِكَ سُوٓءًا إِلَّآ أَن يُسۡجَنَ أَوۡ عَذَابٌ أَلِيمٞ",
+  "translation": "25 Alors que tous deux se précipitaient vers la porte[628], elle déchira sa tunique par derrière. Arrivés à la porte, ils se retrouvèrent face au maître de maison auquel la femme dit : « Quelle sanction mérite celui qui a voulu abuser de ton épouse sinon d’être jeté en prison ou d’être impitoyablement châtié ? »",
+  "footnotes": "[628] Joseph tentant de lui échapper et elle de le rattraper."
 }

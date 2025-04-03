@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5125",
-    "sura": "58",
-    "aya": "21",
-    "arabic_text": "كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِيٓۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ",
-    "translation": "Allah telah menetapkan, \"Aku dan rasul-rasul-Ku pasti menang\".  Sesungguhnya Allah Maha Kuat lagi Maha Perkasa.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 544,
+  "verse_key": "58:21",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَتَبَ ٱللَّهُ لَأَغۡلِبَنَّ أَنَا۠ وَرُسُلِيٓۚ إِنَّ ٱللَّهَ قَوِيٌّ عَزِيزٞ",
+  "translation": "Allah telah menetapkan, \"Aku dan rasul-rasul-Ku pasti menang\".  Sesungguhnya Allah Maha Kuat lagi Maha Perkasa.",
+  "footnotes": ""
 }

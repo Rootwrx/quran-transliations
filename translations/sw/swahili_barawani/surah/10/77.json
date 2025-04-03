@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1441",
-    "sura": "10",
-    "aya": "77",
-    "arabic_text": "قَالَ مُوسَىٰٓ أَتَقُولُونَ لِلۡحَقِّ لَمَّا جَآءَكُمۡۖ أَسِحۡرٌ هَٰذَا وَلَا يُفۡلِحُ ٱلسَّٰحِرُونَ",
-    "translation": "Akasema Musa: Mnasema hivi juu ya Haki ilipo kujieni? Huu ni uchawi? Na wachawi hawafanikiwi!",
-    "footnotes": "Musa akawaambia kukanya uzushi wao: Nyinyi mnaita Haki iliyo toka kwa Mwenyezi Mungu kuwa ni uchawi? Hivyo hii kweli mliyo iona kwa macho yenu ni uchawi? Basi hivi hapa mimi nakutakeni mthibitishe kwamba huu ni uchawi. Waleteni wachawi wathibitishe hayo mnayo yadai. Na wachawi hawafanikiwi abadan!"
-  }
+  "id": 77,
+  "verse_number": 77,
+  "page_number": 217,
+  "verse_key": "10:77",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ مُوسَىٰٓ أَتَقُولُونَ لِلۡحَقِّ لَمَّا جَآءَكُمۡۖ أَسِحۡرٌ هَٰذَا وَلَا يُفۡلِحُ ٱلسَّٰحِرُونَ",
+  "translation": "Akasema Musa: Mnasema hivi juu ya Haki ilipo kujieni? Huu ni uchawi? Na wachawi hawafanikiwi!",
+  "footnotes": "Musa akawaambia kukanya uzushi wao: Nyinyi mnaita Haki iliyo toka kwa Mwenyezi Mungu kuwa ni uchawi? Hivyo hii kweli mliyo iona kwa macho yenu ni uchawi? Basi hivi hapa mimi nakutakeni mthibitishe kwamba huu ni uchawi. Waleteni wachawi wathibitishe hayo mnayo yadai. Na wachawi hawafanikiwi abadan!"
 }

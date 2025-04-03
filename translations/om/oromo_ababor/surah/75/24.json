@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5575",
-    "sura": "75",
-    "aya": "24",
-    "arabic_text": "وَوُجُوهٞ يَوۡمَئِذِۭ بَاسِرَةٞ",
-    "translation": "Fuulli gariin Guyyaa san akkaan suntuurtuudha.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 578,
+  "verse_key": "75:24",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوُجُوهٞ يَوۡمَئِذِۭ بَاسِرَةٞ",
+  "translation": "Fuulli gariin Guyyaa san akkaan suntuurtuudha.",
+  "footnotes": ""
 }

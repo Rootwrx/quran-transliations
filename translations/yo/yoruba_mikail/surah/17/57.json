@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2086",
-    "sura": "17",
-    "aya": "57",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ يَدۡعُونَ يَبۡتَغُونَ إِلَىٰ رَبِّهِمُ ٱلۡوَسِيلَةَ أَيُّهُمۡ أَقۡرَبُ وَيَرۡجُونَ رَحۡمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحۡذُورٗا",
-    "translation": "Àwọn wọ̀nyẹn tí wọ́n ń pè (lẹ́yìn Rẹ̀) ń wá àtẹ̀gùn sọ́dọ̀ Olúwa wọn ni! - Èwo nínú wọn ló súnmọ́ (Allāhu) jùlọ (báyìí)? - Àwọn náà ń retí ìkẹ́ Allāhu, wọ́n sì ń páyà ìyà Rẹ̀. Dájúdájú ìyà Olúwa rẹ jẹ́ ohun tí wọ́n gbọ́dọ̀ ṣọ́ra fún.",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 287,
+  "verse_key": "17:57",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ يَدۡعُونَ يَبۡتَغُونَ إِلَىٰ رَبِّهِمُ ٱلۡوَسِيلَةَ أَيُّهُمۡ أَقۡرَبُ وَيَرۡجُونَ رَحۡمَتَهُۥ وَيَخَافُونَ عَذَابَهُۥٓۚ إِنَّ عَذَابَ رَبِّكَ كَانَ مَحۡذُورٗا",
+  "translation": "Àwọn wọ̀nyẹn tí wọ́n ń pè (lẹ́yìn Rẹ̀) ń wá àtẹ̀gùn sọ́dọ̀ Olúwa wọn ni! - Èwo nínú wọn ló súnmọ́ (Allāhu) jùlọ (báyìí)? - Àwọn náà ń retí ìkẹ́ Allāhu, wọ́n sì ń páyà ìyà Rẹ̀. Dájúdájú ìyà Olúwa rẹ jẹ́ ohun tí wọ́n gbọ́dọ̀ ṣọ́ra fún.",
+  "footnotes": ""
 }

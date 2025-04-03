@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4885",
-    "sura": "54",
-    "aya": "39",
-    "arabic_text": "فَذُوقُواْ عَذَابِي وَنُذُرِ",
-    "translation": "39. ஆகவே, எனது வேதனையையும், எனது எச்சரிக்கைகளையும் நீங்கள் சுவைத்துப் பாருங்கள் (என்று கூறினோம்).",
-    "footnotes": null
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 530,
+  "verse_key": "54:39",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَذُوقُواْ عَذَابِي وَنُذُرِ",
+  "translation": "39. ஆகவே, எனது வேதனையையும், எனது எச்சரிக்கைகளையும் நீங்கள் சுவைத்துப் பாருங்கள் (என்று கூறினோம்).",
+  "footnotes": null
 }

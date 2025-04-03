@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4492",
-    "sura": "45",
-    "aya": "19",
-    "arabic_text": "إِنَّهُمۡ لَن يُغۡنُواْ عَنكَ مِنَ ٱللَّهِ شَيۡـٔٗاۚ وَإِنَّ ٱلظَّٰلِمِينَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۖ وَٱللَّهُ وَلِيُّ ٱلۡمُتَّقِينَ",
-    "translation": "Por certo, eles de nada te valerão, diante de Allah. E, por certo, os injustos são aliados uns aos outros. E Allah é O Protetor dos piedosos.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 500,
+  "verse_key": "45:19",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُمۡ لَن يُغۡنُواْ عَنكَ مِنَ ٱللَّهِ شَيۡـٔٗاۚ وَإِنَّ ٱلظَّٰلِمِينَ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۖ وَٱللَّهُ وَلِيُّ ٱلۡمُتَّقِينَ",
+  "translation": "Por certo, eles de nada te valerão, diante de Allah. E, por certo, os injustos são aliados uns aos outros. E Allah é O Protetor dos piedosos.",
+  "footnotes": ""
 }

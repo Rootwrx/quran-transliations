@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6157",
-    "sura": "100",
-    "aya": "11",
-    "arabic_text": "إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ",
-    "translation": "Kuwa hakika Mola wao Mlezi siku hiyo bila ya shaka atakuwa na khabari zao wote!",
-    "footnotes": "Kwamba hakika Mlezi wao na Muumba wao bila ya shaka anajua vyema vitendo vyao na malipo yao Siku ya Kufufuliwa na Kulipwa."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 600,
+  "verse_key": "100:11",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ",
+  "translation": "Kuwa hakika Mola wao Mlezi siku hiyo bila ya shaka atakuwa na khabari zao wote!",
+  "footnotes": "Kwamba hakika Mlezi wao na Muumba wao bila ya shaka anajua vyema vitendo vyao na malipo yao Siku ya Kufufuliwa na Kulipwa."
 }

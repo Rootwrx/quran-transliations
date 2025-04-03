@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "649",
-    "sura": "4",
-    "aya": "156",
-    "arabic_text": "وَبِكُفۡرِهِمۡ وَقَوۡلِهِمۡ عَلَىٰ مَرۡيَمَ بُهۡتَٰنًا عَظِيمٗا",
-    "translation": "又因为他们不信〔尔撒〕，并且对麦尔彦捏造一个重大的诽谤。",
-    "footnotes": ""
-  }
+  "id": 156,
+  "verse_number": 156,
+  "page_number": 103,
+  "verse_key": "4:156",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبِكُفۡرِهِمۡ وَقَوۡلِهِمۡ عَلَىٰ مَرۡيَمَ بُهۡتَٰنًا عَظِيمٗا",
+  "translation": "又因为他们不信〔尔撒〕，并且对麦尔彦捏造一个重大的诽谤。",
+  "footnotes": ""
 }

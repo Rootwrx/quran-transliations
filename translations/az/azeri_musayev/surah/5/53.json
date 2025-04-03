@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "722",
-    "sura": "5",
-    "aya": "53",
-    "arabic_text": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓاْ أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ إِنَّهُمۡ لَمَعَكُمۡۚ حَبِطَتۡ أَعۡمَٰلُهُمۡ فَأَصۡبَحُواْ خَٰسِرِينَ",
-    "translation": "İman gətirənlər isə deyəcəklər: “Sizinlə bir yerdə olacaqlarına dair Allahın adı ilə möhkəm and içənlər bunlardırmı?” Onların əməlləri puça çıxdı, özləri də ziyana uğrayanlardan oldular.",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 117,
+  "verse_key": "5:53",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 47,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُ ٱلَّذِينَ ءَامَنُوٓاْ أَهَٰٓؤُلَآءِ ٱلَّذِينَ أَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ إِنَّهُمۡ لَمَعَكُمۡۚ حَبِطَتۡ أَعۡمَٰلُهُمۡ فَأَصۡبَحُواْ خَٰسِرِينَ",
+  "translation": "İman gətirənlər isə deyəcəklər: “Sizinlə bir yerdə olacaqlarına dair Allahın adı ilə möhkəm and içənlər bunlardırmı?” Onların əməlləri puça çıxdı, özləri də ziyana uğrayanlardan oldular.",
+  "footnotes": ""
 }

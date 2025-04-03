@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2554",
-    "sura": "21",
-    "aya": "71",
-    "arabic_text": "وَنَجَّيۡنَٰهُ وَلُوطًا إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَا لِلۡعَٰلَمِينَ",
-    "translation": " 71. And We rescued him and Lût (Lot) to the land which We have blessed for the ‘Âlamîn (mankind and jinn).",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 327,
+  "verse_key": "21:71",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنَجَّيۡنَٰهُ وَلُوطًا إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَا لِلۡعَٰلَمِينَ",
+  "translation": " 71. And We rescued him and Lût (Lot) to the land which We have blessed for the ‘Âlamîn (mankind and jinn).",
+  "footnotes": ""
 }

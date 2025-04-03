@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5088",
-    "sura": "57",
-    "aya": "13",
-    "arabic_text": "يَوۡمَ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلۡمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُواْ ٱنظُرُونَا نَقۡتَبِسۡ مِن نُّورِكُمۡ قِيلَ ٱرۡجِعُواْ وَرَآءَكُمۡ فَٱلۡتَمِسُواْ نُورٗاۖ فَضُرِبَ بَيۡنَهُم بِسُورٖ لَّهُۥ بَابُۢ بَاطِنُهُۥ فِيهِ ٱلرَّحۡمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلۡعَذَابُ",
-    "translation": "Umunsi indyarya z’abagabo n’iz’abagore zizabwira abemeramana ziti “Nimudutegereze turahure ku rumuri rwanyu!” Zizabwirwa ziti “Nimusubire inyuma (ku isi) mushake urumuri!” Maze hagati yabo hashyirwe urukuta rufite umuryango. Imbere yarwo hari impuhwe, naho hanze yarwo hakaba ibihano.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 539,
+  "verse_key": "57:13",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلۡمُنَٰفِقَٰتُ لِلَّذِينَ ءَامَنُواْ ٱنظُرُونَا نَقۡتَبِسۡ مِن نُّورِكُمۡ قِيلَ ٱرۡجِعُواْ وَرَآءَكُمۡ فَٱلۡتَمِسُواْ نُورٗاۖ فَضُرِبَ بَيۡنَهُم بِسُورٖ لَّهُۥ بَابُۢ بَاطِنُهُۥ فِيهِ ٱلرَّحۡمَةُ وَظَٰهِرُهُۥ مِن قِبَلِهِ ٱلۡعَذَابُ",
+  "translation": "Umunsi indyarya z’abagabo n’iz’abagore zizabwira abemeramana ziti “Nimudutegereze turahure ku rumuri rwanyu!” Zizabwirwa ziti “Nimusubire inyuma (ku isi) mushake urumuri!” Maze hagati yabo hashyirwe urukuta rufite umuryango. Imbere yarwo hari impuhwe, naho hanze yarwo hakaba ibihano.",
+  "footnotes": ""
 }

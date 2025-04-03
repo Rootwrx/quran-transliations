@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1941",
-    "sura": "16",
-    "aya": "40",
-    "arabic_text": "إِنَّمَا قَوۡلُنَا لِشَيۡءٍ إِذَآ أَرَدۡنَٰهُ أَن نَّقُولَ لَهُۥ كُن فَيَكُونُ",
-    "translation": "Wanta kamillee (ta’uu) isaa yoo feene, jechi keenya isaan ‘ta’i’ (jechuu) qofa. Achumaan ta’a.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 271,
+  "verse_key": "16:40",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا قَوۡلُنَا لِشَيۡءٍ إِذَآ أَرَدۡنَٰهُ أَن نَّقُولَ لَهُۥ كُن فَيَكُونُ",
+  "translation": "Wanta kamillee (ta’uu) isaa yoo feene, jechi keenya isaan ‘ta’i’ (jechuu) qofa. Achumaan ta’a.",
+  "footnotes": ""
 }

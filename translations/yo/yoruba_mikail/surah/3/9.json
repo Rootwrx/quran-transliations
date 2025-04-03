@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "302",
-    "sura": "3",
-    "aya": "9",
-    "arabic_text": "رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوۡمٖ لَّا رَيۡبَ فِيهِۚ إِنَّ ٱللَّهَ لَا يُخۡلِفُ ٱلۡمِيعَادَ",
-    "translation": "Olúwa wa, dájúdájú Ìwọ l’O máa kó àwọn ènìyàn jọ ní ọjọ́ kan, tí kò sí iyèméjì nínú rẹ̀. Dájúdájú Allāhu kì í yẹ àdéhùn.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 50,
+  "verse_key": "3:9",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبَّنَآ إِنَّكَ جَامِعُ ٱلنَّاسِ لِيَوۡمٖ لَّا رَيۡبَ فِيهِۚ إِنَّ ٱللَّهَ لَا يُخۡلِفُ ٱلۡمِيعَادَ",
+  "translation": "Olúwa wa, dájúdájú Ìwọ l’O máa kó àwọn ènìyàn jọ ní ọjọ́ kan, tí kò sí iyèméjì nínú rẹ̀. Dájúdájú Allāhu kì í yẹ àdéhùn.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "656",
-    "sura": "4",
-    "aya": "163",
-    "arabic_text": "۞ إِنَّآ أَوۡحَيۡنَآ إِلَيۡكَ كَمَآ أَوۡحَيۡنَآ إِلَىٰ نُوحٖ وَٱلنَّبِيِّـۧنَ مِنۢ بَعۡدِهِۦۚ وَأَوۡحَيۡنَآ إِلَىٰٓ إِبۡرَٰهِيمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَٰرُونَ وَسُلَيۡمَٰنَۚ وَءَاتَيۡنَا دَاوُۥدَ زَبُورٗا",
-    "translation": "Dájúdájú Àwa (fi ìmísí) ránṣẹ́ sí ọ gẹ́gẹ́ bí A ṣe fi ránṣẹ́ sí (Ànábì) Nūh àti àwọn Ànábì (mìíràn) lẹ́yìn rẹ̀. A fi ìmísí ránṣẹ́ sí (àwọn Ànábì) ’Ibrọ̄hīm, ’Ismọ̄‘īl, ’Ishāƙ, Ya‘ƙūb àti àwọn àrọ́mọdọ́mọ (rẹ̀), àti (Ànábì) ‘Īsā, ’Ayyūb, Yūnus, Hārūn àti Sulaemọ̄n. A sì fún (Ànábì) Dāwūd ní Zabūr.",
-    "footnotes": ""
-  }
+  "id": 163,
+  "verse_number": 163,
+  "page_number": 104,
+  "verse_key": "4:163",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 42,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّآ أَوۡحَيۡنَآ إِلَيۡكَ كَمَآ أَوۡحَيۡنَآ إِلَىٰ نُوحٖ وَٱلنَّبِيِّـۧنَ مِنۢ بَعۡدِهِۦۚ وَأَوۡحَيۡنَآ إِلَىٰٓ إِبۡرَٰهِيمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَعِيسَىٰ وَأَيُّوبَ وَيُونُسَ وَهَٰرُونَ وَسُلَيۡمَٰنَۚ وَءَاتَيۡنَا دَاوُۥدَ زَبُورٗا",
+  "translation": "Dájúdájú Àwa (fi ìmísí) ránṣẹ́ sí ọ gẹ́gẹ́ bí A ṣe fi ránṣẹ́ sí (Ànábì) Nūh àti àwọn Ànábì (mìíràn) lẹ́yìn rẹ̀. A fi ìmísí ránṣẹ́ sí (àwọn Ànábì) ’Ibrọ̄hīm, ’Ismọ̄‘īl, ’Ishāƙ, Ya‘ƙūb àti àwọn àrọ́mọdọ́mọ (rẹ̀), àti (Ànábì) ‘Īsā, ’Ayyūb, Yūnus, Hārūn àti Sulaemọ̄n. A sì fún (Ànábì) Dāwūd ní Zabūr.",
+  "footnotes": ""
 }

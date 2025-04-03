@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "458",
-    "sura": "3",
-    "aya": "165",
-    "arabic_text": "أَوَلَمَّآ أَصَٰبَتۡكُم مُّصِيبَةٞ قَدۡ أَصَبۡتُم مِّثۡلَيۡهَا قُلۡتُمۡ أَنَّىٰ هَٰذَاۖ قُلۡ هُوَ مِنۡ عِندِ أَنفُسِكُمۡۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Ṣé gbogbo ìgbà tí àdánwò kan bá kàn yín, tí ẹ sì ti fi méjì irú rẹ̀ (kan àwọn kèfèrí), ni ẹ̀yin yóò máa sọ pé: “Ọ̀nà wo ni èyí gbà ṣẹlẹ̀ sí wa?” Sọ pé: “Ó wá láti ọ̀dọ̀ ara yín.” Dájúdájú Allāhu ni Alágbára lórí gbogbo n̄ǹkan.",
-    "footnotes": ""
-  }
+  "id": 165,
+  "verse_number": 165,
+  "page_number": 71,
+  "verse_key": "3:165",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَلَمَّآ أَصَٰبَتۡكُم مُّصِيبَةٞ قَدۡ أَصَبۡتُم مِّثۡلَيۡهَا قُلۡتُمۡ أَنَّىٰ هَٰذَاۖ قُلۡ هُوَ مِنۡ عِندِ أَنفُسِكُمۡۗ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Ṣé gbogbo ìgbà tí àdánwò kan bá kàn yín, tí ẹ sì ti fi méjì irú rẹ̀ (kan àwọn kèfèrí), ni ẹ̀yin yóò máa sọ pé: “Ọ̀nà wo ni èyí gbà ṣẹlẹ̀ sí wa?” Sọ pé: “Ó wá láti ọ̀dọ̀ ara yín.” Dájúdájú Allāhu ni Alágbára lórí gbogbo n̄ǹkan.",
+  "footnotes": ""
 }

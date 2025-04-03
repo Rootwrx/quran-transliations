@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "350",
-    "sura": "3",
-    "aya": "57",
-    "arabic_text": "وَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمۡ أُجُورَهُمۡۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
-    "translation": "Lɑ sẽn kõ-b sɩdã lɑ b tʋm sõmã wã, A nɑ n pidsɑ b keoobã n kõ-bɑ, lɑ Wẽnd pɑ nong Wẽgdb ye.",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 57,
+  "verse_key": "3:57",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُوَفِّيهِمۡ أُجُورَهُمۡۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+  "translation": "Lɑ sẽn kõ-b sɩdã lɑ b tʋm sõmã wã, A nɑ n pidsɑ b keoobã n kõ-bɑ, lɑ Wẽnd pɑ nong Wẽgdb ye.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "92",
-    "sura": "2",
-    "aya": "85",
-    "arabic_text": "ثُمَّ أَنتُمۡ هَٰٓؤُلَآءِ تَقۡتُلُونَ أَنفُسَكُمۡ وَتُخۡرِجُونَ فَرِيقٗا مِّنكُم مِّن دِيَٰرِهِمۡ تَظَٰهَرُونَ عَلَيۡهِم بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَإِن يَأۡتُوكُمۡ أُسَٰرَىٰ تُفَٰدُوهُمۡ وَهُوَ مُحَرَّمٌ عَلَيۡكُمۡ إِخۡرَاجُهُمۡۚ أَفَتُؤۡمِنُونَ بِبَعۡضِ ٱلۡكِتَٰبِ وَتَكۡفُرُونَ بِبَعۡضٖۚ فَمَا جَزَآءُ مَن يَفۡعَلُ ذَٰلِكَ مِنكُمۡ إِلَّا خِزۡيٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلۡعَذَابِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
-    "translation": "Sa'an nan kuma, gã ku, yã waɗannan! Kuna kashe kanku, kuma kuna fitar da wani ɓangare daga gare ku daga gidãjensu, kuna taimakon jũna a kansu da zunubi da zãlunci kuma idan kãmammu suka je muku kuna fansarsu alhãli kuwa shĩ fitar da su abin da aka haramta muku ne. Shin fa, kuna ĩmãni da sãshen Littãfin ne, kuma ku kãfirta da sãshe? To, mẽne ne sakamakon wanda ke aikata wancan daga gare ku fãce wulãkanci* a cikin rãyuwar dũniya? Kuma a Rãnar ¡iyãma ana mayar da su zuwa ga mafi tsananin azãba. Kuma Allah bai zama Mai gafala ba daga barin abin da kuke aikatãwa.",
-    "footnotes": "* Aiki da sãshen wasu abũbuwa na addini da barin wasu kãfirci ne mai wajabta wulãƙanci a kan Musulmi."
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 13,
+  "verse_key": "2:85",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ أَنتُمۡ هَٰٓؤُلَآءِ تَقۡتُلُونَ أَنفُسَكُمۡ وَتُخۡرِجُونَ فَرِيقٗا مِّنكُم مِّن دِيَٰرِهِمۡ تَظَٰهَرُونَ عَلَيۡهِم بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَإِن يَأۡتُوكُمۡ أُسَٰرَىٰ تُفَٰدُوهُمۡ وَهُوَ مُحَرَّمٌ عَلَيۡكُمۡ إِخۡرَاجُهُمۡۚ أَفَتُؤۡمِنُونَ بِبَعۡضِ ٱلۡكِتَٰبِ وَتَكۡفُرُونَ بِبَعۡضٖۚ فَمَا جَزَآءُ مَن يَفۡعَلُ ذَٰلِكَ مِنكُمۡ إِلَّا خِزۡيٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يُرَدُّونَ إِلَىٰٓ أَشَدِّ ٱلۡعَذَابِۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+  "translation": "Sa'an nan kuma, gã ku, yã waɗannan! Kuna kashe kanku, kuma kuna fitar da wani ɓangare daga gare ku daga gidãjensu, kuna taimakon jũna a kansu da zunubi da zãlunci kuma idan kãmammu suka je muku kuna fansarsu alhãli kuwa shĩ fitar da su abin da aka haramta muku ne. Shin fa, kuna ĩmãni da sãshen Littãfin ne, kuma ku kãfirta da sãshe? To, mẽne ne sakamakon wanda ke aikata wancan daga gare ku fãce wulãkanci* a cikin rãyuwar dũniya? Kuma a Rãnar ¡iyãma ana mayar da su zuwa ga mafi tsananin azãba. Kuma Allah bai zama Mai gafala ba daga barin abin da kuke aikatãwa.",
+  "footnotes": "* Aiki da sãshen wasu abũbuwa na addini da barin wasu kãfirci ne mai wajabta wulãƙanci a kan Musulmi."
 }

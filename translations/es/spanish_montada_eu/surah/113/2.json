@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6227",
-    "sura": "113",
-    "aya": "2",
-    "arabic_text": "مِن شَرِّ مَا خَلَقَ",
-    "translation": "2. »del mal existente en lo que ha creado,",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 604,
+  "verse_key": "113:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِن شَرِّ مَا خَلَقَ",
+  "translation": "2. »del mal existente en lo que ha creado,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3474",
-    "sura": "31",
-    "aya": "5",
-    "arabic_text": "أُوْلَٰٓئِكَ عَلَىٰ هُدٗى مِّن رَّبِّهِمۡۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
-    "translation": "这等人，是遵守他们的主的正道的，这等人确是成功的。",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 411,
+  "verse_key": "31:5",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ عَلَىٰ هُدٗى مِّن رَّبِّهِمۡۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+  "translation": "这等人，是遵守他们的主的正道的，这等人确是成功的。",
+  "footnotes": ""
 }

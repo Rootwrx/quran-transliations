@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3002",
-    "sura": "26",
-    "aya": "70",
-    "arabic_text": "إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَا تَعۡبُدُونَ",
-    "translation": "70. Ketika dia (Ibrahim) berkata kepada ayahnya dan kaumnya, “Apakah yang kamu sembah?”",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 370,
+  "verse_key": "26:70",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَا تَعۡبُدُونَ",
+  "translation": "70. Ketika dia (Ibrahim) berkata kepada ayahnya dan kaumnya, “Apakah yang kamu sembah?”",
+  "footnotes": ""
 }

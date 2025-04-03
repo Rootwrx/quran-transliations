@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4282",
-    "sura": "42",
-    "aya": "10",
-    "arabic_text": "وَمَا ٱخۡتَلَفۡتُمۡ فِيهِ مِن شَيۡءٖ فَحُكۡمُهُۥٓ إِلَى ٱللَّهِۚ ذَٰلِكُمُ ٱللَّهُ رَبِّي عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ أُنِيبُ",
-    "translation": "(10) And in anything over which you disagree - its ruling is [to be referred] to Allāh. [Say], \"That is Allāh, my Lord; upon Him I have relied, and to Him I turn back.\"[1410]",
-    "footnotes": "[1410]- In remembrance and repentance."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 483,
+  "verse_key": "42:10",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا ٱخۡتَلَفۡتُمۡ فِيهِ مِن شَيۡءٖ فَحُكۡمُهُۥٓ إِلَى ٱللَّهِۚ ذَٰلِكُمُ ٱللَّهُ رَبِّي عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ أُنِيبُ",
+  "translation": "(10) And in anything over which you disagree - its ruling is [to be referred] to Allāh. [Say], \"That is Allāh, my Lord; upon Him I have relied, and to Him I turn back.\"[1410]",
+  "footnotes": "[1410]- In remembrance and repentance."
 }

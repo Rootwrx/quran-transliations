@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5241",
-    "sura": "66",
-    "aya": "12",
-    "arabic_text": "وَمَرۡيَمَ ٱبۡنَتَ عِمۡرَٰنَ ٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتۡ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتۡ مِنَ ٱلۡقَٰنِتِينَ",
-    "translation": "I Merjemu, kćer Imranovu, koja je nevinost svoju sačuvala, pa smo u nju duha Svog udahnuli, i ona je u riječi Gospodara svoga i knjige Njegove povjerovala i od onih koji su pokorni bila.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 561,
+  "verse_key": "66:12",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَرۡيَمَ ٱبۡنَتَ عِمۡرَٰنَ ٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتۡ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتۡ مِنَ ٱلۡقَٰنِتِينَ",
+  "translation": "I Merjemu, kćer Imranovu, koja je nevinost svoju sačuvala, pa smo u nju duha Svog udahnuli, i ona je u riječi Gospodara svoga i knjige Njegove povjerovala i od onih koji su pokorni bila.",
+  "footnotes": ""
 }

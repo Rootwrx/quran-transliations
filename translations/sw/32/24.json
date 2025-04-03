@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3527",
-    "sura": "32",
-    "aya": "24",
-    "arabic_text": "وَجَعَلۡنَا مِنۡهُمۡ أَئِمَّةٗ يَهۡدُونَ بِأَمۡرِنَا لَمَّا صَبَرُواْۖ وَكَانُواْ بِـَٔايَٰتِنَا يُوقِنُونَ",
-    "translation": "Na tukawafanya miongoni mwao waongozi wanao ongoa watu kwa amri yetu, walipo subiri na wakawa na yakini na Ishara zetu.",
-    "footnotes": "Na kutokana na Wana wa Israili tumejaalia wawepo Maimamu, waongozi, wa Dini, wasimame kuwaongoa watu, kwa kuitikia amri yetu kwa vile walivyo vumilia kuyatenda yaliomo katika Taurati, na wakawa wanazisadiki Ishara zetu ukomo wa kusadiki."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 417,
+  "verse_key": "32:24",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلۡنَا مِنۡهُمۡ أَئِمَّةٗ يَهۡدُونَ بِأَمۡرِنَا لَمَّا صَبَرُواْۖ وَكَانُواْ بِـَٔايَٰتِنَا يُوقِنُونَ",
+  "translation": "Na tukawafanya miongoni mwao waongozi wanao ongoa watu kwa amri yetu, walipo subiri na wakawa na yakini na Ishara zetu.",
+  "footnotes": "Na kutokana na Wana wa Israili tumejaalia wawepo Maimamu, waongozi, wa Dini, wasimame kuwaongoa watu, kwa kuitikia amri yetu kwa vile walivyo vumilia kuyatenda yaliomo katika Taurati, na wakawa wanazisadiki Ishara zetu ukomo wa kusadiki."
 }

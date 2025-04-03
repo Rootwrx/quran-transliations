@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "700",
-    "sura": "5",
-    "aya": "31",
-    "arabic_text": "فَبَعَثَ ٱللَّهُ غُرَابٗا يَبۡحَثُ فِي ٱلۡأَرۡضِ لِيُرِيَهُۥ كَيۡفَ يُوَٰرِي سَوۡءَةَ أَخِيهِۚ قَالَ يَٰوَيۡلَتَىٰٓ أَعَجَزۡتُ أَنۡ أَكُونَ مِثۡلَ هَٰذَا ٱلۡغُرَابِ فَأُوَٰرِيَ سَوۡءَةَ أَخِيۖ فَأَصۡبَحَ مِنَ ٱلنَّٰدِمِينَ",
-    "translation": "Allāhu sì gbé ẹyẹ kannakánná kan dìde, tí ó ń fi ẹsẹ̀ walẹ̀ nítorí kí ó lè fi bí ó ṣe máa bo òkú[1] arákùnrin rẹ̀ mọ́ inú ilẹ̀ hàn án. Ó wí pé: “Tèmí bá mi o! Ṣé mo kágara ni láti dà bí irú ẹyẹ kannakánná yìí, kí èmi náà sì lè bo òkú arákùnrin mi mọ́lẹ̀?” Ó sì di ara àwọn alábàámọ̀.",
-    "footnotes": "1. “sao’ah” túmọ̀ sí ìhòhò, ohun tí ẹ̀dá kò fẹ́ fojú ara rẹ̀ rí. Òkú ti di sao’ah nítorí pé, kò sí ẹni tí ó fẹ́ fojú ara rẹ̀ rí òkú."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 112,
+  "verse_key": "5:31",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 45,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَبَعَثَ ٱللَّهُ غُرَابٗا يَبۡحَثُ فِي ٱلۡأَرۡضِ لِيُرِيَهُۥ كَيۡفَ يُوَٰرِي سَوۡءَةَ أَخِيهِۚ قَالَ يَٰوَيۡلَتَىٰٓ أَعَجَزۡتُ أَنۡ أَكُونَ مِثۡلَ هَٰذَا ٱلۡغُرَابِ فَأُوَٰرِيَ سَوۡءَةَ أَخِيۖ فَأَصۡبَحَ مِنَ ٱلنَّٰدِمِينَ",
+  "translation": "Allāhu sì gbé ẹyẹ kannakánná kan dìde, tí ó ń fi ẹsẹ̀ walẹ̀ nítorí kí ó lè fi bí ó ṣe máa bo òkú[1] arákùnrin rẹ̀ mọ́ inú ilẹ̀ hàn án. Ó wí pé: “Tèmí bá mi o! Ṣé mo kágara ni láti dà bí irú ẹyẹ kannakánná yìí, kí èmi náà sì lè bo òkú arákùnrin mi mọ́lẹ̀?” Ó sì di ara àwọn alábàámọ̀.",
+  "footnotes": "1. “sao’ah” túmọ̀ sí ìhòhò, ohun tí ẹ̀dá kò fẹ́ fojú ara rẹ̀ rí. Òkú ti di sao’ah nítorí pé, kò sí ẹni tí ó fẹ́ fojú ara rẹ̀ rí òkú."
 }

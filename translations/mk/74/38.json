@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5533",
-    "sura": "74",
-    "aya": "38",
-    "arabic_text": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ",
-    "translation": "38. Секоја душа е залог на тоа што го стекнала,",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 576,
+  "verse_key": "74:38",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡ رَهِينَةٌ",
+  "translation": "38. Секоја душа е залог на тоа што го стекнала,",
+  "footnotes": ""
 }

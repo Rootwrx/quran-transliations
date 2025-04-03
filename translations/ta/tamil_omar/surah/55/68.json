@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4969",
-    "sura": "55",
-    "aya": "68",
-    "arabic_text": "فِيهِمَا فَٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ",
-    "translation": "அவை இரண்டிலும் (பல வகை) பழங்களும் பேரீச்சமும் மாதுளையும் இருக்கும்.",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 534,
+  "verse_key": "55:68",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِيهِمَا فَٰكِهَةٞ وَنَخۡلٞ وَرُمَّانٞ",
+  "translation": "அவை இரண்டிலும் (பல வகை) பழங்களும் பேரீச்சமும் மாதுளையும் இருக்கும்.",
+  "footnotes": ""
 }

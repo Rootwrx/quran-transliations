@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2371",
-    "sura": "20",
-    "aya": "23",
-    "arabic_text": "لِنُرِيَكَ مِنۡ ءَايَٰتِنَا ٱلۡكُبۡرَى",
-    "translation": "auf daß Wir dich etwas von Unseren größten Zeichen sehen lassen.",
-    "footnotes": null
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 313,
+  "verse_key": "20:23",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِنُرِيَكَ مِنۡ ءَايَٰتِنَا ٱلۡكُبۡرَى",
+  "translation": "auf daß Wir dich etwas von Unseren größten Zeichen sehen lassen.",
+  "footnotes": null
 }

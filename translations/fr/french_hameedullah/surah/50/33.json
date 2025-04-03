@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4663",
-    "sura": "50",
-    "aya": "33",
-    "arabic_text": "مَّنۡ خَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ وَجَآءَ بِقَلۡبٖ مُّنِيبٍ",
-    "translation": "qui redoute le Tout Miséricordieux bien qu’il ne Le voit pas , et qui vient [vers Lui] avec un cœur porté à l’obéissance.",
-    "footnotes": "[896] Bien qu’il ne Le voit…: autre sens: alors qu’il n’est vu par personne."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 519,
+  "verse_key": "50:33",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّنۡ خَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ وَجَآءَ بِقَلۡبٖ مُّنِيبٍ",
+  "translation": "qui redoute le Tout Miséricordieux bien qu’il ne Le voit pas , et qui vient [vers Lui] avec un cœur porté à l’obéissance.",
+  "footnotes": "[896] Bien qu’il ne Le voit…: autre sens: alors qu’il n’est vu par personne."
 }

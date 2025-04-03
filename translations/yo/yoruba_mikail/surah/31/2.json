@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3471",
-    "sura": "31",
-    "aya": "2",
-    "arabic_text": "تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ",
-    "translation": "Ìwọ̀nyí ni àwọn āyah Tírà tí ó kún fún ọgbọ́n.[1]",
-    "footnotes": "1. Pípe al-Ƙur’ān ní “hakīm” túmọ̀ sí tírà tí ó kún fún ọgbọ́n, tírà tí ó ń ṣe ìdájọ́ àti tírà tí wọ́n to àwọn āyah rẹ̀ àti sūrah rẹ̀ tó gún régé láì sí ìdàrúdàpọ̀ àti ìtakora kan nínú rẹ̀."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 411,
+  "verse_key": "31:2",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ",
+  "translation": "Ìwọ̀nyí ni àwọn āyah Tírà tí ó kún fún ọgbọ́n.[1]",
+  "footnotes": "1. Pípe al-Ƙur’ān ní “hakīm” túmọ̀ sí tírà tí ó kún fún ọgbọ́n, tírà tí ó ń ṣe ìdájọ́ àti tírà tí wọ́n to àwọn āyah rẹ̀ àti sūrah rẹ̀ tó gún régé láì sí ìdàrúdàpọ̀ àti ìtakora kan nínú rẹ̀."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1408",
-    "sura": "10",
-    "aya": "44",
-    "arabic_text": "إِنَّ ٱللَّهَ لَا يَظۡلِمُ ٱلنَّاسَ شَيۡـٔٗا وَلَٰكِنَّ ٱلنَّاسَ أَنفُسَهُمۡ يَظۡلِمُونَ",
-    "translation": "44. Dios no oprime a las personas en absolutamente nada, sino que son las personas las que se oprimen a sí mismas.",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 214,
+  "verse_key": "10:44",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ لَا يَظۡلِمُ ٱلنَّاسَ شَيۡـٔٗا وَلَٰكِنَّ ٱلنَّاسَ أَنفُسَهُمۡ يَظۡلِمُونَ",
+  "translation": "44. Dios no oprime a las personas en absolutamente nada, sino que son las personas las que se oprimen a sí mismas.",
+  "footnotes": ""
 }

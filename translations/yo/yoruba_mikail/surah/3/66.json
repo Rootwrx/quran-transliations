@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "359",
-    "sura": "3",
-    "aya": "66",
-    "arabic_text": "هَٰٓأَنتُمۡ هَٰٓؤُلَآءِ حَٰجَجۡتُمۡ فِيمَا لَكُم بِهِۦ عِلۡمٞ فَلِمَ تُحَآجُّونَ فِيمَا لَيۡسَ لَكُم بِهِۦ عِلۡمٞۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ",
-    "translation": "Ẹ̀yin ni ìwọ̀nyí tí ẹ̀ ń jiyàn nípa ohun tí ẹ nímọ̀ nípa rẹ̀! Kí ni ó tún ń mu yín jiyàn nípa ohun tí ẹ ò nímọ̀ nípa rẹ̀?[1] Allāhu nímọ̀. Ẹ̀yin kò sì nímọ̀.",
-    "footnotes": "1. Ìyẹn ’Islām tí Ànábì ’Ibrọ̄hīm - kí ọlà Allāhu máa bá a - mú wá."
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 58,
+  "verse_key": "3:66",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰٓأَنتُمۡ هَٰٓؤُلَآءِ حَٰجَجۡتُمۡ فِيمَا لَكُم بِهِۦ عِلۡمٞ فَلِمَ تُحَآجُّونَ فِيمَا لَيۡسَ لَكُم بِهِۦ عِلۡمٞۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ",
+  "translation": "Ẹ̀yin ni ìwọ̀nyí tí ẹ̀ ń jiyàn nípa ohun tí ẹ nímọ̀ nípa rẹ̀! Kí ni ó tún ń mu yín jiyàn nípa ohun tí ẹ ò nímọ̀ nípa rẹ̀?[1] Allāhu nímọ̀. Ẹ̀yin kò sì nímọ̀.",
+  "footnotes": "1. Ìyẹn ’Islām tí Ànábì ’Ibrọ̄hīm - kí ọlà Allāhu máa bá a - mú wá."
 }

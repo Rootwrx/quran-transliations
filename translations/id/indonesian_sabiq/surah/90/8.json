@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6031",
-    "sura": "90",
-    "aya": "8",
-    "arabic_text": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ",
-    "translation": "8. Bukankah Kami telah menjadikan untuknya sepasang mata,",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 594,
+  "verse_key": "90:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ نَجۡعَل لَّهُۥ عَيۡنَيۡنِ",
+  "translation": "8. Bukankah Kami telah menjadikan untuknya sepasang mata,",
+  "footnotes": ""
 }

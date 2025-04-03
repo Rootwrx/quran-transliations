@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5083",
-    "sura": "57",
-    "aya": "8",
-    "arabic_text": "وَمَا لَكُمۡ لَا تُؤۡمِنُونَ بِٱللَّهِ وَٱلرَّسُولُ يَدۡعُوكُمۡ لِتُؤۡمِنُواْ بِرَبِّكُمۡ وَقَدۡ أَخَذَ مِيثَٰقَكُمۡ إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": " Rasûl sizi, Rabbinize iman etmeye çağırdığı halde niçin Allah'a iman etmiyorsunuz? Eğer mümin kimseler iseniz; O sizden kesin bir söz almıştı!",
-    "footnotes": null
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 538,
+  "verse_key": "57:8",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا لَكُمۡ لَا تُؤۡمِنُونَ بِٱللَّهِ وَٱلرَّسُولُ يَدۡعُوكُمۡ لِتُؤۡمِنُواْ بِرَبِّكُمۡ وَقَدۡ أَخَذَ مِيثَٰقَكُمۡ إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": " Rasûl sizi, Rabbinize iman etmeye çağırdığı halde niçin Allah'a iman etmiyorsunuz? Eğer mümin kimseler iseniz; O sizden kesin bir söz almıştı!",
+  "footnotes": null
 }

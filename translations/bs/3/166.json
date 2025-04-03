@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "459",
-    "sura": "3",
-    "aya": "166",
-    "arabic_text": "وَمَآ أَصَٰبَكُمۡ يَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ فَبِإِذۡنِ ٱللَّهِ وَلِيَعۡلَمَ ٱلۡمُؤۡمِنِينَ",
-    "translation": "Ono što vas je zadesilo kada su se dvije skupine sukobile, bilo je Allahovom dozvolom i da bi znao ko su vjernici. ",
-    "footnotes": ""
-  }
+  "id": 166,
+  "verse_number": 166,
+  "page_number": 72,
+  "verse_key": "3:166",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَصَٰبَكُمۡ يَوۡمَ ٱلۡتَقَى ٱلۡجَمۡعَانِ فَبِإِذۡنِ ٱللَّهِ وَلِيَعۡلَمَ ٱلۡمُؤۡمِنِينَ",
+  "translation": "Ono što vas je zadesilo kada su se dvije skupine sukobile, bilo je Allahovom dozvolom i da bi znao ko su vjernici. ",
+  "footnotes": ""
 }

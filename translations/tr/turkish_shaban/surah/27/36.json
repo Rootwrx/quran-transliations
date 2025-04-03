@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3195",
-    "sura": "27",
-    "aya": "36",
-    "arabic_text": "فَلَمَّا جَآءَ سُلَيۡمَٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٖ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيۡرٞ مِّمَّآ ءَاتَىٰكُمۚ بَلۡ أَنتُم بِهَدِيَّتِكُمۡ تَفۡرَحُونَ",
-    "translation": "Elçi Süleyman’a geldiği zaman, Süleyman ona dedi ki: Siz bana mal ile yardım da mı bulunacaksınız? Allah’ın bana verdikleri, size verdiklerinden daha hayırlıdır. Hayır, (ben değil), siz hediyenizle sevinirsiniz dedi.",
-    "footnotes": null
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 380,
+  "verse_key": "27:36",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا جَآءَ سُلَيۡمَٰنَ قَالَ أَتُمِدُّونَنِ بِمَالٖ فَمَآ ءَاتَىٰنِۦَ ٱللَّهُ خَيۡرٞ مِّمَّآ ءَاتَىٰكُمۚ بَلۡ أَنتُم بِهَدِيَّتِكُمۡ تَفۡرَحُونَ",
+  "translation": "Elçi Süleyman’a geldiği zaman, Süleyman ona dedi ki: Siz bana mal ile yardım da mı bulunacaksınız? Allah’ın bana verdikleri, size verdiklerinden daha hayırlıdır. Hayır, (ben değil), siz hediyenizle sevinirsiniz dedi.",
+  "footnotes": null
 }

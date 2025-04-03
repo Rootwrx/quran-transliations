@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "902",
-    "sura": "6",
-    "aya": "113",
-    "arabic_text": "وَلِتَصۡغَىٰٓ إِلَيۡهِ أَفۡـِٔدَةُ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ وَلِيَرۡضَوۡهُ وَلِيَقۡتَرِفُواْ مَا هُم مُّقۡتَرِفُونَ",
-    "translation": "Kugira bumvirizwe banakurikirwe n’abafise imishaha itemera ko hari ubuzima bw’inyuma yo gupfa ngo babwitegurire, baheze bakunde banahitemwo nya rementanya, maze barendegere mu gukora ivyo bakora mu vyaha.",
-    "footnotes": ""
-  }
+  "id": 113,
+  "verse_number": 113,
+  "page_number": 142,
+  "verse_key": "6:113",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِتَصۡغَىٰٓ إِلَيۡهِ أَفۡـِٔدَةُ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ وَلِيَرۡضَوۡهُ وَلِيَقۡتَرِفُواْ مَا هُم مُّقۡتَرِفُونَ",
+  "translation": "Kugira bumvirizwe banakurikirwe n’abafise imishaha itemera ko hari ubuzima bw’inyuma yo gupfa ngo babwitegurire, baheze bakunde banahitemwo nya rementanya, maze barendegere mu gukora ivyo bakora mu vyaha.",
+  "footnotes": ""
 }

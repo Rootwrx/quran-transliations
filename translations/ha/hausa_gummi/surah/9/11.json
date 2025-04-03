@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1246",
-    "sura": "9",
-    "aya": "11",
-    "arabic_text": "فَإِن تَابُواْ وَأَقَامُواْ ٱلصَّلَوٰةَ وَءَاتَوُاْ ٱلزَّكَوٰةَ فَإِخۡوَٰنُكُمۡ فِي ٱلدِّينِۗ وَنُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ",
-    "translation": "Sa'an nan idan sun tũba* kuma suka tsayar da salla, kuma suka bãyar da zakka, to, 'yan'uwanku ne a cikin addini, kuma Munã rarrabe ãyõyi daki-daki, ga mutãne waɗanda suke sani.",
-    "footnotes": "* Rukunõnin Musulunci biyar ne: Kalmar shahãda da salla da azumi da zakka da hajji ga Ɗãkin Allah. Ana yãƙar mutum sabõda barin uku daga cikinsu, watau kalmar shahãda da salla da zakka kawai. Kuma uku sunã lazimtar mawãdaci da matalauci. Su ne kalmar shahãda da salla da azumi kawai. Amma zakka da hajji sai ga mai hãlin yi da wadãta."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 188,
+  "verse_key": "9:11",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن تَابُواْ وَأَقَامُواْ ٱلصَّلَوٰةَ وَءَاتَوُاْ ٱلزَّكَوٰةَ فَإِخۡوَٰنُكُمۡ فِي ٱلدِّينِۗ وَنُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ",
+  "translation": "Sa'an nan idan sun tũba* kuma suka tsayar da salla, kuma suka bãyar da zakka, to, 'yan'uwanku ne a cikin addini, kuma Munã rarrabe ãyõyi daki-daki, ga mutãne waɗanda suke sani.",
+  "footnotes": "* Rukunõnin Musulunci biyar ne: Kalmar shahãda da salla da azumi da zakka da hajji ga Ɗãkin Allah. Ana yãƙar mutum sabõda barin uku daga cikinsu, watau kalmar shahãda da salla da zakka kawai. Kuma uku sunã lazimtar mawãdaci da matalauci. Su ne kalmar shahãda da salla da azumi kawai. Amma zakka da hajji sai ga mai hãlin yi da wadãta."
 }

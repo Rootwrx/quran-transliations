@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "320",
-    "sura": "3",
-    "aya": "27",
-    "arabic_text": "تُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِۖ وَتُخۡرِجُ ٱلۡحَيَّ مِنَ ٱلۡمَيِّتِ وَتُخۡرِجُ ٱلۡمَيِّتَ مِنَ ٱلۡحَيِّۖ وَتَرۡزُقُ مَن تَشَآءُ بِغَيۡرِ حِسَابٖ",
-    "translation": "Wona Wode adesaeε wura adekyeε mu, εna wode adekyeε wura adesaeε mu; εna Woyi ͻteasefoͻ firi awufoͻ mu, εna Woyi awufoͻ firi ateasefoͻ mu, Wona Wokyε obia Wopε adeε a enni ano, (anaasε akontabuo biara nni ho).",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 53,
+  "verse_key": "3:27",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تُولِجُ ٱلَّيۡلَ فِي ٱلنَّهَارِ وَتُولِجُ ٱلنَّهَارَ فِي ٱلَّيۡلِۖ وَتُخۡرِجُ ٱلۡحَيَّ مِنَ ٱلۡمَيِّتِ وَتُخۡرِجُ ٱلۡمَيِّتَ مِنَ ٱلۡحَيِّۖ وَتَرۡزُقُ مَن تَشَآءُ بِغَيۡرِ حِسَابٖ",
+  "translation": "Wona Wode adesaeε wura adekyeε mu, εna wode adekyeε wura adesaeε mu; εna Woyi ͻteasefoͻ firi awufoͻ mu, εna Woyi awufoͻ firi ateasefoͻ mu, Wona Wokyε obia Wopε adeε a enni ano, (anaasε akontabuo biara nni ho).",
+  "footnotes": ""
 }

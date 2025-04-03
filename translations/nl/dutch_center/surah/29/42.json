@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3382",
-    "sura": "29",
-    "aya": "42",
-    "arabic_text": "إِنَّ ٱللَّهَ يَعۡلَمُ مَا يَدۡعُونَ مِن دُونِهِۦ مِن شَيۡءٖۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "42. Waarlijk, Allah weet wat voor zaken zij aanroepen in plaats van Hem. Hij is de Almachtige, de Alwijze.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 401,
+  "verse_key": "29:42",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ يَعۡلَمُ مَا يَدۡعُونَ مِن دُونِهِۦ مِن شَيۡءٖۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "42. Waarlijk, Allah weet wat voor zaken zij aanroepen in plaats van Hem. Hij is de Almachtige, de Alwijze.",
+  "footnotes": ""
 }

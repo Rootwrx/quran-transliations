@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4523",
-    "sura": "46",
-    "aya": "13",
-    "arabic_text": "إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ ٱسۡتَقَٰمُواْ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "Isaan “Gooftaan keenya Allaahdha” jedhanii ergasii (sana irratti) gadi dhaabbatan, sodaan isaan irra hin jiru; isaan hin gaddanis.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 503,
+  "verse_key": "46:13",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ قَالُواْ رَبُّنَا ٱللَّهُ ثُمَّ ٱسۡتَقَٰمُواْ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "Isaan “Gooftaan keenya Allaahdha” jedhanii ergasii (sana irratti) gadi dhaabbatan, sodaan isaan irra hin jiru; isaan hin gaddanis.",
+  "footnotes": ""
 }

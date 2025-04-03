@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2841",
-    "sura": "24",
-    "aya": "50",
-    "arabic_text": "أَفِي قُلُوبِهِم مَّرَضٌ أَمِ ٱرۡتَابُوٓاْ أَمۡ يَخَافُونَ أَن يَحِيفَ ٱللَّهُ عَلَيۡهِمۡ وَرَسُولُهُۥۚ بَلۡ أُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
-    "translation": "Je! Wana maradhi katika nyoyo zao, au wanaona shaka, au wanaogopa ya kuwa Mwenyezi Mungu na Mtume wake watawadhulumu? Bali hao ndio madhaalimu.",
-    "footnotes": "Na kwa nini wanasimama msimamo huu katika kushitakiana mbele ya Mtume? Ni kwa sababu nafsi zao zimesibiwa na maradhi ya upofu, na kwa hivyo haziridhiki na hukumu yako ya haki? Au ni kwa kuwa wao wanatilia shaka uadilifu wa Muhammad s.a.w. katika kuhukumu? Si lolote katika hayo kabisa. Lakini hao ni madhaalimu walio dhulumu nafsi zao na wengineo kwa sababu ya ukafiri wao na unaafiki wao na kuiacha kwao haki."
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 356,
+  "verse_key": "24:50",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 142,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفِي قُلُوبِهِم مَّرَضٌ أَمِ ٱرۡتَابُوٓاْ أَمۡ يَخَافُونَ أَن يَحِيفَ ٱللَّهُ عَلَيۡهِمۡ وَرَسُولُهُۥۚ بَلۡ أُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+  "translation": "Je! Wana maradhi katika nyoyo zao, au wanaona shaka, au wanaogopa ya kuwa Mwenyezi Mungu na Mtume wake watawadhulumu? Bali hao ndio madhaalimu.",
+  "footnotes": "Na kwa nini wanasimama msimamo huu katika kushitakiana mbele ya Mtume? Ni kwa sababu nafsi zao zimesibiwa na maradhi ya upofu, na kwa hivyo haziridhiki na hukumu yako ya haki? Au ni kwa kuwa wao wanatilia shaka uadilifu wa Muhammad s.a.w. katika kuhukumu? Si lolote katika hayo kabisa. Lakini hao ni madhaalimu walio dhulumu nafsi zao na wengineo kwa sababu ya ukafiri wao na unaafiki wao na kuiacha kwao haki."
 }

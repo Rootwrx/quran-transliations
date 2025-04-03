@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "112",
-    "sura": "2",
-    "aya": "105",
-    "arabic_text": "مَّا يَوَدُّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَلَا ٱلۡمُشۡرِكِينَ أَن يُنَزَّلَ عَلَيۡكُم مِّنۡ خَيۡرٖ مِّن رَّبِّكُمۡۚ وَٱللَّهُ يَخۡتَصُّ بِرَحۡمَتِهِۦ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
-    "translation": "Wͻn a wͻ’po (nokorε) no a wͻn wͻ wͻn a yama wͻn Nyamesom ho Nwoma no mu, ne abosomsomfoͻ no mpε sε anka adepa biara besiane afiri mo Wura Nyankopͻn hͻ aba mo hͻ. Onyankopͻn deε Oyi N’adom no dema N’akoa mu nea Ɔpε. Nyankopͻn na adom kεseε no yε Nedea.",
-    "footnotes": ""
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 16,
+  "verse_key": "2:105",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا يَوَدُّ ٱلَّذِينَ كَفَرُواْ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ وَلَا ٱلۡمُشۡرِكِينَ أَن يُنَزَّلَ عَلَيۡكُم مِّنۡ خَيۡرٖ مِّن رَّبِّكُمۡۚ وَٱللَّهُ يَخۡتَصُّ بِرَحۡمَتِهِۦ مَن يَشَآءُۚ وَٱللَّهُ ذُو ٱلۡفَضۡلِ ٱلۡعَظِيمِ",
+  "translation": "Wͻn a wͻ’po (nokorε) no a wͻn wͻ wͻn a yama wͻn Nyamesom ho Nwoma no mu, ne abosomsomfoͻ no mpε sε anka adepa biara besiane afiri mo Wura Nyankopͻn hͻ aba mo hͻ. Onyankopͻn deε Oyi N’adom no dema N’akoa mu nea Ɔpε. Nyankopͻn na adom kεseε no yε Nedea.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "719",
-    "sura": "5",
-    "aya": "50",
-    "arabic_text": "أَفَحُكۡمَ ٱلۡجَٰهِلِيَّةِ يَبۡغُونَۚ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ حُكۡمٗا لِّقَوۡمٖ يُوقِنُونَ",
-    "translation": "Shin, hukuncin Jãhiliyya* suke nema? Kuma wane ne mafi kyau ga hukunci daga Allah sabõda mutãne waɗanda suke yin yaƙĩni (tabbataccen ĩmãni)?",
-    "footnotes": "* Hukuncin Jahiliyya shi ne wanda ake ginawa a kan son rai da al'ãda da kuma ra'ayin azzalumai, ba ya da wani asali daga wani littafi na Allah."
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 116,
+  "verse_key": "5:50",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 46,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَحُكۡمَ ٱلۡجَٰهِلِيَّةِ يَبۡغُونَۚ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ حُكۡمٗا لِّقَوۡمٖ يُوقِنُونَ",
+  "translation": "Shin, hukuncin Jãhiliyya* suke nema? Kuma wane ne mafi kyau ga hukunci daga Allah sabõda mutãne waɗanda suke yin yaƙĩni (tabbataccen ĩmãni)?",
+  "footnotes": "* Hukuncin Jahiliyya shi ne wanda ake ginawa a kan son rai da al'ãda da kuma ra'ayin azzalumai, ba ya da wani asali daga wani littafi na Allah."
 }

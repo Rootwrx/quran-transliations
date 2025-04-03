@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1482",
-    "sura": "11",
-    "aya": "9",
-    "arabic_text": "وَلَئِنۡ أَذَقۡنَا ٱلۡإِنسَٰنَ مِنَّا رَحۡمَةٗ ثُمَّ نَزَعۡنَٰهَا مِنۡهُ إِنَّهُۥ لَيَـُٔوسٞ كَفُورٞ",
-    "translation": "La tɩ Tõnd sã n leems ninsaal Tõnd yolsgã rẽ poorẽ tɩ d lebg n deeg-a, la a sẽn wãagd a tẽeb n lebgd sõm-zɩta.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 222,
+  "verse_key": "11:9",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِنۡ أَذَقۡنَا ٱلۡإِنسَٰنَ مِنَّا رَحۡمَةٗ ثُمَّ نَزَعۡنَٰهَا مِنۡهُ إِنَّهُۥ لَيَـُٔوسٞ كَفُورٞ",
+  "translation": "La tɩ Tõnd sã n leems ninsaal Tõnd yolsgã rẽ poorẽ tɩ d lebg n deeg-a, la a sẽn wãagd a tẽeb n lebgd sõm-zɩta.",
+  "footnotes": ""
 }

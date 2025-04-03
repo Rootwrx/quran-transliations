@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4160",
-    "sura": "40",
-    "aya": "27",
-    "arabic_text": "وَقَالَ مُوسَىٰٓ إِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٖ لَّا يُؤۡمِنُ بِيَوۡمِ ٱلۡحِسَابِ",
-    "translation": "Musa yabwiye Firawuni n’abunganizi biwe ati: “Jewe mu vy’ukuri, nikinze ku Mana yanje Ikaba ari na Yo Mana yanyu Rurema Allah, ndayisaba ko Inkingira igeramirwa ry’uwo wese agira amanyama mu kutemera Imana Imwe Rudende Allah, atanemera n’umusi w’iharurirwa ry’ibiremwa”.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 470,
+  "verse_key": "40:27",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ مُوسَىٰٓ إِنِّي عُذۡتُ بِرَبِّي وَرَبِّكُم مِّن كُلِّ مُتَكَبِّرٖ لَّا يُؤۡمِنُ بِيَوۡمِ ٱلۡحِسَابِ",
+  "translation": "Musa yabwiye Firawuni n’abunganizi biwe ati: “Jewe mu vy’ukuri, nikinze ku Mana yanje Ikaba ari na Yo Mana yanyu Rurema Allah, ndayisaba ko Inkingira igeramirwa ry’uwo wese agira amanyama mu kutemera Imana Imwe Rudende Allah, atanemera n’umusi w’iharurirwa ry’ibiremwa”.",
+  "footnotes": ""
 }

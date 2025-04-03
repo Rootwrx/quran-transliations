@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1453",
-    "sura": "10",
-    "aya": "89",
-    "arabic_text": "قَالَ قَدۡ أُجِيبَت دَّعۡوَتُكُمَا فَٱسۡتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعۡلَمُونَ",
-    "translation": "(Allah) phán: “Lời cầu xin của hai anh em ngươi được TA chấp nhận. Vì vậy, hai ngươi hãy đi thẳng (trên chân lý) và chớ đừng chạy theo con đường của những kẻ không biết.”",
-    "footnotes": ""
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 219,
+  "verse_key": "10:89",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ قَدۡ أُجِيبَت دَّعۡوَتُكُمَا فَٱسۡتَقِيمَا وَلَا تَتَّبِعَآنِّ سَبِيلَ ٱلَّذِينَ لَا يَعۡلَمُونَ",
+  "translation": "(Allah) phán: “Lời cầu xin của hai anh em ngươi được TA chấp nhận. Vì vậy, hai ngươi hãy đi thẳng (trên chân lý) và chớ đừng chạy theo con đường của những kẻ không biết.”",
+  "footnotes": ""
 }

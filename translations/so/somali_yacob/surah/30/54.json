@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3463",
-    "sura": "30",
-    "aya": "54",
-    "arabic_text": "۞ ٱللَّهُ ٱلَّذِي خَلَقَكُم مِّن ضَعۡفٖ ثُمَّ جَعَلَ مِنۢ بَعۡدِ ضَعۡفٖ قُوَّةٗ ثُمَّ جَعَلَ مِنۢ بَعۡدِ قُوَّةٖ ضَعۡفٗا وَشَيۡبَةٗۚ يَخۡلُقُ مَا يَشَآءُۚ وَهُوَ ٱلۡعَلِيمُ ٱلۡقَدِيرُ",
-    "translation": "54. Alle waa Kan idinka abuuray (xaalad) tabar yari, haddana baxshay xoog tabar yari kaddib, haddana qaddaray tabar yari iyo cirro xoog kaddib, Wuxuu abuuraa wuxuu doono. Waana Isaga wax kasta Ogsoonaha, wax walba Kara.",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 410,
+  "verse_key": "30:54",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ ٱللَّهُ ٱلَّذِي خَلَقَكُم مِّن ضَعۡفٖ ثُمَّ جَعَلَ مِنۢ بَعۡدِ ضَعۡفٖ قُوَّةٗ ثُمَّ جَعَلَ مِنۢ بَعۡدِ قُوَّةٖ ضَعۡفٗا وَشَيۡبَةٗۚ يَخۡلُقُ مَا يَشَآءُۚ وَهُوَ ٱلۡعَلِيمُ ٱلۡقَدِيرُ",
+  "translation": "54. Alle waa Kan idinka abuuray (xaalad) tabar yari, haddana baxshay xoog tabar yari kaddib, haddana qaddaray tabar yari iyo cirro xoog kaddib, Wuxuu abuuraa wuxuu doono. Waana Isaga wax kasta Ogsoonaha, wax walba Kara.",
+  "footnotes": ""
 }

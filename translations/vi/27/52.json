@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3211",
-    "sura": "27",
-    "aya": "52",
-    "arabic_text": "فَتِلۡكَ بُيُوتُهُمۡ خَاوِيَةَۢ بِمَا ظَلَمُوٓاْۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَعۡلَمُونَ",
-    "translation": "Đó, nhà cửa của chúng đã trở nên hoang tàn vì những điều sai trái mà chúng đã làm. Quả thật trong sự việc đó là một bài học cho đám người hiểu biết.",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 381,
+  "verse_key": "27:52",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتِلۡكَ بُيُوتُهُمۡ خَاوِيَةَۢ بِمَا ظَلَمُوٓاْۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَعۡلَمُونَ",
+  "translation": "Đó, nhà cửa của chúng đã trở nên hoang tàn vì những điều sai trái mà chúng đã làm. Quả thật trong sự việc đó là một bài học cho đám người hiểu biết.",
+  "footnotes": ""
 }

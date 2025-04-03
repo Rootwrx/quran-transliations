@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4582",
-    "sura": "47",
-    "aya": "37",
-    "arabic_text": "إِن يَسۡـَٔلۡكُمُوهَا فَيُحۡفِكُمۡ تَبۡخَلُواْ وَيُخۡرِجۡ أَضۡغَٰنَكُمۡ",
-    "translation": "እርሷን ቢጠይቃችሁና ችክ ቢልባችሁ ትሰስታላችሁ፡፡ ቂሞቻችሁንም ያወጣል፡፡",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 510,
+  "verse_key": "47:37",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن يَسۡـَٔلۡكُمُوهَا فَيُحۡفِكُمۡ تَبۡخَلُواْ وَيُخۡرِجۡ أَضۡغَٰنَكُمۡ",
+  "translation": "እርሷን ቢጠይቃችሁና ችክ ቢልባችሁ ትሰስታላችሁ፡፡ ቂሞቻችሁንም ያወጣል፡፡",
+  "footnotes": ""
 }

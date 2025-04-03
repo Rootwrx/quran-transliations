@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1871",
-    "sura": "15",
-    "aya": "69",
-    "arabic_text": "وَٱتَّقُواْ ٱللَّهَ وَلَا تُخۡزُونِ",
-    "translation": "69. и плашете се од Аллах, и не понижувајте ме!“",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 265,
+  "verse_key": "15:69",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّقُواْ ٱللَّهَ وَلَا تُخۡزُونِ",
+  "translation": "69. и плашете се од Аллах, и не понижувајте ме!“",
+  "footnotes": ""
 }

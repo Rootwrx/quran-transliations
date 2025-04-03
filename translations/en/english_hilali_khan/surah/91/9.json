@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6052",
-    "sura": "91",
-    "aya": "9",
-    "arabic_text": "قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا",
-    "translation": " 9. Indeed he succeeds who purifies his ownself (i.e. obeys and performs all that Allâh ordered, by following the true Faith of Islâmic Monotheism and by doing righteous good deeds).",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 595,
+  "verse_key": "91:9",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ أَفۡلَحَ مَن زَكَّىٰهَا",
+  "translation": " 9. Indeed he succeeds who purifies his ownself (i.e. obeys and performs all that Allâh ordered, by following the true Faith of Islâmic Monotheism and by doing righteous good deeds).",
+  "footnotes": ""
 }

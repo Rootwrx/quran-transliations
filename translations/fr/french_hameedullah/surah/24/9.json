@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2800",
-    "sura": "24",
-    "aya": "9",
-    "arabic_text": "وَٱلۡخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيۡهَآ إِن كَانَ مِنَ ٱلصَّٰدِقِينَ",
-    "translation": "et la cinquième [attestation] est que la colère d’Allah soit sur elle, s’il était du nombre des véridiques .",
-    "footnotes": "[641] En cas d’affirmations contradictoires de l’époux et de l’épouse, la séparation judiciaire est prononcée; celle-ci a pour effet d’interdire toute éventuelle union dans l’avenir."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 350,
+  "verse_key": "24:9",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 140,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيۡهَآ إِن كَانَ مِنَ ٱلصَّٰدِقِينَ",
+  "translation": "et la cinquième [attestation] est que la colère d’Allah soit sur elle, s’il était du nombre des véridiques .",
+  "footnotes": "[641] En cas d’affirmations contradictoires de l’époux et de l’épouse, la séparation judiciaire est prononcée; celle-ci a pour effet d’interdire toute éventuelle union dans l’avenir."
 }

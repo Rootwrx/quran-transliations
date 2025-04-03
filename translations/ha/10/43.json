@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1407",
-    "sura": "10",
-    "aya": "43",
-    "arabic_text": "وَمِنۡهُم مَّن يَنظُرُ إِلَيۡكَۚ أَفَأَنتَ تَهۡدِي ٱلۡعُمۡيَ وَلَوۡ كَانُواْ لَا يُبۡصِرُونَ",
-    "translation": "Kuma daga cikinsu akwai wanda yake tsõkaci zuwa gare ka. Shin fa, kai kana shiryar da makãfi, kuma kõ dã sun kasance bã su gani?",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 214,
+  "verse_key": "10:43",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡهُم مَّن يَنظُرُ إِلَيۡكَۚ أَفَأَنتَ تَهۡدِي ٱلۡعُمۡيَ وَلَوۡ كَانُواْ لَا يُبۡصِرُونَ",
+  "translation": "Kuma daga cikinsu akwai wanda yake tsõkaci zuwa gare ka. Shin fa, kai kana shiryar da makãfi, kuma kõ dã sun kasance bã su gani?",
+  "footnotes": ""
 }

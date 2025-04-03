@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "925",
-    "sura": "6",
-    "aya": "136",
-    "arabic_text": "وَجَعَلُواْ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلۡحَرۡثِ وَٱلۡأَنۡعَٰمِ نَصِيبٗا فَقَالُواْ هَٰذَا لِلَّهِ بِزَعۡمِهِمۡ وَهَٰذَا لِشُرَكَآئِنَاۖ فَمَا كَانَ لِشُرَكَآئِهِمۡ فَلَا يَصِلُ إِلَى ٱللَّهِۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمۡۗ سَآءَ مَا يَحۡكُمُونَ",
-    "translation": "136. Waxay qayb u yeelaan Alle8, ka mid ah waxa uu abuuray ee beero iyo xoolo ah, oo yidhaahdaan: Kan waxaa iska leh Alle - sidaas bay ku andacoodaan, kanna waxaa iska leh sanamyadayada la wadaaga cibaadada. Marka waxay leeyihiin sanamayadooda ma gaaraan Alle, waxase (qayb ahaan loo yeelay) Alle wuxuu gaaraa sanamyadooda! Xumaa waxay xukumaan.",
-    "footnotes": "8. Qaybta uu Alle leeyahay waxay siinayeen fuqurada iyo masaakiinta oo ku bixinayeen howlaha sama falka, waxayse ay ugu talo galeen sanammada waxay siinayeen kuwa ilaaliya sanammada, oo ma siineyn fuqurada iyo masaakiinta. Caadadan wuu nacladay Alle."
-  }
+  "id": 136,
+  "verse_number": 136,
+  "page_number": 145,
+  "verse_key": "6:136",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلُواْ لِلَّهِ مِمَّا ذَرَأَ مِنَ ٱلۡحَرۡثِ وَٱلۡأَنۡعَٰمِ نَصِيبٗا فَقَالُواْ هَٰذَا لِلَّهِ بِزَعۡمِهِمۡ وَهَٰذَا لِشُرَكَآئِنَاۖ فَمَا كَانَ لِشُرَكَآئِهِمۡ فَلَا يَصِلُ إِلَى ٱللَّهِۖ وَمَا كَانَ لِلَّهِ فَهُوَ يَصِلُ إِلَىٰ شُرَكَآئِهِمۡۗ سَآءَ مَا يَحۡكُمُونَ",
+  "translation": "136. Waxay qayb u yeelaan Alle8, ka mid ah waxa uu abuuray ee beero iyo xoolo ah, oo yidhaahdaan: Kan waxaa iska leh Alle - sidaas bay ku andacoodaan, kanna waxaa iska leh sanamyadayada la wadaaga cibaadada. Marka waxay leeyihiin sanamayadooda ma gaaraan Alle, waxase (qayb ahaan loo yeelay) Alle wuxuu gaaraa sanamyadooda! Xumaa waxay xukumaan.",
+  "footnotes": "8. Qaybta uu Alle leeyahay waxay siinayeen fuqurada iyo masaakiinta oo ku bixinayeen howlaha sama falka, waxayse ay ugu talo galeen sanammada waxay siinayeen kuwa ilaaliya sanammada, oo ma siineyn fuqurada iyo masaakiinta. Caadadan wuu nacladay Alle."
 }

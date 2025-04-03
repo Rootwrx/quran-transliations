@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3966",
-    "sura": "37",
-    "aya": "178",
-    "arabic_text": "وَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِينٖ",
-    "translation": "Dan berpalinglah engkau dari mereka sampai waktu tertentu.",
-    "footnotes": ""
-  }
+  "id": 178,
+  "verse_number": 178,
+  "page_number": 452,
+  "verse_key": "37:178",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِينٖ",
+  "translation": "Dan berpalinglah engkau dari mereka sampai waktu tertentu.",
+  "footnotes": ""
 }

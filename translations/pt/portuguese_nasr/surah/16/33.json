@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1934",
-    "sura": "16",
-    "aya": "33",
-    "arabic_text": "هَلۡ يَنظُرُونَ إِلَّآ أَن تَأۡتِيَهُمُ ٱلۡمَلَٰٓئِكَةُ أَوۡ يَأۡتِيَ أَمۡرُ رَبِّكَۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
-    "translation": "Não esperam eles senão que os anjos lhes cheguem, ou que chegue a ordem de teu Senhor? Assim, agiram os que foram antes deles. E não foi Allah injusto com eles, mas eles foram injustos com si mesmos.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 270,
+  "verse_key": "16:33",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَلۡ يَنظُرُونَ إِلَّآ أَن تَأۡتِيَهُمُ ٱلۡمَلَٰٓئِكَةُ أَوۡ يَأۡتِيَ أَمۡرُ رَبِّكَۚ كَذَٰلِكَ فَعَلَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ وَمَا ظَلَمَهُمُ ٱللَّهُ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+  "translation": "Não esperam eles senão que os anjos lhes cheguem, ou que chegue a ordem de teu Senhor? Assim, agiram os que foram antes deles. E não foi Allah injusto com eles, mas eles foram injustos com si mesmos.",
+  "footnotes": ""
 }

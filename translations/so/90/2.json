@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6025",
-    "sura": "90",
-    "aya": "2",
-    "arabic_text": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
-    "translation": "2. Waa kuu xalaal (Nabiyow inaad saacad ku dagaallanto) magaaladan1 (aad horey u degganeyd).",
-    "footnotes": "1. Nabigu s.c w. Wuxuu yidhi: Aniga waxaa la I banneeyey inaan kula dagaalo (gaalada mushrikiinta ah) saacad keliya Makkah, haddana xurmadeedda waa sidii hore.\"\n Rasuulkii Alle s.c.w. wuxuu yidhi maalintii furashada Makkah: Beledkan Alle waa caagay, waa inaan la goyn qodaxdiisa, oo la didin ugaadhiisa, oo la qaadan wixii ku luma oo dad ka dhaca qof naadinaya oo carrifaya maahee."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 594,
+  "verse_key": "90:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنتَ حِلُّۢ بِهَٰذَا ٱلۡبَلَدِ",
+  "translation": "2. Waa kuu xalaal (Nabiyow inaad saacad ku dagaallanto) magaaladan1 (aad horey u degganeyd).",
+  "footnotes": "1. Nabigu s.c w. Wuxuu yidhi: Aniga waxaa la I banneeyey inaan kula dagaalo (gaalada mushrikiinta ah) saacad keliya Makkah, haddana xurmadeedda waa sidii hore.\"\n Rasuulkii Alle s.c.w. wuxuu yidhi maalintii furashada Makkah: Beledkan Alle waa caagay, waa inaan la goyn qodaxdiisa, oo la didin ugaadhiisa, oo la qaadan wixii ku luma oo dad ka dhaca qof naadinaya oo carrifaya maahee."
 }

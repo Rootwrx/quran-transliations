@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1756",
-    "sura": "14",
-    "aya": "6",
-    "arabic_text": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ أَنجَىٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ وَيُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ عَظِيمٞ",
-    "translation": "Kae εberε a Mose ka kyerεε nenkorͻfoͻ no sε: “Monkae Nyankopͻn adom a εwͻ mosoͻ, εberε a Ɔgyee mo frii Farao nkorͻfoͻ no a na wͻde asotwee bͻne retwe moaso, na wͻkunkum mo mma mmarima, ma mo mmaa no tena aseε no nsam. Nokorε sε na εyε nsͻhwε kεse a efri mo Wura Nyankopͻn hͻ”.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 256,
+  "verse_key": "14:6",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِ ٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ إِذۡ أَنجَىٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ وَيُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ عَظِيمٞ",
+  "translation": "Kae εberε a Mose ka kyerεε nenkorͻfoͻ no sε: “Monkae Nyankopͻn adom a εwͻ mosoͻ, εberε a Ɔgyee mo frii Farao nkorͻfoͻ no a na wͻde asotwee bͻne retwe moaso, na wͻkunkum mo mma mmarima, ma mo mmaa no tena aseε no nsam. Nokorε sε na εyε nsͻhwε kεse a efri mo Wura Nyankopͻn hͻ”.",
+  "footnotes": ""
 }

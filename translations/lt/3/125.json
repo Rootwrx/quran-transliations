@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "418",
-    "sura": "3",
-    "aya": "125",
-    "arabic_text": "بَلَىٰٓۚ إِن تَصۡبِرُواْ وَتَتَّقُواْ وَيَأۡتُوكُم مِّن فَوۡرِهِمۡ هَٰذَا يُمۡدِدۡكُمۡ رَبُّكُم بِخَمۡسَةِ ءَالَٰفٖ مِّنَ ٱلۡمَلَٰٓئِكَةِ مُسَوِّمِينَ",
-    "translation": "125. „Taip, jei jūs laikysitės kantrybės ir dievobaimingumo, ir priešas skubės pas jus, jūsų Viešpats pagelbės jums su penkiais tūkstančiais angelų, turinčių (skiriamuosius) ženklus.“",
-    "footnotes": ""
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 66,
+  "verse_key": "3:125",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلَىٰٓۚ إِن تَصۡبِرُواْ وَتَتَّقُواْ وَيَأۡتُوكُم مِّن فَوۡرِهِمۡ هَٰذَا يُمۡدِدۡكُمۡ رَبُّكُم بِخَمۡسَةِ ءَالَٰفٖ مِّنَ ٱلۡمَلَٰٓئِكَةِ مُسَوِّمِينَ",
+  "translation": "125. „Taip, jei jūs laikysitės kantrybės ir dievobaimingumo, ir priešas skubės pas jus, jūsų Viešpats pagelbės jums su penkiais tūkstančiais angelų, turinčių (skiriamuosius) ženklus.“",
+  "footnotes": ""
 }

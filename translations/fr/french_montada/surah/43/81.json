@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4406",
-    "sura": "43",
-    "aya": "81",
-    "arabic_text": "قُلۡ إِن كَانَ لِلرَّحۡمَٰنِ وَلَدٞ فَأَنَا۠ أَوَّلُ ٱلۡعَٰبِدِينَ",
-    "translation": "81. Dis : « Si le Tout Clément avait un enfant, je serais alors le premier à l’adorer. »",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 495,
+  "verse_key": "43:81",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِن كَانَ لِلرَّحۡمَٰنِ وَلَدٞ فَأَنَا۠ أَوَّلُ ٱلۡعَٰبِدِينَ",
+  "translation": "81. Dis : « Si le Tout Clément avait un enfant, je serais alors le premier à l’adorer. »",
+  "footnotes": ""
 }

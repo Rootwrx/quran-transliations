@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3084",
-    "sura": "26",
-    "aya": "152",
-    "arabic_text": "ٱلَّذِينَ يُفۡسِدُونَ فِي ٱلۡأَرۡضِ وَلَا يُصۡلِحُونَ",
-    "translation": "152. kurie daro piktadarybes žemėje, ir nesitaiso.“",
-    "footnotes": ""
-  }
+  "id": 152,
+  "verse_number": 152,
+  "page_number": 373,
+  "verse_key": "26:152",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يُفۡسِدُونَ فِي ٱلۡأَرۡضِ وَلَا يُصۡلِحُونَ",
+  "translation": "152. kurie daro piktadarybes žemėje, ir nesitaiso.“",
+  "footnotes": ""
 }

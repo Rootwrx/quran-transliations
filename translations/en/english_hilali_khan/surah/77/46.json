@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5668",
-    "sura": "77",
-    "aya": "46",
-    "arabic_text": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ",
-    "translation": " 46. (O you disbelievers)! Eat and enjoy yourselves (in this worldly life) for a little while. Verily, you are the Mujrimûn (polytheists, disbelievers, sinners, criminals).",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 581,
+  "verse_key": "77:46",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُواْ وَتَمَتَّعُواْ قَلِيلًا إِنَّكُم مُّجۡرِمُونَ",
+  "translation": " 46. (O you disbelievers)! Eat and enjoy yourselves (in this worldly life) for a little while. Verily, you are the Mujrimûn (polytheists, disbelievers, sinners, criminals).",
+  "footnotes": ""
 }

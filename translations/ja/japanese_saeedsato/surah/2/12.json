@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "19",
-    "sura": "2",
-    "aya": "12",
-    "arabic_text": "أَلَآ إِنَّهُمۡ هُمُ ٱلۡمُفۡسِدُونَ وَلَٰكِن لَّا يَشۡعُرُونَ",
-    "translation": "本当に彼らこそは、腐敗を働く者たちではないか。しかし彼らは、気づいていないのだ。",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 3,
+  "verse_key": "2:12",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَآ إِنَّهُمۡ هُمُ ٱلۡمُفۡسِدُونَ وَلَٰكِن لَّا يَشۡعُرُونَ",
+  "translation": "本当に彼らこそは、腐敗を働く者たちではないか。しかし彼らは、気づいていないのだ。",
+  "footnotes": ""
 }

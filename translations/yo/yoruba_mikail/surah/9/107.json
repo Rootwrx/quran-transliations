@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1342",
-    "sura": "9",
-    "aya": "107",
-    "arabic_text": "وَٱلَّذِينَ ٱتَّخَذُواْ مَسۡجِدٗا ضِرَارٗا وَكُفۡرٗا وَتَفۡرِيقَۢا بَيۡنَ ٱلۡمُؤۡمِنِينَ وَإِرۡصَادٗا لِّمَنۡ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبۡلُۚ وَلَيَحۡلِفُنَّ إِنۡ أَرَدۡنَآ إِلَّا ٱلۡحُسۡنَىٰۖ وَٱللَّهُ يَشۡهَدُ إِنَّهُمۡ لَكَٰذِبُونَ",
-    "translation": "Àwọn tó kọ́ mọ́sálásí láti fi dá ìnira àti àìgbàgbọ́ sílẹ̀ àti láti fi ṣe òpínyà láààrin àwọn onígbàgbọ́ òdodo àti láti fi ṣe ibùlúgọ fún àwọn tó gbógun ti Allāhu àti Òjíṣẹ́ Rẹ̀ ní ìṣáájú - dájúdájú wọ́n ń búra pé “A ò gbèrò kiní kan bí kò ṣe ohun rere.” - Allāhu sì ń jẹ́rìí pé dájúdájú òpùrọ́ ni wọ́n.",
-    "footnotes": ""
-  }
+  "id": 107,
+  "verse_number": 107,
+  "page_number": 204,
+  "verse_key": "9:107",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 81,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ ٱتَّخَذُواْ مَسۡجِدٗا ضِرَارٗا وَكُفۡرٗا وَتَفۡرِيقَۢا بَيۡنَ ٱلۡمُؤۡمِنِينَ وَإِرۡصَادٗا لِّمَنۡ حَارَبَ ٱللَّهَ وَرَسُولَهُۥ مِن قَبۡلُۚ وَلَيَحۡلِفُنَّ إِنۡ أَرَدۡنَآ إِلَّا ٱلۡحُسۡنَىٰۖ وَٱللَّهُ يَشۡهَدُ إِنَّهُمۡ لَكَٰذِبُونَ",
+  "translation": "Àwọn tó kọ́ mọ́sálásí láti fi dá ìnira àti àìgbàgbọ́ sílẹ̀ àti láti fi ṣe òpínyà láààrin àwọn onígbàgbọ́ òdodo àti láti fi ṣe ibùlúgọ fún àwọn tó gbógun ti Allāhu àti Òjíṣẹ́ Rẹ̀ ní ìṣáájú - dájúdájú wọ́n ń búra pé “A ò gbèrò kiní kan bí kò ṣe ohun rere.” - Allāhu sì ń jẹ́rìí pé dájúdájú òpùrọ́ ni wọ́n.",
+  "footnotes": ""
 }

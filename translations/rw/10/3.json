@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1367",
-    "sura": "10",
-    "aya": "3",
-    "arabic_text": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ فِي سِتَّةِ أَيَّامٖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ يُدَبِّرُ ٱلۡأَمۡرَۖ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعۡدِ إِذۡنِهِۦۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ فَٱعۡبُدُوهُۚ أَفَلَا تَذَكَّرُونَ",
-    "translation": "Mu by’ukuri Nyagasani wanyu ni Allah waremye ibirere n’isi mu minsi itandatu, hanyuma aganza hejuru ya Ar’shi.[1] Agenga gahunda z’ibintu byose. Nta muvugizi (abantu bazagira ku munsi w’imperuka) uretse nyuma y’uburenganzira bwe. Uwo ni Allah, Nyagasani wanyu; bityo nimumusenge (wenyine). Ese ntimwibuka (ngo munakure inyigisho muri ibyo bimenyetso)?",
-    "footnotes": "[1]  Reba ibisobanuro by’iri jambo muri Surat Al A’araf: 54."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 208,
+  "verse_key": "10:3",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ رَبَّكُمُ ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ فِي سِتَّةِ أَيَّامٖ ثُمَّ ٱسۡتَوَىٰ عَلَى ٱلۡعَرۡشِۖ يُدَبِّرُ ٱلۡأَمۡرَۖ مَا مِن شَفِيعٍ إِلَّا مِنۢ بَعۡدِ إِذۡنِهِۦۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ فَٱعۡبُدُوهُۚ أَفَلَا تَذَكَّرُونَ",
+  "translation": "Mu by’ukuri Nyagasani wanyu ni Allah waremye ibirere n’isi mu minsi itandatu, hanyuma aganza hejuru ya Ar’shi.[1] Agenga gahunda z’ibintu byose. Nta muvugizi (abantu bazagira ku munsi w’imperuka) uretse nyuma y’uburenganzira bwe. Uwo ni Allah, Nyagasani wanyu; bityo nimumusenge (wenyine). Ese ntimwibuka (ngo munakure inyigisho muri ibyo bimenyetso)?",
+  "footnotes": "[1]  Reba ibisobanuro by’iri jambo muri Surat Al A’araf: 54."
 }

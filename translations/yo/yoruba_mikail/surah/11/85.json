@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1558",
-    "sura": "11",
-    "aya": "85",
-    "arabic_text": "وَيَٰقَوۡمِ أَوۡفُواْ ٱلۡمِكۡيَالَ وَٱلۡمِيزَانَ بِٱلۡقِسۡطِۖ وَلَا تَبۡخَسُواْ ٱلنَّاسَ أَشۡيَآءَهُمۡ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
-    "translation": "Ẹ̀yin ìjọ mi, ẹ wọn kóńgò àti òṣùwọ̀n kún ní dọ́gban̄n̄dọ́gba. Ẹ má ṣe dín n̄ǹkan àwọn ènìyàn kù. Kí ẹ sì má ṣèbàjẹ́ sórí ilẹ̀.",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 231,
+  "verse_key": "11:85",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَٰقَوۡمِ أَوۡفُواْ ٱلۡمِكۡيَالَ وَٱلۡمِيزَانَ بِٱلۡقِسۡطِۖ وَلَا تَبۡخَسُواْ ٱلنَّاسَ أَشۡيَآءَهُمۡ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
+  "translation": "Ẹ̀yin ìjọ mi, ẹ wọn kóńgò àti òṣùwọ̀n kún ní dọ́gban̄n̄dọ́gba. Ẹ má ṣe dín n̄ǹkan àwọn ènìyàn kù. Kí ẹ sì má ṣèbàjẹ́ sórí ilẹ̀.",
+  "footnotes": ""
 }

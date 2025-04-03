@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3877",
-    "sura": "37",
-    "aya": "89",
-    "arabic_text": "فَقَالَ إِنِّي سَقِيمٞ",
-    "translation": "అప్పుడు అతను ఇలా అన్నాడు: \"నిశ్చయంగా, నా ఆరోగ్యం బాగులేదు.\"[1]",
-    "footnotes": "[1] చూడండి, 21:63."
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 449,
+  "verse_key": "37:89",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَالَ إِنِّي سَقِيمٞ",
+  "translation": "అప్పుడు అతను ఇలా అన్నాడు: \"నిశ్చయంగా, నా ఆరోగ్యం బాగులేదు.\"[1]",
+  "footnotes": "[1] చూడండి, 21:63."
 }

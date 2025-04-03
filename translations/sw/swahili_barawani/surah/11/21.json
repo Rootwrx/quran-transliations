@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1494",
-    "sura": "11",
-    "aya": "21",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
-    "translation": "Hao ndio walio zikhasiri nafsi zao, na yakawapotea waliyo kuwa wakiyazua.",
-    "footnotes": "Hao makafiri hawapati faida yoyote katika kumuabudu asiye kuwa Mwenyezi Mungu! Bali wamejikhasiri nafsi zao, na huko Akhera huo uwongo walio kuwa wakiuzua, na madai ya upotovu, na miungu ya uwongo waliyo kuwa wakiiunda, na wakadai kuwa hiyo ati ikiwafaa au itawaombea - yote hayo yatawapotea. Kwa sababu hakika Siku ya Kiyama ndiyo Siku ya hakika, ambayo haina udanganyifu wala uzushi."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 224,
+  "verse_key": "11:21",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
+  "translation": "Hao ndio walio zikhasiri nafsi zao, na yakawapotea waliyo kuwa wakiyazua.",
+  "footnotes": "Hao makafiri hawapati faida yoyote katika kumuabudu asiye kuwa Mwenyezi Mungu! Bali wamejikhasiri nafsi zao, na huko Akhera huo uwongo walio kuwa wakiuzua, na madai ya upotovu, na miungu ya uwongo waliyo kuwa wakiiunda, na wakadai kuwa hiyo ati ikiwafaa au itawaombea - yote hayo yatawapotea. Kwa sababu hakika Siku ya Kiyama ndiyo Siku ya hakika, ambayo haina udanganyifu wala uzushi."
 }

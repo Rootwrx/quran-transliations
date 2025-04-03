@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6222",
-    "sura": "112",
-    "aya": "1",
-    "arabic_text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
-    "translation": "1. Loba: Allah azali sé moko.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 604,
+  "verse_key": "112:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+  "translation": "1. Loba: Allah azali sé moko.",
+  "footnotes": ""
 }

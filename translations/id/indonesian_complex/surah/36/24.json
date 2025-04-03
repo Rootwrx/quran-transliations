@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3729",
-    "sura": "36",
-    "aya": "24",
-    "arabic_text": "إِنِّيٓ إِذٗا لَّفِي ضَلَٰلٖ مُّبِينٍ",
-    "translation": "Sesungguhnya, aku kalau begitu pasti berada dalam kesesatan yang nyata.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 441,
+  "verse_key": "36:24",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنِّيٓ إِذٗا لَّفِي ضَلَٰلٖ مُّبِينٍ",
+  "translation": "Sesungguhnya, aku kalau begitu pasti berada dalam kesesatan yang nyata.",
+  "footnotes": ""
 }

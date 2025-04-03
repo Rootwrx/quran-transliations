@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4038",
-    "sura": "38",
-    "aya": "68",
-    "arabic_text": "أَنتُمۡ عَنۡهُ مُعۡرِضُونَ",
-    "translation": "68 que vous accueillez pourtant avec indifférence.",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 457,
+  "verse_key": "38:68",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَنتُمۡ عَنۡهُ مُعۡرِضُونَ",
+  "translation": "68 que vous accueillez pourtant avec indifférence.",
+  "footnotes": ""
 }

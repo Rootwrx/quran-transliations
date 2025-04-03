@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5612",
-    "sura": "76",
-    "aya": "21",
-    "arabic_text": "عَٰلِيَهُمۡ ثِيَابُ سُندُسٍ خُضۡرٞ وَإِسۡتَبۡرَقٞۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةٖ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابٗا طَهُورًا",
-    "translation": "Juu yao zipo nguo za hariri laini za kijani kibichi, na hariri nzito ya at'ilasi. Na watavikwa vikuku vya fedha, na Mola wao Mlezi atawanywesha kinywaji safi kabisa.",
-    "footnotes": "Juu yao zipo nguo za hariri nyepesi za kijani, na nguo za hariri nzito. Na mapambo yao yaliomo mikononi mwao ni vikuku vya fedha. Na Mola wao Mlezi atawanywesha kinywaji kingine kilio safi, hakina uchafu wala najisi."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 579,
+  "verse_key": "76:21",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَٰلِيَهُمۡ ثِيَابُ سُندُسٍ خُضۡرٞ وَإِسۡتَبۡرَقٞۖ وَحُلُّوٓاْ أَسَاوِرَ مِن فِضَّةٖ وَسَقَىٰهُمۡ رَبُّهُمۡ شَرَابٗا طَهُورًا",
+  "translation": "Juu yao zipo nguo za hariri laini za kijani kibichi, na hariri nzito ya at'ilasi. Na watavikwa vikuku vya fedha, na Mola wao Mlezi atawanywesha kinywaji safi kabisa.",
+  "footnotes": "Juu yao zipo nguo za hariri nyepesi za kijani, na nguo za hariri nzito. Na mapambo yao yaliomo mikononi mwao ni vikuku vya fedha. Na Mola wao Mlezi atawanywesha kinywaji kingine kilio safi, hakina uchafu wala najisi."
 }

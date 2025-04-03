@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1499",
-    "sura": "11",
-    "aya": "26",
-    "arabic_text": "أَن لَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۖ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ أَلِيمٖ",
-    "translation": "agar kamu tidak menyembah selain Allah. Aku benar-benar khawatir kamu akan ditimpa azab (pada) hari yang sangat pedih.\"",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 224,
+  "verse_key": "11:26",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَن لَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۖ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ أَلِيمٖ",
+  "translation": "agar kamu tidak menyembah selain Allah. Aku benar-benar khawatir kamu akan ditimpa azab (pada) hari yang sangat pedih.\"",
+  "footnotes": ""
 }

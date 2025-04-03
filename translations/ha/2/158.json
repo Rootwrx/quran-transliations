@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "165",
-    "sura": "2",
-    "aya": "158",
-    "arabic_text": "۞ إِنَّ ٱلصَّفَا وَٱلۡمَرۡوَةَ مِن شَعَآئِرِ ٱللَّهِۖ فَمَنۡ حَجَّ ٱلۡبَيۡتَ أَوِ ٱعۡتَمَرَ فَلَا جُنَاحَ عَلَيۡهِ أَن يَطَّوَّفَ بِهِمَاۚ وَمَن تَطَوَّعَ خَيۡرٗا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ",
-    "translation": "Lalle ne Safã da Marwa* suna daga wurãren ibãdar Allah, to, wanda ya yi hajin ¦ãki kõ kuwa ya yi Umra, to, bãbu laifi a kansa ga ya yi ɗawãfi gare su, su biyu. Kuma wanda ya ƙãra yin wani aikin alhẽri to, lalle ne Allah Mai gõdiya ne, Masani.",
-    "footnotes": "* Al'umma bã ta haɗuwa sai an wanke ta daga al'adun Jãhiliyya, har dai waɗanda suka haɗu da ibãda, sabõda haka aka fãra da Safã da Marwa dõmin a ije cewa ɗawãfi a tsakãninsu aikin Jãhiliyya ne, sũ suna cikin ayyukan ibãda da Allah Ya shar'anta kuma ɗawãfin mutãne da sa'ayi a kansu da tsakãninsu duka daidai suke Baƙuraishe da Balãrabe da Ba'ajame duka daidai suke."
-  }
+  "id": 158,
+  "verse_number": 158,
+  "page_number": 24,
+  "verse_key": "2:158",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّ ٱلصَّفَا وَٱلۡمَرۡوَةَ مِن شَعَآئِرِ ٱللَّهِۖ فَمَنۡ حَجَّ ٱلۡبَيۡتَ أَوِ ٱعۡتَمَرَ فَلَا جُنَاحَ عَلَيۡهِ أَن يَطَّوَّفَ بِهِمَاۚ وَمَن تَطَوَّعَ خَيۡرٗا فَإِنَّ ٱللَّهَ شَاكِرٌ عَلِيمٌ",
+  "translation": "Lalle ne Safã da Marwa* suna daga wurãren ibãdar Allah, to, wanda ya yi hajin ¦ãki kõ kuwa ya yi Umra, to, bãbu laifi a kansa ga ya yi ɗawãfi gare su, su biyu. Kuma wanda ya ƙãra yin wani aikin alhẽri to, lalle ne Allah Mai gõdiya ne, Masani.",
+  "footnotes": "* Al'umma bã ta haɗuwa sai an wanke ta daga al'adun Jãhiliyya, har dai waɗanda suka haɗu da ibãda, sabõda haka aka fãra da Safã da Marwa dõmin a ije cewa ɗawãfi a tsakãninsu aikin Jãhiliyya ne, sũ suna cikin ayyukan ibãda da Allah Ya shar'anta kuma ɗawãfin mutãne da sa'ayi a kansu da tsakãninsu duka daidai suke Baƙuraishe da Balãrabe da Ba'ajame duka daidai suke."
 }

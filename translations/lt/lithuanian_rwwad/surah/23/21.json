@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2694",
-    "sura": "23",
-    "aya": "21",
-    "arabic_text": "وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهَا وَلَكُمۡ فِيهَا مَنَٰفِعُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ",
-    "translation": "21. Ir iš tiesų, galvijuose tikrai yra pamoka jums. Mes suteikiame jums gerti (pieną) iš to, kas yra jų pilvuose. Ir yra juose daugybė (kitos) naudos jums, ir iš jų jūs maitinatės.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 343,
+  "verse_key": "23:21",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهَا وَلَكُمۡ فِيهَا مَنَٰفِعُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ",
+  "translation": "21. Ir iš tiesų, galvijuose tikrai yra pamoka jums. Mes suteikiame jums gerti (pieną) iš to, kas yra jų pilvuose. Ir yra juose daugybė (kitos) naudos jums, ir iš jų jūs maitinatės.",
+  "footnotes": ""
 }

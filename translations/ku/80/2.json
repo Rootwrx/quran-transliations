@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5760",
-    "sura": "80",
-    "aya": "2",
-    "arabic_text": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
-    "translation": "کە کوێرێك (عەبدوڵڵای کوڕی ئوم مەکتوم) ھات بۆ لای\n",
-    "footnotes": null
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 585,
+  "verse_key": "80:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
+  "translation": "کە کوێرێك (عەبدوڵڵای کوڕی ئوم مەکتوم) ھات بۆ لای\n",
+  "footnotes": null
 }

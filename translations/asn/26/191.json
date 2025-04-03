@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3123",
-    "sura": "26",
-    "aya": "191",
-    "arabic_text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
-    "translation": "Wo Wura Nyankopͻn, Ɔne Otumfoͻ a Otumi ade nyinaa yε, Ɔne Mmͻborͻhunufoͻ Hene no.",
-    "footnotes": ""
-  }
+  "id": 191,
+  "verse_number": 191,
+  "page_number": 375,
+  "verse_key": "26:191",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+  "translation": "Wo Wura Nyankopͻn, Ɔne Otumfoͻ a Otumi ade nyinaa yε, Ɔne Mmͻborͻhunufoͻ Hene no.",
+  "footnotes": ""
 }

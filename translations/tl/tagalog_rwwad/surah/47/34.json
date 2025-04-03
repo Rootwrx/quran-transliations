@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4579",
-    "sura": "47",
-    "aya": "34",
-    "arabic_text": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُواْ وَهُمۡ كُفَّارٞ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡ",
-    "translation": "Tunay na ang mga tumangging sumampalataya at sumagabal sa landas ni Allāh – pagkatapos namatay sila habang sila ay mga tagatangging sumampalataya – ay hindi magpapatawad si Allāh sa kanila.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 510,
+  "verse_key": "47:34",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَصَدُّواْ عَن سَبِيلِ ٱللَّهِ ثُمَّ مَاتُواْ وَهُمۡ كُفَّارٞ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡ",
+  "translation": "Tunay na ang mga tumangging sumampalataya at sumagabal sa landas ni Allāh – pagkatapos namatay sila habang sila ay mga tagatangging sumampalataya – ay hindi magpapatawad si Allāh sa kanila.",
+  "footnotes": ""
 }

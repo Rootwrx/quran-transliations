@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5785",
-    "sura": "80",
-    "aya": "27",
-    "arabic_text": "فَأَنۢبَتۡنَا فِيهَا حَبّٗا",
-    "translation": "27਼ ਫੇਰ ਇਸ ਵਿੱਚੋਂ ਅਨਾਜ ਉਗਾਏ।",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 585,
+  "verse_key": "80:27",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَنۢبَتۡنَا فِيهَا حَبّٗا",
+  "translation": "27਼ ਫੇਰ ਇਸ ਵਿੱਚੋਂ ਅਨਾਜ ਉਗਾਏ।",
+  "footnotes": ""
 }

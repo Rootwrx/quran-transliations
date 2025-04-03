@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2509",
-    "sura": "21",
-    "aya": "26",
-    "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ",
-    "translation": "Na wanasema: Arrahman, Mwingi wa Rehema, ana mwana! Subhanahu, Ametakasika na hayo! Bali hao (wanao waita wana) ni watumwa walio tukuzwa.",
-    "footnotes": "Na baadhi ya makafiri wa Kiarabu walisema: Arrahman, Mwenyezi Mungu Mwingi wa Rehema, ana mwana, kwa yale madai yao kuwa Malaika ni binti za Mwenyezi Mungu. Ametakasika na kuwa na mwana! Kwani hao Malaika ni waja wake walio tukuzwa tu kwa kuwakaribisha, na kwa wanavyo muabudu Yeye."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 324,
+  "verse_key": "21:26",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ",
+  "translation": "Na wanasema: Arrahman, Mwingi wa Rehema, ana mwana! Subhanahu, Ametakasika na hayo! Bali hao (wanao waita wana) ni watumwa walio tukuzwa.",
+  "footnotes": "Na baadhi ya makafiri wa Kiarabu walisema: Arrahman, Mwenyezi Mungu Mwingi wa Rehema, ana mwana, kwa yale madai yao kuwa Malaika ni binti za Mwenyezi Mungu. Ametakasika na kuwa na mwana! Kwani hao Malaika ni waja wake walio tukuzwa tu kwa kuwakaribisha, na kwa wanavyo muabudu Yeye."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1490",
-    "sura": "11",
-    "aya": "17",
-    "arabic_text": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّهِۦ وَيَتۡلُوهُ شَاهِدٞ مِّنۡهُ وَمِن قَبۡلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامٗا وَرَحۡمَةًۚ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۚ وَمَن يَكۡفُرۡ بِهِۦ مِنَ ٱلۡأَحۡزَابِ فَٱلنَّارُ مَوۡعِدُهُۥۚ فَلَا تَكُ فِي مِرۡيَةٖ مِّنۡهُۚ إِنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ",
-    "translation": "17. ¿Acaso quien se basa en una prueba clara de su Señor (el Corán) que es recitada (y transmitida) por un testigo Suyo de Su veracidad (el ángel Gabriel) (puede compararse con quien no se basa en nada sólido y desea solo la vida terrenal)? Y antes de él (el Corán), estaba el Libro revelado a Moisés (la Torá), el cual era una guía y misericordia. Esos (que creen en la Torá con una fe sincera) creen en el (Corán), mas a quienes lo rechazan de entre los incrédulos les aguarda el fuego. No dudes[366], pues, sobre el Corán, ya que es la verdad procedente de tu Señor, aunque la mayoría de la gente no cree (en ella).",
-    "footnotes": "[366]  Ver la nota de la aleya 147 de la sura 2."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 223,
+  "verse_key": "11:17",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّهِۦ وَيَتۡلُوهُ شَاهِدٞ مِّنۡهُ وَمِن قَبۡلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامٗا وَرَحۡمَةًۚ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۚ وَمَن يَكۡفُرۡ بِهِۦ مِنَ ٱلۡأَحۡزَابِ فَٱلنَّارُ مَوۡعِدُهُۥۚ فَلَا تَكُ فِي مِرۡيَةٖ مِّنۡهُۚ إِنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ",
+  "translation": "17. ¿Acaso quien se basa en una prueba clara de su Señor (el Corán) que es recitada (y transmitida) por un testigo Suyo de Su veracidad (el ángel Gabriel) (puede compararse con quien no se basa en nada sólido y desea solo la vida terrenal)? Y antes de él (el Corán), estaba el Libro revelado a Moisés (la Torá), el cual era una guía y misericordia. Esos (que creen en la Torá con una fe sincera) creen en el (Corán), mas a quienes lo rechazan de entre los incrédulos les aguarda el fuego. No dudes[366], pues, sobre el Corán, ya que es la verdad procedente de tu Señor, aunque la mayoría de la gente no cree (en ella).",
+  "footnotes": "[366]  Ver la nota de la aleya 147 de la sura 2."
 }

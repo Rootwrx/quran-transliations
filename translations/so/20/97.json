@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2445",
-    "sura": "20",
-    "aya": "97",
-    "arabic_text": "قَالَ فَٱذۡهَبۡ فَإِنَّ لَكَ فِي ٱلۡحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَۖ وَإِنَّ لَكَ مَوۡعِدٗا لَّن تُخۡلَفَهُۥۖ وَٱنظُرۡ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِي ظَلۡتَ عَلَيۡهِ عَاكِفٗاۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِي ٱلۡيَمِّ نَسۡفًا",
-    "translation": "97. (Muuse) wuxuu yidhi: Tag oo naga fagow! Waxaa kuu sugnaaday noloshan inaad tidhaahdo: \"Taabasho ma jirto (waa lay gooyey si dhan)\"19, waxaa kaloo  leedahay ballan aad dib uga dhici doonin (oo ah cadaabka Aakhiro). Eegna ilaah ku sheeggaagii aad in door ah dul joogtay ee aad caabudaysay. Waanu gubi (oo aanu ka dhigi dambas) aanu badda ku firdhinno oo waxba aanu ka hari doonin.’",
-    "footnotes": "19. “ Ha i taabaannina” waa ciqaab ahaan adduunka, waayo waxaa la amray inay dadku u gooyaan si dhan oo waxba ku darsan. Aakhirona waxaa sugaya Naar olol badan."
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 318,
+  "verse_key": "20:97",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ فَٱذۡهَبۡ فَإِنَّ لَكَ فِي ٱلۡحَيَوٰةِ أَن تَقُولَ لَا مِسَاسَۖ وَإِنَّ لَكَ مَوۡعِدٗا لَّن تُخۡلَفَهُۥۖ وَٱنظُرۡ إِلَىٰٓ إِلَٰهِكَ ٱلَّذِي ظَلۡتَ عَلَيۡهِ عَاكِفٗاۖ لَّنُحَرِّقَنَّهُۥ ثُمَّ لَنَنسِفَنَّهُۥ فِي ٱلۡيَمِّ نَسۡفًا",
+  "translation": "97. (Muuse) wuxuu yidhi: Tag oo naga fagow! Waxaa kuu sugnaaday noloshan inaad tidhaahdo: \"Taabasho ma jirto (waa lay gooyey si dhan)\"19, waxaa kaloo  leedahay ballan aad dib uga dhici doonin (oo ah cadaabka Aakhiro). Eegna ilaah ku sheeggaagii aad in door ah dul joogtay ee aad caabudaysay. Waanu gubi (oo aanu ka dhigi dambas) aanu badda ku firdhinno oo waxba aanu ka hari doonin.’",
+  "footnotes": "19. “ Ha i taabaannina” waa ciqaab ahaan adduunka, waayo waxaa la amray inay dadku u gooyaan si dhan oo waxba ku darsan. Aakhirona waxaa sugaya Naar olol badan."
 }

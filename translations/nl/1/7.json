@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "7",
-    "sura": "1",
-    "aya": "7",
-    "arabic_text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
-    "translation": "7. Het pad van degenen die Uw gunsten hebben verworven [1] en niet (naar het pad) van degenen die Uw woede hebben opgewekt [2], noch (naar het pad) van de dwalenden [3].",
-    "footnotes": "[1]verwijzend naar degene die kennis vergaren van de Islam en daarna handelen, een plicht die veel moslims vergeten.\n[2]verwijzend naar kennis zonder ernaar te handelen en het misbruiken voor eigen belang mogen Allah sht ons hiervoor beschermen.\n[3]verwijzend naar mensen die Allah aanbidden zonder kennis."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 1,
+  "verse_key": "1:7",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+  "translation": "7. Het pad van degenen die Uw gunsten hebben verworven [1] en niet (naar het pad) van degenen die Uw woede hebben opgewekt [2], noch (naar het pad) van de dwalenden [3].",
+  "footnotes": "[1]verwijzend naar degene die kennis vergaren van de Islam en daarna handelen, een plicht die veel moslims vergeten.\n[2]verwijzend naar kennis zonder ernaar te handelen en het misbruiken voor eigen belang mogen Allah sht ons hiervoor beschermen.\n[3]verwijzend naar mensen die Allah aanbidden zonder kennis."
 }

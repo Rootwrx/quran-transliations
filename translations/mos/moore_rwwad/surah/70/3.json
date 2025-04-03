@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5378",
-    "sura": "70",
-    "aya": "3",
-    "arabic_text": "مِّنَ ٱللَّهِ ذِي ٱلۡمَعَارِجِ",
-    "translation": "N yaa Wẽnd nengẽ sẽn yaa rʋʋb zĩig Soabã.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 568,
+  "verse_key": "70:3",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِّنَ ٱللَّهِ ذِي ٱلۡمَعَارِجِ",
+  "translation": "N yaa Wẽnd nengẽ sẽn yaa rʋʋb zĩig Soabã.",
+  "footnotes": ""
 }

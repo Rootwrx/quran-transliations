@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3337",
-    "sura": "28",
-    "aya": "85",
-    "arabic_text": "إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٖۚ قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": " 85. Verily, He Who has given you (O Muhammad صلى الله عليه وسلم) the Qur’an (i.e. ordered you to act on its laws and to preach it to others) will surely bring you back to Ma‘âd (place of return, either to Makkah or to Paradise after your death). Say (O Muhammad صلى الله عليه وسلم): \"My Lord is Aware of him who brings guidance, and of him who is in manifest error.\"",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 396,
+  "verse_key": "28:85",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 158,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٖۚ قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": " 85. Verily, He Who has given you (O Muhammad صلى الله عليه وسلم) the Qur’an (i.e. ordered you to act on its laws and to preach it to others) will surely bring you back to Ma‘âd (place of return, either to Makkah or to Paradise after your death). Say (O Muhammad صلى الله عليه وسلم): \"My Lord is Aware of him who brings guidance, and of him who is in manifest error.\"",
+  "footnotes": ""
 }

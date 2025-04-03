@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "510",
-    "sura": "4",
-    "aya": "17",
-    "arabic_text": "إِنَّمَا ٱلتَّوۡبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعۡمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٖ ثُمَّ يَتُوبُونَ مِن قَرِيبٖ فَأُوْلَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيۡهِمۡۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمٗا",
-    "translation": "17. Allah n’accepte le repentir que de ceux qui font le mal par ignorance puis se repentent rapidement.[135] C’est de ceux-là qu’Allah agrée le repentir. Et Allah est Omniscient et Sage.",
-    "footnotes": "[135] Avant que la mort ne les rattrape."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 80,
+  "verse_key": "4:17",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 32,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا ٱلتَّوۡبَةُ عَلَى ٱللَّهِ لِلَّذِينَ يَعۡمَلُونَ ٱلسُّوٓءَ بِجَهَٰلَةٖ ثُمَّ يَتُوبُونَ مِن قَرِيبٖ فَأُوْلَٰٓئِكَ يَتُوبُ ٱللَّهُ عَلَيۡهِمۡۗ وَكَانَ ٱللَّهُ عَلِيمًا حَكِيمٗا",
+  "translation": "17. Allah n’accepte le repentir que de ceux qui font le mal par ignorance puis se repentent rapidement.[135] C’est de ceux-là qu’Allah agrée le repentir. Et Allah est Omniscient et Sage.",
+  "footnotes": "[135] Avant que la mort ne les rattrape."
 }

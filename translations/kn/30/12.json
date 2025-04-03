@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3421",
-    "sura": "30",
-    "aya": "12",
-    "arabic_text": "وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ يُبۡلِسُ ٱلۡمُجۡرِمُونَ",
-    "translation": "ಅಂತ್ಯಸಮಯವು ಸಂಭವಿಸುವ ದಿನ ಅಪರಾಧಿಗಳು ಹತಾಶರಾಗುವರು.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 405,
+  "verse_key": "30:12",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ يُبۡلِسُ ٱلۡمُجۡرِمُونَ",
+  "translation": "ಅಂತ್ಯಸಮಯವು ಸಂಭವಿಸುವ ದಿನ ಅಪರಾಧಿಗಳು ಹತಾಶರಾಗುವರು.",
+  "footnotes": ""
 }

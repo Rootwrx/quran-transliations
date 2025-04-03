@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5375",
-    "sura": "69",
-    "aya": "52",
-    "arabic_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
-    "translation": " 52. So glorify the Name of your Lord, the Most Great.[3]",
-    "footnotes": "(V.69:52) See footnotes of (V.13:28)."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 568,
+  "verse_key": "69:52",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+  "translation": " 52. So glorify the Name of your Lord, the Most Great.[3]",
+  "footnotes": "(V.69:52) See footnotes of (V.13:28)."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3197",
-    "sura": "27",
-    "aya": "38",
-    "arabic_text": "قَالَ يَٰٓأَيُّهَا ٱلۡمَلَؤُاْ أَيُّكُمۡ يَأۡتِينِي بِعَرۡشِهَا قَبۡلَ أَن يَأۡتُونِي مُسۡلِمِينَ",
-    "translation": "Ya ce: \"Yã ku mashãwarta! Wannenku zai zo mini da gadonta a gabãnin su zo, sunã mãsu sallamãwa?\"",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 380,
+  "verse_key": "27:38",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ يَٰٓأَيُّهَا ٱلۡمَلَؤُاْ أَيُّكُمۡ يَأۡتِينِي بِعَرۡشِهَا قَبۡلَ أَن يَأۡتُونِي مُسۡلِمِينَ",
+  "translation": "Ya ce: \"Yã ku mashãwarta! Wannenku zai zo mini da gadonta a gabãnin su zo, sunã mãsu sallamãwa?\"",
+  "footnotes": ""
 }

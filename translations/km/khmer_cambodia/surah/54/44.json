@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4890",
-    "sura": "54",
-    "aya": "44",
-    "arabic_text": "أَمۡ يَقُولُونَ نَحۡنُ جَمِيعٞ مُّنتَصِرٞ",
-    "translation": "ឬមួយពួកគេនិយាយថាៈ ពួកយើងទាំងអស់គ្នា គឺជាអ្នក ឈ្នះ?",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 530,
+  "verse_key": "54:44",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ يَقُولُونَ نَحۡنُ جَمِيعٞ مُّنتَصِرٞ",
+  "translation": "ឬមួយពួកគេនិយាយថាៈ ពួកយើងទាំងអស់គ្នា គឺជាអ្នក ឈ្នះ?",
+  "footnotes": ""
 }

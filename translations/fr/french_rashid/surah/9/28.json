@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1263",
-    "sura": "9",
-    "aya": "28",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡمُشۡرِكُونَ نَجَسٞ فَلَا يَقۡرَبُواْ ٱلۡمَسۡجِدَ ٱلۡحَرَامَ بَعۡدَ عَامِهِمۡ هَٰذَاۚ وَإِنۡ خِفۡتُمۡ عَيۡلَةٗ فَسَوۡفَ يُغۡنِيكُمُ ٱللَّهُ مِن فَضۡلِهِۦٓ إِن شَآءَۚ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٞ",
-    "translation": "28 Vous qui croyez ! Sachez que les idolâtres ne sont qu’impureté. Qu’ils n’aient donc plus accès au territoire sacré[525] après cette année[526]. Si vous craignez la pauvreté[527], Allah, s’Il le veut, pourvoira par Sa grâce à vos besoins. Allah, en vérité, est Omniscient et infiniment Sage.",
-    "footnotes": "[525] De la Mecque.\n[526] La neuvième de l’hégire.\n[527] Une baisse des profits générés jusque-là par le pèlerinage des tribus païennes d’Arabie à la Mecque."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 191,
+  "verse_key": "9:28",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡمُشۡرِكُونَ نَجَسٞ فَلَا يَقۡرَبُواْ ٱلۡمَسۡجِدَ ٱلۡحَرَامَ بَعۡدَ عَامِهِمۡ هَٰذَاۚ وَإِنۡ خِفۡتُمۡ عَيۡلَةٗ فَسَوۡفَ يُغۡنِيكُمُ ٱللَّهُ مِن فَضۡلِهِۦٓ إِن شَآءَۚ إِنَّ ٱللَّهَ عَلِيمٌ حَكِيمٞ",
+  "translation": "28 Vous qui croyez ! Sachez que les idolâtres ne sont qu’impureté. Qu’ils n’aient donc plus accès au territoire sacré[525] après cette année[526]. Si vous craignez la pauvreté[527], Allah, s’Il le veut, pourvoira par Sa grâce à vos besoins. Allah, en vérité, est Omniscient et infiniment Sage.",
+  "footnotes": "[525] De la Mecque.\n[526] La neuvième de l’hégire.\n[527] Une baisse des profits générés jusque-là par le pèlerinage des tribus païennes d’Arabie à la Mecque."
 }

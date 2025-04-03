@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "299",
-    "sura": "3",
-    "aya": "6",
-    "arabic_text": "هُوَ ٱلَّذِي يُصَوِّرُكُمۡ فِي ٱلۡأَرۡحَامِ كَيۡفَ يَشَآءُۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "It is He Who shapes you in the wombs as He wills. None has the right to be worshiped except Him, the All-Mighty, the All-Wise.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 50,
+  "verse_key": "3:6",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي يُصَوِّرُكُمۡ فِي ٱلۡأَرۡحَامِ كَيۡفَ يَشَآءُۚ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "It is He Who shapes you in the wombs as He wills. None has the right to be worshiped except Him, the All-Mighty, the All-Wise.",
+  "footnotes": ""
 }

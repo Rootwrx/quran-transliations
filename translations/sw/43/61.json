@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4386",
-    "sura": "43",
-    "aya": "61",
-    "arabic_text": "وَإِنَّهُۥ لَعِلۡمٞ لِّلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَٱتَّبِعُونِۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
-    "translation": "Na kwa hakika yeye ni alama ya Saa ya Kiyama. Basi usiitilie shaka, na nifuateni. Hii ndiyo Njia Iliyo Nyooka.",
-    "footnotes": "Na hakika Isa kwa kuzuka kwake bila ya baba, na kuponyesha kwake vipofu na wakoma ni dalili ya kukaribia Saa ya Kiyama. Basi usiwe na shaka nayo. Na fuateni uwongofu wangu na Mtume wangu. Hii ninayo kuitieni ndiyo Njia Iliyo Nyooka yenye kufikilia Uwokovu."
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 494,
+  "verse_key": "43:61",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّهُۥ لَعِلۡمٞ لِّلسَّاعَةِ فَلَا تَمۡتَرُنَّ بِهَا وَٱتَّبِعُونِۚ هَٰذَا صِرَٰطٞ مُّسۡتَقِيمٞ",
+  "translation": "Na kwa hakika yeye ni alama ya Saa ya Kiyama. Basi usiitilie shaka, na nifuateni. Hii ndiyo Njia Iliyo Nyooka.",
+  "footnotes": "Na hakika Isa kwa kuzuka kwake bila ya baba, na kuponyesha kwake vipofu na wakoma ni dalili ya kukaribia Saa ya Kiyama. Basi usiwe na shaka nayo. Na fuateni uwongofu wangu na Mtume wangu. Hii ninayo kuitieni ndiyo Njia Iliyo Nyooka yenye kufikilia Uwokovu."
 }

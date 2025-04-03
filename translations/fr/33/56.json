@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3589",
-    "sura": "33",
-    "aya": "56",
-    "arabic_text": "إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِيِّۚ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ صَلُّواْ عَلَيۡهِ وَسَلِّمُواْ تَسۡلِيمًا",
-    "translation": "Certes, Allah et Ses Anges prient  sur le Prophète; ô vous qui croyez priez sur lui et adresses [lui] vos salutations.",
-    "footnotes": "[742] Prient sur lui: la prière émanant d’Allah est miséricorde, celle des anges et des hommes est invocation des bénédictions d’Allah par la formule: «Allahoumma salli…»."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 426,
+  "verse_key": "33:56",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 170,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِيِّۚ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ صَلُّواْ عَلَيۡهِ وَسَلِّمُواْ تَسۡلِيمًا",
+  "translation": "Certes, Allah et Ses Anges prient  sur le Prophète; ô vous qui croyez priez sur lui et adresses [lui] vos salutations.",
+  "footnotes": "[742] Prient sur lui: la prière émanant d’Allah est miséricorde, celle des anges et des hommes est invocation des bénédictions d’Allah par la formule: «Allahoumma salli…»."
 }

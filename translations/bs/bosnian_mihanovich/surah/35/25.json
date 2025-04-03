@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3685",
-    "sura": "35",
-    "aya": "25",
-    "arabic_text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَبِٱلزُّبُرِ وَبِٱلۡكِتَٰبِ ٱلۡمُنِيرِ",
-    "translation": "Ako te oni u laž utjeruju - pa, i oni prije njih su poslanike u laž utjerivali, a oni su im jasne dokaze donosili, i Listove i Knjigu svjetilju. ",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 437,
+  "verse_key": "35:25",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَبِٱلزُّبُرِ وَبِٱلۡكِتَٰبِ ٱلۡمُنِيرِ",
+  "translation": "Ako te oni u laž utjeruju - pa, i oni prije njih su poslanike u laž utjerivali, a oni su im jasne dokaze donosili, i Listove i Knjigu svjetilju. ",
+  "footnotes": ""
 }

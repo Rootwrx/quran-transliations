@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5955",
-    "sura": "87",
-    "aya": "7",
-    "arabic_text": "إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ",
-    "translation": "Àyàfi ohun tí Allāhu bá fẹ́.[1] Dájúdájú Ó mọ gban̄gba àti ohun tó pamọ́.",
-    "footnotes": "1. Ìyẹn nípasẹ̀ fífí ìdájọ́ kan pa ìdájọ́ tó ṣíwájú rẹ̀ rẹ́. Ẹ wo sūrah al-Baƙọrah; 2:106."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 591,
+  "verse_key": "87:7",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا مَا شَآءَ ٱللَّهُۚ إِنَّهُۥ يَعۡلَمُ ٱلۡجَهۡرَ وَمَا يَخۡفَىٰ",
+  "translation": "Àyàfi ohun tí Allāhu bá fẹ́.[1] Dájúdájú Ó mọ gban̄gba àti ohun tó pamọ́.",
+  "footnotes": "1. Ìyẹn nípasẹ̀ fífí ìdájọ́ kan pa ìdájọ́ tó ṣíwájú rẹ̀ rẹ́. Ẹ wo sūrah al-Baƙọrah; 2:106."
 }

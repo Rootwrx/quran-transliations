@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "834",
-    "sura": "6",
-    "aya": "45",
-    "arabic_text": "فَقُطِعَ دَابِرُ ٱلۡقَوۡمِ ٱلَّذِينَ ظَلَمُواْۚ وَٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "45 C’est ainsi que furent anéanties les nations impies. Louange à Allah, Seigneur de la Création !",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 133,
+  "verse_key": "6:45",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقُطِعَ دَابِرُ ٱلۡقَوۡمِ ٱلَّذِينَ ظَلَمُواْۚ وَٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "45 C’est ainsi que furent anéanties les nations impies. Louange à Allah, Seigneur de la Création !",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "300",
-    "sura": "3",
-    "aya": "7",
-    "arabic_text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
-    "translation": "7. Dialah yang menurunkan Kitab (Al-Qur`ān) kepadamu (Muhammad). Di antaranya ada ayat-ayat yang muḥkamāt,*(111) itulah pokok-pokok kitab (Al-Qur`ān) dan yang lain mutasyābihāt.**(112) Adapun orang-orang yang dalam hatinya condong pada kesesatan, mereka mengikuti yang mutasyābihāt untuk mencari-cari fitnah dan untuk mencari-cari takwilnya, padahal tidak ada yang mengetahui takwilnya kecuali Allah. Dan orang-orang yang ilmunya mendalam berkata, \"Kami beriman kepadanya Al-Qur`ān), semuanya dari sisi Tuhan kami.\" Tidak ada yang dapat mengambil pelajaran kecuali orang-orang yang berakal.",
-    "footnotes": "*111). Ayat-ayat yang terang dan tegas maksudnya, dapat dipahami dengan mudah.  **112). Ayat-ayat yang mengandung beberapa pengertian sulit dipahami atau hanya Allah yang mengetahui."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 50,
+  "verse_key": "3:7",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+  "translation": "7. Dialah yang menurunkan Kitab (Al-Qur`ān) kepadamu (Muhammad). Di antaranya ada ayat-ayat yang muḥkamāt,*(111) itulah pokok-pokok kitab (Al-Qur`ān) dan yang lain mutasyābihāt.**(112) Adapun orang-orang yang dalam hatinya condong pada kesesatan, mereka mengikuti yang mutasyābihāt untuk mencari-cari fitnah dan untuk mencari-cari takwilnya, padahal tidak ada yang mengetahui takwilnya kecuali Allah. Dan orang-orang yang ilmunya mendalam berkata, \"Kami beriman kepadanya Al-Qur`ān), semuanya dari sisi Tuhan kami.\" Tidak ada yang dapat mengambil pelajaran kecuali orang-orang yang berakal.",
+  "footnotes": "*111). Ayat-ayat yang terang dan tegas maksudnya, dapat dipahami dengan mudah.  **112). Ayat-ayat yang mengandung beberapa pengertian sulit dipahami atau hanya Allah yang mengetahui."
 }

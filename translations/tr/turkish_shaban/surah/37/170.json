@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3958",
-    "sura": "37",
-    "aya": "170",
-    "arabic_text": "فَكَفَرُواْ بِهِۦۖ فَسَوۡفَ يَعۡلَمُونَ",
-    "translation": "Şimdi ise O’na küfrettiler. Yakında bilecek onlar. ",
-    "footnotes": null
-  }
+  "id": 170,
+  "verse_number": 170,
+  "page_number": 452,
+  "verse_key": "37:170",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَفَرُواْ بِهِۦۖ فَسَوۡفَ يَعۡلَمُونَ",
+  "translation": "Şimdi ise O’na küfrettiler. Yakında bilecek onlar. ",
+  "footnotes": null
 }

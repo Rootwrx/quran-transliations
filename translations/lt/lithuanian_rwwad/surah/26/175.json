@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3107",
-    "sura": "26",
-    "aya": "175",
-    "arabic_text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
-    "translation": "175. Ir iš tiesų, jūsų Viešpats, Jis tikrai yra Visa Galingas, Gailestingiausiasis.",
-    "footnotes": ""
-  }
+  "id": 175,
+  "verse_number": 175,
+  "page_number": 374,
+  "verse_key": "26:175",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+  "translation": "175. Ir iš tiesų, jūsų Viešpats, Jis tikrai yra Visa Galingas, Gailestingiausiasis.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3484",
-    "sura": "31",
-    "aya": "15",
-    "arabic_text": "وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشۡرِكَ بِي مَا لَيۡسَ لَكَ بِهِۦ عِلۡمٞ فَلَا تُطِعۡهُمَاۖ وَصَاحِبۡهُمَا فِي ٱلدُّنۡيَا مَعۡرُوفٗاۖ وَٱتَّبِعۡ سَبِيلَ مَنۡ أَنَابَ إِلَيَّۚ ثُمَّ إِلَيَّ مَرۡجِعُكُمۡ فَأُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "Lɑ b yiibã sã n pẽdg foom tɩ f lɑgem Mɑɑm ne bũmb fo sẽn kɑ tɑr ɑ bãngre, bɩ f rɑ tũ-b ye, lɑ zĩnd ne b yiibã dũni pʋgẽ ne mɑnegre, lɑ f tũ ned ning sẽn lεbg-ɑ n wɑ Mɑm nengẽ wã sorã. Rẽ poorẽ Mɑm nengẽ lɑ y lebgr zĩiga, tɩ M togs-y y sẽn dɑ yɩ n tʋmdẽ wã.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 412,
+  "verse_key": "31:15",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن جَٰهَدَاكَ عَلَىٰٓ أَن تُشۡرِكَ بِي مَا لَيۡسَ لَكَ بِهِۦ عِلۡمٞ فَلَا تُطِعۡهُمَاۖ وَصَاحِبۡهُمَا فِي ٱلدُّنۡيَا مَعۡرُوفٗاۖ وَٱتَّبِعۡ سَبِيلَ مَنۡ أَنَابَ إِلَيَّۚ ثُمَّ إِلَيَّ مَرۡجِعُكُمۡ فَأُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "Lɑ b yiibã sã n pẽdg foom tɩ f lɑgem Mɑɑm ne bũmb fo sẽn kɑ tɑr ɑ bãngre, bɩ f rɑ tũ-b ye, lɑ zĩnd ne b yiibã dũni pʋgẽ ne mɑnegre, lɑ f tũ ned ning sẽn lεbg-ɑ n wɑ Mɑm nengẽ wã sorã. Rẽ poorẽ Mɑm nengẽ lɑ y lebgr zĩiga, tɩ M togs-y y sẽn dɑ yɩ n tʋmdẽ wã.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2895",
-    "sura": "25",
-    "aya": "40",
-    "arabic_text": "وَلَقَدۡ أَتَوۡاْ عَلَى ٱلۡقَرۡيَةِ ٱلَّتِيٓ أُمۡطِرَتۡ مَطَرَ ٱلسَّوۡءِۚ أَفَلَمۡ يَكُونُواْ يَرَوۡنَهَاۚ بَلۡ كَانُواْ لَا يَرۡجُونَ نُشُورٗا",
-    "translation": "40 Les tiens ont d’ailleurs traversé les vestiges de la cité frappée par une pluie de pierres[955]. N’en ont-ils pas vu les traces et n’ont-ils pas tiré les leçons de leur funeste destinée ? Mais, en réalité, ils ne croient pas en la Résurrection.",
-    "footnotes": "[955] Sodome, où vivait le peuple de Loth, anéantie elle aussi pour son impiété."
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 363,
+  "verse_key": "25:40",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَتَوۡاْ عَلَى ٱلۡقَرۡيَةِ ٱلَّتِيٓ أُمۡطِرَتۡ مَطَرَ ٱلسَّوۡءِۚ أَفَلَمۡ يَكُونُواْ يَرَوۡنَهَاۚ بَلۡ كَانُواْ لَا يَرۡجُونَ نُشُورٗا",
+  "translation": "40 Les tiens ont d’ailleurs traversé les vestiges de la cité frappée par une pluie de pierres[955]. N’en ont-ils pas vu les traces et n’ont-ils pas tiré les leçons de leur funeste destinée ? Mais, en réalité, ils ne croient pas en la Résurrection.",
+  "footnotes": "[955] Sodome, où vivait le peuple de Loth, anéantie elle aussi pour son impiété."
 }

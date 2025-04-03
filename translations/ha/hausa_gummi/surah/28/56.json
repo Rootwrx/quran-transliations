@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3308",
-    "sura": "28",
-    "aya": "56",
-    "arabic_text": "إِنَّكَ لَا تَهۡدِي مَنۡ أَحۡبَبۡتَ وَلَٰكِنَّ ٱللَّهَ يَهۡدِي مَن يَشَآءُۚ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
-    "translation": "Lalle ne kai bã ka shiryar* da wanda ka so, amma kuma Allah Yanã shiryar da wanda Yake so, kuma Shi ne Mafi sani daga mãsu shiryuwa.",
-    "footnotes": "* Annabi, tsĩra da aminci su tabbata a gare shi, ya kasance yanã son mutãnensa Ƙuraishãwa su shiryu har dai Amminsa Abu Talib, sai Allah Ya gaya masa cewa shiriya ga hannunsa take, shi kaɗai, kuma sai wanda Ya so, shi ne zai shiryu, amma kuma akwai daga cikin dalĩlai bayyanannu maganar hijira kamar yadda ãyar da ke tafe ta bayyana."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 392,
+  "verse_key": "28:56",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّكَ لَا تَهۡدِي مَنۡ أَحۡبَبۡتَ وَلَٰكِنَّ ٱللَّهَ يَهۡدِي مَن يَشَآءُۚ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+  "translation": "Lalle ne kai bã ka shiryar* da wanda ka so, amma kuma Allah Yanã shiryar da wanda Yake so, kuma Shi ne Mafi sani daga mãsu shiryuwa.",
+  "footnotes": "* Annabi, tsĩra da aminci su tabbata a gare shi, ya kasance yanã son mutãnensa Ƙuraishãwa su shiryu har dai Amminsa Abu Talib, sai Allah Ya gaya masa cewa shiriya ga hannunsa take, shi kaɗai, kuma sai wanda Ya so, shi ne zai shiryu, amma kuma akwai daga cikin dalĩlai bayyanannu maganar hijira kamar yadda ãyar da ke tafe ta bayyana."
 }

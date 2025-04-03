@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "161",
-    "sura": "2",
-    "aya": "154",
-    "arabic_text": "وَلَا تَقُولُواْ لِمَن يُقۡتَلُ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتُۢۚ بَلۡ أَحۡيَآءٞ وَلَٰكِن لَّا تَشۡعُرُونَ",
-    "translation": "Dan janganlah kamu mengatakan orang-orang yang terbunuh di jalan Allah (mereka) telah mati. Sebenarnya (mereka) hidup, 51) tetapi kamu tidak menyadarinya.",
-    "footnotes": "*51) Hidup dalam alam lain yang bukan alam kita ini, tempat mereka mendapat kenikmatan-kenikmatan di sisi Allah, dan hanya Allah sajalah yang mengetahui bagaimana keadaan kehidupan di alam itu."
-  }
+  "id": 154,
+  "verse_number": 154,
+  "page_number": 24,
+  "verse_key": "2:154",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَقُولُواْ لِمَن يُقۡتَلُ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتُۢۚ بَلۡ أَحۡيَآءٞ وَلَٰكِن لَّا تَشۡعُرُونَ",
+  "translation": "Dan janganlah kamu mengatakan orang-orang yang terbunuh di jalan Allah (mereka) telah mati. Sebenarnya (mereka) hidup, 51) tetapi kamu tidak menyadarinya.",
+  "footnotes": "*51) Hidup dalam alam lain yang bukan alam kita ini, tempat mereka mendapat kenikmatan-kenikmatan di sisi Allah, dan hanya Allah sajalah yang mengetahui bagaimana keadaan kehidupan di alam itu."
 }

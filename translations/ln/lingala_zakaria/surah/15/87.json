@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1889",
-    "sura": "15",
-    "aya": "87",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ",
-    "translation": "87. Mpe tosilaki kopesa yo mikapo sambo(1) тропа kozongela yango na kotanga mbala na mbala, na kurani ya monene.",
-    "footnotes": "1  Mikapo sambo: Ezali suratu Al-Fâtihah (bofungoli), Esengeli na mizilima atanga yango na balosambo naye nionso."
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 266,
+  "verse_key": "15:87",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ",
+  "translation": "87. Mpe tosilaki kopesa yo mikapo sambo(1) тропа kozongela yango na kotanga mbala na mbala, na kurani ya monene.",
+  "footnotes": "1  Mikapo sambo: Ezali suratu Al-Fâtihah (bofungoli), Esengeli na mizilima atanga yango na balosambo naye nionso."
 }

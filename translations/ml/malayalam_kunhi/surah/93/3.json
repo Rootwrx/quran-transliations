@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6082",
-    "sura": "93",
-    "aya": "3",
-    "arabic_text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
-    "translation": "(നബിയേ,) നിന്‍റെ രക്ഷിതാവ് നിന്നെ കൈവിട്ടിട്ടില്ല. വെറുത്തിട്ടുമില്ല.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 596,
+  "verse_key": "93:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ",
+  "translation": "(നബിയേ,) നിന്‍റെ രക്ഷിതാവ് നിന്നെ കൈവിട്ടിട്ടില്ല. വെറുത്തിട്ടുമില്ല.",
+  "footnotes": ""
 }

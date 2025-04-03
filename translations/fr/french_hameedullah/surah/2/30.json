@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "37",
-    "sura": "2",
-    "aya": "30",
-    "arabic_text": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗۖ قَالُوٓاْ أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ وَنَحۡنُ نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَكَۖ قَالَ إِنِّيٓ أَعۡلَمُ مَا لَا تَعۡلَمُونَ",
-    "translation": "Lorsque Ton Seigneur confia aux Anges: “Je vais établir sur la terre un vicaire (Khalîfah). Ils dirent: “Vas-Tu y désigner un qui y mettra le désordre et répandra le sang, quand nous sommes là à Te sanctifier et à Te glorifier?” - Il dit: “En vérité, Je sais ce que vous ne savez pas!”.",
-    "footnotes": "[10] Khalifa a plusieurs sens: a) gérant: celui à qui a été donné le pouvoir de gouverner d’autres personnes, comme Allah fit de David dans S. 38, v. 2 b: «Ô David, gouverne les gens avec justice» b) qui se succèdent les uns aux autres, génération après génération; c) qui remplace quelqu’un absent ou mort. Ici Khalifa a le sens (a) ou (b)."
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 6,
+  "verse_key": "2:30",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗۖ قَالُوٓاْ أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ وَنَحۡنُ نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَكَۖ قَالَ إِنِّيٓ أَعۡلَمُ مَا لَا تَعۡلَمُونَ",
+  "translation": "Lorsque Ton Seigneur confia aux Anges: “Je vais établir sur la terre un vicaire (Khalîfah). Ils dirent: “Vas-Tu y désigner un qui y mettra le désordre et répandra le sang, quand nous sommes là à Te sanctifier et à Te glorifier?” - Il dit: “En vérité, Je sais ce que vous ne savez pas!”.",
+  "footnotes": "[10] Khalifa a plusieurs sens: a) gérant: celui à qui a été donné le pouvoir de gouverner d’autres personnes, comme Allah fit de David dans S. 38, v. 2 b: «Ô David, gouverne les gens avec justice» b) qui se succèdent les uns aux autres, génération après génération; c) qui remplace quelqu’un absent ou mort. Ici Khalifa a le sens (a) ou (b)."
 }

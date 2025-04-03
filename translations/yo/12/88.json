@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1684",
-    "sura": "12",
-    "aya": "88",
-    "arabic_text": "فَلَمَّا دَخَلُواْ عَلَيۡهِ قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ مَسَّنَا وَأَهۡلَنَا ٱلضُّرُّ وَجِئۡنَا بِبِضَٰعَةٖ مُّزۡجَىٰةٖ فَأَوۡفِ لَنَا ٱلۡكَيۡلَ وَتَصَدَّقۡ عَلَيۡنَآۖ إِنَّ ٱللَّهَ يَجۡزِي ٱلۡمُتَصَدِّقِينَ",
-    "translation": "Nìgbà tí wọ́n wọlé tọ Yūsuf, wọ́n sọ pé: “Ìwọ ọba, ìnira (ebi) ti mú àwa àti ará ilé wa. A sì mú owó kan tí ẹ máa ta dànù lọ́wọ́.[1] Nítorí náà, wọn kóńgò (oúnjẹ) náà kún fún wa, kí ó sì ta wá lọ́rẹ. Dájúdájú Allāhu yóò san àwọn olùtọrẹ ní ẹ̀san rere.”",
-    "footnotes": "1. Ìyẹn ni pé, owó tí wọ́n mú dání kì í ṣe owó tí wọ́n lè gbà lọ́wọ́ wọn torí pé ó kéré púpọ̀, tàbí owó náà ti fẹ́ di kọ̀ǹdẹ̀ mọ́ wọn lọ́wọ́."
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 246,
+  "verse_key": "12:88",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا دَخَلُواْ عَلَيۡهِ قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ مَسَّنَا وَأَهۡلَنَا ٱلضُّرُّ وَجِئۡنَا بِبِضَٰعَةٖ مُّزۡجَىٰةٖ فَأَوۡفِ لَنَا ٱلۡكَيۡلَ وَتَصَدَّقۡ عَلَيۡنَآۖ إِنَّ ٱللَّهَ يَجۡزِي ٱلۡمُتَصَدِّقِينَ",
+  "translation": "Nìgbà tí wọ́n wọlé tọ Yūsuf, wọ́n sọ pé: “Ìwọ ọba, ìnira (ebi) ti mú àwa àti ará ilé wa. A sì mú owó kan tí ẹ máa ta dànù lọ́wọ́.[1] Nítorí náà, wọn kóńgò (oúnjẹ) náà kún fún wa, kí ó sì ta wá lọ́rẹ. Dájúdájú Allāhu yóò san àwọn olùtọrẹ ní ẹ̀san rere.”",
+  "footnotes": "1. Ìyẹn ni pé, owó tí wọ́n mú dání kì í ṣe owó tí wọ́n lè gbà lọ́wọ́ wọn torí pé ó kéré púpọ̀, tàbí owó náà ti fẹ́ di kọ̀ǹdẹ̀ mọ́ wọn lọ́wọ́."
 }

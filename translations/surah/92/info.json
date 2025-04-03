@@ -1,0 +1,27 @@
+{
+  "number": 92,
+  "name": {
+    "ar": "الليل",
+    "en": "The Night",
+    "transliteration": "Al-Layl"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 9,
+  "bismillah_pre": true,
+  "verses_count": 21,
+  "words_count": 71,
+  "letters_count": 312,
+  "pages": [
+    595,
+    596
+  ],
+  "name_simple": "Al-Layl",
+  "name_complex": "Al-Layl",
+  "name_arabic": "الليل",
+  "translated_name": "The Night",
+  "start_page": 595,
+  "end_page": 596
+}

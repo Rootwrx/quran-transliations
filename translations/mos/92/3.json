@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6061",
-    "sura": "92",
-    "aya": "3",
-    "arabic_text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
-    "translation": "La a sẽn naane, rao la paga.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 595,
+  "verse_key": "92:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا خَلَقَ ٱلذَّكَرَ وَٱلۡأُنثَىٰٓ",
+  "translation": "La a sẽn naane, rao la paga.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2242",
-    "sura": "18",
-    "aya": "102",
-    "arabic_text": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓاْ أَن يَتَّخِذُواْ عِبَادِي مِن دُونِيٓ أَوۡلِيَآءَۚ إِنَّآ أَعۡتَدۡنَا جَهَنَّمَ لِلۡكَٰفِرِينَ نُزُلٗا",
-    "translation": "Shin fa, waɗanda suka kãfirta sun yi zaton (daidai ne) su riƙi waɗansu bãyĩNa*, majiɓinta baic iNa? Lalle ne, Mun yi tattalin Jahannama ta zama liyãfa ga kãfirai.",
-    "footnotes": "* Waɗanda suka riƙi wasu bãyin Allah, sunã bauta musu, kamar Yahũdu mãsu bauta wa Uzairu da Nasãra mãsu bautawa Ĩsã da wasu Musulmi mãsu bauta wa wasu sãlihai sun zama kãfirai. Ma'anar bautawar shi ne su ƙirƙira wasu hukunce-hakunce kõ wasu sifõfi waɗanda suka sãɓa wa maganar Alƙur'ãni da Hadĩsi, sa'an nan su jingina su zuwa ga waɗannan bãyin Allah, su bi su da su."
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 304,
+  "verse_key": "18:102",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓاْ أَن يَتَّخِذُواْ عِبَادِي مِن دُونِيٓ أَوۡلِيَآءَۚ إِنَّآ أَعۡتَدۡنَا جَهَنَّمَ لِلۡكَٰفِرِينَ نُزُلٗا",
+  "translation": "Shin fa, waɗanda suka kãfirta sun yi zaton (daidai ne) su riƙi waɗansu bãyĩNa*, majiɓinta baic iNa? Lalle ne, Mun yi tattalin Jahannama ta zama liyãfa ga kãfirai.",
+  "footnotes": "* Waɗanda suka riƙi wasu bãyin Allah, sunã bauta musu, kamar Yahũdu mãsu bauta wa Uzairu da Nasãra mãsu bautawa Ĩsã da wasu Musulmi mãsu bauta wa wasu sãlihai sun zama kãfirai. Ma'anar bautawar shi ne su ƙirƙira wasu hukunce-hakunce kõ wasu sifõfi waɗanda suka sãɓa wa maganar Alƙur'ãni da Hadĩsi, sa'an nan su jingina su zuwa ga waɗannan bãyin Allah, su bi su da su."
 }

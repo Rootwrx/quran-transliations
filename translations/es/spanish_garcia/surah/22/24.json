@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2619",
-    "sura": "22",
-    "aya": "24",
-    "arabic_text": "وَهُدُوٓاْ إِلَى ٱلطَّيِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوٓاْ إِلَىٰ صِرَٰطِ ٱلۡحَمِيدِ",
-    "translation": "24. [En la vida mundanal] habían sido guiados hacia la bella palabra[1] y al camino de la alabanza.",
-    "footnotes": "[1] El testimonio del monoteísmo: La ilaha illa Al-lah لا إله إلا الله (no hay nada ni nadie con derecho a ser adorado salvo Dios)."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 335,
+  "verse_key": "22:24",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُدُوٓاْ إِلَى ٱلطَّيِّبِ مِنَ ٱلۡقَوۡلِ وَهُدُوٓاْ إِلَىٰ صِرَٰطِ ٱلۡحَمِيدِ",
+  "translation": "24. [En la vida mundanal] habían sido guiados hacia la bella palabra[1] y al camino de la alabanza.",
+  "footnotes": "[1] El testimonio del monoteísmo: La ilaha illa Al-lah لا إله إلا الله (no hay nada ni nadie con derecho a ser adorado salvo Dios)."
 }

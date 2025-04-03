@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6008",
-    "sura": "89",
-    "aya": "15",
-    "arabic_text": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ",
-    "translation": "15. El ser humano, cuando su Señor lo agracia, dice: “Mi Señor me ha honrado [porque lo merezco]”.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 593,
+  "verse_key": "89:15",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا ٱلۡإِنسَٰنُ إِذَا مَا ٱبۡتَلَىٰهُ رَبُّهُۥ فَأَكۡرَمَهُۥ وَنَعَّمَهُۥ فَيَقُولُ رَبِّيٓ أَكۡرَمَنِ",
+  "translation": "15. El ser humano, cuando su Señor lo agracia, dice: “Mi Señor me ha honrado [porque lo merezco]”.",
+  "footnotes": ""
 }

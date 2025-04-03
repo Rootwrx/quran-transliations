@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "388",
-    "sura": "3",
-    "aya": "95",
-    "arabic_text": "قُلۡ صَدَقَ ٱللَّهُۗ فَٱتَّبِعُواْ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
-    "translation": "Sema: Mwenyezi Mungu amesema kweli. Basi fuateni mila ya Ibrahim mwongofu, wala hakuwa miongoni mwa washirikina.",
-    "footnotes": "Baada ya kushindwa kwao Mwenyezi Mungu amemuamrisha Nabii wake awabainishie kuwa ukweli wa Mwenyezi Mungu umethibiti katika ayasemayo. Basi ifuateni Sharia ya Ibrahim anayo kutakeni muifuate, na nyinyi mnaikanusha. Hii ni mbali kabisa na hizo Dini za uwongo, kwani Ibrahim hakuwa miongoni mwa washirikina."
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 62,
+  "verse_key": "3:95",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ صَدَقَ ٱللَّهُۗ فَٱتَّبِعُواْ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+  "translation": "Sema: Mwenyezi Mungu amesema kweli. Basi fuateni mila ya Ibrahim mwongofu, wala hakuwa miongoni mwa washirikina.",
+  "footnotes": "Baada ya kushindwa kwao Mwenyezi Mungu amemuamrisha Nabii wake awabainishie kuwa ukweli wa Mwenyezi Mungu umethibiti katika ayasemayo. Basi ifuateni Sharia ya Ibrahim anayo kutakeni muifuate, na nyinyi mnaikanusha. Hii ni mbali kabisa na hizo Dini za uwongo, kwani Ibrahim hakuwa miongoni mwa washirikina."
 }

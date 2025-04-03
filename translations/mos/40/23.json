@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4156",
-    "sura": "40",
-    "aya": "23",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَا وَسُلۡطَٰنٖ مُّبِينٍ",
-    "translation": "Sɩd la hakɩɩka Tõnd tʋmsa a Muusa ne Tõnd yel-soalmã la Tõnd gom-lubdg sẽn yɑɑ vẽenegɑ.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 469,
+  "verse_key": "40:23",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَا وَسُلۡطَٰنٖ مُّبِينٍ",
+  "translation": "Sɩd la hakɩɩka Tõnd tʋmsa a Muusa ne Tõnd yel-soalmã la Tõnd gom-lubdg sẽn yɑɑ vẽenegɑ.",
+  "footnotes": ""
 }

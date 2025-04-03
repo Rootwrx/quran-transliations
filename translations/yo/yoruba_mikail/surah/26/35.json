@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2967",
-    "sura": "26",
-    "aya": "35",
-    "arabic_text": "يُرِيدُ أَن يُخۡرِجَكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِۦ فَمَاذَا تَأۡمُرُونَ",
-    "translation": "Ó fẹ́ fi idán rẹ̀ kó yín kúrò lórí ilẹ̀ yín ni. Kí ni ohun tí ẹ máa mú wá ní ìmọ̀ràn?”[1]",
-    "footnotes": "1. Fir‘aon sọ gbólóhùn náà, àwọn ìjòyè rẹ̀ náà gbè é lẹ́sẹ̀. Ọ̀rọ̀ náà sì di àgbàsọ láààrin ara wọn."
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 368,
+  "verse_key": "26:35",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُرِيدُ أَن يُخۡرِجَكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِۦ فَمَاذَا تَأۡمُرُونَ",
+  "translation": "Ó fẹ́ fi idán rẹ̀ kó yín kúrò lórí ilẹ̀ yín ni. Kí ni ohun tí ẹ máa mú wá ní ìmọ̀ràn?”[1]",
+  "footnotes": "1. Fir‘aon sọ gbólóhùn náà, àwọn ìjòyè rẹ̀ náà gbè é lẹ́sẹ̀. Ọ̀rọ̀ náà sì di àgbàsọ láààrin ara wọn."
 }

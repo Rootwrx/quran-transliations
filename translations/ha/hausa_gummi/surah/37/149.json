@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3937",
-    "sura": "37",
-    "aya": "149",
-    "arabic_text": "فَٱسۡتَفۡتِهِمۡ أَلِرَبِّكَ ٱلۡبَنَاتُ وَلَهُمُ ٱلۡبَنُونَ",
-    "translation": "Sabõda haka, ka tambaye su, \"Shin, Ubangijinka ne da 'ya'ya mãtã, kuma su da ɗiya maza?\"",
-    "footnotes": ""
-  }
+  "id": 149,
+  "verse_number": 149,
+  "page_number": 451,
+  "verse_key": "37:149",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱسۡتَفۡتِهِمۡ أَلِرَبِّكَ ٱلۡبَنَاتُ وَلَهُمُ ٱلۡبَنُونَ",
+  "translation": "Sabõda haka, ka tambaye su, \"Shin, Ubangijinka ne da 'ya'ya mãtã, kuma su da ɗiya maza?\"",
+  "footnotes": ""
 }

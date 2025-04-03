@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6233",
-    "sura": "114",
-    "aya": "3",
-    "arabic_text": "إِلَٰهِ ٱلنَّاسِ",
-    "translation": "معبود مردم،",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 604,
+  "verse_key": "114:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَٰهِ ٱلنَّاسِ",
+  "translation": "معبود مردم،",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "433",
-    "sura": "3",
-    "aya": "140",
-    "arabic_text": "إِن يَمۡسَسۡكُمۡ قَرۡحٞ فَقَدۡ مَسَّ ٱلۡقَوۡمَ قَرۡحٞ مِّثۡلُهُۥۚ وَتِلۡكَ ٱلۡأَيَّامُ نُدَاوِلُهَا بَيۡنَ ٱلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَيَتَّخِذَ مِنكُمۡ شُهَدَآءَۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
-    "translation": "Nihaba muri mwebwe harimwo abakomeretse canke abishwe ku rugamba rwa Uhudi, ni ukuri ni nk’uko nyene, no mu babangikanyamana harimwo abakomeretse n’abishwe. Burya imisi Twebwe Allah Dukurakuranya hagati y’abantu irasa ntingana; haba umusi wo gutsinda hakaba n’umusi wo gutsindwa, kugira Imana Allah Yerekane ku vyo Isanzwe Izi abemera vy’ukuri, Yongere Yiharire abayipfira muri mwebwe. Burya rero Imana Allah ntikunda namba abirenganya mu kureka guharanira idini ryayo;",
-    "footnotes": ""
-  }
+  "id": 140,
+  "verse_number": 140,
+  "page_number": 67,
+  "verse_key": "3:140",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن يَمۡسَسۡكُمۡ قَرۡحٞ فَقَدۡ مَسَّ ٱلۡقَوۡمَ قَرۡحٞ مِّثۡلُهُۥۚ وَتِلۡكَ ٱلۡأَيَّامُ نُدَاوِلُهَا بَيۡنَ ٱلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَيَتَّخِذَ مِنكُمۡ شُهَدَآءَۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+  "translation": "Nihaba muri mwebwe harimwo abakomeretse canke abishwe ku rugamba rwa Uhudi, ni ukuri ni nk’uko nyene, no mu babangikanyamana harimwo abakomeretse n’abishwe. Burya imisi Twebwe Allah Dukurakuranya hagati y’abantu irasa ntingana; haba umusi wo gutsinda hakaba n’umusi wo gutsindwa, kugira Imana Allah Yerekane ku vyo Isanzwe Izi abemera vy’ukuri, Yongere Yiharire abayipfira muri mwebwe. Burya rero Imana Allah ntikunda namba abirenganya mu kureka guharanira idini ryayo;",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2281",
-    "sura": "19",
-    "aya": "31",
-    "arabic_text": "وَجَعَلَنِي مُبَارَكًا أَيۡنَ مَا كُنتُ وَأَوۡصَٰنِي بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمۡتُ حَيّٗا",
-    "translation": "\"E me fará abençoado, onde quer que esteja, e me recomendará a oração e az-zakãh, enquanto permanecer vivo,\"",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 307,
+  "verse_key": "19:31",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلَنِي مُبَارَكًا أَيۡنَ مَا كُنتُ وَأَوۡصَٰنِي بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ مَا دُمۡتُ حَيّٗا",
+  "translation": "\"E me fará abençoado, onde quer que esteja, e me recomendará a oração e az-zakãh, enquanto permanecer vivo,\"",
+  "footnotes": ""
 }

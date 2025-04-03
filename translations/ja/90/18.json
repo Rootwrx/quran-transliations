@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6041",
-    "sura": "90",
-    "aya": "18",
-    "arabic_text": "أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
-    "translation": "それらの者たちは、右側の徒[1]。",
-    "footnotes": "[1]　「右側の徒」については、出来事章８－９とその訳注を参照。"
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 594,
+  "verse_key": "90:18",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+  "translation": "それらの者たちは、右側の徒[1]。",
+  "footnotes": "[1]　「右側の徒」については、出来事章８－９とその訳注を参照。"
 }

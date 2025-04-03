@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1191",
-    "sura": "8",
-    "aya": "31",
-    "arabic_text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا قَالُواْ قَدۡ سَمِعۡنَا لَوۡ نَشَآءُ لَقُلۡنَا مِثۡلَ هَٰذَآ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
-    "translation": "Dan apabila dibacakan kepada mereka ayat-ayat Kami, mereka berkata, \"Sesungguhnya kami telah mendengar (ayat-ayat yang seperti ini), kalau kami menhendaki niscaya kami dapat membacakan yang seperti ini, (Al-Qur`ān) ini tidak lain hanyalah dongengan-dongengan orang-orang purbakala\".",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 180,
+  "verse_key": "8:31",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا قَالُواْ قَدۡ سَمِعۡنَا لَوۡ نَشَآءُ لَقُلۡنَا مِثۡلَ هَٰذَآ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+  "translation": "Dan apabila dibacakan kepada mereka ayat-ayat Kami, mereka berkata, \"Sesungguhnya kami telah mendengar (ayat-ayat yang seperti ini), kalau kami menhendaki niscaya kami dapat membacakan yang seperti ini, (Al-Qur`ān) ini tidak lain hanyalah dongengan-dongengan orang-orang purbakala\".",
+  "footnotes": ""
 }

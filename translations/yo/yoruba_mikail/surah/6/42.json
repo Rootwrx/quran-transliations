@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "831",
-    "sura": "6",
-    "aya": "42",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَآ إِلَىٰٓ أُمَمٖ مِّن قَبۡلِكَ فَأَخَذۡنَٰهُم بِٱلۡبَأۡسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمۡ يَتَضَرَّعُونَ",
-    "translation": "Dájúdájú A ti ránṣẹ́ sí àwọn ìjọ kan ṣíwájú rẹ. A sì fi àwọn ìpọ́njú àti àwọn àìlera gbá wọn mú nítorí kí wọ́n lè rawọ́ rasẹ̀ (sí Allāhu).[1]",
-    "footnotes": "1. Ìrawọ́-rasẹ̀ sí Allāhu ni pé, yíyẹpẹrẹ ara ẹni fún Un, pípáyà Rẹ̀ àti ríronú-pìwàdà sí ọ̀dọ̀ Rẹ̀."
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 132,
+  "verse_key": "6:42",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَآ إِلَىٰٓ أُمَمٖ مِّن قَبۡلِكَ فَأَخَذۡنَٰهُم بِٱلۡبَأۡسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمۡ يَتَضَرَّعُونَ",
+  "translation": "Dájúdájú A ti ránṣẹ́ sí àwọn ìjọ kan ṣíwájú rẹ. A sì fi àwọn ìpọ́njú àti àwọn àìlera gbá wọn mú nítorí kí wọ́n lè rawọ́ rasẹ̀ (sí Allāhu).[1]",
+  "footnotes": "1. Ìrawọ́-rasẹ̀ sí Allāhu ni pé, yíyẹpẹrẹ ara ẹni fún Un, pípáyà Rẹ̀ àti ríronú-pìwàdà sí ọ̀dọ̀ Rẹ̀."
 }

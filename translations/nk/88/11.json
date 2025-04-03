@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5978",
-    "sura": "88",
-    "aya": "11",
-    "arabic_text": "لَّا تَسۡمَعُ فِيهَا لَٰغِيَةٗ",
-    "translation": "ߣߊ߰ߣߊ߰ߞߊ߲߫ ߕߍ߫ ߡߍ߲߫ ߠߊ߫ ߦߋ߲߬",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 592,
+  "verse_key": "88:11",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا تَسۡمَعُ فِيهَا لَٰغِيَةٗ",
+  "translation": "ߣߊ߰ߣߊ߰ߞߊ߲߫ ߕߍ߫ ߡߍ߲߫ ߠߊ߫ ߦߋ߲߬",
+  "footnotes": ""
 }

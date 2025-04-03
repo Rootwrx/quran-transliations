@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2077",
-    "sura": "17",
-    "aya": "48",
-    "arabic_text": "ٱنظُرۡ كَيۡفَ ضَرَبُواْ لَكَ ٱلۡأَمۡثَالَ فَضَلُّواْ فَلَا يَسۡتَطِيعُونَ سَبِيلٗا",
-    "translation": "Dore uko bakugereranya (bakwita umusazi, uwarozwe, umunyabinyoma,...). Bityo barayobye kandi ntibashobora kuzayoboka inzira y’ukuri.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 286,
+  "verse_key": "17:48",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱنظُرۡ كَيۡفَ ضَرَبُواْ لَكَ ٱلۡأَمۡثَالَ فَضَلُّواْ فَلَا يَسۡتَطِيعُونَ سَبِيلٗا",
+  "translation": "Dore uko bakugereranya (bakwita umusazi, uwarozwe, umunyabinyoma,...). Bityo barayobye kandi ntibashobora kuzayoboka inzira y’ukuri.",
+  "footnotes": ""
 }

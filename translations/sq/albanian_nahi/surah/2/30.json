@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "37",
-    "sura": "2",
-    "aya": "30",
-    "arabic_text": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗۖ قَالُوٓاْ أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ وَنَحۡنُ نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَكَۖ قَالَ إِنِّيٓ أَعۡلَمُ مَا لَا تَعۡلَمُونَ",
-    "translation": "Kur Zoti yt u tha engjëjve: “Unë do të krijoj një mëkëmbës (që do të zbatojë ligjet e Zotit) në tokë”, ata thanë: “A do të vësh atje dikë që do të bëjë çrregullime e do të derdhë gjak në të, ndërkohë që Ne të madhërojmë, të lavdërojmë dhe të lartësojmë ashtu si të takon Ty?!” Ai tha: “Unë di atë që ju nuk e dini”.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 6,
+  "verse_key": "2:30",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي جَاعِلٞ فِي ٱلۡأَرۡضِ خَلِيفَةٗۖ قَالُوٓاْ أَتَجۡعَلُ فِيهَا مَن يُفۡسِدُ فِيهَا وَيَسۡفِكُ ٱلدِّمَآءَ وَنَحۡنُ نُسَبِّحُ بِحَمۡدِكَ وَنُقَدِّسُ لَكَۖ قَالَ إِنِّيٓ أَعۡلَمُ مَا لَا تَعۡلَمُونَ",
+  "translation": "Kur Zoti yt u tha engjëjve: “Unë do të krijoj një mëkëmbës (që do të zbatojë ligjet e Zotit) në tokë”, ata thanë: “A do të vësh atje dikë që do të bëjë çrregullime e do të derdhë gjak në të, ndërkohë që Ne të madhërojmë, të lavdërojmë dhe të lartësojmë ashtu si të takon Ty?!” Ai tha: “Unë di atë që ju nuk e dini”.",
+  "footnotes": ""
 }

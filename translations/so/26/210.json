@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3142",
-    "sura": "26",
-    "aya": "210",
-    "arabic_text": "وَمَا تَنَزَّلَتۡ بِهِ ٱلشَّيَٰطِينُ",
-    "translation": "210. Mana ayan keenin15 (Qur’aankan) Shaydaammada.",
-    "footnotes": "15. Siday yidhaahdaan gaalada, waxaase Alle Xaggiisa ka keenay malag Jabriil, Ruuxa aaminka ah oo ku soo dejiyey Nabi Muxammad s.c.w."
-  }
+  "id": 210,
+  "verse_number": 210,
+  "page_number": 376,
+  "verse_key": "26:210",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تَنَزَّلَتۡ بِهِ ٱلشَّيَٰطِينُ",
+  "translation": "210. Mana ayan keenin15 (Qur’aankan) Shaydaammada.",
+  "footnotes": "15. Siday yidhaahdaan gaalada, waxaase Alle Xaggiisa ka keenay malag Jabriil, Ruuxa aaminka ah oo ku soo dejiyey Nabi Muxammad s.c.w."
 }

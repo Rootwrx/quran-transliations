@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "294",
-    "sura": "3",
-    "aya": "1",
-    "arabic_text": "الٓمٓ",
-    "translation": "’Alif lām mīm. (Allāhu ló mọ ohun tí Ó gbàlérò pẹ̀lú àwọn háràfí náà.)[1]",
-    "footnotes": "1. Nítorí kí a lè mọ ìdí pàtàkì tí Allāhu ṣe fi sūrah yìí sọrí mọ̀lẹ́bí ‘Imrọ̄n, òbí Mọryam, ìyá Ànábì ‘Isā - kí ọlà Allāhu máa bá a -, ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah Mọryam. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al Baƙọrah; 2:1."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 50,
+  "verse_key": "3:1",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓ",
+  "translation": "’Alif lām mīm. (Allāhu ló mọ ohun tí Ó gbàlérò pẹ̀lú àwọn háràfí náà.)[1]",
+  "footnotes": "1. Nítorí kí a lè mọ ìdí pàtàkì tí Allāhu ṣe fi sūrah yìí sọrí mọ̀lẹ́bí ‘Imrọ̄n, òbí Mọryam, ìyá Ànábì ‘Isā - kí ọlà Allāhu máa bá a -, ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah Mọryam. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al Baƙọrah; 2:1."
 }

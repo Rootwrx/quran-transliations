@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2886",
-    "sura": "25",
-    "aya": "31",
-    "arabic_text": "وَكَذَٰلِكَ جَعَلۡنَا لِكُلِّ نَبِيٍّ عَدُوّٗا مِّنَ ٱلۡمُجۡرِمِينَۗ وَكَفَىٰ بِرَبِّكَ هَادِيٗا وَنَصِيرٗا",
-    "translation": "Dhe, kështu Ne, çdo profeti i kemi kundërvënë një armik nga keqbërësit. Por ty të mjafton Zoti yt si udhërrëfyes dhe ndihmës!",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 362,
+  "verse_key": "25:31",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ جَعَلۡنَا لِكُلِّ نَبِيٍّ عَدُوّٗا مِّنَ ٱلۡمُجۡرِمِينَۗ وَكَفَىٰ بِرَبِّكَ هَادِيٗا وَنَصِيرٗا",
+  "translation": "Dhe, kështu Ne, çdo profeti i kemi kundërvënë një armik nga keqbërësit. Por ty të mjafton Zoti yt si udhërrëfyes dhe ndihmës!",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4162",
-    "sura": "40",
-    "aya": "29",
-    "arabic_text": "يَٰقَوۡمِ لَكُمُ ٱلۡمُلۡكُ ٱلۡيَوۡمَ ظَٰهِرِينَ فِي ٱلۡأَرۡضِ فَمَن يَنصُرُنَا مِنۢ بَأۡسِ ٱللَّهِ إِن جَآءَنَاۚ قَالَ فِرۡعَوۡنُ مَآ أُرِيكُمۡ إِلَّا مَآ أَرَىٰ وَمَآ أَهۡدِيكُمۡ إِلَّا سَبِيلَ ٱلرَّشَادِ",
-    "translation": "Ey qövmüm! Bu gün mülk sizə məxsusdur. Yer üzündə qalib gələnlər də sizsiniz. Əgər Allahın əzabı bizə gəlsə, bizi ondan kim qoruya bilər?!” Firon dedi: “Mən sizə ancaq öz rəyimi bildirirəm, mən sizə ancaq doğru yolu göstərirəm”.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 470,
+  "verse_key": "40:29",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰقَوۡمِ لَكُمُ ٱلۡمُلۡكُ ٱلۡيَوۡمَ ظَٰهِرِينَ فِي ٱلۡأَرۡضِ فَمَن يَنصُرُنَا مِنۢ بَأۡسِ ٱللَّهِ إِن جَآءَنَاۚ قَالَ فِرۡعَوۡنُ مَآ أُرِيكُمۡ إِلَّا مَآ أَرَىٰ وَمَآ أَهۡدِيكُمۡ إِلَّا سَبِيلَ ٱلرَّشَادِ",
+  "translation": "Ey qövmüm! Bu gün mülk sizə məxsusdur. Yer üzündə qalib gələnlər də sizsiniz. Əgər Allahın əzabı bizə gəlsə, bizi ondan kim qoruya bilər?!” Firon dedi: “Mən sizə ancaq öz rəyimi bildirirəm, mən sizə ancaq doğru yolu göstərirəm”.",
+  "footnotes": ""
 }

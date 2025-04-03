@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3141",
-    "sura": "26",
-    "aya": "209",
-    "arabic_text": "ذِكۡرَىٰ وَمَا كُنَّا ظَٰلِمِينَ",
-    "translation": "(dies) als Ermahnung. Und nie sind Wir ungerecht.",
-    "footnotes": null
-  }
+  "id": 209,
+  "verse_number": 209,
+  "page_number": 376,
+  "verse_key": "26:209",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذِكۡرَىٰ وَمَا كُنَّا ظَٰلِمِينَ",
+  "translation": "(dies) als Ermahnung. Und nie sind Wir ungerecht.",
+  "footnotes": null
 }

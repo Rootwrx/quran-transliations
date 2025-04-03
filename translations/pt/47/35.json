@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4580",
-    "sura": "47",
-    "aya": "35",
-    "arabic_text": "فَلَا تَهِنُواْ وَتَدۡعُوٓاْ إِلَى ٱلسَّلۡمِ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ وَٱللَّهُ مَعَكُمۡ وَلَن يَتِرَكُمۡ أَعۡمَٰلَكُمۡ",
-    "translation": "Então, não vos desanimeis e não convoqueis os inimigos à paz, enquanto sois superiores, e Allah está convosco e não vos subtrai as obras.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 510,
+  "verse_key": "47:35",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا تَهِنُواْ وَتَدۡعُوٓاْ إِلَى ٱلسَّلۡمِ وَأَنتُمُ ٱلۡأَعۡلَوۡنَ وَٱللَّهُ مَعَكُمۡ وَلَن يَتِرَكُمۡ أَعۡمَٰلَكُمۡ",
+  "translation": "Então, não vos desanimeis e não convoqueis os inimigos à paz, enquanto sois superiores, e Allah está convosco e não vos subtrai as obras.",
+  "footnotes": ""
 }

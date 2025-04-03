@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3090",
-    "sura": "26",
-    "aya": "158",
-    "arabic_text": "فَأَخَذَهُمُ ٱلۡعَذَابُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
-    "translation": "158. Le supplice les saisit. Il y a certes là un Signe indéniable, mais la plupart d’entre eux ne sont pas croyants.",
-    "footnotes": ""
-  }
+  "id": 158,
+  "verse_number": 158,
+  "page_number": 373,
+  "verse_key": "26:158",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَخَذَهُمُ ٱلۡعَذَابُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+  "translation": "158. Le supplice les saisit. Il y a certes là un Signe indéniable, mais la plupart d’entre eux ne sont pas croyants.",
+  "footnotes": ""
 }

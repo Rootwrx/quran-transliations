@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5808",
-    "sura": "81",
-    "aya": "8",
-    "arabic_text": "وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ",
-    "translation": "et qu’on demandera à la fillette enterrée vivante [1036],",
-    "footnotes": "[1036] Fillette enterrée vivante: allusion à une ancienne pratique des païens qui craignaient la pauvreté ou la capture de leurs filles par d’autres tribus."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 586,
+  "verse_key": "81:8",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱلۡمَوۡءُۥدَةُ سُئِلَتۡ",
+  "translation": "et qu’on demandera à la fillette enterrée vivante [1036],",
+  "footnotes": "[1036] Fillette enterrée vivante: allusion à une ancienne pratique des païens qui craignaient la pauvreté ou la capture de leurs filles par d’autres tribus."
 }

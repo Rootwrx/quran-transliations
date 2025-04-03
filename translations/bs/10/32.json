@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1396",
-    "sura": "10",
-    "aya": "32",
-    "arabic_text": "فَذَٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلۡحَقُّۖ فَمَاذَا بَعۡدَ ٱلۡحَقِّ إِلَّا ٱلضَّلَٰلُۖ فَأَنَّىٰ تُصۡرَفُونَ",
-    "translation": "To vam je Allah, Gospodar vaš istinski! Zar poslije Istine ima išta osim zablude?! Pa kuda se onda odmećete? ",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 212,
+  "verse_key": "10:32",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَذَٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلۡحَقُّۖ فَمَاذَا بَعۡدَ ٱلۡحَقِّ إِلَّا ٱلضَّلَٰلُۖ فَأَنَّىٰ تُصۡرَفُونَ",
+  "translation": "To vam je Allah, Gospodar vaš istinski! Zar poslije Istine ima išta osim zablude?! Pa kuda se onda odmećete? ",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3042",
-    "sura": "26",
-    "aya": "110",
-    "arabic_text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
-    "translation": "(110) So fear Allāh and obey me.\"",
-    "footnotes": ""
-  }
+  "id": 110,
+  "verse_number": 110,
+  "page_number": 371,
+  "verse_key": "26:110",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+  "translation": "(110) So fear Allāh and obey me.\"",
+  "footnotes": ""
 }

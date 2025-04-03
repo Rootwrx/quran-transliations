@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4110",
-    "sura": "39",
-    "aya": "52",
-    "arabic_text": "أَوَلَمۡ يَعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
-    "translation": "Ashe kuma ba su sani ba cẽwa Allah, na shimfiɗa arziƙi ga wanda Yake so, kuma Yanã ƙuƙuntawa? Lalle a cikin wancan akwai ãyõyi ga mutãne waɗanda ke yin ĩmãni.",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 464,
+  "verse_key": "39:52",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَلَمۡ يَعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
+  "translation": "Ashe kuma ba su sani ba cẽwa Allah, na shimfiɗa arziƙi ga wanda Yake so, kuma Yanã ƙuƙuntawa? Lalle a cikin wancan akwai ãyõyi ga mutãne waɗanda ke yin ĩmãni.",
+  "footnotes": ""
 }

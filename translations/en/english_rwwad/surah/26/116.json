@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3048",
-    "sura": "26",
-    "aya": "116",
-    "arabic_text": "قَالُواْ لَئِن لَّمۡ تَنتَهِ يَٰنُوحُ لَتَكُونَنَّ مِنَ ٱلۡمَرۡجُومِينَ",
-    "translation": "They said, “O Noah, if you do not desist, you will certainly be stoned.”",
-    "footnotes": ""
-  }
+  "id": 116,
+  "verse_number": 116,
+  "page_number": 372,
+  "verse_key": "26:116",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ لَئِن لَّمۡ تَنتَهِ يَٰنُوحُ لَتَكُونَنَّ مِنَ ٱلۡمَرۡجُومِينَ",
+  "translation": "They said, “O Noah, if you do not desist, you will certainly be stoned.”",
+  "footnotes": ""
 }

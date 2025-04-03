@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4728",
-    "sura": "51",
-    "aya": "53",
-    "arabic_text": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
-    "translation": "Vallë, a mos ia kanë pasuar këtë njëri-tjetrit? Jo, por ata vetë janë popull që e kanë tepruar![330]",
-    "footnotes": "[330] Të gjithë profetëve, popujt e vet u kanë thënë se janë të çmendur. Kështu i kanë thënë edhe Profetit Muhamed a.s.. Por, pas pak kohe, kanë kuptuar që ajo shpifje ishte gjynah shpirtëror dhe rebelizëm në shoqëri. Prandaj, ajo shpifje ka pasur jetë të shkurtër tek të gjithë arabët dhe intelektualët e botës (përkthyesi)."
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 523,
+  "verse_key": "51:53",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
+  "translation": "Vallë, a mos ia kanë pasuar këtë njëri-tjetrit? Jo, por ata vetë janë popull që e kanë tepruar![330]",
+  "footnotes": "[330] Të gjithë profetëve, popujt e vet u kanë thënë se janë të çmendur. Kështu i kanë thënë edhe Profetit Muhamed a.s.. Por, pas pak kohe, kanë kuptuar që ajo shpifje ishte gjynah shpirtëror dhe rebelizëm në shoqëri. Prandaj, ajo shpifje ka pasur jetë të shkurtër tek të gjithë arabët dhe intelektualët e botës (përkthyesi)."
 }

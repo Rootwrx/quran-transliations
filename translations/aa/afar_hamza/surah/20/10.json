@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2358",
-    "sura": "20",
-    "aya": "10",
-    "arabic_text": "إِذۡ رَءَا نَارٗا فَقَالَ لِأَهۡلِهِ ٱمۡكُثُوٓاْ إِنِّيٓ ءَانَسۡتُ نَارٗا لَّعَلِّيٓ ءَاتِيكُم مِّنۡهَا بِقَبَسٍ أَوۡ أَجِدُ عَلَى ٱلنَّارِ هُدٗى",
-    "translation": "10.Usuk Bar urta gira yuble waqdi, tokkel isi buxah marak amakkel suga iyye, diggah anu gira ableh anik, ura dabiitay waacak laqsittaana teetik siinih baahee kee hinnay girâ garil gita neh yascasse num geyam takkehik.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 312,
+  "verse_key": "20:10",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ رَءَا نَارٗا فَقَالَ لِأَهۡلِهِ ٱمۡكُثُوٓاْ إِنِّيٓ ءَانَسۡتُ نَارٗا لَّعَلِّيٓ ءَاتِيكُم مِّنۡهَا بِقَبَسٍ أَوۡ أَجِدُ عَلَى ٱلنَّارِ هُدٗى",
+  "translation": "10.Usuk Bar urta gira yuble waqdi, tokkel isi buxah marak amakkel suga iyye, diggah anu gira ableh anik, ura dabiitay waacak laqsittaana teetik siinih baahee kee hinnay girâ garil gita neh yascasse num geyam takkehik.",
+  "footnotes": ""
 }

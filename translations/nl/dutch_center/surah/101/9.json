@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6166",
-    "sura": "101",
-    "aya": "9",
-    "arabic_text": "فَأُمُّهُۥ هَاوِيَةٞ",
-    "translation": "9. Zijn toevlucht is de hel.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 600,
+  "verse_key": "101:9",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأُمُّهُۥ هَاوِيَةٞ",
+  "translation": "9. Zijn toevlucht is de hel.",
+  "footnotes": ""
 }

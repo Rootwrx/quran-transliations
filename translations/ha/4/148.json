@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "641",
-    "sura": "4",
-    "aya": "148",
-    "arabic_text": "۞ لَّا يُحِبُّ ٱللَّهُ ٱلۡجَهۡرَ بِٱلسُّوٓءِ مِنَ ٱلۡقَوۡلِ إِلَّا مَن ظُلِمَۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
-    "translation": "Allah bã Ya son bayyanãwa da mũnãna daga magana* fãce ga wanda aka zãlunta. Kuma Allah Yã kasance Mai ji, Masani.",
-    "footnotes": "* Magana mummũna. Allah bã Ya son bayyana mugunyar magana, sai dai wanda aka zãlunta, yana iya kai ƙãra, kuma yana iya yin addu'a a kan wanda ya zãlunce shi. Sa'an nan ya shiga bayyanãwar abin da ake nufi da miyagun maganganu a cikin ãyõyin da suke bin wan nan."
-  }
+  "id": 148,
+  "verse_number": 148,
+  "page_number": 102,
+  "verse_key": "4:148",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ لَّا يُحِبُّ ٱللَّهُ ٱلۡجَهۡرَ بِٱلسُّوٓءِ مِنَ ٱلۡقَوۡلِ إِلَّا مَن ظُلِمَۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
+  "translation": "Allah bã Ya son bayyanãwa da mũnãna daga magana* fãce ga wanda aka zãlunta. Kuma Allah Yã kasance Mai ji, Masani.",
+  "footnotes": "* Magana mummũna. Allah bã Ya son bayyana mugunyar magana, sai dai wanda aka zãlunta, yana iya kai ƙãra, kuma yana iya yin addu'a a kan wanda ya zãlunce shi. Sa'an nan ya shiga bayyanãwar abin da ake nufi da miyagun maganganu a cikin ãyõyin da suke bin wan nan."
 }

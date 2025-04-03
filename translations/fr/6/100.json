@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "889",
-    "sura": "6",
-    "aya": "100",
-    "arabic_text": "وَجَعَلُواْ لِلَّهِ شُرَكَآءَ ٱلۡجِنَّ وَخَلَقَهُمۡۖ وَخَرَقُواْ لَهُۥ بَنِينَ وَبَنَٰتِۭ بِغَيۡرِ عِلۡمٖۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَصِفُونَ",
-    "translation": "Et ils ont désigné des associés à Allah: les djinns, alors que c’est Lui qui les a créés. Et ils Lui ont inventé, dans leur ignorance des fils et des filles, Gloire à Lui ! Il est bien au-dessus de ce qu’ils Lui attribuent.",
-    "footnotes": ""
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 140,
+  "verse_key": "6:100",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 56,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلُواْ لِلَّهِ شُرَكَآءَ ٱلۡجِنَّ وَخَلَقَهُمۡۖ وَخَرَقُواْ لَهُۥ بَنِينَ وَبَنَٰتِۭ بِغَيۡرِ عِلۡمٖۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يَصِفُونَ",
+  "translation": "Et ils ont désigné des associés à Allah: les djinns, alors que c’est Lui qui les a créés. Et ils Lui ont inventé, dans leur ignorance des fils et des filles, Gloire à Lui ! Il est bien au-dessus de ce qu’ils Lui attribuent.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3923",
-    "sura": "37",
-    "aya": "135",
-    "arabic_text": "إِلَّا عَجُوزٗا فِي ٱلۡغَٰبِرِينَ",
-    "translation": "135. освен старицата, таа настрада со тие што настрадаа,",
-    "footnotes": ""
-  }
+  "id": 135,
+  "verse_number": 135,
+  "page_number": 451,
+  "verse_key": "37:135",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا عَجُوزٗا فِي ٱلۡغَٰبِرِينَ",
+  "translation": "135. освен старицата, таа настрада со тие што настрадаа,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "59",
-    "sura": "2",
-    "aya": "52",
-    "arabic_text": "ثُمَّ عَفَوۡنَا عَنكُم مِّنۢ بَعۡدِ ذَٰلِكَ لَعَلَّكُمۡ تَشۡكُرُونَ",
-    "translation": "在那件事之后，我恕饶了你们，以便你们感谢。",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 8,
+  "verse_key": "2:52",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ عَفَوۡنَا عَنكُم مِّنۢ بَعۡدِ ذَٰلِكَ لَعَلَّكُمۡ تَشۡكُرُونَ",
+  "translation": "在那件事之后，我恕饶了你们，以便你们感谢。",
+  "footnotes": ""
 }

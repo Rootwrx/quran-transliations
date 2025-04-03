@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2794",
-    "sura": "24",
-    "aya": "3",
-    "arabic_text": "ٱلزَّانِي لَا يَنكِحُ إِلَّا زَانِيَةً أَوۡ مُشۡرِكَةٗ وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوۡ مُشۡرِكٞۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلۡمُؤۡمِنِينَ",
-    "translation": "Umusambanyi, ntashima gushingirwa kiretse umusambanyikazi nkawe canke umubangikanyamanakazi atemera ko ubusambanyi ari icaha. Kukaba nkako, n’umusambanyikazi nyene ntashima gushingirwa, kiretse umusambanyi nkawe canke umubangikanyamana atemera ko ubusambanyi ari icaha. Nayo abacungera ubwambure bwabo mu bemeramana, ntibashima namba gushingirwa muri ubwo buryo kuko ishingirwa nk’iryo ari ikizira ku bemeramana[2].",
-    "footnotes": "[2] Iyi Aayah, ni icemezo kiziririza ishingirwa ry’umusambanyikazi canke ry’umusambanyi atabanje kwigaya icaha c’ubusambanyi."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 350,
+  "verse_key": "24:3",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 140,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلزَّانِي لَا يَنكِحُ إِلَّا زَانِيَةً أَوۡ مُشۡرِكَةٗ وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوۡ مُشۡرِكٞۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلۡمُؤۡمِنِينَ",
+  "translation": "Umusambanyi, ntashima gushingirwa kiretse umusambanyikazi nkawe canke umubangikanyamanakazi atemera ko ubusambanyi ari icaha. Kukaba nkako, n’umusambanyikazi nyene ntashima gushingirwa, kiretse umusambanyi nkawe canke umubangikanyamana atemera ko ubusambanyi ari icaha. Nayo abacungera ubwambure bwabo mu bemeramana, ntibashima namba gushingirwa muri ubwo buryo kuko ishingirwa nk’iryo ari ikizira ku bemeramana[2].",
+  "footnotes": "[2] Iyi Aayah, ni icemezo kiziririza ishingirwa ry’umusambanyikazi canke ry’umusambanyi atabanje kwigaya icaha c’ubusambanyi."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "535",
-    "sura": "4",
-    "aya": "42",
-    "arabic_text": "يَوۡمَئِذٖ يَوَدُّ ٱلَّذِينَ كَفَرُواْ وَعَصَوُاْ ٱلرَّسُولَ لَوۡ تُسَوَّىٰ بِهِمُ ٱلۡأَرۡضُ وَلَا يَكۡتُمُونَ ٱللَّهَ حَدِيثٗا",
-    "translation": "Siku hiyo walio kufuru na wakamuasi Mtume watatamani Ardhi isawazishwe juu yao. Wala hawataweza kumficha Mwenyezi Mungu neno lolote.",
-    "footnotes": "Yatapo tokea haya watatamani hao wapinzani wanao pinga lau kuwa wangeli potea chini ya Ardhi kama wanavyo potea maiti makaburini! Na wao hawawezi kumficha Mwenyezi Mungu kitu chochote katika mambo yao, na hali zao na vitendo vyao vitadhihiri."
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 85,
+  "verse_key": "4:42",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَئِذٖ يَوَدُّ ٱلَّذِينَ كَفَرُواْ وَعَصَوُاْ ٱلرَّسُولَ لَوۡ تُسَوَّىٰ بِهِمُ ٱلۡأَرۡضُ وَلَا يَكۡتُمُونَ ٱللَّهَ حَدِيثٗا",
+  "translation": "Siku hiyo walio kufuru na wakamuasi Mtume watatamani Ardhi isawazishwe juu yao. Wala hawataweza kumficha Mwenyezi Mungu neno lolote.",
+  "footnotes": "Yatapo tokea haya watatamani hao wapinzani wanao pinga lau kuwa wangeli potea chini ya Ardhi kama wanavyo potea maiti makaburini! Na wao hawawezi kumficha Mwenyezi Mungu kitu chochote katika mambo yao, na hali zao na vitendo vyao vitadhihiri."
 }

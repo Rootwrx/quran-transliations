@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5449",
-    "sura": "72",
-    "aya": "2",
-    "arabic_text": "يَهۡدِيٓ إِلَى ٱلرُّشۡدِ فَـَٔامَنَّا بِهِۦۖ وَلَن نُّشۡرِكَ بِرَبِّنَآ أَحَدٗا",
-    "translation": "O, doğru yola yönəldir. Biz ona iman gətirdik və (bundan sonra) əsla kimsəni Rəbbimizə şərik qoşmayacağıq.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 572,
+  "verse_key": "72:2",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَهۡدِيٓ إِلَى ٱلرُّشۡدِ فَـَٔامَنَّا بِهِۦۖ وَلَن نُّشۡرِكَ بِرَبِّنَآ أَحَدٗا",
+  "translation": "O, doğru yola yönəldir. Biz ona iman gətirdik və (bundan sonra) əsla kimsəni Rəbbimizə şərik qoşmayacağıq.",
+  "footnotes": ""
 }

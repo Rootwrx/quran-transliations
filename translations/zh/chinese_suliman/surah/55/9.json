@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4910",
-    "sura": "55",
-    "aya": "9",
-    "arabic_text": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ",
-    "translation": "你们应当秉公地谨守衡度，你们不要使称量不足。",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 531,
+  "verse_key": "55:9",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَقِيمُواْ ٱلۡوَزۡنَ بِٱلۡقِسۡطِ وَلَا تُخۡسِرُواْ ٱلۡمِيزَانَ",
+  "translation": "你们应当秉公地谨守衡度，你们不要使称量不足。",
+  "footnotes": ""
 }

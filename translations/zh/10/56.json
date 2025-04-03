@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1420",
-    "sura": "10",
-    "aya": "56",
-    "arabic_text": "هُوَ يُحۡيِۦ وَيُمِيتُ وَإِلَيۡهِ تُرۡجَعُونَ",
-    "translation": "他能使死者生，能使生者死；你们只被召归于他。",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 215,
+  "verse_key": "10:56",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ يُحۡيِۦ وَيُمِيتُ وَإِلَيۡهِ تُرۡجَعُونَ",
+  "translation": "他能使死者生，能使生者死；你们只被召归于他。",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "797",
-    "sura": "6",
-    "aya": "8",
-    "arabic_text": "وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ مَلَكٞۖ وَلَوۡ أَنزَلۡنَا مَلَكٗا لَّقُضِيَ ٱلۡأَمۡرُ ثُمَّ لَا يُنظَرُونَ",
-    "translation": "Suka ce: \"Don me ba a saukar da wani malã'ika ba a gare shi?\" to dã Mun saukar da malã'ika haƙĩƙa dã an hukunta al'amarin* sa'an nan kuma ba zã a yi musu jinkiri ba.",
-    "footnotes": "* Dã an hukunta al'amari da halakarsu, dõmin idan malã'ika ya sauka ga mutãnen da ake yi wa wa'azi bayyane, to, halakarsu tã je ke nan."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 128,
+  "verse_key": "6:8",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ مَلَكٞۖ وَلَوۡ أَنزَلۡنَا مَلَكٗا لَّقُضِيَ ٱلۡأَمۡرُ ثُمَّ لَا يُنظَرُونَ",
+  "translation": "Suka ce: \"Don me ba a saukar da wani malã'ika ba a gare shi?\" to dã Mun saukar da malã'ika haƙĩƙa dã an hukunta al'amarin* sa'an nan kuma ba zã a yi musu jinkiri ba.",
+  "footnotes": "* Dã an hukunta al'amari da halakarsu, dõmin idan malã'ika ya sauka ga mutãnen da ake yi wa wa'azi bayyane, to, halakarsu tã je ke nan."
 }

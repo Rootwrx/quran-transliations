@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3855",
-    "sura": "37",
-    "aya": "67",
-    "arabic_text": "ثُمَّ إِنَّ لَهُمۡ عَلَيۡهَا لَشَوۡبٗا مِّنۡ حَمِيمٖ",
-    "translation": " Sonra onlar için, bunun üzerine kaynar bir içecek vardır.",
-    "footnotes": null
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 448,
+  "verse_key": "37:67",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ إِنَّ لَهُمۡ عَلَيۡهَا لَشَوۡبٗا مِّنۡ حَمِيمٖ",
+  "translation": " Sonra onlar için, bunun üzerine kaynar bir içecek vardır.",
+  "footnotes": null
 }

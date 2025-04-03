@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5345",
-    "sura": "69",
-    "aya": "22",
-    "arabic_text": "فِي جَنَّةٍ عَالِيَةٖ",
-    "translation": " ئېسىل جەننەتتە بولىدۇ[22].",
-    "footnotes": null
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 567,
+  "verse_key": "69:22",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي جَنَّةٍ عَالِيَةٖ",
+  "translation": " ئېسىل جەننەتتە بولىدۇ[22].",
+  "footnotes": null
 }

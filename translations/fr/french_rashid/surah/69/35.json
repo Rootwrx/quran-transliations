@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5358",
-    "sura": "69",
-    "aya": "35",
-    "arabic_text": "فَلَيۡسَ لَهُ ٱلۡيَوۡمَ هَٰهُنَا حَمِيمٞ",
-    "translation": "35 Il n’aura, ce Jour-là, ni ami pour l’assister en ce lieu,",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 568,
+  "verse_key": "69:35",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَيۡسَ لَهُ ٱلۡيَوۡمَ هَٰهُنَا حَمِيمٞ",
+  "translation": "35 Il n’aura, ce Jour-là, ni ami pour l’assister en ce lieu,",
+  "footnotes": ""
 }

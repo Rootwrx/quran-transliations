@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "949",
-    "sura": "6",
-    "aya": "160",
-    "arabic_text": "مَن جَآءَ بِٱلۡحَسَنَةِ فَلَهُۥ عَشۡرُ أَمۡثَالِهَاۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجۡزَىٰٓ إِلَّا مِثۡلَهَا وَهُمۡ لَا يُظۡلَمُونَ",
-    "translation": "Uwo wese rero azohura n’Imana Allah ku musi w’izuka yarakoze iciza, azoheza agihemberwe kigwijwe incuro cumi; nayo uwuzohura na Yo yarakoze ikibi, ntazohabwa kiretse igihano c’ikibi kimwe yakoze, abo bose rero nta na kimwe bazorenganywako.",
-    "footnotes": ""
-  }
+  "id": 160,
+  "verse_number": 160,
+  "page_number": 150,
+  "verse_key": "6:160",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَن جَآءَ بِٱلۡحَسَنَةِ فَلَهُۥ عَشۡرُ أَمۡثَالِهَاۖ وَمَن جَآءَ بِٱلسَّيِّئَةِ فَلَا يُجۡزَىٰٓ إِلَّا مِثۡلَهَا وَهُمۡ لَا يُظۡلَمُونَ",
+  "translation": "Uwo wese rero azohura n’Imana Allah ku musi w’izuka yarakoze iciza, azoheza agihemberwe kigwijwe incuro cumi; nayo uwuzohura na Yo yarakoze ikibi, ntazohabwa kiretse igihano c’ikibi kimwe yakoze, abo bose rero nta na kimwe bazorenganywako.",
+  "footnotes": ""
 }

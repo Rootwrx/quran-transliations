@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "674",
-    "sura": "5",
-    "aya": "5",
-    "arabic_text": "ٱلۡيَوۡمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُۖ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حِلّٞ لَّكُمۡ وَطَعَامُكُمۡ حِلّٞ لَّهُمۡۖ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلۡمُؤۡمِنَٰتِ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ إِذَآ ءَاتَيۡتُمُوهُنَّ أُجُورَهُنَّ مُحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِيٓ أَخۡدَانٖۗ وَمَن يَكۡفُرۡ بِٱلۡإِيمَٰنِ فَقَدۡ حَبِطَ عَمَلُهُۥ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ",
-    "translation": "Sa araw na ito, ipinahintulot para sa inyo ang mga kaaya-aya. Ang pagkain ng mga nabigyan ng Kasulatan ay ipinahihintulot para sa inyo.[5] Ang pagkain ninyo ay ipinahihintulot para sa kanila at [gayon din] ang mga babaing malinis ang puri kabilang sa mga mananampalataya at ang mga babaing malinis ang puri kabilang sa mga nabigyan ng Kasulatan bago pa ninyo, kapag nagbigay kayo sa kanila ng mga bigay-kaya sa kanila –bilang mga nagpapakalinis ng puri, hindi bilang mga mangangalunya, at hindi mga gumagawa ng mga kalaguyo. Ang sinumang tumanggi sa pananampalataya[6] ay nawalang-kabuluhan nga ang gawa niya. Siya sa Kabilang-buhay ay kabilang sa mga lugi.",
-    "footnotes": "[5] maliban sa nabanggit sa Qur’an 5:3\n[6] sa isinabatas ni Allāh"
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 107,
+  "verse_key": "5:5",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 43,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡيَوۡمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُۖ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حِلّٞ لَّكُمۡ وَطَعَامُكُمۡ حِلّٞ لَّهُمۡۖ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلۡمُؤۡمِنَٰتِ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ إِذَآ ءَاتَيۡتُمُوهُنَّ أُجُورَهُنَّ مُحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِيٓ أَخۡدَانٖۗ وَمَن يَكۡفُرۡ بِٱلۡإِيمَٰنِ فَقَدۡ حَبِطَ عَمَلُهُۥ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ",
+  "translation": "Sa araw na ito, ipinahintulot para sa inyo ang mga kaaya-aya. Ang pagkain ng mga nabigyan ng Kasulatan ay ipinahihintulot para sa inyo.[5] Ang pagkain ninyo ay ipinahihintulot para sa kanila at [gayon din] ang mga babaing malinis ang puri kabilang sa mga mananampalataya at ang mga babaing malinis ang puri kabilang sa mga nabigyan ng Kasulatan bago pa ninyo, kapag nagbigay kayo sa kanila ng mga bigay-kaya sa kanila –bilang mga nagpapakalinis ng puri, hindi bilang mga mangangalunya, at hindi mga gumagawa ng mga kalaguyo. Ang sinumang tumanggi sa pananampalataya[6] ay nawalang-kabuluhan nga ang gawa niya. Siya sa Kabilang-buhay ay kabilang sa mga lugi.",
+  "footnotes": "[5] maliban sa nabanggit sa Qur’an 5:3\n[6] sa isinabatas ni Allāh"
 }

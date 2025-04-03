@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6064",
-    "sura": "92",
-    "aya": "6",
-    "arabic_text": "وَصَدَّقَ بِٱلۡحُسۡنَىٰ",
-    "translation": "at nagpatotoo sa pinakamaganda,[1]",
-    "footnotes": "[1] Ibig sabihin: ang ipinangako ni Allāh."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 595,
+  "verse_key": "92:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَصَدَّقَ بِٱلۡحُسۡنَىٰ",
+  "translation": "at nagpatotoo sa pinakamaganda,[1]",
+  "footnotes": "[1] Ibig sabihin: ang ipinangako ni Allāh."
 }

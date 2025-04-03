@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2640",
-    "sura": "22",
-    "aya": "45",
-    "arabic_text": "فَكَأَيِّن مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَا وَهِيَ ظَالِمَةٞ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئۡرٖ مُّعَطَّلَةٖ وَقَصۡرٖ مَّشِيدٍ",
-    "translation": "Wie viele Städte, die Unrecht taten, vernichteten Wir, so daß sie wüst in Trümmern lagen, und (wie viele nun) verlassene Brunnen und hochragende Schlösser!",
-    "footnotes": null
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 337,
+  "verse_key": "22:45",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَأَيِّن مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَا وَهِيَ ظَالِمَةٞ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئۡرٖ مُّعَطَّلَةٖ وَقَصۡرٖ مَّشِيدٍ",
+  "translation": "Wie viele Städte, die Unrecht taten, vernichteten Wir, so daß sie wüst in Trümmern lagen, und (wie viele nun) verlassene Brunnen und hochragende Schlösser!",
+  "footnotes": null
 }

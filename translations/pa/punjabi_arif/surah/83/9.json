@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5857",
-    "sura": "83",
-    "aya": "9",
-    "arabic_text": "كِتَٰبٞ مَّرۡقُومٞ",
-    "translation": "9਼ ਇਹ ਇਕ ਲਿਖੀ ਹੋਈ ਕਿਤਾਬ ਹੈ (ਜਿਸ ਵਿੱਚੋਂ ਭੈੜੇ ਲੋਕਾਂ ਦੀ ਕਰਮ-ਪੱਤਰੀ) ਹੈ।",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 588,
+  "verse_key": "83:9",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كِتَٰبٞ مَّرۡقُومٞ",
+  "translation": "9਼ ਇਹ ਇਕ ਲਿਖੀ ਹੋਈ ਕਿਤਾਬ ਹੈ (ਜਿਸ ਵਿੱਚੋਂ ਭੈੜੇ ਲੋਕਾਂ ਦੀ ਕਰਮ-ਪੱਤਰੀ) ਹੈ।",
+  "footnotes": ""
 }

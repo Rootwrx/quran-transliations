@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1455",
-    "sura": "10",
-    "aya": "91",
-    "arabic_text": "ءَآلۡـَٰٔنَ وَقَدۡ عَصَيۡتَ قَبۡلُ وَكُنتَ مِنَ ٱلۡمُفۡسِدِينَ",
-    "translation": "[He was told], “Now [you believe]? You had always been disobedient, and were one of the mischief-makers!",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 219,
+  "verse_key": "10:91",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ءَآلۡـَٰٔنَ وَقَدۡ عَصَيۡتَ قَبۡلُ وَكُنتَ مِنَ ٱلۡمُفۡسِدِينَ",
+  "translation": "[He was told], “Now [you believe]? You had always been disobedient, and were one of the mischief-makers!",
+  "footnotes": ""
 }

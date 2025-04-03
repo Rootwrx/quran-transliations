@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4594",
-    "sura": "48",
-    "aya": "11",
-    "arabic_text": "سَيَقُولُ لَكَ ٱلۡمُخَلَّفُونَ مِنَ ٱلۡأَعۡرَابِ شَغَلَتۡنَآ أَمۡوَٰلُنَا وَأَهۡلُونَا فَٱسۡتَغۡفِرۡ لَنَاۚ يَقُولُونَ بِأَلۡسِنَتِهِم مَّا لَيۡسَ فِي قُلُوبِهِمۡۚ قُلۡ فَمَن يَمۡلِكُ لَكُم مِّنَ ٱللَّهِ شَيۡـًٔا إِنۡ أَرَادَ بِكُمۡ ضَرًّا أَوۡ أَرَادَ بِكُمۡ نَفۡعَۢاۚ بَلۡ كَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرَۢا",
-    "translation": "Muvugishwamana! Ababa mu micungararo y’i Madina bisibije bagasigara inyuma ntimwajana i Makka umusi wa Al-Hudaybiyya, niwabanebagura ku kwisigaza inyuma kwabo, bazokwiregura bavuga n’akarimi gasosa bati: “Twafatiriwe n’amatungo hamwe n’imiryango vyacu, turakwinginze rero udusabire ikigongwe ku Mana Allah”; maze akarimi kabo kakavuga ibihushanye n’ibiri ku mutima; babwire uti: “Ni nde yogira ico abamariye ku Mana Allah ngo abakingire mu gihe Yo, Yoshaka ko mushikirwa n’akaga, canke ngo abageramire mu gihe Yo, Yoshaka ko muroranirwa! Uko mwibaza si ko biri! Murihenda mu kwibwira ko Imana Allah Itazi uburyarya muhishije mu mishaha yanyu; ahubwo Imana Allah, Yamye Izi neza ivyo mukora vyose, ni Muhetuziwavyose”.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 512,
+  "verse_key": "48:11",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَقُولُ لَكَ ٱلۡمُخَلَّفُونَ مِنَ ٱلۡأَعۡرَابِ شَغَلَتۡنَآ أَمۡوَٰلُنَا وَأَهۡلُونَا فَٱسۡتَغۡفِرۡ لَنَاۚ يَقُولُونَ بِأَلۡسِنَتِهِم مَّا لَيۡسَ فِي قُلُوبِهِمۡۚ قُلۡ فَمَن يَمۡلِكُ لَكُم مِّنَ ٱللَّهِ شَيۡـًٔا إِنۡ أَرَادَ بِكُمۡ ضَرًّا أَوۡ أَرَادَ بِكُمۡ نَفۡعَۢاۚ بَلۡ كَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرَۢا",
+  "translation": "Muvugishwamana! Ababa mu micungararo y’i Madina bisibije bagasigara inyuma ntimwajana i Makka umusi wa Al-Hudaybiyya, niwabanebagura ku kwisigaza inyuma kwabo, bazokwiregura bavuga n’akarimi gasosa bati: “Twafatiriwe n’amatungo hamwe n’imiryango vyacu, turakwinginze rero udusabire ikigongwe ku Mana Allah”; maze akarimi kabo kakavuga ibihushanye n’ibiri ku mutima; babwire uti: “Ni nde yogira ico abamariye ku Mana Allah ngo abakingire mu gihe Yo, Yoshaka ko mushikirwa n’akaga, canke ngo abageramire mu gihe Yo, Yoshaka ko muroranirwa! Uko mwibaza si ko biri! Murihenda mu kwibwira ko Imana Allah Itazi uburyarya muhishije mu mishaha yanyu; ahubwo Imana Allah, Yamye Izi neza ivyo mukora vyose, ni Muhetuziwavyose”.",
+  "footnotes": ""
 }

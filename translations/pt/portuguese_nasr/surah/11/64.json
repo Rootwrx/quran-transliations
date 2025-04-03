@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1537",
-    "sura": "11",
-    "aya": "64",
-    "arabic_text": "وَيَٰقَوۡمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمۡ ءَايَةٗۖ فَذَرُوهَا تَأۡكُلۡ فِيٓ أَرۡضِ ٱللَّهِۖ وَلَا تَمَسُّوهَا بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابٞ قَرِيبٞ",
-    "translation": "\"E ó meu povo! Este camelo fêmea é, para vós, como sinal. Então, deixa-o comer na terra de Allah e não o toqueis com mal algum, pois, apanhar-vos-ia castigo próximo\".",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 229,
+  "verse_key": "11:64",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَٰقَوۡمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمۡ ءَايَةٗۖ فَذَرُوهَا تَأۡكُلۡ فِيٓ أَرۡضِ ٱللَّهِۖ وَلَا تَمَسُّوهَا بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابٞ قَرِيبٞ",
+  "translation": "\"E ó meu povo! Este camelo fêmea é, para vós, como sinal. Então, deixa-o comer na terra de Allah e não o toqueis com mal algum, pois, apanhar-vos-ia castigo próximo\".",
+  "footnotes": ""
 }

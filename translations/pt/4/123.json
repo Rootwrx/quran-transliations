@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "616",
-    "sura": "4",
-    "aya": "123",
-    "arabic_text": "لَّيۡسَ بِأَمَانِيِّكُمۡ وَلَآ أَمَانِيِّ أَهۡلِ ٱلۡكِتَٰبِۗ مَن يَعۡمَلۡ سُوٓءٗا يُجۡزَ بِهِۦ وَلَا يَجِدۡ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيّٗا وَلَا نَصِيرٗا",
-    "translation": "A recompensa não depende de vossos desejos nem dos desejos dos seguidores do Livro. Quem faz mal com ele será recompensado e não encontrará para si, além de Allah, protetor nem socorredor.",
-    "footnotes": ""
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 98,
+  "verse_key": "4:123",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّيۡسَ بِأَمَانِيِّكُمۡ وَلَآ أَمَانِيِّ أَهۡلِ ٱلۡكِتَٰبِۗ مَن يَعۡمَلۡ سُوٓءٗا يُجۡزَ بِهِۦ وَلَا يَجِدۡ لَهُۥ مِن دُونِ ٱللَّهِ وَلِيّٗا وَلَا نَصِيرٗا",
+  "translation": "A recompensa não depende de vossos desejos nem dos desejos dos seguidores do Livro. Quem faz mal com ele será recompensado e não encontrará para si, além de Allah, protetor nem socorredor.",
+  "footnotes": ""
 }

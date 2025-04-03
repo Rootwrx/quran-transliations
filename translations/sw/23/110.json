@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2783",
-    "sura": "23",
-    "aya": "110",
-    "arabic_text": "فَٱتَّخَذۡتُمُوهُمۡ سِخۡرِيًّا حَتَّىٰٓ أَنسَوۡكُمۡ ذِكۡرِي وَكُنتُم مِّنۡهُمۡ تَضۡحَكُونَ",
-    "translation": "Lakini nyinyi mliwakejeli hata wakakusahaulisheni kunikumbuka, na mlikuwa mkiwacheka.",
-    "footnotes": "Na nyinyi daima mlikuwa mkiwafanyia maskhara, mpaka maskhara yenu yakakusahaulisheni kunikumbuka Mimi na kuniabudu Mimi. Basi hamkuamini wala hamkut'ii. Nanyi mlikuwa mkiwacheka kwa kejeli."
-  }
+  "id": 110,
+  "verse_number": 110,
+  "page_number": 349,
+  "verse_key": "23:110",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱتَّخَذۡتُمُوهُمۡ سِخۡرِيًّا حَتَّىٰٓ أَنسَوۡكُمۡ ذِكۡرِي وَكُنتُم مِّنۡهُمۡ تَضۡحَكُونَ",
+  "translation": "Lakini nyinyi mliwakejeli hata wakakusahaulisheni kunikumbuka, na mlikuwa mkiwacheka.",
+  "footnotes": "Na nyinyi daima mlikuwa mkiwafanyia maskhara, mpaka maskhara yenu yakakusahaulisheni kunikumbuka Mimi na kuniabudu Mimi. Basi hamkuamini wala hamkut'ii. Nanyi mlikuwa mkiwacheka kwa kejeli."
 }

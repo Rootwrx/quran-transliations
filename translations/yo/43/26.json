@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4351",
-    "sura": "43",
-    "aya": "26",
-    "arabic_text": "وَإِذۡ قَالَ إِبۡرَٰهِيمُ لِأَبِيهِ وَقَوۡمِهِۦٓ إِنَّنِي بَرَآءٞ مِّمَّا تَعۡبُدُونَ",
-    "translation": "(Rántí) nígbà tí (Ànábì) ’Ibrọ̄hīm sọ fún bàbá rẹ̀ àti àwọn ènìyàn rẹ̀ pé: “Dájúdájú èmi yọwọ́ yọsẹ̀ kúrò nínú ohun tí ẹ̀ ń jọ́sìn fún.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 491,
+  "verse_key": "43:26",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ إِبۡرَٰهِيمُ لِأَبِيهِ وَقَوۡمِهِۦٓ إِنَّنِي بَرَآءٞ مِّمَّا تَعۡبُدُونَ",
+  "translation": "(Rántí) nígbà tí (Ànábì) ’Ibrọ̄hīm sọ fún bàbá rẹ̀ àti àwọn ènìyàn rẹ̀ pé: “Dájúdájú èmi yọwọ́ yọsẹ̀ kúrò nínú ohun tí ẹ̀ ń jọ́sìn fún.",
+  "footnotes": ""
 }

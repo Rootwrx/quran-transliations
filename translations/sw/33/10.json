@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3543",
-    "sura": "33",
-    "aya": "10",
-    "arabic_text": "إِذۡ جَآءُوكُم مِّن فَوۡقِكُمۡ وَمِنۡ أَسۡفَلَ مِنكُمۡ وَإِذۡ زَاغَتِ ٱلۡأَبۡصَٰرُ وَبَلَغَتِ ٱلۡقُلُوبُ ٱلۡحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
-    "translation": "Walipo kujieni kutoka juu yenu, na kutoka chini yenu; na macho yalipo kodoka, na nyoyo zikapanda kooni, nanyi mkamdhania Mwenyezi Mungu dhana mbali mbali.",
-    "footnotes": "Walipo kujieni kutoka upande wa juu ya bonde, na kutoka chini, na macho yakakodoka, na nyoyo zikapanda mpaka kwenye koo, kwa kufazaika na kubabaika. Na nyinyi katika wakati ule wa shida kubwa kila namna ya dhana zilikujieni juu ya ahadi ya Mwenyezi Mungu. Si makusudio ya maneno haya kuwa maadui walikuja kutoka kila upande. Tukiangalia ufafanuzi wa tukio hili inadhihirika kuwa makusudio ni kuwa walio kuja kutoka upande wa juu ya Waislamu, ni kabila ya Ghat'fan na walio wafuata katika wakaazi wa Najdi, kwani wao walikuja pande za juu ya Bara Arabu upande wa mashariki. Na inatudhihirikia kuwa walio kuja upande wa chini ya Waumini ni Makureshi, kwa sababu wao walikuja kutoka upande wa chini ya Bara Arabu upande wa magharibi."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 419,
+  "verse_key": "33:10",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ جَآءُوكُم مِّن فَوۡقِكُمۡ وَمِنۡ أَسۡفَلَ مِنكُمۡ وَإِذۡ زَاغَتِ ٱلۡأَبۡصَٰرُ وَبَلَغَتِ ٱلۡقُلُوبُ ٱلۡحَنَاجِرَ وَتَظُنُّونَ بِٱللَّهِ ٱلظُّنُونَا۠",
+  "translation": "Walipo kujieni kutoka juu yenu, na kutoka chini yenu; na macho yalipo kodoka, na nyoyo zikapanda kooni, nanyi mkamdhania Mwenyezi Mungu dhana mbali mbali.",
+  "footnotes": "Walipo kujieni kutoka upande wa juu ya bonde, na kutoka chini, na macho yakakodoka, na nyoyo zikapanda mpaka kwenye koo, kwa kufazaika na kubabaika. Na nyinyi katika wakati ule wa shida kubwa kila namna ya dhana zilikujieni juu ya ahadi ya Mwenyezi Mungu. Si makusudio ya maneno haya kuwa maadui walikuja kutoka kila upande. Tukiangalia ufafanuzi wa tukio hili inadhihirika kuwa makusudio ni kuwa walio kuja kutoka upande wa juu ya Waislamu, ni kabila ya Ghat'fan na walio wafuata katika wakaazi wa Najdi, kwani wao walikuja pande za juu ya Bara Arabu upande wa mashariki. Na inatudhihirikia kuwa walio kuja upande wa chini ya Waumini ni Makureshi, kwa sababu wao walikuja kutoka upande wa chini ya Bara Arabu upande wa magharibi."
 }

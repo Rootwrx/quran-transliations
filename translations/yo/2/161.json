@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "168",
-    "sura": "2",
-    "aya": "161",
-    "arabic_text": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَمَاتُواْ وَهُمۡ كُفَّارٌ أُوْلَٰٓئِكَ عَلَيۡهِمۡ لَعۡنَةُ ٱللَّهِ وَٱلۡمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجۡمَعِينَ",
-    "translation": "Dájúdájú àwọn tó ṣàì gbàgbọ́, tí wọ́n sì kú nígbà tí wọ́n jẹ́ aláìgbàgbọ́, àwọn wọ̀nyẹn ni ègún Allāhu, àti (ègún) àwọn mọlāika àti (ègún) ènìyàn pátápátá ń bẹ lórí wọn.",
-    "footnotes": ""
-  }
+  "id": 161,
+  "verse_number": 161,
+  "page_number": 24,
+  "verse_key": "2:161",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَمَاتُواْ وَهُمۡ كُفَّارٌ أُوْلَٰٓئِكَ عَلَيۡهِمۡ لَعۡنَةُ ٱللَّهِ وَٱلۡمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجۡمَعِينَ",
+  "translation": "Dájúdájú àwọn tó ṣàì gbàgbọ́, tí wọ́n sì kú nígbà tí wọ́n jẹ́ aláìgbàgbọ́, àwọn wọ̀nyẹn ni ègún Allāhu, àti (ègún) àwọn mọlāika àti (ègún) ènìyàn pátápátá ń bẹ lórí wọn.",
+  "footnotes": ""
 }

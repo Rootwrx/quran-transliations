@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5180",
-    "sura": "62",
-    "aya": "3",
-    "arabic_text": "وَءَاخَرِينَ مِنۡهُمۡ لَمَّا يَلۡحَقُواْ بِهِمۡۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "at [nagpadala rito] sa mga iba pa[1] kabilang sa kanila na hindi pa sumama sa kanila. Siya ay ang Makapangyarihan, ang Marunong.",
-    "footnotes": "[1] na mga Arabe at mga hindi Arabe."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 553,
+  "verse_key": "62:3",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 221,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاخَرِينَ مِنۡهُمۡ لَمَّا يَلۡحَقُواْ بِهِمۡۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "at [nagpadala rito] sa mga iba pa[1] kabilang sa kanila na hindi pa sumama sa kanila. Siya ay ang Makapangyarihan, ang Marunong.",
+  "footnotes": "[1] na mga Arabe at mga hindi Arabe."
 }

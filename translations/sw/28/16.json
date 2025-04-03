@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3268",
-    "sura": "28",
-    "aya": "16",
-    "arabic_text": "قَالَ رَبِّ إِنِّي ظَلَمۡتُ نَفۡسِي فَٱغۡفِرۡ لِي فَغَفَرَ لَهُۥٓۚ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ",
-    "translation": "Akasema: Mola wangu Mlezi! Hakika mimi nimejidhulumu nafsi yangu; basi nisamehe. Akamsamehe; hakika Yeye ni Mwenye kusamehe Mwenye kurehemu.",
-    "footnotes": "Musa akasema kwa kunyenyekea kwa Mwenyezi Mungu na majuto: Ewe Mola wangu Mlezi! Mimi nimejidhulumu nafsi yangu kwa niliyo yatenda. Basi nighufirie kitendo changu hichi. Mwenyezi Mungu akamuitikia ombi lake na akamsamehe. Hakika Mwenyezi Mungu ni Mkuu wa kusamehe, Mkunjufu wa rehema."
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 387,
+  "verse_key": "28:16",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّ إِنِّي ظَلَمۡتُ نَفۡسِي فَٱغۡفِرۡ لِي فَغَفَرَ لَهُۥٓۚ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ",
+  "translation": "Akasema: Mola wangu Mlezi! Hakika mimi nimejidhulumu nafsi yangu; basi nisamehe. Akamsamehe; hakika Yeye ni Mwenye kusamehe Mwenye kurehemu.",
+  "footnotes": "Musa akasema kwa kunyenyekea kwa Mwenyezi Mungu na majuto: Ewe Mola wangu Mlezi! Mimi nimejidhulumu nafsi yangu kwa niliyo yatenda. Basi nighufirie kitendo changu hichi. Mwenyezi Mungu akamuitikia ombi lake na akamsamehe. Hakika Mwenyezi Mungu ni Mkuu wa kusamehe, Mkunjufu wa rehema."
 }

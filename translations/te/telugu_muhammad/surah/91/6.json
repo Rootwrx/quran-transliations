@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6049",
-    "sura": "91",
-    "aya": "6",
-    "arabic_text": "وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا",
-    "translation": "భూమి మరియు దానిని విస్తరింపజేసిన ఆయన సాక్షిగా!",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 595,
+  "verse_key": "91:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡأَرۡضِ وَمَا طَحَىٰهَا",
+  "translation": "భూమి మరియు దానిని విస్తరింపజేసిన ఆయన సాక్షిగా!",
+  "footnotes": ""
 }

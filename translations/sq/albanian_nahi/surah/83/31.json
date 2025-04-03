@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5879",
-    "sura": "83",
-    "aya": "31",
-    "arabic_text": "وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ",
-    "translation": "Kur ktheheshin te njerëzit e vet, ata talleshin (me besimtarët)",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 588,
+  "verse_key": "83:31",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمُ ٱنقَلَبُواْ فَكِهِينَ",
+  "translation": "Kur ktheheshin te njerëzit e vet, ata talleshin (me besimtarët)",
+  "footnotes": ""
 }

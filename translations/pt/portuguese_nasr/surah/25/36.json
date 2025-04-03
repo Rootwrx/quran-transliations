@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2891",
-    "sura": "25",
-    "aya": "36",
-    "arabic_text": "فَقُلۡنَا ٱذۡهَبَآ إِلَى ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا فَدَمَّرۡنَٰهُمۡ تَدۡمِيرٗا",
-    "translation": "E dissemos: \"Ide ambos ao povo que desmentiu Nossos sinais.\" Então, destruímo-lo totalmente.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 363,
+  "verse_key": "25:36",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقُلۡنَا ٱذۡهَبَآ إِلَى ٱلۡقَوۡمِ ٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا فَدَمَّرۡنَٰهُمۡ تَدۡمِيرٗا",
+  "translation": "E dissemos: \"Ide ambos ao povo que desmentiu Nossos sinais.\" Então, destruímo-lo totalmente.",
+  "footnotes": ""
 }

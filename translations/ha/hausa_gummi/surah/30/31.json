@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3440",
-    "sura": "30",
-    "aya": "31",
-    "arabic_text": "۞ مُنِيبِينَ إِلَيۡهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلۡمُشۡرِكِينَ",
-    "translation": "Kunã mãsu mai da al'amari gare Shi, kuma ku bĩ Shi dataƙawa, kuma ku tsayar da salla, kuma kada ku kasance daga mushirikai.*",
-    "footnotes": "* Ya fassara mushirikai da ãyã ta 32. Wannan ya nũna ta yi nũni ga hana dukkan ɗarĩƙun sũfãye dõmin sunã rarraba mutãne ƙungiya-ƙungiya, kuma kõwa nã ganin abin da yake yi ko kuma wanda yake bi yã fi na wani. Kumawanda ke cikin wata ƙungiya bã zai iya haɗuwa da wata ba a lõkacin wurudinsu, a bãyan abũbuwan da suke ƙunsãwa a cikin ayyukansu na bidi'õ'i da aƙĩdõdi da suka sãɓa wa Musulunci."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 407,
+  "verse_key": "30:31",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ مُنِيبِينَ إِلَيۡهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلۡمُشۡرِكِينَ",
+  "translation": "Kunã mãsu mai da al'amari gare Shi, kuma ku bĩ Shi dataƙawa, kuma ku tsayar da salla, kuma kada ku kasance daga mushirikai.*",
+  "footnotes": "* Ya fassara mushirikai da ãyã ta 32. Wannan ya nũna ta yi nũni ga hana dukkan ɗarĩƙun sũfãye dõmin sunã rarraba mutãne ƙungiya-ƙungiya, kuma kõwa nã ganin abin da yake yi ko kuma wanda yake bi yã fi na wani. Kumawanda ke cikin wata ƙungiya bã zai iya haɗuwa da wata ba a lõkacin wurudinsu, a bãyan abũbuwan da suke ƙunsãwa a cikin ayyukansu na bidi'õ'i da aƙĩdõdi da suka sãɓa wa Musulunci."
 }

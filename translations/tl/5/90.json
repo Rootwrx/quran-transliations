@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "759",
-    "sura": "5",
-    "aya": "90",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡخَمۡرُ وَٱلۡمَيۡسِرُ وَٱلۡأَنصَابُ وَٱلۡأَزۡلَٰمُ رِجۡسٞ مِّنۡ عَمَلِ ٱلشَّيۡطَٰنِ فَٱجۡتَنِبُوهُ لَعَلَّكُمۡ تُفۡلِحُونَ",
-    "translation": "O mga sumampalataya, ang alak, ang pagpusta, ang [pag-aalay sa] mga dambana, at [ang pagsasapalaran gamit] ang mga tagdan ng palaso ay kasalaulaan lamang kabilang sa gawain ng demonyo, kaya umiwas kayo rito, nang sa gayon kayo ay magtatagumpay.",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 123,
+  "verse_key": "5:90",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡخَمۡرُ وَٱلۡمَيۡسِرُ وَٱلۡأَنصَابُ وَٱلۡأَزۡلَٰمُ رِجۡسٞ مِّنۡ عَمَلِ ٱلشَّيۡطَٰنِ فَٱجۡتَنِبُوهُ لَعَلَّكُمۡ تُفۡلِحُونَ",
+  "translation": "O mga sumampalataya, ang alak, ang pagpusta, ang [pag-aalay sa] mga dambana, at [ang pagsasapalaran gamit] ang mga tagdan ng palaso ay kasalaulaan lamang kabilang sa gawain ng demonyo, kaya umiwas kayo rito, nang sa gayon kayo ay magtatagumpay.",
+  "footnotes": ""
 }

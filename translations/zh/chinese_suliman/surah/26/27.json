@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2959",
-    "sura": "26",
-    "aya": "27",
-    "arabic_text": "قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِيٓ أُرۡسِلَ إِلَيۡكُمۡ لَمَجۡنُونٞ",
-    "translation": "法老说：“奉命来你们的这位使者，确是一个疯子。”",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 368,
+  "verse_key": "26:27",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ إِنَّ رَسُولَكُمُ ٱلَّذِيٓ أُرۡسِلَ إِلَيۡكُمۡ لَمَجۡنُونٞ",
+  "translation": "法老说：“奉命来你们的这位使者，确是一个疯子。”",
+  "footnotes": ""
 }

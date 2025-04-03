@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2657",
-    "sura": "22",
-    "aya": "62",
-    "arabic_text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِۦ هُوَ ٱلۡبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
-    "translation": "Hayo ni kwa kuwa Mwenyezi Mungu ndiye Wa Kweli, na kwamba wale wanao waomba badala yake, ni baat'ili, na hakika Mwenyezi Mungu ndiye Aliye Juu na ndiye Mkubwa.",
-    "footnotes": "Huo ndio msaada wa wenye kudhulumiwa unao tokana na Mwenyezi Mungu Mtukufu. Na kutenda kwake katika ulimwengu kama atakavyo bila ya kiwango ni kama muonavyo matokeo yake; na kwa hakika Yeye ndiye Mungu wa Haki ambaye hapana mungu mwenginewe pamoja naye. Na kwamba masanamu wanayo yaabudu washirikina ni uwongo, hayana ukweli, na Mwenyezi Mungu peke yake ndiye aliye tukuka juu ya vyote isipo kuwa Yeye Mwenyewe kwa shani yake, na ni Mkuu wa madaraka."
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 339,
+  "verse_key": "22:62",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِۦ هُوَ ٱلۡبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
+  "translation": "Hayo ni kwa kuwa Mwenyezi Mungu ndiye Wa Kweli, na kwamba wale wanao waomba badala yake, ni baat'ili, na hakika Mwenyezi Mungu ndiye Aliye Juu na ndiye Mkubwa.",
+  "footnotes": "Huo ndio msaada wa wenye kudhulumiwa unao tokana na Mwenyezi Mungu Mtukufu. Na kutenda kwake katika ulimwengu kama atakavyo bila ya kiwango ni kama muonavyo matokeo yake; na kwa hakika Yeye ndiye Mungu wa Haki ambaye hapana mungu mwenginewe pamoja naye. Na kwamba masanamu wanayo yaabudu washirikina ni uwongo, hayana ukweli, na Mwenyezi Mungu peke yake ndiye aliye tukuka juu ya vyote isipo kuwa Yeye Mwenyewe kwa shani yake, na ni Mkuu wa madaraka."
 }

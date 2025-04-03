@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5094",
-    "sura": "57",
-    "aya": "19",
-    "arabic_text": "وَٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦٓ أُوْلَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمۡ لَهُمۡ أَجۡرُهُمۡ وَنُورُهُمۡۖ وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ",
-    "translation": "19. Ir tie, kurie tiki Allahą ir Jo Pranašus – jie yra Sidikun (t. y. Pranašų pasekėjai, kurie buvo pirmieji ir patys stipriausi jų tikėjimą), ir kankiniai su savo Viešpačiu. Jie turės savo atlygį ir savo šviesą. Bet tie, kurie netiki (Allaho Vienumą – Islamo monoteizmą) ir neigia Mūsų Ajat (įrodymus, eilutes, ženklus, apreiškimus, ir t. t.), jie bus liepsnojančios Ugnies gyventojai.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 540,
+  "verse_key": "57:19",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 216,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرُسُلِهِۦٓ أُوْلَٰٓئِكَ هُمُ ٱلصِّدِّيقُونَۖ وَٱلشُّهَدَآءُ عِندَ رَبِّهِمۡ لَهُمۡ أَجۡرُهُمۡ وَنُورُهُمۡۖ وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ",
+  "translation": "19. Ir tie, kurie tiki Allahą ir Jo Pranašus – jie yra Sidikun (t. y. Pranašų pasekėjai, kurie buvo pirmieji ir patys stipriausi jų tikėjimą), ir kankiniai su savo Viešpačiu. Jie turės savo atlygį ir savo šviesą. Bet tie, kurie netiki (Allaho Vienumą – Islamo monoteizmą) ir neigia Mūsų Ajat (įrodymus, eilutes, ženklus, apreiškimus, ir t. t.), jie bus liepsnojančios Ugnies gyventojai.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3253",
-    "sura": "28",
-    "aya": "1",
-    "arabic_text": "طسٓمٓ",
-    "translation": "Tā Sīn Mīm. [1]",
-    "footnotes": "[1] Pogledati značenje spomenuto prilikom tumačenja prvog ajeta sure El-Bekare."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 385,
+  "verse_key": "28:1",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "طسٓمٓ",
+  "translation": "Tā Sīn Mīm. [1]",
+  "footnotes": "[1] Pogledati značenje spomenuto prilikom tumačenja prvog ajeta sure El-Bekare."
 }

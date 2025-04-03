@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2500",
-    "sura": "21",
-    "aya": "17",
-    "arabic_text": "لَوۡ أَرَدۡنَآ أَن نَّتَّخِذَ لَهۡوٗا لَّٱتَّخَذۡنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ",
-    "translation": "Iyo tuza kuba dushaka ibitunezeza (kugira umwana cyangwa umugore), twari kubyitoranyiriza iwacu (mu ijuru, tutarinze kubikenera kuri mwe) iyo koko tuza kuba turi ababikora.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 323,
+  "verse_key": "21:17",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَوۡ أَرَدۡنَآ أَن نَّتَّخِذَ لَهۡوٗا لَّٱتَّخَذۡنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ",
+  "translation": "Iyo tuza kuba dushaka ibitunezeza (kugira umwana cyangwa umugore), twari kubyitoranyiriza iwacu (mu ijuru, tutarinze kubikenera kuri mwe) iyo koko tuza kuba turi ababikora.",
+  "footnotes": ""
 }

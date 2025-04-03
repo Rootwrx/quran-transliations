@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5725",
-    "sura": "79",
-    "aya": "13",
-    "arabic_text": "فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ",
-    "translation": "(13) Indeed, it will be but one shout,",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 583,
+  "verse_key": "79:13",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ",
+  "translation": "(13) Indeed, it will be but one shout,",
+  "footnotes": ""
 }

@@ -1,0 +1,27 @@
+{
+  "number": 64,
+  "name": {
+    "ar": "التغابن",
+    "en": "Mutual Disillusion",
+    "transliteration": "At-Taghabun"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 108,
+  "bismillah_pre": true,
+  "verses_count": 18,
+  "words_count": 242,
+  "letters_count": 1066,
+  "pages": [
+    556,
+    557
+  ],
+  "name_simple": "At-Taghabun",
+  "name_complex": "At-Taghābun",
+  "name_arabic": "التغابن",
+  "translated_name": "The Mutual Disillusion",
+  "start_page": 556,
+  "end_page": 557
+}

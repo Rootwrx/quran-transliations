@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5271",
-    "sura": "67",
-    "aya": "30",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرٗا فَمَن يَأۡتِيكُم بِمَآءٖ مَّعِينِۭ",
-    "translation": "Ka sε: “Mo nhwε, sε εba sε monsuo mmem kͻ fͻm a, hwan na (ͻbefri Nyankopͻn akyi) ama mo nsu korͻgyee a εretene?",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 564,
+  "verse_key": "67:30",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرٗا فَمَن يَأۡتِيكُم بِمَآءٖ مَّعِينِۭ",
+  "translation": "Ka sε: “Mo nhwε, sε εba sε monsuo mmem kͻ fͻm a, hwan na (ͻbefri Nyankopͻn akyi) ama mo nsu korͻgyee a εretene?",
+  "footnotes": ""
 }

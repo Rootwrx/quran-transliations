@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "802",
-    "sura": "6",
-    "aya": "13",
-    "arabic_text": "۞ وَلَهُۥ مَا سَكَنَ فِي ٱلَّيۡلِ وَٱلنَّهَارِۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
-    "translation": "Kandi ibituje (n’ibigenda) mu ijoro n’amanywa byose ni ibye (Allah). Kandi ni We Uwumva bihebuje, Umumenyi uhebuje.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 129,
+  "verse_key": "6:13",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَهُۥ مَا سَكَنَ فِي ٱلَّيۡلِ وَٱلنَّهَارِۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "translation": "Kandi ibituje (n’ibigenda) mu ijoro n’amanywa byose ni ibye (Allah). Kandi ni We Uwumva bihebuje, Umumenyi uhebuje.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4724",
-    "sura": "51",
-    "aya": "49",
-    "arabic_text": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ",
-    "translation": "49 Nous avons créé toute chose par couple afin de vous inciter à réfléchir[1328].",
-    "footnotes": "[1328] Tous les éléments de la Création forment des couples : le ciel et la terre, le jour et la nuit, le soleil et la lune, la terre et la mer, la lumière et les ténèbres, la foi et la mécréance, la mort et la vie, le malheur et le bonheur, le Paradis et l’Enfer. Même les animaux et les plantes sont répartis en couples (Tafsîr ibn Kathîr)."
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 522,
+  "verse_key": "51:49",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِن كُلِّ شَيۡءٍ خَلَقۡنَا زَوۡجَيۡنِ لَعَلَّكُمۡ تَذَكَّرُونَ",
+  "translation": "49 Nous avons créé toute chose par couple afin de vous inciter à réfléchir[1328].",
+  "footnotes": "[1328] Tous les éléments de la Création forment des couples : le ciel et la terre, le jour et la nuit, le soleil et la lune, la terre et la mer, la lumière et les ténèbres, la foi et la mécréance, la mort et la vie, le malheur et le bonheur, le Paradis et l’Enfer. Même les animaux et les plantes sont répartis en couples (Tafsîr ibn Kathîr)."
 }

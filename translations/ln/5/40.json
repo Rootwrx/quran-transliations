@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "709",
-    "sura": "5",
-    "aya": "40",
-    "arabic_text": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ يُعَذِّبُ مَن يَشَآءُ وَيَغۡفِرُ لِمَن يَشَآءُۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "40. Boye, oyebi te ete ya sôló, bokonzi bwa likolo na nsé bozali ya Allah? Apesaka etumbu na oyo alingi, mpe alimbisaka na oyo alingi? Mpe Allah azali na bokoki mpo ya biloko binso.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 114,
+  "verse_key": "5:40",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 45,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ يُعَذِّبُ مَن يَشَآءُ وَيَغۡفِرُ لِمَن يَشَآءُۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "40. Boye, oyebi te ete ya sôló, bokonzi bwa likolo na nsé bozali ya Allah? Apesaka etumbu na oyo alingi, mpe alimbisaka na oyo alingi? Mpe Allah azali na bokoki mpo ya biloko binso.",
+  "footnotes": ""
 }

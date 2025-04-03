@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3692",
-    "sura": "35",
-    "aya": "32",
-    "arabic_text": "ثُمَّ أَوۡرَثۡنَا ٱلۡكِتَٰبَ ٱلَّذِينَ ٱصۡطَفَيۡنَا مِنۡ عِبَادِنَاۖ فَمِنۡهُمۡ ظَالِمٞ لِّنَفۡسِهِۦ وَمِنۡهُم مُّقۡتَصِدٞ وَمِنۡهُمۡ سَابِقُۢ بِٱلۡخَيۡرَٰتِ بِإِذۡنِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ",
-    "translation": "Pagkatapos ipinamana Namin ang Aklat sa mga hinirang Namin mula sa mga lingkod Namin; ngunit mayroon sa kanila na tagalabag sa katarungan sa sarili niya,[7] mayroon sa kanila na katamtaman,[8] at mayroon sa kanila na nangunguna sa mga kabutihan ayon sa pahintulot ni Allāh. Iyon ay ang malaking kabutihang-loob.[9]",
-    "footnotes": "[7] dahil sa paggawa ng mga ipinagbabawal at hindi pag-iwan ng mga tungkulin\n[8] na nakatutupad sa mga pinakamababang kailangan at umiiwas sa mga bawal na gawain\n[9] O ang malaking kalamangan."
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 438,
+  "verse_key": "35:32",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ أَوۡرَثۡنَا ٱلۡكِتَٰبَ ٱلَّذِينَ ٱصۡطَفَيۡنَا مِنۡ عِبَادِنَاۖ فَمِنۡهُمۡ ظَالِمٞ لِّنَفۡسِهِۦ وَمِنۡهُم مُّقۡتَصِدٞ وَمِنۡهُمۡ سَابِقُۢ بِٱلۡخَيۡرَٰتِ بِإِذۡنِ ٱللَّهِۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ",
+  "translation": "Pagkatapos ipinamana Namin ang Aklat sa mga hinirang Namin mula sa mga lingkod Namin; ngunit mayroon sa kanila na tagalabag sa katarungan sa sarili niya,[7] mayroon sa kanila na katamtaman,[8] at mayroon sa kanila na nangunguna sa mga kabutihan ayon sa pahintulot ni Allāh. Iyon ay ang malaking kabutihang-loob.[9]",
+  "footnotes": "[7] dahil sa paggawa ng mga ipinagbabawal at hindi pag-iwan ng mga tungkulin\n[8] na nakatutupad sa mga pinakamababang kailangan at umiiwas sa mga bawal na gawain\n[9] O ang malaking kalamangan."
 }

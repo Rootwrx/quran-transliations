@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "288",
-    "sura": "2",
-    "aya": "281",
-    "arabic_text": "وَٱتَّقُواْ يَوۡمٗا تُرۡجَعُونَ فِيهِ إِلَى ٱللَّهِۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
-    "translation": "Und hütet euch vor einem Tag, an dem ihr zu Allah zurückgebracht werdet. Dann wird jeder Seele in vollem Maß zukommen, was sie verdient hat, und es wird ihnen kein Unrecht zugefügt.",
-    "footnotes": null
-  }
+  "id": 281,
+  "verse_number": 281,
+  "page_number": 47,
+  "verse_key": "2:281",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 19,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّقُواْ يَوۡمٗا تُرۡجَعُونَ فِيهِ إِلَى ٱللَّهِۖ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
+  "translation": "Und hütet euch vor einem Tag, an dem ihr zu Allah zurückgebracht werdet. Dann wird jeder Seele in vollem Maß zukommen, was sie verdient hat, und es wird ihnen kein Unrecht zugefügt.",
+  "footnotes": null
 }

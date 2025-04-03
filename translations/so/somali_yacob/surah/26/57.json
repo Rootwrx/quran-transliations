@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2989",
-    "sura": "26",
-    "aya": "57",
-    "arabic_text": "فَأَخۡرَجۡنَٰهُم مِّن جَنَّٰتٖ وَعُيُونٖ",
-    "translation": "57. Markaasaan ka saarnay beero iyo ilo.",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 369,
+  "verse_key": "26:57",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَخۡرَجۡنَٰهُم مِّن جَنَّٰتٖ وَعُيُونٖ",
+  "translation": "57. Markaasaan ka saarnay beero iyo ilo.",
+  "footnotes": ""
 }

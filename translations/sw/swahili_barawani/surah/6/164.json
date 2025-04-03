@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "953",
-    "sura": "6",
-    "aya": "164",
-    "arabic_text": "قُلۡ أَغَيۡرَ ٱللَّهِ أَبۡغِي رَبّٗا وَهُوَ رَبُّ كُلِّ شَيۡءٖۚ وَلَا تَكۡسِبُ كُلُّ نَفۡسٍ إِلَّا عَلَيۡهَاۚ وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرۡجِعُكُمۡ فَيُنَبِّئُكُم بِمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
-    "translation": "Sema: Je nitafute Mola Mlezi asiye kuwa Mwenyezi Mungu, na hali Yeye ndiye Mola Mlezi wa kila kitu? Na kila nafsi haichumii ila nafsi yake. Na habebi mwenye kubeba mzigo wa mwenziwe. Kisha marejeo yenu ni kwa Mola wenu Mlezi, naye atakuambieni mliyo kuwa mkikhitalifiana.",
-    "footnotes": "Sema ewe Muhammad, kuwakatalia washirikina wito wao kwako, uwakubalie ushirikina wao: Nimtafute wa kumuabudu asiye kuwa Mwenyezi Mungu, na hali Yeye ndiye Muumba wa kila kitu? Na waambie kuwakatalia kuwa wao hawawezi kukubebea makosa yako ikiwa utawakubalia: Hapana nafsi inayo tenda kitu ila itapata malipo yake wenyewe peke yake. Hachukui mtu dhambi za mwenziwe. Kisha mtafufuliwa kwa Mola Mlezi wenu baada ya mauti, naye atakupeni khabari ya hayo mliyo khitalifiana kwayo duniani, katika mambo ya itikadi, na atakulipeni kwayo. Basi vipi nimuasi Mwenyezi Mungu kwa kutegemea ahadi yenu ya uwongo."
-  }
+  "id": 164,
+  "verse_number": 164,
+  "page_number": 150,
+  "verse_key": "6:164",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَغَيۡرَ ٱللَّهِ أَبۡغِي رَبّٗا وَهُوَ رَبُّ كُلِّ شَيۡءٖۚ وَلَا تَكۡسِبُ كُلُّ نَفۡسٍ إِلَّا عَلَيۡهَاۚ وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرۡجِعُكُمۡ فَيُنَبِّئُكُم بِمَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+  "translation": "Sema: Je nitafute Mola Mlezi asiye kuwa Mwenyezi Mungu, na hali Yeye ndiye Mola Mlezi wa kila kitu? Na kila nafsi haichumii ila nafsi yake. Na habebi mwenye kubeba mzigo wa mwenziwe. Kisha marejeo yenu ni kwa Mola wenu Mlezi, naye atakuambieni mliyo kuwa mkikhitalifiana.",
+  "footnotes": "Sema ewe Muhammad, kuwakatalia washirikina wito wao kwako, uwakubalie ushirikina wao: Nimtafute wa kumuabudu asiye kuwa Mwenyezi Mungu, na hali Yeye ndiye Muumba wa kila kitu? Na waambie kuwakatalia kuwa wao hawawezi kukubebea makosa yako ikiwa utawakubalia: Hapana nafsi inayo tenda kitu ila itapata malipo yake wenyewe peke yake. Hachukui mtu dhambi za mwenziwe. Kisha mtafufuliwa kwa Mola Mlezi wenu baada ya mauti, naye atakupeni khabari ya hayo mliyo khitalifiana kwayo duniani, katika mambo ya itikadi, na atakulipeni kwayo. Basi vipi nimuasi Mwenyezi Mungu kwa kutegemea ahadi yenu ya uwongo."
 }

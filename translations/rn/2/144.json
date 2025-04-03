@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "151",
-    "sura": "2",
-    "aya": "144",
-    "arabic_text": "قَدۡ نَرَىٰ تَقَلُّبَ وَجۡهِكَ فِي ٱلسَّمَآءِۖ فَلَنُوَلِّيَنَّكَ قِبۡلَةٗ تَرۡضَىٰهَاۚ فَوَلِّ وَجۡهَكَ شَطۡرَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ وَحَيۡثُ مَا كُنتُمۡ فَوَلُّواْ وُجُوهَكُمۡ شَطۡرَهُۥۗ وَإِنَّ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ لَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعۡمَلُونَ",
-    "translation": "Ntumwa y’Imana! Ni ukuri, Twarabona uko waguma urangamiza hejuru urindiriye itegeko ryohishurwa rigutumbereza amaja i Makka. Ni ukuri rero, Tuzokwerekeza ubutumbero buguhimbara, ushime. Kuva ubu rero, tumbera amaja i Makka, ahari umusigiti mutagatifu, n’aho muzoba muri hose kw’isi, muratumbera aho nyene mu gusenga. Mu vy’ukuri, abahawe Igitabu barazi neza ko gutumbera amaja i Makka ari kwo kuri kuvuye ku Mana yabo Rurema Allah, burya rero Imana Allah ntiyirengagije ivyo bakora, Izobibahembera.",
-    "footnotes": ""
-  }
+  "id": 144,
+  "verse_number": 144,
+  "page_number": 22,
+  "verse_key": "2:144",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ نَرَىٰ تَقَلُّبَ وَجۡهِكَ فِي ٱلسَّمَآءِۖ فَلَنُوَلِّيَنَّكَ قِبۡلَةٗ تَرۡضَىٰهَاۚ فَوَلِّ وَجۡهَكَ شَطۡرَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِۚ وَحَيۡثُ مَا كُنتُمۡ فَوَلُّواْ وُجُوهَكُمۡ شَطۡرَهُۥۗ وَإِنَّ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ لَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا يَعۡمَلُونَ",
+  "translation": "Ntumwa y’Imana! Ni ukuri, Twarabona uko waguma urangamiza hejuru urindiriye itegeko ryohishurwa rigutumbereza amaja i Makka. Ni ukuri rero, Tuzokwerekeza ubutumbero buguhimbara, ushime. Kuva ubu rero, tumbera amaja i Makka, ahari umusigiti mutagatifu, n’aho muzoba muri hose kw’isi, muratumbera aho nyene mu gusenga. Mu vy’ukuri, abahawe Igitabu barazi neza ko gutumbera amaja i Makka ari kwo kuri kuvuye ku Mana yabo Rurema Allah, burya rero Imana Allah ntiyirengagije ivyo bakora, Izobibahembera.",
+  "footnotes": ""
 }

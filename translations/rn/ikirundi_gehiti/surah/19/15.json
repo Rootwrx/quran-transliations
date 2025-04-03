@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2265",
-    "sura": "19",
-    "aya": "15",
-    "arabic_text": "وَسَلَٰمٌ عَلَيۡهِ يَوۡمَ وُلِدَ وَيَوۡمَ يَمُوتُ وَيَوۡمَ يُبۡعَثُ حَيّٗا",
-    "translation": "Yahya rero arakagira amahoro y’Imana Allah ku musi avuka, no ku musi yapfuye, no ku musi yazutse agasubizwa ubuzima!",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 306,
+  "verse_key": "19:15",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَسَلَٰمٌ عَلَيۡهِ يَوۡمَ وُلِدَ وَيَوۡمَ يَمُوتُ وَيَوۡمَ يُبۡعَثُ حَيّٗا",
+  "translation": "Yahya rero arakagira amahoro y’Imana Allah ku musi avuka, no ku musi yapfuye, no ku musi yazutse agasubizwa ubuzima!",
+  "footnotes": ""
 }

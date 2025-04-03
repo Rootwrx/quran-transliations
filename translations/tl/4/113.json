@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "606",
-    "sura": "4",
-    "aya": "113",
-    "arabic_text": "وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكَ وَرَحۡمَتُهُۥ لَهَمَّت طَّآئِفَةٞ مِّنۡهُمۡ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمۡۖ وَمَا يَضُرُّونَكَ مِن شَيۡءٖۚ وَأَنزَلَ ٱللَّهُ عَلَيۡكَ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَعَلَّمَكَ مَا لَمۡ تَكُن تَعۡلَمُۚ وَكَانَ فَضۡلُ ٱللَّهِ عَلَيۡكَ عَظِيمٗا",
-    "translation": "Kung hindi dahil sa kabutihang-loob ni Allāh sa iyo at sa awa Niya ay talaga sanang may nagbalak na isang pangkatin kabilang sa kanila [nagtataksil sa mga sarili] na magligaw sila sa iyo ngunit hindi sila nagliligaw kundi sa mga sarili nila at hindi sila nakapipinsala sa iyo ng anuman. Nagpababa si Allāh sa iyo ng Aklat at Karunungan[16] at nagturo Siya sa iyo ng hindi mo noon nalalaman. Laging ang kabutihang-loob ni Allāh sa iyo ay sukdulan.",
-    "footnotes": "[16] Ang Aklat at ang Karunungan ay tumutukoy sa Qur'an at Sunnah."
-  }
+  "id": 113,
+  "verse_number": 113,
+  "page_number": 96,
+  "verse_key": "4:113",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكَ وَرَحۡمَتُهُۥ لَهَمَّت طَّآئِفَةٞ مِّنۡهُمۡ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمۡۖ وَمَا يَضُرُّونَكَ مِن شَيۡءٖۚ وَأَنزَلَ ٱللَّهُ عَلَيۡكَ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَعَلَّمَكَ مَا لَمۡ تَكُن تَعۡلَمُۚ وَكَانَ فَضۡلُ ٱللَّهِ عَلَيۡكَ عَظِيمٗا",
+  "translation": "Kung hindi dahil sa kabutihang-loob ni Allāh sa iyo at sa awa Niya ay talaga sanang may nagbalak na isang pangkatin kabilang sa kanila [nagtataksil sa mga sarili] na magligaw sila sa iyo ngunit hindi sila nagliligaw kundi sa mga sarili nila at hindi sila nakapipinsala sa iyo ng anuman. Nagpababa si Allāh sa iyo ng Aklat at Karunungan[16] at nagturo Siya sa iyo ng hindi mo noon nalalaman. Laging ang kabutihang-loob ni Allāh sa iyo ay sukdulan.",
+  "footnotes": "[16] Ang Aklat at ang Karunungan ay tumutukoy sa Qur'an at Sunnah."
 }

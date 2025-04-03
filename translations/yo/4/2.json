@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "495",
-    "sura": "4",
-    "aya": "2",
-    "arabic_text": "وَءَاتُواْ ٱلۡيَتَٰمَىٰٓ أَمۡوَٰلَهُمۡۖ وَلَا تَتَبَدَّلُواْ ٱلۡخَبِيثَ بِٱلطَّيِّبِۖ وَلَا تَأۡكُلُوٓاْ أَمۡوَٰلَهُمۡ إِلَىٰٓ أَمۡوَٰلِكُمۡۚ إِنَّهُۥ كَانَ حُوبٗا كَبِيرٗا",
-    "translation": "Ẹ fún àwọn ọmọ òrukàn ní dúkìá wọn.[1] Ẹ má ṣe fi n̄ǹkan dáadáa pààrọ̀ n̄ǹkan burúkú.² Ẹ sì má ṣe jẹ dúkìá wọn mọ́ dúkìá yín; dájúdájú ó jẹ́ ẹ̀ṣẹ̀ tó tóbi.",
-    "footnotes": "1. Ìyẹn nígbà tí ọmọ òrukàn bá bàlágà, tí ó sì ní òye àmójútó dúkìá náà fúnra rẹ̀. 2. Bí àpẹ̀ẹrẹ, èyí ń ṣẹlẹ̀ nígbà tí alágbàtọ́ ọmọ-òrukàn bá fi dúkìá kan tó dára nínú àwọn dúkìá ọmọ òrukàn pààrọ̀ dúkìá tirẹ̀ tí kò dára mọ́ ọn lọ́wọ́. Allāhu sì ṣe ìṣesí yìí ní èèwọ̀."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 77,
+  "verse_key": "4:2",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاتُواْ ٱلۡيَتَٰمَىٰٓ أَمۡوَٰلَهُمۡۖ وَلَا تَتَبَدَّلُواْ ٱلۡخَبِيثَ بِٱلطَّيِّبِۖ وَلَا تَأۡكُلُوٓاْ أَمۡوَٰلَهُمۡ إِلَىٰٓ أَمۡوَٰلِكُمۡۚ إِنَّهُۥ كَانَ حُوبٗا كَبِيرٗا",
+  "translation": "Ẹ fún àwọn ọmọ òrukàn ní dúkìá wọn.[1] Ẹ má ṣe fi n̄ǹkan dáadáa pààrọ̀ n̄ǹkan burúkú.² Ẹ sì má ṣe jẹ dúkìá wọn mọ́ dúkìá yín; dájúdájú ó jẹ́ ẹ̀ṣẹ̀ tó tóbi.",
+  "footnotes": "1. Ìyẹn nígbà tí ọmọ òrukàn bá bàlágà, tí ó sì ní òye àmójútó dúkìá náà fúnra rẹ̀. 2. Bí àpẹ̀ẹrẹ, èyí ń ṣẹlẹ̀ nígbà tí alágbàtọ́ ọmọ-òrukàn bá fi dúkìá kan tó dára nínú àwọn dúkìá ọmọ òrukàn pààrọ̀ dúkìá tirẹ̀ tí kò dára mọ́ ọn lọ́wọ́. Allāhu sì ṣe ìṣesí yìí ní èèwọ̀."
 }

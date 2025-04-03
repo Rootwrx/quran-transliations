@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1313",
-    "sura": "9",
-    "aya": "78",
-    "arabic_text": "أَلَمۡ يَعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَعۡلَمُ سِرَّهُمۡ وَنَجۡوَىٰهُمۡ وَأَنَّ ٱللَّهَ عَلَّٰمُ ٱلۡغُيُوبِ",
-    "translation": "Enti wͻnnim sε Nyankopͻn Nim wͻn nsumaeε mu nsεm ne wͻn kokoa mu agyinatuo mu nsεm, na nokorε nso sε Nyankopͻn ne deε asuma ho Nimdefoͻ no?",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 199,
+  "verse_key": "9:78",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ يَعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَعۡلَمُ سِرَّهُمۡ وَنَجۡوَىٰهُمۡ وَأَنَّ ٱللَّهَ عَلَّٰمُ ٱلۡغُيُوبِ",
+  "translation": "Enti wͻnnim sε Nyankopͻn Nim wͻn nsumaeε mu nsεm ne wͻn kokoa mu agyinatuo mu nsεm, na nokorε nso sε Nyankopͻn ne deε asuma ho Nimdefoͻ no?",
+  "footnotes": ""
 }

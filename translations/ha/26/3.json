@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2935",
-    "sura": "26",
-    "aya": "3",
-    "arabic_text": "لَعَلَّكَ بَٰخِعٞ نَّفۡسَكَ أَلَّا يَكُونُواْ مُؤۡمِنِينَ",
-    "translation": "Tsammãninka kai mai zaka halakar da ranka ne, dõn ba su zamanto mũminai ba!",
-    "footnotes": "* Wannan yã nũna cewa Annabi Muhammadu yanã jin tsõron rashin ĩmãnin mutãnensa, kada ya zama shĩ ne ya gajarta daga abin da Allah Ya ɗõra a kansa, na iyar da manzanci. Haka mũmini yake, kullum girman Ubangijinsa yake dũbi, sabõda haka kõme ya yi na ɗã'a, sai ya ga kãsãwar kansa ga tsayuwa da hakkin Ubangijinsa, a kansa, ya ƙãra jin tsõro da tawãli'u."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 367,
+  "verse_key": "26:3",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَعَلَّكَ بَٰخِعٞ نَّفۡسَكَ أَلَّا يَكُونُواْ مُؤۡمِنِينَ",
+  "translation": "Tsammãninka kai mai zaka halakar da ranka ne, dõn ba su zamanto mũminai ba!",
+  "footnotes": "* Wannan yã nũna cewa Annabi Muhammadu yanã jin tsõron rashin ĩmãnin mutãnensa, kada ya zama shĩ ne ya gajarta daga abin da Allah Ya ɗõra a kansa, na iyar da manzanci. Haka mũmini yake, kullum girman Ubangijinsa yake dũbi, sabõda haka kõme ya yi na ɗã'a, sai ya ga kãsãwar kansa ga tsayuwa da hakkin Ubangijinsa, a kansa, ya ƙãra jin tsõro da tawãli'u."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1209",
-    "sura": "8",
-    "aya": "49",
-    "arabic_text": "إِذۡ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمۡۗ وَمَن يَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
-    "translation": "(Rántí) nígbà tí àwọn ṣọ̀bẹ-ṣèlu mùsùlùmí àti àwọn tí àrùn ń bẹ nínú ọkàn wọn wí pé: “Ẹ̀sìn àwọn wọ̀nyí tàn wọ́n jẹ.” Ẹnikẹ́ni tó bá gbáralé Allāhu, dájúdájú Allāhu ni Alágbára, Ọlọ́gbọ́n.",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 183,
+  "verse_key": "8:49",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمۡۗ وَمَن يَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
+  "translation": "(Rántí) nígbà tí àwọn ṣọ̀bẹ-ṣèlu mùsùlùmí àti àwọn tí àrùn ń bẹ nínú ọkàn wọn wí pé: “Ẹ̀sìn àwọn wọ̀nyí tàn wọ́n jẹ.” Ẹnikẹ́ni tó bá gbáralé Allāhu, dájúdájú Allāhu ni Alágbára, Ọlọ́gbọ́n.",
+  "footnotes": ""
 }

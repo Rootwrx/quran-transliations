@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6146",
-    "sura": "99",
-    "aya": "8",
-    "arabic_text": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
-    "translation": "8. Y quien haya realizado una mala acción, por pequeña que sea, verá (el castigo que esta merece).",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 599,
+  "verse_key": "99:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن يَعۡمَلۡ مِثۡقَالَ ذَرَّةٖ شَرّٗا يَرَهُۥ",
+  "translation": "8. Y quien haya realizado una mala acción, por pequeña que sea, verá (el castigo que esta merece).",
+  "footnotes": ""
 }

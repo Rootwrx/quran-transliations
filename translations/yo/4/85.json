@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "578",
-    "sura": "4",
-    "aya": "85",
-    "arabic_text": "مَّن يَشۡفَعۡ شَفَٰعَةً حَسَنَةٗ يَكُن لَّهُۥ نَصِيبٞ مِّنۡهَاۖ وَمَن يَشۡفَعۡ شَفَٰعَةٗ سَيِّئَةٗ يَكُن لَّهُۥ كِفۡلٞ مِّنۡهَاۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ مُّقِيتٗا",
-    "translation": "Ẹnikẹ́ni tí ó bá ṣìpẹ̀ ìṣìpẹ̀ rere, ó máa ní ìpín kan nínú rẹ̀. Ẹnikẹ́ni tí ó bá sì ṣìpẹ̀ ìṣìpẹ̀ aburú, ó máa ní ìpín kan nínú rẹ̀. Allāhu sì ń jẹ́ Alágbára lórí gbogbo n̄ǹkan[1].",
-    "footnotes": "1. “Muƙīt” túmọ̀ sí alágbára, olùṣọ́, olùṣírò, arínú-róde àti alámòójútó."
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 91,
+  "verse_key": "4:85",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّن يَشۡفَعۡ شَفَٰعَةً حَسَنَةٗ يَكُن لَّهُۥ نَصِيبٞ مِّنۡهَاۖ وَمَن يَشۡفَعۡ شَفَٰعَةٗ سَيِّئَةٗ يَكُن لَّهُۥ كِفۡلٞ مِّنۡهَاۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ مُّقِيتٗا",
+  "translation": "Ẹnikẹ́ni tí ó bá ṣìpẹ̀ ìṣìpẹ̀ rere, ó máa ní ìpín kan nínú rẹ̀. Ẹnikẹ́ni tí ó bá sì ṣìpẹ̀ ìṣìpẹ̀ aburú, ó máa ní ìpín kan nínú rẹ̀. Allāhu sì ń jẹ́ Alágbára lórí gbogbo n̄ǹkan[1].",
+  "footnotes": "1. “Muƙīt” túmọ̀ sí alágbára, olùṣọ́, olùṣírò, arínú-róde àti alámòójútó."
 }

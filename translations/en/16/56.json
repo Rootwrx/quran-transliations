@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1957",
-    "sura": "16",
-    "aya": "56",
-    "arabic_text": "وَيَجۡعَلُونَ لِمَا لَا يَعۡلَمُونَ نَصِيبٗا مِّمَّا رَزَقۡنَٰهُمۡۗ تَٱللَّهِ لَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَفۡتَرُونَ",
-    "translation": "(56) And they assign to what they do not know[703] [i.e., false deities] a portion of that which We have provided them. By Allāh, you will surely be questioned about what you used to invent.",
-    "footnotes": "[703]- i.e., that of which they have no knowledge; rather, they have mere assumption based upon tradition or the claims of misguided men."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 273,
+  "verse_key": "16:56",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَجۡعَلُونَ لِمَا لَا يَعۡلَمُونَ نَصِيبٗا مِّمَّا رَزَقۡنَٰهُمۡۗ تَٱللَّهِ لَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَفۡتَرُونَ",
+  "translation": "(56) And they assign to what they do not know[703] [i.e., false deities] a portion of that which We have provided them. By Allāh, you will surely be questioned about what you used to invent.",
+  "footnotes": "[703]- i.e., that of which they have no knowledge; rather, they have mere assumption based upon tradition or the claims of misguided men."
 }

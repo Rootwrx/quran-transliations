@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "798",
-    "sura": "6",
-    "aya": "9",
-    "arabic_text": "وَلَوۡ جَعَلۡنَٰهُ مَلَكٗا لَّجَعَلۡنَٰهُ رَجُلٗا وَلَلَبَسۡنَا عَلَيۡهِم مَّا يَلۡبِسُونَ",
-    "translation": "A da ga melekom učinimo, opet bismo ga kao čovjeka stvorili i opet bismo im učinili nejasnim ono što im jasno nije.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 129,
+  "verse_key": "6:9",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ جَعَلۡنَٰهُ مَلَكٗا لَّجَعَلۡنَٰهُ رَجُلٗا وَلَلَبَسۡنَا عَلَيۡهِم مَّا يَلۡبِسُونَ",
+  "translation": "A da ga melekom učinimo, opet bismo ga kao čovjeka stvorili i opet bismo im učinili nejasnim ono što im jasno nije.",
+  "footnotes": ""
 }

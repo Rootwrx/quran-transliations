@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6077",
-    "sura": "92",
-    "aya": "19",
-    "arabic_text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ",
-    "translation": "und niemand hat bei ihm eine Gunst (anzurechnen), die vergolten werden müßte,",
-    "footnotes": null
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 596,
+  "verse_key": "92:19",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا لِأَحَدٍ عِندَهُۥ مِن نِّعۡمَةٖ تُجۡزَىٰٓ",
+  "translation": "und niemand hat bei ihm eine Gunst (anzurechnen), die vergolten werden müßte,",
+  "footnotes": null
 }

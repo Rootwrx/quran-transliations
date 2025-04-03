@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4714",
-    "sura": "51",
-    "aya": "39",
-    "arabic_text": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ",
-    "translation": "But he and his supporters turned away, and he said about [Moses], “A magician or a madman!”",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 522,
+  "verse_key": "51:39",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتَوَلَّىٰ بِرُكۡنِهِۦ وَقَالَ سَٰحِرٌ أَوۡ مَجۡنُونٞ",
+  "translation": "But he and his supporters turned away, and he said about [Moses], “A magician or a madman!”",
+  "footnotes": ""
 }

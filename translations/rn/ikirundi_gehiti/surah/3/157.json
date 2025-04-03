@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "450",
-    "sura": "3",
-    "aya": "157",
-    "arabic_text": "وَلَئِن قُتِلۡتُمۡ فِي سَبِيلِ ٱللَّهِ أَوۡ مُتُّمۡ لَمَغۡفِرَةٞ مِّنَ ٱللَّهِ وَرَحۡمَةٌ خَيۡرٞ مِّمَّا يَجۡمَعُونَ",
-    "translation": "N’aho rero mwokwicirwa ku rugamba rwo guharanira idini, canke mugapfa urupfu rusanzwe, ni ukuri muri ico gihe, ico mukwiye kumenya ni uko ukugumirizwa akabanga ku vyaha vyanyu ntimubihanirwe, no kugirirwa impuhwe n’Imana Allah mu kuronswa Ubwami bw’ijuru, ari vyo vyiza cane kuri mwebwe kuruta isi n’ivyo abayihurumbira begeranya.",
-    "footnotes": ""
-  }
+  "id": 157,
+  "verse_number": 157,
+  "page_number": 70,
+  "verse_key": "3:157",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِن قُتِلۡتُمۡ فِي سَبِيلِ ٱللَّهِ أَوۡ مُتُّمۡ لَمَغۡفِرَةٞ مِّنَ ٱللَّهِ وَرَحۡمَةٌ خَيۡرٞ مِّمَّا يَجۡمَعُونَ",
+  "translation": "N’aho rero mwokwicirwa ku rugamba rwo guharanira idini, canke mugapfa urupfu rusanzwe, ni ukuri muri ico gihe, ico mukwiye kumenya ni uko ukugumirizwa akabanga ku vyaha vyanyu ntimubihanirwe, no kugirirwa impuhwe n’Imana Allah mu kuronswa Ubwami bw’ijuru, ari vyo vyiza cane kuri mwebwe kuruta isi n’ivyo abayihurumbira begeranya.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2291",
-    "sura": "19",
-    "aya": "41",
-    "arabic_text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ إِبۡرَٰهِيمَۚ إِنَّهُۥ كَانَ صِدِّيقٗا نَّبِيًّا",
-    "translation": "Ceritakanlah (Hai Muhammad) kisah Ibrāhīm  di dalam Alkitab (Al-Qur`ān) ini.  Sesungguhnya ia adalah seorang yang sangat membenarkan905 lagi seorang Nabi.",
-    "footnotes": "905.  Maksudnya ialah Ibrāhīm  ‘Alaihissalām adalah seorang nabi yang amat cepat membenarkan semua hal yang gaib yang datang dari Allah. "
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 308,
+  "verse_key": "19:41",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ إِبۡرَٰهِيمَۚ إِنَّهُۥ كَانَ صِدِّيقٗا نَّبِيًّا",
+  "translation": "Ceritakanlah (Hai Muhammad) kisah Ibrāhīm  di dalam Alkitab (Al-Qur`ān) ini.  Sesungguhnya ia adalah seorang yang sangat membenarkan905 lagi seorang Nabi.",
+  "footnotes": "905.  Maksudnya ialah Ibrāhīm  ‘Alaihissalām adalah seorang nabi yang amat cepat membenarkan semua hal yang gaib yang datang dari Allah. "
 }

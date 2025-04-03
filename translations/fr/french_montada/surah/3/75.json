@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "368",
-    "sura": "3",
-    "aya": "75",
-    "arabic_text": "۞ وَمِنۡ أَهۡلِ ٱلۡكِتَٰبِ مَنۡ إِن تَأۡمَنۡهُ بِقِنطَارٖ يُؤَدِّهِۦٓ إِلَيۡكَ وَمِنۡهُم مَّنۡ إِن تَأۡمَنۡهُ بِدِينَارٖ لَّا يُؤَدِّهِۦٓ إِلَيۡكَ إِلَّا مَا دُمۡتَ عَلَيۡهِ قَآئِمٗاۗ ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَيۡسَ عَلَيۡنَا فِي ٱلۡأُمِّيِّـۧنَ سَبِيلٞ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ",
-    "translation": "75. Il en est qui, parmi les gens du Livre, si tu leur confies un quintal (d’or)[115] te le restitueront, et qui, en revanche, si tu leur confies un (seul) dinar ne te le restitueront que si tu n’arrêtes pas de le leur réclamer. Car ils se disent : « Nous n’aurons aucun reproche à nous faire à propos (des biens) des illettrés. » C’est qu’ils débitent au sujet d’Allah des mensonges, et ils le savent bien. ",
-    "footnotes": "[115] Traduction du mot arabe قنطار, lequel a quelque rapport étymologique avec le mot « quintal »."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 59,
+  "verse_key": "3:75",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَمِنۡ أَهۡلِ ٱلۡكِتَٰبِ مَنۡ إِن تَأۡمَنۡهُ بِقِنطَارٖ يُؤَدِّهِۦٓ إِلَيۡكَ وَمِنۡهُم مَّنۡ إِن تَأۡمَنۡهُ بِدِينَارٖ لَّا يُؤَدِّهِۦٓ إِلَيۡكَ إِلَّا مَا دُمۡتَ عَلَيۡهِ قَآئِمٗاۗ ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَيۡسَ عَلَيۡنَا فِي ٱلۡأُمِّيِّـۧنَ سَبِيلٞ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ",
+  "translation": "75. Il en est qui, parmi les gens du Livre, si tu leur confies un quintal (d’or)[115] te le restitueront, et qui, en revanche, si tu leur confies un (seul) dinar ne te le restitueront que si tu n’arrêtes pas de le leur réclamer. Car ils se disent : « Nous n’aurons aucun reproche à nous faire à propos (des biens) des illettrés. » C’est qu’ils débitent au sujet d’Allah des mensonges, et ils le savent bien. ",
+  "footnotes": "[115] Traduction du mot arabe قنطار, lequel a quelque rapport étymologique avec le mot « quintal »."
 }

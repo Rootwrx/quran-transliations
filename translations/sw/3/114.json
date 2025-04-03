@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "407",
-    "sura": "3",
-    "aya": "114",
-    "arabic_text": "يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِۖ وَأُوْلَٰٓئِكَ مِنَ ٱلصَّٰلِحِينَ",
-    "translation": "Wanamuamini Mwenyezi Mungu na Siku ya Mwisho, na wanaamrisha mema na wanakataza maovu na wanakimbilia katika mambo ya kheri. Na hao ndio miongoni mwa watenda mema.",
-    "footnotes": "Wanaamini kweli kuwepo Mwenyezi Mungu, na kuwa Yeye ni Mmoja tu. Wanaamini Mitume wote, hawamuabudu ila Mwenyezi Mungu. Na wanaamini kuwa itafika Siku ya Kiyama; wanaamrisha ut'iifu kwa Mwenyezi Mungu, na wanakataza maasi, na wanawania kutenda mambo ya kheri. Hawa kwa Mwenyezi Mungu huhisabiwa miongoni mwa watenda wema."
-  }
+  "id": 114,
+  "verse_number": 114,
+  "page_number": 64,
+  "verse_key": "3:114",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُسَٰرِعُونَ فِي ٱلۡخَيۡرَٰتِۖ وَأُوْلَٰٓئِكَ مِنَ ٱلصَّٰلِحِينَ",
+  "translation": "Wanamuamini Mwenyezi Mungu na Siku ya Mwisho, na wanaamrisha mema na wanakataza maovu na wanakimbilia katika mambo ya kheri. Na hao ndio miongoni mwa watenda mema.",
+  "footnotes": "Wanaamini kweli kuwepo Mwenyezi Mungu, na kuwa Yeye ni Mmoja tu. Wanaamini Mitume wote, hawamuabudu ila Mwenyezi Mungu. Na wanaamini kuwa itafika Siku ya Kiyama; wanaamrisha ut'iifu kwa Mwenyezi Mungu, na wanakataza maasi, na wanawania kutenda mambo ya kheri. Hawa kwa Mwenyezi Mungu huhisabiwa miongoni mwa watenda wema."
 }

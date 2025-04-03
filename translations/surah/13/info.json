@@ -1,0 +1,27 @@
+{
+  "number": 13,
+  "name": {
+    "ar": "الرعد",
+    "en": "The Thunder",
+    "transliteration": "Ar-Ra'd"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 96,
+  "bismillah_pre": true,
+  "verses_count": 43,
+  "words_count": 854,
+  "letters_count": 3450,
+  "pages": [
+    249,
+    255
+  ],
+  "name_simple": "Ar-Ra'd",
+  "name_complex": "Ar-Ra`d",
+  "name_arabic": "الرعد",
+  "translated_name": "The Thunder",
+  "start_page": 249,
+  "end_page": 255
+}

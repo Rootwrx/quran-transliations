@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "304",
-    "sura": "3",
-    "aya": "11",
-    "arabic_text": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَذَّبُواْ بِـَٔايَٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۗ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
-    "translation": "11. (Jų) elgesys kaip Firauno (Faraono) žmonių arba tų, iki jų. Jie paneigė Mūsų Ajat (įrodymus, įkalčius, eilutes, pamokas, ženklus, apreiškimus ir t. t.). Taigi Allahas nustvėrė (sunaikino) juos už jų nuodėmes. Ir Allahas yra Rūstus bausdamas.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 51,
+  "verse_key": "3:11",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَذَّبُواْ بِـَٔايَٰتِنَا فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۗ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
+  "translation": "11. (Jų) elgesys kaip Firauno (Faraono) žmonių arba tų, iki jų. Jie paneigė Mūsų Ajat (įrodymus, įkalčius, eilutes, pamokas, ženklus, apreiškimus ir t. t.). Taigi Allahas nustvėrė (sunaikino) juos už jų nuodėmes. Ir Allahas yra Rūstus bausdamas.",
+  "footnotes": ""
 }

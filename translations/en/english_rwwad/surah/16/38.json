@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1939",
-    "sura": "16",
-    "aya": "38",
-    "arabic_text": "وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَا يَبۡعَثُ ٱللَّهُ مَن يَمُوتُۚ بَلَىٰ وَعۡدًا عَلَيۡهِ حَقّٗا وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
-    "translation": "They swear by Allah their solemn oaths that Allah will not resurrect those who die. Yes, He will! It is a true promise upon Him, but most people do not know –",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 271,
+  "verse_key": "16:38",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَا يَبۡعَثُ ٱللَّهُ مَن يَمُوتُۚ بَلَىٰ وَعۡدًا عَلَيۡهِ حَقّٗا وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+  "translation": "They swear by Allah their solemn oaths that Allah will not resurrect those who die. Yes, He will! It is a true promise upon Him, but most people do not know –",
+  "footnotes": ""
 }

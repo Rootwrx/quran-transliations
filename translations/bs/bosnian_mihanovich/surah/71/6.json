@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5425",
-    "sura": "71",
-    "aya": "6",
-    "arabic_text": "فَلَمۡ يَزِدۡهُمۡ دُعَآءِيٓ إِلَّا فِرَارٗا",
-    "translation": "ali ga je pozivanje moje još više udaljilo.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 570,
+  "verse_key": "71:6",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمۡ يَزِدۡهُمۡ دُعَآءِيٓ إِلَّا فِرَارٗا",
+  "translation": "ali ga je pozivanje moje još više udaljilo.",
+  "footnotes": ""
 }

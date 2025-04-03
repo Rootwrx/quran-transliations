@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6181",
-    "sura": "104",
-    "aya": "2",
-    "arabic_text": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ",
-    "translation": "ẹni tí ó kó dúkìá jọ, tí ó sì kà á lákàtúnkà (láì ná an fún ẹ̀sìn).",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 601,
+  "verse_key": "104:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي جَمَعَ مَالٗا وَعَدَّدَهُۥ",
+  "translation": "ẹni tí ó kó dúkìá jọ, tí ó sì kà á lákàtúnkà (láì ná an fún ẹ̀sìn).",
+  "footnotes": ""
 }

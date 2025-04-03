@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4485",
-    "sura": "45",
-    "aya": "12",
-    "arabic_text": "۞ ٱللَّهُ ٱلَّذِي سَخَّرَ لَكُمُ ٱلۡبَحۡرَ لِتَجۡرِيَ ٱلۡفُلۡكُ فِيهِ بِأَمۡرِهِۦ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
-    "translation": "Allāhu ni Ẹni tí Ó rọ agbami odò fún yín nítorí kí àwọn ọkọ̀ ojú-omi lè rìn nínú rẹ̀ pẹ̀lú àṣẹ Rẹ̀ àti nítorí kí ẹ tún lè wá nínú oore Rẹ̀ àti nítorí kí ẹ lè dúpẹ́ (fún Un).",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 499,
+  "verse_key": "45:12",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ ٱللَّهُ ٱلَّذِي سَخَّرَ لَكُمُ ٱلۡبَحۡرَ لِتَجۡرِيَ ٱلۡفُلۡكُ فِيهِ بِأَمۡرِهِۦ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+  "translation": "Allāhu ni Ẹni tí Ó rọ agbami odò fún yín nítorí kí àwọn ọkọ̀ ojú-omi lè rìn nínú rẹ̀ pẹ̀lú àṣẹ Rẹ̀ àti nítorí kí ẹ tún lè wá nínú oore Rẹ̀ àti nítorí kí ẹ lè dúpẹ́ (fún Un).",
+  "footnotes": ""
 }

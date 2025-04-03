@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5346",
-    "sura": "69",
-    "aya": "23",
-    "arabic_text": "قُطُوفُهَا دَانِيَةٞ",
-    "translation": "Àwọn èso rẹ̀ (sì) máa wà ní àrọ́wọ́tó.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 567,
+  "verse_key": "69:23",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُطُوفُهَا دَانِيَةٞ",
+  "translation": "Àwọn èso rẹ̀ (sì) máa wà ní àrọ́wọ́tó.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1055",
-    "sura": "7",
-    "aya": "101",
-    "arabic_text": "تِلۡكَ ٱلۡقُرَىٰ نَقُصُّ عَلَيۡكَ مِنۡ أَنۢبَآئِهَاۚ وَلَقَدۡ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَمَا كَانُواْ لِيُؤۡمِنُواْ بِمَا كَذَّبُواْ مِن قَبۡلُۚ كَذَٰلِكَ يَطۡبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلۡكَٰفِرِينَ",
-    "translation": "Bu, o məmləkəkdir ki, onların əhvalatlarından bəzisini sənə söyləyirik. Elçiləri onlara açıq-aydın dəlillər gətirmişdilər. Onlar isə daha öncə yalan hesab etdiklərinə görə iman gətirmədilər. Allah kafirlərin qəlblərini belə möhürləyir.",
-    "footnotes": ""
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 163,
+  "verse_key": "7:101",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ ٱلۡقُرَىٰ نَقُصُّ عَلَيۡكَ مِنۡ أَنۢبَآئِهَاۚ وَلَقَدۡ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَمَا كَانُواْ لِيُؤۡمِنُواْ بِمَا كَذَّبُواْ مِن قَبۡلُۚ كَذَٰلِكَ يَطۡبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلۡكَٰفِرِينَ",
+  "translation": "Bu, o məmləkəkdir ki, onların əhvalatlarından bəzisini sənə söyləyirik. Elçiləri onlara açıq-aydın dəlillər gətirmişdilər. Onlar isə daha öncə yalan hesab etdiklərinə görə iman gətirmədilər. Allah kafirlərin qəlblərini belə möhürləyir.",
+  "footnotes": ""
 }

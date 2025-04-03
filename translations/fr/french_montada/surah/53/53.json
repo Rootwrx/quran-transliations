@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4837",
-    "sura": "53",
-    "aya": "53",
-    "arabic_text": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ",
-    "translation": "53. et les villes renversées,[535] c’est Lui Qui les démolit :",
-    "footnotes": "[535] Ce sont les villes maudites du peuple de Loth : Sodome et Gomorrhe. "
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 528,
+  "verse_key": "53:53",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡمُؤۡتَفِكَةَ أَهۡوَىٰ",
+  "translation": "53. et les villes renversées,[535] c’est Lui Qui les démolit :",
+  "footnotes": "[535] Ce sont les villes maudites du peuple de Loth : Sodome et Gomorrhe. "
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1669",
-    "sura": "12",
-    "aya": "73",
-    "arabic_text": "قَالُواْ تَٱللَّهِ لَقَدۡ عَلِمۡتُم مَّا جِئۡنَا لِنُفۡسِدَ فِي ٱلۡأَرۡضِ وَمَا كُنَّا سَٰرِقِينَ",
-    "translation": "Disseram: \"Por Allah! Sabeis que não chegamos para semear corrupção na terra, e não somos ladrões\".",
-    "footnotes": ""
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 244,
+  "verse_key": "12:73",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ تَٱللَّهِ لَقَدۡ عَلِمۡتُم مَّا جِئۡنَا لِنُفۡسِدَ فِي ٱلۡأَرۡضِ وَمَا كُنَّا سَٰرِقِينَ",
+  "translation": "Disseram: \"Por Allah! Sabeis que não chegamos para semear corrupção na terra, e não somos ladrões\".",
+  "footnotes": ""
 }

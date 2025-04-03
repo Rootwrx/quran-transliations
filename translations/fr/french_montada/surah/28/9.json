@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3261",
-    "sura": "28",
-    "aya": "9",
-    "arabic_text": "وَقَالَتِ ٱمۡرَأَتُ فِرۡعَوۡنَ قُرَّتُ عَيۡنٖ لِّي وَلَكَۖ لَا تَقۡتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوۡ نَتَّخِذَهُۥ وَلَدٗا وَهُمۡ لَا يَشۡعُرُونَ",
-    "translation": "9. La femme de Pharaon dit : « Ce sera la joie de mes yeux et des tiens. Ne le tuez pas. Il nous sera peut-être utile, ou alors nous le prendrons comme notre fils! » Et ils ne pouvaient (encore) rien sentir.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 386,
+  "verse_key": "28:9",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَتِ ٱمۡرَأَتُ فِرۡعَوۡنَ قُرَّتُ عَيۡنٖ لِّي وَلَكَۖ لَا تَقۡتُلُوهُ عَسَىٰٓ أَن يَنفَعَنَآ أَوۡ نَتَّخِذَهُۥ وَلَدٗا وَهُمۡ لَا يَشۡعُرُونَ",
+  "translation": "9. La femme de Pharaon dit : « Ce sera la joie de mes yeux et des tiens. Ne le tuez pas. Il nous sera peut-être utile, ou alors nous le prendrons comme notre fils! » Et ils ne pouvaient (encore) rien sentir.",
+  "footnotes": ""
 }

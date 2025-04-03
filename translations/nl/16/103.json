@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2004",
-    "sura": "16",
-    "aya": "103",
-    "arabic_text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
-    "translation": "103. En voorwaar, Wij weten dat zij zeggen: “Het is slechts een mens die hem onderwijst.” De tong van de man waarna zij verwijzen is niet - Arabisch terwijl dit in zuiver Arabisch taal is.",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 279,
+  "verse_key": "16:103",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
+  "translation": "103. En voorwaar, Wij weten dat zij zeggen: “Het is slechts een mens die hem onderwijst.” De tong van de man waarna zij verwijzen is niet - Arabisch terwijl dit in zuiver Arabisch taal is.",
+  "footnotes": ""
 }

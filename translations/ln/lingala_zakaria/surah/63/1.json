@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5189",
-    "sura": "63",
-    "aya": "1",
-    "arabic_text": "إِذَا جَآءَكَ ٱلۡمُنَٰفِقُونَ قَالُواْ نَشۡهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِۗ وَٱللَّهُ يَعۡلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشۡهَدُ إِنَّ ٱلۡمُنَٰفِقِينَ لَكَٰذِبُونَ",
-    "translation": "1. Soki bato ya bilongi mibale bayeli yo bazali koloba: Tondimi ya soló ete ozali motindami ya Allah, mpe Allah ayebi ete yo ozali motindami naye, mpe Allah atatoli ya soló ete bato ya bilongi mibale bazali bato ya lokuta.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 554,
+  "verse_key": "63:1",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 221,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذَا جَآءَكَ ٱلۡمُنَٰفِقُونَ قَالُواْ نَشۡهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِۗ وَٱللَّهُ يَعۡلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشۡهَدُ إِنَّ ٱلۡمُنَٰفِقِينَ لَكَٰذِبُونَ",
+  "translation": "1. Soki bato ya bilongi mibale bayeli yo bazali koloba: Tondimi ya soló ete ozali motindami ya Allah, mpe Allah ayebi ete yo ozali motindami naye, mpe Allah atatoli ya soló ete bato ya bilongi mibale bazali bato ya lokuta.",
+  "footnotes": ""
 }

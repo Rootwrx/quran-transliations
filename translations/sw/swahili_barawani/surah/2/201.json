@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "208",
-    "sura": "2",
-    "aya": "201",
-    "arabic_text": "وَمِنۡهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ حَسَنَةٗ وَقِنَا عَذَابَ ٱلنَّارِ",
-    "translation": "Na katika wao wapo wanao sema: Mola wetu Mlezi, tupe duniani mema, na Akhera mema, na utulinde na adhabu ya Moto!",
-    "footnotes": "Na wapo watu ambao Mwenyezi Mungu amewawezesha nyoyo zao zikapelekea kuomba kheri ya dunia na Akhera, na wakamwomba Mwenyezi Mungu awaepushe na shari na adhabu ya Moto."
-  }
+  "id": 201,
+  "verse_number": 201,
+  "page_number": 31,
+  "verse_key": "2:201",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ حَسَنَةٗ وَقِنَا عَذَابَ ٱلنَّارِ",
+  "translation": "Na katika wao wapo wanao sema: Mola wetu Mlezi, tupe duniani mema, na Akhera mema, na utulinde na adhabu ya Moto!",
+  "footnotes": "Na wapo watu ambao Mwenyezi Mungu amewawezesha nyoyo zao zikapelekea kuomba kheri ya dunia na Akhera, na wakamwomba Mwenyezi Mungu awaepushe na shari na adhabu ya Moto."
 }

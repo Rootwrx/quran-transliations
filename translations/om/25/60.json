@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2915",
-    "sura": "25",
-    "aya": "60",
-    "arabic_text": "وَإِذَا قِيلَ لَهُمُ ٱسۡجُدُواْۤ لِلرَّحۡمَٰنِ قَالُواْ وَمَا ٱلرَّحۡمَٰنُ أَنَسۡجُدُ لِمَا تَأۡمُرُنَا وَزَادَهُمۡ نُفُورٗا۩",
-    "translation": "Yeroo Rahmaaniif sujuuda godhaa jedhaman “Rahmaan eenyu? Waan ati nu ajajjuufiif sujuuda goonaa?” jedhu. {Kuni Rabbirraa} fagaachuu isaaniif dabale. {1}",
-    "footnotes": "{1} sujuuda qaraatii qur'aanaatu as jira."
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 365,
+  "verse_key": "25:60",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 7,
+  "text": "وَإِذَا قِيلَ لَهُمُ ٱسۡجُدُواْۤ لِلرَّحۡمَٰنِ قَالُواْ وَمَا ٱلرَّحۡمَٰنُ أَنَسۡجُدُ لِمَا تَأۡمُرُنَا وَزَادَهُمۡ نُفُورٗا۩",
+  "translation": "Yeroo Rahmaaniif sujuuda godhaa jedhaman “Rahmaan eenyu? Waan ati nu ajajjuufiif sujuuda goonaa?” jedhu. {Kuni Rabbirraa} fagaachuu isaaniif dabale. {1}",
+  "footnotes": "{1} sujuuda qaraatii qur'aanaatu as jira."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3324",
-    "sura": "28",
-    "aya": "72",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِن جَعَلَ ٱللَّهُ عَلَيۡكُمُ ٱلنَّهَارَ سَرۡمَدًا إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ مَنۡ إِلَٰهٌ غَيۡرُ ٱللَّهِ يَأۡتِيكُم بِلَيۡلٖ تَسۡكُنُونَ فِيهِۚ أَفَلَا تُبۡصِرُونَ",
-    "translation": "Sema: Mwaonaje, Mwenyezi Mungu angeli ufanya mchana umekukalieni moja kwa moja mpaka Siku ya Kiyama, mungu gani asiye kuwa Mwenyezi Mungu ataye kuleteeni usiku mkapumzika humo? Basi je, hamwoni?",
-    "footnotes": "Ewe Mtume! Waambie watu: Mwenyezi Mungu akikujaalieni mchana mfululizo bila ya usiku mpaka Siku ya Kiyama, yupo asiye kuwa Mwenyezi Mungu wa kukuleteeni usiku mkapata kupumzika na kazi za mchana? Hamna hayo nyinyi. Basi kwa nini hamzioni Ishara za Mwenyezi Mungu, mkaamini na mkaongoka?"
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 394,
+  "verse_key": "28:72",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِن جَعَلَ ٱللَّهُ عَلَيۡكُمُ ٱلنَّهَارَ سَرۡمَدًا إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ مَنۡ إِلَٰهٌ غَيۡرُ ٱللَّهِ يَأۡتِيكُم بِلَيۡلٖ تَسۡكُنُونَ فِيهِۚ أَفَلَا تُبۡصِرُونَ",
+  "translation": "Sema: Mwaonaje, Mwenyezi Mungu angeli ufanya mchana umekukalieni moja kwa moja mpaka Siku ya Kiyama, mungu gani asiye kuwa Mwenyezi Mungu ataye kuleteeni usiku mkapumzika humo? Basi je, hamwoni?",
+  "footnotes": "Ewe Mtume! Waambie watu: Mwenyezi Mungu akikujaalieni mchana mfululizo bila ya usiku mpaka Siku ya Kiyama, yupo asiye kuwa Mwenyezi Mungu wa kukuleteeni usiku mkapata kupumzika na kazi za mchana? Hamna hayo nyinyi. Basi kwa nini hamzioni Ishara za Mwenyezi Mungu, mkaamini na mkaongoka?"
 }

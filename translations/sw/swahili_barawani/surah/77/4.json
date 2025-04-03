@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5626",
-    "sura": "77",
-    "aya": "4",
-    "arabic_text": "فَٱلۡفَٰرِقَٰتِ فَرۡقٗا",
-    "translation": "Na zinazo farikisha zikatawanya!",
-    "footnotes": "Na zenye kufarikisha baina ya kweli na uwongo kwa mfarakano ulio wazi kabisa,"
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 580,
+  "verse_key": "77:4",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱلۡفَٰرِقَٰتِ فَرۡقٗا",
+  "translation": "Na zinazo farikisha zikatawanya!",
+  "footnotes": "Na zenye kufarikisha baina ya kweli na uwongo kwa mfarakano ulio wazi kabisa,"
 }

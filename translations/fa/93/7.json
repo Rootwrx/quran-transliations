@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6086",
-    "sura": "93",
-    "aya": "7",
-    "arabic_text": "وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ",
-    "translation": "و تو را [راه‌نایافته و] سرگشته یافت، و هدایت کرد.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 596,
+  "verse_key": "93:7",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَجَدَكَ ضَآلّٗا فَهَدَىٰ",
+  "translation": "و تو را [راه‌نایافته و] سرگشته یافت، و هدایت کرد.",
+  "footnotes": ""
 }

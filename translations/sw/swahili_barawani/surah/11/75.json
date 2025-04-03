@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1548",
-    "sura": "11",
-    "aya": "75",
-    "arabic_text": "إِنَّ إِبۡرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٞ مُّنِيبٞ",
-    "translation": "Hakika Ibrahim alikuwa mpole, ana huruma, na mwepesi wa kurejea kwa Mwenyezi Mungu.",
-    "footnotes": "Hakika Ibrahim ni mpole mno, hapendelei mapatilizo ya kwa haraka, mwingi wa kuungulika na kuona uchungu kwa shida zinao wapata watu, tena yeye ni mwenye kutubu na kurejea kwa Mwenyezi Mungu kwa yale ayapendayo na kuyaridhi. Basi ule upole wake, na rehema zake, na huruma zake ndizo zilizo mpelekea kubishana kule kwa kutaraji kuwa asaa Mwenyezi Mungu akawaondolea adhabu watu wa Lut', na wao wapate kutubu na kurejea kwake."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 230,
+  "verse_key": "11:75",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ إِبۡرَٰهِيمَ لَحَلِيمٌ أَوَّٰهٞ مُّنِيبٞ",
+  "translation": "Hakika Ibrahim alikuwa mpole, ana huruma, na mwepesi wa kurejea kwa Mwenyezi Mungu.",
+  "footnotes": "Hakika Ibrahim ni mpole mno, hapendelei mapatilizo ya kwa haraka, mwingi wa kuungulika na kuona uchungu kwa shida zinao wapata watu, tena yeye ni mwenye kutubu na kurejea kwa Mwenyezi Mungu kwa yale ayapendayo na kuyaridhi. Basi ule upole wake, na rehema zake, na huruma zake ndizo zilizo mpelekea kubishana kule kwa kutaraji kuwa asaa Mwenyezi Mungu akawaondolea adhabu watu wa Lut', na wao wapate kutubu na kurejea kwake."
 }

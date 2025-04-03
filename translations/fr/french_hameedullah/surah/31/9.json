@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3478",
-    "sura": "31",
-    "aya": "9",
-    "arabic_text": "خَٰلِدِينَ فِيهَاۖ وَعۡدَ ٱللَّهِ حَقّٗاۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "pour y demeurer éternellement, - c’est en vérité une promesse d’Allah. - C’est Lui le Puissant, le Sage.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 411,
+  "verse_key": "31:9",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خَٰلِدِينَ فِيهَاۖ وَعۡدَ ٱللَّهِ حَقّٗاۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "pour y demeurer éternellement, - c’est en vérité une promesse d’Allah. - C’est Lui le Puissant, le Sage.",
+  "footnotes": ""
 }

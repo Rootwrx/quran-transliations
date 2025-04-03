@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5747",
-    "sura": "79",
-    "aya": "35",
-    "arabic_text": "يَوۡمَ يَتَذَكَّرُ ٱلۡإِنسَٰنُ مَا سَعَىٰ",
-    "translation": "on that Day man will remember all what he did,",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 584,
+  "verse_key": "79:35",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَتَذَكَّرُ ٱلۡإِنسَٰنُ مَا سَعَىٰ",
+  "translation": "on that Day man will remember all what he did,",
+  "footnotes": ""
 }

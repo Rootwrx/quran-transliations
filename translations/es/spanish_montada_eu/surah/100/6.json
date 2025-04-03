@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6152",
-    "sura": "100",
-    "aya": "6",
-    "arabic_text": "إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ",
-    "translation": "6. (por ellos juro que) el hombre es ingrato con su Señor;",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 599,
+  "verse_key": "100:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلۡإِنسَٰنَ لِرَبِّهِۦ لَكَنُودٞ",
+  "translation": "6. (por ellos juro que) el hombre es ingrato con su Señor;",
+  "footnotes": ""
 }

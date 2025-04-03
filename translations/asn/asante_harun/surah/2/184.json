@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "191",
-    "sura": "2",
-    "aya": "184",
-    "arabic_text": "أَيَّامٗا مَّعۡدُودَٰتٖۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ عَلَىٰ سَفَرٖ فَعِدَّةٞ مِّنۡ أَيَّامٍ أُخَرَۚ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدۡيَةٞ طَعَامُ مِسۡكِينٖۖ فَمَن تَطَوَّعَ خَيۡرٗا فَهُوَ خَيۡرٞ لَّهُۥۚ وَأَن تَصُومُواْ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
-    "translation": "(Akyiriwia nna no) yε nna dodoᴐ bi a yatu asi hɔ. Na momu obi a ɔyareε, anaa ͻwͻ akwantuo mu (na εno nti w’antumi annyε akyiriwia no), ͻbεyε akyiriwia (a yadeε anaa akwantuo nti wannyε no) wͻ nna foforͻ mu. Wͻn nso a (akyiriwia no) yε den ma wͻn (tesε nkɔkora ne mmerewa ne wɔn a wɔ’yare yadeε koankorɔ ne apemfoɔ ne mmaa a wɔn awo foforɔ na wɔ’rema wɔn mma nufoɔ) no, bεma ohiani aduane de ayε mpata. Obi nso a ͻbefiri ͻno ara nepε mu ayε papa bi no, εyε papa ma ɔno ara. Na sε moyε akyiriwia no a εyε ma mo paa sε anka monim (εho mfasoͻ) a.",
-    "footnotes": ""
-  }
+  "id": 184,
+  "verse_number": 184,
+  "page_number": 28,
+  "verse_key": "2:184",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 11,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَيَّامٗا مَّعۡدُودَٰتٖۚ فَمَن كَانَ مِنكُم مَّرِيضًا أَوۡ عَلَىٰ سَفَرٖ فَعِدَّةٞ مِّنۡ أَيَّامٍ أُخَرَۚ وَعَلَى ٱلَّذِينَ يُطِيقُونَهُۥ فِدۡيَةٞ طَعَامُ مِسۡكِينٖۖ فَمَن تَطَوَّعَ خَيۡرٗا فَهُوَ خَيۡرٞ لَّهُۥۚ وَأَن تَصُومُواْ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+  "translation": "(Akyiriwia nna no) yε nna dodoᴐ bi a yatu asi hɔ. Na momu obi a ɔyareε, anaa ͻwͻ akwantuo mu (na εno nti w’antumi annyε akyiriwia no), ͻbεyε akyiriwia (a yadeε anaa akwantuo nti wannyε no) wͻ nna foforͻ mu. Wͻn nso a (akyiriwia no) yε den ma wͻn (tesε nkɔkora ne mmerewa ne wɔn a wɔ’yare yadeε koankorɔ ne apemfoɔ ne mmaa a wɔn awo foforɔ na wɔ’rema wɔn mma nufoɔ) no, bεma ohiani aduane de ayε mpata. Obi nso a ͻbefiri ͻno ara nepε mu ayε papa bi no, εyε papa ma ɔno ara. Na sε moyε akyiriwia no a εyε ma mo paa sε anka monim (εho mfasoͻ) a.",
+  "footnotes": ""
 }

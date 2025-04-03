@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5408",
-    "sura": "70",
-    "aya": "33",
-    "arabic_text": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمۡ قَآئِمُونَ",
-    "translation": "àwọn tó ń dúró ti ìjẹ́rìí (òdodo) wọn;",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 569,
+  "verse_key": "70:33",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ هُم بِشَهَٰدَٰتِهِمۡ قَآئِمُونَ",
+  "translation": "àwọn tó ń dúró ti ìjẹ́rìí (òdodo) wọn;",
+  "footnotes": ""
 }

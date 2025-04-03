@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6006",
-    "sura": "89",
-    "aya": "13",
-    "arabic_text": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ",
-    "translation": "ߌ ߡߊ߰ߙߌ ߞߊ߬ ߖߊ߲߰ߞߕߊ ߦߌߟߡߊ ߟߊߛߏ߰ ߊ߬ߟߎ߫ ߞߊ߲߬ ߏ߬ ߟߋ ߘߐ߫",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 593,
+  "verse_key": "89:13",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَصَبَّ عَلَيۡهِمۡ رَبُّكَ سَوۡطَ عَذَابٍ",
+  "translation": "ߌ ߡߊ߰ߙߌ ߞߊ߬ ߖߊ߲߰ߞߕߊ ߦߌߟߡߊ ߟߊߛߏ߰ ߊ߬ߟߎ߫ ߞߊ߲߬ ߏ߬ ߟߋ ߘߐ߫",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "140",
-    "sura": "2",
-    "aya": "133",
-    "arabic_text": "أَمۡ كُنتُمۡ شُهَدَآءَ إِذۡ حَضَرَ يَعۡقُوبَ ٱلۡمَوۡتُ إِذۡ قَالَ لِبَنِيهِ مَا تَعۡبُدُونَ مِنۢ بَعۡدِيۖ قَالُواْ نَعۡبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ إِلَٰهٗا وَٰحِدٗا وَنَحۡنُ لَهُۥ مُسۡلِمُونَ",
-    "translation": "Je! Mlikuwapo yalipo mfikia Yaaqub mauti, akawaambia wanawe: Mtamuabudu nani baada yangu? Wakasema: Tutamuabudu Mungu wako na Mungu wa baba zako, Ibrahim na Ismail na Is- hak, Mungu Mmoja tu, na sisi tunasilimu kwake.",
-    "footnotes": "Na nyinyi Mayahudi mlidai kuwa nyinyi mnakwenda mwendo wa Dini aliyo kufa nayo Yaakubu. Kwani nyinyi mlikuwapo pale mauti yalipo mjia Yaakubu hata mkajua kuwa alikufa katika mila gani? Basi zindukaneni mjue ya kuwa Yaakubu na wanawe walikuwa Waislamu wenye kumuamini Mungu Mmoja, wala wao hawakuwa Mayahudi kama nyinyi, wala hawakuwa Wakristo. (\"Uyahudi\" umeanza kuitwa hivyo baada ya Yuda, mwana wa Yaakubu. \"Ukristo\" ni baada ya Isa Masihi, Yesu Kristo. Ama \"Uislamu\", yaani unyenyekevu kwa Mwenyezi Mungu, ni Dini ya maumbile, ipo milele.) Na mjue ya kuwa Yaakubu alipo kabiliwa na mauti aliwakusanya wanawe na akawaambia: Mtaabudu nini baada yangu? Na wao wakajibu: Tutamuabudu Mungu wako na Mungu wa baba zako Ibrahim na Ismail na Is-hak, Mungu Mmoja; na kwake Yeye tunanyenyekea."
-  }
+  "id": 133,
+  "verse_number": 133,
+  "page_number": 20,
+  "verse_key": "2:133",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ كُنتُمۡ شُهَدَآءَ إِذۡ حَضَرَ يَعۡقُوبَ ٱلۡمَوۡتُ إِذۡ قَالَ لِبَنِيهِ مَا تَعۡبُدُونَ مِنۢ بَعۡدِيۖ قَالُواْ نَعۡبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ إِلَٰهٗا وَٰحِدٗا وَنَحۡنُ لَهُۥ مُسۡلِمُونَ",
+  "translation": "Je! Mlikuwapo yalipo mfikia Yaaqub mauti, akawaambia wanawe: Mtamuabudu nani baada yangu? Wakasema: Tutamuabudu Mungu wako na Mungu wa baba zako, Ibrahim na Ismail na Is- hak, Mungu Mmoja tu, na sisi tunasilimu kwake.",
+  "footnotes": "Na nyinyi Mayahudi mlidai kuwa nyinyi mnakwenda mwendo wa Dini aliyo kufa nayo Yaakubu. Kwani nyinyi mlikuwapo pale mauti yalipo mjia Yaakubu hata mkajua kuwa alikufa katika mila gani? Basi zindukaneni mjue ya kuwa Yaakubu na wanawe walikuwa Waislamu wenye kumuamini Mungu Mmoja, wala wao hawakuwa Mayahudi kama nyinyi, wala hawakuwa Wakristo. (\"Uyahudi\" umeanza kuitwa hivyo baada ya Yuda, mwana wa Yaakubu. \"Ukristo\" ni baada ya Isa Masihi, Yesu Kristo. Ama \"Uislamu\", yaani unyenyekevu kwa Mwenyezi Mungu, ni Dini ya maumbile, ipo milele.) Na mjue ya kuwa Yaakubu alipo kabiliwa na mauti aliwakusanya wanawe na akawaambia: Mtaabudu nini baada yangu? Na wao wakajibu: Tutamuabudu Mungu wako na Mungu wa baba zako Ibrahim na Ismail na Is-hak, Mungu Mmoja; na kwake Yeye tunanyenyekea."
 }

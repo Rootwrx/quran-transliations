@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5045",
-    "sura": "56",
-    "aya": "66",
-    "arabic_text": "إِنَّا لَمُغۡرَمُونَ",
-    "translation": "[Ва чунон нобудаш мекардем, ки бигӯед] «Мо зиён кардаем,",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 536,
+  "verse_key": "56:66",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا لَمُغۡرَمُونَ",
+  "translation": "[Ва чунон нобудаш мекардем, ки бигӯед] «Мо зиён кардаем,",
+  "footnotes": ""
 }

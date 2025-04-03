@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1448",
-    "sura": "10",
-    "aya": "84",
-    "arabic_text": "وَقَالَ مُوسَىٰ يَٰقَوۡمِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ فَعَلَيۡهِ تَوَكَّلُوٓاْ إِن كُنتُم مُّسۡلِمِينَ",
-    "translation": "E Moisés disse: \"Ó meu povo! Se credes em Allah, nEle confiais, se sois submissos\"",
-    "footnotes": ""
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 218,
+  "verse_key": "10:84",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ مُوسَىٰ يَٰقَوۡمِ إِن كُنتُمۡ ءَامَنتُم بِٱللَّهِ فَعَلَيۡهِ تَوَكَّلُوٓاْ إِن كُنتُم مُّسۡلِمِينَ",
+  "translation": "E Moisés disse: \"Ó meu povo! Se credes em Allah, nEle confiais, se sois submissos\"",
+  "footnotes": ""
 }

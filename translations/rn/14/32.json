@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1782",
-    "sura": "14",
-    "aya": "32",
-    "arabic_text": "ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزۡقٗا لَّكُمۡۖ وَسَخَّرَ لَكُمُ ٱلۡفُلۡكَ لِتَجۡرِيَ فِي ٱلۡبَحۡرِ بِأَمۡرِهِۦۖ وَسَخَّرَ لَكُمُ ٱلۡأَنۡهَٰرَ",
-    "translation": "Imana Allah Yaremye amajuru n’isi, Iraheza Ituma n’imvura igwa ivuye mu bicu izananye mu kirere, Iratotahaza isi yagadutse, maze Ibamereshereza ivyamwa bibabeshaho hakoreshejwe nya mazi y’imvura, Iborohereza ku burenganzira bwayo kugendera mu bwato busunikwa n’umuyaga buciye mw’ibahari, Ibashoboza no kwikora ku nzuzi mu kunywa mwebwe hamwe n'ibitungwa vyanyu, no mu kuvomera indimo, n'ibindi;",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 259,
+  "verse_key": "14:32",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ ٱلَّذِي خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجَ بِهِۦ مِنَ ٱلثَّمَرَٰتِ رِزۡقٗا لَّكُمۡۖ وَسَخَّرَ لَكُمُ ٱلۡفُلۡكَ لِتَجۡرِيَ فِي ٱلۡبَحۡرِ بِأَمۡرِهِۦۖ وَسَخَّرَ لَكُمُ ٱلۡأَنۡهَٰرَ",
+  "translation": "Imana Allah Yaremye amajuru n’isi, Iraheza Ituma n’imvura igwa ivuye mu bicu izananye mu kirere, Iratotahaza isi yagadutse, maze Ibamereshereza ivyamwa bibabeshaho hakoreshejwe nya mazi y’imvura, Iborohereza ku burenganzira bwayo kugendera mu bwato busunikwa n’umuyaga buciye mw’ibahari, Ibashoboza no kwikora ku nzuzi mu kunywa mwebwe hamwe n'ibitungwa vyanyu, no mu kuvomera indimo, n'ibindi;",
+  "footnotes": ""
 }

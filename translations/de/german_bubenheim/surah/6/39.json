@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "828",
-    "sura": "6",
-    "aya": "39",
-    "arabic_text": "وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا صُمّٞ وَبُكۡمٞ فِي ٱلظُّلُمَٰتِۗ مَن يَشَإِ ٱللَّهُ يُضۡلِلۡهُ وَمَن يَشَأۡ يَجۡعَلۡهُ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "Und diejenigen, die Unsere Zeichen für Lüge erklären, sind taub und stumm in Finsternissen. Wen Allah will, den läßt Er in die Irre gehen, und wen Er will, den bringt Er auf einen geraden Weg.",
-    "footnotes": null
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 132,
+  "verse_key": "6:39",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا صُمّٞ وَبُكۡمٞ فِي ٱلظُّلُمَٰتِۗ مَن يَشَإِ ٱللَّهُ يُضۡلِلۡهُ وَمَن يَشَأۡ يَجۡعَلۡهُ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "Und diejenigen, die Unsere Zeichen für Lüge erklären, sind taub und stumm in Finsternissen. Wen Allah will, den läßt Er in die Irre gehen, und wen Er will, den bringt Er auf einen geraden Weg.",
+  "footnotes": null
 }

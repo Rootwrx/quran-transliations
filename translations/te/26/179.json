@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3111",
-    "sura": "26",
-    "aya": "179",
-    "arabic_text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
-    "translation": "కావున మీరు అల్లాహ్ యందు భయభక్తులు కలిగి ఉండండి మరియు నన్ను అనుసరించండి.",
-    "footnotes": ""
-  }
+  "id": 179,
+  "verse_number": 179,
+  "page_number": 374,
+  "verse_key": "26:179",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+  "translation": "కావున మీరు అల్లాహ్ యందు భయభక్తులు కలిగి ఉండండి మరియు నన్ను అనుసరించండి.",
+  "footnotes": ""
 }

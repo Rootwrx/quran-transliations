@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4072",
-    "sura": "39",
-    "aya": "14",
-    "arabic_text": "قُلِ ٱللَّهَ أَعۡبُدُ مُخۡلِصٗا لَّهُۥ دِينِي",
-    "translation": "Sọ pé: “Allāhu ni èmi yóò máa jọ́sìn fún lẹ́ni tí èmi yóò máa fi àfọ̀mọ́-ọkàn (àníyàn mímọ́) ṣe ẹ̀sìn mi fún Un",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 460,
+  "verse_key": "39:14",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهَ أَعۡبُدُ مُخۡلِصٗا لَّهُۥ دِينِي",
+  "translation": "Sọ pé: “Allāhu ni èmi yóò máa jọ́sìn fún lẹ́ni tí èmi yóò máa fi àfọ̀mọ́-ọkàn (àníyàn mímọ́) ṣe ẹ̀sìn mi fún Un",
+  "footnotes": ""
 }

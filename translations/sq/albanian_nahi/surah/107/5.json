@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6202",
-    "sura": "107",
-    "aya": "5",
-    "arabic_text": "ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ",
-    "translation": "janë të pakujdesshëm për namazet,[432]",
-    "footnotes": "[432] Sipas komentuesve të Kuranit, vargjet 4-5 bëjnë fjalë ose për hipokritët, të cilët falen vetëm kur janë me të tjerët dhe jo kur janë vetëm, ose për ata besimtarë që nuk falen rregullisht, por që e falin namazin jashtë kohës së tij apo e falin përgjithësisht në fund të kohës së tij, duke mos i kryer si duhet rregullat e tij dhe pa qenë të përqendruar në të. Gjithsesi, kërcënimi i përfshin të gjitha këto kategori, por, atij që bën vetëm një pjesë prej këtyre veprave, i takon vetëm një pjesë prej kërcënimit, ndërsa atij që i bën të gjitha këto, i takon i plotë kërcënimi."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 602,
+  "verse_key": "107:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ هُمۡ عَن صَلَاتِهِمۡ سَاهُونَ",
+  "translation": "janë të pakujdesshëm për namazet,[432]",
+  "footnotes": "[432] Sipas komentuesve të Kuranit, vargjet 4-5 bëjnë fjalë ose për hipokritët, të cilët falen vetëm kur janë me të tjerët dhe jo kur janë vetëm, ose për ata besimtarë që nuk falen rregullisht, por që e falin namazin jashtë kohës së tij apo e falin përgjithësisht në fund të kohës së tij, duke mos i kryer si duhet rregullat e tij dhe pa qenë të përqendruar në të. Gjithsesi, kërcënimi i përfshin të gjitha këto kategori, por, atij që bën vetëm një pjesë prej këtyre veprave, i takon vetëm një pjesë prej kërcënimit, ndërsa atij që i bën të gjitha këto, i takon i plotë kërcënimi."
 }

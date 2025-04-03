@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3897",
-    "sura": "37",
-    "aya": "109",
-    "arabic_text": "سَلَٰمٌ عَلَىٰٓ إِبۡرَٰهِيمَ",
-    "translation": "“祝易卜拉欣平安！”",
-    "footnotes": ""
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 450,
+  "verse_key": "37:109",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَلَٰمٌ عَلَىٰٓ إِبۡرَٰهِيمَ",
+  "translation": "“祝易卜拉欣平安！”",
+  "footnotes": ""
 }

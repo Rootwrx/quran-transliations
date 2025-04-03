@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1034",
-    "sura": "7",
-    "aya": "80",
-    "arabic_text": "وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦٓ أَتَأۡتُونَ ٱلۡفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنۡ أَحَدٖ مِّنَ ٱلۡعَٰلَمِينَ",
-    "translation": "Lût’u da gönderdik. Kavmine: Sizden önce tüm alemlerde hiç kimsenin yapmadığı ahlaksızlığı mı yapıyorsunuz?",
-    "footnotes": null
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 160,
+  "verse_key": "7:80",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦٓ أَتَأۡتُونَ ٱلۡفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنۡ أَحَدٖ مِّنَ ٱلۡعَٰلَمِينَ",
+  "translation": "Lût’u da gönderdik. Kavmine: Sizden önce tüm alemlerde hiç kimsenin yapmadığı ahlaksızlığı mı yapıyorsunuz?",
+  "footnotes": null
 }

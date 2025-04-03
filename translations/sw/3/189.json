@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "482",
-    "sura": "3",
-    "aya": "189",
-    "arabic_text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
-    "translation": "Na Ufalme wa Mbingu na Ardhi ni wa Mwenyezi Mungu; na Mwenyezi Mungu ni Mwenye uweza juu ya kila kitu.",
-    "footnotes": "Mwenyezi Mungu pekee ndiye Mwenye mamlaka ya kila jambo la Mbinguni na duniani. Naye ni Muweza wa kila kitu. Atawashika wenye dhambi kwa dhambi zao, na atawalipa thawabu watendao mema kwa wema wao."
-  }
+  "id": 189,
+  "verse_number": 189,
+  "page_number": 75,
+  "verse_key": "3:189",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+  "translation": "Na Ufalme wa Mbingu na Ardhi ni wa Mwenyezi Mungu; na Mwenyezi Mungu ni Mwenye uweza juu ya kila kitu.",
+  "footnotes": "Mwenyezi Mungu pekee ndiye Mwenye mamlaka ya kila jambo la Mbinguni na duniani. Naye ni Muweza wa kila kitu. Atawashika wenye dhambi kwa dhambi zao, na atawalipa thawabu watendao mema kwa wema wao."
 }

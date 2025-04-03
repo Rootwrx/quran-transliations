@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3409",
-    "sura": "29",
-    "aya": "69",
-    "arabic_text": "وَٱلَّذِينَ جَٰهَدُواْ فِينَا لَنَهۡدِيَنَّهُمۡ سُبُلَنَاۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلۡمُحۡسِنِينَ",
-    "translation": "Abemeramana baduharaniye Twebwe Allah mu guhangana n’abansi bacu, bakarwanya ivyipfuzo vyabo, bakirinda n’inyoshambi za shetani, bagaheza bakihanganira n’igeragezwa mu buzima bwabo, maze ivyo vyose bakabigira ku bwacu Twebwe Allah, nta nkeka ko Tuzobarongora mu nzira yo gukora ivyiza, Tunabatsimbataze ku kuri. Burya Imana Allah, ni ukuri Yamye Iri kumwe n’abagwaneza mu kubabungabunga, mu kubarongora, mu kubatabara no mu kubatera intege.",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 404,
+  "verse_key": "29:69",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ جَٰهَدُواْ فِينَا لَنَهۡدِيَنَّهُمۡ سُبُلَنَاۚ وَإِنَّ ٱللَّهَ لَمَعَ ٱلۡمُحۡسِنِينَ",
+  "translation": "Abemeramana baduharaniye Twebwe Allah mu guhangana n’abansi bacu, bakarwanya ivyipfuzo vyabo, bakirinda n’inyoshambi za shetani, bagaheza bakihanganira n’igeragezwa mu buzima bwabo, maze ivyo vyose bakabigira ku bwacu Twebwe Allah, nta nkeka ko Tuzobarongora mu nzira yo gukora ivyiza, Tunabatsimbataze ku kuri. Burya Imana Allah, ni ukuri Yamye Iri kumwe n’abagwaneza mu kubabungabunga, mu kubarongora, mu kubatabara no mu kubatera intege.",
+  "footnotes": ""
 }

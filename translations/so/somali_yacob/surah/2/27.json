@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "34",
-    "sura": "2",
-    "aya": "27",
-    "arabic_text": "ٱلَّذِينَ يَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِيثَٰقِهِۦ وَيَقۡطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفۡسِدُونَ فِي ٱلۡأَرۡضِۚ أُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
-    "translation": "27. Ee ah kuwa ka baxa ballanka Alle kaddib sugiddiisa, oo gooya waxa Alle uu amray in la xidhiidhiyo (oo la wanaajiyo sida qaraabada iyo deriska), ee ku fala fasahaad arlada, kuwaasi weeye kuwa khasaaray7.",
-    "footnotes": "7. Khasaaro ama fisiq (caasiyoobid) ama dulmi (gef - gardarro) ama kufri (gaalnimo) oo lagu sheego cidaan muslim ahayn waxaa loola jeedaa heer gaalnimo weyn ee diinta bannaanka lagaga yahay, wixii se khasaaro ama fisiq ama dulmi ama gaalnimo ah oo Alle ku sheego qof Muslim ah waxaa loola jeedaa inuu ku jiro denbi aad u weyn aanse diinta looga bixin."
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 5,
+  "verse_key": "2:27",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِيثَٰقِهِۦ وَيَقۡطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفۡسِدُونَ فِي ٱلۡأَرۡضِۚ أُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+  "translation": "27. Ee ah kuwa ka baxa ballanka Alle kaddib sugiddiisa, oo gooya waxa Alle uu amray in la xidhiidhiyo (oo la wanaajiyo sida qaraabada iyo deriska), ee ku fala fasahaad arlada, kuwaasi weeye kuwa khasaaray7.",
+  "footnotes": "7. Khasaaro ama fisiq (caasiyoobid) ama dulmi (gef - gardarro) ama kufri (gaalnimo) oo lagu sheego cidaan muslim ahayn waxaa loola jeedaa heer gaalnimo weyn ee diinta bannaanka lagaga yahay, wixii se khasaaro ama fisiq ama dulmi ama gaalnimo ah oo Alle ku sheego qof Muslim ah waxaa loola jeedaa inuu ku jiro denbi aad u weyn aanse diinta looga bixin."
 }

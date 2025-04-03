@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1340",
-    "sura": "9",
-    "aya": "105",
-    "arabic_text": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَۖ وَسَتُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "Na sema: Tendeni vitendo. Na Mwenyezi Mungu, na Mtume wake, na Waumini wataviona vitendo vyenu. Na mtarudishwa kwa Mwenye kujua siri na dhaahiri; naye atakuambieni mliyo kuwa mkiyatenda.",
-    "footnotes": "Ewe Mtume! Waambie watu: Tendeni wala msifanye taksiri katika vitendo vya kheri na kutekeleza waajibu. Kwani hakika Mwenyezi Mungu anavijua vitendo vyenu vyote. Na Mtume na Waumini nao pia wataviona na watavipima kwa vipimo vya Imani, na wataviona kwa mujibu wa itakikanavyo. Kisha mtarudishwa baada ya kufa kwa Mwenye kuijua siri yenu na dhaahiri yenu, apate kukulipeni kwa vitendo vyenu, baada ya kukwambieni dogo lake na kubwa lake."
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 203,
+  "verse_key": "9:105",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 81,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُلِ ٱعۡمَلُواْ فَسَيَرَى ٱللَّهُ عَمَلَكُمۡ وَرَسُولُهُۥ وَٱلۡمُؤۡمِنُونَۖ وَسَتُرَدُّونَ إِلَىٰ عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "Na sema: Tendeni vitendo. Na Mwenyezi Mungu, na Mtume wake, na Waumini wataviona vitendo vyenu. Na mtarudishwa kwa Mwenye kujua siri na dhaahiri; naye atakuambieni mliyo kuwa mkiyatenda.",
+  "footnotes": "Ewe Mtume! Waambie watu: Tendeni wala msifanye taksiri katika vitendo vya kheri na kutekeleza waajibu. Kwani hakika Mwenyezi Mungu anavijua vitendo vyenu vyote. Na Mtume na Waumini nao pia wataviona na watavipima kwa vipimo vya Imani, na wataviona kwa mujibu wa itakikanavyo. Kisha mtarudishwa baada ya kufa kwa Mwenye kuijua siri yenu na dhaahiri yenu, apate kukulipeni kwa vitendo vyenu, baada ya kukwambieni dogo lake na kubwa lake."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4758",
-    "sura": "52",
-    "aya": "23",
-    "arabic_text": "يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ",
-    "translation": "Sie greifen darin miteinander nach einem Becher, in dem nichts darin ist, was zu unbedachter Rede verleitet und zu keiner Versündigung.",
-    "footnotes": null
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 524,
+  "verse_key": "52:23",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ",
+  "translation": "Sie greifen darin miteinander nach einem Becher, in dem nichts darin ist, was zu unbedachter Rede verleitet und zu keiner Versündigung.",
+  "footnotes": null
 }

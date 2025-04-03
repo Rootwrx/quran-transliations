@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1677",
-    "sura": "12",
-    "aya": "81",
-    "arabic_text": "ٱرۡجِعُوٓاْ إِلَىٰٓ أَبِيكُمۡ فَقُولُواْ يَٰٓأَبَانَآ إِنَّ ٱبۡنَكَ سَرَقَ وَمَا شَهِدۡنَآ إِلَّا بِمَا عَلِمۡنَا وَمَا كُنَّا لِلۡغَيۡبِ حَٰفِظِينَ",
-    "translation": "Rudini kwa baba yenu, na mwambieni: Ee baba yetu! Mwanao ameiba. Na sisi hatutoi ushahidi ila kwa tunayo yajua. Wala sisi hatukuwa wenye kuhifadhi mambo ya ghaibu.",
-    "footnotes": "Rejeeni nyinyi kwa baba yenu, na msimulieni kisa chote hichi. Na mwambieni: Mkono wa mwanao ulikunjuka akakiiba kikopo cha mfalme, na kimekutikana katika bahasha yake. Kwa huo wizi wake ndio ameshikwa. Nasi hatukwambii ila tuliyo yaona, na wala sisi hatukuwa tunajua yaliyo fichikana katika hukumu ya Mwenyezi Mungu pale tulipo kutaka nawe ukatupa tumhifadhi na turejee naye kwako kama tulivyo ahidiana na tukafungana. Na Mwenyezi Mungu ndiye Mbora wa uadilifu kuliko mahakimu wote."
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 245,
+  "verse_key": "12:81",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱرۡجِعُوٓاْ إِلَىٰٓ أَبِيكُمۡ فَقُولُواْ يَٰٓأَبَانَآ إِنَّ ٱبۡنَكَ سَرَقَ وَمَا شَهِدۡنَآ إِلَّا بِمَا عَلِمۡنَا وَمَا كُنَّا لِلۡغَيۡبِ حَٰفِظِينَ",
+  "translation": "Rudini kwa baba yenu, na mwambieni: Ee baba yetu! Mwanao ameiba. Na sisi hatutoi ushahidi ila kwa tunayo yajua. Wala sisi hatukuwa wenye kuhifadhi mambo ya ghaibu.",
+  "footnotes": "Rejeeni nyinyi kwa baba yenu, na msimulieni kisa chote hichi. Na mwambieni: Mkono wa mwanao ulikunjuka akakiiba kikopo cha mfalme, na kimekutikana katika bahasha yake. Kwa huo wizi wake ndio ameshikwa. Nasi hatukwambii ila tuliyo yaona, na wala sisi hatukuwa tunajua yaliyo fichikana katika hukumu ya Mwenyezi Mungu pale tulipo kutaka nawe ukatupa tumhifadhi na turejee naye kwako kama tulivyo ahidiana na tukafungana. Na Mwenyezi Mungu ndiye Mbora wa uadilifu kuliko mahakimu wote."
 }

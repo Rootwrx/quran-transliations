@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1531",
-    "sura": "11",
-    "aya": "58",
-    "arabic_text": "وَلَمَّا جَآءَ أَمۡرُنَا نَجَّيۡنَا هُودٗا وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ بِرَحۡمَةٖ مِّنَّا وَنَجَّيۡنَٰهُم مِّنۡ عَذَابٍ غَلِيظٖ",
-    "translation": "Ilipo fika amri yetu, tulimwokoa Huud na walio amini pamoja naye, kwa rehema itokayo kwetu. Na tukawaokoa na adhabu ngumu.",
-    "footnotes": "Na ilipo kuja amri yetu ya kuwahiliki qaumu ya A'adi tulimwokoa Hud, na walio amini pamoja naye, kutokana na adhabu ya upepo mkali ulio wahiliki, na tukawaokoa na adhabu kubwa ya duniani na Akhera. Na hayo ni kwa sababu ya rehema yetu juu yao, kwa kuwawezesha kushika Imani."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 228,
+  "verse_key": "11:58",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا جَآءَ أَمۡرُنَا نَجَّيۡنَا هُودٗا وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ بِرَحۡمَةٖ مِّنَّا وَنَجَّيۡنَٰهُم مِّنۡ عَذَابٍ غَلِيظٖ",
+  "translation": "Ilipo fika amri yetu, tulimwokoa Huud na walio amini pamoja naye, kwa rehema itokayo kwetu. Na tukawaokoa na adhabu ngumu.",
+  "footnotes": "Na ilipo kuja amri yetu ya kuwahiliki qaumu ya A'adi tulimwokoa Hud, na walio amini pamoja naye, kutokana na adhabu ya upepo mkali ulio wahiliki, na tukawaokoa na adhabu kubwa ya duniani na Akhera. Na hayo ni kwa sababu ya rehema yetu juu yao, kwa kuwawezesha kushika Imani."
 }

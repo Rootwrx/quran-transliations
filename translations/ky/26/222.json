@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3154",
-    "sura": "26",
-    "aya": "222",
-    "arabic_text": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٖ",
-    "translation": "Алар жеткен дооматчы, күнөөкөр адамдарга түшөт.",
-    "footnotes": ""
-  }
+  "id": 222,
+  "verse_number": 222,
+  "page_number": 376,
+  "verse_key": "26:222",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٖ",
+  "translation": "Алар жеткен дооматчы, күнөөкөр адамдарга түшөт.",
+  "footnotes": ""
 }

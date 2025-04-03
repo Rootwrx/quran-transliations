@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2621",
-    "sura": "22",
-    "aya": "26",
-    "arabic_text": "وَإِذۡ بَوَّأۡنَا لِإِبۡرَٰهِيمَ مَكَانَ ٱلۡبَيۡتِ أَن لَّا تُشۡرِكۡ بِي شَيۡـٔٗا وَطَهِّرۡ بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
-    "translation": " Hani İbrahim’e: Bana hiç bir şeyi şirk koşma, tavaf edenler, kıyam edenler, rükû ve secde edenler için beytimi temiz tut diye Kâbe’nin yerini belirtmiştik.",
-    "footnotes": null
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 335,
+  "verse_key": "22:26",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ بَوَّأۡنَا لِإِبۡرَٰهِيمَ مَكَانَ ٱلۡبَيۡتِ أَن لَّا تُشۡرِكۡ بِي شَيۡـٔٗا وَطَهِّرۡ بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡقَآئِمِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+  "translation": " Hani İbrahim’e: Bana hiç bir şeyi şirk koşma, tavaf edenler, kıyam edenler, rükû ve secde edenler için beytimi temiz tut diye Kâbe’nin yerini belirtmiştik.",
+  "footnotes": null
 }

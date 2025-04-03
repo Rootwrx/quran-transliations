@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6125",
-    "sura": "96",
-    "aya": "19",
-    "arabic_text": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
-    "translation": "绝不然，你不要顺从他，你应当为安拉而叩头，你应当亲近安拉。",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 597,
+  "verse_key": "96:19",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 14,
+  "text": "كَلَّا لَا تُطِعۡهُ وَٱسۡجُدۡۤ وَٱقۡتَرِب۩",
+  "translation": "绝不然，你不要顺从他，你应当为安拉而叩头，你应当亲近安拉。",
+  "footnotes": ""
 }

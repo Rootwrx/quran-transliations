@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "586",
-    "sura": "4",
-    "aya": "93",
-    "arabic_text": "وَمَن يَقۡتُلۡ مُؤۡمِنٗا مُّتَعَمِّدٗا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدٗا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيۡهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمٗا",
-    "translation": "Uwo wese rero yishe n’ibigira nkana umwemeramana ata kibimurekurira, azohanishwa umuriro wa Jahannamu awubemwo ibihe bidahera [95], ugushavurirwa n’Imana Allah, hamwe rero no kuvumwa akiri kw’isi, vyongeye Imana Allah Yaranamutegekanirije n’ibindi bihano bihambaye.",
-    "footnotes": "[95] Kiretse mu gihe yokwigaya ukuri kw’ukwigaya atarapfa, kandi Imana Allah ntizohanisha ibigaba mu bemeramana umuriro wa Jahannamu ngo bawubemwo ibihe bidahera, ariko Izowubahanisha hanyuma ku mpuhwe zayo Iheze Ibatezurire."
-  }
+  "id": 93,
+  "verse_number": 93,
+  "page_number": 93,
+  "verse_key": "4:93",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن يَقۡتُلۡ مُؤۡمِنٗا مُّتَعَمِّدٗا فَجَزَآؤُهُۥ جَهَنَّمُ خَٰلِدٗا فِيهَا وَغَضِبَ ٱللَّهُ عَلَيۡهِ وَلَعَنَهُۥ وَأَعَدَّ لَهُۥ عَذَابًا عَظِيمٗا",
+  "translation": "Uwo wese rero yishe n’ibigira nkana umwemeramana ata kibimurekurira, azohanishwa umuriro wa Jahannamu awubemwo ibihe bidahera [95], ugushavurirwa n’Imana Allah, hamwe rero no kuvumwa akiri kw’isi, vyongeye Imana Allah Yaranamutegekanirije n’ibindi bihano bihambaye.",
+  "footnotes": "[95] Kiretse mu gihe yokwigaya ukuri kw’ukwigaya atarapfa, kandi Imana Allah ntizohanisha ibigaba mu bemeramana umuriro wa Jahannamu ngo bawubemwo ibihe bidahera, ariko Izowubahanisha hanyuma ku mpuhwe zayo Iheze Ibatezurire."
 }

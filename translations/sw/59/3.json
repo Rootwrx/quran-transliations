@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5129",
-    "sura": "59",
-    "aya": "3",
-    "arabic_text": "وَلَوۡلَآ أَن كَتَبَ ٱللَّهُ عَلَيۡهِمُ ٱلۡجَلَآءَ لَعَذَّبَهُمۡ فِي ٱلدُّنۡيَاۖ وَلَهُمۡ فِي ٱلۡأٓخِرَةِ عَذَابُ ٱلنَّارِ",
-    "translation": "Na lau kuwa Mwenyezi Mungu asingeli waandikia kutoka, angeli waadhibu katika dunia. Na katika Akhera watapata adhabu ya Moto.",
-    "footnotes": "Na lau kuwa Mwenyezi Mungu hakuwahukumia kuwatoa majumbani kwao kwa sura hii ya kuchusha, basi hapana shaka angeli waadhibu katika dunia kwa shida zaidi kuliko huko kuwatoa. Na Akhera, wao watapata adhabu ya Moto, mbali huku kutolewa majumbani kwao duniani."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 545,
+  "verse_key": "59:3",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡلَآ أَن كَتَبَ ٱللَّهُ عَلَيۡهِمُ ٱلۡجَلَآءَ لَعَذَّبَهُمۡ فِي ٱلدُّنۡيَاۖ وَلَهُمۡ فِي ٱلۡأٓخِرَةِ عَذَابُ ٱلنَّارِ",
+  "translation": "Na lau kuwa Mwenyezi Mungu asingeli waandikia kutoka, angeli waadhibu katika dunia. Na katika Akhera watapata adhabu ya Moto.",
+  "footnotes": "Na lau kuwa Mwenyezi Mungu hakuwahukumia kuwatoa majumbani kwao kwa sura hii ya kuchusha, basi hapana shaka angeli waadhibu katika dunia kwa shida zaidi kuliko huko kuwatoa. Na Akhera, wao watapata adhabu ya Moto, mbali huku kutolewa majumbani kwao duniani."
 }

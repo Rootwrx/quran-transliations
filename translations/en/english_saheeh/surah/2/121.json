@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "128",
-    "sura": "2",
-    "aya": "121",
-    "arabic_text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَتۡلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۗ وَمَن يَكۡفُرۡ بِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
-    "translation": "(121) Those to whom We have given the Book recite it with its true recital.[39] They [are the ones who] believe in it. And whoever disbelieves in it - it is they who are the losers.",
-    "footnotes": "[39]- i.e., applying its teachings to their lives."
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 19,
+  "verse_key": "2:121",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَتۡلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۗ وَمَن يَكۡفُرۡ بِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+  "translation": "(121) Those to whom We have given the Book recite it with its true recital.[39] They [are the ones who] believe in it. And whoever disbelieves in it - it is they who are the losers.",
+  "footnotes": "[39]- i.e., applying its teachings to their lives."
 }

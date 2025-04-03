@@ -1,0 +1,27 @@
+{
+  "number": 9,
+  "name": {
+    "ar": "التوبة",
+    "en": "The Repentance",
+    "transliteration": "At-Tawbah"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 113,
+  "bismillah_pre": false,
+  "verses_count": 129,
+  "words_count": 2506,
+  "letters_count": 10873,
+  "pages": [
+    187,
+    207
+  ],
+  "name_simple": "At-Tawbah",
+  "name_complex": "At-Tawbah",
+  "name_arabic": "التوبة",
+  "translated_name": "The Repentance",
+  "start_page": 187,
+  "end_page": 207
+}

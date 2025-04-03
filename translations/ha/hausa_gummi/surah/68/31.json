@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5302",
-    "sura": "68",
-    "aya": "31",
-    "arabic_text": "قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا طَٰغِينَ",
-    "translation": "Suka ce: \"Kaitonmu! Lalle, mũ ne muka kasance mãsu ƙẽtare iyãka.\"",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 565,
+  "verse_key": "68:31",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰوَيۡلَنَآ إِنَّا كُنَّا طَٰغِينَ",
+  "translation": "Suka ce: \"Kaitonmu! Lalle, mũ ne muka kasance mãsu ƙẽtare iyãka.\"",
+  "footnotes": ""
 }

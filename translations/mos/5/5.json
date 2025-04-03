@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "674",
-    "sura": "5",
-    "aya": "5",
-    "arabic_text": "ٱلۡيَوۡمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُۖ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حِلّٞ لَّكُمۡ وَطَعَامُكُمۡ حِلّٞ لَّهُمۡۖ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلۡمُؤۡمِنَٰتِ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ إِذَآ ءَاتَيۡتُمُوهُنَّ أُجُورَهُنَّ مُحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِيٓ أَخۡدَانٖۗ وَمَن يَكۡفُرۡ بِٱلۡإِيمَٰنِ فَقَدۡ حَبِطَ عَمَلُهُۥ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ",
-    "translation": "Rũndã b kõo yãmb sor ne rɩ-yɩlmã, la b sẽn kõ-b rãmb Gafã rɩɩb yaa halaal ne yãmba, yãmb rɩɩbã me yaa halaal ne bãmba, la fur-pagb sẽn yi muumin pogsẽ wã, la fur-pagb sẽn yi b sẽn kõ-b rãmb Gafã taoor tɩ yãmb pa wa wã, tɩ yãmb sã n kõ-b fur ligdi, tɩ y yaa yi-kãadba, pa yoaadba, pa sẽn na n rɩk n maan rollemdo. La sẽn kɩfl-a ne sɩd kũuni, sɩda a tʋʋmd lʋɩɩme, la yẽnda, Yaoolem raarã, a bee bõn-rãmbẽ wã.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 107,
+  "verse_key": "5:5",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 43,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡيَوۡمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُۖ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حِلّٞ لَّكُمۡ وَطَعَامُكُمۡ حِلّٞ لَّهُمۡۖ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلۡمُؤۡمِنَٰتِ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ إِذَآ ءَاتَيۡتُمُوهُنَّ أُجُورَهُنَّ مُحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِيٓ أَخۡدَانٖۗ وَمَن يَكۡفُرۡ بِٱلۡإِيمَٰنِ فَقَدۡ حَبِطَ عَمَلُهُۥ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ",
+  "translation": "Rũndã b kõo yãmb sor ne rɩ-yɩlmã, la b sẽn kõ-b rãmb Gafã rɩɩb yaa halaal ne yãmba, yãmb rɩɩbã me yaa halaal ne bãmba, la fur-pagb sẽn yi muumin pogsẽ wã, la fur-pagb sẽn yi b sẽn kõ-b rãmb Gafã taoor tɩ yãmb pa wa wã, tɩ yãmb sã n kõ-b fur ligdi, tɩ y yaa yi-kãadba, pa yoaadba, pa sẽn na n rɩk n maan rollemdo. La sẽn kɩfl-a ne sɩd kũuni, sɩda a tʋʋmd lʋɩɩme, la yẽnda, Yaoolem raarã, a bee bõn-rãmbẽ wã.",
+  "footnotes": ""
 }

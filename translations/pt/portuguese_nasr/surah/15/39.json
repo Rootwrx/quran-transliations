@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1841",
-    "sura": "15",
-    "aya": "39",
-    "arabic_text": "قَالَ رَبِّ بِمَآ أَغۡوَيۡتَنِي لَأُزَيِّنَنَّ لَهُمۡ فِي ٱلۡأَرۡضِ وَلَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ",
-    "translation": "Ele disse: \"Senhor meu! Pelo mal a que me condenaste, em verdade, aformosearei o erro para eles, na terra, e fá-los-ei a todos incorrer no mal\".",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 264,
+  "verse_key": "15:39",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّ بِمَآ أَغۡوَيۡتَنِي لَأُزَيِّنَنَّ لَهُمۡ فِي ٱلۡأَرۡضِ وَلَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ",
+  "translation": "Ele disse: \"Senhor meu! Pelo mal a que me condenaste, em verdade, aformosearei o erro para eles, na terra, e fá-los-ei a todos incorrer no mal\".",
+  "footnotes": ""
 }

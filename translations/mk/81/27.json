@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5827",
-    "sura": "81",
-    "aya": "27",
-    "arabic_text": "إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
-    "translation": "27. Куранот е само поука за световите,",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 586,
+  "verse_key": "81:27",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+  "translation": "27. Куранот е само поука за световите,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4000",
-    "sura": "38",
-    "aya": "30",
-    "arabic_text": "وَوَهَبۡنَا لِدَاوُۥدَ سُلَيۡمَٰنَۚ نِعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٌ",
-    "translation": "Dan Kami karuniakan kepada Dāwūd, Sulaymān, dia adalah sebaik-baik hamba.  Sesungguhnya dia amat taat (kepada Tuhan-nya),",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 455,
+  "verse_key": "38:30",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَهَبۡنَا لِدَاوُۥدَ سُلَيۡمَٰنَۚ نِعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٌ",
+  "translation": "Dan Kami karuniakan kepada Dāwūd, Sulaymān, dia adalah sebaik-baik hamba.  Sesungguhnya dia amat taat (kepada Tuhan-nya),",
+  "footnotes": ""
 }

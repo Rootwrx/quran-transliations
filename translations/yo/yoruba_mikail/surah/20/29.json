@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2377",
-    "sura": "20",
-    "aya": "29",
-    "arabic_text": "وَٱجۡعَل لِّي وَزِيرٗا مِّنۡ أَهۡلِي",
-    "translation": "Àti pé fún mi ní amúgbálẹ́gbẹ̀ẹ́ kan nínú àwọn ará ilé mi,",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 313,
+  "verse_key": "20:29",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱجۡعَل لِّي وَزِيرٗا مِّنۡ أَهۡلِي",
+  "translation": "Àti pé fún mi ní amúgbálẹ́gbẹ̀ẹ́ kan nínú àwọn ará ilé mi,",
+  "footnotes": ""
 }

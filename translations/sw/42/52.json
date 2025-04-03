@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4324",
-    "sura": "42",
-    "aya": "52",
-    "arabic_text": "وَكَذَٰلِكَ أَوۡحَيۡنَآ إِلَيۡكَ رُوحٗا مِّنۡ أَمۡرِنَاۚ مَا كُنتَ تَدۡرِي مَا ٱلۡكِتَٰبُ وَلَا ٱلۡإِيمَٰنُ وَلَٰكِن جَعَلۡنَٰهُ نُورٗا نَّهۡدِي بِهِۦ مَن نَّشَآءُ مِنۡ عِبَادِنَاۚ وَإِنَّكَ لَتَهۡدِيٓ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "Na namna hivi tumekufunulia Qur'ani kwa amri yetu. Ulikuwa hujui Kitabu ni nini, wala Imani. Lakini tumekifanya kuwa ni Nuru ambayo kwayo tunammwongoa tumtakaye katika waja wetu. Na hakika wewe unaongoa kwenye Njia Iliyo Nyooka.",
-    "footnotes": "Na kama tulivyo wafunulia Mitume kabla yako, basi tumekufunulia nawe, ewe Mtume, hii Qur'ani ili ihuishe nyoyo kwa amri yetu. Kabla ya kuletewa wewe hii ulikuwa hujui nini Qur'ani, wala hujui Sharia za Imani. Lakini tumeifanya Qur'ani kuwa ni Nuru Kubwa ya kuwaongoza wenye kukhiari Uwongofu. Na wewe bila ya shaka utakuwa ukiwaitia watu kwa hii Qur'ani kwenye Njia Iliyo Nyooka."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 489,
+  "verse_key": "42:52",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ أَوۡحَيۡنَآ إِلَيۡكَ رُوحٗا مِّنۡ أَمۡرِنَاۚ مَا كُنتَ تَدۡرِي مَا ٱلۡكِتَٰبُ وَلَا ٱلۡإِيمَٰنُ وَلَٰكِن جَعَلۡنَٰهُ نُورٗا نَّهۡدِي بِهِۦ مَن نَّشَآءُ مِنۡ عِبَادِنَاۚ وَإِنَّكَ لَتَهۡدِيٓ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "Na namna hivi tumekufunulia Qur'ani kwa amri yetu. Ulikuwa hujui Kitabu ni nini, wala Imani. Lakini tumekifanya kuwa ni Nuru ambayo kwayo tunammwongoa tumtakaye katika waja wetu. Na hakika wewe unaongoa kwenye Njia Iliyo Nyooka.",
+  "footnotes": "Na kama tulivyo wafunulia Mitume kabla yako, basi tumekufunulia nawe, ewe Mtume, hii Qur'ani ili ihuishe nyoyo kwa amri yetu. Kabla ya kuletewa wewe hii ulikuwa hujui nini Qur'ani, wala hujui Sharia za Imani. Lakini tumeifanya Qur'ani kuwa ni Nuru Kubwa ya kuwaongoza wenye kukhiari Uwongofu. Na wewe bila ya shaka utakuwa ukiwaitia watu kwa hii Qur'ani kwenye Njia Iliyo Nyooka."
 }

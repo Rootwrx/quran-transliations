@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2475",
-    "sura": "20",
-    "aya": "127",
-    "arabic_text": "وَكَذَٰلِكَ نَجۡزِي مَنۡ أَسۡرَفَ وَلَمۡ يُؤۡمِنۢ بِـَٔايَٰتِ رَبِّهِۦۚ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَدُّ وَأَبۡقَىٰٓ",
-    "translation": "This is how We recompense those who transgress the limits and do not believe in the verses of his Lord; and the punishment of the Hereafter is more severe and more lasting[48].",
-    "footnotes": "[48] Than that of the worldly life."
-  }
+  "id": 127,
+  "verse_number": 127,
+  "page_number": 321,
+  "verse_key": "20:127",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ نَجۡزِي مَنۡ أَسۡرَفَ وَلَمۡ يُؤۡمِنۢ بِـَٔايَٰتِ رَبِّهِۦۚ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَدُّ وَأَبۡقَىٰٓ",
+  "translation": "This is how We recompense those who transgress the limits and do not believe in the verses of his Lord; and the punishment of the Hereafter is more severe and more lasting[48].",
+  "footnotes": "[48] Than that of the worldly life."
 }

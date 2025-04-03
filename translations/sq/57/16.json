@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5091",
-    "sura": "57",
-    "aya": "16",
-    "arabic_text": "۞ أَلَمۡ يَأۡنِ لِلَّذِينَ ءَامَنُوٓاْ أَن تَخۡشَعَ قُلُوبُهُمۡ لِذِكۡرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلۡحَقِّ وَلَا يَكُونُواْ كَٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلُ فَطَالَ عَلَيۡهِمُ ٱلۡأَمَدُ فَقَسَتۡ قُلُوبُهُمۡۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ",
-    "translation": "A nuk ka ardhur koha për besimtarët e vërtetë, që zemrat e tyre të përulen para këshillave të Allahut dhe para së Vërtetës që Ai ka shpallur e të mos bëhen si ata, që iu është dhënë Libri më parë?! Me kalimin e një kohe të gjatë, zemrat e tyre u ngurtësuan dhe shumë syresh janë të pabindur.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 539,
+  "verse_key": "57:16",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 216,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَلَمۡ يَأۡنِ لِلَّذِينَ ءَامَنُوٓاْ أَن تَخۡشَعَ قُلُوبُهُمۡ لِذِكۡرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلۡحَقِّ وَلَا يَكُونُواْ كَٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلُ فَطَالَ عَلَيۡهِمُ ٱلۡأَمَدُ فَقَسَتۡ قُلُوبُهُمۡۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ",
+  "translation": "A nuk ka ardhur koha për besimtarët e vërtetë, që zemrat e tyre të përulen para këshillave të Allahut dhe para së Vërtetës që Ai ka shpallur e të mos bëhen si ata, që iu është dhënë Libri më parë?! Me kalimin e një kohe të gjatë, zemrat e tyre u ngurtësuan dhe shumë syresh janë të pabindur.",
+  "footnotes": ""
 }

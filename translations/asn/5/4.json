@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "673",
-    "sura": "5",
-    "aya": "4",
-    "arabic_text": "يَسۡـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمۡۖ قُلۡ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمۡتُم مِّنَ ٱلۡجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُۖ فَكُلُواْ مِمَّآ أَمۡسَكۡنَ عَلَيۡكُمۡ وَٱذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَيۡهِۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
-    "translation": "(Nkͻmhyεni), wͻ’rebisa wo sε, adeε bεn na wͻn wͻ ho kwan? Ka sε: “Mowͻ ade pa biara ho kwan, afei (motumi di nnam a) mmoa ne ntakraboa a moakyerε wͻn ahayͻ no (kye wͻn ma mo) sεdeε Nyankopͻn akyerε mo no. Enti moni deε wͻ’bεkyere ama mo no, na momͻ Nyankopͻn din ngu so, na monsuro Nyankopͻn. Nokorε sε, Nyankopͻn ho yε hare paa wͻ akontabuo mu.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 107,
+  "verse_key": "5:4",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 43,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَسۡـَٔلُونَكَ مَاذَآ أُحِلَّ لَهُمۡۖ قُلۡ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُ وَمَا عَلَّمۡتُم مِّنَ ٱلۡجَوَارِحِ مُكَلِّبِينَ تُعَلِّمُونَهُنَّ مِمَّا عَلَّمَكُمُ ٱللَّهُۖ فَكُلُواْ مِمَّآ أَمۡسَكۡنَ عَلَيۡكُمۡ وَٱذۡكُرُواْ ٱسۡمَ ٱللَّهِ عَلَيۡهِۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
+  "translation": "(Nkͻmhyεni), wͻ’rebisa wo sε, adeε bεn na wͻn wͻ ho kwan? Ka sε: “Mowͻ ade pa biara ho kwan, afei (motumi di nnam a) mmoa ne ntakraboa a moakyerε wͻn ahayͻ no (kye wͻn ma mo) sεdeε Nyankopͻn akyerε mo no. Enti moni deε wͻ’bεkyere ama mo no, na momͻ Nyankopͻn din ngu so, na monsuro Nyankopͻn. Nokorε sε, Nyankopͻn ho yε hare paa wͻ akontabuo mu.",
+  "footnotes": ""
 }

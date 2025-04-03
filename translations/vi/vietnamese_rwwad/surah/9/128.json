@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1363",
-    "sura": "9",
-    "aya": "128",
-    "arabic_text": "لَقَدۡ جَآءَكُمۡ رَسُولٞ مِّنۡ أَنفُسِكُمۡ عَزِيزٌ عَلَيۡهِ مَا عَنِتُّمۡ حَرِيصٌ عَلَيۡكُم بِٱلۡمُؤۡمِنِينَ رَءُوفٞ رَّحِيمٞ",
-    "translation": "Quả thật, đã có một Thiên Sứ xuất thân từ trong các ngươi đến gặp các ngươi. Y đau buồn cho những gì các ngươi đã chịu đựng và Y đã quan tâm lo lắng cho các ngươi. Y đại lượng và nhân từ đối với những người có đức tin.",
-    "footnotes": ""
-  }
+  "id": 128,
+  "verse_number": 128,
+  "page_number": 207,
+  "verse_key": "9:128",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ جَآءَكُمۡ رَسُولٞ مِّنۡ أَنفُسِكُمۡ عَزِيزٌ عَلَيۡهِ مَا عَنِتُّمۡ حَرِيصٌ عَلَيۡكُم بِٱلۡمُؤۡمِنِينَ رَءُوفٞ رَّحِيمٞ",
+  "translation": "Quả thật, đã có một Thiên Sứ xuất thân từ trong các ngươi đến gặp các ngươi. Y đau buồn cho những gì các ngươi đã chịu đựng và Y đã quan tâm lo lắng cho các ngươi. Y đại lượng và nhân từ đối với những người có đức tin.",
+  "footnotes": ""
 }

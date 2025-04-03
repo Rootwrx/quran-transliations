@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4633",
-    "sura": "50",
-    "aya": "3",
-    "arabic_text": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗاۖ ذَٰلِكَ رَجۡعُۢ بَعِيدٞ",
-    "translation": "\"Shin idan muka mutu kuma muka kasance turɓãya (zã a kõmo da mu)? Waccan kõmowa ce mai nĩsa.\"",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 518,
+  "verse_key": "50:3",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗاۖ ذَٰلِكَ رَجۡعُۢ بَعِيدٞ",
+  "translation": "\"Shin idan muka mutu kuma muka kasance turɓãya (zã a kõmo da mu)? Waccan kõmowa ce mai nĩsa.\"",
+  "footnotes": ""
 }

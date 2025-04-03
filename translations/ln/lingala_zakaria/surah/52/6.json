@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4741",
-    "sura": "52",
-    "aya": "6",
-    "arabic_text": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ",
-    "translation": "6. Мре na ebale ya kotonda.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 523,
+  "verse_key": "52:6",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ",
+  "translation": "6. Мре na ebale ya kotonda.",
+  "footnotes": ""
 }

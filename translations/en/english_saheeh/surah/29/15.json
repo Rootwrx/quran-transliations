@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3355",
-    "sura": "29",
-    "aya": "15",
-    "arabic_text": "فَأَنجَيۡنَٰهُ وَأَصۡحَٰبَ ٱلسَّفِينَةِ وَجَعَلۡنَٰهَآ ءَايَةٗ لِّلۡعَٰلَمِينَ",
-    "translation": "(15) But We saved him and the companions of the ship, and We made it[1128] a sign for the worlds.",
-    "footnotes": "[1128]- i.e., the ship, the event or the story."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 398,
+  "verse_key": "29:15",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَنجَيۡنَٰهُ وَأَصۡحَٰبَ ٱلسَّفِينَةِ وَجَعَلۡنَٰهَآ ءَايَةٗ لِّلۡعَٰلَمِينَ",
+  "translation": "(15) But We saved him and the companions of the ship, and We made it[1128] a sign for the worlds.",
+  "footnotes": "[1128]- i.e., the ship, the event or the story."
 }

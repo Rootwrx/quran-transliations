@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2765",
-    "sura": "23",
-    "aya": "92",
-    "arabic_text": "عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
-    "translation": "92. Ayebi mabombami mpe makambo ya polele, azali likolo ya maye bazali kosangisa ye na yango.",
-    "footnotes": ""
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 348,
+  "verse_key": "23:92",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَٰلِمِ ٱلۡغَيۡبِ وَٱلشَّهَٰدَةِ فَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
+  "translation": "92. Ayebi mabombami mpe makambo ya polele, azali likolo ya maye bazali kosangisa ye na yango.",
+  "footnotes": ""
 }

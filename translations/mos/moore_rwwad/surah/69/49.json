@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5372",
-    "sura": "69",
-    "aya": "49",
-    "arabic_text": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
-    "translation": "La Tõnd miime tɩ be yãmb pʋgẽ sẽn yaa yagsdba.",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 568,
+  "verse_key": "69:49",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ",
+  "translation": "La Tõnd miime tɩ be yãmb pʋgẽ sẽn yaa yagsdba.",
+  "footnotes": ""
 }

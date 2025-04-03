@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4786",
-    "sura": "53",
-    "aya": "2",
-    "arabic_text": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ",
-    "translation": "Votre compagnon n'est ni égaré, ni mal intentionné .",
-    "footnotes": "[909] Votre compagnon: Mohammed (صلى الله عليه وسلم). Les 18 premiers versets de cette Sourate parlent du «Mi'râj» [l’Ascension]."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 526,
+  "verse_key": "53:2",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا ضَلَّ صَاحِبُكُمۡ وَمَا غَوَىٰ",
+  "translation": "Votre compagnon n'est ni égaré, ni mal intentionné .",
+  "footnotes": "[909] Votre compagnon: Mohammed (صلى الله عليه وسلم). Les 18 premiers versets de cette Sourate parlent du «Mi'râj» [l’Ascension]."
 }

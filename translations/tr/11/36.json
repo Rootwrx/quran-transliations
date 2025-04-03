@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1509",
-    "sura": "11",
-    "aya": "36",
-    "arabic_text": "وَأُوحِيَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤۡمِنَ مِن قَوۡمِكَ إِلَّا مَن قَدۡ ءَامَنَ فَلَا تَبۡتَئِسۡ بِمَا كَانُواْ يَفۡعَلُونَ",
-    "translation": "Nûh'a, “Senin kavminden, gerçekten iman etmiş olanlardan başkası artık iman etmeyecektir; o halde yaptıkları şeylerden dolayı üzülme” diye vahyolundu.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 225,
+  "verse_key": "11:36",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأُوحِيَ إِلَىٰ نُوحٍ أَنَّهُۥ لَن يُؤۡمِنَ مِن قَوۡمِكَ إِلَّا مَن قَدۡ ءَامَنَ فَلَا تَبۡتَئِسۡ بِمَا كَانُواْ يَفۡعَلُونَ",
+  "translation": "Nûh'a, “Senin kavminden, gerçekten iman etmiş olanlardan başkası artık iman etmeyecektir; o halde yaptıkları şeylerden dolayı üzülme” diye vahyolundu.",
+  "footnotes": ""
 }

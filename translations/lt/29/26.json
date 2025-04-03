@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3366",
-    "sura": "29",
-    "aya": "26",
-    "arabic_text": "۞ فَـَٔامَنَ لَهُۥ لُوطٞۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّيٓۖ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "26. Taigi Lūtas (Lotas) patikėjo juo [Ibrahimo (Abraomo) islamiškojo monoteizmo Žinia]. Jis [Ibrahimas (Abraomas)] tarė: „Aš persikelsiu vardan savo Viešpaties. Iš tiesų, Jis yra Visa Galingas, Visa Išmintingas. [1]“",
-    "footnotes": "[1] Žr. eilutės 9:121 išnašą."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 399,
+  "verse_key": "29:26",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ فَـَٔامَنَ لَهُۥ لُوطٞۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّيٓۖ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "26. Taigi Lūtas (Lotas) patikėjo juo [Ibrahimo (Abraomo) islamiškojo monoteizmo Žinia]. Jis [Ibrahimas (Abraomas)] tarė: „Aš persikelsiu vardan savo Viešpaties. Iš tiesų, Jis yra Visa Galingas, Visa Išmintingas. [1]“",
+  "footnotes": "[1] Žr. eilutės 9:121 išnašą."
 }

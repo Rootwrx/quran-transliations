@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1231",
-    "sura": "8",
-    "aya": "71",
-    "arabic_text": "وَإِن يُرِيدُواْ خِيَانَتَكَ فَقَدۡ خَانُواْ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ مِنۡهُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
-    "translation": "E, nëse ata duan të të tradhtojnë, dije se më parë kanë tradhtuar Allahun dhe prandaj Ai ta mundësoi ty fitoren ndaj tyre. Allahu është i Gjithëdijshëm dhe i Urtë.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 186,
+  "verse_key": "8:71",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يُرِيدُواْ خِيَانَتَكَ فَقَدۡ خَانُواْ ٱللَّهَ مِن قَبۡلُ فَأَمۡكَنَ مِنۡهُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+  "translation": "E, nëse ata duan të të tradhtojnë, dije se më parë kanë tradhtuar Allahun dhe prandaj Ai ta mundësoi ty fitoren ndaj tyre. Allahu është i Gjithëdijshëm dhe i Urtë.",
+  "footnotes": ""
 }

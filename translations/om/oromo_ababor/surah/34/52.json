@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3658",
-    "sura": "34",
-    "aya": "52",
-    "arabic_text": "وَقَالُوٓاْ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانِۭ بَعِيدٖ",
-    "translation": "(Guyyaa Qiyaamaa) “Isatti amannee jirra” jedhu. Iddoo fagoo (biyya addunyaa) irraa (iimaana) fudhachuun akkamitti isaaniif mijjata?(1)",
-    "footnotes": "(1) hiikkaan aayata kanaa akka tafsiirri bagawii jedhetti \"iimana addunyatti yeroo seenuu mijjaa qaban didan amma aakhiratti eega irraa fagaate amanuun akkamitti isaaniif taha? (hintahu jechuudha.\")."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 434,
+  "verse_key": "34:52",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُوٓاْ ءَامَنَّا بِهِۦ وَأَنَّىٰ لَهُمُ ٱلتَّنَاوُشُ مِن مَّكَانِۭ بَعِيدٖ",
+  "translation": "(Guyyaa Qiyaamaa) “Isatti amannee jirra” jedhu. Iddoo fagoo (biyya addunyaa) irraa (iimaana) fudhachuun akkamitti isaaniif mijjata?(1)",
+  "footnotes": "(1) hiikkaan aayata kanaa akka tafsiirri bagawii jedhetti \"iimana addunyatti yeroo seenuu mijjaa qaban didan amma aakhiratti eega irraa fagaate amanuun akkamitti isaaniif taha? (hintahu jechuudha.\")."
 }

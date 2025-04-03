@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4103",
-    "sura": "39",
-    "aya": "45",
-    "arabic_text": "وَإِذَا ذُكِرَ ٱللَّهُ وَحۡدَهُ ٱشۡمَأَزَّتۡ قُلُوبُ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمۡ يَسۡتَبۡشِرُونَ",
-    "translation": "Kad se spomene samo Allah, grče se srca onih koji u ahiret ne vjeruju, a kada se spomenu oni koje oni pored Njega obožavaju, odjednom ih radost obuzme. ",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 463,
+  "verse_key": "39:45",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ذُكِرَ ٱللَّهُ وَحۡدَهُ ٱشۡمَأَزَّتۡ قُلُوبُ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمۡ يَسۡتَبۡشِرُونَ",
+  "translation": "Kad se spomene samo Allah, grče se srca onih koji u ahiret ne vjeruju, a kada se spomenu oni koje oni pored Njega obožavaju, odjednom ih radost obuzme. ",
+  "footnotes": ""
 }

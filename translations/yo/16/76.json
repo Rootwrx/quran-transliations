@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1977",
-    "sura": "16",
-    "aya": "76",
-    "arabic_text": "وَضَرَبَ ٱللَّهُ مَثَلٗا رَّجُلَيۡنِ أَحَدُهُمَآ أَبۡكَمُ لَا يَقۡدِرُ عَلَىٰ شَيۡءٖ وَهُوَ كَلٌّ عَلَىٰ مَوۡلَىٰهُ أَيۡنَمَا يُوَجِّههُّ لَا يَأۡتِ بِخَيۡرٍ هَلۡ يَسۡتَوِي هُوَ وَمَن يَأۡمُرُ بِٱلۡعَدۡلِ وَهُوَ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "Allāhu tún fi àkàwé kan lélẹ̀ (nípa) ọkùnrin méjì kan, tí ọ̀kan nínú wọn jẹ́ odi, tí kò lè dá n̄ǹkan kan ṣe, tí ó tún jẹ́ wàhálà fún ọ̀gá rẹ̀ (nítorí pé) ibikíbi tí ó bá rán an lọ, kò níí mú oore kan bọ̀ (fún un láti ibẹ̀). Ṣé ó dọ́gba pẹ̀lú ẹni tí Ó ń pàṣẹ ṣíṣe déédé, tí ó sì wà lójú ọ̀nà tààrà?[1]",
-    "footnotes": "1. Bí ó tilẹ̀ jẹ́ pé èèwọ̀ ẹ̀sìn ni fún ẹ̀dá láti fi àkàwé àti àfijọ lélẹ̀ fún Allāhu - subhānahu wa ta‘ālā - gẹ́gẹ́ bí ó ṣe wà nínú āyah 74, Allāhu lè fi àkàwé ara Rẹ̀ lélẹ̀ fún ẹ̀dá nítorí kí ẹ̀dá lè mọ̀ pé Allāhu tóbi jùlọ."
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 275,
+  "verse_key": "16:76",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَضَرَبَ ٱللَّهُ مَثَلٗا رَّجُلَيۡنِ أَحَدُهُمَآ أَبۡكَمُ لَا يَقۡدِرُ عَلَىٰ شَيۡءٖ وَهُوَ كَلٌّ عَلَىٰ مَوۡلَىٰهُ أَيۡنَمَا يُوَجِّههُّ لَا يَأۡتِ بِخَيۡرٍ هَلۡ يَسۡتَوِي هُوَ وَمَن يَأۡمُرُ بِٱلۡعَدۡلِ وَهُوَ عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "Allāhu tún fi àkàwé kan lélẹ̀ (nípa) ọkùnrin méjì kan, tí ọ̀kan nínú wọn jẹ́ odi, tí kò lè dá n̄ǹkan kan ṣe, tí ó tún jẹ́ wàhálà fún ọ̀gá rẹ̀ (nítorí pé) ibikíbi tí ó bá rán an lọ, kò níí mú oore kan bọ̀ (fún un láti ibẹ̀). Ṣé ó dọ́gba pẹ̀lú ẹni tí Ó ń pàṣẹ ṣíṣe déédé, tí ó sì wà lójú ọ̀nà tààrà?[1]",
+  "footnotes": "1. Bí ó tilẹ̀ jẹ́ pé èèwọ̀ ẹ̀sìn ni fún ẹ̀dá láti fi àkàwé àti àfijọ lélẹ̀ fún Allāhu - subhānahu wa ta‘ālā - gẹ́gẹ́ bí ó ṣe wà nínú āyah 74, Allāhu lè fi àkàwé ara Rẹ̀ lélẹ̀ fún ẹ̀dá nítorí kí ẹ̀dá lè mọ̀ pé Allāhu tóbi jùlọ."
 }

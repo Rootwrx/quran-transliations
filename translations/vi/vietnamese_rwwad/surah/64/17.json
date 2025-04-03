@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5216",
-    "sura": "64",
-    "aya": "17",
-    "arabic_text": "إِن تُقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗا يُضَٰعِفۡهُ لَكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
-    "translation": "Nếu các ngươi cho Allah mượn một món nợ tốt, Ngài sẽ gia tăng nó lên gấp bội cho các ngươi và Ngài sẽ tha thứ tội lỗi cho các ngươi bởi vì Allah là Đấng Ghi Công, Đấng Chịu Đựng.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 557,
+  "verse_key": "64:17",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن تُقۡرِضُواْ ٱللَّهَ قَرۡضًا حَسَنٗا يُضَٰعِفۡهُ لَكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ شَكُورٌ حَلِيمٌ",
+  "translation": "Nếu các ngươi cho Allah mượn một món nợ tốt, Ngài sẽ gia tăng nó lên gấp bội cho các ngươi và Ngài sẽ tha thứ tội lỗi cho các ngươi bởi vì Allah là Đấng Ghi Công, Đấng Chịu Đựng.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4884",
-    "sura": "54",
-    "aya": "38",
-    "arabic_text": "وَلَقَدۡ صَبَّحَهُم بُكۡرَةً عَذَابٞ مُّسۡتَقِرّٞ",
-    "translation": "Жана аларга таң мезгилинде үзгүлтүксүз азап (таш бороону) келди.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 530,
+  "verse_key": "54:38",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ صَبَّحَهُم بُكۡرَةً عَذَابٞ مُّسۡتَقِرّٞ",
+  "translation": "Жана аларга таң мезгилинде үзгүлтүксүз азап (таш бороону) келди.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3109",
-    "sura": "26",
-    "aya": "177",
-    "arabic_text": "إِذۡ قَالَ لَهُمۡ شُعَيۡبٌ أَلَا تَتَّقُونَ",
-    "translation": "Kad im Šuajb reče: “Kako to da se ne bojite?",
-    "footnotes": ""
-  }
+  "id": 177,
+  "verse_number": 177,
+  "page_number": 374,
+  "verse_key": "26:177",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَ لَهُمۡ شُعَيۡبٌ أَلَا تَتَّقُونَ",
+  "translation": "Kad im Šuajb reče: “Kako to da se ne bojite?",
+  "footnotes": ""
 }

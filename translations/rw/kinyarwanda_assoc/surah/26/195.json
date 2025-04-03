@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3127",
-    "sura": "26",
-    "aya": "195",
-    "arabic_text": "بِلِسَانٍ عَرَبِيّٖ مُّبِينٖ",
-    "translation": "(Yayizanye iri) mu rurimi rw’Icyarabu gisobanutse.",
-    "footnotes": ""
-  }
+  "id": 195,
+  "verse_number": 195,
+  "page_number": 375,
+  "verse_key": "26:195",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بِلِسَانٍ عَرَبِيّٖ مُّبِينٖ",
+  "translation": "(Yayizanye iri) mu rurimi rw’Icyarabu gisobanutse.",
+  "footnotes": ""
 }

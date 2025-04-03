@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "601",
-    "sura": "4",
-    "aya": "108",
-    "arabic_text": "يَسۡتَخۡفُونَ مِنَ ٱلنَّاسِ وَلَا يَسۡتَخۡفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمۡ إِذۡ يُبَيِّتُونَ مَا لَا يَرۡضَىٰ مِنَ ٱلۡقَوۡلِۚ وَكَانَ ٱللَّهُ بِمَا يَعۡمَلُونَ مُحِيطًا",
-    "translation": "Wanataka kujificha kwa watu, wala hawataki kujificha kwa Mwenyezi Mungu, naye yu pamoja nao pale wanapo panga njama usiku kwa maneno asiyo yapenda. Na Mwenyezi Mungu anayajua vyema wanayo yatenda.",
-    "footnotes": "Wanajificha, na wanataka kujisitiri kwa watu wasiione khiana yao. Wala hayumkini kuzificha khiana zao kwa Mwenyezi Mungu, na ilhali Yeye daima yu pamoja nao. Na wao usiku usiku hukubaliana kwa maneno yasiyo mridhi Mwenyezi Mungu ya kuwasingizia tuhuma watu wasio na makosa. Na Mwenyezi Mungu Mtukufu anajua vyema, na hapana kitu kinacho weza kujificha na ujuzi wake."
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 96,
+  "verse_key": "4:108",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَسۡتَخۡفُونَ مِنَ ٱلنَّاسِ وَلَا يَسۡتَخۡفُونَ مِنَ ٱللَّهِ وَهُوَ مَعَهُمۡ إِذۡ يُبَيِّتُونَ مَا لَا يَرۡضَىٰ مِنَ ٱلۡقَوۡلِۚ وَكَانَ ٱللَّهُ بِمَا يَعۡمَلُونَ مُحِيطًا",
+  "translation": "Wanataka kujificha kwa watu, wala hawataki kujificha kwa Mwenyezi Mungu, naye yu pamoja nao pale wanapo panga njama usiku kwa maneno asiyo yapenda. Na Mwenyezi Mungu anayajua vyema wanayo yatenda.",
+  "footnotes": "Wanajificha, na wanataka kujisitiri kwa watu wasiione khiana yao. Wala hayumkini kuzificha khiana zao kwa Mwenyezi Mungu, na ilhali Yeye daima yu pamoja nao. Na wao usiku usiku hukubaliana kwa maneno yasiyo mridhi Mwenyezi Mungu ya kuwasingizia tuhuma watu wasio na makosa. Na Mwenyezi Mungu Mtukufu anajua vyema, na hapana kitu kinacho weza kujificha na ujuzi wake."
 }

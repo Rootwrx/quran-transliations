@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5218",
-    "sura": "65",
-    "aya": "1",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحۡصُواْ ٱلۡعِدَّةَۖ وَٱتَّقُواْ ٱللَّهَ رَبَّكُمۡۖ لَا تُخۡرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخۡرُجۡنَ إِلَّآ أَن يَأۡتِينَ بِفَٰحِشَةٖ مُّبَيِّنَةٖۚ وَتِلۡكَ حُدُودُ ٱللَّهِۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ لَا تَدۡرِي لَعَلَّ ٱللَّهَ يُحۡدِثُ بَعۡدَ ذَٰلِكَ أَمۡرٗا",
-    "translation": "Ewe Muvugishwamana! Nimwashaka (wewe n’abemeramana) kwahukana n’abakenyezi, murahukana na bo mu gihe bavuye mu butinyanka bwabo mutararangurana amabanga y’abubatse[1], gushika aho ikiringo categekanirijwe kwarama ku kwahukana “eda” gihera. Maze muharure, muzigame ico kiringo co kwahukana[2]. Muraheza rero mutinye ibihano vy'Imana yanyu Rurema Allah mu kwubahiriza amabwirizwa yayo. Ntimuzohirahire rero ngo musohore abo bakenyezi mu nzu zabo, na bo ntibazozisohokemwo mu gihe cose ca eda[3], kiretse mu gihe bokora icaha c'agahomerabunwa; nko gusambana. Izo ngingo, ni imbibe z’ibitegetswe n’Imana Allah, ntimukazirengeko ngo mucike ibigaba. Uwo wese rero azorenga ku mbibe z'ibitegetswe n’Imana Allah, ni ukuri azoba yirenganije. Muntu wahukanye! Ntiwobimenya ko kumbure hari n’aho Imana Allah Yokora ikintu cotuma musubirana inyuma y’ukwahukana.",
-    "footnotes": "[1] Canke mu gihe vyamaze kuboneka ko bamaze gusama imbanyi.\n[2] Kugira mumenye aho catanguriye n’aho kizoherera, mu ntumbero yo kumenya umwanya urekuwemwo gusubirana, mu gihe mwoshaka gusubirana.\n[3] Ikiringo ca eda, ni ukuja mu butinyanka gatatu ku bataraca ubutinyanka; canke kumara amezi atatu ku bataraja mu butinyanka n’abamaze kubuca, hisunzwe ikirangamisi c’ikislamu; abibungenze na bo, ikiringo cabo co kwarama, ni ukwibaruka."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 558,
+  "verse_key": "65:1",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 223,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحۡصُواْ ٱلۡعِدَّةَۖ وَٱتَّقُواْ ٱللَّهَ رَبَّكُمۡۖ لَا تُخۡرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخۡرُجۡنَ إِلَّآ أَن يَأۡتِينَ بِفَٰحِشَةٖ مُّبَيِّنَةٖۚ وَتِلۡكَ حُدُودُ ٱللَّهِۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ لَا تَدۡرِي لَعَلَّ ٱللَّهَ يُحۡدِثُ بَعۡدَ ذَٰلِكَ أَمۡرٗا",
+  "translation": "Ewe Muvugishwamana! Nimwashaka (wewe n’abemeramana) kwahukana n’abakenyezi, murahukana na bo mu gihe bavuye mu butinyanka bwabo mutararangurana amabanga y’abubatse[1], gushika aho ikiringo categekanirijwe kwarama ku kwahukana “eda” gihera. Maze muharure, muzigame ico kiringo co kwahukana[2]. Muraheza rero mutinye ibihano vy'Imana yanyu Rurema Allah mu kwubahiriza amabwirizwa yayo. Ntimuzohirahire rero ngo musohore abo bakenyezi mu nzu zabo, na bo ntibazozisohokemwo mu gihe cose ca eda[3], kiretse mu gihe bokora icaha c'agahomerabunwa; nko gusambana. Izo ngingo, ni imbibe z’ibitegetswe n’Imana Allah, ntimukazirengeko ngo mucike ibigaba. Uwo wese rero azorenga ku mbibe z'ibitegetswe n’Imana Allah, ni ukuri azoba yirenganije. Muntu wahukanye! Ntiwobimenya ko kumbure hari n’aho Imana Allah Yokora ikintu cotuma musubirana inyuma y’ukwahukana.",
+  "footnotes": "[1] Canke mu gihe vyamaze kuboneka ko bamaze gusama imbanyi.\n[2] Kugira mumenye aho catanguriye n’aho kizoherera, mu ntumbero yo kumenya umwanya urekuwemwo gusubirana, mu gihe mwoshaka gusubirana.\n[3] Ikiringo ca eda, ni ukuja mu butinyanka gatatu ku bataraca ubutinyanka; canke kumara amezi atatu ku bataraja mu butinyanka n’abamaze kubuca, hisunzwe ikirangamisi c’ikislamu; abibungenze na bo, ikiringo cabo co kwarama, ni ukwibaruka."
 }

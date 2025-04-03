@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2266",
-    "sura": "19",
-    "aya": "16",
-    "arabic_text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مَرۡيَمَ إِذِ ٱنتَبَذَتۡ مِنۡ أَهۡلِهَا مَكَانٗا شَرۡقِيّٗا",
-    "translation": "Lɑ tẽeg Gafã (Kʋrãanã) pʋgẽ, a Maryam yelle, a sẽn wa n lak n bɑs a zakã rãmb n tees wĩntoog sẽn pukdẽ.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 306,
+  "verse_key": "19:16",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ مَرۡيَمَ إِذِ ٱنتَبَذَتۡ مِنۡ أَهۡلِهَا مَكَانٗا شَرۡقِيّٗا",
+  "translation": "Lɑ tẽeg Gafã (Kʋrãanã) pʋgẽ, a Maryam yelle, a sẽn wa n lak n bɑs a zakã rãmb n tees wĩntoog sẽn pukdẽ.",
+  "footnotes": ""
 }

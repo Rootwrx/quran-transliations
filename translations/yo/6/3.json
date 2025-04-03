@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "792",
-    "sura": "6",
-    "aya": "3",
-    "arabic_text": "وَهُوَ ٱللَّهُ فِي ٱلسَّمَٰوَٰتِ وَفِي ٱلۡأَرۡضِ يَعۡلَمُ سِرَّكُمۡ وَجَهۡرَكُمۡ وَيَعۡلَمُ مَا تَكۡسِبُونَ",
-    "translation": "Òun ni Allāhu (Ẹni tí a gbọ́dọ̀ jọ́sìn fún ní ọ̀nà òdodo) nínú àwọn sánmọ̀ àti nínú ilẹ̀. Ó mọ ìkọ̀kọ̀ yín àti gban̄gba yín. Ó sì mọ ohun tí ẹ̀ ń ṣe níṣẹ́.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 128,
+  "verse_key": "6:3",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱللَّهُ فِي ٱلسَّمَٰوَٰتِ وَفِي ٱلۡأَرۡضِ يَعۡلَمُ سِرَّكُمۡ وَجَهۡرَكُمۡ وَيَعۡلَمُ مَا تَكۡسِبُونَ",
+  "translation": "Òun ni Allāhu (Ẹni tí a gbọ́dọ̀ jọ́sìn fún ní ọ̀nà òdodo) nínú àwọn sánmọ̀ àti nínú ilẹ̀. Ó mọ ìkọ̀kọ̀ yín àti gban̄gba yín. Ó sì mọ ohun tí ẹ̀ ń ṣe níṣẹ́.",
+  "footnotes": ""
 }

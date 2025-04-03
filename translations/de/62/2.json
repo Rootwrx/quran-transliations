@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5179",
-    "sura": "62",
-    "aya": "2",
-    "arabic_text": "هُوَ ٱلَّذِي بَعَثَ فِي ٱلۡأُمِّيِّـۧنَ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِهِۦ وَيُزَكِّيهِمۡ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَإِن كَانُواْ مِن قَبۡلُ لَفِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "Er ist es, Der unter den Schriftunkundigen einen Gesandten von ihnen hat erstehen lassen, der ihnen Seine Zeichen verliest, sie läutert und sie das Buch und die Weisheit lehrt, obgleich sie sich ja zuvor in deutlichem Irrtum befanden -,",
-    "footnotes": null
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 553,
+  "verse_key": "62:2",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 221,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي بَعَثَ فِي ٱلۡأُمِّيِّـۧنَ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِهِۦ وَيُزَكِّيهِمۡ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَإِن كَانُواْ مِن قَبۡلُ لَفِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "Er ist es, Der unter den Schriftunkundigen einen Gesandten von ihnen hat erstehen lassen, der ihnen Seine Zeichen verliest, sie läutert und sie das Buch und die Weisheit lehrt, obgleich sie sich ja zuvor in deutlichem Irrtum befanden -,",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4414",
-    "sura": "43",
-    "aya": "89",
-    "arabic_text": "فَٱصۡفَحۡ عَنۡهُمۡ وَقُلۡ سَلَٰمٞۚ فَسَوۡفَ يَعۡلَمُونَ",
-    "translation": "89. Détourne-toi donc d’eux (en leur pardonnant) et dis : « Paix ! (Salâm) ». Bientôt ils sauront.",
-    "footnotes": ""
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 495,
+  "verse_key": "43:89",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱصۡفَحۡ عَنۡهُمۡ وَقُلۡ سَلَٰمٞۚ فَسَوۡفَ يَعۡلَمُونَ",
+  "translation": "89. Détourne-toi donc d’eux (en leur pardonnant) et dis : « Paix ! (Salâm) ». Bientôt ils sauront.",
+  "footnotes": ""
 }

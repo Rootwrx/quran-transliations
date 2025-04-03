@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5831",
-    "sura": "82",
-    "aya": "2",
-    "arabic_text": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
-    "translation": "Na sε Nsoromma tete hwe na ɛtu pete a,",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 587,
+  "verse_key": "82:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱلۡكَوَاكِبُ ٱنتَثَرَتۡ",
+  "translation": "Na sε Nsoromma tete hwe na ɛtu pete a,",
+  "footnotes": ""
 }

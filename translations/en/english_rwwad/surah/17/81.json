@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2110",
-    "sura": "17",
-    "aya": "81",
-    "arabic_text": "وَقُلۡ جَآءَ ٱلۡحَقُّ وَزَهَقَ ٱلۡبَٰطِلُۚ إِنَّ ٱلۡبَٰطِلَ كَانَ زَهُوقٗا",
-    "translation": "And say, “The truth has come and falsehood has perished. Indeed, falsehood is bound to perish[73].”",
-    "footnotes": "[73] Abdullāh Ibn Mas‘ūd (رضي الله عنه) narrated that: “The Prophet (ﷺ) entered Makkah on the day of its conquest, and there were around 360 idols around the Ka‘bah. He went on thrusting them with a stick in his hand making them tumble down and saying: “The Truth has come and falsehood has perished...” [al-Bukhārī: 87; Muslim: 1781]"
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 290,
+  "verse_key": "17:81",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُلۡ جَآءَ ٱلۡحَقُّ وَزَهَقَ ٱلۡبَٰطِلُۚ إِنَّ ٱلۡبَٰطِلَ كَانَ زَهُوقٗا",
+  "translation": "And say, “The truth has come and falsehood has perished. Indeed, falsehood is bound to perish[73].”",
+  "footnotes": "[73] Abdullāh Ibn Mas‘ūd (رضي الله عنه) narrated that: “The Prophet (ﷺ) entered Makkah on the day of its conquest, and there were around 360 idols around the Ka‘bah. He went on thrusting them with a stick in his hand making them tumble down and saying: “The Truth has come and falsehood has perished...” [al-Bukhārī: 87; Muslim: 1781]"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5678",
-    "sura": "78",
-    "aya": "6",
-    "arabic_text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَٰدٗا",
-    "translation": "6. Hebben Wij de aarde niet als een bed uitgespreid?",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 582,
+  "verse_key": "78:6",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ نَجۡعَلِ ٱلۡأَرۡضَ مِهَٰدٗا",
+  "translation": "6. Hebben Wij de aarde niet als een bed uitgespreid?",
+  "footnotes": ""
 }

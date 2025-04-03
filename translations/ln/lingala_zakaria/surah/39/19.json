@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4077",
-    "sura": "39",
-    "aya": "19",
-    "arabic_text": "أَفَمَنۡ حَقَّ عَلَيۡهِ كَلِمَةُ ٱلۡعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِي ٱلنَّارِ",
-    "translation": "19. Mpe тропа oyo ayebani ete akozua etumbu, boye yo nde ozali na bokoki ya kobikisa ye na moto?",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 460,
+  "verse_key": "39:19",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَمَنۡ حَقَّ عَلَيۡهِ كَلِمَةُ ٱلۡعَذَابِ أَفَأَنتَ تُنقِذُ مَن فِي ٱلنَّارِ",
+  "translation": "19. Mpe тропа oyo ayebani ete akozua etumbu, boye yo nde ozali na bokoki ya kobikisa ye na moto?",
+  "footnotes": ""
 }

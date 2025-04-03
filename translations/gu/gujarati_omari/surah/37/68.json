@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3856",
-    "sura": "37",
-    "aya": "68",
-    "arabic_text": "ثُمَّ إِنَّ مَرۡجِعَهُمۡ لَإِلَى ٱلۡجَحِيمِ",
-    "translation": "૬૮. પછી તે સૌને જહન્નમ તરફ ફેરવવામાં આવશે.",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 448,
+  "verse_key": "37:68",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ إِنَّ مَرۡجِعَهُمۡ لَإِلَى ٱلۡجَحِيمِ",
+  "translation": "૬૮. પછી તે સૌને જહન્નમ તરફ ફેરવવામાં આવશે.",
+  "footnotes": ""
 }

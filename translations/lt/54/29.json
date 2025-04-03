@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4875",
-    "sura": "54",
-    "aya": "29",
-    "arabic_text": "فَنَادَوۡاْ صَاحِبَهُمۡ فَتَعَاطَىٰ فَعَقَرَ",
-    "translation": "29. Bet jie pakvietė savo bendražygį, ir jis pasiėmė (kardą) ir nužudė (ją).",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 530,
+  "verse_key": "54:29",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَنَادَوۡاْ صَاحِبَهُمۡ فَتَعَاطَىٰ فَعَقَرَ",
+  "translation": "29. Bet jie pakvietė savo bendražygį, ir jis pasiėmė (kardą) ir nužudė (ją).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5854",
-    "sura": "83",
-    "aya": "6",
-    "arabic_text": "يَوۡمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "Umunsi abantu (bose) bazahagarara imbere ya Nyagasani w’ibiremwa?",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 587,
+  "verse_key": "83:6",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَقُومُ ٱلنَّاسُ لِرَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "Umunsi abantu (bose) bazahagarara imbere ya Nyagasani w’ibiremwa?",
+  "footnotes": ""
 }

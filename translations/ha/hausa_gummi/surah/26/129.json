@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3061",
-    "sura": "26",
-    "aya": "129",
-    "arabic_text": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمۡ تَخۡلُدُونَ",
-    "translation": "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?*\"",
-    "footnotes": "* Kõ kuma wurãren sanã'õ'i kamar masãƙoƙi irin na zãmanin nan."
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 372,
+  "verse_key": "26:129",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَتَّخِذُونَ مَصَانِعَ لَعَلَّكُمۡ تَخۡلُدُونَ",
+  "translation": "\"Kuma kunã riƙon matsãrar ruwa, tsammãninku, ku dawwama?*\"",
+  "footnotes": "* Kõ kuma wurãren sanã'õ'i kamar masãƙoƙi irin na zãmanin nan."
 }

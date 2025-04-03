@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4451",
-    "sura": "44",
-    "aya": "37",
-    "arabic_text": "أَهُمۡ خَيۡرٌ أَمۡ قَوۡمُ تُبَّعٖ وَٱلَّذِينَ مِن قَبۡلِهِمۡ أَهۡلَكۡنَٰهُمۡۚ إِنَّهُمۡ كَانُواْ مُجۡرِمِينَ",
-    "translation": "shin, sũ ne mafĩfĩta kõ kuwa mutãnen Tubba'u, kuma da waɗanda ke a gabãninsu? Mun halaka su, lalle sũ, sun kasance mãsu laifi.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 497,
+  "verse_key": "44:37",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَهُمۡ خَيۡرٌ أَمۡ قَوۡمُ تُبَّعٖ وَٱلَّذِينَ مِن قَبۡلِهِمۡ أَهۡلَكۡنَٰهُمۡۚ إِنَّهُمۡ كَانُواْ مُجۡرِمِينَ",
+  "translation": "shin, sũ ne mafĩfĩta kõ kuwa mutãnen Tubba'u, kuma da waɗanda ke a gabãninsu? Mun halaka su, lalle sũ, sun kasance mãsu laifi.",
+  "footnotes": ""
 }

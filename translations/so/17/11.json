@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2040",
-    "sura": "17",
-    "aya": "11",
-    "arabic_text": "وَيَدۡعُ ٱلۡإِنسَٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلۡخَيۡرِۖ وَكَانَ ٱلۡإِنسَٰنُ عَجُولٗا",
-    "translation": "11. Wuxuu aadmigu u yeedhaa (baryaa) shar siduu ugu yeedho (baryo) khayr.  Aadmiguna mar walba waa degdegaa6.",
-    "footnotes": "6. Macnaha waxaa dhacda marmar inuu habaaro naftiisa ama ilmahaiisa ama dadka aad ugu dhow oo xigaaladiisa ah, sidoo kale waxaa la yidhi macnaha waa wuxuu Alle ka baryaa wuxuu moodo inuu khayr u yahay, ha yeeshee Alle og yahay inuu shar u yahay, sidaas awgeed uusan ka ajibiin ducada oo ka aqbalin baryadaa. Aadmiguna wuu degdeg badan yahay, macnaha waa samir yar yahay, laab kac badan yahay, oo wax ku dhaqaaqaa ka fiirsi la’aan qof uu Alle u naxariistay maahee. Aadmiga, si kasta uu isu kibriyo, weli waa daciif iyo abuurane yar."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 283,
+  "verse_key": "17:11",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَدۡعُ ٱلۡإِنسَٰنُ بِٱلشَّرِّ دُعَآءَهُۥ بِٱلۡخَيۡرِۖ وَكَانَ ٱلۡإِنسَٰنُ عَجُولٗا",
+  "translation": "11. Wuxuu aadmigu u yeedhaa (baryaa) shar siduu ugu yeedho (baryo) khayr.  Aadmiguna mar walba waa degdegaa6.",
+  "footnotes": "6. Macnaha waxaa dhacda marmar inuu habaaro naftiisa ama ilmahaiisa ama dadka aad ugu dhow oo xigaaladiisa ah, sidoo kale waxaa la yidhi macnaha waa wuxuu Alle ka baryaa wuxuu moodo inuu khayr u yahay, ha yeeshee Alle og yahay inuu shar u yahay, sidaas awgeed uusan ka ajibiin ducada oo ka aqbalin baryadaa. Aadmiguna wuu degdeg badan yahay, macnaha waa samir yar yahay, laab kac badan yahay, oo wax ku dhaqaaqaa ka fiirsi la’aan qof uu Alle u naxariistay maahee. Aadmiga, si kasta uu isu kibriyo, weli waa daciif iyo abuurane yar."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3829",
-    "sura": "37",
-    "aya": "41",
-    "arabic_text": "أُوْلَٰٓئِكَ لَهُمۡ رِزۡقٞ مَّعۡلُومٞ",
-    "translation": "将享受一种可知的给养——",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 447,
+  "verse_key": "37:41",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ لَهُمۡ رِزۡقٞ مَّعۡلُومٞ",
+  "translation": "将享受一种可知的给养——",
+  "footnotes": ""
 }

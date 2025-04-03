@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1193",
-    "sura": "8",
-    "aya": "33",
-    "arabic_text": "وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمۡ وَأَنتَ فِيهِمۡۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمۡ وَهُمۡ يَسۡتَغۡفِرُونَ",
-    "translation": "Allah n’est point tel qu’Il les châtie, alors que tu es au milieu d’eux. Et Allah n’est point tel qu’Il les châtie alors qu’ils demandent pardon.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 180,
+  "verse_key": "8:33",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ ٱللَّهُ لِيُعَذِّبَهُمۡ وَأَنتَ فِيهِمۡۚ وَمَا كَانَ ٱللَّهُ مُعَذِّبَهُمۡ وَهُمۡ يَسۡتَغۡفِرُونَ",
+  "translation": "Allah n’est point tel qu’Il les châtie, alors que tu es au milieu d’eux. Et Allah n’est point tel qu’Il les châtie alors qu’ils demandent pardon.",
+  "footnotes": ""
 }

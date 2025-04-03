@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5432",
-    "sura": "71",
-    "aya": "13",
-    "arabic_text": "مَّا لَكُمۡ لَا تَرۡجُونَ لِلَّهِ وَقَارٗا",
-    "translation": "13. ¿Qué les sucede? ¿Por qué no enaltecen a Al-lah como merece ",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 571,
+  "verse_key": "71:13",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا لَكُمۡ لَا تَرۡجُونَ لِلَّهِ وَقَارٗا",
+  "translation": "13. ¿Qué les sucede? ¿Por qué no enaltecen a Al-lah como merece ",
+  "footnotes": ""
 }

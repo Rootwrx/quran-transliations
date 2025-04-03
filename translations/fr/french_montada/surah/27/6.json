@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3165",
-    "sura": "27",
-    "aya": "6",
-    "arabic_text": "وَإِنَّكَ لَتُلَقَّى ٱلۡقُرۡءَانَ مِن لَّدُنۡ حَكِيمٍ عَلِيمٍ",
-    "translation": "6. Tu reçois certes le Coran d’un Sage Omniscient.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 377,
+  "verse_key": "27:6",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّكَ لَتُلَقَّى ٱلۡقُرۡءَانَ مِن لَّدُنۡ حَكِيمٍ عَلِيمٍ",
+  "translation": "6. Tu reçois certes le Coran d’un Sage Omniscient.",
+  "footnotes": ""
 }

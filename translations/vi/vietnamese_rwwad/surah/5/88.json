@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "757",
-    "sura": "5",
-    "aya": "88",
-    "arabic_text": "وَكُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلٗا طَيِّبٗاۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ أَنتُم بِهِۦ مُؤۡمِنُونَ",
-    "translation": "Các ngươi hãy ăn những thực phẩm Halal tốt sạch mà Allah đã ban cấp cho các ngươi và các ngươi hãy kính sợ Allah, Đấng mà các ngươi thật sự có đức tin.",
-    "footnotes": ""
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 122,
+  "verse_key": "5:88",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ حَلَٰلٗا طَيِّبٗاۚ وَٱتَّقُواْ ٱللَّهَ ٱلَّذِيٓ أَنتُم بِهِۦ مُؤۡمِنُونَ",
+  "translation": "Các ngươi hãy ăn những thực phẩm Halal tốt sạch mà Allah đã ban cấp cho các ngươi và các ngươi hãy kính sợ Allah, Đấng mà các ngươi thật sự có đức tin.",
+  "footnotes": ""
 }

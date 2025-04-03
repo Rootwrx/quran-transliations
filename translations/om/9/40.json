@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1275",
-    "sura": "9",
-    "aya": "40",
-    "arabic_text": "إِلَّا تَنصُرُوهُ فَقَدۡ نَصَرَهُ ٱللَّهُ إِذۡ أَخۡرَجَهُ ٱلَّذِينَ كَفَرُواْ ثَانِيَ ٱثۡنَيۡنِ إِذۡ هُمَا فِي ٱلۡغَارِ إِذۡ يَقُولُ لِصَٰحِبِهِۦ لَا تَحۡزَنۡ إِنَّ ٱللَّهَ مَعَنَاۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيۡهِ وَأَيَّدَهُۥ بِجُنُودٖ لَّمۡ تَرَوۡهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُواْ ٱلسُّفۡلَىٰۗ وَكَلِمَةُ ٱللَّهِ هِيَ ٱلۡعُلۡيَاۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
-    "translation": "Yoo isin isaaf tumsuu baattan, dhugumatti Rabbiin isaaf tumseera -yeroo warri kafaran lammaffaa nama lamaa ta’ee isa (Makkaarraa) baasan, yeroo isaan lamaanuu goda keessa ta’an, yeroo inni saahiba isaatiin “hin gaddin Rabbiin nu waliin jiraa; ” jedhu san- (Rabbiin isaaf tumseera). Rabbiin tasgabbii Isa irraa ta’e isa irratti buuse; waraana isin ishee hin arginiinis isa jabeesse, Jecha warra kafaranii gad aantuu taasise, Jechi Rabbii isheedhumatu ol aantuudha, Rabbiin injifataa, ogeessa.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 193,
+  "verse_key": "9:40",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا تَنصُرُوهُ فَقَدۡ نَصَرَهُ ٱللَّهُ إِذۡ أَخۡرَجَهُ ٱلَّذِينَ كَفَرُواْ ثَانِيَ ٱثۡنَيۡنِ إِذۡ هُمَا فِي ٱلۡغَارِ إِذۡ يَقُولُ لِصَٰحِبِهِۦ لَا تَحۡزَنۡ إِنَّ ٱللَّهَ مَعَنَاۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيۡهِ وَأَيَّدَهُۥ بِجُنُودٖ لَّمۡ تَرَوۡهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُواْ ٱلسُّفۡلَىٰۗ وَكَلِمَةُ ٱللَّهِ هِيَ ٱلۡعُلۡيَاۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+  "translation": "Yoo isin isaaf tumsuu baattan, dhugumatti Rabbiin isaaf tumseera -yeroo warri kafaran lammaffaa nama lamaa ta’ee isa (Makkaarraa) baasan, yeroo isaan lamaanuu goda keessa ta’an, yeroo inni saahiba isaatiin “hin gaddin Rabbiin nu waliin jiraa; ” jedhu san- (Rabbiin isaaf tumseera). Rabbiin tasgabbii Isa irraa ta’e isa irratti buuse; waraana isin ishee hin arginiinis isa jabeesse, Jecha warra kafaranii gad aantuu taasise, Jechi Rabbii isheedhumatu ol aantuudha, Rabbiin injifataa, ogeessa.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5236",
-    "sura": "66",
-    "aya": "7",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ كَفَرُواْ لَا تَعۡتَذِرُواْ ٱلۡيَوۡمَۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "7. O jūs, kurie netikėjote! Nesiteisinkite Šią Dieną. Jums bus tik atlyginta už tai, ką jūs darydavote.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 560,
+  "verse_key": "66:7",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ كَفَرُواْ لَا تَعۡتَذِرُواْ ٱلۡيَوۡمَۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "7. O jūs, kurie netikėjote! Nesiteisinkite Šią Dieną. Jums bus tik atlyginta už tai, ką jūs darydavote.",
+  "footnotes": ""
 }

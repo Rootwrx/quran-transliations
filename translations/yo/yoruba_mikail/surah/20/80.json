@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2428",
-    "sura": "20",
-    "aya": "80",
-    "arabic_text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ قَدۡ أَنجَيۡنَٰكُم مِّنۡ عَدُوِّكُمۡ وَوَٰعَدۡنَٰكُمۡ جَانِبَ ٱلطُّورِ ٱلۡأَيۡمَنَ وَنَزَّلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰ",
-    "translation": "Ẹ̀yin ọmọ ’Isrọ̄’īl, dájúdájú A ti gbà yín là lọ́wọ́ ọ̀tá yín. A sì ṣe àdéhùn fún yín (pé kí Ànábì Mūsā wá, kí Á bá a sọ̀rọ̀ tààrà) ní ẹ̀gbẹ́ àpáta ní ọwọ́ ọ̀tún[1] (Ànábì Mūsā láààrin àpáta àti àfonífojì² ní ìwọ̀ òòrùn³). A sì sọ ohun mímu mọnu àti ohun jíjẹ salwā kalẹ̀ fún yín.4",
-    "footnotes": "1. Ìyẹn ni pé, ìjúwe àpáta ibi tí Allāhu - tó ga jùlọ - ti bá Ànábì Mūsā - kí ọlà Allāhu máa bá a - sọ̀rọ̀ tààrà nìyí, ó gbé àpáta sí ọwọ́ ọ̀tún rẹ̀, àfonífojì wà ní ọwọ́ òsì rẹ̀ ní àgbègbè ìwọ̀-òòrùn ìlú náà. 2. Sūrah al-Ƙọsọs; 28:30 3. Sūrah al-Ƙọsọs; 28:40 4. Ìyẹn ni oúnjẹ wọn lórí ìrìn àrìnnù ológójì ọdún. Ẹ wo sūrah al-Mọ̄’idah 5:26."
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 317,
+  "verse_key": "20:80",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ قَدۡ أَنجَيۡنَٰكُم مِّنۡ عَدُوِّكُمۡ وَوَٰعَدۡنَٰكُمۡ جَانِبَ ٱلطُّورِ ٱلۡأَيۡمَنَ وَنَزَّلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰ",
+  "translation": "Ẹ̀yin ọmọ ’Isrọ̄’īl, dájúdájú A ti gbà yín là lọ́wọ́ ọ̀tá yín. A sì ṣe àdéhùn fún yín (pé kí Ànábì Mūsā wá, kí Á bá a sọ̀rọ̀ tààrà) ní ẹ̀gbẹ́ àpáta ní ọwọ́ ọ̀tún[1] (Ànábì Mūsā láààrin àpáta àti àfonífojì² ní ìwọ̀ òòrùn³). A sì sọ ohun mímu mọnu àti ohun jíjẹ salwā kalẹ̀ fún yín.4",
+  "footnotes": "1. Ìyẹn ni pé, ìjúwe àpáta ibi tí Allāhu - tó ga jùlọ - ti bá Ànábì Mūsā - kí ọlà Allāhu máa bá a - sọ̀rọ̀ tààrà nìyí, ó gbé àpáta sí ọwọ́ ọ̀tún rẹ̀, àfonífojì wà ní ọwọ́ òsì rẹ̀ ní àgbègbè ìwọ̀-òòrùn ìlú náà. 2. Sūrah al-Ƙọsọs; 28:30 3. Sūrah al-Ƙọsọs; 28:40 4. Ìyẹn ni oúnjẹ wọn lórí ìrìn àrìnnù ológójì ọdún. Ẹ wo sūrah al-Mọ̄’idah 5:26."
 }

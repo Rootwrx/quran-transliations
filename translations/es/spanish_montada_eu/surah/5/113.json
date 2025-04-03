@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "782",
-    "sura": "5",
-    "aya": "113",
-    "arabic_text": "قَالُواْ نُرِيدُ أَن نَّأۡكُلَ مِنۡهَا وَتَطۡمَئِنَّ قُلُوبُنَا وَنَعۡلَمَ أَن قَدۡ صَدَقۡتَنَا وَنَكُونَ عَلَيۡهَا مِنَ ٱلشَّٰهِدِينَ",
-    "translation": "113. Dijeron: «Queremos comer de ella y tranquilizar los corazones (afianzando nuestra fe) y asegurarnos de que dices la verdad y ser testigos de ella».",
-    "footnotes": ""
-  }
+  "id": 113,
+  "verse_number": 113,
+  "page_number": 126,
+  "verse_key": "5:113",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ نُرِيدُ أَن نَّأۡكُلَ مِنۡهَا وَتَطۡمَئِنَّ قُلُوبُنَا وَنَعۡلَمَ أَن قَدۡ صَدَقۡتَنَا وَنَكُونَ عَلَيۡهَا مِنَ ٱلشَّٰهِدِينَ",
+  "translation": "113. Dijeron: «Queremos comer de ella y tranquilizar los corazones (afianzando nuestra fe) y asegurarnos de que dices la verdad y ser testigos de ella».",
+  "footnotes": ""
 }

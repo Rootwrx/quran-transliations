@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3088",
-    "sura": "26",
-    "aya": "156",
-    "arabic_text": "وَلَا تَمَسُّوهَا بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابُ يَوۡمٍ عَظِيمٖ",
-    "translation": "156. »No le hagáis ningún daño o se abatirá sobre vosotros el castigo de un día terrible».",
-    "footnotes": ""
-  }
+  "id": 156,
+  "verse_number": 156,
+  "page_number": 373,
+  "verse_key": "26:156",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَمَسُّوهَا بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابُ يَوۡمٍ عَظِيمٖ",
+  "translation": "156. »No le hagáis ningún daño o se abatirá sobre vosotros el castigo de un día terrible».",
+  "footnotes": ""
 }

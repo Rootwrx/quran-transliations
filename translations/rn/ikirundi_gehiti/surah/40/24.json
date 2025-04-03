@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4157",
-    "sura": "40",
-    "aya": "24",
-    "arabic_text": "إِلَىٰ فِرۡعَوۡنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُواْ سَٰحِرٞ كَذَّابٞ",
-    "translation": "Twamurungitse kwa Firawuni wa Misiri, Haamaana na Qaaruuni, maze baca bavuga bamirira kure ubutumwa bwiwe n’amanyama n’akantu bati: “Musa, ni umurozi akaba n’umukonikoni w’umubeshi ruhebwa”.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 469,
+  "verse_key": "40:24",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَىٰ فِرۡعَوۡنَ وَهَٰمَٰنَ وَقَٰرُونَ فَقَالُواْ سَٰحِرٞ كَذَّابٞ",
+  "translation": "Twamurungitse kwa Firawuni wa Misiri, Haamaana na Qaaruuni, maze baca bavuga bamirira kure ubutumwa bwiwe n’amanyama n’akantu bati: “Musa, ni umurozi akaba n’umukonikoni w’umubeshi ruhebwa”.",
+  "footnotes": ""
 }

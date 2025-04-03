@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2379",
-    "sura": "20",
-    "aya": "31",
-    "arabic_text": "ٱشۡدُدۡ بِهِۦٓ أَزۡرِي",
-    "translation": "అతని ద్వారా నా బలాన్ని దృఢపరచు.",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 313,
+  "verse_key": "20:31",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱشۡدُدۡ بِهِۦٓ أَزۡرِي",
+  "translation": "అతని ద్వారా నా బలాన్ని దృఢపరచు.",
+  "footnotes": ""
 }

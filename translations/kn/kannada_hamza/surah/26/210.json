@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3142",
-    "sura": "26",
-    "aya": "210",
-    "arabic_text": "وَمَا تَنَزَّلَتۡ بِهِ ٱلشَّيَٰطِينُ",
-    "translation": "ಶೈತಾನರು ಈ ಕುರ್‌ಆನನ್ನು ತಂದಿಲ್ಲ.",
-    "footnotes": ""
-  }
+  "id": 210,
+  "verse_number": 210,
+  "page_number": 376,
+  "verse_key": "26:210",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تَنَزَّلَتۡ بِهِ ٱلشَّيَٰطِينُ",
+  "translation": "ಶೈತಾನರು ಈ ಕುರ್‌ಆನನ್ನು ತಂದಿಲ್ಲ.",
+  "footnotes": ""
 }

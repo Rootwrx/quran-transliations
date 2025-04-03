@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1643",
-    "sura": "12",
-    "aya": "47",
-    "arabic_text": "قَالَ تَزۡرَعُونَ سَبۡعَ سِنِينَ دَأَبٗا فَمَا حَصَدتُّمۡ فَذَرُوهُ فِي سُنۢبُلِهِۦٓ إِلَّا قَلِيلٗا مِّمَّا تَأۡكُلُونَ",
-    "translation": "47 Joseph répondit : « Les récoltes seront abondantes sept années consécutives[633] au cours desquelles vous laisserez en épis les céréales que vous aurez moissonnées[634], à l’exception du minimum nécessaire à votre consommation.",
-    "footnotes": "[633] Correspondant aux sept vaches grasses.\n[634] Afin qu’ils se gâtent moins rapidement."
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 241,
+  "verse_key": "12:47",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ تَزۡرَعُونَ سَبۡعَ سِنِينَ دَأَبٗا فَمَا حَصَدتُّمۡ فَذَرُوهُ فِي سُنۢبُلِهِۦٓ إِلَّا قَلِيلٗا مِّمَّا تَأۡكُلُونَ",
+  "translation": "47 Joseph répondit : « Les récoltes seront abondantes sept années consécutives[633] au cours desquelles vous laisserez en épis les céréales que vous aurez moissonnées[634], à l’exception du minimum nécessaire à votre consommation.",
+  "footnotes": "[633] Correspondant aux sept vaches grasses.\n[634] Afin qu’ils se gâtent moins rapidement."
 }

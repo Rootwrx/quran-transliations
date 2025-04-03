@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4680",
-    "sura": "51",
-    "aya": "5",
-    "arabic_text": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
-    "translation": "se, me të vërtetë, është e sigurt ajo që ju premtohet",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 520,
+  "verse_key": "51:5",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا تُوعَدُونَ لَصَادِقٞ",
+  "translation": "se, me të vërtetë, është e sigurt ajo që ju premtohet",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1671",
-    "sura": "12",
-    "aya": "75",
-    "arabic_text": "قَالُواْ جَزَٰٓؤُهُۥ مَن وُجِدَ فِي رَحۡلِهِۦ فَهُوَ جَزَٰٓؤُهُۥۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
-    "translation": "Nagsabi sila: “Ang ganti rito: ang sinumang natagpuan iyon sa sisidlan niya ay siya ang ganti rito.[11] Gayon kami gumaganti sa mga tagalabag sa katarungan.”",
-    "footnotes": "[11] Ang ganti ay ang pag-alipin sa magnanakaw ng ninakawan nito."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 244,
+  "verse_key": "12:75",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ جَزَٰٓؤُهُۥ مَن وُجِدَ فِي رَحۡلِهِۦ فَهُوَ جَزَٰٓؤُهُۥۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
+  "translation": "Nagsabi sila: “Ang ganti rito: ang sinumang natagpuan iyon sa sisidlan niya ay siya ang ganti rito.[11] Gayon kami gumaganti sa mga tagalabag sa katarungan.”",
+  "footnotes": "[11] Ang ganti ay ang pag-alipin sa magnanakaw ng ninakawan nito."
 }

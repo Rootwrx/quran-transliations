@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "372",
-    "sura": "3",
-    "aya": "79",
-    "arabic_text": "مَا كَانَ لِبَشَرٍ أَن يُؤۡتِيَهُ ٱللَّهُ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادٗا لِّي مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُواْ رَبَّٰنِيِّـۧنَ بِمَا كُنتُمۡ تُعَلِّمُونَ ٱلۡكِتَٰبَ وَبِمَا كُنتُمۡ تَدۡرُسُونَ",
-    "translation": "Il ne convient pas à un être humain à qui Allah a donné le Livre, la Compréhension et la Prophétie, de dire ensuite aux gens: “Soyez mes adorateurs, à l’exclusion d’Allah.”; mais au contraire, [il devra dire]: “Devenez des savants (dévots), obéissant au Seigneur, puisque vous enseignez le Livre et vous l’étudiez”.",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 60,
+  "verse_key": "3:79",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا كَانَ لِبَشَرٍ أَن يُؤۡتِيَهُ ٱللَّهُ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادٗا لِّي مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُواْ رَبَّٰنِيِّـۧنَ بِمَا كُنتُمۡ تُعَلِّمُونَ ٱلۡكِتَٰبَ وَبِمَا كُنتُمۡ تَدۡرُسُونَ",
+  "translation": "Il ne convient pas à un être humain à qui Allah a donné le Livre, la Compréhension et la Prophétie, de dire ensuite aux gens: “Soyez mes adorateurs, à l’exclusion d’Allah.”; mais au contraire, [il devra dire]: “Devenez des savants (dévots), obéissant au Seigneur, puisque vous enseignez le Livre et vous l’étudiez”.",
+  "footnotes": ""
 }

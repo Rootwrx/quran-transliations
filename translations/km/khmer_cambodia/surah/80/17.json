@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5775",
-    "sura": "80",
-    "aya": "17",
-    "arabic_text": "قُتِلَ ٱلۡإِنسَٰنُ مَآ أَكۡفَرَهُۥ",
-    "translation": "មនុស្សលោកត្រូវបានគេដាក់បណ្ដាសានូវអ្វីដែលគេបាន ប្រឆាំងនឹងម្ចាស់របស់គេ ។",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 585,
+  "verse_key": "80:17",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُتِلَ ٱلۡإِنسَٰنُ مَآ أَكۡفَرَهُۥ",
+  "translation": "មនុស្សលោកត្រូវបានគេដាក់បណ្ដាសានូវអ្វីដែលគេបាន ប្រឆាំងនឹងម្ចាស់របស់គេ ។",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "912",
-    "sura": "6",
-    "aya": "123",
-    "arabic_text": "وَكَذَٰلِكَ جَعَلۡنَا فِي كُلِّ قَرۡيَةٍ أَكَٰبِرَ مُجۡرِمِيهَا لِيَمۡكُرُواْ فِيهَاۖ وَمَا يَمۡكُرُونَ إِلَّا بِأَنفُسِهِمۡ وَمَا يَشۡعُرُونَ",
-    "translation": "(123) And thus We have placed within every city the greatest of its criminals to conspire therein. But they conspire not except against themselves, and they perceive [it] not.",
-    "footnotes": ""
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 143,
+  "verse_key": "6:123",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ جَعَلۡنَا فِي كُلِّ قَرۡيَةٍ أَكَٰبِرَ مُجۡرِمِيهَا لِيَمۡكُرُواْ فِيهَاۖ وَمَا يَمۡكُرُونَ إِلَّا بِأَنفُسِهِمۡ وَمَا يَشۡعُرُونَ",
+  "translation": "(123) And thus We have placed within every city the greatest of its criminals to conspire therein. But they conspire not except against themselves, and they perceive [it] not.",
+  "footnotes": ""
 }

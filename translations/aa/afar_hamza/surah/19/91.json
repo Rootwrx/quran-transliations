@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2341",
-    "sura": "19",
-    "aya": "91",
-    "arabic_text": "أَن دَعَوۡاْ لِلرَّحۡمَٰنِ وَلَدٗا",
-    "translation": "91. Usun Racmaan kinni Rabbi baxa-le iyyeenimih Sabbatah.",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 311,
+  "verse_key": "19:91",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَن دَعَوۡاْ لِلرَّحۡمَٰنِ وَلَدٗا",
+  "translation": "91. Usun Racmaan kinni Rabbi baxa-le iyyeenimih Sabbatah.",
+  "footnotes": ""
 }

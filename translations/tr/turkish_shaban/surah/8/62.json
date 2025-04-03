@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1222",
-    "sura": "8",
-    "aya": "62",
-    "arabic_text": "وَإِن يُرِيدُوٓاْ أَن يَخۡدَعُوكَ فَإِنَّ حَسۡبَكَ ٱللَّهُۚ هُوَ ٱلَّذِيٓ أَيَّدَكَ بِنَصۡرِهِۦ وَبِٱلۡمُؤۡمِنِينَ",
-    "translation": "Seni aldatmak isterlerse, şüphesiz Allah sana yeter. O, yardımıyla müminler ile seni destekler. ",
-    "footnotes": null
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 185,
+  "verse_key": "8:62",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يُرِيدُوٓاْ أَن يَخۡدَعُوكَ فَإِنَّ حَسۡبَكَ ٱللَّهُۚ هُوَ ٱلَّذِيٓ أَيَّدَكَ بِنَصۡرِهِۦ وَبِٱلۡمُؤۡمِنِينَ",
+  "translation": "Seni aldatmak isterlerse, şüphesiz Allah sana yeter. O, yardımıyla müminler ile seni destekler. ",
+  "footnotes": null
 }

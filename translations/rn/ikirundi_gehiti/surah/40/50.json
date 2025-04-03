@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4183",
-    "sura": "40",
-    "aya": "50",
-    "arabic_text": "قَالُوٓاْ أَوَلَمۡ تَكُ تَأۡتِيكُمۡ رُسُلُكُم بِٱلۡبَيِّنَٰتِۖ قَالُواْ بَلَىٰۚ قَالُواْ فَٱدۡعُواْۗ وَمَا دُعَٰٓؤُاْ ٱلۡكَٰفِرِينَ إِلَّا فِي ضَلَٰلٍ",
-    "translation": "Abamalayika bazobishura n’agashinyaguro n’akantu bati: “Mbega none, ntimwashikiriwe n’Intumwa zanyu mwarungikiwe, zikaza zibangikanije ivyemezo bitomoye, mukazihakana mwivuye inyuma!”. Na bo bazoheza bemange bati: “Ego cane zaradushikiriye!”. Ni ho ba bamalayika bazoca babiyama bati: “Kubera ivyo rero, twebwe ntiturota tubasabira, enda nimwisabire mwebwe nyene, ariko rero ntimwumvirwa ngo mutezurirwe kuko muri abagarariji, burya igisabisho c’abagarariji nta co kibashikanako, kiretse ko kiba impfagusa”.",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 473,
+  "verse_key": "40:50",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَوَلَمۡ تَكُ تَأۡتِيكُمۡ رُسُلُكُم بِٱلۡبَيِّنَٰتِۖ قَالُواْ بَلَىٰۚ قَالُواْ فَٱدۡعُواْۗ وَمَا دُعَٰٓؤُاْ ٱلۡكَٰفِرِينَ إِلَّا فِي ضَلَٰلٍ",
+  "translation": "Abamalayika bazobishura n’agashinyaguro n’akantu bati: “Mbega none, ntimwashikiriwe n’Intumwa zanyu mwarungikiwe, zikaza zibangikanije ivyemezo bitomoye, mukazihakana mwivuye inyuma!”. Na bo bazoheza bemange bati: “Ego cane zaradushikiriye!”. Ni ho ba bamalayika bazoca babiyama bati: “Kubera ivyo rero, twebwe ntiturota tubasabira, enda nimwisabire mwebwe nyene, ariko rero ntimwumvirwa ngo mutezurirwe kuko muri abagarariji, burya igisabisho c’abagarariji nta co kibashikanako, kiretse ko kiba impfagusa”.",
+  "footnotes": ""
 }

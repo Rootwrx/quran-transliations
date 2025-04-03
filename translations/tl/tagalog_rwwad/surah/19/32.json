@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2282",
-    "sura": "19",
-    "aya": "32",
-    "arabic_text": "وَبَرَّۢا بِوَٰلِدَتِي وَلَمۡ يَجۡعَلۡنِي جَبَّارٗا شَقِيّٗا",
-    "translation": "[Gumawa Siya sa akin] bilang mabuting-loob sa ina ko, at hindi Siya gumawa sa akin bilang palasupil na malumbay.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 307,
+  "verse_key": "19:32",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبَرَّۢا بِوَٰلِدَتِي وَلَمۡ يَجۡعَلۡنِي جَبَّارٗا شَقِيّٗا",
+  "translation": "[Gumawa Siya sa akin] bilang mabuting-loob sa ina ko, at hindi Siya gumawa sa akin bilang palasupil na malumbay.",
+  "footnotes": ""
 }

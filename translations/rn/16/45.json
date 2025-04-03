@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1946",
-    "sura": "16",
-    "aya": "45",
-    "arabic_text": "أَفَأَمِنَ ٱلَّذِينَ مَكَرُواْ ٱلسَّيِّـَٔاتِ أَن يَخۡسِفَ ٱللَّهُ بِهِمُ ٱلۡأَرۡضَ أَوۡ يَأۡتِيَهُمُ ٱلۡعَذَابُ مِنۡ حَيۡثُ لَا يَشۡعُرُونَ",
-    "translation": "Mbega burya abagarariji batega imitego abemeramana, boba batekaniwe ku Mana Allah, ko Itobafuririra mu kuzimu nk’uko Yafuriye Qaaruuni! Canke ko batoshikirwa n’ibihano mu buryo batari biteze!;",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 272,
+  "verse_key": "16:45",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَأَمِنَ ٱلَّذِينَ مَكَرُواْ ٱلسَّيِّـَٔاتِ أَن يَخۡسِفَ ٱللَّهُ بِهِمُ ٱلۡأَرۡضَ أَوۡ يَأۡتِيَهُمُ ٱلۡعَذَابُ مِنۡ حَيۡثُ لَا يَشۡعُرُونَ",
+  "translation": "Mbega burya abagarariji batega imitego abemeramana, boba batekaniwe ku Mana Allah, ko Itobafuririra mu kuzimu nk’uko Yafuriye Qaaruuni! Canke ko batoshikirwa n’ibihano mu buryo batari biteze!;",
+  "footnotes": ""
 }

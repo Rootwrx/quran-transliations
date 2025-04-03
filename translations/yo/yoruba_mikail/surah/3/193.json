@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "486",
-    "sura": "3",
-    "aya": "193",
-    "arabic_text": "رَّبَّنَآ إِنَّنَا سَمِعۡنَا مُنَادِيٗا يُنَادِي لِلۡإِيمَٰنِ أَنۡ ءَامِنُواْ بِرَبِّكُمۡ فَـَٔامَنَّاۚ رَبَّنَا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَكَفِّرۡ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلۡأَبۡرَارِ",
-    "translation": "Olúwa wa, dájúdájú àwa gbọ́ olùpèpè kan tó ń pe (ìpè) sí ibi ìgbàgbọ́ pé: “Ẹ gba Olúwa yín gbọ́.” A sì gbàgbọ́ ní òdodo. Olúwa wa, nítorí náà, forí àwọn ẹ̀ṣẹ̀ wa jìn wá, kí O sì pa àwọn àṣìṣe wa rẹ́, kí O sì pa wá pẹ̀lú àwọn ẹni rere.",
-    "footnotes": ""
-  }
+  "id": 193,
+  "verse_number": 193,
+  "page_number": 75,
+  "verse_key": "3:193",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَّبَّنَآ إِنَّنَا سَمِعۡنَا مُنَادِيٗا يُنَادِي لِلۡإِيمَٰنِ أَنۡ ءَامِنُواْ بِرَبِّكُمۡ فَـَٔامَنَّاۚ رَبَّنَا فَٱغۡفِرۡ لَنَا ذُنُوبَنَا وَكَفِّرۡ عَنَّا سَيِّـَٔاتِنَا وَتَوَفَّنَا مَعَ ٱلۡأَبۡرَارِ",
+  "translation": "Olúwa wa, dájúdájú àwa gbọ́ olùpèpè kan tó ń pe (ìpè) sí ibi ìgbàgbọ́ pé: “Ẹ gba Olúwa yín gbọ́.” A sì gbàgbọ́ ní òdodo. Olúwa wa, nítorí náà, forí àwọn ẹ̀ṣẹ̀ wa jìn wá, kí O sì pa àwọn àṣìṣe wa rẹ́, kí O sì pa wá pẹ̀lú àwọn ẹni rere.",
+  "footnotes": ""
 }

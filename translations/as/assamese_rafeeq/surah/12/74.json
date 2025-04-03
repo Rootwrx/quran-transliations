@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1670",
-    "sura": "12",
-    "aya": "74",
-    "arabic_text": "قَالُواْ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمۡ كَٰذِبِينَ",
-    "translation": "তেওঁলোকে ক’লে, ‘যদি তোমালোকে মিছলীয়া হোৱা তেন্তে ইয়াৰ শাস্তি কি হ'ব?",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 244,
+  "verse_key": "12:74",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمۡ كَٰذِبِينَ",
+  "translation": "তেওঁলোকে ক’লে, ‘যদি তোমালোকে মিছলীয়া হোৱা তেন্তে ইয়াৰ শাস্তি কি হ'ব?",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5288",
-    "sura": "68",
-    "aya": "17",
-    "arabic_text": "إِنَّا بَلَوۡنَٰهُمۡ كَمَا بَلَوۡنَآ أَصۡحَٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُواْ لَيَصۡرِمُنَّهَا مُصۡبِحِينَ",
-    "translation": "17. Realmente, los hemos puesto a prueba (a los habitantes de La Meca con hambre y sequía) como pusimos a prueba a los dueños de una huerta[1067], cuando juraron entre ellos recoger todos sus frutos temprano por la mañana ",
-    "footnotes": "[1067]  Los dueños de dicha huerta no querían dar nada a los pobres y por ese motivo decidieron recolectar todos los frutos bien temprano, cuando no pudieran ser vistos por ellos."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 565,
+  "verse_key": "68:17",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا بَلَوۡنَٰهُمۡ كَمَا بَلَوۡنَآ أَصۡحَٰبَ ٱلۡجَنَّةِ إِذۡ أَقۡسَمُواْ لَيَصۡرِمُنَّهَا مُصۡبِحِينَ",
+  "translation": "17. Realmente, los hemos puesto a prueba (a los habitantes de La Meca con hambre y sequía) como pusimos a prueba a los dueños de una huerta[1067], cuando juraron entre ellos recoger todos sus frutos temprano por la mañana ",
+  "footnotes": "[1067]  Los dueños de dicha huerta no querían dar nada a los pobres y por ese motivo decidieron recolectar todos los frutos bien temprano, cuando no pudieran ser vistos por ellos."
 }

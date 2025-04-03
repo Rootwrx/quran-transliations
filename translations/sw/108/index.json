@@ -1,26 +1,44 @@
 {
-  "result": [
+  "verses": [
     {
-      "id": "6205",
-      "sura": "108",
-      "aya": "1",
-      "arabic_text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+      "id": 1,
+      "verse_number": 1,
+      "page_number": 602,
+      "verse_key": "108:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
       "translation": "Hakika tumekupa kheri nyingi.",
       "footnotes": "Sisi hakika tumekupa kheri nyingi za daima katika dunia na Akhera."
     },
     {
-      "id": "6206",
-      "sura": "108",
-      "aya": "2",
-      "arabic_text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+      "id": 2,
+      "verse_number": 2,
+      "page_number": 602,
+      "verse_key": "108:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
       "translation": "Basi swali na uchinje kwa ajili ya Mola wako Mlezi.",
       "footnotes": "Ilivyo kuwa umepewa hayo, basi dumisha Swala kwa Mola wako Mlezi kwa usafi kabisa, na uchinje dhabihu wako kwa kumshukuru Mwenyezi Mungu kwa aliyo kupa ya ukarimu, na akakukhusisha wewe khasa kwa kukupa kheri."
     },
     {
-      "id": "6207",
-      "sura": "108",
-      "aya": "3",
-      "arabic_text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+      "id": 3,
+      "verse_number": 3,
+      "page_number": 602,
+      "verse_key": "108:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
       "translation": "Hakika anaye kuchukia ndiye aliye mpungufu.",
       "footnotes": "Hakika huyo anaye kuchukia ndiye aliye katika na kila kheri."
     }

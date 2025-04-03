@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5305",
-    "sura": "68",
-    "aya": "34",
-    "arabic_text": "إِنَّ لِلۡمُتَّقِينَ عِندَ رَبِّهِمۡ جَنَّٰتِ ٱلنَّعِيمِ",
-    "translation": "34. En verdad, los piadosos tienen reservado junto a su Señor los jardines de las delicias.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 565,
+  "verse_key": "68:34",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ لِلۡمُتَّقِينَ عِندَ رَبِّهِمۡ جَنَّٰتِ ٱلنَّعِيمِ",
+  "translation": "34. En verdad, los piadosos tienen reservado junto a su Señor los jardines de las delicias.",
+  "footnotes": ""
 }

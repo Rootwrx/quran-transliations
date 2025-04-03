@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4915",
-    "sura": "55",
-    "aya": "14",
-    "arabic_text": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
-    "translation": "(Allāhu) ṣẹ̀dá ènìyàn láti ara amọ̀ gbígbẹ tó ń dún kokoko bí ìkòkò amọ̀.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 531,
+  "verse_key": "55:14",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خَلَقَ ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ كَٱلۡفَخَّارِ",
+  "translation": "(Allāhu) ṣẹ̀dá ènìyàn láti ara amọ̀ gbígbẹ tó ń dún kokoko bí ìkòkò amọ̀.",
+  "footnotes": ""
 }

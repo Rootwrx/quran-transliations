@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5632",
-    "sura": "77",
-    "aya": "10",
-    "arabic_text": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ",
-    "translation": " 10. And when the mountains are blown away.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 580,
+  "verse_key": "77:10",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱلۡجِبَالُ نُسِفَتۡ",
+  "translation": " 10. And when the mountains are blown away.",
+  "footnotes": ""
 }

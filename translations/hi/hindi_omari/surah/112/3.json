@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6224",
-    "sura": "112",
-    "aya": "3",
-    "arabic_text": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
-    "translation": "न उसकी कोई संतान है और न वह किसी की संतान है।",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 604,
+  "verse_key": "112:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ",
+  "translation": "न उसकी कोई संतान है और न वह किसी की संतान है।",
+  "footnotes": ""
 }

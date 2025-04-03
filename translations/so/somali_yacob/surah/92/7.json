@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6065",
-    "sura": "92",
-    "aya": "7",
-    "arabic_text": "فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ",
-    "translation": "7. Waxaan u fududeyneynaa jidka fudud (Islaamka).",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 595,
+  "verse_key": "92:7",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَنُيَسِّرُهُۥ لِلۡيُسۡرَىٰ",
+  "translation": "7. Waxaan u fududeyneynaa jidka fudud (Islaamka).",
+  "footnotes": ""
 }

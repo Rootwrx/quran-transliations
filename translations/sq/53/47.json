@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4831",
-    "sura": "53",
-    "aya": "47",
-    "arabic_text": "وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ",
-    "translation": "dhe se Atij i takon krijimi tjetër;",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 528,
+  "verse_key": "53:47",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّ عَلَيۡهِ ٱلنَّشۡأَةَ ٱلۡأُخۡرَىٰ",
+  "translation": "dhe se Atij i takon krijimi tjetër;",
+  "footnotes": ""
 }

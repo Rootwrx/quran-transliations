@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "115",
-    "sura": "2",
-    "aya": "108",
-    "arabic_text": "أَمۡ تُرِيدُونَ أَن تَسۡـَٔلُواْ رَسُولَكُمۡ كَمَا سُئِلَ مُوسَىٰ مِن قَبۡلُۗ وَمَن يَتَبَدَّلِ ٱلۡكُفۡرَ بِٱلۡإِيمَٰنِ فَقَدۡ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
-    "translation": "108. To boye, bolingi kotuna motindami na bino ndenge moko Mûssa atunamaka liboso? Mpe moto oyo akobalola kondima na bopengwi ya sôló ye wana asili kobunga nzela.",
-    "footnotes": ""
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 17,
+  "verse_key": "2:108",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ تُرِيدُونَ أَن تَسۡـَٔلُواْ رَسُولَكُمۡ كَمَا سُئِلَ مُوسَىٰ مِن قَبۡلُۗ وَمَن يَتَبَدَّلِ ٱلۡكُفۡرَ بِٱلۡإِيمَٰنِ فَقَدۡ ضَلَّ سَوَآءَ ٱلسَّبِيلِ",
+  "translation": "108. To boye, bolingi kotuna motindami na bino ndenge moko Mûssa atunamaka liboso? Mpe moto oyo akobalola kondima na bopengwi ya sôló ye wana asili kobunga nzela.",
+  "footnotes": ""
 }

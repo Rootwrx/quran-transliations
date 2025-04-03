@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "50",
-    "sura": "2",
-    "aya": "43",
-    "arabic_text": "وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّٰكِعِينَ",
-    "translation": " 43. And perform As-Salât (Iqâmat-as-Salât), and give Zakât and bow down (or submit yourselves with obedience to Allâh) along with Ar-Raki‘ûn[2].",
-    "footnotes": "(V.2:43) Ar-Râki‘ûn: Those who bow down or submit themselves with obedience to Allâh with Muhammad صلى الله عليه وسلم as the Muslims have done, i.e., embrace Islâm (worshipping none but Allâh Alone and doing good with the only intention of seeking Allâh’s Pleasure)."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 7,
+  "verse_key": "2:43",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّٰكِعِينَ",
+  "translation": " 43. And perform As-Salât (Iqâmat-as-Salât), and give Zakât and bow down (or submit yourselves with obedience to Allâh) along with Ar-Raki‘ûn[2].",
+  "footnotes": "(V.2:43) Ar-Râki‘ûn: Those who bow down or submit themselves with obedience to Allâh with Muhammad صلى الله عليه وسلم as the Muslims have done, i.e., embrace Islâm (worshipping none but Allâh Alone and doing good with the only intention of seeking Allâh’s Pleasure)."
 }

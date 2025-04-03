@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6189",
-    "sura": "105",
-    "aya": "1",
-    "arabic_text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ",
-    "translation": "(Ɔkͻmhyεni), wonhunuu sεdeε wo Wura (Nyankopͻn) de yεε Asonofoͻ no?",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 601,
+  "verse_key": "105:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِأَصۡحَٰبِ ٱلۡفِيلِ",
+  "translation": "(Ɔkͻmhyεni), wonhunuu sεdeε wo Wura (Nyankopͻn) de yεε Asonofoͻ no?",
+  "footnotes": ""
 }

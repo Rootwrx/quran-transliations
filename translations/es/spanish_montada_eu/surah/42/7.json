@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4279",
-    "sura": "42",
-    "aya": "7",
-    "arabic_text": "وَكَذَٰلِكَ أَوۡحَيۡنَآ إِلَيۡكَ قُرۡءَانًا عَرَبِيّٗا لِّتُنذِرَ أُمَّ ٱلۡقُرَىٰ وَمَنۡ حَوۡلَهَا وَتُنذِرَ يَوۡمَ ٱلۡجَمۡعِ لَا رَيۡبَ فِيهِۚ فَرِيقٞ فِي ٱلۡجَنَّةِ وَفَرِيقٞ فِي ٱلسَّعِيرِ",
-    "translation": "7. Y así es como te hemos revelado un Corán claro, en lengua árabe, para que adviertas a los habitantes de La Meca y de sus alrededores[898] acerca del día, que llegará sin duda, en que serán reunidos (para comparecer ante su Señor). Un grupo entrará en el paraíso y otro, en el fuego abrasador. ",
-    "footnotes": "[898]  El profeta Muhammad —que Al-lah lo bendiga y le dé la paz—, por ser el último mensajero de Al-lah, fue enviado a los yinn y a todos los hombres, como prueban la aleya 107 de la sura 21, la 1 de la sura 25 o la 28 de la sura 34. No obstante, toda exhortación o prédica se centra, al principio, en aquellas personas que están a tu alrededor y se va extendiendo, con el tiempo, a otras gentes más lejanas."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 483,
+  "verse_key": "42:7",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ أَوۡحَيۡنَآ إِلَيۡكَ قُرۡءَانًا عَرَبِيّٗا لِّتُنذِرَ أُمَّ ٱلۡقُرَىٰ وَمَنۡ حَوۡلَهَا وَتُنذِرَ يَوۡمَ ٱلۡجَمۡعِ لَا رَيۡبَ فِيهِۚ فَرِيقٞ فِي ٱلۡجَنَّةِ وَفَرِيقٞ فِي ٱلسَّعِيرِ",
+  "translation": "7. Y así es como te hemos revelado un Corán claro, en lengua árabe, para que adviertas a los habitantes de La Meca y de sus alrededores[898] acerca del día, que llegará sin duda, en que serán reunidos (para comparecer ante su Señor). Un grupo entrará en el paraíso y otro, en el fuego abrasador. ",
+  "footnotes": "[898]  El profeta Muhammad —que Al-lah lo bendiga y le dé la paz—, por ser el último mensajero de Al-lah, fue enviado a los yinn y a todos los hombres, como prueban la aleya 107 de la sura 21, la 1 de la sura 25 o la 28 de la sura 34. No obstante, toda exhortación o prédica se centra, al principio, en aquellas personas que están a tu alrededor y se va extendiendo, con el tiempo, a otras gentes más lejanas."
 }

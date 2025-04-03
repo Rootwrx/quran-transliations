@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1250",
-    "sura": "9",
-    "aya": "15",
-    "arabic_text": "وَيُذۡهِبۡ غَيۡظَ قُلُوبِهِمۡۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
-    "translation": "at mag-aalis Siya ng ngitngit sa mga puso nila. Tumatanggap si Allāh ng pagbabalik-loob sa sinumang niloloob Niya. Si Allāh ay Maalam, Marunong.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 189,
+  "verse_key": "9:15",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُذۡهِبۡ غَيۡظَ قُلُوبِهِمۡۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+  "translation": "at mag-aalis Siya ng ngitngit sa mga puso nila. Tumatanggap si Allāh ng pagbabalik-loob sa sinumang niloloob Niya. Si Allāh ay Maalam, Marunong.",
+  "footnotes": ""
 }

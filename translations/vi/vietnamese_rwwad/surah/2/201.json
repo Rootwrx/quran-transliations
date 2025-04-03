@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "208",
-    "sura": "2",
-    "aya": "201",
-    "arabic_text": "وَمِنۡهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ حَسَنَةٗ وَقِنَا عَذَابَ ٱلنَّارِ",
-    "translation": "Và trong nhân loại, có những người cầu xin “Lạy Thượng Đế của bầy tôi, xin Ngài hãy ban cho bầy tôi mọi điều tốt đẹp ở trần gian này và mọi điều tốt đẹp ở Đời Sau; và xin Ngài hãy bảo vệ bầy tôi thoát khỏi hình phạt của Hỏa Ngục”.",
-    "footnotes": ""
-  }
+  "id": 201,
+  "verse_number": 201,
+  "page_number": 31,
+  "verse_key": "2:201",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡهُم مَّن يَقُولُ رَبَّنَآ ءَاتِنَا فِي ٱلدُّنۡيَا حَسَنَةٗ وَفِي ٱلۡأٓخِرَةِ حَسَنَةٗ وَقِنَا عَذَابَ ٱلنَّارِ",
+  "translation": "Và trong nhân loại, có những người cầu xin “Lạy Thượng Đế của bầy tôi, xin Ngài hãy ban cho bầy tôi mọi điều tốt đẹp ở trần gian này và mọi điều tốt đẹp ở Đời Sau; và xin Ngài hãy bảo vệ bầy tôi thoát khỏi hình phạt của Hỏa Ngục”.",
+  "footnotes": ""
 }

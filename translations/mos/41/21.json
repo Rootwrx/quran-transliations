@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4239",
-    "sura": "41",
-    "aya": "21",
-    "arabic_text": "وَقَالُواْ لِجُلُودِهِمۡ لِمَ شَهِدتُّمۡ عَلَيۡنَاۖ قَالُوٓاْ أَنطَقَنَا ٱللَّهُ ٱلَّذِيٓ أَنطَقَ كُلَّ شَيۡءٖۚ وَهُوَ خَلَقَكُمۡ أَوَّلَ مَرَّةٖ وَإِلَيۡهِ تُرۡجَعُونَ",
-    "translation": "Tɩ b yeel b gãndã: \"yaa bõe tɩ yãmb seet tõnd zugu?\". Tɩ b yeele : \" Wẽnd n kɩt tɩ tõnd gome, Soab ning sẽn kɩt-a tɩ bũmbã fãa gomã, la Yẽ n naan yãmb rẽenem, la b na n lebsa yãmb n tʋg A nengẽ\".",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 479,
+  "verse_key": "41:21",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ لِجُلُودِهِمۡ لِمَ شَهِدتُّمۡ عَلَيۡنَاۖ قَالُوٓاْ أَنطَقَنَا ٱللَّهُ ٱلَّذِيٓ أَنطَقَ كُلَّ شَيۡءٖۚ وَهُوَ خَلَقَكُمۡ أَوَّلَ مَرَّةٖ وَإِلَيۡهِ تُرۡجَعُونَ",
+  "translation": "Tɩ b yeel b gãndã: \"yaa bõe tɩ yãmb seet tõnd zugu?\". Tɩ b yeele : \" Wẽnd n kɩt tɩ tõnd gome, Soab ning sẽn kɩt-a tɩ bũmbã fãa gomã, la Yẽ n naan yãmb rẽenem, la b na n lebsa yãmb n tʋg A nengẽ\".",
+  "footnotes": ""
 }

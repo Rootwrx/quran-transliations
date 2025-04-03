@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3177",
-    "sura": "27",
-    "aya": "18",
-    "arabic_text": "حَتَّىٰٓ إِذَآ أَتَوۡاْ عَلَىٰ وَادِ ٱلنَّمۡلِ قَالَتۡ نَمۡلَةٞ يَٰٓأَيُّهَا ٱلنَّمۡلُ ٱدۡخُلُواْ مَسَٰكِنَكُمۡ لَا يَحۡطِمَنَّكُمۡ سُلَيۡمَٰنُ وَجُنُودُهُۥ وَهُمۡ لَا يَشۡعُرُونَ",
-    "translation": "18. Y cuando llegaron al valle de las hormigas, una de ellas dijo a las demás[727]: “¡Hormigas, entren en sus casas, no sea que Salomón y sus tropas las aplasten sin darse cuenta!”.",
-    "footnotes": "[727]  Las hormigas poseen varios métodos de comunicación y pueden comunicarse entre ellas hasta con tres o cuatro lenguajes diferentes; para ello, su cerebro dispone de medio millón de células nerviosas. Además, hacen uso de sus múltiples órganos sensoriales para recoger señales visuales, mecánicas y químicas que son vitales para comunicarse. Una de sus principales maneras de comunicarse es a través del contacto entre sus antenas que utilizan para entenderse mutuamente, como si estuvieran hablando. Hace 1.400 años no se conocían todos estos datos acerca de la comunicación tan compleja de algunos insectos, como en el caso de la hormiga."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 378,
+  "verse_key": "27:18",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَآ أَتَوۡاْ عَلَىٰ وَادِ ٱلنَّمۡلِ قَالَتۡ نَمۡلَةٞ يَٰٓأَيُّهَا ٱلنَّمۡلُ ٱدۡخُلُواْ مَسَٰكِنَكُمۡ لَا يَحۡطِمَنَّكُمۡ سُلَيۡمَٰنُ وَجُنُودُهُۥ وَهُمۡ لَا يَشۡعُرُونَ",
+  "translation": "18. Y cuando llegaron al valle de las hormigas, una de ellas dijo a las demás[727]: “¡Hormigas, entren en sus casas, no sea que Salomón y sus tropas las aplasten sin darse cuenta!”.",
+  "footnotes": "[727]  Las hormigas poseen varios métodos de comunicación y pueden comunicarse entre ellas hasta con tres o cuatro lenguajes diferentes; para ello, su cerebro dispone de medio millón de células nerviosas. Además, hacen uso de sus múltiples órganos sensoriales para recoger señales visuales, mecánicas y químicas que son vitales para comunicarse. Una de sus principales maneras de comunicarse es a través del contacto entre sus antenas que utilizan para entenderse mutuamente, como si estuvieran hablando. Hace 1.400 años no se conocían todos estos datos acerca de la comunicación tan compleja de algunos insectos, como en el caso de la hormiga."
 }

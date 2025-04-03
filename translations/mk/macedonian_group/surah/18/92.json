@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2232",
-    "sura": "18",
-    "aya": "92",
-    "arabic_text": "ثُمَّ أَتۡبَعَ سَبَبًا",
-    "translation": "92. И тој повторно тргна.",
-    "footnotes": ""
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 303,
+  "verse_key": "18:92",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ أَتۡبَعَ سَبَبًا",
+  "translation": "92. И тој повторно тргна.",
+  "footnotes": ""
 }

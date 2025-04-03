@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2019",
-    "sura": "16",
-    "aya": "118",
-    "arabic_text": "وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا مَا قَصَصۡنَا عَلَيۡكَ مِن قَبۡلُۖ وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
-    "translation": "Àti pé A ṣe ohun tí A sọ fún ọ ṣíwájú ní èèwọ̀ fún àwọn tó di yẹhudi.[1] A kò sì ṣàbòsí sí wọn, ṣùgbọ́n àwọn ni wọ́n n ṣàbòsí sí ẹ̀mí ara wọn.",
-    "footnotes": "1. Ìyẹn nínú sūrah an-Nisā’; 4:160 - 161."
-  }
+  "id": 118,
+  "verse_number": 118,
+  "page_number": 280,
+  "verse_key": "16:118",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَلَى ٱلَّذِينَ هَادُواْ حَرَّمۡنَا مَا قَصَصۡنَا عَلَيۡكَ مِن قَبۡلُۖ وَمَا ظَلَمۡنَٰهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+  "translation": "Àti pé A ṣe ohun tí A sọ fún ọ ṣíwájú ní èèwọ̀ fún àwọn tó di yẹhudi.[1] A kò sì ṣàbòsí sí wọn, ṣùgbọ́n àwọn ni wọ́n n ṣàbòsí sí ẹ̀mí ara wọn.",
+  "footnotes": "1. Ìyẹn nínú sūrah an-Nisā’; 4:160 - 161."
 }

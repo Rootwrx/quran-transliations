@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4619",
-    "sura": "49",
-    "aya": "7",
-    "arabic_text": "وَٱعۡلَمُوٓاْ أَنَّ فِيكُمۡ رَسُولَ ٱللَّهِۚ لَوۡ يُطِيعُكُمۡ فِي كَثِيرٖ مِّنَ ٱلۡأَمۡرِ لَعَنِتُّمۡ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيۡكُمُ ٱلۡإِيمَٰنَ وَزَيَّنَهُۥ فِي قُلُوبِكُمۡ وَكَرَّهَ إِلَيۡكُمُ ٱلۡكُفۡرَ وَٱلۡفُسُوقَ وَٱلۡعِصۡيَانَۚ أُوْلَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
-    "translation": "Na monhunu sε Nyankopͻn Somafoͻ wͻ mo mu. Sε ͻyε sotie ma mo wͻ nneεma pii ho a, anka εde mobεkͻ ͻhaw paa mu, nanso Nyankopͻn ama moanya gyidie ho dͻ, εna Wama (gyidie nnwuma) no ayε mo fε wͻ moakoma mu. εna Wayε boniayε ne akohwisεm ne asoͻden (nnwuma nso) akyiwadeε ama mo. Saa nkorͻfoͻ no ne ateneneefoͻ no.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 516,
+  "verse_key": "49:7",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 206,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱعۡلَمُوٓاْ أَنَّ فِيكُمۡ رَسُولَ ٱللَّهِۚ لَوۡ يُطِيعُكُمۡ فِي كَثِيرٖ مِّنَ ٱلۡأَمۡرِ لَعَنِتُّمۡ وَلَٰكِنَّ ٱللَّهَ حَبَّبَ إِلَيۡكُمُ ٱلۡإِيمَٰنَ وَزَيَّنَهُۥ فِي قُلُوبِكُمۡ وَكَرَّهَ إِلَيۡكُمُ ٱلۡكُفۡرَ وَٱلۡفُسُوقَ وَٱلۡعِصۡيَانَۚ أُوْلَٰٓئِكَ هُمُ ٱلرَّٰشِدُونَ",
+  "translation": "Na monhunu sε Nyankopͻn Somafoͻ wͻ mo mu. Sε ͻyε sotie ma mo wͻ nneεma pii ho a, anka εde mobεkͻ ͻhaw paa mu, nanso Nyankopͻn ama moanya gyidie ho dͻ, εna Wama (gyidie nnwuma) no ayε mo fε wͻ moakoma mu. εna Wayε boniayε ne akohwisεm ne asoͻden (nnwuma nso) akyiwadeε ama mo. Saa nkorͻfoͻ no ne ateneneefoͻ no.",
+  "footnotes": ""
 }

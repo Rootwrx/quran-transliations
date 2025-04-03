@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2509",
-    "sura": "21",
-    "aya": "26",
-    "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ",
-    "translation": "Nagsabi sila: “Gumawa ang Napakamaawain ng isang anak.” Kaluwalhatian sa Kanya; bagkus [sila[2] ay] mga lingkod na pinarangalan [sila].",
-    "footnotes": "[2] Ibig sabihin: ang mga sinasabing anak ng Diyos na gaya nina Ezra at Jesus at ng mga anghel."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 324,
+  "verse_key": "21:26",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ",
+  "translation": "Nagsabi sila: “Gumawa ang Napakamaawain ng isang anak.” Kaluwalhatian sa Kanya; bagkus [sila[2] ay] mga lingkod na pinarangalan [sila].",
+  "footnotes": "[2] Ibig sabihin: ang mga sinasabing anak ng Diyos na gaya nina Ezra at Jesus at ng mga anghel."
 }

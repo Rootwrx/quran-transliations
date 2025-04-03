@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3902",
-    "sura": "37",
-    "aya": "114",
-    "arabic_text": "وَلَقَدۡ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَٰرُونَ",
-    "translation": "114. Nous répandîmes Nos faveurs sur Moïse et Aaron.",
-    "footnotes": ""
-  }
+  "id": 114,
+  "verse_number": 114,
+  "page_number": 450,
+  "verse_key": "37:114",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ مَنَنَّا عَلَىٰ مُوسَىٰ وَهَٰرُونَ",
+  "translation": "114. Nous répandîmes Nos faveurs sur Moïse et Aaron.",
+  "footnotes": ""
 }

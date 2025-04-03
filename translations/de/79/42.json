@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5754",
-    "sura": "79",
-    "aya": "42",
-    "arabic_text": "يَسۡـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرۡسَىٰهَا",
-    "translation": "Sie fragen dich nach der Stunde, wann sie bloß feststehen wird.",
-    "footnotes": null
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 584,
+  "verse_key": "79:42",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَسۡـَٔلُونَكَ عَنِ ٱلسَّاعَةِ أَيَّانَ مُرۡسَىٰهَا",
+  "translation": "Sie fragen dich nach der Stunde, wann sie bloß feststehen wird.",
+  "footnotes": null
 }

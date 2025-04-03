@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6079",
-    "sura": "92",
-    "aya": "21",
-    "arabic_text": "وَلَسَوۡفَ يَرۡضَىٰ",
-    "translation": "இன்னும், (அல்லாஹ்வின் வெகுமதியால்) திட்டமாக அவர் திருப்தியடைவார்.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 596,
+  "verse_key": "92:21",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَسَوۡفَ يَرۡضَىٰ",
+  "translation": "இன்னும், (அல்லாஹ்வின் வெகுமதியால்) திட்டமாக அவர் திருப்தியடைவார்.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5010",
-    "sura": "56",
-    "aya": "31",
-    "arabic_text": "وَمَآءٖ مَّسۡكُوبٖ",
-    "translation": "31. Оқизиб қўйилган сув (усти)да.",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 535,
+  "verse_key": "56:31",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآءٖ مَّسۡكُوبٖ",
+  "translation": "31. Оқизиб қўйилган сув (усти)да.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2219",
-    "sura": "18",
-    "aya": "79",
-    "arabic_text": "أَمَّا ٱلسَّفِينَةُ فَكَانَتۡ لِمَسَٰكِينَ يَعۡمَلُونَ فِي ٱلۡبَحۡرِ فَأَرَدتُّ أَنۡ أَعِيبَهَا وَكَانَ وَرَآءَهُم مَّلِكٞ يَأۡخُذُ كُلَّ سَفِينَةٍ غَصۡبٗا",
-    "translation": "Sa i përket anijes, ajo ishte pronë e disa të varfërve, që punonin në det. Unë desha ta dëmtoj, sepse prapa tyre gjendej një mbret i cili merrte me dhunë çdo anije të mirë.",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 302,
+  "verse_key": "18:79",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمَّا ٱلسَّفِينَةُ فَكَانَتۡ لِمَسَٰكِينَ يَعۡمَلُونَ فِي ٱلۡبَحۡرِ فَأَرَدتُّ أَنۡ أَعِيبَهَا وَكَانَ وَرَآءَهُم مَّلِكٞ يَأۡخُذُ كُلَّ سَفِينَةٍ غَصۡبٗا",
+  "translation": "Sa i përket anijes, ajo ishte pronë e disa të varfërve, që punonin në det. Unë desha ta dëmtoj, sepse prapa tyre gjendej një mbret i cili merrte me dhunë çdo anije të mirë.",
+  "footnotes": ""
 }

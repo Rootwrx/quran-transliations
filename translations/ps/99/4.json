@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6142",
-    "sura": "99",
-    "aya": "4",
-    "arabic_text": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
-    "translation": "همغه ورځ به هغه خپل خبرونه بيانوي.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 599,
+  "verse_key": "99:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَئِذٖ تُحَدِّثُ أَخۡبَارَهَا",
+  "translation": "همغه ورځ به هغه خپل خبرونه بيانوي.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4221",
-    "sura": "41",
-    "aya": "3",
-    "arabic_text": "كِتَٰبٞ فُصِّلَتۡ ءَايَٰتُهُۥ قُرۡءَانًا عَرَبِيّٗا لِّقَوۡمٖ يَعۡلَمُونَ",
-    "translation": "Un Livre dont les versets sont détaillés (et clairement exposés), un Coran [lecture] arabe pour des gens qui savent,",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 477,
+  "verse_key": "41:3",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كِتَٰبٞ فُصِّلَتۡ ءَايَٰتُهُۥ قُرۡءَانًا عَرَبِيّٗا لِّقَوۡمٖ يَعۡلَمُونَ",
+  "translation": "Un Livre dont les versets sont détaillés (et clairement exposés), un Coran [lecture] arabe pour des gens qui savent,",
+  "footnotes": ""
 }

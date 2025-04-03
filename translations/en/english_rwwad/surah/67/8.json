@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5249",
-    "sura": "67",
-    "aya": "8",
-    "arabic_text": "تَكَادُ تَمَيَّزُ مِنَ ٱلۡغَيۡظِۖ كُلَّمَآ أُلۡقِيَ فِيهَا فَوۡجٞ سَأَلَهُمۡ خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ نَذِيرٞ",
-    "translation": "almost bursting in fury. Every time a group is thrown in it, its keepers will ask them, “Did there not come to you a warner?”",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 562,
+  "verse_key": "67:8",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَكَادُ تَمَيَّزُ مِنَ ٱلۡغَيۡظِۖ كُلَّمَآ أُلۡقِيَ فِيهَا فَوۡجٞ سَأَلَهُمۡ خَزَنَتُهَآ أَلَمۡ يَأۡتِكُمۡ نَذِيرٞ",
+  "translation": "almost bursting in fury. Every time a group is thrown in it, its keepers will ask them, “Did there not come to you a warner?”",
+  "footnotes": ""
 }

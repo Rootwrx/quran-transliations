@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5649",
-    "sura": "77",
-    "aya": "27",
-    "arabic_text": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا",
-    "translation": "27. Y dispusimos en ella altas y firmes montañas y les damos agua dulce de beber.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 581,
+  "verse_key": "77:27",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلۡنَا فِيهَا رَوَٰسِيَ شَٰمِخَٰتٖ وَأَسۡقَيۡنَٰكُم مَّآءٗ فُرَاتٗا",
+  "translation": "27. Y dispusimos en ella altas y firmes montañas y les damos agua dulce de beber.",
+  "footnotes": ""
 }

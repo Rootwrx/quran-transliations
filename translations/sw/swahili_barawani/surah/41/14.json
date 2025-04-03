@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4232",
-    "sura": "41",
-    "aya": "14",
-    "arabic_text": "إِذۡ جَآءَتۡهُمُ ٱلرُّسُلُ مِنۢ بَيۡنِ أَيۡدِيهِمۡ وَمِنۡ خَلۡفِهِمۡ أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۖ قَالُواْ لَوۡ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةٗ فَإِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
-    "translation": "Walipo wajia Mitume mbele yao na nyuma yao wakawaambia: Msimuabudu ila Mwenyezi Mungu! Wakasema: Angeli taka Mola wetu Mlezi bila ya shaka angeli wateremsha Malaika. Basi sisi hakika tunayakataa hayo mliyo tumwa.",
-    "footnotes": "Walijiwa A'di na Thamudi na hiyo adhabu walipo watokelea Mitume pande zote. Hawakuacha njia ya kuwaongoza ila waliipitia, na wakawaambia: Msimuabudu ila Mwenyezi Mungu. Wao wakasema: Lau Mwenyezi Mungu angeli taka kumtuma Mtume basi angeli tuteremshia Malaika. Basi sisi hakika tunakataa hayo ya Tawhidi na mengineyo mliyo kuja nayo nyinyi."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 478,
+  "verse_key": "41:14",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ جَآءَتۡهُمُ ٱلرُّسُلُ مِنۢ بَيۡنِ أَيۡدِيهِمۡ وَمِنۡ خَلۡفِهِمۡ أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۖ قَالُواْ لَوۡ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةٗ فَإِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
+  "translation": "Walipo wajia Mitume mbele yao na nyuma yao wakawaambia: Msimuabudu ila Mwenyezi Mungu! Wakasema: Angeli taka Mola wetu Mlezi bila ya shaka angeli wateremsha Malaika. Basi sisi hakika tunayakataa hayo mliyo tumwa.",
+  "footnotes": "Walijiwa A'di na Thamudi na hiyo adhabu walipo watokelea Mitume pande zote. Hawakuacha njia ya kuwaongoza ila waliipitia, na wakawaambia: Msimuabudu ila Mwenyezi Mungu. Wao wakasema: Lau Mwenyezi Mungu angeli taka kumtuma Mtume basi angeli tuteremshia Malaika. Basi sisi hakika tunakataa hayo ya Tawhidi na mengineyo mliyo kuja nayo nyinyi."
 }

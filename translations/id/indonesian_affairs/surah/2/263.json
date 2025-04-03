@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "270",
-    "sura": "2",
-    "aya": "263",
-    "arabic_text": "۞ قَوۡلٞ مَّعۡرُوفٞ وَمَغۡفِرَةٌ خَيۡرٞ مِّن صَدَقَةٖ يَتۡبَعُهَآ أَذٗىۗ وَٱللَّهُ غَنِيٌّ حَلِيمٞ",
-    "translation": "Perkataan yang baik dan pemberian maaf 100) lebih baik daripada sedekah yang diiringi tindakan yang menyakiti. Allah Mahakaya, Maha Penyantun.",
-    "footnotes": "*100) Perkataan yang baik, menolak dengan cara yang baik, dan pemberian maaf ialah memaafkan tingkah laku yang kurang sopan dari peminta."
-  }
+  "id": 263,
+  "verse_number": 263,
+  "page_number": 44,
+  "verse_key": "2:263",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 18,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قَوۡلٞ مَّعۡرُوفٞ وَمَغۡفِرَةٌ خَيۡرٞ مِّن صَدَقَةٖ يَتۡبَعُهَآ أَذٗىۗ وَٱللَّهُ غَنِيٌّ حَلِيمٞ",
+  "translation": "Perkataan yang baik dan pemberian maaf 100) lebih baik daripada sedekah yang diiringi tindakan yang menyakiti. Allah Mahakaya, Maha Penyantun.",
+  "footnotes": "*100) Perkataan yang baik, menolak dengan cara yang baik, dan pemberian maaf ialah memaafkan tingkah laku yang kurang sopan dari peminta."
 }

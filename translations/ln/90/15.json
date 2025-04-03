@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6038",
-    "sura": "90",
-    "aya": "15",
-    "arabic_text": "يَتِيمٗا ذَا مَقۡرَبَةٍ",
-    "translation": "15. To mpe mwana ya etike ya pembeni,",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 594,
+  "verse_key": "90:15",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَتِيمٗا ذَا مَقۡرَبَةٍ",
+  "translation": "15. To mpe mwana ya etike ya pembeni,",
+  "footnotes": ""
 }

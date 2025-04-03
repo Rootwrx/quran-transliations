@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5526",
-    "sura": "74",
-    "aya": "31",
-    "arabic_text": "وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةٗۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنٗا وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ",
-    "translation": "Kandi nta bandi twagize abarinzi b’umuriro batari abamalayika. Ndetse twanashyizeho umubare wabo (cumi n’icyenda) kugira ngo tugerageze abahakanyi, no kugira ngo abahawe ibitabo bemere badashidikanya (ko Qur’an ari ukuri kuko ihuriye kuri uwo mubare wanditse mu bitabo byabo); ndetse no kugira ngo abemeramana barusheho kwemera, no kugira ngo abahawe igitabo n’abemeramana batagira ugushidikanya (ku byo bemeye), ndetse no kugira ngo abafite uburwayi (bw’uburyarya) mu mitima n’abahakanyi bavuge bati “Allah yari agamije iki mu gutanga uru rugero?” Uko ni ko Allah arekera mu buyobe uwo ashaka akanayobora uwo ashaka. Kandi nta wamenya ingabo za Nyagasani wawe utari We. Kandi uyu (muriro) nta kindi uri cyo usibye ko ari urwibutso ku bantu.",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 576,
+  "verse_key": "74:31",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا جَعَلۡنَآ أَصۡحَٰبَ ٱلنَّارِ إِلَّا مَلَٰٓئِكَةٗۖ وَمَا جَعَلۡنَا عِدَّتَهُمۡ إِلَّا فِتۡنَةٗ لِّلَّذِينَ كَفَرُواْ لِيَسۡتَيۡقِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَيَزۡدَادَ ٱلَّذِينَ ءَامَنُوٓاْ إِيمَٰنٗا وَلَا يَرۡتَابَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡمُؤۡمِنُونَ وَلِيَقُولَ ٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡكَٰفِرُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَمَا يَعۡلَمُ جُنُودَ رَبِّكَ إِلَّا هُوَۚ وَمَا هِيَ إِلَّا ذِكۡرَىٰ لِلۡبَشَرِ",
+  "translation": "Kandi nta bandi twagize abarinzi b’umuriro batari abamalayika. Ndetse twanashyizeho umubare wabo (cumi n’icyenda) kugira ngo tugerageze abahakanyi, no kugira ngo abahawe ibitabo bemere badashidikanya (ko Qur’an ari ukuri kuko ihuriye kuri uwo mubare wanditse mu bitabo byabo); ndetse no kugira ngo abemeramana barusheho kwemera, no kugira ngo abahawe igitabo n’abemeramana batagira ugushidikanya (ku byo bemeye), ndetse no kugira ngo abafite uburwayi (bw’uburyarya) mu mitima n’abahakanyi bavuge bati “Allah yari agamije iki mu gutanga uru rugero?” Uko ni ko Allah arekera mu buyobe uwo ashaka akanayobora uwo ashaka. Kandi nta wamenya ingabo za Nyagasani wawe utari We. Kandi uyu (muriro) nta kindi uri cyo usibye ko ari urwibutso ku bantu.",
+  "footnotes": ""
 }

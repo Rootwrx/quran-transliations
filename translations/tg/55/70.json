@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4971",
-    "sura": "55",
-    "aya": "70",
-    "arabic_text": "فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ",
-    "translation": "Дар миёни он боғҳо занони нексират ва некрӯй ҳузур доранд",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 534,
+  "verse_key": "55:70",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِيهِنَّ خَيۡرَٰتٌ حِسَانٞ",
+  "translation": "Дар миёни он боғҳо занони нексират ва некрӯй ҳузур доранд",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4288",
-    "sura": "42",
-    "aya": "16",
-    "arabic_text": "وَٱلَّذِينَ يُحَآجُّونَ فِي ٱللَّهِ مِنۢ بَعۡدِ مَا ٱسۡتُجِيبَ لَهُۥ حُجَّتُهُمۡ دَاحِضَةٌ عِندَ رَبِّهِمۡ وَعَلَيۡهِمۡ غَضَبٞ وَلَهُمۡ عَذَابٞ شَدِيدٌ",
-    "translation": "Na wanao hojiana juu ya Mwenyezi Mungu baada ya kukubaliwa, hoja za hawa ni baat'ili mbele ya Mola wao Mlezi, na juu yao ipo ghadhabu, na itakuwa kwao adhabu kali.",
-    "footnotes": "Na hao wanao bisha katika mambo yaliyo khusu Dini ya Mwenyezi Mungu, baada ya watu kwisha uitikia Wito ulio wazi, ubishani wa watu hawa wenye shaka shaka ni baat'ili mbele ya Mola wao Mlezi. Na juu yao ipo ghadhabu kali kwa ukafiri wao. Na adhabu chungu inawangojea."
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 485,
+  "verse_key": "42:16",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 194,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يُحَآجُّونَ فِي ٱللَّهِ مِنۢ بَعۡدِ مَا ٱسۡتُجِيبَ لَهُۥ حُجَّتُهُمۡ دَاحِضَةٌ عِندَ رَبِّهِمۡ وَعَلَيۡهِمۡ غَضَبٞ وَلَهُمۡ عَذَابٞ شَدِيدٌ",
+  "translation": "Na wanao hojiana juu ya Mwenyezi Mungu baada ya kukubaliwa, hoja za hawa ni baat'ili mbele ya Mola wao Mlezi, na juu yao ipo ghadhabu, na itakuwa kwao adhabu kali.",
+  "footnotes": "Na hao wanao bisha katika mambo yaliyo khusu Dini ya Mwenyezi Mungu, baada ya watu kwisha uitikia Wito ulio wazi, ubishani wa watu hawa wenye shaka shaka ni baat'ili mbele ya Mola wao Mlezi. Na juu yao ipo ghadhabu kali kwa ukafiri wao. Na adhabu chungu inawangojea."
 }

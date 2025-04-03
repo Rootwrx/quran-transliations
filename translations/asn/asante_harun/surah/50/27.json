@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4657",
-    "sura": "50",
-    "aya": "27",
-    "arabic_text": "۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطۡغَيۡتُهُۥ وَلَٰكِن كَانَ فِي ضَلَٰلِۭ بَعِيدٖ",
-    "translation": "Neyͻnko (bonsam) bεka sε: ”Ye’Wura Nyankopͻn, εnyε me na mehyεε no maa no tee atua, na mmom ͻno ara na ͻyera kͻͻ akyirikyiri.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 519,
+  "verse_key": "50:27",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قَالَ قَرِينُهُۥ رَبَّنَا مَآ أَطۡغَيۡتُهُۥ وَلَٰكِن كَانَ فِي ضَلَٰلِۭ بَعِيدٖ",
+  "translation": "Neyͻnko (bonsam) bεka sε: ”Ye’Wura Nyankopͻn, εnyε me na mehyεε no maa no tee atua, na mmom ͻno ara na ͻyera kͻͻ akyirikyiri.",
+  "footnotes": ""
 }

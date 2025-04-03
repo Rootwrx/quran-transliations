@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4608",
-    "sura": "48",
-    "aya": "25",
-    "arabic_text": "هُمُ ٱلَّذِينَ كَفَرُواْ وَصَدُّوكُمۡ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَٱلۡهَدۡيَ مَعۡكُوفًا أَن يَبۡلُغَ مَحِلَّهُۥۚ وَلَوۡلَا رِجَالٞ مُّؤۡمِنُونَ وَنِسَآءٞ مُّؤۡمِنَٰتٞ لَّمۡ تَعۡلَمُوهُمۡ أَن تَطَـُٔوهُمۡ فَتُصِيبَكُم مِّنۡهُم مَّعَرَّةُۢ بِغَيۡرِ عِلۡمٖۖ لِّيُدۡخِلَ ٱللَّهُ فِي رَحۡمَتِهِۦ مَن يَشَآءُۚ لَوۡ تَزَيَّلُواْ لَعَذَّبۡنَا ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابًا أَلِيمًا",
-    "translation": "25. Bango nde bapengwi mpe bapekisaki bino kokota na masdjid esantu (ya makkah), mpe bapekisi bibwele ya mbeka ekoma na esika yango ya kosasa, soki тропа bandimi ya basi na ya mibali baye boyebaki bango te, na kati ya banguna mpe na koboma, mpe bolingaki kozua mbeba na bango na kozanga koyeba, mpo ete Allah akotisa nani alingi okati ya ngolu naye. Mpe soki (bandimi) bayebanaki, nde topesaki bapengwi kati na bango etumbu ya makasi.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 514,
+  "verse_key": "48:25",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 205,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُمُ ٱلَّذِينَ كَفَرُواْ وَصَدُّوكُمۡ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَٱلۡهَدۡيَ مَعۡكُوفًا أَن يَبۡلُغَ مَحِلَّهُۥۚ وَلَوۡلَا رِجَالٞ مُّؤۡمِنُونَ وَنِسَآءٞ مُّؤۡمِنَٰتٞ لَّمۡ تَعۡلَمُوهُمۡ أَن تَطَـُٔوهُمۡ فَتُصِيبَكُم مِّنۡهُم مَّعَرَّةُۢ بِغَيۡرِ عِلۡمٖۖ لِّيُدۡخِلَ ٱللَّهُ فِي رَحۡمَتِهِۦ مَن يَشَآءُۚ لَوۡ تَزَيَّلُواْ لَعَذَّبۡنَا ٱلَّذِينَ كَفَرُواْ مِنۡهُمۡ عَذَابًا أَلِيمًا",
+  "translation": "25. Bango nde bapengwi mpe bapekisaki bino kokota na masdjid esantu (ya makkah), mpe bapekisi bibwele ya mbeka ekoma na esika yango ya kosasa, soki тропа bandimi ya basi na ya mibali baye boyebaki bango te, na kati ya banguna mpe na koboma, mpe bolingaki kozua mbeba na bango na kozanga koyeba, mpo ete Allah akotisa nani alingi okati ya ngolu naye. Mpe soki (bandimi) bayebanaki, nde topesaki bapengwi kati na bango etumbu ya makasi.",
+  "footnotes": ""
 }

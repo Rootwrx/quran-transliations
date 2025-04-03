@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1179",
-    "sura": "8",
-    "aya": "19",
-    "arabic_text": "إِن تَسۡتَفۡتِحُواْ فَقَدۡ جَآءَكُمُ ٱلۡفَتۡحُۖ وَإِن تَنتَهُواْ فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَعُودُواْ نَعُدۡ وَلَن تُغۡنِيَ عَنكُمۡ فِئَتُكُمۡ شَيۡـٔٗا وَلَوۡ كَثُرَتۡ وَأَنَّ ٱللَّهَ مَعَ ٱلۡمُؤۡمِنِينَ",
-    "translation": "Kama mnataka hukumu basi hukumu imekwisha kujieni. Na mkiacha itakuwa ndio kheri kwenu. Na mkirejea Sisi pia tutarejea. Na jeshi lenu halitakufaeni kitu, japo likiwa kubwa. Kwani hakika Mwenyezi yu pamoja na Waumini.",
-    "footnotes": "Ikiwa nyinyi washirikina mlikuwa mkining'inia mapazia ya Al Kaaba na huku mnaomba yapambanuliwe baina yenu na Waumini ijuulikane haki ipo wapi, basi sasa imekwisha kujieni hukumu ya kupambanua, na ushindi si wenu, bali ni wa Waumini. Na nyinyi mkirejea tena kufanya uadui Nasi tutakushindeni tena. Wala kukusanyika kwenu kwa ajili ya madhambi hakutakufaeni kitu! Hata ikiwa idadi yenu kubwa vipi! Kwani hakika Mwenyezi Mungu yu pamoja na wanao isaidiki Haki na wanaikubali."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 179,
+  "verse_key": "8:19",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن تَسۡتَفۡتِحُواْ فَقَدۡ جَآءَكُمُ ٱلۡفَتۡحُۖ وَإِن تَنتَهُواْ فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَعُودُواْ نَعُدۡ وَلَن تُغۡنِيَ عَنكُمۡ فِئَتُكُمۡ شَيۡـٔٗا وَلَوۡ كَثُرَتۡ وَأَنَّ ٱللَّهَ مَعَ ٱلۡمُؤۡمِنِينَ",
+  "translation": "Kama mnataka hukumu basi hukumu imekwisha kujieni. Na mkiacha itakuwa ndio kheri kwenu. Na mkirejea Sisi pia tutarejea. Na jeshi lenu halitakufaeni kitu, japo likiwa kubwa. Kwani hakika Mwenyezi yu pamoja na Waumini.",
+  "footnotes": "Ikiwa nyinyi washirikina mlikuwa mkining'inia mapazia ya Al Kaaba na huku mnaomba yapambanuliwe baina yenu na Waumini ijuulikane haki ipo wapi, basi sasa imekwisha kujieni hukumu ya kupambanua, na ushindi si wenu, bali ni wa Waumini. Na nyinyi mkirejea tena kufanya uadui Nasi tutakushindeni tena. Wala kukusanyika kwenu kwa ajili ya madhambi hakutakufaeni kitu! Hata ikiwa idadi yenu kubwa vipi! Kwani hakika Mwenyezi Mungu yu pamoja na wanao isaidiki Haki na wanaikubali."
 }

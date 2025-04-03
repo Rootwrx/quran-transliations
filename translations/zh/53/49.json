@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4833",
-    "sura": "53",
-    "aya": "49",
-    "arabic_text": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ",
-    "translation": "他是天狼星的主。",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 528,
+  "verse_key": "53:49",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّهُۥ هُوَ رَبُّ ٱلشِّعۡرَىٰ",
+  "translation": "他是天狼星的主。",
+  "footnotes": ""
 }

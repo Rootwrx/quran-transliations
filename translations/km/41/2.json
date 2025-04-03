@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4220",
-    "sura": "41",
-    "aya": "2",
-    "arabic_text": "تَنزِيلٞ مِّنَ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
-    "translation": "វា(គម្ពីរគួរអាន)គឺជាការបញ្ចុះពីម្ចាស់ដែលមហាសប្បុរស មហាអាណិតស្រឡាញ់។",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 477,
+  "verse_key": "41:2",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَنزِيلٞ مِّنَ ٱلرَّحۡمَٰنِ ٱلرَّحِيمِ",
+  "translation": "វា(គម្ពីរគួរអាន)គឺជាការបញ្ចុះពីម្ចាស់ដែលមហាសប្បុរស មហាអាណិតស្រឡាញ់។",
+  "footnotes": ""
 }

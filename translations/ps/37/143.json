@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3931",
-    "sura": "37",
-    "aya": "143",
-    "arabic_text": "فَلَوۡلَآ أَنَّهُۥ كَانَ مِنَ ٱلۡمُسَبِّحِينَ",
-    "translation": "نو كه چېرې هغه له تسبيح ويونكو څخه نه وى.",
-    "footnotes": ""
-  }
+  "id": 143,
+  "verse_number": 143,
+  "page_number": 451,
+  "verse_key": "37:143",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَوۡلَآ أَنَّهُۥ كَانَ مِنَ ٱلۡمُسَبِّحِينَ",
+  "translation": "نو كه چېرې هغه له تسبيح ويونكو څخه نه وى.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "20",
-    "sura": "2",
-    "aya": "13",
-    "arabic_text": "وَإِذَا قِيلَ لَهُمۡ ءَامِنُواْ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓاْ أَنُؤۡمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُۗ أَلَآ إِنَّهُمۡ هُمُ ٱلسُّفَهَآءُ وَلَٰكِن لَّا يَعۡلَمُونَ",
-    "translation": "13. Et quand il leur est dit : « Croyez donc comme ont cru les (autres) hommes », ils disent : « Allons-nous donc croire comme ont cru les ignares ? [12] » Ce sont bien eux les ignares mais ils ne le savent pas.",
-    "footnotes": "[12] Le dictionnaire arabe Lisân Al-Arab donne comme sens principal de سفيه : « ignorant ». Outre le sens fortement péjoratif de « ignare », qualificatif dont ont été indûment traités les Çahâba (Compagnons du Prophète), le choix de cette traduction favorise l’assonance (la rime) avec « croire ». "
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 3,
+  "verse_key": "2:13",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا قِيلَ لَهُمۡ ءَامِنُواْ كَمَآ ءَامَنَ ٱلنَّاسُ قَالُوٓاْ أَنُؤۡمِنُ كَمَآ ءَامَنَ ٱلسُّفَهَآءُۗ أَلَآ إِنَّهُمۡ هُمُ ٱلسُّفَهَآءُ وَلَٰكِن لَّا يَعۡلَمُونَ",
+  "translation": "13. Et quand il leur est dit : « Croyez donc comme ont cru les (autres) hommes », ils disent : « Allons-nous donc croire comme ont cru les ignares ? [12] » Ce sont bien eux les ignares mais ils ne le savent pas.",
+  "footnotes": "[12] Le dictionnaire arabe Lisân Al-Arab donne comme sens principal de سفيه : « ignorant ». Outre le sens fortement péjoratif de « ignare », qualificatif dont ont été indûment traités les Çahâba (Compagnons du Prophète), le choix de cette traduction favorise l’assonance (la rime) avec « croire ». "
 }

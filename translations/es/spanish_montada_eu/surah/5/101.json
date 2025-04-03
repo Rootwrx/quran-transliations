@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "770",
-    "sura": "5",
-    "aya": "101",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَسۡـَٔلُواْ عَنۡ أَشۡيَآءَ إِن تُبۡدَ لَكُمۡ تَسُؤۡكُمۡ وَإِن تَسۡـَٔلُواْ عَنۡهَا حِينَ يُنَزَّلُ ٱلۡقُرۡءَانُ تُبۡدَ لَكُمۡ عَفَا ٱللَّهُ عَنۡهَاۗ وَٱللَّهُ غَفُورٌ حَلِيمٞ",
-    "translation": "101. ¡Oh, creyentes! No preguntéis sobre asuntos que no han sido revelados por vuestro bien[198]. Si preguntáis sobre ellos cuando el Corán está siendo revelado, se os explicarán (y puede que os resulte difícil cumplir lo que se os dice). Al-lah os ha perdonado (por lo que preguntasteis con anterioridad)[199]. Y Al-lah es Indulgente y Tolerante.",
-    "footnotes": "[198]  Se prohibía preguntar,durante el tiempo de la revelación del Corán, sobre asuntos cuya respuesta no aportaba ningún beneficio y que podía implicar una difícil imposición, ya que, en aquella época, el Profeta—que Al-lah lo bendiga y le dé la paz— ya explicaba a sus seguidores las cuestiones que estos debían saber. Esta aleya fue revelada después de que la peregrinación del hajj se hiciera obligatoria. Un creyente preguntó con insistencia si la peregrinación tenía que realizarse cada año, cuando la aleya que mencionaba su obligatoriedad no mencionaba nada al respecto. El Profeta —que Al-lah lo bendiga y le dé la paz—finalmente contestó que no, pero si hubiese dicho que sí, se hubiese convertido en obligatorio realizarla cada año, y muy pocos hubiesen podido cumplir tal obligación.\n[199]  También puede entenderse: «Al-lah ha evitado mencionar dichos asuntos (por vuestro bien)»."
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 124,
+  "verse_key": "5:101",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَسۡـَٔلُواْ عَنۡ أَشۡيَآءَ إِن تُبۡدَ لَكُمۡ تَسُؤۡكُمۡ وَإِن تَسۡـَٔلُواْ عَنۡهَا حِينَ يُنَزَّلُ ٱلۡقُرۡءَانُ تُبۡدَ لَكُمۡ عَفَا ٱللَّهُ عَنۡهَاۗ وَٱللَّهُ غَفُورٌ حَلِيمٞ",
+  "translation": "101. ¡Oh, creyentes! No preguntéis sobre asuntos que no han sido revelados por vuestro bien[198]. Si preguntáis sobre ellos cuando el Corán está siendo revelado, se os explicarán (y puede que os resulte difícil cumplir lo que se os dice). Al-lah os ha perdonado (por lo que preguntasteis con anterioridad)[199]. Y Al-lah es Indulgente y Tolerante.",
+  "footnotes": "[198]  Se prohibía preguntar,durante el tiempo de la revelación del Corán, sobre asuntos cuya respuesta no aportaba ningún beneficio y que podía implicar una difícil imposición, ya que, en aquella época, el Profeta—que Al-lah lo bendiga y le dé la paz— ya explicaba a sus seguidores las cuestiones que estos debían saber. Esta aleya fue revelada después de que la peregrinación del hajj se hiciera obligatoria. Un creyente preguntó con insistencia si la peregrinación tenía que realizarse cada año, cuando la aleya que mencionaba su obligatoriedad no mencionaba nada al respecto. El Profeta —que Al-lah lo bendiga y le dé la paz—finalmente contestó que no, pero si hubiese dicho que sí, se hubiese convertido en obligatorio realizarla cada año, y muy pocos hubiesen podido cumplir tal obligación.\n[199]  También puede entenderse: «Al-lah ha evitado mencionar dichos asuntos (por vuestro bien)»."
 }

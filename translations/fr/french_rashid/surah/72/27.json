@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5474",
-    "sura": "72",
-    "aya": "27",
-    "arabic_text": "إِلَّا مَنِ ٱرۡتَضَىٰ مِن رَّسُولٖ فَإِنَّهُۥ يَسۡلُكُ مِنۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهِۦ رَصَدٗا",
-    "translation": "27 hormis à ceux qu’Il choisit comme Messagers[1500], qu’Il place sous la protection vigilante d’anges gardiens postés devant et derrière eux[1501].",
-    "footnotes": "[1500] Auxquels Il dévoile une partie seulement des mystères à travers notamment la Révélation.\n[1501] Au moment où leur sont révélés ces mystères, précisent certains exégètes."
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 573,
+  "verse_key": "72:27",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا مَنِ ٱرۡتَضَىٰ مِن رَّسُولٖ فَإِنَّهُۥ يَسۡلُكُ مِنۢ بَيۡنِ يَدَيۡهِ وَمِنۡ خَلۡفِهِۦ رَصَدٗا",
+  "translation": "27 hormis à ceux qu’Il choisit comme Messagers[1500], qu’Il place sous la protection vigilante d’anges gardiens postés devant et derrière eux[1501].",
+  "footnotes": "[1500] Auxquels Il dévoile une partie seulement des mystères à travers notamment la Révélation.\n[1501] Au moment où leur sont révélés ces mystères, précisent certains exégètes."
 }

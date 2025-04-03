@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1712",
-    "sura": "13",
-    "aya": "5",
-    "arabic_text": "۞ وَإِن تَعۡجَبۡ فَعَجَبٞ قَوۡلُهُمۡ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِي خَلۡقٖ جَدِيدٍۗ أُوْلَٰٓئِكَ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡۖ وَأُوْلَٰٓئِكَ ٱلۡأَغۡلَٰلُ فِيٓ أَعۡنَاقِهِمۡۖ وَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
-    "translation": "Niba (wowe Muhamadi) utangazwa (no kutemera kwabo nyuma y’ibi bimenyetso), igitangaje (kurushaho) ni imvugo yabo igira iti “Ese (nidupfa) tugahinduka igitaka, tuzasubizwa ubuzima bundi bushya?” Abo ni ba bandi bahakanye Nyagasani wabo, ndetse ni bo bazaboheshwa iminyururu mu majosi. Kandi abo ni abantu bo mu muriro, bazawubamo ubuziraherezo.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 249,
+  "verse_key": "13:5",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَإِن تَعۡجَبۡ فَعَجَبٞ قَوۡلُهُمۡ أَءِذَا كُنَّا تُرَٰبًا أَءِنَّا لَفِي خَلۡقٖ جَدِيدٍۗ أُوْلَٰٓئِكَ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡۖ وَأُوْلَٰٓئِكَ ٱلۡأَغۡلَٰلُ فِيٓ أَعۡنَاقِهِمۡۖ وَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+  "translation": "Niba (wowe Muhamadi) utangazwa (no kutemera kwabo nyuma y’ibi bimenyetso), igitangaje (kurushaho) ni imvugo yabo igira iti “Ese (nidupfa) tugahinduka igitaka, tuzasubizwa ubuzima bundi bushya?” Abo ni ba bandi bahakanye Nyagasani wabo, ndetse ni bo bazaboheshwa iminyururu mu majosi. Kandi abo ni abantu bo mu muriro, bazawubamo ubuziraherezo.",
+  "footnotes": ""
 }

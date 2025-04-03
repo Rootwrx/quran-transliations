@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5414",
-    "sura": "70",
-    "aya": "39",
-    "arabic_text": "كَلَّآۖ إِنَّا خَلَقۡنَٰهُم مِّمَّا يَعۡلَمُونَ",
-    "translation": "39. ¡De ningún modo! Realmente, los creamos a partir de lo que ya saben[1077].",
-    "footnotes": "[1077]  Al-lah les recuerda que no son superiores a los creyentes y que fueron creados, como el resto de los hombres, de una insignificante cantidad de esperma eyaculada."
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 569,
+  "verse_key": "70:39",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّآۖ إِنَّا خَلَقۡنَٰهُم مِّمَّا يَعۡلَمُونَ",
+  "translation": "39. ¡De ningún modo! Realmente, los creamos a partir de lo que ya saben[1077].",
+  "footnotes": "[1077]  Al-lah les recuerda que no son superiores a los creyentes y que fueron creados, como el resto de los hombres, de una insignificante cantidad de esperma eyaculada."
 }

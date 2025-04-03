@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "950",
-    "sura": "6",
-    "aya": "161",
-    "arabic_text": "قُلۡ إِنَّنِي هَدَىٰنِي رَبِّيٓ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ دِينٗا قِيَمٗا مِّلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۚ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
-    "translation": "Dize: \"Por certo, meu Senhor guiou-me a uma senda reta: a uma religião justa, a crença de Abraão, monoteísta sincero, e que não era dos idólatras\"",
-    "footnotes": ""
-  }
+  "id": 161,
+  "verse_number": 161,
+  "page_number": 150,
+  "verse_key": "6:161",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنَّنِي هَدَىٰنِي رَبِّيٓ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ دِينٗا قِيَمٗا مِّلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۚ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+  "translation": "Dize: \"Por certo, meu Senhor guiou-me a uma senda reta: a uma religião justa, a crença de Abraão, monoteísta sincero, e que não era dos idólatras\"",
+  "footnotes": ""
 }

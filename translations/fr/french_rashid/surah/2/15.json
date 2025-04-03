@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "22",
-    "sura": "2",
-    "aya": "15",
-    "arabic_text": "ٱللَّهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
-    "translation": "15 Allah répondra à leurs moqueries et les laissera s’enfoncer dans l’impiété aveuglément.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 3,
+  "verse_key": "2:15",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
+  "translation": "15 Allah répondra à leurs moqueries et les laissera s’enfoncer dans l’impiété aveuglément.",
+  "footnotes": ""
 }

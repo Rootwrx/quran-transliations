@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2119",
-    "sura": "17",
-    "aya": "90",
-    "arabic_text": "وَقَالُواْ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ تَفۡجُرَ لَنَا مِنَ ٱلۡأَرۡضِ يَنۢبُوعًا",
-    "translation": "አሉም «ለኛ ከምድር ምንጭን እስከምታፈነዳን ለአንተ አናምንም፡፡»",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 291,
+  "verse_key": "17:90",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ تَفۡجُرَ لَنَا مِنَ ٱلۡأَرۡضِ يَنۢبُوعًا",
+  "translation": "አሉም «ለኛ ከምድር ምንጭን እስከምታፈነዳን ለአንተ አናምንም፡፡»",
+  "footnotes": ""
 }

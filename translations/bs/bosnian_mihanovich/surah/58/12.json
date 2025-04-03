@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5116",
-    "sura": "58",
-    "aya": "12",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَٰجَيۡتُمُ ٱلرَّسُولَ فَقَدِّمُواْ بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَةٗۚ ذَٰلِكَ خَيۡرٞ لَّكُمۡ وَأَطۡهَرُۚ فَإِن لَّمۡ تَجِدُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
-    "translation": "O vi koji vjerujete, kad hoćete da se s Poslanikom sašaptavate, prije toga sadaku udijelite. To je za vas bolje i čistije. A ako ne nađete ništa - pa, Allah je, zaista, Oprostitelj grijeha, Milostivi. ",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 544,
+  "verse_key": "58:12",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 217,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا نَٰجَيۡتُمُ ٱلرَّسُولَ فَقَدِّمُواْ بَيۡنَ يَدَيۡ نَجۡوَىٰكُمۡ صَدَقَةٗۚ ذَٰلِكَ خَيۡرٞ لَّكُمۡ وَأَطۡهَرُۚ فَإِن لَّمۡ تَجِدُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+  "translation": "O vi koji vjerujete, kad hoćete da se s Poslanikom sašaptavate, prije toga sadaku udijelite. To je za vas bolje i čistije. A ako ne nađete ništa - pa, Allah je, zaista, Oprostitelj grijeha, Milostivi. ",
+  "footnotes": ""
 }

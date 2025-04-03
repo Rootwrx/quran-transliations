@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5324",
-    "sura": "69",
-    "aya": "1",
-    "arabic_text": "ٱلۡحَآقَّةُ",
-    "translation": "Al-Haqqah[1]",
-    "footnotes": "[1] Al-Haqqah là một trong các tên gọi của Ngày Tận Thế. Al-Haqqah có nghĩa là sự thật không thể chối cãi, sự thật bất khả kháng. Sở dĩ Ngày Tận Thế được gọi là Al-Haqqah bởi vì Ngày Tận Thế là sự thật, chắc chắn xảy ra, không thể phủ nhận."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 566,
+  "verse_key": "69:1",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَآقَّةُ",
+  "translation": "Al-Haqqah[1]",
+  "footnotes": "[1] Al-Haqqah là một trong các tên gọi của Ngày Tận Thế. Al-Haqqah có nghĩa là sự thật không thể chối cãi, sự thật bất khả kháng. Sở dĩ Ngày Tận Thế được gọi là Al-Haqqah bởi vì Ngày Tận Thế là sự thật, chắc chắn xảy ra, không thể phủ nhận."
 }

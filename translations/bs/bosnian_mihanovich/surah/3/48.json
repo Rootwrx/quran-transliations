@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "341",
-    "sura": "3",
-    "aya": "48",
-    "arabic_text": "وَيُعَلِّمُهُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ",
-    "translation": "On će ga poučiti Knjizi i mudrosti, i Tevratu i Indžilu. ",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 56,
+  "verse_key": "3:48",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُعَلِّمُهُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ",
+  "translation": "On će ga poučiti Knjizi i mudrosti, i Tevratu i Indžilu. ",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1450",
-    "sura": "10",
-    "aya": "86",
-    "arabic_text": "وَنَجِّنَا بِرَحۡمَتِكَ مِنَ ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
-    "translation": "Na utuokoe kwa rehema yako na watu makafiri.",
-    "footnotes": "Wakamwomba Mola wao Mlezi wakisema: Kwa vile ulivyo tumiminia neema na rehema, na kwa wingi wa rehema yako unayo sifika nayo, tuokoe na hawa watu wanao kataa, wenye kudhulumu."
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 218,
+  "verse_key": "10:86",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنَجِّنَا بِرَحۡمَتِكَ مِنَ ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+  "translation": "Na utuokoe kwa rehema yako na watu makafiri.",
+  "footnotes": "Wakamwomba Mola wao Mlezi wakisema: Kwa vile ulivyo tumiminia neema na rehema, na kwa wingi wa rehema yako unayo sifika nayo, tuokoe na hawa watu wanao kataa, wenye kudhulumu."
 }

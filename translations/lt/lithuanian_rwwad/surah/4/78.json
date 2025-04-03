@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "571",
-    "sura": "4",
-    "aya": "78",
-    "arabic_text": "أَيۡنَمَا تَكُونُواْ يُدۡرِككُّمُ ٱلۡمَوۡتُ وَلَوۡ كُنتُمۡ فِي بُرُوجٖ مُّشَيَّدَةٖۗ وَإِن تُصِبۡهُمۡ حَسَنَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِ ٱللَّهِۖ وَإِن تُصِبۡهُمۡ سَيِّئَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِكَۚ قُلۡ كُلّٞ مِّنۡ عِندِ ٱللَّهِۖ فَمَالِ هَٰٓؤُلَآءِ ٱلۡقَوۡمِ لَا يَكَادُونَ يَفۡقَهُونَ حَدِيثٗا",
-    "translation": "78. „Kas tu bebūtum, mirtis užklups tave net jei esi tvirtovėje, pastatytoje stipriai ir aukštai!” O jei kas gera ištinka juos, jie sako: „Tai iš Allaho.“, tačiau jei kas bloga juos ištinka, jie sako: „Tai iš tavęs (Muchammedai ﷺ).“ Sakyk: „Viskas yra iš Allaho.“ Taigi, kas yra šiems žmonėms, kad jie nesuvokia nė vieno žodžio?",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 90,
+  "verse_key": "4:78",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَيۡنَمَا تَكُونُواْ يُدۡرِككُّمُ ٱلۡمَوۡتُ وَلَوۡ كُنتُمۡ فِي بُرُوجٖ مُّشَيَّدَةٖۗ وَإِن تُصِبۡهُمۡ حَسَنَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِ ٱللَّهِۖ وَإِن تُصِبۡهُمۡ سَيِّئَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِكَۚ قُلۡ كُلّٞ مِّنۡ عِندِ ٱللَّهِۖ فَمَالِ هَٰٓؤُلَآءِ ٱلۡقَوۡمِ لَا يَكَادُونَ يَفۡقَهُونَ حَدِيثٗا",
+  "translation": "78. „Kas tu bebūtum, mirtis užklups tave net jei esi tvirtovėje, pastatytoje stipriai ir aukštai!” O jei kas gera ištinka juos, jie sako: „Tai iš Allaho.“, tačiau jei kas bloga juos ištinka, jie sako: „Tai iš tavęs (Muchammedai ﷺ).“ Sakyk: „Viskas yra iš Allaho.“ Taigi, kas yra šiems žmonėms, kad jie nesuvokia nė vieno žodžio?",
+  "footnotes": ""
 }

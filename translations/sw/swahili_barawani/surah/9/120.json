@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1355",
-    "sura": "9",
-    "aya": "120",
-    "arabic_text": "مَا كَانَ لِأَهۡلِ ٱلۡمَدِينَةِ وَمَنۡ حَوۡلَهُم مِّنَ ٱلۡأَعۡرَابِ أَن يَتَخَلَّفُواْ عَن رَّسُولِ ٱللَّهِ وَلَا يَرۡغَبُواْ بِأَنفُسِهِمۡ عَن نَّفۡسِهِۦۚ ذَٰلِكَ بِأَنَّهُمۡ لَا يُصِيبُهُمۡ ظَمَأٞ وَلَا نَصَبٞ وَلَا مَخۡمَصَةٞ فِي سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوۡطِئٗا يَغِيظُ ٱلۡكُفَّارَ وَلَا يَنَالُونَ مِنۡ عَدُوّٖ نَّيۡلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٞ صَٰلِحٌۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
-    "translation": "Haiwafalii watu wa Madina na Mabedui walio jirani zao kubakia nyuma wasitoke na Mtume, wala kujipendelea nafsi zao kuliko yeye. Hayo ni kwa kuwa hakiwapati kiu, wala machofu, wala njaa, kwa ajili ya Njia ya Mwenyezi Mungu, wala hawendi mahali panapo waghadhibisha makafiri, wala hakiwapati chochote kutokana na maadui, ila huandikiwa kuwa ni kitendo chema. Hakika Mwenyezi Mungu haupotezi ujira wa wanao fanya mema.",
-    "footnotes": "Haikuwa ni halali kwa wakaazi wa Madina na majirani zao katika wakaazi wa majangwani kubaki nyuma wasitoke kwenda vitani pamoja na Mtume wa Mwenyezi Mungu s.a.w. Wala kujifanyia uchoyo kwa ajili ya nafsi zao katika aliyo jitolea Mtume nafsi yake. (Mtume kajitolea roho na mali kwa kupigania Haki.) Kwani wao hakiwapati, katika Njia ya Mwenyezi Mungu, kiu, au machofu, au njaa, wala hawashuki pahala panapo watia ghadhabu makafiri, wala hakiwasibu kutokana na adui chochote kama kushindwa au kunyan'ganywa ngawira, ila huhisabiwa kwa hayo yote kuwa ni a'mali njema, ya kulipiwa bora ya malipo. Na Mwenyezi Mungu haupotezi ujira wa wenye kufanya mema katika vitendo vyao."
-  }
+  "id": 120,
+  "verse_number": 120,
+  "page_number": 206,
+  "verse_key": "9:120",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 82,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا كَانَ لِأَهۡلِ ٱلۡمَدِينَةِ وَمَنۡ حَوۡلَهُم مِّنَ ٱلۡأَعۡرَابِ أَن يَتَخَلَّفُواْ عَن رَّسُولِ ٱللَّهِ وَلَا يَرۡغَبُواْ بِأَنفُسِهِمۡ عَن نَّفۡسِهِۦۚ ذَٰلِكَ بِأَنَّهُمۡ لَا يُصِيبُهُمۡ ظَمَأٞ وَلَا نَصَبٞ وَلَا مَخۡمَصَةٞ فِي سَبِيلِ ٱللَّهِ وَلَا يَطَـُٔونَ مَوۡطِئٗا يَغِيظُ ٱلۡكُفَّارَ وَلَا يَنَالُونَ مِنۡ عَدُوّٖ نَّيۡلًا إِلَّا كُتِبَ لَهُم بِهِۦ عَمَلٞ صَٰلِحٌۚ إِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+  "translation": "Haiwafalii watu wa Madina na Mabedui walio jirani zao kubakia nyuma wasitoke na Mtume, wala kujipendelea nafsi zao kuliko yeye. Hayo ni kwa kuwa hakiwapati kiu, wala machofu, wala njaa, kwa ajili ya Njia ya Mwenyezi Mungu, wala hawendi mahali panapo waghadhibisha makafiri, wala hakiwapati chochote kutokana na maadui, ila huandikiwa kuwa ni kitendo chema. Hakika Mwenyezi Mungu haupotezi ujira wa wanao fanya mema.",
+  "footnotes": "Haikuwa ni halali kwa wakaazi wa Madina na majirani zao katika wakaazi wa majangwani kubaki nyuma wasitoke kwenda vitani pamoja na Mtume wa Mwenyezi Mungu s.a.w. Wala kujifanyia uchoyo kwa ajili ya nafsi zao katika aliyo jitolea Mtume nafsi yake. (Mtume kajitolea roho na mali kwa kupigania Haki.) Kwani wao hakiwapati, katika Njia ya Mwenyezi Mungu, kiu, au machofu, au njaa, wala hawashuki pahala panapo watia ghadhabu makafiri, wala hakiwasibu kutokana na adui chochote kama kushindwa au kunyan'ganywa ngawira, ila huhisabiwa kwa hayo yote kuwa ni a'mali njema, ya kulipiwa bora ya malipo. Na Mwenyezi Mungu haupotezi ujira wa wenye kufanya mema katika vitendo vyao."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5359",
-    "sura": "69",
-    "aya": "36",
-    "arabic_text": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينٖ",
-    "translation": "İrinden başka hiçbir yiyecek de yoktur.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 568,
+  "verse_key": "69:36",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا طَعَامٌ إِلَّا مِنۡ غِسۡلِينٖ",
+  "translation": "İrinden başka hiçbir yiyecek de yoktur.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3312",
-    "sura": "28",
-    "aya": "60",
-    "arabic_text": "وَمَآ أُوتِيتُم مِّن شَيۡءٖ فَمَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَزِينَتُهَاۚ وَمَا عِندَ ٱللَّهِ خَيۡرٞ وَأَبۡقَىٰٓۚ أَفَلَا تَعۡقِلُونَ",
-    "translation": "Na chochote mlicho pewa ni matumizi ya maisha ya dunia na pambo lake. Na yaliyoko kwa Mwenyezi Mungu ndio bora na yatakayo baki zaidi. Basi je, hamfahamu?",
-    "footnotes": "Na kila kitu mlicho ruzukiwa katika starehe za dunia na mapambo yake kina ukomo wake kwa muda mfupi. Hayo yasikuzuieni kuamini na kutenda vitendo vyema. Kwani hakika yaliyoko kwa Mwenyezi Mungu huko Akhera, nayo ni thawabu na neema za milele, yana nafuu zaidi, na yana dawamu kuliko hayo yote. Basi kwa nini hamtumii akili zenu badala ya pumbao zenu?"
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 393,
+  "verse_key": "28:60",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أُوتِيتُم مِّن شَيۡءٖ فَمَتَٰعُ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَزِينَتُهَاۚ وَمَا عِندَ ٱللَّهِ خَيۡرٞ وَأَبۡقَىٰٓۚ أَفَلَا تَعۡقِلُونَ",
+  "translation": "Na chochote mlicho pewa ni matumizi ya maisha ya dunia na pambo lake. Na yaliyoko kwa Mwenyezi Mungu ndio bora na yatakayo baki zaidi. Basi je, hamfahamu?",
+  "footnotes": "Na kila kitu mlicho ruzukiwa katika starehe za dunia na mapambo yake kina ukomo wake kwa muda mfupi. Hayo yasikuzuieni kuamini na kutenda vitendo vyema. Kwani hakika yaliyoko kwa Mwenyezi Mungu huko Akhera, nayo ni thawabu na neema za milele, yana nafuu zaidi, na yana dawamu kuliko hayo yote. Basi kwa nini hamtumii akili zenu badala ya pumbao zenu?"
 }

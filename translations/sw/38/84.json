@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4054",
-    "sura": "38",
-    "aya": "84",
-    "arabic_text": "قَالَ فَٱلۡحَقُّ وَٱلۡحَقَّ أَقُولُ",
-    "translation": "kasema: Haki! Na haki ninaisema.",
-    "footnotes": "Akasema Mwenyezi Mungu Mtukufu: Haki ndiyo yamini yangu na kiapo changu; na wala sisemi ila Haki. Bila ya shaka nitaijaza Jahannamu kwa jinsi yako ya kishetani na watakao kufuata katika vizazi vya Adam wote. Hapana khitilafu kwangu baina ya wafuasi na wanao fuatwa."
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 458,
+  "verse_key": "38:84",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ فَٱلۡحَقُّ وَٱلۡحَقَّ أَقُولُ",
+  "translation": "kasema: Haki! Na haki ninaisema.",
+  "footnotes": "Akasema Mwenyezi Mungu Mtukufu: Haki ndiyo yamini yangu na kiapo changu; na wala sisemi ila Haki. Bila ya shaka nitaijaza Jahannamu kwa jinsi yako ya kishetani na watakao kufuata katika vizazi vya Adam wote. Hapana khitilafu kwangu baina ya wafuasi na wanao fuatwa."
 }

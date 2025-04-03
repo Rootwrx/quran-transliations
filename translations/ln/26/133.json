@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3065",
-    "sura": "26",
-    "aya": "133",
-    "arabic_text": "أَمَدَّكُم بِأَنۡعَٰمٖ وَبَنِينَ",
-    "translation": "133. Oyo apesi bino banyama na bana,",
-    "footnotes": ""
-  }
+  "id": 133,
+  "verse_number": 133,
+  "page_number": 372,
+  "verse_key": "26:133",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمَدَّكُم بِأَنۡعَٰمٖ وَبَنِينَ",
+  "translation": "133. Oyo apesi bino banyama na bana,",
+  "footnotes": ""
 }

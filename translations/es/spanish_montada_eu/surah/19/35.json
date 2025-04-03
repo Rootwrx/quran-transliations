@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2285",
-    "sura": "19",
-    "aya": "35",
-    "arabic_text": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٖۖ سُبۡحَٰنَهُۥٓۚ إِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
-    "translation": "35. Al-lah no iba a tomar para Sí un hijo. ¡Glorificado sea! Cuando desea algo, Le basta con decir: «Sé», y es.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 307,
+  "verse_key": "19:35",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا كَانَ لِلَّهِ أَن يَتَّخِذَ مِن وَلَدٖۖ سُبۡحَٰنَهُۥٓۚ إِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+  "translation": "35. Al-lah no iba a tomar para Sí un hijo. ¡Glorificado sea! Cuando desea algo, Le basta con decir: «Sé», y es.",
+  "footnotes": ""
 }

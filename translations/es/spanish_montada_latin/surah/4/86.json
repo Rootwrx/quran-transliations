@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "579",
-    "sura": "4",
-    "aya": "86",
-    "arabic_text": "وَإِذَا حُيِّيتُم بِتَحِيَّةٖ فَحَيُّواْ بِأَحۡسَنَ مِنۡهَآ أَوۡ رُدُّوهَآۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٍ حَسِيبًا",
-    "translation": "86. Y si los saludan, respondan con un saludo mejor, o al menos correspondan al saludo. En verdad, Al-lah tiene en cuenta todas las cosas.",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 91,
+  "verse_key": "4:86",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا حُيِّيتُم بِتَحِيَّةٖ فَحَيُّواْ بِأَحۡسَنَ مِنۡهَآ أَوۡ رُدُّوهَآۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٍ حَسِيبًا",
+  "translation": "86. Y si los saludan, respondan con un saludo mejor, o al menos correspondan al saludo. En verdad, Al-lah tiene en cuenta todas las cosas.",
+  "footnotes": ""
 }

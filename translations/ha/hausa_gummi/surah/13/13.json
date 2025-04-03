@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1720",
-    "sura": "13",
-    "aya": "13",
-    "arabic_text": "وَيُسَبِّحُ ٱلرَّعۡدُ بِحَمۡدِهِۦ وَٱلۡمَلَٰٓئِكَةُ مِنۡ خِيفَتِهِۦ وَيُرۡسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمۡ يُجَٰدِلُونَ فِي ٱللَّهِ وَهُوَ شَدِيدُ ٱلۡمِحَالِ",
-    "translation": "Kuma arãdu tanã tasbĩhi game da gõde Masa, da malã'iku dõmin tsoronsa. Kuma Yanã aiko tsãwawwaki, sa'an nan Ya sãmi wanda Yake so da su alhãli kuwa sũ, sunã jãyayya a cikin (al'amarin) Allah kuma shĩ ne mai tsananin hĩla.*",
-    "footnotes": "* Hĩla, ita ce mãkirci, Allah Yanã azabta mãsu yin hĩla ga addininsa, da azãba mai tsanani, kuma Ya kãmã su da hĩlarsu ta hanyar da ba su sani ba."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 250,
+  "verse_key": "13:13",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُسَبِّحُ ٱلرَّعۡدُ بِحَمۡدِهِۦ وَٱلۡمَلَٰٓئِكَةُ مِنۡ خِيفَتِهِۦ وَيُرۡسِلُ ٱلصَّوَٰعِقَ فَيُصِيبُ بِهَا مَن يَشَآءُ وَهُمۡ يُجَٰدِلُونَ فِي ٱللَّهِ وَهُوَ شَدِيدُ ٱلۡمِحَالِ",
+  "translation": "Kuma arãdu tanã tasbĩhi game da gõde Masa, da malã'iku dõmin tsoronsa. Kuma Yanã aiko tsãwawwaki, sa'an nan Ya sãmi wanda Yake so da su alhãli kuwa sũ, sunã jãyayya a cikin (al'amarin) Allah kuma shĩ ne mai tsananin hĩla.*",
+  "footnotes": "* Hĩla, ita ce mãkirci, Allah Yanã azabta mãsu yin hĩla ga addininsa, da azãba mai tsanani, kuma Ya kãmã su da hĩlarsu ta hanyar da ba su sani ba."
 }

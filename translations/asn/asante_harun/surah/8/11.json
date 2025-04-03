@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1171",
-    "sura": "8",
-    "aya": "11",
-    "arabic_text": "إِذۡ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةٗ مِّنۡهُ وَيُنَزِّلُ عَلَيۡكُم مِّنَ ٱلسَّمَآءِ مَآءٗ لِّيُطَهِّرَكُم بِهِۦ وَيُذۡهِبَ عَنكُمۡ رِجۡزَ ٱلشَّيۡطَٰنِ وَلِيَرۡبِطَ عَلَىٰ قُلُوبِكُمۡ وَيُثَبِّتَ بِهِ ٱلۡأَقۡدَامَ",
-    "translation": "Monkae εberε a Ɔmaa motͻͻ nko deyεε awerεkyekyerε a ɛfiri Ne hͻ, εna Ɔmaa nsuo firi soro tͻ guu mo so sεdeε Ɔde bεte mo ho na Ɔbɛyi ͻbonsam fii no afiri mo ho akͻ, ne sεdeε Ɔde bεhyε moakoma den na Ɔde bεma (mo) agyina mo nan so pintinn.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 178,
+  "verse_key": "8:11",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ يُغَشِّيكُمُ ٱلنُّعَاسَ أَمَنَةٗ مِّنۡهُ وَيُنَزِّلُ عَلَيۡكُم مِّنَ ٱلسَّمَآءِ مَآءٗ لِّيُطَهِّرَكُم بِهِۦ وَيُذۡهِبَ عَنكُمۡ رِجۡزَ ٱلشَّيۡطَٰنِ وَلِيَرۡبِطَ عَلَىٰ قُلُوبِكُمۡ وَيُثَبِّتَ بِهِ ٱلۡأَقۡدَامَ",
+  "translation": "Monkae εberε a Ɔmaa motͻͻ nko deyεε awerεkyekyerε a ɛfiri Ne hͻ, εna Ɔmaa nsuo firi soro tͻ guu mo so sεdeε Ɔde bεte mo ho na Ɔbɛyi ͻbonsam fii no afiri mo ho akͻ, ne sεdeε Ɔde bεhyε moakoma den na Ɔde bεma (mo) agyina mo nan so pintinn.",
+  "footnotes": ""
 }

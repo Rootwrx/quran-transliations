@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5763",
-    "sura": "80",
-    "aya": "5",
-    "arabic_text": "أَمَّا مَنِ ٱسۡتَغۡنَىٰ",
-    "translation": "5. Quant à celui qui se complaît et se suffit de sa richesse,",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 585,
+  "verse_key": "80:5",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمَّا مَنِ ٱسۡتَغۡنَىٰ",
+  "translation": "5. Quant à celui qui se complaît et se suffit de sa richesse,",
+  "footnotes": ""
 }

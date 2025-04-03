@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2864",
-    "sura": "25",
-    "aya": "9",
-    "arabic_text": "ٱنظُرۡ كَيۡفَ ضَرَبُواْ لَكَ ٱلۡأَمۡثَٰلَ فَضَلُّواْ فَلَا يَسۡتَطِيعُونَ سَبِيلٗا",
-    "translation": "Vois à quoi ils te comparent! Ils se sont égarés et ils ne peuvent trouver aucun chemin.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 360,
+  "verse_key": "25:9",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱنظُرۡ كَيۡفَ ضَرَبُواْ لَكَ ٱلۡأَمۡثَٰلَ فَضَلُّواْ فَلَا يَسۡتَطِيعُونَ سَبِيلٗا",
+  "translation": "Vois à quoi ils te comparent! Ils se sont égarés et ils ne peuvent trouver aucun chemin.",
+  "footnotes": ""
 }

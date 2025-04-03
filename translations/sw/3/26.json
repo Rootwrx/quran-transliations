@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "319",
-    "sura": "3",
-    "aya": "26",
-    "arabic_text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Sema: Ewe Mwenyezi Mungu uliye miliki ufalme wote! Wewe humpa ufalme umtakaye, na humwondolea ufalme umtakaye, na humtukuza umtakaye, na humuangusha umtakaye. Kheri yote iko mikononi mwako. Hakika Wewe ni Muweza wa kila kitu.",
-    "footnotes": "Ewe Nabii! Sema kwa unyenyekevu na kuukiri utukufu wake Mwenyezi Mungu: Ewe Mola Mlezi! Ni Wewe peke yako ndiye Mwenye kumiliki kutasarafu katika mambo yote. Unampa kuhukumu na utawala umtakaye, na unamnyima umtakaye. Unampa utukufu umpendaye kati ya waja wako kwa kumwezesha kuzishika sababu za kuufikia huo utukufu. Na unampiga madhila na unyonge umtakaye. Basi Wewe peke yako unamiliki kheri yote. Hushindwi na kitu katika kutimiza muradi wako na yanayo kupelekea hikima yako kuyakatia shauri katika mipango ya uumbaji wako."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 53,
+  "verse_key": "3:26",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Sema: Ewe Mwenyezi Mungu uliye miliki ufalme wote! Wewe humpa ufalme umtakaye, na humwondolea ufalme umtakaye, na humtukuza umtakaye, na humuangusha umtakaye. Kheri yote iko mikononi mwako. Hakika Wewe ni Muweza wa kila kitu.",
+  "footnotes": "Ewe Nabii! Sema kwa unyenyekevu na kuukiri utukufu wake Mwenyezi Mungu: Ewe Mola Mlezi! Ni Wewe peke yako ndiye Mwenye kumiliki kutasarafu katika mambo yote. Unampa kuhukumu na utawala umtakaye, na unamnyima umtakaye. Unampa utukufu umpendaye kati ya waja wako kwa kumwezesha kuzishika sababu za kuufikia huo utukufu. Na unampiga madhila na unyonge umtakaye. Basi Wewe peke yako unamiliki kheri yote. Hushindwi na kitu katika kutimiza muradi wako na yanayo kupelekea hikima yako kuyakatia shauri katika mipango ya uumbaji wako."
 }

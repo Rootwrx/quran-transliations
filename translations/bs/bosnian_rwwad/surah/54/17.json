@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4863",
-    "sura": "54",
-    "aya": "17",
-    "arabic_text": "وَلَقَدۡ يَسَّرۡنَا ٱلۡقُرۡءَانَ لِلذِّكۡرِ فَهَلۡ مِن مُّدَّكِرٖ",
-    "translation": "A Mi smo Kur’an lahkim za opomenu učinili, pa ima li ikoga ko bi se prisjetio?",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 529,
+  "verse_key": "54:17",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ يَسَّرۡنَا ٱلۡقُرۡءَانَ لِلذِّكۡرِ فَهَلۡ مِن مُّدَّكِرٖ",
+  "translation": "A Mi smo Kur’an lahkim za opomenu učinili, pa ima li ikoga ko bi se prisjetio?",
+  "footnotes": ""
 }

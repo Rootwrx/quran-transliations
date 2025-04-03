@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4214",
-    "sura": "40",
-    "aya": "81",
-    "arabic_text": "وَيُرِيكُمۡ ءَايَٰتِهِۦ فَأَيَّ ءَايَٰتِ ٱللَّهِ تُنكِرُونَ",
-    "translation": "81. Dan Dia memperlihatkan tanda-tanda (kebesaran-Nya) kepadamu. Lalu tanda-tanda (kebesaran) Allah yang mana yang kamu ingkari?",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 476,
+  "verse_key": "40:81",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُرِيكُمۡ ءَايَٰتِهِۦ فَأَيَّ ءَايَٰتِ ٱللَّهِ تُنكِرُونَ",
+  "translation": "81. Dan Dia memperlihatkan tanda-tanda (kebesaran-Nya) kepadamu. Lalu tanda-tanda (kebesaran) Allah yang mana yang kamu ingkari?",
+  "footnotes": ""
 }

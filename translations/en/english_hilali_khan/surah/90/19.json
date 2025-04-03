@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6042",
-    "sura": "90",
-    "aya": "19",
-    "arabic_text": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
-    "translation": " 19. But those who disbelieved in Our Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.), they are those on the Left Hand (the dwellers of Hell).",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 594,
+  "verse_key": "90:19",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِنَا هُمۡ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+  "translation": " 19. But those who disbelieved in Our Ayât (proofs, evidence, verses, lessons, signs, revelations, etc.), they are those on the Left Hand (the dwellers of Hell).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2046",
-    "sura": "17",
-    "aya": "17",
-    "arabic_text": "وَكَمۡ أَهۡلَكۡنَا مِنَ ٱلۡقُرُونِ مِنۢ بَعۡدِ نُوحٖۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرَۢا بَصِيرٗا",
-    "translation": "Na kaumu ngapi tumeziangamiza baada ya Nuhu! Na Mola wako Mlezi anatosha kabisa kuwa ni Mwenye kuzijua na kuziona dhambi za waja wake.",
-    "footnotes": "Na kaumu nyingi zilizo kuja baada ya Nuhu tuliziangamiza kwa kuwaasi Manabii wao. Na yakutosha kuwa ni ishara ya Mola wako Mlezi kwamba Yeye ni Mjuzi wa kila kitu kama kilivyo, kwa ujuzi wa Mwenye kuona. Naye anazo khabari za dhambi za waja wake, na Mwenye kuziona. Hapana chochote katika vitendo vya waja wake asicho kijua, na Yeye atawalipa kama wanavyo stahiki."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 283,
+  "verse_key": "17:17",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَمۡ أَهۡلَكۡنَا مِنَ ٱلۡقُرُونِ مِنۢ بَعۡدِ نُوحٖۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرَۢا بَصِيرٗا",
+  "translation": "Na kaumu ngapi tumeziangamiza baada ya Nuhu! Na Mola wako Mlezi anatosha kabisa kuwa ni Mwenye kuzijua na kuziona dhambi za waja wake.",
+  "footnotes": "Na kaumu nyingi zilizo kuja baada ya Nuhu tuliziangamiza kwa kuwaasi Manabii wao. Na yakutosha kuwa ni ishara ya Mola wako Mlezi kwamba Yeye ni Mjuzi wa kila kitu kama kilivyo, kwa ujuzi wa Mwenye kuona. Naye anazo khabari za dhambi za waja wake, na Mwenye kuziona. Hapana chochote katika vitendo vya waja wake asicho kijua, na Yeye atawalipa kama wanavyo stahiki."
 }

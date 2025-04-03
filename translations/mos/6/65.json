@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "854",
-    "sura": "6",
-    "aya": "65",
-    "arabic_text": "قُلۡ هُوَ ٱلۡقَادِرُ عَلَىٰٓ أَن يَبۡعَثَ عَلَيۡكُمۡ عَذَابٗا مِّن فَوۡقِكُمۡ أَوۡ مِن تَحۡتِ أَرۡجُلِكُمۡ أَوۡ يَلۡبِسَكُمۡ شِيَعٗا وَيُذِيقَ بَعۡضَكُم بَأۡسَ بَعۡضٍۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ لَعَلَّهُمۡ يَفۡقَهُونَ",
-    "translation": "Yeele: \"Yẽ la tõogda, n na n tʋms namsg yãmb zugu, sẽn yi yãmb yĩngr wɛɛngẽ la y naoã tẽngre, maa A kẽes yõs-taab yãmb pʋgẽ n leems yãmb sãnda ne sãnda keelem. Ges Tõnd sẽn vẽnegd tagmasã to-to ninga, sãnd-sãnde b na fasme.",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 135,
+  "verse_key": "6:65",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 54,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هُوَ ٱلۡقَادِرُ عَلَىٰٓ أَن يَبۡعَثَ عَلَيۡكُمۡ عَذَابٗا مِّن فَوۡقِكُمۡ أَوۡ مِن تَحۡتِ أَرۡجُلِكُمۡ أَوۡ يَلۡبِسَكُمۡ شِيَعٗا وَيُذِيقَ بَعۡضَكُم بَأۡسَ بَعۡضٍۗ ٱنظُرۡ كَيۡفَ نُصَرِّفُ ٱلۡأٓيَٰتِ لَعَلَّهُمۡ يَفۡقَهُونَ",
+  "translation": "Yeele: \"Yẽ la tõogda, n na n tʋms namsg yãmb zugu, sẽn yi yãmb yĩngr wɛɛngẽ la y naoã tẽngre, maa A kẽes yõs-taab yãmb pʋgẽ n leems yãmb sãnda ne sãnda keelem. Ges Tõnd sẽn vẽnegd tagmasã to-to ninga, sãnd-sãnde b na fasme.",
+  "footnotes": ""
 }

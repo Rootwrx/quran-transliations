@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "643",
-    "sura": "4",
-    "aya": "150",
-    "arabic_text": "إِنَّ ٱلَّذِينَ يَكۡفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُواْ بَيۡنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤۡمِنُ بِبَعۡضٖ وَنَكۡفُرُ بِبَعۡضٖ وَيُرِيدُونَ أَن يَتَّخِذُواْ بَيۡنَ ذَٰلِكَ سَبِيلًا",
-    "translation": "Lalle ne, waɗanda uke kãfirta da Allah da ManzonSa kuma sunã nufin su rarrabe* a tsakãnin Allah da manzanninSa, kuma sunã cẽwa: \"Munã ĩmãni da sãshe, kuma munã kãfirta da sãshe.\" Kuma sunã nufin su riƙi hanya a tsakãnin wannan.",
-    "footnotes": "* Rarrabewa tsakãnin Allah da ManzanninSa, shi ne mutum ya ce ga misãli, \"Na yarda Allah gaskiya ne, zan yi duka abin da yake mai kyau saboda Shi, amma bãbu ruwãna da wani Annabi kõ wani manzõ,\" ko kuma ya ce ai duk addĩnai ɗaya ne, ana nufin Allah da su, sai mutum ya bi abin da ya ga dama. Duka irin waɗannan maganganu bã su da kyau, kãfirci ne."
-  }
+  "id": 150,
+  "verse_number": 150,
+  "page_number": 102,
+  "verse_key": "4:150",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ يَكۡفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُواْ بَيۡنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤۡمِنُ بِبَعۡضٖ وَنَكۡفُرُ بِبَعۡضٖ وَيُرِيدُونَ أَن يَتَّخِذُواْ بَيۡنَ ذَٰلِكَ سَبِيلًا",
+  "translation": "Lalle ne, waɗanda uke kãfirta da Allah da ManzonSa kuma sunã nufin su rarrabe* a tsakãnin Allah da manzanninSa, kuma sunã cẽwa: \"Munã ĩmãni da sãshe, kuma munã kãfirta da sãshe.\" Kuma sunã nufin su riƙi hanya a tsakãnin wannan.",
+  "footnotes": "* Rarrabewa tsakãnin Allah da ManzanninSa, shi ne mutum ya ce ga misãli, \"Na yarda Allah gaskiya ne, zan yi duka abin da yake mai kyau saboda Shi, amma bãbu ruwãna da wani Annabi kõ wani manzõ,\" ko kuma ya ce ai duk addĩnai ɗaya ne, ana nufin Allah da su, sai mutum ya bi abin da ya ga dama. Duka irin waɗannan maganganu bã su da kyau, kãfirci ne."
 }

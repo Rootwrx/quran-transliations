@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6080",
-    "sura": "93",
-    "aya": "1",
-    "arabic_text": "وَٱلضُّحَىٰ",
-    "translation": "قسم دی پر وخت د څاښت باندې.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 596,
+  "verse_key": "93:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلضُّحَىٰ",
+  "translation": "قسم دی پر وخت د څاښت باندې.",
+  "footnotes": ""
 }

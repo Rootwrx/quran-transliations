@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1549",
-    "sura": "11",
-    "aya": "76",
-    "arabic_text": "يَٰٓإِبۡرَٰهِيمُ أَعۡرِضۡ عَنۡ هَٰذَآۖ إِنَّهُۥ قَدۡ جَآءَ أَمۡرُ رَبِّكَۖ وَإِنَّهُمۡ ءَاتِيهِمۡ عَذَابٌ غَيۡرُ مَرۡدُودٖ",
-    "translation": "(Các Thiên Thần nói với Ibrahim): “Này Ibrahim, Ngươi hãy từ bỏ việc này - (việc cầu xin cho đám dân của Lut), bởi lệnh (trừng phạt) của Thượng Đế của Ngươi đã được ban hành, chúng chắc chắn sẽ phải chịu sự trừng phạt, không thể nào tránh khỏi.”",
-    "footnotes": ""
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 230,
+  "verse_key": "11:76",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓإِبۡرَٰهِيمُ أَعۡرِضۡ عَنۡ هَٰذَآۖ إِنَّهُۥ قَدۡ جَآءَ أَمۡرُ رَبِّكَۖ وَإِنَّهُمۡ ءَاتِيهِمۡ عَذَابٌ غَيۡرُ مَرۡدُودٖ",
+  "translation": "(Các Thiên Thần nói với Ibrahim): “Này Ibrahim, Ngươi hãy từ bỏ việc này - (việc cầu xin cho đám dân của Lut), bởi lệnh (trừng phạt) của Thượng Đế của Ngươi đã được ban hành, chúng chắc chắn sẽ phải chịu sự trừng phạt, không thể nào tránh khỏi.”",
+  "footnotes": ""
 }

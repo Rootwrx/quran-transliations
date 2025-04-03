@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2723",
-    "sura": "23",
-    "aya": "50",
-    "arabic_text": "وَجَعَلۡنَا ٱبۡنَ مَرۡيَمَ وَأُمَّهُۥٓ ءَايَةٗ وَءَاوَيۡنَٰهُمَآ إِلَىٰ رَبۡوَةٖ ذَاتِ قَرَارٖ وَمَعِينٖ",
-    "translation": "A ṣe ọmọ Mọryam àti ìyá rẹ̀ ní àmì kan. A sì ṣe ibùgbé fún àwọn méjèèjì sí ibi gíga kan, tó ní ibùgbé, tó sì ní omi ìṣẹ́lẹ̀rú.[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-’Anbiyā’ 21;91"
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 345,
+  "verse_key": "23:50",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلۡنَا ٱبۡنَ مَرۡيَمَ وَأُمَّهُۥٓ ءَايَةٗ وَءَاوَيۡنَٰهُمَآ إِلَىٰ رَبۡوَةٖ ذَاتِ قَرَارٖ وَمَعِينٖ",
+  "translation": "A ṣe ọmọ Mọryam àti ìyá rẹ̀ ní àmì kan. A sì ṣe ibùgbé fún àwọn méjèèjì sí ibi gíga kan, tó ní ibùgbé, tó sì ní omi ìṣẹ́lẹ̀rú.[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-’Anbiyā’ 21;91"
 }

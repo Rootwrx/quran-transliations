@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1369",
-    "sura": "10",
-    "aya": "5",
-    "arabic_text": "هُوَ ٱلَّذِي جَعَلَ ٱلشَّمۡسَ ضِيَآءٗ وَٱلۡقَمَرَ نُورٗا وَقَدَّرَهُۥ مَنَازِلَ لِتَعۡلَمُواْ عَدَدَ ٱلسِّنِينَ وَٱلۡحِسَابَۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلۡحَقِّۚ يُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ",
-    "translation": "Yaa Yẽ la sẽn naan wĩndgã t'a yaa bugmã la a maan kiuugã t'a yaa vẽenemã la A kord-a t'a tar sigb zĩis sẽn na yɩl n tɩ yãmb bãng yʋʋmã sõor la geelgo. A pa maan woto tɩ sã n pa sɩd yĩng ye. A welgda tagmas-rãmbã n kõt neb nins sẽn tar bãngrã.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 208,
+  "verse_key": "10:5",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي جَعَلَ ٱلشَّمۡسَ ضِيَآءٗ وَٱلۡقَمَرَ نُورٗا وَقَدَّرَهُۥ مَنَازِلَ لِتَعۡلَمُواْ عَدَدَ ٱلسِّنِينَ وَٱلۡحِسَابَۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلۡحَقِّۚ يُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ",
+  "translation": "Yaa Yẽ la sẽn naan wĩndgã t'a yaa bugmã la a maan kiuugã t'a yaa vẽenemã la A kord-a t'a tar sigb zĩis sẽn na yɩl n tɩ yãmb bãng yʋʋmã sõor la geelgo. A pa maan woto tɩ sã n pa sɩd yĩng ye. A welgda tagmas-rãmbã n kõt neb nins sẽn tar bãngrã.",
+  "footnotes": ""
 }

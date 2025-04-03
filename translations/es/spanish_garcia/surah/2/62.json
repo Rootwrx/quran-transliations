@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "69",
-    "sura": "2",
-    "aya": "62",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "62. Quienes creyeron[1], los judíos, los cristianos y los sabeos[2] que hayan tenido fe en Dios, en el Día del Juicio Final y hayan obrado correctamente, obtendrán su recompensa junto a su Señor, y no habrán de sentir temor ni tristeza[3].",
-    "footnotes": "[1] Los que fueron creyentes en los Mensajes que trajeron los profetas anteriores a Moisés.\n[2] Los sabeos son monoteístas que vivieron antes de los primeros judíos y cristianos, o los monoteístas que no seguían una religión en particular.\n[3] Hasta antes de la llegada del último Profeta, ya que luego de la venida de Mujámmad r Dios no aceptará otra religión que el Islam, como se menciona en el Corán (3:85)."
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 10,
+  "verse_key": "2:62",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "62. Quienes creyeron[1], los judíos, los cristianos y los sabeos[2] que hayan tenido fe en Dios, en el Día del Juicio Final y hayan obrado correctamente, obtendrán su recompensa junto a su Señor, y no habrán de sentir temor ni tristeza[3].",
+  "footnotes": "[1] Los que fueron creyentes en los Mensajes que trajeron los profetas anteriores a Moisés.\n[2] Los sabeos son monoteístas que vivieron antes de los primeros judíos y cristianos, o los monoteístas que no seguían una religión en particular.\n[3] Hasta antes de la llegada del último Profeta, ya que luego de la venida de Mujámmad r Dios no aceptará otra religión que el Islam, como se menciona en el Corán (3:85)."
 }

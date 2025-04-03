@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5053",
-    "sura": "56",
-    "aya": "74",
-    "arabic_text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
-    "translation": "Glorifie donc le nom de ton Seigneur, le Très Grand !",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 536,
+  "verse_key": "56:74",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ",
+  "translation": "Glorifie donc le nom de ton Seigneur, le Très Grand !",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2907",
-    "sura": "25",
-    "aya": "52",
-    "arabic_text": "فَلَا تُطِعِ ٱلۡكَٰفِرِينَ وَجَٰهِدۡهُم بِهِۦ جِهَادٗا كَبِيرٗا",
-    "translation": "Basi usiwat'ii makafiri. Na pambana nao kwayo kwa Jihadi kubwa.",
-    "footnotes": "Na endelea na kulingania kwako kwa Haki, na kufikisha Ujumbe wa Mola wako Mlezi. Na wao wakiupinga wito wako, na wakawavamia Waumini basi wapige vita, na kwa hayo pigana Jihadi kubwa."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 364,
+  "verse_key": "25:52",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا تُطِعِ ٱلۡكَٰفِرِينَ وَجَٰهِدۡهُم بِهِۦ جِهَادٗا كَبِيرٗا",
+  "translation": "Basi usiwat'ii makafiri. Na pambana nao kwayo kwa Jihadi kubwa.",
+  "footnotes": "Na endelea na kulingania kwako kwa Haki, na kufikisha Ujumbe wa Mola wako Mlezi. Na wao wakiupinga wito wako, na wakawavamia Waumini basi wapige vita, na kwa hayo pigana Jihadi kubwa."
 }

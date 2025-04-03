@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3566",
-    "sura": "33",
-    "aya": "33",
-    "arabic_text": "وَقَرۡنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجۡنَ تَبَرُّجَ ٱلۡجَٰهِلِيَّةِ ٱلۡأُولَىٰۖ وَأَقِمۡنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعۡنَ ٱللَّهَ وَرَسُولَهُۥٓۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذۡهِبَ عَنكُمُ ٱلرِّجۡسَ أَهۡلَ ٱلۡبَيۡتِ وَيُطَهِّرَكُمۡ تَطۡهِيرٗا",
-    "translation": "33. [Preferiblemente] permanezcan en sus casas, [y cuando salgan] no se exhiban provocativamente como lo hacían [las mujeres] en tiempos del paganismo preislámico, y hagan la oración, paguen el zakat y obedezcan a Dios y a Su Mensajero. Dios quiere apartar de ustedes todo pecado, ¡oh, familia del Profeta!, y purificarlos[1].",
-    "footnotes": "[1] En esta frase, en idioma árabe puede observarse una transición del pronombre femenino al masculino sobre el final, ya que el pronombre masculino en este idioma incluye ambos sexos, siendo el objetivo incluir a todos los miembros de la casa del Profeta, y no solamente a sus esposas, como sus nietos Al-Hasan y Al-Husain, entre otros."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 422,
+  "verse_key": "33:33",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَرۡنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجۡنَ تَبَرُّجَ ٱلۡجَٰهِلِيَّةِ ٱلۡأُولَىٰۖ وَأَقِمۡنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعۡنَ ٱللَّهَ وَرَسُولَهُۥٓۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذۡهِبَ عَنكُمُ ٱلرِّجۡسَ أَهۡلَ ٱلۡبَيۡتِ وَيُطَهِّرَكُمۡ تَطۡهِيرٗا",
+  "translation": "33. [Preferiblemente] permanezcan en sus casas, [y cuando salgan] no se exhiban provocativamente como lo hacían [las mujeres] en tiempos del paganismo preislámico, y hagan la oración, paguen el zakat y obedezcan a Dios y a Su Mensajero. Dios quiere apartar de ustedes todo pecado, ¡oh, familia del Profeta!, y purificarlos[1].",
+  "footnotes": "[1] En esta frase, en idioma árabe puede observarse una transición del pronombre femenino al masculino sobre el final, ya que el pronombre masculino en este idioma incluye ambos sexos, siendo el objetivo incluir a todos los miembros de la casa del Profeta, y no solamente a sus esposas, como sus nietos Al-Hasan y Al-Husain, entre otros."
 }

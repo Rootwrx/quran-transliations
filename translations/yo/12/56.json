@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1652",
-    "sura": "12",
-    "aya": "56",
-    "arabic_text": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي ٱلۡأَرۡضِ يَتَبَوَّأُ مِنۡهَا حَيۡثُ يَشَآءُۚ نُصِيبُ بِرَحۡمَتِنَا مَن نَّشَآءُۖ وَلَا نُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
-    "translation": "Báyẹn ni A ṣe fún Yūsuf ní ipò àti ibùgbé lórí ilẹ̀. Ó sì ń gbé ní ibi tí ó bá fẹ́. Àwa ń mú ìkẹ́ Wa bá ẹnikẹ́ni tí A bá fẹ́. A ò sì níí fi ẹ̀san àwọn olùṣe-rere ráre.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 242,
+  "verse_key": "12:56",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي ٱلۡأَرۡضِ يَتَبَوَّأُ مِنۡهَا حَيۡثُ يَشَآءُۚ نُصِيبُ بِرَحۡمَتِنَا مَن نَّشَآءُۖ وَلَا نُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+  "translation": "Báyẹn ni A ṣe fún Yūsuf ní ipò àti ibùgbé lórí ilẹ̀. Ó sì ń gbé ní ibi tí ó bá fẹ́. Àwa ń mú ìkẹ́ Wa bá ẹnikẹ́ni tí A bá fẹ́. A ò sì níí fi ẹ̀san àwọn olùṣe-rere ráre.",
+  "footnotes": ""
 }

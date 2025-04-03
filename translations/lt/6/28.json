@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "817",
-    "sura": "6",
-    "aya": "28",
-    "arabic_text": "بَلۡ بَدَا لَهُم مَّا كَانُواْ يُخۡفُونَ مِن قَبۡلُۖ وَلَوۡ رُدُّواْ لَعَادُواْ لِمَا نُهُواْ عَنۡهُ وَإِنَّهُمۡ لَكَٰذِبُونَ",
-    "translation": "28. Ne, jiems tapo akivaizdu tai, ką jie prieš tai slėpė. Tačiau jei jie būtų grąžinti (į žemę), jie be abejonės sugrįžtų į tai, kas jiems buvo draudžiama. Ir iš tiesų, jie yra melagiai.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 131,
+  "verse_key": "6:28",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ بَدَا لَهُم مَّا كَانُواْ يُخۡفُونَ مِن قَبۡلُۖ وَلَوۡ رُدُّواْ لَعَادُواْ لِمَا نُهُواْ عَنۡهُ وَإِنَّهُمۡ لَكَٰذِبُونَ",
+  "translation": "28. Ne, jiems tapo akivaizdu tai, ką jie prieš tai slėpė. Tačiau jei jie būtų grąžinti (į žemę), jie be abejonės sugrįžtų į tai, kas jiems buvo draudžiama. Ir iš tiesų, jie yra melagiai.",
+  "footnotes": ""
 }

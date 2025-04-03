@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5987",
-    "sura": "88",
-    "aya": "20",
-    "arabic_text": "وَإِلَى ٱلۡأَرۡضِ كَيۡفَ سُطِحَتۡ",
-    "translation": "20. En naar de aarde, hoe zij is uitgespreid?",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 592,
+  "verse_key": "88:20",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِلَى ٱلۡأَرۡضِ كَيۡفَ سُطِحَتۡ",
+  "translation": "20. En naar de aarde, hoe zij is uitgespreid?",
+  "footnotes": ""
 }

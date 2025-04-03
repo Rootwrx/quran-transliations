@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2772",
-    "sura": "23",
-    "aya": "99",
-    "arabic_text": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ رَبِّ ٱرۡجِعُونِ",
-    "translation": "Rồi đến khi một trong số họ đối diện với cái chết, y mới van nài kêu xin: “Lạy Thượng Đế của bề tôi, xin Ngài hãy cho bề tôi được quay lại (trần gian)!”",
-    "footnotes": ""
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 348,
+  "verse_key": "23:99",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا جَآءَ أَحَدَهُمُ ٱلۡمَوۡتُ قَالَ رَبِّ ٱرۡجِعُونِ",
+  "translation": "Rồi đến khi một trong số họ đối diện với cái chết, y mới van nài kêu xin: “Lạy Thượng Đế của bề tôi, xin Ngài hãy cho bề tôi được quay lại (trần gian)!”",
+  "footnotes": ""
 }

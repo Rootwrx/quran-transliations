@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4627",
-    "sura": "49",
-    "aya": "15",
-    "arabic_text": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمۡ يَرۡتَابُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِۚ أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
-    "translation": "15. Los verdaderos creyentes son quienes creen en Dios y en Su Mensajero, y luego no vacilan; quienes luchan por la causa de Dios con sus bienes materiales y sus personas. Esos son los sinceros[1].",
-    "footnotes": "[1] En la fe."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 517,
+  "verse_key": "49:15",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمۡ يَرۡتَابُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِۚ أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+  "translation": "15. Los verdaderos creyentes son quienes creen en Dios y en Su Mensajero, y luego no vacilan; quienes luchan por la causa de Dios con sus bienes materiales y sus personas. Esos son los sinceros[1].",
+  "footnotes": "[1] En la fe."
 }

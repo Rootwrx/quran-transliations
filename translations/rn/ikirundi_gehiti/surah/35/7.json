@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3667",
-    "sura": "35",
-    "aya": "7",
-    "arabic_text": "ٱلَّذِينَ كَفَرُواْ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٌ",
-    "translation": "Abahakanye bivuye inyuma ko Imana Allah ari Imwe Rudende, bagahakana n’ivyo bashikirijwe n’Intumwa, barategekanirijwe ibihano bikaze mu buzima bw’inyuma yo gupfa. Nayo abemeye Imana Allah n’Intumwa yayo bakanakora n’ivyiza bitegetswe, bazogumirizwa akabanga ku vyaha vyabo, baheze bababarirwe mu buzima bw’inyuma yo gupfa, bazonaronka n’impano nta ngere kandi zamaho mu Bwami bw’ijuru.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 435,
+  "verse_key": "35:7",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ كَفَرُواْ لَهُمۡ عَذَابٞ شَدِيدٞۖ وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُم مَّغۡفِرَةٞ وَأَجۡرٞ كَبِيرٌ",
+  "translation": "Abahakanye bivuye inyuma ko Imana Allah ari Imwe Rudende, bagahakana n’ivyo bashikirijwe n’Intumwa, barategekanirijwe ibihano bikaze mu buzima bw’inyuma yo gupfa. Nayo abemeye Imana Allah n’Intumwa yayo bakanakora n’ivyiza bitegetswe, bazogumirizwa akabanga ku vyaha vyabo, baheze bababarirwe mu buzima bw’inyuma yo gupfa, bazonaronka n’impano nta ngere kandi zamaho mu Bwami bw’ijuru.",
+  "footnotes": ""
 }

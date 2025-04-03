@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5281",
-    "sura": "68",
-    "aya": "10",
-    "arabic_text": "وَلَا تُطِعۡ كُلَّ حَلَّافٖ مَّهِينٍ",
-    "translation": "i ne slušaj nijednog krivokletnika, prezrena,",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 564,
+  "verse_key": "68:10",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تُطِعۡ كُلَّ حَلَّافٖ مَّهِينٍ",
+  "translation": "i ne slušaj nijednog krivokletnika, prezrena,",
+  "footnotes": ""
 }

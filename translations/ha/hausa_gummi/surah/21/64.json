@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2547",
-    "sura": "21",
-    "aya": "64",
-    "arabic_text": "فَرَجَعُوٓاْ إِلَىٰٓ أَنفُسِهِمۡ فَقَالُوٓاْ إِنَّكُمۡ أَنتُمُ ٱلظَّٰلِمُونَ",
-    "translation": "Sai suka kõma wa jũnansu suka ce: \"Lalle ne kũ, kũ ne azzãlumai.\"",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 327,
+  "verse_key": "21:64",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَرَجَعُوٓاْ إِلَىٰٓ أَنفُسِهِمۡ فَقَالُوٓاْ إِنَّكُمۡ أَنتُمُ ٱلظَّٰلِمُونَ",
+  "translation": "Sai suka kõma wa jũnansu suka ce: \"Lalle ne kũ, kũ ne azzãlumai.\"",
+  "footnotes": ""
 }

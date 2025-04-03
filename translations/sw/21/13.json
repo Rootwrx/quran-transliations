@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2496",
-    "sura": "21",
-    "aya": "13",
-    "arabic_text": "لَا تَرۡكُضُواْ وَٱرۡجِعُوٓاْ إِلَىٰ مَآ أُتۡرِفۡتُمۡ فِيهِ وَمَسَٰكِنِكُمۡ لَعَلَّكُمۡ تُسۡـَٔلُونَ",
-    "translation": "Msikimbie! Na rejeeni kwenye zile zile starehe zenu, na maskani zenu, mpate kusailiwa!",
-    "footnotes": "Enyi wapinzani! Msikimbie! Hapana kitu chochote kitacho kulindeni na adhabu ya Mwenyezi Mungu. Rudini kwenye zile zile neema na majumba mliyo kuwa nayo, huenda watumishi wenu na wenzenu watakutakeni msaada na rai kama ilivyo kuwa ada yenu. Wapi! Hamtoweza!"
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 323,
+  "verse_key": "21:13",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا تَرۡكُضُواْ وَٱرۡجِعُوٓاْ إِلَىٰ مَآ أُتۡرِفۡتُمۡ فِيهِ وَمَسَٰكِنِكُمۡ لَعَلَّكُمۡ تُسۡـَٔلُونَ",
+  "translation": "Msikimbie! Na rejeeni kwenye zile zile starehe zenu, na maskani zenu, mpate kusailiwa!",
+  "footnotes": "Enyi wapinzani! Msikimbie! Hapana kitu chochote kitacho kulindeni na adhabu ya Mwenyezi Mungu. Rudini kwenye zile zile neema na majumba mliyo kuwa nayo, huenda watumishi wenu na wenzenu watakutakeni msaada na rai kama ilivyo kuwa ada yenu. Wapi! Hamtoweza!"
 }

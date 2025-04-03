@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1341",
-    "sura": "9",
-    "aya": "106",
-    "arabic_text": "وَءَاخَرُونَ مُرۡجَوۡنَ لِأَمۡرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمۡ وَإِمَّا يَتُوبُ عَلَيۡهِمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
-    "translation": "Et d’autres  sont laissés dans l’attente de la décision d’Allah, soit qu’Il les punisse, soit qu’Il leur pardonne. Et Allah est Omniscient et Sage.",
-    "footnotes": "[396] D’autres: Il s’agit des trois personnes qui n’ont pas participé à la bataille de Tabūk, non par hypocrisie, mais par paresse et à la recherche du repos."
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 203,
+  "verse_key": "9:106",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 81,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاخَرُونَ مُرۡجَوۡنَ لِأَمۡرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمۡ وَإِمَّا يَتُوبُ عَلَيۡهِمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
+  "translation": "Et d’autres  sont laissés dans l’attente de la décision d’Allah, soit qu’Il les punisse, soit qu’Il leur pardonne. Et Allah est Omniscient et Sage.",
+  "footnotes": "[396] D’autres: Il s’agit des trois personnes qui n’ont pas participé à la bataille de Tabūk, non par hypocrisie, mais par paresse et à la recherche du repos."
 }

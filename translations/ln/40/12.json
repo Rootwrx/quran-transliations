@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4145",
-    "sura": "40",
-    "aya": "12",
-    "arabic_text": "ذَٰلِكُم بِأَنَّهُۥٓ إِذَا دُعِيَ ٱللَّهُ وَحۡدَهُۥ كَفَرۡتُمۡ وَإِن يُشۡرَكۡ بِهِۦ تُؤۡمِنُواْۚ فَٱلۡحُكۡمُ لِلَّهِ ٱلۡعَلِيِّ ٱلۡكَبِيرِ",
-    "translation": "12. Bozalaki soki (nkombo) ya Allah ebengami na bomoko bwa ye, bozali koboya kondima, mpe soki basangisi ye (Allah) bondimi, mobeko ya kokata likambo ezali ya Allah, wa likolo azali monene.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 468,
+  "verse_key": "40:12",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكُم بِأَنَّهُۥٓ إِذَا دُعِيَ ٱللَّهُ وَحۡدَهُۥ كَفَرۡتُمۡ وَإِن يُشۡرَكۡ بِهِۦ تُؤۡمِنُواْۚ فَٱلۡحُكۡمُ لِلَّهِ ٱلۡعَلِيِّ ٱلۡكَبِيرِ",
+  "translation": "12. Bozalaki soki (nkombo) ya Allah ebengami na bomoko bwa ye, bozali koboya kondima, mpe soki basangisi ye (Allah) bondimi, mobeko ya kokata likambo ezali ya Allah, wa likolo azali monene.",
+  "footnotes": ""
 }

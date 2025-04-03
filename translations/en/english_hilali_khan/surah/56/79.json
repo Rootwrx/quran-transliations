@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5058",
-    "sura": "56",
-    "aya": "79",
-    "arabic_text": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
-    "translation": " 79. Which (that Book with Allâh) none can touch but the purified (i.e. the angels).",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 537,
+  "verse_key": "56:79",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَمَسُّهُۥٓ إِلَّا ٱلۡمُطَهَّرُونَ",
+  "translation": " 79. Which (that Book with Allâh) none can touch but the purified (i.e. the angels).",
+  "footnotes": ""
 }

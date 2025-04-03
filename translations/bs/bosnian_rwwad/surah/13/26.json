@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1733",
-    "sura": "13",
-    "aya": "26",
-    "arabic_text": "ٱللَّهُ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ وَفَرِحُواْ بِٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا فِي ٱلۡأٓخِرَةِ إِلَّا مَتَٰعٞ",
-    "translation": "Kome hoće, Allah daje opskrbu u obilju, i uskraćuje. Oni se raduju životu na ovom svijetu, a život na ovom svijetu prema onome samo je prolazno uživanje.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 252,
+  "verse_key": "13:26",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُۚ وَفَرِحُواْ بِٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَمَا ٱلۡحَيَوٰةُ ٱلدُّنۡيَا فِي ٱلۡأٓخِرَةِ إِلَّا مَتَٰعٞ",
+  "translation": "Kome hoće, Allah daje opskrbu u obilju, i uskraćuje. Oni se raduju životu na ovom svijetu, a život na ovom svijetu prema onome samo je prolazno uživanje.",
+  "footnotes": ""
 }

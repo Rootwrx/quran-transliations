@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3910",
-    "sura": "37",
-    "aya": "122",
-    "arabic_text": "إِنَّهُمَا مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِينَ",
-    "translation": "ሁለቱም በእርግጥ ከአመኑት ባሮቻችን ናቸው፡፡",
-    "footnotes": ""
-  }
+  "id": 122,
+  "verse_number": 122,
+  "page_number": 450,
+  "verse_key": "37:122",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُمَا مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِينَ",
+  "translation": "ሁለቱም በእርግጥ ከአመኑት ባሮቻችን ናቸው፡፡",
+  "footnotes": ""
 }

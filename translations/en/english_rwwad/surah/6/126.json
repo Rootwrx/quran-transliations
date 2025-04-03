@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "915",
-    "sura": "6",
-    "aya": "126",
-    "arabic_text": "وَهَٰذَا صِرَٰطُ رَبِّكَ مُسۡتَقِيمٗاۗ قَدۡ فَصَّلۡنَا ٱلۡأٓيَٰتِ لِقَوۡمٖ يَذَّكَّرُونَ",
-    "translation": "This is the straight path of your Lord. We have made the verses clear for people who take heed.",
-    "footnotes": ""
-  }
+  "id": 126,
+  "verse_number": 126,
+  "page_number": 144,
+  "verse_key": "6:126",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهَٰذَا صِرَٰطُ رَبِّكَ مُسۡتَقِيمٗاۗ قَدۡ فَصَّلۡنَا ٱلۡأٓيَٰتِ لِقَوۡمٖ يَذَّكَّرُونَ",
+  "translation": "This is the straight path of your Lord. We have made the verses clear for people who take heed.",
+  "footnotes": ""
 }

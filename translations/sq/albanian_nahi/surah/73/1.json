@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5476",
-    "sura": "73",
-    "aya": "1",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلۡمُزَّمِّلُ",
-    "translation": "O ti i mbuluar (o Muhamed)!",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 574,
+  "verse_key": "73:1",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلۡمُزَّمِّلُ",
+  "translation": "O ti i mbuluar (o Muhamed)!",
+  "footnotes": ""
 }

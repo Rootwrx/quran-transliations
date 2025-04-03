@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4484",
-    "sura": "45",
-    "aya": "11",
-    "arabic_text": "هَٰذَا هُدٗىۖ وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ رَبِّهِمۡ لَهُمۡ عَذَابٞ مِّن رِّجۡزٍ أَلِيمٌ",
-    "translation": "İşte bu Kur'an bir hidayettir. Rablerinin âyetlerini inkâr edenlere gelince, onlara en kötüsünden, elem verici bir azap vardır.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 499,
+  "verse_key": "45:11",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا هُدٗىۖ وَٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ رَبِّهِمۡ لَهُمۡ عَذَابٞ مِّن رِّجۡزٍ أَلِيمٌ",
+  "translation": "İşte bu Kur'an bir hidayettir. Rablerinin âyetlerini inkâr edenlere gelince, onlara en kötüsünden, elem verici bir azap vardır.",
+  "footnotes": ""
 }

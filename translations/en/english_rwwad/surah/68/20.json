@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5291",
-    "sura": "68",
-    "aya": "20",
-    "arabic_text": "فَأَصۡبَحَتۡ كَٱلصَّرِيمِ",
-    "translation": "and it turned to ashes [as black as night].",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 565,
+  "verse_key": "68:20",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَصۡبَحَتۡ كَٱلصَّرِيمِ",
+  "translation": "and it turned to ashes [as black as night].",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4779",
-    "sura": "52",
-    "aya": "44",
-    "arabic_text": "وَإِن يَرَوۡاْ كِسۡفٗا مِّنَ ٱلسَّمَآءِ سَاقِطٗا يَقُولُواْ سَحَابٞ مَّرۡكُومٞ",
-    "translation": "Edhe sikur të shihnin se po bie një copë nga qielli, ata do të thoshin: “Është veç një grumbull resh”!",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 525,
+  "verse_key": "52:44",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يَرَوۡاْ كِسۡفٗا مِّنَ ٱلسَّمَآءِ سَاقِطٗا يَقُولُواْ سَحَابٞ مَّرۡكُومٞ",
+  "translation": "Edhe sikur të shihnin se po bie një copë nga qielli, ata do të thoshin: “Është veç një grumbull resh”!",
+  "footnotes": ""
 }

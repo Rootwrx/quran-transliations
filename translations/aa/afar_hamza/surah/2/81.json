@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "88",
-    "sura": "2",
-    "aya": "81",
-    "arabic_text": "بَلَىٰۚ مَن كَسَبَ سَيِّئَةٗ وَأَحَٰطَتۡ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
-    "translation": "81. Yeey! isin (yahuud kinnuk) kah ittan inna hinnay gira sin xagele, le umaanc koroosannut kafissi hayteeh le dambi maro edde hee mari, toysa woo mari girâ maraay usun umman teetil waaran.",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 12,
+  "verse_key": "2:81",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلَىٰۚ مَن كَسَبَ سَيِّئَةٗ وَأَحَٰطَتۡ بِهِۦ خَطِيٓـَٔتُهُۥ فَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+  "translation": "81. Yeey! isin (yahuud kinnuk) kah ittan inna hinnay gira sin xagele, le umaanc koroosannut kafissi hayteeh le dambi maro edde hee mari, toysa woo mari girâ maraay usun umman teetil waaran.",
+  "footnotes": ""
 }

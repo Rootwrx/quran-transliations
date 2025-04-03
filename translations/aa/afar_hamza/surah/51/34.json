@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4709",
-    "sura": "51",
-    "aya": "34",
-    "arabic_text": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ",
-    "translation": "34. Asta le xeetiy ku Rabbih xaqul umaanet caddok tatre marah massoysime kinni.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 522,
+  "verse_key": "51:34",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مُّسَوَّمَةً عِندَ رَبِّكَ لِلۡمُسۡرِفِينَ",
+  "translation": "34. Asta le xeetiy ku Rabbih xaqul umaanet caddok tatre marah massoysime kinni.",
+  "footnotes": ""
 }

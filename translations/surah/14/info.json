@@ -1,0 +1,27 @@
+{
+  "number": 14,
+  "name": {
+    "ar": "إبراهيم",
+    "en": "Abraham",
+    "transliteration": "Ibrahim"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 72,
+  "bismillah_pre": true,
+  "verses_count": 52,
+  "words_count": 831,
+  "letters_count": 3461,
+  "pages": [
+    255,
+    261
+  ],
+  "name_simple": "Ibrahim",
+  "name_complex": "Ibrāhīm",
+  "name_arabic": "ابراهيم",
+  "translated_name": "Abraham",
+  "start_page": 255,
+  "end_page": 261
+}

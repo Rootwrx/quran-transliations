@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4789",
-    "sura": "53",
-    "aya": "5",
-    "arabic_text": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
-    "translation": "ശക്തിമത്തായ കഴിവുള്ളവനാണ് (ജിബ്‌രീല്‍ എന്ന മലക്കാണ്‌) അദ്ദേഹത്തെ പഠിപ്പിച്ചിട്ടുള്ളത്‌.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 526,
+  "verse_key": "53:5",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
+  "translation": "ശക്തിമത്തായ കഴിവുള്ളവനാണ് (ജിബ്‌രീല്‍ എന്ന മലക്കാണ്‌) അദ്ദേഹത്തെ പഠിപ്പിച്ചിട്ടുള്ളത്‌.",
+  "footnotes": ""
 }

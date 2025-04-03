@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6151",
-    "sura": "100",
-    "aya": "5",
-    "arabic_text": "فَوَسَطۡنَ بِهِۦ جَمۡعًا",
-    "translation": "ஆக, அதி(காலையி)ல் (எதிரிகளின்) கூட்டத்திற்கு நடுவில் நுழைந்தன.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 599,
+  "verse_key": "100:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَسَطۡنَ بِهِۦ جَمۡعًا",
+  "translation": "ஆக, அதி(காலையி)ல் (எதிரிகளின்) கூட்டத்திற்கு நடுவில் நுழைந்தன.",
+  "footnotes": ""
 }

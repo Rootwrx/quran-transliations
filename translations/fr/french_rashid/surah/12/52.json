@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1648",
-    "sura": "12",
-    "aya": "52",
-    "arabic_text": "ذَٰلِكَ لِيَعۡلَمَ أَنِّي لَمۡ أَخُنۡهُ بِٱلۡغَيۡبِ وَأَنَّ ٱللَّهَ لَا يَهۡدِي كَيۡدَ ٱلۡخَآئِنِينَ",
-    "translation": "52 J’affirme cela afin qu’il sache que je ne l’ai pas trahi en son absence[636] et parce que je sais qu’Allah n’assiste jamais les traîtres dans leur entreprise.",
-    "footnotes": "[636] Que je n’ai pas trahi Joseph par mes calomnies, selon certains commentateurs ou, que je n’ai pas trahi mon mari, en commettant l’adultère, selon d’autres."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 241,
+  "verse_key": "12:52",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ لِيَعۡلَمَ أَنِّي لَمۡ أَخُنۡهُ بِٱلۡغَيۡبِ وَأَنَّ ٱللَّهَ لَا يَهۡدِي كَيۡدَ ٱلۡخَآئِنِينَ",
+  "translation": "52 J’affirme cela afin qu’il sache que je ne l’ai pas trahi en son absence[636] et parce que je sais qu’Allah n’assiste jamais les traîtres dans leur entreprise.",
+  "footnotes": "[636] Que je n’ai pas trahi Joseph par mes calomnies, selon certains commentateurs ou, que je n’ai pas trahi mon mari, en commettant l’adultère, selon d’autres."
 }

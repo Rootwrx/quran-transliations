@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4494",
-    "sura": "45",
-    "aya": "21",
-    "arabic_text": "أَمۡ حَسِبَ ٱلَّذِينَ ٱجۡتَرَحُواْ ٱلسَّيِّـَٔاتِ أَن نَّجۡعَلَهُمۡ كَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ سَوَآءٗ مَّحۡيَاهُمۡ وَمَمَاتُهُمۡۚ سَآءَ مَا يَحۡكُمُونَ",
-    "translation": "Tàbí àwọn tó ń ṣe iṣẹ́ aburú lérò pé A máa ṣe wọ́n gẹ́gẹ́ bí (A ti ṣe) àwọn tó gbàgbọ́ ní òdodo, tí wọ́n sì ṣe àwọn iṣẹ́ rere, kí ìṣẹ́mí ayé wọn àti ikú wọn rí bákan náà? Ohun tí wọ́n ń dá ní ẹjọ́, ó burú.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 500,
+  "verse_key": "45:21",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ حَسِبَ ٱلَّذِينَ ٱجۡتَرَحُواْ ٱلسَّيِّـَٔاتِ أَن نَّجۡعَلَهُمۡ كَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ سَوَآءٗ مَّحۡيَاهُمۡ وَمَمَاتُهُمۡۚ سَآءَ مَا يَحۡكُمُونَ",
+  "translation": "Tàbí àwọn tó ń ṣe iṣẹ́ aburú lérò pé A máa ṣe wọ́n gẹ́gẹ́ bí (A ti ṣe) àwọn tó gbàgbọ́ ní òdodo, tí wọ́n sì ṣe àwọn iṣẹ́ rere, kí ìṣẹ́mí ayé wọn àti ikú wọn rí bákan náà? Ohun tí wọ́n ń dá ní ẹjọ́, ó burú.",
+  "footnotes": ""
 }

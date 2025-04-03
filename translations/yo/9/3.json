@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1238",
-    "sura": "9",
-    "aya": "3",
-    "arabic_text": "وَأَذَٰنٞ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوۡمَ ٱلۡحَجِّ ٱلۡأَكۡبَرِ أَنَّ ٱللَّهَ بَرِيٓءٞ مِّنَ ٱلۡمُشۡرِكِينَ وَرَسُولُهُۥۚ فَإِن تُبۡتُمۡ فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَوَلَّيۡتُمۡ فَٱعۡلَمُوٓاْ أَنَّكُمۡ غَيۡرُ مُعۡجِزِي ٱللَّهِۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُواْ بِعَذَابٍ أَلِيمٍ",
-    "translation": "Ìkéde kan láti ọ̀dọ̀ Allāhu àti Òjíṣẹ́ Rẹ̀ sí àwọn ènìyàn ní ọjọ́ Hajj Ńlá[1] ni pé, “Dájúdájú Allāhu yọwọ́yọsẹ̀ (nínú ọ̀rọ̀) àwọn ọ̀ṣẹbọ. Òjíṣẹ́ Rẹ̀ náà (yọwọ́yọsẹ̀). Tí ẹ bá ronú pìwàdà, ó sì lóore jùlọ fún yín. Tí ẹ bá gbúnrí, ẹ mọ̀ pé dájúdájú ẹ kò lè móríbọ́ nínú (ìyà) Allāhu.” Kí o sì fún àwọn tó ṣàì gbàgbọ́ ní ìró ìyà ẹlẹ́ta-eléro.",
-    "footnotes": "1. Àgékúrú fún “Hajj Ńlá” ni “Hajj”. Ìdà kejì Hajj Ńlá ni Hajj Kékeré. Hajj Kékeré ni a tún mọ̀ sí ‘Umrah."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 187,
+  "verse_key": "9:3",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَذَٰنٞ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوۡمَ ٱلۡحَجِّ ٱلۡأَكۡبَرِ أَنَّ ٱللَّهَ بَرِيٓءٞ مِّنَ ٱلۡمُشۡرِكِينَ وَرَسُولُهُۥۚ فَإِن تُبۡتُمۡ فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَوَلَّيۡتُمۡ فَٱعۡلَمُوٓاْ أَنَّكُمۡ غَيۡرُ مُعۡجِزِي ٱللَّهِۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُواْ بِعَذَابٍ أَلِيمٍ",
+  "translation": "Ìkéde kan láti ọ̀dọ̀ Allāhu àti Òjíṣẹ́ Rẹ̀ sí àwọn ènìyàn ní ọjọ́ Hajj Ńlá[1] ni pé, “Dájúdájú Allāhu yọwọ́yọsẹ̀ (nínú ọ̀rọ̀) àwọn ọ̀ṣẹbọ. Òjíṣẹ́ Rẹ̀ náà (yọwọ́yọsẹ̀). Tí ẹ bá ronú pìwàdà, ó sì lóore jùlọ fún yín. Tí ẹ bá gbúnrí, ẹ mọ̀ pé dájúdájú ẹ kò lè móríbọ́ nínú (ìyà) Allāhu.” Kí o sì fún àwọn tó ṣàì gbàgbọ́ ní ìró ìyà ẹlẹ́ta-eléro.",
+  "footnotes": "1. Àgékúrú fún “Hajj Ńlá” ni “Hajj”. Ìdà kejì Hajj Ńlá ni Hajj Kékeré. Hajj Kékeré ni a tún mọ̀ sí ‘Umrah."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "319",
-    "sura": "3",
-    "aya": "26",
-    "arabic_text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Say, “O Allah, Lord of the dominion, You give dominion to whom You will and take it away from whom You will; You honor whom You will and humiliate whom You will. All good is in Your Hand. You are Most Capable of all things.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 53,
+  "verse_key": "3:26",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Say, “O Allah, Lord of the dominion, You give dominion to whom You will and take it away from whom You will; You honor whom You will and humiliate whom You will. All good is in Your Hand. You are Most Capable of all things.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "623",
-    "sura": "4",
-    "aya": "130",
-    "arabic_text": "وَإِن يَتَفَرَّقَا يُغۡنِ ٱللَّهُ كُلّٗا مِّن سَعَتِهِۦۚ وَكَانَ ٱللَّهُ وَٰسِعًا حَكِيمٗا",
-    "translation": "130. Et s’ils se séparent (les deux conjoints), Allah, de par Ses largesses, compensera à chacun ce qu’il aura perdu. Allah est Large et Sage.",
-    "footnotes": ""
-  }
+  "id": 130,
+  "verse_number": 130,
+  "page_number": 99,
+  "verse_key": "4:130",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يَتَفَرَّقَا يُغۡنِ ٱللَّهُ كُلّٗا مِّن سَعَتِهِۦۚ وَكَانَ ٱللَّهُ وَٰسِعًا حَكِيمٗا",
+  "translation": "130. Et s’ils se séparent (les deux conjoints), Allah, de par Ses largesses, compensera à chacun ce qu’il aura perdu. Allah est Large et Sage.",
+  "footnotes": ""
 }

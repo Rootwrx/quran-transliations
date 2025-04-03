@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1748",
-    "sura": "13",
-    "aya": "41",
-    "arabic_text": "أَوَلَمۡ يَرَوۡاْ أَنَّا نَأۡتِي ٱلۡأَرۡضَ نَنقُصُهَا مِنۡ أَطۡرَافِهَاۚ وَٱللَّهُ يَحۡكُمُ لَا مُعَقِّبَ لِحُكۡمِهِۦۚ وَهُوَ سَرِيعُ ٱلۡحِسَابِ",
-    "translation": "Bizim, yeryüzüne gelip, onu uçlarından eksilttiğimizi görmediler mi? Allah (dilediği gibi) hükmeder, O’nun hükmünü bozacak kimse yoktur. Ve O hesabı çabuk görendir.",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 254,
+  "verse_key": "13:41",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَلَمۡ يَرَوۡاْ أَنَّا نَأۡتِي ٱلۡأَرۡضَ نَنقُصُهَا مِنۡ أَطۡرَافِهَاۚ وَٱللَّهُ يَحۡكُمُ لَا مُعَقِّبَ لِحُكۡمِهِۦۚ وَهُوَ سَرِيعُ ٱلۡحِسَابِ",
+  "translation": "Bizim, yeryüzüne gelip, onu uçlarından eksilttiğimizi görmediler mi? Allah (dilediği gibi) hükmeder, O’nun hükmünü bozacak kimse yoktur. Ve O hesabı çabuk görendir.",
+  "footnotes": ""
 }

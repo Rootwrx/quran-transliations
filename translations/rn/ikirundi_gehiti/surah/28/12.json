@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3264",
-    "sura": "28",
-    "aya": "12",
-    "arabic_text": "۞ وَحَرَّمۡنَا عَلَيۡهِ ٱلۡمَرَاضِعَ مِن قَبۡلُ فَقَالَتۡ هَلۡ أَدُلُّكُمۡ عَلَىٰٓ أَهۡلِ بَيۡتٖ يَكۡفُلُونَهُۥ لَكُمۡ وَهُمۡ لَهُۥ نَٰصِحُونَ",
-    "translation": "Twebwe Allah, Twaraziririje ko Musa yonka ibere ry’uwo ari we wese mu bakenyezi, imbere yuko Tumusubiza kwa nyina. Ni ho rero mushikiwe yabwira abari ng’aho ati: “Mbega mwonkundira nkabarangira umuryango womwitaho ukamurera ukanamwonsa, ukanamuha impanuro za kivyeyi?”. Ba bantu bari ng’aho na bo baraheza baramwemerera ko yobarangira nya muryango.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 386,
+  "verse_key": "28:12",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَحَرَّمۡنَا عَلَيۡهِ ٱلۡمَرَاضِعَ مِن قَبۡلُ فَقَالَتۡ هَلۡ أَدُلُّكُمۡ عَلَىٰٓ أَهۡلِ بَيۡتٖ يَكۡفُلُونَهُۥ لَكُمۡ وَهُمۡ لَهُۥ نَٰصِحُونَ",
+  "translation": "Twebwe Allah, Twaraziririje ko Musa yonka ibere ry’uwo ari we wese mu bakenyezi, imbere yuko Tumusubiza kwa nyina. Ni ho rero mushikiwe yabwira abari ng’aho ati: “Mbega mwonkundira nkabarangira umuryango womwitaho ukamurera ukanamwonsa, ukanamuha impanuro za kivyeyi?”. Ba bantu bari ng’aho na bo baraheza baramwemerera ko yobarangira nya muryango.",
+  "footnotes": ""
 }

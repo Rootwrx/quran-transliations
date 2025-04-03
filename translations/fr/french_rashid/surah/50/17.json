@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4647",
-    "sura": "50",
-    "aya": "17",
-    "arabic_text": "إِذۡ يَتَلَقَّى ٱلۡمُتَلَقِّيَانِ عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٞ",
-    "translation": "17 au moment où les deux anges, l’un posté sur sa droite[1308], l’autre sur sa gauche[1309], recueillent ses moindres faits et gestes.",
-    "footnotes": "[1308] Chargé de consigner ses bonnes actions.\n[1309] Chargé d’inscrire ses mauvaises actions."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 519,
+  "verse_key": "50:17",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ يَتَلَقَّى ٱلۡمُتَلَقِّيَانِ عَنِ ٱلۡيَمِينِ وَعَنِ ٱلشِّمَالِ قَعِيدٞ",
+  "translation": "17 au moment où les deux anges, l’un posté sur sa droite[1308], l’autre sur sa gauche[1309], recueillent ses moindres faits et gestes.",
+  "footnotes": "[1308] Chargé de consigner ses bonnes actions.\n[1309] Chargé d’inscrire ses mauvaises actions."
 }

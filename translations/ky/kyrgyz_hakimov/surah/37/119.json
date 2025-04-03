@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3907",
-    "sura": "37",
-    "aya": "119",
-    "arabic_text": "وَتَرَكۡنَا عَلَيۡهِمَا فِي ٱلۡأٓخِرِينَ",
-    "translation": "Жана аларды акыркы муундардын арасында (даңазалуу кылып) калтырдык.",
-    "footnotes": ""
-  }
+  "id": 119,
+  "verse_number": 119,
+  "page_number": 450,
+  "verse_key": "37:119",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَرَكۡنَا عَلَيۡهِمَا فِي ٱلۡأٓخِرِينَ",
+  "translation": "Жана аларды акыркы муундардын арасында (даңазалуу кылып) калтырдык.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3152",
-    "sura": "26",
-    "aya": "220",
-    "arabic_text": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
-    "translation": "Dhugumatti, Inni Isatu argaa, beekaadha.",
-    "footnotes": ""
-  }
+  "id": 220,
+  "verse_number": 220,
+  "page_number": 376,
+  "verse_key": "26:220",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "translation": "Dhugumatti, Inni Isatu argaa, beekaadha.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5865",
-    "sura": "83",
-    "aya": "17",
-    "arabic_text": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
-    "translation": "17. donde se les dirá: “Esto es lo que desmentían y rechazaban”.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 588,
+  "verse_key": "83:17",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ يُقَالُ هَٰذَا ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
+  "translation": "17. donde se les dirá: “Esto es lo que desmentían y rechazaban”.",
+  "footnotes": ""
 }

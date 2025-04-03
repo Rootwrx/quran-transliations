@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2067",
-    "sura": "17",
-    "aya": "38",
-    "arabic_text": "كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُۥ عِندَ رَبِّكَ مَكۡرُوهٗا",
-    "translation": "38. сето тоа е лошо, кај Господарот твој омразено.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 285,
+  "verse_key": "17:38",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُّ ذَٰلِكَ كَانَ سَيِّئُهُۥ عِندَ رَبِّكَ مَكۡرُوهٗا",
+  "translation": "38. сето тоа е лошо, кај Господарот твој омразено.",
+  "footnotes": ""
 }

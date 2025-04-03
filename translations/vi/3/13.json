@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "306",
-    "sura": "3",
-    "aya": "13",
-    "arabic_text": "قَدۡ كَانَ لَكُمۡ ءَايَةٞ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةٞ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةٞ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
-    "translation": "Quả thật, các ngươi đã có bằng chứng (rõ ràng) qua cuộc giao tranh giữa hai đoàn quân (tại Badr)[3], một bên là đoàn quân (Muslim) anh dũng chiến đấu vì chính nghĩa của Allah và bên còn lại là đoàn quân vô đức tin. Chúng thấy rõ quân lực của chúng đông hơn (đoàn quân Muslim) gấp bội. Tuy nhiên, Allah muốn phù hộ bất cứ ai (giành chiến thắng) là tùy ý Ngài. Quả thật, trong sự việc (số lượng ít đánh thắng số lượng đông) đó là bài học dành cho những ai biết suy ngẫm.",
-    "footnotes": "[3] Badr là tên của một khu vực cách thành phố Madinah khoảng 150 cây số về phía nam. Nơi đây đã diễn ra một cuộc giao chiến lừng danh đầu tiên của Islam mà lịch sử Islam gọi là trận chiến Badr. Trong trận chiến này, đoàn quân Muslim chỉ gồm 313 người còn đoàn quân của những kẻ thờ đa thần Quraish gồm khoảng 1000 người nhưng Allah đã ban sự chiến thắng cho những người Muslim."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 51,
+  "verse_key": "3:13",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ كَانَ لَكُمۡ ءَايَةٞ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةٞ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةٞ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
+  "translation": "Quả thật, các ngươi đã có bằng chứng (rõ ràng) qua cuộc giao tranh giữa hai đoàn quân (tại Badr)[3], một bên là đoàn quân (Muslim) anh dũng chiến đấu vì chính nghĩa của Allah và bên còn lại là đoàn quân vô đức tin. Chúng thấy rõ quân lực của chúng đông hơn (đoàn quân Muslim) gấp bội. Tuy nhiên, Allah muốn phù hộ bất cứ ai (giành chiến thắng) là tùy ý Ngài. Quả thật, trong sự việc (số lượng ít đánh thắng số lượng đông) đó là bài học dành cho những ai biết suy ngẫm.",
+  "footnotes": "[3] Badr là tên của một khu vực cách thành phố Madinah khoảng 150 cây số về phía nam. Nơi đây đã diễn ra một cuộc giao chiến lừng danh đầu tiên của Islam mà lịch sử Islam gọi là trận chiến Badr. Trong trận chiến này, đoàn quân Muslim chỉ gồm 313 người còn đoàn quân của những kẻ thờ đa thần Quraish gồm khoảng 1000 người nhưng Allah đã ban sự chiến thắng cho những người Muslim."
 }

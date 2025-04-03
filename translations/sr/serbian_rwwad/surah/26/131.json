@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3063",
-    "sura": "26",
-    "aya": "131",
-    "arabic_text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
-    "translation": "Зато се бојте Аллаха и мени будите послушни!",
-    "footnotes": ""
-  }
+  "id": 131,
+  "verse_number": 131,
+  "page_number": 372,
+  "verse_key": "26:131",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+  "translation": "Зато се бојте Аллаха и мени будите послушни!",
+  "footnotes": ""
 }

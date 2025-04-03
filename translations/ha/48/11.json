@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4594",
-    "sura": "48",
-    "aya": "11",
-    "arabic_text": "سَيَقُولُ لَكَ ٱلۡمُخَلَّفُونَ مِنَ ٱلۡأَعۡرَابِ شَغَلَتۡنَآ أَمۡوَٰلُنَا وَأَهۡلُونَا فَٱسۡتَغۡفِرۡ لَنَاۚ يَقُولُونَ بِأَلۡسِنَتِهِم مَّا لَيۡسَ فِي قُلُوبِهِمۡۚ قُلۡ فَمَن يَمۡلِكُ لَكُم مِّنَ ٱللَّهِ شَيۡـًٔا إِنۡ أَرَادَ بِكُمۡ ضَرًّا أَوۡ أَرَادَ بِكُمۡ نَفۡعَۢاۚ بَلۡ كَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرَۢا",
-    "translation": "Waɗanda aka bari daga ƙauyãwa* zã su ce maka, \"Dũkiyõyinmu da iyãlanmu sun shagaltar da mu, sai ka nẽma mana gãfara.\" Sunã faɗã, da harsunansu, abin da bã shĩ ne a cikin zukãtansu ba. Kace: \"To, wãne ne ke mallakar wani abu daga Allah sabõda kũ, idan Yã yi nufin wata cũta agare ku kõ kuma (idan) Ya yi nufin wani amfãni a gare ku? Ã'a, Allah Ya kasance Mai labartawa ne ga abin da kuke aikatãwa.\"",
-    "footnotes": "* Annabi, tsĩra da aminci su tabbata a gare shi, ya yi nufin tafiya Makka dõmin ya yi Umra sabõda mafarkin da ya yi cewa yã ga ya shiga Makka shi da Sahabbansa, sunã mãsu yin aski da saisaye na ibãda, sai ya ce wa ƙauyãwan da ke gefen Madina su fita tãre da shi dõmin kada Ƙuraishãwa su fãɗa shi da yãƙi,su tsare shi daga Ɗãkin. Kuma ya yi harama ya kõra hadaya dõmin mutãne su san bã yãƙi yake nufi ba. Sai waɗansu mãsu yawa daga ƙauyãwa suka yi nauyin fita, sukayi zamansu kuma suka ce: \"Zai tafi zuwa ga mutãnen da suka yãƙe shi a tsakar gidansa a Madĩna, suka kashe Sahabbansa. Ba zã mu bĩ shi ba dõmin mu halaka kanmu.\"."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 512,
+  "verse_key": "48:11",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَقُولُ لَكَ ٱلۡمُخَلَّفُونَ مِنَ ٱلۡأَعۡرَابِ شَغَلَتۡنَآ أَمۡوَٰلُنَا وَأَهۡلُونَا فَٱسۡتَغۡفِرۡ لَنَاۚ يَقُولُونَ بِأَلۡسِنَتِهِم مَّا لَيۡسَ فِي قُلُوبِهِمۡۚ قُلۡ فَمَن يَمۡلِكُ لَكُم مِّنَ ٱللَّهِ شَيۡـًٔا إِنۡ أَرَادَ بِكُمۡ ضَرًّا أَوۡ أَرَادَ بِكُمۡ نَفۡعَۢاۚ بَلۡ كَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرَۢا",
+  "translation": "Waɗanda aka bari daga ƙauyãwa* zã su ce maka, \"Dũkiyõyinmu da iyãlanmu sun shagaltar da mu, sai ka nẽma mana gãfara.\" Sunã faɗã, da harsunansu, abin da bã shĩ ne a cikin zukãtansu ba. Kace: \"To, wãne ne ke mallakar wani abu daga Allah sabõda kũ, idan Yã yi nufin wata cũta agare ku kõ kuma (idan) Ya yi nufin wani amfãni a gare ku? Ã'a, Allah Ya kasance Mai labartawa ne ga abin da kuke aikatãwa.\"",
+  "footnotes": "* Annabi, tsĩra da aminci su tabbata a gare shi, ya yi nufin tafiya Makka dõmin ya yi Umra sabõda mafarkin da ya yi cewa yã ga ya shiga Makka shi da Sahabbansa, sunã mãsu yin aski da saisaye na ibãda, sai ya ce wa ƙauyãwan da ke gefen Madina su fita tãre da shi dõmin kada Ƙuraishãwa su fãɗa shi da yãƙi,su tsare shi daga Ɗãkin. Kuma ya yi harama ya kõra hadaya dõmin mutãne su san bã yãƙi yake nufi ba. Sai waɗansu mãsu yawa daga ƙauyãwa suka yi nauyin fita, sukayi zamansu kuma suka ce: \"Zai tafi zuwa ga mutãnen da suka yãƙe shi a tsakar gidansa a Madĩna, suka kashe Sahabbansa. Ba zã mu bĩ shi ba dõmin mu halaka kanmu.\"."
 }

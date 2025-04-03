@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3993",
-    "sura": "38",
-    "aya": "23",
-    "arabic_text": "إِنَّ هَٰذَآ أَخِي لَهُۥ تِسۡعٞ وَتِسۡعُونَ نَعۡجَةٗ وَلِيَ نَعۡجَةٞ وَٰحِدَةٞ فَقَالَ أَكۡفِلۡنِيهَا وَعَزَّنِي فِي ٱلۡخِطَابِ",
-    "translation": "Ni ho rero umwe muri bo yatangura kwigana avuga ati: “Mu vy’ukuri, uyu ni mwenewacu, afise intama mirongo icenda n’icenda, nanje nkaba mfise intama imwe rudende, akaba yagize inambu yo kuyinyaga, aca ambwira ati: “Mpa iyo ntamaˮ, maze aranzivya sinagira ayo ncira n’ayo miraˮ;",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 454,
+  "verse_key": "38:23",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰذَآ أَخِي لَهُۥ تِسۡعٞ وَتِسۡعُونَ نَعۡجَةٗ وَلِيَ نَعۡجَةٞ وَٰحِدَةٞ فَقَالَ أَكۡفِلۡنِيهَا وَعَزَّنِي فِي ٱلۡخِطَابِ",
+  "translation": "Ni ho rero umwe muri bo yatangura kwigana avuga ati: “Mu vy’ukuri, uyu ni mwenewacu, afise intama mirongo icenda n’icenda, nanje nkaba mfise intama imwe rudende, akaba yagize inambu yo kuyinyaga, aca ambwira ati: “Mpa iyo ntamaˮ, maze aranzivya sinagira ayo ncira n’ayo miraˮ;",
+  "footnotes": ""
 }

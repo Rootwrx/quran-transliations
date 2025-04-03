@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1605",
-    "sura": "12",
-    "aya": "9",
-    "arabic_text": "ٱقۡتُلُواْ يُوسُفَ أَوِ ٱطۡرَحُوهُ أَرۡضٗا يَخۡلُ لَكُمۡ وَجۡهُ أَبِيكُمۡ وَتَكُونُواْ مِنۢ بَعۡدِهِۦ قَوۡمٗا صَٰلِحِينَ",
-    "translation": "9. Boboma Yûsuf to botinda ye o mboka nyoso ya mosika. Wana nde elongi ya tata wa bino ekotala bino mbala moko, mpe bokozala sima na yango bato balamu.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 236,
+  "verse_key": "12:9",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱقۡتُلُواْ يُوسُفَ أَوِ ٱطۡرَحُوهُ أَرۡضٗا يَخۡلُ لَكُمۡ وَجۡهُ أَبِيكُمۡ وَتَكُونُواْ مِنۢ بَعۡدِهِۦ قَوۡمٗا صَٰلِحِينَ",
+  "translation": "9. Boboma Yûsuf to botinda ye o mboka nyoso ya mosika. Wana nde elongi ya tata wa bino ekotala bino mbala moko, mpe bokozala sima na yango bato balamu.",
+  "footnotes": ""
 }

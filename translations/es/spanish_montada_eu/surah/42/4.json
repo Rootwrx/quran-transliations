@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4276",
-    "sura": "42",
-    "aya": "4",
-    "arabic_text": "لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَلِيُّ ٱلۡعَظِيمُ",
-    "translation": "4. Suyo es cuanto hay en los cielos y en la tierra, y Él es el Excelso, el más Grande.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 483,
+  "verse_key": "42:4",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَلِيُّ ٱلۡعَظِيمُ",
+  "translation": "4. Suyo es cuanto hay en los cielos y en la tierra, y Él es el Excelso, el más Grande.",
+  "footnotes": ""
 }

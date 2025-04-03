@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4987",
-    "sura": "56",
-    "aya": "8",
-    "arabic_text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
-    "translation": "Hari ab’iburyo;[1] abo bantu b’iburyo ni bantu ki?",
-    "footnotes": "[1] Abantu b’iburyo ni abakoze ibikorwa byiza, bazahabwa igitabo mu kuboko kwabo kw’iburyo gikubiyemo ibikorwa bakoze bakiri ku isi. Naho ab’ibumoso ni abakoze ibikorwa bibi, bazahabwa icyo gitabo mu kuboko kw’ibumoso."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 534,
+  "verse_key": "56:8",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+  "translation": "Hari ab’iburyo;[1] abo bantu b’iburyo ni bantu ki?",
+  "footnotes": "[1] Abantu b’iburyo ni abakoze ibikorwa byiza, bazahabwa igitabo mu kuboko kwabo kw’iburyo gikubiyemo ibikorwa bakoze bakiri ku isi. Naho ab’ibumoso ni abakoze ibikorwa bibi, bazahabwa icyo gitabo mu kuboko kw’ibumoso."
 }

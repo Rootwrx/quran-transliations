@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3841",
-    "sura": "37",
-    "aya": "53",
-    "arabic_text": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ",
-    "translation": "(53) That when we have died and become dust and bones, we will indeed be recompensed?'\"",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 448,
+  "verse_key": "37:53",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَدِينُونَ",
+  "translation": "(53) That when we have died and become dust and bones, we will indeed be recompensed?'\"",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5555",
-    "sura": "75",
-    "aya": "4",
-    "arabic_text": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّيَ بَنَانَهُۥ",
-    "translation": "4. Que si ! Nous sommes Capable même de reconstituer tel quel le bout de ses doigts.[587]",
-    "footnotes": "[587] De toutes les parties du corps, Allah cite ici le bout des doigts comme étant les plus difficiles à refaire. Pourquoi ? L’allusion aux empreintes digitales est évidente. La science contemporaine a démontré que même le clonage ne donnerait pas des empreintes digitales identiques."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 577,
+  "verse_key": "75:4",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلَىٰ قَٰدِرِينَ عَلَىٰٓ أَن نُّسَوِّيَ بَنَانَهُۥ",
+  "translation": "4. Que si ! Nous sommes Capable même de reconstituer tel quel le bout de ses doigts.[587]",
+  "footnotes": "[587] De toutes les parties du corps, Allah cite ici le bout des doigts comme étant les plus difficiles à refaire. Pourquoi ? L’allusion aux empreintes digitales est évidente. La science contemporaine a démontré que même le clonage ne donnerait pas des empreintes digitales identiques."
 }

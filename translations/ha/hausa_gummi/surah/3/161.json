@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "454",
-    "sura": "3",
-    "aya": "161",
-    "arabic_text": "وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّۚ وَمَن يَغۡلُلۡ يَأۡتِ بِمَا غَلَّ يَوۡمَ ٱلۡقِيَٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
-    "translation": "Kuma bã ya yiwuwa ga wani annabi ya ci gulũlu.* Wanda ya ci gulũlu zai je da abin da ya ci na gulũlun, a Rãnar ¡iyama. Sa'an nan a cika wa kõwane rai sakamakon abin da ya tsirfanta. Kuma sũ, bã zã a zãlunce su ba.",
-    "footnotes": "* Gulũlu shĩ ne satar wani abu daga ganimar yãƙi a gabãnin raba ta a tsakãnin mayãka. Allah Yã ce, \"Yin gulũlu haram ne a kan kõwane annabi ko da waɗanda ba a halatta wa cin ganima ba, balle ga wanda aka halatta wa. Kamar yadda gulũlu yake haram a kan annabãwa haka yake haram a kan mabiyansu.\"."
-  }
+  "id": 161,
+  "verse_number": 161,
+  "page_number": 71,
+  "verse_key": "3:161",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّۚ وَمَن يَغۡلُلۡ يَأۡتِ بِمَا غَلَّ يَوۡمَ ٱلۡقِيَٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
+  "translation": "Kuma bã ya yiwuwa ga wani annabi ya ci gulũlu.* Wanda ya ci gulũlu zai je da abin da ya ci na gulũlun, a Rãnar ¡iyama. Sa'an nan a cika wa kõwane rai sakamakon abin da ya tsirfanta. Kuma sũ, bã zã a zãlunce su ba.",
+  "footnotes": "* Gulũlu shĩ ne satar wani abu daga ganimar yãƙi a gabãnin raba ta a tsakãnin mayãka. Allah Yã ce, \"Yin gulũlu haram ne a kan kõwane annabi ko da waɗanda ba a halatta wa cin ganima ba, balle ga wanda aka halatta wa. Kamar yadda gulũlu yake haram a kan annabãwa haka yake haram a kan mabiyansu.\"."
 }

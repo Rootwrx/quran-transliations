@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "300",
-    "sura": "3",
-    "aya": "7",
-    "arabic_text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
-    "translation": "Ntumwa y’Imana! Ni Yo Yonyene Yakumanuriye Qor’ani; muri yo harimwo Aayah zitomoye cane mu nsiguro, ni zo shimikiro yisungwa iyo hagize ikibadidanira mu nsiguro. Harimwo rero n’izindi Aayah zifobetse, zishobora kugira insiguro iyi n’iyindi, gutyo insiguro yazo nyayo ikagenwa na Aayah zitomoye. Abafise rero imitima yahuvye, baraheza bagakurikira muri zo Aayah zifobetse gusa, barondera guta abantu mu madidane (mu rudubi) ngo babahuvye, mu ntumbero ihuye n’insiguro bipfuza. Nta n’uwuzi insiguro nyayo y’ukuri ya Aayah zifobetse atari Imana Allah. Abamenyi babushitse na bo bavuga bati: “Twaremeye Qor’ani, ibirimwo vyose vyadushikiriye bivuye ku Mana yacu Rurema Allah”, bagaheza bagatahura insiguro ya Aayah zifobetse bisunze insiguro ya Aayah zitomoye, kandi rero nta wutahura insiguro yazo nyayo atari incabwenge koko;",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 50,
+  "verse_key": "3:7",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+  "translation": "Ntumwa y’Imana! Ni Yo Yonyene Yakumanuriye Qor’ani; muri yo harimwo Aayah zitomoye cane mu nsiguro, ni zo shimikiro yisungwa iyo hagize ikibadidanira mu nsiguro. Harimwo rero n’izindi Aayah zifobetse, zishobora kugira insiguro iyi n’iyindi, gutyo insiguro yazo nyayo ikagenwa na Aayah zitomoye. Abafise rero imitima yahuvye, baraheza bagakurikira muri zo Aayah zifobetse gusa, barondera guta abantu mu madidane (mu rudubi) ngo babahuvye, mu ntumbero ihuye n’insiguro bipfuza. Nta n’uwuzi insiguro nyayo y’ukuri ya Aayah zifobetse atari Imana Allah. Abamenyi babushitse na bo bavuga bati: “Twaremeye Qor’ani, ibirimwo vyose vyadushikiriye bivuye ku Mana yacu Rurema Allah”, bagaheza bagatahura insiguro ya Aayah zifobetse bisunze insiguro ya Aayah zitomoye, kandi rero nta wutahura insiguro yazo nyayo atari incabwenge koko;",
+  "footnotes": ""
 }

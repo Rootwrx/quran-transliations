@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1916",
-    "sura": "16",
-    "aya": "15",
-    "arabic_text": "وَأَلۡقَىٰ فِي ٱلۡأَرۡضِ رَوَٰسِيَ أَن تَمِيدَ بِكُمۡ وَأَنۡهَٰرٗا وَسُبُلٗا لَّعَلَّكُمۡ تَهۡتَدُونَ",
-    "translation": "15. Y ha establecido en la tierra firmes montañas[454] para impedir que esta temblase con ustedes, y ha dispuesto en ella ríos y caminos para que puedan guiarlos.",
-    "footnotes": "[454]  Esta aleya hace referencia a las raíces de las montañas que son descritas como estacas en la aleya 7 de la sura 78. La geología moderna ha demostrado que las montañas poseen profundas raíces bajo la corteza terrestre que desempeñan un papel importante en la estabilización de esta, ralentizando, al parecer, el movimiento de las placas tectónicas. La teoría de las raíces de las montañas no fue introducida hasta 1865 por el astrónomo real Sir George Airy. Otro significado posible de la aleya es que las raíces de las montañas evitan que estas se muevan o se tambaleen. De hecho, la isostasia (la condición de equilibrio que presenta la superficie terrestre debido a la diferencia de densidad de sus partes) relaciona la altura de las montañas con la profundidad de las raíces, es decir, a mayor altura, las raíces son más profundas buscando siempre el equilibrio."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 269,
+  "verse_key": "16:15",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَلۡقَىٰ فِي ٱلۡأَرۡضِ رَوَٰسِيَ أَن تَمِيدَ بِكُمۡ وَأَنۡهَٰرٗا وَسُبُلٗا لَّعَلَّكُمۡ تَهۡتَدُونَ",
+  "translation": "15. Y ha establecido en la tierra firmes montañas[454] para impedir que esta temblase con ustedes, y ha dispuesto en ella ríos y caminos para que puedan guiarlos.",
+  "footnotes": "[454]  Esta aleya hace referencia a las raíces de las montañas que son descritas como estacas en la aleya 7 de la sura 78. La geología moderna ha demostrado que las montañas poseen profundas raíces bajo la corteza terrestre que desempeñan un papel importante en la estabilización de esta, ralentizando, al parecer, el movimiento de las placas tectónicas. La teoría de las raíces de las montañas no fue introducida hasta 1865 por el astrónomo real Sir George Airy. Otro significado posible de la aleya es que las raíces de las montañas evitan que estas se muevan o se tambaleen. De hecho, la isostasia (la condición de equilibrio que presenta la superficie terrestre debido a la diferencia de densidad de sus partes) relaciona la altura de las montañas con la profundidad de las raíces, es decir, a mayor altura, las raíces son más profundas buscando siempre el equilibrio."
 }

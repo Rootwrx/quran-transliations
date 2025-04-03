@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2010",
-    "sura": "16",
-    "aya": "109",
-    "arabic_text": "لَا جَرَمَ أَنَّهُمۡ فِي ٱلۡأٓخِرَةِ هُمُ ٱلۡخَٰسِرُونَ",
-    "translation": "ߡߍ߲ ߦߋ߫ ߸ ߊ߬ߟߎ ߟߋ߫ ߛߎ߬ߟߊ߫ ߓߣߐ߬ߓߊ߮ ߟߎ߬ ߘߌ߫ ߞߟߋ߫",
-    "footnotes": ""
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 279,
+  "verse_key": "16:109",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا جَرَمَ أَنَّهُمۡ فِي ٱلۡأٓخِرَةِ هُمُ ٱلۡخَٰسِرُونَ",
+  "translation": "ߡߍ߲ ߦߋ߫ ߸ ߊ߬ߟߎ ߟߋ߫ ߛߎ߬ߟߊ߫ ߓߣߐ߬ߓߊ߮ ߟߎ߬ ߘߌ߫ ߞߟߋ߫",
+  "footnotes": ""
 }

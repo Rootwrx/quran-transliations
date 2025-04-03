@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "552",
-    "sura": "4",
-    "aya": "59",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا",
-    "translation": "59. ¡Oh, creyentes! Obedezcan a Dios, obedezcan al Mensajero y a aquellos de ustedes que tengan autoridad y conocimiento. Si realmente creen en Dios y en el Día del Juicio, cuando tengan discrepancias remítanlas al juicio de Dios y del Mensajero, porque en ello hay bien y es el camino correcto[1].",
-    "footnotes": "[1] Dijo el exégeta Ibn Kazir: “Dijo Muyahid al igual que muchos de los Salaf: ‘Es decir, al Corán y la Sunnah de Su Mensajero, lo que es un mandato de Dios ante cualquier asunto por el que disputen las personas, ya sea en los fundamentos de la religión o en sus ciencias auxiliares, se debe remitir la disputa al Corán y la Sunnah’”. El Profeta r dijo: “Les he dejado dos referencias, nunca se desviarán si se aferran a ellas: el Libro de Dios y la tradición de Su Profeta”. Registrado por Ahmad. Este versículo establece que la obediencia a Dios y a Su Mensajero es absoluta, pero que la obediencia a las personas de autoridad y conocimiento es relativa, y es debida siempre que no contradiga los principios establecidos en el Corán y la Sunnah."
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 87,
+  "verse_key": "4:59",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا",
+  "translation": "59. ¡Oh, creyentes! Obedezcan a Dios, obedezcan al Mensajero y a aquellos de ustedes que tengan autoridad y conocimiento. Si realmente creen en Dios y en el Día del Juicio, cuando tengan discrepancias remítanlas al juicio de Dios y del Mensajero, porque en ello hay bien y es el camino correcto[1].",
+  "footnotes": "[1] Dijo el exégeta Ibn Kazir: “Dijo Muyahid al igual que muchos de los Salaf: ‘Es decir, al Corán y la Sunnah de Su Mensajero, lo que es un mandato de Dios ante cualquier asunto por el que disputen las personas, ya sea en los fundamentos de la religión o en sus ciencias auxiliares, se debe remitir la disputa al Corán y la Sunnah’”. El Profeta r dijo: “Les he dejado dos referencias, nunca se desviarán si se aferran a ellas: el Libro de Dios y la tradición de Su Profeta”. Registrado por Ahmad. Este versículo establece que la obediencia a Dios y a Su Mensajero es absoluta, pero que la obediencia a las personas de autoridad y conocimiento es relativa, y es debida siempre que no contradiga los principios establecidos en el Corán y la Sunnah."
 }

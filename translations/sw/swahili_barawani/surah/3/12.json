@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "305",
-    "sura": "3",
-    "aya": "12",
-    "arabic_text": "قُل لِّلَّذِينَ كَفَرُواْ سَتُغۡلَبُونَ وَتُحۡشَرُونَ إِلَىٰ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمِهَادُ",
-    "translation": "Waambie walio kufuru: Karibuni mtashindwa na mtakusanywa, mtiwe kwenye Jahannam; nako huko ni makao mabaya kabisa.",
-    "footnotes": "Ewe Nabii! Waambie hawa walio kufuru: Bila ya shaka nyinyi mtashindwa hapa duniani, na kesho Akhera mtaadhibiwa. Na Jahannamu ndio itakuwa tandiko lenu la kulalia; na ovu lilioje tandiko hilo!"
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 51,
+  "verse_key": "3:12",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لِّلَّذِينَ كَفَرُواْ سَتُغۡلَبُونَ وَتُحۡشَرُونَ إِلَىٰ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمِهَادُ",
+  "translation": "Waambie walio kufuru: Karibuni mtashindwa na mtakusanywa, mtiwe kwenye Jahannam; nako huko ni makao mabaya kabisa.",
+  "footnotes": "Ewe Nabii! Waambie hawa walio kufuru: Bila ya shaka nyinyi mtashindwa hapa duniani, na kesho Akhera mtaadhibiwa. Na Jahannamu ndio itakuwa tandiko lenu la kulalia; na ovu lilioje tandiko hilo!"
 }

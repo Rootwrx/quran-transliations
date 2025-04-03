@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5475",
-    "sura": "72",
-    "aya": "28",
-    "arabic_text": "لِّيَعۡلَمَ أَن قَدۡ أَبۡلَغُواْ رِسَٰلَٰتِ رَبِّهِمۡ وَأَحَاطَ بِمَا لَدَيۡهِمۡ وَأَحۡصَىٰ كُلَّ شَيۡءٍ عَدَدَۢا",
-    "translation": "(Ibyo Allah abikora) kugira ngo amenye ko (Intumwa) zasohoje neza ubutumwa bwa Nyagasani wazo. Kandi (ko Allah) azi neza ibyo zitunze ndetse azi byimazeyo umubare wa buri kintu.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 573,
+  "verse_key": "72:28",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّيَعۡلَمَ أَن قَدۡ أَبۡلَغُواْ رِسَٰلَٰتِ رَبِّهِمۡ وَأَحَاطَ بِمَا لَدَيۡهِمۡ وَأَحۡصَىٰ كُلَّ شَيۡءٍ عَدَدَۢا",
+  "translation": "(Ibyo Allah abikora) kugira ngo amenye ko (Intumwa) zasohoje neza ubutumwa bwa Nyagasani wazo. Kandi (ko Allah) azi neza ibyo zitunze ndetse azi byimazeyo umubare wa buri kintu.",
+  "footnotes": ""
 }

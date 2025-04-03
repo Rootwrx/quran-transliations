@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "558",
-    "sura": "4",
-    "aya": "65",
-    "arabic_text": "فَلَا وَرَبِّكَ لَا يُؤۡمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيۡنَهُمۡ ثُمَّ لَا يَجِدُواْ فِيٓ أَنفُسِهِمۡ حَرَجٗا مِّمَّا قَضَيۡتَ وَيُسَلِّمُواْ تَسۡلِيمٗا",
-    "translation": "Hayır! Rabbine andolsun ki, aralarında çekiştikleri konularda seni hakem kılıp, verdiğin hükme kalplerinde hiçbir sıkıntı duymadan tam bir teslimiyetle teslim olmadıkça iman etmiş olmazlar.",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 88,
+  "verse_key": "4:65",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا وَرَبِّكَ لَا يُؤۡمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيۡنَهُمۡ ثُمَّ لَا يَجِدُواْ فِيٓ أَنفُسِهِمۡ حَرَجٗا مِّمَّا قَضَيۡتَ وَيُسَلِّمُواْ تَسۡلِيمٗا",
+  "translation": "Hayır! Rabbine andolsun ki, aralarında çekiştikleri konularda seni hakem kılıp, verdiğin hükme kalplerinde hiçbir sıkıntı duymadan tam bir teslimiyetle teslim olmadıkça iman etmiş olmazlar.",
+  "footnotes": ""
 }

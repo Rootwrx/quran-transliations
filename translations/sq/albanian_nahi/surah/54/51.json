@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4897",
-    "sura": "54",
-    "aya": "51",
-    "arabic_text": "وَلَقَدۡ أَهۡلَكۡنَآ أَشۡيَاعَكُمۡ فَهَلۡ مِن مُّدَّكِرٖ",
-    "translation": "Ne tashmë i kemi shkatërruar të ngjashmit me ju (në mosbesim). Prandaj, a ka ndonjë që të marrë këshillë?!",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 531,
+  "verse_key": "54:51",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَهۡلَكۡنَآ أَشۡيَاعَكُمۡ فَهَلۡ مِن مُّدَّكِرٖ",
+  "translation": "Ne tashmë i kemi shkatërruar të ngjashmit me ju (në mosbesim). Prandaj, a ka ndonjë që të marrë këshillë?!",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5189",
-    "sura": "63",
-    "aya": "1",
-    "arabic_text": "إِذَا جَآءَكَ ٱلۡمُنَٰفِقُونَ قَالُواْ نَشۡهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِۗ وَٱللَّهُ يَعۡلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشۡهَدُ إِنَّ ٱلۡمُنَٰفِقِينَ لَكَٰذِبُونَ",
-    "translation": "Kur vijnë tek ti hipokritët, thonë: “Ne dëshmojmë se ti je vërtet i dërguari i Allahut!” Allahu e di se ti je i dërguari i Tij, por Ai dëshmon se hipokritët janë gënjeshtarë!",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 554,
+  "verse_key": "63:1",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 221,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذَا جَآءَكَ ٱلۡمُنَٰفِقُونَ قَالُواْ نَشۡهَدُ إِنَّكَ لَرَسُولُ ٱللَّهِۗ وَٱللَّهُ يَعۡلَمُ إِنَّكَ لَرَسُولُهُۥ وَٱللَّهُ يَشۡهَدُ إِنَّ ٱلۡمُنَٰفِقِينَ لَكَٰذِبُونَ",
+  "translation": "Kur vijnë tek ti hipokritët, thonë: “Ne dëshmojmë se ti je vërtet i dërguari i Allahut!” Allahu e di se ti je i dërguari i Tij, por Ai dëshmon se hipokritët janë gënjeshtarë!",
+  "footnotes": ""
 }

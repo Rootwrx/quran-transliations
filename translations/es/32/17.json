@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3520",
-    "sura": "32",
-    "aya": "17",
-    "arabic_text": "فَلَا تَعۡلَمُ نَفۡسٞ مَّآ أُخۡفِيَ لَهُم مِّن قُرَّةِ أَعۡيُنٖ جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "17. Nadie sabe la alegría que les espera [a los creyentes] como recompensa por sus obras[1].",
-    "footnotes": "[1] El Paraíso es la gran recompensa que Dios ha preparado para los creyentes. Es la alegría perfecta y el placer donde nada falta, y nada puede perturbar su pureza. Nuestra imaginación se detiene ante la imposibilidad de comprender la grandeza de tales bendiciones y maravillas. Dios dijo en una revelación (hadiz qudsi) narrada por el Profeta r: “He preparado para Mis siervos virtuosos lo que ningún ojo ha visto, ningún oído ha escuchado, y nunca ha pasado siquiera por la imaginación del ser humano”. Registrado por Al Bujari."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 416,
+  "verse_key": "32:17",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا تَعۡلَمُ نَفۡسٞ مَّآ أُخۡفِيَ لَهُم مِّن قُرَّةِ أَعۡيُنٖ جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "17. Nadie sabe la alegría que les espera [a los creyentes] como recompensa por sus obras[1].",
+  "footnotes": "[1] El Paraíso es la gran recompensa que Dios ha preparado para los creyentes. Es la alegría perfecta y el placer donde nada falta, y nada puede perturbar su pureza. Nuestra imaginación se detiene ante la imposibilidad de comprender la grandeza de tales bendiciones y maravillas. Dios dijo en una revelación (hadiz qudsi) narrada por el Profeta r: “He preparado para Mis siervos virtuosos lo que ningún ojo ha visto, ningún oído ha escuchado, y nunca ha pasado siquiera por la imaginación del ser humano”. Registrado por Al Bujari."
 }

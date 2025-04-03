@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "13",
-    "sura": "2",
-    "aya": "6",
-    "arabic_text": "إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ لَا يُؤۡمِنُونَ",
-    "translation": "Dájúdájú àwọn tó ṣàì gbàgbọ́, bákan náà ni fún wọn, yálà o kìlọ̀ fún wọn tàbí o kò kìlọ̀ fún wọn, wọn kò níí gbàgbọ́.[1]",
-    "footnotes": "1. Àwọn wọ̀nyẹn ni àwọn tí kádàrá wọn lórí jíjẹ́ kèfèrí wọn kò níí yí padà. Àmọ́ ní ti àwọn tí kádàrá ìrònúpìwàdà máa borí wọn, ìkìlọ̀ máa sọ wọ́n di mùsulùmí."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 3,
+  "verse_key": "2:6",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ كَفَرُواْ سَوَآءٌ عَلَيۡهِمۡ ءَأَنذَرۡتَهُمۡ أَمۡ لَمۡ تُنذِرۡهُمۡ لَا يُؤۡمِنُونَ",
+  "translation": "Dájúdájú àwọn tó ṣàì gbàgbọ́, bákan náà ni fún wọn, yálà o kìlọ̀ fún wọn tàbí o kò kìlọ̀ fún wọn, wọn kò níí gbàgbọ́.[1]",
+  "footnotes": "1. Àwọn wọ̀nyẹn ni àwọn tí kádàrá wọn lórí jíjẹ́ kèfèrí wọn kò níí yí padà. Àmọ́ ní ti àwọn tí kádàrá ìrònúpìwàdà máa borí wọn, ìkìlọ̀ máa sọ wọ́n di mùsulùmí."
 }

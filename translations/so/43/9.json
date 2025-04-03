@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4334",
-    "sura": "43",
-    "aya": "9",
-    "arabic_text": "وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلۡعَزِيزُ ٱلۡعَلِيمُ",
-    "translation": "9. Haddaad (gaaladaa) weydiiso: Yaa abuuray samooyinka iyo arlada? Waxay odhan: Waxaa abuuray (Alle) Adkaadaha, Wax kasta Ogaha ah.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 489,
+  "verse_key": "43:9",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِن سَأَلۡتَهُم مَّنۡ خَلَقَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ لَيَقُولُنَّ خَلَقَهُنَّ ٱلۡعَزِيزُ ٱلۡعَلِيمُ",
+  "translation": "9. Haddaad (gaaladaa) weydiiso: Yaa abuuray samooyinka iyo arlada? Waxay odhan: Waxaa abuuray (Alle) Adkaadaha, Wax kasta Ogaha ah.",
+  "footnotes": ""
 }

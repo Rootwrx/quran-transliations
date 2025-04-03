@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3278",
-    "sura": "28",
-    "aya": "26",
-    "arabic_text": "قَالَتۡ إِحۡدَىٰهُمَا يَٰٓأَبَتِ ٱسۡتَـٔۡجِرۡهُۖ إِنَّ خَيۡرَ مَنِ ٱسۡتَـٔۡجَرۡتَ ٱلۡقَوِيُّ ٱلۡأَمِينُ",
-    "translation": "26. Moko na bango alobaki ete: Oh tata wa ngai! Zúa ye (na mosala), mpo ete moto malamu ya mosala ezali moto ya makasi mpe ya bosembo.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 388,
+  "verse_key": "28:26",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ إِحۡدَىٰهُمَا يَٰٓأَبَتِ ٱسۡتَـٔۡجِرۡهُۖ إِنَّ خَيۡرَ مَنِ ٱسۡتَـٔۡجَرۡتَ ٱلۡقَوِيُّ ٱلۡأَمِينُ",
+  "translation": "26. Moko na bango alobaki ete: Oh tata wa ngai! Zúa ye (na mosala), mpo ete moto malamu ya mosala ezali moto ya makasi mpe ya bosembo.",
+  "footnotes": ""
 }

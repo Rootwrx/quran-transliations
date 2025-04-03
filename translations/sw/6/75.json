@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "864",
-    "sura": "6",
-    "aya": "75",
-    "arabic_text": "وَكَذَٰلِكَ نُرِيٓ إِبۡرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلِيَكُونَ مِنَ ٱلۡمُوقِنِينَ",
-    "translation": "Na kadhaalika tulimwonyesha Ibrahim ufalme wa mbingu na ardhi, na ili awe miongoni mwa wenye yakini.",
-    "footnotes": "Kama alivyo ona Ibrahim - kwa tawfiqi yetu - upotovu wa watu wake katika kuyafanya masanamu ndio miungu, kadhaalika tumemwonyesha ufalme wetu mkubwa wa mbinguni na duniani na viliomo humo, ili aweze kusimamisha hoja kwa watu wake, na ili azidi kuamini."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 137,
+  "verse_key": "6:75",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 55,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ نُرِيٓ إِبۡرَٰهِيمَ مَلَكُوتَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلِيَكُونَ مِنَ ٱلۡمُوقِنِينَ",
+  "translation": "Na kadhaalika tulimwonyesha Ibrahim ufalme wa mbingu na ardhi, na ili awe miongoni mwa wenye yakini.",
+  "footnotes": "Kama alivyo ona Ibrahim - kwa tawfiqi yetu - upotovu wa watu wake katika kuyafanya masanamu ndio miungu, kadhaalika tumemwonyesha ufalme wetu mkubwa wa mbinguni na duniani na viliomo humo, ili aweze kusimamisha hoja kwa watu wake, na ili azidi kuamini."
 }

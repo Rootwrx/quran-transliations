@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4848",
-    "sura": "54",
-    "aya": "2",
-    "arabic_text": "وَإِن يَرَوۡاْ ءَايَةٗ يُعۡرِضُواْ وَيَقُولُواْ سِحۡرٞ مُّسۡتَمِرّٞ",
-    "translation": "A oni, uvijek kada vide znak, okreću se i govore: \"Magija prolazna.\"",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 528,
+  "verse_key": "54:2",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يَرَوۡاْ ءَايَةٗ يُعۡرِضُواْ وَيَقُولُواْ سِحۡرٞ مُّسۡتَمِرّٞ",
+  "translation": "A oni, uvijek kada vide znak, okreću se i govore: \"Magija prolazna.\"",
+  "footnotes": ""
 }

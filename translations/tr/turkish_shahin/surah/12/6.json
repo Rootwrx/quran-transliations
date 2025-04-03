@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1602",
-    "sura": "12",
-    "aya": "6",
-    "arabic_text": "وَكَذَٰلِكَ يَجۡتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأۡوِيلِ ٱلۡأَحَادِيثِ وَيُتِمُّ نِعۡمَتَهُۥ عَلَيۡكَ وَعَلَىٰٓ ءَالِ يَعۡقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيۡكَ مِن قَبۡلُ إِبۡرَٰهِيمَ وَإِسۡحَٰقَۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٞ",
-    "translation": " İşte böylece Rabbin seni seçecek, sana (rüyada görülen) olayların yorumunu öğretecek ve daha önce iki atan İbrahim ve İshak'a nimetini tamamladığı gibi sana ve Ya'kub soyuna da nimetini tamamlayacaktır. Çünkü Rabbin çok iyi bilendir, hikmet sahibidir.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 236,
+  "verse_key": "12:6",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ يَجۡتَبِيكَ رَبُّكَ وَيُعَلِّمُكَ مِن تَأۡوِيلِ ٱلۡأَحَادِيثِ وَيُتِمُّ نِعۡمَتَهُۥ عَلَيۡكَ وَعَلَىٰٓ ءَالِ يَعۡقُوبَ كَمَآ أَتَمَّهَا عَلَىٰٓ أَبَوَيۡكَ مِن قَبۡلُ إِبۡرَٰهِيمَ وَإِسۡحَٰقَۚ إِنَّ رَبَّكَ عَلِيمٌ حَكِيمٞ",
+  "translation": " İşte böylece Rabbin seni seçecek, sana (rüyada görülen) olayların yorumunu öğretecek ve daha önce iki atan İbrahim ve İshak'a nimetini tamamladığı gibi sana ve Ya'kub soyuna da nimetini tamamlayacaktır. Çünkü Rabbin çok iyi bilendir, hikmet sahibidir.",
+  "footnotes": ""
 }

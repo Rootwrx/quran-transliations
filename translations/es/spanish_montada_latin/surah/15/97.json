@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1899",
-    "sura": "15",
-    "aya": "97",
-    "arabic_text": "وَلَقَدۡ نَعۡلَمُ أَنَّكَ يَضِيقُ صَدۡرُكَ بِمَا يَقُولُونَ",
-    "translation": "97. Y, en verdad, sabemos que te angustia lo que dicen.",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 267,
+  "verse_key": "15:97",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ نَعۡلَمُ أَنَّكَ يَضِيقُ صَدۡرُكَ بِمَا يَقُولُونَ",
+  "translation": "97. Y, en verdad, sabemos que te angustia lo que dicen.",
+  "footnotes": ""
 }

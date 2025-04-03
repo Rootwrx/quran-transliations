@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1510",
-    "sura": "11",
-    "aya": "37",
-    "arabic_text": "وَٱصۡنَعِ ٱلۡفُلۡكَ بِأَعۡيُنِنَا وَوَحۡيِنَا وَلَا تُخَٰطِبۡنِي فِي ٱلَّذِينَ ظَلَمُوٓاْ إِنَّهُم مُّغۡرَقُونَ",
-    "translation": "Enti pam nsuom hyεn ma εwͻ yεniso εne sεdeε Yɛyi kyerεε (woͻ no). Na hwε na wo ne me ankasa amma abͻneεfoͻ no. Nokorε sε nsuo bεfa wͻn.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 225,
+  "verse_key": "11:37",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱصۡنَعِ ٱلۡفُلۡكَ بِأَعۡيُنِنَا وَوَحۡيِنَا وَلَا تُخَٰطِبۡنِي فِي ٱلَّذِينَ ظَلَمُوٓاْ إِنَّهُم مُّغۡرَقُونَ",
+  "translation": "Enti pam nsuom hyεn ma εwͻ yεniso εne sεdeε Yɛyi kyerεε (woͻ no). Na hwε na wo ne me ankasa amma abͻneεfoͻ no. Nokorε sε nsuo bεfa wͻn.",
+  "footnotes": ""
 }

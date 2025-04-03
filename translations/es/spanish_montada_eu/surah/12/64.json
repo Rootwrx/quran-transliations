@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1660",
-    "sura": "12",
-    "aya": "64",
-    "arabic_text": "قَالَ هَلۡ ءَامَنُكُمۡ عَلَيۡهِ إِلَّا كَمَآ أَمِنتُكُمۡ عَلَىٰٓ أَخِيهِ مِن قَبۡلُ فَٱللَّهُ خَيۡرٌ حَٰفِظٗاۖ وَهُوَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
-    "translation": "64. Dijo (el padre): «¿Cómo podría confiároslo después de que os confiara a su hermano con anterioridad (e hicisteis con él lo que hicisteis)?Al-lah es el mejor protector y el más Misericordioso».",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 243,
+  "verse_key": "12:64",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ هَلۡ ءَامَنُكُمۡ عَلَيۡهِ إِلَّا كَمَآ أَمِنتُكُمۡ عَلَىٰٓ أَخِيهِ مِن قَبۡلُ فَٱللَّهُ خَيۡرٌ حَٰفِظٗاۖ وَهُوَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
+  "translation": "64. Dijo (el padre): «¿Cómo podría confiároslo después de que os confiara a su hermano con anterioridad (e hicisteis con él lo que hicisteis)?Al-lah es el mejor protector y el más Misericordioso».",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1900",
-    "sura": "15",
-    "aya": "98",
-    "arabic_text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُن مِّنَ ٱلسَّٰجِدِينَ",
-    "translation": "98. Ee ku tasbiixso ammaanaha Rabbigaa oo ka mid ahow kuwa u sujuuda24.",
-    "footnotes": "24. Ibnu Cabbaas a.k.r. waxaa laga soo weriyey inuu yidhi: Waxaan ku garan jirey bogidda salaadda faralka kor ugu qaadista codka Xusidda Alle sida takbiirta.\n(W.w. Al-Bukhaari)"
-  }
+  "id": 98,
+  "verse_number": 98,
+  "page_number": 267,
+  "verse_key": "15:98",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَكُن مِّنَ ٱلسَّٰجِدِينَ",
+  "translation": "98. Ee ku tasbiixso ammaanaha Rabbigaa oo ka mid ahow kuwa u sujuuda24.",
+  "footnotes": "24. Ibnu Cabbaas a.k.r. waxaa laga soo weriyey inuu yidhi: Waxaan ku garan jirey bogidda salaadda faralka kor ugu qaadista codka Xusidda Alle sida takbiirta.\n(W.w. Al-Bukhaari)"
 }

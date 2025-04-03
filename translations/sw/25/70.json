@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2925",
-    "sura": "25",
-    "aya": "70",
-    "arabic_text": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلٗا صَٰلِحٗا فَأُوْلَٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمۡ حَسَنَٰتٖۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
-    "translation": "Isipo kuwa atakaye tubu, na akaamini, na akatenda vitendo vyema. Basi hao Mwenyezi Mungu atayabadilisha maovu yao yawe mema. Na Mwenyezi Mungu ni Mwenye kusamehe, Mwenye kurehemu.",
-    "footnotes": "Lakini mwenye kutubu na madhambi haya na akawa mkweli katika Imani yake, na akafuatiliza hayo kwa ut'iifu na vitendo vyema, hao atawasamehe kwa rehema yake, na atawajaalia bora ya thawabu badala ya maovu yaliyo kwisha tangulia. Na hakika shani ya Mwenyezi Mungu ni kurehemu na kusamehe."
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 366,
+  "verse_key": "25:70",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا مَن تَابَ وَءَامَنَ وَعَمِلَ عَمَلٗا صَٰلِحٗا فَأُوْلَٰٓئِكَ يُبَدِّلُ ٱللَّهُ سَيِّـَٔاتِهِمۡ حَسَنَٰتٖۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
+  "translation": "Isipo kuwa atakaye tubu, na akaamini, na akatenda vitendo vyema. Basi hao Mwenyezi Mungu atayabadilisha maovu yao yawe mema. Na Mwenyezi Mungu ni Mwenye kusamehe, Mwenye kurehemu.",
+  "footnotes": "Lakini mwenye kutubu na madhambi haya na akawa mkweli katika Imani yake, na akafuatiliza hayo kwa ut'iifu na vitendo vyema, hao atawasamehe kwa rehema yake, na atawajaalia bora ya thawabu badala ya maovu yaliyo kwisha tangulia. Na hakika shani ya Mwenyezi Mungu ni kurehemu na kusamehe."
 }

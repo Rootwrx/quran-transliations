@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1212",
-    "sura": "8",
-    "aya": "52",
-    "arabic_text": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۚ إِنَّ ٱللَّهَ قَوِيّٞ شَدِيدُ ٱلۡعِقَابِ",
-    "translation": "Ivyashikiye ababangikanyamana rero kuri uwo musi wa Badri, ni vyo vyashikiye ibigaba mu ntumva z’aho hambere; nk’abantu ba Firawuni n’abo hambere yabo, baragararije Intumwa z’Imana Allah mu guhakana bivuye inyuma Aayah n’ivyemezo vyayo, maze Imana Allah Ica Irabahanira ivyaha vyabo. Mu vy’ukuri, Imana Allah ni Nyeninguvu, Irahana Igahasha uwo wese atigaya ku vyaha vyiwe.",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 183,
+  "verse_key": "8:52",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَدَأۡبِ ءَالِ فِرۡعَوۡنَ وَٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ فَأَخَذَهُمُ ٱللَّهُ بِذُنُوبِهِمۡۚ إِنَّ ٱللَّهَ قَوِيّٞ شَدِيدُ ٱلۡعِقَابِ",
+  "translation": "Ivyashikiye ababangikanyamana rero kuri uwo musi wa Badri, ni vyo vyashikiye ibigaba mu ntumva z’aho hambere; nk’abantu ba Firawuni n’abo hambere yabo, baragararije Intumwa z’Imana Allah mu guhakana bivuye inyuma Aayah n’ivyemezo vyayo, maze Imana Allah Ica Irabahanira ivyaha vyabo. Mu vy’ukuri, Imana Allah ni Nyeninguvu, Irahana Igahasha uwo wese atigaya ku vyaha vyiwe.",
+  "footnotes": ""
 }

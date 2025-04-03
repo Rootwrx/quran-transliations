@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4534",
-    "sura": "46",
-    "aya": "24",
-    "arabic_text": "فَلَمَّا رَأَوۡهُ عَارِضٗا مُّسۡتَقۡبِلَ أَوۡدِيَتِهِمۡ قَالُواْ هَٰذَا عَارِضٞ مُّمۡطِرُنَاۚ بَلۡ هُوَ مَا ٱسۡتَعۡجَلۡتُم بِهِۦۖ رِيحٞ فِيهَا عَذَابٌ أَلِيمٞ",
-    "translation": "Maze babonye (igicu cy’ibihano) gikwiriye mu kirere kigana mu bibaya byabo (bari batuyemo, baracyishimira) maze baravuga bati “Iki gicu kiraduha imvura.” (Hudu arababwira ati) “Ahubwo ni ibyo mwasabaga ko byihutishwa. Ni umuyaga urimo ibihano bibabaza”,",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 505,
+  "verse_key": "46:24",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا رَأَوۡهُ عَارِضٗا مُّسۡتَقۡبِلَ أَوۡدِيَتِهِمۡ قَالُواْ هَٰذَا عَارِضٞ مُّمۡطِرُنَاۚ بَلۡ هُوَ مَا ٱسۡتَعۡجَلۡتُم بِهِۦۖ رِيحٞ فِيهَا عَذَابٌ أَلِيمٞ",
+  "translation": "Maze babonye (igicu cy’ibihano) gikwiriye mu kirere kigana mu bibaya byabo (bari batuyemo, baracyishimira) maze baravuga bati “Iki gicu kiraduha imvura.” (Hudu arababwira ati) “Ahubwo ni ibyo mwasabaga ko byihutishwa. Ni umuyaga urimo ibihano bibabaza”,",
+  "footnotes": ""
 }

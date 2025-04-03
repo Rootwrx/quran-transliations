@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3289",
-    "sura": "28",
-    "aya": "37",
-    "arabic_text": "وَقَالَ مُوسَىٰ رَبِّيٓ أَعۡلَمُ بِمَن جَآءَ بِٱلۡهُدَىٰ مِنۡ عِندِهِۦ وَمَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
-    "translation": "37. Y dijo Moisés: «Mi Señor sabe mejor quién está guiado y quién gozará de un buen final (en la otra vida). Ciertamente, los injustos (que rechazan la verdad) no triunfarán».",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 390,
+  "verse_key": "28:37",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ مُوسَىٰ رَبِّيٓ أَعۡلَمُ بِمَن جَآءَ بِٱلۡهُدَىٰ مِنۡ عِندِهِۦ وَمَن تَكُونُ لَهُۥ عَٰقِبَةُ ٱلدَّارِۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
+  "translation": "37. Y dijo Moisés: «Mi Señor sabe mejor quién está guiado y quién gozará de un buen final (en la otra vida). Ciertamente, los injustos (que rechazan la verdad) no triunfarán».",
+  "footnotes": ""
 }

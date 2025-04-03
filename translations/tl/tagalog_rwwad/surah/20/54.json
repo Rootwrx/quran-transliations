@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2402",
-    "sura": "20",
-    "aya": "54",
-    "arabic_text": "كُلُواْ وَٱرۡعَوۡاْ أَنۡعَٰمَكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّأُوْلِي ٱلنُّهَىٰ",
-    "translation": "Kumain kayo at magpastol kayo ng mga hayupan ninyo. Tunay na sa gayon ay talagang may mga tanda para sa mga may katinuan.",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 315,
+  "verse_key": "20:54",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُواْ وَٱرۡعَوۡاْ أَنۡعَٰمَكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّأُوْلِي ٱلنُّهَىٰ",
+  "translation": "Kumain kayo at magpastol kayo ng mga hayupan ninyo. Tunay na sa gayon ay talagang may mga tanda para sa mga may katinuan.",
+  "footnotes": ""
 }

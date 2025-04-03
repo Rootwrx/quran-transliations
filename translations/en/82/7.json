@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5836",
-    "sura": "82",
-    "aya": "7",
-    "arabic_text": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
-    "translation": "(7) Who created you, proportioned you, and balanced you?",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 587,
+  "verse_key": "82:7",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي خَلَقَكَ فَسَوَّىٰكَ فَعَدَلَكَ",
+  "translation": "(7) Who created you, proportioned you, and balanced you?",
+  "footnotes": ""
 }

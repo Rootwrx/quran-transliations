@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2316",
-    "sura": "19",
-    "aya": "66",
-    "arabic_text": "وَيَقُولُ ٱلۡإِنسَٰنُ أَءِذَا مَا مِتُّ لَسَوۡفَ أُخۡرَجُ حَيًّا",
-    "translation": "Dan berkata manusia, \"Betulkah apabila aku telah mati bahwa aku sungguh-sungguh akan dibangkitkan menjadi hidup kembali?\"",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 310,
+  "verse_key": "19:66",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُ ٱلۡإِنسَٰنُ أَءِذَا مَا مِتُّ لَسَوۡفَ أُخۡرَجُ حَيًّا",
+  "translation": "Dan berkata manusia, \"Betulkah apabila aku telah mati bahwa aku sungguh-sungguh akan dibangkitkan menjadi hidup kembali?\"",
+  "footnotes": ""
 }

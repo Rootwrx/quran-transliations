@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1266",
-    "sura": "9",
-    "aya": "31",
-    "arabic_text": "ٱتَّخَذُوٓاْ أَحۡبَارَهُمۡ وَرُهۡبَٰنَهُمۡ أَرۡبَابٗا مِّن دُونِ ٱللَّهِ وَٱلۡمَسِيحَ ٱبۡنَ مَرۡيَمَ وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُوٓاْ إِلَٰهٗا وَٰحِدٗاۖ لَّآ إِلَٰهَ إِلَّا هُوَۚ سُبۡحَٰنَهُۥ عَمَّا يُشۡرِكُونَ",
-    "translation": "Wamewafanya makuhani wao na wamonaki wao kuwa ni marabi badala ya Mwenyezi Mungu, na pia Masihi bin Maryamu. Na wala hawakuamrishwa isipo kuwa wamuabudu Mungu Mmoja, hapana mungu ila Yeye. Subhanahu, Ametakasika na hayo wanayo mshirikisha nayo.",
-    "footnotes": "Hao Mayahudi na Wakristo wamewafanya makuhani wao na mapadri kuwa ni \"Marabi\", kama ni miungu, kwa kuwapa madaraka ya kutunga sharia, na kuwa maneno yao ndiyo dini, ijapo kuwa yanakhitalifiana na kauli za Mtume wao. Wanawafuata katika upotovu wao, na wakamuabudu Masihi mwana wa Maryamu! Na Mwenyezi Mungu amewaamrisha katika hivyo hivyo Vitabu vyao kwa ndimi za Mitume wao, kuwa wasimuabudu ila Mungu Mmoja, kwa kuwa Yeye hapana anaye stahiki kuabudiwa kwa mujibu wa hukumu ya sharia na akili ila Mungu Mmoja. Mwenyezi Mungu ametakasika na kushirikishwa katika ibada, uumbaji, na sifa."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 191,
+  "verse_key": "9:31",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱتَّخَذُوٓاْ أَحۡبَارَهُمۡ وَرُهۡبَٰنَهُمۡ أَرۡبَابٗا مِّن دُونِ ٱللَّهِ وَٱلۡمَسِيحَ ٱبۡنَ مَرۡيَمَ وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُوٓاْ إِلَٰهٗا وَٰحِدٗاۖ لَّآ إِلَٰهَ إِلَّا هُوَۚ سُبۡحَٰنَهُۥ عَمَّا يُشۡرِكُونَ",
+  "translation": "Wamewafanya makuhani wao na wamonaki wao kuwa ni marabi badala ya Mwenyezi Mungu, na pia Masihi bin Maryamu. Na wala hawakuamrishwa isipo kuwa wamuabudu Mungu Mmoja, hapana mungu ila Yeye. Subhanahu, Ametakasika na hayo wanayo mshirikisha nayo.",
+  "footnotes": "Hao Mayahudi na Wakristo wamewafanya makuhani wao na mapadri kuwa ni \"Marabi\", kama ni miungu, kwa kuwapa madaraka ya kutunga sharia, na kuwa maneno yao ndiyo dini, ijapo kuwa yanakhitalifiana na kauli za Mtume wao. Wanawafuata katika upotovu wao, na wakamuabudu Masihi mwana wa Maryamu! Na Mwenyezi Mungu amewaamrisha katika hivyo hivyo Vitabu vyao kwa ndimi za Mitume wao, kuwa wasimuabudu ila Mungu Mmoja, kwa kuwa Yeye hapana anaye stahiki kuabudiwa kwa mujibu wa hukumu ya sharia na akili ila Mungu Mmoja. Mwenyezi Mungu ametakasika na kushirikishwa katika ibada, uumbaji, na sifa."
 }

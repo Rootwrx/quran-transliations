@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2580",
-    "sura": "21",
-    "aya": "97",
-    "arabic_text": "وَٱقۡتَرَبَ ٱلۡوَعۡدُ ٱلۡحَقُّ فَإِذَا هِيَ شَٰخِصَةٌ أَبۡصَٰرُ ٱلَّذِينَ كَفَرُواْ يَٰوَيۡلَنَا قَدۡ كُنَّا فِي غَفۡلَةٖ مِّنۡ هَٰذَا بَلۡ كُنَّا ظَٰلِمِينَ",
-    "translation": "Na miadi ya haki ikakaribia. Hapo ndipo yatapo kodoka macho ya walio kufuru (na watasema:) Ole wetu! Bila ya shaka tulikuwa tumeghafilika na haya, bali tulikuwa wenye kudhulumu.",
-    "footnotes": "Na ikakaribia miadi iliyo haina budi kutimizwa, nayo ni Siku ya Kiyama, wakawa wale walio kufuru wanakutikana wakikodoa macho yao kwa wingi wa kitisho, wakipiga makelele kusema: Kitisho gani hichi cha kutuangamiza! Hakika sisi tulighafilika na Siku hii. Bali tulikuwa ni wenye kujidhulumu nafsi zetu kwa ukafiri na inda."
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 330,
+  "verse_key": "21:97",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱقۡتَرَبَ ٱلۡوَعۡدُ ٱلۡحَقُّ فَإِذَا هِيَ شَٰخِصَةٌ أَبۡصَٰرُ ٱلَّذِينَ كَفَرُواْ يَٰوَيۡلَنَا قَدۡ كُنَّا فِي غَفۡلَةٖ مِّنۡ هَٰذَا بَلۡ كُنَّا ظَٰلِمِينَ",
+  "translation": "Na miadi ya haki ikakaribia. Hapo ndipo yatapo kodoka macho ya walio kufuru (na watasema:) Ole wetu! Bila ya shaka tulikuwa tumeghafilika na haya, bali tulikuwa wenye kudhulumu.",
+  "footnotes": "Na ikakaribia miadi iliyo haina budi kutimizwa, nayo ni Siku ya Kiyama, wakawa wale walio kufuru wanakutikana wakikodoa macho yao kwa wingi wa kitisho, wakipiga makelele kusema: Kitisho gani hichi cha kutuangamiza! Hakika sisi tulighafilika na Siku hii. Bali tulikuwa ni wenye kujidhulumu nafsi zetu kwa ukafiri na inda."
 }

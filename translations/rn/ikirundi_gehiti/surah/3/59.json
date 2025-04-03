@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "352",
-    "sura": "3",
-    "aya": "59",
-    "arabic_text": "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَۖ خَلَقَهُۥ مِن تُرَابٖ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ",
-    "translation": "Mu vy’ukuri, iremwa rya Isa mwene Mariyamu atagira se, ni nk’iremwa rya Adamu atagira se na nyina, Yamuremye mw’ivu hanyuma Imubwira Iti: “Ba umuntu”, aca aba umuntu muzima[12].",
-    "footnotes": "[12] Guha rero ubumana Isa mwene Mariyamu ku kuba yavutse atagira se, ni ikinyoma cambaye ubusa kuko na Adamu yaremwe atagira se na nyina, ariko hamwe n’ivyo, abantu bose ntibigeze bamufata ko ari imana, ahubwo bose bahurije ku kuba ari umuja n’ikiremwa c’Imana Allah."
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 57,
+  "verse_key": "3:59",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَۖ خَلَقَهُۥ مِن تُرَابٖ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ",
+  "translation": "Mu vy’ukuri, iremwa rya Isa mwene Mariyamu atagira se, ni nk’iremwa rya Adamu atagira se na nyina, Yamuremye mw’ivu hanyuma Imubwira Iti: “Ba umuntu”, aca aba umuntu muzima[12].",
+  "footnotes": "[12] Guha rero ubumana Isa mwene Mariyamu ku kuba yavutse atagira se, ni ikinyoma cambaye ubusa kuko na Adamu yaremwe atagira se na nyina, ariko hamwe n’ivyo, abantu bose ntibigeze bamufata ko ari imana, ahubwo bose bahurije ku kuba ari umuja n’ikiremwa c’Imana Allah."
 }

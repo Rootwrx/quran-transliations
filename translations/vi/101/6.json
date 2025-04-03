@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6163",
-    "sura": "101",
-    "aya": "6",
-    "arabic_text": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ",
-    "translation": "Vì vậy, đối với ai mà chiếc cân (chứa việc thiện) của y nặng.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 600,
+  "verse_key": "101:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا مَن ثَقُلَتۡ مَوَٰزِينُهُۥ",
+  "translation": "Vì vậy, đối với ai mà chiếc cân (chứa việc thiện) của y nặng.",
+  "footnotes": ""
 }

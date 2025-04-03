@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "554",
-    "sura": "4",
-    "aya": "61",
-    "arabic_text": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيۡتَ ٱلۡمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودٗا",
-    "translation": "Lɑ b sã n yeel-bɑ. \"wɑ-y n tʋg Wẽnd sẽn sikã lɑ y tʋg Tẽn-tʋʋmã sãrɩ\" lɑ fo sẽn yãt Munɑɑfɩgsã sẽn bɑlld n bɑsd foo, bɑllg tεkẽ.",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 88,
+  "verse_key": "4:61",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيۡتَ ٱلۡمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودٗا",
+  "translation": "Lɑ b sã n yeel-bɑ. \"wɑ-y n tʋg Wẽnd sẽn sikã lɑ y tʋg Tẽn-tʋʋmã sãrɩ\" lɑ fo sẽn yãt Munɑɑfɩgsã sẽn bɑlld n bɑsd foo, bɑllg tεkẽ.",
+  "footnotes": ""
 }

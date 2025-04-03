@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1250",
-    "sura": "9",
-    "aya": "15",
-    "arabic_text": "وَيُذۡهِبۡ غَيۡظَ قُلُوبِهِمۡۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
-    "translation": "Ngài sẽ loại bỏ cơn giận dữ khỏi trái tim của (những người có đức tin). Allah quay lại tha thứ cho ai là tùy ý Ngài. Quả thật, Allah biết và khôn ngoan.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 189,
+  "verse_key": "9:15",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُذۡهِبۡ غَيۡظَ قُلُوبِهِمۡۗ وَيَتُوبُ ٱللَّهُ عَلَىٰ مَن يَشَآءُۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+  "translation": "Ngài sẽ loại bỏ cơn giận dữ khỏi trái tim của (những người có đức tin). Allah quay lại tha thứ cho ai là tùy ý Ngài. Quả thật, Allah biết và khôn ngoan.",
+  "footnotes": ""
 }

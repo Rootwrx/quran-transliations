@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "256",
-    "sura": "2",
-    "aya": "249",
-    "arabic_text": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلۡجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبۡتَلِيكُم بِنَهَرٖ فَمَن شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّي وَمَن لَّمۡ يَطۡعَمۡهُ فَإِنَّهُۥ مِنِّيٓ إِلَّا مَنِ ٱغۡتَرَفَ غُرۡفَةَۢ بِيَدِهِۦۚ فَشَرِبُواْ مِنۡهُ إِلَّا قَلِيلٗا مِّنۡهُمۡۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ قَالُواْ لَا طَاقَةَ لَنَا ٱلۡيَوۡمَ بِجَالُوتَ وَجُنُودِهِۦۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ ٱللَّهِ كَم مِّن فِئَةٖ قَلِيلَةٍ غَلَبَتۡ فِئَةٗ كَثِيرَةَۢ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
-    "translation": "Nígbà tí Tọ̄lūt jáde pẹ̀lú àwọn ọmọ ogun, ó sọ pé: “Dájúdájú Allāhu máa fi odò kan dan yín wò. Nítorí náà, ẹnikẹ́ni tí ó bá mu nínú rẹ̀, kì í ṣe ẹni mi. Ẹni tí kò bá tọ́ ọ wò dájúdájú òun ni ẹni mi, àyàfi ẹni tí ó bá bu ìwọ̀n ẹ̀kúnwọ́ rẹ̀ kan mu.” (Ṣùgbọ́n) wọ́n mu nínú rẹ̀ àfi díẹ̀ nínú wọn. Nígbà tí òun àti àwọn tó gbàgbọ́ ní òdodo pẹ̀lú rẹ̀ sọdá odò náà, wọ́n sọ pé: “Kò sí agbára kan fún wa lónìí tí a lè fi k’ojú Jālūt àti àwọn ọmọ ogun rẹ̀.” Àwọn tó mọ̀ pé dájúdájú àwọn máa pàdé Allāhu, wọ́n sọ pé: “Mélòó mélòó nínú àwọn ìjọ (ogun) kékeré tó ti ṣẹ́gun ìjọ (ogun) púpọ̀ pẹ̀lú ìyọ̀ǹda Allāhu. Allāhu ń bẹ pẹ̀lú àwọn onísùúrù.”",
-    "footnotes": ""
-  }
+  "id": 249,
+  "verse_number": 249,
+  "page_number": 41,
+  "verse_key": "2:249",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 16,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا فَصَلَ طَالُوتُ بِٱلۡجُنُودِ قَالَ إِنَّ ٱللَّهَ مُبۡتَلِيكُم بِنَهَرٖ فَمَن شَرِبَ مِنۡهُ فَلَيۡسَ مِنِّي وَمَن لَّمۡ يَطۡعَمۡهُ فَإِنَّهُۥ مِنِّيٓ إِلَّا مَنِ ٱغۡتَرَفَ غُرۡفَةَۢ بِيَدِهِۦۚ فَشَرِبُواْ مِنۡهُ إِلَّا قَلِيلٗا مِّنۡهُمۡۚ فَلَمَّا جَاوَزَهُۥ هُوَ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ قَالُواْ لَا طَاقَةَ لَنَا ٱلۡيَوۡمَ بِجَالُوتَ وَجُنُودِهِۦۚ قَالَ ٱلَّذِينَ يَظُنُّونَ أَنَّهُم مُّلَٰقُواْ ٱللَّهِ كَم مِّن فِئَةٖ قَلِيلَةٍ غَلَبَتۡ فِئَةٗ كَثِيرَةَۢ بِإِذۡنِ ٱللَّهِۗ وَٱللَّهُ مَعَ ٱلصَّٰبِرِينَ",
+  "translation": "Nígbà tí Tọ̄lūt jáde pẹ̀lú àwọn ọmọ ogun, ó sọ pé: “Dájúdájú Allāhu máa fi odò kan dan yín wò. Nítorí náà, ẹnikẹ́ni tí ó bá mu nínú rẹ̀, kì í ṣe ẹni mi. Ẹni tí kò bá tọ́ ọ wò dájúdájú òun ni ẹni mi, àyàfi ẹni tí ó bá bu ìwọ̀n ẹ̀kúnwọ́ rẹ̀ kan mu.” (Ṣùgbọ́n) wọ́n mu nínú rẹ̀ àfi díẹ̀ nínú wọn. Nígbà tí òun àti àwọn tó gbàgbọ́ ní òdodo pẹ̀lú rẹ̀ sọdá odò náà, wọ́n sọ pé: “Kò sí agbára kan fún wa lónìí tí a lè fi k’ojú Jālūt àti àwọn ọmọ ogun rẹ̀.” Àwọn tó mọ̀ pé dájúdájú àwọn máa pàdé Allāhu, wọ́n sọ pé: “Mélòó mélòó nínú àwọn ìjọ (ogun) kékeré tó ti ṣẹ́gun ìjọ (ogun) púpọ̀ pẹ̀lú ìyọ̀ǹda Allāhu. Allāhu ń bẹ pẹ̀lú àwọn onísùúrù.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "580",
-    "sura": "4",
-    "aya": "87",
-    "arabic_text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ لَيَجۡمَعَنَّكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِۗ وَمَنۡ أَصۡدَقُ مِنَ ٱللَّهِ حَدِيثٗا",
-    "translation": "87. Allahas! La ilaha illa Huva (niekas neturi teisės būti garbinamas, tik Jis). Iš tiktųjų, Jis surinks jus kartu Prikėlimo Dieną, dėl kurios nėra jokios abejonės. Ir kas yra teisesnis žodžiuose nei Allahas?",
-    "footnotes": ""
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 92,
+  "verse_key": "4:87",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ لَيَجۡمَعَنَّكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِۗ وَمَنۡ أَصۡدَقُ مِنَ ٱللَّهِ حَدِيثٗا",
+  "translation": "87. Allahas! La ilaha illa Huva (niekas neturi teisės būti garbinamas, tik Jis). Iš tiktųjų, Jis surinks jus kartu Prikėlimo Dieną, dėl kurios nėra jokios abejonės. Ir kas yra teisesnis žodžiuose nei Allahas?",
+  "footnotes": ""
 }

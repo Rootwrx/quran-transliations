@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "566",
-    "sura": "4",
-    "aya": "73",
-    "arabic_text": "وَلَئِنۡ أَصَٰبَكُمۡ فَضۡلٞ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمۡ تَكُنۢ بَيۡنَكُمۡ وَبَيۡنَهُۥ مَوَدَّةٞ يَٰلَيۡتَنِي كُنتُ مَعَهُمۡ فَأَفُوزَ فَوۡزًا عَظِيمٗا",
-    "translation": "Na ikIkufikieni Fadhila kutoka kwa Mwenezi Mungu husema, kama kwamba hapakuwa mapenzi baina yenu naye, laiti ni ngekuwa baina yao nikafanikiwa Mafanikio makubwa",
-    "footnotes": "Na mnapo pata fadhila ya ushindi kutokana na Mwenyezi Mungu, mkapata ngawira za vita, kikundi hicho hicho, kwa kuona maya na kutamani, husema: Laiti tungeli kuwa nao katika vita hivi, nasi tukapata mafanikio ya ngawira nzuri. Na husema haya na hayo kama kwamba hapakuwepo mapenzi yoyote yaliyo wafunga wao na nyinyi."
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 89,
+  "verse_key": "4:73",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِنۡ أَصَٰبَكُمۡ فَضۡلٞ مِّنَ ٱللَّهِ لَيَقُولَنَّ كَأَن لَّمۡ تَكُنۢ بَيۡنَكُمۡ وَبَيۡنَهُۥ مَوَدَّةٞ يَٰلَيۡتَنِي كُنتُ مَعَهُمۡ فَأَفُوزَ فَوۡزًا عَظِيمٗا",
+  "translation": "Na ikIkufikieni Fadhila kutoka kwa Mwenezi Mungu husema, kama kwamba hapakuwa mapenzi baina yenu naye, laiti ni ngekuwa baina yao nikafanikiwa Mafanikio makubwa",
+  "footnotes": "Na mnapo pata fadhila ya ushindi kutokana na Mwenyezi Mungu, mkapata ngawira za vita, kikundi hicho hicho, kwa kuona maya na kutamani, husema: Laiti tungeli kuwa nao katika vita hivi, nasi tukapata mafanikio ya ngawira nzuri. Na husema haya na hayo kama kwamba hapakuwepo mapenzi yoyote yaliyo wafunga wao na nyinyi."
 }

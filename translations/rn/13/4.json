@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1711",
-    "sura": "13",
-    "aya": "4",
-    "arabic_text": "وَفِي ٱلۡأَرۡضِ قِطَعٞ مُّتَجَٰوِرَٰتٞ وَجَنَّٰتٞ مِّنۡ أَعۡنَٰبٖ وَزَرۡعٞ وَنَخِيلٞ صِنۡوَانٞ وَغَيۡرُ صِنۡوَانٖ يُسۡقَىٰ بِمَآءٖ وَٰحِدٖ وَنُفَضِّلُ بَعۡضَهَا عَلَىٰ بَعۡضٖ فِي ٱلۡأُكُلِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ",
-    "translation": "Mw’isi rero, burya harimwo uduce tw’agataka twegeranye ariko dutandukanye mu kanovera katwo[2]; harimwo n’imirima itotahaye y’imizabibu, indimo z’ibindi biterwa bitandukanye, ibiti vy’itende binaga ari bibiribibiri ku ngundu imwe, n’ibinaga kimwe cose cisangije ingundu, ivyo vyose ugasanga umwimbu wavyo utandukanye kw’ibara, akanovera n’indemo, kandi vyose biri ku gataka kamwe, vyavomewe ku mazi akomoka hamwe, gutyo Tugatuma rero abantu bakunda bagahurumbira cane gufungura bimwe muri nya mwimbu kurusha ibindi. Muri ivyo vyose rero, ni ukuri, harimwo ivyemezo vyotuma abantu bafise ubwenge banyurwa, bagaheza bagatahura ubushobozi n'ububasha vy’Imana Allah, maze bakayigamburukira.",
-    "footnotes": "[2] Ugasanga hari isi y’akanovera yimbuka, hambavu yayo hari iyindi si y’ubusize itimbuka namba."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 249,
+  "verse_key": "13:4",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفِي ٱلۡأَرۡضِ قِطَعٞ مُّتَجَٰوِرَٰتٞ وَجَنَّٰتٞ مِّنۡ أَعۡنَٰبٖ وَزَرۡعٞ وَنَخِيلٞ صِنۡوَانٞ وَغَيۡرُ صِنۡوَانٖ يُسۡقَىٰ بِمَآءٖ وَٰحِدٖ وَنُفَضِّلُ بَعۡضَهَا عَلَىٰ بَعۡضٖ فِي ٱلۡأُكُلِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ",
+  "translation": "Mw’isi rero, burya harimwo uduce tw’agataka twegeranye ariko dutandukanye mu kanovera katwo[2]; harimwo n’imirima itotahaye y’imizabibu, indimo z’ibindi biterwa bitandukanye, ibiti vy’itende binaga ari bibiribibiri ku ngundu imwe, n’ibinaga kimwe cose cisangije ingundu, ivyo vyose ugasanga umwimbu wavyo utandukanye kw’ibara, akanovera n’indemo, kandi vyose biri ku gataka kamwe, vyavomewe ku mazi akomoka hamwe, gutyo Tugatuma rero abantu bakunda bagahurumbira cane gufungura bimwe muri nya mwimbu kurusha ibindi. Muri ivyo vyose rero, ni ukuri, harimwo ivyemezo vyotuma abantu bafise ubwenge banyurwa, bagaheza bagatahura ubushobozi n'ububasha vy’Imana Allah, maze bakayigamburukira.",
+  "footnotes": "[2] Ugasanga hari isi y’akanovera yimbuka, hambavu yayo hari iyindi si y’ubusize itimbuka namba."
 }

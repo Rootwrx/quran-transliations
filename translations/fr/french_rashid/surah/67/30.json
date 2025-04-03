@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5271",
-    "sura": "67",
-    "aya": "30",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرٗا فَمَن يَأۡتِيكُم بِمَآءٖ مَّعِينِۭ",
-    "translation": "30 Dis : « Si l’eau que vous buvez se perdait dans les profondeurs du sol, qui pourrait de nouveau la faire jaillir à la surface de la terre ? »",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 564,
+  "verse_key": "67:30",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَصۡبَحَ مَآؤُكُمۡ غَوۡرٗا فَمَن يَأۡتِيكُم بِمَآءٖ مَّعِينِۭ",
+  "translation": "30 Dis : « Si l’eau que vous buvez se perdait dans les profondeurs du sol, qui pourrait de nouveau la faire jaillir à la surface de la terre ? »",
+  "footnotes": ""
 }

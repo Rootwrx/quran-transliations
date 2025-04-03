@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3724",
-    "sura": "36",
-    "aya": "19",
-    "arabic_text": "قَالُواْ طَٰٓئِرُكُم مَّعَكُمۡ أَئِن ذُكِّرۡتُمۚ بَلۡ أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ",
-    "translation": "“Hooddannaan (milkii ilaallachuun) keessan isinumaa wajjin” jedhan. Sila yoo gorfamtanis (ni hooddattuu)? Akkasii miti Isinumatu ummata daangaa dabritoota” jedhan.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 441,
+  "verse_key": "36:19",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ طَٰٓئِرُكُم مَّعَكُمۡ أَئِن ذُكِّرۡتُمۚ بَلۡ أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ",
+  "translation": "“Hooddannaan (milkii ilaallachuun) keessan isinumaa wajjin” jedhan. Sila yoo gorfamtanis (ni hooddattuu)? Akkasii miti Isinumatu ummata daangaa dabritoota” jedhan.",
+  "footnotes": ""
 }

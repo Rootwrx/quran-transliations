@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2595",
-    "sura": "21",
-    "aya": "112",
-    "arabic_text": "قَٰلَ رَبِّ ٱحۡكُم بِٱلۡحَقِّۗ وَرَبُّنَا ٱلرَّحۡمَٰنُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
-    "translation": "Ó sọ pé: “Olúwa mi, ṣèdájọ́ pẹ̀lú òdodo. Olúwa wa ni Àjọkẹ́-ayé, Ẹni tí à ń wá àánú Rẹ̀ lórí ohun tí ẹ̀ ń fi ròyìn (Rẹ̀).”[1]",
-    "footnotes": "1. Ìyẹn ni pé, kí Allāhu Aláàánú ṣàánú wà lórí àwọn irọ́ tí àwọn aláìgbàgbọ́ wọ̀nyí ń pa mọ́ Allāhu nítorí pé, nígbà tí ìyà rẹ̀ bá dé nílé ayé yìí, aláìṣẹ̀ yóò pín nínú rẹ̀."
-  }
+  "id": 112,
+  "verse_number": 112,
+  "page_number": 331,
+  "verse_key": "21:112",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَٰلَ رَبِّ ٱحۡكُم بِٱلۡحَقِّۗ وَرَبُّنَا ٱلرَّحۡمَٰنُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+  "translation": "Ó sọ pé: “Olúwa mi, ṣèdájọ́ pẹ̀lú òdodo. Olúwa wa ni Àjọkẹ́-ayé, Ẹni tí à ń wá àánú Rẹ̀ lórí ohun tí ẹ̀ ń fi ròyìn (Rẹ̀).”[1]",
+  "footnotes": "1. Ìyẹn ni pé, kí Allāhu Aláàánú ṣàánú wà lórí àwọn irọ́ tí àwọn aláìgbàgbọ́ wọ̀nyí ń pa mọ́ Allāhu nítorí pé, nígbà tí ìyà rẹ̀ bá dé nílé ayé yìí, aláìṣẹ̀ yóò pín nínú rẹ̀."
 }

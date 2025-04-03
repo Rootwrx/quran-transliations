@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5765",
-    "sura": "80",
-    "aya": "7",
-    "arabic_text": "وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ",
-    "translation": "(7) And not upon you [is any blame] if he will not be purified.[1856]",
-    "footnotes": "[1856]- The Prophet (ﷺ) was responsible only for conveying the message, not for ultimate guidance."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 585,
+  "verse_key": "80:7",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا عَلَيۡكَ أَلَّا يَزَّكَّىٰ",
+  "translation": "(7) And not upon you [is any blame] if he will not be purified.[1856]",
+  "footnotes": "[1856]- The Prophet (ﷺ) was responsible only for conveying the message, not for ultimate guidance."
 }

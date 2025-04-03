@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2821",
-    "sura": "24",
-    "aya": "30",
-    "arabic_text": "قُل لِّلۡمُؤۡمِنِينَ يَغُضُّواْ مِنۡ أَبۡصَٰرِهِمۡ وَيَحۡفَظُواْ فُرُوجَهُمۡۚ ذَٰلِكَ أَزۡكَىٰ لَهُمۡۚ إِنَّ ٱللَّهَ خَبِيرُۢ بِمَا يَصۡنَعُونَ",
-    "translation": "Mu’uminootaan “(ija keessan gadi qabadhaa)” jedhi, ijoowwan isaanii gadi qabatu; qaamoowwan saalaa isaaniis ni tikfatu, Santu isaaniif irra qulqulluudha. Dhugumatti, Rabbiin keessa beekaa waan isaan dalaganiiti.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 353,
+  "verse_key": "24:30",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 141,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لِّلۡمُؤۡمِنِينَ يَغُضُّواْ مِنۡ أَبۡصَٰرِهِمۡ وَيَحۡفَظُواْ فُرُوجَهُمۡۚ ذَٰلِكَ أَزۡكَىٰ لَهُمۡۚ إِنَّ ٱللَّهَ خَبِيرُۢ بِمَا يَصۡنَعُونَ",
+  "translation": "Mu’uminootaan “(ija keessan gadi qabadhaa)” jedhi, ijoowwan isaanii gadi qabatu; qaamoowwan saalaa isaaniis ni tikfatu, Santu isaaniif irra qulqulluudha. Dhugumatti, Rabbiin keessa beekaa waan isaan dalaganiiti.",
+  "footnotes": ""
 }

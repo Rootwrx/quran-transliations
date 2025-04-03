@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3630",
-    "sura": "34",
-    "aya": "24",
-    "arabic_text": "۞ قُلۡ مَن يَرۡزُقُكُم مِّنَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ قُلِ ٱللَّهُۖ وَإِنَّآ أَوۡ إِيَّاكُمۡ لَعَلَىٰ هُدًى أَوۡ فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "Ntumwa y’Imana! Bwira ababangikanyamana uti: “Ni nde Abaronsa ibibabeshaho biturutse ku mvura igwa ivuye mu bicu izananye mu kirere; n’ibiva mw’isi mu bimera hamwe n’ubutare, n’ibindi n’ibindi!”. Bazoheza bishure ata gukekereza ko ari Imana Allah. Nibatishura kubera ubugugu bwabo, urababwira uti: “Ni Imana Allah Ibaronsa ibibabeshaho; kandi mu vy’ukuri, hagati yacu, harimwo umugwi uri mu burongozi canke uri mu muzimagiza uri kure cane y’ukuri”.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 431,
+  "verse_key": "34:24",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قُلۡ مَن يَرۡزُقُكُم مِّنَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ قُلِ ٱللَّهُۖ وَإِنَّآ أَوۡ إِيَّاكُمۡ لَعَلَىٰ هُدًى أَوۡ فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "Ntumwa y’Imana! Bwira ababangikanyamana uti: “Ni nde Abaronsa ibibabeshaho biturutse ku mvura igwa ivuye mu bicu izananye mu kirere; n’ibiva mw’isi mu bimera hamwe n’ubutare, n’ibindi n’ibindi!”. Bazoheza bishure ata gukekereza ko ari Imana Allah. Nibatishura kubera ubugugu bwabo, urababwira uti: “Ni Imana Allah Ibaronsa ibibabeshaho; kandi mu vy’ukuri, hagati yacu, harimwo umugwi uri mu burongozi canke uri mu muzimagiza uri kure cane y’ukuri”.",
+  "footnotes": ""
 }

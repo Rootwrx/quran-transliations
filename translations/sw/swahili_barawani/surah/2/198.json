@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "205",
-    "sura": "2",
-    "aya": "198",
-    "arabic_text": "لَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡۚ فَإِذَآ أَفَضۡتُم مِّنۡ عَرَفَٰتٖ فَٱذۡكُرُواْ ٱللَّهَ عِندَ ٱلۡمَشۡعَرِ ٱلۡحَرَامِۖ وَٱذۡكُرُوهُ كَمَا هَدَىٰكُمۡ وَإِن كُنتُم مِّن قَبۡلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
-    "translation": "Si vibaya kwenu kuitafuta fadhila ya Mola wenu Mlezi. Na mtakapo miminika kutoka A'rafat mtajeni Mwenyezi Mungu penye Masha'ril Haram. Na mkumbukeni kama alivyo kuongoeni, ijapo kuwa zamani mlikuwa miongoni mwa walio potea.",
-    "footnotes": "Na walikuwako miongoni mwenu ambao wakiona vibaya kufanya biashara na kutafuta riziki wakati wa msimu wa Hija. Basi mnaambiwa kuwa hapana ubaya kwenu hayo, bali mnaweza kuchuma maisha kwa njia ziliyo ruhusiwa na sharia, na mtafute fadhila na neema za Mwenyezi Mungu. Wakitoka Mahujaji A'rafat baada ya kusimama huko, na wakafika Muzdalifa katika mkesha wa Idi ya Kuchinja, wamtaje Mwenyezi Mungu hapo Masha'ril Haram, napo ndipo kwenye kilima cha Muzdalifa, kwa kusoma Tahlili na kuitikia Labbaika na kusoma Takbir. Na wamtukuze Mwenyezi Mungu wakimhimidi na kumshukuru kwa vile alivyo waongoa kwenye Dini ya Haki na ibada iliyo nyooka katika Hija na Umra, na ilhali kabla ya hapo walikuwa katika walio potea njia ya uwongofu."
-  }
+  "id": 198,
+  "verse_number": 198,
+  "page_number": 31,
+  "verse_key": "2:198",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡۚ فَإِذَآ أَفَضۡتُم مِّنۡ عَرَفَٰتٖ فَٱذۡكُرُواْ ٱللَّهَ عِندَ ٱلۡمَشۡعَرِ ٱلۡحَرَامِۖ وَٱذۡكُرُوهُ كَمَا هَدَىٰكُمۡ وَإِن كُنتُم مِّن قَبۡلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+  "translation": "Si vibaya kwenu kuitafuta fadhila ya Mola wenu Mlezi. Na mtakapo miminika kutoka A'rafat mtajeni Mwenyezi Mungu penye Masha'ril Haram. Na mkumbukeni kama alivyo kuongoeni, ijapo kuwa zamani mlikuwa miongoni mwa walio potea.",
+  "footnotes": "Na walikuwako miongoni mwenu ambao wakiona vibaya kufanya biashara na kutafuta riziki wakati wa msimu wa Hija. Basi mnaambiwa kuwa hapana ubaya kwenu hayo, bali mnaweza kuchuma maisha kwa njia ziliyo ruhusiwa na sharia, na mtafute fadhila na neema za Mwenyezi Mungu. Wakitoka Mahujaji A'rafat baada ya kusimama huko, na wakafika Muzdalifa katika mkesha wa Idi ya Kuchinja, wamtaje Mwenyezi Mungu hapo Masha'ril Haram, napo ndipo kwenye kilima cha Muzdalifa, kwa kusoma Tahlili na kuitikia Labbaika na kusoma Takbir. Na wamtukuze Mwenyezi Mungu wakimhimidi na kumshukuru kwa vile alivyo waongoa kwenye Dini ya Haki na ibada iliyo nyooka katika Hija na Umra, na ilhali kabla ya hapo walikuwa katika walio potea njia ya uwongofu."
 }

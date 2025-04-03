@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6059",
-    "sura": "92",
-    "aya": "1",
-    "arabic_text": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰ",
-    "translation": "And olsun (yer üzünü zülmətə) bürüməkdə olan gecəyə!",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 595,
+  "verse_key": "92:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّيۡلِ إِذَا يَغۡشَىٰ",
+  "translation": "And olsun (yer üzünü zülmətə) bürüməkdə olan gecəyə!",
+  "footnotes": ""
 }

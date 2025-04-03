@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6230",
-    "sura": "113",
-    "aya": "5",
-    "arabic_text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
-    "translation": "N leb n yi sũ-ki-ned wẽnga, t'a sã n wa kĩidẽ (maan sũkĩiri)\".",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 604,
+  "verse_key": "113:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِن شَرِّ حَاسِدٍ إِذَا حَسَدَ",
+  "translation": "N leb n yi sũ-ki-ned wẽnga, t'a sã n wa kĩidẽ (maan sũkĩiri)\".",
+  "footnotes": ""
 }

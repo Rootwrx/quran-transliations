@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6054",
-    "sura": "91",
-    "aya": "11",
-    "arabic_text": "كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ",
-    "translation": "11. El pueblo de Zamud desmintió (a su mensajero Saleh) mediante sus transgresiones",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 595,
+  "verse_key": "91:11",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَّبَتۡ ثَمُودُ بِطَغۡوَىٰهَآ",
+  "translation": "11. El pueblo de Zamud desmintió (a su mensajero Saleh) mediante sus transgresiones",
+  "footnotes": ""
 }

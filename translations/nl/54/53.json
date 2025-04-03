@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4899",
-    "sura": "54",
-    "aya": "53",
-    "arabic_text": "وَكُلُّ صَغِيرٖ وَكَبِيرٖ مُّسۡتَطَرٌ",
-    "translation": "53. En alles, groot en klein is staat opgeschreven.",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 531,
+  "verse_key": "54:53",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكُلُّ صَغِيرٖ وَكَبِيرٖ مُّسۡتَطَرٌ",
+  "translation": "53. En alles, groot en klein is staat opgeschreven.",
+  "footnotes": ""
 }

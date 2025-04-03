@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4247",
-    "sura": "41",
-    "aya": "29",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ رَبَّنَآ أَرِنَا ٱلَّذَيۡنِ أَضَلَّانَا مِنَ ٱلۡجِنِّ وَٱلۡإِنسِ نَجۡعَلۡهُمَا تَحۡتَ أَقۡدَامِنَا لِيَكُونَا مِنَ ٱلۡأَسۡفَلِينَ",
-    "translation": "(29) And those who disbelieved will [then] say, \"Our Lord, show us those who misled us of the jinn and men [so] we may put them under our feet[1392] that they will be among the lowest.\"",
-    "footnotes": "[1392]- In the lowest depths of Hell.  Or \"that we may step on them\" in revenge."
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 479,
+  "verse_key": "41:29",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ رَبَّنَآ أَرِنَا ٱلَّذَيۡنِ أَضَلَّانَا مِنَ ٱلۡجِنِّ وَٱلۡإِنسِ نَجۡعَلۡهُمَا تَحۡتَ أَقۡدَامِنَا لِيَكُونَا مِنَ ٱلۡأَسۡفَلِينَ",
+  "translation": "(29) And those who disbelieved will [then] say, \"Our Lord, show us those who misled us of the jinn and men [so] we may put them under our feet[1392] that they will be among the lowest.\"",
+  "footnotes": "[1392]- In the lowest depths of Hell.  Or \"that we may step on them\" in revenge."
 }

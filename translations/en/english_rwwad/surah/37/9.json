@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3797",
-    "sura": "37",
-    "aya": "9",
-    "arabic_text": "دُحُورٗاۖ وَلَهُمۡ عَذَابٞ وَاصِبٌ",
-    "translation": "to repel them; and for them there will be a perpetual punishment,",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 446,
+  "verse_key": "37:9",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "دُحُورٗاۖ وَلَهُمۡ عَذَابٞ وَاصِبٌ",
+  "translation": "to repel them; and for them there will be a perpetual punishment,",
+  "footnotes": ""
 }

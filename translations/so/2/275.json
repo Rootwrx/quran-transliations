@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "282",
-    "sura": "2",
-    "aya": "275",
-    "arabic_text": "ٱلَّذِينَ يَأۡكُلُونَ ٱلرِّبَوٰاْ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيۡطَٰنُ مِنَ ٱلۡمَسِّۚ ذَٰلِكَ بِأَنَّهُمۡ قَالُوٓاْ إِنَّمَا ٱلۡبَيۡعُ مِثۡلُ ٱلرِّبَوٰاْۗ وَأَحَلَّ ٱللَّهُ ٱلۡبَيۡعَ وَحَرَّمَ ٱلرِّبَوٰاْۚ فَمَن جَآءَهُۥ مَوۡعِظَةٞ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمۡرُهُۥٓ إِلَى ٱللَّهِۖ وَمَنۡ عَادَ فَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
-    "translation": "275. Kuwa Ribada qaata kama soo kacaan (qubuurahooda) waxaan aheyn sida mid uu sheydaan ku daandaanshay taabashadiisa u kaco72. Sidaasi waxaa ugu wacan inay yidhaahdaan: Beecu wax kale maahee waa sida ribada; Allena wuu xalaaleeyey beeca oo xarrimay Ribada. Qofkii waano uga timaaddo Rabbigi markaa ka reebtooma, wuxuu leeyahay wixii horay uu u qaatay (intaan la xarrimin oo looma raacanayo); arrinkiisana waxaa go’aankiisa leh Alle (oo cafiyey); qofkiise u noqda (ribada), waa kuwaa kuwa ehlu Naarka ah, way ku dhex waari doonaan.",
-    "footnotes": "72. Riba qaataha ma xasilo, ma deggana, oo waa sida qof waalan oo dhacdhacaya. 73. Ribadii la qaatay ka hor soo degidda Aayaddan way bannaan tahay inaan la soo celin."
-  }
+  "id": 275,
+  "verse_number": 275,
+  "page_number": 47,
+  "verse_key": "2:275",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 19,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يَأۡكُلُونَ ٱلرِّبَوٰاْ لَا يَقُومُونَ إِلَّا كَمَا يَقُومُ ٱلَّذِي يَتَخَبَّطُهُ ٱلشَّيۡطَٰنُ مِنَ ٱلۡمَسِّۚ ذَٰلِكَ بِأَنَّهُمۡ قَالُوٓاْ إِنَّمَا ٱلۡبَيۡعُ مِثۡلُ ٱلرِّبَوٰاْۗ وَأَحَلَّ ٱللَّهُ ٱلۡبَيۡعَ وَحَرَّمَ ٱلرِّبَوٰاْۚ فَمَن جَآءَهُۥ مَوۡعِظَةٞ مِّن رَّبِّهِۦ فَٱنتَهَىٰ فَلَهُۥ مَا سَلَفَ وَأَمۡرُهُۥٓ إِلَى ٱللَّهِۖ وَمَنۡ عَادَ فَأُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+  "translation": "275. Kuwa Ribada qaata kama soo kacaan (qubuurahooda) waxaan aheyn sida mid uu sheydaan ku daandaanshay taabashadiisa u kaco72. Sidaasi waxaa ugu wacan inay yidhaahdaan: Beecu wax kale maahee waa sida ribada; Allena wuu xalaaleeyey beeca oo xarrimay Ribada. Qofkii waano uga timaaddo Rabbigi markaa ka reebtooma, wuxuu leeyahay wixii horay uu u qaatay (intaan la xarrimin oo looma raacanayo); arrinkiisana waxaa go’aankiisa leh Alle (oo cafiyey); qofkiise u noqda (ribada), waa kuwaa kuwa ehlu Naarka ah, way ku dhex waari doonaan.",
+  "footnotes": "72. Riba qaataha ma xasilo, ma deggana, oo waa sida qof waalan oo dhacdhacaya. 73. Ribadii la qaatay ka hor soo degidda Aayaddan way bannaan tahay inaan la soo celin."
 }

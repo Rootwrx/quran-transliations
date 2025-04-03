@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6073",
-    "sura": "92",
-    "aya": "15",
-    "arabic_text": "لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى",
-    "translation": "u koju će ući samo najveći nesretnik, ",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 596,
+  "verse_key": "92:15",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا يَصۡلَىٰهَآ إِلَّا ٱلۡأَشۡقَى",
+  "translation": "u koju će ući samo najveći nesretnik, ",
+  "footnotes": ""
 }

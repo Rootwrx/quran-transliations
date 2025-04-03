@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6221",
-    "sura": "111",
-    "aya": "5",
-    "arabic_text": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ",
-    "translation": "habang sa leeg nito ay may tali mula sa linubid na himaymay.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 603,
+  "verse_key": "111:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي جِيدِهَا حَبۡلٞ مِّن مَّسَدِۭ",
+  "translation": "habang sa leeg nito ay may tali mula sa linubid na himaymay.",
+  "footnotes": ""
 }

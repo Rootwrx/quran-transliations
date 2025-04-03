@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6063",
-    "sura": "92",
-    "aya": "5",
-    "arabic_text": "فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ",
-    "translation": "Энди ким саховат кўрсатса ва тақво қилса;",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 595,
+  "verse_key": "92:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا مَنۡ أَعۡطَىٰ وَٱتَّقَىٰ",
+  "translation": "Энди ким саховат кўрсатса ва тақво қилса;",
+  "footnotes": ""
 }

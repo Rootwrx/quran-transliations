@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1641",
-    "sura": "12",
-    "aya": "45",
-    "arabic_text": "وَقَالَ ٱلَّذِي نَجَا مِنۡهُمَا وَٱدَّكَرَ بَعۡدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأۡوِيلِهِۦ فَأَرۡسِلُونِ",
-    "translation": "Hapo akasema yule aliye okoka katika wale wawili akakumbuka baada ya muda: Mimi nitakwambieni tafsiri yake. Basi nitumeni.",
-    "footnotes": "Akasema yule mtu aliye okoka katika wawili alio kuwa nao Yusuf gerezani, na akakumbuka wasia wa Yusuf, baada ya kupita muda mrefu: Mimi nitakwambieni tafsiri ya ndoto aliyo itaja mfalme. Nipelekeni kwa huyo mwenye ilimu ya kuifasiri."
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 241,
+  "verse_key": "12:45",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِي نَجَا مِنۡهُمَا وَٱدَّكَرَ بَعۡدَ أُمَّةٍ أَنَا۠ أُنَبِّئُكُم بِتَأۡوِيلِهِۦ فَأَرۡسِلُونِ",
+  "translation": "Hapo akasema yule aliye okoka katika wale wawili akakumbuka baada ya muda: Mimi nitakwambieni tafsiri yake. Basi nitumeni.",
+  "footnotes": "Akasema yule mtu aliye okoka katika wawili alio kuwa nao Yusuf gerezani, na akakumbuka wasia wa Yusuf, baada ya kupita muda mrefu: Mimi nitakwambieni tafsiri ya ndoto aliyo itaja mfalme. Nipelekeni kwa huyo mwenye ilimu ya kuifasiri."
 }

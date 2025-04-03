@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6034",
-    "sura": "90",
-    "aya": "11",
-    "arabic_text": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
-    "translation": "11. Mas el hombre no emprende la vía difícil (que conduce al Paraíso).",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 594,
+  "verse_key": "90:11",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
+  "translation": "11. Mas el hombre no emprende la vía difícil (que conduce al Paraíso).",
+  "footnotes": ""
 }

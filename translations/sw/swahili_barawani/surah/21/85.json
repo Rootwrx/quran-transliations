@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2568",
-    "sura": "21",
-    "aya": "85",
-    "arabic_text": "وَإِسۡمَٰعِيلَ وَإِدۡرِيسَ وَذَا ٱلۡكِفۡلِۖ كُلّٞ مِّنَ ٱلصَّٰبِرِينَ",
-    "translation": "Na Ismail, na Idris, na Dhulkifli - wote walikuwa miongoni mwa wanao subiri.",
-    "footnotes": "Ewe Nabii! Watajie watu wako khabari za Ismail, na Idris, na Dhulkifli. Wote hao ni miongoni wanao subiri wakahimili taklifa na shida."
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 329,
+  "verse_key": "21:85",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِسۡمَٰعِيلَ وَإِدۡرِيسَ وَذَا ٱلۡكِفۡلِۖ كُلّٞ مِّنَ ٱلصَّٰبِرِينَ",
+  "translation": "Na Ismail, na Idris, na Dhulkifli - wote walikuwa miongoni mwa wanao subiri.",
+  "footnotes": "Ewe Nabii! Watajie watu wako khabari za Ismail, na Idris, na Dhulkifli. Wote hao ni miongoni wanao subiri wakahimili taklifa na shida."
 }

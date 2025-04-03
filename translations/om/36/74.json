@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3779",
-    "sura": "36",
-    "aya": "74",
-    "arabic_text": "وَٱتَّخَذُواْ مِن دُونِ ٱللَّهِ ءَالِهَةٗ لَّعَلَّهُمۡ يُنصَرُونَ",
-    "translation": "Rabbiin ala gabbaramtoota godhatan Akka tumsamaniif jecha.",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 445,
+  "verse_key": "36:74",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّخَذُواْ مِن دُونِ ٱللَّهِ ءَالِهَةٗ لَّعَلَّهُمۡ يُنصَرُونَ",
+  "translation": "Rabbiin ala gabbaramtoota godhatan Akka tumsamaniif jecha.",
+  "footnotes": ""
 }

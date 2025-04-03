@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1498",
-    "sura": "11",
-    "aya": "25",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦٓ إِنِّي لَكُمۡ نَذِيرٞ مُّبِينٌ",
-    "translation": " 25. And indeed We sent Nûh (Noah) to his people (and he said): \"I have come to you as a plain warner.\"",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 224,
+  "verse_key": "11:25",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦٓ إِنِّي لَكُمۡ نَذِيرٞ مُّبِينٌ",
+  "translation": " 25. And indeed We sent Nûh (Noah) to his people (and he said): \"I have come to you as a plain warner.\"",
+  "footnotes": ""
 }

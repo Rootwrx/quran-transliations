@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5365",
-    "sura": "69",
-    "aya": "42",
-    "arabic_text": "وَلَا بِقَوۡلِ كَاهِنٖۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
-    "translation": "42਼ ਅਤੇ ਨਾ ਹੀ ਕਿਸੇ ਪਾਂਧੇ ਦਾ ਕਥਨ ਹੈ, ਪਰ ਤੁਸੀਂ ਲੋਕ ਘੱਟ ਹੀ ਨਸੀਹਤ ਗ੍ਰਹਿਣ ਕਰਦੇ ਹੋ।",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 568,
+  "verse_key": "69:42",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا بِقَوۡلِ كَاهِنٖۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
+  "translation": "42਼ ਅਤੇ ਨਾ ਹੀ ਕਿਸੇ ਪਾਂਧੇ ਦਾ ਕਥਨ ਹੈ, ਪਰ ਤੁਸੀਂ ਲੋਕ ਘੱਟ ਹੀ ਨਸੀਹਤ ਗ੍ਰਹਿਣ ਕਰਦੇ ਹੋ।",
+  "footnotes": ""
 }

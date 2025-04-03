@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4340",
-    "sura": "43",
-    "aya": "15",
-    "arabic_text": "وَجَعَلُواْ لَهُۥ مِنۡ عِبَادِهِۦ جُزۡءًاۚ إِنَّ ٱلۡإِنسَٰنَ لَكَفُورٞ مُّبِينٌ",
-    "translation": "15. Waxayse ka yeelaan qayb ka mid ah addoomihiisa (shariigyo la wadaaga Alle cibaadada)5; Hubaal Aadmigu waa abaal darane caddaysatay.",
-    "footnotes": "5. Iyagoo ku andacooda inuu Alle s.w.t. leeyahay wiil ama gabdho. Arrinkanna kuma habboona Alle, waayo waa Keli aan wax shariik ah lahayn iyo xaas iyo ilmo midna."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 490,
+  "verse_key": "43:15",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلُواْ لَهُۥ مِنۡ عِبَادِهِۦ جُزۡءًاۚ إِنَّ ٱلۡإِنسَٰنَ لَكَفُورٞ مُّبِينٌ",
+  "translation": "15. Waxayse ka yeelaan qayb ka mid ah addoomihiisa (shariigyo la wadaaga Alle cibaadada)5; Hubaal Aadmigu waa abaal darane caddaysatay.",
+  "footnotes": "5. Iyagoo ku andacooda inuu Alle s.w.t. leeyahay wiil ama gabdho. Arrinkanna kuma habboona Alle, waayo waa Keli aan wax shariik ah lahayn iyo xaas iyo ilmo midna."
 }

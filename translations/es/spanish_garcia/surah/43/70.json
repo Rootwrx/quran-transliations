@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4395",
-    "sura": "43",
-    "aya": "70",
-    "arabic_text": "ٱدۡخُلُواْ ٱلۡجَنَّةَ أَنتُمۡ وَأَزۡوَٰجُكُمۡ تُحۡبَرُونَ",
-    "translation": "70. Entren al Paraíso, ustedes y sus cónyuges, donde disfrutarán de las delicias.",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 494,
+  "verse_key": "43:70",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱدۡخُلُواْ ٱلۡجَنَّةَ أَنتُمۡ وَأَزۡوَٰجُكُمۡ تُحۡبَرُونَ",
+  "translation": "70. Entren al Paraíso, ustedes y sus cónyuges, donde disfrutarán de las delicias.",
+  "footnotes": ""
 }

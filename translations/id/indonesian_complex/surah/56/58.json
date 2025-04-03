@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5037",
-    "sura": "56",
-    "aya": "58",
-    "arabic_text": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
-    "translation": "Maka terangkanlah kepada-Ku tentang nutfah yang kamu pancarkan.",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 536,
+  "verse_key": "56:58",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَرَءَيۡتُم مَّا تُمۡنُونَ",
+  "translation": "Maka terangkanlah kepada-Ku tentang nutfah yang kamu pancarkan.",
+  "footnotes": ""
 }

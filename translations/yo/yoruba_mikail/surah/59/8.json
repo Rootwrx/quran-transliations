@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5134",
-    "sura": "59",
-    "aya": "8",
-    "arabic_text": "لِلۡفُقَرَآءِ ٱلۡمُهَٰجِرِينَ ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِمۡ وَأَمۡوَٰلِهِمۡ يَبۡتَغُونَ فَضۡلٗا مِّنَ ٱللَّهِ وَرِضۡوَٰنٗا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓۚ أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
-    "translation": "(Ìkógun náà tún wà fún) àwọn aláìní, (ìyẹn,) al-Muhājirūn, àwọn tí wọ́n lé jáde kúrò nínú ilé wọn àti níbi dúkìá wọn, tí wọ́n sì ń wá oore àjùlọ àti ìyọ́nú láti ọ̀dọ̀ Allāhu, tí wọ́n sì ń ṣàrànṣe fún (ẹ̀sìn) Allāhu àti Òjíṣẹ́ Rẹ̀. Àwọn wọ̀nyẹn gan-an ni olódodo.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 546,
+  "verse_key": "59:8",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِلۡفُقَرَآءِ ٱلۡمُهَٰجِرِينَ ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِمۡ وَأَمۡوَٰلِهِمۡ يَبۡتَغُونَ فَضۡلٗا مِّنَ ٱللَّهِ وَرِضۡوَٰنٗا وَيَنصُرُونَ ٱللَّهَ وَرَسُولَهُۥٓۚ أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+  "translation": "(Ìkógun náà tún wà fún) àwọn aláìní, (ìyẹn,) al-Muhājirūn, àwọn tí wọ́n lé jáde kúrò nínú ilé wọn àti níbi dúkìá wọn, tí wọ́n sì ń wá oore àjùlọ àti ìyọ́nú láti ọ̀dọ̀ Allāhu, tí wọ́n sì ń ṣàrànṣe fún (ẹ̀sìn) Allāhu àti Òjíṣẹ́ Rẹ̀. Àwọn wọ̀nyẹn gan-an ni olódodo.",
+  "footnotes": ""
 }

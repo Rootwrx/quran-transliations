@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "319",
-    "sura": "3",
-    "aya": "26",
-    "arabic_text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Muvugishwamana! Vuga usaba Imana yawe Rurema uti: “Mana yanje Nzima! Nyeninganji Rugaba w’ubwami bwose! Uha ubwami n’inganji uwo Ushatse, Ukabwambura uwo Ushatse; Uha icubahiro c’iteka kw’isi no mw’ijuru uwo Ushatse, Ugasuzuguza uwo Ushatse; mu minwe yawe hari ivyiza bisa, mu vy’ukuri ni Wewe Mushoboravyose[59],",
-    "footnotes": "[59] Muri iyi Aayah, harimwo icemezo c’uko Imana Allah Ifise ukuboko mu buryo buberanye n’icubahiro cayo."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 53,
+  "verse_key": "3:26",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Muvugishwamana! Vuga usaba Imana yawe Rurema uti: “Mana yanje Nzima! Nyeninganji Rugaba w’ubwami bwose! Uha ubwami n’inganji uwo Ushatse, Ukabwambura uwo Ushatse; Uha icubahiro c’iteka kw’isi no mw’ijuru uwo Ushatse, Ugasuzuguza uwo Ushatse; mu minwe yawe hari ivyiza bisa, mu vy’ukuri ni Wewe Mushoboravyose[59],",
+  "footnotes": "[59] Muri iyi Aayah, harimwo icemezo c’uko Imana Allah Ifise ukuboko mu buryo buberanye n’icubahiro cayo."
 }

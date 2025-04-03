@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1216",
-    "sura": "8",
-    "aya": "56",
-    "arabic_text": "ٱلَّذِينَ عَٰهَدتَّ مِنۡهُمۡ ثُمَّ يَنقُضُونَ عَهۡدَهُمۡ فِي كُلِّ مَرَّةٖ وَهُمۡ لَا يَتَّقُونَ",
-    "translation": "Wale ambao miongoni mwao umepatana nao ahadi, kisha wanavunja ahadi yao kila mara, wala hawamchi Mungu.",
-    "footnotes": "Nao ni wale ulio fungamana nao kwa mikataba, nao wakawa hawaachi kuivunja kila mara; na watu hao ni Mayahudi ambao hawachelei utukufu wa Mwenyezi Mungu, wala hawakhofu kupatilizwa naye, wala adhabu yake."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 184,
+  "verse_key": "8:56",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ عَٰهَدتَّ مِنۡهُمۡ ثُمَّ يَنقُضُونَ عَهۡدَهُمۡ فِي كُلِّ مَرَّةٖ وَهُمۡ لَا يَتَّقُونَ",
+  "translation": "Wale ambao miongoni mwao umepatana nao ahadi, kisha wanavunja ahadi yao kila mara, wala hawamchi Mungu.",
+  "footnotes": "Nao ni wale ulio fungamana nao kwa mikataba, nao wakawa hawaachi kuivunja kila mara; na watu hao ni Mayahudi ambao hawachelei utukufu wa Mwenyezi Mungu, wala hawakhofu kupatilizwa naye, wala adhabu yake."
 }

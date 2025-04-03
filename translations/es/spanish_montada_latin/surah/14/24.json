@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1774",
-    "sura": "14",
-    "aya": "24",
-    "arabic_text": "أَلَمۡ تَرَ كَيۡفَ ضَرَبَ ٱللَّهُ مَثَلٗا كَلِمَةٗ طَيِّبَةٗ كَشَجَرَةٖ طَيِّبَةٍ أَصۡلُهَا ثَابِتٞ وَفَرۡعُهَا فِي ٱلسَّمَآءِ",
-    "translation": "24. ¡¿No ves (¡oh, Muhammad!) cómo Al-lah compara el mensaje del Islam (no existe nada ni nadie con derecho a ser adorado excepto Él) con un buen árbol de raíces firmes y ramas que se alzan hacia el cielo?![424]",
-    "footnotes": "[424]  El buen árbol, que bien podría ser una palmera, es una metáfora del creyente en cuyo corazón está arraigado el mensaje del Islam: “No existe nada ni nadie con derecho a ser adorado excepto Él”. Este realiza siempre buenas acciones que ascienden al cielo, al igual que las ramas de un buen árbol se alzan y producen buenos frutos con el permiso de su Señor."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 258,
+  "verse_key": "14:24",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ كَيۡفَ ضَرَبَ ٱللَّهُ مَثَلٗا كَلِمَةٗ طَيِّبَةٗ كَشَجَرَةٖ طَيِّبَةٍ أَصۡلُهَا ثَابِتٞ وَفَرۡعُهَا فِي ٱلسَّمَآءِ",
+  "translation": "24. ¡¿No ves (¡oh, Muhammad!) cómo Al-lah compara el mensaje del Islam (no existe nada ni nadie con derecho a ser adorado excepto Él) con un buen árbol de raíces firmes y ramas que se alzan hacia el cielo?![424]",
+  "footnotes": "[424]  El buen árbol, que bien podría ser una palmera, es una metáfora del creyente en cuyo corazón está arraigado el mensaje del Islam: “No existe nada ni nadie con derecho a ser adorado excepto Él”. Este realiza siempre buenas acciones que ascienden al cielo, al igual que las ramas de un buen árbol se alzan y producen buenos frutos con el permiso de su Señor."
 }

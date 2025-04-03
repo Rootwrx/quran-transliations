@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3875",
-    "sura": "37",
-    "aya": "87",
-    "arabic_text": "فَمَا ظَنُّكُم بِرَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "87 Quel sort, selon vous, le Seigneur de la Création peut-Il vous réserver[1147] ? »",
-    "footnotes": "[1147] Autre sens : quelle est donc cette opinion (erronée) que vous vous faites du Seigneur de la Création ?"
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 449,
+  "verse_key": "37:87",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَا ظَنُّكُم بِرَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "87 Quel sort, selon vous, le Seigneur de la Création peut-Il vous réserver[1147] ? »",
+  "footnotes": "[1147] Autre sens : quelle est donc cette opinion (erronée) que vous vous faites du Seigneur de la Création ?"
 }

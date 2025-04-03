@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "555",
-    "sura": "4",
-    "aya": "62",
-    "arabic_text": "فَكَيۡفَ إِذَآ أَصَٰبَتۡهُم مُّصِيبَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ ثُمَّ جَآءُوكَ يَحۡلِفُونَ بِٱللَّهِ إِنۡ أَرَدۡنَآ إِلَّآ إِحۡسَٰنٗا وَتَوۡفِيقًا",
-    "translation": "Kaya papaano kapag may tumama sa kanila na isang kapahamakan dahil sa ipinauna ng mga kamay nila, pagkatapos dumating sila sa iyo na nanunumpa kay Allāh: “Hindi kami nagnais maliban ng isang paggawa ng maganda at pagtutugma.”",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 88,
+  "verse_key": "4:62",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَيۡفَ إِذَآ أَصَٰبَتۡهُم مُّصِيبَةُۢ بِمَا قَدَّمَتۡ أَيۡدِيهِمۡ ثُمَّ جَآءُوكَ يَحۡلِفُونَ بِٱللَّهِ إِنۡ أَرَدۡنَآ إِلَّآ إِحۡسَٰنٗا وَتَوۡفِيقًا",
+  "translation": "Kaya papaano kapag may tumama sa kanila na isang kapahamakan dahil sa ipinauna ng mga kamay nila, pagkatapos dumating sila sa iyo na nanunumpa kay Allāh: “Hindi kami nagnais maliban ng isang paggawa ng maganda at pagtutugma.”",
+  "footnotes": ""
 }

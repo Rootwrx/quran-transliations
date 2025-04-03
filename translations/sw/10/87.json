@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1451",
-    "sura": "10",
-    "aya": "87",
-    "arabic_text": "وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوۡمِكُمَا بِمِصۡرَ بُيُوتٗا وَٱجۡعَلُواْ بُيُوتَكُمۡ قِبۡلَةٗ وَأَقِيمُواْ ٱلصَّلَوٰةَۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
-    "translation": "Na tukampelekea Musa na ndugu yake wahyi huu: Watengenezeeni majumba watu wenu katika Misri na zifanyeni nyumba zenu ndio mwahali mwa ibada, na mshike Swala, na wabashirie Waumini.",
-    "footnotes": "Tukawafunulia Musa na nduguye Haruni kuwapa amri wafanye nyumba za kukaa watu wao katika nchi ya Misri, na watu wa Imani wenye kufuata wito wa Mwenyezi Mungu wazielekee nyumba hizo, na wawe wanashika Swala kwa sura ya ukamilifu. Na Waumini wanabashiriwa kheri!"
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 218,
+  "verse_key": "10:87",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوۡمِكُمَا بِمِصۡرَ بُيُوتٗا وَٱجۡعَلُواْ بُيُوتَكُمۡ قِبۡلَةٗ وَأَقِيمُواْ ٱلصَّلَوٰةَۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
+  "translation": "Na tukampelekea Musa na ndugu yake wahyi huu: Watengenezeeni majumba watu wenu katika Misri na zifanyeni nyumba zenu ndio mwahali mwa ibada, na mshike Swala, na wabashirie Waumini.",
+  "footnotes": "Tukawafunulia Musa na nduguye Haruni kuwapa amri wafanye nyumba za kukaa watu wao katika nchi ya Misri, na watu wa Imani wenye kufuata wito wa Mwenyezi Mungu wazielekee nyumba hizo, na wawe wanashika Swala kwa sura ya ukamilifu. Na Waumini wanabashiriwa kheri!"
 }

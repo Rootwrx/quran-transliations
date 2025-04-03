@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1723",
-    "sura": "13",
-    "aya": "16",
-    "arabic_text": "قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ قُلِ ٱللَّهُۚ قُلۡ أَفَٱتَّخَذۡتُم مِّن دُونِهِۦٓ أَوۡلِيَآءَ لَا يَمۡلِكُونَ لِأَنفُسِهِمۡ نَفۡعٗا وَلَا ضَرّٗاۚ قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُ أَمۡ هَلۡ تَسۡتَوِي ٱلظُّلُمَٰتُ وَٱلنُّورُۗ أَمۡ جَعَلُواْ لِلَّهِ شُرَكَآءَ خَلَقُواْ كَخَلۡقِهِۦ فَتَشَٰبَهَ ٱلۡخَلۡقُ عَلَيۡهِمۡۚ قُلِ ٱللَّهُ خَٰلِقُ كُلِّ شَيۡءٖ وَهُوَ ٱلۡوَٰحِدُ ٱلۡقَهَّٰرُ",
-    "translation": "Dis: “Qui est le Seigneur des cieux et de la Terre ? ” Dis : “Allah.” Dis : “Et prendrez-vous en dehors de Lui, des maîtres qui ne détiennent pour eux-mêmes ni bien ni mal ?” Dis : “Sont-ils égaux, l’aveugle et celui qui voit ? Ou sont-elles égales, les ténèbres et la lumière ? Ou donnent-ils à Allah des associés qui créent comme Sa création au point que les deux créations se soient confondues à eux ?”  Dis : “Allah est le Créateur de toute chose, et c’est Lui l’Unique, le Dominateur suprême.”",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 251,
+  "verse_key": "13:16",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَن رَّبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ قُلِ ٱللَّهُۚ قُلۡ أَفَٱتَّخَذۡتُم مِّن دُونِهِۦٓ أَوۡلِيَآءَ لَا يَمۡلِكُونَ لِأَنفُسِهِمۡ نَفۡعٗا وَلَا ضَرّٗاۚ قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُ أَمۡ هَلۡ تَسۡتَوِي ٱلظُّلُمَٰتُ وَٱلنُّورُۗ أَمۡ جَعَلُواْ لِلَّهِ شُرَكَآءَ خَلَقُواْ كَخَلۡقِهِۦ فَتَشَٰبَهَ ٱلۡخَلۡقُ عَلَيۡهِمۡۚ قُلِ ٱللَّهُ خَٰلِقُ كُلِّ شَيۡءٖ وَهُوَ ٱلۡوَٰحِدُ ٱلۡقَهَّٰرُ",
+  "translation": "Dis: “Qui est le Seigneur des cieux et de la Terre ? ” Dis : “Allah.” Dis : “Et prendrez-vous en dehors de Lui, des maîtres qui ne détiennent pour eux-mêmes ni bien ni mal ?” Dis : “Sont-ils égaux, l’aveugle et celui qui voit ? Ou sont-elles égales, les ténèbres et la lumière ? Ou donnent-ils à Allah des associés qui créent comme Sa création au point que les deux créations se soient confondues à eux ?”  Dis : “Allah est le Créateur de toute chose, et c’est Lui l’Unique, le Dominateur suprême.”",
+  "footnotes": ""
 }

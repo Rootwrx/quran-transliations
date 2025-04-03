@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1365",
-    "sura": "10",
-    "aya": "1",
-    "arabic_text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ",
-    "translation": "1. Alif, Lam. Ra. [Šios raidės yra vienas iš Korano stebuklų, ir niekas kitas, tik Allahas (Vienintelis) žino jų reikšmę]. Tai Knygos (Korano) Al-Hakim [1] eilutės.",
-    "footnotes": "[1] Al-Hakim: parodantis leistinus ir neleistinus dalykus, paaiškinantis Allaho (Dieviškuosius) Įstatymus žmonijai, vedantis juos į amžinąją laimę, įsakymas jiems sekti tikruoju islamiškuoju monoteizmu – negarbinti nieko kito, tik Allahą Vienintelį, kas išves juos į Rojų ir išgelbės juos nuo Pragaro."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 208,
+  "verse_key": "10:1",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ",
+  "translation": "1. Alif, Lam. Ra. [Šios raidės yra vienas iš Korano stebuklų, ir niekas kitas, tik Allahas (Vienintelis) žino jų reikšmę]. Tai Knygos (Korano) Al-Hakim [1] eilutės.",
+  "footnotes": "[1] Al-Hakim: parodantis leistinus ir neleistinus dalykus, paaiškinantis Allaho (Dieviškuosius) Įstatymus žmonijai, vedantis juos į amžinąją laimę, įsakymas jiems sekti tikruoju islamiškuoju monoteizmu – negarbinti nieko kito, tik Allahą Vienintelį, kas išves juos į Rojų ir išgelbės juos nuo Pragaro."
 }

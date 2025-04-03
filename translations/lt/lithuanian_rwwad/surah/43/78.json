@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4403",
-    "sura": "43",
-    "aya": "78",
-    "arabic_text": "لَقَدۡ جِئۡنَٰكُم بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَكُمۡ لِلۡحَقِّ كَٰرِهُونَ",
-    "translation": "78. Iš tiesų, Mes atnešėme tiesą (Muchammedą ﷺ su Koranu) jums, tačiau dauguma jūsų neapkenčia tiesos.",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 495,
+  "verse_key": "43:78",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ جِئۡنَٰكُم بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَكُمۡ لِلۡحَقِّ كَٰرِهُونَ",
+  "translation": "78. Iš tiesų, Mes atnešėme tiesą (Muchammedą ﷺ su Koranu) jums, tačiau dauguma jūsų neapkenčia tiesos.",
+  "footnotes": ""
 }

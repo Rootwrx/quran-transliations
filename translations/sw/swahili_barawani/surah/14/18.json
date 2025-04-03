@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1768",
-    "sura": "14",
-    "aya": "18",
-    "arabic_text": "مَّثَلُ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡۖ أَعۡمَٰلُهُمۡ كَرَمَادٍ ٱشۡتَدَّتۡ بِهِ ٱلرِّيحُ فِي يَوۡمٍ عَاصِفٖۖ لَّا يَقۡدِرُونَ مِمَّا كَسَبُواْ عَلَىٰ شَيۡءٖۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ",
-    "translation": "Mfano wa walio mkufuru Mola wao Mlezi - vitendo vyao ni kama jivu linalo peperushwa kwa nguvu za upepo katika siku ya mdharba. Hawawezi kupata chochote katika waliyo yafanya. Huko ndiko kupotelea mbali.",
-    "footnotes": "Hakika hali za vitendo vya kheri wavifanyavyo makafiri duniani na pato lake, kwa kuwa havikujengwa juu ya msingi wa Imani, hali yake ni kama jivu. Ukaja upepo mkali ukalipeperusha siku ya kimbunga kilipo kaza. Siku ya Kiyama hawapati chochote kutokana na vitendo vyao vya namna hivyo vya duniani. Hayumkini wao kunafiika na chochote kutokana navyo, kwani hivyo havina thawabu, kama mtu mwenye vumbi linalo peperuka katika upepo asilo weza kulikamata. Na watu hawa wapotovu hujiona wenyewe ati kuwa ndio wanafanya mema, na ilhali vitendo vyao viko mbali kabisa na Njia ya Haki."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 257,
+  "verse_key": "14:18",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّثَلُ ٱلَّذِينَ كَفَرُواْ بِرَبِّهِمۡۖ أَعۡمَٰلُهُمۡ كَرَمَادٍ ٱشۡتَدَّتۡ بِهِ ٱلرِّيحُ فِي يَوۡمٍ عَاصِفٖۖ لَّا يَقۡدِرُونَ مِمَّا كَسَبُواْ عَلَىٰ شَيۡءٖۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ",
+  "translation": "Mfano wa walio mkufuru Mola wao Mlezi - vitendo vyao ni kama jivu linalo peperushwa kwa nguvu za upepo katika siku ya mdharba. Hawawezi kupata chochote katika waliyo yafanya. Huko ndiko kupotelea mbali.",
+  "footnotes": "Hakika hali za vitendo vya kheri wavifanyavyo makafiri duniani na pato lake, kwa kuwa havikujengwa juu ya msingi wa Imani, hali yake ni kama jivu. Ukaja upepo mkali ukalipeperusha siku ya kimbunga kilipo kaza. Siku ya Kiyama hawapati chochote kutokana na vitendo vyao vya namna hivyo vya duniani. Hayumkini wao kunafiika na chochote kutokana navyo, kwani hivyo havina thawabu, kama mtu mwenye vumbi linalo peperuka katika upepo asilo weza kulikamata. Na watu hawa wapotovu hujiona wenyewe ati kuwa ndio wanafanya mema, na ilhali vitendo vyao viko mbali kabisa na Njia ya Haki."
 }

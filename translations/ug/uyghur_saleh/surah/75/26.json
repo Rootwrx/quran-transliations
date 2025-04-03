@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5577",
-    "sura": "75",
-    "aya": "26",
-    "arabic_text": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِيَ",
-    "translation": "راستلا جان ھەلقۇمىغا يەتكەندە، «(بۇ كېسەلگە) كىم ئىلاج قىلالايدۇ» دېيىلىدۇ[26ـ27].",
-    "footnotes": null
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 578,
+  "verse_key": "75:26",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّآ إِذَا بَلَغَتِ ٱلتَّرَاقِيَ",
+  "translation": "راستلا جان ھەلقۇمىغا يەتكەندە، «(بۇ كېسەلگە) كىم ئىلاج قىلالايدۇ» دېيىلىدۇ[26ـ27].",
+  "footnotes": null
 }

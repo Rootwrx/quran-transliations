@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1035",
-    "sura": "7",
-    "aya": "81",
-    "arabic_text": "إِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ شَهۡوَةٗ مِّن دُونِ ٱلنِّسَآءِۚ بَلۡ أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ",
-    "translation": "Ad yãmb yellã! Yãmb wɑtɑ roɑpẽ ne wʋm-noog n bɑsd pɑgbã, ɑyoo, yãmb yɑɑ neb sẽn yɑɑ mɑn-n-zʋʋg-rãmbɑ, ne yãmb sẽn yi ninsɑɑlemdã todsã, n kɩll n yi yɑm lɑ rog-ne wã sorã.",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 160,
+  "verse_key": "7:81",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ شَهۡوَةٗ مِّن دُونِ ٱلنِّسَآءِۚ بَلۡ أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ",
+  "translation": "Ad yãmb yellã! Yãmb wɑtɑ roɑpẽ ne wʋm-noog n bɑsd pɑgbã, ɑyoo, yãmb yɑɑ neb sẽn yɑɑ mɑn-n-zʋʋg-rãmbɑ, ne yãmb sẽn yi ninsɑɑlemdã todsã, n kɩll n yi yɑm lɑ rog-ne wã sorã.",
+  "footnotes": ""
 }

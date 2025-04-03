@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5143",
-    "sura": "59",
-    "aya": "17",
-    "arabic_text": "فَكَانَ عَٰقِبَتَهُمَآ أَنَّهُمَا فِي ٱلنَّارِ خَٰلِدَيۡنِ فِيهَاۚ وَذَٰلِكَ جَزَٰٓؤُاْ ٱلظَّٰلِمِينَ",
-    "translation": "Tɩ b yiibã baasg yɩ, tɩ bãmb b yiibã bee Bugmã pʋgẽ n yaa duumdb a pʋgẽ. Woto la wẽgdba rolbo.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 548,
+  "verse_key": "59:17",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 219,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَانَ عَٰقِبَتَهُمَآ أَنَّهُمَا فِي ٱلنَّارِ خَٰلِدَيۡنِ فِيهَاۚ وَذَٰلِكَ جَزَٰٓؤُاْ ٱلظَّٰلِمِينَ",
+  "translation": "Tɩ b yiibã baasg yɩ, tɩ bãmb b yiibã bee Bugmã pʋgẽ n yaa duumdb a pʋgẽ. Woto la wẽgdba rolbo.",
+  "footnotes": ""
 }

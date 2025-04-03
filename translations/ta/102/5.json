@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6173",
-    "sura": "102",
-    "aya": "5",
-    "arabic_text": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ",
-    "translation": "5. நீங்கள் நினைப்பது போன்றல்ல. (அதன் பலனைச்) சந்தேகமற உறுதியாக நீங்கள் அறிவீர்களாயின்,",
-    "footnotes": null
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 600,
+  "verse_key": "102:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّا لَوۡ تَعۡلَمُونَ عِلۡمَ ٱلۡيَقِينِ",
+  "translation": "5. நீங்கள் நினைப்பது போன்றல்ல. (அதன் பலனைச்) சந்தேகமற உறுதியாக நீங்கள் அறிவீர்களாயின்,",
+  "footnotes": null
 }

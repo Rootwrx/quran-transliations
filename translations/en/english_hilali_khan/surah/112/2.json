@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6223",
-    "sura": "112",
-    "aya": "2",
-    "arabic_text": "ٱللَّهُ ٱلصَّمَدُ",
-    "translation": " 2. \"Allâh-us-Samad (السيد الذي يصمد إليه في الحاجات) [Allâh the Self-Sufficient Master, Whom all creatures need, (He neither eats nor drinks)].",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 604,
+  "verse_key": "112:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ ٱلصَّمَدُ",
+  "translation": " 2. \"Allâh-us-Samad (السيد الذي يصمد إليه في الحاجات) [Allâh the Self-Sufficient Master, Whom all creatures need, (He neither eats nor drinks)].",
+  "footnotes": ""
 }

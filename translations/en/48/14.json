@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4597",
-    "sura": "48",
-    "aya": "14",
-    "arabic_text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
-    "translation": "(14) And to Allāh belongs the dominion of the heavens and the earth. He forgives whom He wills and punishes whom He wills. And ever is Allāh Forgiving and Merciful.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 512,
+  "verse_key": "48:14",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
+  "translation": "(14) And to Allāh belongs the dominion of the heavens and the earth. He forgives whom He wills and punishes whom He wills. And ever is Allāh Forgiving and Merciful.",
+  "footnotes": ""
 }

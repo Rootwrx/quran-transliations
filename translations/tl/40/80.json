@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4213",
-    "sura": "40",
-    "aya": "80",
-    "arabic_text": "وَلَكُمۡ فِيهَا مَنَٰفِعُ وَلِتَبۡلُغُواْ عَلَيۡهَا حَاجَةٗ فِي صُدُورِكُمۡ وَعَلَيۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ",
-    "translation": "Ukol sa inyo sa mga ito ay mga pakinabang at upang umabot kayo lulan ng mga ito sa isang pangangailangang nasa mga dibdib ninyo.[12] Lulan ng mga ito at lulan ng mga daong dinadala kayo.",
-    "footnotes": "[12] upang marating ninyo ang mga malayong lugar at upang madala nila ang mga mabigat na dala-dalahan ninyo sa mga ibang lupain"
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 476,
+  "verse_key": "40:80",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَكُمۡ فِيهَا مَنَٰفِعُ وَلِتَبۡلُغُواْ عَلَيۡهَا حَاجَةٗ فِي صُدُورِكُمۡ وَعَلَيۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ",
+  "translation": "Ukol sa inyo sa mga ito ay mga pakinabang at upang umabot kayo lulan ng mga ito sa isang pangangailangang nasa mga dibdib ninyo.[12] Lulan ng mga ito at lulan ng mga daong dinadala kayo.",
+  "footnotes": "[12] upang marating ninyo ang mga malayong lugar at upang madala nila ang mga mabigat na dala-dalahan ninyo sa mga ibang lupain"
 }

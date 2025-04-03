@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4519",
-    "sura": "46",
-    "aya": "9",
-    "arabic_text": "قُلۡ مَا كُنتُ بِدۡعٗا مِّنَ ٱلرُّسُلِ وَمَآ أَدۡرِي مَا يُفۡعَلُ بِي وَلَا بِكُمۡۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٞ مُّبِينٞ",
-    "translation": "Mimi si kiroja miongoni mwa Mitume. Wala sijui nitakavyo fanywa wala nyinyi. Mimi nafuata niliyo funuliwa tu kwa Wahyi, wala mimi si chochote ila ni mwonyaji mwenye kudhihirisha wazi.",
-    "footnotes": "Waambie: Mimi sikuwa Mtume wa mwanzo kutoka kwa Mwenyezi Mungu, hata ndio muukatae ujumbe wangu. Wala mimi sijui Mwenyezi Mungu atanifanya nini na atakufanyeni nini nyinyi. Mimi sifuati ninayo sema au kutenda ila anayo nifunulia Mwenyezi Mungu. Wala mimi si chochote ila ni mwonyaji miongoni mwa waonyaji."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 503,
+  "verse_key": "46:9",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَا كُنتُ بِدۡعٗا مِّنَ ٱلرُّسُلِ وَمَآ أَدۡرِي مَا يُفۡعَلُ بِي وَلَا بِكُمۡۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّ وَمَآ أَنَا۠ إِلَّا نَذِيرٞ مُّبِينٞ",
+  "translation": "Mimi si kiroja miongoni mwa Mitume. Wala sijui nitakavyo fanywa wala nyinyi. Mimi nafuata niliyo funuliwa tu kwa Wahyi, wala mimi si chochote ila ni mwonyaji mwenye kudhihirisha wazi.",
+  "footnotes": "Waambie: Mimi sikuwa Mtume wa mwanzo kutoka kwa Mwenyezi Mungu, hata ndio muukatae ujumbe wangu. Wala mimi sijui Mwenyezi Mungu atanifanya nini na atakufanyeni nini nyinyi. Mimi sifuati ninayo sema au kutenda ila anayo nifunulia Mwenyezi Mungu. Wala mimi si chochote ila ni mwonyaji miongoni mwa waonyaji."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "123",
-    "sura": "2",
-    "aya": "116",
-    "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ بَل لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
-    "translation": "116. Ir jie (judėjai, krikščionys ir pagonys) sako: „Allahas turi sūnų (vaikus arba palikuonis). Šlovė Jam (Išaukštintas Jis virš visko, ką Jam priskiria). Ne, Jam priklauso viskas, kas yra danguose ir žemėje, ir visi paklusniai pasiduoda Jam (garbinime).",
-    "footnotes": ""
-  }
+  "id": 116,
+  "verse_number": 116,
+  "page_number": 18,
+  "verse_key": "2:116",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ بَل لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
+  "translation": "116. Ir jie (judėjai, krikščionys ir pagonys) sako: „Allahas turi sūnų (vaikus arba palikuonis). Šlovė Jam (Išaukštintas Jis virš visko, ką Jam priskiria). Ne, Jam priklauso viskas, kas yra danguose ir žemėje, ir visi paklusniai pasiduoda Jam (garbinime).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3819",
-    "sura": "37",
-    "aya": "31",
-    "arabic_text": "فَحَقَّ عَلَيۡنَا قَوۡلُ رَبِّنَآۖ إِنَّا لَذَآئِقُونَ",
-    "translation": "Tõnd Soabã gomd sɩdga tõnd zugu, ad tõnd yaa (naongã) lεmbdba.",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 447,
+  "verse_key": "37:31",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَحَقَّ عَلَيۡنَا قَوۡلُ رَبِّنَآۖ إِنَّا لَذَآئِقُونَ",
+  "translation": "Tõnd Soabã gomd sɩdga tõnd zugu, ad tõnd yaa (naongã) lεmbdba.",
+  "footnotes": ""
 }

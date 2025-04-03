@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6143",
-    "sura": "99",
-    "aya": "5",
-    "arabic_text": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
-    "translation": "5. Inuu Rabbigaa u waxyooday darteed.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 599,
+  "verse_key": "99:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بِأَنَّ رَبَّكَ أَوۡحَىٰ لَهَا",
+  "translation": "5. Inuu Rabbigaa u waxyooday darteed.",
+  "footnotes": ""
 }

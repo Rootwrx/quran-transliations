@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "725",
-    "sura": "5",
-    "aya": "56",
-    "arabic_text": "وَمَن يَتَوَلَّ ٱللَّهَ وَرَسُولَهُۥ وَٱلَّذِينَ ءَامَنُواْ فَإِنَّ حِزۡبَ ٱللَّهِ هُمُ ٱلۡغَٰلِبُونَ",
-    "translation": "Et quiconque prend pour alliés Allah, Son Messager et les croyants, [réussira] car c’est le parti d’Allah qui sera victorieux.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 117,
+  "verse_key": "5:56",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 47,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن يَتَوَلَّ ٱللَّهَ وَرَسُولَهُۥ وَٱلَّذِينَ ءَامَنُواْ فَإِنَّ حِزۡبَ ٱللَّهِ هُمُ ٱلۡغَٰلِبُونَ",
+  "translation": "Et quiconque prend pour alliés Allah, Son Messager et les croyants, [réussira] car c’est le parti d’Allah qui sera victorieux.",
+  "footnotes": ""
 }

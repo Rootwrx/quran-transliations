@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "892",
-    "sura": "6",
-    "aya": "103",
-    "arabic_text": "لَّا تُدۡرِكُهُ ٱلۡأَبۡصَٰرُ وَهُوَ يُدۡرِكُ ٱلۡأَبۡصَٰرَۖ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ",
-    "translation": "103. La vista [de los seres humanos] no puede abarcarlo, pero Él sí ve [a todos Sus siervos]. Él es el Sutil y el Conocedor.",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 141,
+  "verse_key": "6:103",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 56,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا تُدۡرِكُهُ ٱلۡأَبۡصَٰرُ وَهُوَ يُدۡرِكُ ٱلۡأَبۡصَٰرَۖ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ",
+  "translation": "103. La vista [de los seres humanos] no puede abarcarlo, pero Él sí ve [a todos Sus siervos]. Él es el Sutil y el Conocedor.",
+  "footnotes": ""
 }

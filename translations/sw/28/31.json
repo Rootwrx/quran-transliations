@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3283",
-    "sura": "28",
-    "aya": "31",
-    "arabic_text": "وَأَنۡ أَلۡقِ عَصَاكَۚ فَلَمَّا رَءَاهَا تَهۡتَزُّ كَأَنَّهَا جَآنّٞ وَلَّىٰ مُدۡبِرٗا وَلَمۡ يُعَقِّبۡۚ يَٰمُوسَىٰٓ أَقۡبِلۡ وَلَا تَخَفۡۖ إِنَّكَ مِنَ ٱلۡأٓمِنِينَ",
-    "translation": "Na tupa chini fimbo yako. Basi alipo iona ikitikisika kama nyoka, akarudi nyuma wala hakutazama. (Akaambiwa): Ewe Musa! Njoo mbele wala usiogope. Hakika wewe ni miongoni mwa walio salimika.",
-    "footnotes": "Na akanadiwa: Tupa chini fimbo yako. Akaitupa chini. Mwenyezi Mungu akaigeuza ikawa nyoka. Musa alipo iona inakwenda kama nyoka alikhofu, na akakimbia kwa kufazaika. Akaambiwa: Ewe Musa! Njoo, unaitwa urejee pahala pako, wala usiogope. Kwani wewe ni katika walio hifadhiwa na kila cha kuchukiza."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 389,
+  "verse_key": "28:31",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنۡ أَلۡقِ عَصَاكَۚ فَلَمَّا رَءَاهَا تَهۡتَزُّ كَأَنَّهَا جَآنّٞ وَلَّىٰ مُدۡبِرٗا وَلَمۡ يُعَقِّبۡۚ يَٰمُوسَىٰٓ أَقۡبِلۡ وَلَا تَخَفۡۖ إِنَّكَ مِنَ ٱلۡأٓمِنِينَ",
+  "translation": "Na tupa chini fimbo yako. Basi alipo iona ikitikisika kama nyoka, akarudi nyuma wala hakutazama. (Akaambiwa): Ewe Musa! Njoo mbele wala usiogope. Hakika wewe ni miongoni mwa walio salimika.",
+  "footnotes": "Na akanadiwa: Tupa chini fimbo yako. Akaitupa chini. Mwenyezi Mungu akaigeuza ikawa nyoka. Musa alipo iona inakwenda kama nyoka alikhofu, na akakimbia kwa kufazaika. Akaambiwa: Ewe Musa! Njoo, unaitwa urejee pahala pako, wala usiogope. Kwani wewe ni katika walio hifadhiwa na kila cha kuchukiza."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1341",
-    "sura": "9",
-    "aya": "106",
-    "arabic_text": "وَءَاخَرُونَ مُرۡجَوۡنَ لِأَمۡرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمۡ وَإِمَّا يَتُوبُ عَلَيۡهِمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
-    "translation": "Wọ́n so ọ̀rọ̀ àwọn yòókù rọ̀ ná títí àṣẹ Allāhu máa fi dé; yálà kí Ó jẹ wọ́n níyà tàbí kí Ó gba ìronúpìwàdà wọn.[1] Allāhu sì ni Onímọ̀, Ọlọ́gbọ́n. ²",
-    "footnotes": "1. Ìyẹn, àwọn tó ṣàì lọ sógun, àmọ́ tí wọn kò mú àwáwí irọ́ wá. 2. Àṣẹ náà dé nínú āyah 118 níwájú."
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 203,
+  "verse_key": "9:106",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 81,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاخَرُونَ مُرۡجَوۡنَ لِأَمۡرِ ٱللَّهِ إِمَّا يُعَذِّبُهُمۡ وَإِمَّا يَتُوبُ عَلَيۡهِمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
+  "translation": "Wọ́n so ọ̀rọ̀ àwọn yòókù rọ̀ ná títí àṣẹ Allāhu máa fi dé; yálà kí Ó jẹ wọ́n níyà tàbí kí Ó gba ìronúpìwàdà wọn.[1] Allāhu sì ni Onímọ̀, Ọlọ́gbọ́n. ²",
+  "footnotes": "1. Ìyẹn, àwọn tó ṣàì lọ sógun, àmọ́ tí wọn kò mú àwáwí irọ́ wá. 2. Àṣẹ náà dé nínú āyah 118 níwájú."
 }

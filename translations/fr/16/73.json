@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1974",
-    "sura": "16",
-    "aya": "73",
-    "arabic_text": "وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمۡلِكُ لَهُمۡ رِزۡقٗا مِّنَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ شَيۡـٔٗا وَلَا يَسۡتَطِيعُونَ",
-    "translation": "Et ils adorent, en dehors d’Allah, ce qui ne peut leur procurer aucune nourriture des cieux et de la Terre et qui n’est capable de rien.",
-    "footnotes": ""
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 275,
+  "verse_key": "16:73",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَمۡلِكُ لَهُمۡ رِزۡقٗا مِّنَ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ شَيۡـٔٗا وَلَا يَسۡتَطِيعُونَ",
+  "translation": "Et ils adorent, en dehors d’Allah, ce qui ne peut leur procurer aucune nourriture des cieux et de la Terre et qui n’est capable de rien.",
+  "footnotes": ""
 }

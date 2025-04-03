@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1708",
-    "sura": "13",
-    "aya": "1",
-    "arabic_text": "الٓمٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِۗ وَٱلَّذِيٓ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ ٱلۡحَقُّ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ",
-    "translation": "Alif Lam Mym Ra. (A.L.M.R.) Hizi ni Ishara za Kitabu. Na uliyo teremshiwa kutoka kwa Mola wako Mlezi ni Haki. Lakini wengi wa watu hawaamini.",
-    "footnotes": "\"Alif Mym Ra\" hizi ni harufi za kutamkwa zimeanzia baadhi ya Sura za Qur'ani. Nazo zinaashiria kuwa huu ni muujiza juu ya kuwa ni harufi wanazo zitumia Waarabu katika maneno yao ya kawaida! Na harufi hizi zilikuwa zikitamkwa huwavutia Waarabu waisikilize Qur'ani! Kwani wale mapagani (washirikina) waliambizana wasiisikilize hii Qur'ani. Ikawa Waumini wakianzia harufi hizi huvutia masikio ya washirikina wakawa wanasikiliza. Hakika hizo Aya au Ishara tukufu ndio hii Qur'ani, Kitabu chenye shani kubwa, uliyo teremshiwa wewe Nabii kwa haki na ukweli kutokana na Mwenyezi Mungu, aliye kuumba, na akakuteuwa. Lakini wengi wa washirikina walio yakanya yaliyo kuja ya Haki si watu wa kuikubali Haki. Bali wao wanaipinga kwa inda."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 249,
+  "verse_key": "13:1",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِۗ وَٱلَّذِيٓ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ ٱلۡحَقُّ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ",
+  "translation": "Alif Lam Mym Ra. (A.L.M.R.) Hizi ni Ishara za Kitabu. Na uliyo teremshiwa kutoka kwa Mola wako Mlezi ni Haki. Lakini wengi wa watu hawaamini.",
+  "footnotes": "\"Alif Mym Ra\" hizi ni harufi za kutamkwa zimeanzia baadhi ya Sura za Qur'ani. Nazo zinaashiria kuwa huu ni muujiza juu ya kuwa ni harufi wanazo zitumia Waarabu katika maneno yao ya kawaida! Na harufi hizi zilikuwa zikitamkwa huwavutia Waarabu waisikilize Qur'ani! Kwani wale mapagani (washirikina) waliambizana wasiisikilize hii Qur'ani. Ikawa Waumini wakianzia harufi hizi huvutia masikio ya washirikina wakawa wanasikiliza. Hakika hizo Aya au Ishara tukufu ndio hii Qur'ani, Kitabu chenye shani kubwa, uliyo teremshiwa wewe Nabii kwa haki na ukweli kutokana na Mwenyezi Mungu, aliye kuumba, na akakuteuwa. Lakini wengi wa washirikina walio yakanya yaliyo kuja ya Haki si watu wa kuikubali Haki. Bali wao wanaipinga kwa inda."
 }

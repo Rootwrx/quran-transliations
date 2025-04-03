@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5114",
-    "sura": "58",
-    "aya": "10",
-    "arabic_text": "إِنَّمَا ٱلنَّجۡوَىٰ مِنَ ٱلشَّيۡطَٰنِ لِيَحۡزُنَ ٱلَّذِينَ ءَامَنُواْ وَلَيۡسَ بِضَآرِّهِمۡ شَيۡـًٔا إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
-    "translation": "Kwa hakika minong'ono hiyo inatokana na Shetani ili awahuzunishe walio amini, na wala haitawadhuru chochote ila kwa idhini ya Mwenyezi Mungu. Na juu ya Mwenyezi Mungu tu ndio wategemee Waumini.",
-    "footnotes": "Hakika kusema siri kwa kuchochea shaka shaka ni katika kuzainishwa na Shetani, ili apate kuingiza huzuni katika nyoyo za Waumini. Wala hayo hayawezi kuwaletea madhara yoyote wao ila kwa kupenda Mwenyezi Mungu. Basi Waumini wamtegemee Mwenyezi Mungu peke yake."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 543,
+  "verse_key": "58:10",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 217,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا ٱلنَّجۡوَىٰ مِنَ ٱلشَّيۡطَٰنِ لِيَحۡزُنَ ٱلَّذِينَ ءَامَنُواْ وَلَيۡسَ بِضَآرِّهِمۡ شَيۡـًٔا إِلَّا بِإِذۡنِ ٱللَّهِۚ وَعَلَى ٱللَّهِ فَلۡيَتَوَكَّلِ ٱلۡمُؤۡمِنُونَ",
+  "translation": "Kwa hakika minong'ono hiyo inatokana na Shetani ili awahuzunishe walio amini, na wala haitawadhuru chochote ila kwa idhini ya Mwenyezi Mungu. Na juu ya Mwenyezi Mungu tu ndio wategemee Waumini.",
+  "footnotes": "Hakika kusema siri kwa kuchochea shaka shaka ni katika kuzainishwa na Shetani, ili apate kuingiza huzuni katika nyoyo za Waumini. Wala hayo hayawezi kuwaletea madhara yoyote wao ila kwa kupenda Mwenyezi Mungu. Basi Waumini wamtegemee Mwenyezi Mungu peke yake."
 }

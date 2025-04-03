@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3315",
-    "sura": "28",
-    "aya": "63",
-    "arabic_text": "قَالَ ٱلَّذِينَ حَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ رَبَّنَا هَٰٓؤُلَآءِ ٱلَّذِينَ أَغۡوَيۡنَآ أَغۡوَيۡنَٰهُمۡ كَمَا غَوَيۡنَاۖ تَبَرَّأۡنَآ إِلَيۡكَۖ مَا كَانُوٓاْ إِيَّانَا يَعۡبُدُونَ",
-    "translation": "63. Baye likambo likokwela bango bakoloba ete: Nkolo! Ba oyo nde baye tokosaki lokola tomikosaki biso moko, tobengaki mpe bayanolaki biso, yango towangani bango liboso nayo ete bazalaki kobondela biso te.",
-    "footnotes": ""
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 393,
+  "verse_key": "28:63",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ ٱلَّذِينَ حَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ رَبَّنَا هَٰٓؤُلَآءِ ٱلَّذِينَ أَغۡوَيۡنَآ أَغۡوَيۡنَٰهُمۡ كَمَا غَوَيۡنَاۖ تَبَرَّأۡنَآ إِلَيۡكَۖ مَا كَانُوٓاْ إِيَّانَا يَعۡبُدُونَ",
+  "translation": "63. Baye likambo likokwela bango bakoloba ete: Nkolo! Ba oyo nde baye tokosaki lokola tomikosaki biso moko, tobengaki mpe bayanolaki biso, yango towangani bango liboso nayo ete bazalaki kobondela biso te.",
+  "footnotes": ""
 }

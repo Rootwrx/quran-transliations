@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2023",
-    "sura": "16",
-    "aya": "122",
-    "arabic_text": "وَءَاتَيۡنَٰهُ فِي ٱلدُّنۡيَا حَسَنَةٗۖ وَإِنَّهُۥ فِي ٱلۡأٓخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ",
-    "translation": "122.Waxaanu ku siinnay samaan adduunka. Aakhiradana wuxuu hubaal ka mid ahaan inta wanaagsan.",
-    "footnotes": ""
-  }
+  "id": 122,
+  "verse_number": 122,
+  "page_number": 281,
+  "verse_key": "16:122",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاتَيۡنَٰهُ فِي ٱلدُّنۡيَا حَسَنَةٗۖ وَإِنَّهُۥ فِي ٱلۡأٓخِرَةِ لَمِنَ ٱلصَّٰلِحِينَ",
+  "translation": "122.Waxaanu ku siinnay samaan adduunka. Aakhiradana wuxuu hubaal ka mid ahaan inta wanaagsan.",
+  "footnotes": ""
 }

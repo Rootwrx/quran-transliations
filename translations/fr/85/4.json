@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5913",
-    "sura": "85",
-    "aya": "4",
-    "arabic_text": "قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ",
-    "translation": "Périssent les gens ceux [qui creusèrent ] des fossés (Al Ukhdûd) [1049],",
-    "footnotes": "[1049] Uẖdūd: désigne un endroit sur la frontière du Yémen et de l’Arabie Séoudite (Littér. Fossé long). Un roi du Yémen, un usurpateur, avait persécuté au VIe siècle et brûlé vifs les croyants de son pays."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 590,
+  "verse_key": "85:4",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُتِلَ أَصۡحَٰبُ ٱلۡأُخۡدُودِ",
+  "translation": "Périssent les gens ceux [qui creusèrent ] des fossés (Al Ukhdûd) [1049],",
+  "footnotes": "[1049] Uẖdūd: désigne un endroit sur la frontière du Yémen et de l’Arabie Séoudite (Littér. Fossé long). Un roi du Yémen, un usurpateur, avait persécuté au VIe siècle et brûlé vifs les croyants de son pays."
 }

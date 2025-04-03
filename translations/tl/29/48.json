@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3388",
-    "sura": "29",
-    "aya": "48",
-    "arabic_text": "وَمَا كُنتَ تَتۡلُواْ مِن قَبۡلِهِۦ مِن كِتَٰبٖ وَلَا تَخُطُّهُۥ بِيَمِينِكَۖ إِذٗا لَّٱرۡتَابَ ٱلۡمُبۡطِلُونَ",
-    "translation": "Hindi ka dati bumibigkas bago pa nito ng anumang aklat at hindi ka nagsusulat nito sa pamamagitan ng kanan mo [dahil] kung gayon ay talagang nag-alinlangan ang mga tagapagpabula.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 402,
+  "verse_key": "29:48",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كُنتَ تَتۡلُواْ مِن قَبۡلِهِۦ مِن كِتَٰبٖ وَلَا تَخُطُّهُۥ بِيَمِينِكَۖ إِذٗا لَّٱرۡتَابَ ٱلۡمُبۡطِلُونَ",
+  "translation": "Hindi ka dati bumibigkas bago pa nito ng anumang aklat at hindi ka nagsusulat nito sa pamamagitan ng kanan mo [dahil] kung gayon ay talagang nag-alinlangan ang mga tagapagpabula.",
+  "footnotes": ""
 }

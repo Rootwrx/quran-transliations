@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "321",
-    "sura": "3",
-    "aya": "28",
-    "arabic_text": "لَّا يَتَّخِذِ ٱلۡمُؤۡمِنُونَ ٱلۡكَٰفِرِينَ أَوۡلِيَآءَ مِن دُونِ ٱلۡمُؤۡمِنِينَۖ وَمَن يَفۡعَلۡ ذَٰلِكَ فَلَيۡسَ مِنَ ٱللَّهِ فِي شَيۡءٍ إِلَّآ أَن تَتَّقُواْ مِنۡهُمۡ تُقَىٰةٗۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ",
-    "translation": "28. Que les croyants ne prennent pas les mécréants pour alliés en dehors des croyants ! Celui qui agira de la sorte ne peut se réclamer en rien d’Allah ; à moins que ce soit par crainte qu’ils ne vous nuisent. Allah vous avertit que c’est Lui qu’il faut craindre. Et c’est vers Allah que sera le devenir.[107]",
-    "footnotes": "[107] Nous traduisons toujours le mot مصير par « le devenir ». Le verbe trilitère صار signifie justement « devenir ». Substantivé, cet infinitif rend bien le sens de la « destinée en devenir », différent du sens de la « destinée » tout court, du « destin » ou du « sort », qui correspondent à d’autres notions dont القدر, القضاء, etc."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 53,
+  "verse_key": "3:28",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَتَّخِذِ ٱلۡمُؤۡمِنُونَ ٱلۡكَٰفِرِينَ أَوۡلِيَآءَ مِن دُونِ ٱلۡمُؤۡمِنِينَۖ وَمَن يَفۡعَلۡ ذَٰلِكَ فَلَيۡسَ مِنَ ٱللَّهِ فِي شَيۡءٍ إِلَّآ أَن تَتَّقُواْ مِنۡهُمۡ تُقَىٰةٗۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ",
+  "translation": "28. Que les croyants ne prennent pas les mécréants pour alliés en dehors des croyants ! Celui qui agira de la sorte ne peut se réclamer en rien d’Allah ; à moins que ce soit par crainte qu’ils ne vous nuisent. Allah vous avertit que c’est Lui qu’il faut craindre. Et c’est vers Allah que sera le devenir.[107]",
+  "footnotes": "[107] Nous traduisons toujours le mot مصير par « le devenir ». Le verbe trilitère صار signifie justement « devenir ». Substantivé, cet infinitif rend bien le sens de la « destinée en devenir », différent du sens de la « destinée » tout court, du « destin » ou du « sort », qui correspondent à d’autres notions dont القدر, القضاء, etc."
 }

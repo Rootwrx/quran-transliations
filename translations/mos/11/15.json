@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1488",
-    "sura": "11",
-    "aya": "15",
-    "arabic_text": "مَن كَانَ يُرِيدُ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا وَزِينَتَهَا نُوَفِّ إِلَيۡهِمۡ أَعۡمَٰلَهُمۡ فِيهَا وَهُمۡ فِيهَا لَا يُبۡخَسُونَ",
-    "translation": "Ned nins sẽn yɩ-b n rat dũni vɩɩmã la a nag-teedã, D pidsda b tʋʋmã keoor n kõ-b a pʋgẽ, kũun sẽn pa na n naag ne wẽgbo.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 223,
+  "verse_key": "11:15",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَن كَانَ يُرِيدُ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا وَزِينَتَهَا نُوَفِّ إِلَيۡهِمۡ أَعۡمَٰلَهُمۡ فِيهَا وَهُمۡ فِيهَا لَا يُبۡخَسُونَ",
+  "translation": "Ned nins sẽn yɩ-b n rat dũni vɩɩmã la a nag-teedã, D pidsda b tʋʋmã keoor n kõ-b a pʋgẽ, kũun sẽn pa na n naag ne wẽgbo.",
+  "footnotes": ""
 }

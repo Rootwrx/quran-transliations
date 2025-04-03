@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2489",
-    "sura": "21",
-    "aya": "6",
-    "arabic_text": "مَآ ءَامَنَتۡ قَبۡلَهُم مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَآۖ أَفَهُمۡ يُؤۡمِنُونَ",
-    "translation": "Vor ihnen hat keine Stadt geglaubt, die Wir vernichteten. Sollten gerade sie nun glauben?",
-    "footnotes": null
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 322,
+  "verse_key": "21:6",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَآ ءَامَنَتۡ قَبۡلَهُم مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَآۖ أَفَهُمۡ يُؤۡمِنُونَ",
+  "translation": "Vor ihnen hat keine Stadt geglaubt, die Wir vernichteten. Sollten gerade sie nun glauben?",
+  "footnotes": null
 }

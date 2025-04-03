@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1779",
-    "sura": "14",
-    "aya": "29",
-    "arabic_text": "جَهَنَّمَ يَصۡلَوۡنَهَاۖ وَبِئۡسَ ٱلۡقَرَارُ",
-    "translation": "(29) [It is] Hell, which they will [enter to] burn, and wretched is the settlement.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 259,
+  "verse_key": "14:29",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "جَهَنَّمَ يَصۡلَوۡنَهَاۖ وَبِئۡسَ ٱلۡقَرَارُ",
+  "translation": "(29) [It is] Hell, which they will [enter to] burn, and wretched is the settlement.",
+  "footnotes": ""
 }

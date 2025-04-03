@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "842",
-    "sura": "6",
-    "aya": "53",
-    "arabic_text": "وَكَذَٰلِكَ فَتَنَّا بَعۡضَهُم بِبَعۡضٖ لِّيَقُولُوٓاْ أَهَٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيۡهِم مِّنۢ بَيۡنِنَآۗ أَلَيۡسَ ٱللَّهُ بِأَعۡلَمَ بِٱلشَّٰكِرِينَ",
-    "translation": "E, assim, nós os provamos uns pelos outros a fim de que digam: \"São estes aqueles a quem Allah fez mercê, entre nós?\" Não é Allah bem Sabedor dos agradecidos?",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 134,
+  "verse_key": "6:53",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ فَتَنَّا بَعۡضَهُم بِبَعۡضٖ لِّيَقُولُوٓاْ أَهَٰٓؤُلَآءِ مَنَّ ٱللَّهُ عَلَيۡهِم مِّنۢ بَيۡنِنَآۗ أَلَيۡسَ ٱللَّهُ بِأَعۡلَمَ بِٱلشَّٰكِرِينَ",
+  "translation": "E, assim, nós os provamos uns pelos outros a fim de que digam: \"São estes aqueles a quem Allah fez mercê, entre nós?\" Não é Allah bem Sabedor dos agradecidos?",
+  "footnotes": ""
 }

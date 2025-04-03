@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6134",
-    "sura": "98",
-    "aya": "4",
-    "arabic_text": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَةُ",
-    "translation": "4. Ceux à qui le Livre a été donné ne se sont divisés qu’après avoir reçu la preuve évidente.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 598,
+  "verse_key": "98:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تَفَرَّقَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَتۡهُمُ ٱلۡبَيِّنَةُ",
+  "translation": "4. Ceux à qui le Livre a été donné ne se sont divisés qu’après avoir reçu la preuve évidente.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3361",
-    "sura": "29",
-    "aya": "21",
-    "arabic_text": "يُعَذِّبُ مَن يَشَآءُ وَيَرۡحَمُ مَن يَشَآءُۖ وَإِلَيۡهِ تُقۡلَبُونَ",
-    "translation": "Imana Allah, Ihana uwo Ishatse mu biremwa, Ikamuhanira ivyo yakoze kw’isi; Ikanagirira impuhwe uwo Ishatse mu bigaye bakemera, bakanakora n’ivyiza bitegetswe. Bantu! Ni no kuri Yo rero muzosubizwa mumaze gupfa, kugira muharurirwe, muhemberwe n'ivyo mwakoze;",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 398,
+  "verse_key": "29:21",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُعَذِّبُ مَن يَشَآءُ وَيَرۡحَمُ مَن يَشَآءُۖ وَإِلَيۡهِ تُقۡلَبُونَ",
+  "translation": "Imana Allah, Ihana uwo Ishatse mu biremwa, Ikamuhanira ivyo yakoze kw’isi; Ikanagirira impuhwe uwo Ishatse mu bigaye bakemera, bakanakora n’ivyiza bitegetswe. Bantu! Ni no kuri Yo rero muzosubizwa mumaze gupfa, kugira muharurirwe, muhemberwe n'ivyo mwakoze;",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1380",
-    "sura": "10",
-    "aya": "16",
-    "arabic_text": "قُل لَّوۡ شَآءَ ٱللَّهُ مَا تَلَوۡتُهُۥ عَلَيۡكُمۡ وَلَآ أَدۡرَىٰكُم بِهِۦۖ فَقَدۡ لَبِثۡتُ فِيكُمۡ عُمُرٗا مِّن قَبۡلِهِۦٓۚ أَفَلَا تَعۡقِلُونَ",
-    "translation": "Sema: Mwenyezi Mungu angeli taka nisingeli kusomeeni, wala nisingeli kujuvyeni. Kwani nalikwisha kaa nanyi umri mzima kabla yake! Basi, je! Hamzingatii?",
-    "footnotes": "Waambie ewe Mtume! Lau kuwa Mwenyezi Mungu angeli taka kuwa asiniteremshie Qur'ani kutoka kwake, wala mimi nisikufikishieni, asingeli teremsha, wala mimi nisingeli kusomeeni, na wala Mwenyezi Mungu asingeli kufundisheni. Lakini Yeye kateremsha, na kanituma mimi kwayo, na mimi nimekusomeeni kama alivyo niamrisha. Na mimi nilikwisha kaa nanyi wakati mrefu kabla ya kupewa Utume, na mimi sikudai Utume wakati huo, wala sikukusomeeni kitu chochote. Na nyinyi mmeshuhudia kuwa mimi ni mkweli na muaminifu. Lakini umekuja Ufunuo na nimeamrishwa niusome. Basi hebu yatieni akilini haya mambo, na myazingatie, na yakutanisheni yaliyo pita ya zamani na ya yaliopo sasa."
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 210,
+  "verse_key": "10:16",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لَّوۡ شَآءَ ٱللَّهُ مَا تَلَوۡتُهُۥ عَلَيۡكُمۡ وَلَآ أَدۡرَىٰكُم بِهِۦۖ فَقَدۡ لَبِثۡتُ فِيكُمۡ عُمُرٗا مِّن قَبۡلِهِۦٓۚ أَفَلَا تَعۡقِلُونَ",
+  "translation": "Sema: Mwenyezi Mungu angeli taka nisingeli kusomeeni, wala nisingeli kujuvyeni. Kwani nalikwisha kaa nanyi umri mzima kabla yake! Basi, je! Hamzingatii?",
+  "footnotes": "Waambie ewe Mtume! Lau kuwa Mwenyezi Mungu angeli taka kuwa asiniteremshie Qur'ani kutoka kwake, wala mimi nisikufikishieni, asingeli teremsha, wala mimi nisingeli kusomeeni, na wala Mwenyezi Mungu asingeli kufundisheni. Lakini Yeye kateremsha, na kanituma mimi kwayo, na mimi nimekusomeeni kama alivyo niamrisha. Na mimi nilikwisha kaa nanyi wakati mrefu kabla ya kupewa Utume, na mimi sikudai Utume wakati huo, wala sikukusomeeni kitu chochote. Na nyinyi mmeshuhudia kuwa mimi ni mkweli na muaminifu. Lakini umekuja Ufunuo na nimeamrishwa niusome. Basi hebu yatieni akilini haya mambo, na myazingatie, na yakutanisheni yaliyo pita ya zamani na ya yaliopo sasa."
 }

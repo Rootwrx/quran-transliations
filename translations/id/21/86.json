@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2569",
-    "sura": "21",
-    "aya": "86",
-    "arabic_text": "وَأَدۡخَلۡنَٰهُمۡ فِي رَحۡمَتِنَآۖ إِنَّهُم مِّنَ ٱلصَّٰلِحِينَ",
-    "translation": "dan Kami masukkan mereka ke dalam rahmat Kami. Sungguh, mereka termasuk orang-orang yang saleh.",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 329,
+  "verse_key": "21:86",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَدۡخَلۡنَٰهُمۡ فِي رَحۡمَتِنَآۖ إِنَّهُم مِّنَ ٱلصَّٰلِحِينَ",
+  "translation": "dan Kami masukkan mereka ke dalam rahmat Kami. Sungguh, mereka termasuk orang-orang yang saleh.",
+  "footnotes": ""
 }

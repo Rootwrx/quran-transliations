@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4851",
-    "sura": "54",
-    "aya": "5",
-    "arabic_text": "حِكۡمَةُۢ بَٰلِغَةٞۖ فَمَا تُغۡنِ ٱلنُّذُرُ",
-    "translation": "5. (Itulah) suatu hikmah yang sempurna. Tetapi peringatan-peringatan itu tidak berguna (bagi mereka),",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 528,
+  "verse_key": "54:5",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حِكۡمَةُۢ بَٰلِغَةٞۖ فَمَا تُغۡنِ ٱلنُّذُرُ",
+  "translation": "5. (Itulah) suatu hikmah yang sempurna. Tetapi peringatan-peringatan itu tidak berguna (bagi mereka),",
+  "footnotes": ""
 }

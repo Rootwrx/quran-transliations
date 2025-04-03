@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4153",
-    "sura": "40",
-    "aya": "20",
-    "arabic_text": "وَٱللَّهُ يَقۡضِي بِٱلۡحَقِّۖ وَٱلَّذِينَ يَدۡعُونَ مِن دُونِهِۦ لَا يَقۡضُونَ بِشَيۡءٍۗ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
-    "translation": "Àti pé Allāhu l’Ó máa fi òdodo dájọ́. Àwọn tí wọ́n ń pè lẹ́yìn Rẹ̀, wọn kò lè ṣe ìdájọ́ kan kan. Dájúdájú Allāhu, Òun ni Olùgbọ́, Olùríran.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 469,
+  "verse_key": "40:20",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ يَقۡضِي بِٱلۡحَقِّۖ وَٱلَّذِينَ يَدۡعُونَ مِن دُونِهِۦ لَا يَقۡضُونَ بِشَيۡءٍۗ إِنَّ ٱللَّهَ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
+  "translation": "Àti pé Allāhu l’Ó máa fi òdodo dájọ́. Àwọn tí wọ́n ń pè lẹ́yìn Rẹ̀, wọn kò lè ṣe ìdájọ́ kan kan. Dájúdájú Allāhu, Òun ni Olùgbọ́, Olùríran.",
+  "footnotes": ""
 }

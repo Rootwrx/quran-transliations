@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3756",
-    "sura": "36",
-    "aya": "51",
-    "arabic_text": "وَنُفِخَ فِي ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلۡأَجۡدَاثِ إِلَىٰ رَبِّهِمۡ يَنسِلُونَ",
-    "translation": "Sur (ikinci dəfə) üfürülən kimi onlar dərhal qəbirlərdən çıxıb Rəbbinə tərəf tələsəcəklər.",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 443,
+  "verse_key": "36:51",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنُفِخَ فِي ٱلصُّورِ فَإِذَا هُم مِّنَ ٱلۡأَجۡدَاثِ إِلَىٰ رَبِّهِمۡ يَنسِلُونَ",
+  "translation": "Sur (ikinci dəfə) üfürülən kimi onlar dərhal qəbirlərdən çıxıb Rəbbinə tərəf tələsəcəklər.",
+  "footnotes": ""
 }

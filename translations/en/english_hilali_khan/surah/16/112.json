@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2013",
-    "sura": "16",
-    "aya": "112",
-    "arabic_text": "وَضَرَبَ ٱللَّهُ مَثَلٗا قَرۡيَةٗ كَانَتۡ ءَامِنَةٗ مُّطۡمَئِنَّةٗ يَأۡتِيهَا رِزۡقُهَا رَغَدٗا مِّن كُلِّ مَكَانٖ فَكَفَرَتۡ بِأَنۡعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلۡجُوعِ وَٱلۡخَوۡفِ بِمَا كَانُواْ يَصۡنَعُونَ",
-    "translation": " 112. And Allâh puts forward the example of a township (Makkah), that dwelt secure and well-content: its provision coming to it in abundance from every place, but it (its people) denied the Favours of Allâh (with ungratefulness). So Allâh made it taste extreme of hunger (famine) and fear, because of that (evil, i.e. denying Prophet Muhammad صلى الله عليه و سلم) which they (its people) used to do[1].",
-    "footnotes": "(V.16:112) Narrated Ibn ‘Abbâs رضي الله عنهما The Prophet صلى الله عليه وسلم said, \"I was shown the Hell-fire and that the majority of its dwellers were women who were disbelievers or ungrateful.\" He was asked, \"Do they disbelieve in Allâh?\" (or are they ungrateful to Allâh?) He replied, \"They are ungrateful to their husbands and are ungrateful for the favours and the good (charitable deeds) done to them. If you have always been good (benevolent) to one of them for a period of time and then she sees something in you (not of her liking), she will say, ‘I have never seen any good from you.’ \" (Sahih Al-Bukhari, Vol.1, Hadith No.28)."
-  }
+  "id": 112,
+  "verse_number": 112,
+  "page_number": 280,
+  "verse_key": "16:112",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَضَرَبَ ٱللَّهُ مَثَلٗا قَرۡيَةٗ كَانَتۡ ءَامِنَةٗ مُّطۡمَئِنَّةٗ يَأۡتِيهَا رِزۡقُهَا رَغَدٗا مِّن كُلِّ مَكَانٖ فَكَفَرَتۡ بِأَنۡعُمِ ٱللَّهِ فَأَذَٰقَهَا ٱللَّهُ لِبَاسَ ٱلۡجُوعِ وَٱلۡخَوۡفِ بِمَا كَانُواْ يَصۡنَعُونَ",
+  "translation": " 112. And Allâh puts forward the example of a township (Makkah), that dwelt secure and well-content: its provision coming to it in abundance from every place, but it (its people) denied the Favours of Allâh (with ungratefulness). So Allâh made it taste extreme of hunger (famine) and fear, because of that (evil, i.e. denying Prophet Muhammad صلى الله عليه و سلم) which they (its people) used to do[1].",
+  "footnotes": "(V.16:112) Narrated Ibn ‘Abbâs رضي الله عنهما The Prophet صلى الله عليه وسلم said, \"I was shown the Hell-fire and that the majority of its dwellers were women who were disbelievers or ungrateful.\" He was asked, \"Do they disbelieve in Allâh?\" (or are they ungrateful to Allâh?) He replied, \"They are ungrateful to their husbands and are ungrateful for the favours and the good (charitable deeds) done to them. If you have always been good (benevolent) to one of them for a period of time and then she sees something in you (not of her liking), she will say, ‘I have never seen any good from you.’ \" (Sahih Al-Bukhari, Vol.1, Hadith No.28)."
 }

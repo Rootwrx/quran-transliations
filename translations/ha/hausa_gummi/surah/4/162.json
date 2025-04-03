@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "655",
-    "sura": "4",
-    "aya": "162",
-    "arabic_text": "لَّٰكِنِ ٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ مِنۡهُمۡ وَٱلۡمُؤۡمِنُونَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَۚ وَٱلۡمُقِيمِينَ ٱلصَّلَوٰةَۚ وَٱلۡمُؤۡتُونَ ٱلزَّكَوٰةَ وَٱلۡمُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ أُوْلَٰٓئِكَ سَنُؤۡتِيهِمۡ أَجۡرًا عَظِيمًا",
-    "translation": "Amma tabbatattu* a cikin ilmi daga gare su, da mũminai, suna ĩmani da abin da aka saukar zuwa gare ka, da abin da aka saukar daga gabãninka, madalla da masu tsai da salla, da mãsu bãyar da zakka, da mãsu ĩmãni daAllah da Rãnar Lãhira. Waɗannan zã Mu bã su lãda mai girma.",
-    "footnotes": "* Kabĩla mai asali tana lãlãcewa sabõda rashin bin addini, har ta zama mafi sharrin halittar Allah, kamar Yahũdu. Kuma a cikin haka wanda ya komawa gaskiya sai ya koma ga tsohon asalin, ya ƙãra daukaka da shi, kamar waɗanda suka musulunta daga cikinsu."
-  }
+  "id": 162,
+  "verse_number": 162,
+  "page_number": 103,
+  "verse_key": "4:162",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّٰكِنِ ٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ مِنۡهُمۡ وَٱلۡمُؤۡمِنُونَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَۚ وَٱلۡمُقِيمِينَ ٱلصَّلَوٰةَۚ وَٱلۡمُؤۡتُونَ ٱلزَّكَوٰةَ وَٱلۡمُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ أُوْلَٰٓئِكَ سَنُؤۡتِيهِمۡ أَجۡرًا عَظِيمًا",
+  "translation": "Amma tabbatattu* a cikin ilmi daga gare su, da mũminai, suna ĩmani da abin da aka saukar zuwa gare ka, da abin da aka saukar daga gabãninka, madalla da masu tsai da salla, da mãsu bãyar da zakka, da mãsu ĩmãni daAllah da Rãnar Lãhira. Waɗannan zã Mu bã su lãda mai girma.",
+  "footnotes": "* Kabĩla mai asali tana lãlãcewa sabõda rashin bin addini, har ta zama mafi sharrin halittar Allah, kamar Yahũdu. Kuma a cikin haka wanda ya komawa gaskiya sai ya koma ga tsohon asalin, ya ƙãra daukaka da shi, kamar waɗanda suka musulunta daga cikinsu."
 }

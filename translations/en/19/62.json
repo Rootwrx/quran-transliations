@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2312",
-    "sura": "19",
-    "aya": "62",
-    "arabic_text": "لَّا يَسۡمَعُونَ فِيهَا لَغۡوًا إِلَّا سَلَٰمٗاۖ وَلَهُمۡ رِزۡقُهُمۡ فِيهَا بُكۡرَةٗ وَعَشِيّٗا",
-    "translation": "(62) They will not hear therein any ill speech - only [greetings of] peace - and they will have their provision therein, morning and afternoon.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 309,
+  "verse_key": "19:62",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَسۡمَعُونَ فِيهَا لَغۡوًا إِلَّا سَلَٰمٗاۖ وَلَهُمۡ رِزۡقُهُمۡ فِيهَا بُكۡرَةٗ وَعَشِيّٗا",
+  "translation": "(62) They will not hear therein any ill speech - only [greetings of] peace - and they will have their provision therein, morning and afternoon.",
+  "footnotes": ""
 }

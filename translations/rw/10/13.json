@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1377",
-    "sura": "10",
-    "aya": "13",
-    "arabic_text": "وَلَقَدۡ أَهۡلَكۡنَا ٱلۡقُرُونَ مِن قَبۡلِكُمۡ لَمَّا ظَلَمُواْ وَجَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَمَا كَانُواْ لِيُؤۡمِنُواْۚ كَذَٰلِكَ نَجۡزِي ٱلۡقَوۡمَ ٱلۡمُجۡرِمِينَ",
-    "translation": "Kandi rwose tworetse ibisekuru by’ababayeho mbere yanyu ubwo bakoraga ibibi, kandi (ibyo bisekuru) byari byaranagezweho n’Intumwa zabyo zibizaniye ibimenyetso, ariko ntibyigera byemera. Uko ni ko duhana abantu b’inkozi z’ibibi.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 209,
+  "verse_key": "10:13",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَهۡلَكۡنَا ٱلۡقُرُونَ مِن قَبۡلِكُمۡ لَمَّا ظَلَمُواْ وَجَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَمَا كَانُواْ لِيُؤۡمِنُواْۚ كَذَٰلِكَ نَجۡزِي ٱلۡقَوۡمَ ٱلۡمُجۡرِمِينَ",
+  "translation": "Kandi rwose tworetse ibisekuru by’ababayeho mbere yanyu ubwo bakoraga ibibi, kandi (ibyo bisekuru) byari byaranagezweho n’Intumwa zabyo zibizaniye ibimenyetso, ariko ntibyigera byemera. Uko ni ko duhana abantu b’inkozi z’ibibi.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1035",
-    "sura": "7",
-    "aya": "81",
-    "arabic_text": "إِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ شَهۡوَةٗ مِّن دُونِ ٱلنِّسَآءِۚ بَلۡ أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ",
-    "translation": "81. »Os acercáis a los hombres con deseo (y lo satisfacéis con ellos), en vez de acercaros a (vuestras) mujeres. Ciertamente, sois un pueblo transgresor».",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 160,
+  "verse_key": "7:81",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ شَهۡوَةٗ مِّن دُونِ ٱلنِّسَآءِۚ بَلۡ أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ",
+  "translation": "81. »Os acercáis a los hombres con deseo (y lo satisfacéis con ellos), en vez de acercaros a (vuestras) mujeres. Ciertamente, sois un pueblo transgresor».",
+  "footnotes": ""
 }

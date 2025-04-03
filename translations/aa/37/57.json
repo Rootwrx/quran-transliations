@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3845",
-    "sura": "37",
-    "aya": "57",
-    "arabic_text": "وَلَوۡلَا نِعۡمَةُ رَبِّي لَكُنتُ مِنَ ٱلۡمُحۡضَرِينَ",
-    "translation": "57. Kaadu yi-Rabbi isi muxxóh tirri yoo heewannay, kôo luk girál xayyoysimeeh tet cule marih num akkuk-en.",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 448,
+  "verse_key": "37:57",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡلَا نِعۡمَةُ رَبِّي لَكُنتُ مِنَ ٱلۡمُحۡضَرِينَ",
+  "translation": "57. Kaadu yi-Rabbi isi muxxóh tirri yoo heewannay, kôo luk girál xayyoysimeeh tet cule marih num akkuk-en.",
+  "footnotes": ""
 }

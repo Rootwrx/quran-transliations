@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2653",
-    "sura": "22",
-    "aya": "58",
-    "arabic_text": "وَٱلَّذِينَ هَاجَرُواْ فِي سَبِيلِ ٱللَّهِ ثُمَّ قُتِلُوٓاْ أَوۡ مَاتُواْ لَيَرۡزُقَنَّهُمُ ٱللَّهُ رِزۡقًا حَسَنٗاۚ وَإِنَّ ٱللَّهَ لَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ",
-    "translation": "58. Aquellos que emigraron por la causa de Dios y fueron asesinados o murieron en el camino, Dios los proveerá con un bello sustento. Dios es el mejor proveedor.",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 339,
+  "verse_key": "22:58",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ هَاجَرُواْ فِي سَبِيلِ ٱللَّهِ ثُمَّ قُتِلُوٓاْ أَوۡ مَاتُواْ لَيَرۡزُقَنَّهُمُ ٱللَّهُ رِزۡقًا حَسَنٗاۚ وَإِنَّ ٱللَّهَ لَهُوَ خَيۡرُ ٱلرَّٰزِقِينَ",
+  "translation": "58. Aquellos que emigraron por la causa de Dios y fueron asesinados o murieron en el camino, Dios los proveerá con un bello sustento. Dios es el mejor proveedor.",
+  "footnotes": ""
 }

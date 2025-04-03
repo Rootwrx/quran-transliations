@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "52",
-    "sura": "2",
-    "aya": "45",
-    "arabic_text": "وَٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلۡخَٰشِعِينَ",
-    "translation": "Kandi mujye mwifashisha (muri gahunda zanyu zose) ukwihangana n’iswala[1]; n’ubwo mu by’ukuri bigoye uretse ku bibombarika.",
-    "footnotes": "[1]  Reba uko twasobanuye umurongo wa 3 muri iyi Surat."
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 7,
+  "verse_key": "2:45",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱسۡتَعِينُواْ بِٱلصَّبۡرِ وَٱلصَّلَوٰةِۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلۡخَٰشِعِينَ",
+  "translation": "Kandi mujye mwifashisha (muri gahunda zanyu zose) ukwihangana n’iswala[1]; n’ubwo mu by’ukuri bigoye uretse ku bibombarika.",
+  "footnotes": "[1]  Reba uko twasobanuye umurongo wa 3 muri iyi Surat."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3801",
-    "sura": "37",
-    "aya": "13",
-    "arabic_text": "وَإِذَا ذُكِّرُواْ لَا يَذۡكُرُونَ",
-    "translation": "а кад им се савети упућују, они их не прихватају,",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 446,
+  "verse_key": "37:13",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ذُكِّرُواْ لَا يَذۡكُرُونَ",
+  "translation": "а кад им се савети упућују, они их не прихватају,",
+  "footnotes": ""
 }

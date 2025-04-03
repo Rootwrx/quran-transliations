@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1379",
-    "sura": "10",
-    "aya": "15",
-    "arabic_text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَاتُنَا بَيِّنَٰتٖ قَالَ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا ٱئۡتِ بِقُرۡءَانٍ غَيۡرِ هَٰذَآ أَوۡ بَدِّلۡهُۚ قُلۡ مَا يَكُونُ لِيٓ أَنۡ أُبَدِّلَهُۥ مِن تِلۡقَآيِٕ نَفۡسِيٓۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّۖ إِنِّيٓ أَخَافُ إِنۡ عَصَيۡتُ رَبِّي عَذَابَ يَوۡمٍ عَظِيمٖ",
-    "translation": "Kapag binibigkas sa kanila ang mga talata Namin [sa Qur’ān] bilang mga malinaw na patunay ay nagsasabi ang mga hindi nag-aasam ng pakikipagkita sa Amin: “Magdala ka ng isang Qur’ān na iba rito o magpalit ka nito.” Sabihin mo: “Hindi nagiging ukol sa akin na magpalit ako nito mula sa pagkukusa ng sarili ko. Hindi ako sumusunod maliban sa ikinakasi sa akin. Tunay na ako ay nangangamba, kung sumuway ako sa Panginoon, sa pagdurusa sa isang araw na sukdulan.”",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 210,
+  "verse_key": "10:15",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَاتُنَا بَيِّنَٰتٖ قَالَ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا ٱئۡتِ بِقُرۡءَانٍ غَيۡرِ هَٰذَآ أَوۡ بَدِّلۡهُۚ قُلۡ مَا يَكُونُ لِيٓ أَنۡ أُبَدِّلَهُۥ مِن تِلۡقَآيِٕ نَفۡسِيٓۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّۖ إِنِّيٓ أَخَافُ إِنۡ عَصَيۡتُ رَبِّي عَذَابَ يَوۡمٍ عَظِيمٖ",
+  "translation": "Kapag binibigkas sa kanila ang mga talata Namin [sa Qur’ān] bilang mga malinaw na patunay ay nagsasabi ang mga hindi nag-aasam ng pakikipagkita sa Amin: “Magdala ka ng isang Qur’ān na iba rito o magpalit ka nito.” Sabihin mo: “Hindi nagiging ukol sa akin na magpalit ako nito mula sa pagkukusa ng sarili ko. Hindi ako sumusunod maliban sa ikinakasi sa akin. Tunay na ako ay nangangamba, kung sumuway ako sa Panginoon, sa pagdurusa sa isang araw na sukdulan.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1552",
-    "sura": "11",
-    "aya": "79",
-    "arabic_text": "قَالُواْ لَقَدۡ عَلِمۡتَ مَا لَنَا فِي بَنَاتِكَ مِنۡ حَقّٖ وَإِنَّكَ لَتَعۡلَمُ مَا نُرِيدُ",
-    "translation": "Suka ce: \"Lalle, haƙĩƙa kã sani, bã mu da wani hakki a cikin 'ya'yanka, kuma lalle kai haƙĩƙa, kanã sane da abin da muke nufi.\"",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 230,
+  "verse_key": "11:79",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ لَقَدۡ عَلِمۡتَ مَا لَنَا فِي بَنَاتِكَ مِنۡ حَقّٖ وَإِنَّكَ لَتَعۡلَمُ مَا نُرِيدُ",
+  "translation": "Suka ce: \"Lalle, haƙĩƙa kã sani, bã mu da wani hakki a cikin 'ya'yanka, kuma lalle kai haƙĩƙa, kanã sane da abin da muke nufi.\"",
+  "footnotes": ""
 }

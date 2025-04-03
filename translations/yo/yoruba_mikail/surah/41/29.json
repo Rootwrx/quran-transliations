@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4247",
-    "sura": "41",
-    "aya": "29",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ رَبَّنَآ أَرِنَا ٱلَّذَيۡنِ أَضَلَّانَا مِنَ ٱلۡجِنِّ وَٱلۡإِنسِ نَجۡعَلۡهُمَا تَحۡتَ أَقۡدَامِنَا لِيَكُونَا مِنَ ٱلۡأَسۡفَلِينَ",
-    "translation": "Àwọn tó ṣàì gbàgbọ́ wí pé: “Olúwa wa, fi àwọn méjèèjì tí wọ́n ṣì wá lọ́nà nínú àwọn àlùjànnú àti ènìyàn hàn wá, kí á fi àwọn méjèèjì sí abẹ́ ẹsẹ̀ wa, nítorí kí àwọn méjèèjì lè wà ní ìsàlẹ̀ pátápátá.”",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 479,
+  "verse_key": "41:29",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ رَبَّنَآ أَرِنَا ٱلَّذَيۡنِ أَضَلَّانَا مِنَ ٱلۡجِنِّ وَٱلۡإِنسِ نَجۡعَلۡهُمَا تَحۡتَ أَقۡدَامِنَا لِيَكُونَا مِنَ ٱلۡأَسۡفَلِينَ",
+  "translation": "Àwọn tó ṣàì gbàgbọ́ wí pé: “Olúwa wa, fi àwọn méjèèjì tí wọ́n ṣì wá lọ́nà nínú àwọn àlùjànnú àti ènìyàn hàn wá, kí á fi àwọn méjèèjì sí abẹ́ ẹsẹ̀ wa, nítorí kí àwọn méjèèjì lè wà ní ìsàlẹ̀ pátápátá.”",
+  "footnotes": ""
 }

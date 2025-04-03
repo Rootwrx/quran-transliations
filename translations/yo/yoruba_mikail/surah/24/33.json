@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2824",
-    "sura": "24",
-    "aya": "33",
-    "arabic_text": "وَلۡيَسۡتَعۡفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغۡنِيَهُمُ ٱللَّهُ مِن فَضۡلِهِۦۗ وَٱلَّذِينَ يَبۡتَغُونَ ٱلۡكِتَٰبَ مِمَّا مَلَكَتۡ أَيۡمَٰنُكُمۡ فَكَاتِبُوهُمۡ إِنۡ عَلِمۡتُمۡ فِيهِمۡ خَيۡرٗاۖ وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِيٓ ءَاتَىٰكُمۡۚ وَلَا تُكۡرِهُواْ فَتَيَٰتِكُمۡ عَلَى ٱلۡبِغَآءِ إِنۡ أَرَدۡنَ تَحَصُّنٗا لِّتَبۡتَغُواْ عَرَضَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَمَن يُكۡرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعۡدِ إِكۡرَٰهِهِنَّ غَفُورٞ رَّحِيمٞ",
-    "translation": "Kí àwọn tí kò ní (ìkápá) ìgbéyàwó mú ojú wọn kúrò níbi ìṣekúṣe títí Allāhu yóò fi rọ̀ wọ́n lọ́rọ̀ nínú ọlá Rẹ̀.[1] Àwọn tó ń wá ìwé òmìnira nínú àwọn ẹrú yín, ẹ kọ ìwé òmìnira fún wọn tí ẹ bá mọ ohun rere nípa wọn. Kí ẹ sì fún wọn nínú dúkìá Allāhu tí Ó fún yín. (Nítorí dúkìá ayé tí ẹ̀ ń wá), ẹ má ṣe jẹ àwọn ẹrúbìnrin yín nípá láti lọ ṣe sìná, tí wọ́n bá fẹ́ ṣọ́ abẹ́ wọn níbi ìṣekúṣe.² Ẹnikẹ́ni tí ó bá jẹ wọ́n nípá, dájúdájú Allāhu ni Aláforíjìn, Àṣàkẹ́-ọ̀run lẹ́yìn tí ẹ ti jẹ wọ́n nípá.³",
-    "footnotes": "1. Kò sí ìtakora láààrin gbólóhùn yìí “Tí wọ́n bá jẹ́ aláìní, Allāhu yóò rọ̀ wọ́n lọ́rọ̀ nínú ọlá Rẹ̀.” àti gbólóhùn yìí. “Kí àwọn tí kò ní (ìkápá) ìgbéyàwó mú ojú wọn kúrò níbi ìṣekúṣe títí Allāhu yóò fi rọ̀ wọ́n lọ́rọ̀ nínú ọlá Rẹ̀.” Gbólóhùn kìíní ń kìlọ̀ fún wa láti jìnnà sí fífí ọmọ fún olówó nìkan. Gbólóhùn kejì sì ń kìlọ̀ fún wa láti jìnnà sí fífi ìyàwó fún ẹni tí kò ní ọ̀nà kan kan láti máa fi bọ́ ìyàwó. 2. Awẹ́ gbólóhùn “tí wọ́n bá fẹ́ ṣọ́ abẹ́ wọn níbi ìṣekúṣe.” kì í ṣe májẹ̀mu fún awẹ́ gbólóhùn tó ṣíwájú. Ìyẹn ni pé, kí ẹnikẹ́ni má ṣe lérò pé bí ẹrúbìnrin kò bá fẹ́ ṣọ́ abẹ́ rẹ̀, olówó rẹ̀ lè rán an lọ ṣe sìná wá. Rárá o. Àfijọ ọ̀rọ̀ yìí dà bí awẹ́ gbólóhùn “èyí tó ń bẹ nínú ilé yín…” - sūrah an-Nisā; 4:23 - . Ẹ wo ìtọsẹ̀-ọ̀rọ̀ āyah náà. 3. Ìyẹn fún ẹrúbìnrin tí olówó rẹ̀ jẹ nípá láti lọ ṣe sìná."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 354,
+  "verse_key": "24:33",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 141,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلۡيَسۡتَعۡفِفِ ٱلَّذِينَ لَا يَجِدُونَ نِكَاحًا حَتَّىٰ يُغۡنِيَهُمُ ٱللَّهُ مِن فَضۡلِهِۦۗ وَٱلَّذِينَ يَبۡتَغُونَ ٱلۡكِتَٰبَ مِمَّا مَلَكَتۡ أَيۡمَٰنُكُمۡ فَكَاتِبُوهُمۡ إِنۡ عَلِمۡتُمۡ فِيهِمۡ خَيۡرٗاۖ وَءَاتُوهُم مِّن مَّالِ ٱللَّهِ ٱلَّذِيٓ ءَاتَىٰكُمۡۚ وَلَا تُكۡرِهُواْ فَتَيَٰتِكُمۡ عَلَى ٱلۡبِغَآءِ إِنۡ أَرَدۡنَ تَحَصُّنٗا لِّتَبۡتَغُواْ عَرَضَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۚ وَمَن يُكۡرِههُّنَّ فَإِنَّ ٱللَّهَ مِنۢ بَعۡدِ إِكۡرَٰهِهِنَّ غَفُورٞ رَّحِيمٞ",
+  "translation": "Kí àwọn tí kò ní (ìkápá) ìgbéyàwó mú ojú wọn kúrò níbi ìṣekúṣe títí Allāhu yóò fi rọ̀ wọ́n lọ́rọ̀ nínú ọlá Rẹ̀.[1] Àwọn tó ń wá ìwé òmìnira nínú àwọn ẹrú yín, ẹ kọ ìwé òmìnira fún wọn tí ẹ bá mọ ohun rere nípa wọn. Kí ẹ sì fún wọn nínú dúkìá Allāhu tí Ó fún yín. (Nítorí dúkìá ayé tí ẹ̀ ń wá), ẹ má ṣe jẹ àwọn ẹrúbìnrin yín nípá láti lọ ṣe sìná, tí wọ́n bá fẹ́ ṣọ́ abẹ́ wọn níbi ìṣekúṣe.² Ẹnikẹ́ni tí ó bá jẹ wọ́n nípá, dájúdájú Allāhu ni Aláforíjìn, Àṣàkẹ́-ọ̀run lẹ́yìn tí ẹ ti jẹ wọ́n nípá.³",
+  "footnotes": "1. Kò sí ìtakora láààrin gbólóhùn yìí “Tí wọ́n bá jẹ́ aláìní, Allāhu yóò rọ̀ wọ́n lọ́rọ̀ nínú ọlá Rẹ̀.” àti gbólóhùn yìí. “Kí àwọn tí kò ní (ìkápá) ìgbéyàwó mú ojú wọn kúrò níbi ìṣekúṣe títí Allāhu yóò fi rọ̀ wọ́n lọ́rọ̀ nínú ọlá Rẹ̀.” Gbólóhùn kìíní ń kìlọ̀ fún wa láti jìnnà sí fífí ọmọ fún olówó nìkan. Gbólóhùn kejì sì ń kìlọ̀ fún wa láti jìnnà sí fífi ìyàwó fún ẹni tí kò ní ọ̀nà kan kan láti máa fi bọ́ ìyàwó. 2. Awẹ́ gbólóhùn “tí wọ́n bá fẹ́ ṣọ́ abẹ́ wọn níbi ìṣekúṣe.” kì í ṣe májẹ̀mu fún awẹ́ gbólóhùn tó ṣíwájú. Ìyẹn ni pé, kí ẹnikẹ́ni má ṣe lérò pé bí ẹrúbìnrin kò bá fẹ́ ṣọ́ abẹ́ rẹ̀, olówó rẹ̀ lè rán an lọ ṣe sìná wá. Rárá o. Àfijọ ọ̀rọ̀ yìí dà bí awẹ́ gbólóhùn “èyí tó ń bẹ nínú ilé yín…” - sūrah an-Nisā; 4:23 - . Ẹ wo ìtọsẹ̀-ọ̀rọ̀ āyah náà. 3. Ìyẹn fún ẹrúbìnrin tí olówó rẹ̀ jẹ nípá láti lọ ṣe sìná."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4789",
-    "sura": "53",
-    "aya": "5",
-    "arabic_text": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
-    "translation": "5 transmise par un ange[1342] au pouvoir extraordinaire",
-    "footnotes": "[1342] L’ange Gabriel."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 526,
+  "verse_key": "53:5",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَّمَهُۥ شَدِيدُ ٱلۡقُوَىٰ",
+  "translation": "5 transmise par un ange[1342] au pouvoir extraordinaire",
+  "footnotes": "[1342] L’ange Gabriel."
 }

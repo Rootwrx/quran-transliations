@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5826",
-    "sura": "81",
-    "aya": "26",
-    "arabic_text": "فَأَيۡنَ تَذۡهَبُونَ",
-    "translation": "maka ke manakah kamu akan pergi?899)",
-    "footnotes": "*899) Setelah diterangkan bahwa Al-Qur`an itu benar-benar datang dari Allah, dan di dalamnya ada pelajaran dan petunjuk yang memimpin manusia ke jalan yang lurus, ditanyakanlah kepada orang-orang kafir itu, \"Jalan manakah yang akan kamu tempuh lagi?\""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 586,
+  "verse_key": "81:26",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَيۡنَ تَذۡهَبُونَ",
+  "translation": "maka ke manakah kamu akan pergi?899)",
+  "footnotes": "*899) Setelah diterangkan bahwa Al-Qur`an itu benar-benar datang dari Allah, dan di dalamnya ada pelajaran dan petunjuk yang memimpin manusia ke jalan yang lurus, ditanyakanlah kepada orang-orang kafir itu, \"Jalan manakah yang akan kamu tempuh lagi?\""
 }

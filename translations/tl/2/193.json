@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "200",
-    "sura": "2",
-    "aya": "193",
-    "arabic_text": "وَقَٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةٞ وَيَكُونَ ٱلدِّينُ لِلَّهِۖ فَإِنِ ٱنتَهَوۡاْ فَلَا عُدۡوَٰنَ إِلَّا عَلَى ٱلظَّٰلِمِينَ",
-    "translation": "Makipaglaban kayo sa kanila hanggang sa walang mangyaring panliligalig at ang relihiyon ay sa kay Allāh. Kaya kung tumigil sila ay walang pang-aaway kundi sa mga tagalabag sa katarungan.",
-    "footnotes": ""
-  }
+  "id": 193,
+  "verse_number": 193,
+  "page_number": 30,
+  "verse_key": "2:193",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَٰتِلُوهُمۡ حَتَّىٰ لَا تَكُونَ فِتۡنَةٞ وَيَكُونَ ٱلدِّينُ لِلَّهِۖ فَإِنِ ٱنتَهَوۡاْ فَلَا عُدۡوَٰنَ إِلَّا عَلَى ٱلظَّٰلِمِينَ",
+  "translation": "Makipaglaban kayo sa kanila hanggang sa walang mangyaring panliligalig at ang relihiyon ay sa kay Allāh. Kaya kung tumigil sila ay walang pang-aaway kundi sa mga tagalabag sa katarungan.",
+  "footnotes": ""
 }

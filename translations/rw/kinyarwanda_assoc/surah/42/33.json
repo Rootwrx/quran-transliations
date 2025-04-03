@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4305",
-    "sura": "42",
-    "aya": "33",
-    "arabic_text": "إِن يَشَأۡ يُسۡكِنِ ٱلرِّيحَ فَيَظۡلَلۡنَ رَوَاكِدَ عَلَىٰ ظَهۡرِهِۦٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٍ",
-    "translation": "(Allah) aramutse abishatse yahagarika umuyaga, maze (amato) akaguma hamwe (areremba) hejuru yayo. Mu by’ukuri muri ibyo harimo ibimenyetso kuri buri wese wihangana cyane, unashimira.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 487,
+  "verse_key": "42:33",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن يَشَأۡ يُسۡكِنِ ٱلرِّيحَ فَيَظۡلَلۡنَ رَوَاكِدَ عَلَىٰ ظَهۡرِهِۦٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٍ",
+  "translation": "(Allah) aramutse abishatse yahagarika umuyaga, maze (amato) akaguma hamwe (areremba) hejuru yayo. Mu by’ukuri muri ibyo harimo ibimenyetso kuri buri wese wihangana cyane, unashimira.",
+  "footnotes": ""
 }

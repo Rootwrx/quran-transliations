@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1276",
-    "sura": "9",
-    "aya": "41",
-    "arabic_text": "ٱنفِرُواْ خِفَافٗا وَثِقَالٗا وَجَٰهِدُواْ بِأَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡ فِي سَبِيلِ ٱللَّهِۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
-    "translation": "41. U baxa (dagaalka) idinkoo fudud iyo idinkoo culusba14, oo kula jihaada maalkiinna iyo nafahiinnaba Jidka Alle. Arrinkan baa idiin khayr badan, haddaad og tihiin.",
-    "footnotes": "14. Waa da’ yar iyo duqow, idinkoo gaadiid fuushan, ama lugeynaya, ladnaan iyo lurnaanba – duruuf iyo xaalado kasta oo aad ku jirtaan waa inaad u baxdaan jihaadka Jidka Alle ah."
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 194,
+  "verse_key": "9:41",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱنفِرُواْ خِفَافٗا وَثِقَالٗا وَجَٰهِدُواْ بِأَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡ فِي سَبِيلِ ٱللَّهِۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+  "translation": "41. U baxa (dagaalka) idinkoo fudud iyo idinkoo culusba14, oo kula jihaada maalkiinna iyo nafahiinnaba Jidka Alle. Arrinkan baa idiin khayr badan, haddaad og tihiin.",
+  "footnotes": "14. Waa da’ yar iyo duqow, idinkoo gaadiid fuushan, ama lugeynaya, ladnaan iyo lurnaanba – duruuf iyo xaalado kasta oo aad ku jirtaan waa inaad u baxdaan jihaadka Jidka Alle ah."
 }

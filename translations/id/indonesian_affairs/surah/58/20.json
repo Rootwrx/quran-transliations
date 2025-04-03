@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5124",
-    "sura": "58",
-    "aya": "20",
-    "arabic_text": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥٓ أُوْلَٰٓئِكَ فِي ٱلۡأَذَلِّينَ",
-    "translation": "Sesungguhnya orang-orang yang menentang Allah dan Rasul-Nya, mereka termasuk orang-orang yang sangat hina.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 544,
+  "verse_key": "58:20",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ يُحَآدُّونَ ٱللَّهَ وَرَسُولَهُۥٓ أُوْلَٰٓئِكَ فِي ٱلۡأَذَلِّينَ",
+  "translation": "Sesungguhnya orang-orang yang menentang Allah dan Rasul-Nya, mereka termasuk orang-orang yang sangat hina.",
+  "footnotes": ""
 }

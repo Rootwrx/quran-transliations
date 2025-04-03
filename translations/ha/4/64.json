@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "557",
-    "sura": "4",
-    "aya": "64",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا",
-    "translation": "Kuma ba Mu aiki wani Manzo ba fãce dõmin a yi masa ɗã'a da izinin Allah. Kuma dã dai lalle sũ a lõkacin da suka zãlunci kansu,* sun zo maka sa'an nan suka nẽmi gãfarar Allah kuma Manzo ya nẽma musu gãfara, haƙĩƙa, dã sun sãmi Allah Mai karɓar tũba Mai jin ƙai.",
-    "footnotes": "* Wanda ya ƙi hukuncin Allah, ya yi laifi biyu, domin sãɓa wa Allah da ManzonSa. Kuma wannan ya nũna rashin ĩmãninsa da Allah da Manzon Sa. Saboda haka ne ãyã mai bin wannan ta ce Musulmi bã su da ĩmãni sai sun yarda da Hukuncin Allah ga kome daga al'amurransu, kuma su yarda da hukuncinsa, bã da jin wani ƙunci a cikin zukatansu ba."
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 88,
+  "verse_key": "4:64",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا",
+  "translation": "Kuma ba Mu aiki wani Manzo ba fãce dõmin a yi masa ɗã'a da izinin Allah. Kuma dã dai lalle sũ a lõkacin da suka zãlunci kansu,* sun zo maka sa'an nan suka nẽmi gãfarar Allah kuma Manzo ya nẽma musu gãfara, haƙĩƙa, dã sun sãmi Allah Mai karɓar tũba Mai jin ƙai.",
+  "footnotes": "* Wanda ya ƙi hukuncin Allah, ya yi laifi biyu, domin sãɓa wa Allah da ManzonSa. Kuma wannan ya nũna rashin ĩmãninsa da Allah da Manzon Sa. Saboda haka ne ãyã mai bin wannan ta ce Musulmi bã su da ĩmãni sai sun yarda da Hukuncin Allah ga kome daga al'amurransu, kuma su yarda da hukuncinsa, bã da jin wani ƙunci a cikin zukatansu ba."
 }

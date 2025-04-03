@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "775",
-    "sura": "5",
-    "aya": "106",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ شَهَٰدَةُ بَيۡنِكُمۡ إِذَا حَضَرَ أَحَدَكُمُ ٱلۡمَوۡتُ حِينَ ٱلۡوَصِيَّةِ ٱثۡنَانِ ذَوَا عَدۡلٖ مِّنكُمۡ أَوۡ ءَاخَرَانِ مِنۡ غَيۡرِكُمۡ إِنۡ أَنتُمۡ ضَرَبۡتُمۡ فِي ٱلۡأَرۡضِ فَأَصَٰبَتۡكُم مُّصِيبَةُ ٱلۡمَوۡتِۚ تَحۡبِسُونَهُمَا مِنۢ بَعۡدِ ٱلصَّلَوٰةِ فَيُقۡسِمَانِ بِٱللَّهِ إِنِ ٱرۡتَبۡتُمۡ لَا نَشۡتَرِي بِهِۦ ثَمَنٗا وَلَوۡ كَانَ ذَا قُرۡبَىٰ وَلَا نَكۡتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذٗا لَّمِنَ ٱلۡأٓثِمِينَ",
-    "translation": "O besimtarë! Kur t’ju afrohet vdekja, me rastin e lënies së testamentit, le të dëshmojnë dy të ndershëm prej jush ose dy të tjerë që nuk janë prej jush, nëse fatkeqësia e vdekjes ju zë ndërsa jeni duke udhëtuar nëpër botë. Mbajini ata pas namazit dhe, nëse dyshoni në ndershmërinë e tyre, le të betohen në Allahun (duke thënë): “Ne nuk do ta shesim betimin me kurrfarë çmimi edhe nëse është fjala për çfarëdo të afërmi dhe dëshminë që na urdhëron Allahu nuk do ta fshehim, sepse, atëherë do të ishim vërtet keqbërës”.",
-    "footnotes": ""
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 125,
+  "verse_key": "5:106",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ شَهَٰدَةُ بَيۡنِكُمۡ إِذَا حَضَرَ أَحَدَكُمُ ٱلۡمَوۡتُ حِينَ ٱلۡوَصِيَّةِ ٱثۡنَانِ ذَوَا عَدۡلٖ مِّنكُمۡ أَوۡ ءَاخَرَانِ مِنۡ غَيۡرِكُمۡ إِنۡ أَنتُمۡ ضَرَبۡتُمۡ فِي ٱلۡأَرۡضِ فَأَصَٰبَتۡكُم مُّصِيبَةُ ٱلۡمَوۡتِۚ تَحۡبِسُونَهُمَا مِنۢ بَعۡدِ ٱلصَّلَوٰةِ فَيُقۡسِمَانِ بِٱللَّهِ إِنِ ٱرۡتَبۡتُمۡ لَا نَشۡتَرِي بِهِۦ ثَمَنٗا وَلَوۡ كَانَ ذَا قُرۡبَىٰ وَلَا نَكۡتُمُ شَهَٰدَةَ ٱللَّهِ إِنَّآ إِذٗا لَّمِنَ ٱلۡأٓثِمِينَ",
+  "translation": "O besimtarë! Kur t’ju afrohet vdekja, me rastin e lënies së testamentit, le të dëshmojnë dy të ndershëm prej jush ose dy të tjerë që nuk janë prej jush, nëse fatkeqësia e vdekjes ju zë ndërsa jeni duke udhëtuar nëpër botë. Mbajini ata pas namazit dhe, nëse dyshoni në ndershmërinë e tyre, le të betohen në Allahun (duke thënë): “Ne nuk do ta shesim betimin me kurrfarë çmimi edhe nëse është fjala për çfarëdo të afërmi dhe dëshminë që na urdhëron Allahu nuk do ta fshehim, sepse, atëherë do të ishim vërtet keqbërës”.",
+  "footnotes": ""
 }

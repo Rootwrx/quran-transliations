@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5773",
-    "sura": "80",
-    "aya": "15",
-    "arabic_text": "بِأَيۡدِي سَفَرَةٖ",
-    "translation": "Do bàn tay của các vị Thiên Thần",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 585,
+  "verse_key": "80:15",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بِأَيۡدِي سَفَرَةٖ",
+  "translation": "Do bàn tay của các vị Thiên Thần",
+  "footnotes": ""
 }

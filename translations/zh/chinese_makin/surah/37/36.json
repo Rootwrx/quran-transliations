@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3824",
-    "sura": "37",
-    "aya": "36",
-    "arabic_text": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓاْ ءَالِهَتِنَا لِشَاعِرٖ مَّجۡنُونِۭ",
-    "translation": "并且说：“难道我们务必要为一个狂妄的诗人，而抛弃我们的众神灵吗？”",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 447,
+  "verse_key": "37:36",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُونَ أَئِنَّا لَتَارِكُوٓاْ ءَالِهَتِنَا لِشَاعِرٖ مَّجۡنُونِۭ",
+  "translation": "并且说：“难道我们务必要为一个狂妄的诗人，而抛弃我们的众神灵吗？”",
+  "footnotes": ""
 }

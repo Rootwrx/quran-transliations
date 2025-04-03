@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1036",
-    "sura": "7",
-    "aya": "82",
-    "arabic_text": "وَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُوٓاْ أَخۡرِجُوهُم مِّن قَرۡيَتِكُمۡۖ إِنَّهُمۡ أُنَاسٞ يَتَطَهَّرُونَ",
-    "translation": "Kí sì ni ó jẹ́ èsì ìjọ rẹ̀ bí kò ṣe pé, wọ́n wí pé: “Ẹ lé wọn jáde kúrò nínú ìlú yín, dájúdájú wọ́n jẹ́ ènìyàn kan tó ń fọra wọn mọ́ (níbi ẹ̀ṣẹ̀).”",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 161,
+  "verse_key": "7:82",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُوٓاْ أَخۡرِجُوهُم مِّن قَرۡيَتِكُمۡۖ إِنَّهُمۡ أُنَاسٞ يَتَطَهَّرُونَ",
+  "translation": "Kí sì ni ó jẹ́ èsì ìjọ rẹ̀ bí kò ṣe pé, wọ́n wí pé: “Ẹ lé wọn jáde kúrò nínú ìlú yín, dájúdájú wọ́n jẹ́ ènìyàn kan tó ń fọra wọn mọ́ (níbi ẹ̀ṣẹ̀).”",
+  "footnotes": ""
 }

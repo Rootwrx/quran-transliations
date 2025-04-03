@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2992",
-    "sura": "26",
-    "aya": "60",
-    "arabic_text": "فَأَتۡبَعُوهُم مُّشۡرِقِينَ",
-    "translation": "60. Mpe balandaki bango na ntongo makasi.",
-    "footnotes": ""
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 369,
+  "verse_key": "26:60",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَتۡبَعُوهُم مُّشۡرِقِينَ",
+  "translation": "60. Mpe balandaki bango na ntongo makasi.",
+  "footnotes": ""
 }

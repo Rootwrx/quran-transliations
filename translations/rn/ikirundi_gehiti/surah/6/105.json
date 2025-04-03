@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "894",
-    "sura": "6",
-    "aya": "105",
-    "arabic_text": "وَكَذَٰلِكَ نُصَرِّفُ ٱلۡأٓيَٰتِ وَلِيَقُولُواْ دَرَسۡتَ وَلِنُبَيِّنَهُۥ لِقَوۡمٖ يَعۡلَمُونَ",
-    "translation": "Ntumwa y'Imana! Ni nk’uko nyene rero - Twebwe Allah Dutomora ivyemezo vyerekana ukuri kugira ngo kumenyekane - Duheza Tugatomorera ababangikanyamana ivyo batazi, kugira bahakane bigovyora bati: “Wavyigishijwe n’abahawe Igitabu”, no kugira Dutomorere ukuri abantu b’incabwenge, baheze bagukurikire[19].",
-    "footnotes": "[19] Abo, ni abemeye bakanakurikira Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) hamwe n’ivyo yahishuriwe muri Qor’ani."
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 141,
+  "verse_key": "6:105",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 56,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ نُصَرِّفُ ٱلۡأٓيَٰتِ وَلِيَقُولُواْ دَرَسۡتَ وَلِنُبَيِّنَهُۥ لِقَوۡمٖ يَعۡلَمُونَ",
+  "translation": "Ntumwa y'Imana! Ni nk’uko nyene rero - Twebwe Allah Dutomora ivyemezo vyerekana ukuri kugira ngo kumenyekane - Duheza Tugatomorera ababangikanyamana ivyo batazi, kugira bahakane bigovyora bati: “Wavyigishijwe n’abahawe Igitabu”, no kugira Dutomorere ukuri abantu b’incabwenge, baheze bagukurikire[19].",
+  "footnotes": "[19] Abo, ni abemeye bakanakurikira Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) hamwe n’ivyo yahishuriwe muri Qor’ani."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "824",
-    "sura": "6",
-    "aya": "35",
-    "arabic_text": "وَإِن كَانَ كَبُرَ عَلَيۡكَ إِعۡرَاضُهُمۡ فَإِنِ ٱسۡتَطَعۡتَ أَن تَبۡتَغِيَ نَفَقٗا فِي ٱلۡأَرۡضِ أَوۡ سُلَّمٗا فِي ٱلسَّمَآءِ فَتَأۡتِيَهُم بِـَٔايَةٖۚ وَلَوۡ شَآءَ ٱللَّهُ لَجَمَعَهُمۡ عَلَى ٱلۡهُدَىٰۚ فَلَا تَكُونَنَّ مِنَ ٱلۡجَٰهِلِينَ",
-    "translation": "Na ikiwa ni makubwa kwako huku kukataa kwao, basi kama unaweza kutafuta njia ya chini kwa chini ya ardhi, au ngazi kwendea mbinguni ili uwaletee Ishara -- Na lau kuwa Mwenyezi Mungu angependa angeli wakusanya kwenye uwongofu. Basi usiwe miongoni mwa wasio jua.",
-    "footnotes": "Ikiwa unaona dhiki kwa kukataa kwao kuitikia wito wako, basi kama unaweza kutafuta njia ya kupita chini ya ardhi, au ngazi ya kupandia mbinguni ukawaletea dalili ya kuthibitisha ukweli wako, fanya hivyo! Lakini huna uwezo huo. Basi poa roho yako, na usubiri kungojea hukumu ya Mola Mlezi wako. Lau kuwa Mwenyezi Mungu ange penda basi angeli walazimisha wote hao wayaamini ulio kuja nayo, wakitaka wasitake. Lakini Yeye amewaacha kwa ajili ya kuwafanyia mtihani, kuwajaribu. Basi usiwe miongoni mwa wasio ijua hukumu ya Mwenyezi Mungu na mwendo wake kwa viumbe."
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 131,
+  "verse_key": "6:35",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن كَانَ كَبُرَ عَلَيۡكَ إِعۡرَاضُهُمۡ فَإِنِ ٱسۡتَطَعۡتَ أَن تَبۡتَغِيَ نَفَقٗا فِي ٱلۡأَرۡضِ أَوۡ سُلَّمٗا فِي ٱلسَّمَآءِ فَتَأۡتِيَهُم بِـَٔايَةٖۚ وَلَوۡ شَآءَ ٱللَّهُ لَجَمَعَهُمۡ عَلَى ٱلۡهُدَىٰۚ فَلَا تَكُونَنَّ مِنَ ٱلۡجَٰهِلِينَ",
+  "translation": "Na ikiwa ni makubwa kwako huku kukataa kwao, basi kama unaweza kutafuta njia ya chini kwa chini ya ardhi, au ngazi kwendea mbinguni ili uwaletee Ishara -- Na lau kuwa Mwenyezi Mungu angependa angeli wakusanya kwenye uwongofu. Basi usiwe miongoni mwa wasio jua.",
+  "footnotes": "Ikiwa unaona dhiki kwa kukataa kwao kuitikia wito wako, basi kama unaweza kutafuta njia ya kupita chini ya ardhi, au ngazi ya kupandia mbinguni ukawaletea dalili ya kuthibitisha ukweli wako, fanya hivyo! Lakini huna uwezo huo. Basi poa roho yako, na usubiri kungojea hukumu ya Mola Mlezi wako. Lau kuwa Mwenyezi Mungu ange penda basi angeli walazimisha wote hao wayaamini ulio kuja nayo, wakitaka wasitake. Lakini Yeye amewaacha kwa ajili ya kuwafanyia mtihani, kuwajaribu. Basi usiwe miongoni mwa wasio ijua hukumu ya Mwenyezi Mungu na mwendo wake kwa viumbe."
 }

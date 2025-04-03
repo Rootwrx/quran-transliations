@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4953",
-    "sura": "55",
-    "aya": "52",
-    "arabic_text": "فِيهِمَا مِن كُلِّ فَٰكِهَةٖ زَوۡجَانِ",
-    "translation": "Oríṣi méjì méjì ni èso kọ̀ọ̀kan tó wà nínú ọgbà méjèèjì.[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah Yāsīn; 36:36."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 533,
+  "verse_key": "55:52",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِيهِمَا مِن كُلِّ فَٰكِهَةٖ زَوۡجَانِ",
+  "translation": "Oríṣi méjì méjì ni èso kọ̀ọ̀kan tó wà nínú ọgbà méjèèjì.[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah Yāsīn; 36:36."
 }

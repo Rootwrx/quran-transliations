@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5866",
-    "sura": "83",
-    "aya": "18",
-    "arabic_text": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ",
-    "translation": "18. Verdaderamente, el registro de las obras de los creyentes virtuosos se halla en el ‘il-liin[1125].",
-    "footnotes": "[1125]  La interpretación más extendida de este término es que significa un lugar elevado sobre los siete cielos, o bien el Paraíso, que tendrán como destino quienes hayan creído en la verdad y hayan obrado con rectitud. Otra interpretación es que ‘il-liin es un libro que comprende todas las acciones de los ángeles y de los creyentes."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 588,
+  "verse_key": "83:18",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّآ إِنَّ كِتَٰبَ ٱلۡأَبۡرَارِ لَفِي عِلِّيِّينَ",
+  "translation": "18. Verdaderamente, el registro de las obras de los creyentes virtuosos se halla en el ‘il-liin[1125].",
+  "footnotes": "[1125]  La interpretación más extendida de este término es que significa un lugar elevado sobre los siete cielos, o bien el Paraíso, que tendrán como destino quienes hayan creído en la verdad y hayan obrado con rectitud. Otra interpretación es que ‘il-liin es un libro que comprende todas las acciones de los ángeles y de los creyentes."
 }

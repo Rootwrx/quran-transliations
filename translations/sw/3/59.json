@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "352",
-    "sura": "3",
-    "aya": "59",
-    "arabic_text": "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَۖ خَلَقَهُۥ مِن تُرَابٖ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ",
-    "translation": "Hakika mfano wa Isa kwa Mwenyezi Mungu ni kama mfano wa Adam; alimuumba kwa udongo kisha akamwambia: Kuwa! Basi akawa.",
-    "footnotes": "Baadhi ya watu wamepotea katika kadhiya ya Isa, wakadai ati kuwa yeye ni Mwana wa Mwenyezi Mungu kwa kuwa kazaliwa bila ya baba. Mwenyezi Mungu anawaambia: Hakika shani ya Isa katika kuumbwa kwake bila ya baba ni kama shani ya Adam alivyo umbwa kwa udongo bila ya baba wala mama. Mwenyezi Mungu alimfanya na akataka awe, akawa mtu sawasawa."
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 57,
+  "verse_key": "3:59",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ مَثَلَ عِيسَىٰ عِندَ ٱللَّهِ كَمَثَلِ ءَادَمَۖ خَلَقَهُۥ مِن تُرَابٖ ثُمَّ قَالَ لَهُۥ كُن فَيَكُونُ",
+  "translation": "Hakika mfano wa Isa kwa Mwenyezi Mungu ni kama mfano wa Adam; alimuumba kwa udongo kisha akamwambia: Kuwa! Basi akawa.",
+  "footnotes": "Baadhi ya watu wamepotea katika kadhiya ya Isa, wakadai ati kuwa yeye ni Mwana wa Mwenyezi Mungu kwa kuwa kazaliwa bila ya baba. Mwenyezi Mungu anawaambia: Hakika shani ya Isa katika kuumbwa kwake bila ya baba ni kama shani ya Adam alivyo umbwa kwa udongo bila ya baba wala mama. Mwenyezi Mungu alimfanya na akataka awe, akawa mtu sawasawa."
 }

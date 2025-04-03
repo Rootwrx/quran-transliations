@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5666",
-    "sura": "77",
-    "aya": "44",
-    "arabic_text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
-    "translation": "44. Así recompensaré a los que hagan el bien.",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 581,
+  "verse_key": "77:44",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+  "translation": "44. Así recompensaré a los que hagan el bien.",
+  "footnotes": ""
 }

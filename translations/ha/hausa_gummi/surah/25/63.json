@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2918",
-    "sura": "25",
-    "aya": "63",
-    "arabic_text": "وَعِبَادُ ٱلرَّحۡمَٰنِ ٱلَّذِينَ يَمۡشُونَ عَلَى ٱلۡأَرۡضِ هَوۡنٗا وَإِذَا خَاطَبَهُمُ ٱلۡجَٰهِلُونَ قَالُواْ سَلَٰمٗا",
-    "translation": "Kuma bãyin Mai rahama* su ne waɗanda ke yin tafiya a kan ƙasa da sauƙi, kuma idan jãhilai sun yi musu magana, sai su ce: \"Salãma\" (a zama lafiya).",
-    "footnotes": "* Bãyan da ya ambaci masu ƙin su yi sujada ga Mai rahama sabõda kangararsu sai kumaya fãra ambaton siffofin mãsu son yin sujada gare shi, Yãyi musu sunã Bãyin Mai rahama."
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 365,
+  "verse_key": "25:63",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعِبَادُ ٱلرَّحۡمَٰنِ ٱلَّذِينَ يَمۡشُونَ عَلَى ٱلۡأَرۡضِ هَوۡنٗا وَإِذَا خَاطَبَهُمُ ٱلۡجَٰهِلُونَ قَالُواْ سَلَٰمٗا",
+  "translation": "Kuma bãyin Mai rahama* su ne waɗanda ke yin tafiya a kan ƙasa da sauƙi, kuma idan jãhilai sun yi musu magana, sai su ce: \"Salãma\" (a zama lafiya).",
+  "footnotes": "* Bãyan da ya ambaci masu ƙin su yi sujada ga Mai rahama sabõda kangararsu sai kumaya fãra ambaton siffofin mãsu son yin sujada gare shi, Yãyi musu sunã Bãyin Mai rahama."
 }

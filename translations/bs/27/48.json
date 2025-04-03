@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3207",
-    "sura": "27",
-    "aya": "48",
-    "arabic_text": "وَكَانَ فِي ٱلۡمَدِينَةِ تِسۡعَةُ رَهۡطٖ يُفۡسِدُونَ فِي ٱلۡأَرۡضِ وَلَا يُصۡلِحُونَ",
-    "translation": "U gradu je bilo devet osoba koje su po zemlji, ne red, nego nered činile. ",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 381,
+  "verse_key": "27:48",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَانَ فِي ٱلۡمَدِينَةِ تِسۡعَةُ رَهۡطٖ يُفۡسِدُونَ فِي ٱلۡأَرۡضِ وَلَا يُصۡلِحُونَ",
+  "translation": "U gradu je bilo devet osoba koje su po zemlji, ne red, nego nered činile. ",
+  "footnotes": ""
 }

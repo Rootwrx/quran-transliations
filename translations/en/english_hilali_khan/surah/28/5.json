@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3257",
-    "sura": "28",
-    "aya": "5",
-    "arabic_text": "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسۡتُضۡعِفُواْ فِي ٱلۡأَرۡضِ وَنَجۡعَلَهُمۡ أَئِمَّةٗ وَنَجۡعَلَهُمُ ٱلۡوَٰرِثِينَ",
-    "translation": " 5. And We wished to do a favour to those who were weak (and oppressed) in the land, and to make them rulers and to make them the inheritors,",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 385,
+  "verse_key": "28:5",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنُرِيدُ أَن نَّمُنَّ عَلَى ٱلَّذِينَ ٱسۡتُضۡعِفُواْ فِي ٱلۡأَرۡضِ وَنَجۡعَلَهُمۡ أَئِمَّةٗ وَنَجۡعَلَهُمُ ٱلۡوَٰرِثِينَ",
+  "translation": " 5. And We wished to do a favour to those who were weak (and oppressed) in the land, and to make them rulers and to make them the inheritors,",
+  "footnotes": ""
 }

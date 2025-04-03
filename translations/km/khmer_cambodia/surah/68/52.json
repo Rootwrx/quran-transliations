@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5323",
-    "sura": "68",
-    "aya": "52",
-    "arabic_text": "وَمَا هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
-    "translation": "ហើយគម្ពីរគួរអានគ្មានអ្វីក្រៅពីការរំលឹកដល់ពិភព ទាំងអស់នោះឡើយ។",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 566,
+  "verse_key": "68:52",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+  "translation": "ហើយគម្ពីរគួរអានគ្មានអ្វីក្រៅពីការរំលឹកដល់ពិភព ទាំងអស់នោះឡើយ។",
+  "footnotes": ""
 }

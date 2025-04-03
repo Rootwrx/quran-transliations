@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2561",
-    "sura": "21",
-    "aya": "78",
-    "arabic_text": "وَدَاوُۥدَ وَسُلَيۡمَٰنَ إِذۡ يَحۡكُمَانِ فِي ٱلۡحَرۡثِ إِذۡ نَفَشَتۡ فِيهِ غَنَمُ ٱلۡقَوۡمِ وَكُنَّا لِحُكۡمِهِمۡ شَٰهِدِينَ",
-    "translation": "Kandi (wibuke) Dawudi na Sulayimani igihe bacaga urubanza rw’umurima wari wonwe mu ijoro n’intama za bamwe mu bantu. Kandi twari abahamya b’uburyo barukijije.[1]",
-    "footnotes": "[1] Urubanza ruvugwa muri uyu murongo, ni igihe intama za bamwe mu bantu zonaga umurima w’abandi mu ijoro, nuko nyir’umurima akajya kurega kwa Dawudi na Sulayimani. Mu guca urwo rubanza, Dawudi yavuze ko nyir’umurima yatwara ayo matungo yamwoneye yose, naho Sulayimani we aruca avuga ko nyir’umurima yajyana ayo matungo yamwoneye akajya ayakama, akanayakuraho ifumbire n’ibindi, kugeza igihe nyir’amatungo azasubiza umurima uko wari umeze, hanyuma agasubirana amatungo ye. Uko Sulayimani yakijije urubanza ni byo Imana yishimiye."
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 328,
+  "verse_key": "21:78",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَدَاوُۥدَ وَسُلَيۡمَٰنَ إِذۡ يَحۡكُمَانِ فِي ٱلۡحَرۡثِ إِذۡ نَفَشَتۡ فِيهِ غَنَمُ ٱلۡقَوۡمِ وَكُنَّا لِحُكۡمِهِمۡ شَٰهِدِينَ",
+  "translation": "Kandi (wibuke) Dawudi na Sulayimani igihe bacaga urubanza rw’umurima wari wonwe mu ijoro n’intama za bamwe mu bantu. Kandi twari abahamya b’uburyo barukijije.[1]",
+  "footnotes": "[1] Urubanza ruvugwa muri uyu murongo, ni igihe intama za bamwe mu bantu zonaga umurima w’abandi mu ijoro, nuko nyir’umurima akajya kurega kwa Dawudi na Sulayimani. Mu guca urwo rubanza, Dawudi yavuze ko nyir’umurima yatwara ayo matungo yamwoneye yose, naho Sulayimani we aruca avuga ko nyir’umurima yajyana ayo matungo yamwoneye akajya ayakama, akanayakuraho ifumbire n’ibindi, kugeza igihe nyir’amatungo azasubiza umurima uko wari umeze, hanyuma agasubirana amatungo ye. Uko Sulayimani yakijije urubanza ni byo Imana yishimiye."
 }

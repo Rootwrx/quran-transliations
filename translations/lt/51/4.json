@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4679",
-    "sura": "51",
-    "aya": "4",
-    "arabic_text": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا",
-    "translation": "4. Ir tais (angelais), kurie dalina (aprūpinimą, lietų ir kitus palaiminimus), (Allaho) Įsakymu.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 520,
+  "verse_key": "51:4",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱلۡمُقَسِّمَٰتِ أَمۡرًا",
+  "translation": "4. Ir tais (angelais), kurie dalina (aprūpinimą, lietų ir kitus palaiminimus), (Allaho) Įsakymu.",
+  "footnotes": ""
 }

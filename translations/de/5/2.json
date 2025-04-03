@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "671",
-    "sura": "5",
-    "aya": "2",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُحِلُّواْ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهۡرَ ٱلۡحَرَامَ وَلَا ٱلۡهَدۡيَ وَلَا ٱلۡقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلۡبَيۡتَ ٱلۡحَرَامَ يَبۡتَغُونَ فَضۡلٗا مِّن رَّبِّهِمۡ وَرِضۡوَٰنٗاۚ وَإِذَا حَلَلۡتُمۡ فَٱصۡطَادُواْۚ وَلَا يَجۡرِمَنَّكُمۡ شَنَـَٔانُ قَوۡمٍ أَن صَدُّوكُمۡ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ أَن تَعۡتَدُواْۘ وَتَعَاوَنُواْ عَلَى ٱلۡبِرِّ وَٱلتَّقۡوَىٰۖ وَلَا تَعَاوَنُواْ عَلَى ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِۚ وَٱتَّقُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
-    "translation": "O die ihr glaubt, entweiht nicht die Kultzeichen Allahs, noch den Schutzmonat, noch die Opfertiere, noch die Halsgehänge, noch die, die das geschützte Haus aufsuchen, indem sie nach Huld von ihrem Herrn trachten und nach Wohlgefallen. - Wenn ihr den Weihezustand abgelegt habt, dann dürft ihr jagen. - Und der Haß, den ihr gegen (bestimmte) Leute hegt, weil sie euch von der geschützten Gebetsstätte abgehalten haben, soll euch ja nicht dazu bringen zu übertreten. Helft einander zur Güte und Gottesfurcht, aber helft einander nicht zur Sünde und feindseligem Vorgehen, und fürchtet Allah! Allah ist streng im Bestrafen.",
-    "footnotes": null
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 106,
+  "verse_key": "5:2",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 43,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُحِلُّواْ شَعَٰٓئِرَ ٱللَّهِ وَلَا ٱلشَّهۡرَ ٱلۡحَرَامَ وَلَا ٱلۡهَدۡيَ وَلَا ٱلۡقَلَٰٓئِدَ وَلَآ ءَآمِّينَ ٱلۡبَيۡتَ ٱلۡحَرَامَ يَبۡتَغُونَ فَضۡلٗا مِّن رَّبِّهِمۡ وَرِضۡوَٰنٗاۚ وَإِذَا حَلَلۡتُمۡ فَٱصۡطَادُواْۚ وَلَا يَجۡرِمَنَّكُمۡ شَنَـَٔانُ قَوۡمٍ أَن صَدُّوكُمۡ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ أَن تَعۡتَدُواْۘ وَتَعَاوَنُواْ عَلَى ٱلۡبِرِّ وَٱلتَّقۡوَىٰۖ وَلَا تَعَاوَنُواْ عَلَى ٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِۚ وَٱتَّقُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+  "translation": "O die ihr glaubt, entweiht nicht die Kultzeichen Allahs, noch den Schutzmonat, noch die Opfertiere, noch die Halsgehänge, noch die, die das geschützte Haus aufsuchen, indem sie nach Huld von ihrem Herrn trachten und nach Wohlgefallen. - Wenn ihr den Weihezustand abgelegt habt, dann dürft ihr jagen. - Und der Haß, den ihr gegen (bestimmte) Leute hegt, weil sie euch von der geschützten Gebetsstätte abgehalten haben, soll euch ja nicht dazu bringen zu übertreten. Helft einander zur Güte und Gottesfurcht, aber helft einander nicht zur Sünde und feindseligem Vorgehen, und fürchtet Allah! Allah ist streng im Bestrafen.",
+  "footnotes": null
 }

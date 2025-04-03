@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5701",
-    "sura": "78",
-    "aya": "29",
-    "arabic_text": "وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ كِتَٰبٗا",
-    "translation": "alors que Nous avons dénombré toutes choses en écrit.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 582,
+  "verse_key": "78:29",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكُلَّ شَيۡءٍ أَحۡصَيۡنَٰهُ كِتَٰبٗا",
+  "translation": "alors que Nous avons dénombré toutes choses en écrit.",
+  "footnotes": ""
 }

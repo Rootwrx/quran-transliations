@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2870",
-    "sura": "25",
-    "aya": "15",
-    "arabic_text": "قُلۡ أَذَٰلِكَ خَيۡرٌ أَمۡ جَنَّةُ ٱلۡخُلۡدِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۚ كَانَتۡ لَهُمۡ جَزَآءٗ وَمَصِيرٗا",
-    "translation": "15. Diles (¡oh, Muhammad!): “¿Qué es mejor, esto (el castigo del Infierno) o el Paraíso eterno que les ha sido prometido a los piadosos?”. Esa será su recompensa y su destino.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 361,
+  "verse_key": "25:15",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَذَٰلِكَ خَيۡرٌ أَمۡ جَنَّةُ ٱلۡخُلۡدِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۚ كَانَتۡ لَهُمۡ جَزَآءٗ وَمَصِيرٗا",
+  "translation": "15. Diles (¡oh, Muhammad!): “¿Qué es mejor, esto (el castigo del Infierno) o el Paraíso eterno que les ha sido prometido a los piadosos?”. Esa será su recompensa y su destino.",
+  "footnotes": ""
 }

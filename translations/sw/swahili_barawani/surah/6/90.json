@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "879",
-    "sura": "6",
-    "aya": "90",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُۖ فَبِهُدَىٰهُمُ ٱقۡتَدِهۡۗ قُل لَّآ أَسۡـَٔلُكُمۡ عَلَيۡهِ أَجۡرًاۖ إِنۡ هُوَ إِلَّا ذِكۡرَىٰ لِلۡعَٰلَمِينَ",
-    "translation": "Hao ndio ambao Mwenyezi Mungu amewahidi. Basi fuata hidaya yao. Sema: Mimi sikuombeni ujira. Haya hayakuwa ila ni mawaidha kwa walimwengu wote.",
-    "footnotes": "Hao ndio Mwenyezi Mungu amewawezesha kuishika Njia ya Haki na kheri. Basi nyinyi wafuateni hao katika mambo waliyo wafikiana kwayo, nayo ni mambo ya misingi ya Dini, na misingi ya mwendo mwema, wala msifuate njia nyengine isiyo kuwa yao... Ewe Nabii! Waambie watu wako kama wao hawa walivyo waambia watu wao: Sitaki kwenu ujira kwa ajili ya kulifikisha Neno la Mwenyezi Mungu! Hii Qur'ani si chochote ila ni Ukumbusho kwa walimwengu wote, wala sina lengo mimi ila kuwa nyinyi mnafiike na hii Qur'ani."
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 138,
+  "verse_key": "6:90",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 55,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ هَدَى ٱللَّهُۖ فَبِهُدَىٰهُمُ ٱقۡتَدِهۡۗ قُل لَّآ أَسۡـَٔلُكُمۡ عَلَيۡهِ أَجۡرًاۖ إِنۡ هُوَ إِلَّا ذِكۡرَىٰ لِلۡعَٰلَمِينَ",
+  "translation": "Hao ndio ambao Mwenyezi Mungu amewahidi. Basi fuata hidaya yao. Sema: Mimi sikuombeni ujira. Haya hayakuwa ila ni mawaidha kwa walimwengu wote.",
+  "footnotes": "Hao ndio Mwenyezi Mungu amewawezesha kuishika Njia ya Haki na kheri. Basi nyinyi wafuateni hao katika mambo waliyo wafikiana kwayo, nayo ni mambo ya misingi ya Dini, na misingi ya mwendo mwema, wala msifuate njia nyengine isiyo kuwa yao... Ewe Nabii! Waambie watu wako kama wao hawa walivyo waambia watu wao: Sitaki kwenu ujira kwa ajili ya kulifikisha Neno la Mwenyezi Mungu! Hii Qur'ani si chochote ila ni Ukumbusho kwa walimwengu wote, wala sina lengo mimi ila kuwa nyinyi mnafiike na hii Qur'ani."
 }

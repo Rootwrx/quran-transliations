@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5442",
-    "sura": "71",
-    "aya": "23",
-    "arabic_text": "وَقَالُواْ لَا تَذَرُنَّ ءَالِهَتَكُمۡ وَلَا تَذَرُنَّ وَدّٗا وَلَا سُوَاعٗا وَلَا يَغُوثَ وَيَعُوقَ وَنَسۡرٗا",
-    "translation": "23. ir sakė: „Niekada nepalikite savo dievų ir niekada nepalikite Vad, arba Suva, arba Jaghus ir Jauk, ir Nasr.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 571,
+  "verse_key": "71:23",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ لَا تَذَرُنَّ ءَالِهَتَكُمۡ وَلَا تَذَرُنَّ وَدّٗا وَلَا سُوَاعٗا وَلَا يَغُوثَ وَيَعُوقَ وَنَسۡرٗا",
+  "translation": "23. ir sakė: „Niekada nepalikite savo dievų ir niekada nepalikite Vad, arba Suva, arba Jaghus ir Jauk, ir Nasr.",
+  "footnotes": ""
 }

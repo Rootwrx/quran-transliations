@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "951",
-    "sura": "6",
-    "aya": "162",
-    "arabic_text": "قُلۡ إِنَّ صَلَاتِي وَنُسُكِي وَمَحۡيَايَ وَمَمَاتِي لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "Sema: Hakika Sala yangu, na ibada zangu, na uhai wangu, na kufa kwangu, ni kwa ajili ya Mwenyezi Mungu, Mola Mlezi wa viumbe vyote.",
-    "footnotes": "Sema: Hakika Sala yangu na ibada zangu, na niyafanyayo katika hali ya uhai wangu, nayo ni ut'iifu, na Imani na vitendo vyema ninavyo kufa navyo, vyote hivyo nimevisafia kwa kutaka radhi ya Mwenyezi Mungu Aliye umba vitu vyote, na kwa hivyo akastahiki kuabudiwa Yeye peke yake, na kut'iiwa Yeye peke yake."
-  }
+  "id": 162,
+  "verse_number": 162,
+  "page_number": 150,
+  "verse_key": "6:162",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنَّ صَلَاتِي وَنُسُكِي وَمَحۡيَايَ وَمَمَاتِي لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "Sema: Hakika Sala yangu, na ibada zangu, na uhai wangu, na kufa kwangu, ni kwa ajili ya Mwenyezi Mungu, Mola Mlezi wa viumbe vyote.",
+  "footnotes": "Sema: Hakika Sala yangu na ibada zangu, na niyafanyayo katika hali ya uhai wangu, nayo ni ut'iifu, na Imani na vitendo vyema ninavyo kufa navyo, vyote hivyo nimevisafia kwa kutaka radhi ya Mwenyezi Mungu Aliye umba vitu vyote, na kwa hivyo akastahiki kuabudiwa Yeye peke yake, na kut'iiwa Yeye peke yake."
 }

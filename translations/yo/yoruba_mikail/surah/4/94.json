@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "587",
-    "sura": "4",
-    "aya": "94",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا ضَرَبۡتُمۡ فِي سَبِيلِ ٱللَّهِ فَتَبَيَّنُواْ وَلَا تَقُولُواْ لِمَنۡ أَلۡقَىٰٓ إِلَيۡكُمُ ٱلسَّلَٰمَ لَسۡتَ مُؤۡمِنٗا تَبۡتَغُونَ عَرَضَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٞۚ كَذَٰلِكَ كُنتُم مِّن قَبۡلُ فَمَنَّ ٱللَّهُ عَلَيۡكُمۡ فَتَبَيَّنُوٓاْۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِيرٗا",
-    "translation": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, nígbà tí ẹ bá wà lórí ìrìn-àjò ní ojú-ọ̀nà Allāhu (fún ogun ẹ̀sìn), ẹ ṣe pẹ̀lẹ́pẹ̀lẹ́ kí ẹ fi mọ òdodo (nípa àwọn ènìyàn). Ẹ sì má ṣe sọ fún ẹni tí ó bá sálámọ̀ si yín pé kì í ṣe onígbàgbọ́ òdodo látara pé ẹ̀yin ń wá dúkìá ìṣẹ̀mí ayé. Ní ọ̀dọ̀ Allāhu kúkú ni ọ̀pọ̀lọ́pọ̀ ọrọ̀ ogun wà. Báyẹn ni ẹ̀yin náà ṣe wà tẹ́lẹ̀, Allāhu sì ṣe ìdẹ̀ra (ẹ̀sìn) fún yín. Nítorí náà, ẹ ṣe pẹ̀lẹ́pẹ̀lẹ́ kí ẹ fi mọ òdodo (nípa àwọn ènìyàn náà). Dájúdájú Allāhu ń jẹ́ Alámọ̀tán nípa ohun tí ẹ̀ ń ṣe níṣẹ́.",
-    "footnotes": ""
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 93,
+  "verse_key": "4:94",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا ضَرَبۡتُمۡ فِي سَبِيلِ ٱللَّهِ فَتَبَيَّنُواْ وَلَا تَقُولُواْ لِمَنۡ أَلۡقَىٰٓ إِلَيۡكُمُ ٱلسَّلَٰمَ لَسۡتَ مُؤۡمِنٗا تَبۡتَغُونَ عَرَضَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا فَعِندَ ٱللَّهِ مَغَانِمُ كَثِيرَةٞۚ كَذَٰلِكَ كُنتُم مِّن قَبۡلُ فَمَنَّ ٱللَّهُ عَلَيۡكُمۡ فَتَبَيَّنُوٓاْۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِيرٗا",
+  "translation": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, nígbà tí ẹ bá wà lórí ìrìn-àjò ní ojú-ọ̀nà Allāhu (fún ogun ẹ̀sìn), ẹ ṣe pẹ̀lẹ́pẹ̀lẹ́ kí ẹ fi mọ òdodo (nípa àwọn ènìyàn). Ẹ sì má ṣe sọ fún ẹni tí ó bá sálámọ̀ si yín pé kì í ṣe onígbàgbọ́ òdodo látara pé ẹ̀yin ń wá dúkìá ìṣẹ̀mí ayé. Ní ọ̀dọ̀ Allāhu kúkú ni ọ̀pọ̀lọ́pọ̀ ọrọ̀ ogun wà. Báyẹn ni ẹ̀yin náà ṣe wà tẹ́lẹ̀, Allāhu sì ṣe ìdẹ̀ra (ẹ̀sìn) fún yín. Nítorí náà, ẹ ṣe pẹ̀lẹ́pẹ̀lẹ́ kí ẹ fi mọ òdodo (nípa àwọn ènìyàn náà). Dájúdájú Allāhu ń jẹ́ Alámọ̀tán nípa ohun tí ẹ̀ ń ṣe níṣẹ́.",
+  "footnotes": ""
 }

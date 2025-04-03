@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2274",
-    "sura": "19",
-    "aya": "24",
-    "arabic_text": "فَنَادَىٰهَا مِن تَحۡتِهَآ أَلَّا تَحۡزَنِي قَدۡ جَعَلَ رَبُّكِ تَحۡتَكِ سَرِيّٗا",
-    "translation": "24. Y la llamó[546], desde abajo, y le dijo: «No te aflijas, pues tu Señor ha hecho que corra un pequeño arroyo a tus pies.",
-    "footnotes": "[546]  Los comentaristas difieren acerca de quién habla a María. Unos opinan que se trata de Jesús, tras haber nacido, y otros que es el ángel Gabriel quien la llama desde la zona más baja del valle."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 306,
+  "verse_key": "19:24",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَنَادَىٰهَا مِن تَحۡتِهَآ أَلَّا تَحۡزَنِي قَدۡ جَعَلَ رَبُّكِ تَحۡتَكِ سَرِيّٗا",
+  "translation": "24. Y la llamó[546], desde abajo, y le dijo: «No te aflijas, pues tu Señor ha hecho que corra un pequeño arroyo a tus pies.",
+  "footnotes": "[546]  Los comentaristas difieren acerca de quién habla a María. Unos opinan que se trata de Jesús, tras haber nacido, y otros que es el ángel Gabriel quien la llama desde la zona más baja del valle."
 }

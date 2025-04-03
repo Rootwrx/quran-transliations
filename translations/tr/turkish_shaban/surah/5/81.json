@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "750",
-    "sura": "5",
-    "aya": "81",
-    "arabic_text": "وَلَوۡ كَانُواْ يُؤۡمِنُونَ بِٱللَّهِ وَٱلنَّبِيِّ وَمَآ أُنزِلَ إِلَيۡهِ مَا ٱتَّخَذُوهُمۡ أَوۡلِيَآءَ وَلَٰكِنَّ كَثِيرٗا مِّنۡهُمۡ فَٰسِقُونَ",
-    "translation": "Eğer Allah’a, Peygamber'e ve ona indirilenlere iman etmiş olsalardı, küfredenleri veli edinmezlerdi. Fakat onların çoğu fasıktır.",
-    "footnotes": null
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 121,
+  "verse_key": "5:81",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ كَانُواْ يُؤۡمِنُونَ بِٱللَّهِ وَٱلنَّبِيِّ وَمَآ أُنزِلَ إِلَيۡهِ مَا ٱتَّخَذُوهُمۡ أَوۡلِيَآءَ وَلَٰكِنَّ كَثِيرٗا مِّنۡهُمۡ فَٰسِقُونَ",
+  "translation": "Eğer Allah’a, Peygamber'e ve ona indirilenlere iman etmiş olsalardı, küfredenleri veli edinmezlerdi. Fakat onların çoğu fasıktır.",
+  "footnotes": null
 }

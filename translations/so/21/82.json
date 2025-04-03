@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2565",
-    "sura": "21",
-    "aya": "82",
-    "arabic_text": "وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعۡمَلُونَ عَمَلٗا دُونَ ذَٰلِكَۖ وَكُنَّا لَهُمۡ حَٰفِظِينَ",
-    "translation": "82. Shaydaammadana (dadka iyo jinkaba leh waan u sakhirnay) waxaana ka mid ahaa kuwo u quusa (badda) una fala camallo kale oo taa barbarkeed ah: Waana Annaga kuwa dhowrayey23.",
-    "footnotes": "23. Innagaa ka dhowrnay inay caasiyaan oo khilaafaan amarka Sulaymaan, oo ka dhowrnay Sulaymaan inay u geystaan wax waxyeello ah."
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 329,
+  "verse_key": "21:82",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعۡمَلُونَ عَمَلٗا دُونَ ذَٰلِكَۖ وَكُنَّا لَهُمۡ حَٰفِظِينَ",
+  "translation": "82. Shaydaammadana (dadka iyo jinkaba leh waan u sakhirnay) waxaana ka mid ahaa kuwo u quusa (badda) una fala camallo kale oo taa barbarkeed ah: Waana Annaga kuwa dhowrayey23.",
+  "footnotes": "23. Innagaa ka dhowrnay inay caasiyaan oo khilaafaan amarka Sulaymaan, oo ka dhowrnay Sulaymaan inay u geystaan wax waxyeello ah."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2794",
-    "sura": "24",
-    "aya": "3",
-    "arabic_text": "ٱلزَّانِي لَا يَنكِحُ إِلَّا زَانِيَةً أَوۡ مُشۡرِكَةٗ وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوۡ مُشۡرِكٞۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلۡمُؤۡمِنِينَ",
-    "translation": "3. Zaanigu (dhillaygu) ma uu la galmo galo waxaan aheyn Zaaniyad (dhillo) ama Mushrikad (gaalad),  Zaaniyaddana (dhillada) ma ay la galmo galaan waxaan aan aheyn zaani (dhillay) ama Mushrik (gaal),  waana ka xaaraan mu’miniinta (guursiga kuwaasi iyaga ah)4.",
-    "footnotes": "4. Dadkaa oo kale (dhillada ama dhillayga) looma guurin karo mu’miniinta in maahee ay toobad keeneen oo toosnaadeen oo laga arko isbeddel wanaagsan iyo hanuun. Waxaa sidoo kale lagu fasiray ninka zaaniga ah (dhillayga) ma guursado waxaan ahayn zaaniyad (dhillo) la mid ah ama gaalad, haweenta zaaniyadda ahina (dhillada) waxaa guursada uun zaani (dhillay) la mid ah ama gaal, waana laga xaaraanshay mu’miniinta guursiga kuwaasi iyaga ah."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 350,
+  "verse_key": "24:3",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 140,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلزَّانِي لَا يَنكِحُ إِلَّا زَانِيَةً أَوۡ مُشۡرِكَةٗ وَٱلزَّانِيَةُ لَا يَنكِحُهَآ إِلَّا زَانٍ أَوۡ مُشۡرِكٞۚ وَحُرِّمَ ذَٰلِكَ عَلَى ٱلۡمُؤۡمِنِينَ",
+  "translation": "3. Zaanigu (dhillaygu) ma uu la galmo galo waxaan aheyn Zaaniyad (dhillo) ama Mushrikad (gaalad),  Zaaniyaddana (dhillada) ma ay la galmo galaan waxaan aan aheyn zaani (dhillay) ama Mushrik (gaal),  waana ka xaaraan mu’miniinta (guursiga kuwaasi iyaga ah)4.",
+  "footnotes": "4. Dadkaa oo kale (dhillada ama dhillayga) looma guurin karo mu’miniinta in maahee ay toobad keeneen oo toosnaadeen oo laga arko isbeddel wanaagsan iyo hanuun. Waxaa sidoo kale lagu fasiray ninka zaaniga ah (dhillayga) ma guursado waxaan ahayn zaaniyad (dhillo) la mid ah ama gaalad, haweenta zaaniyadda ahina (dhillada) waxaa guursada uun zaani (dhillay) la mid ah ama gaal, waana laga xaaraanshay mu’miniinta guursiga kuwaasi iyaga ah."
 }

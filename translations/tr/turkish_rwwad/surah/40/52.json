@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4185",
-    "sura": "40",
-    "aya": "52",
-    "arabic_text": "يَوۡمَ لَا يَنفَعُ ٱلظَّٰلِمِينَ مَعۡذِرَتُهُمۡۖ وَلَهُمُ ٱللَّعۡنَةُ وَلَهُمۡ سُوٓءُ ٱلدَّارِ",
-    "translation": "O gün zalimlere, özür dilemeleri hiçbir fayda sağlamaz. Artık lanet de onlarındır. Kötü yurt da onlarındır.",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 473,
+  "verse_key": "40:52",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ لَا يَنفَعُ ٱلظَّٰلِمِينَ مَعۡذِرَتُهُمۡۖ وَلَهُمُ ٱللَّعۡنَةُ وَلَهُمۡ سُوٓءُ ٱلدَّارِ",
+  "translation": "O gün zalimlere, özür dilemeleri hiçbir fayda sağlamaz. Artık lanet de onlarındır. Kötü yurt da onlarındır.",
+  "footnotes": ""
 }

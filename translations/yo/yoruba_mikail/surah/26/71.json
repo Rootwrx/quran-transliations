@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3003",
-    "sura": "26",
-    "aya": "71",
-    "arabic_text": "قَالُواْ نَعۡبُدُ أَصۡنَامٗا فَنَظَلُّ لَهَا عَٰكِفِينَ",
-    "translation": "Wọ́n wí pé: “À ń jọ́sìn fún àwọn ère òrìṣà kan ni. A ò sì níí yé takú tì wọ́n lọ́rùn.”",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 370,
+  "verse_key": "26:71",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ نَعۡبُدُ أَصۡنَامٗا فَنَظَلُّ لَهَا عَٰكِفِينَ",
+  "translation": "Wọ́n wí pé: “À ń jọ́sìn fún àwọn ère òrìṣà kan ni. A ò sì níí yé takú tì wọ́n lọ́rùn.”",
+  "footnotes": ""
 }

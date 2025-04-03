@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "10",
-    "sura": "2",
-    "aya": "3",
-    "arabic_text": "ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
-    "translation": "të cilët besojnë në të fshehtën,[11] falin namazin[12] dhe japin[13] nga ajo që u kemi dhënë Ne;",
-    "footnotes": "[11] “të fshehtën”: ky është përkthimi i fjalës “gajb” që përfshin gjithçka që është përtej perceptimeve njerëzore dhe e pakapshme nga arsyeja e thjeshtë, si p.sh.: ringjallja, Xheneti (Parajsa), Xhehenemi (Ferri), paracaktimi hyjnor etj. Të gjitha këto gjëra janë përtej mendjes sonë dhe zbulohen vetëm nëpërmjet Shpalljes Hyjnore.\n[12] Namazi është shtylla e dytë e Islamit. Ai është një ritual i posaçëm i përbërë nga leximi i pjesëve të caktuara prej Kuranit dhe nga recitime lavdesh e lutjesh për Zotin, të kombinuara me lëvizje të veçanta. Namazi është i detyrueshëm të kryhet nga çdo besimtar pesë herë në ditë në kohë të caktuara.\n[13] Vargu bën fjalë për çdo lloj shpenzimi në të mirë të njerëzve, përfshirë këtu edhe zekatin – 1/40 e pasurisë –, që është detyrim financiar për çdo mysliman të pasur."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 2,
+  "verse_key": "2:3",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+  "translation": "të cilët besojnë në të fshehtën,[11] falin namazin[12] dhe japin[13] nga ajo që u kemi dhënë Ne;",
+  "footnotes": "[11] “të fshehtën”: ky është përkthimi i fjalës “gajb” që përfshin gjithçka që është përtej perceptimeve njerëzore dhe e pakapshme nga arsyeja e thjeshtë, si p.sh.: ringjallja, Xheneti (Parajsa), Xhehenemi (Ferri), paracaktimi hyjnor etj. Të gjitha këto gjëra janë përtej mendjes sonë dhe zbulohen vetëm nëpërmjet Shpalljes Hyjnore.\n[12] Namazi është shtylla e dytë e Islamit. Ai është një ritual i posaçëm i përbërë nga leximi i pjesëve të caktuara prej Kuranit dhe nga recitime lavdesh e lutjesh për Zotin, të kombinuara me lëvizje të veçanta. Namazi është i detyrueshëm të kryhet nga çdo besimtar pesë herë në ditë në kohë të caktuara.\n[13] Vargu bën fjalë për çdo lloj shpenzimi në të mirë të njerëzve, përfshirë këtu edhe zekatin – 1/40 e pasurisë –, që është detyrim financiar për çdo mysliman të pasur."
 }

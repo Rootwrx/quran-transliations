@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3851",
-    "sura": "37",
-    "aya": "63",
-    "arabic_text": "إِنَّا جَعَلۡنَٰهَا فِتۡنَةٗ لِّلظَّٰلِمِينَ",
-    "translation": "Nous l’avons assigné en épreuve aux injustes.",
-    "footnotes": ""
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 448,
+  "verse_key": "37:63",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا جَعَلۡنَٰهَا فِتۡنَةٗ لِّلظَّٰلِمِينَ",
+  "translation": "Nous l’avons assigné en épreuve aux injustes.",
+  "footnotes": ""
 }

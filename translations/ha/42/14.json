@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4286",
-    "sura": "42",
-    "aya": "14",
-    "arabic_text": "وَمَا تَفَرَّقُوٓاْ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا بَيۡنَهُمۡۚ وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ إِلَىٰٓ أَجَلٖ مُّسَمّٗى لَّقُضِيَ بَيۡنَهُمۡۚ وَإِنَّ ٱلَّذِينَ أُورِثُواْ ٱلۡكِتَٰبَ مِنۢ بَعۡدِهِمۡ لَفِي شَكّٖ مِّنۡهُ مُرِيبٖ",
-    "translation": "Kuma ba su rarraba ba fãce bãyan da ilmi ya jẽ musu, dõmin zãlunci a tsakãninsu kuma bã dõmin wata kalma* tã gabata ba daga Ubangijinka, zuwa ga wani ajali ambatacce, dã an yi hukunci a tsakaninsu. Kuma lalle ne waɗanda aka gãdar wa Littafi daga bãyansu, haƙiƙa, sunã cikin shakka a gare shi, mai sanya kokanto.",
-    "footnotes": "* Kalmar da ta gabãta, ita ce \"Allah bã zai halaka mutane ba sabõda zunubi sai ajalinsu ya zo.\" Zãlunci da ke hana su haɗuwa a bãyan sanin gaskiya, shi ne hassadar jũna, sa kwaɗayi da son shugabanci a cikin mu'amala."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 484,
+  "verse_key": "42:14",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 194,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تَفَرَّقُوٓاْ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا بَيۡنَهُمۡۚ وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ إِلَىٰٓ أَجَلٖ مُّسَمّٗى لَّقُضِيَ بَيۡنَهُمۡۚ وَإِنَّ ٱلَّذِينَ أُورِثُواْ ٱلۡكِتَٰبَ مِنۢ بَعۡدِهِمۡ لَفِي شَكّٖ مِّنۡهُ مُرِيبٖ",
+  "translation": "Kuma ba su rarraba ba fãce bãyan da ilmi ya jẽ musu, dõmin zãlunci a tsakãninsu kuma bã dõmin wata kalma* tã gabata ba daga Ubangijinka, zuwa ga wani ajali ambatacce, dã an yi hukunci a tsakaninsu. Kuma lalle ne waɗanda aka gãdar wa Littafi daga bãyansu, haƙiƙa, sunã cikin shakka a gare shi, mai sanya kokanto.",
+  "footnotes": "* Kalmar da ta gabãta, ita ce \"Allah bã zai halaka mutane ba sabõda zunubi sai ajalinsu ya zo.\" Zãlunci da ke hana su haɗuwa a bãyan sanin gaskiya, shi ne hassadar jũna, sa kwaɗayi da son shugabanci a cikin mu'amala."
 }

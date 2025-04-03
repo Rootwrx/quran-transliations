@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "361",
-    "sura": "3",
-    "aya": "68",
-    "arabic_text": "إِنَّ أَوۡلَى ٱلنَّاسِ بِإِبۡرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَٰذَا ٱلنَّبِيُّ وَٱلَّذِينَ ءَامَنُواْۗ وَٱللَّهُ وَلِيُّ ٱلۡمُؤۡمِنِينَ",
-    "translation": "Dájúdájú àwọn ènìyàn tó súnmọ́ (Ànábì) ’Ibrọ̄hīm jùlọ (nínú ẹ̀sìn ’Islām) ni àwọn tó tẹ̀lé e àti Ànábì yìí - kí ìkẹ́ àti ọlà máa bá a - àti àwọn tó gbàgbọ́ ní òdodo (ìyẹn, àwọn mùsùlùmí). Allāhu ni Alátìlẹ́yìn fún àwọn onígbàgbọ́ òdodo.",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 58,
+  "verse_key": "3:68",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ أَوۡلَى ٱلنَّاسِ بِإِبۡرَٰهِيمَ لَلَّذِينَ ٱتَّبَعُوهُ وَهَٰذَا ٱلنَّبِيُّ وَٱلَّذِينَ ءَامَنُواْۗ وَٱللَّهُ وَلِيُّ ٱلۡمُؤۡمِنِينَ",
+  "translation": "Dájúdájú àwọn ènìyàn tó súnmọ́ (Ànábì) ’Ibrọ̄hīm jùlọ (nínú ẹ̀sìn ’Islām) ni àwọn tó tẹ̀lé e àti Ànábì yìí - kí ìkẹ́ àti ọlà máa bá a - àti àwọn tó gbàgbọ́ ní òdodo (ìyẹn, àwọn mùsùlùmí). Allāhu ni Alátìlẹ́yìn fún àwọn onígbàgbọ́ òdodo.",
+  "footnotes": ""
 }

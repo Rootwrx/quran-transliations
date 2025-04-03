@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4759",
-    "sura": "52",
-    "aya": "24",
-    "arabic_text": "۞ وَيَطُوفُ عَلَيۡهِمۡ غِلۡمَانٞ لَّهُمۡ كَأَنَّهُمۡ لُؤۡلُؤٞ مَّكۡنُونٞ",
-    "translation": "24. Waxaa u adeegi wiilal yar yar ay leeyihiin, la moodo luul la dhowray.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 524,
+  "verse_key": "52:24",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَيَطُوفُ عَلَيۡهِمۡ غِلۡمَانٞ لَّهُمۡ كَأَنَّهُمۡ لُؤۡلُؤٞ مَّكۡنُونٞ",
+  "translation": "24. Waxaa u adeegi wiilal yar yar ay leeyihiin, la moodo luul la dhowray.",
+  "footnotes": ""
 }

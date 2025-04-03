@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4667",
-    "sura": "50",
-    "aya": "37",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَذِكۡرَىٰ لِمَن كَانَ لَهُۥ قَلۡبٌ أَوۡ أَلۡقَى ٱلسَّمۡعَ وَهُوَ شَهِيدٞ",
-    "translation": "37. Arrinkani waxaa ugu sugan waano kan qalbi leh ama maqalka raariciya isagoo baraarugsan.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 520,
+  "verse_key": "50:37",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَذِكۡرَىٰ لِمَن كَانَ لَهُۥ قَلۡبٌ أَوۡ أَلۡقَى ٱلسَّمۡعَ وَهُوَ شَهِيدٞ",
+  "translation": "37. Arrinkani waxaa ugu sugan waano kan qalbi leh ama maqalka raariciya isagoo baraarugsan.",
+  "footnotes": ""
 }

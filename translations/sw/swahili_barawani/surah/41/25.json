@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4243",
-    "sura": "41",
-    "aya": "25",
-    "arabic_text": "۞ وَقَيَّضۡنَا لَهُمۡ قُرَنَآءَ فَزَيَّنُواْ لَهُم مَّا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَحَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ فِيٓ أُمَمٖ قَدۡ خَلَتۡ مِن قَبۡلِهِم مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ إِنَّهُمۡ كَانُواْ خَٰسِرِينَ",
-    "translation": "Na tukawawekea marafiki, na wakawapambia yaliyo mbele yao na nyuma yao. Basi ikawathibitikia kauli wawe pamoja na mataifa yaliyo pita kabla yao, miongoni mwa majini na watu. Hakika hao wamekuwa ni wenye kukhasirika.",
-    "footnotes": "Nasi tumewaandalia duniani marafiki waharibifu, na wao wakawazainishia mbele yao mambo ya Akhera, basi wakawaghuri kwamba ati hakuna kufufuliwa wala kuhisabiwa, na wakawapambia pia mambo ya duniani ili wastarehe nayo. Na neno la adhabu lilio wapata mataifa yaliyo kwisha pita miongoni mwa majini na watu walio kuwa kama wao, likawathibitikia na wao kwa sababu ya kukhiari kwao upotovu badala ya uwongofu. Hakika watu hao wote walikuwa katika walio khasiri khasara iliyo timia."
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 479,
+  "verse_key": "41:25",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَقَيَّضۡنَا لَهُمۡ قُرَنَآءَ فَزَيَّنُواْ لَهُم مَّا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَحَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ فِيٓ أُمَمٖ قَدۡ خَلَتۡ مِن قَبۡلِهِم مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ إِنَّهُمۡ كَانُواْ خَٰسِرِينَ",
+  "translation": "Na tukawawekea marafiki, na wakawapambia yaliyo mbele yao na nyuma yao. Basi ikawathibitikia kauli wawe pamoja na mataifa yaliyo pita kabla yao, miongoni mwa majini na watu. Hakika hao wamekuwa ni wenye kukhasirika.",
+  "footnotes": "Nasi tumewaandalia duniani marafiki waharibifu, na wao wakawazainishia mbele yao mambo ya Akhera, basi wakawaghuri kwamba ati hakuna kufufuliwa wala kuhisabiwa, na wakawapambia pia mambo ya duniani ili wastarehe nayo. Na neno la adhabu lilio wapata mataifa yaliyo kwisha pita miongoni mwa majini na watu walio kuwa kama wao, likawathibitikia na wao kwa sababu ya kukhiari kwao upotovu badala ya uwongofu. Hakika watu hao wote walikuwa katika walio khasiri khasara iliyo timia."
 }

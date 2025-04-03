@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2375",
-    "sura": "20",
-    "aya": "27",
-    "arabic_text": "وَٱحۡلُلۡ عُقۡدَةٗ مِّن لِّسَانِي",
-    "translation": "اور میری زبان کی گره بھی کھول دے.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 313,
+  "verse_key": "20:27",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱحۡلُلۡ عُقۡدَةٗ مِّن لِّسَانِي",
+  "translation": "اور میری زبان کی گره بھی کھول دے.",
+  "footnotes": ""
 }

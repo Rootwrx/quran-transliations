@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2205",
-    "sura": "18",
-    "aya": "65",
-    "arabic_text": "فَوَجَدَا عَبۡدٗا مِّنۡ عِبَادِنَآ ءَاتَيۡنَٰهُ رَحۡمَةٗ مِّنۡ عِندِنَا وَعَلَّمۡنَٰهُ مِن لَّدُنَّا عِلۡمٗا",
-    "translation": "65. Waxayna heleen addoon ka mid ah addoomahayga oo aan siinnay Naxariis xaggayaga ah, kaasoo aan ka barnay Xaggayaga cilmi16.",
-    "footnotes": "16. Mufasiriinta qaarkood waxay sheegeen iyagoo daliilsanaya xadiis laga soo weriyey Nabiga s.c.w. in addoonka halkan loola jeedo Al-Khadir, naxariistana loola jeedo Waxyiga iyo Nabinnimada la siiyey, cilmigana loo jeedo cilmi Ghaybka sida ku iman doonto Aayadaha xiga. Caamada qaar ayaa rumeysan inuu Khadir dhiman oo nool yahay, taasina ma aha sax, waayo waxaa soo arooray axaadiis muujinaya inuusan nooleyn. Hadduu nool yahay wuxuu u iman lahaa Nabiga s.c.w. oo rumeyn lahaa oo u gargaari laha. Nabigu s.c.w. wuxuu mar xadiis ku sheegay in wixii ka billowda maalintaas hadday ka soo wareegto boqol sano axadna dhulka ku nool markaa uusan noolaan doonin boqol sano kaddib. Qisadanina waxay dhex martay Al-Khadir iyo Nabi, wiilka la socday Nabi Muuse oo u adeegayeyna wuxuu ahaa Yuushac bin Nuun oo isna Nabi noqday ka mid ah anbiyadii ilmihii Israa’iil waa’ dambe kaddib Muuse c.s."
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 301,
+  "verse_key": "18:65",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَجَدَا عَبۡدٗا مِّنۡ عِبَادِنَآ ءَاتَيۡنَٰهُ رَحۡمَةٗ مِّنۡ عِندِنَا وَعَلَّمۡنَٰهُ مِن لَّدُنَّا عِلۡمٗا",
+  "translation": "65. Waxayna heleen addoon ka mid ah addoomahayga oo aan siinnay Naxariis xaggayaga ah, kaasoo aan ka barnay Xaggayaga cilmi16.",
+  "footnotes": "16. Mufasiriinta qaarkood waxay sheegeen iyagoo daliilsanaya xadiis laga soo weriyey Nabiga s.c.w. in addoonka halkan loola jeedo Al-Khadir, naxariistana loola jeedo Waxyiga iyo Nabinnimada la siiyey, cilmigana loo jeedo cilmi Ghaybka sida ku iman doonto Aayadaha xiga. Caamada qaar ayaa rumeysan inuu Khadir dhiman oo nool yahay, taasina ma aha sax, waayo waxaa soo arooray axaadiis muujinaya inuusan nooleyn. Hadduu nool yahay wuxuu u iman lahaa Nabiga s.c.w. oo rumeyn lahaa oo u gargaari laha. Nabigu s.c.w. wuxuu mar xadiis ku sheegay in wixii ka billowda maalintaas hadday ka soo wareegto boqol sano axadna dhulka ku nool markaa uusan noolaan doonin boqol sano kaddib. Qisadanina waxay dhex martay Al-Khadir iyo Nabi, wiilka la socday Nabi Muuse oo u adeegayeyna wuxuu ahaa Yuushac bin Nuun oo isna Nabi noqday ka mid ah anbiyadii ilmihii Israa’iil waa’ dambe kaddib Muuse c.s."
 }

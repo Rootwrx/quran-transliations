@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4858",
-    "sura": "54",
-    "aya": "12",
-    "arabic_text": "وَفَجَّرۡنَا ٱلۡأَرۡضَ عُيُونٗا فَٱلۡتَقَى ٱلۡمَآءُ عَلَىٰٓ أَمۡرٖ قَدۡ قُدِرَ",
-    "translation": "Na tukazipasua ardhi kwa chemchem, yakakutana maji kwa jambo lilio kadiriwa.",
-    "footnotes": "Na tukaipasua ardhi kwa chemchem zikitibuka maji. Yakakutana maji ya mbinguni na maji ya ardhi kuwahiliki, kama alivyo kadiria Mwenyezi Mungu Mtukufu."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 529,
+  "verse_key": "54:12",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفَجَّرۡنَا ٱلۡأَرۡضَ عُيُونٗا فَٱلۡتَقَى ٱلۡمَآءُ عَلَىٰٓ أَمۡرٖ قَدۡ قُدِرَ",
+  "translation": "Na tukazipasua ardhi kwa chemchem, yakakutana maji kwa jambo lilio kadiriwa.",
+  "footnotes": "Na tukaipasua ardhi kwa chemchem zikitibuka maji. Yakakutana maji ya mbinguni na maji ya ardhi kuwahiliki, kama alivyo kadiria Mwenyezi Mungu Mtukufu."
 }

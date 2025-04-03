@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "150",
-    "sura": "2",
-    "aya": "143",
-    "arabic_text": "وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ",
-    "translation": "143. Mpe mpona wana totiaki bino bozala umma(1) ya kati kati mpo bozala banzeneneke epai na bato, mpe motindami azala nzeneneke likolo na bino. Mpe totiaki te etaleli oyo ozalaki na yango bobele toyeba nani akolanda motindami mpe nani akopesa ye mokongo. Mpe yango ezali mpasi te na baye Allah asungi bango. Mpe Allah azali te mpona kobungisa boyambi na bino, ya sôló Allah azali malamu atonda na mawa epai ya bato.",
-    "footnotes": "1  Umma: Awa elakisi: lingomba, bótala na suratu oyo mokapo: 128."
-  }
+  "id": 143,
+  "verse_number": 143,
+  "page_number": 22,
+  "verse_key": "2:143",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ",
+  "translation": "143. Mpe mpona wana totiaki bino bozala umma(1) ya kati kati mpo bozala banzeneneke epai na bato, mpe motindami azala nzeneneke likolo na bino. Mpe totiaki te etaleli oyo ozalaki na yango bobele toyeba nani akolanda motindami mpe nani akopesa ye mokongo. Mpe yango ezali mpasi te na baye Allah asungi bango. Mpe Allah azali te mpona kobungisa boyambi na bino, ya sôló Allah azali malamu atonda na mawa epai ya bato.",
+  "footnotes": "1  Umma: Awa elakisi: lingomba, bótala na suratu oyo mokapo: 128."
 }

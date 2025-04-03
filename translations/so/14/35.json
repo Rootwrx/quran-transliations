@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1785",
-    "sura": "14",
-    "aya": "35",
-    "arabic_text": "وَإِذۡ قَالَ إِبۡرَٰهِيمُ رَبِّ ٱجۡعَلۡ هَٰذَا ٱلۡبَلَدَ ءَامِنٗا وَٱجۡنُبۡنِي وَبَنِيَّ أَن نَّعۡبُدَ ٱلۡأَصۡنَامَ",
-    "translation": "35. (Xus, Nabiyow) markuu Ibraahiim yidhi: Rabbiyow! Ka yeel beledkan (Makkah) aamin, igana dheeree aniga iyo awlaaddeydaba inaan caabudno sanammo.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 260,
+  "verse_key": "14:35",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ إِبۡرَٰهِيمُ رَبِّ ٱجۡعَلۡ هَٰذَا ٱلۡبَلَدَ ءَامِنٗا وَٱجۡنُبۡنِي وَبَنِيَّ أَن نَّعۡبُدَ ٱلۡأَصۡنَامَ",
+  "translation": "35. (Xus, Nabiyow) markuu Ibraahiim yidhi: Rabbiyow! Ka yeel beledkan (Makkah) aamin, igana dheeree aniga iyo awlaaddeydaba inaan caabudno sanammo.",
+  "footnotes": ""
 }

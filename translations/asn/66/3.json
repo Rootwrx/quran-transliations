@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5232",
-    "sura": "66",
-    "aya": "3",
-    "arabic_text": "وَإِذۡ أَسَرَّ ٱلنَّبِيُّ إِلَىٰ بَعۡضِ أَزۡوَٰجِهِۦ حَدِيثٗا فَلَمَّا نَبَّأَتۡ بِهِۦ وَأَظۡهَرَهُ ٱللَّهُ عَلَيۡهِ عَرَّفَ بَعۡضَهُۥ وَأَعۡرَضَ عَنۢ بَعۡضٖۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتۡ مَنۡ أَنۢبَأَكَ هَٰذَاۖ قَالَ نَبَّأَنِيَ ٱلۡعَلِيمُ ٱلۡخَبِيرُ",
-    "translation": "Ɛberε a Nkͻmhyεni ne ne yere mu baako (Hafsa) dii asomsεm nkͻmmͻ bi, na (ͻbaa no) kͻbͻͻ (ͻbaa foforͻ, Aisha) amaneε no, Nyankopͻn bͻͻ no (deε ͻbaa no ayε no) ho amaneε; (Nkͻmhyεni) daa (asεm no) bi adi na ͻbͻ faa ebi nso so. Na εberε a (Nkͻmhyεni) de εhoo amaneε bͻͻ (Hafsa) no, ͻkaa sε: “Hwan na ͻbͻͻ wo woi ho amaneε?” (Nkͻmhyεni) kaa sε: ”Onimdefoͻ no a Ɔbͻ biribiara ho amaneε no na Ɔbͻͻ me amaneε “.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 560,
+  "verse_key": "66:3",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ أَسَرَّ ٱلنَّبِيُّ إِلَىٰ بَعۡضِ أَزۡوَٰجِهِۦ حَدِيثٗا فَلَمَّا نَبَّأَتۡ بِهِۦ وَأَظۡهَرَهُ ٱللَّهُ عَلَيۡهِ عَرَّفَ بَعۡضَهُۥ وَأَعۡرَضَ عَنۢ بَعۡضٖۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتۡ مَنۡ أَنۢبَأَكَ هَٰذَاۖ قَالَ نَبَّأَنِيَ ٱلۡعَلِيمُ ٱلۡخَبِيرُ",
+  "translation": "Ɛberε a Nkͻmhyεni ne ne yere mu baako (Hafsa) dii asomsεm nkͻmmͻ bi, na (ͻbaa no) kͻbͻͻ (ͻbaa foforͻ, Aisha) amaneε no, Nyankopͻn bͻͻ no (deε ͻbaa no ayε no) ho amaneε; (Nkͻmhyεni) daa (asεm no) bi adi na ͻbͻ faa ebi nso so. Na εberε a (Nkͻmhyεni) de εhoo amaneε bͻͻ (Hafsa) no, ͻkaa sε: “Hwan na ͻbͻͻ wo woi ho amaneε?” (Nkͻmhyεni) kaa sε: ”Onimdefoͻ no a Ɔbͻ biribiara ho amaneε no na Ɔbͻͻ me amaneε “.",
+  "footnotes": ""
 }

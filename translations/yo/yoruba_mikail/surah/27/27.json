@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3186",
-    "sura": "27",
-    "aya": "27",
-    "arabic_text": "۞ قَالَ سَنَنظُرُ أَصَدَقۡتَ أَمۡ كُنتَ مِنَ ٱلۡكَٰذِبِينَ",
-    "translation": "Ó sọ pé: “A máa wòye bóyá òdodo l’o sọ tàbí o wà nínú àwọn òpùrọ́.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 379,
+  "verse_key": "27:27",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قَالَ سَنَنظُرُ أَصَدَقۡتَ أَمۡ كُنتَ مِنَ ٱلۡكَٰذِبِينَ",
+  "translation": "Ó sọ pé: “A máa wòye bóyá òdodo l’o sọ tàbí o wà nínú àwọn òpùrọ́.",
+  "footnotes": ""
 }

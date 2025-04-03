@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1861",
-    "sura": "15",
-    "aya": "59",
-    "arabic_text": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمۡ أَجۡمَعِينَ",
-    "translation": " 59. \"(All) except the family of Lût (Lot). Them all we are surely going to save (from destruction).",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 265,
+  "verse_key": "15:59",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمۡ أَجۡمَعِينَ",
+  "translation": " 59. \"(All) except the family of Lût (Lot). Them all we are surely going to save (from destruction).",
+  "footnotes": ""
 }

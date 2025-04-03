@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3117",
-    "sura": "26",
-    "aya": "185",
-    "arabic_text": "قَالُوٓاْ إِنَّمَآ أَنتَ مِنَ ٱلۡمُسَحَّرِينَ",
-    "translation": "185. Waxay yidhaahdeen: Waxaad tahay oo keliya mid ka mid ah kuwa sixran12.",
-    "footnotes": "12. Waa haddii loo akhriyo “ minal mussaxariin” waxaa sidoo kale loo akhiryaa akhrin kale “ minal mussaxiriin” markaas mancaha waa kuwa wax sixra."
-  }
+  "id": 185,
+  "verse_number": 185,
+  "page_number": 375,
+  "verse_key": "26:185",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ إِنَّمَآ أَنتَ مِنَ ٱلۡمُسَحَّرِينَ",
+  "translation": "185. Waxay yidhaahdeen: Waxaad tahay oo keliya mid ka mid ah kuwa sixran12.",
+  "footnotes": "12. Waa haddii loo akhriyo “ minal mussaxariin” waxaa sidoo kale loo akhiryaa akhrin kale “ minal mussaxiriin” markaas mancaha waa kuwa wax sixra."
 }

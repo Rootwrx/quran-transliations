@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "210",
-    "sura": "2",
-    "aya": "203",
-    "arabic_text": "۞ وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ ٱتَّقَىٰۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ",
-    "translation": "203. Xusa Alle inta lagu jiro maalmaha tirsan52; qofkii degdega si uu u tago labo maalmood gudahood (waa maalinta 12aad ee Xajka), ma jiro wax denbi ah oo saaran, qofkiina dib u hara (Maalinta 13aad) ma jiro wax denbi ah oo saaran, (kani) waxaa iska leh kan iska jira (xumaha), oo dhowra (xilkuu idin saaray) Alle, ogaadana in Xaggiisa la idiin soo wada kulmin.",
-    "footnotes": "52. Maalmo tirsan waa seddexda maalmood ee xiga maalinta Ciidda Adxada waana maalinta kow iyo tobnaad iyo maalinta labo iyo tobnaad iyo maalinta seddex iyo tobnaad , waxaana loo yaqaan ayaamu tashriiq maalmaha hilba waradka."
-  }
+  "id": 203,
+  "verse_number": 203,
+  "page_number": 32,
+  "verse_key": "2:203",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ ٱتَّقَىٰۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ",
+  "translation": "203. Xusa Alle inta lagu jiro maalmaha tirsan52; qofkii degdega si uu u tago labo maalmood gudahood (waa maalinta 12aad ee Xajka), ma jiro wax denbi ah oo saaran, qofkiina dib u hara (Maalinta 13aad) ma jiro wax denbi ah oo saaran, (kani) waxaa iska leh kan iska jira (xumaha), oo dhowra (xilkuu idin saaray) Alle, ogaadana in Xaggiisa la idiin soo wada kulmin.",
+  "footnotes": "52. Maalmo tirsan waa seddexda maalmood ee xiga maalinta Ciidda Adxada waana maalinta kow iyo tobnaad iyo maalinta labo iyo tobnaad iyo maalinta seddex iyo tobnaad , waxaana loo yaqaan ayaamu tashriiq maalmaha hilba waradka."
 }

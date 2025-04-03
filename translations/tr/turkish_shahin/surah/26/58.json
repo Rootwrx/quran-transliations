@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2990",
-    "sura": "26",
-    "aya": "58",
-    "arabic_text": "وَكُنُوزٖ وَمَقَامٖ كَرِيمٖ",
-    "translation": "Hâzinelerden ve değerli bir yerden çıkardık.",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 369,
+  "verse_key": "26:58",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكُنُوزٖ وَمَقَامٖ كَرِيمٖ",
+  "translation": "Hâzinelerden ve değerli bir yerden çıkardık.",
+  "footnotes": ""
 }

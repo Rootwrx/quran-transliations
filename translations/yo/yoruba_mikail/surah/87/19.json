@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5967",
-    "sura": "87",
-    "aya": "19",
-    "arabic_text": "صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ",
-    "translation": "tákàdá (Ànábì) ’Ibrọ̄hīm àti (Ànábì) Mūsā.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 592,
+  "verse_key": "87:19",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "صُحُفِ إِبۡرَٰهِيمَ وَمُوسَىٰ",
+  "translation": "tákàdá (Ànábì) ’Ibrọ̄hīm àti (Ànábì) Mūsā.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "676",
-    "sura": "5",
-    "aya": "7",
-    "arabic_text": "وَٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ وَمِيثَٰقَهُ ٱلَّذِي وَاثَقَكُم بِهِۦٓ إِذۡ قُلۡتُمۡ سَمِعۡنَا وَأَطَعۡنَاۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
-    "translation": "Ẹ rántí ìdẹ̀ra tí Allāhu ṣe fún yín àti àdéhùn Rẹ̀, èyí tí Ó ba yín ṣe, nígbà tí ẹ̀yin sọ pé: “A gbọ́, a sì tẹ̀lé e.” Ẹ bẹ̀rù Allāhu. Dájúdájú Allāhu ni Onímọ̀ nípa ohun tí ń bẹ nínú igbá-àyà ẹ̀dá.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 108,
+  "verse_key": "5:7",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 43,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ وَمِيثَٰقَهُ ٱلَّذِي وَاثَقَكُم بِهِۦٓ إِذۡ قُلۡتُمۡ سَمِعۡنَا وَأَطَعۡنَاۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "translation": "Ẹ rántí ìdẹ̀ra tí Allāhu ṣe fún yín àti àdéhùn Rẹ̀, èyí tí Ó ba yín ṣe, nígbà tí ẹ̀yin sọ pé: “A gbọ́, a sì tẹ̀lé e.” Ẹ bẹ̀rù Allāhu. Dájúdájú Allāhu ni Onímọ̀ nípa ohun tí ń bẹ nínú igbá-àyà ẹ̀dá.",
+  "footnotes": ""
 }

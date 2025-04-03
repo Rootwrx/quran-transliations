@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5101",
-    "sura": "57",
-    "aya": "26",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحٗا وَإِبۡرَٰهِيمَ وَجَعَلۡنَا فِي ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلۡكِتَٰبَۖ فَمِنۡهُم مُّهۡتَدٖۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ",
-    "translation": "Dájúdájú A fi iṣẹ́ rán (Ànábì) Nūh àti (Ànábì) ’Ibrọ̄hīm. A fi ipò Ànábì sínú àwọn àrọ́mọdọ́mọ àwọn méjèèjì pẹ̀lú Tírà (tí A fún wọn). Olùmọ̀nà wà nínú wọn. Ọ̀pọ̀lọ́pọ̀ nínú wọn sì ni òbìlẹ̀jẹ́.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 541,
+  "verse_key": "57:26",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 216,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحٗا وَإِبۡرَٰهِيمَ وَجَعَلۡنَا فِي ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلۡكِتَٰبَۖ فَمِنۡهُم مُّهۡتَدٖۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ",
+  "translation": "Dájúdájú A fi iṣẹ́ rán (Ànábì) Nūh àti (Ànábì) ’Ibrọ̄hīm. A fi ipò Ànábì sínú àwọn àrọ́mọdọ́mọ àwọn méjèèjì pẹ̀lú Tírà (tí A fún wọn). Olùmọ̀nà wà nínú wọn. Ọ̀pọ̀lọ́pọ̀ nínú wọn sì ni òbìlẹ̀jẹ́.",
+  "footnotes": ""
 }

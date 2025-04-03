@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5299",
-    "sura": "68",
-    "aya": "28",
-    "arabic_text": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ",
-    "translation": "O mais moderado deles disse: \"Não vos dissera eu: 'Que glorifiqueis a Allah'?\"",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 565,
+  "verse_key": "68:28",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ أَوۡسَطُهُمۡ أَلَمۡ أَقُل لَّكُمۡ لَوۡلَا تُسَبِّحُونَ",
+  "translation": "O mais moderado deles disse: \"Não vos dissera eu: 'Que glorifiqueis a Allah'?\"",
+  "footnotes": ""
 }

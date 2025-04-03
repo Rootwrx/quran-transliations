@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "339",
-    "sura": "3",
-    "aya": "46",
-    "arabic_text": "وَيُكَلِّمُ ٱلنَّاسَ فِي ٱلۡمَهۡدِ وَكَهۡلٗا وَمِنَ ٱلصَّٰلِحِينَ",
-    "translation": "Naye atazungumza na watu katika utoto wake na katika utuuzima wake, na atakuwa katika watu wema.",
-    "footnotes": "Na Mwenyezi Mungu alimjaalia Nabii Isa na uwezo wa kusema na watu na ilhali yungali mtoto maneno ya kufahamika yenye hikima, kama alivyo sema nao utuuzimani mwake, bila ya tafauti katika hali hizo mbili. Na akawa katika miongoni walio jaaliwa kuwa ni watu wema."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 56,
+  "verse_key": "3:46",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُكَلِّمُ ٱلنَّاسَ فِي ٱلۡمَهۡدِ وَكَهۡلٗا وَمِنَ ٱلصَّٰلِحِينَ",
+  "translation": "Naye atazungumza na watu katika utoto wake na katika utuuzima wake, na atakuwa katika watu wema.",
+  "footnotes": "Na Mwenyezi Mungu alimjaalia Nabii Isa na uwezo wa kusema na watu na ilhali yungali mtoto maneno ya kufahamika yenye hikima, kama alivyo sema nao utuuzimani mwake, bila ya tafauti katika hali hizo mbili. Na akawa katika miongoni walio jaaliwa kuwa ni watu wema."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3114",
-    "sura": "26",
-    "aya": "182",
-    "arabic_text": "وَزِنُواْ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِيمِ",
-    "translation": "Monfa nsanea a εtenee na ensusu (adeε ma amanfoͻ).",
-    "footnotes": ""
-  }
+  "id": 182,
+  "verse_number": 182,
+  "page_number": 374,
+  "verse_key": "26:182",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَزِنُواْ بِٱلۡقِسۡطَاسِ ٱلۡمُسۡتَقِيمِ",
+  "translation": "Monfa nsanea a εtenee na ensusu (adeε ma amanfoͻ).",
+  "footnotes": ""
 }

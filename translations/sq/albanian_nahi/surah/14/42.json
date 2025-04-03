@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1792",
-    "sura": "14",
-    "aya": "42",
-    "arabic_text": "وَلَا تَحۡسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعۡمَلُ ٱلظَّٰلِمُونَۚ إِنَّمَا يُؤَخِّرُهُمۡ لِيَوۡمٖ تَشۡخَصُ فِيهِ ٱلۡأَبۡصَٰرُ",
-    "translation": "Mos mendo kurrsesi që Allahu nuk e vëren atë që bëjnë keqbërësit! Ai vetëm ua shtyn (dënimin) deri në Ditën, kur sytë e tyre do të zgurdullohen (nga tmerret që do të shohin),",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 260,
+  "verse_key": "14:42",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَحۡسَبَنَّ ٱللَّهَ غَٰفِلًا عَمَّا يَعۡمَلُ ٱلظَّٰلِمُونَۚ إِنَّمَا يُؤَخِّرُهُمۡ لِيَوۡمٖ تَشۡخَصُ فِيهِ ٱلۡأَبۡصَٰرُ",
+  "translation": "Mos mendo kurrsesi që Allahu nuk e vëren atë që bëjnë keqbërësit! Ai vetëm ua shtyn (dënimin) deri në Ditën, kur sytë e tyre do të zgurdullohen (nga tmerret që do të shohin),",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1921",
-    "sura": "16",
-    "aya": "20",
-    "arabic_text": "وَٱلَّذِينَ يَدۡعُونَ مِن دُونِ ٱللَّهِ لَا يَخۡلُقُونَ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ",
-    "translation": "他们舍安拉而祈祷的不能创造任何物，而他们是被创造的。",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 269,
+  "verse_key": "16:20",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يَدۡعُونَ مِن دُونِ ٱللَّهِ لَا يَخۡلُقُونَ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ",
+  "translation": "他们舍安拉而祈祷的不能创造任何物，而他们是被创造的。",
+  "footnotes": ""
 }

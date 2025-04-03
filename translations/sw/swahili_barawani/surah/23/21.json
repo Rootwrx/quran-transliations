@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2694",
-    "sura": "23",
-    "aya": "21",
-    "arabic_text": "وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهَا وَلَكُمۡ فِيهَا مَنَٰفِعُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ",
-    "translation": "Na hakika mnayo mazingatio makubwa katika nyama hoa - tunakunywesheni katika vile viliomo matumboni mwao, na nyinyi mnapata katika hao manufaa mengi, na pia mnawala.",
-    "footnotes": "Na nyinyi mnapata kutokana na nyama hoa, nyama wa kufuga, nao ni ngamia, ng'ombe, kondoo na mbuzi, mambo yanayo onyesha uwezo wetu na fadhila zetu juu yenu kwa kukuneemesheni. Tunakunywesheni kutoka matumboni mwao maziwa safi, matamu, mepesi kwa wenye kuyanywa. Na mbali ya maziwa mnapata manufaa mengine kama nyama, na sufi, na manyoya. Na kutokana na hao nyinyi mnaishi na mnaruzukiwa."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 343,
+  "verse_key": "23:21",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهَا وَلَكُمۡ فِيهَا مَنَٰفِعُ كَثِيرَةٞ وَمِنۡهَا تَأۡكُلُونَ",
+  "translation": "Na hakika mnayo mazingatio makubwa katika nyama hoa - tunakunywesheni katika vile viliomo matumboni mwao, na nyinyi mnapata katika hao manufaa mengi, na pia mnawala.",
+  "footnotes": "Na nyinyi mnapata kutokana na nyama hoa, nyama wa kufuga, nao ni ngamia, ng'ombe, kondoo na mbuzi, mambo yanayo onyesha uwezo wetu na fadhila zetu juu yenu kwa kukuneemesheni. Tunakunywesheni kutoka matumboni mwao maziwa safi, matamu, mepesi kwa wenye kuyanywa. Na mbali ya maziwa mnapata manufaa mengine kama nyama, na sufi, na manyoya. Na kutokana na hao nyinyi mnaishi na mnaruzukiwa."
 }

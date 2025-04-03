@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3520",
-    "sura": "32",
-    "aya": "17",
-    "arabic_text": "فَلَا تَعۡلَمُ نَفۡسٞ مَّآ أُخۡفِيَ لَهُم مِّن قُرَّةِ أَعۡيُنٖ جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Askush nuk di se çfarë gëzimesh janë fshehur për ata (në jetën tjetër), si shpërblim për punët e mira që kanë bërë.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 416,
+  "verse_key": "32:17",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا تَعۡلَمُ نَفۡسٞ مَّآ أُخۡفِيَ لَهُم مِّن قُرَّةِ أَعۡيُنٖ جَزَآءَۢ بِمَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Askush nuk di se çfarë gëzimesh janë fshehur për ata (në jetën tjetër), si shpërblim për punët e mira që kanë bërë.",
+  "footnotes": ""
 }

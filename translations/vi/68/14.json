@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5285",
-    "sura": "68",
-    "aya": "14",
-    "arabic_text": "أَن كَانَ ذَا مَالٖ وَبَنِينَ",
-    "translation": "Bởi vì y sở hữu của cải và con cái.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 564,
+  "verse_key": "68:14",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَن كَانَ ذَا مَالٖ وَبَنِينَ",
+  "translation": "Bởi vì y sở hữu của cải và con cái.",
+  "footnotes": ""
 }

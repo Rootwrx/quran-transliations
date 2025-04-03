@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4703",
-    "sura": "51",
-    "aya": "28",
-    "arabic_text": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٖ",
-    "translation": "28. Ir išsigando jų, (kuomet šie nevalgė). Jie tarė: „Nebijok“ [1] ir pradžiugino jį žinia, (būsimo) sūnaus, žinančio (apie Allahą ir Jo religiją, tikrąjį monoteizmą).",
-    "footnotes": "[1] t. y. kuomet angelai pamatė Ibrahimo (Abraomo) išgąstį, jie pasakė jam jog yra Allaho pasiuntiniai. Taip pat jie perdavė gerąją žinią jo žmonai Sarai, jog ji susilauks sūnaus Ishako (Izaoko)."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 521,
+  "verse_key": "51:28",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَوۡجَسَ مِنۡهُمۡ خِيفَةٗۖ قَالُواْ لَا تَخَفۡۖ وَبَشَّرُوهُ بِغُلَٰمٍ عَلِيمٖ",
+  "translation": "28. Ir išsigando jų, (kuomet šie nevalgė). Jie tarė: „Nebijok“ [1] ir pradžiugino jį žinia, (būsimo) sūnaus, žinančio (apie Allahą ir Jo religiją, tikrąjį monoteizmą).",
+  "footnotes": "[1] t. y. kuomet angelai pamatė Ibrahimo (Abraomo) išgąstį, jie pasakė jam jog yra Allaho pasiuntiniai. Taip pat jie perdavė gerąją žinią jo žmonai Sarai, jog ji susilauks sūnaus Ishako (Izaoko)."
 }

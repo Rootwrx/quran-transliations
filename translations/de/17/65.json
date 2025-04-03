@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2094",
-    "sura": "17",
-    "aya": "65",
-    "arabic_text": "إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطَٰنٞۚ وَكَفَىٰ بِرَبِّكَ وَكِيلٗا",
-    "translation": "„Gewiß, über Meine Diener hast du keine Macht. Und dein Herr genügt als Sachwalter.",
-    "footnotes": null
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 288,
+  "verse_key": "17:65",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ عِبَادِي لَيۡسَ لَكَ عَلَيۡهِمۡ سُلۡطَٰنٞۚ وَكَفَىٰ بِرَبِّكَ وَكِيلٗا",
+  "translation": "„Gewiß, über Meine Diener hast du keine Macht. Und dein Herr genügt als Sachwalter.",
+  "footnotes": null
 }

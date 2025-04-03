@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "210",
-    "sura": "2",
-    "aya": "203",
-    "arabic_text": "۞ وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ ٱتَّقَىٰۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ",
-    "translation": "Alalahanin ninyo si Allāh sa mga araw na binilang,[52] ngunit ang sinumang nagmadali [sa paglisan sa Minā] sa dalawang araw[53] ay walang kasalanan sa kanya at ang sinumang naantala[54] ay walang kasalanan sa kanya: sa sinumang nangilag magkasala. Mangilag kayong magkasala kay Allāh at alamin ninyo na kayo ay tungo sa Kanya kakalapin.",
-    "footnotes": "[52] sa lambak ng Minā sa ika-11, ika-12, at ika-13 ng buwan ng Dhulḥijjah para sa mga nagsasagawa ng ḥajj.\n[53] hanggang sa ika-12 ng Dhulḥijjah.\n[54] hanggang sa ika-13 ng Dhulḥijjah."
-  }
+  "id": 203,
+  "verse_number": 203,
+  "page_number": 32,
+  "verse_key": "2:203",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَٱذۡكُرُواْ ٱللَّهَ فِيٓ أَيَّامٖ مَّعۡدُودَٰتٖۚ فَمَن تَعَجَّلَ فِي يَوۡمَيۡنِ فَلَآ إِثۡمَ عَلَيۡهِ وَمَن تَأَخَّرَ فَلَآ إِثۡمَ عَلَيۡهِۖ لِمَنِ ٱتَّقَىٰۗ وَٱتَّقُواْ ٱللَّهَ وَٱعۡلَمُوٓاْ أَنَّكُمۡ إِلَيۡهِ تُحۡشَرُونَ",
+  "translation": "Alalahanin ninyo si Allāh sa mga araw na binilang,[52] ngunit ang sinumang nagmadali [sa paglisan sa Minā] sa dalawang araw[53] ay walang kasalanan sa kanya at ang sinumang naantala[54] ay walang kasalanan sa kanya: sa sinumang nangilag magkasala. Mangilag kayong magkasala kay Allāh at alamin ninyo na kayo ay tungo sa Kanya kakalapin.",
+  "footnotes": "[52] sa lambak ng Minā sa ika-11, ika-12, at ika-13 ng buwan ng Dhulḥijjah para sa mga nagsasagawa ng ḥajj.\n[53] hanggang sa ika-12 ng Dhulḥijjah.\n[54] hanggang sa ika-13 ng Dhulḥijjah."
 }

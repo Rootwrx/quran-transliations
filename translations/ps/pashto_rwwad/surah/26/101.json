@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3033",
-    "sura": "26",
-    "aya": "101",
-    "arabic_text": "وَلَا صَدِيقٍ حَمِيمٖ",
-    "translation": "او نه څوك مخلص ملګرى.",
-    "footnotes": ""
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 371,
+  "verse_key": "26:101",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا صَدِيقٍ حَمِيمٖ",
+  "translation": "او نه څوك مخلص ملګرى.",
+  "footnotes": ""
 }

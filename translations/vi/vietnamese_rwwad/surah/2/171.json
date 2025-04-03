@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "178",
-    "sura": "2",
-    "aya": "171",
-    "arabic_text": "وَمَثَلُ ٱلَّذِينَ كَفَرُواْ كَمَثَلِ ٱلَّذِي يَنۡعِقُ بِمَا لَا يَسۡمَعُ إِلَّا دُعَآءٗ وَنِدَآءٗۚ صُمُّۢ بُكۡمٌ عُمۡيٞ فَهُمۡ لَا يَعۡقِلُونَ",
-    "translation": "Hình ảnh những người vô đức tin đó giống như hình ảnh của những con cừu khi (người chăn chúng kêu gọi chúng) thì chúng không nghe được gì ngoài tiếng réo và kêu vang (của y chứ không hiểu y nói gì). Họ điếc, câm và mù nên chẳng hiểu được gì.",
-    "footnotes": ""
-  }
+  "id": 171,
+  "verse_number": 171,
+  "page_number": 26,
+  "verse_key": "2:171",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَثَلُ ٱلَّذِينَ كَفَرُواْ كَمَثَلِ ٱلَّذِي يَنۡعِقُ بِمَا لَا يَسۡمَعُ إِلَّا دُعَآءٗ وَنِدَآءٗۚ صُمُّۢ بُكۡمٌ عُمۡيٞ فَهُمۡ لَا يَعۡقِلُونَ",
+  "translation": "Hình ảnh những người vô đức tin đó giống như hình ảnh của những con cừu khi (người chăn chúng kêu gọi chúng) thì chúng không nghe được gì ngoài tiếng réo và kêu vang (của y chứ không hiểu y nói gì). Họ điếc, câm và mù nên chẳng hiểu được gì.",
+  "footnotes": ""
 }

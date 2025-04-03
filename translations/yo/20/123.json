@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2471",
-    "sura": "20",
-    "aya": "123",
-    "arabic_text": "قَالَ ٱهۡبِطَا مِنۡهَا جَمِيعَۢاۖ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَنِ ٱتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشۡقَىٰ",
-    "translation": "(Allāhu) sọ pé: “Ẹ̀yin méjèèjì, ẹ jáde kúrò nínú rẹ̀ pátápátá. Apá kan yín sì jẹ́ ọ̀tá sí apá kan - ẹ̀yin àti aṣ-ṣaetọ̄n. Nígbà tí ìmọ̀nà bá sì dé ba yín láti ọ̀dọ̀ Mi, ẹnikẹ́ni tí ó bá tẹ̀lé ìmọ̀nà Mi, kò níí ṣìnà, kò sì níí ṣorí burúkú.",
-    "footnotes": ""
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 320,
+  "verse_key": "20:123",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ ٱهۡبِطَا مِنۡهَا جَمِيعَۢاۖ بَعۡضُكُمۡ لِبَعۡضٍ عَدُوّٞۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَنِ ٱتَّبَعَ هُدَايَ فَلَا يَضِلُّ وَلَا يَشۡقَىٰ",
+  "translation": "(Allāhu) sọ pé: “Ẹ̀yin méjèèjì, ẹ jáde kúrò nínú rẹ̀ pátápátá. Apá kan yín sì jẹ́ ọ̀tá sí apá kan - ẹ̀yin àti aṣ-ṣaetọ̄n. Nígbà tí ìmọ̀nà bá sì dé ba yín láti ọ̀dọ̀ Mi, ẹnikẹ́ni tí ó bá tẹ̀lé ìmọ̀nà Mi, kò níí ṣìnà, kò sì níí ṣorí burúkú.",
+  "footnotes": ""
 }

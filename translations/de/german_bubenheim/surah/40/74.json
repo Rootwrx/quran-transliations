@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4207",
-    "sura": "40",
-    "aya": "74",
-    "arabic_text": "مِن دُونِ ٱللَّهِۖ قَالُواْ ضَلُّواْ عَنَّا بَل لَّمۡ نَكُن نَّدۡعُواْ مِن قَبۡلُ شَيۡـٔٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلۡكَٰفِرِينَ",
-    "translation": "anstatt Allahs? Sie werden sagen: Sie sind uns entschwunden. Aber nein! Wir riefen zuvor (doch gar) nichts an. So läßt Allah die Ungläubigen in die Irre gehen.",
-    "footnotes": null
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 475,
+  "verse_key": "40:74",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِن دُونِ ٱللَّهِۖ قَالُواْ ضَلُّواْ عَنَّا بَل لَّمۡ نَكُن نَّدۡعُواْ مِن قَبۡلُ شَيۡـٔٗاۚ كَذَٰلِكَ يُضِلُّ ٱللَّهُ ٱلۡكَٰفِرِينَ",
+  "translation": "anstatt Allahs? Sie werden sagen: Sie sind uns entschwunden. Aber nein! Wir riefen zuvor (doch gar) nichts an. So läßt Allah die Ungläubigen in die Irre gehen.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "916",
-    "sura": "6",
-    "aya": "127",
-    "arabic_text": "۞ لَهُمۡ دَارُ ٱلسَّلَٰمِ عِندَ رَبِّهِمۡۖ وَهُوَ وَلِيُّهُم بِمَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "127. Ils ont, auprès de leur Seigneur, la demeure du Salut. Il est leur Protecteur pour prix de ce qu’ils faisaient.",
-    "footnotes": ""
-  }
+  "id": 127,
+  "verse_number": 127,
+  "page_number": 144,
+  "verse_key": "6:127",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ لَهُمۡ دَارُ ٱلسَّلَٰمِ عِندَ رَبِّهِمۡۖ وَهُوَ وَلِيُّهُم بِمَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "127. Ils ont, auprès de leur Seigneur, la demeure du Salut. Il est leur Protecteur pour prix de ce qu’ils faisaient.",
+  "footnotes": ""
 }

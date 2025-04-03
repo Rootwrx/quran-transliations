@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4042",
-    "sura": "38",
-    "aya": "72",
-    "arabic_text": "فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سَٰجِدِينَ",
-    "translation": "“yeroo isa sirreessee, ruuhii kiyya (kan Ani uume) irraa isa keessatti afuufe isaaf sujuuda bu’aa” (jedheen).",
-    "footnotes": ""
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 457,
+  "verse_key": "38:72",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سَٰجِدِينَ",
+  "translation": "“yeroo isa sirreessee, ruuhii kiyya (kan Ani uume) irraa isa keessatti afuufe isaaf sujuuda bu’aa” (jedheen).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1394",
-    "sura": "10",
-    "aya": "30",
-    "arabic_text": "هُنَالِكَ تَبۡلُواْ كُلُّ نَفۡسٖ مَّآ أَسۡلَفَتۡۚ وَرُدُّوٓاْ إِلَى ٱللَّهِ مَوۡلَىٰهُمُ ٱلۡحَقِّۖ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
-    "translation": "Huko kila mtu atayajua aliyo yatanguliza. Na watarudishwa kwa Mwenyezi Mungu, Mola wao wa Haki, na yote waliyo kuwa wakiyazua yatawapotea.",
-    "footnotes": "Katika msimamo huo kila mtu atajua kheri gani au shari gani aliyo ifanya, na atalipwa malipo yake. Na hapo hao washirikina watayakinika kuwa kweli Mwenyezi Mungu ni Mmoja na wa pekee, Mwenye Haki. Na yote waliyo kuwa wakimzulia Mwenyezi Mungu yatavunjika."
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 212,
+  "verse_key": "10:30",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُنَالِكَ تَبۡلُواْ كُلُّ نَفۡسٖ مَّآ أَسۡلَفَتۡۚ وَرُدُّوٓاْ إِلَى ٱللَّهِ مَوۡلَىٰهُمُ ٱلۡحَقِّۖ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
+  "translation": "Huko kila mtu atayajua aliyo yatanguliza. Na watarudishwa kwa Mwenyezi Mungu, Mola wao wa Haki, na yote waliyo kuwa wakiyazua yatawapotea.",
+  "footnotes": "Katika msimamo huo kila mtu atajua kheri gani au shari gani aliyo ifanya, na atalipwa malipo yake. Na hapo hao washirikina watayakinika kuwa kweli Mwenyezi Mungu ni Mmoja na wa pekee, Mwenye Haki. Na yote waliyo kuwa wakimzulia Mwenyezi Mungu yatavunjika."
 }

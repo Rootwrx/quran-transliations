@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "259",
-    "sura": "2",
-    "aya": "252",
-    "arabic_text": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۚ وَإِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ",
-    "translation": "252. Tels sont les versets d’Allah que Nous te récitons en toute vérité. Et tu es certes du nombre des Envoyés.",
-    "footnotes": ""
-  }
+  "id": 252,
+  "verse_number": 252,
+  "page_number": 41,
+  "verse_key": "2:252",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 16,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۚ وَإِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ",
+  "translation": "252. Tels sont les versets d’Allah que Nous te récitons en toute vérité. Et tu es certes du nombre des Envoyés.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2627",
-    "sura": "22",
-    "aya": "32",
-    "arabic_text": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ شَعَٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقۡوَى ٱلۡقُلُوبِ",
-    "translation": "32. Too Yalli ken elle amrisem yeyncbc mari, toysa diggah too massakaxxa is sorkocobbaxitte Yallak meesit как weeloysimte marih abnitte kinni.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 336,
+  "verse_key": "22:32",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ شَعَٰٓئِرَ ٱللَّهِ فَإِنَّهَا مِن تَقۡوَى ٱلۡقُلُوبِ",
+  "translation": "32. Too Yalli ken elle amrisem yeyncbc mari, toysa diggah too massakaxxa is sorkocobbaxitte Yallak meesit как weeloysimte marih abnitte kinni.",
+  "footnotes": ""
 }

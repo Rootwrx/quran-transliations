@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1315",
-    "sura": "9",
-    "aya": "80",
-    "arabic_text": "ٱسۡتَغۡفِرۡ لَهُمۡ أَوۡ لَا تَسۡتَغۡفِرۡ لَهُمۡ إِن تَسۡتَغۡفِرۡ لَهُمۡ سَبۡعِينَ مَرَّةٗ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ ذَٰلِكَ بِأَنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
-    "translation": "80. Que tu implores pour eux le pardon ou que tu ne l’implores pas - dusses-tu  même l’implorer soixante-dix fois - Allah ne leur pardonnera jamais. Cela, parce qu’ils ont mécru en Allah et en Son Messager. Or Allah ne guide point les gens pervers.",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 200,
+  "verse_key": "9:80",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱسۡتَغۡفِرۡ لَهُمۡ أَوۡ لَا تَسۡتَغۡفِرۡ لَهُمۡ إِن تَسۡتَغۡفِرۡ لَهُمۡ سَبۡعِينَ مَرَّةٗ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ ذَٰلِكَ بِأَنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+  "translation": "80. Que tu implores pour eux le pardon ou que tu ne l’implores pas - dusses-tu  même l’implorer soixante-dix fois - Allah ne leur pardonnera jamais. Cela, parce qu’ils ont mécru en Allah et en Son Messager. Or Allah ne guide point les gens pervers.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5869",
-    "sura": "83",
-    "aya": "21",
-    "arabic_text": "يَشۡهَدُهُ ٱلۡمُقَرَّبُونَ",
-    "translation": "Ona, Allaha yaxın olanlar (mələklər) şahid olar.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 588,
+  "verse_key": "83:21",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَشۡهَدُهُ ٱلۡمُقَرَّبُونَ",
+  "translation": "Ona, Allaha yaxın olanlar (mələklər) şahid olar.",
+  "footnotes": ""
 }

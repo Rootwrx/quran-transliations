@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3642",
-    "sura": "34",
-    "aya": "36",
-    "arabic_text": "قُلۡ إِنَّ رَبِّي يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
-    "translation": "36. Diles: “Mi Señor sustenta generosamente a quien quiere y se lo restringe [a quien quiere], pero la mayoría de la gente lo ignora”.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 432,
+  "verse_key": "34:36",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنَّ رَبِّي يَبۡسُطُ ٱلرِّزۡقَ لِمَن يَشَآءُ وَيَقۡدِرُ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+  "translation": "36. Diles: “Mi Señor sustenta generosamente a quien quiere y se lo restringe [a quien quiere], pero la mayoría de la gente lo ignora”.",
+  "footnotes": ""
 }

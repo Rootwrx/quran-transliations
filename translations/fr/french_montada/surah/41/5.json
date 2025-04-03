@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4223",
-    "sura": "41",
-    "aya": "5",
-    "arabic_text": "وَقَالُواْ قُلُوبُنَا فِيٓ أَكِنَّةٖ مِّمَّا تَدۡعُونَآ إِلَيۡهِ وَفِيٓ ءَاذَانِنَا وَقۡرٞ وَمِنۢ بَيۡنِنَا وَبَيۡنِكَ حِجَابٞ فَٱعۡمَلۡ إِنَّنَا عَٰمِلُونَ",
-    "translation": "5. Ils disent : «Nos cœurs sont recouverts d’un voile (qui les sépare) de ce à quoi tu nous appelles, nos oreilles sont frappées de surdité, et entre nous et toi il y a une barrière. Agis donc (comme bon te semble) car (pour notre part) nous agissons (à notre manière). »",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 477,
+  "verse_key": "41:5",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ قُلُوبُنَا فِيٓ أَكِنَّةٖ مِّمَّا تَدۡعُونَآ إِلَيۡهِ وَفِيٓ ءَاذَانِنَا وَقۡرٞ وَمِنۢ بَيۡنِنَا وَبَيۡنِكَ حِجَابٞ فَٱعۡمَلۡ إِنَّنَا عَٰمِلُونَ",
+  "translation": "5. Ils disent : «Nos cœurs sont recouverts d’un voile (qui les sépare) de ce à quoi tu nous appelles, nos oreilles sont frappées de surdité, et entre nous et toi il y a une barrière. Agis donc (comme bon te semble) car (pour notre part) nous agissons (à notre manière). »",
+  "footnotes": ""
 }

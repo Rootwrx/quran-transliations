@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2459",
-    "sura": "20",
-    "aya": "111",
-    "arabic_text": "۞ وَعَنَتِ ٱلۡوُجُوهُ لِلۡحَيِّ ٱلۡقَيُّومِۖ وَقَدۡ خَابَ مَنۡ حَمَلَ ظُلۡمٗا",
-    "translation": "111 Les visages s’humilieront devant le Dieu Vivant et Eternel. Seront perdus tous ceux qui porteront le poids de leur iniquité.",
-    "footnotes": ""
-  }
+  "id": 111,
+  "verse_number": 111,
+  "page_number": 319,
+  "verse_key": "20:111",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَعَنَتِ ٱلۡوُجُوهُ لِلۡحَيِّ ٱلۡقَيُّومِۖ وَقَدۡ خَابَ مَنۡ حَمَلَ ظُلۡمٗا",
+  "translation": "111 Les visages s’humilieront devant le Dieu Vivant et Eternel. Seront perdus tous ceux qui porteront le poids de leur iniquité.",
+  "footnotes": ""
 }

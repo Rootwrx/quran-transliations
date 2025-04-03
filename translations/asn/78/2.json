@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5674",
-    "sura": "78",
-    "aya": "2",
-    "arabic_text": "عَنِ ٱلنَّبَإِ ٱلۡعَظِيمِ",
-    "translation": "Ɛfa Amanebͻ (anaasε Asεm) kεseε no ho asεm no anaa?",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 582,
+  "verse_key": "78:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَنِ ٱلنَّبَإِ ٱلۡعَظِيمِ",
+  "translation": "Ɛfa Amanebͻ (anaasε Asεm) kεseε no ho asεm no anaa?",
+  "footnotes": ""
 }

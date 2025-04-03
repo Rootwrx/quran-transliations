@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2857",
-    "sura": "25",
-    "aya": "2",
-    "arabic_text": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَمۡ يَتَّخِذۡ وَلَدٗا وَلَمۡ يَكُن لَّهُۥ شَرِيكٞ فِي ٱلۡمُلۡكِ وَخَلَقَ كُلَّ شَيۡءٖ فَقَدَّرَهُۥ تَقۡدِيرٗا",
-    "translation": "Göylərin və yerin mülkü Ona məxsusdur. O, Özünə oğul götürməmişdir, mülkündə də heç bir şəriki yoxdur. O, hər şeyi xəlq etmiş və ona münasib bir biçim vermişdir.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 359,
+  "verse_key": "25:2",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَمۡ يَتَّخِذۡ وَلَدٗا وَلَمۡ يَكُن لَّهُۥ شَرِيكٞ فِي ٱلۡمُلۡكِ وَخَلَقَ كُلَّ شَيۡءٖ فَقَدَّرَهُۥ تَقۡدِيرٗا",
+  "translation": "Göylərin və yerin mülkü Ona məxsusdur. O, Özünə oğul götürməmişdir, mülkündə də heç bir şəriki yoxdur. O, hər şeyi xəlq etmiş və ona münasib bir biçim vermişdir.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "305",
-    "sura": "3",
-    "aya": "12",
-    "arabic_text": "قُل لِّلَّذِينَ كَفَرُواْ سَتُغۡلَبُونَ وَتُحۡشَرُونَ إِلَىٰ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمِهَادُ",
-    "translation": "Ngươi (hỡi Thiên Sứ Muhammad) hãy nói với những kẻ vô đức tin: “Rồi đây các người sẽ bị đánh bại (bởi những người có đức tin) và các người sẽ được tập trung vào Hỏa Ngục, một nơi ở tồi tệ (dành cho các người).”",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 51,
+  "verse_key": "3:12",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لِّلَّذِينَ كَفَرُواْ سَتُغۡلَبُونَ وَتُحۡشَرُونَ إِلَىٰ جَهَنَّمَۖ وَبِئۡسَ ٱلۡمِهَادُ",
+  "translation": "Ngươi (hỡi Thiên Sứ Muhammad) hãy nói với những kẻ vô đức tin: “Rồi đây các người sẽ bị đánh bại (bởi những người có đức tin) và các người sẽ được tập trung vào Hỏa Ngục, một nơi ở tồi tệ (dành cho các người).”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5270",
-    "sura": "67",
-    "aya": "29",
-    "arabic_text": "قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "Ntumwa y’Imana! Nibatarikura mu kanwa, uraca ubabwira uti: “Ni Imana Allah Nyenimpuhwe, ni Yo twemeye twubahiriza n’amabwirizwa yayo, ni na Yo twishimikije, tunazeyeko n’uburaro n’uburamuko. Mu gihe kitari kirekire rero, muzomenya neza uwuri mu muzimagiza ugaragara, uri kure y’ukuri”.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 564,
+  "verse_key": "67:29",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هُوَ ٱلرَّحۡمَٰنُ ءَامَنَّا بِهِۦ وَعَلَيۡهِ تَوَكَّلۡنَاۖ فَسَتَعۡلَمُونَ مَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "Ntumwa y’Imana! Nibatarikura mu kanwa, uraca ubabwira uti: “Ni Imana Allah Nyenimpuhwe, ni Yo twemeye twubahiriza n’amabwirizwa yayo, ni na Yo twishimikije, tunazeyeko n’uburaro n’uburamuko. Mu gihe kitari kirekire rero, muzomenya neza uwuri mu muzimagiza ugaragara, uri kure y’ukuri”.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "904",
-    "sura": "6",
-    "aya": "115",
-    "arabic_text": "وَتَمَّتۡ كَلِمَتُ رَبِّكَ صِدۡقٗا وَعَدۡلٗاۚ لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
-    "translation": "Kuma kalmar Ubangijinka tã cika, tanã gaskiya* da ãdalci. Babu mai musanyãwa ga kalmõminSa, kuma Shi ne Maiji, Masani.",
-    "footnotes": "* Musulunci kõ Alƙur'ãni ne cikon addinin Allah, babu mai iya zõwa da wani abu sãbo kõ ya ƙãra wani abu a cikin sa ta kõwace hanya kuma bãbu mai iya musanya wani abu a cikinsa. Ya cika ya kammala, sai biya kawai. Annabi ya ce: \"Wanda ya yi wani aiki ba da umuruinsa a kan abin da ya aikata ɗin nan ba, to, an mayar masa; ba a karɓaba.\"."
-  }
+  "id": 115,
+  "verse_number": 115,
+  "page_number": 142,
+  "verse_key": "6:115",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَمَّتۡ كَلِمَتُ رَبِّكَ صِدۡقٗا وَعَدۡلٗاۚ لَّا مُبَدِّلَ لِكَلِمَٰتِهِۦۚ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "translation": "Kuma kalmar Ubangijinka tã cika, tanã gaskiya* da ãdalci. Babu mai musanyãwa ga kalmõminSa, kuma Shi ne Maiji, Masani.",
+  "footnotes": "* Musulunci kõ Alƙur'ãni ne cikon addinin Allah, babu mai iya zõwa da wani abu sãbo kõ ya ƙãra wani abu a cikin sa ta kõwace hanya kuma bãbu mai iya musanya wani abu a cikinsa. Ya cika ya kammala, sai biya kawai. Annabi ya ce: \"Wanda ya yi wani aiki ba da umuruinsa a kan abin da ya aikata ɗin nan ba, to, an mayar masa; ba a karɓaba.\"."
 }

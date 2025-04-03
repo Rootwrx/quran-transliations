@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2253",
-    "sura": "19",
-    "aya": "3",
-    "arabic_text": "إِذۡ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيّٗا",
-    "translation": "Hani o, Rabbine gizlice yalvarmıştı.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 305,
+  "verse_key": "19:3",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيّٗا",
+  "translation": "Hani o, Rabbine gizlice yalvarmıştı.",
+  "footnotes": ""
 }

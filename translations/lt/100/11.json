@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6157",
-    "sura": "100",
-    "aya": "11",
-    "arabic_text": "إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ",
-    "translation": "11. iš tiesų, jų Viešpats Tą Dieną (Prisikėlimo Dieną) yra (viską) apie juos Žinantis (apie jų poelgius ir atlygins jiems už juos).",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 600,
+  "verse_key": "100:11",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ رَبَّهُم بِهِمۡ يَوۡمَئِذٖ لَّخَبِيرُۢ",
+  "translation": "11. iš tiesų, jų Viešpats Tą Dieną (Prisikėlimo Dieną) yra (viską) apie juos Žinantis (apie jų poelgius ir atlygins jiems už juos).",
+  "footnotes": ""
 }

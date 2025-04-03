@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1693",
-    "sura": "12",
-    "aya": "97",
-    "arabic_text": "قَالُواْ يَٰٓأَبَانَا ٱسۡتَغۡفِرۡ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ",
-    "translation": "Ata thanë: “O babai ynë, kërko falje për ne e për gabimet tona! Ne paskemi qenë vërtet gjynahqarë”.",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 247,
+  "verse_key": "12:97",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰٓأَبَانَا ٱسۡتَغۡفِرۡ لَنَا ذُنُوبَنَآ إِنَّا كُنَّا خَٰطِـِٔينَ",
+  "translation": "Ata thanë: “O babai ynë, kërko falje për ne e për gabimet tona! Ne paskemi qenë vërtet gjynahqarë”.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "711",
-    "sura": "5",
-    "aya": "42",
-    "arabic_text": "سَمَّٰعُونَ لِلۡكَذِبِ أَكَّٰلُونَ لِلسُّحۡتِۚ فَإِن جَآءُوكَ فَٱحۡكُم بَيۡنَهُمۡ أَوۡ أَعۡرِضۡ عَنۡهُمۡۖ وَإِن تُعۡرِضۡ عَنۡهُمۡ فَلَن يَضُرُّوكَ شَيۡـٔٗاۖ وَإِنۡ حَكَمۡتَ فَٱحۡكُم بَيۡنَهُم بِٱلۡقِسۡطِۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُقۡسِطِينَ",
-    "translation": "Ata janë dëgjues të gënjeshtrës dhe e hanë me kënaqësi të madhe atë që është e ndaluar. Nëse vijnë tek ti, gjykoji ata ose shmangu prej tyre! Nëse shmangesh nga ata, nuk mund të të dëmtojnë aspak. E, nëse i gjykon, gjykoji me drejtësi! Vërtet, Allahu i do të drejtët.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 115,
+  "verse_key": "5:42",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 46,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَمَّٰعُونَ لِلۡكَذِبِ أَكَّٰلُونَ لِلسُّحۡتِۚ فَإِن جَآءُوكَ فَٱحۡكُم بَيۡنَهُمۡ أَوۡ أَعۡرِضۡ عَنۡهُمۡۖ وَإِن تُعۡرِضۡ عَنۡهُمۡ فَلَن يَضُرُّوكَ شَيۡـٔٗاۖ وَإِنۡ حَكَمۡتَ فَٱحۡكُم بَيۡنَهُم بِٱلۡقِسۡطِۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُقۡسِطِينَ",
+  "translation": "Ata janë dëgjues të gënjeshtrës dhe e hanë me kënaqësi të madhe atë që është e ndaluar. Nëse vijnë tek ti, gjykoji ata ose shmangu prej tyre! Nëse shmangesh nga ata, nuk mund të të dëmtojnë aspak. E, nëse i gjykon, gjykoji me drejtësi! Vërtet, Allahu i do të drejtët.",
+  "footnotes": ""
 }

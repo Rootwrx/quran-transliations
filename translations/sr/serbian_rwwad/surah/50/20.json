@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4650",
-    "sura": "50",
-    "aya": "20",
-    "arabic_text": "وَنُفِخَ فِي ٱلصُّورِۚ ذَٰلِكَ يَوۡمُ ٱلۡوَعِيدِ",
-    "translation": "и у рог ће да буде дувнуто - то је Дан којим се прети.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 519,
+  "verse_key": "50:20",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنُفِخَ فِي ٱلصُّورِۚ ذَٰلِكَ يَوۡمُ ٱلۡوَعِيدِ",
+  "translation": "и у рог ће да буде дувнуто - то је Дан којим се прети.",
+  "footnotes": ""
 }

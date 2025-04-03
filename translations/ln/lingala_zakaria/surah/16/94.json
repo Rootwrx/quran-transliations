@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1995",
-    "sura": "16",
-    "aya": "94",
-    "arabic_text": "وَلَا تَتَّخِذُوٓاْ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ فَتَزِلَّ قَدَمُۢ بَعۡدَ ثُبُوتِهَا وَتَذُوقُواْ ٱلسُّوٓءَ بِمَا صَدَدتُّمۡ عَن سَبِيلِ ٱللَّهِ وَلَكُمۡ عَذَابٌ عَظِيمٞ",
-    "translation": "94. Mpe bozua bandayi na bino te ezala nzela ya komikosa kati na bino na bino, noki te bokoselumwa na bino bozalaki ya kotelema ngui (na bosóló) mpe bokozua na yango mabe. Na ntina été bozalaki kobundisa nzela ya Allah, mpe bokozala na etumbu ya monene.",
-    "footnotes": "2  Umma: Lingomba."
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 278,
+  "verse_key": "16:94",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَتَّخِذُوٓاْ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ فَتَزِلَّ قَدَمُۢ بَعۡدَ ثُبُوتِهَا وَتَذُوقُواْ ٱلسُّوٓءَ بِمَا صَدَدتُّمۡ عَن سَبِيلِ ٱللَّهِ وَلَكُمۡ عَذَابٌ عَظِيمٞ",
+  "translation": "94. Mpe bozua bandayi na bino te ezala nzela ya komikosa kati na bino na bino, noki te bokoselumwa na bino bozalaki ya kotelema ngui (na bosóló) mpe bokozua na yango mabe. Na ntina été bozalaki kobundisa nzela ya Allah, mpe bokozala na etumbu ya monene.",
+  "footnotes": "2  Umma: Lingomba."
 }

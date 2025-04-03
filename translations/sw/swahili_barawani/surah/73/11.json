@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5486",
-    "sura": "73",
-    "aya": "11",
-    "arabic_text": "وَذَرۡنِي وَٱلۡمُكَذِّبِينَ أُوْلِي ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيلًا",
-    "translation": "Na niache Mimi na hao wanao kanusha, walio neemeka; na wape muhula kidogo!",
-    "footnotes": "Niachilie Mimi hao wanao kadhibisha, wenye kuneemeshwa, na uwape muhula muda mfupi."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 574,
+  "verse_key": "73:11",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَذَرۡنِي وَٱلۡمُكَذِّبِينَ أُوْلِي ٱلنَّعۡمَةِ وَمَهِّلۡهُمۡ قَلِيلًا",
+  "translation": "Na niache Mimi na hao wanao kanusha, walio neemeka; na wape muhula kidogo!",
+  "footnotes": "Niachilie Mimi hao wanao kadhibisha, wenye kuneemeshwa, na uwape muhula muda mfupi."
 }

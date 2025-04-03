@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2138",
-    "sura": "17",
-    "aya": "109",
-    "arabic_text": "وَيَخِرُّونَ لِلۡأَذۡقَانِ يَبۡكُونَ وَيَزِيدُهُمۡ خُشُوعٗا۩",
-    "translation": "They fall down on their faces weeping, and it increases their humility.”",
-    "footnotes": ""
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 293,
+  "verse_key": "17:109",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 4,
+  "text": "وَيَخِرُّونَ لِلۡأَذۡقَانِ يَبۡكُونَ وَيَزِيدُهُمۡ خُشُوعٗا۩",
+  "translation": "They fall down on their faces weeping, and it increases their humility.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1999",
-    "sura": "16",
-    "aya": "98",
-    "arabic_text": "فَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ فَٱسۡتَعِذۡ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ",
-    "translation": "Vì vậy, bất cứ khi nào Ngươi (Thiên Sứ Muhammad) xướng đọc Qur’an thì Ngươi hãy cầu xin Allah che chở khỏi Shaytan, kẻ bị trục xuất (khỏi lòng thương xót của Ngài).",
-    "footnotes": ""
-  }
+  "id": 98,
+  "verse_number": 98,
+  "page_number": 278,
+  "verse_key": "16:98",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ فَٱسۡتَعِذۡ بِٱللَّهِ مِنَ ٱلشَّيۡطَٰنِ ٱلرَّجِيمِ",
+  "translation": "Vì vậy, bất cứ khi nào Ngươi (Thiên Sứ Muhammad) xướng đọc Qur’an thì Ngươi hãy cầu xin Allah che chở khỏi Shaytan, kẻ bị trục xuất (khỏi lòng thương xót của Ngài).",
+  "footnotes": ""
 }

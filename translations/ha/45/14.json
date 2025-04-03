@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4487",
-    "sura": "45",
-    "aya": "14",
-    "arabic_text": "قُل لِّلَّذِينَ ءَامَنُواْ يَغۡفِرُواْ لِلَّذِينَ لَا يَرۡجُونَ أَيَّامَ ٱللَّهِ لِيَجۡزِيَ قَوۡمَۢا بِمَا كَانُواْ يَكۡسِبُونَ",
-    "translation": "Ka ce wa waɗanda suka yi ĩmãni, su yi gãfara ga waɗanda bã su fãtan rahama ga kwãnukan Allah, *dõmin (Allah) Ya sãka wa mutãne da abin da suka kasance sunã aikatãwa.",
-    "footnotes": "* Kwanukan Allah, sũ ne masĩfu waɗanda ke sãmun kãfirai waɗanda bã su bin sharĩ'ar Allah. Wãtau Allah Ya umurci Annabi ya gaya wa Musulmi, cewa wanda bã ya tsõron masĩfu sabõda ya ki aiwatar da sharĩ'ar Allah a kansa to kada Musulmi su dãmu da shi, watau kãfiran amãna nã iya bin dõkõkinsu na al'ãda, bãbu ruwan Musulmi matuƙar dai ba su shũka wata fitina ba a gare su. A bãyan haka Allah zai sãka wa kõwa game da aikinsa."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 500,
+  "verse_key": "45:14",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لِّلَّذِينَ ءَامَنُواْ يَغۡفِرُواْ لِلَّذِينَ لَا يَرۡجُونَ أَيَّامَ ٱللَّهِ لِيَجۡزِيَ قَوۡمَۢا بِمَا كَانُواْ يَكۡسِبُونَ",
+  "translation": "Ka ce wa waɗanda suka yi ĩmãni, su yi gãfara ga waɗanda bã su fãtan rahama ga kwãnukan Allah, *dõmin (Allah) Ya sãka wa mutãne da abin da suka kasance sunã aikatãwa.",
+  "footnotes": "* Kwanukan Allah, sũ ne masĩfu waɗanda ke sãmun kãfirai waɗanda bã su bin sharĩ'ar Allah. Wãtau Allah Ya umurci Annabi ya gaya wa Musulmi, cewa wanda bã ya tsõron masĩfu sabõda ya ki aiwatar da sharĩ'ar Allah a kansa to kada Musulmi su dãmu da shi, watau kãfiran amãna nã iya bin dõkõkinsu na al'ãda, bãbu ruwan Musulmi matuƙar dai ba su shũka wata fitina ba a gare su. A bãyan haka Allah zai sãka wa kõwa game da aikinsa."
 }

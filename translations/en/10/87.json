@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1451",
-    "sura": "10",
-    "aya": "87",
-    "arabic_text": "وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوۡمِكُمَا بِمِصۡرَ بُيُوتٗا وَٱجۡعَلُواْ بُيُوتَكُمۡ قِبۡلَةٗ وَأَقِيمُواْ ٱلصَّلَوٰةَۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
-    "translation": "(87) And We inspired to Moses and his brother, \"Settle your people in Egypt in houses and make your houses [facing the] qiblah[537] and establish prayer and give good tidings to the believers.\"",
-    "footnotes": "[537]- In order that they might pray therein unseen by their enemy."
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 218,
+  "verse_key": "10:87",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوۡمِكُمَا بِمِصۡرَ بُيُوتٗا وَٱجۡعَلُواْ بُيُوتَكُمۡ قِبۡلَةٗ وَأَقِيمُواْ ٱلصَّلَوٰةَۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
+  "translation": "(87) And We inspired to Moses and his brother, \"Settle your people in Egypt in houses and make your houses [facing the] qiblah[537] and establish prayer and give good tidings to the believers.\"",
+  "footnotes": "[537]- In order that they might pray therein unseen by their enemy."
 }

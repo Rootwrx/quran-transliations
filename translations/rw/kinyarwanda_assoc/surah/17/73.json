@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2102",
-    "sura": "17",
-    "aya": "73",
-    "arabic_text": "وَإِن كَادُواْ لَيَفۡتِنُونَكَ عَنِ ٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ لِتَفۡتَرِيَ عَلَيۡنَا غَيۡرَهُۥۖ وَإِذٗا لَّٱتَّخَذُوكَ خَلِيلٗا",
-    "translation": "Mu by’ukuri (yewe Muhamadi, ababangikanyamana) bendaga kugutesha ibyo twaguhishuriye (Qur’an), kugira ngo uduhimbire ibindi bitari yo; ubwo (iyo ubikora) bari kukugira inshuti magara.",
-    "footnotes": ""
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 289,
+  "verse_key": "17:73",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن كَادُواْ لَيَفۡتِنُونَكَ عَنِ ٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ لِتَفۡتَرِيَ عَلَيۡنَا غَيۡرَهُۥۖ وَإِذٗا لَّٱتَّخَذُوكَ خَلِيلٗا",
+  "translation": "Mu by’ukuri (yewe Muhamadi, ababangikanyamana) bendaga kugutesha ibyo twaguhishuriye (Qur’an), kugira ngo uduhimbire ibindi bitari yo; ubwo (iyo ubikora) bari kukugira inshuti magara.",
+  "footnotes": ""
 }

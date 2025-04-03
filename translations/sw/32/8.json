@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3511",
-    "sura": "32",
-    "aya": "8",
-    "arabic_text": "ثُمَّ جَعَلَ نَسۡلَهُۥ مِن سُلَٰلَةٖ مِّن مَّآءٖ مَّهِينٖ",
-    "translation": "Na kisha akajaalia uzao wake utokane na kizazi cha maji madhaifu.",
-    "footnotes": "Kisha akawafanya dhuriya zake wa namna mbali mbali kutokana na maji machache, dhaifu, yasiyo tamanika kwa kawaida. Katika Aya hii tukufu \"utokane na kizazi cha maji dhaifu\". Neno la Kiarabu lilio tumiwa ni \"Mahiin\". Neno hili likitumiwa kwa mtu lina maana ya \"dhaif\", mnyonge, na pia lina maana ya \"chache\". Basi kauli ya Mwenyezi Mungu Mtukufu: \"Min maain mahiin\" maana yake ni \"kutokana na maji machache dhaifu\" , ndiyo ya kudharauliwa. Mfano wa hayo ni kauli ya Mwenyezi Mungu Mtukufu: \"Au mimi si bora kuliko huyu aliye (mahiin) mnyonge wala hawezi kusema waziwazi?\" (Azzukhruf: 43.52). Na neno \"Mahana al-ibila\" maana yake \"Kamkama maziwa ngamia\". Kwa hivyo basi hapana ubaya kulifasiri neno hili Mahiin katika Aya hii kwa maana ya maji yanayo toka kwa kuchupa, au kumiminika, (kama yanavyo toka maziwa kwenye chuchu) au machache."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 415,
+  "verse_key": "32:8",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ جَعَلَ نَسۡلَهُۥ مِن سُلَٰلَةٖ مِّن مَّآءٖ مَّهِينٖ",
+  "translation": "Na kisha akajaalia uzao wake utokane na kizazi cha maji madhaifu.",
+  "footnotes": "Kisha akawafanya dhuriya zake wa namna mbali mbali kutokana na maji machache, dhaifu, yasiyo tamanika kwa kawaida. Katika Aya hii tukufu \"utokane na kizazi cha maji dhaifu\". Neno la Kiarabu lilio tumiwa ni \"Mahiin\". Neno hili likitumiwa kwa mtu lina maana ya \"dhaif\", mnyonge, na pia lina maana ya \"chache\". Basi kauli ya Mwenyezi Mungu Mtukufu: \"Min maain mahiin\" maana yake ni \"kutokana na maji machache dhaifu\" , ndiyo ya kudharauliwa. Mfano wa hayo ni kauli ya Mwenyezi Mungu Mtukufu: \"Au mimi si bora kuliko huyu aliye (mahiin) mnyonge wala hawezi kusema waziwazi?\" (Azzukhruf: 43.52). Na neno \"Mahana al-ibila\" maana yake \"Kamkama maziwa ngamia\". Kwa hivyo basi hapana ubaya kulifasiri neno hili Mahiin katika Aya hii kwa maana ya maji yanayo toka kwa kuchupa, au kumiminika, (kama yanavyo toka maziwa kwenye chuchu) au machache."
 }

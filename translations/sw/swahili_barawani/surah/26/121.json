@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3053",
-    "sura": "26",
-    "aya": "121",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
-    "translation": "Na hakika Mola wako Mlezi ndiye Yeye Mwenye nguvu Mwenye kurehemu.",
-    "footnotes": "Hakika katika yaliyo simuliwa na Qur'ani juu ya khabari za Nuhu ni hoja ya kuthibitisha ukweli wa Mitume na uwezo wa Mwenyezi Mungu. Na katika watu walio somewa hadithi hizi si wengi walio amini."
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 372,
+  "verse_key": "26:121",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+  "translation": "Na hakika Mola wako Mlezi ndiye Yeye Mwenye nguvu Mwenye kurehemu.",
+  "footnotes": "Hakika katika yaliyo simuliwa na Qur'ani juu ya khabari za Nuhu ni hoja ya kuthibitisha ukweli wa Mitume na uwezo wa Mwenyezi Mungu. Na katika watu walio somewa hadithi hizi si wengi walio amini."
 }

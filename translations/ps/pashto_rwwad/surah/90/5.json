@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6028",
-    "sura": "90",
-    "aya": "5",
-    "arabic_text": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ",
-    "translation": "آيا هغه انګېري چې هيڅوک به پرې برلاسی نه شي.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 594,
+  "verse_key": "90:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَيَحۡسَبُ أَن لَّن يَقۡدِرَ عَلَيۡهِ أَحَدٞ",
+  "translation": "آيا هغه انګېري چې هيڅوک به پرې برلاسی نه شي.",
+  "footnotes": ""
 }

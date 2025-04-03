@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2032",
-    "sura": "17",
-    "aya": "3",
-    "arabic_text": "ذُرِّيَّةَ مَنۡ حَمَلۡنَا مَعَ نُوحٍۚ إِنَّهُۥ كَانَ عَبۡدٗا شَكُورٗا",
-    "translation": "(Các ngươi) là đám hậu duệ được TA (Allah) cứu vớt cùng với Nuh (trên chiếc thuyền trong trận đại hồng thủy). Quả thật, Y (Nuh) là một người bề tôi biết ơn.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 282,
+  "verse_key": "17:3",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذُرِّيَّةَ مَنۡ حَمَلۡنَا مَعَ نُوحٍۚ إِنَّهُۥ كَانَ عَبۡدٗا شَكُورٗا",
+  "translation": "(Các ngươi) là đám hậu duệ được TA (Allah) cứu vớt cùng với Nuh (trên chiếc thuyền trong trận đại hồng thủy). Quả thật, Y (Nuh) là một người bề tôi biết ơn.",
+  "footnotes": ""
 }

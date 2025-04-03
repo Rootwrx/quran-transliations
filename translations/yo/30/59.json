@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3468",
-    "sura": "30",
-    "aya": "59",
-    "arabic_text": "كَذَٰلِكَ يَطۡبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعۡلَمُونَ",
-    "translation": "Báyẹn ni Allāhu ṣe ń fi èdídí dí ọkàn àwọn tí kò nímọ̀.",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 410,
+  "verse_key": "30:59",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَٰلِكَ يَطۡبَعُ ٱللَّهُ عَلَىٰ قُلُوبِ ٱلَّذِينَ لَا يَعۡلَمُونَ",
+  "translation": "Báyẹn ni Allāhu ṣe ń fi èdídí dí ọkàn àwọn tí kò nímọ̀.",
+  "footnotes": ""
 }

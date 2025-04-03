@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "636",
-    "sura": "4",
-    "aya": "143",
-    "arabic_text": "مُّذَبۡذَبِينَ بَيۡنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِۚ وَمَن يُضۡلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلٗا",
-    "translation": " (İman ile küfür) arasında tereddüttedirler, ne müminlere ne de kâfirlere (bağlıdırlar.) Allah, kimi saptırırsa ona asla (hidayetin) bir yolunu bulamazsın.",
-    "footnotes": null
-  }
+  "id": 143,
+  "verse_number": 143,
+  "page_number": 101,
+  "verse_key": "4:143",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 40,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مُّذَبۡذَبِينَ بَيۡنَ ذَٰلِكَ لَآ إِلَىٰ هَٰٓؤُلَآءِ وَلَآ إِلَىٰ هَٰٓؤُلَآءِۚ وَمَن يُضۡلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلٗا",
+  "translation": " (İman ile küfür) arasında tereddüttedirler, ne müminlere ne de kâfirlere (bağlıdırlar.) Allah, kimi saptırırsa ona asla (hidayetin) bir yolunu bulamazsın.",
+  "footnotes": null
 }

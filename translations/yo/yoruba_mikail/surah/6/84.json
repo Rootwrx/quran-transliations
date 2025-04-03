@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "873",
-    "sura": "6",
-    "aya": "84",
-    "arabic_text": "وَوَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَۚ كُلًّا هَدَيۡنَاۚ وَنُوحًا هَدَيۡنَا مِن قَبۡلُۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيۡمَٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَٰرُونَۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
-    "translation": "Àti pé A ta á lọ́rẹ (Ànábì) ’Ishāƙ àti Ya‘ƙūb (tí ó jẹ́ ọmọ ’Ishāƙ). Ìkọ̀ọ̀kan wọn ni A fi mọ̀nà. A sì fi (Ànábì) Nūh mọ̀nà ṣíwájú. Àti pé nínú àrọ́mọdọ́mọ (Ànábì ’Ibrọ̄hīm tí A fi mọ̀nà ni àwọn Ànábì) Dāwūd, Sulaemọ̄n, ’Ayyūb, Yūsuf, Mūsā àti Hārūn. Báyẹn ni A ṣe ń san àwọn olùṣe-rere ní ẹ̀san (rere).",
-    "footnotes": ""
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 138,
+  "verse_key": "6:84",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 55,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَۚ كُلًّا هَدَيۡنَاۚ وَنُوحًا هَدَيۡنَا مِن قَبۡلُۖ وَمِن ذُرِّيَّتِهِۦ دَاوُۥدَ وَسُلَيۡمَٰنَ وَأَيُّوبَ وَيُوسُفَ وَمُوسَىٰ وَهَٰرُونَۚ وَكَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+  "translation": "Àti pé A ta á lọ́rẹ (Ànábì) ’Ishāƙ àti Ya‘ƙūb (tí ó jẹ́ ọmọ ’Ishāƙ). Ìkọ̀ọ̀kan wọn ni A fi mọ̀nà. A sì fi (Ànábì) Nūh mọ̀nà ṣíwájú. Àti pé nínú àrọ́mọdọ́mọ (Ànábì ’Ibrọ̄hīm tí A fi mọ̀nà ni àwọn Ànábì) Dāwūd, Sulaemọ̄n, ’Ayyūb, Yūsuf, Mūsā àti Hārūn. Báyẹn ni A ṣe ń san àwọn olùṣe-rere ní ẹ̀san (rere).",
+  "footnotes": ""
 }

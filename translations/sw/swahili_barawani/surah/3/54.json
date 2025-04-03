@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "347",
-    "sura": "3",
-    "aya": "54",
-    "arabic_text": "وَمَكَرُواْ وَمَكَرَ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
-    "translation": "Na Makafiri walipanga mipango na Mwenyezi Mungu akapanga mipango, na Mwenyezi Mungu ndiye mbora wa wenye kupanga.",
-    "footnotes": "Ama hao makafiri wapinzani walipanga njama za chini kwa chini kuupiga vita wito (Da'wa) wa Isa. Mwenyezi Mungu alizibat'ilisha njama zao, wasifanikiwe kuyapata waliyo yakusudia. Na Mwenyezi Mungu kwa hikima yake anawashinda watu wote wafanyao hila."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 57,
+  "verse_key": "3:54",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَكَرُواْ وَمَكَرَ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
+  "translation": "Na Makafiri walipanga mipango na Mwenyezi Mungu akapanga mipango, na Mwenyezi Mungu ndiye mbora wa wenye kupanga.",
+  "footnotes": "Ama hao makafiri wapinzani walipanga njama za chini kwa chini kuupiga vita wito (Da'wa) wa Isa. Mwenyezi Mungu alizibat'ilisha njama zao, wasifanikiwe kuyapata waliyo yakusudia. Na Mwenyezi Mungu kwa hikima yake anawashinda watu wote wafanyao hila."
 }

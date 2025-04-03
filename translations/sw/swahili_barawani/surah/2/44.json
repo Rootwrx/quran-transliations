@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "51",
-    "sura": "2",
-    "aya": "44",
-    "arabic_text": "۞ أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَٰبَۚ أَفَلَا تَعۡقِلُونَ",
-    "translation": "Je! Mnawaamrisha watu mema na mnajisahau nafsi zenu, na hali nyinyi mnasoma Kitabu? Basi je, hamzingatii?",
-    "footnotes": "Je, mnawataka watu wafanye kheri, na wajilazimishe ut'iifu, na waache maasia, kisha nyinyi hamtendi myasemayo, wala hamjilazimishi nafsi zenu kwa yale myatakayo? Kwa hivi mnajipoteza nafsi zenu, kama kwamba mmezisahau, na ilhali nyinyi mnasoma Taurati na ndani yake pana maonyo na mikemeo kwa mwenye kusema asilo litenda. Basi nyinyi hamna akili ya kukuzuieni na kwenda mwendo huu wa kutukanisha?"
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 7,
+  "verse_key": "2:44",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَٰبَۚ أَفَلَا تَعۡقِلُونَ",
+  "translation": "Je! Mnawaamrisha watu mema na mnajisahau nafsi zenu, na hali nyinyi mnasoma Kitabu? Basi je, hamzingatii?",
+  "footnotes": "Je, mnawataka watu wafanye kheri, na wajilazimishe ut'iifu, na waache maasia, kisha nyinyi hamtendi myasemayo, wala hamjilazimishi nafsi zenu kwa yale myatakayo? Kwa hivi mnajipoteza nafsi zenu, kama kwamba mmezisahau, na ilhali nyinyi mnasoma Taurati na ndani yake pana maonyo na mikemeo kwa mwenye kusema asilo litenda. Basi nyinyi hamna akili ya kukuzuieni na kwenda mwendo huu wa kutukanisha?"
 }

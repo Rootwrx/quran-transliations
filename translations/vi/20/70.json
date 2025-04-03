@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2418",
-    "sura": "20",
-    "aya": "70",
-    "arabic_text": "فَأُلۡقِيَ ٱلسَّحَرَةُ سُجَّدٗا قَالُوٓاْ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ",
-    "translation": "Thế rồi những tên pháp sư hạ mình xuống phủ phục. Họ nói: “Chúng tôi tin tưởng nơi Thượng Đế của Harun và Musa.”",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 316,
+  "verse_key": "20:70",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأُلۡقِيَ ٱلسَّحَرَةُ سُجَّدٗا قَالُوٓاْ ءَامَنَّا بِرَبِّ هَٰرُونَ وَمُوسَىٰ",
+  "translation": "Thế rồi những tên pháp sư hạ mình xuống phủ phục. Họ nói: “Chúng tôi tin tưởng nơi Thượng Đế của Harun và Musa.”",
+  "footnotes": ""
 }

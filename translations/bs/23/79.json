@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2752",
-    "sura": "23",
-    "aya": "79",
-    "arabic_text": "وَهُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ",
-    "translation": "On je Taj Koji vas rasija po Zemlji, i k Njemu ćete biti sakupljeni,",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 347,
+  "verse_key": "23:79",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِي ذَرَأَكُمۡ فِي ٱلۡأَرۡضِ وَإِلَيۡهِ تُحۡشَرُونَ",
+  "translation": "On je Taj Koji vas rasija po Zemlji, i k Njemu ćete biti sakupljeni,",
+  "footnotes": ""
 }

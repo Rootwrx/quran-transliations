@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3623",
-    "sura": "34",
-    "aya": "17",
-    "arabic_text": "ذَٰلِكَ جَزَيۡنَٰهُم بِمَا كَفَرُواْۖ وَهَلۡ نُجَٰزِيٓ إِلَّا ٱلۡكَفُورَ",
-    "translation": "Ìyẹn ni A fi san wọ́n ní ẹ̀san nítorí pé, wọ́n ṣàì moore. Ǹjẹ́ A máa san ẹnì kan lẹ́san ìyà bí kò ṣe aláìmoore?",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 430,
+  "verse_key": "34:17",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ جَزَيۡنَٰهُم بِمَا كَفَرُواْۖ وَهَلۡ نُجَٰزِيٓ إِلَّا ٱلۡكَفُورَ",
+  "translation": "Ìyẹn ni A fi san wọ́n ní ẹ̀san nítorí pé, wọ́n ṣàì moore. Ǹjẹ́ A máa san ẹnì kan lẹ́san ìyà bí kò ṣe aláìmoore?",
+  "footnotes": ""
 }

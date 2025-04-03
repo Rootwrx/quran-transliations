@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6183",
-    "sura": "104",
-    "aya": "4",
-    "arabic_text": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
-    "translation": "4 C’est plutôt dans la Houtamah[1607] qu’il sera précipité.",
-    "footnotes": "[1607] L’un des noms de l’Enfer tiré de l’arabe « Hatama » qui signifie : briser, broyer, écraser."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 601,
+  "verse_key": "104:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
+  "translation": "4 C’est plutôt dans la Houtamah[1607] qu’il sera précipité.",
+  "footnotes": "[1607] L’un des noms de l’Enfer tiré de l’arabe « Hatama » qui signifie : briser, broyer, écraser."
 }

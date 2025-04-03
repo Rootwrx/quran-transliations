@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1550",
-    "sura": "11",
-    "aya": "77",
-    "arabic_text": "وَلَمَّا جَآءَتۡ رُسُلُنَا لُوطٗا سِيٓءَ بِهِمۡ وَضَاقَ بِهِمۡ ذَرۡعٗا وَقَالَ هَٰذَا يَوۡمٌ عَصِيبٞ",
-    "translation": "77.Markay Rusushayadii (malaa'igta ahayd) u yimaadeen Luud. Wuu ka walbahaaray20 wuuna la  cidhiidhyamay, wuxuuna yidhi: Kani waa Maalin daran.",
-    "footnotes": "20. Wuxuu dareemay Nabi Luud welwel iyo walbahaar markay yimaadeen Rusushaa Alle (ee malaa’igta aheyd), waayo waxay ku yimadeen qaab iyo muuqaal niman dhallinyaro ahoo qurux badan, waxayna jeclaayeen qoonkii Luud dhallinyarada sidaa u qurxoon oo ku sameyn jireen falxumo. Markaasuu Luud ka welwelay taasi oo dareemay inuusan awoodin inuu difaaco hadday ku soo xadgudbaan qoomkiisa nimankaa dhallinyarada ah. Nabi Luud wuxuu u cabsaday bed qabidda iyo sharafta martidiisa."
-  }
+  "id": 77,
+  "verse_number": 77,
+  "page_number": 230,
+  "verse_key": "11:77",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا جَآءَتۡ رُسُلُنَا لُوطٗا سِيٓءَ بِهِمۡ وَضَاقَ بِهِمۡ ذَرۡعٗا وَقَالَ هَٰذَا يَوۡمٌ عَصِيبٞ",
+  "translation": "77.Markay Rusushayadii (malaa'igta ahayd) u yimaadeen Luud. Wuu ka walbahaaray20 wuuna la  cidhiidhyamay, wuxuuna yidhi: Kani waa Maalin daran.",
+  "footnotes": "20. Wuxuu dareemay Nabi Luud welwel iyo walbahaar markay yimaadeen Rusushaa Alle (ee malaa’igta aheyd), waayo waxay ku yimadeen qaab iyo muuqaal niman dhallinyaro ahoo qurux badan, waxayna jeclaayeen qoonkii Luud dhallinyarada sidaa u qurxoon oo ku sameyn jireen falxumo. Markaasuu Luud ka welwelay taasi oo dareemay inuusan awoodin inuu difaaco hadday ku soo xadgudbaan qoomkiisa nimankaa dhallinyarada ah. Nabi Luud wuxuu u cabsaday bed qabidda iyo sharafta martidiisa."
 }

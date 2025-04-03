@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5657",
-    "sura": "77",
-    "aya": "35",
-    "arabic_text": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ",
-    "translation": "35. Dat zal een dag zijn wanneer zij niet zullen spreken.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 581,
+  "verse_key": "77:35",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا يَوۡمُ لَا يَنطِقُونَ",
+  "translation": "35. Dat zal een dag zijn wanneer zij niet zullen spreken.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "500",
-    "sura": "4",
-    "aya": "7",
-    "arabic_text": "لِّلرِّجَالِ نَصِيبٞ مِّمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَ وَلِلنِّسَآءِ نَصِيبٞ مِّمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَ مِمَّا قَلَّ مِنۡهُ أَوۡ كَثُرَۚ نَصِيبٗا مَّفۡرُوضٗا",
-    "translation": "Đàn ông được quyền hưởng gia tài của cha mẹ và bà con ruột thịt để lại (sau khi họ qua đời), và phụ nữ cũng được quyền hưởng gia tài của cha mẹ và bà con ruột thịt để lại (sau khi họ qua đời), dù ít hay nhiều[7]. (Đó là) giáo luật bắt buộc (từ Allah).",
-    "footnotes": "[7] Sở dĩ Islam quy định rõ ràng giáo luật này là bởi vì trong thời tiền Islam phụ nữ và trẻ em bị tước quyền thừa kế."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 78,
+  "verse_key": "4:7",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّلرِّجَالِ نَصِيبٞ مِّمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَ وَلِلنِّسَآءِ نَصِيبٞ مِّمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَ مِمَّا قَلَّ مِنۡهُ أَوۡ كَثُرَۚ نَصِيبٗا مَّفۡرُوضٗا",
+  "translation": "Đàn ông được quyền hưởng gia tài của cha mẹ và bà con ruột thịt để lại (sau khi họ qua đời), và phụ nữ cũng được quyền hưởng gia tài của cha mẹ và bà con ruột thịt để lại (sau khi họ qua đời), dù ít hay nhiều[7]. (Đó là) giáo luật bắt buộc (từ Allah).",
+  "footnotes": "[7] Sở dĩ Islam quy định rõ ràng giáo luật này là bởi vì trong thời tiền Islam phụ nữ và trẻ em bị tước quyền thừa kế."
 }

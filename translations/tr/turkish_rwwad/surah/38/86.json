@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4056",
-    "sura": "38",
-    "aya": "86",
-    "arabic_text": "قُلۡ مَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٖ وَمَآ أَنَا۠ مِنَ ٱلۡمُتَكَلِّفِينَ",
-    "translation": "De ki: \"Ben sizden bir ücret istemiyorum. Kendiliğimden bir yükümlülük getirenlerden de değilim.\"",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 458,
+  "verse_key": "38:86",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٖ وَمَآ أَنَا۠ مِنَ ٱلۡمُتَكَلِّفِينَ",
+  "translation": "De ki: \"Ben sizden bir ücret istemiyorum. Kendiliğimden bir yükümlülük getirenlerden de değilim.\"",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4144",
-    "sura": "40",
-    "aya": "11",
-    "arabic_text": "قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ",
-    "translation": "Abagarariji rero bazovuga bati: “Mana yacu Rurema Allah! Watwishe incuro zibiri[2], Udusubiza n’ubuzima incuro zibiri nyene[3]; ubu rero turemanze ivyaha vyacu twakoze; mbega none, nta kuntu twoshobora kuva mu muriro udahera, maze tugasubira kw’isi tugaheza tukakwumvira!”. Ico gihe rero, ukwemanga kw’ivyaha vyabo nta co kuzobamarira;",
-    "footnotes": "[2] Igihe twari tukiri intanga tutarahuhirwamwo inkomoko y’ubuzima “Roho”, n’igihe ikiringo co kubaho kwacu kw’isi kirangiriye.\n[3] Igihe duhuhiriwemwo inkomoko y’ubuzima “Roho” tukabaho kw’isi, n’igihe dusubirijwe ubuzima tukazuka."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 468,
+  "verse_key": "40:11",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ رَبَّنَآ أَمَتَّنَا ٱثۡنَتَيۡنِ وَأَحۡيَيۡتَنَا ٱثۡنَتَيۡنِ فَٱعۡتَرَفۡنَا بِذُنُوبِنَا فَهَلۡ إِلَىٰ خُرُوجٖ مِّن سَبِيلٖ",
+  "translation": "Abagarariji rero bazovuga bati: “Mana yacu Rurema Allah! Watwishe incuro zibiri[2], Udusubiza n’ubuzima incuro zibiri nyene[3]; ubu rero turemanze ivyaha vyacu twakoze; mbega none, nta kuntu twoshobora kuva mu muriro udahera, maze tugasubira kw’isi tugaheza tukakwumvira!”. Ico gihe rero, ukwemanga kw’ivyaha vyabo nta co kuzobamarira;",
+  "footnotes": "[2] Igihe twari tukiri intanga tutarahuhirwamwo inkomoko y’ubuzima “Roho”, n’igihe ikiringo co kubaho kwacu kw’isi kirangiriye.\n[3] Igihe duhuhiriwemwo inkomoko y’ubuzima “Roho” tukabaho kw’isi, n’igihe dusubirijwe ubuzima tukazuka."
 }

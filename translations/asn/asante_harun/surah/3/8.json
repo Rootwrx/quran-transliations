@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "301",
-    "sura": "3",
-    "aya": "8",
-    "arabic_text": "رَبَّنَا لَا تُزِغۡ قُلُوبَنَا بَعۡدَ إِذۡ هَدَيۡتَنَا وَهَبۡ لَنَا مِن لَّدُنكَ رَحۡمَةًۚ إِنَّكَ أَنتَ ٱلۡوَهَّابُ",
-    "translation": "Ye’Wura Nyankopͻn, εmma y’akoma mmane (mfri ͻkwan pa no so) wͻ akyire yi a W’akyerε yεn kwan tenenee no, na fa ahummͻborͻ a efri Wo hͻ no dom yεn, nokorε sε, Wone Ɔkyε adeε Hene no.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 50,
+  "verse_key": "3:8",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبَّنَا لَا تُزِغۡ قُلُوبَنَا بَعۡدَ إِذۡ هَدَيۡتَنَا وَهَبۡ لَنَا مِن لَّدُنكَ رَحۡمَةًۚ إِنَّكَ أَنتَ ٱلۡوَهَّابُ",
+  "translation": "Ye’Wura Nyankopͻn, εmma y’akoma mmane (mfri ͻkwan pa no so) wͻ akyire yi a W’akyerε yεn kwan tenenee no, na fa ahummͻborͻ a efri Wo hͻ no dom yεn, nokorε sε, Wone Ɔkyε adeε Hene no.",
+  "footnotes": ""
 }

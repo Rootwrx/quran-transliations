@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1496",
-    "sura": "11",
-    "aya": "23",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَخۡبَتُوٓاْ إِلَىٰ رَبِّهِمۡ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ",
-    "translation": "İman edip, salih amel işleyenler ve Rab’lerine boyun eğenler, onlar cennet halkıdırlar. Onlar orada ebedi kalacaklardır.",
-    "footnotes": null
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 224,
+  "verse_key": "11:23",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَأَخۡبَتُوٓاْ إِلَىٰ رَبِّهِمۡ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+  "translation": "İman edip, salih amel işleyenler ve Rab’lerine boyun eğenler, onlar cennet halkıdırlar. Onlar orada ebedi kalacaklardır.",
+  "footnotes": null
 }

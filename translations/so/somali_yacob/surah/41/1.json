@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4219",
-    "sura": "41",
-    "aya": "1",
-    "arabic_text": "حمٓ",
-    "translation": "1. Xaa Miim.2",
-    "footnotes": "1. Fussilat : (Aayado cad).Waxaa sidoo kale Suuraddan lagu magacaabaa Xaa Miim As-Sajdah.\n 2. Eeg sharaxa hoose ee Suuradda 2: Aayadda 1."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 477,
+  "verse_key": "41:1",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حمٓ",
+  "translation": "1. Xaa Miim.2",
+  "footnotes": "1. Fussilat : (Aayado cad).Waxaa sidoo kale Suuraddan lagu magacaabaa Xaa Miim As-Sajdah.\n 2. Eeg sharaxa hoose ee Suuradda 2: Aayadda 1."
 }

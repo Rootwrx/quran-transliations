@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "428",
-    "sura": "3",
-    "aya": "135",
-    "arabic_text": "وَٱلَّذِينَ إِذَا فَعَلُواْ فَٰحِشَةً أَوۡ ظَلَمُوٓاْ أَنفُسَهُمۡ ذَكَرُواْ ٱللَّهَ فَٱسۡتَغۡفَرُواْ لِذُنُوبِهِمۡ وَمَن يَغۡفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمۡ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمۡ يَعۡلَمُونَ",
-    "translation": "135. Kuwa markay falaan xumaan ama dulmiyaan nafahooda24, xusuusta Alle, weydiistana in laga dhaafo denbiyadooda; yaa dhaafa denbiyada aan Alle aheyn, oo aan kas iyo ogaal ugu adkeysan waxay faleen (oo denbi ah).",
-    "footnotes": "24. Waxaa loo jeedaa faaxishada denbiga weyn ee ciribta xun, cirib xumadiisana ku koobneyn falaha oo keliya bal saameysa dadka kale, sida zinada, xatooyada, ribada, waxaa se loola jeedaa dulminta nafta inaad fasho dunuub gef ah uu qofku ka galo naf ahaantiisa ha ahaado denbi yar ama mid weyn sida cabbitaanka khamriga, iwm."
-  }
+  "id": 135,
+  "verse_number": 135,
+  "page_number": 67,
+  "verse_key": "3:135",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ إِذَا فَعَلُواْ فَٰحِشَةً أَوۡ ظَلَمُوٓاْ أَنفُسَهُمۡ ذَكَرُواْ ٱللَّهَ فَٱسۡتَغۡفَرُواْ لِذُنُوبِهِمۡ وَمَن يَغۡفِرُ ٱلذُّنُوبَ إِلَّا ٱللَّهُ وَلَمۡ يُصِرُّواْ عَلَىٰ مَا فَعَلُواْ وَهُمۡ يَعۡلَمُونَ",
+  "translation": "135. Kuwa markay falaan xumaan ama dulmiyaan nafahooda24, xusuusta Alle, weydiistana in laga dhaafo denbiyadooda; yaa dhaafa denbiyada aan Alle aheyn, oo aan kas iyo ogaal ugu adkeysan waxay faleen (oo denbi ah).",
+  "footnotes": "24. Waxaa loo jeedaa faaxishada denbiga weyn ee ciribta xun, cirib xumadiisana ku koobneyn falaha oo keliya bal saameysa dadka kale, sida zinada, xatooyada, ribada, waxaa se loola jeedaa dulminta nafta inaad fasho dunuub gef ah uu qofku ka galo naf ahaantiisa ha ahaado denbi yar ama mid weyn sida cabbitaanka khamriga, iwm."
 }

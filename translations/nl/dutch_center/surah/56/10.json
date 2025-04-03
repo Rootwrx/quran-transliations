@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4989",
-    "sura": "56",
-    "aya": "10",
-    "arabic_text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
-    "translation": "10. En de eersten in het goede (de metgezellen en die hun eerlijk volgen) zij zullen de eersten zijn (die slagen).",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 534,
+  "verse_key": "56:10",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلسَّٰبِقُونَ ٱلسَّٰبِقُونَ",
+  "translation": "10. En de eersten in het goede (de metgezellen en die hun eerlijk volgen) zij zullen de eersten zijn (die slagen).",
+  "footnotes": ""
 }

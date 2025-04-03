@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5052",
-    "sura": "56",
-    "aya": "73",
-    "arabic_text": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ",
-    "translation": "(73) We have made it a reminder[1616] and provision for the travelers,[1617]",
-    "footnotes": "[1616]- Of the great fire of Hell.\n[1617]- In the form of flints or other means by which to ignite fire.  Travelers are mentioned because of the special convenience to them, although it is a provision for all people in general."
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 536,
+  "verse_key": "56:73",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نَحۡنُ جَعَلۡنَٰهَا تَذۡكِرَةٗ وَمَتَٰعٗا لِّلۡمُقۡوِينَ",
+  "translation": "(73) We have made it a reminder[1616] and provision for the travelers,[1617]",
+  "footnotes": "[1616]- Of the great fire of Hell.\n[1617]- In the form of flints or other means by which to ignite fire.  Travelers are mentioned because of the special convenience to them, although it is a provision for all people in general."
 }

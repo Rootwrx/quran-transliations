@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5928",
-    "sura": "85",
-    "aya": "19",
-    "arabic_text": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي تَكۡذِيبٖ",
-    "translation": "Жок, каапырлар (дагы эле, Куранды жана кайра тирилүүнү) «жалган» дешүүдө.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 590,
+  "verse_key": "85:19",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلِ ٱلَّذِينَ كَفَرُواْ فِي تَكۡذِيبٖ",
+  "translation": "Жок, каапырлар (дагы эле, Куранды жана кайра тирилүүнү) «жалган» дешүүдө.",
+  "footnotes": ""
 }

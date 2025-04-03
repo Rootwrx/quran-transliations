@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1107",
-    "sura": "7",
-    "aya": "153",
-    "arabic_text": "وَٱلَّذِينَ عَمِلُواْ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُواْ مِنۢ بَعۡدِهَا وَءَامَنُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٞ",
-    "translation": "Na walio tenda maovu, kisha wakatubia baada yake na wakaamini, hapana shaka kuwa Mola Mlezi wako baada ya hayo ni Mwenye kusamehe Mwenye kurehemu.",
-    "footnotes": "Na wale walio tenda vitendo vibaya vya ukafiri na kuabudu ndama na maasi mengineyo, kisha wakarejea kwa Mwenyezi Mungu baada ya kutenda hayo, na wakamsadiki, basi hakika Mola wako Mlezi baada ya toba yao, ni Mwenye kuwasitiri, na kuwasamehe kwa hayo waliyo kuwa nayo."
-  }
+  "id": 153,
+  "verse_number": 153,
+  "page_number": 169,
+  "verse_key": "7:153",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 67,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ عَمِلُواْ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُواْ مِنۢ بَعۡدِهَا وَءَامَنُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٞ",
+  "translation": "Na walio tenda maovu, kisha wakatubia baada yake na wakaamini, hapana shaka kuwa Mola Mlezi wako baada ya hayo ni Mwenye kusamehe Mwenye kurehemu.",
+  "footnotes": "Na wale walio tenda vitendo vibaya vya ukafiri na kuabudu ndama na maasi mengineyo, kisha wakarejea kwa Mwenyezi Mungu baada ya kutenda hayo, na wakamsadiki, basi hakika Mola wako Mlezi baada ya toba yao, ni Mwenye kuwasitiri, na kuwasamehe kwa hayo waliyo kuwa nayo."
 }

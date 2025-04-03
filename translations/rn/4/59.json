@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "552",
-    "sura": "4",
-    "aya": "59",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا",
-    "translation": "Emwe bemeye Imana Allah n’Intumwa yayo bakubahiriza n’amabwirizwa yayo! Nimwumvire Imana Allah ntimukagabitanye, mwumvire n’Intumwa yayo (nyakugira amahoro n’impuhwe z’Imana Allah) mu vyo ibashikirije, muheze mwumvire n’indongozi muri mwebwe mu bidaciye kubiri n’amabwirizwa y’Imana Allah. Nimwahazana ku ngingo y’ikintu ico ari co cose, muraca mugaruka ku ngingo iri mu Gitabu c’Imana Allah n’inyigisho z’intumwa nimwaba mwemera vy’ukuri Imana Allah n’umusi w’iherezo. Ivyo, ni vyo vyiza cane kuri mwebwe ha guhazana, ni na yo ngingo ibereye ha kwisunga ivyiyumviro vyanyu mu gufata ingingo.",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 87,
+  "verse_key": "4:59",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا",
+  "translation": "Emwe bemeye Imana Allah n’Intumwa yayo bakubahiriza n’amabwirizwa yayo! Nimwumvire Imana Allah ntimukagabitanye, mwumvire n’Intumwa yayo (nyakugira amahoro n’impuhwe z’Imana Allah) mu vyo ibashikirije, muheze mwumvire n’indongozi muri mwebwe mu bidaciye kubiri n’amabwirizwa y’Imana Allah. Nimwahazana ku ngingo y’ikintu ico ari co cose, muraca mugaruka ku ngingo iri mu Gitabu c’Imana Allah n’inyigisho z’intumwa nimwaba mwemera vy’ukuri Imana Allah n’umusi w’iherezo. Ivyo, ni vyo vyiza cane kuri mwebwe ha guhazana, ni na yo ngingo ibereye ha kwisunga ivyiyumviro vyanyu mu gufata ingingo.",
+  "footnotes": ""
 }

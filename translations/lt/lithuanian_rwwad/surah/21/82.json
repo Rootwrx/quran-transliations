@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2565",
-    "sura": "21",
-    "aya": "82",
-    "arabic_text": "وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعۡمَلُونَ عَمَلٗا دُونَ ذَٰلِكَۖ وَكُنَّا لَهُمۡ حَٰفِظِينَ",
-    "translation": "82. Ir iš Šajatin (velnių, iš džinų tarpo), buvo kai kurie, kurie nėrė pas jį, ir darė kitus darbus be to, ir tai buvome Mes, kurie vedė juos.",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 329,
+  "verse_key": "21:82",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلشَّيَٰطِينِ مَن يَغُوصُونَ لَهُۥ وَيَعۡمَلُونَ عَمَلٗا دُونَ ذَٰلِكَۖ وَكُنَّا لَهُمۡ حَٰفِظِينَ",
+  "translation": "82. Ir iš Šajatin (velnių, iš džinų tarpo), buvo kai kurie, kurie nėrė pas jį, ir darė kitus darbus be to, ir tai buvome Mes, kurie vedė juos.",
+  "footnotes": ""
 }

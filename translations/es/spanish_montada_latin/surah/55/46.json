@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4947",
-    "sura": "55",
-    "aya": "46",
-    "arabic_text": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
-    "translation": "46. Mas quien haya temido comparecer ante su Señor (y haya obrado bien) tendrá dos jardines.",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 533,
+  "verse_key": "55:46",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِمَنۡ خَافَ مَقَامَ رَبِّهِۦ جَنَّتَانِ",
+  "translation": "46. Mas quien haya temido comparecer ante su Señor (y haya obrado bien) tendrá dos jardines.",
+  "footnotes": ""
 }

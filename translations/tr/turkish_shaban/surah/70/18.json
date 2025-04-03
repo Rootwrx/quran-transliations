@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5393",
-    "sura": "70",
-    "aya": "18",
-    "arabic_text": "وَجَمَعَ فَأَوۡعَىٰٓ",
-    "translation": " Malını toplayıp yığanı…",
-    "footnotes": null
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 569,
+  "verse_key": "70:18",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَمَعَ فَأَوۡعَىٰٓ",
+  "translation": " Malını toplayıp yığanı…",
+  "footnotes": null
 }

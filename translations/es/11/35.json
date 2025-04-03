@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1508",
-    "sura": "11",
-    "aya": "35",
-    "arabic_text": "أَمۡ يَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ إِنِ ٱفۡتَرَيۡتُهُۥ فَعَلَيَّ إِجۡرَامِي وَأَنَا۠ بَرِيٓءٞ مِّمَّا تُجۡرِمُونَ",
-    "translation": "35. Dicen [los idólatras de La Meca]: “Él lo inventó”[1]. Diles [¡Oh, Mujámmad!]: “Si yo lo hubiera inventado, sobre mí recaerían las consecuencias de mi delito, y soy inocente del delito [de incredulidad] que ustedes cometen”.",
-    "footnotes": "[1] Al Sagrado Corán."
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 225,
+  "verse_key": "11:35",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ يَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ إِنِ ٱفۡتَرَيۡتُهُۥ فَعَلَيَّ إِجۡرَامِي وَأَنَا۠ بَرِيٓءٞ مِّمَّا تُجۡرِمُونَ",
+  "translation": "35. Dicen [los idólatras de La Meca]: “Él lo inventó”[1]. Diles [¡Oh, Mujámmad!]: “Si yo lo hubiera inventado, sobre mí recaerían las consecuencias de mi delito, y soy inocente del delito [de incredulidad] que ustedes cometen”.",
+  "footnotes": "[1] Al Sagrado Corán."
 }

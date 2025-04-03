@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1867",
-    "sura": "15",
-    "aya": "65",
-    "arabic_text": "فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَٱتَّبِعۡ أَدۡبَٰرَهُمۡ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٞ وَٱمۡضُواْ حَيۡثُ تُؤۡمَرُونَ",
-    "translation": "\"Sai ka yi tafiya da iyãlinka, a wani yanki na dare, kuma ka bi bãyansu, kuma kada wani daga cikinku ya yi waiwaye, kuma ku bi ta inda aka aumurce ku.\"",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 265,
+  "verse_key": "15:65",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَٱتَّبِعۡ أَدۡبَٰرَهُمۡ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٞ وَٱمۡضُواْ حَيۡثُ تُؤۡمَرُونَ",
+  "translation": "\"Sai ka yi tafiya da iyãlinka, a wani yanki na dare, kuma ka bi bãyansu, kuma kada wani daga cikinku ya yi waiwaye, kuma ku bi ta inda aka aumurce ku.\"",
+  "footnotes": ""
 }

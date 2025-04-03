@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "476",
-    "sura": "3",
-    "aya": "183",
-    "arabic_text": "ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ عَهِدَ إِلَيۡنَآ أَلَّا نُؤۡمِنَ لِرَسُولٍ حَتَّىٰ يَأۡتِيَنَا بِقُرۡبَانٖ تَأۡكُلُهُ ٱلنَّارُۗ قُلۡ قَدۡ جَآءَكُمۡ رُسُلٞ مِّن قَبۡلِي بِٱلۡبَيِّنَٰتِ وَبِٱلَّذِي قُلۡتُمۡ فَلِمَ قَتَلۡتُمُوهُمۡ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "Walio sema: Mwenyezi Mungu ametuahidi tusimuamini Mtume yeyote mpaka atuletee kafara inayo teketezwa na moto. Waambie: Walikujieni Mitume kabla yangu kwa hoja zilizo wazi na kwa hayo mnayo sema, basi kwa nini mkawauwa ikiwa mlikuwa wakweli?.",
-    "footnotes": "Hao ndio walio sema: Mwenyezi Mungu ametuamrisha katika Taurati tusimfuate Mtume yeyote ila akileta dalili ya ukweli wake kwa kutuletea kitu cha kumkurubisha kwenye radhi ya Mwenyezi Mungu, na uteremke moto kutoka mbinguni ukile hicho kitu. Ewe Nabii! Waambie: Hakika Mitume kutoka kwa Mwenyezi Mungu wamekwisha kukujieni kabla yangu, wakaja na dalili zilizo wazi, na wakaja na hayo mnayo yasema. Na juu ya hayo mliwakadhibisha na mkawauwa. Kwa nini mkafanya hayo kama nyinyi ni wasema kweli katika ahadi yenu ya Imani yanapo timia mnayo yataka?"
-  }
+  "id": 183,
+  "verse_number": 183,
+  "page_number": 74,
+  "verse_key": "3:183",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 29,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ عَهِدَ إِلَيۡنَآ أَلَّا نُؤۡمِنَ لِرَسُولٍ حَتَّىٰ يَأۡتِيَنَا بِقُرۡبَانٖ تَأۡكُلُهُ ٱلنَّارُۗ قُلۡ قَدۡ جَآءَكُمۡ رُسُلٞ مِّن قَبۡلِي بِٱلۡبَيِّنَٰتِ وَبِٱلَّذِي قُلۡتُمۡ فَلِمَ قَتَلۡتُمُوهُمۡ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "Walio sema: Mwenyezi Mungu ametuahidi tusimuamini Mtume yeyote mpaka atuletee kafara inayo teketezwa na moto. Waambie: Walikujieni Mitume kabla yangu kwa hoja zilizo wazi na kwa hayo mnayo sema, basi kwa nini mkawauwa ikiwa mlikuwa wakweli?.",
+  "footnotes": "Hao ndio walio sema: Mwenyezi Mungu ametuamrisha katika Taurati tusimfuate Mtume yeyote ila akileta dalili ya ukweli wake kwa kutuletea kitu cha kumkurubisha kwenye radhi ya Mwenyezi Mungu, na uteremke moto kutoka mbinguni ukile hicho kitu. Ewe Nabii! Waambie: Hakika Mitume kutoka kwa Mwenyezi Mungu wamekwisha kukujieni kabla yangu, wakaja na dalili zilizo wazi, na wakaja na hayo mnayo yasema. Na juu ya hayo mliwakadhibisha na mkawauwa. Kwa nini mkafanya hayo kama nyinyi ni wasema kweli katika ahadi yenu ya Imani yanapo timia mnayo yataka?"
 }

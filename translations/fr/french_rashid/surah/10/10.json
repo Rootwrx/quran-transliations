@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1374",
-    "sura": "10",
-    "aya": "10",
-    "arabic_text": "دَعۡوَىٰهُمۡ فِيهَا سُبۡحَٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمۡ فِيهَا سَلَٰمٞۚ وَءَاخِرُ دَعۡوَىٰهُمۡ أَنِ ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "10 Là, ils ne cesseront d’exalter Allah par ces paroles : « Gloire à Toi, ô Allah » et ils s’adresseront les uns aux autres ces salutations : « Paix à vous ». Leurs invocations se termineront par ces mots : « Louange à Allah, Seigneur de la Création. »",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 209,
+  "verse_key": "10:10",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "دَعۡوَىٰهُمۡ فِيهَا سُبۡحَٰنَكَ ٱللَّهُمَّ وَتَحِيَّتُهُمۡ فِيهَا سَلَٰمٞۚ وَءَاخِرُ دَعۡوَىٰهُمۡ أَنِ ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "10 Là, ils ne cesseront d’exalter Allah par ces paroles : « Gloire à Toi, ô Allah » et ils s’adresseront les uns aux autres ces salutations : « Paix à vous ». Leurs invocations se termineront par ces mots : « Louange à Allah, Seigneur de la Création. »",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3734",
-    "sura": "36",
-    "aya": "29",
-    "arabic_text": "إِن كَانَتۡ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ فَإِذَا هُمۡ خَٰمِدُونَ",
-    "translation": "Ba ta kasance ba face tsawa guda, sa'an nan sai gã su sõmammu.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 442,
+  "verse_key": "36:29",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن كَانَتۡ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ فَإِذَا هُمۡ خَٰمِدُونَ",
+  "translation": "Ba ta kasance ba face tsawa guda, sa'an nan sai gã su sõmammu.",
+  "footnotes": ""
 }

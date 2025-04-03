@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5946",
-    "sura": "86",
-    "aya": "15",
-    "arabic_text": "إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا",
-    "translation": "নিশ্চয় সিহঁতে ভীষণ ষড়যন্ত্ৰ কৰে,",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 591,
+  "verse_key": "86:15",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُمۡ يَكِيدُونَ كَيۡدٗا",
+  "translation": "নিশ্চয় সিহঁতে ভীষণ ষড়যন্ত্ৰ কৰে,",
+  "footnotes": ""
 }

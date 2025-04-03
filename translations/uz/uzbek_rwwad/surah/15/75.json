@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1877",
-    "sura": "15",
-    "aya": "75",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّلۡمُتَوَسِّمِينَ",
-    "translation": "Албатта, бу ишда фаросатли одамлар учун оят-аломатлар бордир.",
-    "footnotes": ""
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 266,
+  "verse_key": "15:75",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّلۡمُتَوَسِّمِينَ",
+  "translation": "Албатта, бу ишда фаросатли одамлар учун оят-аломатлар бордир.",
+  "footnotes": ""
 }

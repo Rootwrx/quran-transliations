@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6034",
-    "sura": "90",
-    "aya": "11",
-    "arabic_text": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
-    "translation": "Yet he did not make his way through the steep path[3],",
-    "footnotes": "[3] He did not spend for the sake of Allah but to show off."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 594,
+  "verse_key": "90:11",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا ٱقۡتَحَمَ ٱلۡعَقَبَةَ",
+  "translation": "Yet he did not make his way through the steep path[3],",
+  "footnotes": "[3] He did not spend for the sake of Allah but to show off."
 }

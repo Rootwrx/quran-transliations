@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5633",
-    "sura": "77",
-    "aya": "11",
-    "arabic_text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ",
-    "translation": "N’igihe Intumwa zizakoranyirizwa hamwe ku gihe cyagenwe (kugira ngo zitange ubuhamya ku bo zatumweho),",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 580,
+  "verse_key": "77:11",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱلرُّسُلُ أُقِّتَتۡ",
+  "translation": "N’igihe Intumwa zizakoranyirizwa hamwe ku gihe cyagenwe (kugira ngo zitange ubuhamya ku bo zatumweho),",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "774",
-    "sura": "5",
-    "aya": "105",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ عَلَيۡكُمۡ أَنفُسَكُمۡۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهۡتَدَيۡتُمۡۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعٗا فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "Enyi mlio amini! Kilicho lazima juu yenu ni nafsi zenu. Hawakudhuruni walio potoka ikiwa nyinyi mmeongoka. Ni kwa Mwenyezi Mungu ndio marudio yenu nyote; basi atakwambieni yale mliyo kuwa mkiyatenda.",
-    "footnotes": "Enyi mlio amini! Fanyeni pupa ya kwendea kwenye matengenezo ya nafsi zenu kwa kumt'ii Mwenyezi Mungu. Upotovu wa mwengineo hautakudhuruni ikiwa nyinyi mmo kwenye uwongofu na mnalingania Haki. Na nyote nyinyi marejeo yenu ni Mwenyezi Mungu peke yake Siku ya Kiyama. Hapo atakupeni khabari ya vitendo vyenu, na kila mmoja wenu atamlipa kwa aliyo yatanguliza, na wala hapana hata mmoja atae shikwa kwa dhambi za mwenginewe."
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 125,
+  "verse_key": "5:105",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ عَلَيۡكُمۡ أَنفُسَكُمۡۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهۡتَدَيۡتُمۡۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعٗا فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "Enyi mlio amini! Kilicho lazima juu yenu ni nafsi zenu. Hawakudhuruni walio potoka ikiwa nyinyi mmeongoka. Ni kwa Mwenyezi Mungu ndio marudio yenu nyote; basi atakwambieni yale mliyo kuwa mkiyatenda.",
+  "footnotes": "Enyi mlio amini! Fanyeni pupa ya kwendea kwenye matengenezo ya nafsi zenu kwa kumt'ii Mwenyezi Mungu. Upotovu wa mwengineo hautakudhuruni ikiwa nyinyi mmo kwenye uwongofu na mnalingania Haki. Na nyote nyinyi marejeo yenu ni Mwenyezi Mungu peke yake Siku ya Kiyama. Hapo atakupeni khabari ya vitendo vyenu, na kila mmoja wenu atamlipa kwa aliyo yatanguliza, na wala hapana hata mmoja atae shikwa kwa dhambi za mwenginewe."
 }

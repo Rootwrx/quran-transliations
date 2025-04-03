@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4916",
-    "sura": "55",
-    "aya": "15",
-    "arabic_text": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ",
-    "translation": "15. Y creó a los yinn de una llama de fuego puro, sin humo.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 531,
+  "verse_key": "55:15",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَخَلَقَ ٱلۡجَآنَّ مِن مَّارِجٖ مِّن نَّارٖ",
+  "translation": "15. Y creó a los yinn de una llama de fuego puro, sin humo.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4701",
-    "sura": "51",
-    "aya": "26",
-    "arabic_text": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
-    "translation": "Ó lọ sí ọ̀dọ̀ àwọn ará ilé rẹ̀, ó sì dé pẹ̀lú ọmọ màálù tó ní ọ̀rá (tí wọ́n ti yangbẹ).",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 521,
+  "verse_key": "51:26",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَرَاغَ إِلَىٰٓ أَهۡلِهِۦ فَجَآءَ بِعِجۡلٖ سَمِينٖ",
+  "translation": "Ó lọ sí ọ̀dọ̀ àwọn ará ilé rẹ̀, ó sì dé pẹ̀lú ọmọ màálù tó ní ọ̀rá (tí wọ́n ti yangbẹ).",
+  "footnotes": ""
 }

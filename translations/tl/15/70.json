@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1872",
-    "sura": "15",
-    "aya": "70",
-    "arabic_text": "قَالُوٓاْ أَوَلَمۡ نَنۡهَكَ عَنِ ٱلۡعَٰلَمِينَ",
-    "translation": "Nagsabi sila: “Hindi ba sumaway kami sa iyo laban sa mga nilalang?”",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 265,
+  "verse_key": "15:70",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَوَلَمۡ نَنۡهَكَ عَنِ ٱلۡعَٰلَمِينَ",
+  "translation": "Nagsabi sila: “Hindi ba sumaway kami sa iyo laban sa mga nilalang?”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1773",
-    "sura": "14",
-    "aya": "23",
-    "arabic_text": "وَأُدۡخِلَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا بِإِذۡنِ رَبِّهِمۡۖ تَحِيَّتُهُمۡ فِيهَا سَلَٰمٌ",
-    "translation": "İman eden ve salih ameller işleyenler, Rablerinin izniyle, ebedî kalacakları ve içlerinden ırmaklar akan Cennetlere sokulacaklar. Oradaki esenlik dilekleri “selâm”dır.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 258,
+  "verse_key": "14:23",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأُدۡخِلَ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَا بِإِذۡنِ رَبِّهِمۡۖ تَحِيَّتُهُمۡ فِيهَا سَلَٰمٌ",
+  "translation": "İman eden ve salih ameller işleyenler, Rablerinin izniyle, ebedî kalacakları ve içlerinden ırmaklar akan Cennetlere sokulacaklar. Oradaki esenlik dilekleri “selâm”dır.",
+  "footnotes": ""
 }

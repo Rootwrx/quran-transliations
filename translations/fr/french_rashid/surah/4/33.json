@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "526",
-    "sura": "4",
-    "aya": "33",
-    "arabic_text": "وَلِكُلّٖ جَعَلۡنَا مَوَٰلِيَ مِمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَۚ وَٱلَّذِينَ عَقَدَتۡ أَيۡمَٰنُكُمۡ فَـَٔاتُوهُمۡ نَصِيبَهُمۡۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدًا",
-    "translation": "33 A chacun de vous, Nous avons assigné des héritiers, parmi ses ascendants, ses descendants et ses proches parents, auxquels revient une part des biens qu’il a laissés. Remettez également la part que vous vous êtes engagés à leur verser à ceux auxquels vous êtes liés par un pacte[261]. Allah, en vérité, est témoin de toute chose.",
-    "footnotes": "[261] Allah ordonne ici que soient honorés les engagements antérieurs, consistant pour l’homme à léguer à ses alliés une part de son héritage. Mais cette pratique, encore en vigueur au début de l’islam, fut finalement abrogée."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 83,
+  "verse_key": "4:33",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 33,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِكُلّٖ جَعَلۡنَا مَوَٰلِيَ مِمَّا تَرَكَ ٱلۡوَٰلِدَانِ وَٱلۡأَقۡرَبُونَۚ وَٱلَّذِينَ عَقَدَتۡ أَيۡمَٰنُكُمۡ فَـَٔاتُوهُمۡ نَصِيبَهُمۡۚ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدًا",
+  "translation": "33 A chacun de vous, Nous avons assigné des héritiers, parmi ses ascendants, ses descendants et ses proches parents, auxquels revient une part des biens qu’il a laissés. Remettez également la part que vous vous êtes engagés à leur verser à ceux auxquels vous êtes liés par un pacte[261]. Allah, en vérité, est témoin de toute chose.",
+  "footnotes": "[261] Allah ordonne ici que soient honorés les engagements antérieurs, consistant pour l’homme à léguer à ses alliés une part de son héritage. Mais cette pratique, encore en vigueur au début de l’islam, fut finalement abrogée."
 }

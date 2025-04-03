@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2779",
-    "sura": "23",
-    "aya": "106",
-    "arabic_text": "قَالُواْ رَبَّنَا غَلَبَتۡ عَلَيۡنَا شِقۡوَتُنَا وَكُنَّا قَوۡمٗا ضَآلِّينَ",
-    "translation": "La b na n yeele: \"d Soabã, tõnd zu-beedã wila tõndo, tɩ d yɩ neb sẽn meneme.'",
-    "footnotes": ""
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 349,
+  "verse_key": "23:106",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ رَبَّنَا غَلَبَتۡ عَلَيۡنَا شِقۡوَتُنَا وَكُنَّا قَوۡمٗا ضَآلِّينَ",
+  "translation": "La b na n yeele: \"d Soabã, tõnd zu-beedã wila tõndo, tɩ d yɩ neb sẽn meneme.'",
+  "footnotes": ""
 }

@@ -1,0 +1,27 @@
+{
+  "number": 29,
+  "name": {
+    "ar": "العنكبوت",
+    "en": "The Spider",
+    "transliteration": "Al-'Ankabut"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 85,
+  "bismillah_pre": true,
+  "verses_count": 69,
+  "words_count": 982,
+  "letters_count": 4200,
+  "pages": [
+    396,
+    404
+  ],
+  "name_simple": "Al-'Ankabut",
+  "name_complex": "Al-`Ankabūt",
+  "name_arabic": "العنكبوت",
+  "translated_name": "The Spider",
+  "start_page": 396,
+  "end_page": 404
+}

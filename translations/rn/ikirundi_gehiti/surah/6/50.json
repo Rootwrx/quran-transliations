@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "839",
-    "sura": "6",
-    "aya": "50",
-    "arabic_text": "قُل لَّآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ وَلَآ أَقُولُ لَكُمۡ إِنِّي مَلَكٌۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّۚ قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُۚ أَفَلَا تَتَفَكَّرُونَ",
-    "translation": "Ntumwa y’Imana! Bwira ababangikanyamana uti: “Jewe sindigera ndababwira ko ngaba ibigega vy’Imana Allah nkabeshaho ibiremwa, eka sindigera nigira rumenyi rw’ibinyegejwe ibiremwa, eka sindanababwira ko ndi umwami, jewe ndi Intumwa y’Imana, nkurikira ivyo mpishuriwe, ngaheza nkabishikiriza abantu”. Babwire kandi uti: “Mbega umugarariji yigenza nk’impumyi[4] atigera abona ivyemezo vy’Imana Allah ngo avyemere, ni nk’umwemeramana abona ivyemezo vy’Imana akavyemera! Mbega ntimwiyumvira ngo mubone ukuri, muheze mukwemere!”.",
-    "footnotes": "[4] Iyi ni imvugo ngereranyo igereranya umugarariji mu kutabona ukuri, n’impumyi itabona; ikagereranya umwemeramana mu kubona ukuri n’uwubona."
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 133,
+  "verse_key": "6:50",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لَّآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ وَلَآ أَقُولُ لَكُمۡ إِنِّي مَلَكٌۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّۚ قُلۡ هَلۡ يَسۡتَوِي ٱلۡأَعۡمَىٰ وَٱلۡبَصِيرُۚ أَفَلَا تَتَفَكَّرُونَ",
+  "translation": "Ntumwa y’Imana! Bwira ababangikanyamana uti: “Jewe sindigera ndababwira ko ngaba ibigega vy’Imana Allah nkabeshaho ibiremwa, eka sindigera nigira rumenyi rw’ibinyegejwe ibiremwa, eka sindanababwira ko ndi umwami, jewe ndi Intumwa y’Imana, nkurikira ivyo mpishuriwe, ngaheza nkabishikiriza abantu”. Babwire kandi uti: “Mbega umugarariji yigenza nk’impumyi[4] atigera abona ivyemezo vy’Imana Allah ngo avyemere, ni nk’umwemeramana abona ivyemezo vy’Imana akavyemera! Mbega ntimwiyumvira ngo mubone ukuri, muheze mukwemere!”.",
+  "footnotes": "[4] Iyi ni imvugo ngereranyo igereranya umugarariji mu kutabona ukuri, n’impumyi itabona; ikagereranya umwemeramana mu kubona ukuri n’uwubona."
 }

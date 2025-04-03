@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5529",
-    "sura": "74",
-    "aya": "34",
-    "arabic_text": "وَٱلصُّبۡحِ إِذَآ أَسۡفَرَ",
-    "translation": "Da sãfiya idan ta wãye.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 576,
+  "verse_key": "74:34",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلصُّبۡحِ إِذَآ أَسۡفَرَ",
+  "translation": "Da sãfiya idan ta wãye.",
+  "footnotes": ""
 }

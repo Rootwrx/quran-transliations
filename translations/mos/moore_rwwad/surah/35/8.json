@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3668",
-    "sura": "35",
-    "aya": "8",
-    "arabic_text": "أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنٗاۖ فَإِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۖ فَلَا تَذۡهَبۡ نَفۡسُكَ عَلَيۡهِمۡ حَسَرَٰتٍۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا يَصۡنَعُونَ",
-    "translation": "Rẽ yĩngɑ ned ning b sẽn nɑgs ɑ tʋʋm-wẽng n kõ-ɑ t'ɑ ne-ɑ tɩ yɑɑ sõma, yẽ soab ne tʋʋm-sõɑmɑ soɑb yaa wala tɑɑba? Ad Wẽnd menesd A sẽn dɑt-ɑ soɑb lɑ A kãndg A sẽn dɑt-ɑ soɑba, bɩ f rɑ wɑ sãam f sũur b yĩng ye, ad Wẽnd mii b sẽn maandã.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 435,
+  "verse_key": "35:8",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَمَن زُيِّنَ لَهُۥ سُوٓءُ عَمَلِهِۦ فَرَءَاهُ حَسَنٗاۖ فَإِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۖ فَلَا تَذۡهَبۡ نَفۡسُكَ عَلَيۡهِمۡ حَسَرَٰتٍۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِمَا يَصۡنَعُونَ",
+  "translation": "Rẽ yĩngɑ ned ning b sẽn nɑgs ɑ tʋʋm-wẽng n kõ-ɑ t'ɑ ne-ɑ tɩ yɑɑ sõma, yẽ soab ne tʋʋm-sõɑmɑ soɑb yaa wala tɑɑba? Ad Wẽnd menesd A sẽn dɑt-ɑ soɑb lɑ A kãndg A sẽn dɑt-ɑ soɑba, bɩ f rɑ wɑ sãam f sũur b yĩng ye, ad Wẽnd mii b sẽn maandã.",
+  "footnotes": ""
 }

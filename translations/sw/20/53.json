@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2401",
-    "sura": "20",
-    "aya": "53",
-    "arabic_text": "ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ مَهۡدٗا وَسَلَكَ لَكُمۡ فِيهَا سُبُلٗا وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّن نَّبَاتٖ شَتَّىٰ",
-    "translation": "Ambaye amekufanyieni ardhi kuwa tandiko, na akakupishieni humo njia, na akakutemshieni kutoka mbinguni Maji, na kwahayo tukatoa namna mbali mbali zamimea.",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 315,
+  "verse_key": "20:53",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي جَعَلَ لَكُمُ ٱلۡأَرۡضَ مَهۡدٗا وَسَلَكَ لَكُمۡ فِيهَا سُبُلٗا وَأَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَأَخۡرَجۡنَا بِهِۦٓ أَزۡوَٰجٗا مِّن نَّبَاتٖ شَتَّىٰ",
+  "translation": "Ambaye amekufanyieni ardhi kuwa tandiko, na akakupishieni humo njia, na akakutemshieni kutoka mbinguni Maji, na kwahayo tukatoa namna mbali mbali zamimea.",
+  "footnotes": ""
 }

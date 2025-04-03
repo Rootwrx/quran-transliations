@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1881",
-    "sura": "15",
-    "aya": "79",
-    "arabic_text": "فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامٖ مُّبِينٖ",
-    "translation": "79. Maka Kami membinasakan mereka. Dan sesungguhnya kedua (negeri)*(441) itu terletak di satu jalur jalan raya.",
-    "footnotes": "*441). Yakni kota kaum Luṭ (Sodom) dan Aikah."
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 266,
+  "verse_key": "15:79",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامٖ مُّبِينٖ",
+  "translation": "79. Maka Kami membinasakan mereka. Dan sesungguhnya kedua (negeri)*(441) itu terletak di satu jalur jalan raya.",
+  "footnotes": "*441). Yakni kota kaum Luṭ (Sodom) dan Aikah."
 }

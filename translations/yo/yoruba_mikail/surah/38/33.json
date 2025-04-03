@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4003",
-    "sura": "38",
-    "aya": "33",
-    "arabic_text": "رُدُّوهَا عَلَيَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ",
-    "translation": "Ẹ dá wọn padà sọ́dọ̀ mi.” Ó sì bẹ̀rẹ̀ sí í fi idà gé wọn ní ẹsẹ̀ àti ní ọrùn.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 455,
+  "verse_key": "38:33",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رُدُّوهَا عَلَيَّۖ فَطَفِقَ مَسۡحَۢا بِٱلسُّوقِ وَٱلۡأَعۡنَاقِ",
+  "translation": "Ẹ dá wọn padà sọ́dọ̀ mi.” Ó sì bẹ̀rẹ̀ sí í fi idà gé wọn ní ẹsẹ̀ àti ní ọrùn.",
+  "footnotes": ""
 }

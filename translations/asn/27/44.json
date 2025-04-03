@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3203",
-    "sura": "27",
-    "aya": "44",
-    "arabic_text": "قِيلَ لَهَا ٱدۡخُلِي ٱلصَّرۡحَۖ فَلَمَّا رَأَتۡهُ حَسِبَتۡهُ لُجَّةٗ وَكَشَفَتۡ عَن سَاقَيۡهَاۚ قَالَ إِنَّهُۥ صَرۡحٞ مُّمَرَّدٞ مِّن قَوَارِيرَۗ قَالَتۡ رَبِّ إِنِّي ظَلَمۡتُ نَفۡسِي وَأَسۡلَمۡتُ مَعَ سُلَيۡمَٰنَ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "Yεka kyerεε (Ɔhemaa) no sε: “Wura ahemfie kεseε no mu”. Ɛberε a ohunuuiε no n’adwen yεε no sε εyε asu tadeε bi, enti (ͻpagya n’ataadeε) yii ne nan ho. Solomon kaa sε: “Ɛyε ahemfie a yεde nhwehwε na ayε no kokwakokwa“. Ɔhemmaa Bilqiis kaa sε: ”Me Wura Nyankopͻn, nokorε sε mayε bͻne atia me ho, na maka Solomon ho abrε me ho ase (sε Muslim) de ama Abͻdeε nyinaa Wura no.",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 380,
+  "verse_key": "27:44",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قِيلَ لَهَا ٱدۡخُلِي ٱلصَّرۡحَۖ فَلَمَّا رَأَتۡهُ حَسِبَتۡهُ لُجَّةٗ وَكَشَفَتۡ عَن سَاقَيۡهَاۚ قَالَ إِنَّهُۥ صَرۡحٞ مُّمَرَّدٞ مِّن قَوَارِيرَۗ قَالَتۡ رَبِّ إِنِّي ظَلَمۡتُ نَفۡسِي وَأَسۡلَمۡتُ مَعَ سُلَيۡمَٰنَ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "Yεka kyerεε (Ɔhemaa) no sε: “Wura ahemfie kεseε no mu”. Ɛberε a ohunuuiε no n’adwen yεε no sε εyε asu tadeε bi, enti (ͻpagya n’ataadeε) yii ne nan ho. Solomon kaa sε: “Ɛyε ahemfie a yεde nhwehwε na ayε no kokwakokwa“. Ɔhemmaa Bilqiis kaa sε: ”Me Wura Nyankopͻn, nokorε sε mayε bͻne atia me ho, na maka Solomon ho abrε me ho ase (sε Muslim) de ama Abͻdeε nyinaa Wura no.",
+  "footnotes": ""
 }

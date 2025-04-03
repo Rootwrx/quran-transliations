@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1301",
-    "sura": "9",
-    "aya": "66",
-    "arabic_text": "لَا تَعۡتَذِرُواْ قَدۡ كَفَرۡتُم بَعۡدَ إِيمَٰنِكُمۡۚ إِن نَّعۡفُ عَن طَآئِفَةٖ مِّنكُمۡ نُعَذِّبۡ طَآئِفَةَۢ بِأَنَّهُمۡ كَانُواْ مُجۡرِمِينَ",
-    "translation": "66. Bokolimbisama te, bosilaki ya sólo, kopengwa o sima ya bondimi bwa bino, soki tolimbisi basusu kati na bino, tokopesa etumbu na basusu. Ya sólo, bango bazalaki batomboki.",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 197,
+  "verse_key": "9:66",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا تَعۡتَذِرُواْ قَدۡ كَفَرۡتُم بَعۡدَ إِيمَٰنِكُمۡۚ إِن نَّعۡفُ عَن طَآئِفَةٖ مِّنكُمۡ نُعَذِّبۡ طَآئِفَةَۢ بِأَنَّهُمۡ كَانُواْ مُجۡرِمِينَ",
+  "translation": "66. Bokolimbisama te, bosilaki ya sólo, kopengwa o sima ya bondimi bwa bino, soki tolimbisi basusu kati na bino, tokopesa etumbu na basusu. Ya sólo, bango bazalaki batomboki.",
+  "footnotes": ""
 }

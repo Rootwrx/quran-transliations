@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5677",
-    "sura": "78",
-    "aya": "5",
-    "arabic_text": "ثُمَّ كَلَّا سَيَعۡلَمُونَ",
-    "translation": "5. И уште еднаш, не треба така, тие ќе дознаат сигурно!",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 582,
+  "verse_key": "78:5",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ كَلَّا سَيَعۡلَمُونَ",
+  "translation": "5. И уште еднаш, не треба така, тие ќе дознаат сигурно!",
+  "footnotes": ""
 }

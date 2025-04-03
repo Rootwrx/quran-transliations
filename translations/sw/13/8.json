@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1715",
-    "sura": "13",
-    "aya": "8",
-    "arabic_text": "ٱللَّهُ يَعۡلَمُ مَا تَحۡمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلۡأَرۡحَامُ وَمَا تَزۡدَادُۚ وَكُلُّ شَيۡءٍ عِندَهُۥ بِمِقۡدَارٍ",
-    "translation": "Mwenyezi Mungu anajua mimba abebayo kila mwanamke, na kinacho punguka na kuzidi matumboni. Na kila kitu kwake ni kwa kipimo.",
-    "footnotes": "Aliye mpa Mtume huo muujiza mkubwa kabisa ni Yeye anaye jua kila kitu, na anazijua nafsi za binaadamu tangu kuumbwa kwao kutokana na mbegu za uzazi katika tumbo la mama mpaka wakati wa kufa kwao. Basi Yeye anaijua mimba anayo ichukua kila mwanamke kama ni mume au mke, kinacho punguka tumboni na kilicho zidi wakati, mpaka utimie muda wa mimba, na mtoto akamilike kukua, azaliwe. Kila kitu kwake Yeye Subhanahu kina kipimo maalumu, na muda maalumu."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 250,
+  "verse_key": "13:8",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ يَعۡلَمُ مَا تَحۡمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلۡأَرۡحَامُ وَمَا تَزۡدَادُۚ وَكُلُّ شَيۡءٍ عِندَهُۥ بِمِقۡدَارٍ",
+  "translation": "Mwenyezi Mungu anajua mimba abebayo kila mwanamke, na kinacho punguka na kuzidi matumboni. Na kila kitu kwake ni kwa kipimo.",
+  "footnotes": "Aliye mpa Mtume huo muujiza mkubwa kabisa ni Yeye anaye jua kila kitu, na anazijua nafsi za binaadamu tangu kuumbwa kwao kutokana na mbegu za uzazi katika tumbo la mama mpaka wakati wa kufa kwao. Basi Yeye anaijua mimba anayo ichukua kila mwanamke kama ni mume au mke, kinacho punguka tumboni na kilicho zidi wakati, mpaka utimie muda wa mimba, na mtoto akamilike kukua, azaliwe. Kila kitu kwake Yeye Subhanahu kina kipimo maalumu, na muda maalumu."
 }

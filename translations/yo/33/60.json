@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3593",
-    "sura": "33",
-    "aya": "60",
-    "arabic_text": "۞ لَّئِن لَّمۡ يَنتَهِ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡمُرۡجِفُونَ فِي ٱلۡمَدِينَةِ لَنُغۡرِيَنَّكَ بِهِمۡ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلٗا",
-    "translation": "Tí àwọn ṣọ̀bẹ-ṣẹ̀lu mùsùlùmí, àti àwọn tí àìsàn ń bẹ nínú ọkàn wọn àti àwọn túlétúlé[1] nínú ìlú Mọdīnah kò bá jáwọ́ (níbi aburú), dájúdájú A máa dẹ ọ́ sí wọn, (o sì máa borí wọn). Lẹ́yìn náà, wọn kò sì níí bá ọ gbé àdúgbò pọ̀ mọ́ àfi fún ìgbà díẹ̀.",
-    "footnotes": "1. Ìyẹn àwọn olófòófó tí wọ́n ń sọ ohun tí ojú wọn kò tó káàkiri láti dá rògbòdìyàn, ìpáyà àti wàhálà sílẹ̀ láààrin àwọn onígbàgbọ́ òdodo."
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 426,
+  "verse_key": "33:60",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ لَّئِن لَّمۡ يَنتَهِ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٞ وَٱلۡمُرۡجِفُونَ فِي ٱلۡمَدِينَةِ لَنُغۡرِيَنَّكَ بِهِمۡ ثُمَّ لَا يُجَاوِرُونَكَ فِيهَآ إِلَّا قَلِيلٗا",
+  "translation": "Tí àwọn ṣọ̀bẹ-ṣẹ̀lu mùsùlùmí, àti àwọn tí àìsàn ń bẹ nínú ọkàn wọn àti àwọn túlétúlé[1] nínú ìlú Mọdīnah kò bá jáwọ́ (níbi aburú), dájúdájú A máa dẹ ọ́ sí wọn, (o sì máa borí wọn). Lẹ́yìn náà, wọn kò sì níí bá ọ gbé àdúgbò pọ̀ mọ́ àfi fún ìgbà díẹ̀.",
+  "footnotes": "1. Ìyẹn àwọn olófòófó tí wọ́n ń sọ ohun tí ojú wọn kò tó káàkiri láti dá rògbòdìyàn, ìpáyà àti wàhálà sílẹ̀ láààrin àwọn onígbàgbọ́ òdodo."
 }

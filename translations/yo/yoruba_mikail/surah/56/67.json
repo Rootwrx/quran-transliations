@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5046",
-    "sura": "56",
-    "aya": "67",
-    "arabic_text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
-    "translation": "(Àwọn mìíràn yó sì wí pé:) “Rárá o! Wọ́n ṣe ìkórè oko ní èèwọ̀ fún wa ni.”",
-    "footnotes": ""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 536,
+  "verse_key": "56:67",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+  "translation": "(Àwọn mìíràn yó sì wí pé:) “Rárá o! Wọ́n ṣe ìkórè oko ní èèwọ̀ fún wa ni.”",
+  "footnotes": ""
 }

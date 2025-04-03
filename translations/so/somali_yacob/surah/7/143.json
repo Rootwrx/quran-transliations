@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1097",
-    "sura": "7",
-    "aya": "143",
-    "arabic_text": "وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِيٓ أَنظُرۡ إِلَيۡكَۚ قَالَ لَن تَرَىٰنِي وَلَٰكِنِ ٱنظُرۡ إِلَى ٱلۡجَبَلِ فَإِنِ ٱسۡتَقَرَّ مَكَانَهُۥ فَسَوۡفَ تَرَىٰنِيۚ فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلۡجَبَلِ جَعَلَهُۥ دَكّٗا وَخَرَّ مُوسَىٰ صَعِقٗاۚ فَلَمَّآ أَفَاقَ قَالَ سُبۡحَٰنَكَ تُبۡتُ إِلَيۡكَ وَأَنَا۠ أَوَّلُ ٱلۡمُؤۡمِنِينَ",
-    "translation": "143. Markuu u yimid Muuse ballankayagii oo Rabbigi la hadlay, wuxuu yidhi: Rabbiyow! Iskay tus aan ku eegee. (Alle) Wuxuu yidhi: Ima arki kareysid (adduunka oo ma awooddid), laakiinse eeg buurta, hadday ku sugnaato meesheeda markaas ayaad i arki. Markiise uu Rabbigi isu muujiyey buurtii3, wuxuu ka yeelay burbur, Muusena dhulkuu ugu dhacay suuxdin. Markuu soo miyirsaday wuxuu yidhi: Xurmo oo dhan Adigaa leh oo ka hufan (ceeb iyo nuqsaan), waan kuu toobad keenay (Allow), waxaana ahay kan ugu horreeya mu'miniinta.",
-    "footnotes": "3. Wuxuu Alle isu muujiyey buurta qaddar dhan ciddida far yarada, markaasay buurtii burburtay oo budo noqotay. Muuqashada Alle la mid ma aha muuqashada Aadmiga, ee waa si ku habboon oo u qalma Weynida Alle, dadku ma ay suureysan karaan arrinkaasi."
-  }
+  "id": 143,
+  "verse_number": 143,
+  "page_number": 167,
+  "verse_key": "7:143",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 67,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا جَآءَ مُوسَىٰ لِمِيقَٰتِنَا وَكَلَّمَهُۥ رَبُّهُۥ قَالَ رَبِّ أَرِنِيٓ أَنظُرۡ إِلَيۡكَۚ قَالَ لَن تَرَىٰنِي وَلَٰكِنِ ٱنظُرۡ إِلَى ٱلۡجَبَلِ فَإِنِ ٱسۡتَقَرَّ مَكَانَهُۥ فَسَوۡفَ تَرَىٰنِيۚ فَلَمَّا تَجَلَّىٰ رَبُّهُۥ لِلۡجَبَلِ جَعَلَهُۥ دَكّٗا وَخَرَّ مُوسَىٰ صَعِقٗاۚ فَلَمَّآ أَفَاقَ قَالَ سُبۡحَٰنَكَ تُبۡتُ إِلَيۡكَ وَأَنَا۠ أَوَّلُ ٱلۡمُؤۡمِنِينَ",
+  "translation": "143. Markuu u yimid Muuse ballankayagii oo Rabbigi la hadlay, wuxuu yidhi: Rabbiyow! Iskay tus aan ku eegee. (Alle) Wuxuu yidhi: Ima arki kareysid (adduunka oo ma awooddid), laakiinse eeg buurta, hadday ku sugnaato meesheeda markaas ayaad i arki. Markiise uu Rabbigi isu muujiyey buurtii3, wuxuu ka yeelay burbur, Muusena dhulkuu ugu dhacay suuxdin. Markuu soo miyirsaday wuxuu yidhi: Xurmo oo dhan Adigaa leh oo ka hufan (ceeb iyo nuqsaan), waan kuu toobad keenay (Allow), waxaana ahay kan ugu horreeya mu'miniinta.",
+  "footnotes": "3. Wuxuu Alle isu muujiyey buurta qaddar dhan ciddida far yarada, markaasay buurtii burburtay oo budo noqotay. Muuqashada Alle la mid ma aha muuqashada Aadmiga, ee waa si ku habboon oo u qalma Weynida Alle, dadku ma ay suureysan karaan arrinkaasi."
 }

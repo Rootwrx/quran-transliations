@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "670",
-    "sura": "5",
-    "aya": "1",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَوۡفُواْ بِٱلۡعُقُودِۚ أُحِلَّتۡ لَكُم بَهِيمَةُ ٱلۡأَنۡعَٰمِ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡ غَيۡرَ مُحِلِّي ٱلصَّيۡدِ وَأَنتُمۡ حُرُمٌۗ إِنَّ ٱللَّهَ يَحۡكُمُ مَا يُرِيدُ",
-    "translation": "Mo a moagye adie, moni bͻhyε anaa ahyεdeε no (nyinaa) so. Mo wͻ ho kwan sε modi ntͻte-boaa no (nyinaa bie), gyesε deε yakenkan akyerε mo no; monni ahayͻ nso ho kwan wͻ εberε a mowͻ Harami (ntoma fufuo no) mu. Nokorε sε, Nyankopͻn deε Ɔhyε mmara sεdeε Ɔpε.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 106,
+  "verse_key": "5:1",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 43,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَوۡفُواْ بِٱلۡعُقُودِۚ أُحِلَّتۡ لَكُم بَهِيمَةُ ٱلۡأَنۡعَٰمِ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡ غَيۡرَ مُحِلِّي ٱلصَّيۡدِ وَأَنتُمۡ حُرُمٌۗ إِنَّ ٱللَّهَ يَحۡكُمُ مَا يُرِيدُ",
+  "translation": "Mo a moagye adie, moni bͻhyε anaa ahyεdeε no (nyinaa) so. Mo wͻ ho kwan sε modi ntͻte-boaa no (nyinaa bie), gyesε deε yakenkan akyerε mo no; monni ahayͻ nso ho kwan wͻ εberε a mowͻ Harami (ntoma fufuo no) mu. Nokorε sε, Nyankopͻn deε Ɔhyε mmara sεdeε Ɔpε.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5509",
-    "sura": "74",
-    "aya": "14",
-    "arabic_text": "وَمَهَّدتُّ لَهُۥ تَمۡهِيدٗا",
-    "translation": "තවද (සියල්ල) පහසු කරමින් මම ඔහුට දිගු හැර දුනිමි.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 575,
+  "verse_key": "74:14",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَهَّدتُّ لَهُۥ تَمۡهِيدٗا",
+  "translation": "තවද (සියල්ල) පහසු කරමින් මම ඔහුට දිගු හැර දුනිමි.",
+  "footnotes": ""
 }

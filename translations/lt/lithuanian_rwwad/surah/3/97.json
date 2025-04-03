@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "390",
-    "sura": "3",
-    "aya": "97",
-    "arabic_text": "فِيهِ ءَايَٰتُۢ بَيِّنَٰتٞ مَّقَامُ إِبۡرَٰهِيمَۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنٗاۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلۡبَيۡتِ مَنِ ٱسۡتَطَاعَ إِلَيۡهِ سَبِيلٗاۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِيٌّ عَنِ ٱلۡعَٰلَمِينَ",
-    "translation": "97. Jame yra akivaizdūs ženklai (pamokymui), - Ibrahimo (Abraomo) Makam (vieta). Kas į ją įžengia, yra saugus. Ir Hadžas (piligriminė kelionė į Mekką) į Namą (Kaabą) yra pareiga, kurią žmonija turi Allahui, tiems, kurie išgali išlaidas (nuvykimo, prasimaitinimo ir apsistojimo). Ir tas, kuris netiki [t. y. neigia Hadžą (piligriminę kelionę į Mekką), tada jis yra netikintysis Allahą], tada Allahui nereikia nė vieno iš Alamyn (žmonijos, džinų ir viso, kas egzistuoja) [9].",
-    "footnotes": "[9] Hadžo atlikimas yra įsakyta pareiga."
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 62,
+  "verse_key": "3:97",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِيهِ ءَايَٰتُۢ بَيِّنَٰتٞ مَّقَامُ إِبۡرَٰهِيمَۖ وَمَن دَخَلَهُۥ كَانَ ءَامِنٗاۗ وَلِلَّهِ عَلَى ٱلنَّاسِ حِجُّ ٱلۡبَيۡتِ مَنِ ٱسۡتَطَاعَ إِلَيۡهِ سَبِيلٗاۚ وَمَن كَفَرَ فَإِنَّ ٱللَّهَ غَنِيٌّ عَنِ ٱلۡعَٰلَمِينَ",
+  "translation": "97. Jame yra akivaizdūs ženklai (pamokymui), - Ibrahimo (Abraomo) Makam (vieta). Kas į ją įžengia, yra saugus. Ir Hadžas (piligriminė kelionė į Mekką) į Namą (Kaabą) yra pareiga, kurią žmonija turi Allahui, tiems, kurie išgali išlaidas (nuvykimo, prasimaitinimo ir apsistojimo). Ir tas, kuris netiki [t. y. neigia Hadžą (piligriminę kelionę į Mekką), tada jis yra netikintysis Allahą], tada Allahui nereikia nė vieno iš Alamyn (žmonijos, džinų ir viso, kas egzistuoja) [9].",
+  "footnotes": "[9] Hadžo atlikimas yra įsakyta pareiga."
 }

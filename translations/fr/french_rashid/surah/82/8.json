@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5837",
-    "sura": "82",
-    "aya": "8",
-    "arabic_text": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ",
-    "translation": "8 choisissant pour toi la forme qu’Il a voulue.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 587,
+  "verse_key": "82:8",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِيٓ أَيِّ صُورَةٖ مَّا شَآءَ رَكَّبَكَ",
+  "translation": "8 choisissant pour toi la forme qu’Il a voulue.",
+  "footnotes": ""
 }

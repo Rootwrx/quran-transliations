@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4659",
-    "sura": "50",
-    "aya": "29",
-    "arabic_text": "مَا يُبَدَّلُ ٱلۡقَوۡلُ لَدَيَّ وَمَآ أَنَا۠ بِظَلَّٰمٖ لِّلۡعَبِيدِ",
-    "translation": "29. Mi decisión es irrevocable, y Yo no soy injusto con ningún siervo”.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 519,
+  "verse_key": "50:29",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا يُبَدَّلُ ٱلۡقَوۡلُ لَدَيَّ وَمَآ أَنَا۠ بِظَلَّٰمٖ لِّلۡعَبِيدِ",
+  "translation": "29. Mi decisión es irrevocable, y Yo no soy injusto con ningún siervo”.",
+  "footnotes": ""
 }

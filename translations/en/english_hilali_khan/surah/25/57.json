@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2912",
-    "sura": "25",
-    "aya": "57",
-    "arabic_text": "قُلۡ مَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلٗا",
-    "translation": " 57. Say: \"No reward do I ask of you for this (that which I have brought from my Lord and its preaching), save that whosoever wills may take a Path to his Lord.",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 365,
+  "verse_key": "25:57",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَآ أَسۡـَٔلُكُمۡ عَلَيۡهِ مِنۡ أَجۡرٍ إِلَّا مَن شَآءَ أَن يَتَّخِذَ إِلَىٰ رَبِّهِۦ سَبِيلٗا",
+  "translation": " 57. Say: \"No reward do I ask of you for this (that which I have brought from my Lord and its preaching), save that whosoever wills may take a Path to his Lord.",
+  "footnotes": ""
 }

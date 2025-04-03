@@ -1,0 +1,27 @@
+{
+  "number": 16,
+  "name": {
+    "ar": "النحل",
+    "en": "The Bee",
+    "transliteration": "An-Nahl"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 70,
+  "bismillah_pre": true,
+  "verses_count": 128,
+  "words_count": 1845,
+  "letters_count": 7642,
+  "pages": [
+    267,
+    281
+  ],
+  "name_simple": "An-Nahl",
+  "name_complex": "An-Naĥl",
+  "name_arabic": "النحل",
+  "translated_name": "The Bee",
+  "start_page": 267,
+  "end_page": 281
+}

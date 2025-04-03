@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3928",
-    "sura": "37",
-    "aya": "140",
-    "arabic_text": "إِذۡ أَبَقَ إِلَى ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
-    "translation": "A lõkacin da ya gudu zuwa ga jirgin ruwa wanda aka yi wa lõdi.",
-    "footnotes": ""
-  }
+  "id": 140,
+  "verse_number": 140,
+  "page_number": 451,
+  "verse_key": "37:140",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ أَبَقَ إِلَى ٱلۡفُلۡكِ ٱلۡمَشۡحُونِ",
+  "translation": "A lõkacin da ya gudu zuwa ga jirgin ruwa wanda aka yi wa lõdi.",
+  "footnotes": ""
 }

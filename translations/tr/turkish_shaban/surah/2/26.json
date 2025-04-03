@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "33",
-    "sura": "2",
-    "aya": "26",
-    "arabic_text": "۞ إِنَّ ٱللَّهَ لَا يَسۡتَحۡيِۦٓ أَن يَضۡرِبَ مَثَلٗا مَّا بَعُوضَةٗ فَمَا فَوۡقَهَاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۖ وَأَمَّا ٱلَّذِينَ كَفَرُواْ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۘ يُضِلُّ بِهِۦ كَثِيرٗا وَيَهۡدِي بِهِۦ كَثِيرٗاۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلۡفَٰسِقِينَ",
-    "translation": "Allah, bir sivrisineği ve onun üzerinde bir şeyi örnek vermekten haya etmez. İman edenler, onun Rab’lerinden gelen bir gerçek olduğunu bilirler, ama kâfirler; \"Allah bu misalle ne demek istiyor?\" derler. Allah, bu misalle bir çoklarını dalalette bırakır, bir çoklarını da hidayete çıkarır, şaşkın bırakılanlar ancak yoldan çıkan fasıklardır.",
-    "footnotes": null
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 5,
+  "verse_key": "2:26",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّ ٱللَّهَ لَا يَسۡتَحۡيِۦٓ أَن يَضۡرِبَ مَثَلٗا مَّا بَعُوضَةٗ فَمَا فَوۡقَهَاۚ فَأَمَّا ٱلَّذِينَ ءَامَنُواْ فَيَعۡلَمُونَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّهِمۡۖ وَأَمَّا ٱلَّذِينَ كَفَرُواْ فَيَقُولُونَ مَاذَآ أَرَادَ ٱللَّهُ بِهَٰذَا مَثَلٗاۘ يُضِلُّ بِهِۦ كَثِيرٗا وَيَهۡدِي بِهِۦ كَثِيرٗاۚ وَمَا يُضِلُّ بِهِۦٓ إِلَّا ٱلۡفَٰسِقِينَ",
+  "translation": "Allah, bir sivrisineği ve onun üzerinde bir şeyi örnek vermekten haya etmez. İman edenler, onun Rab’lerinden gelen bir gerçek olduğunu bilirler, ama kâfirler; \"Allah bu misalle ne demek istiyor?\" derler. Allah, bu misalle bir çoklarını dalalette bırakır, bir çoklarını da hidayete çıkarır, şaşkın bırakılanlar ancak yoldan çıkan fasıklardır.",
+  "footnotes": null
 }

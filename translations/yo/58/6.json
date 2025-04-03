@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5110",
-    "sura": "58",
-    "aya": "6",
-    "arabic_text": "يَوۡمَ يَبۡعَثُهُمُ ٱللَّهُ جَمِيعٗا فَيُنَبِّئُهُم بِمَا عَمِلُوٓاْۚ أَحۡصَىٰهُ ٱللَّهُ وَنَسُوهُۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
-    "translation": "Ní ọjọ́ tí Allāhu yóò gbé gbogbo wọn dìde, Ó sì máa fún wọn ní ìró ohun tí wọ́n ṣe níṣẹ́. Allāhu ṣe àkọsílẹ̀ rẹ̀, àwọn sì gbàgbé rẹ̀. Allāhu sì ni Arínú-róde gbogbo n̄ǹkan.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 542,
+  "verse_key": "58:6",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 217,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَبۡعَثُهُمُ ٱللَّهُ جَمِيعٗا فَيُنَبِّئُهُم بِمَا عَمِلُوٓاْۚ أَحۡصَىٰهُ ٱللَّهُ وَنَسُوهُۚ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+  "translation": "Ní ọjọ́ tí Allāhu yóò gbé gbogbo wọn dìde, Ó sì máa fún wọn ní ìró ohun tí wọ́n ṣe níṣẹ́. Allāhu ṣe àkọsílẹ̀ rẹ̀, àwọn sì gbàgbé rẹ̀. Allāhu sì ni Arínú-róde gbogbo n̄ǹkan.",
+  "footnotes": ""
 }

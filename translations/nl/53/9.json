@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4793",
-    "sura": "53",
-    "aya": "9",
-    "arabic_text": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ",
-    "translation": "9. En op een afstand van twee booglengten of zelf minder.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 526,
+  "verse_key": "53:9",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَانَ قَابَ قَوۡسَيۡنِ أَوۡ أَدۡنَىٰ",
+  "translation": "9. En op een afstand van twee booglengten of zelf minder.",
+  "footnotes": ""
 }

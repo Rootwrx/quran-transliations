@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1597",
-    "sura": "12",
-    "aya": "1",
-    "arabic_text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ",
-    "translation": "Alif Lam Raa. Hizi ni Aya za Kitabu kinacho bainisha.",
-    "footnotes": "Alif, Lam, Raa. Hizi harufi na mfano wake, zinazo fanya maneno yenu, enyi Waarabu, ndizo hizo hizo zinazo fanya Aya za hichi Kitabu, ambacho ni muujiza unao waemea watu kuuiga. Muujiza ulio wazi unao fafanua kwa kila mwenye kutafuta uwongozi ndani yake, na uwongofu. Na kwa hizi harufi za kutamkika zikasikilizana sauti yake wanazinduliwa watu watanabahi. Basi wasikilize, ijapo kuwa waliwafikiana kuwa wasisikilize."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 235,
+  "verse_key": "12:1",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+  "translation": "Alif Lam Raa. Hizi ni Aya za Kitabu kinacho bainisha.",
+  "footnotes": "Alif, Lam, Raa. Hizi harufi na mfano wake, zinazo fanya maneno yenu, enyi Waarabu, ndizo hizo hizo zinazo fanya Aya za hichi Kitabu, ambacho ni muujiza unao waemea watu kuuiga. Muujiza ulio wazi unao fafanua kwa kila mwenye kutafuta uwongozi ndani yake, na uwongofu. Na kwa hizi harufi za kutamkika zikasikilizana sauti yake wanazinduliwa watu watanabahi. Basi wasikilize, ijapo kuwa waliwafikiana kuwa wasisikilize."
 }

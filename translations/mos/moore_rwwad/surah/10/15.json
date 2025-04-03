@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1379",
-    "sura": "10",
-    "aya": "15",
-    "arabic_text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَاتُنَا بَيِّنَٰتٖ قَالَ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا ٱئۡتِ بِقُرۡءَانٍ غَيۡرِ هَٰذَآ أَوۡ بَدِّلۡهُۚ قُلۡ مَا يَكُونُ لِيٓ أَنۡ أُبَدِّلَهُۥ مِن تِلۡقَآيِٕ نَفۡسِيٓۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّۖ إِنِّيٓ أَخَافُ إِنۡ عَصَيۡتُ رَبِّي عَذَابَ يَوۡمٍ عَظِيمٖ",
-    "translation": "La b sã n na n karem Tõnd Aaya-rãmbã b zut ne vẽenem, neb nins sẽn pa tẽed Tõnd sɛgbã yetame: \"tall Alkʋrãan zẽng sẽn pa yãoã n kõ tõndo\" maa \"toeem-a\". Yeele: pa sõmb ne maam tɩ m toeem-a ne mam yam tʋlsem ye. Mam tũuda wahɩ wã sẽn wa mam nengẽ wã bala. Mam yaeesda raar ning nang sẽn bedmã, tɩ mam sã n kɩɩs Wẽnde.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 210,
+  "verse_key": "10:15",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَاتُنَا بَيِّنَٰتٖ قَالَ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا ٱئۡتِ بِقُرۡءَانٍ غَيۡرِ هَٰذَآ أَوۡ بَدِّلۡهُۚ قُلۡ مَا يَكُونُ لِيٓ أَنۡ أُبَدِّلَهُۥ مِن تِلۡقَآيِٕ نَفۡسِيٓۖ إِنۡ أَتَّبِعُ إِلَّا مَا يُوحَىٰٓ إِلَيَّۖ إِنِّيٓ أَخَافُ إِنۡ عَصَيۡتُ رَبِّي عَذَابَ يَوۡمٍ عَظِيمٖ",
+  "translation": "La b sã n na n karem Tõnd Aaya-rãmbã b zut ne vẽenem, neb nins sẽn pa tẽed Tõnd sɛgbã yetame: \"tall Alkʋrãan zẽng sẽn pa yãoã n kõ tõndo\" maa \"toeem-a\". Yeele: pa sõmb ne maam tɩ m toeem-a ne mam yam tʋlsem ye. Mam tũuda wahɩ wã sẽn wa mam nengẽ wã bala. Mam yaeesda raar ning nang sẽn bedmã, tɩ mam sã n kɩɩs Wẽnde.",
+  "footnotes": ""
 }

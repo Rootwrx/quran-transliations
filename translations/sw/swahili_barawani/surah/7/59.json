@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1013",
-    "sura": "7",
-    "aya": "59",
-    "arabic_text": "لَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ",
-    "translation": "Tulimpeleka Nuhu kwa kaumu yake, naye akasema: Enyi kaumu yangu! Muabuduni Mwenyezi Mungu. Nyinyi hamna Mungu ila Yeye. Hakika mimi ninakukhofieni adhabu ya Siku iliyo kuu.",
-    "footnotes": "Washirikina wakafanya inda, na wakaikanusha Haki ilipo wajia kwa hoja za kukata zisio pingika. Lakini huo ndio mtindo wa makafiri kwa Manabii wao tangu zamani. Sisi tulimtuma Nuhu kwa watu wake alio tokana nao. Naye akawakumbusha kuwa yeye ni mmoja wao: Enyi watu wangu! Muabuduni Mwenyezi Mungu Mtukufu peke yake. Kwani nyinyi hamna Mungu asiye kuwa huyu. Na mjue kuwa kutakuwapo kufufuliwa na kuhisabiwa Siku ya Kiyama. Na hiyo ni Siku adhimu. Mimi nakukhofieni Siku hiyo msije mkapata adhabu kali kweli."
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 158,
+  "verse_key": "7:59",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ أَرۡسَلۡنَا نُوحًا إِلَىٰ قَوۡمِهِۦ فَقَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓ إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ",
+  "translation": "Tulimpeleka Nuhu kwa kaumu yake, naye akasema: Enyi kaumu yangu! Muabuduni Mwenyezi Mungu. Nyinyi hamna Mungu ila Yeye. Hakika mimi ninakukhofieni adhabu ya Siku iliyo kuu.",
+  "footnotes": "Washirikina wakafanya inda, na wakaikanusha Haki ilipo wajia kwa hoja za kukata zisio pingika. Lakini huo ndio mtindo wa makafiri kwa Manabii wao tangu zamani. Sisi tulimtuma Nuhu kwa watu wake alio tokana nao. Naye akawakumbusha kuwa yeye ni mmoja wao: Enyi watu wangu! Muabuduni Mwenyezi Mungu Mtukufu peke yake. Kwani nyinyi hamna Mungu asiye kuwa huyu. Na mjue kuwa kutakuwapo kufufuliwa na kuhisabiwa Siku ya Kiyama. Na hiyo ni Siku adhimu. Mimi nakukhofieni Siku hiyo msije mkapata adhabu kali kweli."
 }

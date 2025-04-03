@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5209",
-    "sura": "64",
-    "aya": "10",
-    "arabic_text": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِ خَٰلِدِينَ فِيهَاۖ وَبِئۡسَ ٱلۡمَصِيرُ",
-    "translation": "Kâfirler ve ayetlerimizi yalanlayanlar, işte onlar ateş ehlidir. Orada ebedidirler. Ne kötü bir dönüş yeri. ",
-    "footnotes": null
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 557,
+  "verse_key": "64:10",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِ خَٰلِدِينَ فِيهَاۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+  "translation": "Kâfirler ve ayetlerimizi yalanlayanlar, işte onlar ateş ehlidir. Orada ebedidirler. Ne kötü bir dönüş yeri. ",
+  "footnotes": null
 }

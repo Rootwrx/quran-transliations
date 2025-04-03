@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1754",
-    "sura": "14",
-    "aya": "4",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوۡمِهِۦ لِيُبَيِّنَ لَهُمۡۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "4. Todos los Mensajeros que envié hablaban el lenguaje de su pueblo para así transmitirles claramente el Mensaje. Pero Dios extravía a quien quiere y guía a quien quiere; Él es el Poderoso, el Sabio.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 255,
+  "verse_key": "14:4",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا بِلِسَانِ قَوۡمِهِۦ لِيُبَيِّنَ لَهُمۡۖ فَيُضِلُّ ٱللَّهُ مَن يَشَآءُ وَيَهۡدِي مَن يَشَآءُۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "4. Todos los Mensajeros que envié hablaban el lenguaje de su pueblo para así transmitirles claramente el Mensaje. Pero Dios extravía a quien quiere y guía a quien quiere; Él es el Poderoso, el Sabio.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "382",
-    "sura": "3",
-    "aya": "89",
-    "arabic_text": "إِلَّا ٱلَّذِينَ تَابُواْ مِنۢ بَعۡدِ ذَٰلِكَ وَأَصۡلَحُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
-    "translation": "89. Hormis ceux qui, plus tard, se seront repentis et se seront amendés. Car Allah est Tout Absoluteur et Tout Miséricordieux.",
-    "footnotes": ""
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 61,
+  "verse_key": "3:89",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا ٱلَّذِينَ تَابُواْ مِنۢ بَعۡدِ ذَٰلِكَ وَأَصۡلَحُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+  "translation": "89. Hormis ceux qui, plus tard, se seront repentis et se seront amendés. Car Allah est Tout Absoluteur et Tout Miséricordieux.",
+  "footnotes": ""
 }

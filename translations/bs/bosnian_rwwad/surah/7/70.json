@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1024",
-    "sura": "7",
-    "aya": "70",
-    "arabic_text": "قَالُوٓاْ أَجِئۡتَنَا لِنَعۡبُدَ ٱللَّهَ وَحۡدَهُۥ وَنَذَرَ مَا كَانَ يَعۡبُدُ ءَابَآؤُنَا فَأۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
-    "translation": "Oni su govorili: \"Zar si nam došao zato da samo Allahu ibadet činimo, a da napustimo one koje su preci naši obožavali? Učini da nas snađe to što nam prijeteći obećavaš, ako je istina to što govoriš!\"",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 159,
+  "verse_key": "7:70",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَجِئۡتَنَا لِنَعۡبُدَ ٱللَّهَ وَحۡدَهُۥ وَنَذَرَ مَا كَانَ يَعۡبُدُ ءَابَآؤُنَا فَأۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+  "translation": "Oni su govorili: \"Zar si nam došao zato da samo Allahu ibadet činimo, a da napustimo one koje su preci naši obožavali? Učini da nas snađe to što nam prijeteći obećavaš, ako je istina to što govoriš!\"",
+  "footnotes": ""
 }

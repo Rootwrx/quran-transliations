@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "536",
-    "sura": "4",
-    "aya": "43",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَقۡرَبُواْ ٱلصَّلَوٰةَ وَأَنتُمۡ سُكَٰرَىٰ حَتَّىٰ تَعۡلَمُواْ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِي سَبِيلٍ حَتَّىٰ تَغۡتَسِلُواْۚ وَإِن كُنتُم مَّرۡضَىٰٓ أَوۡ عَلَىٰ سَفَرٍ أَوۡ جَآءَ أَحَدٞ مِّنكُم مِّنَ ٱلۡغَآئِطِ أَوۡ لَٰمَسۡتُمُ ٱلنِّسَآءَ فَلَمۡ تَجِدُواْ مَآءٗ فَتَيَمَّمُواْ صَعِيدٗا طَيِّبٗا فَٱمۡسَحُواْ بِوُجُوهِكُمۡ وَأَيۡدِيكُمۡۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
-    "translation": "Enyi mlio amini! Msikaribie Sala, hali mmelewa, mpaka myajue mnayo yasema, wala hali mna janaba - isipo kuwa mmo safarini - mpaka mkoge. Na mkiwa wagonjwa, au mmo safarini, au mmoja wenu ametoka chooni, au mmewagusa wanawake - na msipate maji, basi ukusudieni mchanga safi, mpake nyuso zenu na mikono yenu. Hakika Mwenyezi Mungu ni Msamehevu na Mwenye kughufiria.",
-    "footnotes": "Enyi mlioamini! Msende kusali misikitini nanyi mmo katika hali ya ulevi mpaka muwe mnafahamu myasemayo. Wala msiingie misikitini nanyi mna janaba, ila ikiwa ni kupita njia tu bila ya kusita, mpaka mtahirike kwa kukoga. Na mkiwa ni wagonjwa hamuwezi kutumia maji kwa kuogopa maradhi yasikuzidini au kuchelewa kupona, au mkiwa mmo safarini na ipo shida ya kupata maji, basi tumieni mchanga ulio safi. Kadhaalika mmoja wenu akitoka chooni, au mkawaingilia wanawake na mkawa hamkupata maji ya kujitahirishia kwa kukosekana kwake, basi vile vile chukueni mchanga safi upigeni kwa mikono yenu, na mpangusie nyuso zenu na mikono yenu. Hakika ni shani ya Mwenyezi Mungu kuwa ni Mwenye kusamehe sana na Mwenye kufuta dhambi."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 85,
+  "verse_key": "4:43",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَقۡرَبُواْ ٱلصَّلَوٰةَ وَأَنتُمۡ سُكَٰرَىٰ حَتَّىٰ تَعۡلَمُواْ مَا تَقُولُونَ وَلَا جُنُبًا إِلَّا عَابِرِي سَبِيلٍ حَتَّىٰ تَغۡتَسِلُواْۚ وَإِن كُنتُم مَّرۡضَىٰٓ أَوۡ عَلَىٰ سَفَرٍ أَوۡ جَآءَ أَحَدٞ مِّنكُم مِّنَ ٱلۡغَآئِطِ أَوۡ لَٰمَسۡتُمُ ٱلنِّسَآءَ فَلَمۡ تَجِدُواْ مَآءٗ فَتَيَمَّمُواْ صَعِيدٗا طَيِّبٗا فَٱمۡسَحُواْ بِوُجُوهِكُمۡ وَأَيۡدِيكُمۡۗ إِنَّ ٱللَّهَ كَانَ عَفُوًّا غَفُورًا",
+  "translation": "Enyi mlio amini! Msikaribie Sala, hali mmelewa, mpaka myajue mnayo yasema, wala hali mna janaba - isipo kuwa mmo safarini - mpaka mkoge. Na mkiwa wagonjwa, au mmo safarini, au mmoja wenu ametoka chooni, au mmewagusa wanawake - na msipate maji, basi ukusudieni mchanga safi, mpake nyuso zenu na mikono yenu. Hakika Mwenyezi Mungu ni Msamehevu na Mwenye kughufiria.",
+  "footnotes": "Enyi mlioamini! Msende kusali misikitini nanyi mmo katika hali ya ulevi mpaka muwe mnafahamu myasemayo. Wala msiingie misikitini nanyi mna janaba, ila ikiwa ni kupita njia tu bila ya kusita, mpaka mtahirike kwa kukoga. Na mkiwa ni wagonjwa hamuwezi kutumia maji kwa kuogopa maradhi yasikuzidini au kuchelewa kupona, au mkiwa mmo safarini na ipo shida ya kupata maji, basi tumieni mchanga ulio safi. Kadhaalika mmoja wenu akitoka chooni, au mkawaingilia wanawake na mkawa hamkupata maji ya kujitahirishia kwa kukosekana kwake, basi vile vile chukueni mchanga safi upigeni kwa mikono yenu, na mpangusie nyuso zenu na mikono yenu. Hakika ni shani ya Mwenyezi Mungu kuwa ni Mwenye kusamehe sana na Mwenye kufuta dhambi."
 }

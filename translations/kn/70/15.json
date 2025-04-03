@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5390",
-    "sura": "70",
-    "aya": "15",
-    "arabic_text": "كَلَّآۖ إِنَّهَا لَظَىٰ",
-    "translation": "ಎಂದಿಗೂ ಇಲ್ಲ! ನಿಶ್ಚಯವಾಗಿಯೂ ಅದು ಧಗಧಗಿಸುವ ಬೆಂಕಿಯಾಗಿದೆ.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 569,
+  "verse_key": "70:15",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّآۖ إِنَّهَا لَظَىٰ",
+  "translation": "ಎಂದಿಗೂ ಇಲ್ಲ! ನಿಶ್ಚಯವಾಗಿಯೂ ಅದು ಧಗಧಗಿಸುವ ಬೆಂಕಿಯಾಗಿದೆ.",
+  "footnotes": ""
 }

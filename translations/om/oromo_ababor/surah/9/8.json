@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1243",
-    "sura": "9",
-    "aya": "8",
-    "arabic_text": "كَيۡفَ وَإِن يَظۡهَرُواْ عَلَيۡكُمۡ لَا يَرۡقُبُواْ فِيكُمۡ إِلّٗا وَلَا ذِمَّةٗۚ يُرۡضُونَكُم بِأَفۡوَٰهِهِمۡ وَتَأۡبَىٰ قُلُوبُهُمۡ وَأَكۡثَرُهُمۡ فَٰسِقُونَ",
-    "translation": "Odoo isin irratti injifannoo argatanii, firummaafi waadaas isin keessatti kan hin eegganne ta’anii, akkamitti (waadaan isaaniif ta’a)? Afaanoowwan isaaniitiin isin jaallachiisu; Onneewwan isaanii immoo ni diddi. Irra hedduun isaaniis finciltoota.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 188,
+  "verse_key": "9:8",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَيۡفَ وَإِن يَظۡهَرُواْ عَلَيۡكُمۡ لَا يَرۡقُبُواْ فِيكُمۡ إِلّٗا وَلَا ذِمَّةٗۚ يُرۡضُونَكُم بِأَفۡوَٰهِهِمۡ وَتَأۡبَىٰ قُلُوبُهُمۡ وَأَكۡثَرُهُمۡ فَٰسِقُونَ",
+  "translation": "Odoo isin irratti injifannoo argatanii, firummaafi waadaas isin keessatti kan hin eegganne ta’anii, akkamitti (waadaan isaaniif ta’a)? Afaanoowwan isaaniitiin isin jaallachiisu; Onneewwan isaanii immoo ni diddi. Irra hedduun isaaniis finciltoota.",
+  "footnotes": ""
 }

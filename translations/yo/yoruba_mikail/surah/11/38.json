@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1511",
-    "sura": "11",
-    "aya": "38",
-    "arabic_text": "وَيَصۡنَعُ ٱلۡفُلۡكَ وَكُلَّمَا مَرَّ عَلَيۡهِ مَلَأٞ مِّن قَوۡمِهِۦ سَخِرُواْ مِنۡهُۚ قَالَ إِن تَسۡخَرُواْ مِنَّا فَإِنَّا نَسۡخَرُ مِنكُمۡ كَمَا تَسۡخَرُونَ",
-    "translation": "Ó sì ń kan ọkọ̀ ojú-omi náà lọ. Ìgbàkígbà tí àwọn ọ̀tọ̀kùlú nínú ìjọ rẹ̀ bá kọjá lọ́dọ̀ rẹ̀, wọ́n yó sì máa fi ṣe yẹ̀yẹ́. (Ànábì Nūh) sì sọ pé: “Tí ẹ bá fi wá ṣe yẹ̀yẹ́, dájúdájú àwa náà yóò fi yín ṣe yẹ̀yẹ́ gẹ́gẹ́ bí ẹ ṣe ń fi wá ṣe yẹ̀yẹ́.[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Ƙọmọr; 54:9."
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 226,
+  "verse_key": "11:38",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَصۡنَعُ ٱلۡفُلۡكَ وَكُلَّمَا مَرَّ عَلَيۡهِ مَلَأٞ مِّن قَوۡمِهِۦ سَخِرُواْ مِنۡهُۚ قَالَ إِن تَسۡخَرُواْ مِنَّا فَإِنَّا نَسۡخَرُ مِنكُمۡ كَمَا تَسۡخَرُونَ",
+  "translation": "Ó sì ń kan ọkọ̀ ojú-omi náà lọ. Ìgbàkígbà tí àwọn ọ̀tọ̀kùlú nínú ìjọ rẹ̀ bá kọjá lọ́dọ̀ rẹ̀, wọ́n yó sì máa fi ṣe yẹ̀yẹ́. (Ànábì Nūh) sì sọ pé: “Tí ẹ bá fi wá ṣe yẹ̀yẹ́, dájúdájú àwa náà yóò fi yín ṣe yẹ̀yẹ́ gẹ́gẹ́ bí ẹ ṣe ń fi wá ṣe yẹ̀yẹ́.[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Ƙọmọr; 54:9."
 }

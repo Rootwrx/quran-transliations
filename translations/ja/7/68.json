@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1022",
-    "sura": "7",
-    "aya": "68",
-    "arabic_text": "أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنَا۠ لَكُمۡ نَاصِحٌ أَمِينٌ",
-    "translation": "私は我が主*のお言伝をあなた方に伝える。私は、あなた方への誠実なる忠告者なのだ。",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 159,
+  "verse_key": "7:68",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنَا۠ لَكُمۡ نَاصِحٌ أَمِينٌ",
+  "translation": "私は我が主*のお言伝をあなた方に伝える。私は、あなた方への誠実なる忠告者なのだ。",
+  "footnotes": ""
 }

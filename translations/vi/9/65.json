@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1300",
-    "sura": "9",
-    "aya": "65",
-    "arabic_text": "وَلَئِن سَأَلۡتَهُمۡ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلۡعَبُۚ قُلۡ أَبِٱللَّهِ وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمۡ تَسۡتَهۡزِءُونَ",
-    "translation": "Nếu như Ngươi (Thiên Sứ Muhammad) hỏi bọn chúng (sao lại phỉ báng tôn giáo) thì bọn chúng chắc chắn sẽ đáp: “Thật ra chúng tôi chỉ trò chuyện cho vui thôi.” Ngươi hãy nói (với chúng): “Các ngươi lại dám chế giễu Allah, các Lời Mặc Khải của Ngài và Thiên Sứ của Ngài ư?”",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 197,
+  "verse_key": "9:65",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِن سَأَلۡتَهُمۡ لَيَقُولُنَّ إِنَّمَا كُنَّا نَخُوضُ وَنَلۡعَبُۚ قُلۡ أَبِٱللَّهِ وَءَايَٰتِهِۦ وَرَسُولِهِۦ كُنتُمۡ تَسۡتَهۡزِءُونَ",
+  "translation": "Nếu như Ngươi (Thiên Sứ Muhammad) hỏi bọn chúng (sao lại phỉ báng tôn giáo) thì bọn chúng chắc chắn sẽ đáp: “Thật ra chúng tôi chỉ trò chuyện cho vui thôi.” Ngươi hãy nói (với chúng): “Các ngươi lại dám chế giễu Allah, các Lời Mặc Khải của Ngài và Thiên Sứ của Ngài ư?”",
+  "footnotes": ""
 }

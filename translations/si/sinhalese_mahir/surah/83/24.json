@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5872",
-    "sura": "83",
-    "aya": "24",
-    "arabic_text": "تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ",
-    "translation": "(ඔවුනට ලැබුණු) සැප පහසුකම්හි සිරියාව නුඹ ඔවුන්ගේ මුහුණු තුළින් දැන ගනු ඇත.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 588,
+  "verse_key": "83:24",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَعۡرِفُ فِي وُجُوهِهِمۡ نَضۡرَةَ ٱلنَّعِيمِ",
+  "translation": "(ඔවුනට ලැබුණු) සැප පහසුකම්හි සිරියාව නුඹ ඔවුන්ගේ මුහුණු තුළින් දැන ගනු ඇත.",
+  "footnotes": ""
 }

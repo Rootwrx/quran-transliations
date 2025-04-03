@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3296",
-    "sura": "28",
-    "aya": "44",
-    "arabic_text": "وَمَا كُنتَ بِجَانِبِ ٱلۡغَرۡبِيِّ إِذۡ قَضَيۡنَآ إِلَىٰ مُوسَى ٱلۡأَمۡرَ وَمَا كُنتَ مِنَ ٱلشَّٰهِدِينَ",
-    "translation": "Wala wewe hukuwa upande wa magharibi tulipo mpa Musa amri, wala hukuwa katika walio hudhuria.",
-    "footnotes": "Wala wewe Muhammad, hukuwa na Musa upande wa magharibi wa huo mlima, pale Mwenyezi Mungu alipo agana naye kumuamrisha Ujumbe. Wala hukuishi zama za Musa, wala hukushuhudia alipo fikisha Utume. Basi vipi hawa watu wako wanakanusha Utume wako na wewe unawasomea khabari za walio tangulia?"
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 391,
+  "verse_key": "28:44",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كُنتَ بِجَانِبِ ٱلۡغَرۡبِيِّ إِذۡ قَضَيۡنَآ إِلَىٰ مُوسَى ٱلۡأَمۡرَ وَمَا كُنتَ مِنَ ٱلشَّٰهِدِينَ",
+  "translation": "Wala wewe hukuwa upande wa magharibi tulipo mpa Musa amri, wala hukuwa katika walio hudhuria.",
+  "footnotes": "Wala wewe Muhammad, hukuwa na Musa upande wa magharibi wa huo mlima, pale Mwenyezi Mungu alipo agana naye kumuamrisha Ujumbe. Wala hukuishi zama za Musa, wala hukushuhudia alipo fikisha Utume. Basi vipi hawa watu wako wanakanusha Utume wako na wewe unawasomea khabari za walio tangulia?"
 }

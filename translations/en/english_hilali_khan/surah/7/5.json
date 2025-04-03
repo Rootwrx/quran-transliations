@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "959",
-    "sura": "7",
-    "aya": "5",
-    "arabic_text": "فَمَا كَانَ دَعۡوَىٰهُمۡ إِذۡ جَآءَهُم بَأۡسُنَآ إِلَّآ أَن قَالُوٓاْ إِنَّا كُنَّا ظَٰلِمِينَ",
-    "translation": " 5. No cry did they utter when Our Torment came upon them but this: \"Verily, we were Zâlimûn (polytheists and wrong-doers)\".",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 151,
+  "verse_key": "7:5",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَا كَانَ دَعۡوَىٰهُمۡ إِذۡ جَآءَهُم بَأۡسُنَآ إِلَّآ أَن قَالُوٓاْ إِنَّا كُنَّا ظَٰلِمِينَ",
+  "translation": " 5. No cry did they utter when Our Torment came upon them but this: \"Verily, we were Zâlimûn (polytheists and wrong-doers)\".",
+  "footnotes": ""
 }

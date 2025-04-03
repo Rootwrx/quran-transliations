@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4250",
-    "sura": "41",
-    "aya": "32",
-    "arabic_text": "نُزُلٗا مِّنۡ غَفُورٖ رَّحِيمٖ",
-    "translation": "Ó jẹ́ n̄ǹkan ìgbàlejò (fún yín) láti ọ̀dọ̀ Aláforíjìn, Àṣàkẹ́-ọ̀run.”",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 480,
+  "verse_key": "41:32",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نُزُلٗا مِّنۡ غَفُورٖ رَّحِيمٖ",
+  "translation": "Ó jẹ́ n̄ǹkan ìgbàlejò (fún yín) láti ọ̀dọ̀ Aláforíjìn, Àṣàkẹ́-ọ̀run.”",
+  "footnotes": ""
 }

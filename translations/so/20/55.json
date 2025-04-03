@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2403",
-    "sura": "20",
-    "aya": "55",
-    "arabic_text": "۞ مِنۡهَا خَلَقۡنَٰكُمۡ وَفِيهَا نُعِيدُكُمۡ وَمِنۡهَا نُخۡرِجُكُمۡ تَارَةً أُخۡرَىٰ",
-    "translation": "55. Xaggeedaan (arlada) idinka abuurnay, gudaheeda baan idinku celin, xaggeedaana la idinka soo saari  mar kale (geeri kaddib).",
-    "footnotes": ""
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 315,
+  "verse_key": "20:55",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ مِنۡهَا خَلَقۡنَٰكُمۡ وَفِيهَا نُعِيدُكُمۡ وَمِنۡهَا نُخۡرِجُكُمۡ تَارَةً أُخۡرَىٰ",
+  "translation": "55. Xaggeedaan (arlada) idinka abuurnay, gudaheeda baan idinku celin, xaggeedaana la idinka soo saari  mar kale (geeri kaddib).",
+  "footnotes": ""
 }

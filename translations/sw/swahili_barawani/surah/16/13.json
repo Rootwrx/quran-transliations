@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1914",
-    "sura": "16",
-    "aya": "13",
-    "arabic_text": "وَمَا ذَرَأَ لَكُمۡ فِي ٱلۡأَرۡضِ مُخۡتَلِفًا أَلۡوَٰنُهُۥٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَذَّكَّرُونَ",
-    "translation": "Na hivi alivyo vieneza katika ardhi vya rangi mbali mbali. Hakika katika hayo ipo ishara kwa watu wanao waidhika.",
-    "footnotes": "Na pamoja na aliyo kuumbieni Mwenyezi Mungu katika mbingu na akakutengenezeeni kwa faida yenu, amekuumbieni pia juu ya ardhi wanyama namna nyingi, na mimea, na vitu visio na uhai. Na ndani ya ardhi yamo maadeni ya rangi na sura mbali mbali na faida mbali mbali. Na yote hayo kwa manufaa yenu. Hakika katika hayo zipo dalili wazi na nyingi kwa watu wanao zingatia, na wakawaidhika, na wakajua kwa hayo uwezo wa Aliye waumba, na rehema yake."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 268,
+  "verse_key": "16:13",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا ذَرَأَ لَكُمۡ فِي ٱلۡأَرۡضِ مُخۡتَلِفًا أَلۡوَٰنُهُۥٓۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّقَوۡمٖ يَذَّكَّرُونَ",
+  "translation": "Na hivi alivyo vieneza katika ardhi vya rangi mbali mbali. Hakika katika hayo ipo ishara kwa watu wanao waidhika.",
+  "footnotes": "Na pamoja na aliyo kuumbieni Mwenyezi Mungu katika mbingu na akakutengenezeeni kwa faida yenu, amekuumbieni pia juu ya ardhi wanyama namna nyingi, na mimea, na vitu visio na uhai. Na ndani ya ardhi yamo maadeni ya rangi na sura mbali mbali na faida mbali mbali. Na yote hayo kwa manufaa yenu. Hakika katika hayo zipo dalili wazi na nyingi kwa watu wanao zingatia, na wakawaidhika, na wakajua kwa hayo uwezo wa Aliye waumba, na rehema yake."
 }

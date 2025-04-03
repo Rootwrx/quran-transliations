@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1675",
-    "sura": "12",
-    "aya": "79",
-    "arabic_text": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأۡخُذَ إِلَّا مَن وَجَدۡنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذٗا لَّظَٰلِمُونَ",
-    "translation": "Akasema: Mwenyezi Mungu apishe mbali kumshika yeyote yule isipo kuwa tuliye mkuta naye kitu chetu. Hivyo basi tutakuwa wenye kudhulumu.",
-    "footnotes": "Wala haikufalia kwa Yusuf kuvunja mpango alio mkubalia Mwenyezi Mungu, na kumwachia nduguye atoke mkononi mwake. Kwa hivyo maombi yao hayakumlainisha kitu. Akawajibu jawabu mkato, kwa kuwaambia: Mimi najilinda kwa Mwenyezi Mungu isije nafsi yangu ikadhulumu kwa kumzuia yeyote yule isipo kuwa yule yule tuliye mkuta nayo mali yetu. Tukimchukua mwenginewe kwa kumuadhibu tutakuwa katika hao walio vuka mipaka kwa kumshika asiye na makosa kwa madhambi ya mwovu."
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 245,
+  "verse_key": "12:79",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأۡخُذَ إِلَّا مَن وَجَدۡنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذٗا لَّظَٰلِمُونَ",
+  "translation": "Akasema: Mwenyezi Mungu apishe mbali kumshika yeyote yule isipo kuwa tuliye mkuta naye kitu chetu. Hivyo basi tutakuwa wenye kudhulumu.",
+  "footnotes": "Wala haikufalia kwa Yusuf kuvunja mpango alio mkubalia Mwenyezi Mungu, na kumwachia nduguye atoke mkononi mwake. Kwa hivyo maombi yao hayakumlainisha kitu. Akawajibu jawabu mkato, kwa kuwaambia: Mimi najilinda kwa Mwenyezi Mungu isije nafsi yangu ikadhulumu kwa kumzuia yeyote yule isipo kuwa yule yule tuliye mkuta nayo mali yetu. Tukimchukua mwenginewe kwa kumuadhibu tutakuwa katika hao walio vuka mipaka kwa kumshika asiye na makosa kwa madhambi ya mwovu."
 }

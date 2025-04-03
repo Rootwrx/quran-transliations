@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1556",
-    "sura": "11",
-    "aya": "83",
-    "arabic_text": "مُّسَوَّمَةً عِندَ رَبِّكَۖ وَمَا هِيَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٖ",
-    "translation": "Ayo mabuye yariko ibimenyetso biturutse ku Mana yawe Rurema Allah, bituma adasa n’amabuye yo kw’isi; kandi icucagira ry’amabuye Twahanishije abantu ba Luutwi, ntiriri kure ko ryoshikira abagarariji b’Abakorayishi birenganije[13].",
-    "footnotes": "[13] Iyi Aayah irihaniza intumva z’ibigaba izereka ko zishobora guhanwa."
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 231,
+  "verse_key": "11:83",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مُّسَوَّمَةً عِندَ رَبِّكَۖ وَمَا هِيَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٖ",
+  "translation": "Ayo mabuye yariko ibimenyetso biturutse ku Mana yawe Rurema Allah, bituma adasa n’amabuye yo kw’isi; kandi icucagira ry’amabuye Twahanishije abantu ba Luutwi, ntiriri kure ko ryoshikira abagarariji b’Abakorayishi birenganije[13].",
+  "footnotes": "[13] Iyi Aayah irihaniza intumva z’ibigaba izereka ko zishobora guhanwa."
 }

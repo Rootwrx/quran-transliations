@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2151",
-    "sura": "18",
-    "aya": "11",
-    "arabic_text": "فَضَرَبۡنَا عَلَىٰٓ ءَاذَانِهِمۡ فِي ٱلۡكَهۡفِ سِنِينَ عَدَدٗا",
-    "translation": "(11) So We cast [a cover of sleep] over their ears within the cave for a number of years.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 294,
+  "verse_key": "18:11",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَضَرَبۡنَا عَلَىٰٓ ءَاذَانِهِمۡ فِي ٱلۡكَهۡفِ سِنِينَ عَدَدٗا",
+  "translation": "(11) So We cast [a cover of sleep] over their ears within the cave for a number of years.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1218",
-    "sura": "8",
-    "aya": "58",
-    "arabic_text": "وَإِمَّا تَخَافَنَّ مِن قَوۡمٍ خِيَانَةٗ فَٱنۢبِذۡ إِلَيۡهِمۡ عَلَىٰ سَوَآءٍۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡخَآئِنِينَ",
-    "translation": "(58) If you [have reason to] fear from a people betrayal, throw [their treaty] back to them, [putting you] on equal terms.[455] Indeed, Allāh does not like traitors.",
-    "footnotes": "[455]- When you see signs of treachery from those with whom you have made a treaty, announce to them its dissolution so they will know exactly where they stand."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 184,
+  "verse_key": "8:58",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِمَّا تَخَافَنَّ مِن قَوۡمٍ خِيَانَةٗ فَٱنۢبِذۡ إِلَيۡهِمۡ عَلَىٰ سَوَآءٍۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡخَآئِنِينَ",
+  "translation": "(58) If you [have reason to] fear from a people betrayal, throw [their treaty] back to them, [putting you] on equal terms.[455] Indeed, Allāh does not like traitors.",
+  "footnotes": "[455]- When you see signs of treachery from those with whom you have made a treaty, announce to them its dissolution so they will know exactly where they stand."
 }

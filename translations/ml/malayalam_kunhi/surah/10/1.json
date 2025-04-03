@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1365",
-    "sura": "10",
-    "aya": "1",
-    "arabic_text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ",
-    "translation": "അലിഫ് ലാം റാ. വിജ്ഞാനപ്രദമായ വേദഗ്രന്ഥത്തിലെ വചനങ്ങളാണവ.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 208,
+  "verse_key": "10:1",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ",
+  "translation": "അലിഫ് ലാം റാ. വിജ്ഞാനപ്രദമായ വേദഗ്രന്ഥത്തിലെ വചനങ്ങളാണവ.",
+  "footnotes": ""
 }

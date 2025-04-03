@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1764",
-    "sura": "14",
-    "aya": "14",
-    "arabic_text": "وَلَنُسۡكِنَنَّكُمُ ٱلۡأَرۡضَ مِنۢ بَعۡدِهِمۡۚ ذَٰلِكَ لِمَنۡ خَافَ مَقَامِي وَخَافَ وَعِيدِ",
-    "translation": " 14. \"And indeed, We shall make you dwell in the land after them. This is for him who fears standing before Me (on the Day of Resurrection or fears My punishment) and also fears My threat.\"",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 257,
+  "verse_key": "14:14",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَنُسۡكِنَنَّكُمُ ٱلۡأَرۡضَ مِنۢ بَعۡدِهِمۡۚ ذَٰلِكَ لِمَنۡ خَافَ مَقَامِي وَخَافَ وَعِيدِ",
+  "translation": " 14. \"And indeed, We shall make you dwell in the land after them. This is for him who fears standing before Me (on the Day of Resurrection or fears My punishment) and also fears My threat.\"",
+  "footnotes": ""
 }

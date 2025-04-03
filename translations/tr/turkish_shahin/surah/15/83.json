@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1885",
-    "sura": "15",
-    "aya": "83",
-    "arabic_text": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُصۡبِحِينَ",
-    "translation": "Onları da sabaha çıkarlarken o korkunç ses yakaladı.",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 266,
+  "verse_key": "15:83",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَخَذَتۡهُمُ ٱلصَّيۡحَةُ مُصۡبِحِينَ",
+  "translation": "Onları da sabaha çıkarlarken o korkunç ses yakaladı.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "275",
-    "sura": "2",
-    "aya": "268",
-    "arabic_text": "ٱلشَّيۡطَٰنُ يَعِدُكُمُ ٱلۡفَقۡرَ وَيَأۡمُرُكُم بِٱلۡفَحۡشَآءِۖ وَٱللَّهُ يَعِدُكُم مَّغۡفِرَةٗ مِّنۡهُ وَفَضۡلٗاۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ",
-    "translation": "268 Satan vous fait craindre la pauvreté et vous incite à commettre le péché[173], tandis qu’Allah vous promet Son pardon et Ses faveurs. Les faveurs et la science d’Allah sont infinies.",
-    "footnotes": "[173] De l’avarice, notamment."
-  }
+  "id": 268,
+  "verse_number": 268,
+  "page_number": 45,
+  "verse_key": "2:268",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 18,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلشَّيۡطَٰنُ يَعِدُكُمُ ٱلۡفَقۡرَ وَيَأۡمُرُكُم بِٱلۡفَحۡشَآءِۖ وَٱللَّهُ يَعِدُكُم مَّغۡفِرَةٗ مِّنۡهُ وَفَضۡلٗاۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ",
+  "translation": "268 Satan vous fait craindre la pauvreté et vous incite à commettre le péché[173], tandis qu’Allah vous promet Son pardon et Ses faveurs. Les faveurs et la science d’Allah sont infinies.",
+  "footnotes": "[173] De l’avarice, notamment."
 }

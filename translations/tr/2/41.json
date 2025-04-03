@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "48",
-    "sura": "2",
-    "aya": "41",
-    "arabic_text": "وَءَامِنُواْ بِمَآ أَنزَلۡتُ مُصَدِّقٗا لِّمَا مَعَكُمۡ وَلَا تَكُونُوٓاْ أَوَّلَ كَافِرِۭ بِهِۦۖ وَلَا تَشۡتَرُواْ بِـَٔايَٰتِي ثَمَنٗا قَلِيلٗا وَإِيَّٰيَ فَٱتَّقُونِ",
-    "translation": "Elinizde bulunan Tevrat’ı tasdik edici olarak indirdiğim Kur’an’a iman edin ve onu inkâr edenlerin ilki siz olmayın. Ayetlerimi az bir paha karşılığında satmayın; yalnızca benden sakının!",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 7,
+  "verse_key": "2:41",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَامِنُواْ بِمَآ أَنزَلۡتُ مُصَدِّقٗا لِّمَا مَعَكُمۡ وَلَا تَكُونُوٓاْ أَوَّلَ كَافِرِۭ بِهِۦۖ وَلَا تَشۡتَرُواْ بِـَٔايَٰتِي ثَمَنٗا قَلِيلٗا وَإِيَّٰيَ فَٱتَّقُونِ",
+  "translation": "Elinizde bulunan Tevrat’ı tasdik edici olarak indirdiğim Kur’an’a iman edin ve onu inkâr edenlerin ilki siz olmayın. Ayetlerimi az bir paha karşılığında satmayın; yalnızca benden sakının!",
+  "footnotes": ""
 }

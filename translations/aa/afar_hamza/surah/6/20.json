@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "809",
-    "sura": "6",
-    "aya": "20",
-    "arabic_text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡرِفُونَهُۥ كَمَا يَعۡرِفُونَ أَبۡنَآءَهُمُۘ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُونَ",
-    "translation": "20.Ama kitab kah necee mari (yahuud kee nasaara kinnuk) Nabii Mucammad ﷺ yaaxigeenih sinni xaylo kah yaaxigen innah, woo mari usun sinni nafsi kasaarise mara, toysa usun usuk luk yemeeteemil mayaaminan.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 130,
+  "verse_key": "6:20",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡرِفُونَهُۥ كَمَا يَعۡرِفُونَ أَبۡنَآءَهُمُۘ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُونَ",
+  "translation": "20.Ama kitab kah necee mari (yahuud kee nasaara kinnuk) Nabii Mucammad ﷺ yaaxigeenih sinni xaylo kah yaaxigen innah, woo mari usun sinni nafsi kasaarise mara, toysa usun usuk luk yemeeteemil mayaaminan.",
+  "footnotes": ""
 }

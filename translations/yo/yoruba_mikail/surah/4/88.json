@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "581",
-    "sura": "4",
-    "aya": "88",
-    "arabic_text": "۞ فَمَا لَكُمۡ فِي ٱلۡمُنَٰفِقِينَ فِئَتَيۡنِ وَٱللَّهُ أَرۡكَسَهُم بِمَا كَسَبُوٓاْۚ أَتُرِيدُونَ أَن تَهۡدُواْ مَنۡ أَضَلَّ ٱللَّهُۖ وَمَن يُضۡلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلٗا",
-    "translation": "Kí ni ó máa mu yín pín sí ìjọ méjì nípa àwọn ṣọ̀bẹ-ṣèlu mùsùlùmí! Ṣebí Allāhu l’Ó dá wọn padà sẹ́yìn[1] nítorí ohun tí wọ́n ṣe níṣẹ́. Ṣé ẹ fẹ́ fi ẹni tí Allāhu ṣì lọ́nà mọ̀nà ni? Ẹnikẹ́ni tí Allāhu bá ṣì lọ́nà, o ò níí rí ọ̀nà kan fún un.",
-    "footnotes": "1. Allāhu dá wọn padà sẹ́yìn; wọ́n di kèfèrí lẹ́yìn ìgbà tí wọ́n tí di mùsùlùmí."
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 92,
+  "verse_key": "4:88",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ فَمَا لَكُمۡ فِي ٱلۡمُنَٰفِقِينَ فِئَتَيۡنِ وَٱللَّهُ أَرۡكَسَهُم بِمَا كَسَبُوٓاْۚ أَتُرِيدُونَ أَن تَهۡدُواْ مَنۡ أَضَلَّ ٱللَّهُۖ وَمَن يُضۡلِلِ ٱللَّهُ فَلَن تَجِدَ لَهُۥ سَبِيلٗا",
+  "translation": "Kí ni ó máa mu yín pín sí ìjọ méjì nípa àwọn ṣọ̀bẹ-ṣèlu mùsùlùmí! Ṣebí Allāhu l’Ó dá wọn padà sẹ́yìn[1] nítorí ohun tí wọ́n ṣe níṣẹ́. Ṣé ẹ fẹ́ fi ẹni tí Allāhu ṣì lọ́nà mọ̀nà ni? Ẹnikẹ́ni tí Allāhu bá ṣì lọ́nà, o ò níí rí ọ̀nà kan fún un.",
+  "footnotes": "1. Allāhu dá wọn padà sẹ́yìn; wọ́n di kèfèrí lẹ́yìn ìgbà tí wọ́n tí di mùsùlùmí."
 }

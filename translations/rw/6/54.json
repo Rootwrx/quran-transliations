@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "843",
-    "sura": "6",
-    "aya": "54",
-    "arabic_text": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤۡمِنُونَ بِـَٔايَٰتِنَا فَقُلۡ سَلَٰمٌ عَلَيۡكُمۡۖ كَتَبَ رَبُّكُمۡ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَ أَنَّهُۥ مَنۡ عَمِلَ مِنكُمۡ سُوٓءَۢا بِجَهَٰلَةٖ ثُمَّ تَابَ مِنۢ بَعۡدِهِۦ وَأَصۡلَحَ فَأَنَّهُۥ غَفُورٞ رَّحِيمٞ",
-    "translation": "Kandi abemera ibimenyetso byacu nibaza bakugana, ujye ubaramutsa uvuga uti “Salamu alaykum (mugire amahoro!)” Nyagasani wanyu yiyemeje kugira impuhwe kugira ngo uzakora ikibi muri mwe kubera ubujiji, maze nyuma yo kugikora akicuza akanakora ibikorwa byiza (azamubabarire). Mu by’ukuri We (Allah) ni Ubabarira ibyaha, Nyirimpuhwe.",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 134,
+  "verse_key": "6:54",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا جَآءَكَ ٱلَّذِينَ يُؤۡمِنُونَ بِـَٔايَٰتِنَا فَقُلۡ سَلَٰمٌ عَلَيۡكُمۡۖ كَتَبَ رَبُّكُمۡ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَ أَنَّهُۥ مَنۡ عَمِلَ مِنكُمۡ سُوٓءَۢا بِجَهَٰلَةٖ ثُمَّ تَابَ مِنۢ بَعۡدِهِۦ وَأَصۡلَحَ فَأَنَّهُۥ غَفُورٞ رَّحِيمٞ",
+  "translation": "Kandi abemera ibimenyetso byacu nibaza bakugana, ujye ubaramutsa uvuga uti “Salamu alaykum (mugire amahoro!)” Nyagasani wanyu yiyemeje kugira impuhwe kugira ngo uzakora ikibi muri mwe kubera ubujiji, maze nyuma yo kugikora akicuza akanakora ibikorwa byiza (azamubabarire). Mu by’ukuri We (Allah) ni Ubabarira ibyaha, Nyirimpuhwe.",
+  "footnotes": ""
 }

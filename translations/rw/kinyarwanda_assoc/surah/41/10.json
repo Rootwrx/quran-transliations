@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4228",
-    "sura": "41",
-    "aya": "10",
-    "arabic_text": "وَجَعَلَ فِيهَا رَوَٰسِيَ مِن فَوۡقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقۡوَٰتَهَا فِيٓ أَرۡبَعَةِ أَيَّامٖ سَوَآءٗ لِّلسَّآئِلِينَ",
-    "translation": "Yayishimangiyeho imisozi ku buso bwayo ndetse anayiha imigisha, anayigenaho ibitunga (ibinyabuzima) biyiriho mu minsi ine ingana.[1] (Icyo ni cyo gisubizo) kubabaza (iby’iremwa ryayo).",
-    "footnotes": "[1] Iminsi ine ingana ivugwa muri uyu murongo ihwanye n’iminsi ibiri Allah yaremyemo isi, hanyuma akarema ibiyiriho n’ibigomba gutunga ibiyiriho mu yindi minsi ibiri; yose hamwe ikaba iminsi ine."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 477,
+  "verse_key": "41:10",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلَ فِيهَا رَوَٰسِيَ مِن فَوۡقِهَا وَبَٰرَكَ فِيهَا وَقَدَّرَ فِيهَآ أَقۡوَٰتَهَا فِيٓ أَرۡبَعَةِ أَيَّامٖ سَوَآءٗ لِّلسَّآئِلِينَ",
+  "translation": "Yayishimangiyeho imisozi ku buso bwayo ndetse anayiha imigisha, anayigenaho ibitunga (ibinyabuzima) biyiriho mu minsi ine ingana.[1] (Icyo ni cyo gisubizo) kubabaza (iby’iremwa ryayo).",
+  "footnotes": "[1] Iminsi ine ingana ivugwa muri uyu murongo ihwanye n’iminsi ibiri Allah yaremyemo isi, hanyuma akarema ibiyiriho n’ibigomba gutunga ibiyiriho mu yindi minsi ibiri; yose hamwe ikaba iminsi ine."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5608",
-    "sura": "76",
-    "aya": "17",
-    "arabic_text": "وَيُسۡقَوۡنَ فِيهَا كَأۡسٗا كَانَ مِزَاجُهَا زَنجَبِيلًا",
-    "translation": "Na humo watanyweshwa kinywaji kilicho changanyika na tangawizi.",
-    "footnotes": "Na watu wema hupewa kunywa huko Peponi mvinyo inayo fanana na sharubati ya tangawizi kwa utamu."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 579,
+  "verse_key": "76:17",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُسۡقَوۡنَ فِيهَا كَأۡسٗا كَانَ مِزَاجُهَا زَنجَبِيلًا",
+  "translation": "Na humo watanyweshwa kinywaji kilicho changanyika na tangawizi.",
+  "footnotes": "Na watu wema hupewa kunywa huko Peponi mvinyo inayo fanana na sharubati ya tangawizi kwa utamu."
 }

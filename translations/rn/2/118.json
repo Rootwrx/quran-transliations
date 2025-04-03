@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "125",
-    "sura": "2",
-    "aya": "118",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ لَا يَعۡلَمُونَ لَوۡلَا يُكَلِّمُنَا ٱللَّهُ أَوۡ تَأۡتِينَآ ءَايَةٞۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبۡلِهِم مِّثۡلَ قَوۡلِهِمۡۘ تَشَٰبَهَتۡ قُلُوبُهُمۡۗ قَدۡ بَيَّنَّا ٱلۡأٓيَٰتِ لِقَوۡمٖ يُوقِنُونَ",
-    "translation": "Abatagira ubumenyi mu bahawe Igitabu no mu babangikanyamana babwiye Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) ku kagagazo, bati: “Ese Imana Allah iyo Ipfuma Ituvugisha Ikatubwira ko wewe uri Intumwa yayo, canke tukaronka igitangaro gifadika kivyemeza!”. Ni nk’uko nyene rero n’abagarariji b’aho hambere babwiye Intumwa barungikiwe kuko imitima yabo bose isusa mu buhakanyi. Mu vy’ukuri, Twaramaze gutomorera neza abemera ata gukekeranya, Aayah n’ivyemezo vyerekana ko Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) ari Intumwa y’Imana.",
-    "footnotes": ""
-  }
+  "id": 118,
+  "verse_number": 118,
+  "page_number": 18,
+  "verse_key": "2:118",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ لَا يَعۡلَمُونَ لَوۡلَا يُكَلِّمُنَا ٱللَّهُ أَوۡ تَأۡتِينَآ ءَايَةٞۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ مِن قَبۡلِهِم مِّثۡلَ قَوۡلِهِمۡۘ تَشَٰبَهَتۡ قُلُوبُهُمۡۗ قَدۡ بَيَّنَّا ٱلۡأٓيَٰتِ لِقَوۡمٖ يُوقِنُونَ",
+  "translation": "Abatagira ubumenyi mu bahawe Igitabu no mu babangikanyamana babwiye Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) ku kagagazo, bati: “Ese Imana Allah iyo Ipfuma Ituvugisha Ikatubwira ko wewe uri Intumwa yayo, canke tukaronka igitangaro gifadika kivyemeza!”. Ni nk’uko nyene rero n’abagarariji b’aho hambere babwiye Intumwa barungikiwe kuko imitima yabo bose isusa mu buhakanyi. Mu vy’ukuri, Twaramaze gutomorera neza abemera ata gukekeranya, Aayah n’ivyemezo vyerekana ko Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah) ari Intumwa y’Imana.",
+  "footnotes": ""
 }

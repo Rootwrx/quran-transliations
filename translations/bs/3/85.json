@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "378",
-    "sura": "3",
-    "aya": "85",
-    "arabic_text": "وَمَن يَبۡتَغِ غَيۡرَ ٱلۡإِسۡلَٰمِ دِينٗا فَلَن يُقۡبَلَ مِنۡهُ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ",
-    "translation": "A onaj ko želi neku drugu vjeru osim islama, neće mu biti primljena, i on će na drugom svijetu biti među gubitnicima. ",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 61,
+  "verse_key": "3:85",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن يَبۡتَغِ غَيۡرَ ٱلۡإِسۡلَٰمِ دِينٗا فَلَن يُقۡبَلَ مِنۡهُ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ",
+  "translation": "A onaj ko želi neku drugu vjeru osim islama, neće mu biti primljena, i on će na drugom svijetu biti među gubitnicima. ",
+  "footnotes": ""
 }

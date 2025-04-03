@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3650",
-    "sura": "34",
-    "aya": "44",
-    "arabic_text": "وَمَآ ءَاتَيۡنَٰهُم مِّن كُتُبٖ يَدۡرُسُونَهَاۖ وَمَآ أَرۡسَلۡنَآ إِلَيۡهِمۡ قَبۡلَكَ مِن نَّذِيرٖ",
-    "translation": "44. Y no les concedimos escrituras sagradas que pudiesen estudiar (antes del Corán para compararlas y decir que lo tuyo es brujería) ni les enviamos con anterioridad a ti (¡oh, Muhammad!) ningún amonestador. ",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 433,
+  "verse_key": "34:44",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ ءَاتَيۡنَٰهُم مِّن كُتُبٖ يَدۡرُسُونَهَاۖ وَمَآ أَرۡسَلۡنَآ إِلَيۡهِمۡ قَبۡلَكَ مِن نَّذِيرٖ",
+  "translation": "44. Y no les concedimos escrituras sagradas que pudiesen estudiar (antes del Corán para compararlas y decir que lo tuyo es brujería) ni les enviamos con anterioridad a ti (¡oh, Muhammad!) ningún amonestador. ",
+  "footnotes": ""
 }

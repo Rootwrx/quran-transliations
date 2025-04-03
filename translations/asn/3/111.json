@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "404",
-    "sura": "3",
-    "aya": "111",
-    "arabic_text": "لَن يَضُرُّوكُمۡ إِلَّآ أَذٗىۖ وَإِن يُقَٰتِلُوكُمۡ يُوَلُّوكُمُ ٱلۡأَدۡبَارَ ثُمَّ لَا يُنصَرُونَ",
-    "translation": "Wͻ’nntumi nyε mo hwee na mmom atεm na wͻ’bedi mo, sε wͻ’ne mo ko nso a wͻ’bεdane wͻn akyi (adwane). Na wͻ’nnya ͻboafoͻ.",
-    "footnotes": ""
-  }
+  "id": 111,
+  "verse_number": 111,
+  "page_number": 64,
+  "verse_key": "3:111",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَن يَضُرُّوكُمۡ إِلَّآ أَذٗىۖ وَإِن يُقَٰتِلُوكُمۡ يُوَلُّوكُمُ ٱلۡأَدۡبَارَ ثُمَّ لَا يُنصَرُونَ",
+  "translation": "Wͻ’nntumi nyε mo hwee na mmom atεm na wͻ’bedi mo, sε wͻ’ne mo ko nso a wͻ’bεdane wͻn akyi (adwane). Na wͻ’nnya ͻboafoͻ.",
+  "footnotes": ""
 }

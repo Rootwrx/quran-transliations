@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6200",
-    "sura": "107",
-    "aya": "3",
-    "arabic_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
-    "translation": "আৰু সি দুখিয়াক খানা খুৱাবলৈ উৎসাহ নিদিয়ে।",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 602,
+  "verse_key": "107:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+  "translation": "আৰু সি দুখিয়াক খানা খুৱাবলৈ উৎসাহ নিদিয়ে।",
+  "footnotes": ""
 }

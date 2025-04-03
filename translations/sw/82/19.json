@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5848",
-    "sura": "82",
-    "aya": "19",
-    "arabic_text": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ",
-    "translation": "Siku ambayo nafsi haitakuwa na madaraka yoyote juu ya nafsi; na amri yote siku hiyo ni ya Mwenyezi Mungu tu.",
-    "footnotes": "Siku ambayo nafsi haitakuwa na mamlaka yoyote juu ya nafsi ya kuifaa au kuidhuru; na amri yote siku hiyo itakuwa ni ya Mwenyezi Mungu peke yake!"
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 587,
+  "verse_key": "82:19",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ لَا تَمۡلِكُ نَفۡسٞ لِّنَفۡسٖ شَيۡـٔٗاۖ وَٱلۡأَمۡرُ يَوۡمَئِذٖ لِّلَّهِ",
+  "translation": "Siku ambayo nafsi haitakuwa na madaraka yoyote juu ya nafsi; na amri yote siku hiyo ni ya Mwenyezi Mungu tu.",
+  "footnotes": "Siku ambayo nafsi haitakuwa na mamlaka yoyote juu ya nafsi ya kuifaa au kuidhuru; na amri yote siku hiyo itakuwa ni ya Mwenyezi Mungu peke yake!"
 }

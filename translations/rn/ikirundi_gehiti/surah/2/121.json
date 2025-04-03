@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "128",
-    "sura": "2",
-    "aya": "121",
-    "arabic_text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَتۡلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۗ وَمَن يَكۡفُرۡ بِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
-    "translation": "Abayahudi n’abanaswara Twahaye Igitabu bakagisoma ukuri kwo kugisoma, bakagikurikiza uko bitegetswe ata co bahinduye mu kwemera Intumwa zose, ata n’ico bongeyemwo, abo ni bo bemera vy’ukuri Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah), bakemera n’ivyo yahishuriwe. Nayo abahindagura canke bakanyegeza ibiri muri nya Gitabu, abo ni bo bagarariza iyo Ntumwa hamwe n’ivyo yahishuriwe. Abo rero ni bo bahomvye ubuzima bwabo bwo kw’isi n’ubw’inyuma yo gupfa.",
-    "footnotes": ""
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 19,
+  "verse_key": "2:121",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَتۡلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۗ وَمَن يَكۡفُرۡ بِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+  "translation": "Abayahudi n’abanaswara Twahaye Igitabu bakagisoma ukuri kwo kugisoma, bakagikurikiza uko bitegetswe ata co bahinduye mu kwemera Intumwa zose, ata n’ico bongeyemwo, abo ni bo bemera vy’ukuri Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah), bakemera n’ivyo yahishuriwe. Nayo abahindagura canke bakanyegeza ibiri muri nya Gitabu, abo ni bo bagarariza iyo Ntumwa hamwe n’ivyo yahishuriwe. Abo rero ni bo bahomvye ubuzima bwabo bwo kw’isi n’ubw’inyuma yo gupfa.",
+  "footnotes": ""
 }

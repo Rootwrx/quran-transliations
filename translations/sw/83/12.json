@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5860",
-    "sura": "83",
-    "aya": "12",
-    "arabic_text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ",
-    "translation": "Wala haikadhibishi ila kila mwenye kuruka mipaka, mwenye dhambi.",
-    "footnotes": "Na wala haikanushi Siku ya Malipo ila kila mwenye kupindukia mipaka mwingi wa madhambi."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 588,
+  "verse_key": "83:12",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا يُكَذِّبُ بِهِۦٓ إِلَّا كُلُّ مُعۡتَدٍ أَثِيمٍ",
+  "translation": "Wala haikadhibishi ila kila mwenye kuruka mipaka, mwenye dhambi.",
+  "footnotes": "Na wala haikanushi Siku ya Malipo ila kila mwenye kupindukia mipaka mwingi wa madhambi."
 }

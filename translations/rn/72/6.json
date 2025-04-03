@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5453",
-    "sura": "72",
-    "aya": "6",
-    "arabic_text": "وَأَنَّهُۥ كَانَ رِجَالٞ مِّنَ ٱلۡإِنسِ يَعُوذُونَ بِرِجَالٖ مِّنَ ٱلۡجِنِّ فَزَادُوهُمۡ رَهَقٗا",
-    "translation": "Twiyumvira n’uko, hariho abagabo mu biremwa-muntu, bahora bikingira ku bagabo mu Majini ngo babakingire ibibi mu rugendo[1], gutyo Amajini yongerereza abantu ubwoba bwo kuyatinya;",
-    "footnotes": "[1] Ukwo kwikingira ibibi ku biremwa, ari na kwo Imana Allah Yihanije ababangikanyamana, ni ibangikanyamana rikuru. Ntiribabarirwa n’Imana Allah, kiretse mu gihe uwarigize yigaye nya kwigaya ku Mana Allah. Iyi Aayah rero hamwe n’ivyo, irihaniza cane kuja ku bapfumu, ba rumenyi na ba senyagara, n’abandi."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 572,
+  "verse_key": "72:6",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّهُۥ كَانَ رِجَالٞ مِّنَ ٱلۡإِنسِ يَعُوذُونَ بِرِجَالٖ مِّنَ ٱلۡجِنِّ فَزَادُوهُمۡ رَهَقٗا",
+  "translation": "Twiyumvira n’uko, hariho abagabo mu biremwa-muntu, bahora bikingira ku bagabo mu Majini ngo babakingire ibibi mu rugendo[1], gutyo Amajini yongerereza abantu ubwoba bwo kuyatinya;",
+  "footnotes": "[1] Ukwo kwikingira ibibi ku biremwa, ari na kwo Imana Allah Yihanije ababangikanyamana, ni ibangikanyamana rikuru. Ntiribabarirwa n’Imana Allah, kiretse mu gihe uwarigize yigaye nya kwigaya ku Mana Allah. Iyi Aayah rero hamwe n’ivyo, irihaniza cane kuja ku bapfumu, ba rumenyi na ba senyagara, n’abandi."
 }

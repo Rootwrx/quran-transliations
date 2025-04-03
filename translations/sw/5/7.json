@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "676",
-    "sura": "5",
-    "aya": "7",
-    "arabic_text": "وَٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ وَمِيثَٰقَهُ ٱلَّذِي وَاثَقَكُم بِهِۦٓ إِذۡ قُلۡتُمۡ سَمِعۡنَا وَأَطَعۡنَاۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
-    "translation": "Na kumbukeni neema ya Mwenyezi Mungu iliyo juu yenu, na ahadi yake aliyo fungamana nanyi mlipo sema: Tumesikia na tumet'ii. Na mcheni Mwenyezi Mungu. Hakika Mwenyezi Mungu ni Mjuzi sana wa yaliyomo vifuani.",
-    "footnotes": "Kumbukeni, enyi Waumini, neema za Mwenyezi Mungu alizo kuneemesheni kwa kukuongoeni kwenye Uislamu. Jitahidini kutimiza ahadi yake aliyo itaka kwenu wakati mlipo muunga mkono Mtume wake, Muhammad, kuwa mtamsikia na mtamt'ii. Na mcheni Mwenyezi Mungu kwa kuzihifadhi ahadi hizi. Yeye, Subhanahu, ni Mjuzi sana wa yote yaliyo fichikana nyoyoni mwenu, naye atakulipeni kwayo."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 108,
+  "verse_key": "5:7",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 43,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ وَمِيثَٰقَهُ ٱلَّذِي وَاثَقَكُم بِهِۦٓ إِذۡ قُلۡتُمۡ سَمِعۡنَا وَأَطَعۡنَاۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "translation": "Na kumbukeni neema ya Mwenyezi Mungu iliyo juu yenu, na ahadi yake aliyo fungamana nanyi mlipo sema: Tumesikia na tumet'ii. Na mcheni Mwenyezi Mungu. Hakika Mwenyezi Mungu ni Mjuzi sana wa yaliyomo vifuani.",
+  "footnotes": "Kumbukeni, enyi Waumini, neema za Mwenyezi Mungu alizo kuneemesheni kwa kukuongoeni kwenye Uislamu. Jitahidini kutimiza ahadi yake aliyo itaka kwenu wakati mlipo muunga mkono Mtume wake, Muhammad, kuwa mtamsikia na mtamt'ii. Na mcheni Mwenyezi Mungu kwa kuzihifadhi ahadi hizi. Yeye, Subhanahu, ni Mjuzi sana wa yote yaliyo fichikana nyoyoni mwenu, naye atakulipeni kwayo."
 }

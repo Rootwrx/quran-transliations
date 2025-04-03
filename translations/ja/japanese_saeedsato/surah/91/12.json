@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6055",
-    "sura": "91",
-    "aya": "12",
-    "arabic_text": "إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا",
-    "translation": "その（サムード*の部族の内、）最も不幸な者[1]が立ち上がった時のこと。",
-    "footnotes": "[1]　この「最も不幸な者」については、月章2９「仲間」の訳注を参照。"
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 595,
+  "verse_key": "91:12",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذِ ٱنۢبَعَثَ أَشۡقَىٰهَا",
+  "translation": "その（サムード*の部族の内、）最も不幸な者[1]が立ち上がった時のこと。",
+  "footnotes": "[1]　この「最も不幸な者」については、月章2９「仲間」の訳注を参照。"
 }

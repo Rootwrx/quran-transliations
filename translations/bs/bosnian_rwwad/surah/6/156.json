@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "945",
-    "sura": "6",
-    "aya": "156",
-    "arabic_text": "أَن تَقُولُوٓاْ إِنَّمَآ أُنزِلَ ٱلۡكِتَٰبُ عَلَىٰ طَآئِفَتَيۡنِ مِن قَبۡلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمۡ لَغَٰفِلِينَ",
-    "translation": "I zato, da ne kažete: \"Knjiga je objavljena dvjema zajednicama prije nas [1] , ali mi je ne znamo čitati kao oni\",",
-    "footnotes": "[1] Dvjema zajednicima, tj. jevrejima i kršćanima."
-  }
+  "id": 156,
+  "verse_number": 156,
+  "page_number": 149,
+  "verse_key": "6:156",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَن تَقُولُوٓاْ إِنَّمَآ أُنزِلَ ٱلۡكِتَٰبُ عَلَىٰ طَآئِفَتَيۡنِ مِن قَبۡلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمۡ لَغَٰفِلِينَ",
+  "translation": "I zato, da ne kažete: \"Knjiga je objavljena dvjema zajednicama prije nas [1] , ali mi je ne znamo čitati kao oni\",",
+  "footnotes": "[1] Dvjema zajednicima, tj. jevrejima i kršćanima."
 }

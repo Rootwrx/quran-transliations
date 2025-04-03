@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "69",
-    "sura": "2",
-    "aya": "62",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "Hakika Walio amini, na Mayahudi na Wakristo, na Wasabai; yeyote atakaye muamini Mwenyezi Mungu na Siku ya Mwisho na akatenda mema basi watapata malipwa yao kwa Mola wao Mlezi, wala haitakuwa khofu juu yao, wala hawatahuzunika.",
-    "footnotes": "Wale walio amini, nao ni Manabii wa zamani, na Mayahudi, na Wakristo, na wanao tukuza nyota na malaika, na wanao uamini ujumbe wa Muhammad baada ya kuteuliwa kuwa ni Mtume, na wakaamini kuwa Mwenyezi Mungu Mtukufu ni Mmoja wa pekee, na wakaamini kuwa kupo kufufuliwa na kuhisabiwa Siku ya Kiyama, na wakatenda vitendo vyema duniani, basi watu hawa wana malipwa yao yaliyo wekewa kwa Mola wao Mlezi. Wala haitowapata khofu ya kuadhibiwa, na wala haitowafika huzuni kwa kukosa thawabu. Na Mwenyezi Mungu haupotezi ujira wa mwenye kutenda mema."
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 10,
+  "verse_key": "2:62",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "Hakika Walio amini, na Mayahudi na Wakristo, na Wasabai; yeyote atakaye muamini Mwenyezi Mungu na Siku ya Mwisho na akatenda mema basi watapata malipwa yao kwa Mola wao Mlezi, wala haitakuwa khofu juu yao, wala hawatahuzunika.",
+  "footnotes": "Wale walio amini, nao ni Manabii wa zamani, na Mayahudi, na Wakristo, na wanao tukuza nyota na malaika, na wanao uamini ujumbe wa Muhammad baada ya kuteuliwa kuwa ni Mtume, na wakaamini kuwa Mwenyezi Mungu Mtukufu ni Mmoja wa pekee, na wakaamini kuwa kupo kufufuliwa na kuhisabiwa Siku ya Kiyama, na wakatenda vitendo vyema duniani, basi watu hawa wana malipwa yao yaliyo wekewa kwa Mola wao Mlezi. Wala haitowapata khofu ya kuadhibiwa, na wala haitowafika huzuni kwa kukosa thawabu. Na Mwenyezi Mungu haupotezi ujira wa mwenye kutenda mema."
 }

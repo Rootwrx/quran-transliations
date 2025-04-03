@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4030",
-    "sura": "38",
-    "aya": "60",
-    "arabic_text": "قَالُواْ بَلۡ أَنتُمۡ لَا مَرۡحَبَۢا بِكُمۡۖ أَنتُمۡ قَدَّمۡتُمُوهُ لَنَاۖ فَبِئۡسَ ٱلۡقَرَارُ",
-    "translation": "(60) They will say, \"Nor you! No welcome for you. You, [our leaders], brought this upon us, and wretched is the settlement.\"",
-    "footnotes": ""
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 456,
+  "verse_key": "38:60",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ بَلۡ أَنتُمۡ لَا مَرۡحَبَۢا بِكُمۡۖ أَنتُمۡ قَدَّمۡتُمُوهُ لَنَاۖ فَبِئۡسَ ٱلۡقَرَارُ",
+  "translation": "(60) They will say, \"Nor you! No welcome for you. You, [our leaders], brought this upon us, and wretched is the settlement.\"",
+  "footnotes": ""
 }

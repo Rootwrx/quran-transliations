@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "439",
-    "sura": "3",
-    "aya": "146",
-    "arabic_text": "وَكَأَيِّن مِّن نَّبِيّٖ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٞ فَمَا وَهَنُواْ لِمَآ أَصَابَهُمۡ فِي سَبِيلِ ٱللَّهِ وَمَا ضَعُفُواْ وَمَا ٱسۡتَكَانُواْۗ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ",
-    "translation": "Kuma da yawa wani Annabi wanda ya yi yãƙi, akwai jama'a mãsu yawa tãre da shi, sa'an nan ba su yi laushi ba ga abin da ya same su a cikin hanyar Allah, kuma ba su yi rauni ba kuma ba su sad da kai ba. Kuma Allah yana son mãsu haƙuri.",
-    "footnotes": ""
-  }
+  "id": 146,
+  "verse_number": 146,
+  "page_number": 68,
+  "verse_key": "3:146",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَأَيِّن مِّن نَّبِيّٖ قَٰتَلَ مَعَهُۥ رِبِّيُّونَ كَثِيرٞ فَمَا وَهَنُواْ لِمَآ أَصَابَهُمۡ فِي سَبِيلِ ٱللَّهِ وَمَا ضَعُفُواْ وَمَا ٱسۡتَكَانُواْۗ وَٱللَّهُ يُحِبُّ ٱلصَّٰبِرِينَ",
+  "translation": "Kuma da yawa wani Annabi wanda ya yi yãƙi, akwai jama'a mãsu yawa tãre da shi, sa'an nan ba su yi laushi ba ga abin da ya same su a cikin hanyar Allah, kuma ba su yi rauni ba kuma ba su sad da kai ba. Kuma Allah yana son mãsu haƙuri.",
+  "footnotes": ""
 }

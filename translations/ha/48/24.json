@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4607",
-    "sura": "48",
-    "aya": "24",
-    "arabic_text": "وَهُوَ ٱلَّذِي كَفَّ أَيۡدِيَهُمۡ عَنكُمۡ وَأَيۡدِيَكُمۡ عَنۡهُم بِبَطۡنِ مَكَّةَ مِنۢ بَعۡدِ أَنۡ أَظۡفَرَكُمۡ عَلَيۡهِمۡۚ وَكَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرًا",
-    "translation": "Kuma Shĩ ne Ya kange hannayensu *daga gare ku, kuma da hannayenku daga gare su, a cikin Makka, bãyan Ya rinjãyar da ku a kansu. Kuma Allah Ya kasance Mai gani ga abin da kuke aikatãwa.",
-    "footnotes": "* Waɗansu Ƙuraishawa ne, sũ tamãnin, suka kewaye Musulmi a Hudaibiyya, da niyyar yaudara, sai aka kãme su, su duka, aka kai su ga Annabi, shi kuma ya yãfe musu, a bãyan ya nũna musu rinjãya. Wannan shĩ ne ya sabbaba yin sulhu."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 514,
+  "verse_key": "48:24",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 205,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِي كَفَّ أَيۡدِيَهُمۡ عَنكُمۡ وَأَيۡدِيَكُمۡ عَنۡهُم بِبَطۡنِ مَكَّةَ مِنۢ بَعۡدِ أَنۡ أَظۡفَرَكُمۡ عَلَيۡهِمۡۚ وَكَانَ ٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرًا",
+  "translation": "Kuma Shĩ ne Ya kange hannayensu *daga gare ku, kuma da hannayenku daga gare su, a cikin Makka, bãyan Ya rinjãyar da ku a kansu. Kuma Allah Ya kasance Mai gani ga abin da kuke aikatãwa.",
+  "footnotes": "* Waɗansu Ƙuraishawa ne, sũ tamãnin, suka kewaye Musulmi a Hudaibiyya, da niyyar yaudara, sai aka kãme su, su duka, aka kai su ga Annabi, shi kuma ya yãfe musu, a bãyan ya nũna musu rinjãya. Wannan shĩ ne ya sabbaba yin sulhu."
 }

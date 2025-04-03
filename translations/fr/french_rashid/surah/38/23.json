@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3993",
-    "sura": "38",
-    "aya": "23",
-    "arabic_text": "إِنَّ هَٰذَآ أَخِي لَهُۥ تِسۡعٞ وَتِسۡعُونَ نَعۡجَةٗ وَلِيَ نَعۡجَةٞ وَٰحِدَةٞ فَقَالَ أَكۡفِلۡنِيهَا وَعَزَّنِي فِي ٱلۡخِطَابِ",
-    "translation": "23 L’un d’eux dit : « Mon frère que voici possède quatre-vingt-dix-neuf brebis alors que je n’en ai moi-même qu’une seule qu’il me réclame avec insistance. »",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 454,
+  "verse_key": "38:23",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰذَآ أَخِي لَهُۥ تِسۡعٞ وَتِسۡعُونَ نَعۡجَةٗ وَلِيَ نَعۡجَةٞ وَٰحِدَةٞ فَقَالَ أَكۡفِلۡنِيهَا وَعَزَّنِي فِي ٱلۡخِطَابِ",
+  "translation": "23 L’un d’eux dit : « Mon frère que voici possède quatre-vingt-dix-neuf brebis alors que je n’en ai moi-même qu’une seule qu’il me réclame avec insistance. »",
+  "footnotes": ""
 }

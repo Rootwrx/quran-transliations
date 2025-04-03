@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1112",
-    "sura": "7",
-    "aya": "158",
-    "arabic_text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡ جَمِيعًا ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِيِّ ٱلۡأُمِّيِّ ٱلَّذِي يُؤۡمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمۡ تَهۡتَدُونَ",
-    "translation": "Sema: Enyi watu! Hakika mimi ni Mtume kwenu nyinyi nyote, niliye tumwa na Mwenyezi Mungu Mwenye ufalme wa mbingu na ardhi. Hapana mungu ila Yeye anaye huisha na anaye fisha. Basi muaminini Mwenyezi Mungu na Mtume wake asiyejua kusoma na kuandika, ambaye anamuamini Mwenyezi Mungu na maneno yake. Na mfuateni yeye ili mpate kuongoka.",
-    "footnotes": "Ewe Nabii! Waambie watu: Hakika mimi nimetumwa kutoka kwa Mwenyezi Mungu kwenu nyinyi nyote, bila ya farka baina ya Mwaarabu na asiye kuwa Mwaarabu, baina ya mweusi na mweupe. Na Mwenyezi Mungu aliye nituma ni Yeye peke yake ndiye Mwenye ufalme wa mbingu na ardhi. Huipitisha amri yake kwa mujibu wa hikima yake. Na hufanya mbinguni na duniani kama anavyo penda. Wala hapana wa kuabudiwa kwa haki ila Yeye. Na Yeye ndiye Mwenye uwezo wa kuhuisha na kufisha, wala hapana mwenginewe. Basi muaminini Yeye na Mtume wake, huyu Nabii asiye soma wala kuandika. Naye huyu anamuamini Mwenyezi Mungu ambaye anaye kuiteni mumuamini. Na anaamini Vitabu vyake vilivyo teremshwa. Basi mfuateni katika kila afanyalo na asemalo mpate kuongoka na kuongozeka."
-  }
+  "id": 158,
+  "verse_number": 158,
+  "page_number": 170,
+  "verse_key": "7:158",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 68,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُمۡ جَمِيعًا ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِ ٱلنَّبِيِّ ٱلۡأُمِّيِّ ٱلَّذِي يُؤۡمِنُ بِٱللَّهِ وَكَلِمَٰتِهِۦ وَٱتَّبِعُوهُ لَعَلَّكُمۡ تَهۡتَدُونَ",
+  "translation": "Sema: Enyi watu! Hakika mimi ni Mtume kwenu nyinyi nyote, niliye tumwa na Mwenyezi Mungu Mwenye ufalme wa mbingu na ardhi. Hapana mungu ila Yeye anaye huisha na anaye fisha. Basi muaminini Mwenyezi Mungu na Mtume wake asiyejua kusoma na kuandika, ambaye anamuamini Mwenyezi Mungu na maneno yake. Na mfuateni yeye ili mpate kuongoka.",
+  "footnotes": "Ewe Nabii! Waambie watu: Hakika mimi nimetumwa kutoka kwa Mwenyezi Mungu kwenu nyinyi nyote, bila ya farka baina ya Mwaarabu na asiye kuwa Mwaarabu, baina ya mweusi na mweupe. Na Mwenyezi Mungu aliye nituma ni Yeye peke yake ndiye Mwenye ufalme wa mbingu na ardhi. Huipitisha amri yake kwa mujibu wa hikima yake. Na hufanya mbinguni na duniani kama anavyo penda. Wala hapana wa kuabudiwa kwa haki ila Yeye. Na Yeye ndiye Mwenye uwezo wa kuhuisha na kufisha, wala hapana mwenginewe. Basi muaminini Yeye na Mtume wake, huyu Nabii asiye soma wala kuandika. Naye huyu anamuamini Mwenyezi Mungu ambaye anaye kuiteni mumuamini. Na anaamini Vitabu vyake vilivyo teremshwa. Basi mfuateni katika kila afanyalo na asemalo mpate kuongoka na kuongozeka."
 }

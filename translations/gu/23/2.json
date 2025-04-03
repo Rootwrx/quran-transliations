@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2675",
-    "sura": "23",
-    "aya": "2",
-    "arabic_text": "ٱلَّذِينَ هُمۡ فِي صَلَاتِهِمۡ خَٰشِعُونَ",
-    "translation": "૨. જેઓ પોતાની નમાઝોને ખશૂઅ (એકાગ્રતા) સાથે પઢે છે.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 342,
+  "verse_key": "23:2",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ هُمۡ فِي صَلَاتِهِمۡ خَٰشِعُونَ",
+  "translation": "૨. જેઓ પોતાની નમાઝોને ખશૂઅ (એકાગ્રતા) સાથે પઢે છે.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4230",
-    "sura": "41",
-    "aya": "12",
-    "arabic_text": "فَقَضَىٰهُنَّ سَبۡعَ سَمَٰوَاتٖ فِي يَوۡمَيۡنِ وَأَوۡحَىٰ فِي كُلِّ سَمَآءٍ أَمۡرَهَاۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَحِفۡظٗاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
-    "translation": "Ni ho rero Imana Allah, Yatunganya iremwa ry’amajuru indwi mu misi ibiri, gutyo ikiringo c’imisi y’iremwa ry’amajuru indwi n’isi, kiba imisi itandatu[2]; Iraheza rero Ihishura mw’ijuru rimwerimwe amabwirizwa yubahirizwa muri ryo, Iranashariza ijuru ryegereye isi n’inyenyeri zakaka nk’amatara, kugira Irikingire kuvogerwa n’amashetani asuma urusaku. Iryo remwa ritangaje ry’ivyo vyose rero, ni indinganizo yateguwe na Nyenintsinzi-Mutaneshwa, Nyenubumenyikurivyose”.",
-    "footnotes": "[2] Imana Allah Yaremye amajuru n’isi mu misi itandatu ku ntumbero Yo Yonyene Izi kandi Ifise ku biremwa, mu gihe Ishoboye kubirema vyose mu kanya isase."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 478,
+  "verse_key": "41:12",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَضَىٰهُنَّ سَبۡعَ سَمَٰوَاتٖ فِي يَوۡمَيۡنِ وَأَوۡحَىٰ فِي كُلِّ سَمَآءٍ أَمۡرَهَاۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَحِفۡظٗاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
+  "translation": "Ni ho rero Imana Allah, Yatunganya iremwa ry’amajuru indwi mu misi ibiri, gutyo ikiringo c’imisi y’iremwa ry’amajuru indwi n’isi, kiba imisi itandatu[2]; Iraheza rero Ihishura mw’ijuru rimwerimwe amabwirizwa yubahirizwa muri ryo, Iranashariza ijuru ryegereye isi n’inyenyeri zakaka nk’amatara, kugira Irikingire kuvogerwa n’amashetani asuma urusaku. Iryo remwa ritangaje ry’ivyo vyose rero, ni indinganizo yateguwe na Nyenintsinzi-Mutaneshwa, Nyenubumenyikurivyose”.",
+  "footnotes": "[2] Imana Allah Yaremye amajuru n’isi mu misi itandatu ku ntumbero Yo Yonyene Izi kandi Ifise ku biremwa, mu gihe Ishoboye kubirema vyose mu kanya isase."
 }

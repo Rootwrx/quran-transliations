@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3803",
-    "sura": "37",
-    "aya": "15",
-    "arabic_text": "وَقَالُوٓاْ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٌ",
-    "translation": "15. и велат: „Ова не е ништо друго, туку вистинска маѓија!",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 446,
+  "verse_key": "37:15",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُوٓاْ إِنۡ هَٰذَآ إِلَّا سِحۡرٞ مُّبِينٌ",
+  "translation": "15. и велат: „Ова не е ништо друго, туку вистинска маѓија!",
+  "footnotes": ""
 }

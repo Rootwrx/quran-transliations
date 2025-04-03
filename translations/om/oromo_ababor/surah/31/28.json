@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3497",
-    "sura": "31",
-    "aya": "28",
-    "arabic_text": "مَّا خَلۡقُكُمۡ وَلَا بَعۡثُكُمۡ إِلَّا كَنَفۡسٖ وَٰحِدَةٍۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٌ",
-    "translation": "Isin uumuufi isin kaasuunis akkuma lubbuu tokkittii malee hin taane. Rabbiin dhaga’aa, argaadha.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 413,
+  "verse_key": "31:28",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا خَلۡقُكُمۡ وَلَا بَعۡثُكُمۡ إِلَّا كَنَفۡسٖ وَٰحِدَةٍۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٌ",
+  "translation": "Isin uumuufi isin kaasuunis akkuma lubbuu tokkittii malee hin taane. Rabbiin dhaga’aa, argaadha.",
+  "footnotes": ""
 }

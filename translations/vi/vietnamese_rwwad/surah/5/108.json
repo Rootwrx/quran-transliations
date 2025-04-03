@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "777",
-    "sura": "5",
-    "aya": "108",
-    "arabic_text": "ذَٰلِكَ أَدۡنَىٰٓ أَن يَأۡتُواْ بِٱلشَّهَٰدَةِ عَلَىٰ وَجۡهِهَآ أَوۡ يَخَافُوٓاْ أَن تُرَدَّ أَيۡمَٰنُۢ بَعۡدَ أَيۡمَٰنِهِمۡۗ وَٱتَّقُواْ ٱللَّهَ وَٱسۡمَعُواْۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
-    "translation": "(Việc yêu cầu hai nhân chứng thề sau lễ nguyện Salah) là cách phù hợp nhất để có được một sự làm chứng đúng thật hoặc vì sợ lời thề bị (người thừa kế) bác bỏ sau khi họ đã thề. Các ngươi hãy kính sợ Allah và hãy nghe (lệnh của Ngài). Quả thật, Allah không bao giờ hướng dẫn đám người bất tuân.",
-    "footnotes": ""
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 125,
+  "verse_key": "5:108",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ أَدۡنَىٰٓ أَن يَأۡتُواْ بِٱلشَّهَٰدَةِ عَلَىٰ وَجۡهِهَآ أَوۡ يَخَافُوٓاْ أَن تُرَدَّ أَيۡمَٰنُۢ بَعۡدَ أَيۡمَٰنِهِمۡۗ وَٱتَّقُواْ ٱللَّهَ وَٱسۡمَعُواْۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+  "translation": "(Việc yêu cầu hai nhân chứng thề sau lễ nguyện Salah) là cách phù hợp nhất để có được một sự làm chứng đúng thật hoặc vì sợ lời thề bị (người thừa kế) bác bỏ sau khi họ đã thề. Các ngươi hãy kính sợ Allah và hãy nghe (lệnh của Ngài). Quả thật, Allah không bao giờ hướng dẫn đám người bất tuân.",
+  "footnotes": ""
 }

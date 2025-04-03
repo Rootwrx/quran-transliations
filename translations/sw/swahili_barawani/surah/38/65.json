@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4035",
-    "sura": "38",
-    "aya": "65",
-    "arabic_text": "قُلۡ إِنَّمَآ أَنَا۠ مُنذِرٞۖ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلۡوَٰحِدُ ٱلۡقَهَّارُ",
-    "translation": "Sema: Hakika mimi ni mwonyaji tu; na hapana mungu ila Mwenyezi Mungu Mmoja, Mtenda nguvu,",
-    "footnotes": "Ewe Muhammad! Waambie washirikina: Hakika mimi ni mwenye kukuonyeni na adhabu ya Mwenyezi Mungu, na hapana wa kuabudiwa kwa haki ila Mwenyezi Mungu Mmoja ambaye hana mshirika wake, Mtenda nguvu, Mwenye kumshinda kila mwenye madaraka."
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 457,
+  "verse_key": "38:65",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنَّمَآ أَنَا۠ مُنذِرٞۖ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُ ٱلۡوَٰحِدُ ٱلۡقَهَّارُ",
+  "translation": "Sema: Hakika mimi ni mwonyaji tu; na hapana mungu ila Mwenyezi Mungu Mmoja, Mtenda nguvu,",
+  "footnotes": "Ewe Muhammad! Waambie washirikina: Hakika mimi ni mwenye kukuonyeni na adhabu ya Mwenyezi Mungu, na hapana wa kuabudiwa kwa haki ila Mwenyezi Mungu Mmoja ambaye hana mshirika wake, Mtenda nguvu, Mwenye kumshinda kila mwenye madaraka."
 }

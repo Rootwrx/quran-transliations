@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5582",
-    "sura": "75",
-    "aya": "31",
-    "arabic_text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
-    "translation": "কাৰণ সি বিশ্বাস কৰা নাই আৰু ছালাতো আদায় কৰা নাই।",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 578,
+  "verse_key": "75:31",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا صَدَّقَ وَلَا صَلَّىٰ",
+  "translation": "কাৰণ সি বিশ্বাস কৰা নাই আৰু ছালাতো আদায় কৰা নাই।",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2224",
-    "sura": "18",
-    "aya": "84",
-    "arabic_text": "إِنَّا مَكَّنَّا لَهُۥ فِي ٱلۡأَرۡضِ وَءَاتَيۡنَٰهُ مِن كُلِّ شَيۡءٖ سَبَبٗا",
-    "translation": "84 Nous avons assis son autorité sur terre en lui indiquant toutes les voies du succès[781].",
-    "footnotes": "[781] Militaire, notamment. Ce qui lui permit de conquérir la terre d’est en ouest, comme le montreront les versets suivants."
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 303,
+  "verse_key": "18:84",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا مَكَّنَّا لَهُۥ فِي ٱلۡأَرۡضِ وَءَاتَيۡنَٰهُ مِن كُلِّ شَيۡءٖ سَبَبٗا",
+  "translation": "84 Nous avons assis son autorité sur terre en lui indiquant toutes les voies du succès[781].",
+  "footnotes": "[781] Militaire, notamment. Ce qui lui permit de conquérir la terre d’est en ouest, comme le montreront les versets suivants."
 }

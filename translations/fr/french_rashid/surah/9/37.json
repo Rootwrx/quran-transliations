@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1272",
-    "sura": "9",
-    "aya": "37",
-    "arabic_text": "إِنَّمَا ٱلنَّسِيٓءُ زِيَادَةٞ فِي ٱلۡكُفۡرِۖ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُواْ يُحِلُّونَهُۥ عَامٗا وَيُحَرِّمُونَهُۥ عَامٗا لِّيُوَاطِـُٔواْ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّواْ مَا حَرَّمَ ٱللَّهُۚ زُيِّنَ لَهُمۡ سُوٓءُ أَعۡمَٰلِهِمۡۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ",
-    "translation": "37 Le report d’un mois sacré ne fait qu’ajouter à l’impiété et à l’égarement des mécréants qui, par cette pratique, profanent l’un des mois sacrés une année sur deux, respectant le nombre total de mois sacrés, mais profanant un mois rendu sacré par Allah[536]. Leur odieux procédé est ainsi embelli à leurs yeux. Allah ne saurait guider ceux qui persistent dans l’impiété.",
-    "footnotes": "[536] Les Arabes, avant l’islam, ressentaient un tel besoin d’affronter leurs ennemis que l’interdiction de les combattre trois mois consécutifs leur paraissait bien trop longue. Aussi, peu avant l’avènement de l’islam, ils avaient décidé que le mois de Mouharram ne serait plus sacré une année sur deux, remplacé par le mois de Safar. Ils reportèrent donc un mois sacré à une date ultérieure, n’hésitant pas à profaner un mois sacré et à sacraliser un mois profane, afin que le nombre de mois sacrés demeure identique (Tafsîr ibn Kathîr)."
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 193,
+  "verse_key": "9:37",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا ٱلنَّسِيٓءُ زِيَادَةٞ فِي ٱلۡكُفۡرِۖ يُضَلُّ بِهِ ٱلَّذِينَ كَفَرُواْ يُحِلُّونَهُۥ عَامٗا وَيُحَرِّمُونَهُۥ عَامٗا لِّيُوَاطِـُٔواْ عِدَّةَ مَا حَرَّمَ ٱللَّهُ فَيُحِلُّواْ مَا حَرَّمَ ٱللَّهُۚ زُيِّنَ لَهُمۡ سُوٓءُ أَعۡمَٰلِهِمۡۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡكَٰفِرِينَ",
+  "translation": "37 Le report d’un mois sacré ne fait qu’ajouter à l’impiété et à l’égarement des mécréants qui, par cette pratique, profanent l’un des mois sacrés une année sur deux, respectant le nombre total de mois sacrés, mais profanant un mois rendu sacré par Allah[536]. Leur odieux procédé est ainsi embelli à leurs yeux. Allah ne saurait guider ceux qui persistent dans l’impiété.",
+  "footnotes": "[536] Les Arabes, avant l’islam, ressentaient un tel besoin d’affronter leurs ennemis que l’interdiction de les combattre trois mois consécutifs leur paraissait bien trop longue. Aussi, peu avant l’avènement de l’islam, ils avaient décidé que le mois de Mouharram ne serait plus sacré une année sur deux, remplacé par le mois de Safar. Ils reportèrent donc un mois sacré à une date ultérieure, n’hésitant pas à profaner un mois sacré et à sacraliser un mois profane, afin que le nombre de mois sacrés demeure identique (Tafsîr ibn Kathîr)."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3666",
-    "sura": "35",
-    "aya": "6",
-    "arabic_text": "إِنَّ ٱلشَّيۡطَٰنَ لَكُمۡ عَدُوّٞ فَٱتَّخِذُوهُ عَدُوًّاۚ إِنَّمَا يَدۡعُواْ حِزۡبَهُۥ لِيَكُونُواْ مِنۡ أَصۡحَٰبِ ٱلسَّعِيرِ",
-    "translation": "Şüphe yok ki Şeytan; sizin düşmanınızdır, siz de onu düşman sayın. O, kendi taraftarlarını ancak ateş ehlinden olmaya çağırır.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 435,
+  "verse_key": "35:6",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلشَّيۡطَٰنَ لَكُمۡ عَدُوّٞ فَٱتَّخِذُوهُ عَدُوًّاۚ إِنَّمَا يَدۡعُواْ حِزۡبَهُۥ لِيَكُونُواْ مِنۡ أَصۡحَٰبِ ٱلسَّعِيرِ",
+  "translation": "Şüphe yok ki Şeytan; sizin düşmanınızdır, siz de onu düşman sayın. O, kendi taraftarlarını ancak ateş ehlinden olmaya çağırır.",
+  "footnotes": ""
 }

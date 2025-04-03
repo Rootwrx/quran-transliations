@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3242",
-    "sura": "27",
-    "aya": "83",
-    "arabic_text": "وَيَوۡمَ نَحۡشُرُ مِن كُلِّ أُمَّةٖ فَوۡجٗا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمۡ يُوزَعُونَ",
-    "translation": "And [beware of] the Day when We will gather from every nation a group of those who used to reject Our verses, and they will be driven in ranks.",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 384,
+  "verse_key": "27:83",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَوۡمَ نَحۡشُرُ مِن كُلِّ أُمَّةٖ فَوۡجٗا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمۡ يُوزَعُونَ",
+  "translation": "And [beware of] the Day when We will gather from every nation a group of those who used to reject Our verses, and they will be driven in ranks.",
+  "footnotes": ""
 }

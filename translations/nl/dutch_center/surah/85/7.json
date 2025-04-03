@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5916",
-    "sura": "85",
-    "aya": "7",
-    "arabic_text": "وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٞ",
-    "translation": "7. En zij keken toe naar wat zij met de gelovigen deden.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 590,
+  "verse_key": "85:7",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُمۡ عَلَىٰ مَا يَفۡعَلُونَ بِٱلۡمُؤۡمِنِينَ شُهُودٞ",
+  "translation": "7. En zij keken toe naar wat zij met de gelovigen deden.",
+  "footnotes": ""
 }

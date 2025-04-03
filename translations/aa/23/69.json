@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2742",
-    "sura": "23",
-    "aya": "69",
-    "arabic_text": "أَمۡ لَمۡ يَعۡرِفُواْ رَسُولَهُمۡ فَهُمۡ لَهُۥ مُنكِرُونَ",
-    "translation": "69. Hinnak cakki katayyuk ken waassam ken farmoyti Mucammad kinni num aaxige waanannaa usun kay amri kah cinaanaah kaa kah yangaddeenim.",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 346,
+  "verse_key": "23:69",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ لَمۡ يَعۡرِفُواْ رَسُولَهُمۡ فَهُمۡ لَهُۥ مُنكِرُونَ",
+  "translation": "69. Hinnak cakki katayyuk ken waassam ken farmoyti Mucammad kinni num aaxige waanannaa usun kay amri kah cinaanaah kaa kah yangaddeenim.",
+  "footnotes": ""
 }

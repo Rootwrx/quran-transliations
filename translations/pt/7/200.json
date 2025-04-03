@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1154",
-    "sura": "7",
-    "aya": "200",
-    "arabic_text": "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيۡطَٰنِ نَزۡغٞ فَٱسۡتَعِذۡ بِٱللَّهِۚ إِنَّهُۥ سَمِيعٌ عَلِيمٌ",
-    "translation": "E se, em verdade, te instiga alguma instigação de Satã, procura refúgio em Allah. Por certo, Ele é Oniouvinte, Onisciente.",
-    "footnotes": ""
-  }
+  "id": 200,
+  "verse_number": 200,
+  "page_number": 176,
+  "verse_key": "7:200",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِمَّا يَنزَغَنَّكَ مِنَ ٱلشَّيۡطَٰنِ نَزۡغٞ فَٱسۡتَعِذۡ بِٱللَّهِۚ إِنَّهُۥ سَمِيعٌ عَلِيمٌ",
+  "translation": "E se, em verdade, te instiga alguma instigação de Satã, procura refúgio em Allah. Por certo, Ele é Oniouvinte, Onisciente.",
+  "footnotes": ""
 }

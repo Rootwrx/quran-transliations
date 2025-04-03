@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1160",
-    "sura": "7",
-    "aya": "206",
-    "arabic_text": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسۡجُدُونَۤ۩",
-    "translation": "206. Ceux qui se trouvent auprès de ton Seigneur ne refusent pas, par orgueil, de L’adorer. Ils Lui rendent gloire et se prosternent devant Lui.[190]",
-    "footnotes": "[190] Juste après ce verset, il est recommandé de se prosterner, soit pendant la lecture ordinaire du Coran, soit pendant sa récitation au cours de la Çalât. Il s’agit de la première sur un total de quatorze prosternations recommandées durant la lecture du Coran."
-  }
+  "id": 206,
+  "verse_number": 206,
+  "page_number": 176,
+  "verse_key": "7:206",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 1,
+  "text": "إِنَّ ٱلَّذِينَ عِندَ رَبِّكَ لَا يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَيُسَبِّحُونَهُۥ وَلَهُۥ يَسۡجُدُونَۤ۩",
+  "translation": "206. Ceux qui se trouvent auprès de ton Seigneur ne refusent pas, par orgueil, de L’adorer. Ils Lui rendent gloire et se prosternent devant Lui.[190]",
+  "footnotes": "[190] Juste après ce verset, il est recommandé de se prosterner, soit pendant la lecture ordinaire du Coran, soit pendant sa récitation au cours de la Çalât. Il s’agit de la première sur un total de quatorze prosternations recommandées durant la lecture du Coran."
 }

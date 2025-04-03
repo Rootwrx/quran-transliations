@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "108",
-    "sura": "2",
-    "aya": "101",
-    "arabic_text": "وَلَمَّا جَآءَهُمۡ رَسُولٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ نَبَذَ فَرِيقٞ مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمۡ كَأَنَّهُمۡ لَا يَعۡلَمُونَ",
-    "translation": "N’igihe bagerwagaho n’Intumwa (Muhamadi) iturutse kwa Allah, ishimangira ibyo bafite (muri Tawurati), agatsiko mu bahawe igitabo kateraga umugongo igitabo cya Allah (Qur’an) nk’aho nta cyo bazi.",
-    "footnotes": ""
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 15,
+  "verse_key": "2:101",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا جَآءَهُمۡ رَسُولٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ نَبَذَ فَرِيقٞ مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ كِتَٰبَ ٱللَّهِ وَرَآءَ ظُهُورِهِمۡ كَأَنَّهُمۡ لَا يَعۡلَمُونَ",
+  "translation": "N’igihe bagerwagaho n’Intumwa (Muhamadi) iturutse kwa Allah, ishimangira ibyo bafite (muri Tawurati), agatsiko mu bahawe igitabo kateraga umugongo igitabo cya Allah (Qur’an) nk’aho nta cyo bazi.",
+  "footnotes": ""
 }

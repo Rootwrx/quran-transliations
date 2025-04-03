@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3359",
-    "sura": "29",
-    "aya": "19",
-    "arabic_text": "أَوَلَمۡ يَرَوۡاْ كَيۡفَ يُبۡدِئُ ٱللَّهُ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥٓۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
-    "translation": "Məgər onlar Allahın məxluqatı əvvəlcə necə yaratdığını, sonra da onları yenidən yaradacağını görmürlər? Həqiqətən, bu, Allah üçün asandır.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 398,
+  "verse_key": "29:19",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَلَمۡ يَرَوۡاْ كَيۡفَ يُبۡدِئُ ٱللَّهُ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥٓۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
+  "translation": "Məgər onlar Allahın məxluqatı əvvəlcə necə yaratdığını, sonra da onları yenidən yaradacağını görmürlər? Həqiqətən, bu, Allah üçün asandır.",
+  "footnotes": ""
 }

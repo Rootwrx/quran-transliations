@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4460",
-    "sura": "44",
-    "aya": "46",
-    "arabic_text": "كَغَلۡيِ ٱلۡحَمِيمِ",
-    "translation": "مثل تیز گرم پانی کے.(1)",
-    "footnotes": "(1) وہ زقوم کی خوراک، کھولتے ہوئے پانی کی طرح پیٹ میں کھولے گی۔"
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 498,
+  "verse_key": "44:46",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَغَلۡيِ ٱلۡحَمِيمِ",
+  "translation": "مثل تیز گرم پانی کے.(1)",
+  "footnotes": "(1) وہ زقوم کی خوراک، کھولتے ہوئے پانی کی طرح پیٹ میں کھولے گی۔"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4725",
-    "sura": "51",
-    "aya": "50",
-    "arabic_text": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
-    "translation": "So flee to Allah[16]. Indeed, I am a clear warner to you from Him.",
-    "footnotes": "[16] From His punishment to His reward by shunning disbelief and sin and by obeying Him."
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 522,
+  "verse_key": "51:50",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَفِرُّوٓاْ إِلَى ٱللَّهِۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+  "translation": "So flee to Allah[16]. Indeed, I am a clear warner to you from Him.",
+  "footnotes": "[16] From His punishment to His reward by shunning disbelief and sin and by obeying Him."
 }

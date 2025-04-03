@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3064",
-    "sura": "26",
-    "aya": "132",
-    "arabic_text": "وَٱتَّقُواْ ٱلَّذِيٓ أَمَدَّكُم بِمَا تَعۡلَمُونَ",
-    "translation": "Силерге өзүңөргө белгилүү жакшылыктарды берген Аллахтан корккула!",
-    "footnotes": ""
-  }
+  "id": 132,
+  "verse_number": 132,
+  "page_number": 372,
+  "verse_key": "26:132",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّقُواْ ٱلَّذِيٓ أَمَدَّكُم بِمَا تَعۡلَمُونَ",
+  "translation": "Силерге өзүңөргө белгилүү жакшылыктарды берген Аллахтан корккула!",
+  "footnotes": ""
 }

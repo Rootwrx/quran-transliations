@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1938",
-    "sura": "16",
-    "aya": "37",
-    "arabic_text": "إِن تَحۡرِصۡ عَلَىٰ هُدَىٰهُمۡ فَإِنَّ ٱللَّهَ لَا يَهۡدِي مَن يُضِلُّۖ وَمَا لَهُم مِّن نَّٰصِرِينَ",
-    "translation": " 37. If you (O Muhammad صلى الله عليه و سلم) covet for their guidance,[2] then verily Allâh guides not those whom He makes to go astray (or none can guide him whom Allâh sends astray). And they will have no helpers.",
-    "footnotes": " (V.16:37) Narrated Abû Hurairah رضي الله عنه: I heard Allâh’s Messenger صلى الله عليه وسلم saying, \"My example and the example of the people is that of a man who made a fire, and when it lighted what was around it, moths and other insects started falling into the fire. The man tried (his best) to prevent them, (from falling in the fire) but they overpowered him and rushed into the fire.\" The Prophet صلى الله عليه وسلم added; \"Now, similarly, I take hold of the knots at your waist (belts) to prevent you from falling into the fire, but you insist on falling into it.\"* (Sahih Al-Bukhari, Vol.8, Hadith No.490).\n* The fire symbolizes the unlawful deeds which the Prophet صلى الله عليه وسلم warned the people of."
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 271,
+  "verse_key": "16:37",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن تَحۡرِصۡ عَلَىٰ هُدَىٰهُمۡ فَإِنَّ ٱللَّهَ لَا يَهۡدِي مَن يُضِلُّۖ وَمَا لَهُم مِّن نَّٰصِرِينَ",
+  "translation": " 37. If you (O Muhammad صلى الله عليه و سلم) covet for their guidance,[2] then verily Allâh guides not those whom He makes to go astray (or none can guide him whom Allâh sends astray). And they will have no helpers.",
+  "footnotes": " (V.16:37) Narrated Abû Hurairah رضي الله عنه: I heard Allâh’s Messenger صلى الله عليه وسلم saying, \"My example and the example of the people is that of a man who made a fire, and when it lighted what was around it, moths and other insects started falling into the fire. The man tried (his best) to prevent them, (from falling in the fire) but they overpowered him and rushed into the fire.\" The Prophet صلى الله عليه وسلم added; \"Now, similarly, I take hold of the knots at your waist (belts) to prevent you from falling into the fire, but you insist on falling into it.\"* (Sahih Al-Bukhari, Vol.8, Hadith No.490).\n* The fire symbolizes the unlawful deeds which the Prophet صلى الله عليه وسلم warned the people of."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1710",
-    "sura": "13",
-    "aya": "3",
-    "arabic_text": "وَهُوَ ٱلَّذِي مَدَّ ٱلۡأَرۡضَ وَجَعَلَ فِيهَا رَوَٰسِيَ وَأَنۡهَٰرٗاۖ وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوۡجَيۡنِ ٱثۡنَيۡنِۖ يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ",
-    "translation": "Òun ni Ẹni tí Ó tẹ́ ilẹ̀ pẹrẹsẹ. Ó sì fi àwọn àpáta tó dúró gbagidi àti àwọn odò tó ń ṣàn sínú ilẹ̀. Àti pé nínú gbogbo àwọn èso, Ó ṣe é ní oríṣi méjì-méjì.[1] Ó ń fi òru bo ọ̀sán lójú. Dájúdájú àwọn àmì wà nínú ìyẹn fún ìjọ tó ní àròjinlẹ̀.",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah Yāsīn; 36:36."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 249,
+  "verse_key": "13:3",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِي مَدَّ ٱلۡأَرۡضَ وَجَعَلَ فِيهَا رَوَٰسِيَ وَأَنۡهَٰرٗاۖ وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوۡجَيۡنِ ٱثۡنَيۡنِۖ يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ",
+  "translation": "Òun ni Ẹni tí Ó tẹ́ ilẹ̀ pẹrẹsẹ. Ó sì fi àwọn àpáta tó dúró gbagidi àti àwọn odò tó ń ṣàn sínú ilẹ̀. Àti pé nínú gbogbo àwọn èso, Ó ṣe é ní oríṣi méjì-méjì.[1] Ó ń fi òru bo ọ̀sán lójú. Dájúdájú àwọn àmì wà nínú ìyẹn fún ìjọ tó ní àròjinlẹ̀.",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah Yāsīn; 36:36."
 }

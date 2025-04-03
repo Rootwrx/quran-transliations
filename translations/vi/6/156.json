@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "945",
-    "sura": "6",
-    "aya": "156",
-    "arabic_text": "أَن تَقُولُوٓاْ إِنَّمَآ أُنزِلَ ٱلۡكِتَٰبُ عَلَىٰ طَآئِفَتَيۡنِ مِن قَبۡلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمۡ لَغَٰفِلِينَ",
-    "translation": "(Việc TA ban Kinh Qur’an xuống là) để cho các ngươi (hỡi những kẻ đa thần Ả-rập) không nói: “Quả thật Kinh Sách (Tawrah và Injil) chỉ được ban xuống cho hai nhóm người (Do thái và Thiên Chúa) trước chúng tôi, còn chúng tôi đối với việc học hỏi Kinh Sách của họ thì không biết gì (bởi nó được ban xuống không bằng tiếng nói của chúng tôi).”",
-    "footnotes": ""
-  }
+  "id": 156,
+  "verse_number": 156,
+  "page_number": 149,
+  "verse_key": "6:156",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَن تَقُولُوٓاْ إِنَّمَآ أُنزِلَ ٱلۡكِتَٰبُ عَلَىٰ طَآئِفَتَيۡنِ مِن قَبۡلِنَا وَإِن كُنَّا عَن دِرَاسَتِهِمۡ لَغَٰفِلِينَ",
+  "translation": "(Việc TA ban Kinh Qur’an xuống là) để cho các ngươi (hỡi những kẻ đa thần Ả-rập) không nói: “Quả thật Kinh Sách (Tawrah và Injil) chỉ được ban xuống cho hai nhóm người (Do thái và Thiên Chúa) trước chúng tôi, còn chúng tôi đối với việc học hỏi Kinh Sách của họ thì không biết gì (bởi nó được ban xuống không bằng tiếng nói của chúng tôi).”",
+  "footnotes": ""
 }

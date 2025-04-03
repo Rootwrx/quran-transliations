@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6201",
-    "sura": "107",
-    "aya": "4",
-    "arabic_text": "فَوَيۡلٞ لِّلۡمُصَلِّينَ",
-    "translation": "૪. પછી એવા નમાઝીઓ માટે (પણ) વિનાશ છે.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 602,
+  "verse_key": "107:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَيۡلٞ لِّلۡمُصَلِّينَ",
+  "translation": "૪. પછી એવા નમાઝીઓ માટે (પણ) વિનાશ છે.",
+  "footnotes": ""
 }

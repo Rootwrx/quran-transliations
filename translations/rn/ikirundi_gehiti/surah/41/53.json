@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4271",
-    "sura": "41",
-    "aya": "53",
-    "arabic_text": "سَنُرِيهِمۡ ءَايَٰتِنَا فِي ٱلۡأٓفَاقِ وَفِيٓ أَنفُسِهِمۡ حَتَّىٰ يَتَبَيَّنَ لَهُمۡ أَنَّهُ ٱلۡحَقُّۗ أَوَلَمۡ يَكۡفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
-    "translation": "Abahakana bivuye inyuma Aayah za Qor’ani, Tuzobereka ivyemezo vyacu mu biba mu turere dutandukanye[8], no mu biba mu kuntu bo nyene baremwe, gushika n’aho bamenya neza ata kwihenda ko Qor’ani ari ukuri kwahishuwe n’Imana Allah. Mbega ntivyari bikwiye kugira bemere Qor’ani n’uwayihishuriwe, kuba Imana yawe Rurema Allah ari Yo Ivyemeza[9], Ikaba ari na Yo Ibona neza ibikorwa vyose vy’ibiremwa, Ikazobibihembera!",
-    "footnotes": "[8] Haba mu gutsinda kw’ubwislamu bukaganza ayandi madini canke mu bitangaro biba mu majuru no mw’isi.\n[9] Nta cemezo coza gisumba icemezo gitanzwe n’Imana Allah."
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 482,
+  "verse_key": "41:53",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَنُرِيهِمۡ ءَايَٰتِنَا فِي ٱلۡأٓفَاقِ وَفِيٓ أَنفُسِهِمۡ حَتَّىٰ يَتَبَيَّنَ لَهُمۡ أَنَّهُ ٱلۡحَقُّۗ أَوَلَمۡ يَكۡفِ بِرَبِّكَ أَنَّهُۥ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+  "translation": "Abahakana bivuye inyuma Aayah za Qor’ani, Tuzobereka ivyemezo vyacu mu biba mu turere dutandukanye[8], no mu biba mu kuntu bo nyene baremwe, gushika n’aho bamenya neza ata kwihenda ko Qor’ani ari ukuri kwahishuwe n’Imana Allah. Mbega ntivyari bikwiye kugira bemere Qor’ani n’uwayihishuriwe, kuba Imana yawe Rurema Allah ari Yo Ivyemeza[9], Ikaba ari na Yo Ibona neza ibikorwa vyose vy’ibiremwa, Ikazobibihembera!",
+  "footnotes": "[8] Haba mu gutsinda kw’ubwislamu bukaganza ayandi madini canke mu bitangaro biba mu majuru no mw’isi.\n[9] Nta cemezo coza gisumba icemezo gitanzwe n’Imana Allah."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5724",
-    "sura": "79",
-    "aya": "12",
-    "arabic_text": "قَالُواْ تِلۡكَ إِذٗا كَرَّةٌ خَاسِرَةٞ",
-    "translation": "Yoo akkas ta'e sun deebii hoongooti\" jedhan.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 583,
+  "verse_key": "79:12",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ تِلۡكَ إِذٗا كَرَّةٌ خَاسِرَةٞ",
+  "translation": "Yoo akkas ta'e sun deebii hoongooti\" jedhan.",
+  "footnotes": ""
 }

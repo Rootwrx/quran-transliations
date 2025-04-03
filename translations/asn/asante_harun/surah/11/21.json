@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1494",
-    "sura": "11",
-    "aya": "21",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
-    "translation": "Saa nkorͻfoͻ no na wͻn ahwere wͻn kraa, na wͻn nkontompo a wͻbͻͻ wͻn trimu twaeε no nso ayera afri wͻn ho kͻ.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 224,
+  "verse_key": "11:21",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
+  "translation": "Saa nkorͻfoͻ no na wͻn ahwere wͻn kraa, na wͻn nkontompo a wͻbͻͻ wͻn trimu twaeε no nso ayera afri wͻn ho kͻ.",
+  "footnotes": ""
 }

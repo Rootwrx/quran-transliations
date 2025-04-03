@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2157",
-    "sura": "18",
-    "aya": "17",
-    "arabic_text": "۞ وَتَرَى ٱلشَّمۡسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهۡفِهِمۡ ذَاتَ ٱلۡيَمِينِ وَإِذَا غَرَبَت تَّقۡرِضُهُمۡ ذَاتَ ٱلشِّمَالِ وَهُمۡ فِي فَجۡوَةٖ مِّنۡهُۚ ذَٰلِكَ مِنۡ ءَايَٰتِ ٱللَّهِۗ مَن يَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِۖ وَمَن يُضۡلِلۡ فَلَن تَجِدَ لَهُۥ وَلِيّٗا مُّرۡشِدٗا",
-    "translation": "Ti (o Muhamed) do ta kishe parë Diellin kur lindte, se si anohej nga e djathta e shpellës së tyre dhe, kur perëndonte, ata i linte në anën e majtë, ndërkohë që ata gjendeshin në mesin e saj.[183] Kjo është nga shenjat e Allahut. Sa për atë, që Allahu e udhëzon në rrugë të drejtë, pikërisht ai është i udhëzuari. E sa për atë, që Ai e lë në humbje, ti, me siguri, nuk do të mund t’i gjesh mbrojtës që ta udhëzojë.",
-    "footnotes": "[183] Pra, Allahu e kishte bërë diellin të lëvizte në mënyrë të atillë, që rrezet e tij, të mos hynin në shpellë, për të mos e nxehur shumë atë."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 295,
+  "verse_key": "18:17",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَتَرَى ٱلشَّمۡسَ إِذَا طَلَعَت تَّزَٰوَرُ عَن كَهۡفِهِمۡ ذَاتَ ٱلۡيَمِينِ وَإِذَا غَرَبَت تَّقۡرِضُهُمۡ ذَاتَ ٱلشِّمَالِ وَهُمۡ فِي فَجۡوَةٖ مِّنۡهُۚ ذَٰلِكَ مِنۡ ءَايَٰتِ ٱللَّهِۗ مَن يَهۡدِ ٱللَّهُ فَهُوَ ٱلۡمُهۡتَدِۖ وَمَن يُضۡلِلۡ فَلَن تَجِدَ لَهُۥ وَلِيّٗا مُّرۡشِدٗا",
+  "translation": "Ti (o Muhamed) do ta kishe parë Diellin kur lindte, se si anohej nga e djathta e shpellës së tyre dhe, kur perëndonte, ata i linte në anën e majtë, ndërkohë që ata gjendeshin në mesin e saj.[183] Kjo është nga shenjat e Allahut. Sa për atë, që Allahu e udhëzon në rrugë të drejtë, pikërisht ai është i udhëzuari. E sa për atë, që Ai e lë në humbje, ti, me siguri, nuk do të mund t’i gjesh mbrojtës që ta udhëzojë.",
+  "footnotes": "[183] Pra, Allahu e kishte bërë diellin të lëvizte në mënyrë të atillë, që rrezet e tij, të mos hynin në shpellë, për të mos e nxehur shumë atë."
 }

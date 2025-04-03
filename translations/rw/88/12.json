@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5979",
-    "sura": "88",
-    "aya": "12",
-    "arabic_text": "فِيهَا عَيۡنٞ جَارِيَةٞ",
-    "translation": "Hazaba harimo isoko itemba,",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 592,
+  "verse_key": "88:12",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِيهَا عَيۡنٞ جَارِيَةٞ",
+  "translation": "Hazaba harimo isoko itemba,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1671",
-    "sura": "12",
-    "aya": "75",
-    "arabic_text": "قَالُواْ جَزَٰٓؤُهُۥ مَن وُجِدَ فِي رَحۡلِهِۦ فَهُوَ جَزَٰٓؤُهُۥۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
-    "translation": "75.Waxay yidhaahdeen: Jazaha arrinkani23 waa in kii rarkiisa laga dhex helo loo heysto isaga naf ahaantiisa (addoon ahaan). Sidaasaan ku jaazaynaa daalimiinta.",
-    "footnotes": "23.Xeerkooda wuxuu dhigayey in tuuggii la qabto uu addoon u noqonayo cidduu wax ka xaday."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 244,
+  "verse_key": "12:75",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ جَزَٰٓؤُهُۥ مَن وُجِدَ فِي رَحۡلِهِۦ فَهُوَ جَزَٰٓؤُهُۥۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
+  "translation": "75.Waxay yidhaahdeen: Jazaha arrinkani23 waa in kii rarkiisa laga dhex helo loo heysto isaga naf ahaantiisa (addoon ahaan). Sidaasaan ku jaazaynaa daalimiinta.",
+  "footnotes": "23.Xeerkooda wuxuu dhigayey in tuuggii la qabto uu addoon u noqonayo cidduu wax ka xaday."
 }

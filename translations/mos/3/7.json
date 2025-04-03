@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "300",
-    "sura": "3",
-    "aya": "7",
-    "arabic_text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
-    "translation": "Yẽndɑ n sik Gɑfã fo zugu tɩ Ayɑr rãmb mɑɑnɑ sẽn yɑɑ vẽenegɑ be ɑ pʋgẽ, lɑ yɑɑ rẽ lɑ gɑfã yẽgrã, lɑ ɑ sãndɑ mɑɑnɑ pɑ vẽeneg ye, lɑ kedgrã sẽn be b rãmb sũyẽ wã, bãmb pʋgdɑ gẽdem-gẽdmã, tɩ yɑɑ yεl bɑoobo lɑ ɑ welsgo ne bãmb yõe yɑmleoogo, lɑ yɑool n pɑ mi ɑ võorã rẽndɑ Wẽnde, lɑ sẽn tɑɑb tẽkɑ bãngr pʋgẽ wã yetɑme: \" tõnd kõo sɩd ne-ɑ, fãɑ yii tõnd Soɑbã nengẽ\". Lɑ pɑ tɑgsd n getẽ rẽndɑ yɑm-bεεl rãmbɑ.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 50,
+  "verse_key": "3:7",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+  "translation": "Yẽndɑ n sik Gɑfã fo zugu tɩ Ayɑr rãmb mɑɑnɑ sẽn yɑɑ vẽenegɑ be ɑ pʋgẽ, lɑ yɑɑ rẽ lɑ gɑfã yẽgrã, lɑ ɑ sãndɑ mɑɑnɑ pɑ vẽeneg ye, lɑ kedgrã sẽn be b rãmb sũyẽ wã, bãmb pʋgdɑ gẽdem-gẽdmã, tɩ yɑɑ yεl bɑoobo lɑ ɑ welsgo ne bãmb yõe yɑmleoogo, lɑ yɑool n pɑ mi ɑ võorã rẽndɑ Wẽnde, lɑ sẽn tɑɑb tẽkɑ bãngr pʋgẽ wã yetɑme: \" tõnd kõo sɩd ne-ɑ, fãɑ yii tõnd Soɑbã nengẽ\". Lɑ pɑ tɑgsd n getẽ rẽndɑ yɑm-bεεl rãmbɑ.",
+  "footnotes": ""
 }

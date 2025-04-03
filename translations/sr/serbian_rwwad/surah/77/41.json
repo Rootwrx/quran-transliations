@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5663",
-    "sura": "77",
-    "aya": "41",
-    "arabic_text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ",
-    "translation": "Они који су се бојали Аллаха биће међу изворима, у густим баштама.",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 581,
+  "verse_key": "77:41",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلۡمُتَّقِينَ فِي ظِلَٰلٖ وَعُيُونٖ",
+  "translation": "Они који су се бојали Аллаха биће међу изворима, у густим баштама.",
+  "footnotes": ""
 }

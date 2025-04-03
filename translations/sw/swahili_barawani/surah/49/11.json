@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4623",
-    "sura": "49",
-    "aya": "11",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا يَسۡخَرۡ قَوۡمٞ مِّن قَوۡمٍ عَسَىٰٓ أَن يَكُونُواْ خَيۡرٗا مِّنۡهُمۡ وَلَا نِسَآءٞ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيۡرٗا مِّنۡهُنَّۖ وَلَا تَلۡمِزُوٓاْ أَنفُسَكُمۡ وَلَا تَنَابَزُواْ بِٱلۡأَلۡقَٰبِۖ بِئۡسَ ٱلِٱسۡمُ ٱلۡفُسُوقُ بَعۡدَ ٱلۡإِيمَٰنِۚ وَمَن لَّمۡ يَتُبۡ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
-    "translation": "Enyi mlio amini! Wanaume wasiwadharau wanaume wenzao, wala wanawake wasiwadharau wanawake wenzao. Huenda hao wakawa bora kuliko wao. Wala msivunjiane hishima, wala msiitane kwa majina ya kejeli. Ni uovu kutumia jina baya baada ya kwisha amini. Na wasio tubu, hao ndio wenye kudhulumu.",
-    "footnotes": "Enyi mlio amini! Wanaume katika nyinyi wasiwadharau wanaume wenginewe, huenda hao mbele ya Mwenyezi Mungu wakawa bora kuliko wao. Wala wanawake Waumini wasiwadharau wanawake wenzao, huenda pengine wakawa hao ni bora kwa Mwenyezi Mungu kuliko wao. Wala msifanye kuaibishana nyinyi kwa nyinyi, wala mtu asimwite mwenzie kwa jina la kumuudhi. Ni uovu mno kwa Waumini kutajwa kwa upotovu baada ya kwisha sifika kwa Imani. Na wasio rudi wakaacha waliyo katazwa, basi hao peke yao ndio walio jidhulumu nafsi zao na wakawadhulumu wengineo."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 516,
+  "verse_key": "49:11",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 206,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا يَسۡخَرۡ قَوۡمٞ مِّن قَوۡمٍ عَسَىٰٓ أَن يَكُونُواْ خَيۡرٗا مِّنۡهُمۡ وَلَا نِسَآءٞ مِّن نِّسَآءٍ عَسَىٰٓ أَن يَكُنَّ خَيۡرٗا مِّنۡهُنَّۖ وَلَا تَلۡمِزُوٓاْ أَنفُسَكُمۡ وَلَا تَنَابَزُواْ بِٱلۡأَلۡقَٰبِۖ بِئۡسَ ٱلِٱسۡمُ ٱلۡفُسُوقُ بَعۡدَ ٱلۡإِيمَٰنِۚ وَمَن لَّمۡ يَتُبۡ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+  "translation": "Enyi mlio amini! Wanaume wasiwadharau wanaume wenzao, wala wanawake wasiwadharau wanawake wenzao. Huenda hao wakawa bora kuliko wao. Wala msivunjiane hishima, wala msiitane kwa majina ya kejeli. Ni uovu kutumia jina baya baada ya kwisha amini. Na wasio tubu, hao ndio wenye kudhulumu.",
+  "footnotes": "Enyi mlio amini! Wanaume katika nyinyi wasiwadharau wanaume wenginewe, huenda hao mbele ya Mwenyezi Mungu wakawa bora kuliko wao. Wala wanawake Waumini wasiwadharau wanawake wenzao, huenda pengine wakawa hao ni bora kwa Mwenyezi Mungu kuliko wao. Wala msifanye kuaibishana nyinyi kwa nyinyi, wala mtu asimwite mwenzie kwa jina la kumuudhi. Ni uovu mno kwa Waumini kutajwa kwa upotovu baada ya kwisha sifika kwa Imani. Na wasio rudi wakaacha waliyo katazwa, basi hao peke yao ndio walio jidhulumu nafsi zao na wakawadhulumu wengineo."
 }

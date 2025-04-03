@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4279",
-    "sura": "42",
-    "aya": "7",
-    "arabic_text": "وَكَذَٰلِكَ أَوۡحَيۡنَآ إِلَيۡكَ قُرۡءَانًا عَرَبِيّٗا لِّتُنذِرَ أُمَّ ٱلۡقُرَىٰ وَمَنۡ حَوۡلَهَا وَتُنذِرَ يَوۡمَ ٱلۡجَمۡعِ لَا رَيۡبَ فِيهِۚ فَرِيقٞ فِي ٱلۡجَنَّةِ وَفَرِيقٞ فِي ٱلسَّعِيرِ",
-    "translation": "Saa ara na Yɛayi Qur’aan wͻ Arab (kasa mu) ama woͻ sεdeε wode bεbͻ Ahenkuro (Maka), ne wͻn a atwa ho ahyia no kͻkͻ, na wobεbͻ (amanfoͻ) kͻkͻ wͻ Nhyiamu da a akyinyeε biara nni ho no ho. (Saa Da no nnipa no mu) fekuo bi bεkͻ Soro Aheman no mu, na fekuo bi nso bεkͻ Amanehunu gya no mu.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 483,
+  "verse_key": "42:7",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ أَوۡحَيۡنَآ إِلَيۡكَ قُرۡءَانًا عَرَبِيّٗا لِّتُنذِرَ أُمَّ ٱلۡقُرَىٰ وَمَنۡ حَوۡلَهَا وَتُنذِرَ يَوۡمَ ٱلۡجَمۡعِ لَا رَيۡبَ فِيهِۚ فَرِيقٞ فِي ٱلۡجَنَّةِ وَفَرِيقٞ فِي ٱلسَّعِيرِ",
+  "translation": "Saa ara na Yɛayi Qur’aan wͻ Arab (kasa mu) ama woͻ sεdeε wode bεbͻ Ahenkuro (Maka), ne wͻn a atwa ho ahyia no kͻkͻ, na wobεbͻ (amanfoͻ) kͻkͻ wͻ Nhyiamu da a akyinyeε biara nni ho no ho. (Saa Da no nnipa no mu) fekuo bi bεkͻ Soro Aheman no mu, na fekuo bi nso bεkͻ Amanehunu gya no mu.",
+  "footnotes": ""
 }

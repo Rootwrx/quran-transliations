@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5105",
-    "sura": "58",
-    "aya": "1",
-    "arabic_text": "قَدۡ سَمِعَ ٱللَّهُ قَوۡلَ ٱلَّتِي تُجَٰدِلُكَ فِي زَوۡجِهَا وَتَشۡتَكِيٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسۡمَعُ تَحَاوُرَكُمَآۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٌ",
-    "translation": "Allahu i ka dëgjuar fjalët e asaj,[356] që diskutoi me ty për burrin e vet dhe iu ankua Atij. Allahu e dëgjoi bisedën tuaj, sepse Ai dëgjon dhe sheh gjithçka.",
-    "footnotes": "[356] Ajo është Haula bint Tha‘lebe, të cilën burri e ndau me fjalët “Më je bërë si shpina e nënës sime”, një formulë kjo që pranohej si deklaratë ndarjeje ndër arabët paganë."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 542,
+  "verse_key": "58:1",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 217,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ سَمِعَ ٱللَّهُ قَوۡلَ ٱلَّتِي تُجَٰدِلُكَ فِي زَوۡجِهَا وَتَشۡتَكِيٓ إِلَى ٱللَّهِ وَٱللَّهُ يَسۡمَعُ تَحَاوُرَكُمَآۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٌ",
+  "translation": "Allahu i ka dëgjuar fjalët e asaj,[356] që diskutoi me ty për burrin e vet dhe iu ankua Atij. Allahu e dëgjoi bisedën tuaj, sepse Ai dëgjon dhe sheh gjithçka.",
+  "footnotes": "[356] Ajo është Haula bint Tha‘lebe, të cilën burri e ndau me fjalët “Më je bërë si shpina e nënës sime”, një formulë kjo që pranohej si deklaratë ndarjeje ndër arabët paganë."
 }

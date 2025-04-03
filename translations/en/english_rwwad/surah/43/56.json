@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4381",
-    "sura": "43",
-    "aya": "56",
-    "arabic_text": "فَجَعَلۡنَٰهُمۡ سَلَفٗا وَمَثَلٗا لِّلۡأٓخِرِينَ",
-    "translation": "Thus We made them a precedent and a lesson[21] for the later generations.",
-    "footnotes": "[21] A precedent for those who do not learn any lesson from their example, and a lesson for those who are keen to learn a lesson."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 493,
+  "verse_key": "43:56",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَجَعَلۡنَٰهُمۡ سَلَفٗا وَمَثَلٗا لِّلۡأٓخِرِينَ",
+  "translation": "Thus We made them a precedent and a lesson[21] for the later generations.",
+  "footnotes": "[21] A precedent for those who do not learn any lesson from their example, and a lesson for those who are keen to learn a lesson."
 }

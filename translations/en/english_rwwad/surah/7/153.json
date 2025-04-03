@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1107",
-    "sura": "7",
-    "aya": "153",
-    "arabic_text": "وَٱلَّذِينَ عَمِلُواْ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُواْ مِنۢ بَعۡدِهَا وَءَامَنُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٞ",
-    "translation": "But those who commit evil deeds, then repent thereafter and [truly] believe, then your Lord is indeed All-Forgiving[54], Most Merciful.",
-    "footnotes": "[54] This shows that no matter how grave the sin is, Allah will forgive it if the person truly repents and believes."
-  }
+  "id": 153,
+  "verse_number": 153,
+  "page_number": 169,
+  "verse_key": "7:153",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 67,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ عَمِلُواْ ٱلسَّيِّـَٔاتِ ثُمَّ تَابُواْ مِنۢ بَعۡدِهَا وَءَامَنُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٞ",
+  "translation": "But those who commit evil deeds, then repent thereafter and [truly] believe, then your Lord is indeed All-Forgiving[54], Most Merciful.",
+  "footnotes": "[54] This shows that no matter how grave the sin is, Allah will forgive it if the person truly repents and believes."
 }

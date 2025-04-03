@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2548",
-    "sura": "21",
-    "aya": "65",
-    "arabic_text": "ثُمَّ نُكِسُواْ عَلَىٰ رُءُوسِهِمۡ لَقَدۡ عَلِمۡتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ",
-    "translation": "Rẽ poorẽ la b sulg b zut n yeele:\" fo miime tɩ bãmbã pa gomd ye\".",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 327,
+  "verse_key": "21:65",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ نُكِسُواْ عَلَىٰ رُءُوسِهِمۡ لَقَدۡ عَلِمۡتَ مَا هَٰٓؤُلَآءِ يَنطِقُونَ",
+  "translation": "Rẽ poorẽ la b sulg b zut n yeele:\" fo miime tɩ bãmbã pa gomd ye\".",
+  "footnotes": ""
 }

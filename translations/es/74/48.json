@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5543",
-    "sura": "74",
-    "aya": "48",
-    "arabic_text": "فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّٰفِعِينَ",
-    "translation": "48. A estos no les beneficiará intercesión alguna.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 577,
+  "verse_key": "74:48",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَا تَنفَعُهُمۡ شَفَٰعَةُ ٱلشَّٰفِعِينَ",
+  "translation": "48. A estos no les beneficiará intercesión alguna.",
+  "footnotes": ""
 }

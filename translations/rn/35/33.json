@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3693",
-    "sura": "35",
-    "aya": "33",
-    "arabic_text": "جَنَّٰتُ عَدۡنٖ يَدۡخُلُونَهَا يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبٖ وَلُؤۡلُؤٗاۖ وَلِبَاسُهُمۡ فِيهَا حَرِيرٞ",
-    "translation": "Imirima itotahaye yo mu Bwami bw’ijuru rya “Adeni”, yagenewe kwinjirwamwo abahawe ico Gitabu. Muri Bwo, bazoberwa n’ukwambikwa imiringa y’inzahabu n’ilulu[2], bazoba bambaye n’impuzu za misi yose zishonywe mw’iharire, abagabo ku bagore.",
-    "footnotes": "[2] Lulu, ni ubwoko bw’ubutare bwiburungushuye, bucukurwa mw’ibahari, bukaba buboneka mu binyabuzima biba musi yaryo, bukagira amabara atandukanye; nk’ibara ryera, iryirabura, n’ayandi. Ni ubutare buzimvye cane."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 438,
+  "verse_key": "35:33",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "جَنَّٰتُ عَدۡنٖ يَدۡخُلُونَهَا يُحَلَّوۡنَ فِيهَا مِنۡ أَسَاوِرَ مِن ذَهَبٖ وَلُؤۡلُؤٗاۖ وَلِبَاسُهُمۡ فِيهَا حَرِيرٞ",
+  "translation": "Imirima itotahaye yo mu Bwami bw’ijuru rya “Adeni”, yagenewe kwinjirwamwo abahawe ico Gitabu. Muri Bwo, bazoberwa n’ukwambikwa imiringa y’inzahabu n’ilulu[2], bazoba bambaye n’impuzu za misi yose zishonywe mw’iharire, abagabo ku bagore.",
+  "footnotes": "[2] Lulu, ni ubwoko bw’ubutare bwiburungushuye, bucukurwa mw’ibahari, bukaba buboneka mu binyabuzima biba musi yaryo, bukagira amabara atandukanye; nk’ibara ryera, iryirabura, n’ayandi. Ni ubutare buzimvye cane."
 }

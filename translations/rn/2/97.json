@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "104",
-    "sura": "2",
-    "aya": "97",
-    "arabic_text": "قُلۡ مَن كَانَ عَدُوّٗا لِّـجِبۡرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلۡبِكَ بِإِذۡنِ ٱللَّهِ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ وَهُدٗى وَبُشۡرَىٰ لِلۡمُؤۡمِنِينَ",
-    "translation": "Ntumwa y’Imana! Vuga wishure abayahudi ku kwibwira kwabo ko umumalayika Jibrili ari umwansi wabo, uti: “Uwuzoba umwansi w’umumalayika Jibrili, namenye ko mu vy’ukuri uyo mumalayika yamanuye Qor’ani mu mushaha wawe kw’itegeko ry’Imana Allah, ishimangira ukuri kuri mu Bitabu vy’aho hambere yayo, ni n’uburongozi ikaba n’inkuru nziza ku bemeramana.",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 15,
+  "verse_key": "2:97",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَن كَانَ عَدُوّٗا لِّـجِبۡرِيلَ فَإِنَّهُۥ نَزَّلَهُۥ عَلَىٰ قَلۡبِكَ بِإِذۡنِ ٱللَّهِ مُصَدِّقٗا لِّمَا بَيۡنَ يَدَيۡهِ وَهُدٗى وَبُشۡرَىٰ لِلۡمُؤۡمِنِينَ",
+  "translation": "Ntumwa y’Imana! Vuga wishure abayahudi ku kwibwira kwabo ko umumalayika Jibrili ari umwansi wabo, uti: “Uwuzoba umwansi w’umumalayika Jibrili, namenye ko mu vy’ukuri uyo mumalayika yamanuye Qor’ani mu mushaha wawe kw’itegeko ry’Imana Allah, ishimangira ukuri kuri mu Bitabu vy’aho hambere yayo, ni n’uburongozi ikaba n’inkuru nziza ku bemeramana.",
+  "footnotes": ""
 }

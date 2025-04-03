@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3298",
-    "sura": "28",
-    "aya": "46",
-    "arabic_text": "وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذۡ نَادَيۡنَا وَلَٰكِن رَّحۡمَةٗ مِّن رَّبِّكَ لِتُنذِرَ قَوۡمٗا مَّآ أَتَىٰهُم مِّن نَّذِيرٖ مِّن قَبۡلِكَ لَعَلَّهُمۡ يَتَذَكَّرُونَ",
-    "translation": "Ìwọ kò sì sí ní ẹ̀bá àpáta náà, nígbà tí A pèpè, ṣùgbọ́n ó jẹ́ ìkẹ́ kan láti ọ̀dọ̀ Olúwa rẹ nítorí kí o lè ṣèkìlọ̀ fún àwọn ènìyàn tí olùkìlọ̀ kan kò wá bá rí ṣíwájú rẹ nítorí kí wọ́n lè lo ìrántí.[1]",
-    "footnotes": "1. Ànábì ’Ibrọ̄hīm - kí ọlà Allāhu máa bá a - àti àkọ́bí rẹ̀ Ànábì ’Ismā‘īl - kí ọlà Allāhu máa bá a - dé ìlú Mọkkah ṣíwájú Ànábì wa Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a -, àmọ́ kì í ṣe pé Allāhu rán wọn níṣẹ́ sí ará ìlú Mọkkah."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 391,
+  "verse_key": "28:46",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كُنتَ بِجَانِبِ ٱلطُّورِ إِذۡ نَادَيۡنَا وَلَٰكِن رَّحۡمَةٗ مِّن رَّبِّكَ لِتُنذِرَ قَوۡمٗا مَّآ أَتَىٰهُم مِّن نَّذِيرٖ مِّن قَبۡلِكَ لَعَلَّهُمۡ يَتَذَكَّرُونَ",
+  "translation": "Ìwọ kò sì sí ní ẹ̀bá àpáta náà, nígbà tí A pèpè, ṣùgbọ́n ó jẹ́ ìkẹ́ kan láti ọ̀dọ̀ Olúwa rẹ nítorí kí o lè ṣèkìlọ̀ fún àwọn ènìyàn tí olùkìlọ̀ kan kò wá bá rí ṣíwájú rẹ nítorí kí wọ́n lè lo ìrántí.[1]",
+  "footnotes": "1. Ànábì ’Ibrọ̄hīm - kí ọlà Allāhu máa bá a - àti àkọ́bí rẹ̀ Ànábì ’Ismā‘īl - kí ọlà Allāhu máa bá a - dé ìlú Mọkkah ṣíwájú Ànábì wa Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a -, àmọ́ kì í ṣe pé Allāhu rán wọn níṣẹ́ sí ará ìlú Mọkkah."
 }

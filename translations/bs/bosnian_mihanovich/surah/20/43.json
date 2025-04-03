@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2391",
-    "sura": "20",
-    "aya": "43",
-    "arabic_text": "ٱذۡهَبَآ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ",
-    "translation": "Idite faraonu, on se, doista, osilio, ",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 314,
+  "verse_key": "20:43",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱذۡهَبَآ إِلَىٰ فِرۡعَوۡنَ إِنَّهُۥ طَغَىٰ",
+  "translation": "Idite faraonu, on se, doista, osilio, ",
+  "footnotes": ""
 }

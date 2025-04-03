@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "275",
-    "sura": "2",
-    "aya": "268",
-    "arabic_text": "ٱلشَّيۡطَٰنُ يَعِدُكُمُ ٱلۡفَقۡرَ وَيَأۡمُرُكُم بِٱلۡفَحۡشَآءِۖ وَٱللَّهُ يَعِدُكُم مَّغۡفِرَةٗ مِّنۡهُ وَفَضۡلٗاۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ",
-    "translation": "Shayxaanni hiyyummaan isin sodaachisa, hamtutti isin ajaja, Rabbiin araaramaafi tola Isa biraa ta’e waadaa isiniif seena. Rabbiin (kenni isaa) bal’aa, beekaadha.",
-    "footnotes": ""
-  }
+  "id": 268,
+  "verse_number": 268,
+  "page_number": 45,
+  "verse_key": "2:268",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 18,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلشَّيۡطَٰنُ يَعِدُكُمُ ٱلۡفَقۡرَ وَيَأۡمُرُكُم بِٱلۡفَحۡشَآءِۖ وَٱللَّهُ يَعِدُكُم مَّغۡفِرَةٗ مِّنۡهُ وَفَضۡلٗاۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ",
+  "translation": "Shayxaanni hiyyummaan isin sodaachisa, hamtutti isin ajaja, Rabbiin araaramaafi tola Isa biraa ta’e waadaa isiniif seena. Rabbiin (kenni isaa) bal’aa, beekaadha.",
+  "footnotes": ""
 }

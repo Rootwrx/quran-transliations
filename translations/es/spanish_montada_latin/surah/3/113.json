@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "406",
-    "sura": "3",
-    "aya": "113",
-    "arabic_text": "۞ لَيۡسُواْ سَوَآءٗۗ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ أُمَّةٞ قَآئِمَةٞ يَتۡلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيۡلِ وَهُمۡ يَسۡجُدُونَ",
-    "translation": "113. No son todos iguales. Entre los judíos y cristianos hay un grupo de hombres rectos que recitan las aleyas de Al-lah[114] durante la noche y se postran ante Él (en sus rezos).",
-    "footnotes": "[114]  Ese grupo de hombres rectos lo forman quienes reconocen la verdad y la siguen. La aleya fue revelada con motivo de un grupo de judíos que aceptaron el Islam cuando supieron de él y por eso recitaban el Corán."
-  }
+  "id": 113,
+  "verse_number": 113,
+  "page_number": 64,
+  "verse_key": "3:113",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ لَيۡسُواْ سَوَآءٗۗ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ أُمَّةٞ قَآئِمَةٞ يَتۡلُونَ ءَايَٰتِ ٱللَّهِ ءَانَآءَ ٱلَّيۡلِ وَهُمۡ يَسۡجُدُونَ",
+  "translation": "113. No son todos iguales. Entre los judíos y cristianos hay un grupo de hombres rectos que recitan las aleyas de Al-lah[114] durante la noche y se postran ante Él (en sus rezos).",
+  "footnotes": "[114]  Ese grupo de hombres rectos lo forman quienes reconocen la verdad y la siguen. La aleya fue revelada con motivo de un grupo de judíos que aceptaron el Islam cuando supieron de él y por eso recitaban el Corán."
 }

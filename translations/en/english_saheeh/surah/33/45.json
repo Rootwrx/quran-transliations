@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3578",
-    "sura": "33",
-    "aya": "45",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِنَّآ أَرۡسَلۡنَٰكَ شَٰهِدٗا وَمُبَشِّرٗا وَنَذِيرٗا",
-    "translation": "(45) O Prophet, indeed We have sent you as a witness and a bringer of good tidings and a warner",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 424,
+  "verse_key": "33:45",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِنَّآ أَرۡسَلۡنَٰكَ شَٰهِدٗا وَمُبَشِّرٗا وَنَذِيرٗا",
+  "translation": "(45) O Prophet, indeed We have sent you as a witness and a bringer of good tidings and a warner",
+  "footnotes": ""
 }

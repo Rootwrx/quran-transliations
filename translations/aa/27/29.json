@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3188",
-    "sura": "27",
-    "aya": "29",
-    "arabic_text": "قَالَتۡ يَٰٓأَيُّهَا ٱلۡمَلَؤُاْ إِنِّيٓ أُلۡقِيَ إِلَيَّ كِتَٰبٞ كَرِيمٌ",
-    "translation": "29.Hud-Hud Nabii Suleymaan kaal ruube kitab luk gexeeh sabah amoytal kaa qambiseeh kaa tikriyeh, tohuk lakal kee makaabaney:diggah Massakaxxa -Íe kitab yol qambisimeeh yoo gufe keenik itte.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 379,
+  "verse_key": "27:29",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ يَٰٓأَيُّهَا ٱلۡمَلَؤُاْ إِنِّيٓ أُلۡقِيَ إِلَيَّ كِتَٰبٞ كَرِيمٌ",
+  "translation": "29.Hud-Hud Nabii Suleymaan kaal ruube kitab luk gexeeh sabah amoytal kaa qambiseeh kaa tikriyeh, tohuk lakal kee makaabaney:diggah Massakaxxa -Íe kitab yol qambisimeeh yoo gufe keenik itte.",
+  "footnotes": ""
 }

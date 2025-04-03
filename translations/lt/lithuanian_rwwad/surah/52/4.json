@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4739",
-    "sura": "52",
-    "aya": "4",
-    "arabic_text": "وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ",
-    "translation": "4. Ir (prisiekiu) Al-Bait-ul-Mamur (namu, kuris yra danguje virš Kaabos, pastoviai lankomas angelų).",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 523,
+  "verse_key": "52:4",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ",
+  "translation": "4. Ir (prisiekiu) Al-Bait-ul-Mamur (namu, kuris yra danguje virš Kaabos, pastoviai lankomas angelų).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4881",
-    "sura": "54",
-    "aya": "35",
-    "arabic_text": "نِّعۡمَةٗ مِّنۡ عِندِنَاۚ كَذَٰلِكَ نَجۡزِي مَن شَكَرَ",
-    "translation": "(Việc giải cứu Lut và gia đình của Y) là một ân huệ từ nơi TA. TA đãi ngộ người biết ơn như thế đấy.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 530,
+  "verse_key": "54:35",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نِّعۡمَةٗ مِّنۡ عِندِنَاۚ كَذَٰلِكَ نَجۡزِي مَن شَكَرَ",
+  "translation": "(Việc giải cứu Lut và gia đình của Y) là một ân huệ từ nơi TA. TA đãi ngộ người biết ơn như thế đấy.",
+  "footnotes": ""
 }

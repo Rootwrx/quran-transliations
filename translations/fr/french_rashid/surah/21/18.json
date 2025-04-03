@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2501",
-    "sura": "21",
-    "aya": "18",
-    "arabic_text": "بَلۡ نَقۡذِفُ بِٱلۡحَقِّ عَلَى ٱلۡبَٰطِلِ فَيَدۡمَغُهُۥ فَإِذَا هُوَ زَاهِقٞۚ وَلَكُمُ ٱلۡوَيۡلُ مِمَّا تَصِفُونَ",
-    "translation": "18 Mais Nous faisons éclater la vérité qui aussitôt fait disparaître le faux. Malheur donc à vous pour les blasphèmes que vous proférez !",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 323,
+  "verse_key": "21:18",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ نَقۡذِفُ بِٱلۡحَقِّ عَلَى ٱلۡبَٰطِلِ فَيَدۡمَغُهُۥ فَإِذَا هُوَ زَاهِقٞۚ وَلَكُمُ ٱلۡوَيۡلُ مِمَّا تَصِفُونَ",
+  "translation": "18 Mais Nous faisons éclater la vérité qui aussitôt fait disparaître le faux. Malheur donc à vous pour les blasphèmes que vous proférez !",
+  "footnotes": ""
 }

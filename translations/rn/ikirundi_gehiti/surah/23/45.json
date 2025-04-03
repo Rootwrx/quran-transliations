@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2718",
-    "sura": "23",
-    "aya": "45",
-    "arabic_text": "ثُمَّ أَرۡسَلۡنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلۡطَٰنٖ مُّبِينٍ",
-    "translation": "Mu nyuma rero, ni ho Twarungikana Musa na murumunawe Haruna ibitangaro vyacu icenda[4], kugira bibe ivyemezo bitomoye bitsimbataza abemeramana, bibe n’ivyagiriji ku bantu b’ibibegito n’abagarariji;",
-    "footnotes": "[4] Ivyo bitangaro bikaba vyari ibi bikurikira: ihinduka ry’inkoni ikaba inzoka amahanga, gusayangana kw’ikiganza mu gihe agikuye mu kwaha, itera ry’amapfa, ikeha ry’umwimbu w’ivyamwa, itera ry’imyuzurire y’amazi, itera ry’inzige, itera ry’udukoko turya ico cose duhuye na co, itera ry’ibikere bikwiragiye hose n’ihinduka ry’ibinyobwa bigacika amaraso."
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 345,
+  "verse_key": "23:45",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ أَرۡسَلۡنَا مُوسَىٰ وَأَخَاهُ هَٰرُونَ بِـَٔايَٰتِنَا وَسُلۡطَٰنٖ مُّبِينٍ",
+  "translation": "Mu nyuma rero, ni ho Twarungikana Musa na murumunawe Haruna ibitangaro vyacu icenda[4], kugira bibe ivyemezo bitomoye bitsimbataza abemeramana, bibe n’ivyagiriji ku bantu b’ibibegito n’abagarariji;",
+  "footnotes": "[4] Ivyo bitangaro bikaba vyari ibi bikurikira: ihinduka ry’inkoni ikaba inzoka amahanga, gusayangana kw’ikiganza mu gihe agikuye mu kwaha, itera ry’amapfa, ikeha ry’umwimbu w’ivyamwa, itera ry’imyuzurire y’amazi, itera ry’inzige, itera ry’udukoko turya ico cose duhuye na co, itera ry’ibikere bikwiragiye hose n’ihinduka ry’ibinyobwa bigacika amaraso."
 }

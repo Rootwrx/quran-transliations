@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4059",
-    "sura": "39",
-    "aya": "1",
-    "arabic_text": "تَنزِيلُ ٱلۡكِتَٰبِ مِنَ ٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَكِيمِ",
-    "translation": "এইখন কিতাব, মহা পৰাক্ৰমশালী প্ৰজ্ঞাময় আল্লাহৰ তৰফৰ পৰা অৱতীৰ্ণ।",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 458,
+  "verse_key": "39:1",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَنزِيلُ ٱلۡكِتَٰبِ مِنَ ٱللَّهِ ٱلۡعَزِيزِ ٱلۡحَكِيمِ",
+  "translation": "এইখন কিতাব, মহা পৰাক্ৰমশালী প্ৰজ্ঞাময় আল্লাহৰ তৰফৰ পৰা অৱতীৰ্ণ।",
+  "footnotes": ""
 }

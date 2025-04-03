@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "159",
-    "sura": "2",
-    "aya": "152",
-    "arabic_text": "فَٱذۡكُرُونِيٓ أَذۡكُرۡكُمۡ وَٱشۡكُرُواْ لِي وَلَا تَكۡفُرُونِ",
-    "translation": "Kaya alalahanin ninyo Ako, aalalahanin Ko kayo; at magpasalamat kayo sa Akin at huwag kayong tumangging sumampalataya sa Akin.",
-    "footnotes": ""
-  }
+  "id": 152,
+  "verse_number": 152,
+  "page_number": 23,
+  "verse_key": "2:152",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱذۡكُرُونِيٓ أَذۡكُرۡكُمۡ وَٱشۡكُرُواْ لِي وَلَا تَكۡفُرُونِ",
+  "translation": "Kaya alalahanin ninyo Ako, aalalahanin Ko kayo; at magpasalamat kayo sa Akin at huwag kayong tumangging sumampalataya sa Akin.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5889",
-    "sura": "84",
-    "aya": "5",
-    "arabic_text": "وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ",
-    "translation": "- ó gbọ́, ó sì tẹ̀lé àṣẹ Olúwa rẹ̀ ni. Ó sì di dandan fún un láti ṣe bẹ́ẹ̀ - (ní ọjọ́ yẹn ni ẹ̀dá máa rí iṣẹ́ ọwọ́ rẹ̀)",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 589,
+  "verse_key": "84:5",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَذِنَتۡ لِرَبِّهَا وَحُقَّتۡ",
+  "translation": "- ó gbọ́, ó sì tẹ̀lé àṣẹ Olúwa rẹ̀ ni. Ó sì di dandan fún un láti ṣe bẹ́ẹ̀ - (ní ọjọ́ yẹn ni ẹ̀dá máa rí iṣẹ́ ọwọ́ rẹ̀)",
+  "footnotes": ""
 }

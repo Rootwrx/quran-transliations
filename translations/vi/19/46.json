@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2296",
-    "sura": "19",
-    "aya": "46",
-    "arabic_text": "قَالَ أَرَاغِبٌ أَنتَ عَنۡ ءَالِهَتِي يَٰٓإِبۡرَٰهِيمُۖ لَئِن لَّمۡ تَنتَهِ لَأَرۡجُمَنَّكَۖ وَٱهۡجُرۡنِي مَلِيّٗا",
-    "translation": "(Cha của Ibrahim) bảo: “Này Ibrahim, hẳn mày ghét những thần linh của tao lắm thì phải! Nếu mày không dừng lại, tao sẽ ném đá giết chết mày; mày hãy mau cút đi đâu đó cho khuất mắt tao, hãy đi cho thật lâu (và đừng nói chuyện với tao nữa).”",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 308,
+  "verse_key": "19:46",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ أَرَاغِبٌ أَنتَ عَنۡ ءَالِهَتِي يَٰٓإِبۡرَٰهِيمُۖ لَئِن لَّمۡ تَنتَهِ لَأَرۡجُمَنَّكَۖ وَٱهۡجُرۡنِي مَلِيّٗا",
+  "translation": "(Cha của Ibrahim) bảo: “Này Ibrahim, hẳn mày ghét những thần linh của tao lắm thì phải! Nếu mày không dừng lại, tao sẽ ném đá giết chết mày; mày hãy mau cút đi đâu đó cho khuất mắt tao, hãy đi cho thật lâu (và đừng nói chuyện với tao nữa).”",
+  "footnotes": ""
 }

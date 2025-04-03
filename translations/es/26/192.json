@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3124",
-    "sura": "26",
-    "aya": "192",
-    "arabic_text": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "192. Este [Corán] es una revelación del Señor del Universo.",
-    "footnotes": ""
-  }
+  "id": 192,
+  "verse_number": 192,
+  "page_number": 375,
+  "verse_key": "26:192",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّهُۥ لَتَنزِيلُ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "192. Este [Corán] es una revelación del Señor del Universo.",
+  "footnotes": ""
 }

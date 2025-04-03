@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5710",
-    "sura": "78",
-    "aya": "38",
-    "arabic_text": "يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابٗا",
-    "translation": "38. El día en que el Espíritu[1] junto con los demás ángeles se pongan en fila, nadie hablará, salvo aquel a quien el Compasivo se lo permita, y solo podrá decir la verdad.",
-    "footnotes": "[1] El ángel Gabriel."
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 583,
+  "verse_key": "78:38",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابٗا",
+  "translation": "38. El día en que el Espíritu[1] junto con los demás ángeles se pongan en fila, nadie hablará, salvo aquel a quien el Compasivo se lo permita, y solo podrá decir la verdad.",
+  "footnotes": "[1] El ángel Gabriel."
 }

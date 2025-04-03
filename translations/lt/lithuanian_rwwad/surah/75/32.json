@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5583",
-    "sura": "75",
-    "aya": "32",
-    "arabic_text": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ",
-    "translation": "32. Tačiau (vietoj to) jis neigė ir nusigręžė.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 578,
+  "verse_key": "75:32",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَٰكِن كَذَّبَ وَتَوَلَّىٰ",
+  "translation": "32. Tačiau (vietoj to) jis neigė ir nusigręžė.",
+  "footnotes": ""
 }

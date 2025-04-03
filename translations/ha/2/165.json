@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "172",
-    "sura": "2",
-    "aya": "165",
-    "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ",
-    "translation": "Kuma akwai daga mutãne wanda yake riƙon kinãye, baicin Allah, suna son su, kamar son Allah, kuma waɗanda suka yi ĩmãni ne mafiya tsananin so* ga Allah. Kuma dã waɗanda** suka yi zãlunci, suna ganin lõkacin da zã su ga azãba, da cewa lalle ne ƙarfi ga Allah yake duka, da cẽwa lalle neAllah Mai tsananin azãba ne.",
-    "footnotes": "* So mai kai ga karɓar umurni daga abin son, wanda ba Allah ba shi ne shirki da kãfirci. Amma so sabõda ihsãnin abin son, kõ dõmin zamansa sãlihi dõmin a yi kõyi da aikinsa na cikin haddõdin sharĩ'a, bã shirki ba ne, dõmin bai kai yadda mũminai ke son Allah ba. ** Ãyõyi na l65 da l66 da 167 duka ɗinke suke ga ma'anoninsu. Ãyã ta l66 zarafi ce ga ta l65, sa'an nan ta 167 an haɗa rabinta ga ãyã ta 166. Sa'an nan sauran ãyã 167 ta zama ta'aƙĩbi da bayãni gare su duka."
-  }
+  "id": 165,
+  "verse_number": 165,
+  "page_number": 25,
+  "verse_key": "2:165",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ",
+  "translation": "Kuma akwai daga mutãne wanda yake riƙon kinãye, baicin Allah, suna son su, kamar son Allah, kuma waɗanda suka yi ĩmãni ne mafiya tsananin so* ga Allah. Kuma dã waɗanda** suka yi zãlunci, suna ganin lõkacin da zã su ga azãba, da cewa lalle ne ƙarfi ga Allah yake duka, da cẽwa lalle neAllah Mai tsananin azãba ne.",
+  "footnotes": "* So mai kai ga karɓar umurni daga abin son, wanda ba Allah ba shi ne shirki da kãfirci. Amma so sabõda ihsãnin abin son, kõ dõmin zamansa sãlihi dõmin a yi kõyi da aikinsa na cikin haddõdin sharĩ'a, bã shirki ba ne, dõmin bai kai yadda mũminai ke son Allah ba. ** Ãyõyi na l65 da l66 da 167 duka ɗinke suke ga ma'anoninsu. Ãyã ta l66 zarafi ce ga ta l65, sa'an nan ta 167 an haɗa rabinta ga ãyã ta 166. Sa'an nan sauran ãyã 167 ta zama ta'aƙĩbi da bayãni gare su duka."
 }

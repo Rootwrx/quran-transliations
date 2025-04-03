@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4363",
-    "sura": "43",
-    "aya": "38",
-    "arabic_text": "حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيۡتَ بَيۡنِي وَبَيۡنَكَ بُعۡدَ ٱلۡمَشۡرِقَيۡنِ فَبِئۡسَ ٱلۡقَرِينُ",
-    "translation": "Hata atakapo tujia atasema: Laiti ungeli kuwako baina yangu na wewe kama umbali baina ya mashariki na magharibi. Rafiki mwovu mno wewe!",
-    "footnotes": "Hata yule aliye jipa upofu na Qur'ani atapo fika kwa Mwenyezi Mungu Siku ya Kiyama, na akaona matokeo ya kule kujitia kwake upofu, atamwambia rafiki yake kwa majuto: Laiti wewe nami tungeli kuwa mbali mbali duniani umbali wa mashariki na magharibi! Ama wewe ulikuwa sahibu muovu mno kwangu, mpaka umekuja nitumbukize katika shimo la Motoni!"
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 492,
+  "verse_key": "43:38",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا جَآءَنَا قَالَ يَٰلَيۡتَ بَيۡنِي وَبَيۡنَكَ بُعۡدَ ٱلۡمَشۡرِقَيۡنِ فَبِئۡسَ ٱلۡقَرِينُ",
+  "translation": "Hata atakapo tujia atasema: Laiti ungeli kuwako baina yangu na wewe kama umbali baina ya mashariki na magharibi. Rafiki mwovu mno wewe!",
+  "footnotes": "Hata yule aliye jipa upofu na Qur'ani atapo fika kwa Mwenyezi Mungu Siku ya Kiyama, na akaona matokeo ya kule kujitia kwake upofu, atamwambia rafiki yake kwa majuto: Laiti wewe nami tungeli kuwa mbali mbali duniani umbali wa mashariki na magharibi! Ama wewe ulikuwa sahibu muovu mno kwangu, mpaka umekuja nitumbukize katika shimo la Motoni!"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3296",
-    "sura": "28",
-    "aya": "44",
-    "arabic_text": "وَمَا كُنتَ بِجَانِبِ ٱلۡغَرۡبِيِّ إِذۡ قَضَيۡنَآ إِلَىٰ مُوسَى ٱلۡأَمۡرَ وَمَا كُنتَ مِنَ ٱلشَّٰهِدِينَ",
-    "translation": "44. Y tú [¡Oh, Mujámmad!] no estabas en la ladera occidental [del monte Sinaí] cuando ordené la misión de Moisés, ni fuiste testigo de ello[1].",
-    "footnotes": "[1] Sino que esa información te llegó a través de la revelación."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 391,
+  "verse_key": "28:44",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كُنتَ بِجَانِبِ ٱلۡغَرۡبِيِّ إِذۡ قَضَيۡنَآ إِلَىٰ مُوسَى ٱلۡأَمۡرَ وَمَا كُنتَ مِنَ ٱلشَّٰهِدِينَ",
+  "translation": "44. Y tú [¡Oh, Mujámmad!] no estabas en la ladera occidental [del monte Sinaí] cuando ordené la misión de Moisés, ni fuiste testigo de ello[1].",
+  "footnotes": "[1] Sino que esa información te llegó a través de la revelación."
 }

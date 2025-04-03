@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "544",
-    "sura": "4",
-    "aya": "51",
-    "arabic_text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يُؤۡمِنُونَ بِٱلۡجِبۡتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُواْ هَٰٓؤُلَآءِ أَهۡدَىٰ مِنَ ٱلَّذِينَ ءَامَنُواْ سَبِيلًا",
-    "translation": "Have you not seen those who were given a portion of the Scripture, who believe in idols[37] and Tāghoot [i.e., false gods][38], and they say to the disbelievers that they are more guided than the believers[39]?",
-    "footnotes": "[37] al-Jibt: all sorts of false things and everything that is worshiped besides Allah.\n [38] al-Tāghūt: taken from ṭughyān, i.e. transgression and wrongdoing. All that transgresses against Allah. Anyone who condones being worshiped besides Allah is a ṭāghūt.\n [39] Ibn ‘Abbās (رضي الله عنهما) reported: “When (the Jewish scholar) Ka‘b ibn al-Ashraf came to Makkah, the Quraysh asked him: “You are the best of the people of Madinah and their master. Aren’t you?” He replied: “Yes!” They then said: “What do you think of this sonless outcast (meaning Prophet Muhammad (ﷺ) claiming that he is better than us when we are the custodians of pilgrims and the caretakers of the House of Allah!” He said: “You are indeed better than him!” Then the following verses were revealed: “Indeed, your hater is the one cut off”, (108: 3) and (5: 51- 52)”. [Al-Nasā’ī, Al-Sunan al-Kubrā: 11707; Ibn Ḥibbān: 6572]"
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 86,
+  "verse_key": "4:51",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يُؤۡمِنُونَ بِٱلۡجِبۡتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُواْ هَٰٓؤُلَآءِ أَهۡدَىٰ مِنَ ٱلَّذِينَ ءَامَنُواْ سَبِيلًا",
+  "translation": "Have you not seen those who were given a portion of the Scripture, who believe in idols[37] and Tāghoot [i.e., false gods][38], and they say to the disbelievers that they are more guided than the believers[39]?",
+  "footnotes": "[37] al-Jibt: all sorts of false things and everything that is worshiped besides Allah.\n [38] al-Tāghūt: taken from ṭughyān, i.e. transgression and wrongdoing. All that transgresses against Allah. Anyone who condones being worshiped besides Allah is a ṭāghūt.\n [39] Ibn ‘Abbās (رضي الله عنهما) reported: “When (the Jewish scholar) Ka‘b ibn al-Ashraf came to Makkah, the Quraysh asked him: “You are the best of the people of Madinah and their master. Aren’t you?” He replied: “Yes!” They then said: “What do you think of this sonless outcast (meaning Prophet Muhammad (ﷺ) claiming that he is better than us when we are the custodians of pilgrims and the caretakers of the House of Allah!” He said: “You are indeed better than him!” Then the following verses were revealed: “Indeed, your hater is the one cut off”, (108: 3) and (5: 51- 52)”. [Al-Nasā’ī, Al-Sunan al-Kubrā: 11707; Ibn Ḥibbān: 6572]"
 }

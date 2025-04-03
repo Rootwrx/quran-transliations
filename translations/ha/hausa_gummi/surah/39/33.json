@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4091",
-    "sura": "39",
-    "aya": "33",
-    "arabic_text": "وَٱلَّذِي جَآءَ بِٱلصِّدۡقِ وَصَدَّقَ بِهِۦٓ أُوْلَٰٓئِكَ هُمُ ٱلۡمُتَّقُونَ",
-    "translation": "Kuma wanda ya zo da gaskiya, kuma ya gaskata a game da ita, waɗancan sũ ne mãsu taƙawa.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 462,
+  "verse_key": "39:33",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِي جَآءَ بِٱلصِّدۡقِ وَصَدَّقَ بِهِۦٓ أُوْلَٰٓئِكَ هُمُ ٱلۡمُتَّقُونَ",
+  "translation": "Kuma wanda ya zo da gaskiya, kuma ya gaskata a game da ita, waɗancan sũ ne mãsu taƙawa.",
+  "footnotes": ""
 }

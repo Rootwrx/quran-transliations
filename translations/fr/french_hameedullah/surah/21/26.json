@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2509",
-    "sura": "21",
-    "aya": "26",
-    "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ",
-    "translation": "Et ils dirent : “Le Tout Miséricordieux s’est donné un enfant.” Gloire à Lui ! Mais ce sont plutôt des serviteurs honorés .",
-    "footnotes": "[605] Ce sont: il s’agit ici des Anges. Il en est de même dans les versets 27, 28 et 29."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 324,
+  "verse_key": "21:26",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ",
+  "translation": "Et ils dirent : “Le Tout Miséricordieux s’est donné un enfant.” Gloire à Lui ! Mais ce sont plutôt des serviteurs honorés .",
+  "footnotes": "[605] Ce sont: il s’agit ici des Anges. Il en est de même dans les versets 27, 28 et 29."
 }

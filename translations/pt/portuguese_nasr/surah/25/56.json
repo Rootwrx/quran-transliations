@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2911",
-    "sura": "25",
-    "aya": "56",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَٰكَ إِلَّا مُبَشِّرٗا وَنَذِيرٗا",
-    "translation": "E não te enviamos senão por alvissareiro e admoestador.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 365,
+  "verse_key": "25:56",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَٰكَ إِلَّا مُبَشِّرٗا وَنَذِيرٗا",
+  "translation": "E não te enviamos senão por alvissareiro e admoestador.",
+  "footnotes": ""
 }

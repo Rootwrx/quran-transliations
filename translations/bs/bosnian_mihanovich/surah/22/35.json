@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2630",
-    "sura": "22",
-    "aya": "35",
-    "arabic_text": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَٱلصَّٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمۡ وَٱلۡمُقِيمِي ٱلصَّلَوٰةِ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
-    "translation": "čija srca, kad se Allah spomene, strah obuzme, i one koji strpljivo podnose nevolje koje ih zadese, i one koji namaz obavljaju i koji, od onoga što im Mi dajemo, udjeljuju. ",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 336,
+  "verse_key": "22:35",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ إِذَا ذُكِرَ ٱللَّهُ وَجِلَتۡ قُلُوبُهُمۡ وَٱلصَّٰبِرِينَ عَلَىٰ مَآ أَصَابَهُمۡ وَٱلۡمُقِيمِي ٱلصَّلَوٰةِ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+  "translation": "čija srca, kad se Allah spomene, strah obuzme, i one koji strpljivo podnose nevolje koje ih zadese, i one koji namaz obavljaju i koji, od onoga što im Mi dajemo, udjeljuju. ",
+  "footnotes": ""
 }

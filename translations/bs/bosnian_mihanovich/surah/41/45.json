@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4263",
-    "sura": "41",
-    "aya": "45",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ فَٱخۡتُلِفَ فِيهِۚ وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَقُضِيَ بَيۡنَهُمۡۚ وَإِنَّهُمۡ لَفِي شَكّٖ مِّنۡهُ مُرِيبٖ",
-    "translation": "I Musau smo Knjigu dali, pa su se zbog nje podvojili. A da nije riječi Gospodara tvoga prije izrečene, s ovima bi bilo već svršeno. I oni su spram njega zbilja u sumnji dubokoj.",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 481,
+  "verse_key": "41:45",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ فَٱخۡتُلِفَ فِيهِۚ وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَقُضِيَ بَيۡنَهُمۡۚ وَإِنَّهُمۡ لَفِي شَكّٖ مِّنۡهُ مُرِيبٖ",
+  "translation": "I Musau smo Knjigu dali, pa su se zbog nje podvojili. A da nije riječi Gospodara tvoga prije izrečene, s ovima bi bilo već svršeno. I oni su spram njega zbilja u sumnji dubokoj.",
+  "footnotes": ""
 }

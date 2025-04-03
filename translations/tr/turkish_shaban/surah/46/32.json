@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4542",
-    "sura": "46",
-    "aya": "32",
-    "arabic_text": "وَمَن لَّا يُجِبۡ دَاعِيَ ٱللَّهِ فَلَيۡسَ بِمُعۡجِزٖ فِي ٱلۡأَرۡضِ وَلَيۡسَ لَهُۥ مِن دُونِهِۦٓ أَوۡلِيَآءُۚ أُوْلَٰٓئِكَ فِي ضَلَٰلٖ مُّبِينٍ",
-    "translation": "Kim Allah’ın davetçisine uymazsa, yeryüzünde (Allah'ı kendisine azap etmesinden) aciz bırakacak değildir. Onun Allah’tan başka bir velisi de yoktur. İşte böyleleri apaçık bir sapıklık içindedir.",
-    "footnotes": null
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 506,
+  "verse_key": "46:32",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن لَّا يُجِبۡ دَاعِيَ ٱللَّهِ فَلَيۡسَ بِمُعۡجِزٖ فِي ٱلۡأَرۡضِ وَلَيۡسَ لَهُۥ مِن دُونِهِۦٓ أَوۡلِيَآءُۚ أُوْلَٰٓئِكَ فِي ضَلَٰلٖ مُّبِينٍ",
+  "translation": "Kim Allah’ın davetçisine uymazsa, yeryüzünde (Allah'ı kendisine azap etmesinden) aciz bırakacak değildir. Onun Allah’tan başka bir velisi de yoktur. İşte böyleleri apaçık bir sapıklık içindedir.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "300",
-    "sura": "3",
-    "aya": "7",
-    "arabic_text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
-    "translation": "Òun ni Ẹni tí Ó sọ Tírà kalẹ̀ fún ọ; àwọn āyah aláìnípọ́n-na wà nínú rẹ̀ - àwọn sì ni ìpìlẹ̀ Tírà[1] -, onípọ́n-na sì ni ìyókù.² Ní ti àwọn tí ìgbúnrí kúrò níbi òdodo wà nínú ọkàn wọn, wọn yóò máa tẹ̀lé èyí tó ní pọ́n-na nínú rẹ̀ láti fi wá wàhálà àti láti fí wá ìtúmọ̀ (òdì) fún un. Kò sì sí ẹni tó nímọ̀ pàápàá ìtúmọ̀ rẹ̀ àfi Allāhu. Àwọn àgbà nínú ìmọ̀ ẹ̀sìn, wọ́n ń sọ pé: “A gbà á gbọ́. Láti ọ̀dọ̀ Olúwa wa ni gbogbo rẹ̀ (ti sọ̀kalẹ̀).” Kò sí ẹni tó ń lo ìrántí àyàfi àwọn onílàákàyè.",
-    "footnotes": "1. Ìyẹn ni pé, a óò máa fi àwọn āyah aláìnípọ́n-na yanjú àwọn āyah onípọ́n-na. 2. Pọ́n-na ni kí ìsọ tàbí ọ̀rọ̀ ṣe é túmọ̀ sí ọ̀pọ̀ ọ̀nà, yálà ìtúmọ̀ tí wọ́n gbà lérò tàbí ìtúmọ̀ tí wọn kò gbà lérò."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 50,
+  "verse_key": "3:7",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِيٓ أَنزَلَ عَلَيۡكَ ٱلۡكِتَٰبَ مِنۡهُ ءَايَٰتٞ مُّحۡكَمَٰتٌ هُنَّ أُمُّ ٱلۡكِتَٰبِ وَأُخَرُ مُتَشَٰبِهَٰتٞۖ فَأَمَّا ٱلَّذِينَ فِي قُلُوبِهِمۡ زَيۡغٞ فَيَتَّبِعُونَ مَا تَشَٰبَهَ مِنۡهُ ٱبۡتِغَآءَ ٱلۡفِتۡنَةِ وَٱبۡتِغَآءَ تَأۡوِيلِهِۦۖ وَمَا يَعۡلَمُ تَأۡوِيلَهُۥٓ إِلَّا ٱللَّهُۗ وَٱلرَّٰسِخُونَ فِي ٱلۡعِلۡمِ يَقُولُونَ ءَامَنَّا بِهِۦ كُلّٞ مِّنۡ عِندِ رَبِّنَاۗ وَمَا يَذَّكَّرُ إِلَّآ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+  "translation": "Òun ni Ẹni tí Ó sọ Tírà kalẹ̀ fún ọ; àwọn āyah aláìnípọ́n-na wà nínú rẹ̀ - àwọn sì ni ìpìlẹ̀ Tírà[1] -, onípọ́n-na sì ni ìyókù.² Ní ti àwọn tí ìgbúnrí kúrò níbi òdodo wà nínú ọkàn wọn, wọn yóò máa tẹ̀lé èyí tó ní pọ́n-na nínú rẹ̀ láti fi wá wàhálà àti láti fí wá ìtúmọ̀ (òdì) fún un. Kò sì sí ẹni tó nímọ̀ pàápàá ìtúmọ̀ rẹ̀ àfi Allāhu. Àwọn àgbà nínú ìmọ̀ ẹ̀sìn, wọ́n ń sọ pé: “A gbà á gbọ́. Láti ọ̀dọ̀ Olúwa wa ni gbogbo rẹ̀ (ti sọ̀kalẹ̀).” Kò sí ẹni tó ń lo ìrántí àyàfi àwọn onílàákàyè.",
+  "footnotes": "1. Ìyẹn ni pé, a óò máa fi àwọn āyah aláìnípọ́n-na yanjú àwọn āyah onípọ́n-na. 2. Pọ́n-na ni kí ìsọ tàbí ọ̀rọ̀ ṣe é túmọ̀ sí ọ̀pọ̀ ọ̀nà, yálà ìtúmọ̀ tí wọ́n gbà lérò tàbí ìtúmọ̀ tí wọn kò gbà lérò."
 }

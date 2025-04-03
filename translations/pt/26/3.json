@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2935",
-    "sura": "26",
-    "aya": "3",
-    "arabic_text": "لَعَلَّكَ بَٰخِعٞ نَّفۡسَكَ أَلَّا يَكُونُواْ مُؤۡمِنِينَ",
-    "translation": "Talvez te consume de pesar, Muhammad, por não serem eles crentes.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 367,
+  "verse_key": "26:3",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَعَلَّكَ بَٰخِعٞ نَّفۡسَكَ أَلَّا يَكُونُواْ مُؤۡمِنِينَ",
+  "translation": "Talvez te consume de pesar, Muhammad, por não serem eles crentes.",
+  "footnotes": ""
 }

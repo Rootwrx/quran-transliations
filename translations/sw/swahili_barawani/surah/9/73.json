@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1308",
-    "sura": "9",
-    "aya": "73",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ جَٰهِدِ ٱلۡكُفَّارَ وَٱلۡمُنَٰفِقِينَ وَٱغۡلُظۡ عَلَيۡهِمۡۚ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِيرُ",
-    "translation": "Ewe Nabii! Pambana na makafiri na wanaafiki, na wakazanie. Na makaazi yao ni Jahannamu, na huo ndio mwisho mbaya.",
-    "footnotes": "Ewe Nabii! Shikamana na juhudi ya kuwazuia makafiri na ukafiri wao, na wanaafiki na unaafiki wao. Na wakazanie katika juhudi yako. Makaazi yao hawa aliyo waahidi Mwenyezi Mungu huko Akhera ni Jahannamu. Na uovu ulioje mwisho huo!"
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 199,
+  "verse_key": "9:73",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ جَٰهِدِ ٱلۡكُفَّارَ وَٱلۡمُنَٰفِقِينَ وَٱغۡلُظۡ عَلَيۡهِمۡۚ وَمَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+  "translation": "Ewe Nabii! Pambana na makafiri na wanaafiki, na wakazanie. Na makaazi yao ni Jahannamu, na huo ndio mwisho mbaya.",
+  "footnotes": "Ewe Nabii! Shikamana na juhudi ya kuwazuia makafiri na ukafiri wao, na wanaafiki na unaafiki wao. Na wakazanie katika juhudi yako. Makaazi yao hawa aliyo waahidi Mwenyezi Mungu huko Akhera ni Jahannamu. Na uovu ulioje mwisho huo!"
 }

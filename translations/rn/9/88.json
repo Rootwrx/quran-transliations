@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1323",
-    "sura": "9",
-    "aya": "88",
-    "arabic_text": "لَٰكِنِ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ جَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡۚ وَأُوْلَٰٓئِكَ لَهُمُ ٱلۡخَيۡرَٰتُۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
-    "translation": "Indyarya n’aho zitojana n’Intumwa ku rugamba, Intumwa y’Imana (nyakugira amahoro n’impuhwe z’Imana Allah) n’abemeramana bari kumwe, baraharaniye idini ry’Imana Allah mu gutanga amatungo yabo no mu kwitanga bo nyene ubwabo, abo ni bo bategekanirijwe intsinzi n’iminyago kw’isi, bakazoterwa n’iteka ryo kuja mu Bwami bw’ijuru; abo, ni na bo rero baronse intsinzi;",
-    "footnotes": ""
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 201,
+  "verse_key": "9:88",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَٰكِنِ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ جَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡۚ وَأُوْلَٰٓئِكَ لَهُمُ ٱلۡخَيۡرَٰتُۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+  "translation": "Indyarya n’aho zitojana n’Intumwa ku rugamba, Intumwa y’Imana (nyakugira amahoro n’impuhwe z’Imana Allah) n’abemeramana bari kumwe, baraharaniye idini ry’Imana Allah mu gutanga amatungo yabo no mu kwitanga bo nyene ubwabo, abo ni bo bategekanirijwe intsinzi n’iminyago kw’isi, bakazoterwa n’iteka ryo kuja mu Bwami bw’ijuru; abo, ni na bo rero baronse intsinzi;",
+  "footnotes": ""
 }

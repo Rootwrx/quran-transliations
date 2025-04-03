@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "69",
-    "sura": "2",
-    "aya": "62",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "62. En verdad, los creyentes (de esta comunidad), los judíos, los cristianos, los sabeos y quienes tuvieron fe en Al-lah y en el Día de la Resurrección y obraron rectamente[27] (antes de la aparición de Muhammad) tendrán su recompensa junto a su Señor, y no tendrán nada que temer (en la otra vida) ni se sentirán afligidos.",
-    "footnotes": "[27]  Esta aleya hace referencia a los judíos, cristianos y sabeos (gentes monoteístas sin una religión determinada) que adoraban solamente a Al-lah y obedecían a Sus mensajeros sin desviarse de la fitrah o predisposición natural con la que Al-lah creó al hombre, basada en la adoración pura y exclusiva a Al-lah. Tras la aparición del profeta Muhammad —que Al-lah lo bendiga y le dé la paz— todos los seguidores de otras religiones tienen la obligación de abrazar el islam (ver la aleya 85 de la sura 3)."
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 10,
+  "verse_key": "2:62",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "62. En verdad, los creyentes (de esta comunidad), los judíos, los cristianos, los sabeos y quienes tuvieron fe en Al-lah y en el Día de la Resurrección y obraron rectamente[27] (antes de la aparición de Muhammad) tendrán su recompensa junto a su Señor, y no tendrán nada que temer (en la otra vida) ni se sentirán afligidos.",
+  "footnotes": "[27]  Esta aleya hace referencia a los judíos, cristianos y sabeos (gentes monoteístas sin una religión determinada) que adoraban solamente a Al-lah y obedecían a Sus mensajeros sin desviarse de la fitrah o predisposición natural con la que Al-lah creó al hombre, basada en la adoración pura y exclusiva a Al-lah. Tras la aparición del profeta Muhammad —que Al-lah lo bendiga y le dé la paz— todos los seguidores de otras religiones tienen la obligación de abrazar el islam (ver la aleya 85 de la sura 3)."
 }

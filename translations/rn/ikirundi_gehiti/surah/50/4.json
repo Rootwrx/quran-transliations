@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4634",
-    "sura": "50",
-    "aya": "4",
-    "arabic_text": "قَدۡ عَلِمۡنَا مَا تَنقُصُ ٱلۡأَرۡضُ مِنۡهُمۡۖ وَعِندَنَا كِتَٰبٌ حَفِيظُۢ",
-    "translation": "Ni ukuri Twebwe Allah, Turazi neza ibibora mu mibiri yabo bigahinduka ivu, maze isi ikabinunuza; Turafise rero n’Igitabu nyezina kibungabunzwe, canditswemwo ivyagezwe kuri bo n’ishirwa mu ngiro ryavyo “Lawhu Mahfuudhw”.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 518,
+  "verse_key": "50:4",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ عَلِمۡنَا مَا تَنقُصُ ٱلۡأَرۡضُ مِنۡهُمۡۖ وَعِندَنَا كِتَٰبٌ حَفِيظُۢ",
+  "translation": "Ni ukuri Twebwe Allah, Turazi neza ibibora mu mibiri yabo bigahinduka ivu, maze isi ikabinunuza; Turafise rero n’Igitabu nyezina kibungabunzwe, canditswemwo ivyagezwe kuri bo n’ishirwa mu ngiro ryavyo “Lawhu Mahfuudhw”.",
+  "footnotes": ""
 }

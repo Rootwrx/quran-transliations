@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4595",
-    "sura": "48",
-    "aya": "12",
-    "arabic_text": "بَلۡ ظَنَنتُمۡ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلۡمُؤۡمِنُونَ إِلَىٰٓ أَهۡلِيهِمۡ أَبَدٗا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمۡ وَظَنَنتُمۡ ظَنَّ ٱلسَّوۡءِ وَكُنتُمۡ قَوۡمَۢا بُورٗا",
-    "translation": "Rárá (kì í ṣe iṣẹ́ kan l’ó di yín lọ́wọ́ láti lọ jagun, àmọ́) ẹ ti lérò pé Òjíṣẹ́ àti àwọn onígbàgbọ́ òdodo kò níí padà sí ọ̀dọ̀ ará ilé wọn mọ́ láéláé. Wọ́n ṣe ìyẹn ni ọ̀ṣọ́ sínú ọkàn yín. Ẹ sì ro èrò aburú. Ẹ sì jẹ́ ìjọ ìparun.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 512,
+  "verse_key": "48:12",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ ظَنَنتُمۡ أَن لَّن يَنقَلِبَ ٱلرَّسُولُ وَٱلۡمُؤۡمِنُونَ إِلَىٰٓ أَهۡلِيهِمۡ أَبَدٗا وَزُيِّنَ ذَٰلِكَ فِي قُلُوبِكُمۡ وَظَنَنتُمۡ ظَنَّ ٱلسَّوۡءِ وَكُنتُمۡ قَوۡمَۢا بُورٗا",
+  "translation": "Rárá (kì í ṣe iṣẹ́ kan l’ó di yín lọ́wọ́ láti lọ jagun, àmọ́) ẹ ti lérò pé Òjíṣẹ́ àti àwọn onígbàgbọ́ òdodo kò níí padà sí ọ̀dọ̀ ará ilé wọn mọ́ láéláé. Wọ́n ṣe ìyẹn ni ọ̀ṣọ́ sínú ọkàn yín. Ẹ sì ro èrò aburú. Ẹ sì jẹ́ ìjọ ìparun.",
+  "footnotes": ""
 }

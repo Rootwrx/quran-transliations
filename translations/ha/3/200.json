@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "493",
-    "sura": "3",
-    "aya": "200",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱصۡبِرُواْ وَصَابِرُواْ وَرَابِطُواْ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
-    "translation": "Yã ku waɗanda suka yi ĩmani! Ku yi haƙuri kuma ku yi dauriya, kuma ku yi zaman dãko, kuma ku yi taƙawa, tsammãninku zã ku ci nasara.*",
-    "footnotes": "* Haƙuri a kan ibãda da ɗaukar wahalõlin sharĩ'a gabãɗaya gwargwadon ĩkon yi. Dauriya a kan abokan gaba; watau kada maƙiya su fi mũminai haƙuri wajen yãƙi daɗaukar wahalõlinsa. Zaman dãko ga taushewar hanyõyin abõkan gaba daga barin shiga ƙasar Musulmi. Bãbu bambanci ga maƙiyi bayyananne da maƙiyi ɓõyayye. Maƙiyi ɓõyayye ya fi aibi dõmin kasancewarsa, zai shiga wuta, amma kasancewarsa maƙiyi bayyananne, zai shiga Aljanna. Taƙawa ita ce bin umuruin Allah da kangewa daga barin haninSa kamar yadda Ya faɗa. Wannan shĩ ne kan ibãda duka bãyan ĩmãni, dõmin haka ya ce kõ zã ku ci nasara, idan kun riƙe waɗannan abũbuwa da kyãwo."
-  }
+  "id": 200,
+  "verse_number": 200,
+  "page_number": 76,
+  "verse_key": "3:200",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱصۡبِرُواْ وَصَابِرُواْ وَرَابِطُواْ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+  "translation": "Yã ku waɗanda suka yi ĩmani! Ku yi haƙuri kuma ku yi dauriya, kuma ku yi zaman dãko, kuma ku yi taƙawa, tsammãninku zã ku ci nasara.*",
+  "footnotes": "* Haƙuri a kan ibãda da ɗaukar wahalõlin sharĩ'a gabãɗaya gwargwadon ĩkon yi. Dauriya a kan abokan gaba; watau kada maƙiya su fi mũminai haƙuri wajen yãƙi daɗaukar wahalõlinsa. Zaman dãko ga taushewar hanyõyin abõkan gaba daga barin shiga ƙasar Musulmi. Bãbu bambanci ga maƙiyi bayyananne da maƙiyi ɓõyayye. Maƙiyi ɓõyayye ya fi aibi dõmin kasancewarsa, zai shiga wuta, amma kasancewarsa maƙiyi bayyananne, zai shiga Aljanna. Taƙawa ita ce bin umuruin Allah da kangewa daga barin haninSa kamar yadda Ya faɗa. Wannan shĩ ne kan ibãda duka bãyan ĩmãni, dõmin haka ya ce kõ zã ku ci nasara, idan kun riƙe waɗannan abũbuwa da kyãwo."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2923",
-    "sura": "25",
-    "aya": "68",
-    "arabic_text": "وَٱلَّذِينَ لَا يَدۡعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقۡتُلُونَ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّ وَلَا يَزۡنُونَۚ وَمَن يَفۡعَلۡ ذَٰلِكَ يَلۡقَ أَثَامٗا",
-    "translation": "Abasenga Imana Imwe Rudende Allah, batigera bayibangikanya n’ikigirwamana na kimwe, eka ntibicira ubusa n’ikiremwa Imana Allah Yaziririje ko cicwa; kiretse mu gihe hubahirijwe ukuri n’ingingo[6], kandi ntibanasambana. Uwuzokora kimwe muri ivyo vyaha rutura rero, azobihanirwa bikomeye mu buzima bw’inyuma yo gupfa;",
-    "footnotes": "[6] Nko mu gihe umuntu avuye mw’idini inyuma y’aho yari umwemeramana, uwagiriwe n’ubusambanyi yari yubatse, hamwe rero n’uwishe umuntu ku karenganyo yabiteguye."
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 366,
+  "verse_key": "25:68",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ لَا يَدۡعُونَ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَ وَلَا يَقۡتُلُونَ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّ وَلَا يَزۡنُونَۚ وَمَن يَفۡعَلۡ ذَٰلِكَ يَلۡقَ أَثَامٗا",
+  "translation": "Abasenga Imana Imwe Rudende Allah, batigera bayibangikanya n’ikigirwamana na kimwe, eka ntibicira ubusa n’ikiremwa Imana Allah Yaziririje ko cicwa; kiretse mu gihe hubahirijwe ukuri n’ingingo[6], kandi ntibanasambana. Uwuzokora kimwe muri ivyo vyaha rutura rero, azobihanirwa bikomeye mu buzima bw’inyuma yo gupfa;",
+  "footnotes": "[6] Nko mu gihe umuntu avuye mw’idini inyuma y’aho yari umwemeramana, uwagiriwe n’ubusambanyi yari yubatse, hamwe rero n’uwishe umuntu ku karenganyo yabiteguye."
 }

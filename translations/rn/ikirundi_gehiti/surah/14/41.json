@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1791",
-    "sura": "14",
-    "aya": "41",
-    "arabic_text": "رَبَّنَا ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِلۡمُؤۡمِنِينَ يَوۡمَ يَقُومُ ٱلۡحِسَابُ",
-    "translation": "Mana yanje Rurema Allah! Ngumiriza akabanga, Umbabarire ibicumuro noba narakoze nka kiremwa-muntu, Wongere Ubabarire n’abavyeyi banje[11] hamwe n’abemeramana bose ku musi ibiremwa vyahagaritswe kugira biharurirwe, biheze bihemberwe ivyo vyakoze”.",
-    "footnotes": "[11] Yasabiye umuvyeyi wiwe imbere yuko amenya ko yamaze kugarariza, akaba umwansi w’Imana Allah."
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 260,
+  "verse_key": "14:41",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبَّنَا ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِلۡمُؤۡمِنِينَ يَوۡمَ يَقُومُ ٱلۡحِسَابُ",
+  "translation": "Mana yanje Rurema Allah! Ngumiriza akabanga, Umbabarire ibicumuro noba narakoze nka kiremwa-muntu, Wongere Ubabarire n’abavyeyi banje[11] hamwe n’abemeramana bose ku musi ibiremwa vyahagaritswe kugira biharurirwe, biheze bihemberwe ivyo vyakoze”.",
+  "footnotes": "[11] Yasabiye umuvyeyi wiwe imbere yuko amenya ko yamaze kugarariza, akaba umwansi w’Imana Allah."
 }

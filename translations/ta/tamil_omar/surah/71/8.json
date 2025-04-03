@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5427",
-    "sura": "71",
-    "aya": "8",
-    "arabic_text": "ثُمَّ إِنِّي دَعَوۡتُهُمۡ جِهَارٗا",
-    "translation": "பிறகு, நிச்சயமாக நான் அவர்களை பகிரங்கமாக அழைத்தேன்.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 570,
+  "verse_key": "71:8",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ إِنِّي دَعَوۡتُهُمۡ جِهَارٗا",
+  "translation": "பிறகு, நிச்சயமாக நான் அவர்களை பகிரங்கமாக அழைத்தேன்.",
+  "footnotes": ""
 }

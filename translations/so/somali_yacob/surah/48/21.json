@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4604",
-    "sura": "48",
-    "aya": "21",
-    "arabic_text": "وَأُخۡرَىٰ لَمۡ تَقۡدِرُواْ عَلَيۡهَا قَدۡ أَحَاطَ ٱللَّهُ بِهَاۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٗا",
-    "translation": "21. Iyo (qaniimooyin) kale oo aydaan awooddeen6, Alle baa dhab ahaan koobay. Alle wax walba wuu Karaa.",
-    "footnotes": ". 6. Alle Idiin diyaariyey ama qaddaray."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 513,
+  "verse_key": "48:21",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 205,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأُخۡرَىٰ لَمۡ تَقۡدِرُواْ عَلَيۡهَا قَدۡ أَحَاطَ ٱللَّهُ بِهَاۚ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٗا",
+  "translation": "21. Iyo (qaniimooyin) kale oo aydaan awooddeen6, Alle baa dhab ahaan koobay. Alle wax walba wuu Karaa.",
+  "footnotes": ". 6. Alle Idiin diyaariyey ama qaddaray."
 }

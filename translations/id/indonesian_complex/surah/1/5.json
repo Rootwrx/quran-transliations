@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5",
-    "sura": "1",
-    "aya": "5",
-    "arabic_text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
-    "translation": "Hanya kepada Engkau-lah kami menyembah6 dan hanya kepada Engkau-lah kami memohon pertolongan7.",
-    "footnotes": "6.  Na‘budu diambil dari kata ‘Ibādat (ibadah), yaitu kepatuhan dan ketundukan yang ditimbulkan oleh perasaan tentang kebesaran Allah Subḥānahu wa Ta‘ālā, sebagai Tuhan yang disembah karena berkeyakinan bahwa Allah mempunyai kekuasaan yang mutlak terhadapnya. \n7.  Nasta‘īn (memohon pertolongan), diambil dari kata isti‘ānah, yaitu mengharapkan bantuan untuk dapat menyelesaikan suatu pekerjaan yang tidak sanggup diselesaikan dengan tenaga sendiri."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 1,
+  "verse_key": "1:5",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+  "translation": "Hanya kepada Engkau-lah kami menyembah6 dan hanya kepada Engkau-lah kami memohon pertolongan7.",
+  "footnotes": "6.  Na‘budu diambil dari kata ‘Ibādat (ibadah), yaitu kepatuhan dan ketundukan yang ditimbulkan oleh perasaan tentang kebesaran Allah Subḥānahu wa Ta‘ālā, sebagai Tuhan yang disembah karena berkeyakinan bahwa Allah mempunyai kekuasaan yang mutlak terhadapnya. \n7.  Nasta‘īn (memohon pertolongan), diambil dari kata isti‘ānah, yaitu mengharapkan bantuan untuk dapat menyelesaikan suatu pekerjaan yang tidak sanggup diselesaikan dengan tenaga sendiri."
 }

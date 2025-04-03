@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3534",
-    "sura": "33",
-    "aya": "1",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلۡكَٰفِرِينَ وَٱلۡمُنَٰفِقِينَۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا",
-    "translation": "1. Oh ntoma! Banga Allah kaši kotosa bapengwi te na bato ya bilongi mibale. Ya sôló, Allah azali moyebi atonda bwanya.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 418,
+  "verse_key": "33:1",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ ٱتَّقِ ٱللَّهَ وَلَا تُطِعِ ٱلۡكَٰفِرِينَ وَٱلۡمُنَٰفِقِينَۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا",
+  "translation": "1. Oh ntoma! Banga Allah kaši kotosa bapengwi te na bato ya bilongi mibale. Ya sôló, Allah azali moyebi atonda bwanya.",
+  "footnotes": ""
 }

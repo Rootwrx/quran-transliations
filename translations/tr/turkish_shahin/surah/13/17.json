@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1724",
-    "sura": "13",
-    "aya": "17",
-    "arabic_text": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَسَالَتۡ أَوۡدِيَةُۢ بِقَدَرِهَا فَٱحۡتَمَلَ ٱلسَّيۡلُ زَبَدٗا رَّابِيٗاۖ وَمِمَّا يُوقِدُونَ عَلَيۡهِ فِي ٱلنَّارِ ٱبۡتِغَآءَ حِلۡيَةٍ أَوۡ مَتَٰعٖ زَبَدٞ مِّثۡلُهُۥۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡحَقَّ وَٱلۡبَٰطِلَۚ فَأَمَّا ٱلزَّبَدُ فَيَذۡهَبُ جُفَآءٗۖ وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمۡكُثُ فِي ٱلۡأَرۡضِۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَالَ",
-    "translation": "O, gökten su indirdi de vâdiler kendi hacimlerince sel olup aktı. Bu sel, üste çıkan bir köpüğü yüklenip götürdü. Süs veya (diğer) eşya yapmak isteyerek ateşte erittikleri şeylerden de buna benzer köpük olur, işte Allah hak ile bâtıla böyle misal verir. Köpük atılıp gider. İnsanlara fayda veren şeye gelince, o yeryüzünde kalır. İşte Allah böyle misaller getirir.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 251,
+  "verse_key": "13:17",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَنزَلَ مِنَ ٱلسَّمَآءِ مَآءٗ فَسَالَتۡ أَوۡدِيَةُۢ بِقَدَرِهَا فَٱحۡتَمَلَ ٱلسَّيۡلُ زَبَدٗا رَّابِيٗاۖ وَمِمَّا يُوقِدُونَ عَلَيۡهِ فِي ٱلنَّارِ ٱبۡتِغَآءَ حِلۡيَةٍ أَوۡ مَتَٰعٖ زَبَدٞ مِّثۡلُهُۥۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡحَقَّ وَٱلۡبَٰطِلَۚ فَأَمَّا ٱلزَّبَدُ فَيَذۡهَبُ جُفَآءٗۖ وَأَمَّا مَا يَنفَعُ ٱلنَّاسَ فَيَمۡكُثُ فِي ٱلۡأَرۡضِۚ كَذَٰلِكَ يَضۡرِبُ ٱللَّهُ ٱلۡأَمۡثَالَ",
+  "translation": "O, gökten su indirdi de vâdiler kendi hacimlerince sel olup aktı. Bu sel, üste çıkan bir köpüğü yüklenip götürdü. Süs veya (diğer) eşya yapmak isteyerek ateşte erittikleri şeylerden de buna benzer köpük olur, işte Allah hak ile bâtıla böyle misal verir. Köpük atılıp gider. İnsanlara fayda veren şeye gelince, o yeryüzünde kalır. İşte Allah böyle misaller getirir.",
+  "footnotes": ""
 }

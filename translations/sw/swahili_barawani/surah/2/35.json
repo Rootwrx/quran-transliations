@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "42",
-    "sura": "2",
-    "aya": "35",
-    "arabic_text": "وَقُلۡنَا يَٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ وَكُلَا مِنۡهَا رَغَدًا حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
-    "translation": "Na tulisema: Ewe Adam! Kaa wewe na mkeo katika Bustani, na kuleni humo maridhawa popote mpendapo, lakini msiukaribie mti huu tu; mkawa katika wale walio dhulumu.",
-    "footnotes": "Kisha Mwenyezi Mungu alimuumba Adam na mkewe, na akawaamrisha wakae katika Bustani ya neema. Akamwambia: Kaa wewe na mkeo katika Bustani hii na kuleni humo mtakavyo vya kutosha bila ya kutaabika, na kaeni mtakapo, mle mtakacho. Lakini Mwenyezi Mungu aliwatajia mti maalumu na akawahadharisha wasiule, na akawaambia: Msiukaribie mti huu, wala msile matunda yake. Mkifanya hivyo mtakuwa miongoni mwa walio dhulumu, na mtakuwa waasi."
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 6,
+  "verse_key": "2:35",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُلۡنَا يَٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ وَكُلَا مِنۡهَا رَغَدًا حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+  "translation": "Na tulisema: Ewe Adam! Kaa wewe na mkeo katika Bustani, na kuleni humo maridhawa popote mpendapo, lakini msiukaribie mti huu tu; mkawa katika wale walio dhulumu.",
+  "footnotes": "Kisha Mwenyezi Mungu alimuumba Adam na mkewe, na akawaamrisha wakae katika Bustani ya neema. Akamwambia: Kaa wewe na mkeo katika Bustani hii na kuleni humo mtakavyo vya kutosha bila ya kutaabika, na kaeni mtakapo, mle mtakacho. Lakini Mwenyezi Mungu aliwatajia mti maalumu na akawahadharisha wasiule, na akawaambia: Msiukaribie mti huu, wala msile matunda yake. Mkifanya hivyo mtakuwa miongoni mwa walio dhulumu, na mtakuwa waasi."
 }

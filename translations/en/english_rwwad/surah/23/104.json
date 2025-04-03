@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2777",
-    "sura": "23",
-    "aya": "104",
-    "arabic_text": "تَلۡفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمۡ فِيهَا كَٰلِحُونَ",
-    "translation": "The Fire will scorch their faces, leaving them disfigured[47].",
-    "footnotes": "[47] Kālih means a face whose skin has been removed by scorching until the jaws are exposed."
-  }
+  "id": 104,
+  "verse_number": 104,
+  "page_number": 348,
+  "verse_key": "23:104",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَلۡفَحُ وُجُوهَهُمُ ٱلنَّارُ وَهُمۡ فِيهَا كَٰلِحُونَ",
+  "translation": "The Fire will scorch their faces, leaving them disfigured[47].",
+  "footnotes": "[47] Kālih means a face whose skin has been removed by scorching until the jaws are exposed."
 }

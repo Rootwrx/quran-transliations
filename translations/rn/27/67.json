@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3226",
-    "sura": "27",
-    "aya": "67",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ كَفَرُوٓاْ أَءِذَا كُنَّا تُرَٰبٗا وَءَابَآؤُنَآ أَئِنَّا لَمُخۡرَجُونَ",
-    "translation": "Abahakanye bivuye inyuma ko ata Mana Imwe Rudende Ibaho, barinamuye bati: “Ubwo none ga ntuze! Nitwamara gupfa twebwe hamwe n’abavyeyi bacu tugacika ivu, burya tuzosubizwa ubuzima nk’uko twahora kw’isi!",
-    "footnotes": ""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 383,
+  "verse_key": "27:67",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ كَفَرُوٓاْ أَءِذَا كُنَّا تُرَٰبٗا وَءَابَآؤُنَآ أَئِنَّا لَمُخۡرَجُونَ",
+  "translation": "Abahakanye bivuye inyuma ko ata Mana Imwe Rudende Ibaho, barinamuye bati: “Ubwo none ga ntuze! Nitwamara gupfa twebwe hamwe n’abavyeyi bacu tugacika ivu, burya tuzosubizwa ubuzima nk’uko twahora kw’isi!",
+  "footnotes": ""
 }

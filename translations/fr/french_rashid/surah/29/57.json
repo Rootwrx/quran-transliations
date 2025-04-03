@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3397",
-    "sura": "29",
-    "aya": "57",
-    "arabic_text": "كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۖ ثُمَّ إِلَيۡنَا تُرۡجَعُونَ",
-    "translation": "57 Et sachez que chaque être est appelé à mourir et que c’est à Nous ensuite que vous serez ramenés[1044].",
-    "footnotes": "[1044] Ne renoncez donc pas à émigrer par crainte pour votre vie."
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 403,
+  "verse_key": "29:57",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۖ ثُمَّ إِلَيۡنَا تُرۡجَعُونَ",
+  "translation": "57 Et sachez que chaque être est appelé à mourir et que c’est à Nous ensuite que vous serez ramenés[1044].",
+  "footnotes": "[1044] Ne renoncez donc pas à émigrer par crainte pour votre vie."
 }

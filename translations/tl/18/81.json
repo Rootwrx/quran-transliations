@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2221",
-    "sura": "18",
-    "aya": "81",
-    "arabic_text": "فَأَرَدۡنَآ أَن يُبۡدِلَهُمَا رَبُّهُمَا خَيۡرٗا مِّنۡهُ زَكَوٰةٗ وَأَقۡرَبَ رُحۡمٗا",
-    "translation": "Kaya nagnais kami na magpalit sa kanilang dalawa ang Panginoon nilang dalawa ng isang higit na mabuti kaysa sa kanya sa kadalisayan at higit na malapit sa pagkaawa [sa mga magulang].",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 302,
+  "verse_key": "18:81",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَرَدۡنَآ أَن يُبۡدِلَهُمَا رَبُّهُمَا خَيۡرٗا مِّنۡهُ زَكَوٰةٗ وَأَقۡرَبَ رُحۡمٗا",
+  "translation": "Kaya nagnais kami na magpalit sa kanilang dalawa ang Panginoon nilang dalawa ng isang higit na mabuti kaysa sa kanya sa kadalisayan at higit na malapit sa pagkaawa [sa mga magulang].",
+  "footnotes": ""
 }

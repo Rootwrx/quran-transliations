@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2667",
-    "sura": "22",
-    "aya": "72",
-    "arabic_text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ تَعۡرِفُ فِي وُجُوهِ ٱلَّذِينَ كَفَرُواْ ٱلۡمُنكَرَۖ يَكَادُونَ يَسۡطُونَ بِٱلَّذِينَ يَتۡلُونَ عَلَيۡهِمۡ ءَايَٰتِنَاۗ قُلۡ أَفَأُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكُمُۚ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُواْۖ وَبِئۡسَ ٱلۡمَصِيرُ",
-    "translation": "Na wanapo somewa Aya zetu zilizo wazi utaona chuki katika nyuso za walio kufuru. Hukaribia kuwavamia wale wanao wasomea hizo Aya zetu. Sema: Je! Nikwambieni yaliyo mabaya zaidi kuliko haya? Ni Moto. Mwenyezi Mungu amewaahidi walio kufuru, na ni marudio mabaya hayo.",
-    "footnotes": "Ewe Nabii! Hawa washirikina mtu akiwasomea Aya zetu zilizo wazi, na ambazo ndani yake mna ushahidi wa ukweli wa hayo unao waitia, na ubaya wa ibada zao, utaona katika nyuso zao ghadhabu na chuki inayo wajaa, hata inakaribia kuwapelekea kutaka kumuuwa huyo anaye wasomea. Ewe Nabii! Waambie kwa kuwazindua na kuwaonya: Je! Mtanisikiliza nikwambieni yaliyo kuwa mabaya zaidi kuliko hiyo chuki inayo kuunguzeni roho? Ni Moto ambao Mwenyezi Mungu amewaahidi walio kufuru kama nyinyi Siku ya Kiyama. Na hapana mwisho mbaya na makaazi maovu kuliko hayo."
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 340,
+  "verse_key": "22:72",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُنَا بَيِّنَٰتٖ تَعۡرِفُ فِي وُجُوهِ ٱلَّذِينَ كَفَرُواْ ٱلۡمُنكَرَۖ يَكَادُونَ يَسۡطُونَ بِٱلَّذِينَ يَتۡلُونَ عَلَيۡهِمۡ ءَايَٰتِنَاۗ قُلۡ أَفَأُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكُمُۚ ٱلنَّارُ وَعَدَهَا ٱللَّهُ ٱلَّذِينَ كَفَرُواْۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+  "translation": "Na wanapo somewa Aya zetu zilizo wazi utaona chuki katika nyuso za walio kufuru. Hukaribia kuwavamia wale wanao wasomea hizo Aya zetu. Sema: Je! Nikwambieni yaliyo mabaya zaidi kuliko haya? Ni Moto. Mwenyezi Mungu amewaahidi walio kufuru, na ni marudio mabaya hayo.",
+  "footnotes": "Ewe Nabii! Hawa washirikina mtu akiwasomea Aya zetu zilizo wazi, na ambazo ndani yake mna ushahidi wa ukweli wa hayo unao waitia, na ubaya wa ibada zao, utaona katika nyuso zao ghadhabu na chuki inayo wajaa, hata inakaribia kuwapelekea kutaka kumuuwa huyo anaye wasomea. Ewe Nabii! Waambie kwa kuwazindua na kuwaonya: Je! Mtanisikiliza nikwambieni yaliyo kuwa mabaya zaidi kuliko hiyo chuki inayo kuunguzeni roho? Ni Moto ambao Mwenyezi Mungu amewaahidi walio kufuru kama nyinyi Siku ya Kiyama. Na hapana mwisho mbaya na makaazi maovu kuliko hayo."
 }

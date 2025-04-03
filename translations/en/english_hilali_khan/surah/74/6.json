@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5501",
-    "sura": "74",
-    "aya": "6",
-    "arabic_text": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ",
-    "translation": " 6. And give not a thing in order to have more (or consider not your deeds of obedience to Allâh as a favour to Him).",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 575,
+  "verse_key": "74:6",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ",
+  "translation": " 6. And give not a thing in order to have more (or consider not your deeds of obedience to Allâh as a favour to Him).",
+  "footnotes": ""
 }

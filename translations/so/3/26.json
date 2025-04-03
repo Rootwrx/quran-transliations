@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "319",
-    "sura": "3",
-    "aya": "26",
-    "arabic_text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "26. Dheh: Allahayow! Kan Boqortooyada (runta ah) iska lahow, Waxaad siisaa boqortooyada midkaad doonto, oo ka qaaddaa boqortooyada midkaad doonto, waxaadna ciseysaa midkaad doonto, oo dulleysaa midkaad doonto. Gacantaada buu ku jiraa khayroo dhan. Hubaal Adigaa wax kasta Kara.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 53,
+  "verse_key": "3:26",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "26. Dheh: Allahayow! Kan Boqortooyada (runta ah) iska lahow, Waxaad siisaa boqortooyada midkaad doonto, oo ka qaaddaa boqortooyada midkaad doonto, waxaadna ciseysaa midkaad doonto, oo dulleysaa midkaad doonto. Gacantaada buu ku jiraa khayroo dhan. Hubaal Adigaa wax kasta Kara.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5222",
-    "sura": "65",
-    "aya": "5",
-    "arabic_text": "ذَٰلِكَ أَمۡرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيۡكُمۡۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُعۡظِمۡ لَهُۥٓ أَجۡرًا",
-    "translation": "Hiyo ni amri ya Mwenyezi Mungu amekuteremshieni. Na anaye mcha Mwenyezi Mungu atamfutia maovu yake, na atampa ujira mkubwa.",
-    "footnotes": "Sharia hizo ni amri ya Mwenyezi Mungu, si ya mwenginewe. Amekuteremshieni Yeye. Na mwenye kumcha Mwenyezi Mungu kwa kuzihifadhi hukumu zake humfutia makosa yake, na akayafanya makubwa malipo yake."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 558,
+  "verse_key": "65:5",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 223,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ أَمۡرُ ٱللَّهِ أَنزَلَهُۥٓ إِلَيۡكُمۡۚ وَمَن يَتَّقِ ٱللَّهَ يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُعۡظِمۡ لَهُۥٓ أَجۡرًا",
+  "translation": "Hiyo ni amri ya Mwenyezi Mungu amekuteremshieni. Na anaye mcha Mwenyezi Mungu atamfutia maovu yake, na atampa ujira mkubwa.",
+  "footnotes": "Sharia hizo ni amri ya Mwenyezi Mungu, si ya mwenginewe. Amekuteremshieni Yeye. Na mwenye kumcha Mwenyezi Mungu kwa kuzihifadhi hukumu zake humfutia makosa yake, na akayafanya makubwa malipo yake."
 }

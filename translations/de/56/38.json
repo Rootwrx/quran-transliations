@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5017",
-    "sura": "56",
-    "aya": "38",
-    "arabic_text": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
-    "translation": "für die Gefährten der rechten Seite.",
-    "footnotes": null
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 535,
+  "verse_key": "56:38",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّأَصۡحَٰبِ ٱلۡيَمِينِ",
+  "translation": "für die Gefährten der rechten Seite.",
+  "footnotes": null
 }

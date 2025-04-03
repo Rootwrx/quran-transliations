@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1278",
-    "sura": "9",
-    "aya": "43",
-    "arabic_text": "عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمۡ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُواْ وَتَعۡلَمَ ٱلۡكَٰذِبِينَ",
-    "translation": " 43. May Allâh forgive you (O Muhammad صلى الله عليه وسلم). Why did you grant them leave (for remaining behind; you should have persisted as regards your order to them to proceed on Jihâd ), until those who told the truth were seen by you in a clear light, and you had known the liars?",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 194,
+  "verse_key": "9:43",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمۡ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُواْ وَتَعۡلَمَ ٱلۡكَٰذِبِينَ",
+  "translation": " 43. May Allâh forgive you (O Muhammad صلى الله عليه وسلم). Why did you grant them leave (for remaining behind; you should have persisted as regards your order to them to proceed on Jihâd ), until those who told the truth were seen by you in a clear light, and you had known the liars?",
+  "footnotes": ""
 }

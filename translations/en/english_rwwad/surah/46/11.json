@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4521",
-    "sura": "46",
-    "aya": "11",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ لَوۡ كَانَ خَيۡرٗا مَّا سَبَقُونَآ إِلَيۡهِۚ وَإِذۡ لَمۡ يَهۡتَدُواْ بِهِۦ فَسَيَقُولُونَ هَٰذَآ إِفۡكٞ قَدِيمٞ",
-    "translation": "The disbelievers say about the believers, “If this [faith] were something good, they[7] would not have believed in it before us.” Now since they are not guided by it, they will say, “This is an old fabrication.”",
-    "footnotes": "[7] These poor and powerless individuals and slaves who embraced Islam."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 503,
+  "verse_key": "46:11",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ كَفَرُواْ لِلَّذِينَ ءَامَنُواْ لَوۡ كَانَ خَيۡرٗا مَّا سَبَقُونَآ إِلَيۡهِۚ وَإِذۡ لَمۡ يَهۡتَدُواْ بِهِۦ فَسَيَقُولُونَ هَٰذَآ إِفۡكٞ قَدِيمٞ",
+  "translation": "The disbelievers say about the believers, “If this [faith] were something good, they[7] would not have believed in it before us.” Now since they are not guided by it, they will say, “This is an old fabrication.”",
+  "footnotes": "[7] These poor and powerless individuals and slaves who embraced Islam."
 }

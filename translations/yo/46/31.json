@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4541",
-    "sura": "46",
-    "aya": "31",
-    "arabic_text": "يَٰقَوۡمَنَآ أَجِيبُواْ دَاعِيَ ٱللَّهِ وَءَامِنُواْ بِهِۦ يَغۡفِرۡ لَكُم مِّن ذُنُوبِكُمۡ وَيُجِرۡكُم مِّنۡ عَذَابٍ أَلِيمٖ",
-    "translation": "Ẹ̀yin ìjọ wa, ẹ jẹ́ ìpè olùpèpè Allāhu. Kí ẹ sì gbà á gbọ́ ní òdodo. (Allāhu) yó sì forí àwọn ẹ̀ṣẹ̀ yín jìn yín. Ó sì máa gbà yín là kúrò nínú ìyà ẹlẹ́ta-eléro.",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 506,
+  "verse_key": "46:31",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰقَوۡمَنَآ أَجِيبُواْ دَاعِيَ ٱللَّهِ وَءَامِنُواْ بِهِۦ يَغۡفِرۡ لَكُم مِّن ذُنُوبِكُمۡ وَيُجِرۡكُم مِّنۡ عَذَابٍ أَلِيمٖ",
+  "translation": "Ẹ̀yin ìjọ wa, ẹ jẹ́ ìpè olùpèpè Allāhu. Kí ẹ sì gbà á gbọ́ ní òdodo. (Allāhu) yó sì forí àwọn ẹ̀ṣẹ̀ yín jìn yín. Ó sì máa gbà yín là kúrò nínú ìyà ẹlẹ́ta-eléro.",
+  "footnotes": ""
 }

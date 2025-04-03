@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5883",
-    "sura": "83",
-    "aya": "35",
-    "arabic_text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
-    "translation": "mereka (duduk) di atas dipan-dipan sambil memandang.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 589,
+  "verse_key": "83:35",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+  "translation": "mereka (duduk) di atas dipan-dipan sambil memandang.",
+  "footnotes": ""
 }

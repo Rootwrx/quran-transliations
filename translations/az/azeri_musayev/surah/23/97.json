@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2770",
-    "sura": "23",
-    "aya": "97",
-    "arabic_text": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنۡ هَمَزَٰتِ ٱلشَّيَٰطِينِ",
-    "translation": "De: “Ey Rəbbim! Şeytanların vəsvəsələrindən Sənə sığınıram!",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 348,
+  "verse_key": "23:97",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُل رَّبِّ أَعُوذُ بِكَ مِنۡ هَمَزَٰتِ ٱلشَّيَٰطِينِ",
+  "translation": "De: “Ey Rəbbim! Şeytanların vəsvəsələrindən Sənə sığınıram!",
+  "footnotes": ""
 }

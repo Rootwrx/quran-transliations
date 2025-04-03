@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6015",
-    "sura": "89",
-    "aya": "22",
-    "arabic_text": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا",
-    "translation": "22. Oo (Allaah) Rabbigaa yimaado iyo (sidoo kale) malaa’igta oo saf saf ah.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 593,
+  "verse_key": "89:22",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَآءَ رَبُّكَ وَٱلۡمَلَكُ صَفّٗا صَفّٗا",
+  "translation": "22. Oo (Allaah) Rabbigaa yimaado iyo (sidoo kale) malaa’igta oo saf saf ah.",
+  "footnotes": ""
 }

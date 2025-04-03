@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "546",
-    "sura": "4",
-    "aya": "53",
-    "arabic_text": "أَمۡ لَهُمۡ نَصِيبٞ مِّنَ ٱلۡمُلۡكِ فَإِذٗا لَّا يُؤۡتُونَ ٱلنَّاسَ نَقِيرًا",
-    "translation": "A do të kenë ata ndonjë pjesë të pushtetit? Nëse është kështu, ata nuk do t’u jepnin njerëzve as sa puçërrza e bërthamës.",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 87,
+  "verse_key": "4:53",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ لَهُمۡ نَصِيبٞ مِّنَ ٱلۡمُلۡكِ فَإِذٗا لَّا يُؤۡتُونَ ٱلنَّاسَ نَقِيرًا",
+  "translation": "A do të kenë ata ndonjë pjesë të pushtetit? Nëse është kështu, ata nuk do t’u jepnin njerëzve as sa puçërrza e bërthamës.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3092",
-    "sura": "26",
-    "aya": "160",
-    "arabic_text": "كَذَّبَتۡ قَوۡمُ لُوطٍ ٱلۡمُرۡسَلِينَ",
-    "translation": "Lut’un kavmi de elçileri yalanlamıştı.",
-    "footnotes": null
-  }
+  "id": 160,
+  "verse_number": 160,
+  "page_number": 374,
+  "verse_key": "26:160",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَّبَتۡ قَوۡمُ لُوطٍ ٱلۡمُرۡسَلِينَ",
+  "translation": "Lut’un kavmi de elçileri yalanlamıştı.",
+  "footnotes": null
 }

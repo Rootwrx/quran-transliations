@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1518",
-    "sura": "11",
-    "aya": "45",
-    "arabic_text": "وَنَادَىٰ نُوحٞ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبۡنِي مِنۡ أَهۡلِي وَإِنَّ وَعۡدَكَ ٱلۡحَقُّ وَأَنتَ أَحۡكَمُ ٱلۡحَٰكِمِينَ",
-    "translation": "Na Nuhu alimwomba Mola wake Mlezi: Ee Mola Mlezi wangu! Hakika mwanangu ni katika ahali zangu, na hakika ahadi yako ni haki. Na Wewe ni Mwenye haki kuliko mahakimu wote.",
-    "footnotes": "Huruma ilimshika Nuhu moyoni mwake kwa ajili ya mwanawe. Akamwomba Mola Mlezi wake kwa unyenyekevu na kuona huruma, akasema: Ewe Muumba wangu, uliye nianzisha nami sijawa chochote! Hakika huyu mwanangu ni kipande cha nafsi yangu, naye ni katika ahali zangu. Na Wewe umeahidi kuwa utawaokoa ahali zangu, na ahadi yako ni ya kweli, madhubuti, lazima iwe. Na hapana muadilifu kama Wewe! Kwani Wewe ndiye Mjuzi kushinda wote, na Wewe ni mwingi wa hikima kuliko wote wenye kuhukumu!"
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 226,
+  "verse_key": "11:45",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنَادَىٰ نُوحٞ رَّبَّهُۥ فَقَالَ رَبِّ إِنَّ ٱبۡنِي مِنۡ أَهۡلِي وَإِنَّ وَعۡدَكَ ٱلۡحَقُّ وَأَنتَ أَحۡكَمُ ٱلۡحَٰكِمِينَ",
+  "translation": "Na Nuhu alimwomba Mola wake Mlezi: Ee Mola Mlezi wangu! Hakika mwanangu ni katika ahali zangu, na hakika ahadi yako ni haki. Na Wewe ni Mwenye haki kuliko mahakimu wote.",
+  "footnotes": "Huruma ilimshika Nuhu moyoni mwake kwa ajili ya mwanawe. Akamwomba Mola Mlezi wake kwa unyenyekevu na kuona huruma, akasema: Ewe Muumba wangu, uliye nianzisha nami sijawa chochote! Hakika huyu mwanangu ni kipande cha nafsi yangu, naye ni katika ahali zangu. Na Wewe umeahidi kuwa utawaokoa ahali zangu, na ahadi yako ni ya kweli, madhubuti, lazima iwe. Na hapana muadilifu kama Wewe! Kwani Wewe ndiye Mjuzi kushinda wote, na Wewe ni mwingi wa hikima kuliko wote wenye kuhukumu!"
 }

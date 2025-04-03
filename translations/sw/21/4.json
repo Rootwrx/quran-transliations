@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2487",
-    "sura": "21",
-    "aya": "4",
-    "arabic_text": "قَالَ رَبِّي يَعۡلَمُ ٱلۡقَوۡلَ فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
-    "translation": "Alisema: Mola wangu Mlezi anayajua yasemwayo mbinguni na katika ardhi. Na Yeye ni Mwenye kusikia Mwenye kujua.",
-    "footnotes": "Mtume, kwa kuwa Mwenyezi Mungu kamjuulisha waliyo kuwa wakiyasema kwa siri, aliwaambia: Mola wangu Mlezi anayajua yote yanayo semwa katika mbingu na katika ardhi, na Yeye ndiye anaye sikia kila linalo sikiwa; na anajua kila linalo tokea.."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 322,
+  "verse_key": "21:4",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّي يَعۡلَمُ ٱلۡقَوۡلَ فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ",
+  "translation": "Alisema: Mola wangu Mlezi anayajua yasemwayo mbinguni na katika ardhi. Na Yeye ni Mwenye kusikia Mwenye kujua.",
+  "footnotes": "Mtume, kwa kuwa Mwenyezi Mungu kamjuulisha waliyo kuwa wakiyasema kwa siri, aliwaambia: Mola wangu Mlezi anayajua yote yanayo semwa katika mbingu na katika ardhi, na Yeye ndiye anaye sikia kila linalo sikiwa; na anajua kila linalo tokea.."
 }

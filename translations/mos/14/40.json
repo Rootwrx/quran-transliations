@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1790",
-    "sura": "14",
-    "aya": "40",
-    "arabic_text": "رَبِّ ٱجۡعَلۡنِي مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِيۚ رَبَّنَا وَتَقَبَّلۡ دُعَآءِ",
-    "translation": "M Soaba, sõng maam tɩ m yɩ Pʋʋsg yãnesda, la sõng sẽn yi m koambẽ wã me. D Soɑba! La F reeg m kosgã.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 260,
+  "verse_key": "14:40",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبِّ ٱجۡعَلۡنِي مُقِيمَ ٱلصَّلَوٰةِ وَمِن ذُرِّيَّتِيۚ رَبَّنَا وَتَقَبَّلۡ دُعَآءِ",
+  "translation": "M Soaba, sõng maam tɩ m yɩ Pʋʋsg yãnesda, la sõng sẽn yi m koambẽ wã me. D Soɑba! La F reeg m kosgã.",
+  "footnotes": ""
 }

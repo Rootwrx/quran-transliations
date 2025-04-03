@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5381",
-    "sura": "70",
-    "aya": "6",
-    "arabic_text": "إِنَّهُمۡ يَرَوۡنَهُۥ بَعِيدٗا",
-    "translation": "Ils le (le châtiment) voient bien loin,",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 568,
+  "verse_key": "70:6",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُمۡ يَرَوۡنَهُۥ بَعِيدٗا",
+  "translation": "Ils le (le châtiment) voient bien loin,",
+  "footnotes": ""
 }

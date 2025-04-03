@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2978",
-    "sura": "26",
-    "aya": "46",
-    "arabic_text": "فَأُلۡقِيَ ٱلسَّحَرَةُ سَٰجِدِينَ",
-    "translation": "ድግምተኞቹም ሰጋጆች ኾነው ወደቁ፡፡",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 369,
+  "verse_key": "26:46",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأُلۡقِيَ ٱلسَّحَرَةُ سَٰجِدِينَ",
+  "translation": "ድግምተኞቹም ሰጋጆች ኾነው ወደቁ፡፡",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3416",
-    "sura": "30",
-    "aya": "7",
-    "arabic_text": "يَعۡلَمُونَ ظَٰهِرٗا مِّنَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَهُمۡ عَنِ ٱلۡأٓخِرَةِ هُمۡ غَٰفِلُونَ",
-    "translation": "Sie kennen nur das Äußerliche vom diesseitigen Leben, während sie des Jenseits unachtsam sind.",
-    "footnotes": null
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 405,
+  "verse_key": "30:7",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَعۡلَمُونَ ظَٰهِرٗا مِّنَ ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَهُمۡ عَنِ ٱلۡأٓخِرَةِ هُمۡ غَٰفِلُونَ",
+  "translation": "Sie kennen nur das Äußerliche vom diesseitigen Leben, während sie des Jenseits unachtsam sind.",
+  "footnotes": null
 }

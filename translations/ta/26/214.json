@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3146",
-    "sura": "26",
-    "aya": "214",
-    "arabic_text": "وَأَنذِرۡ عَشِيرَتَكَ ٱلۡأَقۡرَبِينَ",
-    "translation": "214. நீர் உமது நெருங்கிய உறவினர்களுக்கு அச்சமூட்டி எச்சரிக்கை செய்வீராக.",
-    "footnotes": null
-  }
+  "id": 214,
+  "verse_number": 214,
+  "page_number": 376,
+  "verse_key": "26:214",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنذِرۡ عَشِيرَتَكَ ٱلۡأَقۡرَبِينَ",
+  "translation": "214. நீர் உமது நெருங்கிய உறவினர்களுக்கு அச்சமூட்டி எச்சரிக்கை செய்வீராக.",
+  "footnotes": null
 }

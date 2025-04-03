@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3008",
-    "sura": "26",
-    "aya": "76",
-    "arabic_text": "أَنتُمۡ وَءَابَآؤُكُمُ ٱلۡأَقۡدَمُونَ",
-    "translation": " Sizin ve önceki atalarınızın…",
-    "footnotes": null
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 370,
+  "verse_key": "26:76",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَنتُمۡ وَءَابَآؤُكُمُ ٱلۡأَقۡدَمُونَ",
+  "translation": " Sizin ve önceki atalarınızın…",
+  "footnotes": null
 }

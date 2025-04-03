@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3293",
-    "sura": "28",
-    "aya": "41",
-    "arabic_text": "وَجَعَلۡنَٰهُمۡ أَئِمَّةٗ يَدۡعُونَ إِلَى ٱلنَّارِۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ لَا يُنصَرُونَ",
-    "translation": "TA đã làm cho bọn họ thành những tên cầm đầu trong việc kêu gọi người ta đi vào Hỏa Ngục, rồi vào Ngày Phán Xét, bọn họ sẽ không được giúp đỡ.",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 390,
+  "verse_key": "28:41",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلۡنَٰهُمۡ أَئِمَّةٗ يَدۡعُونَ إِلَى ٱلنَّارِۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ لَا يُنصَرُونَ",
+  "translation": "TA đã làm cho bọn họ thành những tên cầm đầu trong việc kêu gọi người ta đi vào Hỏa Ngục, rồi vào Ngày Phán Xét, bọn họ sẽ không được giúp đỡ.",
+  "footnotes": ""
 }

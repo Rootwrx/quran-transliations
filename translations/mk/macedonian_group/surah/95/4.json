@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6102",
-    "sura": "95",
-    "aya": "4",
-    "arabic_text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمٖ",
-    "translation": "4. дека човекот во најдобар облик го создаваме,",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 597,
+  "verse_key": "95:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ فِيٓ أَحۡسَنِ تَقۡوِيمٖ",
+  "translation": "4. дека човекот во најдобар облик го создаваме,",
+  "footnotes": ""
 }

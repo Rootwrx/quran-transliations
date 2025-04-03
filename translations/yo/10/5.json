@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1369",
-    "sura": "10",
-    "aya": "5",
-    "arabic_text": "هُوَ ٱلَّذِي جَعَلَ ٱلشَّمۡسَ ضِيَآءٗ وَٱلۡقَمَرَ نُورٗا وَقَدَّرَهُۥ مَنَازِلَ لِتَعۡلَمُواْ عَدَدَ ٱلسِّنِينَ وَٱلۡحِسَابَۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلۡحَقِّۚ يُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ",
-    "translation": "(Allāhu) Òun ni Ẹni tí Ó ṣe òòrùn ní ìtànsán. (Ó ṣe) òṣùpá ní ìmọ́lẹ̀. Ó sì díwọ̀n (ìrísí) rẹ̀ sínú àwọn ibùsọ̀ nítorí kí ẹ lè mọ òǹkà àwọn ọdún àti ìṣírò (ọjọ́). Allāhu kò dá ìyẹn bí kò ṣe pẹ̀lú òdodo. Ó ń ṣàlàyé àwọn āyah fún ìjọ tó nímọ̀.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 208,
+  "verse_key": "10:5",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي جَعَلَ ٱلشَّمۡسَ ضِيَآءٗ وَٱلۡقَمَرَ نُورٗا وَقَدَّرَهُۥ مَنَازِلَ لِتَعۡلَمُواْ عَدَدَ ٱلسِّنِينَ وَٱلۡحِسَابَۚ مَا خَلَقَ ٱللَّهُ ذَٰلِكَ إِلَّا بِٱلۡحَقِّۚ يُفَصِّلُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَعۡلَمُونَ",
+  "translation": "(Allāhu) Òun ni Ẹni tí Ó ṣe òòrùn ní ìtànsán. (Ó ṣe) òṣùpá ní ìmọ́lẹ̀. Ó sì díwọ̀n (ìrísí) rẹ̀ sínú àwọn ibùsọ̀ nítorí kí ẹ lè mọ òǹkà àwọn ọdún àti ìṣírò (ọjọ́). Allāhu kò dá ìyẹn bí kò ṣe pẹ̀lú òdodo. Ó ń ṣàlàyé àwọn āyah fún ìjọ tó nímọ̀.",
+  "footnotes": ""
 }

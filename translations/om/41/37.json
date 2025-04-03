@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4255",
-    "sura": "41",
-    "aya": "37",
-    "arabic_text": "وَمِنۡ ءَايَٰتِهِ ٱلَّيۡلُ وَٱلنَّهَارُ وَٱلشَّمۡسُ وَٱلۡقَمَرُۚ لَا تَسۡجُدُواْ لِلشَّمۡسِ وَلَا لِلۡقَمَرِ وَٱسۡجُدُواْۤ لِلَّهِۤ ٱلَّذِي خَلَقَهُنَّ إِن كُنتُمۡ إِيَّاهُ تَعۡبُدُونَ",
-    "translation": "Mallattoolee Isaa irraayyi Halkan, Guyyaan, Aduufi Baatiinis, Aduufii baatiifis hin sujuudinaa Rabbii isaan uume qofaaf sagadaa, Yoo kan (dhugaan) Isa gabbartan taatan.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 480,
+  "verse_key": "41:37",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡ ءَايَٰتِهِ ٱلَّيۡلُ وَٱلنَّهَارُ وَٱلشَّمۡسُ وَٱلۡقَمَرُۚ لَا تَسۡجُدُواْ لِلشَّمۡسِ وَلَا لِلۡقَمَرِ وَٱسۡجُدُواْۤ لِلَّهِۤ ٱلَّذِي خَلَقَهُنَّ إِن كُنتُمۡ إِيَّاهُ تَعۡبُدُونَ",
+  "translation": "Mallattoolee Isaa irraayyi Halkan, Guyyaan, Aduufi Baatiinis, Aduufii baatiifis hin sujuudinaa Rabbii isaan uume qofaaf sagadaa, Yoo kan (dhugaan) Isa gabbartan taatan.",
+  "footnotes": ""
 }

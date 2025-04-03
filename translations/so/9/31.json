@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1266",
-    "sura": "9",
-    "aya": "31",
-    "arabic_text": "ٱتَّخَذُوٓاْ أَحۡبَارَهُمۡ وَرُهۡبَٰنَهُمۡ أَرۡبَابٗا مِّن دُونِ ٱللَّهِ وَٱلۡمَسِيحَ ٱبۡنَ مَرۡيَمَ وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُوٓاْ إِلَٰهٗا وَٰحِدٗاۖ لَّآ إِلَٰهَ إِلَّا هُوَۚ سُبۡحَٰنَهُۥ عَمَّا يُشۡرِكُونَ",
-    "translation": "31. Waxay ka yeesheen qaysaskoodii iyo suufiyadoodii rabbiyo Alle sokadi, iyo (sidoo kale) Masiixa ina Maryam, iyagoo la amray inaanay caabudin waxaan ahayn Allaah Keliya. Ma jiro ilaah (Xaq lagu caabudo) aan Isaga ahayn. Xurmo oo dhan Isagaa leh, wuu ka sarreeyaa oo hufan yahay waxay wax la wadaajiyaan7.",
-    "footnotes": "7. Waxay ku talax tageen adeecidda qaysaska iyo suufida oo xadka kaga baxeen, way adeecayeen xitaa hadday amraan macsi ama xalaal uga dhigaan wax xaaraan ah, waana taasi midda uu Alle ku tilmaamay inay tahay caabudaad ay caabudeen, waxaana la yidhaahdaa arrinkan shirki xagga adeecidda ah, waana shirki weyn oo diinta looga baxo, qofku waa inuu uun adeecaa Allaah iyo Rasuulkiisa, oo waa inuusan cidna ku adeecin wax khilaafsan sharciga Alle."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 191,
+  "verse_key": "9:31",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱتَّخَذُوٓاْ أَحۡبَارَهُمۡ وَرُهۡبَٰنَهُمۡ أَرۡبَابٗا مِّن دُونِ ٱللَّهِ وَٱلۡمَسِيحَ ٱبۡنَ مَرۡيَمَ وَمَآ أُمِرُوٓاْ إِلَّا لِيَعۡبُدُوٓاْ إِلَٰهٗا وَٰحِدٗاۖ لَّآ إِلَٰهَ إِلَّا هُوَۚ سُبۡحَٰنَهُۥ عَمَّا يُشۡرِكُونَ",
+  "translation": "31. Waxay ka yeesheen qaysaskoodii iyo suufiyadoodii rabbiyo Alle sokadi, iyo (sidoo kale) Masiixa ina Maryam, iyagoo la amray inaanay caabudin waxaan ahayn Allaah Keliya. Ma jiro ilaah (Xaq lagu caabudo) aan Isaga ahayn. Xurmo oo dhan Isagaa leh, wuu ka sarreeyaa oo hufan yahay waxay wax la wadaajiyaan7.",
+  "footnotes": "7. Waxay ku talax tageen adeecidda qaysaska iyo suufida oo xadka kaga baxeen, way adeecayeen xitaa hadday amraan macsi ama xalaal uga dhigaan wax xaaraan ah, waana taasi midda uu Alle ku tilmaamay inay tahay caabudaad ay caabudeen, waxaana la yidhaahdaa arrinkan shirki xagga adeecidda ah, waana shirki weyn oo diinta looga baxo, qofku waa inuu uun adeecaa Allaah iyo Rasuulkiisa, oo waa inuusan cidna ku adeecin wax khilaafsan sharciga Alle."
 }

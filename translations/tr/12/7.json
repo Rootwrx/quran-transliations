@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1603",
-    "sura": "12",
-    "aya": "7",
-    "arabic_text": "۞ لَّقَدۡ كَانَ فِي يُوسُفَ وَإِخۡوَتِهِۦٓ ءَايَٰتٞ لِّلسَّآئِلِينَ",
-    "translation": "Andolsun, Yûsuf ve kardeşlerinde (hakikati arayıp) soranlar için ibretler vardır.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 236,
+  "verse_key": "12:7",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ لَّقَدۡ كَانَ فِي يُوسُفَ وَإِخۡوَتِهِۦٓ ءَايَٰتٞ لِّلسَّآئِلِينَ",
+  "translation": "Andolsun, Yûsuf ve kardeşlerinde (hakikati arayıp) soranlar için ibretler vardır.",
+  "footnotes": ""
 }

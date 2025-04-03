@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1765",
-    "sura": "14",
-    "aya": "15",
-    "arabic_text": "وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٖ",
-    "translation": "15. Ils (les Messagers) demandèrent assistance (à Allah) pour (remporter) la victoire, et tout tyran obstiné fut alors défait.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 257,
+  "verse_key": "14:15",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱسۡتَفۡتَحُواْ وَخَابَ كُلُّ جَبَّارٍ عَنِيدٖ",
+  "translation": "15. Ils (les Messagers) demandèrent assistance (à Allah) pour (remporter) la victoire, et tout tyran obstiné fut alors défait.",
+  "footnotes": ""
 }

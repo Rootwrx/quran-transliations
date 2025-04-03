@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3245",
-    "sura": "27",
-    "aya": "86",
-    "arabic_text": "أَلَمۡ يَرَوۡاْ أَنَّا جَعَلۡنَا ٱلَّيۡلَ لِيَسۡكُنُواْ فِيهِ وَٱلنَّهَارَ مُبۡصِرًاۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
-    "translation": "Hindi ba sila nakakita na Kami ay gumawa sa gabi upang matiwasay sila rito at sa maghapon bilang nagbibigay-paningin [para makapaghanap-buhay]? Tunay na sa gayon ay talagang may mga tanda para sa mga taong sumasampalataya.",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 384,
+  "verse_key": "27:86",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ يَرَوۡاْ أَنَّا جَعَلۡنَا ٱلَّيۡلَ لِيَسۡكُنُواْ فِيهِ وَٱلنَّهَارَ مُبۡصِرًاۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
+  "translation": "Hindi ba sila nakakita na Kami ay gumawa sa gabi upang matiwasay sila rito at sa maghapon bilang nagbibigay-paningin [para makapaghanap-buhay]? Tunay na sa gayon ay talagang may mga tanda para sa mga taong sumasampalataya.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4415",
-    "sura": "44",
-    "aya": "1",
-    "arabic_text": "حمٓ",
-    "translation": "1਼ ਹਾ, ਮੀਮ।",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 496,
+  "verse_key": "44:1",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حمٓ",
+  "translation": "1਼ ਹਾ, ਮੀਮ।",
+  "footnotes": ""
 }

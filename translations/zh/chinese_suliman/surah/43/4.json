@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4329",
-    "sura": "43",
-    "aya": "4",
-    "arabic_text": "وَإِنَّهُۥ فِيٓ أُمِّ ٱلۡكِتَٰبِ لَدَيۡنَا لَعَلِيٌّ حَكِيمٌ",
-    "translation": "在我那里的天经原本中，它确是高尚的，确是睿智的。",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 489,
+  "verse_key": "43:4",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّهُۥ فِيٓ أُمِّ ٱلۡكِتَٰبِ لَدَيۡنَا لَعَلِيٌّ حَكِيمٌ",
+  "translation": "在我那里的天经原本中，它确是高尚的，确是睿智的。",
+  "footnotes": ""
 }

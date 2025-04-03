@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2585",
-    "sura": "21",
-    "aya": "102",
-    "arabic_text": "لَا يَسۡمَعُونَ حَسِيسَهَاۖ وَهُمۡ فِي مَا ٱشۡتَهَتۡ أَنفُسُهُمۡ خَٰلِدُونَ",
-    "translation": "102. They shall not hear the slightest sound of it (Hell), while they abide in that which their ownselves desire.",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 331,
+  "verse_key": "21:102",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا يَسۡمَعُونَ حَسِيسَهَاۖ وَهُمۡ فِي مَا ٱشۡتَهَتۡ أَنفُسُهُمۡ خَٰلِدُونَ",
+  "translation": "102. They shall not hear the slightest sound of it (Hell), while they abide in that which their ownselves desire.",
+  "footnotes": ""
 }

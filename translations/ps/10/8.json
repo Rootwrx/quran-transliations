@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1372",
-    "sura": "10",
-    "aya": "8",
-    "arabic_text": "أُوْلَٰٓئِكَ مَأۡوَىٰهُمُ ٱلنَّارُ بِمَا كَانُواْ يَكۡسِبُونَ",
-    "translation": "د داسې كسانو استوګنځى اور دى، د هغو عملونو له امله چې دوى به كول.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 209,
+  "verse_key": "10:8",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ مَأۡوَىٰهُمُ ٱلنَّارُ بِمَا كَانُواْ يَكۡسِبُونَ",
+  "translation": "د داسې كسانو استوګنځى اور دى، د هغو عملونو له امله چې دوى به كول.",
+  "footnotes": ""
 }

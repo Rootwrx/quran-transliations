@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2131",
-    "sura": "17",
-    "aya": "102",
-    "arabic_text": "قَالَ لَقَدۡ عَلِمۡتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ بَصَآئِرَ وَإِنِّي لَأَظُنُّكَ يَٰفِرۡعَوۡنُ مَثۡبُورٗا",
-    "translation": "102. [Mūsa (Mozė)] tarė: „Iš tiesų, tu žinai, kad šie ženklai buvo nuleisti ne ko kito, tačiau dangų ir žemės Viešpaties. Ir manau, kad esi tu iš tiesų, Firaun (Faraone), pasmerktas sunaikinimui (nuo viso gero)!“",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 292,
+  "verse_key": "17:102",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَقَدۡ عَلِمۡتَ مَآ أَنزَلَ هَٰٓؤُلَآءِ إِلَّا رَبُّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ بَصَآئِرَ وَإِنِّي لَأَظُنُّكَ يَٰفِرۡعَوۡنُ مَثۡبُورٗا",
+  "translation": "102. [Mūsa (Mozė)] tarė: „Iš tiesų, tu žinai, kad šie ženklai buvo nuleisti ne ko kito, tačiau dangų ir žemės Viešpaties. Ir manau, kad esi tu iš tiesų, Firaun (Faraone), pasmerktas sunaikinimui (nuo viso gero)!“",
+  "footnotes": ""
 }

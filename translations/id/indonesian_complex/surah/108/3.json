@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6207",
-    "sura": "108",
-    "aya": "3",
-    "arabic_text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
-    "translation": "Sesungguhnya orang-orang yang membenci kamu, dialah yang terputus1607.",
-    "footnotes": "1607.  Maksudnya \"terputus\" di sini ialah terputus dari rahmat Allah Subḥānahu wa Ta‘ālā. "
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 602,
+  "verse_key": "108:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+  "translation": "Sesungguhnya orang-orang yang membenci kamu, dialah yang terputus1607.",
+  "footnotes": "1607.  Maksudnya \"terputus\" di sini ialah terputus dari rahmat Allah Subḥānahu wa Ta‘ālā. "
 }

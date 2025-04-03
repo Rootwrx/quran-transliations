@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4892",
-    "sura": "54",
-    "aya": "46",
-    "arabic_text": "بَلِ ٱلسَّاعَةُ مَوۡعِدُهُمۡ وَٱلسَّاعَةُ أَدۡهَىٰ وَأَمَرُّ",
-    "translation": "But the Hour is their appointed time, and the Hour is more catastrophic and more bitter.",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 530,
+  "verse_key": "54:46",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلِ ٱلسَّاعَةُ مَوۡعِدُهُمۡ وَٱلسَّاعَةُ أَدۡهَىٰ وَأَمَرُّ",
+  "translation": "But the Hour is their appointed time, and the Hour is more catastrophic and more bitter.",
+  "footnotes": ""
 }

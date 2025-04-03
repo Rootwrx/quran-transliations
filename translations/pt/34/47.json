@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3653",
-    "sura": "34",
-    "aya": "47",
-    "arabic_text": "قُلۡ مَا سَأَلۡتُكُم مِّنۡ أَجۡرٖ فَهُوَ لَكُمۡۖ إِنۡ أَجۡرِيَ إِلَّا عَلَى ٱللَّهِۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٞ",
-    "translation": "Dize: \"O que vos peço, em prêmio, o será para vós. Meu prêmio não impende senão a Allah. E Ele, sobre todas as cousas, é Testemunha.\"",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 433,
+  "verse_key": "34:47",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَا سَأَلۡتُكُم مِّنۡ أَجۡرٖ فَهُوَ لَكُمۡۖ إِنۡ أَجۡرِيَ إِلَّا عَلَى ٱللَّهِۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٞ",
+  "translation": "Dize: \"O que vos peço, em prêmio, o será para vós. Meu prêmio não impende senão a Allah. E Ele, sobre todas as cousas, é Testemunha.\"",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6158",
-    "sura": "101",
-    "aya": "1",
-    "arabic_text": "ٱلۡقَارِعَةُ",
-    "translation": "衝撃[1]、",
-    "footnotes": "[1]　この「衝撃」とは、その恐怖と戦慄（せんりつ）によって創造物に衝撃を与える、復活の日*のこと（アル＝クルトゥビー2０：1６４参照）。"
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 600,
+  "verse_key": "101:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡقَارِعَةُ",
+  "translation": "衝撃[1]、",
+  "footnotes": "[1]　この「衝撃」とは、その恐怖と戦慄（せんりつ）によって創造物に衝撃を与える、復活の日*のこと（アル＝クルトゥビー2０：1６４参照）。"
 }

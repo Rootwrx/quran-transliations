@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4476",
-    "sura": "45",
-    "aya": "3",
-    "arabic_text": "إِنَّ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ لَأٓيَٰتٖ لِّلۡمُؤۡمِنِينَ",
-    "translation": "بێگومان لە ئاسمانەکان وزەویدا چەندەھا بەڵگە ھەیە بۆ باوەڕداران\n",
-    "footnotes": null
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 499,
+  "verse_key": "45:3",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ لَأٓيَٰتٖ لِّلۡمُؤۡمِنِينَ",
+  "translation": "بێگومان لە ئاسمانەکان وزەویدا چەندەھا بەڵگە ھەیە بۆ باوەڕداران\n",
+  "footnotes": null
 }

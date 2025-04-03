@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2437",
-    "sura": "20",
-    "aya": "89",
-    "arabic_text": "أَفَلَا يَرَوۡنَ أَلَّا يَرۡجِعُ إِلَيۡهِمۡ قَوۡلٗا وَلَا يَمۡلِكُ لَهُمۡ ضَرّٗا وَلَا نَفۡعٗا",
-    "translation": "Ṣé wọn kò rí i pé kò lè dá èsì ọ̀rọ̀ kan padà fún wọn ni, kò sì ní agbára láti kó ìnira tàbí àǹfààní kan bá wọn!",
-    "footnotes": ""
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 318,
+  "verse_key": "20:89",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَلَا يَرَوۡنَ أَلَّا يَرۡجِعُ إِلَيۡهِمۡ قَوۡلٗا وَلَا يَمۡلِكُ لَهُمۡ ضَرّٗا وَلَا نَفۡعٗا",
+  "translation": "Ṣé wọn kò rí i pé kò lè dá èsì ọ̀rọ̀ kan padà fún wọn ni, kò sì ní agbára láti kó ìnira tàbí àǹfààní kan bá wọn!",
+  "footnotes": ""
 }

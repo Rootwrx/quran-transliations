@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4629",
-    "sura": "49",
-    "aya": "17",
-    "arabic_text": "يَمُنُّونَ عَلَيۡكَ أَنۡ أَسۡلَمُواْۖ قُل لَّا تَمُنُّواْ عَلَيَّ إِسۡلَٰمَكُمۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيۡكُمۡ أَنۡ هَدَىٰكُمۡ لِلۡإِيمَٰنِ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "Wanakusimbulia kuwa wamesilimu! Sema: Msinisimbulie kwa kusilimu kwenu. Bali Mwenyezi Mungu ndiye aliye kufanyieni hisani kwa kukuongoeni kwenye Imani, ikiwa nyinyi ni wakweli.",
-    "footnotes": "Wanaona kuwa kusilimu kwao ni kukuunga mkono wewe, Muhammad, na hivyo inastahiki wewe uwashukuru. Sema: Msinisimbulie kusilimu kwenu; kwani kheri yake mnaipata nyinyi. Bali ni Mwenyezi Mungu peke yake ndiye aliye kufanyieni ihsani kwa kukuongoeni kwenye Imani, ikiwa nyinyi ni wakweli katika hayo madai yenu."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 517,
+  "verse_key": "49:17",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَمُنُّونَ عَلَيۡكَ أَنۡ أَسۡلَمُواْۖ قُل لَّا تَمُنُّواْ عَلَيَّ إِسۡلَٰمَكُمۖ بَلِ ٱللَّهُ يَمُنُّ عَلَيۡكُمۡ أَنۡ هَدَىٰكُمۡ لِلۡإِيمَٰنِ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "Wanakusimbulia kuwa wamesilimu! Sema: Msinisimbulie kwa kusilimu kwenu. Bali Mwenyezi Mungu ndiye aliye kufanyieni hisani kwa kukuongoeni kwenye Imani, ikiwa nyinyi ni wakweli.",
+  "footnotes": "Wanaona kuwa kusilimu kwao ni kukuunga mkono wewe, Muhammad, na hivyo inastahiki wewe uwashukuru. Sema: Msinisimbulie kusilimu kwenu; kwani kheri yake mnaipata nyinyi. Bali ni Mwenyezi Mungu peke yake ndiye aliye kufanyieni ihsani kwa kukuongoeni kwenye Imani, ikiwa nyinyi ni wakweli katika hayo madai yenu."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4584",
-    "sura": "48",
-    "aya": "1",
-    "arabic_text": "إِنَّا فَتَحۡنَا لَكَ فَتۡحٗا مُّبِينٗا",
-    "translation": "1 Nous t’avons, en vérité, accordé une victoire éclatante[1285]",
-    "footnotes": "[1285] Qui est, selon la majorité des exégètes, la trêve conclue en l’an six de l’hégire à Al-Houdaybiyah avec les polythéistes de la Mecque, trêve qui permit en effet à l’islam de se propager dans toute l’Arabie. Selon d’autres, il s’agit de la conquête de la Mecque."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 511,
+  "verse_key": "48:1",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا فَتَحۡنَا لَكَ فَتۡحٗا مُّبِينٗا",
+  "translation": "1 Nous t’avons, en vérité, accordé une victoire éclatante[1285]",
+  "footnotes": "[1285] Qui est, selon la majorité des exégètes, la trêve conclue en l’an six de l’hégire à Al-Houdaybiyah avec les polythéistes de la Mecque, trêve qui permit en effet à l’islam de se propager dans toute l’Arabie. Selon d’autres, il s’agit de la conquête de la Mecque."
 }

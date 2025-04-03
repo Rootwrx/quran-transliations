@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3822",
-    "sura": "37",
-    "aya": "34",
-    "arabic_text": "إِنَّا كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ",
-    "translation": " 34. Certainly, that is how We deal with Al-Mujrimûn (polytheists, sinners, disbelievers, criminals, the disobedient to Allâh).",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 447,
+  "verse_key": "37:34",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا كَذَٰلِكَ نَفۡعَلُ بِٱلۡمُجۡرِمِينَ",
+  "translation": " 34. Certainly, that is how We deal with Al-Mujrimûn (polytheists, sinners, disbelievers, criminals, the disobedient to Allâh).",
+  "footnotes": ""
 }

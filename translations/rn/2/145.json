@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "152",
-    "sura": "2",
-    "aya": "145",
-    "arabic_text": "وَلَئِنۡ أَتَيۡتَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ بِكُلِّ ءَايَةٖ مَّا تَبِعُواْ قِبۡلَتَكَۚ وَمَآ أَنتَ بِتَابِعٖ قِبۡلَتَهُمۡۚ وَمَا بَعۡضُهُم بِتَابِعٖ قِبۡلَةَ بَعۡضٖۚ وَلَئِنِ ٱتَّبَعۡتَ أَهۡوَآءَهُم مِّنۢ بَعۡدِ مَا جَآءَكَ مِنَ ٱلۡعِلۡمِ إِنَّكَ إِذٗا لَّمِنَ ٱلظَّٰلِمِينَ",
-    "translation": "Ntumwa y’Imana! Abahawe Igitabu, n’aho wobazanira ivyemezo vyose vyemeza ko gutumbera amaja i Makka ari kwo kuri, kubera akagagazo ntibopfa bakurikiye ubutumbero bwawe mu gusenga. Na we ntushobora gusubira kandi ku butumbero bwabo. Eka mbere na bamwe muri bo nyene ntibakurikira ubutumbero bw’abandi mu gusenga. Ni ukuri, niwaramuka ukurikiye ivyipfuzo vyabo mu vyerekeye ubutumbero n’ibindi, inyuma y’aho ushikiriwe n’ubumenyi buvuye ku Mana Allah, mu vy’ukuri muri ico gihe, ni ukuri uzoba uri mu birenganije[19].",
-    "footnotes": "[19] Iyi Aayah, yega abislamu bose, ikabihaniza gukurikira ivyipfuzo vy’abahakanyi barwanya ubwislamu."
-  }
+  "id": 145,
+  "verse_number": 145,
+  "page_number": 22,
+  "verse_key": "2:145",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِنۡ أَتَيۡتَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ بِكُلِّ ءَايَةٖ مَّا تَبِعُواْ قِبۡلَتَكَۚ وَمَآ أَنتَ بِتَابِعٖ قِبۡلَتَهُمۡۚ وَمَا بَعۡضُهُم بِتَابِعٖ قِبۡلَةَ بَعۡضٖۚ وَلَئِنِ ٱتَّبَعۡتَ أَهۡوَآءَهُم مِّنۢ بَعۡدِ مَا جَآءَكَ مِنَ ٱلۡعِلۡمِ إِنَّكَ إِذٗا لَّمِنَ ٱلظَّٰلِمِينَ",
+  "translation": "Ntumwa y’Imana! Abahawe Igitabu, n’aho wobazanira ivyemezo vyose vyemeza ko gutumbera amaja i Makka ari kwo kuri, kubera akagagazo ntibopfa bakurikiye ubutumbero bwawe mu gusenga. Na we ntushobora gusubira kandi ku butumbero bwabo. Eka mbere na bamwe muri bo nyene ntibakurikira ubutumbero bw’abandi mu gusenga. Ni ukuri, niwaramuka ukurikiye ivyipfuzo vyabo mu vyerekeye ubutumbero n’ibindi, inyuma y’aho ushikiriwe n’ubumenyi buvuye ku Mana Allah, mu vy’ukuri muri ico gihe, ni ukuri uzoba uri mu birenganije[19].",
+  "footnotes": "[19] Iyi Aayah, yega abislamu bose, ikabihaniza gukurikira ivyipfuzo vy’abahakanyi barwanya ubwislamu."
 }

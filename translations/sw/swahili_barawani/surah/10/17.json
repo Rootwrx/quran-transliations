@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1381",
-    "sura": "10",
-    "aya": "17",
-    "arabic_text": "فَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ بِـَٔايَٰتِهِۦٓۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلۡمُجۡرِمُونَ",
-    "translation": "Basi ni nani aliye dhaalimu zaidi kuliko yule anaye mzulia uwongo Mwenyezi Mungu na akazikanusha Ishara zake? Hakika hawafanikiwi wakosefu.",
-    "footnotes": "Hapana mtu aliye jidhulumu nafsi zaidi kuliko anaye kufuru na akamzulia uwongo Mwenyezi Mungu, au akazikanusha Ishara za Mwenyezi Mungu alizo kuja nazo Mtume wake. Hakika hafuzu kafiri katika vitendo vyake. Naye amekhasiri khasara iliyo wazi kwa ukafiri wake na amemghadhibisha Mwenyezi Mungu."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 210,
+  "verse_key": "10:17",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَنۡ أَظۡلَمُ مِمَّنِ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبًا أَوۡ كَذَّبَ بِـَٔايَٰتِهِۦٓۚ إِنَّهُۥ لَا يُفۡلِحُ ٱلۡمُجۡرِمُونَ",
+  "translation": "Basi ni nani aliye dhaalimu zaidi kuliko yule anaye mzulia uwongo Mwenyezi Mungu na akazikanusha Ishara zake? Hakika hawafanikiwi wakosefu.",
+  "footnotes": "Hapana mtu aliye jidhulumu nafsi zaidi kuliko anaye kufuru na akamzulia uwongo Mwenyezi Mungu, au akazikanusha Ishara za Mwenyezi Mungu alizo kuja nazo Mtume wake. Hakika hafuzu kafiri katika vitendo vyake. Naye amekhasiri khasara iliyo wazi kwa ukafiri wake na amemghadhibisha Mwenyezi Mungu."
 }

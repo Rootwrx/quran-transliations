@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4057",
-    "sura": "38",
-    "aya": "87",
-    "arabic_text": "إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
-    "translation": "Iyi Qor’ani rero, si ikindi kiretse ko ari urwibutso ku biremwa; abantu n’amajini kugira vyikebuke mu gukora ivyobigirira akamaro mu buzima bwo kw’isi no mu bw’inyuma yo gupfa.",
-    "footnotes": ""
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 458,
+  "verse_key": "38:87",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+  "translation": "Iyi Qor’ani rero, si ikindi kiretse ko ari urwibutso ku biremwa; abantu n’amajini kugira vyikebuke mu gukora ivyobigirira akamaro mu buzima bwo kw’isi no mu bw’inyuma yo gupfa.",
+  "footnotes": ""
 }

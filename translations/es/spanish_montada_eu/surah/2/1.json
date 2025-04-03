@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "8",
-    "sura": "2",
-    "aya": "1",
-    "arabic_text": "الٓمٓ",
-    "translation": "1. Alif. Lam. Mim[7].",
-    "footnotes": "[7]  Estos son los nombres de tres de las catorce letras del alfabeto árabe que aparecen en diferentes combinaciones al inicio de veintinueve suras del Sagrado Corán. Hay combinaciones de dos, tres, cuatro e incluso cinco letras. A pesar de que se ha especulado mucho acerca de su significado, este solamente lo conoce Al-lah, ya que no lo ha revelado a nadie."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 2,
+  "verse_key": "2:1",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓ",
+  "translation": "1. Alif. Lam. Mim[7].",
+  "footnotes": "[7]  Estos son los nombres de tres de las catorce letras del alfabeto árabe que aparecen en diferentes combinaciones al inicio de veintinueve suras del Sagrado Corán. Hay combinaciones de dos, tres, cuatro e incluso cinco letras. A pesar de que se ha especulado mucho acerca de su significado, este solamente lo conoce Al-lah, ya que no lo ha revelado a nadie."
 }

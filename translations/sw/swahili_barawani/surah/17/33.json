@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2062",
-    "sura": "17",
-    "aya": "33",
-    "arabic_text": "وَلَا تَقۡتُلُواْ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّۗ وَمَن قُتِلَ مَظۡلُومٗا فَقَدۡ جَعَلۡنَا لِوَلِيِّهِۦ سُلۡطَٰنٗا فَلَا يُسۡرِف فِّي ٱلۡقَتۡلِۖ إِنَّهُۥ كَانَ مَنصُورٗا",
-    "translation": "Wala msiuwe nafsi ambayo Mwenyezi Mungu amekataza isipo kuwa kwa haki. Na aliye uliwa kwa kudhulumiwa basi tumempa madaraka mrithi wake. Lakini asipite mpaka katika kuuwa. Kwani yeye anasaidiwa.",
-    "footnotes": "Wala msiuwe nafsi yoyote ambayo Mwenyezi Mungu ameharimisha kuiuwa ila kuuwa huko kukiwa kwa haki, kwa kuwa nafsi hiyo inastahiki kuuwawa kwa ajili ya kisasi au kuwa ni adhabu ya sharia. Na mwenye kuuliwa kwa kudhulumiwa Sisi tumempa jamaa yake wa karibu haki juu ya yule muuwaji, kwa kutaka kwa Qadhi auliwe kwa kisasi. Lakini naye asipite mpaka katika kuuwa, akataka kumuuwa mtu mwengine asiye kuwa muuwaji, au kwa kuwauwa wawili badala ya mmoja. Kwani Mwenyezi Mungu amemsaidia huyo kwa kumpa haki ya kisasi au kulipwa fidiya. Basi haimfalii kukiuka mipaka iliyo wekwa."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 285,
+  "verse_key": "17:33",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَقۡتُلُواْ ٱلنَّفۡسَ ٱلَّتِي حَرَّمَ ٱللَّهُ إِلَّا بِٱلۡحَقِّۗ وَمَن قُتِلَ مَظۡلُومٗا فَقَدۡ جَعَلۡنَا لِوَلِيِّهِۦ سُلۡطَٰنٗا فَلَا يُسۡرِف فِّي ٱلۡقَتۡلِۖ إِنَّهُۥ كَانَ مَنصُورٗا",
+  "translation": "Wala msiuwe nafsi ambayo Mwenyezi Mungu amekataza isipo kuwa kwa haki. Na aliye uliwa kwa kudhulumiwa basi tumempa madaraka mrithi wake. Lakini asipite mpaka katika kuuwa. Kwani yeye anasaidiwa.",
+  "footnotes": "Wala msiuwe nafsi yoyote ambayo Mwenyezi Mungu ameharimisha kuiuwa ila kuuwa huko kukiwa kwa haki, kwa kuwa nafsi hiyo inastahiki kuuwawa kwa ajili ya kisasi au kuwa ni adhabu ya sharia. Na mwenye kuuliwa kwa kudhulumiwa Sisi tumempa jamaa yake wa karibu haki juu ya yule muuwaji, kwa kutaka kwa Qadhi auliwe kwa kisasi. Lakini naye asipite mpaka katika kuuwa, akataka kumuuwa mtu mwengine asiye kuwa muuwaji, au kwa kuwauwa wawili badala ya mmoja. Kwani Mwenyezi Mungu amemsaidia huyo kwa kumpa haki ya kisasi au kulipwa fidiya. Basi haimfalii kukiuka mipaka iliyo wekwa."
 }

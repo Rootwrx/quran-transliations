@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3873",
-    "sura": "37",
-    "aya": "85",
-    "arabic_text": "إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَاذَا تَعۡبُدُونَ",
-    "translation": "(Ingatlah) ketika ia berkata kepada bapaknya dan kaumnya, \"Apakah yang kamu sembah itu?",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 449,
+  "verse_key": "37:85",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَ لِأَبِيهِ وَقَوۡمِهِۦ مَاذَا تَعۡبُدُونَ",
+  "translation": "(Ingatlah) ketika ia berkata kepada bapaknya dan kaumnya, \"Apakah yang kamu sembah itu?",
+  "footnotes": ""
 }

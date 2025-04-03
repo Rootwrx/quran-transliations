@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3654",
-    "sura": "34",
-    "aya": "48",
-    "arabic_text": "قُلۡ إِنَّ رَبِّي يَقۡذِفُ بِٱلۡحَقِّ عَلَّٰمُ ٱلۡغُيُوبِ",
-    "translation": "Say, “My Lord hurls the Truth [against falsehood], and He is the All-Knower of the unseen.”",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 433,
+  "verse_key": "34:48",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنَّ رَبِّي يَقۡذِفُ بِٱلۡحَقِّ عَلَّٰمُ ٱلۡغُيُوبِ",
+  "translation": "Say, “My Lord hurls the Truth [against falsehood], and He is the All-Knower of the unseen.”",
+  "footnotes": ""
 }

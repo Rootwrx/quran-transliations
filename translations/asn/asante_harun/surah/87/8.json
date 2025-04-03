@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5956",
-    "sura": "87",
-    "aya": "8",
-    "arabic_text": "وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ",
-    "translation": "Na Yεbεyε no mmrε ama wo ama no ayε mmrε.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 591,
+  "verse_key": "87:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ",
+  "translation": "Na Yεbεyε no mmrε ama wo ama no ayε mmrε.",
+  "footnotes": ""
 }

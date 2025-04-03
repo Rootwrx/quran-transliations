@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3933",
-    "sura": "37",
-    "aya": "145",
-    "arabic_text": "۞ فَنَبَذۡنَٰهُ بِٱلۡعَرَآءِ وَهُوَ سَقِيمٞ",
-    "translation": "Da warfen Wir ihn auf das kahle Land -, und dabei war er krank.",
-    "footnotes": null
-  }
+  "id": 145,
+  "verse_number": 145,
+  "page_number": 451,
+  "verse_key": "37:145",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ فَنَبَذۡنَٰهُ بِٱلۡعَرَآءِ وَهُوَ سَقِيمٞ",
+  "translation": "Da warfen Wir ihn auf das kahle Land -, und dabei war er krank.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5629",
-    "sura": "77",
-    "aya": "7",
-    "arabic_text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ",
-    "translation": "сигурно ће се остварити оно чиме вам се прети!",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 580,
+  "verse_key": "77:7",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ",
+  "translation": "сигурно ће се остварити оно чиме вам се прети!",
+  "footnotes": ""
 }

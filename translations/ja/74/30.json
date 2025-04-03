@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5525",
-    "sura": "74",
-    "aya": "30",
-    "arabic_text": "عَلَيۡهَا تِسۡعَةَ عَشَرَ",
-    "translation": "その上には、（地獄の番人である）十九人（の天使*たち）がいる。[1]",
-    "footnotes": "[1]　これは、地獄の天使*ザバーニヤのこと（ムヤッサル５７６頁参照）。凝血章1８とその訳注も参照。"
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 576,
+  "verse_key": "74:30",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَيۡهَا تِسۡعَةَ عَشَرَ",
+  "translation": "その上には、（地獄の番人である）十九人（の天使*たち）がいる。[1]",
+  "footnotes": "[1]　これは、地獄の天使*ザバーニヤのこと（ムヤッサル５７６頁参照）。凝血章1８とその訳注も参照。"
 }

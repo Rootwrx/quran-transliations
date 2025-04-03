@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1967",
-    "sura": "16",
-    "aya": "66",
-    "arabic_text": "وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهِۦ مِنۢ بَيۡنِ فَرۡثٖ وَدَمٖ لَّبَنًا خَالِصٗا سَآئِغٗا لِّلشَّٰرِبِينَ",
-    "translation": "Chắc chắn có một bài học dành cho các ngươi ở nơi gia súc: TA ban nguồn thức uống cho các ngươi từ trong bụng của chúng, nằm giữa phân và máu, một nguồn sữa tươi tinh khiết, tạo cảm giác ngon miệng cho người uống.",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 274,
+  "verse_key": "16:66",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ لَكُمۡ فِي ٱلۡأَنۡعَٰمِ لَعِبۡرَةٗۖ نُّسۡقِيكُم مِّمَّا فِي بُطُونِهِۦ مِنۢ بَيۡنِ فَرۡثٖ وَدَمٖ لَّبَنًا خَالِصٗا سَآئِغٗا لِّلشَّٰرِبِينَ",
+  "translation": "Chắc chắn có một bài học dành cho các ngươi ở nơi gia súc: TA ban nguồn thức uống cho các ngươi từ trong bụng của chúng, nằm giữa phân và máu, một nguồn sữa tươi tinh khiết, tạo cảm giác ngon miệng cho người uống.",
+  "footnotes": ""
 }

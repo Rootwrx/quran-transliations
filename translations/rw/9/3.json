@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1238",
-    "sura": "9",
-    "aya": "3",
-    "arabic_text": "وَأَذَٰنٞ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوۡمَ ٱلۡحَجِّ ٱلۡأَكۡبَرِ أَنَّ ٱللَّهَ بَرِيٓءٞ مِّنَ ٱلۡمُشۡرِكِينَ وَرَسُولُهُۥۚ فَإِن تُبۡتُمۡ فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَوَلَّيۡتُمۡ فَٱعۡلَمُوٓاْ أَنَّكُمۡ غَيۡرُ مُعۡجِزِي ٱللَّهِۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُواْ بِعَذَابٍ أَلِيمٍ",
-    "translation": "Ni n’itangazo riturutse kwa Allah n'Intumwa ye rigenewe abantu bose ku munsi w’Umutambagiro Mukuru (umunsi wa cumi w’ukwezi kwa Dhul Hija), ko Allah n'Intumwa ye bitandukanyije n’ababangikanyamana. Bityo nimwicuza bizaba ari byo byiza kuri mwe, ariko nimutera umugongo, ubwo mumenye ko ntaho muzacikira (ibihano bya) Allah. Unageze kuri ba bandi bahakanye inkuru y’ibihano bibabaza.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 187,
+  "verse_key": "9:3",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَذَٰنٞ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوۡمَ ٱلۡحَجِّ ٱلۡأَكۡبَرِ أَنَّ ٱللَّهَ بَرِيٓءٞ مِّنَ ٱلۡمُشۡرِكِينَ وَرَسُولُهُۥۚ فَإِن تُبۡتُمۡ فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَوَلَّيۡتُمۡ فَٱعۡلَمُوٓاْ أَنَّكُمۡ غَيۡرُ مُعۡجِزِي ٱللَّهِۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُواْ بِعَذَابٍ أَلِيمٍ",
+  "translation": "Ni n’itangazo riturutse kwa Allah n'Intumwa ye rigenewe abantu bose ku munsi w’Umutambagiro Mukuru (umunsi wa cumi w’ukwezi kwa Dhul Hija), ko Allah n'Intumwa ye bitandukanyije n’ababangikanyamana. Bityo nimwicuza bizaba ari byo byiza kuri mwe, ariko nimutera umugongo, ubwo mumenye ko ntaho muzacikira (ibihano bya) Allah. Unageze kuri ba bandi bahakanye inkuru y’ibihano bibabaza.",
+  "footnotes": ""
 }

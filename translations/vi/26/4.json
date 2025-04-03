@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2936",
-    "sura": "26",
-    "aya": "4",
-    "arabic_text": "إِن نَّشَأۡ نُنَزِّلۡ عَلَيۡهِم مِّنَ ٱلسَّمَآءِ ءَايَةٗ فَظَلَّتۡ أَعۡنَٰقُهُمۡ لَهَا خَٰضِعِينَ",
-    "translation": "Nếu muốn, TA (Allah) có thể ban một phép lạ từ trên trời xuống khiến họ cúi cổ thần phục, (nhưng TA không làm thế vì để thử thách họ xem họ có tin vào điều vô hình hay không).",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 367,
+  "verse_key": "26:4",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن نَّشَأۡ نُنَزِّلۡ عَلَيۡهِم مِّنَ ٱلسَّمَآءِ ءَايَةٗ فَظَلَّتۡ أَعۡنَٰقُهُمۡ لَهَا خَٰضِعِينَ",
+  "translation": "Nếu muốn, TA (Allah) có thể ban một phép lạ từ trên trời xuống khiến họ cúi cổ thần phục, (nhưng TA không làm thế vì để thử thách họ xem họ có tin vào điều vô hình hay không).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5931",
-    "sura": "85",
-    "aya": "22",
-    "arabic_text": "فِي لَوۡحٖ مَّحۡفُوظِۭ",
-    "translation": "په خوندي ساتل شوې تخته کې دی.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 590,
+  "verse_key": "85:22",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي لَوۡحٖ مَّحۡفُوظِۭ",
+  "translation": "په خوندي ساتل شوې تخته کې دی.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3730",
-    "sura": "36",
-    "aya": "25",
-    "arabic_text": "إِنِّيٓ ءَامَنتُ بِرَبِّكُمۡ فَٱسۡمَعُونِ",
-    "translation": "25. Escúchenme, yo he abrazado la fe en su Señor”. [Pero su pueblo lo mató.]",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 441,
+  "verse_key": "36:25",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنِّيٓ ءَامَنتُ بِرَبِّكُمۡ فَٱسۡمَعُونِ",
+  "translation": "25. Escúchenme, yo he abrazado la fe en su Señor”. [Pero su pueblo lo mató.]",
+  "footnotes": ""
 }

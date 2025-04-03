@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "797",
-    "sura": "6",
-    "aya": "8",
-    "arabic_text": "وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ مَلَكٞۖ وَلَوۡ أَنزَلۡنَا مَلَكٗا لَّقُضِيَ ٱلۡأَمۡرُ ثُمَّ لَا يُنظَرُونَ",
-    "translation": "8. Waxay yidhaahdeen: Maxaa malag loola soo diri waayey? Haddaan soo dejinno malag, arrinka mid la gooyo buu ahaan lahaa,  markaasna lama siiyeen fursad (ay ku toobad keenaan).",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 128,
+  "verse_key": "6:8",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ مَلَكٞۖ وَلَوۡ أَنزَلۡنَا مَلَكٗا لَّقُضِيَ ٱلۡأَمۡرُ ثُمَّ لَا يُنظَرُونَ",
+  "translation": "8. Waxay yidhaahdeen: Maxaa malag loola soo diri waayey? Haddaan soo dejinno malag, arrinka mid la gooyo buu ahaan lahaa,  markaasna lama siiyeen fursad (ay ku toobad keenaan).",
+  "footnotes": ""
 }

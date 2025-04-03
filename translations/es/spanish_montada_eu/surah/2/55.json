@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "62",
-    "sura": "2",
-    "aya": "55",
-    "arabic_text": "وَإِذۡ قُلۡتُمۡ يَٰمُوسَىٰ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهۡرَةٗ فَأَخَذَتۡكُمُ ٱلصَّٰعِقَةُ وَأَنتُمۡ تَنظُرُونَ",
-    "translation": "55. Y (recordad) cuando dijisteis: «¡Moisés!, no creeremos en ti hasta que veamos a Al-lah con claridad». Entonces fuisteis alcanzados por un rayo (que os fulminó) mientras mirabais[25].",
-    "footnotes": "[25]  Puede entenderse que un grupo fue alcanzado por un rayo mientras otros veían lo que les sucedía."
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 8,
+  "verse_key": "2:55",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قُلۡتُمۡ يَٰمُوسَىٰ لَن نُّؤۡمِنَ لَكَ حَتَّىٰ نَرَى ٱللَّهَ جَهۡرَةٗ فَأَخَذَتۡكُمُ ٱلصَّٰعِقَةُ وَأَنتُمۡ تَنظُرُونَ",
+  "translation": "55. Y (recordad) cuando dijisteis: «¡Moisés!, no creeremos en ti hasta que veamos a Al-lah con claridad». Entonces fuisteis alcanzados por un rayo (que os fulminó) mientras mirabais[25].",
+  "footnotes": "[25]  Puede entenderse que un grupo fue alcanzado por un rayo mientras otros veían lo que les sucedía."
 }

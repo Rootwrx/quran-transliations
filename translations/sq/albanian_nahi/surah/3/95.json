@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "388",
-    "sura": "3",
-    "aya": "95",
-    "arabic_text": "قُلۡ صَدَقَ ٱللَّهُۗ فَٱتَّبِعُواْ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
-    "translation": "Thuaj (o Muhamed!): “Allahu thotë të vërtetën, prandaj ndiqeni fenë e pastër të Ibrahimit[53], i cili nuk ishte idhujtar”.",
-    "footnotes": "[53] D.m.th. monoteizmin islam."
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 62,
+  "verse_key": "3:95",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ صَدَقَ ٱللَّهُۗ فَٱتَّبِعُواْ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۖ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+  "translation": "Thuaj (o Muhamed!): “Allahu thotë të vërtetën, prandaj ndiqeni fenë e pastër të Ibrahimit[53], i cili nuk ishte idhujtar”.",
+  "footnotes": "[53] D.m.th. monoteizmin islam."
 }

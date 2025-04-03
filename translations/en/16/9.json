@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1910",
-    "sura": "16",
-    "aya": "9",
-    "arabic_text": "وَعَلَى ٱللَّهِ قَصۡدُ ٱلسَّبِيلِ وَمِنۡهَا جَآئِرٞۚ وَلَوۡ شَآءَ لَهَدَىٰكُمۡ أَجۡمَعِينَ",
-    "translation": "(9) And upon Allāh[693] is the direction of the [right] way, and among them [i.e., the various paths] are those deviating. And if He willed, He could have guided you all.",
-    "footnotes": "[693]- Allāh (subḥānahu wa taʿālā) has taken it upon Himself to guide man to the right path.  The meaning has also been interpreted as \"To Allāh...\""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 268,
+  "verse_key": "16:9",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَلَى ٱللَّهِ قَصۡدُ ٱلسَّبِيلِ وَمِنۡهَا جَآئِرٞۚ وَلَوۡ شَآءَ لَهَدَىٰكُمۡ أَجۡمَعِينَ",
+  "translation": "(9) And upon Allāh[693] is the direction of the [right] way, and among them [i.e., the various paths] are those deviating. And if He willed, He could have guided you all.",
+  "footnotes": "[693]- Allāh (subḥānahu wa taʿālā) has taken it upon Himself to guide man to the right path.  The meaning has also been interpreted as \"To Allāh...\""
 }

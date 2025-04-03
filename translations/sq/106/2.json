@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6195",
-    "sura": "106",
-    "aya": "2",
-    "arabic_text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
-    "translation": "për t’i mbrojtur ata në udhëtimin që bëjnë dimër e verë.[431]",
-    "footnotes": "[431] Struktura ekonomike mbi të cilën ishte ngritur mirëqenia e kurejshëve të Mekës, bazohej në dy situata tregtare: njëra ishte pelegrinazhi i përvitshëm, që sillte në Mekë të gjithë arabët e Gadishullit Arabik, kurse tjetra ishte udhëtimi i dy karvanëve vjetorë, njëri drejt Jemenit gjatë dimrit dhe tjetri drejt Shamit (sot Siria, Palestina, Libani dhe Jordania) gjatë verës. Pozicioni qendror i Mekës ndërmjet Mesdheut dhe Oqeanit Indian dhe aftësitë e jashtëzakonshme të tregtarëve kurejshë, bënë që këta dy karvanë të ktheheshin në pikëmbështetjen e të gjithë aktivitetit ekonomik të qytetit."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 602,
+  "verse_key": "106:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+  "translation": "për t’i mbrojtur ata në udhëtimin që bëjnë dimër e verë.[431]",
+  "footnotes": "[431] Struktura ekonomike mbi të cilën ishte ngritur mirëqenia e kurejshëve të Mekës, bazohej në dy situata tregtare: njëra ishte pelegrinazhi i përvitshëm, që sillte në Mekë të gjithë arabët e Gadishullit Arabik, kurse tjetra ishte udhëtimi i dy karvanëve vjetorë, njëri drejt Jemenit gjatë dimrit dhe tjetri drejt Shamit (sot Siria, Palestina, Libani dhe Jordania) gjatë verës. Pozicioni qendror i Mekës ndërmjet Mesdheut dhe Oqeanit Indian dhe aftësitë e jashtëzakonshme të tregtarëve kurejshë, bënë që këta dy karvanë të ktheheshin në pikëmbështetjen e të gjithë aktivitetit ekonomik të qytetit."
 }

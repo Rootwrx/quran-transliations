@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2564",
-    "sura": "21",
-    "aya": "81",
-    "arabic_text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ عَاصِفَةٗ تَجۡرِي بِأَمۡرِهِۦٓ إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَاۚ وَكُنَّا بِكُلِّ شَيۡءٍ عَٰلِمِينَ",
-    "translation": "Twaranorohereje Sulayimani kwikora ku gihuhusi we hamwe n’abo bari kumwe, kikamwunguruza kw’itegeko ryiwe gushika muri Bayti l-Maqdis mu bihugu vya Shaamu[13], ahantu Twahezagije ivyiza vyinshi no kuba amamuko ya benshi mu Bavugishwamana (ba nyakugira amahoro n’impuhwe z’Imana Allah); kandi burya twebwe Allah, Twamye Tuzi neza ibintu vyose.",
-    "footnotes": "[13] Shaamu muri kahise, ni izina ry’akarere kari kagizwe n’ibihugu vya Siriya, Libani, Jordaniya, Palestina, Tabuki na Sinayi."
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 328,
+  "verse_key": "21:81",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ عَاصِفَةٗ تَجۡرِي بِأَمۡرِهِۦٓ إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَاۚ وَكُنَّا بِكُلِّ شَيۡءٍ عَٰلِمِينَ",
+  "translation": "Twaranorohereje Sulayimani kwikora ku gihuhusi we hamwe n’abo bari kumwe, kikamwunguruza kw’itegeko ryiwe gushika muri Bayti l-Maqdis mu bihugu vya Shaamu[13], ahantu Twahezagije ivyiza vyinshi no kuba amamuko ya benshi mu Bavugishwamana (ba nyakugira amahoro n’impuhwe z’Imana Allah); kandi burya twebwe Allah, Twamye Tuzi neza ibintu vyose.",
+  "footnotes": "[13] Shaamu muri kahise, ni izina ry’akarere kari kagizwe n’ibihugu vya Siriya, Libani, Jordaniya, Palestina, Tabuki na Sinayi."
 }

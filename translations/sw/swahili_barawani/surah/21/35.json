@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2518",
-    "sura": "21",
-    "aya": "35",
-    "arabic_text": "كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَنَبۡلُوكُم بِٱلشَّرِّ وَٱلۡخَيۡرِ فِتۡنَةٗۖ وَإِلَيۡنَا تُرۡجَعُونَ",
-    "translation": "Kila nafsi itaonja mauti; na tunakujaribuni kwa mtihani wa shari na kheri. Na kwetu Sisi mtarejeshwa.",
-    "footnotes": "Kila nafsi haina budi kuonja mauti. Na Sisi tunakufanyieni hapa duniani kama wenye kukupeni mtihani, kwa kukupeni yenye manufaa yenu na yenye madhara pia, ili abagulike mwenye kushukuru kwa kupewa kheri na kuvumilia balaa, na yule asiye na fadhila kwa neema aipatayo na anapapatika akipata misiba. Nanyi mtarejeshwa kwetu, na hapo tutakuhisabieni vitendo vyenu."
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 324,
+  "verse_key": "21:35",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَنَبۡلُوكُم بِٱلشَّرِّ وَٱلۡخَيۡرِ فِتۡنَةٗۖ وَإِلَيۡنَا تُرۡجَعُونَ",
+  "translation": "Kila nafsi itaonja mauti; na tunakujaribuni kwa mtihani wa shari na kheri. Na kwetu Sisi mtarejeshwa.",
+  "footnotes": "Kila nafsi haina budi kuonja mauti. Na Sisi tunakufanyieni hapa duniani kama wenye kukupeni mtihani, kwa kukupeni yenye manufaa yenu na yenye madhara pia, ili abagulike mwenye kushukuru kwa kupewa kheri na kuvumilia balaa, na yule asiye na fadhila kwa neema aipatayo na anapapatika akipata misiba. Nanyi mtarejeshwa kwetu, na hapo tutakuhisabieni vitendo vyenu."
 }

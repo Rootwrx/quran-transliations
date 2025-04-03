@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1906",
-    "sura": "16",
-    "aya": "5",
-    "arabic_text": "وَٱلۡأَنۡعَٰمَ خَلَقَهَاۖ لَكُمۡ فِيهَا دِفۡءٞ وَمَنَٰفِعُ وَمِنۡهَا تَأۡكُلُونَ",
-    "translation": "他创造了牲畜，你们可以其毛和皮御寒，可以其乳和肉充饥，还有许多益处。",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 267,
+  "verse_key": "16:5",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡأَنۡعَٰمَ خَلَقَهَاۖ لَكُمۡ فِيهَا دِفۡءٞ وَمَنَٰفِعُ وَمِنۡهَا تَأۡكُلُونَ",
+  "translation": "他创造了牲畜，你们可以其毛和皮御寒，可以其乳和肉充饥，还有许多益处。",
+  "footnotes": ""
 }

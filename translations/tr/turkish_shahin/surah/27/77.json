@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3236",
-    "sura": "27",
-    "aya": "77",
-    "arabic_text": "وَإِنَّهُۥ لَهُدٗى وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ",
-    "translation": "Ve o, müminler için gerçekten bir hidayet rehberi ve rahmettir.",
-    "footnotes": ""
-  }
+  "id": 77,
+  "verse_number": 77,
+  "page_number": 384,
+  "verse_key": "27:77",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّهُۥ لَهُدٗى وَرَحۡمَةٞ لِّلۡمُؤۡمِنِينَ",
+  "translation": "Ve o, müminler için gerçekten bir hidayet rehberi ve rahmettir.",
+  "footnotes": ""
 }

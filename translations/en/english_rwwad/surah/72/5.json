@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5452",
-    "sura": "72",
-    "aya": "5",
-    "arabic_text": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَى ٱللَّهِ كَذِبٗا",
-    "translation": "although we thought that humans and jinn would never tell lies about Allah.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 572,
+  "verse_key": "72:5",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّا ظَنَنَّآ أَن لَّن تَقُولَ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَى ٱللَّهِ كَذِبٗا",
+  "translation": "although we thought that humans and jinn would never tell lies about Allah.",
+  "footnotes": ""
 }

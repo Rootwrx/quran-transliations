@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3492",
-    "sura": "31",
-    "aya": "23",
-    "arabic_text": "وَمَن كَفَرَ فَلَا يَحۡزُنكَ كُفۡرُهُۥٓۚ إِلَيۡنَا مَرۡجِعُهُمۡ فَنُنَبِّئُهُم بِمَا عَمِلُوٓاْۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
-    "translation": "Lɑ ned ningɑ sẽn mɑɑn-ɑ sõm-zɩtem bɩ ɑ sõm-zɩtmã rɑ wɑ sãɑm fo sũur ye. Tõnd nengẽ lɑ b lebgr zĩig tɩ D wilg-b b sẽn tʋmã. Ad Wẽnd mii sẽn be sũyẽ wã.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 413,
+  "verse_key": "31:23",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن كَفَرَ فَلَا يَحۡزُنكَ كُفۡرُهُۥٓۚ إِلَيۡنَا مَرۡجِعُهُمۡ فَنُنَبِّئُهُم بِمَا عَمِلُوٓاْۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "translation": "Lɑ ned ningɑ sẽn mɑɑn-ɑ sõm-zɩtem bɩ ɑ sõm-zɩtmã rɑ wɑ sãɑm fo sũur ye. Tõnd nengẽ lɑ b lebgr zĩig tɩ D wilg-b b sẽn tʋmã. Ad Wẽnd mii sẽn be sũyẽ wã.",
+  "footnotes": ""
 }

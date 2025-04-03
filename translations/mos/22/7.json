@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2602",
-    "sura": "22",
-    "aya": "7",
-    "arabic_text": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٞ لَّا رَيۡبَ فِيهَا وَأَنَّ ٱللَّهَ يَبۡعَثُ مَن فِي ٱلۡقُبُورِ",
-    "translation": "Ad dũni yikrã yaa sẽn wate, sik ka a pʋgẽ ye, la ad Wẽnd na n yika neb nins sẽn be yaadẽ wã.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 333,
+  "verse_key": "22:7",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّ ٱلسَّاعَةَ ءَاتِيَةٞ لَّا رَيۡبَ فِيهَا وَأَنَّ ٱللَّهَ يَبۡعَثُ مَن فِي ٱلۡقُبُورِ",
+  "translation": "Ad dũni yikrã yaa sẽn wate, sik ka a pʋgẽ ye, la ad Wẽnd na n yika neb nins sẽn be yaadẽ wã.",
+  "footnotes": ""
 }

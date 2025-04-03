@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1033",
-    "sura": "7",
-    "aya": "79",
-    "arabic_text": "فَتَوَلَّىٰ عَنۡهُمۡ وَقَالَ يَٰقَوۡمِ لَقَدۡ أَبۡلَغۡتُكُمۡ رِسَالَةَ رَبِّي وَنَصَحۡتُ لَكُمۡ وَلَٰكِن لَّا تُحِبُّونَ ٱلنَّٰصِحِينَ",
-    "translation": "Sai ya jũya daga barinsu, kuma ya ce: \"Ya mutãnena! Lalle ne, haƙĩƙa, nã iyar muku damanzancin Ubangijina. Kuma nã yi muku nasĩha kuma amma bã ku son mãsu nasĩha!\"",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 160,
+  "verse_key": "7:79",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتَوَلَّىٰ عَنۡهُمۡ وَقَالَ يَٰقَوۡمِ لَقَدۡ أَبۡلَغۡتُكُمۡ رِسَالَةَ رَبِّي وَنَصَحۡتُ لَكُمۡ وَلَٰكِن لَّا تُحِبُّونَ ٱلنَّٰصِحِينَ",
+  "translation": "Sai ya jũya daga barinsu, kuma ya ce: \"Ya mutãnena! Lalle ne, haƙĩƙa, nã iyar muku damanzancin Ubangijina. Kuma nã yi muku nasĩha kuma amma bã ku son mãsu nasĩha!\"",
+  "footnotes": ""
 }

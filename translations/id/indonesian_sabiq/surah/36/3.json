@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3708",
-    "sura": "36",
-    "aya": "3",
-    "arabic_text": "إِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ",
-    "translation": "3. Sungguh, engkau (Muhammad) adalah salah seorang dari rasul-rasul,",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 440,
+  "verse_key": "36:3",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ",
+  "translation": "3. Sungguh, engkau (Muhammad) adalah salah seorang dari rasul-rasul,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1857",
-    "sura": "15",
-    "aya": "55",
-    "arabic_text": "قَالُواْ بَشَّرۡنَٰكَ بِٱلۡحَقِّ فَلَا تَكُن مِّنَ ٱلۡقَٰنِطِينَ",
-    "translation": "Wakasema: Tunakubashiria kwa haki; basi usiwe miongoni mwa wanaokata tamaa.",
-    "footnotes": "Wakasema: Sisi tunakubashiria jambo lilio thibiti, ambalo halina shaka kabisa. Basi usiwe katika wanao kata tamaa na rehema ya Mwenyezi Mungu."
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 265,
+  "verse_key": "15:55",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ بَشَّرۡنَٰكَ بِٱلۡحَقِّ فَلَا تَكُن مِّنَ ٱلۡقَٰنِطِينَ",
+  "translation": "Wakasema: Tunakubashiria kwa haki; basi usiwe miongoni mwa wanaokata tamaa.",
+  "footnotes": "Wakasema: Sisi tunakubashiria jambo lilio thibiti, ambalo halina shaka kabisa. Basi usiwe katika wanao kata tamaa na rehema ya Mwenyezi Mungu."
 }

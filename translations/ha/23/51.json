@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2724",
-    "sura": "23",
-    "aya": "51",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُواْ مِنَ ٱلطَّيِّبَٰتِ وَٱعۡمَلُواْ صَٰلِحًاۖ إِنِّي بِمَا تَعۡمَلُونَ عَلِيمٞ",
-    "translation": "Yã ku Manzanni! Ku ci daga abũbuwa mãsu dãɗi* kuma ku aikata aikin ƙwarai. Lalle Nĩga abin da kuke aikatãwa, Masani ne.",
-    "footnotes": "* Allah Ya umurci ManzanninSa da cin halat sa'an nan su aikata aikin ƙwarai. Haka kuma Ya umurci Mũminai. Sabõda haka karɓar aiki na ƙwarai an tsayar da shi ne a kan cin halat."
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 345,
+  "verse_key": "23:51",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُواْ مِنَ ٱلطَّيِّبَٰتِ وَٱعۡمَلُواْ صَٰلِحًاۖ إِنِّي بِمَا تَعۡمَلُونَ عَلِيمٞ",
+  "translation": "Yã ku Manzanni! Ku ci daga abũbuwa mãsu dãɗi* kuma ku aikata aikin ƙwarai. Lalle Nĩga abin da kuke aikatãwa, Masani ne.",
+  "footnotes": "* Allah Ya umurci ManzanninSa da cin halat sa'an nan su aikata aikin ƙwarai. Haka kuma Ya umurci Mũminai. Sabõda haka karɓar aiki na ƙwarai an tsayar da shi ne a kan cin halat."
 }

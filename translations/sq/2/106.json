@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "113",
-    "sura": "2",
-    "aya": "106",
-    "arabic_text": "۞ مَا نَنسَخۡ مِنۡ ءَايَةٍ أَوۡ نُنسِهَا نَأۡتِ بِخَيۡرٖ مِّنۡهَآ أَوۡ مِثۡلِهَآۗ أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
-    "translation": "Për çdo varg (Kurani) që Ne e shfuqizojmë apo që e bëjmë të harrohet, Ne sjellim ndonjë tjetër më të mirë ose të ngjashëm me të. A nuk e di ti se Allahu është i Fuqishëm për (të bërë) çdo gjë?!",
-    "footnotes": ""
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 17,
+  "verse_key": "2:106",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ مَا نَنسَخۡ مِنۡ ءَايَةٍ أَوۡ نُنسِهَا نَأۡتِ بِخَيۡرٖ مِّنۡهَآ أَوۡ مِثۡلِهَآۗ أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+  "translation": "Për çdo varg (Kurani) që Ne e shfuqizojmë apo që e bëjmë të harrohet, Ne sjellim ndonjë tjetër më të mirë ose të ngjashëm me të. A nuk e di ti se Allahu është i Fuqishëm për (të bërë) çdo gjë?!",
+  "footnotes": ""
 }

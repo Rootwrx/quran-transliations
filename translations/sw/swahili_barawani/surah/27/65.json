@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3224",
-    "sura": "27",
-    "aya": "65",
-    "arabic_text": "قُل لَّا يَعۡلَمُ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ ٱلۡغَيۡبَ إِلَّا ٱللَّهُۚ وَمَا يَشۡعُرُونَ أَيَّانَ يُبۡعَثُونَ",
-    "translation": "Sema: Hapana katika mbingu na ardhi ajuaye ya ghaibu isipo kuwa Mwenyezi Mungu. Wala wao hawajui lini watafufuliwa.",
-    "footnotes": "Sema, ewe Mtume: Hakika mwenye kutenda yote haya peke yake ndiye Yeye Subhanahu aliye tengeka peke yake kwa kuyajua mambo ya ghaibu yalioko mbinguni na duniani. Na Yeye huyo ndiye Mwenyezi Mungu wa pekee. Wala watu hawajui wakati gani watafufuliwa kutoka makaburini kwao kwa ajili ya kuhisabiwa na kulipwa."
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 383,
+  "verse_key": "27:65",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لَّا يَعۡلَمُ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ ٱلۡغَيۡبَ إِلَّا ٱللَّهُۚ وَمَا يَشۡعُرُونَ أَيَّانَ يُبۡعَثُونَ",
+  "translation": "Sema: Hapana katika mbingu na ardhi ajuaye ya ghaibu isipo kuwa Mwenyezi Mungu. Wala wao hawajui lini watafufuliwa.",
+  "footnotes": "Sema, ewe Mtume: Hakika mwenye kutenda yote haya peke yake ndiye Yeye Subhanahu aliye tengeka peke yake kwa kuyajua mambo ya ghaibu yalioko mbinguni na duniani. Na Yeye huyo ndiye Mwenyezi Mungu wa pekee. Wala watu hawajui wakati gani watafufuliwa kutoka makaburini kwao kwa ajili ya kuhisabiwa na kulipwa."
 }

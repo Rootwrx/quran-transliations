@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1589",
-    "sura": "11",
-    "aya": "116",
-    "arabic_text": "فَلَوۡلَا كَانَ مِنَ ٱلۡقُرُونِ مِن قَبۡلِكُمۡ أُوْلُواْ بَقِيَّةٖ يَنۡهَوۡنَ عَنِ ٱلۡفَسَادِ فِي ٱلۡأَرۡضِ إِلَّا قَلِيلٗا مِّمَّنۡ أَنجَيۡنَا مِنۡهُمۡۗ وَٱتَّبَعَ ٱلَّذِينَ ظَلَمُواْ مَآ أُتۡرِفُواْ فِيهِ وَكَانُواْ مُجۡرِمِينَ",
-    "translation": "Kí ó sì jẹ́ pé àwọn onílàákàyè kan wà nínú àwọn ìran tó ṣíwájú yín (nínú àwọn tí A parẹ́) kí wọ́n máa kọ ìbàjẹ́ lórí ilẹ̀ - àfi ènìyàn díẹ̀ lára àwọn tí A gbàlà nínú wọn. - Àwọn tó ṣàbòsí sì tẹ̀lé n̄ǹkan tí A fi ṣe gbẹdẹmukẹ fún wọn. Wọ́n sì jẹ́ ẹlẹ́ṣẹ̀.",
-    "footnotes": ""
-  }
+  "id": 116,
+  "verse_number": 116,
+  "page_number": 234,
+  "verse_key": "11:116",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَوۡلَا كَانَ مِنَ ٱلۡقُرُونِ مِن قَبۡلِكُمۡ أُوْلُواْ بَقِيَّةٖ يَنۡهَوۡنَ عَنِ ٱلۡفَسَادِ فِي ٱلۡأَرۡضِ إِلَّا قَلِيلٗا مِّمَّنۡ أَنجَيۡنَا مِنۡهُمۡۗ وَٱتَّبَعَ ٱلَّذِينَ ظَلَمُواْ مَآ أُتۡرِفُواْ فِيهِ وَكَانُواْ مُجۡرِمِينَ",
+  "translation": "Kí ó sì jẹ́ pé àwọn onílàákàyè kan wà nínú àwọn ìran tó ṣíwájú yín (nínú àwọn tí A parẹ́) kí wọ́n máa kọ ìbàjẹ́ lórí ilẹ̀ - àfi ènìyàn díẹ̀ lára àwọn tí A gbàlà nínú wọn. - Àwọn tó ṣàbòsí sì tẹ̀lé n̄ǹkan tí A fi ṣe gbẹdẹmukẹ fún wọn. Wọ́n sì jẹ́ ẹlẹ́ṣẹ̀.",
+  "footnotes": ""
 }

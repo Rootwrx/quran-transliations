@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3185",
-    "sura": "27",
-    "aya": "26",
-    "arabic_text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ۩",
-    "translation": " 26. Allâh, Lâ ilâha illa Huwa (none has the right to be worshipped but He), the Lord of the Supreme Throne!",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 379,
+  "verse_key": "27:26",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 8,
+  "text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ۩",
+  "translation": " 26. Allâh, Lâ ilâha illa Huwa (none has the right to be worshipped but He), the Lord of the Supreme Throne!",
+  "footnotes": ""
 }

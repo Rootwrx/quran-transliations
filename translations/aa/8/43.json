@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1203",
-    "sura": "8",
-    "aya": "43",
-    "arabic_text": "إِذۡ يُرِيكَهُمُ ٱللَّهُ فِي مَنَامِكَ قَلِيلٗاۖ وَلَوۡ أَرَىٰكَهُمۡ كَثِيرٗا لَّفَشِلۡتُمۡ وَلَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
-    "translation": "43.Nabiyow cus Yalli ku soonól korosuk dagna koo yuybullee waqdi, keenik manga koo aybullinnay ku kataysis conxitak teneeh qebti caagidil itta waak tenen, kinnih immay Yalli meesii kee ittinwayak sin yiysillimeh, diggah Yalli usuk alilwat qellitti ittam yaaxigi kinni.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 182,
+  "verse_key": "8:43",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ يُرِيكَهُمُ ٱللَّهُ فِي مَنَامِكَ قَلِيلٗاۖ وَلَوۡ أَرَىٰكَهُمۡ كَثِيرٗا لَّفَشِلۡتُمۡ وَلَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "translation": "43.Nabiyow cus Yalli ku soonól korosuk dagna koo yuybullee waqdi, keenik manga koo aybullinnay ku kataysis conxitak teneeh qebti caagidil itta waak tenen, kinnih immay Yalli meesii kee ittinwayak sin yiysillimeh, diggah Yalli usuk alilwat qellitti ittam yaaxigi kinni.",
+  "footnotes": ""
 }

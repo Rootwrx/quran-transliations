@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2456",
-    "sura": "20",
-    "aya": "108",
-    "arabic_text": "يَوۡمَئِذٖ يَتَّبِعُونَ ٱلدَّاعِيَ لَا عِوَجَ لَهُۥۖ وَخَشَعَتِ ٱلۡأَصۡوَاتُ لِلرَّحۡمَٰنِ فَلَا تَسۡمَعُ إِلَّا هَمۡسٗا",
-    "translation": "A rãnar nan sunã biyar mai kira, bãbu karkata a gare shi, kuma sautuka suka yi kawaici ga Mai rahama, bã ka sauraren kõme fãce sautin tafiya.",
-    "footnotes": ""
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 319,
+  "verse_key": "20:108",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَئِذٖ يَتَّبِعُونَ ٱلدَّاعِيَ لَا عِوَجَ لَهُۥۖ وَخَشَعَتِ ٱلۡأَصۡوَاتُ لِلرَّحۡمَٰنِ فَلَا تَسۡمَعُ إِلَّا هَمۡسٗا",
+  "translation": "A rãnar nan sunã biyar mai kira, bãbu karkata a gare shi, kuma sautuka suka yi kawaici ga Mai rahama, bã ka sauraren kõme fãce sautin tafiya.",
+  "footnotes": ""
 }

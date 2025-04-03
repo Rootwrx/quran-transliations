@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "247",
-    "sura": "2",
-    "aya": "240",
-    "arabic_text": "وَٱلَّذِينَ يُتَوَفَّوۡنَ مِنكُمۡ وَيَذَرُونَ أَزۡوَٰجٗا وَصِيَّةٗ لِّأَزۡوَٰجِهِم مَّتَٰعًا إِلَى ٱلۡحَوۡلِ غَيۡرَ إِخۡرَاجٖۚ فَإِنۡ خَرَجۡنَ فَلَا جُنَاحَ عَلَيۡكُمۡ فِي مَا فَعَلۡنَ فِيٓ أَنفُسِهِنَّ مِن مَّعۡرُوفٖۗ وَٱللَّهُ عَزِيزٌ حَكِيمٞ",
-    "translation": "Ata prej jush, të cilëve iu është afruar vdekja dhe kanë gra për të lënë pas, duhet t’u lënë atyre në testament mjetet për të jetuar një vit, pa i bërë që të dalin nga shtëpia. Por, nëse ato vetë e braktisin shtëpinë, ju nuk jeni përgjegjës për çfarë bëjnë me jetën e tyre sipas rregullave. Allahu është i Plotfuqishëm e i Urtë.",
-    "footnotes": ""
-  }
+  "id": 240,
+  "verse_number": 240,
+  "page_number": 39,
+  "verse_key": "2:240",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 15,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يُتَوَفَّوۡنَ مِنكُمۡ وَيَذَرُونَ أَزۡوَٰجٗا وَصِيَّةٗ لِّأَزۡوَٰجِهِم مَّتَٰعًا إِلَى ٱلۡحَوۡلِ غَيۡرَ إِخۡرَاجٖۚ فَإِنۡ خَرَجۡنَ فَلَا جُنَاحَ عَلَيۡكُمۡ فِي مَا فَعَلۡنَ فِيٓ أَنفُسِهِنَّ مِن مَّعۡرُوفٖۗ وَٱللَّهُ عَزِيزٌ حَكِيمٞ",
+  "translation": "Ata prej jush, të cilëve iu është afruar vdekja dhe kanë gra për të lënë pas, duhet t’u lënë atyre në testament mjetet për të jetuar një vit, pa i bërë që të dalin nga shtëpia. Por, nëse ato vetë e braktisin shtëpinë, ju nuk jeni përgjegjës për çfarë bëjnë me jetën e tyre sipas rregullave. Allahu është i Plotfuqishëm e i Urtë.",
+  "footnotes": ""
 }

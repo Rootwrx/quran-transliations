@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "498",
-    "sura": "4",
-    "aya": "5",
-    "arabic_text": "وَلَا تُؤۡتُواْ ٱلسُّفَهَآءَ أَمۡوَٰلَكُمُ ٱلَّتِي جَعَلَ ٱللَّهُ لَكُمۡ قِيَٰمٗا وَٱرۡزُقُوهُمۡ فِيهَا وَٱكۡسُوهُمۡ وَقُولُواْ لَهُمۡ قَوۡلٗا مَّعۡرُوفٗا",
-    "translation": "Mos e lini në dorë të të paaftëve mendërisht pasurinë tuaj që Allahu jua ka dhënë si mjet jetese për ju; ushqejini dhe vishini ata prej saj dhe u thoni atyre fjalë të mira.[57]",
-    "footnotes": "[57] Ky varg tregon se pasuria është për t’u shfrytëzuar për jetesë e jo për luks e shpenzime të kota. Pra, ajo nevojitet për ekzistencën jetësore të njerëzve (përkthyesi)."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 77,
+  "verse_key": "4:5",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تُؤۡتُواْ ٱلسُّفَهَآءَ أَمۡوَٰلَكُمُ ٱلَّتِي جَعَلَ ٱللَّهُ لَكُمۡ قِيَٰمٗا وَٱرۡزُقُوهُمۡ فِيهَا وَٱكۡسُوهُمۡ وَقُولُواْ لَهُمۡ قَوۡلٗا مَّعۡرُوفٗا",
+  "translation": "Mos e lini në dorë të të paaftëve mendërisht pasurinë tuaj që Allahu jua ka dhënë si mjet jetese për ju; ushqejini dhe vishini ata prej saj dhe u thoni atyre fjalë të mira.[57]",
+  "footnotes": "[57] Ky varg tregon se pasuria është për t’u shfrytëzuar për jetesë e jo për luks e shpenzime të kota. Pra, ajo nevojitet për ekzistencën jetësore të njerëzve (përkthyesi)."
 }

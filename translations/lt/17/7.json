@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2036",
-    "sura": "17",
-    "aya": "7",
-    "arabic_text": "إِنۡ أَحۡسَنتُمۡ أَحۡسَنتُمۡ لِأَنفُسِكُمۡۖ وَإِنۡ أَسَأۡتُمۡ فَلَهَاۚ فَإِذَا جَآءَ وَعۡدُ ٱلۡأٓخِرَةِ لِيَسُـُٔواْ وُجُوهَكُمۡ وَلِيَدۡخُلُواْ ٱلۡمَسۡجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٖ وَلِيُتَبِّرُواْ مَا عَلَوۡاْ تَتۡبِيرًا",
-    "translation": "7. (Ir Mes sakėme): „Jei jūs darote gerą, jūs darote gerą patys sau, tačiau jei jūs darote blogą (jūs darote tai) patys prieš save.“ Tada, kai išsipildė antrasis pažadas, (Mes leidome jūsų priešams) suteršti jūsų veidus ir įžengti į (Jeruzalės) mečetę, kaip jie buvo įžengę į ją anksčiau, ir sunaikinti visišku sugriovimu viską, kas pateko į jų rankas.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 282,
+  "verse_key": "17:7",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ أَحۡسَنتُمۡ أَحۡسَنتُمۡ لِأَنفُسِكُمۡۖ وَإِنۡ أَسَأۡتُمۡ فَلَهَاۚ فَإِذَا جَآءَ وَعۡدُ ٱلۡأٓخِرَةِ لِيَسُـُٔواْ وُجُوهَكُمۡ وَلِيَدۡخُلُواْ ٱلۡمَسۡجِدَ كَمَا دَخَلُوهُ أَوَّلَ مَرَّةٖ وَلِيُتَبِّرُواْ مَا عَلَوۡاْ تَتۡبِيرًا",
+  "translation": "7. (Ir Mes sakėme): „Jei jūs darote gerą, jūs darote gerą patys sau, tačiau jei jūs darote blogą (jūs darote tai) patys prieš save.“ Tada, kai išsipildė antrasis pažadas, (Mes leidome jūsų priešams) suteršti jūsų veidus ir įžengti į (Jeruzalės) mečetę, kaip jie buvo įžengę į ją anksčiau, ir sunaikinti visišku sugriovimu viską, kas pateko į jų rankas.",
+  "footnotes": ""
 }

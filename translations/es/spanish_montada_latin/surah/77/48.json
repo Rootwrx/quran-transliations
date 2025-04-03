@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5670",
-    "sura": "77",
-    "aya": "48",
-    "arabic_text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ",
-    "translation": "48. Y si se les dice que (recen y) se inclinen ante Al-lah, no lo hacen.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 581,
+  "verse_key": "77:48",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا قِيلَ لَهُمُ ٱرۡكَعُواْ لَا يَرۡكَعُونَ",
+  "translation": "48. Y si se les dice que (recen y) se inclinen ante Al-lah, no lo hacen.",
+  "footnotes": ""
 }

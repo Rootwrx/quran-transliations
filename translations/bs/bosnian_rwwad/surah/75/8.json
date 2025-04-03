@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5559",
-    "sura": "75",
-    "aya": "8",
-    "arabic_text": "وَخَسَفَ ٱلۡقَمَرُ",
-    "translation": "i Mjesec pomrači",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 577,
+  "verse_key": "75:8",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَخَسَفَ ٱلۡقَمَرُ",
+  "translation": "i Mjesec pomrači",
+  "footnotes": ""
 }

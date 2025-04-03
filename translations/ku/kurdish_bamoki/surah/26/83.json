@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3015",
-    "sura": "26",
-    "aya": "83",
-    "arabic_text": "رَبِّ هَبۡ لِي حُكۡمٗا وَأَلۡحِقۡنِي بِٱلصَّٰلِحِينَ",
-    "translation": "ئەی پەروەردگارم دانایم پێ ببەخشە بمبەرە ڕیزی پیاوچاکانەوە\n",
-    "footnotes": null
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 370,
+  "verse_key": "26:83",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبِّ هَبۡ لِي حُكۡمٗا وَأَلۡحِقۡنِي بِٱلصَّٰلِحِينَ",
+  "translation": "ئەی پەروەردگارم دانایم پێ ببەخشە بمبەرە ڕیزی پیاوچاکانەوە\n",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2642",
-    "sura": "22",
-    "aya": "47",
-    "arabic_text": "وَيَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَن يُخۡلِفَ ٱللَّهُ وَعۡدَهُۥۚ وَإِنَّ يَوۡمًا عِندَ رَبِّكَ كَأَلۡفِ سَنَةٖ مِّمَّا تَعُدُّونَ",
-    "translation": "47. Te desafían a que adelantes el castigo, pero [debes saber que] Dios no faltará a Su promesa. Un día para tu Señor es como mil años de los que ustedes computan.",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 338,
+  "verse_key": "22:47",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَسۡتَعۡجِلُونَكَ بِٱلۡعَذَابِ وَلَن يُخۡلِفَ ٱللَّهُ وَعۡدَهُۥۚ وَإِنَّ يَوۡمًا عِندَ رَبِّكَ كَأَلۡفِ سَنَةٖ مِّمَّا تَعُدُّونَ",
+  "translation": "47. Te desafían a que adelantes el castigo, pero [debes saber que] Dios no faltará a Su promesa. Un día para tu Señor es como mil años de los que ustedes computan.",
+  "footnotes": ""
 }

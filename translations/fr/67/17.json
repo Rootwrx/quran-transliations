@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5258",
-    "sura": "67",
-    "aya": "17",
-    "arabic_text": "أَمۡ أَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يُرۡسِلَ عَلَيۡكُمۡ حَاصِبٗاۖ فَسَتَعۡلَمُونَ كَيۡفَ نَذِيرِ",
-    "translation": "Ou êtes-vous à l’abri que Celui qui au ciel envoie contre vous un ouragan de pierres ? Vous saurez ainsi quel fut Mon avertissement.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 563,
+  "verse_key": "67:17",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ أَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يُرۡسِلَ عَلَيۡكُمۡ حَاصِبٗاۖ فَسَتَعۡلَمُونَ كَيۡفَ نَذِيرِ",
+  "translation": "Ou êtes-vous à l’abri que Celui qui au ciel envoie contre vous un ouragan de pierres ? Vous saurez ainsi quel fut Mon avertissement.",
+  "footnotes": ""
 }

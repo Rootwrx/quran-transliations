@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "853",
-    "sura": "6",
-    "aya": "64",
-    "arabic_text": "قُلِ ٱللَّهُ يُنَجِّيكُم مِّنۡهَا وَمِن كُلِّ كَرۡبٖ ثُمَّ أَنتُمۡ تُشۡرِكُونَ",
-    "translation": "Sabihin mo: “Si Allāh ay magliligtas sa inyo mula roon at mula sa bawat dalamhati, pagkatapos kayo ay nagtatambal.”",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 135,
+  "verse_key": "6:64",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 54,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهُ يُنَجِّيكُم مِّنۡهَا وَمِن كُلِّ كَرۡبٖ ثُمَّ أَنتُمۡ تُشۡرِكُونَ",
+  "translation": "Sabihin mo: “Si Allāh ay magliligtas sa inyo mula roon at mula sa bawat dalamhati, pagkatapos kayo ay nagtatambal.”",
+  "footnotes": ""
 }

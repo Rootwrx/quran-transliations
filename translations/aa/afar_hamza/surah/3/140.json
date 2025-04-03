@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "433",
-    "sura": "3",
-    "aya": "140",
-    "arabic_text": "إِن يَمۡسَسۡكُمۡ قَرۡحٞ فَقَدۡ مَسَّ ٱلۡقَوۡمَ قَرۡحٞ مِّثۡلُهُۥۚ وَتِلۡكَ ٱلۡأَيَّامُ نُدَاوِلُهَا بَيۡنَ ٱلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَيَتَّخِذَ مِنكُمۡ شُهَدَآءَۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
-    "translation": "140.Moominiininey ucud Saaku muduuma sin xagtek, hinnay Qidim Siinit yekkek, tokkel nummah koros Badri Saaku tamannah tan muduumaa kee Qidim ken xageh yen, tama Ayroora Sinam fanal tet gacam gacisna mariiy falli Bukaah mariiy falli yayseemil, Yalli woh kah Abern isi ixxigal dumaak yeexegem tambulleeh moominiin kee munaafiqhiin ittak edde Baxsimtamkeh, Siinik marak teyni Shahiidih Rabaamal kaa konnâ Bisamkeh, Yalli isi nafsi koroosannut yudlume mаrа makicni.",
-    "footnotes": ""
-  }
+  "id": 140,
+  "verse_number": 140,
+  "page_number": 67,
+  "verse_key": "3:140",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن يَمۡسَسۡكُمۡ قَرۡحٞ فَقَدۡ مَسَّ ٱلۡقَوۡمَ قَرۡحٞ مِّثۡلُهُۥۚ وَتِلۡكَ ٱلۡأَيَّامُ نُدَاوِلُهَا بَيۡنَ ٱلنَّاسِ وَلِيَعۡلَمَ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ وَيَتَّخِذَ مِنكُمۡ شُهَدَآءَۗ وَٱللَّهُ لَا يُحِبُّ ٱلظَّٰلِمِينَ",
+  "translation": "140.Moominiininey ucud Saaku muduuma sin xagtek, hinnay Qidim Siinit yekkek, tokkel nummah koros Badri Saaku tamannah tan muduumaa kee Qidim ken xageh yen, tama Ayroora Sinam fanal tet gacam gacisna mariiy falli Bukaah mariiy falli yayseemil, Yalli woh kah Abern isi ixxigal dumaak yeexegem tambulleeh moominiin kee munaafiqhiin ittak edde Baxsimtamkeh, Siinik marak teyni Shahiidih Rabaamal kaa konnâ Bisamkeh, Yalli isi nafsi koroosannut yudlume mаrа makicni.",
+  "footnotes": ""
 }

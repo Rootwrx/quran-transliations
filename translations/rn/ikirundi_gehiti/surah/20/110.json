@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2458",
-    "sura": "20",
-    "aya": "110",
-    "arabic_text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يُحِيطُونَ بِهِۦ عِلۡمٗا",
-    "translation": "Imana Allah Irazi neza inkuru z’ibiremwa vyose, kahise na kubu mu buzima bwo kw’isi, na kazoza kavyo mu buzima bw’inyuma yo gupfa. Nta n’umwe rero mu biremwa ashoboye guhetura ubumenyi bw’Imana Allah n’ukuntu Iteye.",
-    "footnotes": ""
-  }
+  "id": 110,
+  "verse_number": 110,
+  "page_number": 319,
+  "verse_key": "20:110",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يُحِيطُونَ بِهِۦ عِلۡمٗا",
+  "translation": "Imana Allah Irazi neza inkuru z’ibiremwa vyose, kahise na kubu mu buzima bwo kw’isi, na kazoza kavyo mu buzima bw’inyuma yo gupfa. Nta n’umwe rero mu biremwa ashoboye guhetura ubumenyi bw’Imana Allah n’ukuntu Iteye.",
+  "footnotes": ""
 }

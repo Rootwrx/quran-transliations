@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5207",
-    "sura": "64",
-    "aya": "8",
-    "arabic_text": "فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِيٓ أَنزَلۡنَاۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
-    "translation": "Darum glaubt an Allah und Seinen Gesandten und das Licht, das Wir hinabgesandt haben. Und Allah ist dessen, was ihr tut, Kundig.",
-    "footnotes": null
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 556,
+  "verse_key": "64:8",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَـَٔامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَٱلنُّورِ ٱلَّذِيٓ أَنزَلۡنَاۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+  "translation": "Darum glaubt an Allah und Seinen Gesandten und das Licht, das Wir hinabgesandt haben. Und Allah ist dessen, was ihr tut, Kundig.",
+  "footnotes": null
 }

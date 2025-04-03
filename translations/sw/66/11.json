@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5240",
-    "sura": "66",
-    "aya": "11",
-    "arabic_text": "وَضَرَبَ ٱللَّهُ مَثَلٗا لِّلَّذِينَ ءَامَنُواْ ٱمۡرَأَتَ فِرۡعَوۡنَ إِذۡ قَالَتۡ رَبِّ ٱبۡنِ لِي عِندَكَ بَيۡتٗا فِي ٱلۡجَنَّةِ وَنَجِّنِي مِن فِرۡعَوۡنَ وَعَمَلِهِۦ وَنَجِّنِي مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
-    "translation": "Na Mwenyezi Mungu amewapigia mfano walio amini - mkewe Firauni, alipo sema: Mola wangu Mlezi! Nijengee kwako nyumba Peponi, na uniokoe na Firauni na vitendo vyake, na uniokoe na watu madhaalimu.",
-    "footnotes": "Na Mwenyezi Mungu amepiga mfano kwa Waumini kisa cha mke wa Firauni alipo sema: Mola wangu Mlezi! Nijengee kwako nyumba karibu na rehema yako Peponi, na uniokoe na utawala wa Firauni na vitendo vyake vilivyo pita mipaka katika dhulma, na uniokoe na kaumu ya wanao fanya uadui!"
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 561,
+  "verse_key": "66:11",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَضَرَبَ ٱللَّهُ مَثَلٗا لِّلَّذِينَ ءَامَنُواْ ٱمۡرَأَتَ فِرۡعَوۡنَ إِذۡ قَالَتۡ رَبِّ ٱبۡنِ لِي عِندَكَ بَيۡتٗا فِي ٱلۡجَنَّةِ وَنَجِّنِي مِن فِرۡعَوۡنَ وَعَمَلِهِۦ وَنَجِّنِي مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+  "translation": "Na Mwenyezi Mungu amewapigia mfano walio amini - mkewe Firauni, alipo sema: Mola wangu Mlezi! Nijengee kwako nyumba Peponi, na uniokoe na Firauni na vitendo vyake, na uniokoe na watu madhaalimu.",
+  "footnotes": "Na Mwenyezi Mungu amepiga mfano kwa Waumini kisa cha mke wa Firauni alipo sema: Mola wangu Mlezi! Nijengee kwako nyumba karibu na rehema yako Peponi, na uniokoe na utawala wa Firauni na vitendo vyake vilivyo pita mipaka katika dhulma, na uniokoe na kaumu ya wanao fanya uadui!"
 }

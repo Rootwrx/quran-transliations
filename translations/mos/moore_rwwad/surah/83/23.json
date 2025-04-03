@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5871",
-    "sura": "83",
-    "aya": "23",
-    "arabic_text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
-    "translation": "B bee b gãas zut n getẽ.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 588,
+  "verse_key": "83:23",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَى ٱلۡأَرَآئِكِ يَنظُرُونَ",
+  "translation": "B bee b gãas zut n getẽ.",
+  "footnotes": ""
 }

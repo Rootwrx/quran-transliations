@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3629",
-    "sura": "34",
-    "aya": "23",
-    "arabic_text": "وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنۡ أَذِنَ لَهُۥۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمۡ قَالُواْ مَاذَا قَالَ رَبُّكُمۡۖ قَالُواْ ٱلۡحَقَّۖ وَهُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
-    "translation": "Wala uombezi mbele yake hautafaa kitu, isipo kuwa kwa aliye mpa idhini. Hata itapo ondolewa khofu kwenye nyoyo zao watasema: Mola wenu Mlezi kasema nini? Watasema: Yaliyo kweli! Na Yeye ndiye Aliye juu, Mkubwa.",
-    "footnotes": "Wala maombezi kwa Mwenyezi Mungu hayawafai ila wenye kustahili makamo ya kuombewa. Mpaka itapo ondoka khofu katika nyoyo zao kwa kutolewa ruhusa ya kuombewa, hapo watakuwa wakiambiana kwa furaha: Mola wenu Mlezi kakwambieni nini? Na wengine watajibu kwamba alilo sema ni kauli ya haki, kwa kutoa ruhusa kuombewa aliye mridhi. Na Yeye peke yake, ndiye Mwenye Utukufu na Ukubwa. Na Yeye ndiye anaye ruhusu na kumkatalia amtakaye."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 431,
+  "verse_key": "34:23",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنۡ أَذِنَ لَهُۥۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمۡ قَالُواْ مَاذَا قَالَ رَبُّكُمۡۖ قَالُواْ ٱلۡحَقَّۖ وَهُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
+  "translation": "Wala uombezi mbele yake hautafaa kitu, isipo kuwa kwa aliye mpa idhini. Hata itapo ondolewa khofu kwenye nyoyo zao watasema: Mola wenu Mlezi kasema nini? Watasema: Yaliyo kweli! Na Yeye ndiye Aliye juu, Mkubwa.",
+  "footnotes": "Wala maombezi kwa Mwenyezi Mungu hayawafai ila wenye kustahili makamo ya kuombewa. Mpaka itapo ondoka khofu katika nyoyo zao kwa kutolewa ruhusa ya kuombewa, hapo watakuwa wakiambiana kwa furaha: Mola wenu Mlezi kakwambieni nini? Na wengine watajibu kwamba alilo sema ni kauli ya haki, kwa kutoa ruhusa kuombewa aliye mridhi. Na Yeye peke yake, ndiye Mwenye Utukufu na Ukubwa. Na Yeye ndiye anaye ruhusu na kumkatalia amtakaye."
 }

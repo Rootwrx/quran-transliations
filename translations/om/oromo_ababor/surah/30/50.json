@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3459",
-    "sura": "30",
-    "aya": "50",
-    "arabic_text": "فَٱنظُرۡ إِلَىٰٓ ءَاثَٰرِ رَحۡمَتِ ٱللَّهِ كَيۡفَ يُحۡيِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَآۚ إِنَّ ذَٰلِكَ لَمُحۡيِ ٱلۡمَوۡتَىٰۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Gara faana rahmata Rabbii ilaali, akkamitti akka (inni) dachii erga isheen duutee booda jiraachisu. Dhugumatti [Rabbiin] Sun du’aawwan ni jiraachisa. Inni waan hunda irratti danda’aadha.",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 409,
+  "verse_key": "30:50",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱنظُرۡ إِلَىٰٓ ءَاثَٰرِ رَحۡمَتِ ٱللَّهِ كَيۡفَ يُحۡيِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَآۚ إِنَّ ذَٰلِكَ لَمُحۡيِ ٱلۡمَوۡتَىٰۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Gara faana rahmata Rabbii ilaali, akkamitti akka (inni) dachii erga isheen duutee booda jiraachisu. Dhugumatti [Rabbiin] Sun du’aawwan ni jiraachisa. Inni waan hunda irratti danda’aadha.",
+  "footnotes": ""
 }

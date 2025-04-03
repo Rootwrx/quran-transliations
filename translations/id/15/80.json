@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1882",
-    "sura": "15",
-    "aya": "80",
-    "arabic_text": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ",
-    "translation": "Dan sesungguhnya penduduk negeri Hijr442) benar-benar telah mendustakan para rasul (mereka),443)",
-    "footnotes": "*442) Penduduk kota Hijr ialah kaum Samud. Hijr itu tempat yang terletak di Wadi Qura antara Madinah dan Suriah. 443) Yang dimaksud rasul-rasul di sini ialah Saleh. Mestinya di sini disebut rasul, tetapi disebut rasul-rasul (jamak) karena mendustakan seorang rasul sama dengan mendustakan semua rasul."
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 266,
+  "verse_key": "15:80",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ",
+  "translation": "Dan sesungguhnya penduduk negeri Hijr442) benar-benar telah mendustakan para rasul (mereka),443)",
+  "footnotes": "*442) Penduduk kota Hijr ialah kaum Samud. Hijr itu tempat yang terletak di Wadi Qura antara Madinah dan Suriah. 443) Yang dimaksud rasul-rasul di sini ialah Saleh. Mestinya di sini disebut rasul, tetapi disebut rasul-rasul (jamak) karena mendustakan seorang rasul sama dengan mendustakan semua rasul."
 }

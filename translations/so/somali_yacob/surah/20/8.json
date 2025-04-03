@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2356",
-    "sura": "20",
-    "aya": "8",
-    "arabic_text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ لَهُ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰ",
-    "translation": "8. Allaah! Ma jiro ilaah (xaq ah) aan Isaga aheyn, Wuxuu leeyahay Magacyada Wanaagga iyo Quruxda Badan.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 312,
+  "verse_key": "20:8",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ لَهُ ٱلۡأَسۡمَآءُ ٱلۡحُسۡنَىٰ",
+  "translation": "8. Allaah! Ma jiro ilaah (xaq ah) aan Isaga aheyn, Wuxuu leeyahay Magacyada Wanaagga iyo Quruxda Badan.",
+  "footnotes": ""
 }

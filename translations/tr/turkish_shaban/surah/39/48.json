@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4106",
-    "sura": "39",
-    "aya": "48",
-    "arabic_text": "وَبَدَا لَهُمۡ سَيِّـَٔاتُ مَا كَسَبُواْ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
-    "translation": "Onların kazandıkları kötülükler ortaya çıkmış ve alay ettikleri şey çepeçevre kuşatmıştır. ",
-    "footnotes": null
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 464,
+  "verse_key": "39:48",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبَدَا لَهُمۡ سَيِّـَٔاتُ مَا كَسَبُواْ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+  "translation": "Onların kazandıkları kötülükler ortaya çıkmış ve alay ettikleri şey çepeçevre kuşatmıştır. ",
+  "footnotes": null
 }

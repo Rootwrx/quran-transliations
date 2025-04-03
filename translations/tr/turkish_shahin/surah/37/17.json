@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3805",
-    "sura": "37",
-    "aya": "17",
-    "arabic_text": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
-    "translation": "«İlk atalarımız da mı (diriltilecek)?»",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 446,
+  "verse_key": "37:17",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَءَابَآؤُنَا ٱلۡأَوَّلُونَ",
+  "translation": "«İlk atalarımız da mı (diriltilecek)?»",
+  "footnotes": ""
 }

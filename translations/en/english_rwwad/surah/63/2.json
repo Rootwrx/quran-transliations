@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5190",
-    "sura": "63",
-    "aya": "2",
-    "arabic_text": "ٱتَّخَذُوٓاْ أَيۡمَٰنَهُمۡ جُنَّةٗ فَصَدُّواْ عَن سَبِيلِ ٱللَّهِۚ إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "They have taken their oaths as a shield in order to hinder people from the way of Allah. Evil indeed is what they do!",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 554,
+  "verse_key": "63:2",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 221,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱتَّخَذُوٓاْ أَيۡمَٰنَهُمۡ جُنَّةٗ فَصَدُّواْ عَن سَبِيلِ ٱللَّهِۚ إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "They have taken their oaths as a shield in order to hinder people from the way of Allah. Evil indeed is what they do!",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4895",
-    "sura": "54",
-    "aya": "49",
-    "arabic_text": "إِنَّا كُلَّ شَيۡءٍ خَلَقۡنَٰهُ بِقَدَرٖ",
-    "translation": "49. Ние навистина сè со мерка создаваме,",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 530,
+  "verse_key": "54:49",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا كُلَّ شَيۡءٍ خَلَقۡنَٰهُ بِقَدَرٖ",
+  "translation": "49. Ние навистина сè со мерка создаваме,",
+  "footnotes": ""
 }

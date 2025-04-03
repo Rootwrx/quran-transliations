@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2442",
-    "sura": "20",
-    "aya": "94",
-    "arabic_text": "قَالَ يَبۡنَؤُمَّ لَا تَأۡخُذۡ بِلِحۡيَتِي وَلَا بِرَأۡسِيٓۖ إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقۡتَ بَيۡنَ بَنِيٓ إِسۡرَٰٓءِيلَ وَلَمۡ تَرۡقُبۡ قَوۡلِي",
-    "translation": "(Harun) đáp: “Hỡi em trai của Ta! Em chớ nắm râu và đầu của Ta! Quả thật, Ta đã sợ việc em sẽ nói ‘Ta đã gây chia rẽ giữa con cháu của Israel và đã không thi hành lời dặn của em’.”",
-    "footnotes": ""
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 318,
+  "verse_key": "20:94",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ يَبۡنَؤُمَّ لَا تَأۡخُذۡ بِلِحۡيَتِي وَلَا بِرَأۡسِيٓۖ إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقۡتَ بَيۡنَ بَنِيٓ إِسۡرَٰٓءِيلَ وَلَمۡ تَرۡقُبۡ قَوۡلِي",
+  "translation": "(Harun) đáp: “Hỡi em trai của Ta! Em chớ nắm râu và đầu của Ta! Quả thật, Ta đã sợ việc em sẽ nói ‘Ta đã gây chia rẽ giữa con cháu của Israel và đã không thi hành lời dặn của em’.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2363",
-    "sura": "20",
-    "aya": "15",
-    "arabic_text": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخۡفِيهَا لِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا تَسۡعَىٰ",
-    "translation": "15. Ya soló, ntango ya suka ekoya, na bombi yango mpo ete molimo na molimo afutama na mpiko naye.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 313,
+  "verse_key": "20:15",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخۡفِيهَا لِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا تَسۡعَىٰ",
+  "translation": "15. Ya soló, ntango ya suka ekoya, na bombi yango mpo ete molimo na molimo afutama na mpiko naye.",
+  "footnotes": ""
 }

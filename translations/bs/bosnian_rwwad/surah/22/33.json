@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2628",
-    "sura": "22",
-    "aya": "33",
-    "arabic_text": "لَكُمۡ فِيهَا مَنَٰفِعُ إِلَىٰٓ أَجَلٖ مُّسَمّٗى ثُمَّ مَحِلُّهَآ إِلَى ٱلۡبَيۡتِ ٱلۡعَتِيقِ",
-    "translation": "Vama one služe do određenog roka, a poslije, njihovo mjesto je kraj Drevnog hrama.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 336,
+  "verse_key": "22:33",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَكُمۡ فِيهَا مَنَٰفِعُ إِلَىٰٓ أَجَلٖ مُّسَمّٗى ثُمَّ مَحِلُّهَآ إِلَى ٱلۡبَيۡتِ ٱلۡعَتِيقِ",
+  "translation": "Vama one služe do određenog roka, a poslije, njihovo mjesto je kraj Drevnog hrama.",
+  "footnotes": ""
 }

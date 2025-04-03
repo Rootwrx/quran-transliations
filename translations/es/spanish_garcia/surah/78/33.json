@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5705",
-    "sura": "78",
-    "aya": "33",
-    "arabic_text": "وَكَوَاعِبَ أَتۡرَابٗا",
-    "translation": "33. compañeras de eterna juventud,",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 583,
+  "verse_key": "78:33",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَوَاعِبَ أَتۡرَابٗا",
+  "translation": "33. compañeras de eterna juventud,",
+  "footnotes": ""
 }

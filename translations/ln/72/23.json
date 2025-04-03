@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5470",
-    "sura": "72",
-    "aya": "23",
-    "arabic_text": "إِلَّا بَلَٰغٗا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦۚ وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا",
-    "translation": "23. (Nazali se) momemi sango mpe kokomisa liloba ya Allah. Mpe oyo akozanga kotosa Allah na motindami naye, ya solo akozala na moto ya lifelo libela na libela.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 573,
+  "verse_key": "72:23",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا بَلَٰغٗا مِّنَ ٱللَّهِ وَرِسَٰلَٰتِهِۦۚ وَمَن يَعۡصِ ٱللَّهَ وَرَسُولَهُۥ فَإِنَّ لَهُۥ نَارَ جَهَنَّمَ خَٰلِدِينَ فِيهَآ أَبَدًا",
+  "translation": "23. (Nazali se) momemi sango mpe kokomisa liloba ya Allah. Mpe oyo akozanga kotosa Allah na motindami naye, ya solo akozala na moto ya lifelo libela na libela.",
+  "footnotes": ""
 }

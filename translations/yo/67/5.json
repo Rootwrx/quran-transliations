@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5246",
-    "sura": "67",
-    "aya": "5",
-    "arabic_text": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ",
-    "translation": "Dájúdájú A ti fi (àwọn ìràwọ̀ tó ń tànmọ́lẹ̀ bí) àtùpà ṣe sánmọ̀ ilé ayé ní ọ̀ṣọ́. A tún ṣe wọ́n ni ẹ̀ta-ìràwọ̀ tí wọ́n ń jù mọ́ àwọn aṣ-Ṣaetọ̄n. A sì pèsè ìyà Iná tó ń jó sílẹ̀ dè wọ́n.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 562,
+  "verse_key": "67:5",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ زَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَجَعَلۡنَٰهَا رُجُومٗا لِّلشَّيَٰطِينِۖ وَأَعۡتَدۡنَا لَهُمۡ عَذَابَ ٱلسَّعِيرِ",
+  "translation": "Dájúdájú A ti fi (àwọn ìràwọ̀ tó ń tànmọ́lẹ̀ bí) àtùpà ṣe sánmọ̀ ilé ayé ní ọ̀ṣọ́. A tún ṣe wọ́n ni ẹ̀ta-ìràwọ̀ tí wọ́n ń jù mọ́ àwọn aṣ-Ṣaetọ̄n. A sì pèsè ìyà Iná tó ń jó sílẹ̀ dè wọ́n.",
+  "footnotes": ""
 }

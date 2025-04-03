@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1893",
-    "sura": "15",
-    "aya": "91",
-    "arabic_text": "ٱلَّذِينَ جَعَلُواْ ٱلۡقُرۡءَانَ عِضِينَ",
-    "translation": "جنہوں نے اس کتاب الٰہی کے ٹکڑے ٹکڑے کر دیئے.",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 267,
+  "verse_key": "15:91",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ جَعَلُواْ ٱلۡقُرۡءَانَ عِضِينَ",
+  "translation": "جنہوں نے اس کتاب الٰہی کے ٹکڑے ٹکڑے کر دیئے.",
+  "footnotes": ""
 }

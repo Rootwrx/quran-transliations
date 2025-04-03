@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "146",
-    "sura": "2",
-    "aya": "139",
-    "arabic_text": "قُلۡ أَتُحَآجُّونَنَا فِي ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمۡ وَلَنَآ أَعۡمَٰلُنَا وَلَكُمۡ أَعۡمَٰلُكُمۡ وَنَحۡنُ لَهُۥ مُخۡلِصُونَ",
-    "translation": "Sema: Mnahojiana nasi juu ya Mwenyezi Mungu, naye ni Mola wetu Mlezi na Mola wenu Mlezi, na sisi tuna vitendo vyetu na nyinyi mna vitendo vyenu? Nasi tunamsafia Yeye tu.",
-    "footnotes": "Waambieni: Mnajadiliana nasi katika mambo ya Mwenyezi Mungu mkidai kuwa Yeye hakuteuwa Manabii ila kutokana nanyi tu? Na Mwenyezi Mungu ni Mola Mlezi wenu na Mola Mlezi wa kila kitu; hawapendelei kaumu fulani akawatupa wengine. Rehema yake humfikia amtakaye, na huwalipa watu wote kwa vitendo vyao, bila ya kuangalia nasaba yao na ukoo wao. Na Yeye ametuongoa kwenye Njia Iliyo Nyooka katika vitendo vyetu. Na ameturuzuku tumsafie niya na vitendo Yeye."
-  }
+  "id": 139,
+  "verse_number": 139,
+  "page_number": 21,
+  "verse_key": "2:139",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَتُحَآجُّونَنَا فِي ٱللَّهِ وَهُوَ رَبُّنَا وَرَبُّكُمۡ وَلَنَآ أَعۡمَٰلُنَا وَلَكُمۡ أَعۡمَٰلُكُمۡ وَنَحۡنُ لَهُۥ مُخۡلِصُونَ",
+  "translation": "Sema: Mnahojiana nasi juu ya Mwenyezi Mungu, naye ni Mola wetu Mlezi na Mola wenu Mlezi, na sisi tuna vitendo vyetu na nyinyi mna vitendo vyenu? Nasi tunamsafia Yeye tu.",
+  "footnotes": "Waambieni: Mnajadiliana nasi katika mambo ya Mwenyezi Mungu mkidai kuwa Yeye hakuteuwa Manabii ila kutokana nanyi tu? Na Mwenyezi Mungu ni Mola Mlezi wenu na Mola Mlezi wa kila kitu; hawapendelei kaumu fulani akawatupa wengine. Rehema yake humfikia amtakaye, na huwalipa watu wote kwa vitendo vyao, bila ya kuangalia nasaba yao na ukoo wao. Na Yeye ametuongoa kwenye Njia Iliyo Nyooka katika vitendo vyetu. Na ameturuzuku tumsafie niya na vitendo Yeye."
 }

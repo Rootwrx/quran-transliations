@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3976",
-    "sura": "38",
-    "aya": "6",
-    "arabic_text": "وَٱنطَلَقَ ٱلۡمَلَأُ مِنۡهُمۡ أَنِ ٱمۡشُواْ وَٱصۡبِرُواْ عَلَىٰٓ ءَالِهَتِكُمۡۖ إِنَّ هَٰذَا لَشَيۡءٞ يُرَادُ",
-    "translation": "E os dignitários, entre eles, foram adiante, dizendo uns aos outros: \"Andai e pacientai quanto a vossos deuses. Por certo, isso é cousa desejada.\"",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 453,
+  "verse_key": "38:6",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱنطَلَقَ ٱلۡمَلَأُ مِنۡهُمۡ أَنِ ٱمۡشُواْ وَٱصۡبِرُواْ عَلَىٰٓ ءَالِهَتِكُمۡۖ إِنَّ هَٰذَا لَشَيۡءٞ يُرَادُ",
+  "translation": "E os dignitários, entre eles, foram adiante, dizendo uns aos outros: \"Andai e pacientai quanto a vossos deuses. Por certo, isso é cousa desejada.\"",
+  "footnotes": ""
 }

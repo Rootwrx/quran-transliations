@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5225",
-    "sura": "65",
-    "aya": "8",
-    "arabic_text": "وَكَأَيِّن مِّن قَرۡيَةٍ عَتَتۡ عَنۡ أَمۡرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبۡنَٰهَا حِسَابٗا شَدِيدٗا وَعَذَّبۡنَٰهَا عَذَابٗا نُّكۡرٗا",
-    "translation": "Na miji mingapi iliyo vunja amri ya Mola wake Mlezi na Mitume wake, basi tuliihisabia hisabu ngumu na tukaiadhibu kwa adhabu kali.",
-    "footnotes": "Na miji mingi ambayo watu wake wamefanya ujabari na wakapuuza amri ya Mola wao Mlezi na Mitume wake, tukaihisabia kwa hisabu kali kwa kuchungua kila walilo litenda na kujadiliana nao, na tukawaadhibu adhabu ya kuchusha iliyo mbaya, wakagugumia malipo maovu ya mambo yao. Na ukawa mwisho wa mambo yao ni kukhasiri kukubwa mno."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 559,
+  "verse_key": "65:8",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 223,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَأَيِّن مِّن قَرۡيَةٍ عَتَتۡ عَنۡ أَمۡرِ رَبِّهَا وَرُسُلِهِۦ فَحَاسَبۡنَٰهَا حِسَابٗا شَدِيدٗا وَعَذَّبۡنَٰهَا عَذَابٗا نُّكۡرٗا",
+  "translation": "Na miji mingapi iliyo vunja amri ya Mola wake Mlezi na Mitume wake, basi tuliihisabia hisabu ngumu na tukaiadhibu kwa adhabu kali.",
+  "footnotes": "Na miji mingi ambayo watu wake wamefanya ujabari na wakapuuza amri ya Mola wao Mlezi na Mitume wake, tukaihisabia kwa hisabu kali kwa kuchungua kila walilo litenda na kujadiliana nao, na tukawaadhibu adhabu ya kuchusha iliyo mbaya, wakagugumia malipo maovu ya mambo yao. Na ukawa mwisho wa mambo yao ni kukhasiri kukubwa mno."
 }

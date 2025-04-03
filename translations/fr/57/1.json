@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5076",
-    "sura": "57",
-    "aya": "1",
-    "arabic_text": "سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "Tout ce qui est dans les cieux et la terre glorifie Allah. Et c’est Lui le Puissant, le Sage.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 537,
+  "verse_key": "57:1",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَبَّحَ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "Tout ce qui est dans les cieux et la terre glorifie Allah. Et c’est Lui le Puissant, le Sage.",
+  "footnotes": ""
 }

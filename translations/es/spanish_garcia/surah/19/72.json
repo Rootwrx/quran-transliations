@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2322",
-    "sura": "19",
-    "aya": "72",
-    "arabic_text": "ثُمَّ نُنَجِّي ٱلَّذِينَ ٱتَّقَواْ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيّٗا",
-    "translation": "72. Luego, salvaré a los piadosos y dejaré en él a los que cometieron la injusticia [de la idolatría] de rodillas.",
-    "footnotes": ""
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 310,
+  "verse_key": "19:72",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ نُنَجِّي ٱلَّذِينَ ٱتَّقَواْ وَّنَذَرُ ٱلظَّٰلِمِينَ فِيهَا جِثِيّٗا",
+  "translation": "72. Luego, salvaré a los piadosos y dejaré en él a los que cometieron la injusticia [de la idolatría] de rodillas.",
+  "footnotes": ""
 }

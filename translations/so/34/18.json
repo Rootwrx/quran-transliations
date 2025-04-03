@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3624",
-    "sura": "34",
-    "aya": "18",
-    "arabic_text": "وَجَعَلۡنَا بَيۡنَهُمۡ وَبَيۡنَ ٱلۡقُرَى ٱلَّتِي بَٰرَكۡنَا فِيهَا قُرٗى ظَٰهِرَةٗ وَقَدَّرۡنَا فِيهَا ٱلسَّيۡرَۖ سِيرُواْ فِيهَا لَيَالِيَ وَأَيَّامًا ءَامِنِينَ",
-    "translation": "18. Waxaana yeellay dhexdooda Iyaga iyo magaalooyinkii aan barakaynnay magaalooyin (kale) ee muuqda9, waxaana qaddarnay socodkooda halkaa10: (Annagoo ku nidhi): Ku socdaala habeenno iyo maalmaba idinkoo nabad ah\".",
-    "footnotes": "9. Dhulka Shaam ee barakada badan, iyo dhulalka ku hareersan waxaa loola jeedaa Yaman iyo Shaam (Suuriya, Lubnaan, Urdun, Falastiin), waxay dadku ku socdaalayeen si nabad ah maalin iyo habeenba dhib iyo shiddo la’aan iyagoon cidna joojineyn.\n 10. Waxaan u yeelnay degaannada xiga masaafooyin la yaqaan si loogu sahlo musaafiriinta."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 430,
+  "verse_key": "34:18",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلۡنَا بَيۡنَهُمۡ وَبَيۡنَ ٱلۡقُرَى ٱلَّتِي بَٰرَكۡنَا فِيهَا قُرٗى ظَٰهِرَةٗ وَقَدَّرۡنَا فِيهَا ٱلسَّيۡرَۖ سِيرُواْ فِيهَا لَيَالِيَ وَأَيَّامًا ءَامِنِينَ",
+  "translation": "18. Waxaana yeellay dhexdooda Iyaga iyo magaalooyinkii aan barakaynnay magaalooyin (kale) ee muuqda9, waxaana qaddarnay socodkooda halkaa10: (Annagoo ku nidhi): Ku socdaala habeenno iyo maalmaba idinkoo nabad ah\".",
+  "footnotes": "9. Dhulka Shaam ee barakada badan, iyo dhulalka ku hareersan waxaa loola jeedaa Yaman iyo Shaam (Suuriya, Lubnaan, Urdun, Falastiin), waxay dadku ku socdaalayeen si nabad ah maalin iyo habeenba dhib iyo shiddo la’aan iyagoon cidna joojineyn.\n 10. Waxaan u yeelnay degaannada xiga masaafooyin la yaqaan si loogu sahlo musaafiriinta."
 }

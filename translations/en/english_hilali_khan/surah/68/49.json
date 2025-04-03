@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5320",
-    "sura": "68",
-    "aya": "49",
-    "arabic_text": "لَّوۡلَآ أَن تَدَٰرَكَهُۥ نِعۡمَةٞ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَآءِ وَهُوَ مَذۡمُومٞ",
-    "translation": " 49. Had not a Grace from his Lord reached him, he would indeed have been (left in the stomach of the fish, but We forgave him): so he was cast off on the naked shore, while he was to be blamed.",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 566,
+  "verse_key": "68:49",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّوۡلَآ أَن تَدَٰرَكَهُۥ نِعۡمَةٞ مِّن رَّبِّهِۦ لَنُبِذَ بِٱلۡعَرَآءِ وَهُوَ مَذۡمُومٞ",
+  "translation": " 49. Had not a Grace from his Lord reached him, he would indeed have been (left in the stomach of the fish, but We forgave him): so he was cast off on the naked shore, while he was to be blamed.",
+  "footnotes": ""
 }

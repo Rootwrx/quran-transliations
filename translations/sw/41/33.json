@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4251",
-    "sura": "41",
-    "aya": "33",
-    "arabic_text": "وَمَنۡ أَحۡسَنُ قَوۡلٗا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَٰلِحٗا وَقَالَ إِنَّنِي مِنَ ٱلۡمُسۡلِمِينَ",
-    "translation": "Na ni nani mbora wa kusema kuliko aitaye kwa Mwenyezi Mungu na akatenda mema, na akasema: Hakika mimi ni katika Waislamu?",
-    "footnotes": "Hapana mwenye kauli nzuri zaidi kuliko mwenye kulingania Tawhid ya Mwenyezi Mungu na ut'iifu wake, na pamoja na hayo, akatenda vitendo vyema, na akasema kwa kuungama itikadi yake: Hakika mimi ni miongoni mwa Waislamu, yaani wenye kunyenyekea amri za Mwenyezi Mungu."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 480,
+  "verse_key": "41:33",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَنۡ أَحۡسَنُ قَوۡلٗا مِّمَّن دَعَآ إِلَى ٱللَّهِ وَعَمِلَ صَٰلِحٗا وَقَالَ إِنَّنِي مِنَ ٱلۡمُسۡلِمِينَ",
+  "translation": "Na ni nani mbora wa kusema kuliko aitaye kwa Mwenyezi Mungu na akatenda mema, na akasema: Hakika mimi ni katika Waislamu?",
+  "footnotes": "Hapana mwenye kauli nzuri zaidi kuliko mwenye kulingania Tawhid ya Mwenyezi Mungu na ut'iifu wake, na pamoja na hayo, akatenda vitendo vyema, na akasema kwa kuungama itikadi yake: Hakika mimi ni miongoni mwa Waislamu, yaani wenye kunyenyekea amri za Mwenyezi Mungu."
 }

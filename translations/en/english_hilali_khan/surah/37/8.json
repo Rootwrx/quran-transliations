@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3796",
-    "sura": "37",
-    "aya": "8",
-    "arabic_text": "لَّا يَسَّمَّعُونَ إِلَى ٱلۡمَلَإِ ٱلۡأَعۡلَىٰ وَيُقۡذَفُونَ مِن كُلِّ جَانِبٖ",
-    "translation": " 8. They cannot listen to the higher group (angels) for they are pelted from every side.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 446,
+  "verse_key": "37:8",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَسَّمَّعُونَ إِلَى ٱلۡمَلَإِ ٱلۡأَعۡلَىٰ وَيُقۡذَفُونَ مِن كُلِّ جَانِبٖ",
+  "translation": " 8. They cannot listen to the higher group (angels) for they are pelted from every side.",
+  "footnotes": ""
 }

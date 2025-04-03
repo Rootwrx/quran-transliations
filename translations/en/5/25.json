@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "694",
-    "sura": "5",
-    "aya": "25",
-    "arabic_text": "قَالَ رَبِّ إِنِّي لَآ أَمۡلِكُ إِلَّا نَفۡسِي وَأَخِيۖ فَٱفۡرُقۡ بَيۡنَنَا وَبَيۡنَ ٱلۡقَوۡمِ ٱلۡفَٰسِقِينَ",
-    "translation": "(25) [Moses] said, \"My Lord, indeed I do not possess [i.e., control] except myself and my brother, so part us[255] from the defiantly disobedient people.\"",
-    "footnotes": "[255]- Or \"distinguish us\" or \"judge between us.\""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 112,
+  "verse_key": "5:25",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 44,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّ إِنِّي لَآ أَمۡلِكُ إِلَّا نَفۡسِي وَأَخِيۖ فَٱفۡرُقۡ بَيۡنَنَا وَبَيۡنَ ٱلۡقَوۡمِ ٱلۡفَٰسِقِينَ",
+  "translation": "(25) [Moses] said, \"My Lord, indeed I do not possess [i.e., control] except myself and my brother, so part us[255] from the defiantly disobedient people.\"",
+  "footnotes": "[255]- Or \"distinguish us\" or \"judge between us.\""
 }

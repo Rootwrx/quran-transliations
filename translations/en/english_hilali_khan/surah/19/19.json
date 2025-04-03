@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2269",
-    "sura": "19",
-    "aya": "19",
-    "arabic_text": "قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمٗا زَكِيّٗا",
-    "translation": " 19. (The angel) said: \"I am only a messenger from your Lord, (to announce) to you the gift of a righteous son.\"",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 306,
+  "verse_key": "19:19",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمٗا زَكِيّٗا",
+  "translation": " 19. (The angel) said: \"I am only a messenger from your Lord, (to announce) to you the gift of a righteous son.\"",
+  "footnotes": ""
 }

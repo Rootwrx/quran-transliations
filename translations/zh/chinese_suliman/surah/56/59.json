@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5038",
-    "sura": "56",
-    "aya": "59",
-    "arabic_text": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
-    "translation": "究竟是你们把它造成〔人〕呢？还是我是创造者？",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 536,
+  "verse_key": "56:59",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ءَأَنتُمۡ تَخۡلُقُونَهُۥٓ أَمۡ نَحۡنُ ٱلۡخَٰلِقُونَ",
+  "translation": "究竟是你们把它造成〔人〕呢？还是我是创造者？",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "222",
-    "sura": "2",
-    "aya": "215",
-    "arabic_text": "يَسۡـَٔلُونَكَ مَاذَا يُنفِقُونَۖ قُلۡ مَآ أَنفَقۡتُم مِّنۡ خَيۡرٖ فَلِلۡوَٰلِدَيۡنِ وَٱلۡأَقۡرَبِينَ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِۗ وَمَا تَفۡعَلُواْ مِنۡ خَيۡرٖ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٞ",
-    "translation": "Suna tambayar ka mẽne nezã su ciyar. Ka ce: Abin da kuka ciyar daga alhẽri sai ga mahaifa* da mafi kusantar dangantaka da marãyu da matalauta da ɗan hanya. Kuma abin da kuka aikata daga alhẽri, to, lalle ne, Allah gare shi Masani ne.",
-    "footnotes": "* Ciyar da mahaifa matalauta wãjibi ne haka ɗiya da 'ya'ya ƙanãna waɗanda bãsu da dũkiya har yãro ya balaga a kuma aurar da yãrinya ta tãre a gidan mijinta. Amma mãtar aure da bãwan mutum ciyar da su wãjibi ne kõ dã sunã da dũkiya. Liyãfa ga bãƙo har kwãna uku gwargwadon bukãta wãjibi ne, sauran ciyarwa mustahabbi ce bãyan an fitar da zakka idan tã wajaba."
-  }
+  "id": 215,
+  "verse_number": 215,
+  "page_number": 33,
+  "verse_key": "2:215",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَسۡـَٔلُونَكَ مَاذَا يُنفِقُونَۖ قُلۡ مَآ أَنفَقۡتُم مِّنۡ خَيۡرٖ فَلِلۡوَٰلِدَيۡنِ وَٱلۡأَقۡرَبِينَ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِۗ وَمَا تَفۡعَلُواْ مِنۡ خَيۡرٖ فَإِنَّ ٱللَّهَ بِهِۦ عَلِيمٞ",
+  "translation": "Suna tambayar ka mẽne nezã su ciyar. Ka ce: Abin da kuka ciyar daga alhẽri sai ga mahaifa* da mafi kusantar dangantaka da marãyu da matalauta da ɗan hanya. Kuma abin da kuka aikata daga alhẽri, to, lalle ne, Allah gare shi Masani ne.",
+  "footnotes": "* Ciyar da mahaifa matalauta wãjibi ne haka ɗiya da 'ya'ya ƙanãna waɗanda bãsu da dũkiya har yãro ya balaga a kuma aurar da yãrinya ta tãre a gidan mijinta. Amma mãtar aure da bãwan mutum ciyar da su wãjibi ne kõ dã sunã da dũkiya. Liyãfa ga bãƙo har kwãna uku gwargwadon bukãta wãjibi ne, sauran ciyarwa mustahabbi ce bãyan an fitar da zakka idan tã wajaba."
 }

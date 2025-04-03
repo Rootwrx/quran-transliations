@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2347",
-    "sura": "19",
-    "aya": "97",
-    "arabic_text": "فَإِنَّمَا يَسَّرۡنَٰهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ ٱلۡمُتَّقِينَ وَتُنذِرَ بِهِۦ قَوۡمٗا لُّدّٗا",
-    "translation": "Nítorí náà, dájúdájú A fi èdè abínibí rẹ (èdè Lárúbáwá) ṣe (kíké al-Ƙur’ān àti àgbọ́yé rẹ̀) ní ìrọ̀rùn nítorí kí o lè fi ṣe ìró ìdùnnú fún àwọn olùbẹ̀rù (Allāhu) àti nítorí kí o lè fi ṣe ìkìlọ̀ fún ìjọ tó ń ja òdodo níyàn",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 312,
+  "verse_key": "19:97",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنَّمَا يَسَّرۡنَٰهُ بِلِسَانِكَ لِتُبَشِّرَ بِهِ ٱلۡمُتَّقِينَ وَتُنذِرَ بِهِۦ قَوۡمٗا لُّدّٗا",
+  "translation": "Nítorí náà, dájúdájú A fi èdè abínibí rẹ (èdè Lárúbáwá) ṣe (kíké al-Ƙur’ān àti àgbọ́yé rẹ̀) ní ìrọ̀rùn nítorí kí o lè fi ṣe ìró ìdùnnú fún àwọn olùbẹ̀rù (Allāhu) àti nítorí kí o lè fi ṣe ìkìlọ̀ fún ìjọ tó ń ja òdodo níyàn",
+  "footnotes": ""
 }

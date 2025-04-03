@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2879",
-    "sura": "25",
-    "aya": "24",
-    "arabic_text": "أَصۡحَٰبُ ٱلۡجَنَّةِ يَوۡمَئِذٍ خَيۡرٞ مُّسۡتَقَرّٗا وَأَحۡسَنُ مَقِيلٗا",
-    "translation": "Watu wa Peponi siku hiyo watakuwa katika makaazi bora na mahali penye starehe nzuri.",
-    "footnotes": "Watu wa Peponi Siku ya Kiyama ndio watao kuwa na utulivu bora, na mashukio mazuri, na makaazi ya starehe, kwa sababu hii ni Pepo walio andaliwa Waumini, si Moto walio andaliwa makafiri."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 362,
+  "verse_key": "25:24",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَصۡحَٰبُ ٱلۡجَنَّةِ يَوۡمَئِذٍ خَيۡرٞ مُّسۡتَقَرّٗا وَأَحۡسَنُ مَقِيلٗا",
+  "translation": "Watu wa Peponi siku hiyo watakuwa katika makaazi bora na mahali penye starehe nzuri.",
+  "footnotes": "Watu wa Peponi Siku ya Kiyama ndio watao kuwa na utulivu bora, na mashukio mazuri, na makaazi ya starehe, kwa sababu hii ni Pepo walio andaliwa Waumini, si Moto walio andaliwa makafiri."
 }

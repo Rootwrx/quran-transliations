@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5598",
-    "sura": "76",
-    "aya": "7",
-    "arabic_text": "يُوفُونَ بِٱلنَّذۡرِ وَيَخَافُونَ يَوۡمٗا كَانَ شَرُّهُۥ مُسۡتَطِيرٗا",
-    "translation": "7. [Son realmente creyentes] los que cumplen sus promesas y temen el Día del Juicio, cuyo alcance será extensivo.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 579,
+  "verse_key": "76:7",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُوفُونَ بِٱلنَّذۡرِ وَيَخَافُونَ يَوۡمٗا كَانَ شَرُّهُۥ مُسۡتَطِيرٗا",
+  "translation": "7. [Son realmente creyentes] los que cumplen sus promesas y temen el Día del Juicio, cuyo alcance será extensivo.",
+  "footnotes": ""
 }

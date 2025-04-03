@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1504",
-    "sura": "11",
-    "aya": "31",
-    "arabic_text": "وَلَآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ وَلَآ أَقُولُ إِنِّي مَلَكٞ وَلَآ أَقُولُ لِلَّذِينَ تَزۡدَرِيٓ أَعۡيُنُكُمۡ لَن يُؤۡتِيَهُمُ ٱللَّهُ خَيۡرًاۖ ٱللَّهُ أَعۡلَمُ بِمَا فِيٓ أَنفُسِهِمۡ إِنِّيٓ إِذٗا لَّمِنَ ٱلظَّٰلِمِينَ",
-    "translation": "Wala sikwambiini kuwa nina khazina za Mwenyezi Mungu; wala kuwa mimi najua mambo ya ghaibu; wala sisemi: Mimi ni Malaika. Wala siwasemi wale ambao yanawadharau macho yenu kuwa Mwenyezi Mungu hatawapa kheri - Mwenyezi Mungu anajua yaliomo katika nafsi zao - hapo bila ya shaka ninge kuwa miongoni mwa wenye kudhulumu.",
-    "footnotes": "Wala sikwambiini kuwa kwa sababu mimi ni Mtume, basi ninazo khazina za riziki ya Mwenyezi Mungu, nitumie nitakavyo, na kwa hivyo nimfanye anaye nifuata tajiri! Wala sikwambiini kuwa mimi najua mambo ya ghaibu, na kwa hivyo nikupeni khabari yale yaliyo mkhusu Mwenyezi Mungu tu kuyajua, kwa kuwa hapana mja yeyote anaye yajua! Wala mimi sikwambiini kuwa mimi ni Malaika, na kwa hivyo mnirudi kwa kauli yenu: Huyu si chochote ila mwanaadamu tu! Wala siwasemi wale mnao wadharau kwamba Mwenyezi Mungu hatowapa kheri yoyote kwa kutaka kuridhi myatakayo! Kwani Mwenyezi Mungu peke yake ndiye anaye jua ikhlasi iliomo katika nafsi zao!..Mimi nikisema myatakayo nitakuwa katika wenye kujidhulumu na kudhulumu wengineo."
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 225,
+  "verse_key": "11:31",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ وَلَآ أَقُولُ إِنِّي مَلَكٞ وَلَآ أَقُولُ لِلَّذِينَ تَزۡدَرِيٓ أَعۡيُنُكُمۡ لَن يُؤۡتِيَهُمُ ٱللَّهُ خَيۡرًاۖ ٱللَّهُ أَعۡلَمُ بِمَا فِيٓ أَنفُسِهِمۡ إِنِّيٓ إِذٗا لَّمِنَ ٱلظَّٰلِمِينَ",
+  "translation": "Wala sikwambiini kuwa nina khazina za Mwenyezi Mungu; wala kuwa mimi najua mambo ya ghaibu; wala sisemi: Mimi ni Malaika. Wala siwasemi wale ambao yanawadharau macho yenu kuwa Mwenyezi Mungu hatawapa kheri - Mwenyezi Mungu anajua yaliomo katika nafsi zao - hapo bila ya shaka ninge kuwa miongoni mwa wenye kudhulumu.",
+  "footnotes": "Wala sikwambiini kuwa kwa sababu mimi ni Mtume, basi ninazo khazina za riziki ya Mwenyezi Mungu, nitumie nitakavyo, na kwa hivyo nimfanye anaye nifuata tajiri! Wala sikwambiini kuwa mimi najua mambo ya ghaibu, na kwa hivyo nikupeni khabari yale yaliyo mkhusu Mwenyezi Mungu tu kuyajua, kwa kuwa hapana mja yeyote anaye yajua! Wala mimi sikwambiini kuwa mimi ni Malaika, na kwa hivyo mnirudi kwa kauli yenu: Huyu si chochote ila mwanaadamu tu! Wala siwasemi wale mnao wadharau kwamba Mwenyezi Mungu hatowapa kheri yoyote kwa kutaka kuridhi myatakayo! Kwani Mwenyezi Mungu peke yake ndiye anaye jua ikhlasi iliomo katika nafsi zao!..Mimi nikisema myatakayo nitakuwa katika wenye kujidhulumu na kudhulumu wengineo."
 }

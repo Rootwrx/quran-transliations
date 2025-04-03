@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4736",
-    "sura": "52",
-    "aya": "1",
-    "arabic_text": "وَٱلطُّورِ",
-    "translation": "Inã rantsuwa da ¦ũr (Dũtsen Mũsã).",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 523,
+  "verse_key": "52:1",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلطُّورِ",
+  "translation": "Inã rantsuwa da ¦ũr (Dũtsen Mũsã).",
+  "footnotes": ""
 }

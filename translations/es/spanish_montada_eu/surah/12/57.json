@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1653",
-    "sura": "12",
-    "aya": "57",
-    "arabic_text": "وَلَأَجۡرُ ٱلۡأٓخِرَةِ خَيۡرٞ لِّلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ",
-    "translation": "57. Y la recompensa de la otra vida es mejor para quienes creen y temen a Al-lah.",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 242,
+  "verse_key": "12:57",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَأَجۡرُ ٱلۡأٓخِرَةِ خَيۡرٞ لِّلَّذِينَ ءَامَنُواْ وَكَانُواْ يَتَّقُونَ",
+  "translation": "57. Y la recompensa de la otra vida es mejor para quienes creen y temen a Al-lah.",
+  "footnotes": ""
 }

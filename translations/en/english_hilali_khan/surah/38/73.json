@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4043",
-    "sura": "38",
-    "aya": "73",
-    "arabic_text": "فَسَجَدَ ٱلۡمَلَٰٓئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ",
-    "translation": " 73. So the angels prostrated themselves, all of them:",
-    "footnotes": ""
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 457,
+  "verse_key": "38:73",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَجَدَ ٱلۡمَلَٰٓئِكَةُ كُلُّهُمۡ أَجۡمَعُونَ",
+  "translation": " 73. So the angels prostrated themselves, all of them:",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1541",
-    "sura": "11",
-    "aya": "68",
-    "arabic_text": "كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَآۗ أَلَآ إِنَّ ثَمُودَاْ كَفَرُواْ رَبَّهُمۡۗ أَلَا بُعۡدٗا لِّثَمُودَ",
-    "translation": "68. comme s’ils n’y avaient jamais vécu prospères. Les Thamûd ont mécru en leur Seigneur : Que périssent les Thamûd !",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 229,
+  "verse_key": "11:68",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَآۗ أَلَآ إِنَّ ثَمُودَاْ كَفَرُواْ رَبَّهُمۡۗ أَلَا بُعۡدٗا لِّثَمُودَ",
+  "translation": "68. comme s’ils n’y avaient jamais vécu prospères. Les Thamûd ont mécru en leur Seigneur : Que périssent les Thamûd !",
+  "footnotes": ""
 }

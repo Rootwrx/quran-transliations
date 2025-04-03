@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4459",
-    "sura": "44",
-    "aya": "45",
-    "arabic_text": "كَٱلۡمُهۡلِ يَغۡلِي فِي ٱلۡبُطُونِ",
-    "translation": "像油脚样在他们的腹中沸腾，",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 498,
+  "verse_key": "44:45",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَٱلۡمُهۡلِ يَغۡلِي فِي ٱلۡبُطُونِ",
+  "translation": "像油脚样在他们的腹中沸腾，",
+  "footnotes": ""
 }

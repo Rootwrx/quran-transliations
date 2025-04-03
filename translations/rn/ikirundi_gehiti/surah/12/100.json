@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1696",
-    "sura": "12",
-    "aya": "100",
-    "arabic_text": "وَرَفَعَ أَبَوَيۡهِ عَلَى ٱلۡعَرۡشِ وَخَرُّواْ لَهُۥ سُجَّدٗاۖ وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأۡوِيلُ رُءۡيَٰيَ مِن قَبۡلُ قَدۡ جَعَلَهَا رَبِّي حَقّٗاۖ وَقَدۡ أَحۡسَنَ بِيٓ إِذۡ أَخۡرَجَنِي مِنَ ٱلسِّجۡنِ وَجَآءَ بِكُم مِّنَ ٱلۡبَدۡوِ مِنۢ بَعۡدِ أَن نَّزَغَ ٱلشَّيۡطَٰنُ بَيۡنِي وَبَيۡنَ إِخۡوَتِيٓۚ إِنَّ رَبِّي لَطِيفٞ لِّمَا يَشَآءُۚ إِنَّهُۥ هُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
-    "translation": "Ni ho yahava yakirana iteka abavyeyi biwe mu kubicarika hambavu yiwe ku ntebe y’inganji, baraheza baramuramutsa indamutso y’icubahiro, benawabo bose baramwubamira[7] uko ari icumi n’umwe. Ni ho rero Yusufu yaca abwira se ati: “Da! Iyi rero, ni yo nsiguro y’indoto nigeze kurota nkiri muto, nkayikwiganira, Imana yanje Rurema Allah Yayishize mu ngiro, ni ukuri Yaranangiriye ubuntu igihe Yankura mw’ibohero, Ikanabanzanira ng’aha Ibakuye mu misozi, inyuma y’aho shetani interanije na benewacu. Mu vy’ukuri Imana yanje Rurema Allah, ni Rumenyi-Rudahishwa ku vyo Ishatse, ni na Yo Nyenubumenyikurivyose, Intungane mu vyo Ikora”.",
-    "footnotes": "[7] Ni ukwubama ku bw’icubahiro; mu mabwirizwa y’idini rya Yakubu, ico gihe vyari birekuwe kwubamira umuntu mu kumwubaha. Vyahavuye rero bibuzwa mu mabwirizwa y’idini ry’ubwislamu ku kwanka ko vyoba imvo y’ibangikanyamana. Mu bwislamu rero, kirazira kikaziririzwa kwubamira ikiremwa."
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 247,
+  "verse_key": "12:100",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَرَفَعَ أَبَوَيۡهِ عَلَى ٱلۡعَرۡشِ وَخَرُّواْ لَهُۥ سُجَّدٗاۖ وَقَالَ يَٰٓأَبَتِ هَٰذَا تَأۡوِيلُ رُءۡيَٰيَ مِن قَبۡلُ قَدۡ جَعَلَهَا رَبِّي حَقّٗاۖ وَقَدۡ أَحۡسَنَ بِيٓ إِذۡ أَخۡرَجَنِي مِنَ ٱلسِّجۡنِ وَجَآءَ بِكُم مِّنَ ٱلۡبَدۡوِ مِنۢ بَعۡدِ أَن نَّزَغَ ٱلشَّيۡطَٰنُ بَيۡنِي وَبَيۡنَ إِخۡوَتِيٓۚ إِنَّ رَبِّي لَطِيفٞ لِّمَا يَشَآءُۚ إِنَّهُۥ هُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
+  "translation": "Ni ho yahava yakirana iteka abavyeyi biwe mu kubicarika hambavu yiwe ku ntebe y’inganji, baraheza baramuramutsa indamutso y’icubahiro, benawabo bose baramwubamira[7] uko ari icumi n’umwe. Ni ho rero Yusufu yaca abwira se ati: “Da! Iyi rero, ni yo nsiguro y’indoto nigeze kurota nkiri muto, nkayikwiganira, Imana yanje Rurema Allah Yayishize mu ngiro, ni ukuri Yaranangiriye ubuntu igihe Yankura mw’ibohero, Ikanabanzanira ng’aha Ibakuye mu misozi, inyuma y’aho shetani interanije na benewacu. Mu vy’ukuri Imana yanje Rurema Allah, ni Rumenyi-Rudahishwa ku vyo Ishatse, ni na Yo Nyenubumenyikurivyose, Intungane mu vyo Ikora”.",
+  "footnotes": "[7] Ni ukwubama ku bw’icubahiro; mu mabwirizwa y’idini rya Yakubu, ico gihe vyari birekuwe kwubamira umuntu mu kumwubaha. Vyahavuye rero bibuzwa mu mabwirizwa y’idini ry’ubwislamu ku kwanka ko vyoba imvo y’ibangikanyamana. Mu bwislamu rero, kirazira kikaziririzwa kwubamira ikiremwa."
 }

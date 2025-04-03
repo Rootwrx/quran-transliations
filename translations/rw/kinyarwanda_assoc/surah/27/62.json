@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3221",
-    "sura": "27",
-    "aya": "62",
-    "arabic_text": "أَمَّن يُجِيبُ ٱلۡمُضۡطَرَّ إِذَا دَعَاهُ وَيَكۡشِفُ ٱلسُّوٓءَ وَيَجۡعَلُكُمۡ خُلَفَآءَ ٱلۡأَرۡضِۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
-    "translation": "Ese uwakira ubusabe bw’uri mu makuba igihe amusabye, akanakuraho ikibi ndetse akabagira abasigire ku isi (si We mwiza kurusha ibigirwamana byanyu)? Ese hari indi mana ibangikanye na Allah? Ni gake mwibuka!",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 382,
+  "verse_key": "27:62",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمَّن يُجِيبُ ٱلۡمُضۡطَرَّ إِذَا دَعَاهُ وَيَكۡشِفُ ٱلسُّوٓءَ وَيَجۡعَلُكُمۡ خُلَفَآءَ ٱلۡأَرۡضِۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
+  "translation": "Ese uwakira ubusabe bw’uri mu makuba igihe amusabye, akanakuraho ikibi ndetse akabagira abasigire ku isi (si We mwiza kurusha ibigirwamana byanyu)? Ese hari indi mana ibangikanye na Allah? Ni gake mwibuka!",
+  "footnotes": ""
 }

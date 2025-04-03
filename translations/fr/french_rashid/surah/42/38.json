@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4310",
-    "sura": "42",
-    "aya": "38",
-    "arabic_text": "وَٱلَّذِينَ ٱسۡتَجَابُواْ لِرَبِّهِمۡ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَمۡرُهُمۡ شُورَىٰ بَيۡنَهُمۡ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
-    "translation": "38 ceux qui, ayant répondu à l’appel de leur Seigneur, accomplissent la prière, ne prennent aucune décision importante sans se consulter mutuellement et offrent par charité une partie de ce que Nous leur avons accordé,",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 487,
+  "verse_key": "42:38",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ ٱسۡتَجَابُواْ لِرَبِّهِمۡ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَمۡرُهُمۡ شُورَىٰ بَيۡنَهُمۡ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+  "translation": "38 ceux qui, ayant répondu à l’appel de leur Seigneur, accomplissent la prière, ne prennent aucune décision importante sans se consulter mutuellement et offrent par charité une partie de ce que Nous leur avons accordé,",
+  "footnotes": ""
 }

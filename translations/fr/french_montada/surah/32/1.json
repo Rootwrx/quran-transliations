@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3504",
-    "sura": "32",
-    "aya": "1",
-    "arabic_text": "الٓمٓ",
-    "translation": "1. Alif, Lâm, Mîm.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 415,
+  "verse_key": "32:1",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓ",
+  "translation": "1. Alif, Lâm, Mîm.",
+  "footnotes": ""
 }

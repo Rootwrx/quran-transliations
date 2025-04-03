@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4285",
-    "sura": "42",
-    "aya": "13",
-    "arabic_text": "۞ شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحٗا وَٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ وَمَا وَصَّيۡنَا بِهِۦٓ إِبۡرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓۖ أَنۡ أَقِيمُواْ ٱلدِّينَ وَلَا تَتَفَرَّقُواْ فِيهِۚ كَبُرَ عَلَى ٱلۡمُشۡرِكِينَ مَا تَدۡعُوهُمۡ إِلَيۡهِۚ ٱللَّهُ يَجۡتَبِيٓ إِلَيۡهِ مَن يَشَآءُ وَيَهۡدِيٓ إِلَيۡهِ مَن يُنِيبُ",
-    "translation": "۞A tuka sor dĩinã pʋg n kõ yãmba, rẽ la A sẽn sagl a Nuuh ne bũmb ningã, rẽ me la bũmb ning Tõnd sẽn tʋms fo nengẽ wã, rẽ me la Tõnd sẽn sagl ne a ɭbraahɩɩm,lɑ a Muusa la Iisa wã, tɩ y yãnas ne dĩinã, la y ra bao n na n wels taab a pʋgẽ ye. Paka logem-n-taarã rãmba, bũmb ning yãmb sẽn boond-b n tʋgdẽ wã, Wẽnd tũusda A sẽn rat soab n pẽneg A menga, la A kãndgd ned ning sẽn lebsd a meng A nengẽ.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 484,
+  "verse_key": "42:13",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 194,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ شَرَعَ لَكُم مِّنَ ٱلدِّينِ مَا وَصَّىٰ بِهِۦ نُوحٗا وَٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ وَمَا وَصَّيۡنَا بِهِۦٓ إِبۡرَٰهِيمَ وَمُوسَىٰ وَعِيسَىٰٓۖ أَنۡ أَقِيمُواْ ٱلدِّينَ وَلَا تَتَفَرَّقُواْ فِيهِۚ كَبُرَ عَلَى ٱلۡمُشۡرِكِينَ مَا تَدۡعُوهُمۡ إِلَيۡهِۚ ٱللَّهُ يَجۡتَبِيٓ إِلَيۡهِ مَن يَشَآءُ وَيَهۡدِيٓ إِلَيۡهِ مَن يُنِيبُ",
+  "translation": "۞A tuka sor dĩinã pʋg n kõ yãmba, rẽ la A sẽn sagl a Nuuh ne bũmb ningã, rẽ me la bũmb ning Tõnd sẽn tʋms fo nengẽ wã, rẽ me la Tõnd sẽn sagl ne a ɭbraahɩɩm,lɑ a Muusa la Iisa wã, tɩ y yãnas ne dĩinã, la y ra bao n na n wels taab a pʋgẽ ye. Paka logem-n-taarã rãmba, bũmb ning yãmb sẽn boond-b n tʋgdẽ wã, Wẽnd tũusda A sẽn rat soab n pẽneg A menga, la A kãndgd ned ning sẽn lebsd a meng A nengẽ.",
+  "footnotes": ""
 }

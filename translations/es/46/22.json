@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4532",
-    "sura": "46",
-    "aya": "22",
-    "arabic_text": "قَالُوٓاْ أَجِئۡتَنَا لِتَأۡفِكَنَا عَنۡ ءَالِهَتِنَا فَأۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
-    "translation": "22. Dijeron: “¿Has venido a nosotros para convencernos de que nos alejemos de nuestros dioses? Haz que se desencadene sobre nosotros aquello con que nos amenazas, si es que dices la verdad”.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 505,
+  "verse_key": "46:22",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَجِئۡتَنَا لِتَأۡفِكَنَا عَنۡ ءَالِهَتِنَا فَأۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+  "translation": "22. Dijeron: “¿Has venido a nosotros para convencernos de que nos alejemos de nuestros dioses? Haz que se desencadene sobre nosotros aquello con que nos amenazas, si es que dices la verdad”.",
+  "footnotes": ""
 }

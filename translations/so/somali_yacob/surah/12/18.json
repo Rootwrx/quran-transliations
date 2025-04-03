@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1614",
-    "sura": "12",
-    "aya": "18",
-    "arabic_text": "وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٖ كَذِبٖۚ قَالَ بَلۡ سَوَّلَتۡ لَكُمۡ أَنفُسُكُمۡ أَمۡرٗاۖ فَصَبۡرٞ جَمِيلٞۖ وَٱللَّهُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
-    "translation": "18. Waxayna keeneen shaarkiisii oo leh dhiig been ah4. (Yacquub) wuxuu yidhi: Mayee, nafahiinnaa idiin qirxisay arrin. Samirkaase wanaagsan. Allena waa Kan laga kaalmeysto waxaad tilmaameysaan.",
-    "footnotes": "4. Waxay ku bi’iyeen shaarkii Yuusuf dhiiggii ri’dii ay qasheen, waxayse hilmaameen inay jeexjeexaan shaarka, sidaasoo ay ku shaki geliyeen aabbahood."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 237,
+  "verse_key": "12:18",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَآءُو عَلَىٰ قَمِيصِهِۦ بِدَمٖ كَذِبٖۚ قَالَ بَلۡ سَوَّلَتۡ لَكُمۡ أَنفُسُكُمۡ أَمۡرٗاۖ فَصَبۡرٞ جَمِيلٞۖ وَٱللَّهُ ٱلۡمُسۡتَعَانُ عَلَىٰ مَا تَصِفُونَ",
+  "translation": "18. Waxayna keeneen shaarkiisii oo leh dhiig been ah4. (Yacquub) wuxuu yidhi: Mayee, nafahiinnaa idiin qirxisay arrin. Samirkaase wanaagsan. Allena waa Kan laga kaalmeysto waxaad tilmaameysaan.",
+  "footnotes": "4. Waxay ku bi’iyeen shaarkii Yuusuf dhiiggii ri’dii ay qasheen, waxayse hilmaameen inay jeexjeexaan shaarka, sidaasoo ay ku shaki geliyeen aabbahood."
 }

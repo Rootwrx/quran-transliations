@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1688",
-    "sura": "12",
-    "aya": "92",
-    "arabic_text": "قَالَ لَا تَثۡرِيبَ عَلَيۡكُمُ ٱلۡيَوۡمَۖ يَغۡفِرُ ٱللَّهُ لَكُمۡۖ وَهُوَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
-    "translation": "Ó sọ pé: “Kò sí ìbáwí fún yín ní òní. Allāhu yóò foríjìn yín. Òun sì ni Aláàánú-jùlọ nínú àwọn aláàánú.",
-    "footnotes": ""
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 246,
+  "verse_key": "12:92",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَا تَثۡرِيبَ عَلَيۡكُمُ ٱلۡيَوۡمَۖ يَغۡفِرُ ٱللَّهُ لَكُمۡۖ وَهُوَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
+  "translation": "Ó sọ pé: “Kò sí ìbáwí fún yín ní òní. Allāhu yóò foríjìn yín. Òun sì ni Aláàánú-jùlọ nínú àwọn aláàánú.",
+  "footnotes": ""
 }

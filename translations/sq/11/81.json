@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1554",
-    "sura": "11",
-    "aya": "81",
-    "arabic_text": "قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ بِقَرِيبٖ",
-    "translation": "Thanë (mysafirët): “O Lut! Ne jemi të dërguarit e Zotit tënd. Ata nuk mund të të bëjnë ty asgjë e pra, nisu ti me familjen tënde në orët e vona të natës dhe askush prej jush të mos këqyrë prapa, përveç gruas sate. Atë do ta godasë ajo që do t’i gjejë edhe ata. Afati i tyre është agimi i ditës. Vallë, a nuk është afër agimi i ditës?!”",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 230,
+  "verse_key": "11:81",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ بِقَرِيبٖ",
+  "translation": "Thanë (mysafirët): “O Lut! Ne jemi të dërguarit e Zotit tënd. Ata nuk mund të të bëjnë ty asgjë e pra, nisu ti me familjen tënde në orët e vona të natës dhe askush prej jush të mos këqyrë prapa, përveç gruas sate. Atë do ta godasë ajo që do t’i gjejë edhe ata. Afati i tyre është agimi i ditës. Vallë, a nuk është afër agimi i ditës?!”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4567",
-    "sura": "47",
-    "aya": "22",
-    "arabic_text": "فَهَلۡ عَسَيۡتُمۡ إِن تَوَلَّيۡتُمۡ أَن تُفۡسِدُواْ فِي ٱلۡأَرۡضِ وَتُقَطِّعُوٓاْ أَرۡحَامَكُمۡ",
-    "translation": "Ó súnmọ́ pé tí ẹ̀yin bá kọ̀yìn sí ogun ẹ̀sìn, (ẹ̀ ń lọ sí oko ìparun nìyẹn, ẹ sì máa padà síbi ìwà ìgbà àìmọ̀kan) tí ẹ̀yin yóò máa ṣèbàjẹ́ lórí ilẹ̀, tí ẹ óò sì máa já okùn-ìbí yín?[1]",
-    "footnotes": "1. Ìtúmọ̀ mìíràn fún āyah yìí, “Ó súnmọ́ pé (ẹ̀yin aláìsàn ọkàn wọ̀nyí) bí ẹ bá dé orí ipò àṣẹ, ẹ óò máa ṣèbàjẹ́ lórí ilẹ̀ àti pé ẹ óò máa já okùn-ìbí yín?”"
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 509,
+  "verse_key": "47:22",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَهَلۡ عَسَيۡتُمۡ إِن تَوَلَّيۡتُمۡ أَن تُفۡسِدُواْ فِي ٱلۡأَرۡضِ وَتُقَطِّعُوٓاْ أَرۡحَامَكُمۡ",
+  "translation": "Ó súnmọ́ pé tí ẹ̀yin bá kọ̀yìn sí ogun ẹ̀sìn, (ẹ̀ ń lọ sí oko ìparun nìyẹn, ẹ sì máa padà síbi ìwà ìgbà àìmọ̀kan) tí ẹ̀yin yóò máa ṣèbàjẹ́ lórí ilẹ̀, tí ẹ óò sì máa já okùn-ìbí yín?[1]",
+  "footnotes": "1. Ìtúmọ̀ mìíràn fún āyah yìí, “Ó súnmọ́ pé (ẹ̀yin aláìsàn ọkàn wọ̀nyí) bí ẹ bá dé orí ipò àṣẹ, ẹ óò máa ṣèbàjẹ́ lórí ilẹ̀ àti pé ẹ óò máa já okùn-ìbí yín?”"
 }

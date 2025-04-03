@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1606",
-    "sura": "12",
-    "aya": "10",
-    "arabic_text": "قَالَ قَآئِلٞ مِّنۡهُمۡ لَا تَقۡتُلُواْ يُوسُفَ وَأَلۡقُوهُ فِي غَيَٰبَتِ ٱلۡجُبِّ يَلۡتَقِطۡهُ بَعۡضُ ٱلسَّيَّارَةِ إِن كُنتُمۡ فَٰعِلِينَ",
-    "translation": "Một người khác trong bọn chúng nói: “Đừng giết Yusuf. Nếu các người thực sự muốn loại trừ nó thì hãy đem nó đi bỏ xuống đáy giếng; một số đoàn khách thương sẽ nhặt nó (và mang nó đi nơi khác).”",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 236,
+  "verse_key": "12:10",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ قَآئِلٞ مِّنۡهُمۡ لَا تَقۡتُلُواْ يُوسُفَ وَأَلۡقُوهُ فِي غَيَٰبَتِ ٱلۡجُبِّ يَلۡتَقِطۡهُ بَعۡضُ ٱلسَّيَّارَةِ إِن كُنتُمۡ فَٰعِلِينَ",
+  "translation": "Một người khác trong bọn chúng nói: “Đừng giết Yusuf. Nếu các người thực sự muốn loại trừ nó thì hãy đem nó đi bỏ xuống đáy giếng; một số đoàn khách thương sẽ nhặt nó (và mang nó đi nơi khác).”",
+  "footnotes": ""
 }

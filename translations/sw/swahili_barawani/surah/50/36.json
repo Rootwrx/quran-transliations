@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4666",
-    "sura": "50",
-    "aya": "36",
-    "arabic_text": "وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَشَدُّ مِنۡهُم بَطۡشٗا فَنَقَّبُواْ فِي ٱلۡبِلَٰدِ هَلۡ مِن مَّحِيصٍ",
-    "translation": "Na kaumu ngapi tuliziangamiza kabla yao walio kuwa na nguvu zaidi kuliko hawa! Nao walitanga tanga katika nchi nyingi. Je! Walipata pa kukimbilia?",
-    "footnotes": "Na wengi tumekwisha wateketeza kabla ya hawa wanao kadhibisha katika mataifa yaliyo kwisha pita. Wao walikuwa na nguvu na madaraka zaidi kuliko hawa. Wakaizunguka miji wakishughulika kuchungua na kutafuta. Je! Walipata pa kukimbilia wasiangamizwe?"
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 520,
+  "verse_key": "50:36",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَمۡ أَهۡلَكۡنَا قَبۡلَهُم مِّن قَرۡنٍ هُمۡ أَشَدُّ مِنۡهُم بَطۡشٗا فَنَقَّبُواْ فِي ٱلۡبِلَٰدِ هَلۡ مِن مَّحِيصٍ",
+  "translation": "Na kaumu ngapi tuliziangamiza kabla yao walio kuwa na nguvu zaidi kuliko hawa! Nao walitanga tanga katika nchi nyingi. Je! Walipata pa kukimbilia?",
+  "footnotes": "Na wengi tumekwisha wateketeza kabla ya hawa wanao kadhibisha katika mataifa yaliyo kwisha pita. Wao walikuwa na nguvu na madaraka zaidi kuliko hawa. Wakaizunguka miji wakishughulika kuchungua na kutafuta. Je! Walipata pa kukimbilia wasiangamizwe?"
 }

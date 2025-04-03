@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4726",
-    "sura": "51",
-    "aya": "51",
-    "arabic_text": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
-    "translation": "I ne pripisujte uz Allaha boga drugoga! Ja sam vam Njegov upozoritelj jasni!\"",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 522,
+  "verse_key": "51:51",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَجۡعَلُواْ مَعَ ٱللَّهِ إِلَٰهًا ءَاخَرَۖ إِنِّي لَكُم مِّنۡهُ نَذِيرٞ مُّبِينٞ",
+  "translation": "I ne pripisujte uz Allaha boga drugoga! Ja sam vam Njegov upozoritelj jasni!\"",
+  "footnotes": ""
 }

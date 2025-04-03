@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2838",
-    "sura": "24",
-    "aya": "47",
-    "arabic_text": "وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعۡنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٞ مِّنۡهُم مِّنۢ بَعۡدِ ذَٰلِكَۚ وَمَآ أُوْلَٰٓئِكَ بِٱلۡمُؤۡمِنِينَ",
-    "translation": "Et ils disent : \"Nous croyons en Allah et au Messager et nous obéissons.\" Puis, après cela, une partie d’entre eux fait volte-face. Et ce ne sont point ceux-là les croyants.",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 356,
+  "verse_key": "24:47",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 142,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُونَ ءَامَنَّا بِٱللَّهِ وَبِٱلرَّسُولِ وَأَطَعۡنَا ثُمَّ يَتَوَلَّىٰ فَرِيقٞ مِّنۡهُم مِّنۢ بَعۡدِ ذَٰلِكَۚ وَمَآ أُوْلَٰٓئِكَ بِٱلۡمُؤۡمِنِينَ",
+  "translation": "Et ils disent : \"Nous croyons en Allah et au Messager et nous obéissons.\" Puis, après cela, une partie d’entre eux fait volte-face. Et ce ne sont point ceux-là les croyants.",
+  "footnotes": ""
 }

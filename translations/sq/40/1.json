@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4134",
-    "sura": "40",
-    "aya": "1",
-    "arabic_text": "حمٓ",
-    "translation": "Hâ, Mîm.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 467,
+  "verse_key": "40:1",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حمٓ",
+  "translation": "Hâ, Mîm.",
+  "footnotes": ""
 }

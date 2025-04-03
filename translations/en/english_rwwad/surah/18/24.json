@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2164",
-    "sura": "18",
-    "aya": "24",
-    "arabic_text": "إِلَّآ أَن يَشَآءَ ٱللَّهُۚ وَٱذۡكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلۡ عَسَىٰٓ أَن يَهۡدِيَنِ رَبِّي لِأَقۡرَبَ مِنۡ هَٰذَا رَشَدٗا",
-    "translation": "without adding, “if Allah wills.” And remember your Lord if you forget, and say, “My Lord will hopefully guide me to something closer to what is right[16].”",
-    "footnotes": "[16] As soon as one remembers not saying inshā’ Allah concerning doing something in the future, he should say it. Also when one forgets something, he should mention Allah so as to remember things."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 296,
+  "verse_key": "18:24",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّآ أَن يَشَآءَ ٱللَّهُۚ وَٱذۡكُر رَّبَّكَ إِذَا نَسِيتَ وَقُلۡ عَسَىٰٓ أَن يَهۡدِيَنِ رَبِّي لِأَقۡرَبَ مِنۡ هَٰذَا رَشَدٗا",
+  "translation": "without adding, “if Allah wills.” And remember your Lord if you forget, and say, “My Lord will hopefully guide me to something closer to what is right[16].”",
+  "footnotes": "[16] As soon as one remembers not saying inshā’ Allah concerning doing something in the future, he should say it. Also when one forgets something, he should mention Allah so as to remember things."
 }

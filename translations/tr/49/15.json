@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4627",
-    "sura": "49",
-    "aya": "15",
-    "arabic_text": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمۡ يَرۡتَابُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِۚ أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
-    "translation": "Asıl Mü'minler, Allah’a ve Rasûlüne iman edip, sonra da hiç şüphe etmeyen ve Allah yolunda mallarıyla, canlarıyla cihad edenlerdir. İşte doğrular/sadıklar onlardır.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 517,
+  "verse_key": "49:15",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا ٱلۡمُؤۡمِنُونَ ٱلَّذِينَ ءَامَنُواْ بِٱللَّهِ وَرَسُولِهِۦ ثُمَّ لَمۡ يَرۡتَابُواْ وَجَٰهَدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ فِي سَبِيلِ ٱللَّهِۚ أُوْلَٰٓئِكَ هُمُ ٱلصَّٰدِقُونَ",
+  "translation": "Asıl Mü'minler, Allah’a ve Rasûlüne iman edip, sonra da hiç şüphe etmeyen ve Allah yolunda mallarıyla, canlarıyla cihad edenlerdir. İşte doğrular/sadıklar onlardır.",
+  "footnotes": ""
 }

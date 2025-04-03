@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5522",
-    "sura": "74",
-    "aya": "27",
-    "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا سَقَرُ",
-    "translation": "តើអ្វីដែលធ្វើឱ្យអ្នកដឹងថា នរកសាក័រជាអ្វីនោះ?",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 576,
+  "verse_key": "74:27",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَدۡرَىٰكَ مَا سَقَرُ",
+  "translation": "តើអ្វីដែលធ្វើឱ្យអ្នកដឹងថា នរកសាក័រជាអ្វីនោះ?",
+  "footnotes": ""
 }

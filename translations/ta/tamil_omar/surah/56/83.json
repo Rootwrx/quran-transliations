@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5062",
-    "sura": "56",
-    "aya": "83",
-    "arabic_text": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
-    "translation": "ஆக, (மரணிப்பவரின் உயிர் பிரிகின்ற நிலையில்) அது தொண்டைக் குழியை அடைந்தபோது,",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 537,
+  "verse_key": "56:83",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَوۡلَآ إِذَا بَلَغَتِ ٱلۡحُلۡقُومَ",
+  "translation": "ஆக, (மரணிப்பவரின் உயிர் பிரிகின்ற நிலையில்) அது தொண்டைக் குழியை அடைந்தபோது,",
+  "footnotes": ""
 }

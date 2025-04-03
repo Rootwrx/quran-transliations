@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "532",
-    "sura": "4",
-    "aya": "39",
-    "arabic_text": "وَمَاذَا عَلَيۡهِمۡ لَوۡ ءَامَنُواْ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَأَنفَقُواْ مِمَّا رَزَقَهُمُ ٱللَّهُۚ وَكَانَ ٱللَّهُ بِهِمۡ عَلِيمًا",
-    "translation": "  Allah'a ve ahiret gününe iman edip de Allah'ın kendilerine verdiğinden (O'nun yolunda) harcasalardı bu, aleyhlerine mi olurdu? Allah onların durumunu hakkıyla bilmektedir.",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 85,
+  "verse_key": "4:39",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَاذَا عَلَيۡهِمۡ لَوۡ ءَامَنُواْ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَأَنفَقُواْ مِمَّا رَزَقَهُمُ ٱللَّهُۚ وَكَانَ ٱللَّهُ بِهِمۡ عَلِيمًا",
+  "translation": "  Allah'a ve ahiret gününe iman edip de Allah'ın kendilerine verdiğinden (O'nun yolunda) harcasalardı bu, aleyhlerine mi olurdu? Allah onların durumunu hakkıyla bilmektedir.",
+  "footnotes": ""
 }

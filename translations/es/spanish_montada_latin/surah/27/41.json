@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3200",
-    "sura": "27",
-    "aya": "41",
-    "arabic_text": "قَالَ نَكِّرُواْ لَهَا عَرۡشَهَا نَنظُرۡ أَتَهۡتَدِيٓ أَمۡ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهۡتَدُونَ",
-    "translation": "41. (Salomón) les dijo: “Modifiquen su trono; veremos si (su inteligencia) la guía (hacia la verdad y lo reconoce) o no”. ",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 380,
+  "verse_key": "27:41",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ نَكِّرُواْ لَهَا عَرۡشَهَا نَنظُرۡ أَتَهۡتَدِيٓ أَمۡ تَكُونُ مِنَ ٱلَّذِينَ لَا يَهۡتَدُونَ",
+  "translation": "41. (Salomón) les dijo: “Modifiquen su trono; veremos si (su inteligencia) la guía (hacia la verdad y lo reconoce) o no”. ",
+  "footnotes": ""
 }

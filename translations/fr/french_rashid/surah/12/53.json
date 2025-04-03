@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1649",
-    "sura": "12",
-    "aya": "53",
-    "arabic_text": "۞ وَمَآ أُبَرِّئُ نَفۡسِيٓۚ إِنَّ ٱلنَّفۡسَ لَأَمَّارَةُۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّيٓۚ إِنَّ رَبِّي غَفُورٞ رَّحِيمٞ",
-    "translation": "53 Je ne cherche pas pour autant à m’innocenter. L’homme est sans cesse poussé au mal par son âme, excepté celui que mon Seigneur, par miséricorde, préserve du péché. Mon Seigneur, en vérité, est Très Clément et Très Miséricordieux. »[637]",
-    "footnotes": "[637] Selon certains exégètes, dont Ibn Kathîr, ces deux derniers versets, comme l’indique le contexte, rapportent les paroles de la femme du grand Intendant, tandis que la majorité des commentateurs, à l’image d’At-Tabari, attribuent ces mots à Joseph lui-même qui aurait refusé de suivre l’envoyé du roi avant que la vérité n’éclate et que son maître ne sache qu’il ne l’a pas trahi."
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 242,
+  "verse_key": "12:53",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَمَآ أُبَرِّئُ نَفۡسِيٓۚ إِنَّ ٱلنَّفۡسَ لَأَمَّارَةُۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّيٓۚ إِنَّ رَبِّي غَفُورٞ رَّحِيمٞ",
+  "translation": "53 Je ne cherche pas pour autant à m’innocenter. L’homme est sans cesse poussé au mal par son âme, excepté celui que mon Seigneur, par miséricorde, préserve du péché. Mon Seigneur, en vérité, est Très Clément et Très Miséricordieux. »[637]",
+  "footnotes": "[637] Selon certains exégètes, dont Ibn Kathîr, ces deux derniers versets, comme l’indique le contexte, rapportent les paroles de la femme du grand Intendant, tandis que la majorité des commentateurs, à l’image d’At-Tabari, attribuent ces mots à Joseph lui-même qui aurait refusé de suivre l’envoyé du roi avant que la vérité n’éclate et que son maître ne sache qu’il ne l’a pas trahi."
 }

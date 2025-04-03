@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "80",
-    "sura": "2",
-    "aya": "73",
-    "arabic_text": "فَقُلۡنَا ٱضۡرِبُوهُ بِبَعۡضِهَاۚ كَذَٰلِكَ يُحۡيِ ٱللَّهُ ٱلۡمَوۡتَىٰ وَيُرِيكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ",
-    "translation": "(73) So We said, \"Strike him [i.e., the slain man] with part of it.\"[31] Thus does Allāh bring the dead to life, and He shows you His signs that you might reason.",
-    "footnotes": "[31]- i.e., the cow. Thereupon, Allāh restored life to the man, who informed them of his murderer."
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 11,
+  "verse_key": "2:73",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقُلۡنَا ٱضۡرِبُوهُ بِبَعۡضِهَاۚ كَذَٰلِكَ يُحۡيِ ٱللَّهُ ٱلۡمَوۡتَىٰ وَيُرِيكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ",
+  "translation": "(73) So We said, \"Strike him [i.e., the slain man] with part of it.\"[31] Thus does Allāh bring the dead to life, and He shows you His signs that you might reason.",
+  "footnotes": "[31]- i.e., the cow. Thereupon, Allāh restored life to the man, who informed them of his murderer."
 }

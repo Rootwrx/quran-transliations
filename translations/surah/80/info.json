@@ -1,0 +1,27 @@
+{
+  "number": 80,
+  "name": {
+    "ar": "عبس",
+    "en": "He frowned",
+    "transliteration": "'Abasa"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 24,
+  "bismillah_pre": true,
+  "verses_count": 42,
+  "words_count": 133,
+  "letters_count": 538,
+  "pages": [
+    585,
+    585
+  ],
+  "name_simple": "'Abasa",
+  "name_complex": "`Abasa",
+  "name_arabic": "عبس",
+  "translated_name": "He Frowned",
+  "start_page": 585,
+  "end_page": 586
+}

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "752",
-    "sura": "5",
-    "aya": "83",
-    "arabic_text": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ",
-    "translation": "N’iyo bumvise Qor’ani yahishuriwe Intumwa Muhamadi (nyakugira amahoro n'impuhwe z'Imana Allah), ubona amosozi yicunda mu maso, biturutse ku kuri batahuye, ko kuva ku Mana Allah [25] kukabanyura, bagaheza rero bakemanga bavuga bati: “Mana yacu Rurema Allah! Twakwemeye twanakurikiye n’Intumwa yawe. Kubera ivyo rero, duhe iteka ryo kwandikwa hamwe n’intungane mu bakurikiye Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah), bazoba ivyabona vy’ukuri vyagiriza abagarariji ku musi w’izuka;",
-    "footnotes": "[25] Nk’uko vyashikiye abanaswara bo muri Etiyopiya igihe bumva Qor’ani isomwe n’umwe mu ntumwa zarungitsweyo n’Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah)."
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 122,
+  "verse_key": "5:83",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ",
+  "translation": "N’iyo bumvise Qor’ani yahishuriwe Intumwa Muhamadi (nyakugira amahoro n'impuhwe z'Imana Allah), ubona amosozi yicunda mu maso, biturutse ku kuri batahuye, ko kuva ku Mana Allah [25] kukabanyura, bagaheza rero bakemanga bavuga bati: “Mana yacu Rurema Allah! Twakwemeye twanakurikiye n’Intumwa yawe. Kubera ivyo rero, duhe iteka ryo kwandikwa hamwe n’intungane mu bakurikiye Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah), bazoba ivyabona vy’ukuri vyagiriza abagarariji ku musi w’izuka;",
+  "footnotes": "[25] Nk’uko vyashikiye abanaswara bo muri Etiyopiya igihe bumva Qor’ani isomwe n’umwe mu ntumwa zarungitsweyo n’Intumwa Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah)."
 }

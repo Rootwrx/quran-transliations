@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3656",
-    "sura": "34",
-    "aya": "50",
-    "arabic_text": "قُلۡ إِن ضَلَلۡتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفۡسِيۖ وَإِنِ ٱهۡتَدَيۡتُ فَبِمَا يُوحِيٓ إِلَيَّ رَبِّيٓۚ إِنَّهُۥ سَمِيعٞ قَرِيبٞ",
-    "translation": "50. Sakyk: „(Net) jei aš nuklysiu, aš nuklysiu tik į savo paties praradimą. Tačiau jei aš liksiu vedamas, tai tik dėl mano Viešpaties Apreiškimo man. Iš tiesų, Jis yra Visa Girdintis, Artimiausias (visiems dalykams).“",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 434,
+  "verse_key": "34:50",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِن ضَلَلۡتُ فَإِنَّمَآ أَضِلُّ عَلَىٰ نَفۡسِيۖ وَإِنِ ٱهۡتَدَيۡتُ فَبِمَا يُوحِيٓ إِلَيَّ رَبِّيٓۚ إِنَّهُۥ سَمِيعٞ قَرِيبٞ",
+  "translation": "50. Sakyk: „(Net) jei aš nuklysiu, aš nuklysiu tik į savo paties praradimą. Tačiau jei aš liksiu vedamas, tai tik dėl mano Viešpaties Apreiškimo man. Iš tiesų, Jis yra Visa Girdintis, Artimiausias (visiems dalykams).“",
+  "footnotes": ""
 }

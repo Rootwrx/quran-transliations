@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3233",
-    "sura": "27",
-    "aya": "74",
-    "arabic_text": "وَإِنَّ رَبَّكَ لَيَعۡلَمُ مَا تُكِنُّ صُدُورُهُمۡ وَمَا يُعۡلِنُونَ",
-    "translation": "Dhugumatti, Rabbiin kee waan qomoonni isaanii dhoksiteefi waan isaan ifatti mul’isan ni beeka.",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 383,
+  "verse_key": "27:74",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ رَبَّكَ لَيَعۡلَمُ مَا تُكِنُّ صُدُورُهُمۡ وَمَا يُعۡلِنُونَ",
+  "translation": "Dhugumatti, Rabbiin kee waan qomoonni isaanii dhoksiteefi waan isaan ifatti mul’isan ni beeka.",
+  "footnotes": ""
 }

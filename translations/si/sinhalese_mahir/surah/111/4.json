@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6220",
-    "sura": "111",
-    "aya": "4",
-    "arabic_text": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ",
-    "translation": "(ඔහු ද) දර උසුලන්නියක් වූ ඔහුගේ බිරිය ද (අග්නි ජාලාවෙන් යුත් නිරයට පිවිස දැවෙනු ඇත).",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 603,
+  "verse_key": "111:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱمۡرَأَتُهُۥ حَمَّالَةَ ٱلۡحَطَبِ",
+  "translation": "(ඔහු ද) දර උසුලන්නියක් වූ ඔහුගේ බිරිය ද (අග්නි ජාලාවෙන් යුත් නිරයට පිවිස දැවෙනු ඇත).",
+  "footnotes": ""
 }

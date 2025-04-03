@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3918",
-    "sura": "37",
-    "aya": "130",
-    "arabic_text": "سَلَٰمٌ عَلَىٰٓ إِلۡ يَاسِينَ",
-    "translation": "Нека је у миру Илија!",
-    "footnotes": ""
-  }
+  "id": 130,
+  "verse_number": 130,
+  "page_number": 451,
+  "verse_key": "37:130",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَلَٰمٌ عَلَىٰٓ إِلۡ يَاسِينَ",
+  "translation": "Нека је у миру Илија!",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2001",
-    "sura": "16",
-    "aya": "100",
-    "arabic_text": "إِنَّمَا سُلۡطَٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوۡنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشۡرِكُونَ",
-    "translation": "Hakika madaraka yake ni juu ya wanao mfanya rafiki yao, na wale wanao fanya ushirika naye.",
-    "footnotes": "Bali taathira yake Shetani na khatari yake ni juu ya wale ambao nyoyo zao hazina mfungamano wala mapenzi na Mwenyezi Mungu. Basi hao hawana la kuwalinda na athari za Shetani. Watamfuata huyo kama rafiki anavyo mfuata rafiki yake, mpaka watumbukie katika kumshirikisha Mwenyezi Mungu katika kumuabudu pamoja na miungu mingine isiyo weza kuleta madhara wala manufaa."
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 278,
+  "verse_key": "16:100",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا سُلۡطَٰنُهُۥ عَلَى ٱلَّذِينَ يَتَوَلَّوۡنَهُۥ وَٱلَّذِينَ هُم بِهِۦ مُشۡرِكُونَ",
+  "translation": "Hakika madaraka yake ni juu ya wanao mfanya rafiki yao, na wale wanao fanya ushirika naye.",
+  "footnotes": "Bali taathira yake Shetani na khatari yake ni juu ya wale ambao nyoyo zao hazina mfungamano wala mapenzi na Mwenyezi Mungu. Basi hao hawana la kuwalinda na athari za Shetani. Watamfuata huyo kama rafiki anavyo mfuata rafiki yake, mpaka watumbukie katika kumshirikisha Mwenyezi Mungu katika kumuabudu pamoja na miungu mingine isiyo weza kuleta madhara wala manufaa."
 }

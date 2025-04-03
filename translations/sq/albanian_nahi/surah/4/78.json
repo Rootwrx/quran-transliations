@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "571",
-    "sura": "4",
-    "aya": "78",
-    "arabic_text": "أَيۡنَمَا تَكُونُواْ يُدۡرِككُّمُ ٱلۡمَوۡتُ وَلَوۡ كُنتُمۡ فِي بُرُوجٖ مُّشَيَّدَةٖۗ وَإِن تُصِبۡهُمۡ حَسَنَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِ ٱللَّهِۖ وَإِن تُصِبۡهُمۡ سَيِّئَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِكَۚ قُلۡ كُلّٞ مِّنۡ عِندِ ٱللَّهِۖ فَمَالِ هَٰٓؤُلَآءِ ٱلۡقَوۡمِ لَا يَكَادُونَ يَفۡقَهُونَ حَدِيثٗا",
-    "translation": "Kudo që të gjendeni, do t’ju arrijë vdekja, madje, qofshi edhe në kështjellat më të forta!” Sa herë që u vjen ndonjë e mirë, ata thonë: “Kjo është nga ana e Allahut”. Por, nëse i godet ndonjë e ligë, ata[71] thonë: “Kjo është prej teje (o Muhamed)!” Thuaju: “Të gjitha janë prej Allahut”. Ç’është kështu me këtë popull, që nuk kupton asgjë?",
-    "footnotes": "[71] D.m.th. hipokritët dhe banorët hebrenj të Medinës."
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 90,
+  "verse_key": "4:78",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَيۡنَمَا تَكُونُواْ يُدۡرِككُّمُ ٱلۡمَوۡتُ وَلَوۡ كُنتُمۡ فِي بُرُوجٖ مُّشَيَّدَةٖۗ وَإِن تُصِبۡهُمۡ حَسَنَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِ ٱللَّهِۖ وَإِن تُصِبۡهُمۡ سَيِّئَةٞ يَقُولُواْ هَٰذِهِۦ مِنۡ عِندِكَۚ قُلۡ كُلّٞ مِّنۡ عِندِ ٱللَّهِۖ فَمَالِ هَٰٓؤُلَآءِ ٱلۡقَوۡمِ لَا يَكَادُونَ يَفۡقَهُونَ حَدِيثٗا",
+  "translation": "Kudo që të gjendeni, do t’ju arrijë vdekja, madje, qofshi edhe në kështjellat më të forta!” Sa herë që u vjen ndonjë e mirë, ata thonë: “Kjo është nga ana e Allahut”. Por, nëse i godet ndonjë e ligë, ata[71] thonë: “Kjo është prej teje (o Muhamed)!” Thuaju: “Të gjitha janë prej Allahut”. Ç’është kështu me këtë popull, që nuk kupton asgjë?",
+  "footnotes": "[71] D.m.th. hipokritët dhe banorët hebrenj të Medinës."
 }

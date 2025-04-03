@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2026",
-    "sura": "16",
-    "aya": "125",
-    "arabic_text": "ٱدۡعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلۡحِكۡمَةِ وَٱلۡمَوۡعِظَةِ ٱلۡحَسَنَةِۖ وَجَٰدِلۡهُم بِٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
-    "translation": "Pèpè sí ojú ọ̀nà Olúwa rẹ pẹ̀lú ọgbọ́n ìjìnlẹ̀ (ìyẹn, al-Ƙur’ān àti sunnah Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a -) àti wáàsí rere. Kí o sì jà wọ́n níyàn pẹ̀lú èyí tó dára jùlọ. Dájúdájú Olúwa rẹ, Òun l’Ó nímọ̀ jùlọ nípa ẹni tí ó ṣìnà kúrò lójú ọ̀nà Rẹ̀ (’Islām). Òun l’Ó sì nímọ̀ jùlọ nípa àwọn olùmọ̀nà (àwọn mùsùlùmí).",
-    "footnotes": ""
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 281,
+  "verse_key": "16:125",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱدۡعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلۡحِكۡمَةِ وَٱلۡمَوۡعِظَةِ ٱلۡحَسَنَةِۖ وَجَٰدِلۡهُم بِٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+  "translation": "Pèpè sí ojú ọ̀nà Olúwa rẹ pẹ̀lú ọgbọ́n ìjìnlẹ̀ (ìyẹn, al-Ƙur’ān àti sunnah Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a -) àti wáàsí rere. Kí o sì jà wọ́n níyàn pẹ̀lú èyí tó dára jùlọ. Dájúdájú Olúwa rẹ, Òun l’Ó nímọ̀ jùlọ nípa ẹni tí ó ṣìnà kúrò lójú ọ̀nà Rẹ̀ (’Islām). Òun l’Ó sì nímọ̀ jùlọ nípa àwọn olùmọ̀nà (àwọn mùsùlùmí).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6122",
-    "sura": "96",
-    "aya": "16",
-    "arabic_text": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ",
-    "translation": "Sammuu sobduu, dogoggortuu taate (qabna).",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 597,
+  "verse_key": "96:16",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نَاصِيَةٖ كَٰذِبَةٍ خَاطِئَةٖ",
+  "translation": "Sammuu sobduu, dogoggortuu taate (qabna).",
+  "footnotes": ""
 }

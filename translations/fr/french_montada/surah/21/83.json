@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2566",
-    "sura": "21",
-    "aya": "83",
-    "arabic_text": "۞ وَأَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
-    "translation": "83. Puis (évoque) Job, qui supplia son Seigneur : «  Le mal m’a atteint et Tu es le plus Miséricordieux des miséricordieux ! »",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 329,
+  "verse_key": "21:83",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَأَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
+  "translation": "83. Puis (évoque) Job, qui supplia son Seigneur : «  Le mal m’a atteint et Tu es le plus Miséricordieux des miséricordieux ! »",
+  "footnotes": ""
 }

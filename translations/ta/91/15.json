@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6058",
-    "sura": "91",
-    "aya": "15",
-    "arabic_text": "وَلَا يَخَافُ عُقۡبَٰهَا",
-    "translation": "15. இவர்களின் முடிவைப் பற்றி(த் தன்னைப் பழிவாங்கி விடுவார்களென்று இறைவன்) பயப்படவில்லை.",
-    "footnotes": null
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 595,
+  "verse_key": "91:15",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَخَافُ عُقۡبَٰهَا",
+  "translation": "15. இவர்களின் முடிவைப் பற்றி(த் தன்னைப் பழிவாங்கி விடுவார்களென்று இறைவன்) பயப்படவில்லை.",
+  "footnotes": null
 }

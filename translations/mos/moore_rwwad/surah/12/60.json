@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1656",
-    "sura": "12",
-    "aya": "60",
-    "arabic_text": "فَإِن لَّمۡ تَأۡتُونِي بِهِۦ فَلَا كَيۡلَ لَكُمۡ عِندِي وَلَا تَقۡرَبُونِ",
-    "translation": "La yãmb sã n pa wa ne-a mam nengẽ, y pɑ tɑr vũgb mɑm nengẽ ye, pʋs n ra pẽneg-y maam ye\".",
-    "footnotes": ""
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 242,
+  "verse_key": "12:60",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن لَّمۡ تَأۡتُونِي بِهِۦ فَلَا كَيۡلَ لَكُمۡ عِندِي وَلَا تَقۡرَبُونِ",
+  "translation": "La yãmb sã n pa wa ne-a mam nengẽ, y pɑ tɑr vũgb mɑm nengẽ ye, pʋs n ra pẽneg-y maam ye\".",
+  "footnotes": ""
 }

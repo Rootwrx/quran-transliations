@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6076",
-    "sura": "92",
-    "aya": "18",
-    "arabic_text": "ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ",
-    "translation": "(Nyamesuroni) no a, oyi ne sika (Nyame nti) de te ne (kraa) ho no,",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 596,
+  "verse_key": "92:18",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي يُؤۡتِي مَالَهُۥ يَتَزَكَّىٰ",
+  "translation": "(Nyamesuroni) no a, oyi ne sika (Nyame nti) de te ne (kraa) ho no,",
+  "footnotes": ""
 }

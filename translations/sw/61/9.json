@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5172",
-    "sura": "61",
-    "aya": "9",
-    "arabic_text": "هُوَ ٱلَّذِيٓ أَرۡسَلَ رَسُولَهُۥ بِٱلۡهُدَىٰ وَدِينِ ٱلۡحَقِّ لِيُظۡهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوۡ كَرِهَ ٱلۡمُشۡرِكُونَ",
-    "translation": "Yeye ndiye aliye mtuma Mtume wake kwa uwongofu na Dini ya haki ili ipate kuzishinda dini zote, ijapo kuwa washirikina watachukia.",
-    "footnotes": "Mwenyezi Mungu ndiye aliye mtuma Mtume wake, Muhammad, pamoja na Qur'ani ambayo ni uwongofu kwa watu wote, na Uislamu ambao ndio Dini ya haki, ili autukuze juu ya dini zote, ijapo kuwa washirikina wataudhika."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 552,
+  "verse_key": "61:9",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِيٓ أَرۡسَلَ رَسُولَهُۥ بِٱلۡهُدَىٰ وَدِينِ ٱلۡحَقِّ لِيُظۡهِرَهُۥ عَلَى ٱلدِّينِ كُلِّهِۦ وَلَوۡ كَرِهَ ٱلۡمُشۡرِكُونَ",
+  "translation": "Yeye ndiye aliye mtuma Mtume wake kwa uwongofu na Dini ya haki ili ipate kuzishinda dini zote, ijapo kuwa washirikina watachukia.",
+  "footnotes": "Mwenyezi Mungu ndiye aliye mtuma Mtume wake, Muhammad, pamoja na Qur'ani ambayo ni uwongofu kwa watu wote, na Uislamu ambao ndio Dini ya haki, ili autukuze juu ya dini zote, ijapo kuwa washirikina wataudhika."
 }

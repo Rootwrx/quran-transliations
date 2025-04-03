@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "39",
-    "sura": "2",
-    "aya": "32",
-    "arabic_text": "قَالُواْ سُبۡحَٰنَكَ لَا عِلۡمَ لَنَآ إِلَّا مَا عَلَّمۡتَنَآۖ إِنَّكَ أَنتَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
-    "translation": "(Soro abͻfoͻ no) kaa sε: ”Kronkron Hene ne Wo. Y’enni nimdeε biara, gyesε deε W’akyerε yεn. Nokorε ampa sε, Wone Onimdefoͻ, Onyansafoͻ no.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 6,
+  "verse_key": "2:32",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ سُبۡحَٰنَكَ لَا عِلۡمَ لَنَآ إِلَّا مَا عَلَّمۡتَنَآۖ إِنَّكَ أَنتَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
+  "translation": "(Soro abͻfoͻ no) kaa sε: ”Kronkron Hene ne Wo. Y’enni nimdeε biara, gyesε deε W’akyerε yεn. Nokorε ampa sε, Wone Onimdefoͻ, Onyansafoͻ no.",
+  "footnotes": ""
 }

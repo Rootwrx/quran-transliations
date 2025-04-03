@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2362",
-    "sura": "20",
-    "aya": "14",
-    "arabic_text": "إِنَّنِيٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدۡنِي وَأَقِمِ ٱلصَّلَوٰةَ لِذِكۡرِيٓ",
-    "translation": "Gewiß, Ich bin Allah. Es gibt keinen Gott außer Mir. So diene Mir und verrichte das Gebet zu Meinem Gedenken.",
-    "footnotes": null
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 313,
+  "verse_key": "20:14",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّنِيٓ أَنَا ٱللَّهُ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱعۡبُدۡنِي وَأَقِمِ ٱلصَّلَوٰةَ لِذِكۡرِيٓ",
+  "translation": "Gewiß, Ich bin Allah. Es gibt keinen Gott außer Mir. So diene Mir und verrichte das Gebet zu Meinem Gedenken.",
+  "footnotes": null
 }

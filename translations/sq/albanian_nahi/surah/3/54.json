@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "347",
-    "sura": "3",
-    "aya": "54",
-    "arabic_text": "وَمَكَرُواْ وَمَكَرَ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
-    "translation": "Dhe ata[50] i përgatitën një kurth, por edhe Allahu u përgatiti kurth (dënim), se Allahu është strategu më i mirë.",
-    "footnotes": "[50] D.m.th. jobesimtarët armiq të Isait a.s."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 57,
+  "verse_key": "3:54",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَكَرُواْ وَمَكَرَ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
+  "translation": "Dhe ata[50] i përgatitën një kurth, por edhe Allahu u përgatiti kurth (dënim), se Allahu është strategu më i mirë.",
+  "footnotes": "[50] D.m.th. jobesimtarët armiq të Isait a.s."
 }

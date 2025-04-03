@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "215",
-    "sura": "2",
-    "aya": "208",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱدۡخُلُواْ فِي ٱلسِّلۡمِ كَآفَّةٗ وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ",
-    "translation": "Mo a moagye adie, monfa moakoma nyinaa nwura Islam mu, na monhwε yie na moanni ͻbonsam anamͻn akyi. Nokorε sε ͻyε motamfo a ͻda adi pefee.",
-    "footnotes": ""
-  }
+  "id": 208,
+  "verse_number": 208,
+  "page_number": 32,
+  "verse_key": "2:208",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ ٱدۡخُلُواْ فِي ٱلسِّلۡمِ كَآفَّةٗ وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ",
+  "translation": "Mo a moagye adie, monfa moakoma nyinaa nwura Islam mu, na monhwε yie na moanni ͻbonsam anamͻn akyi. Nokorε sε ͻyε motamfo a ͻda adi pefee.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "393",
-    "sura": "3",
-    "aya": "100",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تُطِيعُواْ فَرِيقٗا مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ يَرُدُّوكُم بَعۡدَ إِيمَٰنِكُمۡ كَٰفِرِينَ",
-    "translation": "100. O jūs, kurie tikite! Jei paklusite grupei tų, kuriems buvo suteiktas Raštas (judėjams ir krikščionims), jie (tikrai) padarys jus netikinčiaisiais po to, kai jūs patikėjote!",
-    "footnotes": ""
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 62,
+  "verse_key": "3:100",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِن تُطِيعُواْ فَرِيقٗا مِّنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ يَرُدُّوكُم بَعۡدَ إِيمَٰنِكُمۡ كَٰفِرِينَ",
+  "translation": "100. O jūs, kurie tikite! Jei paklusite grupei tų, kuriems buvo suteiktas Raštas (judėjams ir krikščionims), jie (tikrai) padarys jus netikinčiaisiais po to, kai jūs patikėjote!",
+  "footnotes": ""
 }

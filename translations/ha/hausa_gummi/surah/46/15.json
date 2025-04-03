@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4525",
-    "sura": "46",
-    "aya": "15",
-    "arabic_text": "وَوَصَّيۡنَا ٱلۡإِنسَٰنَ بِوَٰلِدَيۡهِ إِحۡسَٰنًاۖ حَمَلَتۡهُ أُمُّهُۥ كُرۡهٗا وَوَضَعَتۡهُ كُرۡهٗاۖ وَحَمۡلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهۡرًاۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرۡبَعِينَ سَنَةٗ قَالَ رَبِّ أَوۡزِعۡنِيٓ أَنۡ أَشۡكُرَ نِعۡمَتَكَ ٱلَّتِيٓ أَنۡعَمۡتَ عَلَيَّ وَعَلَىٰ وَٰلِدَيَّ وَأَنۡ أَعۡمَلَ صَٰلِحٗا تَرۡضَىٰهُ وَأَصۡلِحۡ لِي فِي ذُرِّيَّتِيٓۖ إِنِّي تُبۡتُ إِلَيۡكَ وَإِنِّي مِنَ ٱلۡمُسۡلِمِينَ",
-    "translation": "Kuma Mun yi wasiyya ga mutum* game da mahaifansa biyu da kyautatãwa, uwarsa tã yi cikinsa wahala, kuma ta haife shi wahala. cikinsa da yãyensa watã talãtin. Har a lõkacin da ya kai ga mafi ƙarfinsa, kuma ya kai shẽkara arba'in, ya ce: \"Ya Ubangijĩna! Ka kange nidõmin in gõde wa ni'imarKa, wadda Ka ni'imta a kaina da kuma a kan mahaifãna biyu, kuma dõmin in aikata aikin ƙwarai wanda Kake yarda da shi, kuma Ka kyautata mini a cikin zuriyata. Lalle nĩ, nã tũba zuwa gare Ka, kuma lalle ni, inã daga mãsu sallamãwa (ga umurninKa).\"",
-    "footnotes": "* Mutum a cikin iyãlinsa, kõ ya zama mai gargaɗi ga kansa da nasĩha ga mahaifansa da zuriyarsa kamar yadda ya bayyana a cikin ãyõyi 13,l4 da l5, kõ kuma ya zama mai butulci ga kansa, ya tõzartar da iyãyensa da zuriyarsa, kamar yadda ya bayyanaa cikin ãyõyi 17 da 18."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 504,
+  "verse_key": "46:15",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَصَّيۡنَا ٱلۡإِنسَٰنَ بِوَٰلِدَيۡهِ إِحۡسَٰنًاۖ حَمَلَتۡهُ أُمُّهُۥ كُرۡهٗا وَوَضَعَتۡهُ كُرۡهٗاۖ وَحَمۡلُهُۥ وَفِصَٰلُهُۥ ثَلَٰثُونَ شَهۡرًاۚ حَتَّىٰٓ إِذَا بَلَغَ أَشُدَّهُۥ وَبَلَغَ أَرۡبَعِينَ سَنَةٗ قَالَ رَبِّ أَوۡزِعۡنِيٓ أَنۡ أَشۡكُرَ نِعۡمَتَكَ ٱلَّتِيٓ أَنۡعَمۡتَ عَلَيَّ وَعَلَىٰ وَٰلِدَيَّ وَأَنۡ أَعۡمَلَ صَٰلِحٗا تَرۡضَىٰهُ وَأَصۡلِحۡ لِي فِي ذُرِّيَّتِيٓۖ إِنِّي تُبۡتُ إِلَيۡكَ وَإِنِّي مِنَ ٱلۡمُسۡلِمِينَ",
+  "translation": "Kuma Mun yi wasiyya ga mutum* game da mahaifansa biyu da kyautatãwa, uwarsa tã yi cikinsa wahala, kuma ta haife shi wahala. cikinsa da yãyensa watã talãtin. Har a lõkacin da ya kai ga mafi ƙarfinsa, kuma ya kai shẽkara arba'in, ya ce: \"Ya Ubangijĩna! Ka kange nidõmin in gõde wa ni'imarKa, wadda Ka ni'imta a kaina da kuma a kan mahaifãna biyu, kuma dõmin in aikata aikin ƙwarai wanda Kake yarda da shi, kuma Ka kyautata mini a cikin zuriyata. Lalle nĩ, nã tũba zuwa gare Ka, kuma lalle ni, inã daga mãsu sallamãwa (ga umurninKa).\"",
+  "footnotes": "* Mutum a cikin iyãlinsa, kõ ya zama mai gargaɗi ga kansa da nasĩha ga mahaifansa da zuriyarsa kamar yadda ya bayyana a cikin ãyõyi 13,l4 da l5, kõ kuma ya zama mai butulci ga kansa, ya tõzartar da iyãyensa da zuriyarsa, kamar yadda ya bayyanaa cikin ãyõyi 17 da 18."
 }

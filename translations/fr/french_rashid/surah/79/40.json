@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5752",
-    "sura": "79",
-    "aya": "40",
-    "arabic_text": "وَأَمَّا مَنۡ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفۡسَ عَنِ ٱلۡهَوَىٰ",
-    "translation": "40 Quant à celui qui, redoutant de comparaître devant son Seigneur, aura su dominer ses passions,",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 584,
+  "verse_key": "79:40",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَمَّا مَنۡ خَافَ مَقَامَ رَبِّهِۦ وَنَهَى ٱلنَّفۡسَ عَنِ ٱلۡهَوَىٰ",
+  "translation": "40 Quant à celui qui, redoutant de comparaître devant son Seigneur, aura su dominer ses passions,",
+  "footnotes": ""
 }

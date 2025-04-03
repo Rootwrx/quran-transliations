@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3431",
-    "sura": "30",
-    "aya": "22",
-    "arabic_text": "وَمِنۡ ءَايَٰتِهِۦ خَلۡقُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَٰفُ أَلۡسِنَتِكُمۡ وَأَلۡوَٰنِكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّلۡعَٰلِمِينَ",
-    "translation": "Kabilang sa mga tanda Niya ang pagkakalikha ng mga langit at lupa at ang pagkakaiba-iba ng mga wika ninyo at mga kulay ninyo. Tunay na sa gayon ay talagang may mga tanda para sa mga nakaaalam.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 406,
+  "verse_key": "30:22",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡ ءَايَٰتِهِۦ خَلۡقُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱخۡتِلَٰفُ أَلۡسِنَتِكُمۡ وَأَلۡوَٰنِكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّلۡعَٰلِمِينَ",
+  "translation": "Kabilang sa mga tanda Niya ang pagkakalikha ng mga langit at lupa at ang pagkakaiba-iba ng mga wika ninyo at mga kulay ninyo. Tunay na sa gayon ay talagang may mga tanda para sa mga nakaaalam.",
+  "footnotes": ""
 }

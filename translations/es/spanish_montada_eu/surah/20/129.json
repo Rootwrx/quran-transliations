@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2477",
-    "sura": "20",
-    "aya": "129",
-    "arabic_text": "وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامٗا وَأَجَلٞ مُّسَمّٗى",
-    "translation": "129. De no haber sido por lo que tu Señor decretó con anterioridad (acerca de posponer el castigo hasta una fecha fijada), este ya se habría abatido sobre ellos.",
-    "footnotes": ""
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 321,
+  "verse_key": "20:129",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡلَا كَلِمَةٞ سَبَقَتۡ مِن رَّبِّكَ لَكَانَ لِزَامٗا وَأَجَلٞ مُّسَمّٗى",
+  "translation": "129. De no haber sido por lo que tu Señor decretó con anterioridad (acerca de posponer el castigo hasta una fecha fijada), este ya se habría abatido sobre ellos.",
+  "footnotes": ""
 }

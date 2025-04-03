@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3847",
-    "sura": "37",
-    "aya": "59",
-    "arabic_text": "إِلَّا مَوۡتَتَنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُعَذَّبِينَ",
-    "translation": "ߝߏ߫ ߒ߬ ߠߊ߫ ߛߦߊ߬ ߝߟߐ ߸ ߊ߬ ߣߴߊ߲ ߕߍ߫ ߖߊ߲߰ߞߕߊ߬ ߟߊ߫ ( ߡߎ߬ߕߎ߲߫ ߓߊ߬ )؟",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 448,
+  "verse_key": "37:59",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا مَوۡتَتَنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُعَذَّبِينَ",
+  "translation": "ߝߏ߫ ߒ߬ ߠߊ߫ ߛߦߊ߬ ߝߟߐ ߸ ߊ߬ ߣߴߊ߲ ߕߍ߫ ߖߊ߲߰ߞߕߊ߬ ߟߊ߫ ( ߡߎ߬ߕߎ߲߫ ߓߊ߬ )؟",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4800",
-    "sura": "53",
-    "aya": "16",
-    "arabic_text": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ",
-    "translation": "Kad je Sidru prekrilo ono što ju je prekrilo, ",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 526,
+  "verse_key": "53:16",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ يَغۡشَى ٱلسِّدۡرَةَ مَا يَغۡشَىٰ",
+  "translation": "Kad je Sidru prekrilo ono što ju je prekrilo, ",
+  "footnotes": ""
 }

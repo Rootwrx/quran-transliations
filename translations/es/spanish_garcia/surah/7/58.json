@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1012",
-    "sura": "7",
-    "aya": "58",
-    "arabic_text": "وَٱلۡبَلَدُ ٱلطَّيِّبُ يَخۡرُجُ نَبَاتُهُۥ بِإِذۡنِ رَبِّهِۦۖ وَٱلَّذِي خَبُثَ لَا يَخۡرُجُ إِلَّا نَكِدٗاۚ كَذَٰلِكَ نُصَرِّفُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَشۡكُرُونَ",
-    "translation": "58. En una buena tierra crece vegetación abundante por voluntad de su Señor, mientras que en un territorio desértico no brota sino poco. Así explico los signos a la gente agradecida[1].",
-    "footnotes": "[1] Dijo el Profeta r: “La guía y la sabiduría que Dios envió conmigo es como una lluvia abundante que cae a la tierra. Parte de esta tierra es fértil, absorbe el agua y produce vegetación y pastos en abundancia. Otra parte es dura y conserva el agua, conteniéndola para beneficio de la gente, que la usa para beber, para sus animales y para riego de los cultivos. Otra porción de la tierra alcanzada era tan estéril que no contuvo el agua ni produjo vegetación. (El primero) es el caso de la persona que comprende la religión de Dios y se beneficia de lo que Dios reveló a través de mí, lo aprende y lo enseña. Y la persona que no se interesa ni acepta la Guía de Dios que reveló a través de mí (es como la tierra estéril)”. Registrado por Al-Bujari"
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 158,
+  "verse_key": "7:58",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡبَلَدُ ٱلطَّيِّبُ يَخۡرُجُ نَبَاتُهُۥ بِإِذۡنِ رَبِّهِۦۖ وَٱلَّذِي خَبُثَ لَا يَخۡرُجُ إِلَّا نَكِدٗاۚ كَذَٰلِكَ نُصَرِّفُ ٱلۡأٓيَٰتِ لِقَوۡمٖ يَشۡكُرُونَ",
+  "translation": "58. En una buena tierra crece vegetación abundante por voluntad de su Señor, mientras que en un territorio desértico no brota sino poco. Así explico los signos a la gente agradecida[1].",
+  "footnotes": "[1] Dijo el Profeta r: “La guía y la sabiduría que Dios envió conmigo es como una lluvia abundante que cae a la tierra. Parte de esta tierra es fértil, absorbe el agua y produce vegetación y pastos en abundancia. Otra parte es dura y conserva el agua, conteniéndola para beneficio de la gente, que la usa para beber, para sus animales y para riego de los cultivos. Otra porción de la tierra alcanzada era tan estéril que no contuvo el agua ni produjo vegetación. (El primero) es el caso de la persona que comprende la religión de Dios y se beneficia de lo que Dios reveló a través de mí, lo aprende y lo enseña. Y la persona que no se interesa ni acepta la Guía de Dios que reveló a través de mí (es como la tierra estéril)”. Registrado por Al-Bujari"
 }

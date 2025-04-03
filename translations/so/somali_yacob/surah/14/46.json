@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1796",
-    "sura": "14",
-    "aya": "46",
-    "arabic_text": "وَقَدۡ مَكَرُواْ مَكۡرَهُمۡ وَعِندَ ٱللَّهِ مَكۡرُهُمۡ وَإِن كَانَ مَكۡرُهُمۡ لِتَزُولَ مِنۡهُ ٱلۡجِبَالُ",
-    "translation": "46. Waxay tabeeyeen tab xun, tabtooda xun se waxaa (ka war) hayay Alle, inkastoo tabtooda xun ahayd mid (daran) ay la baabba’aan buuruhu15.",
-    "footnotes": "15. Tafsiir kale waa tabtooda xun kuma filneyn inay ka qaadaan buuraha meelahooda, macna kale waa kuma lahayn wax saameys ah doonista Alle."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 261,
+  "verse_key": "14:46",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَدۡ مَكَرُواْ مَكۡرَهُمۡ وَعِندَ ٱللَّهِ مَكۡرُهُمۡ وَإِن كَانَ مَكۡرُهُمۡ لِتَزُولَ مِنۡهُ ٱلۡجِبَالُ",
+  "translation": "46. Waxay tabeeyeen tab xun, tabtooda xun se waxaa (ka war) hayay Alle, inkastoo tabtooda xun ahayd mid (daran) ay la baabba’aan buuruhu15.",
+  "footnotes": "15. Tafsiir kale waa tabtooda xun kuma filneyn inay ka qaadaan buuraha meelahooda, macna kale waa kuma lahayn wax saameys ah doonista Alle."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2503",
-    "sura": "21",
-    "aya": "20",
-    "arabic_text": "يُسَبِّحُونَ ٱلَّيۡلَ وَٱلنَّهَارَ لَا يَفۡتُرُونَ",
-    "translation": " 20. They (i.e. the angels) glorify His Praises night and day, (and) they never slacken (to do so).",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 323,
+  "verse_key": "21:20",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُسَبِّحُونَ ٱلَّيۡلَ وَٱلنَّهَارَ لَا يَفۡتُرُونَ",
+  "translation": " 20. They (i.e. the angels) glorify His Praises night and day, (and) they never slacken (to do so).",
+  "footnotes": ""
 }

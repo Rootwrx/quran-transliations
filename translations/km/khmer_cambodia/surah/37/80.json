@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3868",
-    "sura": "37",
-    "aya": "80",
-    "arabic_text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
-    "translation": "ពិតប្រាកដណាស់ យើងក៏បានតបស្នងដូច្នោះដែរចំពោះអ្នក ដែលសាងអំពើល្អ។",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 449,
+  "verse_key": "37:80",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا كَذَٰلِكَ نَجۡزِي ٱلۡمُحۡسِنِينَ",
+  "translation": "ពិតប្រាកដណាស់ យើងក៏បានតបស្នងដូច្នោះដែរចំពោះអ្នក ដែលសាងអំពើល្អ។",
+  "footnotes": ""
 }

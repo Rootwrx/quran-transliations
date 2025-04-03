@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3879",
-    "sura": "37",
-    "aya": "91",
-    "arabic_text": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمۡ فَقَالَ أَلَا تَأۡكُلُونَ",
-    "translation": "他就俏悄地走向他们的众神灵，他说：“你们怎么不吃东西呢？",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 449,
+  "verse_key": "37:91",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَرَاغَ إِلَىٰٓ ءَالِهَتِهِمۡ فَقَالَ أَلَا تَأۡكُلُونَ",
+  "translation": "他就俏悄地走向他们的众神灵，他说：“你们怎么不吃东西呢？",
+  "footnotes": ""
 }

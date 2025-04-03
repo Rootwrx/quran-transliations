@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2457",
-    "sura": "20",
-    "aya": "109",
-    "arabic_text": "يَوۡمَئِذٖ لَّا تَنفَعُ ٱلشَّفَٰعَةُ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَرَضِيَ لَهُۥ قَوۡلٗا",
-    "translation": "Atë ditë nuk do të bëjë dobi ndërmjetësimi i askujt, përveç ndërmjetësimit të atij, që i jep leje i Gjithëmëshirshmi dhe që i është pranuar fjala.",
-    "footnotes": ""
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 319,
+  "verse_key": "20:109",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَئِذٖ لَّا تَنفَعُ ٱلشَّفَٰعَةُ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَرَضِيَ لَهُۥ قَوۡلٗا",
+  "translation": "Atë ditë nuk do të bëjë dobi ndërmjetësimi i askujt, përveç ndërmjetësimit të atij, që i jep leje i Gjithëmëshirshmi dhe që i është pranuar fjala.",
+  "footnotes": ""
 }

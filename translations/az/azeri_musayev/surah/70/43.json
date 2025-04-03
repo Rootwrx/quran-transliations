@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5418",
-    "sura": "70",
-    "aya": "43",
-    "arabic_text": "يَوۡمَ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعٗا كَأَنَّهُمۡ إِلَىٰ نُصُبٖ يُوفِضُونَ",
-    "translation": "O gün onlar (dünyada ibadət etdikləri) bütlərə can atırmışlar kimi qəbirlərdən tələm-tələsik çıxacaqlar.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 570,
+  "verse_key": "70:43",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَخۡرُجُونَ مِنَ ٱلۡأَجۡدَاثِ سِرَاعٗا كَأَنَّهُمۡ إِلَىٰ نُصُبٖ يُوفِضُونَ",
+  "translation": "O gün onlar (dünyada ibadət etdikləri) bütlərə can atırmışlar kimi qəbirlərdən tələm-tələsik çıxacaqlar.",
+  "footnotes": ""
 }

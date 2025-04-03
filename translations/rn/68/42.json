@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5313",
-    "sura": "68",
-    "aya": "42",
-    "arabic_text": "يَوۡمَ يُكۡشَفُ عَن سَاقٖ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ",
-    "translation": "Ku musi hazoba hari intureka z’akataraboneka, maze Imana Allah Igaseruka gutunganiriza ibiremwa, Igaheza Ikagaragaza umurundi wayo mutagatifu[3] utagira na kimwe bisa mu biremwa, maze ibiremwa bigahamagarirwa kwubamira Uhoraho Allah, ibiremwa bitigeze vyubamira Imana Allah kw'isi, nta vyo bizoshobora ngo vyubame;",
-    "footnotes": "[3] Intumwa y’Imana (nyakugira amahoro n’impuhwe z’Imana Allah) yaravuze iti: “Imana yacu Rurema Allah Izogaragaza umurundi wayo, maze umwemeramana wese mu bagabo no mu bagore ace ayubamira, hasigare uwahora ayubamira kw’isi ku kwiyerekana no kuyagwa neza; agize ngo yubame, umugongo wiwe uzoca ucika igihimba kimwe kitagondeka”. Yashikirijwe na Al-Bukhariy na Muslimu."
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 565,
+  "verse_key": "68:42",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يُكۡشَفُ عَن سَاقٖ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ",
+  "translation": "Ku musi hazoba hari intureka z’akataraboneka, maze Imana Allah Igaseruka gutunganiriza ibiremwa, Igaheza Ikagaragaza umurundi wayo mutagatifu[3] utagira na kimwe bisa mu biremwa, maze ibiremwa bigahamagarirwa kwubamira Uhoraho Allah, ibiremwa bitigeze vyubamira Imana Allah kw'isi, nta vyo bizoshobora ngo vyubame;",
+  "footnotes": "[3] Intumwa y’Imana (nyakugira amahoro n’impuhwe z’Imana Allah) yaravuze iti: “Imana yacu Rurema Allah Izogaragaza umurundi wayo, maze umwemeramana wese mu bagabo no mu bagore ace ayubamira, hasigare uwahora ayubamira kw’isi ku kwiyerekana no kuyagwa neza; agize ngo yubame, umugongo wiwe uzoca ucika igihimba kimwe kitagondeka”. Yashikirijwe na Al-Bukhariy na Muslimu."
 }

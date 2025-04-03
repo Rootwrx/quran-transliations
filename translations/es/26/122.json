@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3054",
-    "sura": "26",
-    "aya": "122",
-    "arabic_text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
-    "translation": "122. Tu Señor es el Poderoso, el Misericordioso.",
-    "footnotes": ""
-  }
+  "id": 122,
+  "verse_number": 122,
+  "page_number": 372,
+  "verse_key": "26:122",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+  "translation": "122. Tu Señor es el Poderoso, el Misericordioso.",
+  "footnotes": ""
 }

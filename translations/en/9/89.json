@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1324",
-    "sura": "9",
-    "aya": "89",
-    "arabic_text": "أَعَدَّ ٱللَّهُ لَهُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
-    "translation": "(89) Allāh has prepared for them gardens beneath which rivers flow, wherein they will abide eternally. That is the great attainment.",
-    "footnotes": ""
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 201,
+  "verse_key": "9:89",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَعَدَّ ٱللَّهُ لَهُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَاۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+  "translation": "(89) Allāh has prepared for them gardens beneath which rivers flow, wherein they will abide eternally. That is the great attainment.",
+  "footnotes": ""
 }

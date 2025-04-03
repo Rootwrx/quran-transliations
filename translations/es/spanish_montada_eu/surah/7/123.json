@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1077",
-    "sura": "7",
-    "aya": "123",
-    "arabic_text": "قَالَ فِرۡعَوۡنُ ءَامَنتُم بِهِۦ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّ هَٰذَا لَمَكۡرٞ مَّكَرۡتُمُوهُ فِي ٱلۡمَدِينَةِ لِتُخۡرِجُواْ مِنۡهَآ أَهۡلَهَاۖ فَسَوۡفَ تَعۡلَمُونَ",
-    "translation": "123. El Faraón dijo: «¿Creéis en él antes de que os haya concedido yo permiso? Ciertamente, esto es un plan que urdisteis en la ciudad para echar de ella a su gente, y pronto sabréis lo que os espera (de mi parte).",
-    "footnotes": ""
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 165,
+  "verse_key": "7:123",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ فِرۡعَوۡنُ ءَامَنتُم بِهِۦ قَبۡلَ أَنۡ ءَاذَنَ لَكُمۡۖ إِنَّ هَٰذَا لَمَكۡرٞ مَّكَرۡتُمُوهُ فِي ٱلۡمَدِينَةِ لِتُخۡرِجُواْ مِنۡهَآ أَهۡلَهَاۖ فَسَوۡفَ تَعۡلَمُونَ",
+  "translation": "123. El Faraón dijo: «¿Creéis en él antes de que os haya concedido yo permiso? Ciertamente, esto es un plan que urdisteis en la ciudad para echar de ella a su gente, y pronto sabréis lo que os espera (de mi parte).",
+  "footnotes": ""
 }

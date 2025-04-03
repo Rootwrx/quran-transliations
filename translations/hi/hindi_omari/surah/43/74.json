@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4399",
-    "sura": "43",
-    "aya": "74",
-    "arabic_text": "إِنَّ ٱلۡمُجۡرِمِينَ فِي عَذَابِ جَهَنَّمَ خَٰلِدُونَ",
-    "translation": "निःसंदेह अपराधी लोग जहन्नम की यातना में सदैव रहने वाले हैं।",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 495,
+  "verse_key": "43:74",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلۡمُجۡرِمِينَ فِي عَذَابِ جَهَنَّمَ خَٰلِدُونَ",
+  "translation": "निःसंदेह अपराधी लोग जहन्नम की यातना में सदैव रहने वाले हैं।",
+  "footnotes": ""
 }

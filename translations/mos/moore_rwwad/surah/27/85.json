@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3244",
-    "sura": "27",
-    "aya": "85",
-    "arabic_text": "وَوَقَعَ ٱلۡقَوۡلُ عَلَيۡهِم بِمَا ظَلَمُواْ فَهُمۡ لَا يَنطِقُونَ",
-    "translation": "Tɩ Wẽnd sɩbgrã lʋɩ b zugu, b sẽn wẽg b mensã yĩngã, tɩ b pa tar koεεg n na n yeel ye.",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 384,
+  "verse_key": "27:85",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَقَعَ ٱلۡقَوۡلُ عَلَيۡهِم بِمَا ظَلَمُواْ فَهُمۡ لَا يَنطِقُونَ",
+  "translation": "Tɩ Wẽnd sɩbgrã lʋɩ b zugu, b sẽn wẽg b mensã yĩngã, tɩ b pa tar koεεg n na n yeel ye.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5036",
-    "sura": "56",
-    "aya": "57",
-    "arabic_text": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
-    "translation": "আমিয়েই তোমালোকক সৃষ্টি কৰিছোঁ; তেনেহ’লে কিয় তোমালোকে বিশ্বাস নকৰা?",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 536,
+  "verse_key": "56:57",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نَحۡنُ خَلَقۡنَٰكُمۡ فَلَوۡلَا تُصَدِّقُونَ",
+  "translation": "আমিয়েই তোমালোকক সৃষ্টি কৰিছোঁ; তেনেহ’লে কিয় তোমালোকে বিশ্বাস নকৰা?",
+  "footnotes": ""
 }

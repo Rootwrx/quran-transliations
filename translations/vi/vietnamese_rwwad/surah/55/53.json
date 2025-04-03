@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4954",
-    "sura": "55",
-    "aya": "53",
-    "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
-    "translation": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 533,
+  "verse_key": "55:53",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+  "translation": "Vậy ân huệ nào của Thượng Đế của các ngươi mà các ngươi phủ nhận (hỡi loài Jinn và loài người)?!",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2932",
-    "sura": "25",
-    "aya": "77",
-    "arabic_text": "قُلۡ مَا يَعۡبَؤُاْ بِكُمۡ رَبِّي لَوۡلَا دُعَآؤُكُمۡۖ فَقَدۡ كَذَّبۡتُمۡ فَسَوۡفَ يَكُونُ لِزَامَۢا",
-    "translation": "Say [O Prophet], “My Lord would not care at all about you, were it not for your supplication[41]. Now since you have rejected [the truth], the inevitable is bound to come[42].”",
-    "footnotes": "[41] i.e., faith and worship.\n [42] Or it will be adhering to you."
-  }
+  "id": 77,
+  "verse_number": 77,
+  "page_number": 366,
+  "verse_key": "25:77",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَا يَعۡبَؤُاْ بِكُمۡ رَبِّي لَوۡلَا دُعَآؤُكُمۡۖ فَقَدۡ كَذَّبۡتُمۡ فَسَوۡفَ يَكُونُ لِزَامَۢا",
+  "translation": "Say [O Prophet], “My Lord would not care at all about you, were it not for your supplication[41]. Now since you have rejected [the truth], the inevitable is bound to come[42].”",
+  "footnotes": "[41] i.e., faith and worship.\n [42] Or it will be adhering to you."
 }

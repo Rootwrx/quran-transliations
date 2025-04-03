@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5213",
-    "sura": "64",
-    "aya": "14",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ مِنۡ أَزۡوَٰجِكُمۡ وَأَوۡلَٰدِكُمۡ عَدُوّٗا لَّكُمۡ فَٱحۡذَرُوهُمۡۚ وَإِن تَعۡفُواْ وَتَصۡفَحُواْ وَتَغۡفِرُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
-    "translation": "Yãmb ɑ neb nins sẽn kõ sɩd ne Wẽnde! Ad bee yãmb pagbẽ wã, la yãmb koambẽ wã, sẽn yaa yãmb bεεba, bɩ y gũus-y-ba. Lɑ yãmb sã n yaaf la y bas tɩ looge, la y maan gaafare, bɩ y bãng tɩ Wẽnd yaa yaafg Naab n yaa yolsg Naaba.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 557,
+  "verse_key": "64:14",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ مِنۡ أَزۡوَٰجِكُمۡ وَأَوۡلَٰدِكُمۡ عَدُوّٗا لَّكُمۡ فَٱحۡذَرُوهُمۡۚ وَإِن تَعۡفُواْ وَتَصۡفَحُواْ وَتَغۡفِرُواْ فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+  "translation": "Yãmb ɑ neb nins sẽn kõ sɩd ne Wẽnde! Ad bee yãmb pagbẽ wã, la yãmb koambẽ wã, sẽn yaa yãmb bεεba, bɩ y gũus-y-ba. Lɑ yãmb sã n yaaf la y bas tɩ looge, la y maan gaafare, bɩ y bãng tɩ Wẽnd yaa yaafg Naab n yaa yolsg Naaba.",
+  "footnotes": ""
 }

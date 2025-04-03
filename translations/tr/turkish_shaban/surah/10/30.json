@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1394",
-    "sura": "10",
-    "aya": "30",
-    "arabic_text": "هُنَالِكَ تَبۡلُواْ كُلُّ نَفۡسٖ مَّآ أَسۡلَفَتۡۚ وَرُدُّوٓاْ إِلَى ٱللَّهِ مَوۡلَىٰهُمُ ٱلۡحَقِّۖ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
-    "translation": "İşte orada (o gün) herkes önceden yaptıklarını görüp, kavrar. Ve gerçek mevlaları olan Allah’a döndürülürler. Ve uydurdukları şeyler (şirk koştukları şeyler) onları terkedip, gider.",
-    "footnotes": null
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 212,
+  "verse_key": "10:30",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُنَالِكَ تَبۡلُواْ كُلُّ نَفۡسٖ مَّآ أَسۡلَفَتۡۚ وَرُدُّوٓاْ إِلَى ٱللَّهِ مَوۡلَىٰهُمُ ٱلۡحَقِّۖ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
+  "translation": "İşte orada (o gün) herkes önceden yaptıklarını görüp, kavrar. Ve gerçek mevlaları olan Allah’a döndürülürler. Ve uydurdukları şeyler (şirk koştukları şeyler) onları terkedip, gider.",
+  "footnotes": null
 }

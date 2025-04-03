@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4522",
-    "sura": "46",
-    "aya": "12",
-    "arabic_text": "وَمِن قَبۡلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامٗا وَرَحۡمَةٗۚ وَهَٰذَا كِتَٰبٞ مُّصَدِّقٞ لِّسَانًا عَرَبِيّٗا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُواْ وَبُشۡرَىٰ لِلۡمُحۡسِنِينَ",
-    "translation": "Trước (Qur’an) là Kinh Sách của Musa, được xem như một nguồn Chỉ Đạo và một Hồng Phúc. Còn đây (Qur’an) là một Kinh Sách xác nhận (lại những Kinh Sách trước) bằng tiếng Ả-rập, dùng để cảnh báo những ai làm điều sai quấy đồng thời báo tin mừng cho những người làm tốt.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 503,
+  "verse_key": "46:12",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِن قَبۡلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامٗا وَرَحۡمَةٗۚ وَهَٰذَا كِتَٰبٞ مُّصَدِّقٞ لِّسَانًا عَرَبِيّٗا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُواْ وَبُشۡرَىٰ لِلۡمُحۡسِنِينَ",
+  "translation": "Trước (Qur’an) là Kinh Sách của Musa, được xem như một nguồn Chỉ Đạo và một Hồng Phúc. Còn đây (Qur’an) là một Kinh Sách xác nhận (lại những Kinh Sách trước) bằng tiếng Ả-rập, dùng để cảnh báo những ai làm điều sai quấy đồng thời báo tin mừng cho những người làm tốt.",
+  "footnotes": ""
 }

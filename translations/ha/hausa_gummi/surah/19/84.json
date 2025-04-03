@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2334",
-    "sura": "19",
-    "aya": "84",
-    "arabic_text": "فَلَا تَعۡجَلۡ عَلَيۡهِمۡۖ إِنَّمَا نَعُدُّ لَهُمۡ عَدّٗا",
-    "translation": "Sabõda haka kada ka yi gaggawa a kansu, Munã yi musu ƙidãyar Ajali ne kawai, ƙidãyãwa.",
-    "footnotes": ""
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 311,
+  "verse_key": "19:84",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا تَعۡجَلۡ عَلَيۡهِمۡۖ إِنَّمَا نَعُدُّ لَهُمۡ عَدّٗا",
+  "translation": "Sabõda haka kada ka yi gaggawa a kansu, Munã yi musu ƙidãyar Ajali ne kawai, ƙidãyãwa.",
+  "footnotes": ""
 }

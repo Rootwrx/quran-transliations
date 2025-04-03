@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4261",
-    "sura": "41",
-    "aya": "43",
-    "arabic_text": "مَّا يُقَالُ لَكَ إِلَّا مَا قَدۡ قِيلَ لِلرُّسُلِ مِن قَبۡلِكَۚ إِنَّ رَبَّكَ لَذُو مَغۡفِرَةٖ وَذُو عِقَابٍ أَلِيمٖ",
-    "translation": "43. Waxba lagu odhan maayo (Nabi Muxammadow) aan ka aheyn wixii lagu yidhi Rusushii kaa horreysay. Hubaal Rabbigaa waa Rabbiga Denbi dhaafka leh, iyo Rabbiga leh Ciqaab Xanuun Badan.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 481,
+  "verse_key": "41:43",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا يُقَالُ لَكَ إِلَّا مَا قَدۡ قِيلَ لِلرُّسُلِ مِن قَبۡلِكَۚ إِنَّ رَبَّكَ لَذُو مَغۡفِرَةٖ وَذُو عِقَابٍ أَلِيمٖ",
+  "translation": "43. Waxba lagu odhan maayo (Nabi Muxammadow) aan ka aheyn wixii lagu yidhi Rusushii kaa horreysay. Hubaal Rabbigaa waa Rabbiga Denbi dhaafka leh, iyo Rabbiga leh Ciqaab Xanuun Badan.",
+  "footnotes": ""
 }

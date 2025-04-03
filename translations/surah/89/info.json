@@ -1,0 +1,27 @@
+{
+  "number": 89,
+  "name": {
+    "ar": "الفجر",
+    "en": "The Dawn",
+    "transliteration": "Al-Fajr"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 10,
+  "bismillah_pre": true,
+  "verses_count": 30,
+  "words_count": 139,
+  "letters_count": 573,
+  "pages": [
+    593,
+    594
+  ],
+  "name_simple": "Al-Fajr",
+  "name_complex": "Al-Fajr",
+  "name_arabic": "الفجر",
+  "translated_name": "The Dawn",
+  "start_page": 593,
+  "end_page": 594
+}

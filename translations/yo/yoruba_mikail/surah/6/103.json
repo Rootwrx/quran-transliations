@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "892",
-    "sura": "6",
-    "aya": "103",
-    "arabic_text": "لَّا تُدۡرِكُهُ ٱلۡأَبۡصَٰرُ وَهُوَ يُدۡرِكُ ٱلۡأَبۡصَٰرَۖ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ",
-    "translation": "Àwọn ojú (ẹ̀dá) kò lè ká Allāhu. Òun sì ká àwọn ojú. Òun sì ni Aláàánú, Alámọ̀tán.",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 141,
+  "verse_key": "6:103",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 56,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا تُدۡرِكُهُ ٱلۡأَبۡصَٰرُ وَهُوَ يُدۡرِكُ ٱلۡأَبۡصَٰرَۖ وَهُوَ ٱللَّطِيفُ ٱلۡخَبِيرُ",
+  "translation": "Àwọn ojú (ẹ̀dá) kò lè ká Allāhu. Òun sì ká àwọn ojú. Òun sì ni Aláàánú, Alámọ̀tán.",
+  "footnotes": ""
 }

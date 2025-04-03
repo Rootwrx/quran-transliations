@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "508",
-    "sura": "4",
-    "aya": "15",
-    "arabic_text": "وَٱلَّٰتِي يَأۡتِينَ ٱلۡفَٰحِشَةَ مِن نِّسَآئِكُمۡ فَٱسۡتَشۡهِدُواْ عَلَيۡهِنَّ أَرۡبَعَةٗ مِّنكُمۡۖ فَإِن شَهِدُواْ فَأَمۡسِكُوهُنَّ فِي ٱلۡبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلۡمَوۡتُ أَوۡ يَجۡعَلَ ٱللَّهُ لَهُنَّ سَبِيلٗا",
-    "translation": "Kuma waɗanda suka je wa alfãsha daga mãtanku, to, ku nẽmi Shaidar mutãne huɗu daga gare ku a kansu. To, idan sun yi shaida, sai ku tsare su a cikin gidãje har mutuwa ta karɓi rãyukansu, ko kuwa Allah Ya sanya wata hanya a gare su.*",
-    "footnotes": "* Ãyõyi na 15 da l6 an shãfe hukuncinsu wajen haddi da ãyar sũratun Nũr ta biya da Hadisin Rajami ga zawari da zawara waɗanda suka yi zina, kuma da bũlãla ɗari dakõrar babane namiji, da kuma bũlãla ɗari ga budurwa. Kuma ana jefe mai liwãɗi da wanda ake yi a kansa idan sun balaga, ko dã su banãwa ne. Ana ladabi ga mailiwãɗi da matãrsa, amma ba a kashe shi. Liwãɗi da wata mace kamar zina yake ga namijin."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 80,
+  "verse_key": "4:15",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 32,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّٰتِي يَأۡتِينَ ٱلۡفَٰحِشَةَ مِن نِّسَآئِكُمۡ فَٱسۡتَشۡهِدُواْ عَلَيۡهِنَّ أَرۡبَعَةٗ مِّنكُمۡۖ فَإِن شَهِدُواْ فَأَمۡسِكُوهُنَّ فِي ٱلۡبُيُوتِ حَتَّىٰ يَتَوَفَّىٰهُنَّ ٱلۡمَوۡتُ أَوۡ يَجۡعَلَ ٱللَّهُ لَهُنَّ سَبِيلٗا",
+  "translation": "Kuma waɗanda suka je wa alfãsha daga mãtanku, to, ku nẽmi Shaidar mutãne huɗu daga gare ku a kansu. To, idan sun yi shaida, sai ku tsare su a cikin gidãje har mutuwa ta karɓi rãyukansu, ko kuwa Allah Ya sanya wata hanya a gare su.*",
+  "footnotes": "* Ãyõyi na 15 da l6 an shãfe hukuncinsu wajen haddi da ãyar sũratun Nũr ta biya da Hadisin Rajami ga zawari da zawara waɗanda suka yi zina, kuma da bũlãla ɗari dakõrar babane namiji, da kuma bũlãla ɗari ga budurwa. Kuma ana jefe mai liwãɗi da wanda ake yi a kansa idan sun balaga, ko dã su banãwa ne. Ana ladabi ga mailiwãɗi da matãrsa, amma ba a kashe shi. Liwãɗi da wata mace kamar zina yake ga namijin."
 }

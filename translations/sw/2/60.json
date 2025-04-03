@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "67",
-    "sura": "2",
-    "aya": "60",
-    "arabic_text": "۞ وَإِذِ ٱسۡتَسۡقَىٰ مُوسَىٰ لِقَوۡمِهِۦ فَقُلۡنَا ٱضۡرِب بِّعَصَاكَ ٱلۡحَجَرَۖ فَٱنفَجَرَتۡ مِنۡهُ ٱثۡنَتَا عَشۡرَةَ عَيۡنٗاۖ قَدۡ عَلِمَ كُلُّ أُنَاسٖ مَّشۡرَبَهُمۡۖ كُلُواْ وَٱشۡرَبُواْ مِن رِّزۡقِ ٱللَّهِ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
-    "translation": "Na Musa alipo omba maji kwa ajili ya watu wake, tulimwambia: Lipige jiwe kwa fimbo yako. Mara zikatimbuka chemchem kumi na mbili; kila kabila ikajua mahali pake pa kunywea. Tukawaambia: Kuleni na mnywe riziki ya Mwenyezi Mungu, wala msiasi katika nchi mkafanya uharibifu.",
-    "footnotes": "Na kumbukeni, enyi Wana wa Israili, siku Nabii wenu Musa alipo taka maji kutokana na Mola wake Mlezi kiliposhtadi kiu jangwani, Nasi tukakurehemuni. Tukamwambia Musa: Lipige jiwe kwa fimbo yako, yakatimbuka maji kutoka chemchem kumi na mbili. Kila kikundi na chemchem yake, na walikuwa makundi thinaashara Kumi na mbili. Basi kila kabila ikawa na pahala pake pa kunywea. Na tukakwambieni: Kuleni Manna na Salwa, na kunyweni maji haya yanayo timbuka, na muwache mlio nayo, wala msipite mipaka kwa uharibifu katika nchi, bali wacheni maasia."
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 9,
+  "verse_key": "2:60",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَإِذِ ٱسۡتَسۡقَىٰ مُوسَىٰ لِقَوۡمِهِۦ فَقُلۡنَا ٱضۡرِب بِّعَصَاكَ ٱلۡحَجَرَۖ فَٱنفَجَرَتۡ مِنۡهُ ٱثۡنَتَا عَشۡرَةَ عَيۡنٗاۖ قَدۡ عَلِمَ كُلُّ أُنَاسٖ مَّشۡرَبَهُمۡۖ كُلُواْ وَٱشۡرَبُواْ مِن رِّزۡقِ ٱللَّهِ وَلَا تَعۡثَوۡاْ فِي ٱلۡأَرۡضِ مُفۡسِدِينَ",
+  "translation": "Na Musa alipo omba maji kwa ajili ya watu wake, tulimwambia: Lipige jiwe kwa fimbo yako. Mara zikatimbuka chemchem kumi na mbili; kila kabila ikajua mahali pake pa kunywea. Tukawaambia: Kuleni na mnywe riziki ya Mwenyezi Mungu, wala msiasi katika nchi mkafanya uharibifu.",
+  "footnotes": "Na kumbukeni, enyi Wana wa Israili, siku Nabii wenu Musa alipo taka maji kutokana na Mola wake Mlezi kiliposhtadi kiu jangwani, Nasi tukakurehemuni. Tukamwambia Musa: Lipige jiwe kwa fimbo yako, yakatimbuka maji kutoka chemchem kumi na mbili. Kila kikundi na chemchem yake, na walikuwa makundi thinaashara Kumi na mbili. Basi kila kabila ikawa na pahala pake pa kunywea. Na tukakwambieni: Kuleni Manna na Salwa, na kunyweni maji haya yanayo timbuka, na muwache mlio nayo, wala msipite mipaka kwa uharibifu katika nchi, bali wacheni maasia."
 }

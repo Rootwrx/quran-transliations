@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4349",
-    "sura": "43",
-    "aya": "24",
-    "arabic_text": "۞ قَٰلَ أَوَلَوۡ جِئۡتُكُم بِأَهۡدَىٰ مِمَّا وَجَدتُّمۡ عَلَيۡهِ ءَابَآءَكُمۡۖ قَالُوٓاْ إِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
-    "translation": "Er sagte: Etwa auch, wenn ich euch bringe, was eine bessere Rechtleitung enthält als das, worin ihr eure Väter vorgefunden habt? Sie sagten: Wir verleugnen ja das, womit ihr gesandt worden seid.",
-    "footnotes": null
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 491,
+  "verse_key": "43:24",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 197,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قَٰلَ أَوَلَوۡ جِئۡتُكُم بِأَهۡدَىٰ مِمَّا وَجَدتُّمۡ عَلَيۡهِ ءَابَآءَكُمۡۖ قَالُوٓاْ إِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
+  "translation": "Er sagte: Etwa auch, wenn ich euch bringe, was eine bessere Rechtleitung enthält als das, worin ihr eure Väter vorgefunden habt? Sie sagten: Wir verleugnen ja das, womit ihr gesandt worden seid.",
+  "footnotes": null
 }

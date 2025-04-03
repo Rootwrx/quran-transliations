@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "123",
-    "sura": "2",
-    "aya": "116",
-    "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ بَل لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
-    "translation": "Abayahudi, abanaswara hamwe n’ababangikanyamana barakanagaye bavuga bati: “Imana Allah Yarigeneye umwana[14]!”. Nininahazwe, ntikitirirwe umwana! Ahubwo ibiri mu majuru no mw’isi vyose ni ibiremwa vyayo, ni Yo Mugabe wavyo, kandi vyose vyicisha bugufi imbere yayo;",
-    "footnotes": "[14] Abayahudi bavuga bati: “Uzayiri ni umwana w’Imana”. Abanaswara na bo bati: “Masihi Isa mwene Mariyamu, ni umwana w’Imana”. Ababangikanyamana na bo bati: \"Abamalayika, ni abakobwa b'Imana Allah\"."
-  }
+  "id": 116,
+  "verse_number": 116,
+  "page_number": 18,
+  "verse_key": "2:116",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗاۗ سُبۡحَٰنَهُۥۖ بَل لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
+  "translation": "Abayahudi, abanaswara hamwe n’ababangikanyamana barakanagaye bavuga bati: “Imana Allah Yarigeneye umwana[14]!”. Nininahazwe, ntikitirirwe umwana! Ahubwo ibiri mu majuru no mw’isi vyose ni ibiremwa vyayo, ni Yo Mugabe wavyo, kandi vyose vyicisha bugufi imbere yayo;",
+  "footnotes": "[14] Abayahudi bavuga bati: “Uzayiri ni umwana w’Imana”. Abanaswara na bo bati: “Masihi Isa mwene Mariyamu, ni umwana w’Imana”. Ababangikanyamana na bo bati: \"Abamalayika, ni abakobwa b'Imana Allah\"."
 }

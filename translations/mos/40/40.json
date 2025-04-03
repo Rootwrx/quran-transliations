@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4173",
-    "sura": "40",
-    "aya": "40",
-    "arabic_text": "مَنۡ عَمِلَ سَيِّئَةٗ فَلَا يُجۡزَىٰٓ إِلَّا مِثۡلَهَاۖ وَمَنۡ عَمِلَ صَٰلِحٗا مِّن ذَكَرٍ أَوۡ أُنثَىٰ وَهُوَ مُؤۡمِنٞ فَأُوْلَٰٓئِكَ يَدۡخُلُونَ ٱلۡجَنَّةَ يُرۡزَقُونَ فِيهَا بِغَيۡرِ حِسَابٖ",
-    "translation": "Ned ning sẽn tʋm-a wẽnga, b pa roand-a sã n pa a bilgr ye! La ned ning sẽn tʋm-a sõama, rao bɩ paga, t'a yaa sɩd-kõata, yaa bãmb-rãmbã n kẽed Arzãna, b rɩlgd-b la a pʋgẽ, tɩ pa yɩ ne geelg ye.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 471,
+  "verse_key": "40:40",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَنۡ عَمِلَ سَيِّئَةٗ فَلَا يُجۡزَىٰٓ إِلَّا مِثۡلَهَاۖ وَمَنۡ عَمِلَ صَٰلِحٗا مِّن ذَكَرٍ أَوۡ أُنثَىٰ وَهُوَ مُؤۡمِنٞ فَأُوْلَٰٓئِكَ يَدۡخُلُونَ ٱلۡجَنَّةَ يُرۡزَقُونَ فِيهَا بِغَيۡرِ حِسَابٖ",
+  "translation": "Ned ning sẽn tʋm-a wẽnga, b pa roand-a sã n pa a bilgr ye! La ned ning sẽn tʋm-a sõama, rao bɩ paga, t'a yaa sɩd-kõata, yaa bãmb-rãmbã n kẽed Arzãna, b rɩlgd-b la a pʋgẽ, tɩ pa yɩ ne geelg ye.",
+  "footnotes": ""
 }

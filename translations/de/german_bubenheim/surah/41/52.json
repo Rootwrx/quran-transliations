@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4270",
-    "sura": "41",
-    "aya": "52",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ ثُمَّ كَفَرۡتُم بِهِۦ مَنۡ أَضَلُّ مِمَّنۡ هُوَ فِي شِقَاقِۭ بَعِيدٖ",
-    "translation": "Sag: Was meint ihr, wenn er doch von Allah stammt und ihr ihn hierauf verleugnet? Wer ist weiter abgeirrt als jemand, der sich in tiefem Widerstreit befindet?",
-    "footnotes": null
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 482,
+  "verse_key": "41:52",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ ثُمَّ كَفَرۡتُم بِهِۦ مَنۡ أَضَلُّ مِمَّنۡ هُوَ فِي شِقَاقِۭ بَعِيدٖ",
+  "translation": "Sag: Was meint ihr, wenn er doch von Allah stammt und ihr ihn hierauf verleugnet? Wer ist weiter abgeirrt als jemand, der sich in tiefem Widerstreit befindet?",
+  "footnotes": null
 }

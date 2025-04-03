@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5338",
-    "sura": "69",
-    "aya": "15",
-    "arabic_text": "فَيَوۡمَئِذٖ وَقَعَتِ ٱلۡوَاقِعَةُ",
-    "translation": "15. Ана ўша Кунда воқеа воқеъ бўлур! (Яъни, Қиёмат қойим бўлур!)",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 567,
+  "verse_key": "69:15",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَيَوۡمَئِذٖ وَقَعَتِ ٱلۡوَاقِعَةُ",
+  "translation": "15. Ана ўша Кунда воқеа воқеъ бўлур! (Яъни, Қиёмат қойим бўлур!)",
+  "footnotes": ""
 }

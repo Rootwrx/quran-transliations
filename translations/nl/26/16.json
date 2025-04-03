@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2948",
-    "sura": "26",
-    "aya": "16",
-    "arabic_text": "فَأۡتِيَا فِرۡعَوۡنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "16. En wanneer jullie beiden tot de Farao komen zeg: “Wij zijn de Boodschappers van de Heer van de werelden.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 367,
+  "verse_key": "26:16",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأۡتِيَا فِرۡعَوۡنَ فَقُولَآ إِنَّا رَسُولُ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "16. En wanneer jullie beiden tot de Farao komen zeg: “Wij zijn de Boodschappers van de Heer van de werelden.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "573",
-    "sura": "4",
-    "aya": "80",
-    "arabic_text": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدۡ أَطَاعَ ٱللَّهَۖ وَمَن تَوَلَّىٰ فَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظٗا",
-    "translation": "Mwenye kumt'ii Mtume basi ndio amemt'ii Mwenyezi Mungu. Na anaye kengeuka, basi Sisi hatukukutuma wewe uwe ni mlinzi wao.",
-    "footnotes": "Mwenye kumt'ii Mtume basi ndio amemt'ii Mwenyezi Mungu, kwani yeye haamrishi ila alicho amrisha Mwenyezi Mungu. Wala hakatazi ila alicho kataza Mwenyezi Mungu. Kwa hivyo kumt'ii yeye (Mtume s.a.w.) ndio kutenda na kuacha kwa ut'iifu wa Mwenyezi Mungu. Na mwenye kukataa kukut'ii wewe basi, kwani Sisi hatukukupeleka wewe ila uwe ni mbashiri na mwonyaji tu, sio uwe ni mlinzi wao na muangalizi wao, uwalindie vitendo vyao. Hayo ni yetu Sisi sio yako."
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 91,
+  "verse_key": "4:80",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدۡ أَطَاعَ ٱللَّهَۖ وَمَن تَوَلَّىٰ فَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظٗا",
+  "translation": "Mwenye kumt'ii Mtume basi ndio amemt'ii Mwenyezi Mungu. Na anaye kengeuka, basi Sisi hatukukutuma wewe uwe ni mlinzi wao.",
+  "footnotes": "Mwenye kumt'ii Mtume basi ndio amemt'ii Mwenyezi Mungu, kwani yeye haamrishi ila alicho amrisha Mwenyezi Mungu. Wala hakatazi ila alicho kataza Mwenyezi Mungu. Kwa hivyo kumt'ii yeye (Mtume s.a.w.) ndio kutenda na kuacha kwa ut'iifu wa Mwenyezi Mungu. Na mwenye kukataa kukut'ii wewe basi, kwani Sisi hatukukupeleka wewe ila uwe ni mbashiri na mwonyaji tu, sio uwe ni mlinzi wao na muangalizi wao, uwalindie vitendo vyao. Hayo ni yetu Sisi sio yako."
 }

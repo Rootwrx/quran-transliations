@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "683",
-    "sura": "5",
-    "aya": "14",
-    "arabic_text": "وَمِنَ ٱلَّذِينَ قَالُوٓاْ إِنَّا نَصَٰرَىٰٓ أَخَذۡنَا مِيثَٰقَهُمۡ فَنَسُواْ حَظّٗا مِّمَّا ذُكِّرُواْ بِهِۦ فَأَغۡرَيۡنَا بَيۡنَهُمُ ٱلۡعَدَاوَةَ وَٱلۡبَغۡضَآءَ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِۚ وَسَوۡفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُواْ يَصۡنَعُونَ",
-    "translation": "La sẽn yeel-b rãmb tɩ bãmb yaa Nasaar-rãmba: \"Tõnd rɩka b pʋlengã, tɩ b yĩm pʋɩɩr b sẽn tẽeg-b ne bũmb ningã, tɩ Tõnd raag beem b ne taab sʋka la gẽeg n na n tɩ tãag Dũni Yikr raare, la Wẽnd na wa n kõ-b kɩbare, b sẽn da yɩ n maandẽ wã.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 110,
+  "verse_key": "5:14",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 44,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلَّذِينَ قَالُوٓاْ إِنَّا نَصَٰرَىٰٓ أَخَذۡنَا مِيثَٰقَهُمۡ فَنَسُواْ حَظّٗا مِّمَّا ذُكِّرُواْ بِهِۦ فَأَغۡرَيۡنَا بَيۡنَهُمُ ٱلۡعَدَاوَةَ وَٱلۡبَغۡضَآءَ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِۚ وَسَوۡفَ يُنَبِّئُهُمُ ٱللَّهُ بِمَا كَانُواْ يَصۡنَعُونَ",
+  "translation": "La sẽn yeel-b rãmb tɩ bãmb yaa Nasaar-rãmba: \"Tõnd rɩka b pʋlengã, tɩ b yĩm pʋɩɩr b sẽn tẽeg-b ne bũmb ningã, tɩ Tõnd raag beem b ne taab sʋka la gẽeg n na n tɩ tãag Dũni Yikr raare, la Wẽnd na wa n kõ-b kɩbare, b sẽn da yɩ n maandẽ wã.",
+  "footnotes": ""
 }

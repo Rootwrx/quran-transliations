@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2415",
-    "sura": "20",
-    "aya": "67",
-    "arabic_text": "فَأَوۡجَسَ فِي نَفۡسِهِۦ خِيفَةٗ مُّوسَىٰ",
-    "translation": "67. Taigi Mūsa (Mozė) pajuto savyje baimę.",
-    "footnotes": ""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 316,
+  "verse_key": "20:67",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَوۡجَسَ فِي نَفۡسِهِۦ خِيفَةٗ مُّوسَىٰ",
+  "translation": "67. Taigi Mūsa (Mozė) pajuto savyje baimę.",
+  "footnotes": ""
 }

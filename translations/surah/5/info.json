@@ -1,0 +1,27 @@
+{
+  "number": 5,
+  "name": {
+    "ar": "المائدة",
+    "en": "The Table",
+    "transliteration": "Al-Ma'idah"
+  },
+  "revelation_place": {
+    "ar": "مدنية",
+    "en": "medinan"
+  },
+  "revelation_order": 112,
+  "bismillah_pre": true,
+  "verses_count": 120,
+  "words_count": 2837,
+  "letters_count": 11892,
+  "pages": [
+    106,
+    127
+  ],
+  "name_simple": "Al-Ma'idah",
+  "name_complex": "Al-Mā'idah",
+  "name_arabic": "المائدة",
+  "translated_name": "The Table Spread",
+  "start_page": 106,
+  "end_page": 127
+}

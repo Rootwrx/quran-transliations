@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5340",
-    "sura": "69",
-    "aya": "17",
-    "arabic_text": "وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ يَوۡمَئِذٖ ثَمَٰنِيَةٞ",
-    "translation": "N’abamalayika bazaba bakizengurutse (ikirere) impande zacyo. Kandi kuri uwo munsi abamalayika umunani biyongera kuri abo bazaba bateruye Ar’shi[1] ya Nyagasani wawe.",
-    "footnotes": "[1] Reba ibisobanuro by’iri jambo muri Surat ul A’araf, Aya ya 54"
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 567,
+  "verse_key": "69:17",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ يَوۡمَئِذٖ ثَمَٰنِيَةٞ",
+  "translation": "N’abamalayika bazaba bakizengurutse (ikirere) impande zacyo. Kandi kuri uwo munsi abamalayika umunani biyongera kuri abo bazaba bateruye Ar’shi[1] ya Nyagasani wawe.",
+  "footnotes": "[1] Reba ibisobanuro by’iri jambo muri Surat ul A’araf, Aya ya 54"
 }

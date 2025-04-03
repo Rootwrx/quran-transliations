@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1563",
-    "sura": "11",
-    "aya": "90",
-    "arabic_text": "وَٱسۡتَغۡفِرُواْ رَبَّكُمۡ ثُمَّ تُوبُوٓاْ إِلَيۡهِۚ إِنَّ رَبِّي رَحِيمٞ وَدُودٞ",
-    "translation": "90. Mpe bosenga bolimbisi epai ya Nkolo wa bino mpe botubela epai naye. Ya soló, Nkolo wa ngai azali Nkolo wa mawa atonda bolingo.",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 232,
+  "verse_key": "11:90",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱسۡتَغۡفِرُواْ رَبَّكُمۡ ثُمَّ تُوبُوٓاْ إِلَيۡهِۚ إِنَّ رَبِّي رَحِيمٞ وَدُودٞ",
+  "translation": "90. Mpe bosenga bolimbisi epai ya Nkolo wa bino mpe botubela epai naye. Ya soló, Nkolo wa ngai azali Nkolo wa mawa atonda bolingo.",
+  "footnotes": ""
 }

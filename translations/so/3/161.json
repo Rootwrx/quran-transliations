@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "454",
-    "sura": "3",
-    "aya": "161",
-    "arabic_text": "وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّۚ وَمَن يَغۡلُلۡ يَأۡتِ بِمَا غَلَّ يَوۡمَ ٱلۡقِيَٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
-    "translation": "161. Kama suurowda Nabi inuu wax khiyaano (oo booli qaato), qofkiina wax khiyaana (ama booli qaata ha ahaato mid qof leeyahay ama mid qaran) wuxuu keeni waxa uu khiyaanada ku qaatay Maalinta Qiyaamaha35. Waxaana naf walba loogu oofin si dhan waxay kasbatay iyagoon la dulmineyn.",
-    "footnotes": "35. Nabigu s.c.w. wuxuu yidhi: Yaan garan midkiin oo imaan Qiyaamada isagoo xambaarsan riti ciyi (xoolo ama maal booli ah) markaasuu odhan: Muxammadow, Muxammadow, waxaan ku odhan: Waxba kuuma qaban karo waa ku soo gaarsiiyey inaad iska ilaaliso maal xaq darro iyo xoolo booli ah."
-  }
+  "id": 161,
+  "verse_number": 161,
+  "page_number": 71,
+  "verse_key": "3:161",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّۚ وَمَن يَغۡلُلۡ يَأۡتِ بِمَا غَلَّ يَوۡمَ ٱلۡقِيَٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
+  "translation": "161. Kama suurowda Nabi inuu wax khiyaano (oo booli qaato), qofkiina wax khiyaana (ama booli qaata ha ahaato mid qof leeyahay ama mid qaran) wuxuu keeni waxa uu khiyaanada ku qaatay Maalinta Qiyaamaha35. Waxaana naf walba loogu oofin si dhan waxay kasbatay iyagoon la dulmineyn.",
+  "footnotes": "35. Nabigu s.c.w. wuxuu yidhi: Yaan garan midkiin oo imaan Qiyaamada isagoo xambaarsan riti ciyi (xoolo ama maal booli ah) markaasuu odhan: Muxammadow, Muxammadow, waxaan ku odhan: Waxba kuuma qaban karo waa ku soo gaarsiiyey inaad iska ilaaliso maal xaq darro iyo xoolo booli ah."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1671",
-    "sura": "12",
-    "aya": "75",
-    "arabic_text": "قَالُواْ جَزَٰٓؤُهُۥ مَن وُجِدَ فِي رَحۡلِهِۦ فَهُوَ جَزَٰٓؤُهُۥۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
-    "translation": "(Các anh của Yusuf) nói: “Hình phạt dành cho kẻ mà (vật bị mất trộm) được tìm thấy trong hành lý của y là bỏ tù y. Đó là hình phạt mà chúng tôi dùng để trừng phạt đối với những kẻ làm điều sai trái.”",
-    "footnotes": ""
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 244,
+  "verse_key": "12:75",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ جَزَٰٓؤُهُۥ مَن وُجِدَ فِي رَحۡلِهِۦ فَهُوَ جَزَٰٓؤُهُۥۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
+  "translation": "(Các anh của Yusuf) nói: “Hình phạt dành cho kẻ mà (vật bị mất trộm) được tìm thấy trong hành lý của y là bỏ tù y. Đó là hình phạt mà chúng tôi dùng để trừng phạt đối với những kẻ làm điều sai trái.”",
+  "footnotes": ""
 }

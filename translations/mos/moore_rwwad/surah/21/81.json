@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2564",
-    "sura": "21",
-    "aya": "81",
-    "arabic_text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ عَاصِفَةٗ تَجۡرِي بِأَمۡرِهِۦٓ إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَاۚ وَكُنَّا بِكُلِّ شَيۡءٍ عَٰلِمِينَ",
-    "translation": "La Tõnd wõra sebgã n kõ a Sʋlaymaan t'a zoet ne Tõnd saglgo, n kẽngd tẽng ning D sẽn barkã, la Tõnd yaa bũmbã fãa gill mita.",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 328,
+  "verse_key": "21:81",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ عَاصِفَةٗ تَجۡرِي بِأَمۡرِهِۦٓ إِلَى ٱلۡأَرۡضِ ٱلَّتِي بَٰرَكۡنَا فِيهَاۚ وَكُنَّا بِكُلِّ شَيۡءٍ عَٰلِمِينَ",
+  "translation": "La Tõnd wõra sebgã n kõ a Sʋlaymaan t'a zoet ne Tõnd saglgo, n kẽngd tẽng ning D sẽn barkã, la Tõnd yaa bũmbã fãa gill mita.",
+  "footnotes": ""
 }

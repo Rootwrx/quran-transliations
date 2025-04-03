@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5745",
-    "sura": "79",
-    "aya": "33",
-    "arabic_text": "مَتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ",
-    "translation": "మీకు మరియు మీ పశువులకు జీవన సామగ్రిగా[1]!",
-    "footnotes": "[1] చూడండి, 80:24-32."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 584,
+  "verse_key": "79:33",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ",
+  "translation": "మీకు మరియు మీ పశువులకు జీవన సామగ్రిగా[1]!",
+  "footnotes": "[1] చూడండి, 80:24-32."
 }

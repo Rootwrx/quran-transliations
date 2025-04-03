@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "28",
-    "sura": "2",
-    "aya": "21",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱعۡبُدُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُمۡ وَٱلَّذِينَ مِن قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُونَ",
-    "translation": "Enyi watu! Muabuduni Mola wenu Mlezi aliye kuumbeni nyinyi na wale wa kabla yenu, ili mpate kuokoka.",
-    "footnotes": "Enyi watu! Muabuduni Mola wenu Mlezi aliye kuanzeni, akakuumbeni akakuleeni, kama alivyo waumba walio kutangulieni. Kwani Yeye ndiye Muumba wa kila kitu. Haya ni hivyo ili mpate kuzitayarisha nafsi zenu, na mzitengeneze kwa ajili ya utukufu wa Mwenyezi Mungu na uangalizi wake. Kwa hivyo nafsi zenu zitahirike na zipate kuifuata Haki, na ziogope mwisho muovu."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 4,
+  "verse_key": "2:21",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱعۡبُدُواْ رَبَّكُمُ ٱلَّذِي خَلَقَكُمۡ وَٱلَّذِينَ مِن قَبۡلِكُمۡ لَعَلَّكُمۡ تَتَّقُونَ",
+  "translation": "Enyi watu! Muabuduni Mola wenu Mlezi aliye kuumbeni nyinyi na wale wa kabla yenu, ili mpate kuokoka.",
+  "footnotes": "Enyi watu! Muabuduni Mola wenu Mlezi aliye kuanzeni, akakuumbeni akakuleeni, kama alivyo waumba walio kutangulieni. Kwani Yeye ndiye Muumba wa kila kitu. Haya ni hivyo ili mpate kuzitayarisha nafsi zenu, na mzitengeneze kwa ajili ya utukufu wa Mwenyezi Mungu na uangalizi wake. Kwa hivyo nafsi zenu zitahirike na zipate kuifuata Haki, na ziogope mwisho muovu."
 }

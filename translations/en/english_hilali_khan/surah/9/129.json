@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1364",
-    "sura": "9",
-    "aya": "129",
-    "arabic_text": "فَإِن تَوَلَّوۡاْ فَقُلۡ حَسۡبِيَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ عَلَيۡهِ تَوَكَّلۡتُۖ وَهُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ",
-    "translation": " 129. But if they turn away, say (O Muhammad صلى الله عليه وسلم): \"Allâh is sufficient for me. Lâ ilâha illa Huwa (none has the right to be worshipped but He) in Him I put my trust and He is the Lord of the Mighty Throne.\"[1]",
-    "footnotes": "(V.9:129) See the footnote of (V.3:173)."
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 207,
+  "verse_key": "9:129",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن تَوَلَّوۡاْ فَقُلۡ حَسۡبِيَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ عَلَيۡهِ تَوَكَّلۡتُۖ وَهُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ",
+  "translation": " 129. But if they turn away, say (O Muhammad صلى الله عليه وسلم): \"Allâh is sufficient for me. Lâ ilâha illa Huwa (none has the right to be worshipped but He) in Him I put my trust and He is the Lord of the Mighty Throne.\"[1]",
+  "footnotes": "(V.9:129) See the footnote of (V.3:173)."
 }

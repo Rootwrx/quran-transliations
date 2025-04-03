@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4163",
-    "sura": "40",
-    "aya": "30",
-    "arabic_text": "وَقَالَ ٱلَّذِيٓ ءَامَنَ يَٰقَوۡمِ إِنِّيٓ أَخَافُ عَلَيۡكُم مِّثۡلَ يَوۡمِ ٱلۡأَحۡزَابِ",
-    "translation": "A onda, onaj koji je vjerovao reče: \"O narode moj, ja se za vas bojim dana poput dana kada su kažnjene skupine koje su se protiv poslanika bile urotile, ",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 470,
+  "verse_key": "40:30",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِيٓ ءَامَنَ يَٰقَوۡمِ إِنِّيٓ أَخَافُ عَلَيۡكُم مِّثۡلَ يَوۡمِ ٱلۡأَحۡزَابِ",
+  "translation": "A onda, onaj koji je vjerovao reče: \"O narode moj, ja se za vas bojim dana poput dana kada su kažnjene skupine koje su se protiv poslanika bile urotile, ",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5974",
-    "sura": "88",
-    "aya": "7",
-    "arabic_text": "لَّا يُسۡمِنُ وَلَا يُغۡنِي مِن جُوعٖ",
-    "translation": " 7. Which will neither nourish nor avail against hunger.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 592,
+  "verse_key": "88:7",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يُسۡمِنُ وَلَا يُغۡنِي مِن جُوعٖ",
+  "translation": " 7. Which will neither nourish nor avail against hunger.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2756",
-    "sura": "23",
-    "aya": "83",
-    "arabic_text": "لَقَدۡ وُعِدۡنَا نَحۡنُ وَءَابَآؤُنَا هَٰذَا مِن قَبۡلُ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
-    "translation": "\"Com efeito, foi-nos prometido isso, a nós e, antes, a nossos pais; isso não são senão fábulas dos antepassados!\"",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 347,
+  "verse_key": "23:83",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ وُعِدۡنَا نَحۡنُ وَءَابَآؤُنَا هَٰذَا مِن قَبۡلُ إِنۡ هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+  "translation": "\"Com efeito, foi-nos prometido isso, a nós e, antes, a nossos pais; isso não são senão fábulas dos antepassados!\"",
+  "footnotes": ""
 }

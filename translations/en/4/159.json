@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "652",
-    "sura": "4",
-    "aya": "159",
-    "arabic_text": "وَإِن مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ إِلَّا لَيُؤۡمِنَنَّ بِهِۦ قَبۡلَ مَوۡتِهِۦۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكُونُ عَلَيۡهِمۡ شَهِيدٗا",
-    "translation": "(159) And there is none from the People of the Scripture but that he will surely believe in him [i.e., Jesus] before his death.[234] And on the Day of Resurrection he will be against them a witness.",
-    "footnotes": "[234]- One interpretation is that \"his death\" refers to that of Jesus after his return to earth.  Or it can mean \"the death of every individual from among the People of the Scripture.\""
-  }
+  "id": 159,
+  "verse_number": 159,
+  "page_number": 103,
+  "verse_key": "4:159",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ إِلَّا لَيُؤۡمِنَنَّ بِهِۦ قَبۡلَ مَوۡتِهِۦۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكُونُ عَلَيۡهِمۡ شَهِيدٗا",
+  "translation": "(159) And there is none from the People of the Scripture but that he will surely believe in him [i.e., Jesus] before his death.[234] And on the Day of Resurrection he will be against them a witness.",
+  "footnotes": "[234]- One interpretation is that \"his death\" refers to that of Jesus after his return to earth.  Or it can mean \"the death of every individual from among the People of the Scripture.\""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1606",
-    "sura": "12",
-    "aya": "10",
-    "arabic_text": "قَالَ قَآئِلٞ مِّنۡهُمۡ لَا تَقۡتُلُواْ يُوسُفَ وَأَلۡقُوهُ فِي غَيَٰبَتِ ٱلۡجُبِّ يَلۡتَقِطۡهُ بَعۡضُ ٱلسَّيَّارَةِ إِن كُنتُمۡ فَٰعِلِينَ",
-    "translation": "Onlardan bir sözcü, “Yûsuf’u öldürmeyin, onu bir kuyunun dibine bırakın ki geçen kervanlardan biri onu bulup alsın. Eğer yapacaksanız böyle yapın” dedi.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 236,
+  "verse_key": "12:10",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ قَآئِلٞ مِّنۡهُمۡ لَا تَقۡتُلُواْ يُوسُفَ وَأَلۡقُوهُ فِي غَيَٰبَتِ ٱلۡجُبِّ يَلۡتَقِطۡهُ بَعۡضُ ٱلسَّيَّارَةِ إِن كُنتُمۡ فَٰعِلِينَ",
+  "translation": "Onlardan bir sözcü, “Yûsuf’u öldürmeyin, onu bir kuyunun dibine bırakın ki geçen kervanlardan biri onu bulup alsın. Eğer yapacaksanız böyle yapın” dedi.",
+  "footnotes": ""
 }

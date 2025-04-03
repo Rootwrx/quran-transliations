@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4896",
-    "sura": "54",
-    "aya": "50",
-    "arabic_text": "وَمَآ أَمۡرُنَآ إِلَّا وَٰحِدَةٞ كَلَمۡحِۭ بِٱلۡبَصَرِ",
-    "translation": "50. En Ons bevel is slechts één; als de flikkering van een oog.",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 531,
+  "verse_key": "54:50",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَمۡرُنَآ إِلَّا وَٰحِدَةٞ كَلَمۡحِۭ بِٱلۡبَصَرِ",
+  "translation": "50. En Ons bevel is slechts één; als de flikkering van een oog.",
+  "footnotes": ""
 }

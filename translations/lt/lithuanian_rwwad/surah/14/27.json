@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1777",
-    "sura": "14",
-    "aya": "27",
-    "arabic_text": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ بِٱلۡقَوۡلِ ٱلثَّابِتِ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۖ وَيُضِلُّ ٱللَّهُ ٱلظَّٰلِمِينَۚ وَيَفۡعَلُ ٱللَّهُ مَا يَشَآءُ",
-    "translation": "27. Allahas sutvirtins tuos, kurie tiki, žodžiu, kuris tvirtas, šiame pasaulyje (t. y. jie garbins Allahą Vienintelį ir nieko kito), ir Amžinybėje. [1] Ir Allahas privers paklysti tuos, kurie yra Zalimūn (daugiadieviai ir nusidėjėliai), ir Allahas daro tai, ką Jis nori.",
-    "footnotes": "[1] t. y. iškart po jų mirties (jų kape ir t. t.), kai angelai (Munkar ir Nakir) klaus jų trijų klausimų: kas yra tavo Viešpats, kokia yra tavo religija ir ką sakai apie šį žmogų (Pranašą Muchammedą ﷺ), kuris buvo jums siųstas? Tikintieji atsakys teisingai, t. y. mano Viešpats yra Allahas, mano religija yra islamas ir šis vyras Muchammedas ﷺ yra Allaho Pasiuntinys, kuris atėjo pas mus su aiškiais ženklais ir mes juo patikėjome. Tuo tarpu nusidėjėliai, kurie nepatikėjo Pranašo Muchammedo ﷺ Žinia, nesugebės atsakyti į šiuos klausimus."
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 259,
+  "verse_key": "14:27",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُثَبِّتُ ٱللَّهُ ٱلَّذِينَ ءَامَنُواْ بِٱلۡقَوۡلِ ٱلثَّابِتِ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَفِي ٱلۡأٓخِرَةِۖ وَيُضِلُّ ٱللَّهُ ٱلظَّٰلِمِينَۚ وَيَفۡعَلُ ٱللَّهُ مَا يَشَآءُ",
+  "translation": "27. Allahas sutvirtins tuos, kurie tiki, žodžiu, kuris tvirtas, šiame pasaulyje (t. y. jie garbins Allahą Vienintelį ir nieko kito), ir Amžinybėje. [1] Ir Allahas privers paklysti tuos, kurie yra Zalimūn (daugiadieviai ir nusidėjėliai), ir Allahas daro tai, ką Jis nori.",
+  "footnotes": "[1] t. y. iškart po jų mirties (jų kape ir t. t.), kai angelai (Munkar ir Nakir) klaus jų trijų klausimų: kas yra tavo Viešpats, kokia yra tavo religija ir ką sakai apie šį žmogų (Pranašą Muchammedą ﷺ), kuris buvo jums siųstas? Tikintieji atsakys teisingai, t. y. mano Viešpats yra Allahas, mano religija yra islamas ir šis vyras Muchammedas ﷺ yra Allaho Pasiuntinys, kuris atėjo pas mus su aiškiais ženklais ir mes juo patikėjome. Tuo tarpu nusidėjėliai, kurie nepatikėjo Pranašo Muchammedo ﷺ Žinia, nesugebės atsakyti į šiuos klausimus."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5274",
-    "sura": "68",
-    "aya": "3",
-    "arabic_text": "وَإِنَّ لَكَ لَأَجۡرًا غَيۡرَ مَمۡنُونٖ",
-    "translation": "තවද සැබැවින් ම නුඹට නිමක් නොමැති ප්‍රතිඵලයක් ඇත.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 564,
+  "verse_key": "68:3",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ لَكَ لَأَجۡرًا غَيۡرَ مَمۡنُونٖ",
+  "translation": "තවද සැබැවින් ම නුඹට නිමක් නොමැති ප්‍රතිඵලයක් ඇත.",
+  "footnotes": ""
 }

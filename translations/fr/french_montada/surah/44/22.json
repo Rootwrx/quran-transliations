@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4436",
-    "sura": "44",
-    "aya": "22",
-    "arabic_text": "فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوۡمٞ مُّجۡرِمُونَ",
-    "translation": "22. Il implora son Seigneur (en disant) : « Ceux-là sont des gens criminels. »",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 497,
+  "verse_key": "44:22",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَدَعَا رَبَّهُۥٓ أَنَّ هَٰٓؤُلَآءِ قَوۡمٞ مُّجۡرِمُونَ",
+  "translation": "22. Il implora son Seigneur (en disant) : « Ceux-là sont des gens criminels. »",
+  "footnotes": ""
 }

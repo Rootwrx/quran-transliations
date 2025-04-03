@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3911",
-    "sura": "37",
-    "aya": "123",
-    "arabic_text": "وَإِنَّ إِلۡيَاسَ لَمِنَ ٱلۡمُرۡسَلِينَ",
-    "translation": "Dájúdájú (Ànábì) ’Ilyās wà nínú àwọn Òjíṣẹ́.",
-    "footnotes": ""
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 450,
+  "verse_key": "37:123",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ إِلۡيَاسَ لَمِنَ ٱلۡمُرۡسَلِينَ",
+  "translation": "Dájúdájú (Ànábì) ’Ilyās wà nínú àwọn Òjíṣẹ́.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1616",
-    "sura": "12",
-    "aya": "20",
-    "arabic_text": "وَشَرَوۡهُ بِثَمَنِۭ بَخۡسٖ دَرَٰهِمَ مَعۡدُودَةٖ وَكَانُواْ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
-    "translation": ". Na wakamuuza kwa thamani duni, kwa akali ya pesa. Wala hawakuwa na haja naye.",
-    "footnotes": "Wakamuuza Misri kwa bei ya chini kabisa, si kiasi chake! Thamani yake ilikuwa ni pesa chache tu! Wala hawakuwa wakimtakia Yusuf thamani kubwa, kwa kukhofia wasije watu wake wakamkuta wakamtambua, na wakawapokonya Yusuf."
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 237,
+  "verse_key": "12:20",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَشَرَوۡهُ بِثَمَنِۭ بَخۡسٖ دَرَٰهِمَ مَعۡدُودَةٖ وَكَانُواْ فِيهِ مِنَ ٱلزَّٰهِدِينَ",
+  "translation": ". Na wakamuuza kwa thamani duni, kwa akali ya pesa. Wala hawakuwa na haja naye.",
+  "footnotes": "Wakamuuza Misri kwa bei ya chini kabisa, si kiasi chake! Thamani yake ilikuwa ni pesa chache tu! Wala hawakuwa wakimtakia Yusuf thamani kubwa, kwa kukhofia wasije watu wake wakamkuta wakamtambua, na wakawapokonya Yusuf."
 }

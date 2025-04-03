@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1845",
-    "sura": "15",
-    "aya": "43",
-    "arabic_text": "وَإِنَّ جَهَنَّمَ لَمَوۡعِدُهُمۡ أَجۡمَعِينَ",
-    "translation": "за све њих Пакао ће да буде одредиште,",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 264,
+  "verse_key": "15:43",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ جَهَنَّمَ لَمَوۡعِدُهُمۡ أَجۡمَعِينَ",
+  "translation": "за све њих Пакао ће да буде одредиште,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6097",
-    "sura": "94",
-    "aya": "7",
-    "arabic_text": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ",
-    "translation": "Enti sε wowie (adwuma a yεde ahyε wo nsa no a) kͻ so bͻ mmͻden,",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 596,
+  "verse_key": "94:7",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا فَرَغۡتَ فَٱنصَبۡ",
+  "translation": "Enti sε wowie (adwuma a yεde ahyε wo nsa no a) kͻ so bͻ mmͻden,",
+  "footnotes": ""
 }

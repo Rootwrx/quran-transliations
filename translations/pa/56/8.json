@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4987",
-    "sura": "56",
-    "aya": "8",
-    "arabic_text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
-    "translation": "8਼ (ਇਕ ਹਨ) ਸੱਜੇ ਹੱਥ ਵਾਲੇ, ਸੱਜੇ ਹੱਥ ਵਾਲਿਆਂ ਦਾ ਕੀ ਕਹਿਣਾ।",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 534,
+  "verse_key": "56:8",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَصۡحَٰبُ ٱلۡمَيۡمَنَةِ مَآ أَصۡحَٰبُ ٱلۡمَيۡمَنَةِ",
+  "translation": "8਼ (ਇਕ ਹਨ) ਸੱਜੇ ਹੱਥ ਵਾਲੇ, ਸੱਜੇ ਹੱਥ ਵਾਲਿਆਂ ਦਾ ਕੀ ਕਹਿਣਾ।",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6236",
-    "sura": "114",
-    "aya": "6",
-    "arabic_text": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
-    "translation": "\"Daga aljannu da mutane.\"",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 604,
+  "verse_key": "114:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ",
+  "translation": "\"Daga aljannu da mutane.\"",
+  "footnotes": ""
 }

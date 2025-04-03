@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2082",
-    "sura": "17",
-    "aya": "53",
-    "arabic_text": "وَقُل لِّعِبَادِي يَقُولُواْ ٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ ٱلشَّيۡطَٰنَ يَنزَغُ بَيۡنَهُمۡۚ إِنَّ ٱلشَّيۡطَٰنَ كَانَ لِلۡإِنسَٰنِ عَدُوّٗا مُّبِينٗا",
-    "translation": "Tell My slaves that they should say what is best[46], for Satan sows discord among them. Indeed, Satan is a sworn enemy to mankind.",
-    "footnotes": "[46] i.e., they should be considerate and kind, well-spoken, and tolerant to win hearts."
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 287,
+  "verse_key": "17:53",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُل لِّعِبَادِي يَقُولُواْ ٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ ٱلشَّيۡطَٰنَ يَنزَغُ بَيۡنَهُمۡۚ إِنَّ ٱلشَّيۡطَٰنَ كَانَ لِلۡإِنسَٰنِ عَدُوّٗا مُّبِينٗا",
+  "translation": "Tell My slaves that they should say what is best[46], for Satan sows discord among them. Indeed, Satan is a sworn enemy to mankind.",
+  "footnotes": "[46] i.e., they should be considerate and kind, well-spoken, and tolerant to win hearts."
 }

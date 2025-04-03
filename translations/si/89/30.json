@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6023",
-    "sura": "89",
-    "aya": "30",
-    "arabic_text": "وَٱدۡخُلِي جَنَّتِي",
-    "translation": "තවද මාගේ ස්වර්ගයට පිවිසෙනු.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 594,
+  "verse_key": "89:30",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱدۡخُلِي جَنَّتِي",
+  "translation": "තවද මාගේ ස්වර්ගයට පිවිසෙනු.",
+  "footnotes": ""
 }

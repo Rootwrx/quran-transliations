@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1988",
-    "sura": "16",
-    "aya": "87",
-    "arabic_text": "وَأَلۡقَوۡاْ إِلَى ٱللَّهِ يَوۡمَئِذٍ ٱلسَّلَمَۖ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
-    "translation": "Na siku hiyo watasalimu amri mbele ya Mwenyezi Mungu, na yatapotea waliyo kuwa wakiyazua.",
-    "footnotes": "Hapo tena wale washirikina walio mshirikisha Mwenyezi Mungu watasalimu amri, waikubali hukumu yake, na yawaondokee yale mawazo yao kwamba walio kuwa wakiwaabudu yatakuja waombea na kuwakinga na adhabu!"
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 276,
+  "verse_key": "16:87",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَلۡقَوۡاْ إِلَى ٱللَّهِ يَوۡمَئِذٍ ٱلسَّلَمَۖ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
+  "translation": "Na siku hiyo watasalimu amri mbele ya Mwenyezi Mungu, na yatapotea waliyo kuwa wakiyazua.",
+  "footnotes": "Hapo tena wale washirikina walio mshirikisha Mwenyezi Mungu watasalimu amri, waikubali hukumu yake, na yawaondokee yale mawazo yao kwamba walio kuwa wakiwaabudu yatakuja waombea na kuwakinga na adhabu!"
 }

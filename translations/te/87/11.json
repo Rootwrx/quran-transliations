@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5959",
-    "sura": "87",
-    "aya": "11",
-    "arabic_text": "وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى",
-    "translation": "మరియు దౌర్భాగ్యుడు దానికి దూరమై పోతాడు.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 591,
+  "verse_key": "87:11",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَتَجَنَّبُهَا ٱلۡأَشۡقَى",
+  "translation": "మరియు దౌర్భాగ్యుడు దానికి దూరమై పోతాడు.",
+  "footnotes": ""
 }

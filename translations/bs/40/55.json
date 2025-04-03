@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4188",
-    "sura": "40",
-    "aya": "55",
-    "arabic_text": "فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ بِٱلۡعَشِيِّ وَٱلۡإِبۡكَٰرِ",
-    "translation": "Pa ti budi strpljiv - Allahovo je obećanje Istina - i moli da ti budu oprošteni grijesi, i Gospodara svoga slavi i hvali uvečer i ujutro!",
-    "footnotes": ""
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 473,
+  "verse_key": "40:55",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱصۡبِرۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ بِٱلۡعَشِيِّ وَٱلۡإِبۡكَٰرِ",
+  "translation": "Pa ti budi strpljiv - Allahovo je obećanje Istina - i moli da ti budu oprošteni grijesi, i Gospodara svoga slavi i hvali uvečer i ujutro!",
+  "footnotes": ""
 }

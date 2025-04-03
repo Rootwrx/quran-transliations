@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2432",
-    "sura": "20",
-    "aya": "84",
-    "arabic_text": "قَالَ هُمۡ أُوْلَآءِ عَلَىٰٓ أَثَرِي وَعَجِلۡتُ إِلَيۡكَ رَبِّ لِتَرۡضَىٰ",
-    "translation": "84. Dia (Musa) berkata, “Itu mereka sedang menyusul aku dan aku bersegera kepada-Mu, Ya Tuhanku, agar Engkau rida (kepadaku).”",
-    "footnotes": ""
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 317,
+  "verse_key": "20:84",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ هُمۡ أُوْلَآءِ عَلَىٰٓ أَثَرِي وَعَجِلۡتُ إِلَيۡكَ رَبِّ لِتَرۡضَىٰ",
+  "translation": "84. Dia (Musa) berkata, “Itu mereka sedang menyusul aku dan aku bersegera kepada-Mu, Ya Tuhanku, agar Engkau rida (kepadaku).”",
+  "footnotes": ""
 }

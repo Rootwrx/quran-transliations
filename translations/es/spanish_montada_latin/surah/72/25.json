@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5472",
-    "sura": "72",
-    "aya": "25",
-    "arabic_text": "قُلۡ إِنۡ أَدۡرِيٓ أَقَرِيبٞ مَّا تُوعَدُونَ أَمۡ يَجۡعَلُ لَهُۥ رَبِّيٓ أَمَدًا",
-    "translation": "25. Diles: “No sé si está cerca el castigo que les ha sido prometido o si mi Señor lo ha aplazado para más tarde.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 573,
+  "verse_key": "72:25",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنۡ أَدۡرِيٓ أَقَرِيبٞ مَّا تُوعَدُونَ أَمۡ يَجۡعَلُ لَهُۥ رَبِّيٓ أَمَدًا",
+  "translation": "25. Diles: “No sé si está cerca el castigo que les ha sido prometido o si mi Señor lo ha aplazado para más tarde.",
+  "footnotes": ""
 }

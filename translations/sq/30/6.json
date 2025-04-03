@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3415",
-    "sura": "30",
-    "aya": "6",
-    "arabic_text": "وَعۡدَ ٱللَّهِۖ لَا يُخۡلِفُ ٱللَّهُ وَعۡدَهُۥ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
-    "translation": "(Ky është) premtimi i Allahut, e Allahu nuk e thyen premtimin e vet, por shumica e njerëzve nuk e dinë.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 405,
+  "verse_key": "30:6",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعۡدَ ٱللَّهِۖ لَا يُخۡلِفُ ٱللَّهُ وَعۡدَهُۥ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+  "translation": "(Ky është) premtimi i Allahut, e Allahu nuk e thyen premtimin e vet, por shumica e njerëzve nuk e dinë.",
+  "footnotes": ""
 }

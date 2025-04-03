@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "11",
-    "sura": "2",
-    "aya": "4",
-    "arabic_text": "وَٱلَّذِينَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ وَبِٱلۡأٓخِرَةِ هُمۡ يُوقِنُونَ",
-    "translation": "dan mereka beriman kepada (Al-Qur`an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah diturunkan sebelum engkau,7) dan mereka yakin akan adanya akhirat.",
-    "footnotes": "*7) Yang diturunkan kepada Nabi-nabi sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- ialah: Taurat, Zabur, Injil dan Suḥuf (lembaran-lembaran) yang tidak seperti Kitab."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 2,
+  "verse_key": "2:4",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يُؤۡمِنُونَ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ وَبِٱلۡأٓخِرَةِ هُمۡ يُوقِنُونَ",
+  "translation": "dan mereka beriman kepada (Al-Qur`an) yang diturunkan kepadamu (Muhammad) dan (kitab-kitab) yang telah diturunkan sebelum engkau,7) dan mereka yakin akan adanya akhirat.",
+  "footnotes": "*7) Yang diturunkan kepada Nabi-nabi sebelum Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- ialah: Taurat, Zabur, Injil dan Suḥuf (lembaran-lembaran) yang tidak seperti Kitab."
 }

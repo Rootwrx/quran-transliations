@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5119",
-    "sura": "58",
-    "aya": "15",
-    "arabic_text": "أَعَدَّ ٱللَّهُ لَهُمۡ عَذَابٗا شَدِيدًاۖ إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Imana Allah, Yaraziteguriye ibihano ruhasha. Mu vy’ukuri indyarya, zamye zikora bibi cane.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 544,
+  "verse_key": "58:15",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَعَدَّ ٱللَّهُ لَهُمۡ عَذَابٗا شَدِيدًاۖ إِنَّهُمۡ سَآءَ مَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Imana Allah, Yaraziteguriye ibihano ruhasha. Mu vy’ukuri indyarya, zamye zikora bibi cane.",
+  "footnotes": ""
 }

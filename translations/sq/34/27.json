@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3633",
-    "sura": "34",
-    "aya": "27",
-    "arabic_text": "قُلۡ أَرُونِيَ ٱلَّذِينَ أَلۡحَقۡتُم بِهِۦ شُرَكَآءَۖ كَلَّاۚ بَلۡ هُوَ ٱللَّهُ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "Thuaju: “M’i tregoni ata, që ia vishni Atij si ortakë.” Kurrsesi, ata nuk mund të jenë ortakë të Tij. Ai është Allahu (Një i Vetëm), i Plotfuqishmi dhe i Urti.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 431,
+  "verse_key": "34:27",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرُونِيَ ٱلَّذِينَ أَلۡحَقۡتُم بِهِۦ شُرَكَآءَۖ كَلَّاۚ بَلۡ هُوَ ٱللَّهُ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "Thuaju: “M’i tregoni ata, që ia vishni Atij si ortakë.” Kurrsesi, ata nuk mund të jenë ortakë të Tij. Ai është Allahu (Një i Vetëm), i Plotfuqishmi dhe i Urti.",
+  "footnotes": ""
 }

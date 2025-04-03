@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2025",
-    "sura": "16",
-    "aya": "124",
-    "arabic_text": "إِنَّمَا جُعِلَ ٱلسَّبۡتُ عَلَى ٱلَّذِينَ ٱخۡتَلَفُواْ فِيهِۚ وَإِنَّ رَبَّكَ لَيَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
-    "translation": "124. Y a los judíos se les impuso la observación del sábado como día sagrado tras haber discrepado sobre el día que debían consagrar (a Al-lah para adorarlo)[481]. Ciertamente, tu Señor los juzgará el Día de la Resurrección por los asuntos sobre lo que discrepaban.",
-    "footnotes": "[481]  Al parecer, Al-lah prescribió el viernes a los judíos para que lo consagraran a Su adoración, pero ellos discreparon con Moisés —la paz de Al-lah esté con él— y escogieron el sábado en vez del viernes; por este motivo Al-lah les impuso entonces mantener el sábado con rigurosidad."
-  }
+  "id": 124,
+  "verse_number": 124,
+  "page_number": 281,
+  "verse_key": "16:124",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا جُعِلَ ٱلسَّبۡتُ عَلَى ٱلَّذِينَ ٱخۡتَلَفُواْ فِيهِۚ وَإِنَّ رَبَّكَ لَيَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
+  "translation": "124. Y a los judíos se les impuso la observación del sábado como día sagrado tras haber discrepado sobre el día que debían consagrar (a Al-lah para adorarlo)[481]. Ciertamente, tu Señor los juzgará el Día de la Resurrección por los asuntos sobre lo que discrepaban.",
+  "footnotes": "[481]  Al parecer, Al-lah prescribió el viernes a los judíos para que lo consagraran a Su adoración, pero ellos discreparon con Moisés —la paz de Al-lah esté con él— y escogieron el sábado en vez del viernes; por este motivo Al-lah les impuso entonces mantener el sábado con rigurosidad."
 }

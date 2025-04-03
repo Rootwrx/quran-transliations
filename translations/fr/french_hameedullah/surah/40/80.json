@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4213",
-    "sura": "40",
-    "aya": "80",
-    "arabic_text": "وَلَكُمۡ فِيهَا مَنَٰفِعُ وَلِتَبۡلُغُواْ عَلَيۡهَا حَاجَةٗ فِي صُدُورِكُمۡ وَعَلَيۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ",
-    "translation": "et vous y avez des profits et afin que vous atteigniez sur eux une chose nécessaire qui vous tenait à cœur . C’est sur eux et sur les vaisseaux que vous êtes transportés.",
-    "footnotes": "[818] Qui vous tenait à cœur: littéralement: dans vos poitrines."
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 476,
+  "verse_key": "40:80",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَكُمۡ فِيهَا مَنَٰفِعُ وَلِتَبۡلُغُواْ عَلَيۡهَا حَاجَةٗ فِي صُدُورِكُمۡ وَعَلَيۡهَا وَعَلَى ٱلۡفُلۡكِ تُحۡمَلُونَ",
+  "translation": "et vous y avez des profits et afin que vous atteigniez sur eux une chose nécessaire qui vous tenait à cœur . C’est sur eux et sur les vaisseaux que vous êtes transportés.",
+  "footnotes": "[818] Qui vous tenait à cœur: littéralement: dans vos poitrines."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2884",
-    "sura": "25",
-    "aya": "29",
-    "arabic_text": "لَّقَدۡ أَضَلَّنِي عَنِ ٱلذِّكۡرِ بَعۡدَ إِذۡ جَآءَنِيۗ وَكَانَ ٱلشَّيۡطَٰنُ لِلۡإِنسَٰنِ خَذُولٗا",
-    "translation": "29. Me desvió de la Exhortación (de Al-lah: el Corán) después de haberme llegado”. Y el Demonio siempre traiciona al hombre y lo abandona.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 362,
+  "verse_key": "25:29",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّقَدۡ أَضَلَّنِي عَنِ ٱلذِّكۡرِ بَعۡدَ إِذۡ جَآءَنِيۗ وَكَانَ ٱلشَّيۡطَٰنُ لِلۡإِنسَٰنِ خَذُولٗا",
+  "translation": "29. Me desvió de la Exhortación (de Al-lah: el Corán) después de haberme llegado”. Y el Demonio siempre traiciona al hombre y lo abandona.",
+  "footnotes": ""
 }

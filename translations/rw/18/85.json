@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2225",
-    "sura": "18",
-    "aya": "85",
-    "arabic_text": "فَأَتۡبَعَ سَبَبًا",
-    "translation": "Nuko akurikira inzira.",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 303,
+  "verse_key": "18:85",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَتۡبَعَ سَبَبًا",
+  "translation": "Nuko akurikira inzira.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5279",
-    "sura": "68",
-    "aya": "8",
-    "arabic_text": "فَلَا تُطِعِ ٱلۡمُكَذِّبِينَ",
-    "translation": "ಆದ್ದರಿಂದ ನೀವು ಸತ್ಯನಿಷೇಧಿಗಳ ಮಾತನ್ನು ಕೇಳಬೇಡಿ.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 564,
+  "verse_key": "68:8",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا تُطِعِ ٱلۡمُكَذِّبِينَ",
+  "translation": "ಆದ್ದರಿಂದ ನೀವು ಸತ್ಯನಿಷೇಧಿಗಳ ಮಾತನ್ನು ಕೇಳಬೇಡಿ.",
+  "footnotes": ""
 }

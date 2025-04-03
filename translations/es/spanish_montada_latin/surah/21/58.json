@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2541",
-    "sura": "21",
-    "aya": "58",
-    "arabic_text": "فَجَعَلَهُمۡ جُذَٰذًا إِلَّا كَبِيرٗا لَّهُمۡ لَعَلَّهُمۡ إِلَيۡهِ يَرۡجِعُونَ",
-    "translation": "58. (Y cuando se hubieron alejado) rompió los ídolos en pedazos, salvo el mayor de ellos para que pudieran dirigirse a él (e interrogarlo).",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 327,
+  "verse_key": "21:58",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَجَعَلَهُمۡ جُذَٰذًا إِلَّا كَبِيرٗا لَّهُمۡ لَعَلَّهُمۡ إِلَيۡهِ يَرۡجِعُونَ",
+  "translation": "58. (Y cuando se hubieron alejado) rompió los ídolos en pedazos, salvo el mayor de ellos para que pudieran dirigirse a él (e interrogarlo).",
+  "footnotes": ""
 }

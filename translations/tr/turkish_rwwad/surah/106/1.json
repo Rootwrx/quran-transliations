@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6194",
-    "sura": "106",
-    "aya": "1",
-    "arabic_text": "لِإِيلَٰفِ قُرَيۡشٍ",
-    "translation": "Kureyş’in güvenliği ve esenliği için.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 602,
+  "verse_key": "106:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِإِيلَٰفِ قُرَيۡشٍ",
+  "translation": "Kureyş’in güvenliği ve esenliği için.",
+  "footnotes": ""
 }

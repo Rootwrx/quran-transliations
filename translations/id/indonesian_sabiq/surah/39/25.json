@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4083",
-    "sura": "39",
-    "aya": "25",
-    "arabic_text": "كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَأَتَىٰهُمُ ٱلۡعَذَابُ مِنۡ حَيۡثُ لَا يَشۡعُرُونَ",
-    "translation": "25. Orang-orang yang sebelum mereka telah mendustakan (rasul-rasul), maka datanglah kepada mereka azab dari arah yang tidak mereka sangka.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 461,
+  "verse_key": "39:25",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ فَأَتَىٰهُمُ ٱلۡعَذَابُ مِنۡ حَيۡثُ لَا يَشۡعُرُونَ",
+  "translation": "25. Orang-orang yang sebelum mereka telah mendustakan (rasul-rasul), maka datanglah kepada mereka azab dari arah yang tidak mereka sangka.",
+  "footnotes": ""
 }

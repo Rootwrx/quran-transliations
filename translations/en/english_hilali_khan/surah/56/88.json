@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5067",
-    "sura": "56",
-    "aya": "88",
-    "arabic_text": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
-    "translation": " 88. Then, if he (the dying person) be of the Muqarrabûn (those brought near to Allâh),",
-    "footnotes": ""
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 537,
+  "verse_key": "56:88",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّآ إِن كَانَ مِنَ ٱلۡمُقَرَّبِينَ",
+  "translation": " 88. Then, if he (the dying person) be of the Muqarrabûn (those brought near to Allâh),",
+  "footnotes": ""
 }

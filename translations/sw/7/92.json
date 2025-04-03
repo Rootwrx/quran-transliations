@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1046",
-    "sura": "7",
-    "aya": "92",
-    "arabic_text": "ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَاۚ ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَانُواْ هُمُ ٱلۡخَٰسِرِينَ",
-    "translation": "Wale walio mkanusha Shua'ib wakawa kama kwamba hawakuwako. Walio mkanusha Shua'ib ndio walio kuwa wenye kukhasiri.",
-    "footnotes": "Hii ndio shani ya Mwenyezi Mungu na hao walio mkanusha Shua'ib, na wakamtishia, na wakamwonya kuwa watamfukuza katika mji wao, na wakafanya kila kitu kuupinga wito wake. Wamehiliki wao na ukahiliki mji wao, ikawa kama kwamba humo hawakuwahi kuishi wale walio mkadhibisha Shua'ib na wakadai kuwa ati atakaye mfuata atakuwa amekhasiri, na wakatilia nguvu madai hayo. Na lililo kuwa ni kuwa wao ndio walio poteza neema yao ya dunia na Akhera."
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 162,
+  "verse_key": "7:92",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَأَن لَّمۡ يَغۡنَوۡاْ فِيهَاۚ ٱلَّذِينَ كَذَّبُواْ شُعَيۡبٗا كَانُواْ هُمُ ٱلۡخَٰسِرِينَ",
+  "translation": "Wale walio mkanusha Shua'ib wakawa kama kwamba hawakuwako. Walio mkanusha Shua'ib ndio walio kuwa wenye kukhasiri.",
+  "footnotes": "Hii ndio shani ya Mwenyezi Mungu na hao walio mkanusha Shua'ib, na wakamtishia, na wakamwonya kuwa watamfukuza katika mji wao, na wakafanya kila kitu kuupinga wito wake. Wamehiliki wao na ukahiliki mji wao, ikawa kama kwamba humo hawakuwahi kuishi wale walio mkadhibisha Shua'ib na wakadai kuwa ati atakaye mfuata atakuwa amekhasiri, na wakatilia nguvu madai hayo. Na lililo kuwa ni kuwa wao ndio walio poteza neema yao ya dunia na Akhera."
 }

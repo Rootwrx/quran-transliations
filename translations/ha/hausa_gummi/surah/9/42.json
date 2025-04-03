@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1277",
-    "sura": "9",
-    "aya": "42",
-    "arabic_text": "لَوۡ كَانَ عَرَضٗا قَرِيبٗا وَسَفَرٗا قَاصِدٗا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتۡ عَلَيۡهِمُ ٱلشُّقَّةُۚ وَسَيَحۡلِفُونَ بِٱللَّهِ لَوِ ٱسۡتَطَعۡنَا لَخَرَجۡنَا مَعَكُمۡ يُهۡلِكُونَ أَنفُسَهُمۡ وَٱللَّهُ يَعۡلَمُ إِنَّهُمۡ لَكَٰذِبُونَ",
-    "translation": "Dã yã kasance* wata siffar dũniya ce: makusanciya, da tafiya matsakaiciya, dã sun bĩ ka, kuma amma fagen yã yi musu nĩsa. Kuma zã su yi ta yin rantsuwa da Allah, \"Dã mun sãmi dãma, dã mun tafi tare da ku.\" Sunã halakar da kansu (da rantsuwar ƙarya) ne, kuma Allah Yanã sanin lalle, haƙĩƙa, sumaƙaryata ne.'",
-    "footnotes": "* Ya Shiga bayãnin siffõfin munãfukai waɗanda suka ƙi fita da waɗanda suka fita zuwa Tabũka, da waɗanda suka nemi wani uzuri, a cikin siffõfi dabam-dabam da zã a iya gane munãfukai da su acikin kõwane zãmani na rãyuwar Musulmi a Dũniya."
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 194,
+  "verse_key": "9:42",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَوۡ كَانَ عَرَضٗا قَرِيبٗا وَسَفَرٗا قَاصِدٗا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتۡ عَلَيۡهِمُ ٱلشُّقَّةُۚ وَسَيَحۡلِفُونَ بِٱللَّهِ لَوِ ٱسۡتَطَعۡنَا لَخَرَجۡنَا مَعَكُمۡ يُهۡلِكُونَ أَنفُسَهُمۡ وَٱللَّهُ يَعۡلَمُ إِنَّهُمۡ لَكَٰذِبُونَ",
+  "translation": "Dã yã kasance* wata siffar dũniya ce: makusanciya, da tafiya matsakaiciya, dã sun bĩ ka, kuma amma fagen yã yi musu nĩsa. Kuma zã su yi ta yin rantsuwa da Allah, \"Dã mun sãmi dãma, dã mun tafi tare da ku.\" Sunã halakar da kansu (da rantsuwar ƙarya) ne, kuma Allah Yanã sanin lalle, haƙĩƙa, sumaƙaryata ne.'",
+  "footnotes": "* Ya Shiga bayãnin siffõfin munãfukai waɗanda suka ƙi fita da waɗanda suka fita zuwa Tabũka, da waɗanda suka nemi wani uzuri, a cikin siffõfi dabam-dabam da zã a iya gane munãfukai da su acikin kõwane zãmani na rãyuwar Musulmi a Dũniya."
 }

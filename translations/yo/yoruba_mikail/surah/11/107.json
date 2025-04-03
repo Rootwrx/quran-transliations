@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1580",
-    "sura": "11",
-    "aya": "107",
-    "arabic_text": "خَٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ إِلَّا مَا شَآءَ رَبُّكَۚ إِنَّ رَبَّكَ فَعَّالٞ لِّمَا يُرِيدُ",
-    "translation": "Olùṣegbére ni wọ́n nínú rẹ̀ ní òdiwọ̀n ìgbà tí àwọn sánmọ̀ àti ilẹ̀ fi ń bẹ, àfi ohun tí Olúwa rẹ bá fẹ́[1]. Dájúdájú Olúwa rẹ ni Aṣèyí-ó-wùú.",
-    "footnotes": "1. Ẹ wo àlàyé lórí àgbọ́yé “àfi ohun tí Olúwa rẹ bá fẹ́” nínú ìtọsẹ̀-ọ̀rọ̀ sūrah al-’An‘ām; 6:128."
-  }
+  "id": 107,
+  "verse_number": 107,
+  "page_number": 233,
+  "verse_key": "11:107",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خَٰلِدِينَ فِيهَا مَا دَامَتِ ٱلسَّمَٰوَٰتُ وَٱلۡأَرۡضُ إِلَّا مَا شَآءَ رَبُّكَۚ إِنَّ رَبَّكَ فَعَّالٞ لِّمَا يُرِيدُ",
+  "translation": "Olùṣegbére ni wọ́n nínú rẹ̀ ní òdiwọ̀n ìgbà tí àwọn sánmọ̀ àti ilẹ̀ fi ń bẹ, àfi ohun tí Olúwa rẹ bá fẹ́[1]. Dájúdájú Olúwa rẹ ni Aṣèyí-ó-wùú.",
+  "footnotes": "1. Ẹ wo àlàyé lórí àgbọ́yé “àfi ohun tí Olúwa rẹ bá fẹ́” nínú ìtọsẹ̀-ọ̀rọ̀ sūrah al-’An‘ām; 6:128."
 }

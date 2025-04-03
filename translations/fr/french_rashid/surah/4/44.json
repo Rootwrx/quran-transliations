@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "537",
-    "sura": "4",
-    "aya": "44",
-    "arabic_text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يَشۡتَرُونَ ٱلضَّلَٰلَةَ وَيُرِيدُونَ أَن تَضِلُّواْ ٱلسَّبِيلَ",
-    "translation": "44 N’as-tu pas vu ceux qui ont reçu une partie des Ecritures[273] ? Préférant eux-mêmes la voie de l’égarement à la voie du salut, ils voudraient que vous vous détourniez vous aussi du droit chemin.",
-    "footnotes": "[273] Les fils d’Israël, précisent les commentateurs, auxquels se rapporte tout le passage qui suit."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 85,
+  "verse_key": "4:44",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يَشۡتَرُونَ ٱلضَّلَٰلَةَ وَيُرِيدُونَ أَن تَضِلُّواْ ٱلسَّبِيلَ",
+  "translation": "44 N’as-tu pas vu ceux qui ont reçu une partie des Ecritures[273] ? Préférant eux-mêmes la voie de l’égarement à la voie du salut, ils voudraient que vous vous détourniez vous aussi du droit chemin.",
+  "footnotes": "[273] Les fils d’Israël, précisent les commentateurs, auxquels se rapporte tout le passage qui suit."
 }

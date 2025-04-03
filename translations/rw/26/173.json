@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3105",
-    "sura": "26",
-    "aya": "173",
-    "arabic_text": "وَأَمۡطَرۡنَا عَلَيۡهِم مَّطَرٗاۖ فَسَآءَ مَطَرُ ٱلۡمُنذَرِينَ",
-    "translation": "Nuko tubanyagiza imvura (y’amabuye); iba imvura mbi ku baburiwe (ntibumve).",
-    "footnotes": ""
-  }
+  "id": 173,
+  "verse_number": 173,
+  "page_number": 374,
+  "verse_key": "26:173",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَمۡطَرۡنَا عَلَيۡهِم مَّطَرٗاۖ فَسَآءَ مَطَرُ ٱلۡمُنذَرِينَ",
+  "translation": "Nuko tubanyagiza imvura (y’amabuye); iba imvura mbi ku baburiwe (ntibumve).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2349",
-    "sura": "20",
-    "aya": "1",
-    "arabic_text": "طه",
-    "translation": "Ṭā. Hā.[1]",
-    "footnotes": "[1] Ang Qur’ān ay nasa wikang Arabe na binubuo ng mga titiks Arabe gaya ng mga ito subalit walang isa mang nakagawa ng kahit pinkamaiikling kabanata ng mahimalang kababalaghan ng Qur’ān."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 312,
+  "verse_key": "20:1",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "طه",
+  "translation": "Ṭā. Hā.[1]",
+  "footnotes": "[1] Ang Qur’ān ay nasa wikang Arabe na binubuo ng mga titiks Arabe gaya ng mga ito subalit walang isa mang nakagawa ng kahit pinkamaiikling kabanata ng mahimalang kababalaghan ng Qur’ān."
 }

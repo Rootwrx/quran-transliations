@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2739",
-    "sura": "23",
-    "aya": "66",
-    "arabic_text": "قَدۡ كَانَتۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡ تَنكِصُونَ",
-    "translation": "66. Mis versículos les eran recitados, pero los rechazaban.",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 346,
+  "verse_key": "23:66",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ كَانَتۡ ءَايَٰتِي تُتۡلَىٰ عَلَيۡكُمۡ فَكُنتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡ تَنكِصُونَ",
+  "translation": "66. Mis versículos les eran recitados, pero los rechazaban.",
+  "footnotes": ""
 }

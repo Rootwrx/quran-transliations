@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "103",
-    "sura": "2",
-    "aya": "96",
-    "arabic_text": "وَلَتَجِدَنَّهُمۡ أَحۡرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٖ وَمِنَ ٱلَّذِينَ أَشۡرَكُواْۚ يَوَدُّ أَحَدُهُمۡ لَوۡ يُعَمَّرُ أَلۡفَ سَنَةٖ وَمَا هُوَ بِمُزَحۡزِحِهِۦ مِنَ ٱلۡعَذَابِ أَن يُعَمَّرَۗ وَٱللَّهُ بَصِيرُۢ بِمَا يَعۡمَلُونَ",
-    "translation": "Dájúdájú o máa rí wọn pé àwọn ni ènìyàn tó l’ójú kòkòrò jùlọ nípa ìṣẹ̀mí ayé, (wọ́n tún l’ójú kòkòrò ju) àwọn ọ̀ṣẹbọ lọ. Ìkọ̀ọ̀kan wọn ń fẹ́ pé tí A bá lè fún òun ní ẹgbẹ̀rún ọdún lò láyé. Bẹ́ẹ̀ sì ni, kì í ṣe ohun tí ó máa là á nínú ìyà ni pé, kí Á fún un ní ìṣẹ̀mí gígùn lò. Allāhu sì ni Olùríran nípa ohun tí wọ́n ń ṣe níṣẹ́.",
-    "footnotes": ""
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 15,
+  "verse_key": "2:96",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَتَجِدَنَّهُمۡ أَحۡرَصَ ٱلنَّاسِ عَلَىٰ حَيَوٰةٖ وَمِنَ ٱلَّذِينَ أَشۡرَكُواْۚ يَوَدُّ أَحَدُهُمۡ لَوۡ يُعَمَّرُ أَلۡفَ سَنَةٖ وَمَا هُوَ بِمُزَحۡزِحِهِۦ مِنَ ٱلۡعَذَابِ أَن يُعَمَّرَۗ وَٱللَّهُ بَصِيرُۢ بِمَا يَعۡمَلُونَ",
+  "translation": "Dájúdájú o máa rí wọn pé àwọn ni ènìyàn tó l’ójú kòkòrò jùlọ nípa ìṣẹ̀mí ayé, (wọ́n tún l’ójú kòkòrò ju) àwọn ọ̀ṣẹbọ lọ. Ìkọ̀ọ̀kan wọn ń fẹ́ pé tí A bá lè fún òun ní ẹgbẹ̀rún ọdún lò láyé. Bẹ́ẹ̀ sì ni, kì í ṣe ohun tí ó máa là á nínú ìyà ni pé, kí Á fún un ní ìṣẹ̀mí gígùn lò. Allāhu sì ni Olùríran nípa ohun tí wọ́n ń ṣe níṣẹ́.",
+  "footnotes": ""
 }

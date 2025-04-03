@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5760",
-    "sura": "80",
-    "aya": "2",
-    "arabic_text": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
-    "translation": "2. al ciego cuando se presentó ante ti[1].",
-    "footnotes": "[1] Referencia a cuando ‘Abdullah Ibn Umm Maktum, que era ciego, interrumpió al Profeta r que estaba predicando el Islam a los nobles de la tribu de Quraish."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 585,
+  "verse_key": "80:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَن جَآءَهُ ٱلۡأَعۡمَىٰ",
+  "translation": "2. al ciego cuando se presentó ante ti[1].",
+  "footnotes": "[1] Referencia a cuando ‘Abdullah Ibn Umm Maktum, que era ciego, interrumpió al Profeta r que estaba predicando el Islam a los nobles de la tribu de Quraish."
 }

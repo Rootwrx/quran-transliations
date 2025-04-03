@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "306",
-    "sura": "3",
-    "aya": "13",
-    "arabic_text": "قَدۡ كَانَ لَكُمۡ ءَايَةٞ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةٞ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةٞ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
-    "translation": "13. Waxaa idiinku sugan calaamo labadii ciidammood ee ku kulantay (dagaalkii Badar): Koox u dagaallameysay Jidka Alle darti, iyo tan kaloo gaal ahayd, waxay u arkeen labo jibbaarkood tiro ahaan xagga aragtida isha (inkastoo ay ahaayeen seddex jibbaarkood). Allena wuxuu ku xoojiyaa Gargaarkiisa qofkuu doono. hubaal arrinkani waxaa ugu sugan cibrad kuwa aragtida dheer leh.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 51,
+  "verse_key": "3:13",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ كَانَ لَكُمۡ ءَايَةٞ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةٞ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةٞ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
+  "translation": "13. Waxaa idiinku sugan calaamo labadii ciidammood ee ku kulantay (dagaalkii Badar): Koox u dagaallameysay Jidka Alle darti, iyo tan kaloo gaal ahayd, waxay u arkeen labo jibbaarkood tiro ahaan xagga aragtida isha (inkastoo ay ahaayeen seddex jibbaarkood). Allena wuxuu ku xoojiyaa Gargaarkiisa qofkuu doono. hubaal arrinkani waxaa ugu sugan cibrad kuwa aragtida dheer leh.",
+  "footnotes": ""
 }

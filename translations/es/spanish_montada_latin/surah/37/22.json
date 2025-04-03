@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3810",
-    "sura": "37",
-    "aya": "22",
-    "arabic_text": "۞ ٱحۡشُرُواْ ٱلَّذِينَ ظَلَمُواْ وَأَزۡوَٰجَهُمۡ وَمَا كَانُواْ يَعۡبُدُونَ",
-    "translation": "22. (Y Al-lah dirá a los ángeles:) “Reúnan a los injustos (que negaban la verdad), a sus aliados (de entre los yinn) y a los (ídolos) que adoraban",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 446,
+  "verse_key": "37:22",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ ٱحۡشُرُواْ ٱلَّذِينَ ظَلَمُواْ وَأَزۡوَٰجَهُمۡ وَمَا كَانُواْ يَعۡبُدُونَ",
+  "translation": "22. (Y Al-lah dirá a los ángeles:) “Reúnan a los injustos (que negaban la verdad), a sus aliados (de entre los yinn) y a los (ídolos) que adoraban",
+  "footnotes": ""
 }

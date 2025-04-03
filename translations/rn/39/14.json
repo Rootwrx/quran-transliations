@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4072",
-    "sura": "39",
-    "aya": "14",
-    "arabic_text": "قُلِ ٱللَّهَ أَعۡبُدُ مُخۡلِصٗا لَّهُۥ دِينِي",
-    "translation": "Ntumwa y’Imana! Vuga wemanga ukwemera kwawe uti: “Burya jewe, niyegereza Imana Allah mu vyo nkora vyose, maze nkayisenga ari Imwe Rudende, nkeza n’ivyo ngira vyose ku bwayo;",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 460,
+  "verse_key": "39:14",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهَ أَعۡبُدُ مُخۡلِصٗا لَّهُۥ دِينِي",
+  "translation": "Ntumwa y’Imana! Vuga wemanga ukwemera kwawe uti: “Burya jewe, niyegereza Imana Allah mu vyo nkora vyose, maze nkayisenga ari Imwe Rudende, nkeza n’ivyo ngira vyose ku bwayo;",
+  "footnotes": ""
 }

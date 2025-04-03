@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1405",
-    "sura": "10",
-    "aya": "41",
-    "arabic_text": "وَإِن كَذَّبُوكَ فَقُل لِّي عَمَلِي وَلَكُمۡ عَمَلُكُمۡۖ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعۡمَلُ وَأَنَا۠ بَرِيٓءٞ مِّمَّا تَعۡمَلُونَ",
-    "translation": "Kuma idan sun ƙaryata ka, to, ka ce: \"Inã da aikĩna kuma kunã da aikinku, kũ kuɓutattu ne daga abin da nake aikatãwa kuma ni kuɓutacce ne daga abin da kuke aikatãwa.\"",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 213,
+  "verse_key": "10:41",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن كَذَّبُوكَ فَقُل لِّي عَمَلِي وَلَكُمۡ عَمَلُكُمۡۖ أَنتُم بَرِيٓـُٔونَ مِمَّآ أَعۡمَلُ وَأَنَا۠ بَرِيٓءٞ مِّمَّا تَعۡمَلُونَ",
+  "translation": "Kuma idan sun ƙaryata ka, to, ka ce: \"Inã da aikĩna kuma kunã da aikinku, kũ kuɓutattu ne daga abin da nake aikatãwa kuma ni kuɓutacce ne daga abin da kuke aikatãwa.\"",
+  "footnotes": ""
 }

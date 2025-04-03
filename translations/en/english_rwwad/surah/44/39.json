@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4453",
-    "sura": "44",
-    "aya": "39",
-    "arabic_text": "مَا خَلَقۡنَٰهُمَآ إِلَّا بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
-    "translation": "We have not created them except for a true purpose, but most of them do not know.",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 497,
+  "verse_key": "44:39",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا خَلَقۡنَٰهُمَآ إِلَّا بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+  "translation": "We have not created them except for a true purpose, but most of them do not know.",
+  "footnotes": ""
 }

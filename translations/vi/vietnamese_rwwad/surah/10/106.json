@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1470",
-    "sura": "10",
-    "aya": "106",
-    "arabic_text": "وَلَا تَدۡعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَۖ فَإِن فَعَلۡتَ فَإِنَّكَ إِذٗا مِّنَ ٱلظَّٰلِمِينَ",
-    "translation": "Ngươi chớ đừng cầu nguyện ngoài Allah những thứ không mang lợi cũng chẳng gây hại được Ngươi. Nếu như Ngươi làm vậy, Ngươi thực sự là một trong những kẻ làm điều sai quấy.",
-    "footnotes": ""
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 220,
+  "verse_key": "10:106",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَدۡعُ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُكَ وَلَا يَضُرُّكَۖ فَإِن فَعَلۡتَ فَإِنَّكَ إِذٗا مِّنَ ٱلظَّٰلِمِينَ",
+  "translation": "Ngươi chớ đừng cầu nguyện ngoài Allah những thứ không mang lợi cũng chẳng gây hại được Ngươi. Nếu như Ngươi làm vậy, Ngươi thực sự là một trong những kẻ làm điều sai quấy.",
+  "footnotes": ""
 }

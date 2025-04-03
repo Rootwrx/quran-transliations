@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4646",
-    "sura": "50",
-    "aya": "16",
-    "arabic_text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥۖ وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنۡ حَبۡلِ ٱلۡوَرِيدِ",
-    "translation": "Kuma lalle ne haƙĩƙa Mun halitta mutum kuma Mun san abin da ransa ke yin waswãsi da shi, kuma Mũ ne mafi kusanta zuwa gare shi daga lakar hannayẽnsa.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 519,
+  "verse_key": "50:16",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ وَنَعۡلَمُ مَا تُوَسۡوِسُ بِهِۦ نَفۡسُهُۥۖ وَنَحۡنُ أَقۡرَبُ إِلَيۡهِ مِنۡ حَبۡلِ ٱلۡوَرِيدِ",
+  "translation": "Kuma lalle ne haƙĩƙa Mun halitta mutum kuma Mun san abin da ransa ke yin waswãsi da shi, kuma Mũ ne mafi kusanta zuwa gare shi daga lakar hannayẽnsa.",
+  "footnotes": ""
 }

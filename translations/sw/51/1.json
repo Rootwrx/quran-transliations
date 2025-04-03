@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4676",
-    "sura": "51",
-    "aya": "1",
-    "arabic_text": "وَٱلذَّٰرِيَٰتِ ذَرۡوٗا",
-    "translation": "Naapa kwa pepo zinazo tawanya!",
-    "footnotes": "Ninaapa kwa pepo zinazo timua mawingu, zikayasukuma kwa nguvu, huku zikibeba mizigo mizito ya maji, zikawa zinakwenda kwa wepesi kwa amri ya Mwenyezi Mungu, zikawa zinagawanya riziki kwa ampendaye Mwenyezi Mungu."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 520,
+  "verse_key": "51:1",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلذَّٰرِيَٰتِ ذَرۡوٗا",
+  "translation": "Naapa kwa pepo zinazo tawanya!",
+  "footnotes": "Ninaapa kwa pepo zinazo timua mawingu, zikayasukuma kwa nguvu, huku zikibeba mizigo mizito ya maji, zikawa zinakwenda kwa wepesi kwa amri ya Mwenyezi Mungu, zikawa zinagawanya riziki kwa ampendaye Mwenyezi Mungu."
 }

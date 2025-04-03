@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5779",
-    "sura": "80",
-    "aya": "21",
-    "arabic_text": "ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ",
-    "translation": "21. Luego lo hace morir y ser enterrado.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 585,
+  "verse_key": "80:21",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ أَمَاتَهُۥ فَأَقۡبَرَهُۥ",
+  "translation": "21. Luego lo hace morir y ser enterrado.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1276",
-    "sura": "9",
-    "aya": "41",
-    "arabic_text": "ٱنفِرُواْ خِفَافٗا وَثِقَالٗا وَجَٰهِدُواْ بِأَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡ فِي سَبِيلِ ٱللَّهِۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
-    "translation": "March forth, whether lightly or heavily armed[42], and strive in the cause of Allah with your wealth and your lives. That is best for you, if only you knew.",
-    "footnotes": "[42] i.e., young or old, riding or walking, in ease or in hardship - in all circumstances; those who are exempted is mentioned in the verse 91 below."
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 194,
+  "verse_key": "9:41",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱنفِرُواْ خِفَافٗا وَثِقَالٗا وَجَٰهِدُواْ بِأَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡ فِي سَبِيلِ ٱللَّهِۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+  "translation": "March forth, whether lightly or heavily armed[42], and strive in the cause of Allah with your wealth and your lives. That is best for you, if only you knew.",
+  "footnotes": "[42] i.e., young or old, riding or walking, in ease or in hardship - in all circumstances; those who are exempted is mentioned in the verse 91 below."
 }

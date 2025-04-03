@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "158",
-    "sura": "2",
-    "aya": "151",
-    "arabic_text": "كَمَآ أَرۡسَلۡنَا فِيكُمۡ رَسُولٗا مِّنكُمۡ يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِنَا وَيُزَكِّيكُمۡ وَيُعَلِّمُكُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُعَلِّمُكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ",
-    "translation": "So, wie Wir zu euch einen Gesandten von euch geschickt haben, der euch Unsere Worte verliest und euch läutert und euch die Schrift und die Wahrheit lehrt und euch lehrt, was ihr nicht wußtet.",
-    "footnotes": null
-  }
+  "id": 151,
+  "verse_number": 151,
+  "page_number": 23,
+  "verse_key": "2:151",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَمَآ أَرۡسَلۡنَا فِيكُمۡ رَسُولٗا مِّنكُمۡ يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِنَا وَيُزَكِّيكُمۡ وَيُعَلِّمُكُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُعَلِّمُكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ",
+  "translation": "So, wie Wir zu euch einen Gesandten von euch geschickt haben, der euch Unsere Worte verliest und euch läutert und euch die Schrift und die Wahrheit lehrt und euch lehrt, was ihr nicht wußtet.",
+  "footnotes": null
 }

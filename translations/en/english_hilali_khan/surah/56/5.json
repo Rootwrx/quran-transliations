@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4984",
-    "sura": "56",
-    "aya": "5",
-    "arabic_text": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
-    "translation": " 5. And the mountains will be powdered to dust,",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 534,
+  "verse_key": "56:5",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبُسَّتِ ٱلۡجِبَالُ بَسّٗا",
+  "translation": " 5. And the mountains will be powdered to dust,",
+  "footnotes": ""
 }

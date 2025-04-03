@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5400",
-    "sura": "70",
-    "aya": "25",
-    "arabic_text": "لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
-    "translation": "माँगने वाले तथा वंचित[6] के लिए।",
-    "footnotes": "6. अर्थात जो न माँगने के कारण वंचित रह जाता है।"
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 569,
+  "verse_key": "70:25",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّلسَّآئِلِ وَٱلۡمَحۡرُومِ",
+  "translation": "माँगने वाले तथा वंचित[6] के लिए।",
+  "footnotes": "6. अर्थात जो न माँगने के कारण वंचित रह जाता है।"
 }

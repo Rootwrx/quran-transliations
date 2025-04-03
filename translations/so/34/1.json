@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3607",
-    "sura": "34",
-    "aya": "1",
-    "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَلَهُ ٱلۡحَمۡدُ فِي ٱلۡأٓخِرَةِۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ",
-    "translation": "1. Ammaan (oo idil) iyo mahad waxaa mudan Allaah, ee iska leh waxa ku sugan samooyinka iyo waxa ku sugan arlada.  Isagaana (sidoo kale) mudan ammaan oo idil iyo mahad Aakhirada, Waana Xikmad Badanaha, Xog Ogaalka ah.",
-    "footnotes": "1. Saba: Waxaa loola jeedaa (Dadkii) Saba."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 428,
+  "verse_key": "34:1",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَلَهُ ٱلۡحَمۡدُ فِي ٱلۡأٓخِرَةِۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ",
+  "translation": "1. Ammaan (oo idil) iyo mahad waxaa mudan Allaah, ee iska leh waxa ku sugan samooyinka iyo waxa ku sugan arlada.  Isagaana (sidoo kale) mudan ammaan oo idil iyo mahad Aakhirada, Waana Xikmad Badanaha, Xog Ogaalka ah.",
+  "footnotes": "1. Saba: Waxaa loola jeedaa (Dadkii) Saba."
 }

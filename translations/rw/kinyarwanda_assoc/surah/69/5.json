@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5328",
-    "sura": "69",
-    "aya": "5",
-    "arabic_text": "فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ",
-    "translation": "Aba Thamudu borekeshejwe urusaku ndengakamere.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 566,
+  "verse_key": "69:5",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ",
+  "translation": "Aba Thamudu borekeshejwe urusaku ndengakamere.",
+  "footnotes": ""
 }

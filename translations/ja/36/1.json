@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3706",
-    "sura": "36",
-    "aya": "1",
-    "arabic_text": "يسٓ",
-    "translation": "ヤー・スィーン[1]。",
-    "footnotes": "[1]　この文字群については、頻出名・用語解説の「クルアーン*の冒頭に現れる文字群*」を参照。"
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 440,
+  "verse_key": "36:1",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يسٓ",
+  "translation": "ヤー・スィーン[1]。",
+  "footnotes": "[1]　この文字群については、頻出名・用語解説の「クルアーン*の冒頭に現れる文字群*」を参照。"
 }

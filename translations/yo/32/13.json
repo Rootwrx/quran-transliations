@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3516",
-    "sura": "32",
-    "aya": "13",
-    "arabic_text": "وَلَوۡ شِئۡنَا لَأٓتَيۡنَا كُلَّ نَفۡسٍ هُدَىٰهَا وَلَٰكِنۡ حَقَّ ٱلۡقَوۡلُ مِنِّي لَأَمۡلَأَنَّ جَهَنَّمَ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ أَجۡمَعِينَ",
-    "translation": "Tí ó bá jẹ́ pé A bá fẹ́ ni, dájúdájú A ìbá fún gbogbo ẹ̀mí kọ̀ọ̀kan ní ìmọ̀nà rẹ̀, ṣùgbọ́n ọ̀rọ̀ náà ti ṣẹ láti ọ̀dọ̀ Mi (báyìí pé): “Dájúdájú Mo máa mú nínú àwọn àlùjànnú àti ènìyàn ní àpapọ̀ kún inú iná Jahanamọ.”",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 416,
+  "verse_key": "32:13",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ شِئۡنَا لَأٓتَيۡنَا كُلَّ نَفۡسٍ هُدَىٰهَا وَلَٰكِنۡ حَقَّ ٱلۡقَوۡلُ مِنِّي لَأَمۡلَأَنَّ جَهَنَّمَ مِنَ ٱلۡجِنَّةِ وَٱلنَّاسِ أَجۡمَعِينَ",
+  "translation": "Tí ó bá jẹ́ pé A bá fẹ́ ni, dájúdájú A ìbá fún gbogbo ẹ̀mí kọ̀ọ̀kan ní ìmọ̀nà rẹ̀, ṣùgbọ́n ọ̀rọ̀ náà ti ṣẹ láti ọ̀dọ̀ Mi (báyìí pé): “Dájúdájú Mo máa mú nínú àwọn àlùjànnú àti ènìyàn ní àpapọ̀ kún inú iná Jahanamọ.”",
+  "footnotes": ""
 }

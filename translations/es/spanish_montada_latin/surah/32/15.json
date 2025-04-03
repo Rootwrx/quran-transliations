@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3518",
-    "sura": "32",
-    "aya": "15",
-    "arabic_text": "إِنَّمَا يُؤۡمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُواْ بِهَا خَرُّواْۤ سُجَّدٗاۤ وَسَبَّحُواْ بِحَمۡدِ رَبِّهِمۡ وَهُمۡ لَا يَسۡتَكۡبِرُونَ۩",
-    "translation": "15. Quienes verdaderamente creen en Nuestras aleyas son aquellos que, cuando se las recitan, caen postrados, glorifican a su Señor con alabanzas y no son altivos[791];",
-    "footnotes": "[791]  Ver la nota de la aleya 206 de la sura 7."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 416,
+  "verse_key": "32:15",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 9,
+  "text": "إِنَّمَا يُؤۡمِنُ بِـَٔايَٰتِنَا ٱلَّذِينَ إِذَا ذُكِّرُواْ بِهَا خَرُّواْۤ سُجَّدٗاۤ وَسَبَّحُواْ بِحَمۡدِ رَبِّهِمۡ وَهُمۡ لَا يَسۡتَكۡبِرُونَ۩",
+  "translation": "15. Quienes verdaderamente creen en Nuestras aleyas son aquellos que, cuando se las recitan, caen postrados, glorifican a su Señor con alabanzas y no son altivos[791];",
+  "footnotes": "[791]  Ver la nota de la aleya 206 de la sura 7."
 }

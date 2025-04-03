@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2509",
-    "sura": "21",
-    "aya": "26",
-    "arabic_text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ",
-    "translation": "Wͻkeka sε: “Ahummͻborͻ Hene no awo ba. Kronkron Hene ne no. Daabi, wͻn (a wͻka sε wͻyε Nyankopͻn mma tesε soro abͻfoͻ ne Yesu no nyinaa) yε (Nyankopͻn) nkoa animuonyamfoͻ.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 324,
+  "verse_key": "21:26",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ ٱتَّخَذَ ٱلرَّحۡمَٰنُ وَلَدٗاۗ سُبۡحَٰنَهُۥۚ بَلۡ عِبَادٞ مُّكۡرَمُونَ",
+  "translation": "Wͻkeka sε: “Ahummͻborͻ Hene no awo ba. Kronkron Hene ne no. Daabi, wͻn (a wͻka sε wͻyε Nyankopͻn mma tesε soro abͻfoͻ ne Yesu no nyinaa) yε (Nyankopͻn) nkoa animuonyamfoͻ.",
+  "footnotes": ""
 }

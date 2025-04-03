@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6043",
-    "sura": "90",
-    "aya": "20",
-    "arabic_text": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ",
-    "translation": "20. Sur eux (de toutes parts) se refermera le Feu (de la Géhenne). ",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 594,
+  "verse_key": "90:20",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَيۡهِمۡ نَارٞ مُّؤۡصَدَةُۢ",
+  "translation": "20. Sur eux (de toutes parts) se refermera le Feu (de la Géhenne). ",
+  "footnotes": ""
 }

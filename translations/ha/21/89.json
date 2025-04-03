@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2572",
-    "sura": "21",
-    "aya": "89",
-    "arabic_text": "وَزَكَرِيَّآ إِذۡ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرۡنِي فَرۡدٗا وَأَنتَ خَيۡرُ ٱلۡوَٰرِثِينَ",
-    "translation": "Kuma da Zakariyya a sa'ad da ya kirãyi Ubangijinsa cẽwa, \"Ya Ubangiji! Kada Ka bar ni makaɗaici alhãli kuwa Kai ne Mafi alhẽrin mãsu gãdo.\"",
-    "footnotes": ""
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 329,
+  "verse_key": "21:89",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَزَكَرِيَّآ إِذۡ نَادَىٰ رَبَّهُۥ رَبِّ لَا تَذَرۡنِي فَرۡدٗا وَأَنتَ خَيۡرُ ٱلۡوَٰرِثِينَ",
+  "translation": "Kuma da Zakariyya a sa'ad da ya kirãyi Ubangijinsa cẽwa, \"Ya Ubangiji! Kada Ka bar ni makaɗaici alhãli kuwa Kai ne Mafi alhẽrin mãsu gãdo.\"",
+  "footnotes": ""
 }

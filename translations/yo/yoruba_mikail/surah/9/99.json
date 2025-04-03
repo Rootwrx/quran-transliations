@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1334",
-    "sura": "9",
-    "aya": "99",
-    "arabic_text": "وَمِنَ ٱلۡأَعۡرَابِ مَن يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَتَّخِذُ مَا يُنفِقُ قُرُبَٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِۚ أَلَآ إِنَّهَا قُرۡبَةٞ لَّهُمۡۚ سَيُدۡخِلُهُمُ ٱللَّهُ فِي رَحۡمَتِهِۦٓۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
-    "translation": "Ó tún wà nínú àwọn Lárúbáwá oko, ẹni tí ó gbàgbọ́ nínú Allāhu àti Ọjọ́ Ìkẹ́yìn, tí ó sì sọ ìnáwó tó ń ná (fún ẹ̀sìn) di ohun tí ó máa mú wọn súnmọ́ Allāhu àti ohun tí ó máa mú wọn gba àdùá lọ́dọ̀ Òjíṣẹ́. Kíyè sí i, dájúdájú ó máa mú wọn súnmọ́ Allāhu. Allāhu yó sì fi wọ́n sínú ìkẹ́ Rẹ̀. Dájúdájú Allāhu ni Aláforíjìn, Àṣàkẹ́-ọ̀run.",
-    "footnotes": ""
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 202,
+  "verse_key": "9:99",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 81,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلۡأَعۡرَابِ مَن يُؤۡمِنُ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَيَتَّخِذُ مَا يُنفِقُ قُرُبَٰتٍ عِندَ ٱللَّهِ وَصَلَوَٰتِ ٱلرَّسُولِۚ أَلَآ إِنَّهَا قُرۡبَةٞ لَّهُمۡۚ سَيُدۡخِلُهُمُ ٱللَّهُ فِي رَحۡمَتِهِۦٓۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+  "translation": "Ó tún wà nínú àwọn Lárúbáwá oko, ẹni tí ó gbàgbọ́ nínú Allāhu àti Ọjọ́ Ìkẹ́yìn, tí ó sì sọ ìnáwó tó ń ná (fún ẹ̀sìn) di ohun tí ó máa mú wọn súnmọ́ Allāhu àti ohun tí ó máa mú wọn gba àdùá lọ́dọ̀ Òjíṣẹ́. Kíyè sí i, dájúdájú ó máa mú wọn súnmọ́ Allāhu. Allāhu yó sì fi wọ́n sínú ìkẹ́ Rẹ̀. Dájúdájú Allāhu ni Aláforíjìn, Àṣàkẹ́-ọ̀run.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "65",
-    "sura": "2",
-    "aya": "58",
-    "arabic_text": "وَإِذۡ قُلۡنَا ٱدۡخُلُواْ هَٰذِهِ ٱلۡقَرۡيَةَ فَكُلُواْ مِنۡهَا حَيۡثُ شِئۡتُمۡ رَغَدٗا وَٱدۡخُلُواْ ٱلۡبَابَ سُجَّدٗا وَقُولُواْ حِطَّةٞ نَّغۡفِرۡ لَكُمۡ خَطَٰيَٰكُمۡۚ وَسَنَزِيدُ ٱلۡمُحۡسِنِينَ",
-    "translation": "(Ẹ rántí) nígbà tí A sọ pé: “Ẹ wọ inú ìlú yìí.[1] Ẹ jẹ nínú ìlú náà níbikíbi tí ẹ bá fẹ́ ní gbẹdẹmukẹ. Ẹ gba ẹnu-ọ̀nà (ìlú) náà wọlé ní ìtẹríba.² Kí ẹ sì wí pé: “Ha ẹ̀ṣẹ̀ wa dànù.” A óò forí àwọn ẹ̀ṣẹ̀ yín jìn yín. A ó sì ṣe àlékún (ẹ̀san rere) fún àwọn olùṣe-rere.",
-    "footnotes": "1. Ìlú náà ni Baetul-Mọƙdis. 2. “Sujūd” tí ó wà nínú “Sujjadān” kò níí ṣe é túmọ̀ sí ìforíkanlẹ̀ nínú āyah yìí bí kò ṣe ìtẹríba. Wulẹ̀ tẹ́lẹ̀, ohun tí “sujūd” kó sínú ni ìtẹrùn wálẹ̀ “inhinā’”, ìdáwọ́tẹ-orúnkún “rukū‘” àti ìforíkanlẹ̀ “sujūd”."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 9,
+  "verse_key": "2:58",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قُلۡنَا ٱدۡخُلُواْ هَٰذِهِ ٱلۡقَرۡيَةَ فَكُلُواْ مِنۡهَا حَيۡثُ شِئۡتُمۡ رَغَدٗا وَٱدۡخُلُواْ ٱلۡبَابَ سُجَّدٗا وَقُولُواْ حِطَّةٞ نَّغۡفِرۡ لَكُمۡ خَطَٰيَٰكُمۡۚ وَسَنَزِيدُ ٱلۡمُحۡسِنِينَ",
+  "translation": "(Ẹ rántí) nígbà tí A sọ pé: “Ẹ wọ inú ìlú yìí.[1] Ẹ jẹ nínú ìlú náà níbikíbi tí ẹ bá fẹ́ ní gbẹdẹmukẹ. Ẹ gba ẹnu-ọ̀nà (ìlú) náà wọlé ní ìtẹríba.² Kí ẹ sì wí pé: “Ha ẹ̀ṣẹ̀ wa dànù.” A óò forí àwọn ẹ̀ṣẹ̀ yín jìn yín. A ó sì ṣe àlékún (ẹ̀san rere) fún àwọn olùṣe-rere.",
+  "footnotes": "1. Ìlú náà ni Baetul-Mọƙdis. 2. “Sujūd” tí ó wà nínú “Sujjadān” kò níí ṣe é túmọ̀ sí ìforíkanlẹ̀ nínú āyah yìí bí kò ṣe ìtẹríba. Wulẹ̀ tẹ́lẹ̀, ohun tí “sujūd” kó sínú ni ìtẹrùn wálẹ̀ “inhinā’”, ìdáwọ́tẹ-orúnkún “rukū‘” àti ìforíkanlẹ̀ “sujūd”."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1626",
-    "sura": "12",
-    "aya": "30",
-    "arabic_text": "۞ وَقَالَ نِسۡوَةٞ فِي ٱلۡمَدِينَةِ ٱمۡرَأَتُ ٱلۡعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفۡسِهِۦۖ قَدۡ شَغَفَهَا حُبًّاۖ إِنَّا لَنَرَىٰهَا فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "Kuma waɗansu mãtã* a cikin Birnin suka ce: \"Matar Azĩz tanã nẽman hãdiminta daga kansa! Haƙĩƙa, yã rufe zũciyarta da so. Lalle ne mũ, Munã ganin taa cikin ɓata bayyanãnna.\"",
-    "footnotes": "* Tsegumin mãtã a cikin gari da yadda mãtar Azĩz ta yi maganin tsegumin, ta hanyar yiwa mãtan liyafa. Mace bã ta kunyar mãtã 'yan'uwanta ga irin wannan fitina idan ta sãme ta, ita kaɗai, balle mãtã ga sũ duka sun kãmu a cikin tarkon da ya kãma ta. Sai ta gaya musu gaskiyar abin da ya auku a tsakãninta da Yũsufu, a bãyan ta rãma zargin da suka yi mata."
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 238,
+  "verse_key": "12:30",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَقَالَ نِسۡوَةٞ فِي ٱلۡمَدِينَةِ ٱمۡرَأَتُ ٱلۡعَزِيزِ تُرَٰوِدُ فَتَىٰهَا عَن نَّفۡسِهِۦۖ قَدۡ شَغَفَهَا حُبًّاۖ إِنَّا لَنَرَىٰهَا فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "Kuma waɗansu mãtã* a cikin Birnin suka ce: \"Matar Azĩz tanã nẽman hãdiminta daga kansa! Haƙĩƙa, yã rufe zũciyarta da so. Lalle ne mũ, Munã ganin taa cikin ɓata bayyanãnna.\"",
+  "footnotes": "* Tsegumin mãtã a cikin gari da yadda mãtar Azĩz ta yi maganin tsegumin, ta hanyar yiwa mãtan liyafa. Mace bã ta kunyar mãtã 'yan'uwanta ga irin wannan fitina idan ta sãme ta, ita kaɗai, balle mãtã ga sũ duka sun kãmu a cikin tarkon da ya kãma ta. Sai ta gaya musu gaskiyar abin da ya auku a tsakãninta da Yũsufu, a bãyan ta rãma zargin da suka yi mata."
 }

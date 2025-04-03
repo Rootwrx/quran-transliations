@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5040",
-    "sura": "56",
-    "aya": "61",
-    "arabic_text": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
-    "translation": "Kuwaleta wengine badala yenu na kukuumbeni nyinyi kwa umbo msilo lijua.",
-    "footnotes": "Na wala Sisi si wenye kushindwa kukubadilisheni sura zenu, na kuzileta nyengine, na tukakuumbeni katika umbo jengine na sura nyengine msiyo ijua."
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 536,
+  "verse_key": "56:61",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَلَىٰٓ أَن نُّبَدِّلَ أَمۡثَٰلَكُمۡ وَنُنشِئَكُمۡ فِي مَا لَا تَعۡلَمُونَ",
+  "translation": "Kuwaleta wengine badala yenu na kukuumbeni nyinyi kwa umbo msilo lijua.",
+  "footnotes": "Na wala Sisi si wenye kushindwa kukubadilisheni sura zenu, na kuzileta nyengine, na tukakuumbeni katika umbo jengine na sura nyengine msiyo ijua."
 }

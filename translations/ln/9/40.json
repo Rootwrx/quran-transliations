@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1275",
-    "sura": "9",
-    "aya": "40",
-    "arabic_text": "إِلَّا تَنصُرُوهُ فَقَدۡ نَصَرَهُ ٱللَّهُ إِذۡ أَخۡرَجَهُ ٱلَّذِينَ كَفَرُواْ ثَانِيَ ٱثۡنَيۡنِ إِذۡ هُمَا فِي ٱلۡغَارِ إِذۡ يَقُولُ لِصَٰحِبِهِۦ لَا تَحۡزَنۡ إِنَّ ٱللَّهَ مَعَنَاۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيۡهِ وَأَيَّدَهُۥ بِجُنُودٖ لَّمۡ تَرَوۡهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُواْ ٱلسُّفۡلَىٰۗ وَكَلِمَةُ ٱللَّهِ هِيَ ٱلۡعُلۡيَاۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
-    "translation": "40. Soki bopesi ye lisungi te, (Muhammad) Allah asilaki kolongisa ye. Tango bapengwi babimisaki ye, ya mibale bango babale, tango bazalaki kati ya libanga, tango azali koloba na moyekoli naye: Kobanga te, ya soló, Allah azali elongo na biso, Allah akitisaki lisungi lia ye epai naye, mpe asalisi ye na mapinga baye bomonaki bango te, mpe atiyaki liloba lia bapengwi nanse, mpe liloba lia Allah lizala likolo, mpe Allah azali na bokasi atonda bwanya.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 193,
+  "verse_key": "9:40",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا تَنصُرُوهُ فَقَدۡ نَصَرَهُ ٱللَّهُ إِذۡ أَخۡرَجَهُ ٱلَّذِينَ كَفَرُواْ ثَانِيَ ٱثۡنَيۡنِ إِذۡ هُمَا فِي ٱلۡغَارِ إِذۡ يَقُولُ لِصَٰحِبِهِۦ لَا تَحۡزَنۡ إِنَّ ٱللَّهَ مَعَنَاۖ فَأَنزَلَ ٱللَّهُ سَكِينَتَهُۥ عَلَيۡهِ وَأَيَّدَهُۥ بِجُنُودٖ لَّمۡ تَرَوۡهَا وَجَعَلَ كَلِمَةَ ٱلَّذِينَ كَفَرُواْ ٱلسُّفۡلَىٰۗ وَكَلِمَةُ ٱللَّهِ هِيَ ٱلۡعُلۡيَاۗ وَٱللَّهُ عَزِيزٌ حَكِيمٌ",
+  "translation": "40. Soki bopesi ye lisungi te, (Muhammad) Allah asilaki kolongisa ye. Tango bapengwi babimisaki ye, ya mibale bango babale, tango bazalaki kati ya libanga, tango azali koloba na moyekoli naye: Kobanga te, ya soló, Allah azali elongo na biso, Allah akitisaki lisungi lia ye epai naye, mpe asalisi ye na mapinga baye bomonaki bango te, mpe atiyaki liloba lia bapengwi nanse, mpe liloba lia Allah lizala likolo, mpe Allah azali na bokasi atonda bwanya.",
+  "footnotes": ""
 }

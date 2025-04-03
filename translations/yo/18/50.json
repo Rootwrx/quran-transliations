@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2190",
-    "sura": "18",
-    "aya": "50",
-    "arabic_text": "وَإِذۡ قُلۡنَا لِلۡمَلَٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ كَانَ مِنَ ٱلۡجِنِّ فَفَسَقَ عَنۡ أَمۡرِ رَبِّهِۦٓۗ أَفَتَتَّخِذُونَهُۥ وَذُرِّيَّتَهُۥٓ أَوۡلِيَآءَ مِن دُونِي وَهُمۡ لَكُمۡ عَدُوُّۢۚ بِئۡسَ لِلظَّٰلِمِينَ بَدَلٗا",
-    "translation": "(Rántí) nígbà tí A sọ fún àwọn mọlāika pé: “Ẹ forí kanlẹ̀ kí (Ànábì) Ādam.” Wọ́n sì forí kanlẹ̀ kí i àfi ’Iblīs, (tí) ó jẹ́ ọ̀kan nínú àwọn àlùjànnú. Ó sì yapa sí àṣẹ Olúwa rẹ̀. Nítorí náà, ṣé ẹ máa mú òun àti àwọn àrọ́mọdọ́mọ rẹ̀ ní aláfẹ̀yìntì lẹ́yìn Mi ni, ọ̀tá yín sì ni wọ́n. Pàṣípààrọ̀ tó burú ni fún àwọn alábòsí.[1]",
-    "footnotes": "1. Ìyẹn ni pé, aburú ni fún ẹni tí ó mú aṣ-ṣaetọ̄n ní aláfẹ̀yìntì rẹ̀ dípò Allāhu."
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 299,
+  "verse_key": "18:50",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 119,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قُلۡنَا لِلۡمَلَٰٓئِكَةِ ٱسۡجُدُواْ لِأٓدَمَ فَسَجَدُوٓاْ إِلَّآ إِبۡلِيسَ كَانَ مِنَ ٱلۡجِنِّ فَفَسَقَ عَنۡ أَمۡرِ رَبِّهِۦٓۗ أَفَتَتَّخِذُونَهُۥ وَذُرِّيَّتَهُۥٓ أَوۡلِيَآءَ مِن دُونِي وَهُمۡ لَكُمۡ عَدُوُّۢۚ بِئۡسَ لِلظَّٰلِمِينَ بَدَلٗا",
+  "translation": "(Rántí) nígbà tí A sọ fún àwọn mọlāika pé: “Ẹ forí kanlẹ̀ kí (Ànábì) Ādam.” Wọ́n sì forí kanlẹ̀ kí i àfi ’Iblīs, (tí) ó jẹ́ ọ̀kan nínú àwọn àlùjànnú. Ó sì yapa sí àṣẹ Olúwa rẹ̀. Nítorí náà, ṣé ẹ máa mú òun àti àwọn àrọ́mọdọ́mọ rẹ̀ ní aláfẹ̀yìntì lẹ́yìn Mi ni, ọ̀tá yín sì ni wọ́n. Pàṣípààrọ̀ tó burú ni fún àwọn alábòsí.[1]",
+  "footnotes": "1. Ìyẹn ni pé, aburú ni fún ẹni tí ó mú aṣ-ṣaetọ̄n ní aláfẹ̀yìntì rẹ̀ dípò Allāhu."
 }

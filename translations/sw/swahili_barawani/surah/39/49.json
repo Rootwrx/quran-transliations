@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4107",
-    "sura": "39",
-    "aya": "49",
-    "arabic_text": "فَإِذَا مَسَّ ٱلۡإِنسَٰنَ ضُرّٞ دَعَانَا ثُمَّ إِذَا خَوَّلۡنَٰهُ نِعۡمَةٗ مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلۡمِۭۚ بَلۡ هِيَ فِتۡنَةٞ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
-    "translation": "Na dhara inapo mgusa mtu hutuomba. Kisha tunapo mpa neema zitokazo kwetu, husema: Nimepewa haya kwa sababu ya ilimu yangu. Sio! Huo ni mtihani! Lakini wengi wao hawajui!",
-    "footnotes": "Na mtu yakimpata madhara hutuomba kwa unyenyekevu; kisha tukimpa neema kwa kumfadhili, mtu huyo huyo husema: Sikupewa neema hizi mimi ila kwa ujuzi wangu nilio nao wa kujua kuchuma. Naye mtu huyu kasahau kuwa mambo si hivyo kama asemavyo, bali neema hizo alizo mneemesha Mwenyezi Mungu ni kama majaribio tu, ni mtihani, ili amdhihirishe nani mwenye kut'ii na nani mwenye kua'si. Lakini wengi wa watu hawatambui kama hayo ni majaribio na fitna."
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 464,
+  "verse_key": "39:49",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا مَسَّ ٱلۡإِنسَٰنَ ضُرّٞ دَعَانَا ثُمَّ إِذَا خَوَّلۡنَٰهُ نِعۡمَةٗ مِّنَّا قَالَ إِنَّمَآ أُوتِيتُهُۥ عَلَىٰ عِلۡمِۭۚ بَلۡ هِيَ فِتۡنَةٞ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+  "translation": "Na dhara inapo mgusa mtu hutuomba. Kisha tunapo mpa neema zitokazo kwetu, husema: Nimepewa haya kwa sababu ya ilimu yangu. Sio! Huo ni mtihani! Lakini wengi wao hawajui!",
+  "footnotes": "Na mtu yakimpata madhara hutuomba kwa unyenyekevu; kisha tukimpa neema kwa kumfadhili, mtu huyo huyo husema: Sikupewa neema hizi mimi ila kwa ujuzi wangu nilio nao wa kujua kuchuma. Naye mtu huyu kasahau kuwa mambo si hivyo kama asemavyo, bali neema hizo alizo mneemesha Mwenyezi Mungu ni kama majaribio tu, ni mtihani, ili amdhihirishe nani mwenye kut'ii na nani mwenye kua'si. Lakini wengi wa watu hawatambui kama hayo ni majaribio na fitna."
 }

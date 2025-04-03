@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3196",
-    "sura": "27",
-    "aya": "37",
-    "arabic_text": "ٱرۡجِعۡ إِلَيۡهِمۡ فَلَنَأۡتِيَنَّهُم بِجُنُودٖ لَّا قِبَلَ لَهُم بِهَا وَلَنُخۡرِجَنَّهُم مِّنۡهَآ أَذِلَّةٗ وَهُمۡ صَٰغِرُونَ",
-    "translation": "Rejea kwao! Kwa yakini sisi tutawajia kwa majeshi wasio yaweza kuyakabili. Na hakika tutawatoa humo na hali wao wamekuwa madhalili na wanyonge.",
-    "footnotes": "Akasema, akimsemeza yule msemaji kwa jina lao: Ewe mjumbe! Rejea kwao. Wallahi! tutawatokea kwa majeshi wasio yaweza kupambana nayo na kuyakabili. Na tutawatoa kwenye nchi ya Sabai nao wamepoteza utukufu wao, wamefanywa watumwa."
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 380,
+  "verse_key": "27:37",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱرۡجِعۡ إِلَيۡهِمۡ فَلَنَأۡتِيَنَّهُم بِجُنُودٖ لَّا قِبَلَ لَهُم بِهَا وَلَنُخۡرِجَنَّهُم مِّنۡهَآ أَذِلَّةٗ وَهُمۡ صَٰغِرُونَ",
+  "translation": "Rejea kwao! Kwa yakini sisi tutawajia kwa majeshi wasio yaweza kuyakabili. Na hakika tutawatoa humo na hali wao wamekuwa madhalili na wanyonge.",
+  "footnotes": "Akasema, akimsemeza yule msemaji kwa jina lao: Ewe mjumbe! Rejea kwao. Wallahi! tutawatokea kwa majeshi wasio yaweza kupambana nayo na kuyakabili. Na tutawatoa kwenye nchi ya Sabai nao wamepoteza utukufu wao, wamefanywa watumwa."
 }

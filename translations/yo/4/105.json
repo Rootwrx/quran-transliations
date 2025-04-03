@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "598",
-    "sura": "4",
-    "aya": "105",
-    "arabic_text": "إِنَّآ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ لِتَحۡكُمَ بَيۡنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُۚ وَلَا تَكُن لِّلۡخَآئِنِينَ خَصِيمٗا",
-    "translation": "Dájúdájú Àwa sọ Tírà (al-Ƙur’ān) kalẹ̀ fún ọ pẹ̀lú òdodo nítorí kí o lè máa ṣèdájọ́ láààrin àwọn ènìyàn pẹ̀lú ohun tí Allāhu fi hàn ọ́. Má ṣe jẹ́ olùgbèjà fún àwọn oníjàǹbá.[1]",
-    "footnotes": "1. Kí ẹ̀yin tí ẹ jẹ́ agbẹjọ́rò má ṣe jẹ́ ẹni tí yóò máa kọ́ ọ̀daràn ní irọ́ nítorí kí ó lè móríbọ́ nínú ìjìyà ẹ̀ṣẹ̀ rẹ̀. Kí ẹ̀yin adájọ́ náà má ṣe dá ọ̀daràn láre."
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 95,
+  "verse_key": "4:105",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ لِتَحۡكُمَ بَيۡنَ ٱلنَّاسِ بِمَآ أَرَىٰكَ ٱللَّهُۚ وَلَا تَكُن لِّلۡخَآئِنِينَ خَصِيمٗا",
+  "translation": "Dájúdájú Àwa sọ Tírà (al-Ƙur’ān) kalẹ̀ fún ọ pẹ̀lú òdodo nítorí kí o lè máa ṣèdájọ́ láààrin àwọn ènìyàn pẹ̀lú ohun tí Allāhu fi hàn ọ́. Má ṣe jẹ́ olùgbèjà fún àwọn oníjàǹbá.[1]",
+  "footnotes": "1. Kí ẹ̀yin tí ẹ jẹ́ agbẹjọ́rò má ṣe jẹ́ ẹni tí yóò máa kọ́ ọ̀daràn ní irọ́ nítorí kí ó lè móríbọ́ nínú ìjìyà ẹ̀ṣẹ̀ rẹ̀. Kí ẹ̀yin adájọ́ náà má ṣe dá ọ̀daràn láre."
 }

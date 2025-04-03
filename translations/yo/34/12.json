@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3618",
-    "sura": "34",
-    "aya": "12",
-    "arabic_text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهۡرٞ وَرَوَاحُهَا شَهۡرٞۖ وَأَسَلۡنَا لَهُۥ عَيۡنَ ٱلۡقِطۡرِۖ وَمِنَ ٱلۡجِنِّ مَن يَعۡمَلُ بَيۡنَ يَدَيۡهِ بِإِذۡنِ رَبِّهِۦۖ وَمَن يَزِغۡ مِنۡهُمۡ عَنۡ أَمۡرِنَا نُذِقۡهُ مِنۡ عَذَابِ ٱلسَّعِيرِ",
-    "translation": "Àti pé (A tẹ) atẹ́gùn lórí bá fún (Ànábì) Sulaemọ̄n, ìrìn oṣù kan ni ìrìn òwúrọ̀ rẹ̀, ìrìn oṣù kan sì ni ìrìn ìrọ̀lẹ́ rẹ̀[1]. A sì mú kí odò idẹ máa ṣàn nínú ilẹ̀ fún un. Ó sì wà nínú àwọn àlùjànnú, èyí tó ń ṣiṣẹ́ (fún un) níwájú rẹ̀ pẹ̀lú ìyọ̀ǹda Olúwa rẹ̀. Àti pé ẹni tí ó bá yẹ̀ kúrò níbi àṣẹ Wa nínú wọn, A máa fún un ní ìyà iná tó ń jó tọ́ wò.",
-    "footnotes": "1. Èyí já sí pé Ànábì Sulaemọ̄n - kí ọlà Allāhu máa bá a - ń rin ìrìn oṣù méjì ní ojúmọ́ bí ó bá fẹ́ rìn jáde pẹ̀lú atẹ́gùn."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 429,
+  "verse_key": "34:12",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهۡرٞ وَرَوَاحُهَا شَهۡرٞۖ وَأَسَلۡنَا لَهُۥ عَيۡنَ ٱلۡقِطۡرِۖ وَمِنَ ٱلۡجِنِّ مَن يَعۡمَلُ بَيۡنَ يَدَيۡهِ بِإِذۡنِ رَبِّهِۦۖ وَمَن يَزِغۡ مِنۡهُمۡ عَنۡ أَمۡرِنَا نُذِقۡهُ مِنۡ عَذَابِ ٱلسَّعِيرِ",
+  "translation": "Àti pé (A tẹ) atẹ́gùn lórí bá fún (Ànábì) Sulaemọ̄n, ìrìn oṣù kan ni ìrìn òwúrọ̀ rẹ̀, ìrìn oṣù kan sì ni ìrìn ìrọ̀lẹ́ rẹ̀[1]. A sì mú kí odò idẹ máa ṣàn nínú ilẹ̀ fún un. Ó sì wà nínú àwọn àlùjànnú, èyí tó ń ṣiṣẹ́ (fún un) níwájú rẹ̀ pẹ̀lú ìyọ̀ǹda Olúwa rẹ̀. Àti pé ẹni tí ó bá yẹ̀ kúrò níbi àṣẹ Wa nínú wọn, A máa fún un ní ìyà iná tó ń jó tọ́ wò.",
+  "footnotes": "1. Èyí já sí pé Ànábì Sulaemọ̄n - kí ọlà Allāhu máa bá a - ń rin ìrìn oṣù méjì ní ojúmọ́ bí ó bá fẹ́ rìn jáde pẹ̀lú atẹ́gùn."
 }

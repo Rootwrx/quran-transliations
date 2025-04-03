@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2988",
-    "sura": "26",
-    "aya": "56",
-    "arabic_text": "وَإِنَّا لَجَمِيعٌ حَٰذِرُونَ",
-    "translation": "tɩ tõnd fãa gill yaool n yaa gũus-m-mens-rãmba\".",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 369,
+  "verse_key": "26:56",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّا لَجَمِيعٌ حَٰذِرُونَ",
+  "translation": "tɩ tõnd fãa gill yaool n yaa gũus-m-mens-rãmba\".",
+  "footnotes": ""
 }

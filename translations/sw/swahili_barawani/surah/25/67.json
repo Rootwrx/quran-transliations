@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2922",
-    "sura": "25",
-    "aya": "67",
-    "arabic_text": "وَٱلَّذِينَ إِذَآ أَنفَقُواْ لَمۡ يُسۡرِفُواْ وَلَمۡ يَقۡتُرُواْ وَكَانَ بَيۡنَ ذَٰلِكَ قَوَامٗا",
-    "translation": "Na wale ambao wanapo tumia hawatumii kwa fujo wala hawafanyi ubakhili, bali wanakuwa katikati baina ya hayo.",
-    "footnotes": "Na katika alama za waja wa Mwenyezi Mungu ni kuwa wana kiasi katika kutumia kwao mali, kwa ajili ya nafsi zao na jamaa zao. Wao hawafanyi ubadhirifu, wala hawabanii matumizi bila ya kiasi. Bali kutoa kwao ni kati kati baina ya hayo."
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 365,
+  "verse_key": "25:67",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ إِذَآ أَنفَقُواْ لَمۡ يُسۡرِفُواْ وَلَمۡ يَقۡتُرُواْ وَكَانَ بَيۡنَ ذَٰلِكَ قَوَامٗا",
+  "translation": "Na wale ambao wanapo tumia hawatumii kwa fujo wala hawafanyi ubakhili, bali wanakuwa katikati baina ya hayo.",
+  "footnotes": "Na katika alama za waja wa Mwenyezi Mungu ni kuwa wana kiasi katika kutumia kwao mali, kwa ajili ya nafsi zao na jamaa zao. Wao hawafanyi ubadhirifu, wala hawabanii matumizi bila ya kiasi. Bali kutoa kwao ni kati kati baina ya hayo."
 }

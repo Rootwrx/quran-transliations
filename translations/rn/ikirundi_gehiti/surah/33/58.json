@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3591",
-    "sura": "33",
-    "aya": "58",
-    "arabic_text": "وَٱلَّذِينَ يُؤۡذُونَ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ بِغَيۡرِ مَا ٱكۡتَسَبُواْ فَقَدِ ٱحۡتَمَلُواْ بُهۡتَٰنٗا وَإِثۡمٗا مُّبِينٗا",
-    "translation": "Na barya babangamira abemeramana n’abemeramanakazi mu mvugo n’ingiro, babahora icaha batigeze bakora, ni ukuri biremeka ikinyoma ceruye hamwe n’icaha kigaragara bazohanirwa mu buzima bw’inyuma yo gupfa.",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 426,
+  "verse_key": "33:58",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 170,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يُؤۡذُونَ ٱلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِ بِغَيۡرِ مَا ٱكۡتَسَبُواْ فَقَدِ ٱحۡتَمَلُواْ بُهۡتَٰنٗا وَإِثۡمٗا مُّبِينٗا",
+  "translation": "Na barya babangamira abemeramana n’abemeramanakazi mu mvugo n’ingiro, babahora icaha batigeze bakora, ni ukuri biremeka ikinyoma ceruye hamwe n’icaha kigaragara bazohanirwa mu buzima bw’inyuma yo gupfa.",
+  "footnotes": ""
 }

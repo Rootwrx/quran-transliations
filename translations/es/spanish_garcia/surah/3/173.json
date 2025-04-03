@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "466",
-    "sura": "3",
-    "aya": "173",
-    "arabic_text": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدۡ جَمَعُواْ لَكُمۡ فَٱخۡشَوۡهُمۡ فَزَادَهُمۡ إِيمَٰنٗا وَقَالُواْ حَسۡبُنَا ٱللَّهُ وَنِعۡمَ ٱلۡوَكِيلُ",
-    "translation": "173. A ellos les fue dicho: “Los enemigos se han agrupado contra ustedes, no podrán con ellos”. Pero esto solo les aumentó la fe y dijeron: “Dios es suficiente[1] para nosotros, porque Él es el mejor protector”,",
-    "footnotes": "[1] Dijo el sabio Ibn Al-Qaiim: “Dios es suficiente para quien se encomienda a Él, y Le basta a quien vuelve hacia Él. Él es Quien concede seguridad y paz al temeroso, y protege a quien se lo pide; a todo aquel que solicite Su socorro, Su ayuda, abandonándose a Él, Dios habrá de protegerlo, cuidarlo y darle una salida”."
-  }
+  "id": 173,
+  "verse_number": 173,
+  "page_number": 72,
+  "verse_key": "3:173",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 29,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدۡ جَمَعُواْ لَكُمۡ فَٱخۡشَوۡهُمۡ فَزَادَهُمۡ إِيمَٰنٗا وَقَالُواْ حَسۡبُنَا ٱللَّهُ وَنِعۡمَ ٱلۡوَكِيلُ",
+  "translation": "173. A ellos les fue dicho: “Los enemigos se han agrupado contra ustedes, no podrán con ellos”. Pero esto solo les aumentó la fe y dijeron: “Dios es suficiente[1] para nosotros, porque Él es el mejor protector”,",
+  "footnotes": "[1] Dijo el sabio Ibn Al-Qaiim: “Dios es suficiente para quien se encomienda a Él, y Le basta a quien vuelve hacia Él. Él es Quien concede seguridad y paz al temeroso, y protege a quien se lo pide; a todo aquel que solicite Su socorro, Su ayuda, abandonándose a Él, Dios habrá de protegerlo, cuidarlo y darle una salida”."
 }

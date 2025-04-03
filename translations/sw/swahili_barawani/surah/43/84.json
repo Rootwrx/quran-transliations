@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4409",
-    "sura": "43",
-    "aya": "84",
-    "arabic_text": "وَهُوَ ٱلَّذِي فِي ٱلسَّمَآءِ إِلَٰهٞ وَفِي ٱلۡأَرۡضِ إِلَٰهٞۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
-    "translation": "Na Yeye ndiye Mungu mbinguni, na ndiye Mungu katika ardhi. Naye ndiye Mwenye hikima, Mwenye ujuzi.",
-    "footnotes": "Na Yeye ndiye anaye abudiwa mbinguni kwa haki, na anaabudiwa katika ardhi kwa haki. Na Yeye, peke yake, ndiye Mwenye hikima za mwisho katika vitendo vyake na mipango yake, Mwenye kujua kila kitu kilicho kuwa na kitakacho kuwa."
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 495,
+  "verse_key": "43:84",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِي فِي ٱلسَّمَآءِ إِلَٰهٞ وَفِي ٱلۡأَرۡضِ إِلَٰهٞۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+  "translation": "Na Yeye ndiye Mungu mbinguni, na ndiye Mungu katika ardhi. Naye ndiye Mwenye hikima, Mwenye ujuzi.",
+  "footnotes": "Na Yeye ndiye anaye abudiwa mbinguni kwa haki, na anaabudiwa katika ardhi kwa haki. Na Yeye, peke yake, ndiye Mwenye hikima za mwisho katika vitendo vyake na mipango yake, Mwenye kujua kila kitu kilicho kuwa na kitakacho kuwa."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "99",
-    "sura": "2",
-    "aya": "92",
-    "arabic_text": "۞ وَلَقَدۡ جَآءَكُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
-    "translation": "Na alikufikieni Musa na hoja zilizo waziwazi, kisha mkamchukua ndama (kumuabudu) baada yake, na mkawa wenye kudhulumu.",
-    "footnotes": "Bali hakika nyinyi Mayahudi mlikanusha kwa uwazi Vitabu vyenu, na mkarejea katika ushirikina katika zama za Musa mwenyewe. Kwani Musa alikujieni na hoja zilizo wazi, na miujiza inayo hakikisha ukweli wake, lakini kiasi ya kukupeni mgongo tu alipo kwenda kusema na Mola wake Mlezi nyinyi mkaingia kuabudu ndama, na mkarajea katika ukafiri wenu wa kuabudu masanamu, na nyinyi mkawa mlio dhulumu mlio potea."
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 14,
+  "verse_key": "2:92",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَقَدۡ جَآءَكُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
+  "translation": "Na alikufikieni Musa na hoja zilizo waziwazi, kisha mkamchukua ndama (kumuabudu) baada yake, na mkawa wenye kudhulumu.",
+  "footnotes": "Bali hakika nyinyi Mayahudi mlikanusha kwa uwazi Vitabu vyenu, na mkarejea katika ushirikina katika zama za Musa mwenyewe. Kwani Musa alikujieni na hoja zilizo wazi, na miujiza inayo hakikisha ukweli wake, lakini kiasi ya kukupeni mgongo tu alipo kwenda kusema na Mola wake Mlezi nyinyi mkaingia kuabudu ndama, na mkarajea katika ukafiri wenu wa kuabudu masanamu, na nyinyi mkawa mlio dhulumu mlio potea."
 }

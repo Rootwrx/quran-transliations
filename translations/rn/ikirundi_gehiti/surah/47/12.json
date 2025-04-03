@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4557",
-    "sura": "47",
-    "aya": "12",
-    "arabic_text": "إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ وَٱلَّذِينَ كَفَرُواْ يَتَمَتَّعُونَ وَيَأۡكُلُونَ كَمَا تَأۡكُلُ ٱلۡأَنۡعَٰمُ وَٱلنَّارُ مَثۡوٗى لَّهُمۡ",
-    "translation": "Mu vy’ukuri Imana Allah, Izokwinjiza abayemeye bakemera n’Intumwa yayo bagakora n’ivyiza bitegetswe, mu mirima itotahaye yo mu Bwami bw’ijuru, musi y’ibiti n’inyubakwa vyabwo hatemba inzuzi. Nayo abagararije, ukurya no kuryimara mu kuryoherwa kwabo n’ibihendamaso vy’isi, ni nka kurya kw’ibitungwa ata kindi binezwe kw’isi atari ukurisha gusa, umuriro wa Jahannamu rero, ni ryo cumbi ryabo.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 508,
+  "verse_key": "47:12",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ يُدۡخِلُ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ وَٱلَّذِينَ كَفَرُواْ يَتَمَتَّعُونَ وَيَأۡكُلُونَ كَمَا تَأۡكُلُ ٱلۡأَنۡعَٰمُ وَٱلنَّارُ مَثۡوٗى لَّهُمۡ",
+  "translation": "Mu vy’ukuri Imana Allah, Izokwinjiza abayemeye bakemera n’Intumwa yayo bagakora n’ivyiza bitegetswe, mu mirima itotahaye yo mu Bwami bw’ijuru, musi y’ibiti n’inyubakwa vyabwo hatemba inzuzi. Nayo abagararije, ukurya no kuryimara mu kuryoherwa kwabo n’ibihendamaso vy’isi, ni nka kurya kw’ibitungwa ata kindi binezwe kw’isi atari ukurisha gusa, umuriro wa Jahannamu rero, ni ryo cumbi ryabo.",
+  "footnotes": ""
 }

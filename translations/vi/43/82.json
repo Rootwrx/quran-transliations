@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4407",
-    "sura": "43",
-    "aya": "82",
-    "arabic_text": "سُبۡحَٰنَ رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ رَبِّ ٱلۡعَرۡشِ عَمَّا يَصِفُونَ",
-    "translation": "Quang vinh và trong sạch thay Thượng Đế của các tầng trời và trái đất, Thượng Đế của chiếc Ngai Vương, Ngài vượt hẳn những gì chúng đã qui cho Ngài.",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 495,
+  "verse_key": "43:82",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سُبۡحَٰنَ رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ رَبِّ ٱلۡعَرۡشِ عَمَّا يَصِفُونَ",
+  "translation": "Quang vinh và trong sạch thay Thượng Đế của các tầng trời và trái đất, Thượng Đế của chiếc Ngai Vương, Ngài vượt hẳn những gì chúng đã qui cho Ngài.",
+  "footnotes": ""
 }

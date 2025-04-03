@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4315",
-    "sura": "42",
-    "aya": "43",
-    "arabic_text": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنۡ عَزۡمِ ٱلۡأُمُورِ",
-    "translation": "43. Ir iš tiesų, kas rodo kantrybę ir atleidžia, tai tikrai būtų iš to, kas yra patariama Allaho.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 487,
+  "verse_key": "42:43",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَن صَبَرَ وَغَفَرَ إِنَّ ذَٰلِكَ لَمِنۡ عَزۡمِ ٱلۡأُمُورِ",
+  "translation": "43. Ir iš tiesų, kas rodo kantrybę ir atleidžia, tai tikrai būtų iš to, kas yra patariama Allaho.",
+  "footnotes": ""
 }

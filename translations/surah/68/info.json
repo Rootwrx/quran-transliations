@@ -1,0 +1,27 @@
+{
+  "number": 68,
+  "name": {
+    "ar": "القلم",
+    "en": "The Pen",
+    "transliteration": "Al-Qalam"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 2,
+  "bismillah_pre": true,
+  "verses_count": 52,
+  "words_count": 301,
+  "letters_count": 1258,
+  "pages": [
+    564,
+    566
+  ],
+  "name_simple": "Al-Qalam",
+  "name_complex": "Al-Qalam",
+  "name_arabic": "القلم",
+  "translated_name": "The Pen",
+  "start_page": 564,
+  "end_page": 566
+}

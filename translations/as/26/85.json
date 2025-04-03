@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3017",
-    "sura": "26",
-    "aya": "85",
-    "arabic_text": "وَٱجۡعَلۡنِي مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ",
-    "translation": "‘আৰু মোক সুখময় জান্নাতৰ উত্তৰাধিকাৰীসকলৰ অন্তৰ্ভুক্ত কৰা,",
-    "footnotes": ""
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 371,
+  "verse_key": "26:85",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱجۡعَلۡنِي مِن وَرَثَةِ جَنَّةِ ٱلنَّعِيمِ",
+  "translation": "‘আৰু মোক সুখময় জান্নাতৰ উত্তৰাধিকাৰীসকলৰ অন্তৰ্ভুক্ত কৰা,",
+  "footnotes": ""
 }

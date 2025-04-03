@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6022",
-    "sura": "89",
-    "aya": "29",
-    "arabic_text": "فَٱدۡخُلِي فِي عِبَٰدِي",
-    "translation": "Bashkohu me robërit e Mi",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 594,
+  "verse_key": "89:29",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱدۡخُلِي فِي عِبَٰدِي",
+  "translation": "Bashkohu me robërit e Mi",
+  "footnotes": ""
 }

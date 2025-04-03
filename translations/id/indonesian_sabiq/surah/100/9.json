@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6155",
-    "sura": "100",
-    "aya": "9",
-    "arabic_text": "۞ أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ",
-    "translation": "9. Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 599,
+  "verse_key": "100:9",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَفَلَا يَعۡلَمُ إِذَا بُعۡثِرَ مَا فِي ٱلۡقُبُورِ",
+  "translation": "9. Maka tidakkah dia mengetahui apabila apa yang di dalam kubur dikeluarkan,",
+  "footnotes": ""
 }

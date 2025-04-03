@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "96",
-    "sura": "2",
-    "aya": "89",
-    "arabic_text": "وَلَمَّا جَآءَهُمۡ كِتَٰبٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ وَكَانُواْ مِن قَبۡلُ يَسۡتَفۡتِحُونَ عَلَى ٱلَّذِينَ كَفَرُواْ فَلَمَّا جَآءَهُم مَّا عَرَفُواْ كَفَرُواْ بِهِۦۚ فَلَعۡنَةُ ٱللَّهِ عَلَى ٱلۡكَٰفِرِينَ",
-    "translation": "Kuma a lõkacin da wani Littãfi daga wurin Allah ya je musu, mai gaskatãwa ga abin da yake tãre da su, alhãli kuwa sun kasance daga gabãnin haka suna fãtar taimako* da shi a kan waɗanda suka kãfirta. To, a lõkacin da abin da suka sani ya je musu, sai suka kãfirta da shi. Sabõda haka la'anar Allah ta tabbata a kan kãfirai.",
-    "footnotes": "* Sunã cewa idan Annabin ƙarshen zãmaninsa ya zo, zã su yãƙi kãfiran Lãrabãwa da shi. Sunã zaton a cikinsu zai ɓullo. Sai ya fito a cikin Lãrabãwan."
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 14,
+  "verse_key": "2:89",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا جَآءَهُمۡ كِتَٰبٞ مِّنۡ عِندِ ٱللَّهِ مُصَدِّقٞ لِّمَا مَعَهُمۡ وَكَانُواْ مِن قَبۡلُ يَسۡتَفۡتِحُونَ عَلَى ٱلَّذِينَ كَفَرُواْ فَلَمَّا جَآءَهُم مَّا عَرَفُواْ كَفَرُواْ بِهِۦۚ فَلَعۡنَةُ ٱللَّهِ عَلَى ٱلۡكَٰفِرِينَ",
+  "translation": "Kuma a lõkacin da wani Littãfi daga wurin Allah ya je musu, mai gaskatãwa ga abin da yake tãre da su, alhãli kuwa sun kasance daga gabãnin haka suna fãtar taimako* da shi a kan waɗanda suka kãfirta. To, a lõkacin da abin da suka sani ya je musu, sai suka kãfirta da shi. Sabõda haka la'anar Allah ta tabbata a kan kãfirai.",
+  "footnotes": "* Sunã cewa idan Annabin ƙarshen zãmaninsa ya zo, zã su yãƙi kãfiran Lãrabãwa da shi. Sunã zaton a cikinsu zai ɓullo. Sai ya fito a cikin Lãrabãwan."
 }

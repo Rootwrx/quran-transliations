@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4161",
-    "sura": "40",
-    "aya": "28",
-    "arabic_text": "وَقَالَ رَجُلٞ مُّؤۡمِنٞ مِّنۡ ءَالِ فِرۡعَوۡنَ يَكۡتُمُ إِيمَٰنَهُۥٓ أَتَقۡتُلُونَ رَجُلًا أَن يَقُولَ رَبِّيَ ٱللَّهُ وَقَدۡ جَآءَكُم بِٱلۡبَيِّنَٰتِ مِن رَّبِّكُمۡۖ وَإِن يَكُ كَٰذِبٗا فَعَلَيۡهِ كَذِبُهُۥۖ وَإِن يَكُ صَادِقٗا يُصِبۡكُم بَعۡضُ ٱلَّذِي يَعِدُكُمۡۖ إِنَّ ٱللَّهَ لَا يَهۡدِي مَنۡ هُوَ مُسۡرِفٞ كَذَّابٞ",
-    "translation": "Et un homme croyant de la famille de Pharaon, qui dissimulait sa foi, dit : \"Tuerez-vous un homme parce qu’il dit: \"Mon seigneur est Allah ?\" Alors qu’il est venu à vous avec les preuves évidentes de la part de votre Seigneur. S’il est menteur, son mensonge sera à son détriment; tandis que s’il est véridique, alors une partie de ce dont il vous menace tombera sur vous.\" Certes, Allah ne guide pas celui qui est outrancier et imposteur !",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 470,
+  "verse_key": "40:28",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ رَجُلٞ مُّؤۡمِنٞ مِّنۡ ءَالِ فِرۡعَوۡنَ يَكۡتُمُ إِيمَٰنَهُۥٓ أَتَقۡتُلُونَ رَجُلًا أَن يَقُولَ رَبِّيَ ٱللَّهُ وَقَدۡ جَآءَكُم بِٱلۡبَيِّنَٰتِ مِن رَّبِّكُمۡۖ وَإِن يَكُ كَٰذِبٗا فَعَلَيۡهِ كَذِبُهُۥۖ وَإِن يَكُ صَادِقٗا يُصِبۡكُم بَعۡضُ ٱلَّذِي يَعِدُكُمۡۖ إِنَّ ٱللَّهَ لَا يَهۡدِي مَنۡ هُوَ مُسۡرِفٞ كَذَّابٞ",
+  "translation": "Et un homme croyant de la famille de Pharaon, qui dissimulait sa foi, dit : \"Tuerez-vous un homme parce qu’il dit: \"Mon seigneur est Allah ?\" Alors qu’il est venu à vous avec les preuves évidentes de la part de votre Seigneur. S’il est menteur, son mensonge sera à son détriment; tandis que s’il est véridique, alors une partie de ce dont il vous menace tombera sur vous.\" Certes, Allah ne guide pas celui qui est outrancier et imposteur !",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1588",
-    "sura": "11",
-    "aya": "115",
-    "arabic_text": "وَٱصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
-    "translation": "  (Ey Muhammed!) Sabırlı ol, çünkü Allah güzel iş yapanların mükâfatını zayi etmez.",
-    "footnotes": ""
-  }
+  "id": 115,
+  "verse_number": 115,
+  "page_number": 234,
+  "verse_key": "11:115",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+  "translation": "  (Ey Muhammed!) Sabırlı ol, çünkü Allah güzel iş yapanların mükâfatını zayi etmez.",
+  "footnotes": ""
 }

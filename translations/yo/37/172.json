@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3960",
-    "sura": "37",
-    "aya": "172",
-    "arabic_text": "إِنَّهُمۡ لَهُمُ ٱلۡمَنصُورُونَ",
-    "translation": "Dájúdájú àwọn, àwọn l’a kúkú máa ṣàrànṣe fún.",
-    "footnotes": ""
-  }
+  "id": 172,
+  "verse_number": 172,
+  "page_number": 452,
+  "verse_key": "37:172",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُمۡ لَهُمُ ٱلۡمَنصُورُونَ",
+  "translation": "Dájúdájú àwọn, àwọn l’a kúkú máa ṣàrànṣe fún.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3989",
-    "sura": "38",
-    "aya": "19",
-    "arabic_text": "وَٱلطَّيۡرَ مَحۡشُورَةٗۖ كُلّٞ لَّهُۥٓ أَوَّابٞ",
-    "translation": "Na pia ndege walio kusanywa makundi kwa makundi; wote walikuwa wanyenyekevu kwake.",
-    "footnotes": "Na pia tukamdhalilishia ndege walio kusanywa kutokana na kila namna na kila pahali. Vyote hivyo, milima na ndege, vikimwitikia Daudi kama atakavyo, akivisarifu kama apendavyo kwa maslaha ya umma."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 454,
+  "verse_key": "38:19",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلطَّيۡرَ مَحۡشُورَةٗۖ كُلّٞ لَّهُۥٓ أَوَّابٞ",
+  "translation": "Na pia ndege walio kusanywa makundi kwa makundi; wote walikuwa wanyenyekevu kwake.",
+  "footnotes": "Na pia tukamdhalilishia ndege walio kusanywa kutokana na kila namna na kila pahali. Vyote hivyo, milima na ndege, vikimwitikia Daudi kama atakavyo, akivisarifu kama apendavyo kwa maslaha ya umma."
 }

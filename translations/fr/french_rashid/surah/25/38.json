@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2893",
-    "sura": "25",
-    "aya": "38",
-    "arabic_text": "وَعَادٗا وَثَمُودَاْ وَأَصۡحَٰبَ ٱلرَّسِّ وَقُرُونَۢا بَيۡنَ ذَٰلِكَ كَثِيرٗا",
-    "translation": "38 Il en fut de même des ‘Ad, des Thamoud, des habitants d’Ar-Rass[954] et de nombreux peuples intermédiaires",
-    "footnotes": "[954] Littéralement : les hommes du puits."
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 363,
+  "verse_key": "25:38",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَادٗا وَثَمُودَاْ وَأَصۡحَٰبَ ٱلرَّسِّ وَقُرُونَۢا بَيۡنَ ذَٰلِكَ كَثِيرٗا",
+  "translation": "38 Il en fut de même des ‘Ad, des Thamoud, des habitants d’Ar-Rass[954] et de nombreux peuples intermédiaires",
+  "footnotes": "[954] Littéralement : les hommes du puits."
 }

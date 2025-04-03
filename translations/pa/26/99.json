@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3031",
-    "sura": "26",
-    "aya": "99",
-    "arabic_text": "وَمَآ أَضَلَّنَآ إِلَّا ٱلۡمُجۡرِمُونَ",
-    "translation": "99਼ ਸਾਨੂੰ ਤਾਂ ਉਹਨਾਂ ਅਪਰਾਧੀਆਂ ਨੇ ਗੁਮਰਾਹ ਕੀਤਾ ਸੀ।",
-    "footnotes": ""
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 371,
+  "verse_key": "26:99",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَضَلَّنَآ إِلَّا ٱلۡمُجۡرِمُونَ",
+  "translation": "99਼ ਸਾਨੂੰ ਤਾਂ ਉਹਨਾਂ ਅਪਰਾਧੀਆਂ ਨੇ ਗੁਮਰਾਹ ਕੀਤਾ ਸੀ।",
+  "footnotes": ""
 }

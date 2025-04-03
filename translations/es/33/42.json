@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3575",
-    "sura": "33",
-    "aya": "42",
-    "arabic_text": "وَسَبِّحُوهُ بُكۡرَةٗ وَأَصِيلًا",
-    "translation": "42. y glorifíquenlo por la mañana y por la tarde.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 423,
+  "verse_key": "33:42",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَسَبِّحُوهُ بُكۡرَةٗ وَأَصِيلًا",
+  "translation": "42. y glorifíquenlo por la mañana y por la tarde.",
+  "footnotes": ""
 }

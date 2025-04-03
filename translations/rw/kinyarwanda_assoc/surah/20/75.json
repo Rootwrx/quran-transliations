@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2423",
-    "sura": "20",
-    "aya": "75",
-    "arabic_text": "وَمَن يَأۡتِهِۦ مُؤۡمِنٗا قَدۡ عَمِلَ ٱلصَّٰلِحَٰتِ فَأُوْلَٰٓئِكَ لَهُمُ ٱلدَّرَجَٰتُ ٱلۡعُلَىٰ",
-    "translation": "Ariko uzamusanga ari umwemeramana kandi yarakoze ibikorwa byiza, abo bazaba bari mu nzego zo hejuru,",
-    "footnotes": ""
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 316,
+  "verse_key": "20:75",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن يَأۡتِهِۦ مُؤۡمِنٗا قَدۡ عَمِلَ ٱلصَّٰلِحَٰتِ فَأُوْلَٰٓئِكَ لَهُمُ ٱلدَّرَجَٰتُ ٱلۡعُلَىٰ",
+  "translation": "Ariko uzamusanga ari umwemeramana kandi yarakoze ibikorwa byiza, abo bazaba bari mu nzego zo hejuru,",
+  "footnotes": ""
 }

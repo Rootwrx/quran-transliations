@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2586",
-    "sura": "21",
-    "aya": "103",
-    "arabic_text": "لَا يَحۡزُنُهُمُ ٱلۡفَزَعُ ٱلۡأَكۡبَرُ وَتَتَلَقَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ هَٰذَا يَوۡمُكُمُ ٱلَّذِي كُنتُمۡ تُوعَدُونَ",
-    "translation": "103. No los afligirá el gran espanto [del castigo], y los ángeles acudirán a su encuentro [cuando salgan de las tumbas y les dirán]: “Éste es el día que se les había prometido”.",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 331,
+  "verse_key": "21:103",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا يَحۡزُنُهُمُ ٱلۡفَزَعُ ٱلۡأَكۡبَرُ وَتَتَلَقَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ هَٰذَا يَوۡمُكُمُ ٱلَّذِي كُنتُمۡ تُوعَدُونَ",
+  "translation": "103. No los afligirá el gran espanto [del castigo], y los ángeles acudirán a su encuentro [cuando salgan de las tumbas y les dirán]: “Éste es el día que se les había prometido”.",
+  "footnotes": ""
 }

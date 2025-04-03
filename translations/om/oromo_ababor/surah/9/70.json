@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1305",
-    "sura": "9",
-    "aya": "70",
-    "arabic_text": "أَلَمۡ يَأۡتِهِمۡ نَبَأُ ٱلَّذِينَ مِن قَبۡلِهِمۡ قَوۡمِ نُوحٖ وَعَادٖ وَثَمُودَ وَقَوۡمِ إِبۡرَٰهِيمَ وَأَصۡحَٰبِ مَدۡيَنَ وَٱلۡمُؤۡتَفِكَٰتِۚ أَتَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِۖ فَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
-    "translation": "Sila oduun warra isaan duraa isaanitti hin dhufnee? (Oduun) ummata Nuuh, Aad, Samuud, ummata Ibraahiim, jiraattota Madyaniifi (gandattii) garagalfamtuu (isaanitti hin dhufnee)? Ergamtoonni isaanii ragaa ifa ta’een isaanitti dhufanii jiru. Rabbiin kan isaan miidhu hin taane. Garuu isaan lubbuulee isaanii kan miidhan turan.",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 198,
+  "verse_key": "9:70",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ يَأۡتِهِمۡ نَبَأُ ٱلَّذِينَ مِن قَبۡلِهِمۡ قَوۡمِ نُوحٖ وَعَادٖ وَثَمُودَ وَقَوۡمِ إِبۡرَٰهِيمَ وَأَصۡحَٰبِ مَدۡيَنَ وَٱلۡمُؤۡتَفِكَٰتِۚ أَتَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِۖ فَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+  "translation": "Sila oduun warra isaan duraa isaanitti hin dhufnee? (Oduun) ummata Nuuh, Aad, Samuud, ummata Ibraahiim, jiraattota Madyaniifi (gandattii) garagalfamtuu (isaanitti hin dhufnee)? Ergamtoonni isaanii ragaa ifa ta’een isaanitti dhufanii jiru. Rabbiin kan isaan miidhu hin taane. Garuu isaan lubbuulee isaanii kan miidhan turan.",
+  "footnotes": ""
 }

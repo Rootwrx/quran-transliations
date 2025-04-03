@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1384",
-    "sura": "10",
-    "aya": "20",
-    "arabic_text": "وَيَقُولُونَ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦۖ فَقُلۡ إِنَّمَا ٱلۡغَيۡبُ لِلَّهِ فَٱنتَظِرُوٓاْ إِنِّي مَعَكُم مِّنَ ٱلۡمُنتَظِرِينَ",
-    "translation": "20. Dicen: “¿Por qué no se le ha concedido [a Mujámmad] un milagro de su Señor?” Respóndeles: “El conocimiento de lo oculto pertenece solo a Dios. Esperen[1], que yo también esperaré”.",
-    "footnotes": "[1] A que se manifieste la verdad a través de un signo o un milagro de Dios."
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 210,
+  "verse_key": "10:20",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُونَ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦۖ فَقُلۡ إِنَّمَا ٱلۡغَيۡبُ لِلَّهِ فَٱنتَظِرُوٓاْ إِنِّي مَعَكُم مِّنَ ٱلۡمُنتَظِرِينَ",
+  "translation": "20. Dicen: “¿Por qué no se le ha concedido [a Mujámmad] un milagro de su Señor?” Respóndeles: “El conocimiento de lo oculto pertenece solo a Dios. Esperen[1], que yo también esperaré”.",
+  "footnotes": "[1] A que se manifieste la verdad a través de un signo o un milagro de Dios."
 }

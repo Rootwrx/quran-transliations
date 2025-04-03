@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4801",
-    "sura": "53",
-    "aya": "17",
-    "arabic_text": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ",
-    "translation": "(17) The sight [of the Prophet (ﷺ)] did not swerve, nor did it transgress [its limit].",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 526,
+  "verse_key": "53:17",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا زَاغَ ٱلۡبَصَرُ وَمَا طَغَىٰ",
+  "translation": "(17) The sight [of the Prophet (ﷺ)] did not swerve, nor did it transgress [its limit].",
+  "footnotes": ""
 }

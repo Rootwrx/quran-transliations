@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5516",
-    "sura": "74",
-    "aya": "21",
-    "arabic_text": "ثُمَّ نَظَرَ",
-    "translation": "Rồi y xem xét (lại một lần nữa).",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 576,
+  "verse_key": "74:21",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ نَظَرَ",
+  "translation": "Rồi y xem xét (lại một lần nữa).",
+  "footnotes": ""
 }

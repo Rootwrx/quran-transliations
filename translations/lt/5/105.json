@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "774",
-    "sura": "5",
-    "aya": "105",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ عَلَيۡكُمۡ أَنفُسَكُمۡۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهۡتَدَيۡتُمۡۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعٗا فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "105. O jūs, kurie tikite! Rūpinkitės savimi [23]. Jei jūs seksite (teisingu) vedimu, nepakenks jums niekaip tie, kurie yra paklydę. Visų jūsų sugrįžimas yra pas Allahą, tada Jis praneš jums apie (viską), ką jūs darydavote.",
-    "footnotes": "[23] Rūpinkitės savimi, t. y. darykite teisingus darbus, stipriai bijokite Allaho (susilaikykite nuo visų rūšių nuodėmių ir blogų darbų, kuriuos Jis uždraudė) ir stipriai mylėkite Allahą (atlikite visų rūšių gerus darbus, kuriuos Jis įsakė)."
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 125,
+  "verse_key": "5:105",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ عَلَيۡكُمۡ أَنفُسَكُمۡۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهۡتَدَيۡتُمۡۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعٗا فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "105. O jūs, kurie tikite! Rūpinkitės savimi [23]. Jei jūs seksite (teisingu) vedimu, nepakenks jums niekaip tie, kurie yra paklydę. Visų jūsų sugrįžimas yra pas Allahą, tada Jis praneš jums apie (viską), ką jūs darydavote.",
+  "footnotes": "[23] Rūpinkitės savimi, t. y. darykite teisingus darbus, stipriai bijokite Allaho (susilaikykite nuo visų rūšių nuodėmių ir blogų darbų, kuriuos Jis uždraudė) ir stipriai mylėkite Allahą (atlikite visų rūšių gerus darbus, kuriuos Jis įsakė)."
 }

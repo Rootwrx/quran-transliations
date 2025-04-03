@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1009",
-    "sura": "7",
-    "aya": "55",
-    "arabic_text": "ٱدۡعُواْ رَبَّكُمۡ تَضَرُّعٗا وَخُفۡيَةًۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
-    "translation": "Invocai a vosso Senhor, humilde e secretamente. Por certo, Ele não ama os agressores.",
-    "footnotes": ""
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 157,
+  "verse_key": "7:55",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱدۡعُواْ رَبَّكُمۡ تَضَرُّعٗا وَخُفۡيَةًۚ إِنَّهُۥ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
+  "translation": "Invocai a vosso Senhor, humilde e secretamente. Por certo, Ele não ama os agressores.",
+  "footnotes": ""
 }

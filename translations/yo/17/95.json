@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2124",
-    "sura": "17",
-    "aya": "95",
-    "arabic_text": "قُل لَّوۡ كَانَ فِي ٱلۡأَرۡضِ مَلَٰٓئِكَةٞ يَمۡشُونَ مُطۡمَئِنِّينَ لَنَزَّلۡنَا عَلَيۡهِم مِّنَ ٱلسَّمَآءِ مَلَكٗا رَّسُولٗا",
-    "translation": "Sọ pé: “Tí ó bá jẹ́ pé àwọn mọlāika wà lórí ilẹ̀ ayé, tí wọ́n ń rìn kiri, (tí wọ́n ń gbé lórí ilẹ̀) pẹ̀lú ìfàyàbalẹ̀, A ìbá sọ mọlāika kan kalẹ̀ fún wọn láti inú sánmọ̀ (láti jẹ́) Òjíṣẹ́.”[1]",
-    "footnotes": "1. Ìyẹn ni pé, irọ́ ńlá ni láti ẹnu àwọn nasọ̄rọ̄ láti sọ pé Ọlọ́hun fúnra Rẹ̀ l’ó wá jíṣẹ́ ara Rẹ̀ ní àwòrán ‘Īsā ọmọ Mọryam láààrin àwọn ọmọ ’Isrọ̄’īl! Mímọ́ ni fún Allāhu tayọ ohun tí wọ́n ń sọ nípa Rẹ̀ ní irọ́."
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 291,
+  "verse_key": "17:95",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لَّوۡ كَانَ فِي ٱلۡأَرۡضِ مَلَٰٓئِكَةٞ يَمۡشُونَ مُطۡمَئِنِّينَ لَنَزَّلۡنَا عَلَيۡهِم مِّنَ ٱلسَّمَآءِ مَلَكٗا رَّسُولٗا",
+  "translation": "Sọ pé: “Tí ó bá jẹ́ pé àwọn mọlāika wà lórí ilẹ̀ ayé, tí wọ́n ń rìn kiri, (tí wọ́n ń gbé lórí ilẹ̀) pẹ̀lú ìfàyàbalẹ̀, A ìbá sọ mọlāika kan kalẹ̀ fún wọn láti inú sánmọ̀ (láti jẹ́) Òjíṣẹ́.”[1]",
+  "footnotes": "1. Ìyẹn ni pé, irọ́ ńlá ni láti ẹnu àwọn nasọ̄rọ̄ láti sọ pé Ọlọ́hun fúnra Rẹ̀ l’ó wá jíṣẹ́ ara Rẹ̀ ní àwòrán ‘Īsā ọmọ Mọryam láààrin àwọn ọmọ ’Isrọ̄’īl! Mímọ́ ni fún Allāhu tayọ ohun tí wọ́n ń sọ nípa Rẹ̀ ní irọ́."
 }

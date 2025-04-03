@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "823",
-    "sura": "6",
-    "aya": "34",
-    "arabic_text": "وَلَقَدۡ كُذِّبَتۡ رُسُلٞ مِّن قَبۡلِكَ فَصَبَرُواْ عَلَىٰ مَا كُذِّبُواْ وَأُوذُواْ حَتَّىٰٓ أَتَىٰهُمۡ نَصۡرُنَاۚ وَلَا مُبَدِّلَ لِكَلِمَٰتِ ٱللَّهِۚ وَلَقَدۡ جَآءَكَ مِن نَّبَإِيْ ٱلۡمُرۡسَلِينَ",
-    "translation": "Na hakika walikanushwa Mitume wa kabla yako. Nao wakavumilia kule kukanushwa, na kuudhiwa, mpaka ilipo wafikia nusura yetu. Na hapana wa kubadilisha maneno ya Mwenyezi Mungu. Na bila ya shaka zimekujia baadhi ya khabari za Mitume hao.",
-    "footnotes": "Na hakika Mitume wa kabla yako walikabiliwa na ukanushi na maudhi kutokana na kaumu zao, kama walivyo kufanyia wewe kaumu yako. Nao wakasubiri juu ya kukanushwa na kuudhiwa, mpaka tulipo wanusuru. Basi nawe subiri kama walivyo subiri wao, mpaka ikujie nusura yetu. Wala hapana la kugeuza ahadi ya Mwenyezi Mungu kuwa atawanusuru wenye kusubiri. Lazima hayo yatimie. Na Sisi tumekusimulia kutokana na khabari za hao Mitume, na tulivyo waunga mkono. Ndani ya hayo mna maliwaza yako, na maelezo kuwa yeyote mwenye kuchukua Ujumbe lazima ahimili kila namna ya shida."
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 131,
+  "verse_key": "6:34",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ كُذِّبَتۡ رُسُلٞ مِّن قَبۡلِكَ فَصَبَرُواْ عَلَىٰ مَا كُذِّبُواْ وَأُوذُواْ حَتَّىٰٓ أَتَىٰهُمۡ نَصۡرُنَاۚ وَلَا مُبَدِّلَ لِكَلِمَٰتِ ٱللَّهِۚ وَلَقَدۡ جَآءَكَ مِن نَّبَإِيْ ٱلۡمُرۡسَلِينَ",
+  "translation": "Na hakika walikanushwa Mitume wa kabla yako. Nao wakavumilia kule kukanushwa, na kuudhiwa, mpaka ilipo wafikia nusura yetu. Na hapana wa kubadilisha maneno ya Mwenyezi Mungu. Na bila ya shaka zimekujia baadhi ya khabari za Mitume hao.",
+  "footnotes": "Na hakika Mitume wa kabla yako walikabiliwa na ukanushi na maudhi kutokana na kaumu zao, kama walivyo kufanyia wewe kaumu yako. Nao wakasubiri juu ya kukanushwa na kuudhiwa, mpaka tulipo wanusuru. Basi nawe subiri kama walivyo subiri wao, mpaka ikujie nusura yetu. Wala hapana la kugeuza ahadi ya Mwenyezi Mungu kuwa atawanusuru wenye kusubiri. Lazima hayo yatimie. Na Sisi tumekusimulia kutokana na khabari za hao Mitume, na tulivyo waunga mkono. Ndani ya hayo mna maliwaza yako, na maelezo kuwa yeyote mwenye kuchukua Ujumbe lazima ahimili kila namna ya shida."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4496",
-    "sura": "45",
-    "aya": "23",
-    "arabic_text": "أَفَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلۡمٖ وَخَتَمَ عَلَىٰ سَمۡعِهِۦ وَقَلۡبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةٗ فَمَن يَهۡدِيهِ مِنۢ بَعۡدِ ٱللَّهِۚ أَفَلَا تَذَكَّرُونَ",
-    "translation": "Je! Umemwona aliye fanya matamanio yake kuwa ndiye mungu wake, na Mwenyezi Mungu akamwacha apotee pamoja na kuwa ana ujuzi, na akapiga muhuri juu ya masikio yake, na moyo wake, na akambandika vitanga machoni mwake? Basi nani atamwongoa huyo baada ya Mwenyezi Mungu? Hamkumbuki?",
-    "footnotes": "Ewe Mtume! Umeangalia, ukamwona huyo mwenye kufanya matamanio yake ndiye mungu wake wa kumuabudu, akamnyenyekea, na akamt'ii, na akaiacha Njia ya Haki na hali anaijua, na akaziba masikio yake asisikie waadhi, na moyo wake asiamini Haki, na akabandika vitanga vya macho asione ya kuzingatiwa? Basi nani wa kumwongoa mtu huyu baada ya kwisha puuzwa na Mwenyezi Mungu? Je! Mnaacha kutazama ili msipate kukumbuka?"
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 501,
+  "verse_key": "45:23",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلۡمٖ وَخَتَمَ عَلَىٰ سَمۡعِهِۦ وَقَلۡبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةٗ فَمَن يَهۡدِيهِ مِنۢ بَعۡدِ ٱللَّهِۚ أَفَلَا تَذَكَّرُونَ",
+  "translation": "Je! Umemwona aliye fanya matamanio yake kuwa ndiye mungu wake, na Mwenyezi Mungu akamwacha apotee pamoja na kuwa ana ujuzi, na akapiga muhuri juu ya masikio yake, na moyo wake, na akambandika vitanga machoni mwake? Basi nani atamwongoa huyo baada ya Mwenyezi Mungu? Hamkumbuki?",
+  "footnotes": "Ewe Mtume! Umeangalia, ukamwona huyo mwenye kufanya matamanio yake ndiye mungu wake wa kumuabudu, akamnyenyekea, na akamt'ii, na akaiacha Njia ya Haki na hali anaijua, na akaziba masikio yake asisikie waadhi, na moyo wake asiamini Haki, na akabandika vitanga vya macho asione ya kuzingatiwa? Basi nani wa kumwongoa mtu huyu baada ya kwisha puuzwa na Mwenyezi Mungu? Je! Mnaacha kutazama ili msipate kukumbuka?"
 }

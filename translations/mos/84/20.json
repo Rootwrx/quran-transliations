@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5904",
-    "sura": "84",
-    "aya": "20",
-    "arabic_text": "فَمَا لَهُمۡ لَا يُؤۡمِنُونَ",
-    "translation": "La bõe n be ne bãmb tɩ b pa kõt sɩda.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 589,
+  "verse_key": "84:20",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَا لَهُمۡ لَا يُؤۡمِنُونَ",
+  "translation": "La bõe n be ne bãmb tɩ b pa kõt sɩda.",
+  "footnotes": ""
 }

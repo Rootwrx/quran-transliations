@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2933",
-    "sura": "26",
-    "aya": "1",
-    "arabic_text": "طسٓمٓ",
-    "translation": "1. Taa Siin Miim1.",
-    "footnotes": "1. . Xarfahan waa xuruuf ka mid ah alifbeetada afka Carabiga uu Qur’aanku ku soo degay, sidaas oo ay tahay ma jiro axad keeni kara xitaa Suuradda ugu kooban ee Qur’aanka Mucjisada weyn ah)."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 367,
+  "verse_key": "26:1",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "طسٓمٓ",
+  "translation": "1. Taa Siin Miim1.",
+  "footnotes": "1. . Xarfahan waa xuruuf ka mid ah alifbeetada afka Carabiga uu Qur’aanku ku soo degay, sidaas oo ay tahay ma jiro axad keeni kara xitaa Suuradda ugu kooban ee Qur’aanka Mucjisada weyn ah)."
 }

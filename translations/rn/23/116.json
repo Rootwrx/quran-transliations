@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2789",
-    "sura": "23",
-    "aya": "116",
-    "arabic_text": "فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۖ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡكَرِيمِ",
-    "translation": "Nihahabwe icubahiro nta ngere Imana Allah, Umwami Aganza vyose, Nyakuri[8], nta mana ibwirijwe gusengwa atari Yo, Imana Rurema w’Ubuhangamo bwubashwe.",
-    "footnotes": "[8] Ukubaho kwayo n’ibikomoka kuri Yo vyose, ni ukuri, nta makenga canke amazinda ari mu mazina n’amatazirano yayo, kibure mu bumana bwayo."
-  }
+  "id": 116,
+  "verse_number": 116,
+  "page_number": 349,
+  "verse_key": "23:116",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۖ لَآ إِلَٰهَ إِلَّا هُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡكَرِيمِ",
+  "translation": "Nihahabwe icubahiro nta ngere Imana Allah, Umwami Aganza vyose, Nyakuri[8], nta mana ibwirijwe gusengwa atari Yo, Imana Rurema w’Ubuhangamo bwubashwe.",
+  "footnotes": "[8] Ukubaho kwayo n’ibikomoka kuri Yo vyose, ni ukuri, nta makenga canke amazinda ari mu mazina n’amatazirano yayo, kibure mu bumana bwayo."
 }

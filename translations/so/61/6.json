@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5169",
-    "sura": "61",
-    "aya": "6",
-    "arabic_text": "وَإِذۡ قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُم مُّصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَمُبَشِّرَۢا بِرَسُولٖ يَأۡتِي مِنۢ بَعۡدِي ٱسۡمُهُۥٓ أَحۡمَدُۖ فَلَمَّا جَآءَهُم بِٱلۡبَيِّنَٰتِ قَالُواْ هَٰذَا سِحۡرٞ مُّبِينٞ",
-    "translation": "6.  (Xus) markuu Ciise, wiilkii Maryam, yidhi: Ilmahii Israa’iilow! Waxaan anigu ahay Rasuul Alle xaggiinna loo soo diray, rumeyn Towraadda (la soo dejiyey) hortay, idiinkuna bishaaraynaya Rasuul imaan gadaashay oo magaciisu yahay Axmad3. Markiise uu ula yimid Xujooyin cad, waxay yidhaahdeen: Kanu waa sixir cad.",
-    "footnotes": "3. Axmad waa magac kale uu leeyahay Nabi Muxammad s.c.w."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 552,
+  "verse_key": "61:6",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُم مُّصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَمُبَشِّرَۢا بِرَسُولٖ يَأۡتِي مِنۢ بَعۡدِي ٱسۡمُهُۥٓ أَحۡمَدُۖ فَلَمَّا جَآءَهُم بِٱلۡبَيِّنَٰتِ قَالُواْ هَٰذَا سِحۡرٞ مُّبِينٞ",
+  "translation": "6.  (Xus) markuu Ciise, wiilkii Maryam, yidhi: Ilmahii Israa’iilow! Waxaan anigu ahay Rasuul Alle xaggiinna loo soo diray, rumeyn Towraadda (la soo dejiyey) hortay, idiinkuna bishaaraynaya Rasuul imaan gadaashay oo magaciisu yahay Axmad3. Markiise uu ula yimid Xujooyin cad, waxay yidhaahdeen: Kanu waa sixir cad.",
+  "footnotes": "3. Axmad waa magac kale uu leeyahay Nabi Muxammad s.c.w."
 }

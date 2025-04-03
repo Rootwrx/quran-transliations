@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4631",
-    "sura": "50",
-    "aya": "1",
-    "arabic_text": "قٓۚ وَٱلۡقُرۡءَانِ ٱلۡمَجِيدِ",
-    "translation": "1. Kaf. [Šios raidės (t. y. kaf ir t. t.) yra vienas iš Korano stebuklų ir niekas kitas nežino jų reikšmės, tik Allahas (Vienintelis)]. Prisiekiu Koranu, Šlovinguoju!",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 518,
+  "verse_key": "50:1",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قٓۚ وَٱلۡقُرۡءَانِ ٱلۡمَجِيدِ",
+  "translation": "1. Kaf. [Šios raidės (t. y. kaf ir t. t.) yra vienas iš Korano stebuklų ir niekas kitas nežino jų reikšmės, tik Allahas (Vienintelis)]. Prisiekiu Koranu, Šlovinguoju!",
+  "footnotes": ""
 }

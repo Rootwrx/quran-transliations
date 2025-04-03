@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2257",
-    "sura": "19",
-    "aya": "7",
-    "arabic_text": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسۡمُهُۥ يَحۡيَىٰ لَمۡ نَجۡعَل لَّهُۥ مِن قَبۡلُ سَمِيّٗا",
-    "translation": "7. (Al-lah le respondió a través de un ángel diciéndole:) “¡Zacarías!, te anunciamos la llegada de un hijo que se llamará Yahia (Juan). No hemos asignado este nombre a nadie con anterioridad[543]”.",
-    "footnotes": "[543]  Yahia es comúnmente traducido como Juan Bautista, pero el nombre de Juan procede realmente de Yuhanna o Yuhanan. El nombre Yuhanna era conocido y usado entre los hebreos antes del nacimiento de Juan Bautista, pero no así el de Yahia, como afirma esta aleya del Corán. La traducción de la Biblia al árabe respeta la diferencia de los dos nombres, los cuales poseen raíces distintas, y Juan Bautista aparece como Yahia mientras que el “Evangelio del apóstol Juan”, por ejemplo, aparece como el “Evangelio de Yuhanna”. \nEsta aleya puede entenderse también en otro sentido, y puede significar que el nacimiento de Juan no se pareció al de ningún hombre, pues su padre era un hombre anciano y su madre, una mujer estéril."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 305,
+  "verse_key": "19:7",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسۡمُهُۥ يَحۡيَىٰ لَمۡ نَجۡعَل لَّهُۥ مِن قَبۡلُ سَمِيّٗا",
+  "translation": "7. (Al-lah le respondió a través de un ángel diciéndole:) “¡Zacarías!, te anunciamos la llegada de un hijo que se llamará Yahia (Juan). No hemos asignado este nombre a nadie con anterioridad[543]”.",
+  "footnotes": "[543]  Yahia es comúnmente traducido como Juan Bautista, pero el nombre de Juan procede realmente de Yuhanna o Yuhanan. El nombre Yuhanna era conocido y usado entre los hebreos antes del nacimiento de Juan Bautista, pero no así el de Yahia, como afirma esta aleya del Corán. La traducción de la Biblia al árabe respeta la diferencia de los dos nombres, los cuales poseen raíces distintas, y Juan Bautista aparece como Yahia mientras que el “Evangelio del apóstol Juan”, por ejemplo, aparece como el “Evangelio de Yuhanna”. \nEsta aleya puede entenderse también en otro sentido, y puede significar que el nacimiento de Juan no se pareció al de ningún hombre, pues su padre era un hombre anciano y su madre, una mujer estéril."
 }

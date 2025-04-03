@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5923",
-    "sura": "85",
-    "aya": "14",
-    "arabic_text": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ",
-    "translation": "Он је Опроститељ греха, Онај који пуно воли,",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 590,
+  "verse_key": "85:14",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلۡغَفُورُ ٱلۡوَدُودُ",
+  "translation": "Он је Опроститељ греха, Онај који пуно воли,",
+  "footnotes": ""
 }

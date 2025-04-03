@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3440",
-    "sura": "30",
-    "aya": "31",
-    "arabic_text": "۞ مُنِيبِينَ إِلَيۡهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلۡمُشۡرِكِينَ",
-    "translation": "31. Revenez donc vers Lui repentants ! Craignez-Le ! Accomplissez la Çalât et ne soyez pas de ces associâtres",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 407,
+  "verse_key": "30:31",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ مُنِيبِينَ إِلَيۡهِ وَٱتَّقُوهُ وَأَقِيمُواْ ٱلصَّلَوٰةَ وَلَا تَكُونُواْ مِنَ ٱلۡمُشۡرِكِينَ",
+  "translation": "31. Revenez donc vers Lui repentants ! Craignez-Le ! Accomplissez la Çalât et ne soyez pas de ces associâtres",
+  "footnotes": ""
 }

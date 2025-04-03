@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3480",
-    "sura": "31",
-    "aya": "11",
-    "arabic_text": "هَٰذَا خَلۡقُ ٱللَّهِ فَأَرُونِي مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦۚ بَلِ ٱلظَّٰلِمُونَ فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "Bu, Allah’ın yaratmasıdır. Ondan başkasının ne yarattığını bana gösterin! Hayır! Zalimler, açık bir sapıklık içindedirler. ",
-    "footnotes": null
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 411,
+  "verse_key": "31:11",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا خَلۡقُ ٱللَّهِ فَأَرُونِي مَاذَا خَلَقَ ٱلَّذِينَ مِن دُونِهِۦۚ بَلِ ٱلظَّٰلِمُونَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "Bu, Allah’ın yaratmasıdır. Ondan başkasının ne yarattığını bana gösterin! Hayır! Zalimler, açık bir sapıklık içindedirler. ",
+  "footnotes": null
 }

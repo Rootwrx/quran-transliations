@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "910",
-    "sura": "6",
-    "aya": "121",
-    "arabic_text": "وَلَا تَأۡكُلُواْ مِمَّا لَمۡ يُذۡكَرِ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَإِنَّهُۥ لَفِسۡقٞۗ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوۡلِيَآئِهِمۡ لِيُجَٰدِلُوكُمۡۖ وَإِنۡ أَطَعۡتُمُوهُمۡ إِنَّكُمۡ لَمُشۡرِكُونَ",
-    "translation": "Kada ku ci daga abin da ba a ambaci sũnan Allah ba a kansa.* Kuma lalle ne shĩ fãsiƙanci ne. Kuma lalle ne, shaiɗãnu, haƙĩƙa, suna yin ishãra zuwa ga masõyansu, dõmin su yi jãyayya da ku. Kuma idan kuka yi musu ɗã'a, lalle ne kũ, haƙĩƙa, mãsu shirki ne.",
-    "footnotes": "* Sabõda haka bã a cin yankan majũsu. Anã cin yankan bakitãbe, babu ruwanmu da abin da yake faɗa, tun da Allah Ya halatta mana cin abincinsu alhãli kuwa Ya san sun riga sun musanya addininsu. Idan Musulmi ya bar sũnan Allah da gangan, amma bai ambaci sũnan kõwa ba, to, akwai riwãya biyu game da haka, ci kõ rashin ci. Amma idan ya haɗa sũnan Allah da na wani, to, ba zã a ci ba, dõmin yã yi ridda."
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 143,
+  "verse_key": "6:121",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَأۡكُلُواْ مِمَّا لَمۡ يُذۡكَرِ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَإِنَّهُۥ لَفِسۡقٞۗ وَإِنَّ ٱلشَّيَٰطِينَ لَيُوحُونَ إِلَىٰٓ أَوۡلِيَآئِهِمۡ لِيُجَٰدِلُوكُمۡۖ وَإِنۡ أَطَعۡتُمُوهُمۡ إِنَّكُمۡ لَمُشۡرِكُونَ",
+  "translation": "Kada ku ci daga abin da ba a ambaci sũnan Allah ba a kansa.* Kuma lalle ne shĩ fãsiƙanci ne. Kuma lalle ne, shaiɗãnu, haƙĩƙa, suna yin ishãra zuwa ga masõyansu, dõmin su yi jãyayya da ku. Kuma idan kuka yi musu ɗã'a, lalle ne kũ, haƙĩƙa, mãsu shirki ne.",
+  "footnotes": "* Sabõda haka bã a cin yankan majũsu. Anã cin yankan bakitãbe, babu ruwanmu da abin da yake faɗa, tun da Allah Ya halatta mana cin abincinsu alhãli kuwa Ya san sun riga sun musanya addininsu. Idan Musulmi ya bar sũnan Allah da gangan, amma bai ambaci sũnan kõwa ba, to, akwai riwãya biyu game da haka, ci kõ rashin ci. Amma idan ya haɗa sũnan Allah da na wani, to, ba zã a ci ba, dõmin yã yi ridda."
 }

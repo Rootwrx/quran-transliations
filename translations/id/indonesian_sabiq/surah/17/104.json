@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2133",
-    "sura": "17",
-    "aya": "104",
-    "arabic_text": "وَقُلۡنَا مِنۢ بَعۡدِهِۦ لِبَنِيٓ إِسۡرَٰٓءِيلَ ٱسۡكُنُواْ ٱلۡأَرۡضَ فَإِذَا جَآءَ وَعۡدُ ٱلۡأٓخِرَةِ جِئۡنَا بِكُمۡ لَفِيفٗا",
-    "translation": "104. Dan setelah itu Kami berfirman kepada Bani Israil, “Tinggallah di negeri ini, tetapi apabila masa berbangkit datang, niscaya Kami kumpulkan kamu dalam keadaaan bercampur baur.”",
-    "footnotes": ""
-  }
+  "id": 104,
+  "verse_number": 104,
+  "page_number": 292,
+  "verse_key": "17:104",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُلۡنَا مِنۢ بَعۡدِهِۦ لِبَنِيٓ إِسۡرَٰٓءِيلَ ٱسۡكُنُواْ ٱلۡأَرۡضَ فَإِذَا جَآءَ وَعۡدُ ٱلۡأٓخِرَةِ جِئۡنَا بِكُمۡ لَفِيفٗا",
+  "translation": "104. Dan setelah itu Kami berfirman kepada Bani Israil, “Tinggallah di negeri ini, tetapi apabila masa berbangkit datang, niscaya Kami kumpulkan kamu dalam keadaaan bercampur baur.”",
+  "footnotes": ""
 }

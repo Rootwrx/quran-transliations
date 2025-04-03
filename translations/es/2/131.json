@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "138",
-    "sura": "2",
-    "aya": "131",
-    "arabic_text": "إِذۡ قَالَ لَهُۥ رَبُّهُۥٓ أَسۡلِمۡۖ قَالَ أَسۡلَمۡتُ لِرَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "131. Y [recuerden] cuando le dijo su Señor: “Entrégame tu voluntad[1]”, respondió: “Le entrego mi voluntad al Señor del Universo”.",
-    "footnotes": "[1] Literalmente: “Hazte musulmán”."
-  }
+  "id": 131,
+  "verse_number": 131,
+  "page_number": 20,
+  "verse_key": "2:131",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَ لَهُۥ رَبُّهُۥٓ أَسۡلِمۡۖ قَالَ أَسۡلَمۡتُ لِرَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "131. Y [recuerden] cuando le dijo su Señor: “Entrégame tu voluntad[1]”, respondió: “Le entrego mi voluntad al Señor del Universo”.",
+  "footnotes": "[1] Literalmente: “Hazte musulmán”."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3970",
-    "sura": "37",
-    "aya": "182",
-    "arabic_text": "وَٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "и хваљен нека је Аллах, Господар светова!",
-    "footnotes": ""
-  }
+  "id": 182,
+  "verse_number": 182,
+  "page_number": 452,
+  "verse_key": "37:182",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "и хваљен нека је Аллах, Господар светова!",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3876",
-    "sura": "37",
-    "aya": "88",
-    "arabic_text": "فَنَظَرَ نَظۡرَةٗ فِي ٱلنُّجُومِ",
-    "translation": "Ɔhwεε nsoromma mu hwεe.",
-    "footnotes": ""
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 449,
+  "verse_key": "37:88",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَنَظَرَ نَظۡرَةٗ فِي ٱلنُّجُومِ",
+  "translation": "Ɔhwεε nsoromma mu hwεe.",
+  "footnotes": ""
 }

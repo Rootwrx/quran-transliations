@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2100",
-    "sura": "17",
-    "aya": "71",
-    "arabic_text": "يَوۡمَ نَدۡعُواْ كُلَّ أُنَاسِۭ بِإِمَٰمِهِمۡۖ فَمَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَأُوْلَٰٓئِكَ يَقۡرَءُونَ كِتَٰبَهُمۡ وَلَا يُظۡلَمُونَ فَتِيلٗا",
-    "translation": "Siku tutapo waita kila kikundi cha watu kwa mujibu wa wakifuatacho - basi atakaye pewa kitabu chake kwa mkono wake wa kulia, basi hao watasoma kitabu chao wala hawatadhulumiwa hata chembe.",
-    "footnotes": "Ewe Nabii! Waambie watu wako: Siku tutapo waita kila kikundi kwa alama zao wanazo zijua, au mwongozi wao wanaye mfuata, au Nabii, au Kitabu wakaambiwa: Enyi watu wa Musa! Au Enyi watu wa Qur'ani! Na kadhaalika, ili wapokee vitabu vya a'mali zao. Basi atakaye pokea kitabu cha a'mali zake kwa mkono wake wa kulia, na hao ndio wenye bahati njema, hao watasoma kitabu chao kwa furaha. Na wala hawatapunguziwa katika ujira wao duni ya kitu."
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 289,
+  "verse_key": "17:71",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ نَدۡعُواْ كُلَّ أُنَاسِۭ بِإِمَٰمِهِمۡۖ فَمَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَأُوْلَٰٓئِكَ يَقۡرَءُونَ كِتَٰبَهُمۡ وَلَا يُظۡلَمُونَ فَتِيلٗا",
+  "translation": "Siku tutapo waita kila kikundi cha watu kwa mujibu wa wakifuatacho - basi atakaye pewa kitabu chake kwa mkono wake wa kulia, basi hao watasoma kitabu chao wala hawatadhulumiwa hata chembe.",
+  "footnotes": "Ewe Nabii! Waambie watu wako: Siku tutapo waita kila kikundi kwa alama zao wanazo zijua, au mwongozi wao wanaye mfuata, au Nabii, au Kitabu wakaambiwa: Enyi watu wa Musa! Au Enyi watu wa Qur'ani! Na kadhaalika, ili wapokee vitabu vya a'mali zao. Basi atakaye pokea kitabu cha a'mali zake kwa mkono wake wa kulia, na hao ndio wenye bahati njema, hao watasoma kitabu chao kwa furaha. Na wala hawatapunguziwa katika ujira wao duni ya kitu."
 }

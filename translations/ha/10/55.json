@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1419",
-    "sura": "10",
-    "aya": "55",
-    "arabic_text": "أَلَآ إِنَّ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ أَلَآ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
-    "translation": "To! Haƙĩƙa Allah Ya mallaki abin da yake a cikin sammai da ƙasa. To! Haƙĩƙa wa'adin Allah gaskiya ne. Amma kuma mafi yawansu ba su sani ba.",
-    "footnotes": ""
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 215,
+  "verse_key": "10:55",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَآ إِنَّ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ أَلَآ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+  "translation": "To! Haƙĩƙa Allah Ya mallaki abin da yake a cikin sammai da ƙasa. To! Haƙĩƙa wa'adin Allah gaskiya ne. Amma kuma mafi yawansu ba su sani ba.",
+  "footnotes": ""
 }

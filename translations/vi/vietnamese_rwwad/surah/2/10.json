@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "17",
-    "sura": "2",
-    "aya": "10",
-    "arabic_text": "فِي قُلُوبِهِم مَّرَضٞ فَزَادَهُمُ ٱللَّهُ مَرَضٗاۖ وَلَهُمۡ عَذَابٌ أَلِيمُۢ بِمَا كَانُواْ يَكۡذِبُونَ",
-    "translation": "Trong trái tim của họ mang căn bệnh (dối trá) nên Allah làm cho căn bệnh đó của họ thêm trầm trọng, và rồi đây họ sẽ phải chịu một sự trừng phạt đau đớn về những gì họ đã lừa dối.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 3,
+  "verse_key": "2:10",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي قُلُوبِهِم مَّرَضٞ فَزَادَهُمُ ٱللَّهُ مَرَضٗاۖ وَلَهُمۡ عَذَابٌ أَلِيمُۢ بِمَا كَانُواْ يَكۡذِبُونَ",
+  "translation": "Trong trái tim của họ mang căn bệnh (dối trá) nên Allah làm cho căn bệnh đó của họ thêm trầm trọng, và rồi đây họ sẽ phải chịu một sự trừng phạt đau đớn về những gì họ đã lừa dối.",
+  "footnotes": ""
 }

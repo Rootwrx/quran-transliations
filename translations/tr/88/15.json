@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5982",
-    "sura": "88",
-    "aya": "15",
-    "arabic_text": "وَنَمَارِقُ مَصۡفُوفَةٞ",
-    "translation": "Sıra sıra dizilmiş yastıklar,",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 592,
+  "verse_key": "88:15",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنَمَارِقُ مَصۡفُوفَةٞ",
+  "translation": "Sıra sıra dizilmiş yastıklar,",
+  "footnotes": ""
 }

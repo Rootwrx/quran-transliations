@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2861",
-    "sura": "25",
-    "aya": "6",
-    "arabic_text": "قُلۡ أَنزَلَهُ ٱلَّذِي يَعۡلَمُ ٱلسِّرَّ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّهُۥ كَانَ غَفُورٗا رَّحِيمٗا",
-    "translation": "Sema: Ameyateremsha haya ajuaye siri za katika mbingu na ardhi. Hakika Yeye ni Mwenye kusamehe Mwenye kurehemu.",
-    "footnotes": "Ewe Nabii! Waambie: Hakika Qur'ani ameiteremsha Mwenyezi Mungu ambaye anazijua siri zilizo fichikana katika mbingu na ardhi. Na ameziweka katika Qur'ani ya muujiza kuwa ni dalili ya kwamba hiyo ni Ufunuo wake Subhanahu. Hakika Mwenyezi Mungu ni Mkunjufu wa maghfira na rehema, anawasamehe wenye kuasi pindi wakitubu, wala hafanyi haraka kuwaadhibu."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 360,
+  "verse_key": "25:6",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَنزَلَهُ ٱلَّذِي يَعۡلَمُ ٱلسِّرَّ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ إِنَّهُۥ كَانَ غَفُورٗا رَّحِيمٗا",
+  "translation": "Sema: Ameyateremsha haya ajuaye siri za katika mbingu na ardhi. Hakika Yeye ni Mwenye kusamehe Mwenye kurehemu.",
+  "footnotes": "Ewe Nabii! Waambie: Hakika Qur'ani ameiteremsha Mwenyezi Mungu ambaye anazijua siri zilizo fichikana katika mbingu na ardhi. Na ameziweka katika Qur'ani ya muujiza kuwa ni dalili ya kwamba hiyo ni Ufunuo wake Subhanahu. Hakika Mwenyezi Mungu ni Mkunjufu wa maghfira na rehema, anawasamehe wenye kuasi pindi wakitubu, wala hafanyi haraka kuwaadhibu."
 }

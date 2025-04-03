@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3611",
-    "sura": "34",
-    "aya": "5",
-    "arabic_text": "وَٱلَّذِينَ سَعَوۡ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ لَهُمۡ عَذَابٞ مِّن رِّجۡزٍ أَلِيمٞ",
-    "translation": "5. Y quienes pongan su empeño en frustrar Nuestra revelación (para desviar a los hombres del camino de Al-lah) obtendrán un castigo de lo más doloroso.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 428,
+  "verse_key": "34:5",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ سَعَوۡ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ لَهُمۡ عَذَابٞ مِّن رِّجۡزٍ أَلِيمٞ",
+  "translation": "5. Y quienes pongan su empeño en frustrar Nuestra revelación (para desviar a los hombres del camino de Al-lah) obtendrán un castigo de lo más doloroso.",
+  "footnotes": ""
 }

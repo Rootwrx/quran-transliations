@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1016",
-    "sura": "7",
-    "aya": "62",
-    "arabic_text": "أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنصَحُ لَكُمۡ وَأَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ",
-    "translation": "Nakufikishieni Ujumbe wa Mola Mlezi wangu, na ninakunasihini; na ninayajua kwa Mwenyezi Mungu msiyo yajua nyinyi.",
-    "footnotes": "Na mimi katika huu wito wa Haki mshike Tawhidi na kuamini Siku ya Mwisho, nafikisha Ujumbe aliyo nituma Mwenyezi Mungu, nao mfuate hukumu za Mwenyezi Mungu ambazo ndizo zinazo msilihi mwanaadamu. Na mimi nakupeni nasaha ya kweli itokayo kwenye moyo wangu ulio safi. Na Mwenyezi Mungu amenifunza mambo ambayo nyinyi hamyajui."
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 158,
+  "verse_key": "7:62",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُبَلِّغُكُمۡ رِسَٰلَٰتِ رَبِّي وَأَنصَحُ لَكُمۡ وَأَعۡلَمُ مِنَ ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+  "translation": "Nakufikishieni Ujumbe wa Mola Mlezi wangu, na ninakunasihini; na ninayajua kwa Mwenyezi Mungu msiyo yajua nyinyi.",
+  "footnotes": "Na mimi katika huu wito wa Haki mshike Tawhidi na kuamini Siku ya Mwisho, nafikisha Ujumbe aliyo nituma Mwenyezi Mungu, nao mfuate hukumu za Mwenyezi Mungu ambazo ndizo zinazo msilihi mwanaadamu. Na mimi nakupeni nasaha ya kweli itokayo kwenye moyo wangu ulio safi. Na Mwenyezi Mungu amenifunza mambo ambayo nyinyi hamyajui."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4996",
-    "sura": "56",
-    "aya": "17",
-    "arabic_text": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ",
-    "translation": "长生不老的僮仆，轮流着服待他们，",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 535,
+  "verse_key": "56:17",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ",
+  "translation": "长生不老的僮仆，轮流着服待他们，",
+  "footnotes": ""
 }

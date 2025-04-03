@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3501",
-    "sura": "31",
-    "aya": "32",
-    "arabic_text": "وَإِذَا غَشِيَهُم مَّوۡجٞ كَٱلظُّلَلِ دَعَوُاْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمۡ إِلَى ٱلۡبَرِّ فَمِنۡهُم مُّقۡتَصِدٞۚ وَمَا يَجۡحَدُ بِـَٔايَٰتِنَآ إِلَّا كُلُّ خَتَّارٖ كَفُورٖ",
-    "translation": "Na wimbi linapo wafunika kama wingu, wao humwomba Mwenyezi Mungu kwa kumsafia dini. Lakini anapo waokoa wakafika nchi kavu, wapo baadhi yao huenda mwendo wa sawa. Wala hazikanushi Ishara zetu ila aliye khaini kafiri mkubwa.",
-    "footnotes": "Hawa makafiri wanao mkataa Mwenyezi Mungu wakipanda marikebu, na bahari ikawachafukia, na mawimbi yakaja juu mpaka wakaona yatawafunika, na wakawa yakini watazama bila ya muhali, humkimbilia Mwenyezi Mungu, wakimwomba kwa ikhlasi na unyenyekevu, awaokoe. Basi akisha waokoa wakafika nchi kavu wapo kati yao wachache wanao kumbuka ahadi yao, na wakenda mwendo wa sawa. Na wapo kati yao, nao ndio wengi, walio sahau fadhila za Mola wao Mlezi, na wakaendelea na kumkataa. Na wala hakatai fadhila za Mola wake Mlezi na hisani yake ila kila mtu aliye mwingi wa ukhaini, aliye pita mpaka kumkanya Mola wake Mlezi."
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 414,
+  "verse_key": "31:32",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا غَشِيَهُم مَّوۡجٞ كَٱلظُّلَلِ دَعَوُاْ ٱللَّهَ مُخۡلِصِينَ لَهُ ٱلدِّينَ فَلَمَّا نَجَّىٰهُمۡ إِلَى ٱلۡبَرِّ فَمِنۡهُم مُّقۡتَصِدٞۚ وَمَا يَجۡحَدُ بِـَٔايَٰتِنَآ إِلَّا كُلُّ خَتَّارٖ كَفُورٖ",
+  "translation": "Na wimbi linapo wafunika kama wingu, wao humwomba Mwenyezi Mungu kwa kumsafia dini. Lakini anapo waokoa wakafika nchi kavu, wapo baadhi yao huenda mwendo wa sawa. Wala hazikanushi Ishara zetu ila aliye khaini kafiri mkubwa.",
+  "footnotes": "Hawa makafiri wanao mkataa Mwenyezi Mungu wakipanda marikebu, na bahari ikawachafukia, na mawimbi yakaja juu mpaka wakaona yatawafunika, na wakawa yakini watazama bila ya muhali, humkimbilia Mwenyezi Mungu, wakimwomba kwa ikhlasi na unyenyekevu, awaokoe. Basi akisha waokoa wakafika nchi kavu wapo kati yao wachache wanao kumbuka ahadi yao, na wakenda mwendo wa sawa. Na wapo kati yao, nao ndio wengi, walio sahau fadhila za Mola wao Mlezi, na wakaendelea na kumkataa. Na wala hakatai fadhila za Mola wake Mlezi na hisani yake ila kila mtu aliye mwingi wa ukhaini, aliye pita mpaka kumkanya Mola wake Mlezi."
 }

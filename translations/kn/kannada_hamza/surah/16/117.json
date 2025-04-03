@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2018",
-    "sura": "16",
-    "aya": "117",
-    "arabic_text": "مَتَٰعٞ قَلِيلٞ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
-    "translation": "ಅವರಿಗಿರುವುದು ತಾತ್ಕಾಲಿಕ ಆನಂದ ಮಾತ್ರ. (ಪರಲೋಕದಲ್ಲಿ) ಅವರಿಗೆ ಯಾತನಾಮಯ ಶಿಕ್ಷೆಯಿದೆ.",
-    "footnotes": ""
-  }
+  "id": 117,
+  "verse_number": 117,
+  "page_number": 280,
+  "verse_key": "16:117",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَتَٰعٞ قَلِيلٞ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+  "translation": "ಅವರಿಗಿರುವುದು ತಾತ್ಕಾಲಿಕ ಆನಂದ ಮಾತ್ರ. (ಪರಲೋಕದಲ್ಲಿ) ಅವರಿಗೆ ಯಾತನಾಮಯ ಶಿಕ್ಷೆಯಿದೆ.",
+  "footnotes": ""
 }

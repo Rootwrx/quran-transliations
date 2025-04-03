@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3131",
-    "sura": "26",
-    "aya": "199",
-    "arabic_text": "فَقَرَأَهُۥ عَلَيۡهِم مَّا كَانُواْ بِهِۦ مُؤۡمِنِينَ",
-    "translation": "199. para que se los recitara, no habrían creído[1].",
-    "footnotes": "[1] En estos versículos Dios condena el chauvinismo, el fanatismo étnico y las creencias de supremacía de una etnia sobre otra. Quien nos muestre la verdad debe ser creído, sin importar de qué zona provenga o en qué idioma se exprese. También puede significar que si una persona que no fuera árabe les hablara en otro idioma, lo rechazarían por no comprender su mensaje."
-  }
+  "id": 199,
+  "verse_number": 199,
+  "page_number": 375,
+  "verse_key": "26:199",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَرَأَهُۥ عَلَيۡهِم مَّا كَانُواْ بِهِۦ مُؤۡمِنِينَ",
+  "translation": "199. para que se los recitara, no habrían creído[1].",
+  "footnotes": "[1] En estos versículos Dios condena el chauvinismo, el fanatismo étnico y las creencias de supremacía de una etnia sobre otra. Quien nos muestre la verdad debe ser creído, sin importar de qué zona provenga o en qué idioma se exprese. También puede significar que si una persona que no fuera árabe les hablara en otro idioma, lo rechazarían por no comprender su mensaje."
 }

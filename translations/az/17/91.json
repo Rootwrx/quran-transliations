@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2120",
-    "sura": "17",
-    "aya": "91",
-    "arabic_text": "أَوۡ تَكُونَ لَكَ جَنَّةٞ مِّن نَّخِيلٖ وَعِنَبٖ فَتُفَجِّرَ ٱلۡأَنۡهَٰرَ خِلَٰلَهَا تَفۡجِيرًا",
-    "translation": "və ya ortasından şırıl-şırıl çaylar axıdacağın xurma və üzüm bağın olmayınca;",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 291,
+  "verse_key": "17:91",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ تَكُونَ لَكَ جَنَّةٞ مِّن نَّخِيلٖ وَعِنَبٖ فَتُفَجِّرَ ٱلۡأَنۡهَٰرَ خِلَٰلَهَا تَفۡجِيرًا",
+  "translation": "və ya ortasından şırıl-şırıl çaylar axıdacağın xurma və üzüm bağın olmayınca;",
+  "footnotes": ""
 }

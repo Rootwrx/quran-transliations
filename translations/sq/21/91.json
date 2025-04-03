@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2574",
-    "sura": "21",
-    "aya": "91",
-    "arabic_text": "وَٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهَا مِن رُّوحِنَا وَجَعَلۡنَٰهَا وَٱبۡنَهَآ ءَايَةٗ لِّلۡعَٰلَمِينَ",
-    "translation": "(Kujtoje) atë që ruajti virgjërinë e saj[206]! Ne frymë brenda saj nga shpirti Ynë dhe e bëmë atë dhe birin e saj[207] mrekulli për gjithë njerëzit.",
-    "footnotes": "[206] Merjemen.\n[207] Isain (a.s.)."
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 330,
+  "verse_key": "21:91",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهَا مِن رُّوحِنَا وَجَعَلۡنَٰهَا وَٱبۡنَهَآ ءَايَةٗ لِّلۡعَٰلَمِينَ",
+  "translation": "(Kujtoje) atë që ruajti virgjërinë e saj[206]! Ne frymë brenda saj nga shpirti Ynë dhe e bëmë atë dhe birin e saj[207] mrekulli për gjithë njerëzit.",
+  "footnotes": "[206] Merjemen.\n[207] Isain (a.s.)."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5700",
-    "sura": "78",
-    "aya": "28",
-    "arabic_text": "وَكَذَّبُواْ بِـَٔايَٰتِنَا كِذَّابٗا",
-    "translation": "28. Dan mereka benar-benar mendustakan ayat-ayat Kami.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 582,
+  "verse_key": "78:28",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَّبُواْ بِـَٔايَٰتِنَا كِذَّابٗا",
+  "translation": "28. Dan mereka benar-benar mendustakan ayat-ayat Kami.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3130",
-    "sura": "26",
-    "aya": "198",
-    "arabic_text": "وَلَوۡ نَزَّلۡنَٰهُ عَلَىٰ بَعۡضِ ٱلۡأَعۡجَمِينَ",
-    "translation": "198. Haddaan ku soo dejin laheyn (Qur’aankani) cajamiga midkood13.",
-    "footnotes": "13. Macnaha waa aan ku soo dejin lahayn Qur’aanka cid kale aan Carab ahayn, ama si fiican u aqoon afka Carabiga oo aan faseex ahayn."
-  }
+  "id": 198,
+  "verse_number": 198,
+  "page_number": 375,
+  "verse_key": "26:198",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ نَزَّلۡنَٰهُ عَلَىٰ بَعۡضِ ٱلۡأَعۡجَمِينَ",
+  "translation": "198. Haddaan ku soo dejin laheyn (Qur’aankani) cajamiga midkood13.",
+  "footnotes": "13. Macnaha waa aan ku soo dejin lahayn Qur’aanka cid kale aan Carab ahayn, ama si fiican u aqoon afka Carabiga oo aan faseex ahayn."
 }

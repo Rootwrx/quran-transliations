@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "138",
-    "sura": "2",
-    "aya": "131",
-    "arabic_text": "إِذۡ قَالَ لَهُۥ رَبُّهُۥٓ أَسۡلِمۡۖ قَالَ أَسۡلَمۡتُ لِرَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "Ketika Tuhan-nya berfirman kepadanya, \"Tunduk patuhlah!\"Ibrāhīm menjawab, \"Aku tunduk patuh kepada Tuhan semesta alam\".",
-    "footnotes": ""
-  }
+  "id": 131,
+  "verse_number": 131,
+  "page_number": 20,
+  "verse_key": "2:131",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَ لَهُۥ رَبُّهُۥٓ أَسۡلِمۡۖ قَالَ أَسۡلَمۡتُ لِرَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "Ketika Tuhan-nya berfirman kepadanya, \"Tunduk patuhlah!\"Ibrāhīm menjawab, \"Aku tunduk patuh kepada Tuhan semesta alam\".",
+  "footnotes": ""
 }

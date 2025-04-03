@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6207",
-    "sura": "108",
-    "aya": "3",
-    "arabic_text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
-    "translation": "Sigurisht, ai që të urren ty, ai vetë është fatprerë.[435]",
-    "footnotes": "[435] “fatprerë”: në tekstin origjinal thuhet “ebter”, që do të thotë “pa bisht”. Kjo shprehje ishte epitet ironik që arabët ia vinin dikujt që nuk kishte djem. Sipas disa transmetimeve, biri i Profetit Muhamed (a.s.), Kasimi, vdiq në një moshë fare të njomë dhe, për këtë, një nga armiqtë e Profetit (a.s.) e quajti atë fatprerë, duke aluduar se edhe feja që ai predikonte, do të ishte e tillë."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 602,
+  "verse_key": "108:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+  "translation": "Sigurisht, ai që të urren ty, ai vetë është fatprerë.[435]",
+  "footnotes": "[435] “fatprerë”: në tekstin origjinal thuhet “ebter”, që do të thotë “pa bisht”. Kjo shprehje ishte epitet ironik që arabët ia vinin dikujt që nuk kishte djem. Sipas disa transmetimeve, biri i Profetit Muhamed (a.s.), Kasimi, vdiq në një moshë fare të njomë dhe, për këtë, një nga armiqtë e Profetit (a.s.) e quajti atë fatprerë, duke aluduar se edhe feja që ai predikonte, do të ishte e tillë."
 }

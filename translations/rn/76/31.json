@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5622",
-    "sura": "76",
-    "aya": "31",
-    "arabic_text": "يُدۡخِلُ مَن يَشَآءُ فِي رَحۡمَتِهِۦۚ وَٱلظَّٰلِمِينَ أَعَدَّ لَهُمۡ عَذَابًا أَلِيمَۢا",
-    "translation": "Ishira mu mpuhwe zayo uwo Ishaka mu baja bayo. Nayo abirenganije mu kurenga ku mabwirizwa yayo, Yarabateguriye ibihano bibabaza cane.",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 580,
+  "verse_key": "76:31",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُدۡخِلُ مَن يَشَآءُ فِي رَحۡمَتِهِۦۚ وَٱلظَّٰلِمِينَ أَعَدَّ لَهُمۡ عَذَابًا أَلِيمَۢا",
+  "translation": "Ishira mu mpuhwe zayo uwo Ishaka mu baja bayo. Nayo abirenganije mu kurenga ku mabwirizwa yayo, Yarabateguriye ibihano bibabaza cane.",
+  "footnotes": ""
 }

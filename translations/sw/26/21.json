@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2953",
-    "sura": "26",
-    "aya": "21",
-    "arabic_text": "فَفَرَرۡتُ مِنكُمۡ لَمَّا خِفۡتُكُمۡ فَوَهَبَ لِي رَبِّي حُكۡمٗا وَجَعَلَنِي مِنَ ٱلۡمُرۡسَلِينَ",
-    "translation": "Basi nilikukimbieni nilipo kuogopeni, tena Mola wangu Mlezi, akanitunukia hukumu, na akanijaali niwe miongoni mwa Mitume.",
-    "footnotes": "Nikakukimbieni nilipo khofu kuwa mtakuja niuwa kwa jinaya hii ambayo sikuukusudia. Mola wangu Mlezi akanitunukia fahamu na ilimu, kwa fadhila zake na neema zake, na akanifanya mmoja katika Mitume."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 368,
+  "verse_key": "26:21",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَفَرَرۡتُ مِنكُمۡ لَمَّا خِفۡتُكُمۡ فَوَهَبَ لِي رَبِّي حُكۡمٗا وَجَعَلَنِي مِنَ ٱلۡمُرۡسَلِينَ",
+  "translation": "Basi nilikukimbieni nilipo kuogopeni, tena Mola wangu Mlezi, akanitunukia hukumu, na akanijaali niwe miongoni mwa Mitume.",
+  "footnotes": "Nikakukimbieni nilipo khofu kuwa mtakuja niuwa kwa jinaya hii ambayo sikuukusudia. Mola wangu Mlezi akanitunukia fahamu na ilimu, kwa fadhila zake na neema zake, na akanifanya mmoja katika Mitume."
 }

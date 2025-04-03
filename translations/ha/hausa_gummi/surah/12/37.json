@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1633",
-    "sura": "12",
-    "aya": "37",
-    "arabic_text": "قَالَ لَا يَأۡتِيكُمَا طَعَامٞ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي تَرَكۡتُ مِلَّةَ قَوۡمٖ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
-    "translation": "Ya ce: \"Wani abinci bã zai zo muku ba wanda ake azurtã ku da shi fãce nã bã ku lãbãrin fassararsa,* kãfin ya zo muku. Wannan kuwa yanã daga abin da Ubangijĩna Ya sanar da ni. Lalle ne nĩ nã bar addinin mutãne waɗanda ba su yi ĩmãni da Allah ba, kuma game da lãhira, sũ kãfirai ne.\"",
-    "footnotes": "* Kõwane irin abin ne kãfin in gan shi da idõna, zan iya gaya muku nau'insa, kamar yadda Ĩsa ya ce: \" Inã bã ku lãbãrin abin da kuke ci a gidãjenku.\" A Sũrar Ãl Imrãna ãyã ta 49."
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 239,
+  "verse_key": "12:37",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَا يَأۡتِيكُمَا طَعَامٞ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي تَرَكۡتُ مِلَّةَ قَوۡمٖ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
+  "translation": "Ya ce: \"Wani abinci bã zai zo muku ba wanda ake azurtã ku da shi fãce nã bã ku lãbãrin fassararsa,* kãfin ya zo muku. Wannan kuwa yanã daga abin da Ubangijĩna Ya sanar da ni. Lalle ne nĩ nã bar addinin mutãne waɗanda ba su yi ĩmãni da Allah ba, kuma game da lãhira, sũ kãfirai ne.\"",
+  "footnotes": "* Kõwane irin abin ne kãfin in gan shi da idõna, zan iya gaya muku nau'insa, kamar yadda Ĩsa ya ce: \" Inã bã ku lãbãrin abin da kuke ci a gidãjenku.\" A Sũrar Ãl Imrãna ãyã ta 49."
 }

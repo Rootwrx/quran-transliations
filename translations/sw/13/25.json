@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1732",
-    "sura": "13",
-    "aya": "25",
-    "arabic_text": "وَٱلَّذِينَ يَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِيثَٰقِهِۦ وَيَقۡطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفۡسِدُونَ فِي ٱلۡأَرۡضِ أُوْلَٰٓئِكَ لَهُمُ ٱللَّعۡنَةُ وَلَهُمۡ سُوٓءُ ٱلدَّارِ",
-    "translation": "Na wale wanao vunja ahadi ya Mwenyezi Mungu baada ya kuzifunga, na wanakata aliyo amrisha Mwenyezi Mungu yaungwe, na wanafanya fisadi katika nchi: hao ndio watakao pata laana, na watapata Nyumba mbaya.",
-    "footnotes": "Hakika sifa za Waumini wema ni kinyume na sifa za washirikina waovu. Kwani washirikina huvunja ahadi ya Mwenyezi Mungu aliyo chukua kwao kwa mujibu wa maumbile na ambayo walijifunga nayo. Kwa hivyo wamekhalifu maumbile yao na akili zao kwa kuabudu mawe yasiyo wafaa wala kuwadhuru. Na wanavunja ahadi zao wanazo fungamana na waja wenzao, tena wanakata makhusiano yao ya mapenzi na watu, na makhusiano yao na Mwenyezi Mungu. Hawazifuati amri zake, wala hawamuabudu Yeye pekee. Na wanafanya uharibifu katika ardhi kwa uvamizi na kufanya uadui na kuvuka mipaka, na kuacha kuitengeneza dunia wakanafiika nayo! Na Mwenyezi Mungu Aliye takasika hapendi uchafuzi na ufisadi."
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 252,
+  "verse_key": "13:25",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يَنقُضُونَ عَهۡدَ ٱللَّهِ مِنۢ بَعۡدِ مِيثَٰقِهِۦ وَيَقۡطَعُونَ مَآ أَمَرَ ٱللَّهُ بِهِۦٓ أَن يُوصَلَ وَيُفۡسِدُونَ فِي ٱلۡأَرۡضِ أُوْلَٰٓئِكَ لَهُمُ ٱللَّعۡنَةُ وَلَهُمۡ سُوٓءُ ٱلدَّارِ",
+  "translation": "Na wale wanao vunja ahadi ya Mwenyezi Mungu baada ya kuzifunga, na wanakata aliyo amrisha Mwenyezi Mungu yaungwe, na wanafanya fisadi katika nchi: hao ndio watakao pata laana, na watapata Nyumba mbaya.",
+  "footnotes": "Hakika sifa za Waumini wema ni kinyume na sifa za washirikina waovu. Kwani washirikina huvunja ahadi ya Mwenyezi Mungu aliyo chukua kwao kwa mujibu wa maumbile na ambayo walijifunga nayo. Kwa hivyo wamekhalifu maumbile yao na akili zao kwa kuabudu mawe yasiyo wafaa wala kuwadhuru. Na wanavunja ahadi zao wanazo fungamana na waja wenzao, tena wanakata makhusiano yao ya mapenzi na watu, na makhusiano yao na Mwenyezi Mungu. Hawazifuati amri zake, wala hawamuabudu Yeye pekee. Na wanafanya uharibifu katika ardhi kwa uvamizi na kufanya uadui na kuvuka mipaka, na kuacha kuitengeneza dunia wakanafiika nayo! Na Mwenyezi Mungu Aliye takasika hapendi uchafuzi na ufisadi."
 }

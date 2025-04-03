@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "401",
-    "sura": "3",
-    "aya": "108",
-    "arabic_text": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۗ وَمَا ٱللَّهُ يُرِيدُ ظُلۡمٗا لِّلۡعَٰلَمِينَ",
-    "translation": "Hizi ni Aya za Mwenyezi Mungu tunakusomea kwa haki. Na Mwenyezi Mungu hataki kuwadhulumu walimwengu.",
-    "footnotes": "Na hizo Aya zilizo kuja za kueleza kuwa mwema na mwovu watalipwa tunakusomea, nazo zimekusanya haki na uadilifu. Na Mwenyezi Mungu hataki kumdhulumu yeyote kati ya watu na majini."
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 63,
+  "verse_key": "3:108",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۗ وَمَا ٱللَّهُ يُرِيدُ ظُلۡمٗا لِّلۡعَٰلَمِينَ",
+  "translation": "Hizi ni Aya za Mwenyezi Mungu tunakusomea kwa haki. Na Mwenyezi Mungu hataki kuwadhulumu walimwengu.",
+  "footnotes": "Na hizo Aya zilizo kuja za kueleza kuwa mwema na mwovu watalipwa tunakusomea, nazo zimekusanya haki na uadilifu. Na Mwenyezi Mungu hataki kumdhulumu yeyote kati ya watu na majini."
 }

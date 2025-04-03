@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4065",
-    "sura": "39",
-    "aya": "7",
-    "arabic_text": "إِن تَكۡفُرُواْ فَإِنَّ ٱللَّهَ غَنِيٌّ عَنكُمۡۖ وَلَا يَرۡضَىٰ لِعِبَادِهِ ٱلۡكُفۡرَۖ وَإِن تَشۡكُرُواْ يَرۡضَهُ لَكُمۡۗ وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرۡجِعُكُمۡ فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
-    "translation": "Idan kun kãfirta to, lalle Allah Wadãtacce ne daga barinku, kuma bã Shi yarda da kãfirci ga bãyin Sa, kuma idan kun gõde, Zai yarda da ita (gõdiyar) a gare ku, kuma wani rai mai ɗaukar nauyi, bã ya ɗaukar nauyin wani. Sa'an nan kuma makõmarku zuwa ga Ubangijinku take, dõmin Ya bã ku lãbãri game da abin da kuka kasance kunã aikatãwa. Lalle Shĩ, Masani ne ga abin da yake a ainihin zukata.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 459,
+  "verse_key": "39:7",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن تَكۡفُرُواْ فَإِنَّ ٱللَّهَ غَنِيٌّ عَنكُمۡۖ وَلَا يَرۡضَىٰ لِعِبَادِهِ ٱلۡكُفۡرَۖ وَإِن تَشۡكُرُواْ يَرۡضَهُ لَكُمۡۗ وَلَا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰۚ ثُمَّ إِلَىٰ رَبِّكُم مَّرۡجِعُكُمۡ فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "translation": "Idan kun kãfirta to, lalle Allah Wadãtacce ne daga barinku, kuma bã Shi yarda da kãfirci ga bãyin Sa, kuma idan kun gõde, Zai yarda da ita (gõdiyar) a gare ku, kuma wani rai mai ɗaukar nauyi, bã ya ɗaukar nauyin wani. Sa'an nan kuma makõmarku zuwa ga Ubangijinku take, dõmin Ya bã ku lãbãri game da abin da kuka kasance kunã aikatãwa. Lalle Shĩ, Masani ne ga abin da yake a ainihin zukata.",
+  "footnotes": ""
 }

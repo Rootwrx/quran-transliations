@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5241",
-    "sura": "66",
-    "aya": "12",
-    "arabic_text": "وَمَرۡيَمَ ٱبۡنَتَ عِمۡرَٰنَ ٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتۡ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتۡ مِنَ ٱلۡقَٰنِتِينَ",
-    "translation": "Da Maryama* ɗiyar Imrãna wadda ta tsare farjinta, sai Muka hũra a cikinsa daga rũhinMu. Kuma ta gaskata game da ãyõyin Ubangijinta da Littattafan Sa alhãli kuwa ta kasance daga mãsu tawãli'u.",
-    "footnotes": "* Wannan yanã nũna cewa rashin aure ga mãtar da ke iya tsare farjinta daga alfãsha kuma ta tsare addininta da taƙawa, bã zai cũce ta ba ga sãmun rahamar Allah a dũniya da lãhira."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 561,
+  "verse_key": "66:12",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَرۡيَمَ ٱبۡنَتَ عِمۡرَٰنَ ٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتۡ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتۡ مِنَ ٱلۡقَٰنِتِينَ",
+  "translation": "Da Maryama* ɗiyar Imrãna wadda ta tsare farjinta, sai Muka hũra a cikinsa daga rũhinMu. Kuma ta gaskata game da ãyõyin Ubangijinta da Littattafan Sa alhãli kuwa ta kasance daga mãsu tawãli'u.",
+  "footnotes": "* Wannan yanã nũna cewa rashin aure ga mãtar da ke iya tsare farjinta daga alfãsha kuma ta tsare addininta da taƙawa, bã zai cũce ta ba ga sãmun rahamar Allah a dũniya da lãhira."
 }

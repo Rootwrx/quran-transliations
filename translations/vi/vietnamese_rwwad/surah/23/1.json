@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2674",
-    "sura": "23",
-    "aya": "1",
-    "arabic_text": "قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ",
-    "translation": "Quả thật, những người có đức tin đã thành công[1].",
-    "footnotes": "[1] Trong Musnad Al-Bazaar, Hadith số 3507, ông Abu Sa’eed thuật lại rằng Thiên Sứ của Allah nói: “Allah tạo ra Thiên Đàng, tường của Nó là những miếng gạch bằng vàng và những miếng gạch bằng bạc được kết dính với nhau bởi xạ hương. Sau khi tạo ra xong, Allah phán với Nó: Ngươi hãy nói gì đi! Thiên Đàng nói: ((Quả thật những người có đức tin đã thành công)), rồi các Thiên Thần đi vào Thiên Đàng và nói với Thiên Đàng: Thật diễm phúc cho ngươi, chỗ ở của các vị vua!” (Xem thêm giảng giải câu Kinh này trong Tafsir Ibnu Al-Kathir)."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 342,
+  "verse_key": "23:1",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ",
+  "translation": "Quả thật, những người có đức tin đã thành công[1].",
+  "footnotes": "[1] Trong Musnad Al-Bazaar, Hadith số 3507, ông Abu Sa’eed thuật lại rằng Thiên Sứ của Allah nói: “Allah tạo ra Thiên Đàng, tường của Nó là những miếng gạch bằng vàng và những miếng gạch bằng bạc được kết dính với nhau bởi xạ hương. Sau khi tạo ra xong, Allah phán với Nó: Ngươi hãy nói gì đi! Thiên Đàng nói: ((Quả thật những người có đức tin đã thành công)), rồi các Thiên Thần đi vào Thiên Đàng và nói với Thiên Đàng: Thật diễm phúc cho ngươi, chỗ ở của các vị vua!” (Xem thêm giảng giải câu Kinh này trong Tafsir Ibnu Al-Kathir)."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2579",
-    "sura": "21",
-    "aya": "96",
-    "arabic_text": "حَتَّىٰٓ إِذَا فُتِحَتۡ يَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبٖ يَنسِلُونَ",
-    "translation": "(Wọn yóò wà nínú barsaku) títí A óò fi ṣí àwọn Ya’jūj àti Ma’jūj sílẹ̀. Àwọn (wọ̀nyí) yó sì máa sáré jáde láti inú gbogbo àyè gíga.",
-    "footnotes": ""
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 330,
+  "verse_key": "21:96",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا فُتِحَتۡ يَأۡجُوجُ وَمَأۡجُوجُ وَهُم مِّن كُلِّ حَدَبٖ يَنسِلُونَ",
+  "translation": "(Wọn yóò wà nínú barsaku) títí A óò fi ṣí àwọn Ya’jūj àti Ma’jūj sílẹ̀. Àwọn (wọ̀nyí) yó sì máa sáré jáde láti inú gbogbo àyè gíga.",
+  "footnotes": ""
 }

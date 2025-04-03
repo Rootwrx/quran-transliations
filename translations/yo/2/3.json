@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "10",
-    "sura": "2",
-    "aya": "3",
-    "arabic_text": "ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
-    "translation": "(Àwọn olùbẹ̀rù Allāhu ni:) àwọn tó gbàgbọ́ ní òdodo nínú ìkọ̀kọ̀[1] àti àwọn tó ń kírun àti àwọn tó ń ná nínú ohun tí A pèsè fún wọn,",
-    "footnotes": "1. Ìkọ̀kọ̀ ni ohun tí ẹ̀dá kò lè fi ọ̀nà kan kan nímọ̀ nípa rẹ̀ nínú ohun tí Allāhu àti Òjíṣẹ́ Rẹ̀ - sọllallāhu alaehi wa sallam - sọ nípa rẹ̀."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 2,
+  "verse_key": "2:3",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يُؤۡمِنُونَ بِٱلۡغَيۡبِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+  "translation": "(Àwọn olùbẹ̀rù Allāhu ni:) àwọn tó gbàgbọ́ ní òdodo nínú ìkọ̀kọ̀[1] àti àwọn tó ń kírun àti àwọn tó ń ná nínú ohun tí A pèsè fún wọn,",
+  "footnotes": "1. Ìkọ̀kọ̀ ni ohun tí ẹ̀dá kò lè fi ọ̀nà kan kan nímọ̀ nípa rẹ̀ nínú ohun tí Allāhu àti Òjíṣẹ́ Rẹ̀ - sọllallāhu alaehi wa sallam - sọ nípa rẹ̀."
 }

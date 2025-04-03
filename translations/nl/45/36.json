@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4509",
-    "sura": "45",
-    "aya": "36",
-    "arabic_text": "فَلِلَّهِ ٱلۡحَمۡدُ رَبِّ ٱلسَّمَٰوَٰتِ وَرَبِّ ٱلۡأَرۡضِ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "36. Dus alle lofprijzingen en dank is voor Allah, de Heer van de hemelen en de Heer van de aarde en de Heer van de werelden.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 502,
+  "verse_key": "45:36",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلِلَّهِ ٱلۡحَمۡدُ رَبِّ ٱلسَّمَٰوَٰتِ وَرَبِّ ٱلۡأَرۡضِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "36. Dus alle lofprijzingen en dank is voor Allah, de Heer van de hemelen en de Heer van de aarde en de Heer van de werelden.",
+  "footnotes": ""
 }

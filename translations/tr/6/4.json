@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "793",
-    "sura": "6",
-    "aya": "4",
-    "arabic_text": "وَمَا تَأۡتِيهِم مِّنۡ ءَايَةٖ مِّنۡ ءَايَٰتِ رَبِّهِمۡ إِلَّا كَانُواْ عَنۡهَا مُعۡرِضِينَ",
-    "translation": "Onlara Rabblerinin âyetlerinden bir âyet gelse mutlaka ondan yüz çevirirler.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 128,
+  "verse_key": "6:4",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تَأۡتِيهِم مِّنۡ ءَايَةٖ مِّنۡ ءَايَٰتِ رَبِّهِمۡ إِلَّا كَانُواْ عَنۡهَا مُعۡرِضِينَ",
+  "translation": "Onlara Rabblerinin âyetlerinden bir âyet gelse mutlaka ondan yüz çevirirler.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5684",
-    "sura": "78",
-    "aya": "12",
-    "arabic_text": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا",
-    "translation": "আৰু আমি তোমালোকৰ ওপৰত নিৰ্মান কৰিছোঁ সুদৃঢ় সাতখন আকাশ।",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 582,
+  "verse_key": "78:12",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبَنَيۡنَا فَوۡقَكُمۡ سَبۡعٗا شِدَادٗا",
+  "translation": "আৰু আমি তোমালোকৰ ওপৰত নিৰ্মান কৰিছোঁ সুদৃঢ় সাতখন আকাশ।",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3776",
-    "sura": "36",
-    "aya": "71",
-    "arabic_text": "أَوَلَمۡ يَرَوۡاْ أَنَّا خَلَقۡنَا لَهُم مِّمَّا عَمِلَتۡ أَيۡدِينَآ أَنۡعَٰمٗا فَهُمۡ لَهَا مَٰلِكُونَ",
-    "translation": "71 Ne voient-ils pas que Nous avons créé pour eux, parmi tout ce que Nous avons créé à leur intention, des bestiaux dont ils sont les maîtres,",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 445,
+  "verse_key": "36:71",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَلَمۡ يَرَوۡاْ أَنَّا خَلَقۡنَا لَهُم مِّمَّا عَمِلَتۡ أَيۡدِينَآ أَنۡعَٰمٗا فَهُمۡ لَهَا مَٰلِكُونَ",
+  "translation": "71 Ne voient-ils pas que Nous avons créé pour eux, parmi tout ce que Nous avons créé à leur intention, des bestiaux dont ils sont les maîtres,",
+  "footnotes": ""
 }

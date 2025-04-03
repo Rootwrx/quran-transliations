@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "50",
-    "sura": "2",
-    "aya": "43",
-    "arabic_text": "وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّٰكِعِينَ",
-    "translation": "43. En verricht de gebeden correct en geef zakaat en buig met degenen die buigen.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 7,
+  "verse_key": "2:43",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ وَٱرۡكَعُواْ مَعَ ٱلرَّٰكِعِينَ",
+  "translation": "43. En verricht de gebeden correct en geef zakaat en buig met degenen die buigen.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4750",
-    "sura": "52",
-    "aya": "15",
-    "arabic_text": "أَفَسِحۡرٌ هَٰذَآ أَمۡ أَنتُمۡ لَا تُبۡصِرُونَ",
-    "translation": "இது என்ன மந்திரமா? நீங்கள் (இதை கண்கூடாக) பார்க்கவில்லையா?",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 524,
+  "verse_key": "52:15",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَسِحۡرٌ هَٰذَآ أَمۡ أَنتُمۡ لَا تُبۡصِرُونَ",
+  "translation": "இது என்ன மந்திரமா? நீங்கள் (இதை கண்கூடாக) பார்க்கவில்லையா?",
+  "footnotes": ""
 }

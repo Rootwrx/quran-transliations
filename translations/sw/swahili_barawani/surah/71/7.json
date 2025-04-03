@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5426",
-    "sura": "71",
-    "aya": "7",
-    "arabic_text": "وَإِنِّي كُلَّمَا دَعَوۡتُهُمۡ لِتَغۡفِرَ لَهُمۡ جَعَلُوٓاْ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِمۡ وَٱسۡتَغۡشَوۡاْ ثِيَابَهُمۡ وَأَصَرُّواْ وَٱسۡتَكۡبَرُواْ ٱسۡتِكۡبَارٗا",
-    "translation": "Na hakika mimi kila nilipo waita ili upate kuwaghufiria, walijiziba masikio yao kwa vidole vyao, na wakajigubika nguo zao, na wakakamia, na wakatakabari vikubwa mno!",
-    "footnotes": "Na mimi kila nikiwataka wakuamini Wewe upate kuwasamehe, hubandika vidole vyao kwenye masikio yao ili wasisikie wito wangu, na hujifunika kwa maguo yao ili wasiuone uso wangu! Na wakasimama kidete juu ya ukafiri wao, na wakatakabari kutakabari kukubwa mno!"
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 570,
+  "verse_key": "71:7",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنِّي كُلَّمَا دَعَوۡتُهُمۡ لِتَغۡفِرَ لَهُمۡ جَعَلُوٓاْ أَصَٰبِعَهُمۡ فِيٓ ءَاذَانِهِمۡ وَٱسۡتَغۡشَوۡاْ ثِيَابَهُمۡ وَأَصَرُّواْ وَٱسۡتَكۡبَرُواْ ٱسۡتِكۡبَارٗا",
+  "translation": "Na hakika mimi kila nilipo waita ili upate kuwaghufiria, walijiziba masikio yao kwa vidole vyao, na wakajigubika nguo zao, na wakakamia, na wakatakabari vikubwa mno!",
+  "footnotes": "Na mimi kila nikiwataka wakuamini Wewe upate kuwasamehe, hubandika vidole vyao kwenye masikio yao ili wasisikie wito wangu, na hujifunika kwa maguo yao ili wasiuone uso wangu! Na wakasimama kidete juu ya ukafiri wao, na wakatakabari kutakabari kukubwa mno!"
 }

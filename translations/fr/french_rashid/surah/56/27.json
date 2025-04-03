@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5006",
-    "sura": "56",
-    "aya": "27",
-    "arabic_text": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
-    "translation": "27 Quant aux gens de la droite - et que dire des gens de la droite ! -,",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 535,
+  "verse_key": "56:27",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَصۡحَٰبُ ٱلۡيَمِينِ مَآ أَصۡحَٰبُ ٱلۡيَمِينِ",
+  "translation": "27 Quant aux gens de la droite - et que dire des gens de la droite ! -,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "319",
-    "sura": "3",
-    "aya": "26",
-    "arabic_text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Ka ce:* \"Yã Allah Mamallakin mulki, Kanã bayar da mulki ga wanda Kake so, Kanã zãre mulki daga wanda Kake so, kuma Kanã buwãyar da wanda Kake so, kuma Kanã ƙasƙantar da wanda Kake so, ga hannunKa alhẽri yake. Lalle ne Kai, a kan kõwane abu, Mai ĩkon yi ne.\"",
-    "footnotes": "* Wato ka mayar da ĩkon kõme ga Allah, yana yin sa yandaYake so, bãbu mai iya hanãwa, sa'an nan kuma ka ce wa mũminai, kada su yi wata mu'amala da kãfirai, su bar yan'uwansu mũminai, sai dai a kan lalũra kawai. Wanda ya riƙi kãfirai ya bar mũminai, to, bã shi tãre da Allah a cikin kõme."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 53,
+  "verse_key": "3:26",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهُمَّ مَٰلِكَ ٱلۡمُلۡكِ تُؤۡتِي ٱلۡمُلۡكَ مَن تَشَآءُ وَتَنزِعُ ٱلۡمُلۡكَ مِمَّن تَشَآءُ وَتُعِزُّ مَن تَشَآءُ وَتُذِلُّ مَن تَشَآءُۖ بِيَدِكَ ٱلۡخَيۡرُۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Ka ce:* \"Yã Allah Mamallakin mulki, Kanã bayar da mulki ga wanda Kake so, Kanã zãre mulki daga wanda Kake so, kuma Kanã buwãyar da wanda Kake so, kuma Kanã ƙasƙantar da wanda Kake so, ga hannunKa alhẽri yake. Lalle ne Kai, a kan kõwane abu, Mai ĩkon yi ne.\"",
+  "footnotes": "* Wato ka mayar da ĩkon kõme ga Allah, yana yin sa yandaYake so, bãbu mai iya hanãwa, sa'an nan kuma ka ce wa mũminai, kada su yi wata mu'amala da kãfirai, su bar yan'uwansu mũminai, sai dai a kan lalũra kawai. Wanda ya riƙi kãfirai ya bar mũminai, to, bã shi tãre da Allah a cikin kõme."
 }

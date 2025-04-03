@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2641",
-    "sura": "22",
-    "aya": "46",
-    "arabic_text": "أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَتَكُونَ لَهُمۡ قُلُوبٞ يَعۡقِلُونَ بِهَآ أَوۡ ءَاذَانٞ يَسۡمَعُونَ بِهَاۖ فَإِنَّهَا لَا تَعۡمَى ٱلۡأَبۡصَٰرُ وَلَٰكِن تَعۡمَى ٱلۡقُلُوبُ ٱلَّتِي فِي ٱلصُّدُورِ",
-    "translation": "(Sana karşı çıkanlar) hiç yeryüzünde dolaşmadılar mı? Zira dolaşsalardı elbette düşünecek kalpleri ve işitecek kulakları olurdu. Ama gerçek şu ki, gözler kör olmaz; lâkin göğüsler içindeki kalpler kör olur.",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 337,
+  "verse_key": "22:46",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَتَكُونَ لَهُمۡ قُلُوبٞ يَعۡقِلُونَ بِهَآ أَوۡ ءَاذَانٞ يَسۡمَعُونَ بِهَاۖ فَإِنَّهَا لَا تَعۡمَى ٱلۡأَبۡصَٰرُ وَلَٰكِن تَعۡمَى ٱلۡقُلُوبُ ٱلَّتِي فِي ٱلصُّدُورِ",
+  "translation": "(Sana karşı çıkanlar) hiç yeryüzünde dolaşmadılar mı? Zira dolaşsalardı elbette düşünecek kalpleri ve işitecek kulakları olurdu. Ama gerçek şu ki, gözler kör olmaz; lâkin göğüsler içindeki kalpler kör olur.",
+  "footnotes": ""
 }

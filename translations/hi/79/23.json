@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5735",
-    "sura": "79",
-    "aya": "23",
-    "arabic_text": "فَحَشَرَ فَنَادَىٰ",
-    "translation": "फिर उसने (लोगों को) एकत्रित किया। फिर पुकारा।",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 584,
+  "verse_key": "79:23",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَحَشَرَ فَنَادَىٰ",
+  "translation": "फिर उसने (लोगों को) एकत्रित किया। फिर पुकारा।",
+  "footnotes": ""
 }

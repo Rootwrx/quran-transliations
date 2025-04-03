@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2042",
-    "sura": "17",
-    "aya": "13",
-    "arabic_text": "وَكُلَّ إِنسَٰنٍ أَلۡزَمۡنَٰهُ طَٰٓئِرَهُۥ فِي عُنُقِهِۦۖ وَنُخۡرِجُ لَهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ كِتَٰبٗا يَلۡقَىٰهُ مَنشُورًا",
-    "translation": "Çdo njeriu ia kemi varur në qafë llogarinë për punën e tij dhe Ne, do t’ia paraqesim Ditën e Kiametit librin, që do ta gjejë të hapur (e do t’i themi):",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 283,
+  "verse_key": "17:13",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكُلَّ إِنسَٰنٍ أَلۡزَمۡنَٰهُ طَٰٓئِرَهُۥ فِي عُنُقِهِۦۖ وَنُخۡرِجُ لَهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ كِتَٰبٗا يَلۡقَىٰهُ مَنشُورًا",
+  "translation": "Çdo njeriu ia kemi varur në qafë llogarinë për punën e tij dhe Ne, do t’ia paraqesim Ditën e Kiametit librin, që do ta gjejë të hapur (e do t’i themi):",
+  "footnotes": ""
 }

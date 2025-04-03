@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "176",
-    "sura": "2",
-    "aya": "169",
-    "arabic_text": "إِنَّمَا يَأۡمُرُكُم بِٱلسُّوٓءِ وَٱلۡفَحۡشَآءِ وَأَن تَقُولُواْ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
-    "translation": "Muhakkak ki o size, kötülüğü, hayâsızlığı ve Allah hakkında bilmediğiniz şeyleri söylemenizi emreder.",
-    "footnotes": ""
-  }
+  "id": 169,
+  "verse_number": 169,
+  "page_number": 25,
+  "verse_key": "2:169",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا يَأۡمُرُكُم بِٱلسُّوٓءِ وَٱلۡفَحۡشَآءِ وَأَن تَقُولُواْ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+  "translation": "Muhakkak ki o size, kötülüğü, hayâsızlığı ve Allah hakkında bilmediğiniz şeyleri söylemenizi emreder.",
+  "footnotes": ""
 }

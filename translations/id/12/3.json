@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1599",
-    "sura": "12",
-    "aya": "3",
-    "arabic_text": "نَحۡنُ نَقُصُّ عَلَيۡكَ أَحۡسَنَ ٱلۡقَصَصِ بِمَآ أَوۡحَيۡنَآ إِلَيۡكَ هَٰذَا ٱلۡقُرۡءَانَ وَإِن كُنتَ مِن قَبۡلِهِۦ لَمِنَ ٱلۡغَٰفِلِينَ",
-    "translation": "Kami menceritakan kepadamu (Muhammad) kisah yang paling baik dengan mewahyukan Al-Qur`an ini kepadamu, dan sesungguhnya engkau sebelum itu termasuk orang yang tidak mengetahui.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 235,
+  "verse_key": "12:3",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نَحۡنُ نَقُصُّ عَلَيۡكَ أَحۡسَنَ ٱلۡقَصَصِ بِمَآ أَوۡحَيۡنَآ إِلَيۡكَ هَٰذَا ٱلۡقُرۡءَانَ وَإِن كُنتَ مِن قَبۡلِهِۦ لَمِنَ ٱلۡغَٰفِلِينَ",
+  "translation": "Kami menceritakan kepadamu (Muhammad) kisah yang paling baik dengan mewahyukan Al-Qur`an ini kepadamu, dan sesungguhnya engkau sebelum itu termasuk orang yang tidak mengetahui.",
+  "footnotes": ""
 }

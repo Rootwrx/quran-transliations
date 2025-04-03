@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "91",
-    "sura": "2",
-    "aya": "84",
-    "arabic_text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ لَا تَسۡفِكُونَ دِمَآءَكُمۡ وَلَا تُخۡرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمۡ ثُمَّ أَقۡرَرۡتُمۡ وَأَنتُمۡ تَشۡهَدُونَ",
-    "translation": "Dan (ingatlah), ketika Kami mengambil janji dari kamu, (yaitu) kamu tidak akan menumpahkan darahmu (membunuh orang), dan kamu tidak akan mengusir dirimu (saudaramu sebangsa) dari kampung halamanmu, kemudian kamu berikrar (akan memenuhinya) sedang kamu mempersaksikannya.",
-    "footnotes": ""
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 13,
+  "verse_key": "2:84",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ لَا تَسۡفِكُونَ دِمَآءَكُمۡ وَلَا تُخۡرِجُونَ أَنفُسَكُم مِّن دِيَٰرِكُمۡ ثُمَّ أَقۡرَرۡتُمۡ وَأَنتُمۡ تَشۡهَدُونَ",
+  "translation": "Dan (ingatlah), ketika Kami mengambil janji dari kamu, (yaitu) kamu tidak akan menumpahkan darahmu (membunuh orang), dan kamu tidak akan mengusir dirimu (saudaramu sebangsa) dari kampung halamanmu, kemudian kamu berikrar (akan memenuhinya) sedang kamu mempersaksikannya.",
+  "footnotes": ""
 }

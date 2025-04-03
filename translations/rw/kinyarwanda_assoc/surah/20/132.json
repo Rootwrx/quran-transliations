@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2480",
-    "sura": "20",
-    "aya": "132",
-    "arabic_text": "وَأۡمُرۡ أَهۡلَكَ بِٱلصَّلَوٰةِ وَٱصۡطَبِرۡ عَلَيۡهَاۖ لَا نَسۡـَٔلُكَ رِزۡقٗاۖ نَّحۡنُ نَرۡزُقُكَۗ وَٱلۡعَٰقِبَةُ لِلتَّقۡوَىٰ",
-    "translation": "Kandi ujye ubwiriza abo mu rugo iwawe gusali ndetse unabihozeho. Ntitujya tugusaba amafunguro, kuko ari twe tuyaguha. Kandi iherezo ryiza ni iry’abagandukira (Allah).",
-    "footnotes": ""
-  }
+  "id": 132,
+  "verse_number": 132,
+  "page_number": 321,
+  "verse_key": "20:132",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأۡمُرۡ أَهۡلَكَ بِٱلصَّلَوٰةِ وَٱصۡطَبِرۡ عَلَيۡهَاۖ لَا نَسۡـَٔلُكَ رِزۡقٗاۖ نَّحۡنُ نَرۡزُقُكَۗ وَٱلۡعَٰقِبَةُ لِلتَّقۡوَىٰ",
+  "translation": "Kandi ujye ubwiriza abo mu rugo iwawe gusali ndetse unabihozeho. Ntitujya tugusaba amafunguro, kuko ari twe tuyaguha. Kandi iherezo ryiza ni iry’abagandukira (Allah).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2297",
-    "sura": "19",
-    "aya": "47",
-    "arabic_text": "قَالَ سَلَٰمٌ عَلَيۡكَۖ سَأَسۡتَغۡفِرُ لَكَ رَبِّيٓۖ إِنَّهُۥ كَانَ بِي حَفِيّٗا",
-    "translation": "(İbrahim) dedi: “Sənə salam olsun! Rəbbimdən sənin üçün bağışlanma diləyəcəyəm. Həqiqətən, O mənə qarşı çox lütfkardır.",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 308,
+  "verse_key": "19:47",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ سَلَٰمٌ عَلَيۡكَۖ سَأَسۡتَغۡفِرُ لَكَ رَبِّيٓۖ إِنَّهُۥ كَانَ بِي حَفِيّٗا",
+  "translation": "(İbrahim) dedi: “Sənə salam olsun! Rəbbimdən sənin üçün bağışlanma diləyəcəyəm. Həqiqətən, O mənə qarşı çox lütfkardır.",
+  "footnotes": ""
 }

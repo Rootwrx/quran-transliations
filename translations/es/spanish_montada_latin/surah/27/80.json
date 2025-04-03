@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3239",
-    "sura": "27",
-    "aya": "80",
-    "arabic_text": "إِنَّكَ لَا تُسۡمِعُ ٱلۡمَوۡتَىٰ وَلَا تُسۡمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوۡاْ مُدۡبِرِينَ",
-    "translation": "80. Tú no puedes hacer oír a los muertos (de corazón) ni puedes hacer que los sordos (que no quieren oír la verdad) respondan a la llamada (a la fe) cuando le dan la espalda alejándose de ella.",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 384,
+  "verse_key": "27:80",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّكَ لَا تُسۡمِعُ ٱلۡمَوۡتَىٰ وَلَا تُسۡمِعُ ٱلصُّمَّ ٱلدُّعَآءَ إِذَا وَلَّوۡاْ مُدۡبِرِينَ",
+  "translation": "80. Tú no puedes hacer oír a los muertos (de corazón) ni puedes hacer que los sordos (que no quieren oír la verdad) respondan a la llamada (a la fe) cuando le dan la espalda alejándose de ella.",
+  "footnotes": ""
 }

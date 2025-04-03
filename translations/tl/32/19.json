@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3522",
-    "sura": "32",
-    "aya": "19",
-    "arabic_text": "أَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَلَهُمۡ جَنَّٰتُ ٱلۡمَأۡوَىٰ نُزُلَۢا بِمَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Hinggil naman sa mga sumampalataya at gumawa ng mga maayos, ukol sa kanila ay mga hardin ng kanlungan bilang tuluyan dahil sa dati nilang ginagawa.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 416,
+  "verse_key": "32:19",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَلَهُمۡ جَنَّٰتُ ٱلۡمَأۡوَىٰ نُزُلَۢا بِمَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Hinggil naman sa mga sumampalataya at gumawa ng mga maayos, ukol sa kanila ay mga hardin ng kanlungan bilang tuluyan dahil sa dati nilang ginagawa.",
+  "footnotes": ""
 }

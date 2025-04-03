@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1915",
-    "sura": "16",
-    "aya": "14",
-    "arabic_text": "وَهُوَ ٱلَّذِي سَخَّرَ ٱلۡبَحۡرَ لِتَأۡكُلُواْ مِنۡهُ لَحۡمٗا طَرِيّٗا وَتَسۡتَخۡرِجُواْ مِنۡهُ حِلۡيَةٗ تَلۡبَسُونَهَاۖ وَتَرَى ٱلۡفُلۡكَ مَوَاخِرَ فِيهِ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
-    "translation": "Yeye ndiye aliye ifanya bahari ikutumikieni, ili kutokana na humo mpate kula nyama laini, na mtoe humo mapambo mnayo yavaa. Na unaona marikebu zikikata maji humo, ili mtafute fadhila yake, na mpate kushukuru.",
-    "footnotes": "Ni Yeye aliye idhalilisha bahari, na akaifanya ikutumikieni, mpate kuvua na mle nyama za samaki, laini na mpya mpya. Na mtoe humo baharini mapambo kama lulu na marijani. Na ewe mwenye kuangalia ukazingatia, unaona marikebu zinavyo pita baharini zikikata maji nazo zimesheheni bidhaa na vyakula. Mwenyezi Mungu ameyadhalilisha hayo ili mnafuike nyinyi, na mtafute riziki kwa fadhila ya Mwenyezi Mungu kwa njia ya biashara na nyenginezo, na mpate kumshukuru kwa aliyo kutengenezeeni, na hayo ni kwa kukutumikieni nyinyi."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 268,
+  "verse_key": "16:14",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِي سَخَّرَ ٱلۡبَحۡرَ لِتَأۡكُلُواْ مِنۡهُ لَحۡمٗا طَرِيّٗا وَتَسۡتَخۡرِجُواْ مِنۡهُ حِلۡيَةٗ تَلۡبَسُونَهَاۖ وَتَرَى ٱلۡفُلۡكَ مَوَاخِرَ فِيهِ وَلِتَبۡتَغُواْ مِن فَضۡلِهِۦ وَلَعَلَّكُمۡ تَشۡكُرُونَ",
+  "translation": "Yeye ndiye aliye ifanya bahari ikutumikieni, ili kutokana na humo mpate kula nyama laini, na mtoe humo mapambo mnayo yavaa. Na unaona marikebu zikikata maji humo, ili mtafute fadhila yake, na mpate kushukuru.",
+  "footnotes": "Ni Yeye aliye idhalilisha bahari, na akaifanya ikutumikieni, mpate kuvua na mle nyama za samaki, laini na mpya mpya. Na mtoe humo baharini mapambo kama lulu na marijani. Na ewe mwenye kuangalia ukazingatia, unaona marikebu zinavyo pita baharini zikikata maji nazo zimesheheni bidhaa na vyakula. Mwenyezi Mungu ameyadhalilisha hayo ili mnafuike nyinyi, na mtafute riziki kwa fadhila ya Mwenyezi Mungu kwa njia ya biashara na nyenginezo, na mpate kumshukuru kwa aliyo kutengenezeeni, na hayo ni kwa kukutumikieni nyinyi."
 }

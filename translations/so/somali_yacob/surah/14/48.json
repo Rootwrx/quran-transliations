@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1798",
-    "sura": "14",
-    "aya": "48",
-    "arabic_text": "يَوۡمَ تُبَدَّلُ ٱلۡأَرۡضُ غَيۡرَ ٱلۡأَرۡضِ وَٱلسَّمَٰوَٰتُۖ وَبَرَزُواْ لِلَّهِ ٱلۡوَٰحِدِ ٱلۡقَهَّارِ",
-    "translation": "48. Maalinta marka arlada loo beddeli arlo kale iyo samooyinka, waxaana la hor keeni (uumanka oo idil) Alle horti, Waaxidka, Sandulleeyaha (isla weynayaasha).",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 261,
+  "verse_key": "14:48",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ تُبَدَّلُ ٱلۡأَرۡضُ غَيۡرَ ٱلۡأَرۡضِ وَٱلسَّمَٰوَٰتُۖ وَبَرَزُواْ لِلَّهِ ٱلۡوَٰحِدِ ٱلۡقَهَّارِ",
+  "translation": "48. Maalinta marka arlada loo beddeli arlo kale iyo samooyinka, waxaana la hor keeni (uumanka oo idil) Alle horti, Waaxidka, Sandulleeyaha (isla weynayaasha).",
+  "footnotes": ""
 }

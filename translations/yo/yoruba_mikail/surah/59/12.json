@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5138",
-    "sura": "59",
-    "aya": "12",
-    "arabic_text": "لَئِنۡ أُخۡرِجُواْ لَا يَخۡرُجُونَ مَعَهُمۡ وَلَئِن قُوتِلُواْ لَا يَنصُرُونَهُمۡ وَلَئِن نَّصَرُوهُمۡ لَيُوَلُّنَّ ٱلۡأَدۡبَٰرَ ثُمَّ لَا يُنصَرُونَ",
-    "translation": "Dájúdájú tí wọ́n bá lé wọn jáde, wọn kò níí jáde pẹ̀lú wọn.[1] Dájúdájú tí wọ́n bá sì gbógun tì wọ́n, wọn kò níí ṣe ìrànlọ́wọ́ fún wọn. Tí wọ́n bá sì wá ìrànlọ́wọ́ wọn, dájúdájú wọn yóò pẹ̀yìndà (láti fẹsẹ̀ fẹ́ẹ). Lẹ́yìn náà, wọn kò sì níí ràn wọ́n lọ́wọ́.",
-    "footnotes": "1. Ìyẹn ni pé, tí àwọn mùsùlùmí bá lé àwọn yẹhudi jáde kúrò nínú ìlú Mọdīnah, àwọn ṣọ̀bẹ-ṣèlu mùsùlùmí kò níí jáde pẹ̀lú àwọn yẹhudi. Wọ́n kàn ń tàn wọ́n lásán ni."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 547,
+  "verse_key": "59:12",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 219,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَئِنۡ أُخۡرِجُواْ لَا يَخۡرُجُونَ مَعَهُمۡ وَلَئِن قُوتِلُواْ لَا يَنصُرُونَهُمۡ وَلَئِن نَّصَرُوهُمۡ لَيُوَلُّنَّ ٱلۡأَدۡبَٰرَ ثُمَّ لَا يُنصَرُونَ",
+  "translation": "Dájúdájú tí wọ́n bá lé wọn jáde, wọn kò níí jáde pẹ̀lú wọn.[1] Dájúdájú tí wọ́n bá sì gbógun tì wọ́n, wọn kò níí ṣe ìrànlọ́wọ́ fún wọn. Tí wọ́n bá sì wá ìrànlọ́wọ́ wọn, dájúdájú wọn yóò pẹ̀yìndà (láti fẹsẹ̀ fẹ́ẹ). Lẹ́yìn náà, wọn kò sì níí ràn wọ́n lọ́wọ́.",
+  "footnotes": "1. Ìyẹn ni pé, tí àwọn mùsùlùmí bá lé àwọn yẹhudi jáde kúrò nínú ìlú Mọdīnah, àwọn ṣọ̀bẹ-ṣèlu mùsùlùmí kò níí jáde pẹ̀lú àwọn yẹhudi. Wọ́n kàn ń tàn wọ́n lásán ni."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5371",
-    "sura": "69",
-    "aya": "48",
-    "arabic_text": "وَإِنَّهُۥ لَتَذۡكِرَةٞ لِّلۡمُتَّقِينَ",
-    "translation": "48. நிச்சயமாக இது இறையச்சமுடையவர்களுக்கு நல்லுபதேசமாகவே இருக்கிறது.",
-    "footnotes": null
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 568,
+  "verse_key": "69:48",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّهُۥ لَتَذۡكِرَةٞ لِّلۡمُتَّقِينَ",
+  "translation": "48. நிச்சயமாக இது இறையச்சமுடையவர்களுக்கு நல்லுபதேசமாகவே இருக்கிறது.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3663",
-    "sura": "35",
-    "aya": "3",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡۚ هَلۡ مِنۡ خَٰلِقٍ غَيۡرُ ٱللَّهِ يَرۡزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ لَآ إِلَٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُؤۡفَكُونَ",
-    "translation": "3 Ô hommes ! Souvenez-vous des bienfaits d’Allah envers vous. Y a-t-il un autre créateur qu’Allah, Lui qui vous dispense les dons du ciel et de la terre ? Il n’est de divinité digne d’être adorée que Lui. Comment pouvez-vous vous détourner[1117] ?",
-    "footnotes": "[1117] De Son adoration pour vouer un culte aux fausses divinités."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 434,
+  "verse_key": "35:3",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّاسُ ٱذۡكُرُواْ نِعۡمَتَ ٱللَّهِ عَلَيۡكُمۡۚ هَلۡ مِنۡ خَٰلِقٍ غَيۡرُ ٱللَّهِ يَرۡزُقُكُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ لَآ إِلَٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُؤۡفَكُونَ",
+  "translation": "3 Ô hommes ! Souvenez-vous des bienfaits d’Allah envers vous. Y a-t-il un autre créateur qu’Allah, Lui qui vous dispense les dons du ciel et de la terre ? Il n’est de divinité digne d’être adorée que Lui. Comment pouvez-vous vous détourner[1117] ?",
+  "footnotes": "[1117] De Son adoration pour vouer un culte aux fausses divinités."
 }

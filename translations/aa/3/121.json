@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "414",
-    "sura": "3",
-    "aya": "121",
-    "arabic_text": "وَإِذۡ غَدَوۡتَ مِنۡ أَهۡلِكَ تُبَوِّئُ ٱلۡمُؤۡمِنِينَ مَقَٰعِدَ لِلۡقِتَالِۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
-    "translation": "121. Nabiyow isi Buxak ucud deqsita Aracâ fanah moominiin Qeebih elle gactii wayta Arooca keenih Bicisak tewqc waqdi cus;Yalli sin maxcooca yaabbi sin taamoomi yaaxigi kinni.",
-    "footnotes": ""
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 65,
+  "verse_key": "3:121",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ غَدَوۡتَ مِنۡ أَهۡلِكَ تُبَوِّئُ ٱلۡمُؤۡمِنِينَ مَقَٰعِدَ لِلۡقِتَالِۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+  "translation": "121. Nabiyow isi Buxak ucud deqsita Aracâ fanah moominiin Qeebih elle gactii wayta Arooca keenih Bicisak tewqc waqdi cus;Yalli sin maxcooca yaabbi sin taamoomi yaaxigi kinni.",
+  "footnotes": ""
 }

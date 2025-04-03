@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1382",
-    "sura": "10",
-    "aya": "18",
-    "arabic_text": "وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمۡ وَلَا يَنفَعُهُمۡ وَيَقُولُونَ هَٰٓؤُلَآءِ شُفَعَٰٓؤُنَا عِندَ ٱللَّهِۚ قُلۡ أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعۡلَمُ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
-    "translation": "18. Waxay caabudaan Alle sokadi waxaan waxyeeli karin waxnana aan u tari karin, waxayna yidhaahdaan: Kuwakanu waa shafeecayaashayo Alle agti6. Dheh: Ma waxaad (is leedihiin waxaad u) sheegaysaan Alle wax aanu ogeyn ee ka jira samooyinka iyo arlada gudahooda? Wuu ka hufan yahay Alle (ceeb iyo nuqsaan) oo ka Sarreeyaa waxay la wadaajiyaan.",
-    "footnotes": "6. Weedhani waxay muujineysaa caqli xumada dadka asnaamta caabuda ee mooda inay asnaamta uga shafeecayaan oo garab siinayaan Alle Kor ahaaye agtii."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 210,
+  "verse_key": "10:18",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُمۡ وَلَا يَنفَعُهُمۡ وَيَقُولُونَ هَٰٓؤُلَآءِ شُفَعَٰٓؤُنَا عِندَ ٱللَّهِۚ قُلۡ أَتُنَبِّـُٔونَ ٱللَّهَ بِمَا لَا يَعۡلَمُ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
+  "translation": "18. Waxay caabudaan Alle sokadi waxaan waxyeeli karin waxnana aan u tari karin, waxayna yidhaahdaan: Kuwakanu waa shafeecayaashayo Alle agti6. Dheh: Ma waxaad (is leedihiin waxaad u) sheegaysaan Alle wax aanu ogeyn ee ka jira samooyinka iyo arlada gudahooda? Wuu ka hufan yahay Alle (ceeb iyo nuqsaan) oo ka Sarreeyaa waxay la wadaajiyaan.",
+  "footnotes": "6. Weedhani waxay muujineysaa caqli xumada dadka asnaamta caabuda ee mooda inay asnaamta uga shafeecayaan oo garab siinayaan Alle Kor ahaaye agtii."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5060",
-    "sura": "56",
-    "aya": "81",
-    "arabic_text": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
-    "translation": " Siz bu sözü mü hor görüyorsunuz?",
-    "footnotes": null
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 537,
+  "verse_key": "56:81",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَبِهَٰذَا ٱلۡحَدِيثِ أَنتُم مُّدۡهِنُونَ",
+  "translation": " Siz bu sözü mü hor görüyorsunuz?",
+  "footnotes": null
 }

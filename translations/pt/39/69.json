@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4127",
-    "sura": "39",
-    "aya": "69",
-    "arabic_text": "وَأَشۡرَقَتِ ٱلۡأَرۡضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلۡكِتَٰبُ وَجِاْيٓءَ بِٱلنَّبِيِّـۧنَ وَٱلشُّهَدَآءِ وَقُضِيَ بَيۡنَهُم بِٱلۡحَقِّ وَهُمۡ لَا يُظۡلَمُونَ",
-    "translation": "E a terra iluminar-se-á, com a luz de seu Senhor; e o Livro por-se-á à vista; e far-se-á chegar os profetas e as testemunhas; e, arbitrar-se-á, entre eles com a justiça. E eles não sofrerão injustiça alguma.",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 466,
+  "verse_key": "39:69",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَشۡرَقَتِ ٱلۡأَرۡضُ بِنُورِ رَبِّهَا وَوُضِعَ ٱلۡكِتَٰبُ وَجِاْيٓءَ بِٱلنَّبِيِّـۧنَ وَٱلشُّهَدَآءِ وَقُضِيَ بَيۡنَهُم بِٱلۡحَقِّ وَهُمۡ لَا يُظۡلَمُونَ",
+  "translation": "E a terra iluminar-se-á, com a luz de seu Senhor; e o Livro por-se-á à vista; e far-se-á chegar os profetas e as testemunhas; e, arbitrar-se-á, entre eles com a justiça. E eles não sofrerão injustiça alguma.",
+  "footnotes": ""
 }

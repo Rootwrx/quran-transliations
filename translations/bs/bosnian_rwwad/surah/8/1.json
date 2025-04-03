@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1161",
-    "sura": "8",
-    "aya": "1",
-    "arabic_text": "يَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُواْ ٱللَّهَ وَأَصۡلِحُواْ ذَاتَ بَيۡنِكُمۡۖ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": "Pitaju te o ratnom plijenu. Reci: \"Ratni plijen pripada Allahu i Poslaniku.\" Zato se bojte Allaha i izgladite međusobne razmirice, i pokoravajte se Allahu i Njegovu Poslaniku, ako ste pravi vjernici.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 177,
+  "verse_key": "8:1",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُواْ ٱللَّهَ وَأَصۡلِحُواْ ذَاتَ بَيۡنِكُمۡۖ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": "Pitaju te o ratnom plijenu. Reci: \"Ratni plijen pripada Allahu i Poslaniku.\" Zato se bojte Allaha i izgladite međusobne razmirice, i pokoravajte se Allahu i Njegovu Poslaniku, ako ste pravi vjernici.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1262",
-    "sura": "9",
-    "aya": "27",
-    "arabic_text": "ثُمَّ يَتُوبُ ٱللَّهُ مِنۢ بَعۡدِ ذَٰلِكَ عَلَىٰ مَن يَشَآءُۗ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
-    "translation": " Sonra Allah, bunun ardından yine dilediğinin tevbesini kabul eder. Zira Allah, çok bağışlayıcıdır, çok merhametlidir.\n",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 191,
+  "verse_key": "9:27",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ يَتُوبُ ٱللَّهُ مِنۢ بَعۡدِ ذَٰلِكَ عَلَىٰ مَن يَشَآءُۗ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "translation": " Sonra Allah, bunun ardından yine dilediğinin tevbesini kabul eder. Zira Allah, çok bağışlayıcıdır, çok merhametlidir.\n",
+  "footnotes": ""
 }

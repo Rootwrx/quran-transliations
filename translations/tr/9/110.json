@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1345",
-    "sura": "9",
-    "aya": "110",
-    "arabic_text": "لَا يَزَالُ بُنۡيَٰنُهُمُ ٱلَّذِي بَنَوۡاْ رِيبَةٗ فِي قُلُوبِهِمۡ إِلَّآ أَن تَقَطَّعَ قُلُوبُهُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
-    "translation": "Yaptıkları binaları, kalpleri parça parça oluncaya dek bir şüphe (kaynağı) olarak kalmaya devam edecektir. Allah, her şeyi hakkıyle bilendir;Hakîm'dir.",
-    "footnotes": ""
-  }
+  "id": 110,
+  "verse_number": 110,
+  "page_number": 204,
+  "verse_key": "9:110",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 81,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا يَزَالُ بُنۡيَٰنُهُمُ ٱلَّذِي بَنَوۡاْ رِيبَةٗ فِي قُلُوبِهِمۡ إِلَّآ أَن تَقَطَّعَ قُلُوبُهُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٌ",
+  "translation": "Yaptıkları binaları, kalpleri parça parça oluncaya dek bir şüphe (kaynağı) olarak kalmaya devam edecektir. Allah, her şeyi hakkıyle bilendir;Hakîm'dir.",
+  "footnotes": ""
 }

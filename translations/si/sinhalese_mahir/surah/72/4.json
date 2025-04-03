@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5451",
-    "sura": "72",
-    "aya": "4",
-    "arabic_text": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطٗا",
-    "translation": "තවද අප අතර සිටි අඥානයකු අල්ලාහ්ට එරෙහිව ප්‍රබන්ධ කතා පවසා සිටියේ ය.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 572,
+  "verse_key": "72:4",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّهُۥ كَانَ يَقُولُ سَفِيهُنَا عَلَى ٱللَّهِ شَطَطٗا",
+  "translation": "තවද අප අතර සිටි අඥානයකු අල්ලාහ්ට එරෙහිව ප්‍රබන්ධ කතා පවසා සිටියේ ය.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2665",
-    "sura": "22",
-    "aya": "70",
-    "arabic_text": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ إِنَّ ذَٰلِكَ فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
-    "translation": "Je! Hujui kwamba Mwenyezi Mungu anayajua yaliomo mbinguni na katika ardhi? Hakika hayo yamo Kitabuni. Hakika hayo kwa Mwenyezi Mungu ni mepesi.",
-    "footnotes": "Ewe mwenye akili! Jua kuwa ujuzi wa Mwenyezi Mungu umekusanya kila kiliomo mbinguni na duniani. Hapana kitendo cha hawa washindani kinacho fichika kwake. Vyote hivyo vimekwisha andikwa katika Ubao ulio hifadhiwa (Lauhun Mahfuudh). Kwani kujua kwake Mwenyezi Mungu na kuvithibiti kwake ni kazi nyepesi kabisa kwake."
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 340,
+  "verse_key": "22:70",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ إِنَّ ذَٰلِكَ فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
+  "translation": "Je! Hujui kwamba Mwenyezi Mungu anayajua yaliomo mbinguni na katika ardhi? Hakika hayo yamo Kitabuni. Hakika hayo kwa Mwenyezi Mungu ni mepesi.",
+  "footnotes": "Ewe mwenye akili! Jua kuwa ujuzi wa Mwenyezi Mungu umekusanya kila kiliomo mbinguni na duniani. Hapana kitendo cha hawa washindani kinacho fichika kwake. Vyote hivyo vimekwisha andikwa katika Ubao ulio hifadhiwa (Lauhun Mahfuudh). Kwani kujua kwake Mwenyezi Mungu na kuvithibiti kwake ni kazi nyepesi kabisa kwake."
 }

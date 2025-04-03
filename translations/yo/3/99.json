@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "392",
-    "sura": "3",
-    "aya": "99",
-    "arabic_text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنۡ ءَامَنَ تَبۡغُونَهَا عِوَجٗا وَأَنتُمۡ شُهَدَآءُۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
-    "translation": "Sọ pé: “Ẹ̀yin onítírà, nítorí kí ni ẹ fi ń ṣẹ́rí ẹni tó gbàgbọ́ lódodo kúrò lójú ọ̀nà (ẹ̀sìn) Allāhu, tí ẹ̀ ń fẹ́ kí ó wọ́,[1] ẹ sì jẹ́rìí (sí òdodo ’Islām)? Allāhu kì í ṣe Onígbàgbé nípa ohun tí ẹ̀ ń ṣe níṣẹ́.”",
-    "footnotes": "1. Ìyẹn ni pé, àwọn onítírà ń fẹ́ kí ojú ọ̀nà ẹ̀sìn dàrú mọ́ àwọn mùsùlùmí alákọ̀ọ́bẹ̀rẹ̀ lọ́wọ́."
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 62,
+  "verse_key": "3:99",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَصُدُّونَ عَن سَبِيلِ ٱللَّهِ مَنۡ ءَامَنَ تَبۡغُونَهَا عِوَجٗا وَأَنتُمۡ شُهَدَآءُۗ وَمَا ٱللَّهُ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+  "translation": "Sọ pé: “Ẹ̀yin onítírà, nítorí kí ni ẹ fi ń ṣẹ́rí ẹni tó gbàgbọ́ lódodo kúrò lójú ọ̀nà (ẹ̀sìn) Allāhu, tí ẹ̀ ń fẹ́ kí ó wọ́,[1] ẹ sì jẹ́rìí (sí òdodo ’Islām)? Allāhu kì í ṣe Onígbàgbé nípa ohun tí ẹ̀ ń ṣe níṣẹ́.”",
+  "footnotes": "1. Ìyẹn ni pé, àwọn onítírà ń fẹ́ kí ojú ọ̀nà ẹ̀sìn dàrú mọ́ àwọn mùsùlùmí alákọ̀ọ́bẹ̀rẹ̀ lọ́wọ́."
 }

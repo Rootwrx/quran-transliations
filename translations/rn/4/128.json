@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "621",
-    "sura": "4",
-    "aya": "128",
-    "arabic_text": "وَإِنِ ٱمۡرَأَةٌ خَافَتۡ مِنۢ بَعۡلِهَا نُشُوزًا أَوۡ إِعۡرَاضٗا فَلَا جُنَاحَ عَلَيۡهِمَآ أَن يُصۡلِحَا بَيۡنَهُمَا صُلۡحٗاۚ وَٱلصُّلۡحُ خَيۡرٞۗ وَأُحۡضِرَتِ ٱلۡأَنفُسُ ٱلشُّحَّۚ وَإِن تُحۡسِنُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِيرٗا",
-    "translation": "Umukenyezi na we, niyatinya ko umugabo wiwe yokwiganza agahava amuhunga, canke akamwirengagiza, nta caha kuri bompi kiri mu kwumvikana gusubiza hamwe, mu gihe umukenyezi yokwemera guheba umusi wo kumutahira, canke bimwe mu vyo yari agenewe, kugira ntibahukane. Ukwumvikana rero gutuma babandanya kubana, ni vyiza cane gusumba ukwahukana, imitima y’abantu na yo burya yaremwe ari ingumyi nta co yikura. Nimwaramuka rero mubanye n’abakenyezi banyu mu bugwaneza, mugaheza mugatinya Imana Allah mu kwubahiriza amabwirizwa yayo ajanye no kwubaka zikaguma, mu vy’ukuri Imana Allah Yamye Izi neza ivyo mukora vyose, ni Muhetuziwavyose, Izonabibahembera.",
-    "footnotes": ""
-  }
+  "id": 128,
+  "verse_number": 128,
+  "page_number": 99,
+  "verse_key": "4:128",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنِ ٱمۡرَأَةٌ خَافَتۡ مِنۢ بَعۡلِهَا نُشُوزًا أَوۡ إِعۡرَاضٗا فَلَا جُنَاحَ عَلَيۡهِمَآ أَن يُصۡلِحَا بَيۡنَهُمَا صُلۡحٗاۚ وَٱلصُّلۡحُ خَيۡرٞۗ وَأُحۡضِرَتِ ٱلۡأَنفُسُ ٱلشُّحَّۚ وَإِن تُحۡسِنُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِيرٗا",
+  "translation": "Umukenyezi na we, niyatinya ko umugabo wiwe yokwiganza agahava amuhunga, canke akamwirengagiza, nta caha kuri bompi kiri mu kwumvikana gusubiza hamwe, mu gihe umukenyezi yokwemera guheba umusi wo kumutahira, canke bimwe mu vyo yari agenewe, kugira ntibahukane. Ukwumvikana rero gutuma babandanya kubana, ni vyiza cane gusumba ukwahukana, imitima y’abantu na yo burya yaremwe ari ingumyi nta co yikura. Nimwaramuka rero mubanye n’abakenyezi banyu mu bugwaneza, mugaheza mugatinya Imana Allah mu kwubahiriza amabwirizwa yayo ajanye no kwubaka zikaguma, mu vy’ukuri Imana Allah Yamye Izi neza ivyo mukora vyose, ni Muhetuziwavyose, Izonabibahembera.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6053",
-    "sura": "91",
-    "aya": "10",
-    "arabic_text": "وَقَدۡ خَابَ مَن دَسَّىٰهَا",
-    "translation": "അതിനെ കളങ്കപ്പെടുത്തിയവന്‍ തീര്‍ച്ചയായും നിര്‍ഭാഗ്യമടയുകയും ചെയ്തു.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 595,
+  "verse_key": "91:10",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَدۡ خَابَ مَن دَسَّىٰهَا",
+  "translation": "അതിനെ കളങ്കപ്പെടുത്തിയവന്‍ തീര്‍ച്ചയായും നിര്‍ഭാഗ്യമടയുകയും ചെയ്തു.",
+  "footnotes": ""
 }

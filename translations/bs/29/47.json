@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3387",
-    "sura": "29",
-    "aya": "47",
-    "arabic_text": "وَكَذَٰلِكَ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَۚ فَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يُؤۡمِنُونَ بِهِۦۖ وَمِنۡ هَٰٓؤُلَآءِ مَن يُؤۡمِنُ بِهِۦۚ وَمَا يَجۡحَدُ بِـَٔايَٰتِنَآ إِلَّا ٱلۡكَٰفِرُونَ",
-    "translation": "Tako isto i tebi objavljujemo Knjigu, a neki od onih kojima smo već dali Knjigu-i u nju vjeruju, a i među ovima ima onih koji u nju vjeruju, a ajete i dokaze Naše samo nevjernici negiraju.",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 402,
+  "verse_key": "29:47",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَۚ فَٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يُؤۡمِنُونَ بِهِۦۖ وَمِنۡ هَٰٓؤُلَآءِ مَن يُؤۡمِنُ بِهِۦۚ وَمَا يَجۡحَدُ بِـَٔايَٰتِنَآ إِلَّا ٱلۡكَٰفِرُونَ",
+  "translation": "Tako isto i tebi objavljujemo Knjigu, a neki od onih kojima smo već dali Knjigu-i u nju vjeruju, a i među ovima ima onih koji u nju vjeruju, a ajete i dokaze Naše samo nevjernici negiraju.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5130",
-    "sura": "59",
-    "aya": "4",
-    "arabic_text": "ذَٰلِكَ بِأَنَّهُمۡ شَآقُّواْ ٱللَّهَ وَرَسُولَهُۥۖ وَمَن يُشَآقِّ ٱللَّهَ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
-    "translation": "4. That is because they opposed Allâh and His Messenger (Muhammad صلى الله عليه وسلم). And whosoever opposes Allâh, then verily, Allâh is Severe in punishment.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 546,
+  "verse_key": "59:4",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّهُمۡ شَآقُّواْ ٱللَّهَ وَرَسُولَهُۥۖ وَمَن يُشَآقِّ ٱللَّهَ فَإِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+  "translation": "4. That is because they opposed Allâh and His Messenger (Muhammad صلى الله عليه وسلم). And whosoever opposes Allâh, then verily, Allâh is Severe in punishment.",
+  "footnotes": ""
 }

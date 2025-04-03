@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "342",
-    "sura": "3",
-    "aya": "49",
-    "arabic_text": "وَرَسُولًا إِلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ أَنِّي قَدۡ جِئۡتُكُم بِـَٔايَةٖ مِّن رَّبِّكُمۡ أَنِّيٓ أَخۡلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيۡـَٔةِ ٱلطَّيۡرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيۡرَۢا بِإِذۡنِ ٱللَّهِۖ وَأُبۡرِئُ ٱلۡأَكۡمَهَ وَٱلۡأَبۡرَصَ وَأُحۡيِ ٱلۡمَوۡتَىٰ بِإِذۡنِ ٱللَّهِۖ وَأُنَبِّئُكُم بِمَا تَأۡكُلُونَ وَمَا تَدَّخِرُونَ فِي بُيُوتِكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": "Kuma (Ya sanya shi) manzo zuwa ga Bani Isrãila'ĩla (da sãko, cẽwa), Lalle ne, ni haƙĩƙa nã zõ muku, da wata ãyã daga Ubangijinku. Lalle ne ni ina halitta muku daga lãka, kamar siffar tsuntsu sa'an nan in hũra a cikinsa, sai ya kasance tsuntsu, da izinin Allah. Kuma ina warkar da wanda aka haifa makãho da kuturu, kuma ina rãyar da matottu, da izibin Allah. Kuma ina gayã muku abin da kuke ci da abin da kuke ajiyẽwa acikin gidãjenku. Lalle ne, a cikin wannan akwai ãyã a gare ku, idan kun kasance mãsu yin ĩmãni.",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 56,
+  "verse_key": "3:49",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَرَسُولًا إِلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ أَنِّي قَدۡ جِئۡتُكُم بِـَٔايَةٖ مِّن رَّبِّكُمۡ أَنِّيٓ أَخۡلُقُ لَكُم مِّنَ ٱلطِّينِ كَهَيۡـَٔةِ ٱلطَّيۡرِ فَأَنفُخُ فِيهِ فَيَكُونُ طَيۡرَۢا بِإِذۡنِ ٱللَّهِۖ وَأُبۡرِئُ ٱلۡأَكۡمَهَ وَٱلۡأَبۡرَصَ وَأُحۡيِ ٱلۡمَوۡتَىٰ بِإِذۡنِ ٱللَّهِۖ وَأُنَبِّئُكُم بِمَا تَأۡكُلُونَ وَمَا تَدَّخِرُونَ فِي بُيُوتِكُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": "Kuma (Ya sanya shi) manzo zuwa ga Bani Isrãila'ĩla (da sãko, cẽwa), Lalle ne, ni haƙĩƙa nã zõ muku, da wata ãyã daga Ubangijinku. Lalle ne ni ina halitta muku daga lãka, kamar siffar tsuntsu sa'an nan in hũra a cikinsa, sai ya kasance tsuntsu, da izinin Allah. Kuma ina warkar da wanda aka haifa makãho da kuturu, kuma ina rãyar da matottu, da izibin Allah. Kuma ina gayã muku abin da kuke ci da abin da kuke ajiyẽwa acikin gidãjenku. Lalle ne, a cikin wannan akwai ãyã a gare ku, idan kun kasance mãsu yin ĩmãni.",
+  "footnotes": ""
 }

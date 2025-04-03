@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2029",
-    "sura": "16",
-    "aya": "128",
-    "arabic_text": "إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَواْ وَّٱلَّذِينَ هُم مُّحۡسِنُونَ",
-    "translation": "Hakika Mwenyezi Mungu yu pamoja na wenye kumcha, na watendao mema. .",
-    "footnotes": "Kwani hakika Mola wako Mlezi yu pamoja na wale wanao jikinga na ghadhabu ya Mwenyezi Mungu kwa kuyaepuka anayo yakataza, na wakazifanya a'mali zao ziwe nzuri kwa sababu ya Mwenyezi Mungu kwa kukubali kumt'ii. Yeye atawanusuru duniani, na Akhera atawalipa bora ya malipo."
-  }
+  "id": 128,
+  "verse_number": 128,
+  "page_number": 281,
+  "verse_key": "16:128",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ مَعَ ٱلَّذِينَ ٱتَّقَواْ وَّٱلَّذِينَ هُم مُّحۡسِنُونَ",
+  "translation": "Hakika Mwenyezi Mungu yu pamoja na wenye kumcha, na watendao mema. .",
+  "footnotes": "Kwani hakika Mola wako Mlezi yu pamoja na wale wanao jikinga na ghadhabu ya Mwenyezi Mungu kwa kuyaepuka anayo yakataza, na wakazifanya a'mali zao ziwe nzuri kwa sababu ya Mwenyezi Mungu kwa kukubali kumt'ii. Yeye atawanusuru duniani, na Akhera atawalipa bora ya malipo."
 }

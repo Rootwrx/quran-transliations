@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6195",
-    "sura": "106",
-    "aya": "2",
-    "arabic_text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
-    "translation": "2 et leur habitude d’effectuer des voyages en hiver et en été[1609],",
-    "footnotes": "[1609] Des voyages commerciaux effectués l’hivers vers le Yémen et l’été vers la Grande Syrie. Rappelons que la tribu mecquoise de Qouraych vivait essentiellement du négoce qui constituait donc pour elle une immense grâce."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 602,
+  "verse_key": "106:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+  "translation": "2 et leur habitude d’effectuer des voyages en hiver et en été[1609],",
+  "footnotes": "[1609] Des voyages commerciaux effectués l’hivers vers le Yémen et l’été vers la Grande Syrie. Rappelons que la tribu mecquoise de Qouraych vivait essentiellement du négoce qui constituait donc pour elle une immense grâce."
 }

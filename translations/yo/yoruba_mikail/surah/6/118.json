@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "907",
-    "sura": "6",
-    "aya": "118",
-    "arabic_text": "فَكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ إِن كُنتُم بِـَٔايَٰتِهِۦ مُؤۡمِنِينَ",
-    "translation": "Nítorí náà, ẹ jẹ nínú ohun tí wọ́n bá fi orúkọ Allāhu pa, tí ẹ bá gbàgbọ́ nínú àwọn āyah Rẹ̀.",
-    "footnotes": ""
-  }
+  "id": 118,
+  "verse_number": 118,
+  "page_number": 142,
+  "verse_key": "6:118",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ إِن كُنتُم بِـَٔايَٰتِهِۦ مُؤۡمِنِينَ",
+  "translation": "Nítorí náà, ẹ jẹ nínú ohun tí wọ́n bá fi orúkọ Allāhu pa, tí ẹ bá gbàgbọ́ nínú àwọn āyah Rẹ̀.",
+  "footnotes": ""
 }

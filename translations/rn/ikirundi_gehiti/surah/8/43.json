@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1203",
-    "sura": "8",
-    "aya": "43",
-    "arabic_text": "إِذۡ يُرِيكَهُمُ ٱللَّهُ فِي مَنَامِكَ قَلِيلٗاۖ وَلَوۡ أَرَىٰكَهُمۡ كَثِيرٗا لَّفَشِلۡتُمۡ وَلَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
-    "translation": "Muvugishwamana! Ibuka igihe Imana Allah Ikwereka mu ndoto ko igitigiri c’abansi bawe ari gito, ukanabibwira n’abemeramana, gutyo bituma bagira ishaka ryo kuja ku rugamba. Iyo Imana Allah Ikwereka ko igitigiri cabo ari kinini, ingendanyi zawe zari guhazana kuja ku rugamba, bigatuma munanirwa gufata ingingo yo kurujako, ariko rero Imana Allah Yarakinze ntimwananirwa gufata nya ngingo, muraheza murarusimba. Mu vy’ukuri, Imana Allah Irazi ibinyegejwe mu mishaha.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 182,
+  "verse_key": "8:43",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ يُرِيكَهُمُ ٱللَّهُ فِي مَنَامِكَ قَلِيلٗاۖ وَلَوۡ أَرَىٰكَهُمۡ كَثِيرٗا لَّفَشِلۡتُمۡ وَلَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَلَٰكِنَّ ٱللَّهَ سَلَّمَۚ إِنَّهُۥ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "translation": "Muvugishwamana! Ibuka igihe Imana Allah Ikwereka mu ndoto ko igitigiri c’abansi bawe ari gito, ukanabibwira n’abemeramana, gutyo bituma bagira ishaka ryo kuja ku rugamba. Iyo Imana Allah Ikwereka ko igitigiri cabo ari kinini, ingendanyi zawe zari guhazana kuja ku rugamba, bigatuma munanirwa gufata ingingo yo kurujako, ariko rero Imana Allah Yarakinze ntimwananirwa gufata nya ngingo, muraheza murarusimba. Mu vy’ukuri, Imana Allah Irazi ibinyegejwe mu mishaha.",
+  "footnotes": ""
 }

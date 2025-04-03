@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "360",
-    "sura": "3",
-    "aya": "67",
-    "arabic_text": "مَا كَانَ إِبۡرَٰهِيمُ يَهُودِيّٗا وَلَا نَصۡرَانِيّٗا وَلَٰكِن كَانَ حَنِيفٗا مُّسۡلِمٗا وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
-    "translation": "67. Ma uusan ahayn Ibraahiim Yuhuudi ama Nasraani midkoodna9, wuxuuse ahaa toosane, Muslim ah, kamana uu mid aheyn mushrikiinta.",
-    "footnotes": "9. Labada qoloba ee Yuhuudda iyo Nassarada (Kirishtaanka) waxay sheegteen in Ibraahiim uu ka mid yahay xisbigooda, markaasuu Alle ugu jawaab celiyey in Ibraahiim uu ahaa iyaga hortood."
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 58,
+  "verse_key": "3:67",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا كَانَ إِبۡرَٰهِيمُ يَهُودِيّٗا وَلَا نَصۡرَانِيّٗا وَلَٰكِن كَانَ حَنِيفٗا مُّسۡلِمٗا وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+  "translation": "67. Ma uusan ahayn Ibraahiim Yuhuudi ama Nasraani midkoodna9, wuxuuse ahaa toosane, Muslim ah, kamana uu mid aheyn mushrikiinta.",
+  "footnotes": "9. Labada qoloba ee Yuhuudda iyo Nassarada (Kirishtaanka) waxay sheegteen in Ibraahiim uu ka mid yahay xisbigooda, markaasuu Alle ugu jawaab celiyey in Ibraahiim uu ahaa iyaga hortood."
 }

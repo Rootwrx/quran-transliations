@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4264",
-    "sura": "41",
-    "aya": "46",
-    "arabic_text": "مَّنۡ عَمِلَ صَٰلِحٗا فَلِنَفۡسِهِۦۖ وَمَنۡ أَسَآءَ فَعَلَيۡهَاۗ وَمَا رَبُّكَ بِظَلَّٰمٖ لِّلۡعَبِيدِ",
-    "translation": "Anaye tenda mema basi anajitendea mwenyewe nafsi yake, na mwenye kutenda uovu basi ni juu ya nafsi yake vile vile; wala Mola wako Mlezi si mwenye kuwadhulumu waja.",
-    "footnotes": "Mwenye kutenda vitendo vyema ujira wake ataupata mwenyewe, na mwenye kutenda uovu madhambi yake yatakuwa juu yake. Na Mola wako Mlezi si mwenye kuwadhulumu waja wake, hata amtese mtu kwa dhambi za mwengine."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 481,
+  "verse_key": "41:46",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّنۡ عَمِلَ صَٰلِحٗا فَلِنَفۡسِهِۦۖ وَمَنۡ أَسَآءَ فَعَلَيۡهَاۗ وَمَا رَبُّكَ بِظَلَّٰمٖ لِّلۡعَبِيدِ",
+  "translation": "Anaye tenda mema basi anajitendea mwenyewe nafsi yake, na mwenye kutenda uovu basi ni juu ya nafsi yake vile vile; wala Mola wako Mlezi si mwenye kuwadhulumu waja.",
+  "footnotes": "Mwenye kutenda vitendo vyema ujira wake ataupata mwenyewe, na mwenye kutenda uovu madhambi yake yatakuwa juu yake. Na Mola wako Mlezi si mwenye kuwadhulumu waja wake, hata amtese mtu kwa dhambi za mwengine."
 }

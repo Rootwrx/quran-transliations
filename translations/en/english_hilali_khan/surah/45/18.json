@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4491",
-    "sura": "45",
-    "aya": "18",
-    "arabic_text": "ثُمَّ جَعَلۡنَٰكَ عَلَىٰ شَرِيعَةٖ مِّنَ ٱلۡأَمۡرِ فَٱتَّبِعۡهَا وَلَا تَتَّبِعۡ أَهۡوَآءَ ٱلَّذِينَ لَا يَعۡلَمُونَ",
-    "translation": " 18. Then We have put you (O Muhammad صلى الله عليه و سلم) on a (plain) way of (Our) commandment [like the one which We commanded Our Messengers before you (i.e. legal ways and laws of the Islâmic Monotheism)]. So follow you that (Islâmic Monotheism and its laws), and follow not the desires of those who know not. (Tafsir At-Tabarî).",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 500,
+  "verse_key": "45:18",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ جَعَلۡنَٰكَ عَلَىٰ شَرِيعَةٖ مِّنَ ٱلۡأَمۡرِ فَٱتَّبِعۡهَا وَلَا تَتَّبِعۡ أَهۡوَآءَ ٱلَّذِينَ لَا يَعۡلَمُونَ",
+  "translation": " 18. Then We have put you (O Muhammad صلى الله عليه و سلم) on a (plain) way of (Our) commandment [like the one which We commanded Our Messengers before you (i.e. legal ways and laws of the Islâmic Monotheism)]. So follow you that (Islâmic Monotheism and its laws), and follow not the desires of those who know not. (Tafsir At-Tabarî).",
+  "footnotes": ""
 }

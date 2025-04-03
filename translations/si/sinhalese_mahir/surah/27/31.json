@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3190",
-    "sura": "27",
-    "aya": "31",
-    "arabic_text": "أَلَّا تَعۡلُواْ عَلَيَّ وَأۡتُونِي مُسۡلِمِينَ",
-    "translation": "නුඹලා මට එරෙහිව අහංකාර නො වනු. තවද නුඹලා මා වෙත අවනත වන්නන් ලෙසින් පැමිණෙනු.",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 379,
+  "verse_key": "27:31",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَّا تَعۡلُواْ عَلَيَّ وَأۡتُونِي مُسۡلِمِينَ",
+  "translation": "නුඹලා මට එරෙහිව අහංකාර නො වනු. තවද නුඹලා මා වෙත අවනත වන්නන් ලෙසින් පැමිණෙනු.",
+  "footnotes": ""
 }

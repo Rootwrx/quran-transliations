@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2211",
-    "sura": "18",
-    "aya": "71",
-    "arabic_text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِي ٱلسَّفِينَةِ خَرَقَهَاۖ قَالَ أَخَرَقۡتَهَا لِتُغۡرِقَ أَهۡلَهَا لَقَدۡ جِئۡتَ شَيۡـًٔا إِمۡرٗا",
-    "translation": "Nuko bombi baragenda. Bamaze kurira ubwato, (Al Khidiri) arabutobora. (Musa) aramubaza ati “Ese ubwo ubutoboye kugira ngo ababurimo barohame? Rwose ukoze ikintu kibi cyane.”",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 301,
+  "verse_key": "18:71",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱنطَلَقَا حَتَّىٰٓ إِذَا رَكِبَا فِي ٱلسَّفِينَةِ خَرَقَهَاۖ قَالَ أَخَرَقۡتَهَا لِتُغۡرِقَ أَهۡلَهَا لَقَدۡ جِئۡتَ شَيۡـًٔا إِمۡرٗا",
+  "translation": "Nuko bombi baragenda. Bamaze kurira ubwato, (Al Khidiri) arabutobora. (Musa) aramubaza ati “Ese ubwo ubutoboye kugira ngo ababurimo barohame? Rwose ukoze ikintu kibi cyane.”",
+  "footnotes": ""
 }

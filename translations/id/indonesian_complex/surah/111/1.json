@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6217",
-    "sura": "111",
-    "aya": "1",
-    "arabic_text": "تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ",
-    "translation": "Binasalah kedua tangan Abu Lahab1608 dan sesungguhnya dia akan binasa.",
-    "footnotes": "1608.  Yang dimaksud dengan \"ke dua tangan Abu Lahab\" ialah Abu Lahab sendiri. "
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 603,
+  "verse_key": "111:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَبَّتۡ يَدَآ أَبِي لَهَبٖ وَتَبَّ",
+  "translation": "Binasalah kedua tangan Abu Lahab1608 dan sesungguhnya dia akan binasa.",
+  "footnotes": "1608.  Yang dimaksud dengan \"ke dua tangan Abu Lahab\" ialah Abu Lahab sendiri. "
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2950",
-    "sura": "26",
-    "aya": "18",
-    "arabic_text": "قَالَ أَلَمۡ نُرَبِّكَ فِينَا وَلِيدٗا وَلَبِثۡتَ فِينَا مِنۡ عُمُرِكَ سِنِينَ",
-    "translation": "Dia (Fir'aun) menjawab, \"Bukankah kami telah mengasuhmu dalam lingkungan (keluarga) kami, waktu engkau masih kanak-kanak dan engkau tinggal bersama kami beberapa tahun dari umurmu.584)",
-    "footnotes": "*584) Musa tinggal bersama Fir'aun sejak kecil, lebih kurang 18 tahun."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 367,
+  "verse_key": "26:18",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ أَلَمۡ نُرَبِّكَ فِينَا وَلِيدٗا وَلَبِثۡتَ فِينَا مِنۡ عُمُرِكَ سِنِينَ",
+  "translation": "Dia (Fir'aun) menjawab, \"Bukankah kami telah mengasuhmu dalam lingkungan (keluarga) kami, waktu engkau masih kanak-kanak dan engkau tinggal bersama kami beberapa tahun dari umurmu.584)",
+  "footnotes": "*584) Musa tinggal bersama Fir'aun sejak kecil, lebih kurang 18 tahun."
 }

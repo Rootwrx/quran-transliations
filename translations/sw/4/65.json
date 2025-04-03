@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "558",
-    "sura": "4",
-    "aya": "65",
-    "arabic_text": "فَلَا وَرَبِّكَ لَا يُؤۡمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيۡنَهُمۡ ثُمَّ لَا يَجِدُواْ فِيٓ أَنفُسِهِمۡ حَرَجٗا مِّمَّا قَضَيۡتَ وَيُسَلِّمُواْ تَسۡلِيمٗا",
-    "translation": "La! Naapa kwa Mola wako Mlezi! Hawataamini mpaka wakufanye wewe ndiye muamuzi katika yale wanayo khitalifiana, kisha wasione uzito katika nyoyo zao juu ya hukumu utayo toa, na wanyenykee kabisa.",
-    "footnotes": "Naapa kwa jina la Mola wako Mlezi! Hawahisabiwi kuwa ni Waumini wa Haki na wenye kuinyenyekea, mpaka watakapo kufanya wewe hakimu muamuzi wa mizozo inayo tokea baina yao. Kisha nafsi zao zisione dhiki kwa utavyo hukumu, na wakunyenyekee kama wanavyo nyenyekea Waumini wa kweli."
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 88,
+  "verse_key": "4:65",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا وَرَبِّكَ لَا يُؤۡمِنُونَ حَتَّىٰ يُحَكِّمُوكَ فِيمَا شَجَرَ بَيۡنَهُمۡ ثُمَّ لَا يَجِدُواْ فِيٓ أَنفُسِهِمۡ حَرَجٗا مِّمَّا قَضَيۡتَ وَيُسَلِّمُواْ تَسۡلِيمٗا",
+  "translation": "La! Naapa kwa Mola wako Mlezi! Hawataamini mpaka wakufanye wewe ndiye muamuzi katika yale wanayo khitalifiana, kisha wasione uzito katika nyoyo zao juu ya hukumu utayo toa, na wanyenykee kabisa.",
+  "footnotes": "Naapa kwa jina la Mola wako Mlezi! Hawahisabiwi kuwa ni Waumini wa Haki na wenye kuinyenyekea, mpaka watakapo kufanya wewe hakimu muamuzi wa mizozo inayo tokea baina yao. Kisha nafsi zao zisione dhiki kwa utavyo hukumu, na wakunyenyekee kama wanavyo nyenyekea Waumini wa kweli."
 }

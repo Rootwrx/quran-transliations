@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "479",
-    "sura": "3",
-    "aya": "186",
-    "arabic_text": "۞ لَتُبۡلَوُنَّ فِيٓ أَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡ وَلَتَسۡمَعُنَّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ وَمِنَ ٱلَّذِينَ أَشۡرَكُوٓاْ أَذٗى كَثِيرٗاۚ وَإِن تَصۡبِرُواْ وَتَتَّقُواْ فَإِنَّ ذَٰلِكَ مِنۡ عَزۡمِ ٱلۡأُمُورِ",
-    "translation": "Hapana shaka yoyote mtapata misukosuko katika mali zenu na nafsi zenu, na bila ya shaka yoyote mtasikia udhia mwingi kutokana na walio pewa Kitabu kabla yenu na wale walio shiriki. Na ikiwa mtasubiri na mkamchamungu basi hakika hayo ni katika mambo ya kuazimia.",
-    "footnotes": "Kuweni na yakini, enyi Waumini, kuwa mtapata mitihani na majaribio katika mali yenu, kwa kupungua, kutoa au kunyang'anywa, na katika nafsi zenu kwa Jihadi au kuuwawa au kwa maradhi na machungu. Na kadhaalika mtasikia kutokana na Mayahudi na Wakristo na mapagani, washirikina, matusi na uchokozi wa kukuudhini. Na mkiyakaabili hayo kwa kuvumilia na kumcha Mwenyezi Mungu basi itakuwa ni katika mambo mema yanayo wajibika kuazimia kuyatimiliza."
-  }
+  "id": 186,
+  "verse_number": 186,
+  "page_number": 74,
+  "verse_key": "3:186",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ لَتُبۡلَوُنَّ فِيٓ أَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡ وَلَتَسۡمَعُنَّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ وَمِنَ ٱلَّذِينَ أَشۡرَكُوٓاْ أَذٗى كَثِيرٗاۚ وَإِن تَصۡبِرُواْ وَتَتَّقُواْ فَإِنَّ ذَٰلِكَ مِنۡ عَزۡمِ ٱلۡأُمُورِ",
+  "translation": "Hapana shaka yoyote mtapata misukosuko katika mali zenu na nafsi zenu, na bila ya shaka yoyote mtasikia udhia mwingi kutokana na walio pewa Kitabu kabla yenu na wale walio shiriki. Na ikiwa mtasubiri na mkamchamungu basi hakika hayo ni katika mambo ya kuazimia.",
+  "footnotes": "Kuweni na yakini, enyi Waumini, kuwa mtapata mitihani na majaribio katika mali yenu, kwa kupungua, kutoa au kunyang'anywa, na katika nafsi zenu kwa Jihadi au kuuwawa au kwa maradhi na machungu. Na kadhaalika mtasikia kutokana na Mayahudi na Wakristo na mapagani, washirikina, matusi na uchokozi wa kukuudhini. Na mkiyakaabili hayo kwa kuvumilia na kumcha Mwenyezi Mungu basi itakuwa ni katika mambo mema yanayo wajibika kuazimia kuyatimiliza."
 }

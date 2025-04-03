@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "713",
-    "sura": "5",
-    "aya": "44",
-    "arabic_text": "إِنَّآ أَنزَلۡنَا ٱلتَّوۡرَىٰةَ فِيهَا هُدٗى وَنُورٞۚ يَحۡكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسۡلَمُواْ لِلَّذِينَ هَادُواْ وَٱلرَّبَّٰنِيُّونَ وَٱلۡأَحۡبَارُ بِمَا ٱسۡتُحۡفِظُواْ مِن كِتَٰبِ ٱللَّهِ وَكَانُواْ عَلَيۡهِ شُهَدَآءَۚ فَلَا تَخۡشَوُاْ ٱلنَّاسَ وَٱخۡشَوۡنِ وَلَا تَشۡتَرُواْ بِـَٔايَٰتِي ثَمَنٗا قَلِيلٗاۚ وَمَن لَّمۡ يَحۡكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَٰٓئِكَ هُمُ ٱلۡكَٰفِرُونَ",
-    "translation": "Nous avons fait descendre la Thora dans laquelle il y a guide et lumière. C’est sur sa base que les Prophètes qui se sont soumis à Allah, ainsi que les rabbins et les docteurs jugent les affaires des Juifs. Car on leur a confié la garde du Livre d’Allah, et ils en sont les témoins . Ne craignez donc pas les gens, mais craignez Moi. Et ne vendez pas Mes enseignements à vil prix. Et ceux qui ne jugent pas d’après ce qu’Allah a fait descendre, les voilà les mécréants.",
-    "footnotes": "[251] Témoins: de l’application correcte des injonctions de la Thora."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 115,
+  "verse_key": "5:44",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 46,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَنزَلۡنَا ٱلتَّوۡرَىٰةَ فِيهَا هُدٗى وَنُورٞۚ يَحۡكُمُ بِهَا ٱلنَّبِيُّونَ ٱلَّذِينَ أَسۡلَمُواْ لِلَّذِينَ هَادُواْ وَٱلرَّبَّٰنِيُّونَ وَٱلۡأَحۡبَارُ بِمَا ٱسۡتُحۡفِظُواْ مِن كِتَٰبِ ٱللَّهِ وَكَانُواْ عَلَيۡهِ شُهَدَآءَۚ فَلَا تَخۡشَوُاْ ٱلنَّاسَ وَٱخۡشَوۡنِ وَلَا تَشۡتَرُواْ بِـَٔايَٰتِي ثَمَنٗا قَلِيلٗاۚ وَمَن لَّمۡ يَحۡكُم بِمَآ أَنزَلَ ٱللَّهُ فَأُوْلَٰٓئِكَ هُمُ ٱلۡكَٰفِرُونَ",
+  "translation": "Nous avons fait descendre la Thora dans laquelle il y a guide et lumière. C’est sur sa base que les Prophètes qui se sont soumis à Allah, ainsi que les rabbins et les docteurs jugent les affaires des Juifs. Car on leur a confié la garde du Livre d’Allah, et ils en sont les témoins . Ne craignez donc pas les gens, mais craignez Moi. Et ne vendez pas Mes enseignements à vil prix. Et ceux qui ne jugent pas d’après ce qu’Allah a fait descendre, les voilà les mécréants.",
+  "footnotes": "[251] Témoins: de l’application correcte des injonctions de la Thora."
 }

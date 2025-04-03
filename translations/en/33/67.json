@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3600",
-    "sura": "33",
-    "aya": "67",
-    "arabic_text": "وَقَالُواْ رَبَّنَآ إِنَّآ أَطَعۡنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠",
-    "translation": "(67) And they will say, \"Our Lord, indeed we obeyed our masters and our dignitaries,[1213] and they led us astray from the [right] way.",
-    "footnotes": "[1213]- Also interpreted to mean \"our noble ones and our elders [i.e., distinguished scholars].\""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 427,
+  "verse_key": "33:67",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ رَبَّنَآ إِنَّآ أَطَعۡنَا سَادَتَنَا وَكُبَرَآءَنَا فَأَضَلُّونَا ٱلسَّبِيلَا۠",
+  "translation": "(67) And they will say, \"Our Lord, indeed we obeyed our masters and our dignitaries,[1213] and they led us astray from the [right] way.",
+  "footnotes": "[1213]- Also interpreted to mean \"our noble ones and our elders [i.e., distinguished scholars].\""
 }

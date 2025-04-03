@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "711",
-    "sura": "5",
-    "aya": "42",
-    "arabic_text": "سَمَّٰعُونَ لِلۡكَذِبِ أَكَّٰلُونَ لِلسُّحۡتِۚ فَإِن جَآءُوكَ فَٱحۡكُم بَيۡنَهُمۡ أَوۡ أَعۡرِضۡ عَنۡهُمۡۖ وَإِن تُعۡرِضۡ عَنۡهُمۡ فَلَن يَضُرُّوكَ شَيۡـٔٗاۖ وَإِنۡ حَكَمۡتَ فَٱحۡكُم بَيۡنَهُم بِٱلۡقِسۡطِۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُقۡسِطِينَ",
-    "translation": "Mãsu yawan saurãre* ga ƙarya ne, mãsu yawan ci ga haram, to, idan sun zo maka, sai ka yi hukunci a tsakãninsu kõ ka bijira daga gare su. Kuma idan ka bijira daga gare su, to, bã zã su cuce ka da kõme ba, kuma idan ka yi hukunci, to, sai ka hukunta a tsakãninsu da ãdalci. Lalle ne, Allah Yanã son mãsu ãdalci.",
-    "footnotes": "* An bai wa Annabi zaɓi da ya yi hukunci ko kada ya yi, a tsakãnin kafirai biyu idan sun yarda da hukuncinsa. Wannan dãmã tana aiki a kotunan Musulmi ga abin da ya shafi haƙƙoƙi kawai, amma ga 'jara'im a ƙasar Musulmi tilas sai a bi shari'ar Musulunci domin tsaron aminci, sai dai kafiri yana iya shan giyarsa, ga misãli a ɓoye banda a cikin jama'a. Haka kuma laifuka na al'adunsu kuma Musulmi bã za su taɓa masu su ba, sai su yi hukuncinsu a tsakãninsu."
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 115,
+  "verse_key": "5:42",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 46,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَمَّٰعُونَ لِلۡكَذِبِ أَكَّٰلُونَ لِلسُّحۡتِۚ فَإِن جَآءُوكَ فَٱحۡكُم بَيۡنَهُمۡ أَوۡ أَعۡرِضۡ عَنۡهُمۡۖ وَإِن تُعۡرِضۡ عَنۡهُمۡ فَلَن يَضُرُّوكَ شَيۡـٔٗاۖ وَإِنۡ حَكَمۡتَ فَٱحۡكُم بَيۡنَهُم بِٱلۡقِسۡطِۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُقۡسِطِينَ",
+  "translation": "Mãsu yawan saurãre* ga ƙarya ne, mãsu yawan ci ga haram, to, idan sun zo maka, sai ka yi hukunci a tsakãninsu kõ ka bijira daga gare su. Kuma idan ka bijira daga gare su, to, bã zã su cuce ka da kõme ba, kuma idan ka yi hukunci, to, sai ka hukunta a tsakãninsu da ãdalci. Lalle ne, Allah Yanã son mãsu ãdalci.",
+  "footnotes": "* An bai wa Annabi zaɓi da ya yi hukunci ko kada ya yi, a tsakãnin kafirai biyu idan sun yarda da hukuncinsa. Wannan dãmã tana aiki a kotunan Musulmi ga abin da ya shafi haƙƙoƙi kawai, amma ga 'jara'im a ƙasar Musulmi tilas sai a bi shari'ar Musulunci domin tsaron aminci, sai dai kafiri yana iya shan giyarsa, ga misãli a ɓoye banda a cikin jama'a. Haka kuma laifuka na al'adunsu kuma Musulmi bã za su taɓa masu su ba, sai su yi hukuncinsu a tsakãninsu."
 }

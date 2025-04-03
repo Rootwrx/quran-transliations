@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5738",
-    "sura": "79",
-    "aya": "26",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّمَن يَخۡشَىٰٓ",
-    "translation": "Mu vy’ukuri inyifato ya Firawuni n’ivyamushikiye, harimwo inkebuzo ku bantu batinya ibihano vy'Imana Allah.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 584,
+  "verse_key": "79:26",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّمَن يَخۡشَىٰٓ",
+  "translation": "Mu vy’ukuri inyifato ya Firawuni n’ivyamushikiye, harimwo inkebuzo ku bantu batinya ibihano vy'Imana Allah.",
+  "footnotes": ""
 }

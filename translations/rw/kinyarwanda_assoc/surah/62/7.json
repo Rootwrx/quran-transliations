@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5184",
-    "sura": "62",
-    "aya": "7",
-    "arabic_text": "وَلَا يَتَمَنَّوۡنَهُۥٓ أَبَدَۢا بِمَا قَدَّمَتۡ أَيۡدِيهِمۡۚ وَٱللَّهُ عَلِيمُۢ بِٱلظَّٰلِمِينَ",
-    "translation": "Nyamara rwose ntibarwifuza na gato kubera ibyo bakoze (bibi). Kandi Allah azi neza inkozi z’ibibi.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 553,
+  "verse_key": "62:7",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 221,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَتَمَنَّوۡنَهُۥٓ أَبَدَۢا بِمَا قَدَّمَتۡ أَيۡدِيهِمۡۚ وَٱللَّهُ عَلِيمُۢ بِٱلظَّٰلِمِينَ",
+  "translation": "Nyamara rwose ntibarwifuza na gato kubera ibyo bakoze (bibi). Kandi Allah azi neza inkozi z’ibibi.",
+  "footnotes": ""
 }

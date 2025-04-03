@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4201",
-    "sura": "40",
-    "aya": "68",
-    "arabic_text": "هُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُۖ فَإِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
-    "translation": "Òun ni Ẹni tí ń sọ ẹ̀dá di alààyè. Ó sì ń sọ ẹ̀dá di òkú. Nígbà tí Ó bá sì pèbùbù kiní kan, Ó kàn máa sọ fún un pé: “Jẹ́ bẹ́ẹ̀.” Ó sì máa jẹ́ bẹ́ẹ̀.",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 475,
+  "verse_key": "40:68",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي يُحۡيِۦ وَيُمِيتُۖ فَإِذَا قَضَىٰٓ أَمۡرٗا فَإِنَّمَا يَقُولُ لَهُۥ كُن فَيَكُونُ",
+  "translation": "Òun ni Ẹni tí ń sọ ẹ̀dá di alààyè. Ó sì ń sọ ẹ̀dá di òkú. Nígbà tí Ó bá sì pèbùbù kiní kan, Ó kàn máa sọ fún un pé: “Jẹ́ bẹ́ẹ̀.” Ó sì máa jẹ́ bẹ́ẹ̀.",
+  "footnotes": ""
 }

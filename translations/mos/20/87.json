@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2435",
-    "sura": "20",
-    "aya": "87",
-    "arabic_text": "قَالُواْ مَآ أَخۡلَفۡنَا مَوۡعِدَكَ بِمَلۡكِنَا وَلَٰكِنَّا حُمِّلۡنَآ أَوۡزَارٗا مِّن زِينَةِ ٱلۡقَوۡمِ فَقَذَفۡنَٰهَا فَكَذَٰلِكَ أَلۡقَى ٱلسَّامِرِيُّ",
-    "translation": "La b yeel yã: \" tõnd pa bas fo pʋlengã pʋgb ne tõnd tõog ye, la ad b tʋka tõnd zɩɩb sẽn yɑɑ ɑ Fɩr-ɑoon nebã nɑg-teedo tɩ d kong n lob-ɑ bokẽ wã, yaa woto la a Saamiriyy me lob (a rẽndã).",
-    "footnotes": ""
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 317,
+  "verse_key": "20:87",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ مَآ أَخۡلَفۡنَا مَوۡعِدَكَ بِمَلۡكِنَا وَلَٰكِنَّا حُمِّلۡنَآ أَوۡزَارٗا مِّن زِينَةِ ٱلۡقَوۡمِ فَقَذَفۡنَٰهَا فَكَذَٰلِكَ أَلۡقَى ٱلسَّامِرِيُّ",
+  "translation": "La b yeel yã: \" tõnd pa bas fo pʋlengã pʋgb ne tõnd tõog ye, la ad b tʋka tõnd zɩɩb sẽn yɑɑ ɑ Fɩr-ɑoon nebã nɑg-teedo tɩ d kong n lob-ɑ bokẽ wã, yaa woto la a Saamiriyy me lob (a rẽndã).",
+  "footnotes": ""
 }

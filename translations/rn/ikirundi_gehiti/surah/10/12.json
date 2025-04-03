@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1376",
-    "sura": "10",
-    "aya": "12",
-    "arabic_text": "وَإِذَا مَسَّ ٱلۡإِنسَٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوۡ قَاعِدًا أَوۡ قَآئِمٗا فَلَمَّا كَشَفۡنَا عَنۡهُ ضُرَّهُۥ مَرَّ كَأَن لَّمۡ يَدۡعُنَآ إِلَىٰ ضُرّٖ مَّسَّهُۥۚ كَذَٰلِكَ زُيِّنَ لِلۡمُسۡرِفِينَ مَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Iyo umuntu akozweko n’ivyago, aca adusaba Twebwe Allah adutakambira ngo Tubimukureko, nta ko atagira mu kudutaka mu buryo bwose; yaba mu gihe akitse urubavu, mu gihe yicaye canke ahagaze; Turamutse rero Tumukuyeko nya vyago vyamushikiye, aca abandanya mu ngeso mbi nk’uko yari ari nya vyago bitaramushikira; womenga ntiyigeze atwitabaza ngo ashoke adushimira! Ni nk’uko nyene rero - uwushikiwe n’ivyago aryoherezwa kubandanya kugarariza inyuma yo kubimukurako - shetani iryohereza abimonogoje mu bugarariji, kubandanya bagarariza.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 209,
+  "verse_key": "10:12",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا مَسَّ ٱلۡإِنسَٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوۡ قَاعِدًا أَوۡ قَآئِمٗا فَلَمَّا كَشَفۡنَا عَنۡهُ ضُرَّهُۥ مَرَّ كَأَن لَّمۡ يَدۡعُنَآ إِلَىٰ ضُرّٖ مَّسَّهُۥۚ كَذَٰلِكَ زُيِّنَ لِلۡمُسۡرِفِينَ مَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Iyo umuntu akozweko n’ivyago, aca adusaba Twebwe Allah adutakambira ngo Tubimukureko, nta ko atagira mu kudutaka mu buryo bwose; yaba mu gihe akitse urubavu, mu gihe yicaye canke ahagaze; Turamutse rero Tumukuyeko nya vyago vyamushikiye, aca abandanya mu ngeso mbi nk’uko yari ari nya vyago bitaramushikira; womenga ntiyigeze atwitabaza ngo ashoke adushimira! Ni nk’uko nyene rero - uwushikiwe n’ivyago aryoherezwa kubandanya kugarariza inyuma yo kubimukurako - shetani iryohereza abimonogoje mu bugarariji, kubandanya bagarariza.",
+  "footnotes": ""
 }

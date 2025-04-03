@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3987",
-    "sura": "38",
-    "aya": "17",
-    "arabic_text": "ٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱذۡكُرۡ عَبۡدَنَا دَاوُۥدَ ذَا ٱلۡأَيۡدِۖ إِنَّهُۥٓ أَوَّابٌ",
-    "translation": "Subiri kwa hayo wayasemayo, na umkumbuke mja wetu Daudi, mwenye nguvu. Hakika yeye alikuwa mwingi wa kutubia.",
-    "footnotes": "Ewe Muhammad! Yastahamilie hayo wanayo yasema juu yako washirikina. Na mkumbuke mja wetu, Daudi, mwenye nguvu katika Dini na dunia. Hakika yeye alikuwa mwingi wa kurejea kwa Mwenyezi Mungu katika hali zote."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 454,
+  "verse_key": "38:17",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَٱذۡكُرۡ عَبۡدَنَا دَاوُۥدَ ذَا ٱلۡأَيۡدِۖ إِنَّهُۥٓ أَوَّابٌ",
+  "translation": "Subiri kwa hayo wayasemayo, na umkumbuke mja wetu Daudi, mwenye nguvu. Hakika yeye alikuwa mwingi wa kutubia.",
+  "footnotes": "Ewe Muhammad! Yastahamilie hayo wanayo yasema juu yako washirikina. Na mkumbuke mja wetu, Daudi, mwenye nguvu katika Dini na dunia. Hakika yeye alikuwa mwingi wa kurejea kwa Mwenyezi Mungu katika hali zote."
 }

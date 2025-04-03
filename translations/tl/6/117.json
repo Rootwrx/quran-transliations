@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "906",
-    "sura": "6",
-    "aya": "117",
-    "arabic_text": "إِنَّ رَبَّكَ هُوَ أَعۡلَمُ مَن يَضِلُّ عَن سَبِيلِهِۦۖ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
-    "translation": "Tunay na ang Panginoon mo ay higit na maalam sa sinumang naliligaw palayo sa landas Niya. Siya ay higit na maalam sa mga napatnubayan.",
-    "footnotes": ""
-  }
+  "id": 117,
+  "verse_number": 117,
+  "page_number": 142,
+  "verse_key": "6:117",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ رَبَّكَ هُوَ أَعۡلَمُ مَن يَضِلُّ عَن سَبِيلِهِۦۖ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+  "translation": "Tunay na ang Panginoon mo ay higit na maalam sa sinumang naliligaw palayo sa landas Niya. Siya ay higit na maalam sa mga napatnubayan.",
+  "footnotes": ""
 }

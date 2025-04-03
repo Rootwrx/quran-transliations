@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5112",
-    "sura": "58",
-    "aya": "8",
-    "arabic_text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ نُهُواْ عَنِ ٱلنَّجۡوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُواْ عَنۡهُ وَيَتَنَٰجَوۡنَ بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَمَعۡصِيَتِ ٱلرَّسُولِۖ وَإِذَا جَآءُوكَ حَيَّوۡكَ بِمَا لَمۡ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِيٓ أَنفُسِهِمۡ لَوۡلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُۚ حَسۡبُهُمۡ جَهَنَّمُ يَصۡلَوۡنَهَاۖ فَبِئۡسَ ٱلۡمَصِيرُ",
-    "translation": "Ese ntiwabonye ababujijwe kugirana ibiganiro byo mu ibanga, nyuma bagasubira ku byo babujijwe, bakagirana ibiganiro mu ibanga bigamije icyaha n’ubugome ndetse no kwigomeka ku Ntumwa (Muhamadi)? N’iyo baje bagusanga, bagusuhuza mu ndamutso Allah atagusuhujemo, maze mu mitima yabo bakigamba bati “Kubera iki Allah ataduhanira ibyo tuvuga?” Umuriro wa Jahanamu urabahagije, bazawutwikirwamo kandi ni wo herezo ribi.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 543,
+  "verse_key": "58:8",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 217,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ نُهُواْ عَنِ ٱلنَّجۡوَىٰ ثُمَّ يَعُودُونَ لِمَا نُهُواْ عَنۡهُ وَيَتَنَٰجَوۡنَ بِٱلۡإِثۡمِ وَٱلۡعُدۡوَٰنِ وَمَعۡصِيَتِ ٱلرَّسُولِۖ وَإِذَا جَآءُوكَ حَيَّوۡكَ بِمَا لَمۡ يُحَيِّكَ بِهِ ٱللَّهُ وَيَقُولُونَ فِيٓ أَنفُسِهِمۡ لَوۡلَا يُعَذِّبُنَا ٱللَّهُ بِمَا نَقُولُۚ حَسۡبُهُمۡ جَهَنَّمُ يَصۡلَوۡنَهَاۖ فَبِئۡسَ ٱلۡمَصِيرُ",
+  "translation": "Ese ntiwabonye ababujijwe kugirana ibiganiro byo mu ibanga, nyuma bagasubira ku byo babujijwe, bakagirana ibiganiro mu ibanga bigamije icyaha n’ubugome ndetse no kwigomeka ku Ntumwa (Muhamadi)? N’iyo baje bagusanga, bagusuhuza mu ndamutso Allah atagusuhujemo, maze mu mitima yabo bakigamba bati “Kubera iki Allah ataduhanira ibyo tuvuga?” Umuriro wa Jahanamu urabahagije, bazawutwikirwamo kandi ni wo herezo ribi.",
+  "footnotes": ""
 }

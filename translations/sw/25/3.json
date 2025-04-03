@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2858",
-    "sura": "25",
-    "aya": "3",
-    "arabic_text": "وَٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗ لَّا يَخۡلُقُونَ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ وَلَا يَمۡلِكُونَ لِأَنفُسِهِمۡ ضَرّٗا وَلَا نَفۡعٗا وَلَا يَمۡلِكُونَ مَوۡتٗا وَلَا حَيَوٰةٗ وَلَا نُشُورٗا",
-    "translation": "Na wamechukua badala yake miungu ambayo haiumbi chochote, bali hiyo inaumbwa, haijimilikii nafsi zao madhara wala manufaa, wala haimiliki mauti, wala uhai, wala kufufuka.",
-    "footnotes": "Na juu ya yote hayo makafiri wakaacha kumuabudu Yeye, wakenda kuchukua miungu mingine kuiabudu badala ya Mwenyezi Mungu, katika masanamu, na nyota, na watu. Na hao hawanalo waliwezalo kuliumba, bali wao ni viumbe vya Mwenyezi Mungu. Wala hawawezi kujikinga nafsi zao na madhara, wala kujiletea kheri. Wala hawawezi kumfisha yeyote wala kumhuisha, wala kuwafufua maiti kutoka makaburini kwao. Na kila asiye miliki lolote katika hayo basi hastahiki kuabudiwa. Na mjinga wa kutupwa anaye waabudu. Mwenye kustahiki kuabudiwa ni yule Mwenye kumiliki haya yote."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 360,
+  "verse_key": "25:3",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗ لَّا يَخۡلُقُونَ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ وَلَا يَمۡلِكُونَ لِأَنفُسِهِمۡ ضَرّٗا وَلَا نَفۡعٗا وَلَا يَمۡلِكُونَ مَوۡتٗا وَلَا حَيَوٰةٗ وَلَا نُشُورٗا",
+  "translation": "Na wamechukua badala yake miungu ambayo haiumbi chochote, bali hiyo inaumbwa, haijimilikii nafsi zao madhara wala manufaa, wala haimiliki mauti, wala uhai, wala kufufuka.",
+  "footnotes": "Na juu ya yote hayo makafiri wakaacha kumuabudu Yeye, wakenda kuchukua miungu mingine kuiabudu badala ya Mwenyezi Mungu, katika masanamu, na nyota, na watu. Na hao hawanalo waliwezalo kuliumba, bali wao ni viumbe vya Mwenyezi Mungu. Wala hawawezi kujikinga nafsi zao na madhara, wala kujiletea kheri. Wala hawawezi kumfisha yeyote wala kumhuisha, wala kuwafufua maiti kutoka makaburini kwao. Na kila asiye miliki lolote katika hayo basi hastahiki kuabudiwa. Na mjinga wa kutupwa anaye waabudu. Mwenye kustahiki kuabudiwa ni yule Mwenye kumiliki haya yote."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3060",
-    "sura": "26",
-    "aya": "128",
-    "arabic_text": "أَتَبۡنُونَ بِكُلِّ رِيعٍ ءَايَةٗ تَعۡبَثُونَ",
-    "translation": "Je! Mnajenga juu ya kila mnyanyuko kumbusho la kufanyia upuuzi?",
-    "footnotes": "Je! Mnasimamisha juu ya kila pahala palipo nyanyuka katika nchi jengo refu kwa ajili ya kujifakhirisha, na mnakutana humo kwa mambo ya upuuzi na fisadi? Mwenyezi Mungu Subhanahu anataka kwa haya kuwazindua watende yatakayo wanufaisha, na anawatahayarisha kwa kuacha kwao Imani na vitendo vyema."
-  }
+  "id": 128,
+  "verse_number": 128,
+  "page_number": 372,
+  "verse_key": "26:128",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَتَبۡنُونَ بِكُلِّ رِيعٍ ءَايَةٗ تَعۡبَثُونَ",
+  "translation": "Je! Mnajenga juu ya kila mnyanyuko kumbusho la kufanyia upuuzi?",
+  "footnotes": "Je! Mnasimamisha juu ya kila pahala palipo nyanyuka katika nchi jengo refu kwa ajili ya kujifakhirisha, na mnakutana humo kwa mambo ya upuuzi na fisadi? Mwenyezi Mungu Subhanahu anataka kwa haya kuwazindua watende yatakayo wanufaisha, na anawatahayarisha kwa kuacha kwao Imani na vitendo vyema."
 }

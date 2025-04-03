@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2200",
-    "sura": "18",
-    "aya": "60",
-    "arabic_text": "وَإِذۡ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبۡرَحُ حَتَّىٰٓ أَبۡلُغَ مَجۡمَعَ ٱلۡبَحۡرَيۡنِ أَوۡ أَمۡضِيَ حُقُبٗا",
-    "translation": "(Rántí) nígbà tí (Ànábì) Mūsā sọ fún ọmọ-ọ̀dọ̀ rẹ̀ pé: “Èmi kò níí yé rìn títí mo máa fi dé ibi tí odò méjì ti papọ̀ tàbí (títí) mo máa fi lo ọ̀pọ̀lọ́pọ̀ ọdún.”",
-    "footnotes": ""
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 300,
+  "verse_key": "18:60",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ مُوسَىٰ لِفَتَىٰهُ لَآ أَبۡرَحُ حَتَّىٰٓ أَبۡلُغَ مَجۡمَعَ ٱلۡبَحۡرَيۡنِ أَوۡ أَمۡضِيَ حُقُبٗا",
+  "translation": "(Rántí) nígbà tí (Ànábì) Mūsā sọ fún ọmọ-ọ̀dọ̀ rẹ̀ pé: “Èmi kò níí yé rìn títí mo máa fi dé ibi tí odò méjì ti papọ̀ tàbí (títí) mo máa fi lo ọ̀pọ̀lọ́pọ̀ ọdún.”",
+  "footnotes": ""
 }

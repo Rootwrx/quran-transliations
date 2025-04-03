@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "573",
-    "sura": "4",
-    "aya": "80",
-    "arabic_text": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدۡ أَطَاعَ ٱللَّهَۖ وَمَن تَوَلَّىٰ فَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظٗا",
-    "translation": "80. Barang siapa menaati Rasul (Muhammad), maka sesungguhnya dia telah menaati Allah. Dan barang siapa berpaling (dari ketaatan itu), maka (ketahuilah) Kami tidak mengutusmu (Muhammad) untuk menjadi pemelihara mereka.*(207)",
-    "footnotes": "*207). Rasul tidak bertanggung jawab terhadap perbuatan-perbuatan mereka dan tidak menjamin agar mereka tidak berbuat kesalahan."
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 91,
+  "verse_key": "4:80",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّن يُطِعِ ٱلرَّسُولَ فَقَدۡ أَطَاعَ ٱللَّهَۖ وَمَن تَوَلَّىٰ فَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ حَفِيظٗا",
+  "translation": "80. Barang siapa menaati Rasul (Muhammad), maka sesungguhnya dia telah menaati Allah. Dan barang siapa berpaling (dari ketaatan itu), maka (ketahuilah) Kami tidak mengutusmu (Muhammad) untuk menjadi pemelihara mereka.*(207)",
+  "footnotes": "*207). Rasul tidak bertanggung jawab terhadap perbuatan-perbuatan mereka dan tidak menjamin agar mereka tidak berbuat kesalahan."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3508",
-    "sura": "32",
-    "aya": "5",
-    "arabic_text": "يُدَبِّرُ ٱلۡأَمۡرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلۡأَرۡضِ ثُمَّ يَعۡرُجُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥٓ أَلۡفَ سَنَةٖ مِّمَّا تَعُدُّونَ",
-    "translation": "Ó ń ṣètò ọ̀rọ̀ (ẹ̀dá) láti sánmọ̀ wá sórí ilẹ̀. Lẹ́yìn náà, (àbọ̀ ọ̀rọ̀ ẹ̀dá) yóò gùnkè tọ̀ Ọ́ lọ láààrin ọjọ́ kan tí òdiwọ̀n rẹ̀ tó ẹgbẹ̀rún ọdún nínú òǹkà tí ẹ̀ ń kà.[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Hajj; 22:47."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 415,
+  "verse_key": "32:5",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُدَبِّرُ ٱلۡأَمۡرَ مِنَ ٱلسَّمَآءِ إِلَى ٱلۡأَرۡضِ ثُمَّ يَعۡرُجُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥٓ أَلۡفَ سَنَةٖ مِّمَّا تَعُدُّونَ",
+  "translation": "Ó ń ṣètò ọ̀rọ̀ (ẹ̀dá) láti sánmọ̀ wá sórí ilẹ̀. Lẹ́yìn náà, (àbọ̀ ọ̀rọ̀ ẹ̀dá) yóò gùnkè tọ̀ Ọ́ lọ láààrin ọjọ́ kan tí òdiwọ̀n rẹ̀ tó ẹgbẹ̀rún ọdún nínú òǹkà tí ẹ̀ ń kà.[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Hajj; 22:47."
 }

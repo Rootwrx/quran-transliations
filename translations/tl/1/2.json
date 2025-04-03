@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2",
-    "sura": "1",
-    "aya": "2",
-    "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "Ang papuri ay ukol kay Allāh, ang Panginoon[2] ng mga nilalang,[3]",
-    "footnotes": "[2] Ang Panginoon (Rabb sa wikang Arabe) ay ang Tagapag-alaga, ang Tagalikha, ang Tagapagtustos, at ang Tagapangsiwa.\n[3] Ang nilalang (`ālam sa wikang Arabe) ay ang bawat anumang iba pa kay Allāh, gaya ng tao, jinn, anghel, at iba pa."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 1,
+  "verse_key": "1:2",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَمۡدُ لِلَّهِ رَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "Ang papuri ay ukol kay Allāh, ang Panginoon[2] ng mga nilalang,[3]",
+  "footnotes": "[2] Ang Panginoon (Rabb sa wikang Arabe) ay ang Tagapag-alaga, ang Tagalikha, ang Tagapagtustos, at ang Tagapangsiwa.\n[3] Ang nilalang (`ālam sa wikang Arabe) ay ang bawat anumang iba pa kay Allāh, gaya ng tao, jinn, anghel, at iba pa."
 }

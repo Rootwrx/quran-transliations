@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5046",
-    "sura": "56",
-    "aya": "67",
-    "arabic_text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
-    "translation": "“மாறாக, நாங்கள் பெரும் இழப்புக்குள்ளானவர்கள்” (என்றும் அப்போது நீங்கள் கூறுவீர்கள்).",
-    "footnotes": ""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 536,
+  "verse_key": "56:67",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ نَحۡنُ مَحۡرُومُونَ",
+  "translation": "“மாறாக, நாங்கள் பெரும் இழப்புக்குள்ளானவர்கள்” (என்றும் அப்போது நீங்கள் கூறுவீர்கள்).",
+  "footnotes": ""
 }

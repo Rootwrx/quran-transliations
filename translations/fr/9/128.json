@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1363",
-    "sura": "9",
-    "aya": "128",
-    "arabic_text": "لَقَدۡ جَآءَكُمۡ رَسُولٞ مِّنۡ أَنفُسِكُمۡ عَزِيزٌ عَلَيۡهِ مَا عَنِتُّمۡ حَرِيصٌ عَلَيۡكُم بِٱلۡمُؤۡمِنِينَ رَءُوفٞ رَّحِيمٞ",
-    "translation": "Certes, un Messager pris parmi vous, est venu à vous, auquel pèsent lourd les difficultés que vous subissez, qui est plein de sollicitude pour vous, qui est compatissant et miséricordieux envers les croyants.",
-    "footnotes": ""
-  }
+  "id": 128,
+  "verse_number": 128,
+  "page_number": 207,
+  "verse_key": "9:128",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ جَآءَكُمۡ رَسُولٞ مِّنۡ أَنفُسِكُمۡ عَزِيزٌ عَلَيۡهِ مَا عَنِتُّمۡ حَرِيصٌ عَلَيۡكُم بِٱلۡمُؤۡمِنِينَ رَءُوفٞ رَّحِيمٞ",
+  "translation": "Certes, un Messager pris parmi vous, est venu à vous, auquel pèsent lourd les difficultés que vous subissez, qui est plein de sollicitude pour vous, qui est compatissant et miséricordieux envers les croyants.",
+  "footnotes": ""
 }

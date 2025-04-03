@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5005",
-    "sura": "56",
-    "aya": "26",
-    "arabic_text": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا",
-    "translation": "Sai dai wata magana (mai dãɗi): Salãmun, Salãmun.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 535,
+  "verse_key": "56:26",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا قِيلٗا سَلَٰمٗا سَلَٰمٗا",
+  "translation": "Sai dai wata magana (mai dãɗi): Salãmun, Salãmun.",
+  "footnotes": ""
 }

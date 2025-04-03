@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4772",
-    "sura": "52",
-    "aya": "37",
-    "arabic_text": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۜيۡطِرُونَ",
-    "translation": "Hay phải chăng chúng nắm giữ các kho tàng của Thượng Đế của Ngươi? Hoặc phải chăng chúng là những kẻ toàn quyền kiểm soát (các kho tàng của Ngài)?",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 525,
+  "verse_key": "52:37",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ عِندَهُمۡ خَزَآئِنُ رَبِّكَ أَمۡ هُمُ ٱلۡمُصَۜيۡطِرُونَ",
+  "translation": "Hay phải chăng chúng nắm giữ các kho tàng của Thượng Đế của Ngươi? Hoặc phải chăng chúng là những kẻ toàn quyền kiểm soát (các kho tàng của Ngài)?",
+  "footnotes": ""
 }

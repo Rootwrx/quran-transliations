@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "8",
-    "sura": "2",
-    "aya": "1",
-    "arabic_text": "الٓمٓ",
-    "translation": "Alif Lām Mīm.4)",
-    "footnotes": "*4) Beberapa surah dalam Al-Qur`an dibuka dengan huruf abjad seperti Alif Lām Mīm, Alif Lām Rā`, dan sebagainya. Makna huruf-huruf itu hanya Allah yang tahu. Ada yang berpendapat bahwa huruf-huruf itu adalah nama surah dan ada pula yang berpendapat bahwa gunanya untuk menarik perhatian, atau untuk mengisyaratkan bahwa Al-Qur`an itu diturunkan dalam bahasa Arab yang tersusun dari huruf-huruf abjad tersebut."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 2,
+  "verse_key": "2:1",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓ",
+  "translation": "Alif Lām Mīm.4)",
+  "footnotes": "*4) Beberapa surah dalam Al-Qur`an dibuka dengan huruf abjad seperti Alif Lām Mīm, Alif Lām Rā`, dan sebagainya. Makna huruf-huruf itu hanya Allah yang tahu. Ada yang berpendapat bahwa huruf-huruf itu adalah nama surah dan ada pula yang berpendapat bahwa gunanya untuk menarik perhatian, atau untuk mengisyaratkan bahwa Al-Qur`an itu diturunkan dalam bahasa Arab yang tersusun dari huruf-huruf abjad tersebut."
 }

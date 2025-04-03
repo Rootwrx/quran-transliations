@@ -1,0 +1,27 @@
+{
+  "number": 37,
+  "name": {
+    "ar": "الصافات",
+    "en": "Those drawn up in Ranks",
+    "transliteration": "As-Saffat"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 56,
+  "bismillah_pre": true,
+  "verses_count": 182,
+  "words_count": 865,
+  "letters_count": 3790,
+  "pages": [
+    446,
+    452
+  ],
+  "name_simple": "As-Saffat",
+  "name_complex": "Aş-Şāffāt",
+  "name_arabic": "الصافات",
+  "translated_name": "Those who set the Ranks",
+  "start_page": 446,
+  "end_page": 452
+}

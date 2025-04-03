@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1971",
-    "sura": "16",
-    "aya": "70",
-    "arabic_text": "وَٱللَّهُ خَلَقَكُمۡ ثُمَّ يَتَوَفَّىٰكُمۡۚ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرۡذَلِ ٱلۡعُمُرِ لِكَيۡ لَا يَعۡلَمَ بَعۡدَ عِلۡمٖ شَيۡـًٔاۚ إِنَّ ٱللَّهَ عَلِيمٞ قَدِيرٞ",
-    "translation": " 70. And Allâh has created you and then He will cause you to die; and of you there are some who are sent back to senility, so that they know nothing after having known (much). Truly! Allâh is All-Knowing, All-Powerful.",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 274,
+  "verse_key": "16:70",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ خَلَقَكُمۡ ثُمَّ يَتَوَفَّىٰكُمۡۚ وَمِنكُم مَّن يُرَدُّ إِلَىٰٓ أَرۡذَلِ ٱلۡعُمُرِ لِكَيۡ لَا يَعۡلَمَ بَعۡدَ عِلۡمٖ شَيۡـًٔاۚ إِنَّ ٱللَّهَ عَلِيمٞ قَدِيرٞ",
+  "translation": " 70. And Allâh has created you and then He will cause you to die; and of you there are some who are sent back to senility, so that they know nothing after having known (much). Truly! Allâh is All-Knowing, All-Powerful.",
+  "footnotes": ""
 }

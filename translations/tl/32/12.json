@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3515",
-    "sura": "32",
-    "aya": "12",
-    "arabic_text": "وَلَوۡ تَرَىٰٓ إِذِ ٱلۡمُجۡرِمُونَ نَاكِسُواْ رُءُوسِهِمۡ عِندَ رَبِّهِمۡ رَبَّنَآ أَبۡصَرۡنَا وَسَمِعۡنَا فَٱرۡجِعۡنَا نَعۡمَلۡ صَٰلِحًا إِنَّا مُوقِنُونَ",
-    "translation": "Kung sakaling nakikita mo kapag ang mga salarin ay mga nakatungo ang mga ulo nila sa piling ng Panginoon nila, [na nagsasabi]: “Panginoon namin, nakakita kami at nakarinig kami. Kaya magpabalik Ka sa amin [sa Mundo], gagawa kami ng maayos.[3] Tunay na kami ay mga nakatitiyak.”",
-    "footnotes": "[3] at susunod sa Propeta"
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 416,
+  "verse_key": "32:12",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ تَرَىٰٓ إِذِ ٱلۡمُجۡرِمُونَ نَاكِسُواْ رُءُوسِهِمۡ عِندَ رَبِّهِمۡ رَبَّنَآ أَبۡصَرۡنَا وَسَمِعۡنَا فَٱرۡجِعۡنَا نَعۡمَلۡ صَٰلِحًا إِنَّا مُوقِنُونَ",
+  "translation": "Kung sakaling nakikita mo kapag ang mga salarin ay mga nakatungo ang mga ulo nila sa piling ng Panginoon nila, [na nagsasabi]: “Panginoon namin, nakakita kami at nakarinig kami. Kaya magpabalik Ka sa amin [sa Mundo], gagawa kami ng maayos.[3] Tunay na kami ay mga nakatitiyak.”",
+  "footnotes": "[3] at susunod sa Propeta"
 }

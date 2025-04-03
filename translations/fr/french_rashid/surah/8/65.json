@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1225",
-    "sura": "8",
-    "aya": "65",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَرِّضِ ٱلۡمُؤۡمِنِينَ عَلَى ٱلۡقِتَالِۚ إِن يَكُن مِّنكُمۡ عِشۡرُونَ صَٰبِرُونَ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُم مِّاْئَةٞ يَغۡلِبُوٓاْ أَلۡفٗا مِّنَ ٱلَّذِينَ كَفَرُواْ بِأَنَّهُمۡ قَوۡمٞ لَّا يَفۡقَهُونَ",
-    "translation": "65 Prophète ! Incite sans relâche les croyants au combat. S’il se trouve parmi vous une vingtaine d’hommes endurants, ils en vaincront deux cents, et s’il s’en trouve une centaine, ils triompheront de mille mécréants. Ce sont en effet des gens privés de tout entendement.",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 185,
+  "verse_key": "8:65",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَرِّضِ ٱلۡمُؤۡمِنِينَ عَلَى ٱلۡقِتَالِۚ إِن يَكُن مِّنكُمۡ عِشۡرُونَ صَٰبِرُونَ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُم مِّاْئَةٞ يَغۡلِبُوٓاْ أَلۡفٗا مِّنَ ٱلَّذِينَ كَفَرُواْ بِأَنَّهُمۡ قَوۡمٞ لَّا يَفۡقَهُونَ",
+  "translation": "65 Prophète ! Incite sans relâche les croyants au combat. S’il se trouve parmi vous une vingtaine d’hommes endurants, ils en vaincront deux cents, et s’il s’en trouve une centaine, ils triompheront de mille mécréants. Ce sont en effet des gens privés de tout entendement.",
+  "footnotes": ""
 }

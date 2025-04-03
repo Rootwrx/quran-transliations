@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1264",
-    "sura": "9",
-    "aya": "29",
-    "arabic_text": "قَٰتِلُواْ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلۡحَقِّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حَتَّىٰ يُعۡطُواْ ٱلۡجِزۡيَةَ عَن يَدٖ وَهُمۡ صَٰغِرُونَ",
-    "translation": "Các ngươi hãy đánh những kẻ vô đức tin nơi Allah và Đời Sau, cũng như những kẻ không coi là điều cấm đối với những gì mà Allah và Thiên Sứ của Ngài đã cấm đoán và không theo tôn giáo chân lý (Islam) thuộc những người được ban cho Kinh sách (Do Thái và Thiên Chúa) cho đến khi chúng qui thuận và chịu trả Jizyah[2].",
-    "footnotes": "[2] Một loại thuế thân đánh trên các công dân không phải Muslim sống dưới chính quyền Islam."
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 191,
+  "verse_key": "9:29",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَٰتِلُواْ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلۡحَقِّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حَتَّىٰ يُعۡطُواْ ٱلۡجِزۡيَةَ عَن يَدٖ وَهُمۡ صَٰغِرُونَ",
+  "translation": "Các ngươi hãy đánh những kẻ vô đức tin nơi Allah và Đời Sau, cũng như những kẻ không coi là điều cấm đối với những gì mà Allah và Thiên Sứ của Ngài đã cấm đoán và không theo tôn giáo chân lý (Islam) thuộc những người được ban cho Kinh sách (Do Thái và Thiên Chúa) cho đến khi chúng qui thuận và chịu trả Jizyah[2].",
+  "footnotes": "[2] Một loại thuế thân đánh trên các công dân không phải Muslim sống dưới chính quyền Islam."
 }

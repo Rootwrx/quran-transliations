@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3787",
-    "sura": "36",
-    "aya": "82",
-    "arabic_text": "إِنَّمَآ أَمۡرُهُۥٓ إِذَآ أَرَادَ شَيۡـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ",
-    "translation": "Sua ordem, quando deseja alguma cousa, é, apenas, dizer-lhe: \"Sê\", então, é.",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 445,
+  "verse_key": "36:82",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَآ أَمۡرُهُۥٓ إِذَآ أَرَادَ شَيۡـًٔا أَن يَقُولَ لَهُۥ كُن فَيَكُونُ",
+  "translation": "Sua ordem, quando deseja alguma cousa, é, apenas, dizer-lhe: \"Sê\", então, é.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "211",
-    "sura": "2",
-    "aya": "204",
-    "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يُعۡجِبُكَ قَوۡلُهُۥ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَيُشۡهِدُ ٱللَّهَ عَلَىٰ مَا فِي قَلۡبِهِۦ وَهُوَ أَلَدُّ ٱلۡخِصَامِ",
-    "translation": "İnsanlardan öyleleri vardır ki, dünya hayatı hakkında konuştuklarında bu senin hoşuna gider. Hatta böylesi kalbindekilerine (doğru diye) Allah'ı şahit tutar. Halbuki o, hasımların en yamanıdır",
-    "footnotes": null
-  }
+  "id": 204,
+  "verse_number": 204,
+  "page_number": 32,
+  "verse_key": "2:204",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلنَّاسِ مَن يُعۡجِبُكَ قَوۡلُهُۥ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَيُشۡهِدُ ٱللَّهَ عَلَىٰ مَا فِي قَلۡبِهِۦ وَهُوَ أَلَدُّ ٱلۡخِصَامِ",
+  "translation": "İnsanlardan öyleleri vardır ki, dünya hayatı hakkında konuştuklarında bu senin hoşuna gider. Hatta böylesi kalbindekilerine (doğru diye) Allah'ı şahit tutar. Halbuki o, hasımların en yamanıdır",
+  "footnotes": null
 }

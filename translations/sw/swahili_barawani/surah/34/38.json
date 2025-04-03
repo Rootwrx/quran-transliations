@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3644",
-    "sura": "34",
-    "aya": "38",
-    "arabic_text": "وَٱلَّذِينَ يَسۡعَوۡنَ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ فِي ٱلۡعَذَابِ مُحۡضَرُونَ",
-    "translation": "Na wanao jitahidi kuzipinga Ishara zetu, wakaona watashinda, hao watahudhurishwa kwenye adhabu.",
-    "footnotes": "Na hao ambao wana fanya juhudi kuzipinga Ishara zetu, wakifanya kila hila kuzivunja na kuwazuia Manabii wetu wasifikishe Ujumbe wake, hao, basi watakuwa katika adhabu, wamehudhurishwa na wala hawataepuka."
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 432,
+  "verse_key": "34:38",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يَسۡعَوۡنَ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ فِي ٱلۡعَذَابِ مُحۡضَرُونَ",
+  "translation": "Na wanao jitahidi kuzipinga Ishara zetu, wakaona watashinda, hao watahudhurishwa kwenye adhabu.",
+  "footnotes": "Na hao ambao wana fanya juhudi kuzipinga Ishara zetu, wakifanya kila hila kuzivunja na kuwazuia Manabii wetu wasifikishe Ujumbe wake, hao, basi watakuwa katika adhabu, wamehudhurishwa na wala hawataepuka."
 }

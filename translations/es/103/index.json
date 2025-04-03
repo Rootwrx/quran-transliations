@@ -1,26 +1,44 @@
 {
-  "result": [
+  "verses": [
     {
-      "id": "6177",
-      "sura": "103",
-      "aya": "1",
-      "arabic_text": "وَٱلۡعَصۡرِ",
+      "id": 1,
+      "verse_number": 1,
+      "page_number": 601,
+      "verse_key": "103:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "وَٱلۡعَصۡرِ",
       "translation": "1. Juro por el tiempo[1]",
       "footnotes": "[1] Algunos exégetas sugieren que no es simplemente el tiempo o el transcurso del tiempo, sino que se trataría específicamente del momento de la tarde (‘asr عصر), ya que en otros versículos del Corán también se mencionan estos tiempos de las oraciones, como por ejemplo el amanecer (fayr فجر)."
     },
     {
-      "id": "6178",
-      "sura": "103",
-      "aya": "2",
-      "arabic_text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+      "id": 2,
+      "verse_number": 2,
+      "page_number": 601,
+      "verse_key": "103:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
       "translation": "2. que los seres humanos están en la perdición,",
       "footnotes": ""
     },
     {
-      "id": "6179",
-      "sura": "103",
-      "aya": "3",
-      "arabic_text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+      "id": 3,
+      "verse_number": 3,
+      "page_number": 601,
+      "verse_key": "103:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
       "translation": "3. excepto aquellos que crean, obren rectamente, y se aconsejen mutuamente con la verdad y con la paciencia [ante las adversidades].",
       "footnotes": ""
     }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4511",
-    "sura": "46",
-    "aya": "1",
-    "arabic_text": "حمٓ",
-    "translation": "Haa Miim.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 502,
+  "verse_key": "46:1",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حمٓ",
+  "translation": "Haa Miim.",
+  "footnotes": ""
 }

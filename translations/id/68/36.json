@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5307",
-    "sura": "68",
-    "aya": "36",
-    "arabic_text": "مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ",
-    "translation": "Mengapa kamu (berbuat demikian)? Bagaimana kamu mengambil keputusan?",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 565,
+  "verse_key": "68:36",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا لَكُمۡ كَيۡفَ تَحۡكُمُونَ",
+  "translation": "Mengapa kamu (berbuat demikian)? Bagaimana kamu mengambil keputusan?",
+  "footnotes": ""
 }

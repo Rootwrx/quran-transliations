@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3885",
-    "sura": "37",
-    "aya": "97",
-    "arabic_text": "قَالُواْ ٱبۡنُواْ لَهُۥ بُنۡيَٰنٗا فَأَلۡقُوهُ فِي ٱلۡجَحِيمِ",
-    "translation": "97. Jis tarė: „Pastatykite man pastatą (sakoma, kad pastatas buvo kaip krosnis) ir įmeskite jį į liepsnojančią ugnį.“",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 449,
+  "verse_key": "37:97",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ ٱبۡنُواْ لَهُۥ بُنۡيَٰنٗا فَأَلۡقُوهُ فِي ٱلۡجَحِيمِ",
+  "translation": "97. Jis tarė: „Pastatykite man pastatą (sakoma, kad pastatas buvo kaip krosnis) ir įmeskite jį į liepsnojančią ugnį.“",
+  "footnotes": ""
 }

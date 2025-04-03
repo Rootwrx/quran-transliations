@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2529",
-    "sura": "21",
-    "aya": "46",
-    "arabic_text": "وَلَئِن مَّسَّتۡهُمۡ نَفۡحَةٞ مِّنۡ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيۡلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
-    "translation": "46. Y si les rozase ligeramente el castigo de tu Señor, dirían: «¡Ay de nosotros! Ciertamente hemos sido injustos».",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 326,
+  "verse_key": "21:46",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِن مَّسَّتۡهُمۡ نَفۡحَةٞ مِّنۡ عَذَابِ رَبِّكَ لَيَقُولُنَّ يَٰوَيۡلَنَآ إِنَّا كُنَّا ظَٰلِمِينَ",
+  "translation": "46. Y si les rozase ligeramente el castigo de tu Señor, dirían: «¡Ay de nosotros! Ciertamente hemos sido injustos».",
+  "footnotes": ""
 }

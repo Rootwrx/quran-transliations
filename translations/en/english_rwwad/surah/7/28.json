@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "982",
-    "sura": "7",
-    "aya": "28",
-    "arabic_text": "وَإِذَا فَعَلُواْ فَٰحِشَةٗ قَالُواْ وَجَدۡنَا عَلَيۡهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَاۗ قُلۡ إِنَّ ٱللَّهَ لَا يَأۡمُرُ بِٱلۡفَحۡشَآءِۖ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
-    "translation": "When they commit a shameful act[6], they say, “We found our forefathers doing it, and Allah has enjoined it upon us.” Say, “Allah never enjoins shameful acts. Do you say about Allah something of which you have no knowledge?”",
-    "footnotes": "[6] The heathen practice of the Arabs who used to associate others with Allah and circumambulate around the Ka‘bah naked."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 153,
+  "verse_key": "7:28",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا فَعَلُواْ فَٰحِشَةٗ قَالُواْ وَجَدۡنَا عَلَيۡهَآ ءَابَآءَنَا وَٱللَّهُ أَمَرَنَا بِهَاۗ قُلۡ إِنَّ ٱللَّهَ لَا يَأۡمُرُ بِٱلۡفَحۡشَآءِۖ أَتَقُولُونَ عَلَى ٱللَّهِ مَا لَا تَعۡلَمُونَ",
+  "translation": "When they commit a shameful act[6], they say, “We found our forefathers doing it, and Allah has enjoined it upon us.” Say, “Allah never enjoins shameful acts. Do you say about Allah something of which you have no knowledge?”",
+  "footnotes": "[6] The heathen practice of the Arabs who used to associate others with Allah and circumambulate around the Ka‘bah naked."
 }

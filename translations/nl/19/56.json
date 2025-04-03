@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2306",
-    "sura": "19",
-    "aya": "56",
-    "arabic_text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ إِدۡرِيسَۚ إِنَّهُۥ كَانَ صِدِّيقٗا نَّبِيّٗا",
-    "translation": "56. En noem in het Boek Idris. Waarlijk! Hij was een man van de waarheid, (en) een profeet.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 309,
+  "verse_key": "19:56",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرۡ فِي ٱلۡكِتَٰبِ إِدۡرِيسَۚ إِنَّهُۥ كَانَ صِدِّيقٗا نَّبِيّٗا",
+  "translation": "56. En noem in het Boek Idris. Waarlijk! Hij was een man van de waarheid, (en) een profeet.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5406",
-    "sura": "70",
-    "aya": "31",
-    "arabic_text": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡعَادُونَ",
-    "translation": "La ned ning sẽn bao woto loogr poorẽ, ad bãmb rãmb la maan-n-zʋʋg rãmba.",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 569,
+  "verse_key": "70:31",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَنِ ٱبۡتَغَىٰ وَرَآءَ ذَٰلِكَ فَأُوْلَٰٓئِكَ هُمُ ٱلۡعَادُونَ",
+  "translation": "La ned ning sẽn bao woto loogr poorẽ, ad bãmb rãmb la maan-n-zʋʋg rãmba.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5698",
-    "sura": "78",
-    "aya": "26",
-    "arabic_text": "جَزَآءٗ وِفَاقًا",
-    "translation": "(Dünyada yaptıklarına karşılık) Uygun bir ceza olarak.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 582,
+  "verse_key": "78:26",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "جَزَآءٗ وِفَاقًا",
+  "translation": "(Dünyada yaptıklarına karşılık) Uygun bir ceza olarak.",
+  "footnotes": ""
 }

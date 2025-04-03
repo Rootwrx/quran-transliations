@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "127",
-    "sura": "2",
-    "aya": "120",
-    "arabic_text": "وَلَن تَرۡضَىٰ عَنكَ ٱلۡيَهُودُ وَلَا ٱلنَّصَٰرَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمۡۗ قُلۡ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلۡهُدَىٰۗ وَلَئِنِ ٱتَّبَعۡتَ أَهۡوَآءَهُم بَعۡدَ ٱلَّذِي جَآءَكَ مِنَ ٱلۡعِلۡمِ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٍ",
-    "translation": "Àwọn yẹhudi àti nasọ̄rọ̄ kò níí yọ́nú sí ọ títí o fi máa tẹ̀lé ẹ̀sìn wọn. Sọ pé: “Dájúdajú ìmọ̀nà ti Allāhu ni ìmọ̀nà.” Dájúdajú tí o bá sì tẹ̀lé ìfẹ́-inú wọn lẹ́yìn èyí tí ó dé bá ọ nínú ìmọ̀ (’Islām), kò níí sí aláàbò àti alárànṣe kan fún ọ lọ́dọ̀ Allāhu.",
-    "footnotes": ""
-  }
+  "id": 120,
+  "verse_number": 120,
+  "page_number": 19,
+  "verse_key": "2:120",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَن تَرۡضَىٰ عَنكَ ٱلۡيَهُودُ وَلَا ٱلنَّصَٰرَىٰ حَتَّىٰ تَتَّبِعَ مِلَّتَهُمۡۗ قُلۡ إِنَّ هُدَى ٱللَّهِ هُوَ ٱلۡهُدَىٰۗ وَلَئِنِ ٱتَّبَعۡتَ أَهۡوَآءَهُم بَعۡدَ ٱلَّذِي جَآءَكَ مِنَ ٱلۡعِلۡمِ مَا لَكَ مِنَ ٱللَّهِ مِن وَلِيّٖ وَلَا نَصِيرٍ",
+  "translation": "Àwọn yẹhudi àti nasọ̄rọ̄ kò níí yọ́nú sí ọ títí o fi máa tẹ̀lé ẹ̀sìn wọn. Sọ pé: “Dájúdajú ìmọ̀nà ti Allāhu ni ìmọ̀nà.” Dájúdajú tí o bá sì tẹ̀lé ìfẹ́-inú wọn lẹ́yìn èyí tí ó dé bá ọ nínú ìmọ̀ (’Islām), kò níí sí aláàbò àti alárànṣe kan fún ọ lọ́dọ̀ Allāhu.",
+  "footnotes": ""
 }

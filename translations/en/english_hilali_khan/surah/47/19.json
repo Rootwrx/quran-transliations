@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4564",
-    "sura": "47",
-    "aya": "19",
-    "arabic_text": "فَٱعۡلَمۡ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۗ وَٱللَّهُ يَعۡلَمُ مُتَقَلَّبَكُمۡ وَمَثۡوَىٰكُمۡ",
-    "translation": " 19. So know (O Muhammad صلى الله عليه وسلم) that, Lâ ilâha illallâh (none has the right to be worshipped but Allâh)[2], and ask forgiveness for your sin, and also for (the sin of) believing men and believing women. And Allâh knows well your moving about, and your place of rest (in your homes).",
-    "footnotes": "(V.47:19) It is essential to know a thing first before saying or acting upon it as Allâh’s Statement: \"So know...\" (V.47:19). Please see also the footnote of (V.6:125)."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 508,
+  "verse_key": "47:19",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱعۡلَمۡ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۗ وَٱللَّهُ يَعۡلَمُ مُتَقَلَّبَكُمۡ وَمَثۡوَىٰكُمۡ",
+  "translation": " 19. So know (O Muhammad صلى الله عليه وسلم) that, Lâ ilâha illallâh (none has the right to be worshipped but Allâh)[2], and ask forgiveness for your sin, and also for (the sin of) believing men and believing women. And Allâh knows well your moving about, and your place of rest (in your homes).",
+  "footnotes": "(V.47:19) It is essential to know a thing first before saying or acting upon it as Allâh’s Statement: \"So know...\" (V.47:19). Please see also the footnote of (V.6:125)."
 }

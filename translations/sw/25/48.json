@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2903",
-    "sura": "25",
-    "aya": "48",
-    "arabic_text": "وَهُوَ ٱلَّذِيٓ أَرۡسَلَ ٱلرِّيَٰحَ بُشۡرَۢا بَيۡنَ يَدَيۡ رَحۡمَتِهِۦۚ وَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ طَهُورٗا",
-    "translation": "Naye ndiye anaye zituma pepo kuwa bishara njema kabla ya rehema yake, na tunayateremsha kutoka mbinguni maji safi.",
-    "footnotes": "Na Yeye ndiye aliye zifanya pepo zimtumikie, zikasukuma mawingu, nayo yakawabashiria watu itakuja mvua, ambayo ni rehema itokayo kwake kuwaendea wao. Na hakika Sisi tunateremsha kutoka mbinguni maji safi yanayo safisha kuondoa najisi na uchafu. \"Na tunayateremsha kutoka mbinguni maji safi.\" Katika Aya hii tukufu Mwenyezi Mungu anawasimbulia watu kwa kuwateremshia maji yaliyo safi kutoka mbinguni. Na Aya hii inafahamisha kuwa maji ya mvua katika asli ya kuumbwa kwake ni maji safi kabisa. Na juu ya kuwa baada yake yanabeba takataka nyingi katika anga, lakini bado yamo katika daraja ya usafi."
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 364,
+  "verse_key": "25:48",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِيٓ أَرۡسَلَ ٱلرِّيَٰحَ بُشۡرَۢا بَيۡنَ يَدَيۡ رَحۡمَتِهِۦۚ وَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ طَهُورٗا",
+  "translation": "Naye ndiye anaye zituma pepo kuwa bishara njema kabla ya rehema yake, na tunayateremsha kutoka mbinguni maji safi.",
+  "footnotes": "Na Yeye ndiye aliye zifanya pepo zimtumikie, zikasukuma mawingu, nayo yakawabashiria watu itakuja mvua, ambayo ni rehema itokayo kwake kuwaendea wao. Na hakika Sisi tunateremsha kutoka mbinguni maji safi yanayo safisha kuondoa najisi na uchafu. \"Na tunayateremsha kutoka mbinguni maji safi.\" Katika Aya hii tukufu Mwenyezi Mungu anawasimbulia watu kwa kuwateremshia maji yaliyo safi kutoka mbinguni. Na Aya hii inafahamisha kuwa maji ya mvua katika asli ya kuumbwa kwake ni maji safi kabisa. Na juu ya kuwa baada yake yanabeba takataka nyingi katika anga, lakini bado yamo katika daraja ya usafi."
 }

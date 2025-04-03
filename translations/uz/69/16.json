@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5339",
-    "sura": "69",
-    "aya": "16",
-    "arabic_text": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِيَ يَوۡمَئِذٖ وَاهِيَةٞ",
-    "translation": "16. Ва осмон ёрилур! Чунки (осмон) у Кунда заиф бўлиб қолур!",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 567,
+  "verse_key": "69:16",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱنشَقَّتِ ٱلسَّمَآءُ فَهِيَ يَوۡمَئِذٖ وَاهِيَةٞ",
+  "translation": "16. Ва осмон ёрилур! Чунки (осмон) у Кунда заиф бўлиб қолур!",
+  "footnotes": ""
 }

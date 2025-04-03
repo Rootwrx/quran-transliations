@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3612",
-    "sura": "34",
-    "aya": "6",
-    "arabic_text": "وَيَرَى ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ ٱلَّذِيٓ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ هُوَ ٱلۡحَقَّ وَيَهۡدِيٓ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
-    "translation": "Kendilerine bilgi verilenler, Rabbinden sana indirilenin (Kur'an'ın) gerçek olduğunu bilir; onun, mutlak galip ve övgüye lâyık olan (Allah'ın) yoluna ilettiğini görürler.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 428,
+  "verse_key": "34:6",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَرَى ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ ٱلَّذِيٓ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ هُوَ ٱلۡحَقَّ وَيَهۡدِيٓ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+  "translation": "Kendilerine bilgi verilenler, Rabbinden sana indirilenin (Kur'an'ın) gerçek olduğunu bilir; onun, mutlak galip ve övgüye lâyık olan (Allah'ın) yoluna ilettiğini görürler.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3118",
-    "sura": "26",
-    "aya": "186",
-    "arabic_text": "وَمَآ أَنتَ إِلَّا بَشَرٞ مِّثۡلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلۡكَٰذِبِينَ",
-    "translation": "dan engkau hanyalah manusia seperti kami, dan sesungguhnya kami yakin engkau termasuk orang-orang yang berdusta.",
-    "footnotes": ""
-  }
+  "id": 186,
+  "verse_number": 186,
+  "page_number": 375,
+  "verse_key": "26:186",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَنتَ إِلَّا بَشَرٞ مِّثۡلُنَا وَإِن نَّظُنُّكَ لَمِنَ ٱلۡكَٰذِبِينَ",
+  "translation": "dan engkau hanyalah manusia seperti kami, dan sesungguhnya kami yakin engkau termasuk orang-orang yang berdusta.",
+  "footnotes": ""
 }

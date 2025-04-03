@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1260",
-    "sura": "9",
-    "aya": "25",
-    "arabic_text": "لَقَدۡ نَصَرَكُمُ ٱللَّهُ فِي مَوَاطِنَ كَثِيرَةٖ وَيَوۡمَ حُنَيۡنٍ إِذۡ أَعۡجَبَتۡكُمۡ كَثۡرَتُكُمۡ فَلَمۡ تُغۡنِ عَنكُمۡ شَيۡـٔٗا وَضَاقَتۡ عَلَيۡكُمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ ثُمَّ وَلَّيۡتُم مُّدۡبِرِينَ",
-    "translation": "25. Y, ciertamente, Al-lah les ha concedido la victoria en diversas ocasiones, como el día de la batalla de Hunain[299], cuando se regocijaban de su superioridad numérica, aunque ello no les sirvió de nada, y sintieron que la tierra se estrechaba (por las emboscadas del enemigo), a pesar de su vastedad, y no encontraban ningún lugar seguro, y huyeron.",
-    "footnotes": "[299]  La batalla de Hunain sucedió poco después de la liberación de La Meca en el año octavo de la Hégira. Algunas tribus árabes se unieron para luchar contra los creyentes, y el Profeta —que Al-lah lo bendiga y le dé la paz— salió a su encuentro con un gran ejército de unos diez mil hombres, y ambos frentes se encontraron en el valle de Hunain, entre La Meca y la ciudad de Taif. Tras sufrir las emboscadas del enemigo, la mayoría de los creyentes huyeron y solo unos ochenta hombres siguieron al lado del Profeta —que Al-lah lo bendiga y le dé la paz—, entre ellos Abu Sufian, antiguo líder de los idólatras de La Meca, que había abrazado la fe durante la liberación de la ciudad. Finalmente, los creyentes que habían huido regresaron para apoyar al Mensajero de Al-lah —que Al-lah lo bendiga y le dé la paz—, y Al-lah les concedió la victoria."
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 190,
+  "verse_key": "9:25",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ نَصَرَكُمُ ٱللَّهُ فِي مَوَاطِنَ كَثِيرَةٖ وَيَوۡمَ حُنَيۡنٍ إِذۡ أَعۡجَبَتۡكُمۡ كَثۡرَتُكُمۡ فَلَمۡ تُغۡنِ عَنكُمۡ شَيۡـٔٗا وَضَاقَتۡ عَلَيۡكُمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ ثُمَّ وَلَّيۡتُم مُّدۡبِرِينَ",
+  "translation": "25. Y, ciertamente, Al-lah les ha concedido la victoria en diversas ocasiones, como el día de la batalla de Hunain[299], cuando se regocijaban de su superioridad numérica, aunque ello no les sirvió de nada, y sintieron que la tierra se estrechaba (por las emboscadas del enemigo), a pesar de su vastedad, y no encontraban ningún lugar seguro, y huyeron.",
+  "footnotes": "[299]  La batalla de Hunain sucedió poco después de la liberación de La Meca en el año octavo de la Hégira. Algunas tribus árabes se unieron para luchar contra los creyentes, y el Profeta —que Al-lah lo bendiga y le dé la paz— salió a su encuentro con un gran ejército de unos diez mil hombres, y ambos frentes se encontraron en el valle de Hunain, entre La Meca y la ciudad de Taif. Tras sufrir las emboscadas del enemigo, la mayoría de los creyentes huyeron y solo unos ochenta hombres siguieron al lado del Profeta —que Al-lah lo bendiga y le dé la paz—, entre ellos Abu Sufian, antiguo líder de los idólatras de La Meca, que había abrazado la fe durante la liberación de la ciudad. Finalmente, los creyentes que habían huido regresaron para apoyar al Mensajero de Al-lah —que Al-lah lo bendiga y le dé la paz—, y Al-lah les concedió la victoria."
 }

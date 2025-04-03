@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2428",
-    "sura": "20",
-    "aya": "80",
-    "arabic_text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ قَدۡ أَنجَيۡنَٰكُم مِّنۡ عَدُوِّكُمۡ وَوَٰعَدۡنَٰكُمۡ جَانِبَ ٱلطُّورِ ٱلۡأَيۡمَنَ وَنَزَّلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰ",
-    "translation": "80. ¡Oh, hijos de Israel!, ciertamente, os salvamos de vuestro enemigo y establecimos un pacto con vosotros en la ladera derecha del monte (cuando dimos la Torá a Moisés), e hicimos que descendieran sobre vosotros el maná y las codornices. ",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 317,
+  "verse_key": "20:80",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ قَدۡ أَنجَيۡنَٰكُم مِّنۡ عَدُوِّكُمۡ وَوَٰعَدۡنَٰكُمۡ جَانِبَ ٱلطُّورِ ٱلۡأَيۡمَنَ وَنَزَّلۡنَا عَلَيۡكُمُ ٱلۡمَنَّ وَٱلسَّلۡوَىٰ",
+  "translation": "80. ¡Oh, hijos de Israel!, ciertamente, os salvamos de vuestro enemigo y establecimos un pacto con vosotros en la ladera derecha del monte (cuando dimos la Torá a Moisés), e hicimos que descendieran sobre vosotros el maná y las codornices. ",
+  "footnotes": ""
 }

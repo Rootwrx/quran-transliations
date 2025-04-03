@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "676",
-    "sura": "5",
-    "aya": "7",
-    "arabic_text": "وَٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ وَمِيثَٰقَهُ ٱلَّذِي وَاثَقَكُم بِهِۦٓ إِذۡ قُلۡتُمۡ سَمِعۡنَا وَأَطَعۡنَاۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
-    "translation": "Allah'ın üzerinizdeki nimetini ve (bir zamanlar) \"dinledik ve itaat ettik\" dediğinizde, sizi kendisiyle bağladığı O'na olan sözünüzü hatırlayın. Allah'tan korkun. Şüphe yoktur ki Allah, göğüslerde olan (sırr)ı hakkıyla bilir.\n",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 108,
+  "verse_key": "5:7",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 43,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرُواْ نِعۡمَةَ ٱللَّهِ عَلَيۡكُمۡ وَمِيثَٰقَهُ ٱلَّذِي وَاثَقَكُم بِهِۦٓ إِذۡ قُلۡتُمۡ سَمِعۡنَا وَأَطَعۡنَاۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ عَلِيمُۢ بِذَاتِ ٱلصُّدُورِ",
+  "translation": "Allah'ın üzerinizdeki nimetini ve (bir zamanlar) \"dinledik ve itaat ettik\" dediğinizde, sizi kendisiyle bağladığı O'na olan sözünüzü hatırlayın. Allah'tan korkun. Şüphe yoktur ki Allah, göğüslerde olan (sırr)ı hakkıyla bilir.\n",
+  "footnotes": ""
 }

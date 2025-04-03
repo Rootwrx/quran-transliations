@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3742",
-    "sura": "36",
-    "aya": "37",
-    "arabic_text": "وَءَايَةٞ لَّهُمُ ٱلَّيۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُونَ",
-    "translation": "37. Ir ženklas jiems yra naktis. Mes paimame iš jos dieną, iš štai, jie tamsoje.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 442,
+  "verse_key": "36:37",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَايَةٞ لَّهُمُ ٱلَّيۡلُ نَسۡلَخُ مِنۡهُ ٱلنَّهَارَ فَإِذَا هُم مُّظۡلِمُونَ",
+  "translation": "37. Ir ženklas jiems yra naktis. Mes paimame iš jos dieną, iš štai, jie tamsoje.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5761",
-    "sura": "80",
-    "aya": "3",
-    "arabic_text": "وَمَا يُدۡرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
-    "translation": "Na nini kitakujuulisha pengine yeye atatakasika?",
-    "footnotes": "Na wewe unajuaje, pengine huyo kipofu atatakasika kwa atayo yapata kwako,"
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 585,
+  "verse_key": "80:3",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا يُدۡرِيكَ لَعَلَّهُۥ يَزَّكَّىٰٓ",
+  "translation": "Na nini kitakujuulisha pengine yeye atatakasika?",
+  "footnotes": "Na wewe unajuaje, pengine huyo kipofu atatakasika kwa atayo yapata kwako,"
 }

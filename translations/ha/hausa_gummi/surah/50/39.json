@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4669",
-    "sura": "50",
-    "aya": "39",
-    "arabic_text": "فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ ٱلۡغُرُوبِ",
-    "translation": "Sabõda haka, ka yi haƙuri a kan abin da suke fadã, kuma ka yi tasĩhi* game da gõdẽ wa Ubangijinka (watau ka yi salla) a gabãnin fitõwar rãnã da gabãnin ɓacẽwarta.",
-    "footnotes": "* Tasbĩhi game da gõdewa Allah a gabãnin fitar rãnã, shi ne sallar asuba, na gabãnin ɓacewarta, shi ne sallar Azahar da La'asar. Daga dare kuwa, shĩ ne sallar Magariba da Isha'i. Bãyan sujada, shĩ ne sallõli na nafila kuma ma'anarsa a nan tasbĩhi da tahmĩdi da kabbarõri a bãyan sallõli farillai talãtin da uku kõwace, sa'annan a cika ɗari da addu'ar da aka ruwaito a nan."
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 520,
+  "verse_key": "50:39",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱصۡبِرۡ عَلَىٰ مَا يَقُولُونَ وَسَبِّحۡ بِحَمۡدِ رَبِّكَ قَبۡلَ طُلُوعِ ٱلشَّمۡسِ وَقَبۡلَ ٱلۡغُرُوبِ",
+  "translation": "Sabõda haka, ka yi haƙuri a kan abin da suke fadã, kuma ka yi tasĩhi* game da gõdẽ wa Ubangijinka (watau ka yi salla) a gabãnin fitõwar rãnã da gabãnin ɓacẽwarta.",
+  "footnotes": "* Tasbĩhi game da gõdewa Allah a gabãnin fitar rãnã, shi ne sallar asuba, na gabãnin ɓacewarta, shi ne sallar Azahar da La'asar. Daga dare kuwa, shĩ ne sallar Magariba da Isha'i. Bãyan sujada, shĩ ne sallõli na nafila kuma ma'anarsa a nan tasbĩhi da tahmĩdi da kabbarõri a bãyan sallõli farillai talãtin da uku kõwace, sa'annan a cika ɗari da addu'ar da aka ruwaito a nan."
 }

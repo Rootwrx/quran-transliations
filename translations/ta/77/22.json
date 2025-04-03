@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5644",
-    "sura": "77",
-    "aya": "22",
-    "arabic_text": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ",
-    "translation": "21, 22. அதை(ப் பத்திரமாக) உறுதிமிக்க (கர்ப்ப) ஸ்தானத்தில் குறிப்பிட்ட காலம் வரை தங்கும்படி நாம் செய்தோம்,",
-    "footnotes": null
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 581,
+  "verse_key": "77:22",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَىٰ قَدَرٖ مَّعۡلُومٖ",
+  "translation": "21, 22. அதை(ப் பத்திரமாக) உறுதிமிக்க (கர்ப்ப) ஸ்தானத்தில் குறிப்பிட்ட காலம் வரை தங்கும்படி நாம் செய்தோம்,",
+  "footnotes": null
 }

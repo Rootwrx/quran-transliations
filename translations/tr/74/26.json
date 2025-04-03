@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5521",
-    "sura": "74",
-    "aya": "26",
-    "arabic_text": "سَأُصۡلِيهِ سَقَرَ",
-    "translation": "Ben onu Sekar’a (Cehennem'e) sokacağım.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 576,
+  "verse_key": "74:26",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَأُصۡلِيهِ سَقَرَ",
+  "translation": "Ben onu Sekar’a (Cehennem'e) sokacağım.",
+  "footnotes": ""
 }

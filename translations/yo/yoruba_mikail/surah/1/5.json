@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5",
-    "sura": "1",
-    "aya": "5",
-    "arabic_text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
-    "translation": "Ìwọ nìkan ni à ń jọ́sìn fún. Ọ̀dọ̀ Rẹ nìkan sì ni à ń wá ìrànlọ́wọ́ (àti oore) sí.",
-    "footnotes": "1. Èyí ni àdéhùn ojoojúmọ́ tí à ń ṣe fún Allāhu. Ẹnikẹ́ni tí ó bá yapa àdéhùn náà, ó ti di ẹlẹ́bọ pọ́nńbélé títí ó fi máa ronú pìwàdà."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 1,
+  "verse_key": "1:5",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+  "translation": "Ìwọ nìkan ni à ń jọ́sìn fún. Ọ̀dọ̀ Rẹ nìkan sì ni à ń wá ìrànlọ́wọ́ (àti oore) sí.",
+  "footnotes": "1. Èyí ni àdéhùn ojoojúmọ́ tí à ń ṣe fún Allāhu. Ẹnikẹ́ni tí ó bá yapa àdéhùn náà, ó ti di ẹlẹ́bọ pọ́nńbélé títí ó fi máa ronú pìwàdà."
 }

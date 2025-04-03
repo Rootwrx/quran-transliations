@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3750",
-    "sura": "36",
-    "aya": "45",
-    "arabic_text": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ مَا بَيۡنَ أَيۡدِيكُمۡ وَمَا خَلۡفَكُمۡ لَعَلَّكُمۡ تُرۡحَمُونَ",
-    "translation": "Dan apabila dikatakan kepada mereka, \"Takutlah kamu akan siksa yang di hadapanmu dan siksa yang akan datang supaya kamu mendapat rahmat\", (niscaya mereka berpaling).",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 443,
+  "verse_key": "36:45",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا قِيلَ لَهُمُ ٱتَّقُواْ مَا بَيۡنَ أَيۡدِيكُمۡ وَمَا خَلۡفَكُمۡ لَعَلَّكُمۡ تُرۡحَمُونَ",
+  "translation": "Dan apabila dikatakan kepada mereka, \"Takutlah kamu akan siksa yang di hadapanmu dan siksa yang akan datang supaya kamu mendapat rahmat\", (niscaya mereka berpaling).",
+  "footnotes": ""
 }

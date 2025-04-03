@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3272",
-    "sura": "28",
-    "aya": "20",
-    "arabic_text": "وَجَآءَ رَجُلٞ مِّنۡ أَقۡصَا ٱلۡمَدِينَةِ يَسۡعَىٰ قَالَ يَٰمُوسَىٰٓ إِنَّ ٱلۡمَلَأَ يَأۡتَمِرُونَ بِكَ لِيَقۡتُلُوكَ فَٱخۡرُجۡ إِنِّي لَكَ مِنَ ٱلنَّٰصِحِينَ",
-    "translation": "Şəhərin kənarından bir kişi tələsik gəlib dedi: “Ey Musa! Zadəganlar səni öldürmək barəsində məşvərət edirlər. Çıx get! Mən sənə nəsihət edənlərdənəm!”",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 387,
+  "verse_key": "28:20",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَآءَ رَجُلٞ مِّنۡ أَقۡصَا ٱلۡمَدِينَةِ يَسۡعَىٰ قَالَ يَٰمُوسَىٰٓ إِنَّ ٱلۡمَلَأَ يَأۡتَمِرُونَ بِكَ لِيَقۡتُلُوكَ فَٱخۡرُجۡ إِنِّي لَكَ مِنَ ٱلنَّٰصِحِينَ",
+  "translation": "Şəhərin kənarından bir kişi tələsik gəlib dedi: “Ey Musa! Zadəganlar səni öldürmək barəsində məşvərət edirlər. Çıx get! Mən sənə nəsihət edənlərdənəm!”",
+  "footnotes": ""
 }

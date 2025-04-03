@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4992",
-    "sura": "56",
-    "aya": "13",
-    "arabic_text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
-    "translation": "Jama'a ne daga mutãnen farko.*",
-    "footnotes": "* Jama'a daga mutãnen farko, sũ ne Annabãwan farko da kaɗan daga cikin mutãnen ƙarshe, shi ne Annabi Muhammadu, sallallãhu alaihi wa sallama. Bã a shiga cikin wannan kashi da aiki sai dai da zãɓin Allah. Kuma an rufe ƙõfarsa. Bãbu sauran wani annabi wanda zai zo da wani addini sãbo a bãyan Annabi Muhammadu, tsĩra da amincin Allah su tabbata a gare shi."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 534,
+  "verse_key": "56:13",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُلَّةٞ مِّنَ ٱلۡأَوَّلِينَ",
+  "translation": "Jama'a ne daga mutãnen farko.*",
+  "footnotes": "* Jama'a daga mutãnen farko, sũ ne Annabãwan farko da kaɗan daga cikin mutãnen ƙarshe, shi ne Annabi Muhammadu, sallallãhu alaihi wa sallama. Bã a shiga cikin wannan kashi da aiki sai dai da zãɓin Allah. Kuma an rufe ƙõfarsa. Bãbu sauran wani annabi wanda zai zo da wani addini sãbo a bãyan Annabi Muhammadu, tsĩra da amincin Allah su tabbata a gare shi."
 }

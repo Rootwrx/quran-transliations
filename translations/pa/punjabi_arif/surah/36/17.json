@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3722",
-    "sura": "36",
-    "aya": "17",
-    "arabic_text": "وَمَا عَلَيۡنَآ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
-    "translation": "17਼ ਸਾਡੇ ਜ਼ਿੰਮੇ ਤਾਂ ਕੇਵਲ ਸਪਸ਼ਟ ਰੂਪ ਵਿਚ (ਰੱਬੀ ਸੁਨੇਹਾ) ਪਹੁੰਚਾਉਣਾ ਹੈ।",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 441,
+  "verse_key": "36:17",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا عَلَيۡنَآ إِلَّا ٱلۡبَلَٰغُ ٱلۡمُبِينُ",
+  "translation": "17਼ ਸਾਡੇ ਜ਼ਿੰਮੇ ਤਾਂ ਕੇਵਲ ਸਪਸ਼ਟ ਰੂਪ ਵਿਚ (ਰੱਬੀ ਸੁਨੇਹਾ) ਪਹੁੰਚਾਉਣਾ ਹੈ।",
+  "footnotes": ""
 }

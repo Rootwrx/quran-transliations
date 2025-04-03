@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1504",
-    "sura": "11",
-    "aya": "31",
-    "arabic_text": "وَلَآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ وَلَآ أَقُولُ إِنِّي مَلَكٞ وَلَآ أَقُولُ لِلَّذِينَ تَزۡدَرِيٓ أَعۡيُنُكُمۡ لَن يُؤۡتِيَهُمُ ٱللَّهُ خَيۡرًاۖ ٱللَّهُ أَعۡلَمُ بِمَا فِيٓ أَنفُسِهِمۡ إِنِّيٓ إِذٗا لَّمِنَ ٱلظَّٰلِمِينَ",
-    "translation": "Size ben, “Allah’ın hazineleri yanımdadır” demiyorum, gaybı da bilmem. “Ben bir meleğim” de demiyorum. Sizin hor gördüğünüz kimseler için, “Allah, onlara asla hiçbir hayır vermez” de diyemem. Allah, onların içlerindekini daha iyi bilir. Böyle bir şey söylersem, o zaman ben gerçekten zâlimlerden olurum.",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 225,
+  "verse_key": "11:31",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 90,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَآ أَقُولُ لَكُمۡ عِندِي خَزَآئِنُ ٱللَّهِ وَلَآ أَعۡلَمُ ٱلۡغَيۡبَ وَلَآ أَقُولُ إِنِّي مَلَكٞ وَلَآ أَقُولُ لِلَّذِينَ تَزۡدَرِيٓ أَعۡيُنُكُمۡ لَن يُؤۡتِيَهُمُ ٱللَّهُ خَيۡرًاۖ ٱللَّهُ أَعۡلَمُ بِمَا فِيٓ أَنفُسِهِمۡ إِنِّيٓ إِذٗا لَّمِنَ ٱلظَّٰلِمِينَ",
+  "translation": "Size ben, “Allah’ın hazineleri yanımdadır” demiyorum, gaybı da bilmem. “Ben bir meleğim” de demiyorum. Sizin hor gördüğünüz kimseler için, “Allah, onlara asla hiçbir hayır vermez” de diyemem. Allah, onların içlerindekini daha iyi bilir. Böyle bir şey söylersem, o zaman ben gerçekten zâlimlerden olurum.",
+  "footnotes": ""
 }

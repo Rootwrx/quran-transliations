@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4702",
-    "sura": "51",
-    "aya": "27",
-    "arabic_text": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ",
-    "translation": "そして、それを彼らに差し出した。「どうぞ、召し上がって下さい」と言いつつ。",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 521,
+  "verse_key": "51:27",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَرَّبَهُۥٓ إِلَيۡهِمۡ قَالَ أَلَا تَأۡكُلُونَ",
+  "translation": "そして、それを彼らに差し出した。「どうぞ、召し上がって下さい」と言いつつ。",
+  "footnotes": ""
 }

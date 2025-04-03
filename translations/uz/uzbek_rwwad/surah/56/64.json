@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5043",
-    "sura": "56",
-    "aya": "64",
-    "arabic_text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّٰرِعُونَ",
-    "translation": "Уни сизлар ундирасизларми ёки Биз ундиргувчилармизми?",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 536,
+  "verse_key": "56:64",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ءَأَنتُمۡ تَزۡرَعُونَهُۥٓ أَمۡ نَحۡنُ ٱلزَّٰرِعُونَ",
+  "translation": "Уни сизлар ундирасизларми ёки Биз ундиргувчилармизми?",
+  "footnotes": ""
 }

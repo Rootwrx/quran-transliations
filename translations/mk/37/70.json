@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3858",
-    "sura": "37",
-    "aya": "70",
-    "arabic_text": "فَهُمۡ عَلَىٰٓ ءَاثَٰرِهِمۡ يُهۡرَعُونَ",
-    "translation": "70. па и тие по стапките нивни продолжија.",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 448,
+  "verse_key": "37:70",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَهُمۡ عَلَىٰٓ ءَاثَٰرِهِمۡ يُهۡرَعُونَ",
+  "translation": "70. па и тие по стапките нивни продолжија.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4179",
-    "sura": "40",
-    "aya": "46",
-    "arabic_text": "ٱلنَّارُ يُعۡرَضُونَ عَلَيۡهَا غُدُوّٗا وَعَشِيّٗاۚ وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ أَدۡخِلُوٓاْ ءَالَ فِرۡعَوۡنَ أَشَدَّ ٱلۡعَذَابِ",
-    "translation": "Ang Apoy,[9] isasalang sila roon sa umaga at gabi. Sa Araw na sasapit ang Huling Sandali [ay sasabihin]: “Magpapasok kayo sa mga kampon ni Paraon sa pinakamatindi sa pagdurusa.”",
-    "footnotes": "[9] ng Barzakh, ang yugto sa pagitan ng kamatayan at pagbuhay"
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 472,
+  "verse_key": "40:46",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلنَّارُ يُعۡرَضُونَ عَلَيۡهَا غُدُوّٗا وَعَشِيّٗاۚ وَيَوۡمَ تَقُومُ ٱلسَّاعَةُ أَدۡخِلُوٓاْ ءَالَ فِرۡعَوۡنَ أَشَدَّ ٱلۡعَذَابِ",
+  "translation": "Ang Apoy,[9] isasalang sila roon sa umaga at gabi. Sa Araw na sasapit ang Huling Sandali [ay sasabihin]: “Magpapasok kayo sa mga kampon ni Paraon sa pinakamatindi sa pagdurusa.”",
+  "footnotes": "[9] ng Barzakh, ang yugto sa pagitan ng kamatayan at pagbuhay"
 }

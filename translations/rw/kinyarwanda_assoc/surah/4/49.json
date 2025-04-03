@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "542",
-    "sura": "4",
-    "aya": "49",
-    "arabic_text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ يُزَكِّي مَن يَشَآءُ وَلَا يُظۡلَمُونَ فَتِيلًا",
-    "translation": "Ese ntiwamenye (yewe Muhamadi) ba bandi bigira abere? Nyamara Allah yeza uwo ashaka, kandi ntibazahuguzwa (ibyiza bakoze) kabone n’iyo byaba Fatiila.[1]",
-    "footnotes": "[1] Fatiila: umuzi muto ungana n’akadodo uba mu rubuto rw’itende"
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 86,
+  "verse_key": "4:49",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ يُزَكِّي مَن يَشَآءُ وَلَا يُظۡلَمُونَ فَتِيلًا",
+  "translation": "Ese ntiwamenye (yewe Muhamadi) ba bandi bigira abere? Nyamara Allah yeza uwo ashaka, kandi ntibazahuguzwa (ibyiza bakoze) kabone n’iyo byaba Fatiila.[1]",
+  "footnotes": "[1] Fatiila: umuzi muto ungana n’akadodo uba mu rubuto rw’itende"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6",
-    "sura": "1",
-    "aya": "6",
-    "arabic_text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
-    "translation": "私たちを、まっすぐな道[1]へとお導きください。",
-    "footnotes": "[1]　来世での成功へと続く道である、イスラーム*のこと（ムヤッサル1頁参照）。"
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 1,
+  "verse_key": "1:6",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+  "translation": "私たちを、まっすぐな道[1]へとお導きください。",
+  "footnotes": "[1]　来世での成功へと続く道である、イスラーム*のこと（ムヤッサル1頁参照）。"
 }

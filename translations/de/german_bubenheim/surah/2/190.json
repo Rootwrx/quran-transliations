@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "197",
-    "sura": "2",
-    "aya": "190",
-    "arabic_text": "وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
-    "translation": "Und kämpft auf Allahs Weg gegen diejenigen, die gegen euch kämpfen, doch übertretet nicht! Allah liebt nicht die Übertreter.",
-    "footnotes": null
-  }
+  "id": 190,
+  "verse_number": 190,
+  "page_number": 29,
+  "verse_key": "2:190",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
+  "translation": "Und kämpft auf Allahs Weg gegen diejenigen, die gegen euch kämpfen, doch übertretet nicht! Allah liebt nicht die Übertreter.",
+  "footnotes": null
 }

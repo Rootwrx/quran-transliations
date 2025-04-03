@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "497",
-    "sura": "4",
-    "aya": "4",
-    "arabic_text": "وَءَاتُواْ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحۡلَةٗۚ فَإِن طِبۡنَ لَكُمۡ عَن شَيۡءٖ مِّنۡهُ نَفۡسٗا فَكُلُوهُ هَنِيٓـٔٗا مَّرِيٓـٔٗا",
-    "translation": "Et donnez aux épouses leur dot (Al Mahr) , de bonne grâce. Si de bon gré elles vous en abandonnent quelque chose, disposez-en alors à votre aise et de bon cœur.",
-    "footnotes": "[182] Mahr: le don que fait le marié à la mariée, et négocié entre les deux parties (voir note 3, v. 236, p. 38)."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 77,
+  "verse_key": "4:4",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاتُواْ ٱلنِّسَآءَ صَدُقَٰتِهِنَّ نِحۡلَةٗۚ فَإِن طِبۡنَ لَكُمۡ عَن شَيۡءٖ مِّنۡهُ نَفۡسٗا فَكُلُوهُ هَنِيٓـٔٗا مَّرِيٓـٔٗا",
+  "translation": "Et donnez aux épouses leur dot (Al Mahr) , de bonne grâce. Si de bon gré elles vous en abandonnent quelque chose, disposez-en alors à votre aise et de bon cœur.",
+  "footnotes": "[182] Mahr: le don que fait le marié à la mariée, et négocié entre les deux parties (voir note 3, v. 236, p. 38)."
 }

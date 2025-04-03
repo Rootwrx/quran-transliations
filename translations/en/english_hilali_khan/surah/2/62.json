@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "69",
-    "sura": "2",
-    "aya": "62",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "62. Verily! Those who believe and those who are Jews and Christians, and Sabians,[1] whoever believes in Allâh and the Last Day and does righteous good deeds shall have their reward with their Lord, on them shall be no fear, nor shall they grieve.[2]",
-    "footnotes": "[1] (V.2:62) A past nation used to live in Mûsal (Iraq) and say Lâ ilâha illallâh (none has the right to be worshipped but Allâh) and used to read Az-Zabur (the Psalms of the Sabians) and they were neither Jews nor Christians.\n[2] (V.2:62) This Verse (and Verse 5:69), mentioned in the Qur’ân should not be misinterpreted by the reader as mentioned by Ibn ‘Abbâs رضي الله عنهما (Tafsîr At-Tabari) that the provision of this Verse was abrogated by the Verse 3:85: \"And whosoever seeks a religion other than Islâm, it will never be accepted of him, and in the Hereafter, he will be one of the losers.\" (i.e. after the coming of Prophet Muhammad صلى الله عليه وسلم on the earth, no other religion except Islâm, will be accepted from anyone)."
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 10,
+  "verse_key": "2:62",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلنَّصَٰرَىٰ وَٱلصَّٰبِـِٔينَ مَنۡ ءَامَنَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَعَمِلَ صَٰلِحٗا فَلَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡ وَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "62. Verily! Those who believe and those who are Jews and Christians, and Sabians,[1] whoever believes in Allâh and the Last Day and does righteous good deeds shall have their reward with their Lord, on them shall be no fear, nor shall they grieve.[2]",
+  "footnotes": "[1] (V.2:62) A past nation used to live in Mûsal (Iraq) and say Lâ ilâha illallâh (none has the right to be worshipped but Allâh) and used to read Az-Zabur (the Psalms of the Sabians) and they were neither Jews nor Christians.\n[2] (V.2:62) This Verse (and Verse 5:69), mentioned in the Qur’ân should not be misinterpreted by the reader as mentioned by Ibn ‘Abbâs رضي الله عنهما (Tafsîr At-Tabari) that the provision of this Verse was abrogated by the Verse 3:85: \"And whosoever seeks a religion other than Islâm, it will never be accepted of him, and in the Hereafter, he will be one of the losers.\" (i.e. after the coming of Prophet Muhammad صلى الله عليه وسلم on the earth, no other religion except Islâm, will be accepted from anyone)."
 }

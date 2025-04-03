@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3661",
-    "sura": "35",
-    "aya": "1",
-    "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ جَاعِلِ ٱلۡمَلَٰٓئِكَةِ رُسُلًا أُوْلِيٓ أَجۡنِحَةٖ مَّثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۚ يَزِيدُ فِي ٱلۡخَلۡقِ مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Gbogbo ẹyìn ń jẹ́ ti Allāhu, Olùpilẹ̀dá àwọn sánmọ̀ àti ilẹ̀, (Ẹni tí) Ó ṣe àwọn mọlāika alápá méjì àti mẹ́ta àti mẹ́rin ní Òjíṣẹ́. Ó ń ṣe àlékún ohun tí Ó bá fẹ́ lára ẹ̀dá. Dájúdájú Allāhu ni Alágbára lórí gbogbo n̄ǹkan.[1]",
-    "footnotes": "1. Àgbọ́yé òǹkà tí ó jẹyọ nínú sūrah an-Nisā’; 4:3 ni àgbọ́yé òǹkà tó tún jẹyọ nínú āyah yìí. Èyí túmọ̀ sí pé, alápá méjì wà nínú àwọn mọlāika, alápá mẹ́ta wà nínú wọn, alápá mẹ́rin sì wà nínú wọn. Alápá púpọ̀, tí apá rẹ̀ lé ní mẹ́rin, tún wà nínú wọn."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 434,
+  "verse_key": "35:1",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَمۡدُ لِلَّهِ فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ جَاعِلِ ٱلۡمَلَٰٓئِكَةِ رُسُلًا أُوْلِيٓ أَجۡنِحَةٖ مَّثۡنَىٰ وَثُلَٰثَ وَرُبَٰعَۚ يَزِيدُ فِي ٱلۡخَلۡقِ مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Gbogbo ẹyìn ń jẹ́ ti Allāhu, Olùpilẹ̀dá àwọn sánmọ̀ àti ilẹ̀, (Ẹni tí) Ó ṣe àwọn mọlāika alápá méjì àti mẹ́ta àti mẹ́rin ní Òjíṣẹ́. Ó ń ṣe àlékún ohun tí Ó bá fẹ́ lára ẹ̀dá. Dájúdájú Allāhu ni Alágbára lórí gbogbo n̄ǹkan.[1]",
+  "footnotes": "1. Àgbọ́yé òǹkà tí ó jẹyọ nínú sūrah an-Nisā’; 4:3 ni àgbọ́yé òǹkà tó tún jẹyọ nínú āyah yìí. Èyí túmọ̀ sí pé, alápá méjì wà nínú àwọn mọlāika, alápá mẹ́ta wà nínú wọn, alápá mẹ́rin sì wà nínú wọn. Alápá púpọ̀, tí apá rẹ̀ lé ní mẹ́rin, tún wà nínú wọn."
 }

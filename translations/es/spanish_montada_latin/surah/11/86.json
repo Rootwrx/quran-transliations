@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1559",
-    "sura": "11",
-    "aya": "86",
-    "arabic_text": "بَقِيَّتُ ٱللَّهِ خَيۡرٞ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِينَۚ وَمَآ أَنَا۠ عَلَيۡكُم بِحَفِيظٖ",
-    "translation": "86. Lo que obtengan de manera lícita (cuando negocien) es mucho mejor para ustedes si de verdad son creyentes. Y yo no soy su guardián (y no es a mí a quien habrán de rendir cuentas)”.",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 231,
+  "verse_key": "11:86",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَقِيَّتُ ٱللَّهِ خَيۡرٞ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِينَۚ وَمَآ أَنَا۠ عَلَيۡكُم بِحَفِيظٖ",
+  "translation": "86. Lo que obtengan de manera lícita (cuando negocien) es mucho mejor para ustedes si de verdad son creyentes. Y yo no soy su guardián (y no es a mí a quien habrán de rendir cuentas)”.",
+  "footnotes": ""
 }

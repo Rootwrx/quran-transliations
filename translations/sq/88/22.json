@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5989",
-    "sura": "88",
-    "aya": "22",
-    "arabic_text": "لَّسۡتَ عَلَيۡهِم بِمُصَيۡطِرٍ",
-    "translation": "dhe nuk je ngarkuar t’i detyrosh ata me forcë!",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 592,
+  "verse_key": "88:22",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّسۡتَ عَلَيۡهِم بِمُصَيۡطِرٍ",
+  "translation": "dhe nuk je ngarkuar t’i detyrosh ata me forcë!",
+  "footnotes": ""
 }

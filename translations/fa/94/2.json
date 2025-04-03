@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6092",
-    "sura": "94",
-    "aya": "2",
-    "arabic_text": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ",
-    "translation": "و سنگینی [بارِ گناه و دشواریِ رسالت] را از [دوشِ] تو برنداشتیم؟",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 596,
+  "verse_key": "94:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَضَعۡنَا عَنكَ وِزۡرَكَ",
+  "translation": "و سنگینی [بارِ گناه و دشواریِ رسالت] را از [دوشِ] تو برنداشتیم؟",
+  "footnotes": ""
 }

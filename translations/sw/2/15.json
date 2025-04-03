@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "22",
-    "sura": "2",
-    "aya": "15",
-    "arabic_text": "ٱللَّهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
-    "translation": "Mwenyezi Mungu atawadhihaki wao na atawawacha katika upotofu wao wakitangatanga ovyo.",
-    "footnotes": "Mwenyezi Mungu Subhana atawalipa kwa huko kudhihaki kwao, na atawaandikia uangamifu unao lingana na hayo maskhara yao na dharau zao. Atawatendea inavyo stahili kutendewa mwenye kudhihaki, na anawapa muhula tu katika dhulma yao iliyo ovu, inayo watia upofu wasiione haki. Kisha khatimaye ndipo atapo watia mkononi kwa adhabu yake."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 3,
+  "verse_key": "2:15",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ يَسۡتَهۡزِئُ بِهِمۡ وَيَمُدُّهُمۡ فِي طُغۡيَٰنِهِمۡ يَعۡمَهُونَ",
+  "translation": "Mwenyezi Mungu atawadhihaki wao na atawawacha katika upotofu wao wakitangatanga ovyo.",
+  "footnotes": "Mwenyezi Mungu Subhana atawalipa kwa huko kudhihaki kwao, na atawaandikia uangamifu unao lingana na hayo maskhara yao na dharau zao. Atawatendea inavyo stahili kutendewa mwenye kudhihaki, na anawapa muhula tu katika dhulma yao iliyo ovu, inayo watia upofu wasiione haki. Kisha khatimaye ndipo atapo watia mkononi kwa adhabu yake."
 }

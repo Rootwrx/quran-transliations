@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2326",
-    "sura": "19",
-    "aya": "76",
-    "arabic_text": "وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهۡتَدَوۡاْ هُدٗىۗ وَٱلۡبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيۡرٌ عِندَ رَبِّكَ ثَوَابٗا وَخَيۡرٞ مَّرَدًّا",
-    "translation": "Allah increases in guidance those who are guided, and the righteous deeds of lasting merit are better with your Lord in reward and better in return.",
-    "footnotes": ""
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 310,
+  "verse_key": "19:76",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَزِيدُ ٱللَّهُ ٱلَّذِينَ ٱهۡتَدَوۡاْ هُدٗىۗ وَٱلۡبَٰقِيَٰتُ ٱلصَّٰلِحَٰتُ خَيۡرٌ عِندَ رَبِّكَ ثَوَابٗا وَخَيۡرٞ مَّرَدًّا",
+  "translation": "Allah increases in guidance those who are guided, and the righteous deeds of lasting merit are better with your Lord in reward and better in return.",
+  "footnotes": ""
 }

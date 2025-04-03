@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3154",
-    "sura": "26",
-    "aya": "222",
-    "arabic_text": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٖ",
-    "translation": "222. Descienden sobre todo mentiroso perverso[1] [que dice ser adivino].",
-    "footnotes": "[1] El término affak أفاك , que primariamente denota a “un gran mentiroso” o “un mentiroso empedernido”, tiene aquí el significado de “alguien que se engaña a sí mismo”; esto queda de manifiesto en el versículo siguiente, que destaca el hecho psicológico de que la mayoría de los que se engañan a sí mismos, mienten también con gran facilidad a los demás."
-  }
+  "id": 222,
+  "verse_number": 222,
+  "page_number": 376,
+  "verse_key": "26:222",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَنَزَّلُ عَلَىٰ كُلِّ أَفَّاكٍ أَثِيمٖ",
+  "translation": "222. Descienden sobre todo mentiroso perverso[1] [que dice ser adivino].",
+  "footnotes": "[1] El término affak أفاك , que primariamente denota a “un gran mentiroso” o “un mentiroso empedernido”, tiene aquí el significado de “alguien que se engaña a sí mismo”; esto queda de manifiesto en el versículo siguiente, que destaca el hecho psicológico de que la mayoría de los que se engañan a sí mismos, mienten también con gran facilidad a los demás."
 }

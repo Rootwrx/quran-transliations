@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "557",
-    "sura": "4",
-    "aya": "64",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا",
-    "translation": "Hindi nagsugo ng anumang sugo kundi upang talimain ito ayon sa pahintulot ni Allāh. Kung sakaling sila, noong lumabag sila sa katarungan sa mga sarili nila, ay dumating sa iyo saka humingi ng tawad kay Allāh at humingi ng tawad para sa kanila ang Sugo, talaga sanang nakatagpo sila na si Allāh ay Palatanggap ng pagbabalik-loob, Maawain.",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 88,
+  "verse_key": "4:64",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا",
+  "translation": "Hindi nagsugo ng anumang sugo kundi upang talimain ito ayon sa pahintulot ni Allāh. Kung sakaling sila, noong lumabag sila sa katarungan sa mga sarili nila, ay dumating sa iyo saka humingi ng tawad kay Allāh at humingi ng tawad para sa kanila ang Sugo, talaga sanang nakatagpo sila na si Allāh ay Palatanggap ng pagbabalik-loob, Maawain.",
+  "footnotes": ""
 }

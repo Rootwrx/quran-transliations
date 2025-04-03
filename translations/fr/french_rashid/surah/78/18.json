@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5690",
-    "sura": "78",
-    "aya": "18",
-    "arabic_text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجٗا",
-    "translation": "18 Jour où il sera soufflé dans la Corne et où, par groupes, vous viendrez,",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 582,
+  "verse_key": "78:18",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يُنفَخُ فِي ٱلصُّورِ فَتَأۡتُونَ أَفۡوَاجٗا",
+  "translation": "18 Jour où il sera soufflé dans la Corne et où, par groupes, vous viendrez,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "481",
-    "sura": "3",
-    "aya": "188",
-    "arabic_text": "لَا تَحۡسَبَنَّ ٱلَّذِينَ يَفۡرَحُونَ بِمَآ أَتَواْ وَّيُحِبُّونَ أَن يُحۡمَدُواْ بِمَا لَمۡ يَفۡعَلُواْ فَلَا تَحۡسَبَنَّهُم بِمَفَازَةٖ مِّنَ ٱلۡعَذَابِۖ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
-    "translation": "Ẹ má ṣe lérò pé àwọn tó ń dunnú sí ohun tí wọ́n ṣe (ní àìdáa máa là nínú ìyà). Wọ́n sì nífẹ̀ẹ́ sí kí àwọn (ènìyàn) máa yìn wọ́n fún ohun tí wọn kò ṣe (níṣẹ́ rere). Nítorí náà, ẹ má ṣe rò wọ́n ro ìgbàlà níbi Ìyà. Ìyà ẹlẹ́ta eléro sì wà fún wọn.",
-    "footnotes": ""
-  }
+  "id": 188,
+  "verse_number": 188,
+  "page_number": 75,
+  "verse_key": "3:188",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا تَحۡسَبَنَّ ٱلَّذِينَ يَفۡرَحُونَ بِمَآ أَتَواْ وَّيُحِبُّونَ أَن يُحۡمَدُواْ بِمَا لَمۡ يَفۡعَلُواْ فَلَا تَحۡسَبَنَّهُم بِمَفَازَةٖ مِّنَ ٱلۡعَذَابِۖ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+  "translation": "Ẹ má ṣe lérò pé àwọn tó ń dunnú sí ohun tí wọ́n ṣe (ní àìdáa máa là nínú ìyà). Wọ́n sì nífẹ̀ẹ́ sí kí àwọn (ènìyàn) máa yìn wọ́n fún ohun tí wọn kò ṣe (níṣẹ́ rere). Nítorí náà, ẹ má ṣe rò wọ́n ro ìgbàlà níbi Ìyà. Ìyà ẹlẹ́ta eléro sì wà fún wọn.",
+  "footnotes": ""
 }

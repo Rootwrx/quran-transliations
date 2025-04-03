@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5398",
-    "sura": "70",
-    "aya": "23",
-    "arabic_text": "ٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ دَآئِمُونَ",
-    "translation": "Neb nins tɩ b pʋʋsgã zugu, b yaa ruumdba.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 569,
+  "verse_key": "70:23",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ هُمۡ عَلَىٰ صَلَاتِهِمۡ دَآئِمُونَ",
+  "translation": "Neb nins tɩ b pʋʋsgã zugu, b yaa ruumdba.",
+  "footnotes": ""
 }

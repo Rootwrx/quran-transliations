@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1698",
-    "sura": "12",
-    "aya": "102",
-    "arabic_text": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهِ إِلَيۡكَۖ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ أَجۡمَعُوٓاْ أَمۡرَهُمۡ وَهُمۡ يَمۡكُرُونَ",
-    "translation": "(102) That is from the news of the unseen which We reveal, [O Muḥammad], to you. And you were not with them when they put together their plan while they conspired.",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 247,
+  "verse_key": "12:102",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ مِنۡ أَنۢبَآءِ ٱلۡغَيۡبِ نُوحِيهِ إِلَيۡكَۖ وَمَا كُنتَ لَدَيۡهِمۡ إِذۡ أَجۡمَعُوٓاْ أَمۡرَهُمۡ وَهُمۡ يَمۡكُرُونَ",
+  "translation": "(102) That is from the news of the unseen which We reveal, [O Muḥammad], to you. And you were not with them when they put together their plan while they conspired.",
+  "footnotes": ""
 }

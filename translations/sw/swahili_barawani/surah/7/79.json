@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1033",
-    "sura": "7",
-    "aya": "79",
-    "arabic_text": "فَتَوَلَّىٰ عَنۡهُمۡ وَقَالَ يَٰقَوۡمِ لَقَدۡ أَبۡلَغۡتُكُمۡ رِسَالَةَ رَبِّي وَنَصَحۡتُ لَكُمۡ وَلَٰكِن لَّا تُحِبُّونَ ٱلنَّٰصِحِينَ",
-    "translation": "Basi Swaleh akwaacha na akasema: Enyi watu wangu! Nilikufikishieni Ujumbe wa Mola wangu Mlezi, na nikakunasihini, lakini nyinyi hamwapendi wenye nasaha.",
-    "footnotes": "Na kabla ya kuwateremkia adhabu hiyo ndugu yao Swaleh aliwaachilia mbali (kwa kukata tamaa nao), akawaambia: Enyi watu wangu! Mimi nimekufikishieni amri na makatazo ya Mola Mlezi wangu. Na nimekusafieni nasaha yangu, lakini nyinyi kwa ushindani wenu na ushupavu wenu, mmekuwa hamumpendi anaye kunasihini!"
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 160,
+  "verse_key": "7:79",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 64,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتَوَلَّىٰ عَنۡهُمۡ وَقَالَ يَٰقَوۡمِ لَقَدۡ أَبۡلَغۡتُكُمۡ رِسَالَةَ رَبِّي وَنَصَحۡتُ لَكُمۡ وَلَٰكِن لَّا تُحِبُّونَ ٱلنَّٰصِحِينَ",
+  "translation": "Basi Swaleh akwaacha na akasema: Enyi watu wangu! Nilikufikishieni Ujumbe wa Mola wangu Mlezi, na nikakunasihini, lakini nyinyi hamwapendi wenye nasaha.",
+  "footnotes": "Na kabla ya kuwateremkia adhabu hiyo ndugu yao Swaleh aliwaachilia mbali (kwa kukata tamaa nao), akawaambia: Enyi watu wangu! Mimi nimekufikishieni amri na makatazo ya Mola Mlezi wangu. Na nimekusafieni nasaha yangu, lakini nyinyi kwa ushindani wenu na ushupavu wenu, mmekuwa hamumpendi anaye kunasihini!"
 }

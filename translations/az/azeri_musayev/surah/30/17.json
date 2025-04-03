@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3426",
-    "sura": "30",
-    "aya": "17",
-    "arabic_text": "فَسُبۡحَٰنَ ٱللَّهِ حِينَ تُمۡسُونَ وَحِينَ تُصۡبِحُونَ",
-    "translation": "Odur ki, siz axşama yetişəndə və səhərə çıxanda Allahın şəninə tərif söyləyin.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 406,
+  "verse_key": "30:17",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسُبۡحَٰنَ ٱللَّهِ حِينَ تُمۡسُونَ وَحِينَ تُصۡبِحُونَ",
+  "translation": "Odur ki, siz axşama yetişəndə və səhərə çıxanda Allahın şəninə tərif söyləyin.",
+  "footnotes": ""
 }

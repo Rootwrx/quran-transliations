@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2118",
-    "sura": "17",
-    "aya": "89",
-    "arabic_text": "وَلَقَدۡ صَرَّفۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖ فَأَبَىٰٓ أَكۡثَرُ ٱلنَّاسِ إِلَّا كُفُورٗا",
-    "translation": "We have explained every kind of example[79] for mankind in this Qur’an, yet most people persist in disbelief.",
-    "footnotes": "[79] i.e., proofs, admonitions, similitudes, and stories, so that people of sound reason may take heed."
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 291,
+  "verse_key": "17:89",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ صَرَّفۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖ فَأَبَىٰٓ أَكۡثَرُ ٱلنَّاسِ إِلَّا كُفُورٗا",
+  "translation": "We have explained every kind of example[79] for mankind in this Qur’an, yet most people persist in disbelief.",
+  "footnotes": "[79] i.e., proofs, admonitions, similitudes, and stories, so that people of sound reason may take heed."
 }

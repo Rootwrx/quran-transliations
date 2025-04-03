@@ -1,26 +1,44 @@
 {
-  "result": [
+  "verses": [
     {
-      "id": "6205",
-      "sura": "108",
-      "aya": "1",
-      "arabic_text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
+      "id": 1,
+      "verse_number": 1,
+      "page_number": 602,
+      "verse_key": "108:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "إِنَّآ أَعۡطَيۡنَٰكَ ٱلۡكَوۡثَرَ",
       "translation": "1. Waxaanu ku siinnay (Nabi Muxammadow) Al-Kawthar (webi ah Jannada iyo khayr tiro badan).",
       "footnotes": ""
     },
     {
-      "id": "6206",
-      "sura": "108",
-      "aya": "2",
-      "arabic_text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+      "id": 2,
+      "verse_number": 2,
+      "page_number": 602,
+      "verse_key": "108:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
       "translation": "2. Ee u tuko (Alle) Rabbigaa Dartiis, (oo u) gawrac xoolo (adigoo Isaga Keliya Magaciisa ku xusi, uguna dhowaan).",
       "footnotes": ""
     },
     {
-      "id": "6207",
-      "sura": "108",
-      "aya": "3",
-      "arabic_text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
+      "id": 3,
+      "verse_number": 3,
+      "page_number": 602,
+      "verse_key": "108:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "إِنَّ شَانِئَكَ هُوَ ٱلۡأَبۡتَرُ",
       "translation": "3.Hubaal nacabkaaga waa kan cidhib go’i1.",
       "footnotes": "1. Rasuulkii Alle s.c.w. wuxuu yidhi: Waxaan ku dhaartay Kan ay Gacantiisu ku jirto nafteyda, midkiinna ma ahaan doono mu'min dhan jeer uu i jeclaado in ka badan waalidki iyo ilmahiisa iyo dadka oo dhammi\"."
     }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4496",
-    "sura": "45",
-    "aya": "23",
-    "arabic_text": "أَفَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلۡمٖ وَخَتَمَ عَلَىٰ سَمۡعِهِۦ وَقَلۡبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةٗ فَمَن يَهۡدِيهِ مِنۢ بَعۡدِ ٱللَّهِۚ أَفَلَا تَذَكَّرُونَ",
-    "translation": "Ntumwa y’Imana! Mbega warabonye uwigiriye ivyipfuzo vyiwe kuba ari yo mana yiwe, Imana Allah Iraheza Iramuhubisha kandi yaramaze gushikirwa n’ubumenyi n’ivyemezo; Itera n’ikimangu ku mutima wiwe ntihagira na kimwe atahura ngo yikebuke; Ishira no ku maso yiwe ipaziya, ntiyaba akibona ivyemezo vyayo! Ni nde wundi none yomushoboza kuba umugororotsi, inyuma y’aho Imana Allah Imurekeye agahuba ku bugaba bwiwe! Bantu! Ubwo ntimwokwibuka mukamenya ko uwo Imana Allah Iretse agahuba ku bugaba bwiwe, ata wushobora kumurongora mu nzira yayo[4]!",
-    "footnotes": "[4] Iyi Aayah, irihaniza umuntu gukora ivyo akora yisunze ivyipfuzo vyiwe, ha kwisunga ingingo n’amabwirizwa vy’Imana Allah."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 501,
+  "verse_key": "45:23",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَرَءَيۡتَ مَنِ ٱتَّخَذَ إِلَٰهَهُۥ هَوَىٰهُ وَأَضَلَّهُ ٱللَّهُ عَلَىٰ عِلۡمٖ وَخَتَمَ عَلَىٰ سَمۡعِهِۦ وَقَلۡبِهِۦ وَجَعَلَ عَلَىٰ بَصَرِهِۦ غِشَٰوَةٗ فَمَن يَهۡدِيهِ مِنۢ بَعۡدِ ٱللَّهِۚ أَفَلَا تَذَكَّرُونَ",
+  "translation": "Ntumwa y’Imana! Mbega warabonye uwigiriye ivyipfuzo vyiwe kuba ari yo mana yiwe, Imana Allah Iraheza Iramuhubisha kandi yaramaze gushikirwa n’ubumenyi n’ivyemezo; Itera n’ikimangu ku mutima wiwe ntihagira na kimwe atahura ngo yikebuke; Ishira no ku maso yiwe ipaziya, ntiyaba akibona ivyemezo vyayo! Ni nde wundi none yomushoboza kuba umugororotsi, inyuma y’aho Imana Allah Imurekeye agahuba ku bugaba bwiwe! Bantu! Ubwo ntimwokwibuka mukamenya ko uwo Imana Allah Iretse agahuba ku bugaba bwiwe, ata wushobora kumurongora mu nzira yayo[4]!",
+  "footnotes": "[4] Iyi Aayah, irihaniza umuntu gukora ivyo akora yisunze ivyipfuzo vyiwe, ha kwisunga ingingo n’amabwirizwa vy’Imana Allah."
 }

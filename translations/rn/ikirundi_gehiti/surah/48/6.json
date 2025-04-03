@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4589",
-    "sura": "48",
-    "aya": "6",
-    "arabic_text": "وَيُعَذِّبَ ٱلۡمُنَٰفِقِينَ وَٱلۡمُنَٰفِقَٰتِ وَٱلۡمُشۡرِكِينَ وَٱلۡمُشۡرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوۡءِۚ عَلَيۡهِمۡ دَآئِرَةُ ٱلسَّوۡءِۖ وَغَضِبَ ٱللَّهُ عَلَيۡهِمۡ وَلَعَنَهُمۡ وَأَعَدَّ لَهُمۡ جَهَنَّمَۖ وَسَآءَتۡ مَصِيرٗا",
-    "translation": "No kugira rero Ihane indyarya n’indyaryakazi, ababangikanyamana n’ababangikanyamanakazi biyumvira nabi Imana Allah, ko Idashoboye gutabara Intumwa yayo hamwe n’abemeramana bari kumwe na yo, bakanesha abansi babo, maze idini ryayo rigasasagara. Barakabona rero ibibi n’amagorwa vy’ubwoko bwose bibashavuza, baragashavurirwa n’Imana Allah, barakavumwa n’Imana Allah. Baranategekanirijwe n'umuriro wa Jahannamu, ni na yo maherezo mabi cane.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 511,
+  "verse_key": "48:6",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُعَذِّبَ ٱلۡمُنَٰفِقِينَ وَٱلۡمُنَٰفِقَٰتِ وَٱلۡمُشۡرِكِينَ وَٱلۡمُشۡرِكَٰتِ ٱلظَّآنِّينَ بِٱللَّهِ ظَنَّ ٱلسَّوۡءِۚ عَلَيۡهِمۡ دَآئِرَةُ ٱلسَّوۡءِۖ وَغَضِبَ ٱللَّهُ عَلَيۡهِمۡ وَلَعَنَهُمۡ وَأَعَدَّ لَهُمۡ جَهَنَّمَۖ وَسَآءَتۡ مَصِيرٗا",
+  "translation": "No kugira rero Ihane indyarya n’indyaryakazi, ababangikanyamana n’ababangikanyamanakazi biyumvira nabi Imana Allah, ko Idashoboye gutabara Intumwa yayo hamwe n’abemeramana bari kumwe na yo, bakanesha abansi babo, maze idini ryayo rigasasagara. Barakabona rero ibibi n’amagorwa vy’ubwoko bwose bibashavuza, baragashavurirwa n’Imana Allah, barakavumwa n’Imana Allah. Baranategekanirijwe n'umuriro wa Jahannamu, ni na yo maherezo mabi cane.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4429",
-    "sura": "44",
-    "aya": "15",
-    "arabic_text": "إِنَّا كَاشِفُواْ ٱلۡعَذَابِ قَلِيلًاۚ إِنَّكُمۡ عَآئِدُونَ",
-    "translation": "Sungguh, (kalau) Kami melenyapkan azab itu sedikit saja, tentu kamu akan kembali (ingkar).",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 496,
+  "verse_key": "44:15",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا كَاشِفُواْ ٱلۡعَذَابِ قَلِيلًاۚ إِنَّكُمۡ عَآئِدُونَ",
+  "translation": "Sungguh, (kalau) Kami melenyapkan azab itu sedikit saja, tentu kamu akan kembali (ingkar).",
+  "footnotes": ""
 }

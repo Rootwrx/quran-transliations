@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3629",
-    "sura": "34",
-    "aya": "23",
-    "arabic_text": "وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنۡ أَذِنَ لَهُۥۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمۡ قَالُواْ مَاذَا قَالَ رَبُّكُمۡۖ قَالُواْ ٱلۡحَقَّۖ وَهُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
-    "translation": "23. Mana anfacdo shafeeco (Alle) Agtiisa, mid uu u idmo ma’ahee15. (Kuwaasna way sugaan) ilaa, marka laga faydo cabsida quluubtooda16: waxay odhan: Waa Maxay waxaa uu yidhi Rabbigiin? waxay odhan: Xaq. Waana Sarreeyaha, Weyn.",
-    "footnotes": "15. Aayaddani waxay muujineysaa inaysan cidna u shafeeci karin cid kale inuu Alle idmo maahee oo ka raalli yahay in loo shafeeco qofkaa, waana inay kan shafeecaya iyo kan loo shafeecayo ay ka baqaan Allaah oo rajeeyaan oo yihiin dad heystay towxiidka iyo sunnada. \n16. Waa quluubta malaa’igta ee loo oggolaan doono inay shafeecaan."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 431,
+  "verse_key": "34:23",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَنفَعُ ٱلشَّفَٰعَةُ عِندَهُۥٓ إِلَّا لِمَنۡ أَذِنَ لَهُۥۚ حَتَّىٰٓ إِذَا فُزِّعَ عَن قُلُوبِهِمۡ قَالُواْ مَاذَا قَالَ رَبُّكُمۡۖ قَالُواْ ٱلۡحَقَّۖ وَهُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
+  "translation": "23. Mana anfacdo shafeeco (Alle) Agtiisa, mid uu u idmo ma’ahee15. (Kuwaasna way sugaan) ilaa, marka laga faydo cabsida quluubtooda16: waxay odhan: Waa Maxay waxaa uu yidhi Rabbigiin? waxay odhan: Xaq. Waana Sarreeyaha, Weyn.",
+  "footnotes": "15. Aayaddani waxay muujineysaa inaysan cidna u shafeeci karin cid kale inuu Alle idmo maahee oo ka raalli yahay in loo shafeeco qofkaa, waana inay kan shafeecaya iyo kan loo shafeecayo ay ka baqaan Allaah oo rajeeyaan oo yihiin dad heystay towxiidka iyo sunnada. \n16. Waa quluubta malaa’igta ee loo oggolaan doono inay shafeecaan."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "158",
-    "sura": "2",
-    "aya": "151",
-    "arabic_text": "كَمَآ أَرۡسَلۡنَا فِيكُمۡ رَسُولٗا مِّنكُمۡ يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِنَا وَيُزَكِّيكُمۡ وَيُعَلِّمُكُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُعَلِّمُكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ",
-    "translation": "Kama tulivyo mtuma Mtume kwenu anaye tokana na nyinyi, anakusomeeni Aya zetu na kukutakaseni na kukufundisheni Kitabu na hikima na kukufundisheni mliyo kuwa hamyajui.",
-    "footnotes": "Na hivi kukuelekezeni kwenye Msikiti Mtakatifu na kwa kuwa tumekutumieni Mtume aliye tokana nanyi, akikusomeeni Aya ni katika kukutimizieni neema yetu, kama tulivyo kutimizieni ile neema - nayo ni Qur'ani - na akusafishieni nafsi zenu zitoke uchafu wa ushirikina na tabia na ada mbovu mbovu, na anakusemezeni kwa njia ya kukufunzeni maarifa ya Qur'ani na ilimu zenye nafuu, na kukufunzeni mambo ambayo mlikuwa hamyajui. Kwani mlikuwa katika ujinga na upotovu ulio mpofu wa kijahilia."
-  }
+  "id": 151,
+  "verse_number": 151,
+  "page_number": 23,
+  "verse_key": "2:151",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَمَآ أَرۡسَلۡنَا فِيكُمۡ رَسُولٗا مِّنكُمۡ يَتۡلُواْ عَلَيۡكُمۡ ءَايَٰتِنَا وَيُزَكِّيكُمۡ وَيُعَلِّمُكُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُعَلِّمُكُم مَّا لَمۡ تَكُونُواْ تَعۡلَمُونَ",
+  "translation": "Kama tulivyo mtuma Mtume kwenu anaye tokana na nyinyi, anakusomeeni Aya zetu na kukutakaseni na kukufundisheni Kitabu na hikima na kukufundisheni mliyo kuwa hamyajui.",
+  "footnotes": "Na hivi kukuelekezeni kwenye Msikiti Mtakatifu na kwa kuwa tumekutumieni Mtume aliye tokana nanyi, akikusomeeni Aya ni katika kukutimizieni neema yetu, kama tulivyo kutimizieni ile neema - nayo ni Qur'ani - na akusafishieni nafsi zenu zitoke uchafu wa ushirikina na tabia na ada mbovu mbovu, na anakusemezeni kwa njia ya kukufunzeni maarifa ya Qur'ani na ilimu zenye nafuu, na kukufunzeni mambo ambayo mlikuwa hamyajui. Kwani mlikuwa katika ujinga na upotovu ulio mpofu wa kijahilia."
 }

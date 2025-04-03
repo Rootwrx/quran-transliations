@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3954",
-    "sura": "37",
-    "aya": "166",
-    "arabic_text": "وَإِنَّا لَنَحۡنُ ٱلۡمُسَبِّحُونَ",
-    "translation": "La sɩd la hakɩɩka Tõnd la yɩlgdba.",
-    "footnotes": ""
-  }
+  "id": 166,
+  "verse_number": 166,
+  "page_number": 452,
+  "verse_key": "37:166",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّا لَنَحۡنُ ٱلۡمُسَبِّحُونَ",
+  "translation": "La sɩd la hakɩɩka Tõnd la yɩlgdba.",
+  "footnotes": ""
 }

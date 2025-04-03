@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2135",
-    "sura": "17",
-    "aya": "106",
-    "arabic_text": "وَقُرۡءَانٗا فَرَقۡنَٰهُ لِتَقۡرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكۡثٖ وَنَزَّلۡنَٰهُ تَنزِيلٗا",
-    "translation": "106. En (het is) de Koran die Wij in delen hebben onderverdeeld zodat jullie het voor de mensen zullen reciteren . En Wij hebben het in verschillende periodes geopenbaard [1].",
-    "footnotes": "[1]Zodat zij in staat zijn het te begrijpen, daarom is het erg belangrijk voor de moslim om de Arabische taal onder de knie te krijgen ook al is het niet je moedertaal."
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 293,
+  "verse_key": "17:106",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُرۡءَانٗا فَرَقۡنَٰهُ لِتَقۡرَأَهُۥ عَلَى ٱلنَّاسِ عَلَىٰ مُكۡثٖ وَنَزَّلۡنَٰهُ تَنزِيلٗا",
+  "translation": "106. En (het is) de Koran die Wij in delen hebben onderverdeeld zodat jullie het voor de mensen zullen reciteren . En Wij hebben het in verschillende periodes geopenbaard [1].",
+  "footnotes": "[1]Zodat zij in staat zijn het te begrijpen, daarom is het erg belangrijk voor de moslim om de Arabische taal onder de knie te krijgen ook al is het niet je moedertaal."
 }

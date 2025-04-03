@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "780",
-    "sura": "5",
-    "aya": "111",
-    "arabic_text": "وَإِذۡ أَوۡحَيۡتُ إِلَى ٱلۡحَوَارِيِّـۧنَ أَنۡ ءَامِنُواْ بِي وَبِرَسُولِي قَالُوٓاْ ءَامَنَّا وَٱشۡهَدۡ بِأَنَّنَا مُسۡلِمُونَ",
-    "translation": "(Rántí) nígbà tí Mo fi mọ àwọn ọmọlẹ́yìn rẹ[1] nínú ọkàn wọn pé kí wọ́n gbàgbọ́ nínú Èmi àti Òjíṣẹ́ Mi. Wọ́n sọ pé: “A gbàgbọ́. Kí o sì jẹ́rìí pé dájúdájú mùsùlùmí ni wá.”",
-    "footnotes": "1. “Hawāriyyūn” túmọ̀ sí àwọn ọmọlẹ́yìn. Ipò tí àwọn Sọhābah àti Ansọ̄r wà sí Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - ni ipò tí àwọn hawāriyyūn wà sí Ànábì ‘Īsā ọmọ Mọryam - kí ọlà Allāhu máa bá a -. Nítorí náà, àwọn ọ̀rọ̀ náà túmọ̀ ara wọn."
-  }
+  "id": 111,
+  "verse_number": 111,
+  "page_number": 126,
+  "verse_key": "5:111",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ أَوۡحَيۡتُ إِلَى ٱلۡحَوَارِيِّـۧنَ أَنۡ ءَامِنُواْ بِي وَبِرَسُولِي قَالُوٓاْ ءَامَنَّا وَٱشۡهَدۡ بِأَنَّنَا مُسۡلِمُونَ",
+  "translation": "(Rántí) nígbà tí Mo fi mọ àwọn ọmọlẹ́yìn rẹ[1] nínú ọkàn wọn pé kí wọ́n gbàgbọ́ nínú Èmi àti Òjíṣẹ́ Mi. Wọ́n sọ pé: “A gbàgbọ́. Kí o sì jẹ́rìí pé dájúdájú mùsùlùmí ni wá.”",
+  "footnotes": "1. “Hawāriyyūn” túmọ̀ sí àwọn ọmọlẹ́yìn. Ipò tí àwọn Sọhābah àti Ansọ̄r wà sí Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - ni ipò tí àwọn hawāriyyūn wà sí Ànábì ‘Īsā ọmọ Mọryam - kí ọlà Allāhu máa bá a -. Nítorí náà, àwọn ọ̀rọ̀ náà túmọ̀ ara wọn."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2105",
-    "sura": "17",
-    "aya": "76",
-    "arabic_text": "وَإِن كَادُواْ لَيَسۡتَفِزُّونَكَ مِنَ ٱلۡأَرۡضِ لِيُخۡرِجُوكَ مِنۡهَاۖ وَإِذٗا لَّا يَلۡبَثُونَ خِلَٰفَكَ إِلَّا قَلِيلٗا",
-    "translation": "76. Мре ya soló penza, etikalaki шоке balonga kokimisa yo mboka, mpo okoma moto pamba, mpe na sima nayo bakowumela mpe tango molayi te.",
-    "footnotes": ""
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 290,
+  "verse_key": "17:76",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن كَادُواْ لَيَسۡتَفِزُّونَكَ مِنَ ٱلۡأَرۡضِ لِيُخۡرِجُوكَ مِنۡهَاۖ وَإِذٗا لَّا يَلۡبَثُونَ خِلَٰفَكَ إِلَّا قَلِيلٗا",
+  "translation": "76. Мре ya soló penza, etikalaki шоке balonga kokimisa yo mboka, mpo okoma moto pamba, mpe na sima nayo bakowumela mpe tango molayi te.",
+  "footnotes": ""
 }

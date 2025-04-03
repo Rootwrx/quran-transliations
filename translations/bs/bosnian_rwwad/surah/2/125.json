@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "132",
-    "sura": "2",
-    "aya": "125",
-    "arabic_text": "وَإِذۡ جَعَلۡنَا ٱلۡبَيۡتَ مَثَابَةٗ لِّلنَّاسِ وَأَمۡنٗا وَٱتَّخِذُواْ مِن مَّقَامِ إِبۡرَٰهِـۧمَ مُصَلّٗىۖ وَعَهِدۡنَآ إِلَىٰٓ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ أَن طَهِّرَا بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
-    "translation": "I kada Mi Kabu učinismo utočištem i sigurnim mjestom za ljude: \"Neka vam mjesto na kojem je Ibrahim stajao bude prostor gdje ćete namaz obavljati!\" I Ibrahimu i Ismailu stavili smo u obavezu: \"Kabu Moju vas dvojica očistite za one koji je budu obilazili, za one koji u njoj budu boravili, i za one koji ruku' i sedždu budu činili.\"",
-    "footnotes": ""
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 19,
+  "verse_key": "2:125",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ جَعَلۡنَا ٱلۡبَيۡتَ مَثَابَةٗ لِّلنَّاسِ وَأَمۡنٗا وَٱتَّخِذُواْ مِن مَّقَامِ إِبۡرَٰهِـۧمَ مُصَلّٗىۖ وَعَهِدۡنَآ إِلَىٰٓ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ أَن طَهِّرَا بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+  "translation": "I kada Mi Kabu učinismo utočištem i sigurnim mjestom za ljude: \"Neka vam mjesto na kojem je Ibrahim stajao bude prostor gdje ćete namaz obavljati!\" I Ibrahimu i Ismailu stavili smo u obavezu: \"Kabu Moju vas dvojica očistite za one koji je budu obilazili, za one koji u njoj budu boravili, i za one koji ruku' i sedždu budu činili.\"",
+  "footnotes": ""
 }

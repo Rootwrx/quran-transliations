@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "980",
-    "sura": "7",
-    "aya": "26",
-    "arabic_text": "يَٰبَنِيٓ ءَادَمَ قَدۡ أَنزَلۡنَا عَلَيۡكُمۡ لِبَاسٗا يُوَٰرِي سَوۡءَٰتِكُمۡ وَرِيشٗاۖ وَلِبَاسُ ٱلتَّقۡوَىٰ ذَٰلِكَ خَيۡرٞۚ ذَٰلِكَ مِنۡ ءَايَٰتِ ٱللَّهِ لَعَلَّهُمۡ يَذَّكَّرُونَ",
-    "translation": "Yemwe bene Adamu! Mu by’ukuri twabahaye umwambaro uhishira ubwambure bwanyu (n’umwambaro w’) umutako, ariko umwambaro wo gutinya Allah ni wo mwiza. Ibyo ni bimwe mu bimenyetso bya Allah kugira ngo bajye bazirikana (ingabire ze).",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 153,
+  "verse_key": "7:26",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰبَنِيٓ ءَادَمَ قَدۡ أَنزَلۡنَا عَلَيۡكُمۡ لِبَاسٗا يُوَٰرِي سَوۡءَٰتِكُمۡ وَرِيشٗاۖ وَلِبَاسُ ٱلتَّقۡوَىٰ ذَٰلِكَ خَيۡرٞۚ ذَٰلِكَ مِنۡ ءَايَٰتِ ٱللَّهِ لَعَلَّهُمۡ يَذَّكَّرُونَ",
+  "translation": "Yemwe bene Adamu! Mu by’ukuri twabahaye umwambaro uhishira ubwambure bwanyu (n’umwambaro w’) umutako, ariko umwambaro wo gutinya Allah ni wo mwiza. Ibyo ni bimwe mu bimenyetso bya Allah kugira ngo bajye bazirikana (ingabire ze).",
+  "footnotes": ""
 }

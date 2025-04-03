@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2940",
-    "sura": "26",
-    "aya": "8",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
-    "translation": "Hakika katika haya zipo Ishara. Lakini wengi wao hawakuwa wenye kuamini.",
-    "footnotes": "Hakika katika kutoka kwa hii mimea ni dalili kubwa ya kuwepo Muumba Muweza. Lakini wengi wa watu si wenye kuamini."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 367,
+  "verse_key": "26:8",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+  "translation": "Hakika katika haya zipo Ishara. Lakini wengi wao hawakuwa wenye kuamini.",
+  "footnotes": "Hakika katika kutoka kwa hii mimea ni dalili kubwa ya kuwepo Muumba Muweza. Lakini wengi wa watu si wenye kuamini."
 }

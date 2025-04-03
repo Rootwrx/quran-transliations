@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3230",
-    "sura": "27",
-    "aya": "71",
-    "arabic_text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "(Những kẻ vô đức tin và phủ nhận sự phục sinh) nói: “Chừng nào lời hứa này sẽ xảy ra nếu quí vị nói thật?”",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 383,
+  "verse_key": "27:71",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "(Những kẻ vô đức tin và phủ nhận sự phục sinh) nói: “Chừng nào lời hứa này sẽ xảy ra nếu quí vị nói thật?”",
+  "footnotes": ""
 }

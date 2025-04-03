@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3862",
-    "sura": "37",
-    "aya": "74",
-    "arabic_text": "إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِينَ",
-    "translation": "74. Behalve de zuivere dienaren van Allah.",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 448,
+  "verse_key": "37:74",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِينَ",
+  "translation": "74. Behalve de zuivere dienaren van Allah.",
+  "footnotes": ""
 }

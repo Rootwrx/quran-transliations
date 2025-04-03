@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5316",
-    "sura": "68",
-    "aya": "45",
-    "arabic_text": "وَأُمۡلِي لَهُمۡۚ إِنَّ كَيۡدِي مَتِينٌ",
-    "translation": " 45. And I will grant them a respite. Verily, My Plan is strong.",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 566,
+  "verse_key": "68:45",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأُمۡلِي لَهُمۡۚ إِنَّ كَيۡدِي مَتِينٌ",
+  "translation": " 45. And I will grant them a respite. Verily, My Plan is strong.",
+  "footnotes": ""
 }

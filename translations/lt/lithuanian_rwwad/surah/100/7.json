@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6153",
-    "sura": "100",
-    "aya": "7",
-    "arabic_text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ",
-    "translation": "7. ir iš tiesų, jis yra to liudytojas (savo kalba ir darbais),",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 599,
+  "verse_key": "100:7",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّهُۥ عَلَىٰ ذَٰلِكَ لَشَهِيدٞ",
+  "translation": "7. ir iš tiesų, jis yra to liudytojas (savo kalba ir darbais),",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4788",
-    "sura": "53",
-    "aya": "4",
-    "arabic_text": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ",
-    "translation": "Kò níí sọ ohun kan tayọ ìmísí tí A fi ránṣẹ́ sí i.[1]",
-    "footnotes": "1. Ìyẹn ni pé, ìmísí mímọ́ ni al-Ƙur’ān alápọ̀n-ọ́nlé àti sunnah Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a -."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 526,
+  "verse_key": "53:4",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ",
+  "translation": "Kò níí sọ ohun kan tayọ ìmísí tí A fi ránṣẹ́ sí i.[1]",
+  "footnotes": "1. Ìyẹn ni pé, ìmísí mímọ́ ni al-Ƙur’ān alápọ̀n-ọ́nlé àti sunnah Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a -."
 }

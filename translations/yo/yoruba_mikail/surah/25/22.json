@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2877",
-    "sura": "25",
-    "aya": "22",
-    "arabic_text": "يَوۡمَ يَرَوۡنَ ٱلۡمَلَٰٓئِكَةَ لَا بُشۡرَىٰ يَوۡمَئِذٖ لِّلۡمُجۡرِمِينَ وَيَقُولُونَ حِجۡرٗا مَّحۡجُورٗا",
-    "translation": "Ní ọjọ́ tí wọ́n bá fi lè rí àwọn mọlāika, kò níí sí ìró ìdùnnú fún àwọn ẹlẹ́ṣẹ̀ ní ọjọ́ yẹn. (Àwọn mọlāika) yó sì sọ pé: “Èèwọ̀, èèwọ̀ (ni ìró ìdùnnú fún ẹ̀yin ẹlẹ́ṣẹ̀).”",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 362,
+  "verse_key": "25:22",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَرَوۡنَ ٱلۡمَلَٰٓئِكَةَ لَا بُشۡرَىٰ يَوۡمَئِذٖ لِّلۡمُجۡرِمِينَ وَيَقُولُونَ حِجۡرٗا مَّحۡجُورٗا",
+  "translation": "Ní ọjọ́ tí wọ́n bá fi lè rí àwọn mọlāika, kò níí sí ìró ìdùnnú fún àwọn ẹlẹ́ṣẹ̀ ní ọjọ́ yẹn. (Àwọn mọlāika) yó sì sọ pé: “Èèwọ̀, èèwọ̀ (ni ìró ìdùnnú fún ẹ̀yin ẹlẹ́ṣẹ̀).”",
+  "footnotes": ""
 }

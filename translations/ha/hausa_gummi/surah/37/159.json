@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3947",
-    "sura": "37",
-    "aya": "159",
-    "arabic_text": "سُبۡحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
-    "translation": "Tsarki ya tabbata ga Allah daga abin da suke siffantãwa.",
-    "footnotes": ""
-  }
+  "id": 159,
+  "verse_number": 159,
+  "page_number": 452,
+  "verse_key": "37:159",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سُبۡحَٰنَ ٱللَّهِ عَمَّا يَصِفُونَ",
+  "translation": "Tsarki ya tabbata ga Allah daga abin da suke siffantãwa.",
+  "footnotes": ""
 }

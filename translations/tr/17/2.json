@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2031",
-    "sura": "17",
-    "aya": "2",
-    "arabic_text": "وَءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَٰٓءِيلَ أَلَّا تَتَّخِذُواْ مِن دُونِي وَكِيلٗا",
-    "translation": "Mûsâ’ya kitap verdik. O kitabı, İsrailoğulları için, \"Benden başkasını vekil edinmeyin!\" diye hidayet (rehberi) kıldık.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 282,
+  "verse_key": "17:2",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَٰٓءِيلَ أَلَّا تَتَّخِذُواْ مِن دُونِي وَكِيلٗا",
+  "translation": "Mûsâ’ya kitap verdik. O kitabı, İsrailoğulları için, \"Benden başkasını vekil edinmeyin!\" diye hidayet (rehberi) kıldık.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1363",
-    "sura": "9",
-    "aya": "128",
-    "arabic_text": "لَقَدۡ جَآءَكُمۡ رَسُولٞ مِّنۡ أَنفُسِكُمۡ عَزِيزٌ عَلَيۡهِ مَا عَنِتُّمۡ حَرِيصٌ عَلَيۡكُم بِٱلۡمُؤۡمِنِينَ رَءُوفٞ رَّحِيمٞ",
-    "translation": "Lalle ne, haƙĩƙa, Manzo* daga cikinku yã je muku. Abin da kuka wahala da shi mai nauyi ne a kansa. Mai kwaɗayi ne sabõda ku. Ga muminai Mai tausayi ne, Mai jin ƙai.",
-    "footnotes": "* Bayãnin rahamar Allah game da aiko Manzõ daga cikin mutãne, cewa wata falala ce a gare su. Kuma shi Manzon nan ɗan'uwansu ne wanda bã ya son su da wani abu sai alheri, idan sun gãne dã sun bĩ shi, kuma idan ba su gãne bã, to, Allah Yã tsare shi daga sharrinsu, kuma Yã isar masa."
-  }
+  "id": 128,
+  "verse_number": 128,
+  "page_number": 207,
+  "verse_key": "9:128",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ جَآءَكُمۡ رَسُولٞ مِّنۡ أَنفُسِكُمۡ عَزِيزٌ عَلَيۡهِ مَا عَنِتُّمۡ حَرِيصٌ عَلَيۡكُم بِٱلۡمُؤۡمِنِينَ رَءُوفٞ رَّحِيمٞ",
+  "translation": "Lalle ne, haƙĩƙa, Manzo* daga cikinku yã je muku. Abin da kuka wahala da shi mai nauyi ne a kansa. Mai kwaɗayi ne sabõda ku. Ga muminai Mai tausayi ne, Mai jin ƙai.",
+  "footnotes": "* Bayãnin rahamar Allah game da aiko Manzõ daga cikin mutãne, cewa wata falala ce a gare su. Kuma shi Manzon nan ɗan'uwansu ne wanda bã ya son su da wani abu sai alheri, idan sun gãne dã sun bĩ shi, kuma idan ba su gãne bã, to, Allah Yã tsare shi daga sharrinsu, kuma Yã isar masa."
 }

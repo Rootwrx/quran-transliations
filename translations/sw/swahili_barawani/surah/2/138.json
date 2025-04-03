@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "145",
-    "sura": "2",
-    "aya": "138",
-    "arabic_text": "صِبۡغَةَ ٱللَّهِ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ صِبۡغَةٗۖ وَنَحۡنُ لَهُۥ عَٰبِدُونَ",
-    "translation": "Huko ndiko kupaka rangi kwa Mwenyezi Mungu, na nani aliye mbora wa kupaka rangi kuliko Mwenyezi Mungu? Na sisi ni wenye kumuabudu Yeye tu.",
-    "footnotes": "Waambieni: Hakika Mwenyezi Mungu ametuongoa sisi kwa uwongofu wake mwenyewe, na ametuonyesha hoja zake. Na hapana mbora zaidi kwa uwongofu na hoja kuliko Mwenyezi Mungu. Na sisi hatumnyenyekei ila Mwenyezi Mungu. Na wala hatufuati ila anavyo tuongoa na kutuongoza Yeye. (Hilo ndilo pambo, au batizo, au kutia rangi kwa Mwenyezi Mungu--S'ibghatu Llahi)."
-  }
+  "id": 138,
+  "verse_number": 138,
+  "page_number": 21,
+  "verse_key": "2:138",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "صِبۡغَةَ ٱللَّهِ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ صِبۡغَةٗۖ وَنَحۡنُ لَهُۥ عَٰبِدُونَ",
+  "translation": "Huko ndiko kupaka rangi kwa Mwenyezi Mungu, na nani aliye mbora wa kupaka rangi kuliko Mwenyezi Mungu? Na sisi ni wenye kumuabudu Yeye tu.",
+  "footnotes": "Waambieni: Hakika Mwenyezi Mungu ametuongoa sisi kwa uwongofu wake mwenyewe, na ametuonyesha hoja zake. Na hapana mbora zaidi kwa uwongofu na hoja kuliko Mwenyezi Mungu. Na sisi hatumnyenyekei ila Mwenyezi Mungu. Na wala hatufuati ila anavyo tuongoa na kutuongoza Yeye. (Hilo ndilo pambo, au batizo, au kutia rangi kwa Mwenyezi Mungu--S'ibghatu Llahi)."
 }

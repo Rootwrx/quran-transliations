@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1561",
-    "sura": "11",
-    "aya": "88",
-    "arabic_text": "قَالَ يَٰقَوۡمِ أَرَءَيۡتُمۡ إِن كُنتُ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّي وَرَزَقَنِي مِنۡهُ رِزۡقًا حَسَنٗاۚ وَمَآ أُرِيدُ أَنۡ أُخَالِفَكُمۡ إِلَىٰ مَآ أَنۡهَىٰكُمۡ عَنۡهُۚ إِنۡ أُرِيدُ إِلَّا ٱلۡإِصۡلَٰحَ مَا ٱسۡتَطَعۡتُۚ وَمَا تَوۡفِيقِيٓ إِلَّا بِٱللَّهِۚ عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ أُنِيبُ",
-    "translation": "Ɔkaa sε: “Me nkorͻfoͻ, monhunu sε, sε megyina nyinasoͻ pefee a efri me Wura Nyankopɔn hͻ no so, na Wama me akyεdeε a εyε akyεdeε pa a efri Ne hͻ a, (enti menfa efii mfra mu?) Mempεsε meneyԑԑ ne deԑ mabra mo no bԑbᴐ abira. Deε mepε ne sε, anka meyε (mo) yie sεdeε m’ahoͻden bɛtumi biara; na Onyankopͻn hͻ na me dwumadie no ho kwan kyerε wͻ, Ɔno na mede me ho to Ne soͻ, na Ne hͻ na medane me ho kᴐ.”",
-    "footnotes": ""
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 231,
+  "verse_key": "11:88",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ يَٰقَوۡمِ أَرَءَيۡتُمۡ إِن كُنتُ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّي وَرَزَقَنِي مِنۡهُ رِزۡقًا حَسَنٗاۚ وَمَآ أُرِيدُ أَنۡ أُخَالِفَكُمۡ إِلَىٰ مَآ أَنۡهَىٰكُمۡ عَنۡهُۚ إِنۡ أُرِيدُ إِلَّا ٱلۡإِصۡلَٰحَ مَا ٱسۡتَطَعۡتُۚ وَمَا تَوۡفِيقِيٓ إِلَّا بِٱللَّهِۚ عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ أُنِيبُ",
+  "translation": "Ɔkaa sε: “Me nkorͻfoͻ, monhunu sε, sε megyina nyinasoͻ pefee a efri me Wura Nyankopɔn hͻ no so, na Wama me akyεdeε a εyε akyεdeε pa a efri Ne hͻ a, (enti menfa efii mfra mu?) Mempεsε meneyԑԑ ne deԑ mabra mo no bԑbᴐ abira. Deε mepε ne sε, anka meyε (mo) yie sεdeε m’ahoͻden bɛtumi biara; na Onyankopͻn hͻ na me dwumadie no ho kwan kyerε wͻ, Ɔno na mede me ho to Ne soͻ, na Ne hͻ na medane me ho kᴐ.”",
+  "footnotes": ""
 }

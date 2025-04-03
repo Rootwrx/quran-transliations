@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "338",
-    "sura": "3",
-    "aya": "45",
-    "arabic_text": "إِذۡ قَالَتِ ٱلۡمَلَٰٓئِكَةُ يَٰمَرۡيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٖ مِّنۡهُ ٱسۡمُهُ ٱلۡمَسِيحُ عِيسَى ٱبۡنُ مَرۡيَمَ وَجِيهٗا فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ وَمِنَ ٱلۡمُقَرَّبِينَ",
-    "translation": "(Ẹ rántí) nígbà tí àwọn mọlāika [1] sọ pé: “Mọryam, dájúdájú Allāhu ń fún ọ ní ìró ìdùnnú (nípa dídá ẹ̀dá kan pẹ̀lú) ọ̀rọ̀ kan láti ọ̀dọ̀ Rẹ̀. Orúkọ rẹ̀ ni Mọsīh ‘Īsā ọmọ Mọryam. Ẹni iyì ni ní ayé àti ní ọ̀run.[1] Ó sì wà lára àwọn alásùn-únmọ́ (Allāhu).",
-    "footnotes": "1. Àwọn nasọ̄rọ̄ lérò pé, Ànábì ‘Īsā ọmọ Mọryam - kí ọlà Allāhu máa bá a - nìkan ni “Ẹni iyì” ní ọ̀dọ̀ Allāhu. Ẹ wo sūrah al-’Ahzāb; 33:69."
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 55,
+  "verse_key": "3:45",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَتِ ٱلۡمَلَٰٓئِكَةُ يَٰمَرۡيَمُ إِنَّ ٱللَّهَ يُبَشِّرُكِ بِكَلِمَةٖ مِّنۡهُ ٱسۡمُهُ ٱلۡمَسِيحُ عِيسَى ٱبۡنُ مَرۡيَمَ وَجِيهٗا فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِ وَمِنَ ٱلۡمُقَرَّبِينَ",
+  "translation": "(Ẹ rántí) nígbà tí àwọn mọlāika [1] sọ pé: “Mọryam, dájúdájú Allāhu ń fún ọ ní ìró ìdùnnú (nípa dídá ẹ̀dá kan pẹ̀lú) ọ̀rọ̀ kan láti ọ̀dọ̀ Rẹ̀. Orúkọ rẹ̀ ni Mọsīh ‘Īsā ọmọ Mọryam. Ẹni iyì ni ní ayé àti ní ọ̀run.[1] Ó sì wà lára àwọn alásùn-únmọ́ (Allāhu).",
+  "footnotes": "1. Àwọn nasọ̄rọ̄ lérò pé, Ànábì ‘Īsā ọmọ Mọryam - kí ọlà Allāhu máa bá a - nìkan ni “Ẹni iyì” ní ọ̀dọ̀ Allāhu. Ẹ wo sūrah al-’Ahzāb; 33:69."
 }

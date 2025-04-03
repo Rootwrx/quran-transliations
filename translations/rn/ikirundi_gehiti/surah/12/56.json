@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1652",
-    "sura": "12",
-    "aya": "56",
-    "arabic_text": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي ٱلۡأَرۡضِ يَتَبَوَّأُ مِنۡهَا حَيۡثُ يَشَآءُۚ نُصِيبُ بِرَحۡمَتِنَا مَن نَّشَآءُۖ وَلَا نُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
-    "translation": "Ni nk’ukwo nyene rero Twebwe Allah - Twakuye Yusufu mw’ibohero - Twamutsimbataje ku butegetsi agashika aho hose ashatse mu gihugu ca Misiri. Burya rero, Duhereza impuhwe zacu uwo Dushatse mu biremwa vyicisha bugufi bikagamburukira Imana Allah, eka ntitunatakaza na kimwe mu ndishi z’abagwaneza;",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 242,
+  "verse_key": "12:56",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ مَكَّنَّا لِيُوسُفَ فِي ٱلۡأَرۡضِ يَتَبَوَّأُ مِنۡهَا حَيۡثُ يَشَآءُۚ نُصِيبُ بِرَحۡمَتِنَا مَن نَّشَآءُۖ وَلَا نُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+  "translation": "Ni nk’ukwo nyene rero Twebwe Allah - Twakuye Yusufu mw’ibohero - Twamutsimbataje ku butegetsi agashika aho hose ashatse mu gihugu ca Misiri. Burya rero, Duhereza impuhwe zacu uwo Dushatse mu biremwa vyicisha bugufi bikagamburukira Imana Allah, eka ntitunatakaza na kimwe mu ndishi z’abagwaneza;",
+  "footnotes": ""
 }

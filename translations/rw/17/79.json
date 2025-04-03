@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2108",
-    "sura": "17",
-    "aya": "79",
-    "arabic_text": "وَمِنَ ٱلَّيۡلِ فَتَهَجَّدۡ بِهِۦ نَافِلَةٗ لَّكَ عَسَىٰٓ أَن يَبۡعَثَكَ رَبُّكَ مَقَامٗا مَّحۡمُودٗا",
-    "translation": "Kandi na nijoro ujye uyisoma (Qur’an) mu iswala yo mu gicuku (Tahajudi) nk’iswala y’inyongera kuri wowe (Muhamadi), kugira ngo Nyagasani wawe azakuzure uri mu rwego uzashimirwa.",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 290,
+  "verse_key": "17:79",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلَّيۡلِ فَتَهَجَّدۡ بِهِۦ نَافِلَةٗ لَّكَ عَسَىٰٓ أَن يَبۡعَثَكَ رَبُّكَ مَقَامٗا مَّحۡمُودٗا",
+  "translation": "Kandi na nijoro ujye uyisoma (Qur’an) mu iswala yo mu gicuku (Tahajudi) nk’iswala y’inyongera kuri wowe (Muhamadi), kugira ngo Nyagasani wawe azakuzure uri mu rwego uzashimirwa.",
+  "footnotes": ""
 }

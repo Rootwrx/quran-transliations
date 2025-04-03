@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4520",
-    "sura": "46",
-    "aya": "10",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ وَكَفَرۡتُم بِهِۦ وَشَهِدَ شَاهِدٞ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ عَلَىٰ مِثۡلِهِۦ فَـَٔامَنَ وَٱسۡتَكۡبَرۡتُمۡۚ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
-    "translation": "Sema: Mwaonaje yakiwa haya ni kweli yametoka kwa Mwenyezi Mungu, nanyi mmeyakataa, na akashuhudia shahidi miongoni mwa Wana wa Israili juu ya mfano wa haya, na akaamini, na nyinyi mnafanya kiburi? Hakika Mwenyezi Mungu hawaongoi watu wenye kudhulumu.",
-    "footnotes": "Sema: Hebu nambieni, ikiwa hii Qur'ani inatoka kwa Mwenyezi Mungu na nyinyi mkaikataa, na hali ameshuhudia shahidi katika Wana wa Israili kuwa imeshuka mfano wa hii kutoka kwa Mwenyezi Mungu, akawa yeye kaamini na nyinyi mkatakabari, basi hapo nyinyi si mtakuwa ni wenye kupotea na wenye kujidhulumu wenyewe kuliko watu wote? Hakika Mwenyezi Mungu hamsaidii kuongoka mwenye kujidhulumu mwenyewe na akapanda kiburi kuikataa Haki."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 503,
+  "verse_key": "46:10",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ وَكَفَرۡتُم بِهِۦ وَشَهِدَ شَاهِدٞ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ عَلَىٰ مِثۡلِهِۦ فَـَٔامَنَ وَٱسۡتَكۡبَرۡتُمۡۚ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+  "translation": "Sema: Mwaonaje yakiwa haya ni kweli yametoka kwa Mwenyezi Mungu, nanyi mmeyakataa, na akashuhudia shahidi miongoni mwa Wana wa Israili juu ya mfano wa haya, na akaamini, na nyinyi mnafanya kiburi? Hakika Mwenyezi Mungu hawaongoi watu wenye kudhulumu.",
+  "footnotes": "Sema: Hebu nambieni, ikiwa hii Qur'ani inatoka kwa Mwenyezi Mungu na nyinyi mkaikataa, na hali ameshuhudia shahidi katika Wana wa Israili kuwa imeshuka mfano wa hii kutoka kwa Mwenyezi Mungu, akawa yeye kaamini na nyinyi mkatakabari, basi hapo nyinyi si mtakuwa ni wenye kupotea na wenye kujidhulumu wenyewe kuliko watu wote? Hakika Mwenyezi Mungu hamsaidii kuongoka mwenye kujidhulumu mwenyewe na akapanda kiburi kuikataa Haki."
 }

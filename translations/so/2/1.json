@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "8",
-    "sura": "2",
-    "aya": "1",
-    "arabic_text": "الٓمٓ",
-    "translation": "1. Alif laam miim2.",
-    "footnotes": "1. Nabigu s.c.w. wuxuu yidhi: Ha ka yeelina guryahiinna Qubuuro ee ku akhriya Qur'aanka, ogaadana gurigii lagu akhriyo suuradda Al-Baqarah ma soo galo shaydaan.\" W.w. Muslim iyo Axmad.\n2. Suuradaha Qur’aanka qaarkood waxay ku billowdaan xarfaha alifbeetada, sida alif laam miim, alif laam raa, iwm waxay ka mid yihiin afar iyo toban xaraf oo ku billaabasho iyo furitaan ahaan ku soo arooray sagaal iyo labaatan suuuradood oo ku jira Qur’aanka.Waxaa la yidhi xuruuftaas waa magacyada suuradaha, waxaa sidoo kale la yidhi waa baraarujin iyo soo jeedin ahaan dadka, waxaa kaloo la yidhi, waa tilmaan in Qur’aanka uu ku soo degay afka Carabiga ee ka kooban xarfaha alifbeetada sidaas oy tahay ma jiro cid la imaan karta isagoo kale oo keeni karta oo waa kitaab mucjiz ah. Inkastoo siyaabahaas kala duwan loo fasiray, dhabta waxaa weeye Alle keliya baa u cilm u leh oo ogsoon macaanidooda, oo og muraadka uu ka leeyahay iyo wuxuu ula jeedo."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 2,
+  "verse_key": "2:1",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓ",
+  "translation": "1. Alif laam miim2.",
+  "footnotes": "1. Nabigu s.c.w. wuxuu yidhi: Ha ka yeelina guryahiinna Qubuuro ee ku akhriya Qur'aanka, ogaadana gurigii lagu akhriyo suuradda Al-Baqarah ma soo galo shaydaan.\" W.w. Muslim iyo Axmad.\n2. Suuradaha Qur’aanka qaarkood waxay ku billowdaan xarfaha alifbeetada, sida alif laam miim, alif laam raa, iwm waxay ka mid yihiin afar iyo toban xaraf oo ku billaabasho iyo furitaan ahaan ku soo arooray sagaal iyo labaatan suuuradood oo ku jira Qur’aanka.Waxaa la yidhi xuruuftaas waa magacyada suuradaha, waxaa sidoo kale la yidhi waa baraarujin iyo soo jeedin ahaan dadka, waxaa kaloo la yidhi, waa tilmaan in Qur’aanka uu ku soo degay afka Carabiga ee ka kooban xarfaha alifbeetada sidaas oy tahay ma jiro cid la imaan karta isagoo kale oo keeni karta oo waa kitaab mucjiz ah. Inkastoo siyaabahaas kala duwan loo fasiray, dhabta waxaa weeye Alle keliya baa u cilm u leh oo ogsoon macaanidooda, oo og muraadka uu ka leeyahay iyo wuxuu ula jeedo."
 }

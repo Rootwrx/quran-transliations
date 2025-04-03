@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1993",
-    "sura": "16",
-    "aya": "92",
-    "arabic_text": "وَلَا تَكُونُواْ كَٱلَّتِي نَقَضَتۡ غَزۡلَهَا مِنۢ بَعۡدِ قُوَّةٍ أَنكَٰثٗا تَتَّخِذُونَ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ أَن تَكُونَ أُمَّةٌ هِيَ أَرۡبَىٰ مِنۡ أُمَّةٍۚ إِنَّمَا يَبۡلُوكُمُ ٱللَّهُ بِهِۦۚ وَلَيُبَيِّنَنَّ لَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ مَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
-    "translation": "92. Ha la mid noqonnina sida tan furfurta xadhiggeeda ay soohday iyadoo u googooneysa gabal gabal kaddib markuu yeeshay xoog. Waxaad ka yeeshaan dhaarahiinna dhagar dhexdiinna ah, inay ummad ka tiro badan tahay ummad kale (darteed23). Alle waa uun idinku imtixaami arrinkaas iyo inuu idiin caddeeyo Maalinta Qiyaamaha waxaad isku khilaafsaneydeen.",
-    "footnotes": "23. Muslimiinta tiro ahaan way yaraayen, waxayna la galeen gaalada heshiis., Markii ay arkeen Quryash inay tiro badan yihiin, oo ay muslimiinta dheer yihiin xoog iyo xeeladba iyo waayo aragnimo, waxay door bideen inay uga baxaan heshiiska Nabiga s.c.w., ficilkan oo kalena Alle wuu reebay. Macnaha waa ha ugu dhaarannina been ama ha burinnina heshiis ama ka bixina ballan aad gasheen dano adduunyo darteed, si kastaba uga xoog badnaadee cadowgiinna."
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 277,
+  "verse_key": "16:92",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَكُونُواْ كَٱلَّتِي نَقَضَتۡ غَزۡلَهَا مِنۢ بَعۡدِ قُوَّةٍ أَنكَٰثٗا تَتَّخِذُونَ أَيۡمَٰنَكُمۡ دَخَلَۢا بَيۡنَكُمۡ أَن تَكُونَ أُمَّةٌ هِيَ أَرۡبَىٰ مِنۡ أُمَّةٍۚ إِنَّمَا يَبۡلُوكُمُ ٱللَّهُ بِهِۦۚ وَلَيُبَيِّنَنَّ لَكُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ مَا كُنتُمۡ فِيهِ تَخۡتَلِفُونَ",
+  "translation": "92. Ha la mid noqonnina sida tan furfurta xadhiggeeda ay soohday iyadoo u googooneysa gabal gabal kaddib markuu yeeshay xoog. Waxaad ka yeeshaan dhaarahiinna dhagar dhexdiinna ah, inay ummad ka tiro badan tahay ummad kale (darteed23). Alle waa uun idinku imtixaami arrinkaas iyo inuu idiin caddeeyo Maalinta Qiyaamaha waxaad isku khilaafsaneydeen.",
+  "footnotes": "23. Muslimiinta tiro ahaan way yaraayen, waxayna la galeen gaalada heshiis., Markii ay arkeen Quryash inay tiro badan yihiin, oo ay muslimiinta dheer yihiin xoog iyo xeeladba iyo waayo aragnimo, waxay door bideen inay uga baxaan heshiiska Nabiga s.c.w., ficilkan oo kalena Alle wuu reebay. Macnaha waa ha ugu dhaarannina been ama ha burinnina heshiis ama ka bixina ballan aad gasheen dano adduunyo darteed, si kastaba uga xoog badnaadee cadowgiinna."
 }

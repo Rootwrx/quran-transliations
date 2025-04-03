@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2637",
-    "sura": "22",
-    "aya": "42",
-    "arabic_text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَعَادٞ وَثَمُودُ",
-    "translation": "Na wakikukanusha basi walikwisha kanusha kabla yao watu wa Nuhu, na kina A'ad na kina Thamud,",
-    "footnotes": "Ewe Nabii! Ukiwa unapata makanusho, kuambiwa mwongo, na maudhi kutokana na watu wako, basi usisikitike. Zingatia taarikh kwa yaliyo wapata Mitume wa kabla yako, utaona kwamba wewe si Mtume wa kwanza aliye kanushwa na kuudhiwa na watu wake. Kwani kabla ya hawa walio kukanusha wewe, kaumu Nuhu walimkadhibisha Mtume wao Nuhu, na kaumu ya A'ad walimkadhibisha Mtume wao Huud, na kina Thamud walimkanusha Mtume wao Swaleh."
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 337,
+  "verse_key": "22:42",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يُكَذِّبُوكَ فَقَدۡ كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَعَادٞ وَثَمُودُ",
+  "translation": "Na wakikukanusha basi walikwisha kanusha kabla yao watu wa Nuhu, na kina A'ad na kina Thamud,",
+  "footnotes": "Ewe Nabii! Ukiwa unapata makanusho, kuambiwa mwongo, na maudhi kutokana na watu wako, basi usisikitike. Zingatia taarikh kwa yaliyo wapata Mitume wa kabla yako, utaona kwamba wewe si Mtume wa kwanza aliye kanushwa na kuudhiwa na watu wake. Kwani kabla ya hawa walio kukanusha wewe, kaumu Nuhu walimkadhibisha Mtume wao Nuhu, na kaumu ya A'ad walimkadhibisha Mtume wao Huud, na kina Thamud walimkanusha Mtume wao Swaleh."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6141",
-    "sura": "99",
-    "aya": "3",
-    "arabic_text": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
-    "translation": "3 et que l’homme se demandera ce qui lui arrive,",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 599,
+  "verse_key": "99:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلۡإِنسَٰنُ مَا لَهَا",
+  "translation": "3 et que l’homme se demandera ce qui lui arrive,",
+  "footnotes": ""
 }

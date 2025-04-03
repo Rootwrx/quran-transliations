@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3245",
-    "sura": "27",
-    "aya": "86",
-    "arabic_text": "أَلَمۡ يَرَوۡاْ أَنَّا جَعَلۡنَا ٱلَّيۡلَ لِيَسۡكُنُواْ فِيهِ وَٱلنَّهَارَ مُبۡصِرًاۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
-    "translation": "Je! Hawaoni kwamba sisi tumeufanya usiku ili watulie, na mchana wa kuangaza. Hakika katika hayo zipo Ishara kwa watu wanao amini.",
-    "footnotes": "Bila ya shaka wameshuhudia kuwa Mwenyezi Mungu ameufanya usiku ili wapate kupumzika, na akaufanya mchana una mwangaza, wapate kushughulikia kutafuta maisha yao. Hakika katika hayo zipo dalili wazi za Ungu wa Mwenyezi Mungu, na Upweke wake, kwa watu wanao zingatia wakaamini."
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 384,
+  "verse_key": "27:86",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ يَرَوۡاْ أَنَّا جَعَلۡنَا ٱلَّيۡلَ لِيَسۡكُنُواْ فِيهِ وَٱلنَّهَارَ مُبۡصِرًاۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
+  "translation": "Je! Hawaoni kwamba sisi tumeufanya usiku ili watulie, na mchana wa kuangaza. Hakika katika hayo zipo Ishara kwa watu wanao amini.",
+  "footnotes": "Bila ya shaka wameshuhudia kuwa Mwenyezi Mungu ameufanya usiku ili wapate kupumzika, na akaufanya mchana una mwangaza, wapate kushughulikia kutafuta maisha yao. Hakika katika hayo zipo dalili wazi za Ungu wa Mwenyezi Mungu, na Upweke wake, kwa watu wanao zingatia wakaamini."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1673",
-    "sura": "12",
-    "aya": "77",
-    "arabic_text": "۞ قَالُوٓاْ إِن يَسۡرِقۡ فَقَدۡ سَرَقَ أَخٞ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا يُوسُفُ فِي نَفۡسِهِۦ وَلَمۡ يُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرّٞ مَّكَانٗاۖ وَٱللَّهُ أَعۡلَمُ بِمَا تَصِفُونَ",
-    "translation": "Nagsabi sila: “Kung nagnakaw siya ay nagnakaw nga ang isang kapatid niya bago pa niyan.”[12] Ngunit naglihim nito si Jose sa sarili niya at hindi siya nagpahalata nito sa kanila. Nagsabi siya: “Kayo ay higit na masama sa kalagayan at si Allāh ay higit na maalam sa anumang inilalarawan ninyo.”",
-    "footnotes": "[12] Ibig sabihin: Kung nagnakaw si Benjamin ay nagnakaw nga ang kapatid niyang si Jose ng anito ng lolo sa ina niya. Binasag niya ito at itinapon."
-  }
+  "id": 77,
+  "verse_number": 77,
+  "page_number": 244,
+  "verse_key": "12:77",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قَالُوٓاْ إِن يَسۡرِقۡ فَقَدۡ سَرَقَ أَخٞ لَّهُۥ مِن قَبۡلُۚ فَأَسَرَّهَا يُوسُفُ فِي نَفۡسِهِۦ وَلَمۡ يُبۡدِهَا لَهُمۡۚ قَالَ أَنتُمۡ شَرّٞ مَّكَانٗاۖ وَٱللَّهُ أَعۡلَمُ بِمَا تَصِفُونَ",
+  "translation": "Nagsabi sila: “Kung nagnakaw siya ay nagnakaw nga ang isang kapatid niya bago pa niyan.”[12] Ngunit naglihim nito si Jose sa sarili niya at hindi siya nagpahalata nito sa kanila. Nagsabi siya: “Kayo ay higit na masama sa kalagayan at si Allāh ay higit na maalam sa anumang inilalarawan ninyo.”",
+  "footnotes": "[12] Ibig sabihin: Kung nagnakaw si Benjamin ay nagnakaw nga ang kapatid niyang si Jose ng anito ng lolo sa ina niya. Binasag niya ito at itinapon."
 }

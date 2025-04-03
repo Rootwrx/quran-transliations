@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3276",
-    "sura": "28",
-    "aya": "24",
-    "arabic_text": "فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّي لِمَآ أَنزَلۡتَ إِلَيَّ مِنۡ خَيۡرٖ فَقِيرٞ",
-    "translation": " 24. So he watered (their flocks) for them, then he turned back to shade, and said: \"My Lord! truly, I am in need of whatever good that You bestow on me!\"",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 388,
+  "verse_key": "28:24",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَقَىٰ لَهُمَا ثُمَّ تَوَلَّىٰٓ إِلَى ٱلظِّلِّ فَقَالَ رَبِّ إِنِّي لِمَآ أَنزَلۡتَ إِلَيَّ مِنۡ خَيۡرٖ فَقِيرٞ",
+  "translation": " 24. So he watered (their flocks) for them, then he turned back to shade, and said: \"My Lord! truly, I am in need of whatever good that You bestow on me!\"",
+  "footnotes": ""
 }

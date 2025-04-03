@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5968",
-    "sura": "88",
-    "aya": "1",
-    "arabic_text": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡغَٰشِيَةِ",
-    "translation": "Sila oduun haguugduu (Qiyaamaa) sitti dhufeeraa?",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 592,
+  "verse_key": "88:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَلۡ أَتَىٰكَ حَدِيثُ ٱلۡغَٰشِيَةِ",
+  "translation": "Sila oduun haguugduu (Qiyaamaa) sitti dhufeeraa?",
+  "footnotes": ""
 }

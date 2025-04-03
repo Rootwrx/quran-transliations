@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1880",
-    "sura": "15",
-    "aya": "78",
-    "arabic_text": "وَإِن كَانَ أَصۡحَٰبُ ٱلۡأَيۡكَةِ لَظَٰلِمِينَ",
-    "translation": "And the people of the Forest[38] were wrongdoers.",
-    "footnotes": "[38] i.e., the people of the thicket, i.e. the people of Prophet Shu‘ayb (عليه السلام) who lived in Madian, not far from the people of Lot."
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 266,
+  "verse_key": "15:78",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن كَانَ أَصۡحَٰبُ ٱلۡأَيۡكَةِ لَظَٰلِمِينَ",
+  "translation": "And the people of the Forest[38] were wrongdoers.",
+  "footnotes": "[38] i.e., the people of the thicket, i.e. the people of Prophet Shu‘ayb (عليه السلام) who lived in Madian, not far from the people of Lot."
 }

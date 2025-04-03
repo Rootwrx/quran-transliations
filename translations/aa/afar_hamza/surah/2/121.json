@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "128",
-    "sura": "2",
-    "aya": "121",
-    "arabic_text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَتۡلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۗ وَمَن يَكۡفُرۡ بِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
-    "translation": "121. Kitab kah necee mari Nummâ kiraateh kaa (tawraat kee injiil kinnuk) yakriye kaa Koran- korse kalah kaal taniimil taamitak, woo mari usun Nabii Mucammad kee kaal oobe Qhuraan Nummaysaanah, Nabii Mucammad kee kaal oobe Qhuraanal koroosite mari, Toysa woo mari usun Yallih xaqul kasaarah Sinaamak lafitak Raaqa mara kinni.",
-    "footnotes": ""
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 19,
+  "verse_key": "2:121",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَتۡلُونَهُۥ حَقَّ تِلَاوَتِهِۦٓ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۗ وَمَن يَكۡفُرۡ بِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡخَٰسِرُونَ",
+  "translation": "121. Kitab kah necee mari Nummâ kiraateh kaa (tawraat kee injiil kinnuk) yakriye kaa Koran- korse kalah kaal taniimil taamitak, woo mari usun Nabii Mucammad kee kaal oobe Qhuraan Nummaysaanah, Nabii Mucammad kee kaal oobe Qhuraanal koroosite mari, Toysa woo mari usun Yallih xaqul kasaarah Sinaamak lafitak Raaqa mara kinni.",
+  "footnotes": ""
 }

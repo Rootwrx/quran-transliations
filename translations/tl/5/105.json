@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "774",
-    "sura": "5",
-    "aya": "105",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ عَلَيۡكُمۡ أَنفُسَكُمۡۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهۡتَدَيۡتُمۡۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعٗا فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "O mga sumampalataya, mangalaga kayo sa mga sarili ninyo. Hindi makapipinsala sa inyo ang sinumang naligaw kapag napatnubayan kayo. Tungo kay Allāh ang babalikan ninyo nang lahatan saka magbabalita Siya sa inyo hinggil sa anumang dati ninyong ginagawa.",
-    "footnotes": ""
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 125,
+  "verse_key": "5:105",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ عَلَيۡكُمۡ أَنفُسَكُمۡۖ لَا يَضُرُّكُم مَّن ضَلَّ إِذَا ٱهۡتَدَيۡتُمۡۚ إِلَى ٱللَّهِ مَرۡجِعُكُمۡ جَمِيعٗا فَيُنَبِّئُكُم بِمَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "O mga sumampalataya, mangalaga kayo sa mga sarili ninyo. Hindi makapipinsala sa inyo ang sinumang naligaw kapag napatnubayan kayo. Tungo kay Allāh ang babalikan ninyo nang lahatan saka magbabalita Siya sa inyo hinggil sa anumang dati ninyong ginagawa.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4844",
-    "sura": "53",
-    "aya": "60",
-    "arabic_text": "وَتَضۡحَكُونَ وَلَا تَبۡكُونَ",
-    "translation": "ትስቃላችሁምን? አታለቅሱምን?",
-    "footnotes": ""
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 528,
+  "verse_key": "53:60",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَضۡحَكُونَ وَلَا تَبۡكُونَ",
+  "translation": "ትስቃላችሁምን? አታለቅሱምን?",
+  "footnotes": ""
 }

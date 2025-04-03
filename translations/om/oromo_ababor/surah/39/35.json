@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4093",
-    "sura": "39",
-    "aya": "35",
-    "arabic_text": "لِيُكَفِّرَ ٱللَّهُ عَنۡهُمۡ أَسۡوَأَ ٱلَّذِي عَمِلُواْ وَيَجۡزِيَهُمۡ أَجۡرَهُم بِأَحۡسَنِ ٱلَّذِي كَانُواْ يَعۡمَلُونَ",
-    "translation": "Akka Rabbiin hamtuu waan dalaganii isaan irraa haqee mindaa isaanii gaarii waan isaan hojjatanii isaanii galata galchuuf (isaaniif laaffise).",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 462,
+  "verse_key": "39:35",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِيُكَفِّرَ ٱللَّهُ عَنۡهُمۡ أَسۡوَأَ ٱلَّذِي عَمِلُواْ وَيَجۡزِيَهُمۡ أَجۡرَهُم بِأَحۡسَنِ ٱلَّذِي كَانُواْ يَعۡمَلُونَ",
+  "translation": "Akka Rabbiin hamtuu waan dalaganii isaan irraa haqee mindaa isaanii gaarii waan isaan hojjatanii isaanii galata galchuuf (isaaniif laaffise).",
+  "footnotes": ""
 }

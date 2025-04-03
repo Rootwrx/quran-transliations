@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2030",
-    "sura": "17",
-    "aya": "1",
-    "arabic_text": "سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِي بَٰرَكۡنَا حَوۡلَهُۥ لِنُرِيَهُۥ مِنۡ ءَايَٰتِنَآۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
-    "translation": "Uzvišen neka je Onaj Koji je u jednom času noći preveo Svog roba iz Hrama časnog u Hram daleki, čiju smo okolinu blagoslovili kako bismo mu neka znamenja Naša pokazali. On, uistinu, sve čuje i sve vidi.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 282,
+  "verse_key": "17:1",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِي بَٰرَكۡنَا حَوۡلَهُۥ لِنُرِيَهُۥ مِنۡ ءَايَٰتِنَآۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
+  "translation": "Uzvišen neka je Onaj Koji je u jednom času noći preveo Svog roba iz Hrama časnog u Hram daleki, čiju smo okolinu blagoslovili kako bismo mu neka znamenja Naša pokazali. On, uistinu, sve čuje i sve vidi.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1200",
-    "sura": "8",
-    "aya": "40",
-    "arabic_text": "وَإِن تَوَلَّوۡاْ فَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَوۡلَىٰكُمۡۚ نِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِيرُ",
-    "translation": "    Eğer (imandan) yüz çevirirlerse, bilin ki Allah sizin sahibinizdir. O ne güzel sahip ve ne güzel yardımcıdır!",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 181,
+  "verse_key": "8:40",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن تَوَلَّوۡاْ فَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ مَوۡلَىٰكُمۡۚ نِعۡمَ ٱلۡمَوۡلَىٰ وَنِعۡمَ ٱلنَّصِيرُ",
+  "translation": "    Eğer (imandan) yüz çevirirlerse, bilin ki Allah sizin sahibinizdir. O ne güzel sahip ve ne güzel yardımcıdır!",
+  "footnotes": ""
 }

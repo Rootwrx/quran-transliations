@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "547",
-    "sura": "4",
-    "aya": "54",
-    "arabic_text": "أَمۡ يَحۡسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦۖ فَقَدۡ ءَاتَيۡنَآ ءَالَ إِبۡرَٰهِيمَ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَءَاتَيۡنَٰهُم مُّلۡكًا عَظِيمٗا",
-    "translation": "O naiinggit ba sila sa mga tao[9] dahil sa ibinigay ni Allāh sa mga ito mula sa kabutihang-loob Niya? Nagbigay nga Kami sa angkan ni Abraham ng Kasulatan at Karunungan, at nagbigay Kami sa mga ito ng isang paghaharing dakila [sa panahon ni Solomon].",
-    "footnotes": "[9] Ibig sabihin: sina Propeta Muhammad at ang mga Kasamahan niya."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 87,
+  "verse_key": "4:54",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ يَحۡسُدُونَ ٱلنَّاسَ عَلَىٰ مَآ ءَاتَىٰهُمُ ٱللَّهُ مِن فَضۡلِهِۦۖ فَقَدۡ ءَاتَيۡنَآ ءَالَ إِبۡرَٰهِيمَ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَءَاتَيۡنَٰهُم مُّلۡكًا عَظِيمٗا",
+  "translation": "O naiinggit ba sila sa mga tao[9] dahil sa ibinigay ni Allāh sa mga ito mula sa kabutihang-loob Niya? Nagbigay nga Kami sa angkan ni Abraham ng Kasulatan at Karunungan, at nagbigay Kami sa mga ito ng isang paghaharing dakila [sa panahon ni Solomon].",
+  "footnotes": "[9] Ibig sabihin: sina Propeta Muhammad at ang mga Kasamahan niya."
 }

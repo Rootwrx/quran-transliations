@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4569",
-    "sura": "47",
-    "aya": "24",
-    "arabic_text": "أَفَلَا يَتَدَبَّرُونَ ٱلۡقُرۡءَانَ أَمۡ عَلَىٰ قُلُوبٍ أَقۡفَالُهَآ",
-    "translation": "Onlar, Kur’an’ı hiç düşünmüyorlar mı, yoksa kalpleri üzerinde kilitler mi var?",
-    "footnotes": null
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 509,
+  "verse_key": "47:24",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَلَا يَتَدَبَّرُونَ ٱلۡقُرۡءَانَ أَمۡ عَلَىٰ قُلُوبٍ أَقۡفَالُهَآ",
+  "translation": "Onlar, Kur’an’ı hiç düşünmüyorlar mı, yoksa kalpleri üzerinde kilitler mi var?",
+  "footnotes": null
 }

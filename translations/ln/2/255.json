@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "262",
-    "sura": "2",
-    "aya": "255",
-    "arabic_text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّومُۚ لَا تَأۡخُذُهُۥ سِنَةٞ وَلَا نَوۡمٞۚ لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ مَن ذَا ٱلَّذِي يَشۡفَعُ عِندَهُۥٓ إِلَّا بِإِذۡنِهِۦۚ يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡۖ وَلَا يُحِيطُونَ بِشَيۡءٖ مِّنۡ عِلۡمِهِۦٓ إِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۖ وَلَا يَـُٔودُهُۥ حِفۡظُهُمَاۚ وَهُوَ ٱلۡعَلِيُّ ٱلۡعَظِيمُ",
-    "translation": "255. Allah! Nzambe mosusu ya kobondela na bosôló azali te kaka sé ye, azali na bomoyi, amikoka naye moko, animbaka te mpe alalaka te. Maye manso mazali o’likolo mpe o’mabele mazali ya ye. Nani oyo azali na makoki ya kosengela moto epai ya Allah soki na ndingisa naye te? Ayebi maye maleka na maye makoya. Bakozuaka eloko moko te na boyebi naye sé na maye alingi, kursy(1) naye ezali monene koleka mapata(2) na mabele,(3) mpe ayokaka mpasi te mpona kobatela yango azali likolo mpe monene koleka.",
-    "footnotes": "1 Etieli matambe ya Nkolo.\n2 Mapata ezalaka sambo.\n3 Mabele ezalaka sambo."
-  }
+  "id": 255,
+  "verse_number": 255,
+  "page_number": 42,
+  "verse_key": "2:255",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 17,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَ ٱلۡحَيُّ ٱلۡقَيُّومُۚ لَا تَأۡخُذُهُۥ سِنَةٞ وَلَا نَوۡمٞۚ لَّهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ مَن ذَا ٱلَّذِي يَشۡفَعُ عِندَهُۥٓ إِلَّا بِإِذۡنِهِۦۚ يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡۖ وَلَا يُحِيطُونَ بِشَيۡءٖ مِّنۡ عِلۡمِهِۦٓ إِلَّا بِمَا شَآءَۚ وَسِعَ كُرۡسِيُّهُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۖ وَلَا يَـُٔودُهُۥ حِفۡظُهُمَاۚ وَهُوَ ٱلۡعَلِيُّ ٱلۡعَظِيمُ",
+  "translation": "255. Allah! Nzambe mosusu ya kobondela na bosôló azali te kaka sé ye, azali na bomoyi, amikoka naye moko, animbaka te mpe alalaka te. Maye manso mazali o’likolo mpe o’mabele mazali ya ye. Nani oyo azali na makoki ya kosengela moto epai ya Allah soki na ndingisa naye te? Ayebi maye maleka na maye makoya. Bakozuaka eloko moko te na boyebi naye sé na maye alingi, kursy(1) naye ezali monene koleka mapata(2) na mabele,(3) mpe ayokaka mpasi te mpona kobatela yango azali likolo mpe monene koleka.",
+  "footnotes": "1 Etieli matambe ya Nkolo.\n2 Mapata ezalaka sambo.\n3 Mabele ezalaka sambo."
 }

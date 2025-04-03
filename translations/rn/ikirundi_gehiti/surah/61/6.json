@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5169",
-    "sura": "61",
-    "aya": "6",
-    "arabic_text": "وَإِذۡ قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُم مُّصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَمُبَشِّرَۢا بِرَسُولٖ يَأۡتِي مِنۢ بَعۡدِي ٱسۡمُهُۥٓ أَحۡمَدُۖ فَلَمَّا جَآءَهُم بِٱلۡبَيِّنَٰتِ قَالُواْ هَٰذَا سِحۡرٞ مُّبِينٞ",
-    "translation": "Ntumwa y’Imana! Ibuka n'igihe Intumwa y’Imana Isa mwene Mariyamu (nyakugira amahoro y’Imana Allah) yavuga iti: “Emwe Bene Israyeli! Mu vy'ukuri Jewe, ndi Intumwa y’Imana kuri mwebwe, naje gushimangira ibiri mu Bitabu vy’aho hambere yanje, Tawurati na Zaburi, no gushikiriza inkuru nziza y’umuzo w’Intumwa y’Imana izoza inyuma yanje, yitwa Ahmadi (Muhamadi)”. Ariko rero, iyo Ntumwa Muhamadi imaze kuza ifise n’ivyemezo biboneka, bavuze bati: “Ubu, ni uburozi bugaragara”.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 552,
+  "verse_key": "61:6",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُم مُّصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَمُبَشِّرَۢا بِرَسُولٖ يَأۡتِي مِنۢ بَعۡدِي ٱسۡمُهُۥٓ أَحۡمَدُۖ فَلَمَّا جَآءَهُم بِٱلۡبَيِّنَٰتِ قَالُواْ هَٰذَا سِحۡرٞ مُّبِينٞ",
+  "translation": "Ntumwa y’Imana! Ibuka n'igihe Intumwa y’Imana Isa mwene Mariyamu (nyakugira amahoro y’Imana Allah) yavuga iti: “Emwe Bene Israyeli! Mu vy'ukuri Jewe, ndi Intumwa y’Imana kuri mwebwe, naje gushimangira ibiri mu Bitabu vy’aho hambere yanje, Tawurati na Zaburi, no gushikiriza inkuru nziza y’umuzo w’Intumwa y’Imana izoza inyuma yanje, yitwa Ahmadi (Muhamadi)”. Ariko rero, iyo Ntumwa Muhamadi imaze kuza ifise n’ivyemezo biboneka, bavuze bati: “Ubu, ni uburozi bugaragara”.",
+  "footnotes": ""
 }

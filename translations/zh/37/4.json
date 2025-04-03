@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3792",
-    "sura": "37",
-    "aya": "4",
-    "arabic_text": "إِنَّ إِلَٰهَكُمۡ لَوَٰحِدٞ",
-    "translation": "你们所当崇拜的，确是独一的",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 446,
+  "verse_key": "37:4",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ إِلَٰهَكُمۡ لَوَٰحِدٞ",
+  "translation": "你们所当崇拜的，确是独一的",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1371",
-    "sura": "10",
-    "aya": "7",
-    "arabic_text": "إِنَّ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا وَرَضُواْ بِٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَٱطۡمَأَنُّواْ بِهَا وَٱلَّذِينَ هُمۡ عَنۡ ءَايَٰتِنَا غَٰفِلُونَ",
-    "translation": "7. Iš tiesų, tie, kurie nelaukia savo susitikimo su Mumis, ir yra patenkinti gyvenimu dabartiniame pasaulyje, ir tie, kurie yra neatidūs mūsų Ajat (įrodymams, įkalčiams, eilutėms, pamokoms, ženklams, apreiškimams ir t.t.),",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 209,
+  "verse_key": "10:7",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا وَرَضُواْ بِٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَٱطۡمَأَنُّواْ بِهَا وَٱلَّذِينَ هُمۡ عَنۡ ءَايَٰتِنَا غَٰفِلُونَ",
+  "translation": "7. Iš tiesų, tie, kurie nelaukia savo susitikimo su Mumis, ir yra patenkinti gyvenimu dabartiniame pasaulyje, ir tie, kurie yra neatidūs mūsų Ajat (įrodymams, įkalčiams, eilutėms, pamokoms, ženklams, apreiškimams ir t.t.),",
+  "footnotes": ""
 }

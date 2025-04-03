@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1604",
-    "sura": "12",
-    "aya": "8",
-    "arabic_text": "إِذۡ قَالُواْ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحۡنُ عُصۡبَةٌ إِنَّ أَبَانَا لَفِي ضَلَٰلٖ مُّبِينٍ",
-    "translation": "Pale walipo sema: Hakika Yusuf na nduguye wanapendwa zaidi na baba yetu kuliko sisi, hali sisi ni kikundi chenye nguvu. Hakika baba yetu yumo katika upotofu wa dhaahiri.",
-    "footnotes": "Walipo semezana nduguze Yusuf kwa baba: Bila ya shaka Yusuf na nduguye kwa baba na mama wanapendwa zaidi na baba yetu kuliko sisi. Na sisi ni kikundi chenye nguvu, chenye kumfaa yeye zaidi kuliko wao! Hakika baba yetu kwa kumfadhilisha Yusuf na nduguye kuliko sisi yumo makosani, na yuko mbali na haki. Yalio sawa yapo wazi yanaonekana."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 236,
+  "verse_key": "12:8",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالُواْ لَيُوسُفُ وَأَخُوهُ أَحَبُّ إِلَىٰٓ أَبِينَا مِنَّا وَنَحۡنُ عُصۡبَةٌ إِنَّ أَبَانَا لَفِي ضَلَٰلٖ مُّبِينٍ",
+  "translation": "Pale walipo sema: Hakika Yusuf na nduguye wanapendwa zaidi na baba yetu kuliko sisi, hali sisi ni kikundi chenye nguvu. Hakika baba yetu yumo katika upotofu wa dhaahiri.",
+  "footnotes": "Walipo semezana nduguze Yusuf kwa baba: Bila ya shaka Yusuf na nduguye kwa baba na mama wanapendwa zaidi na baba yetu kuliko sisi. Na sisi ni kikundi chenye nguvu, chenye kumfaa yeye zaidi kuliko wao! Hakika baba yetu kwa kumfadhilisha Yusuf na nduguye kuliko sisi yumo makosani, na yuko mbali na haki. Yalio sawa yapo wazi yanaonekana."
 }

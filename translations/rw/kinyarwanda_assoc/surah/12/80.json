@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1676",
-    "sura": "12",
-    "aya": "80",
-    "arabic_text": "فَلَمَّا ٱسۡتَيۡـَٔسُواْ مِنۡهُ خَلَصُواْ نَجِيّٗاۖ قَالَ كَبِيرُهُمۡ أَلَمۡ تَعۡلَمُوٓاْ أَنَّ أَبَاكُمۡ قَدۡ أَخَذَ عَلَيۡكُم مَّوۡثِقٗا مِّنَ ٱللَّهِ وَمِن قَبۡلُ مَا فَرَّطتُمۡ فِي يُوسُفَۖ فَلَنۡ أَبۡرَحَ ٱلۡأَرۡضَ حَتَّىٰ يَأۡذَنَ لِيٓ أَبِيٓ أَوۡ يَحۡكُمَ ٱللَّهُ لِيۖ وَهُوَ خَيۡرُ ٱلۡحَٰكِمِينَ",
-    "translation": "Nuko bamaze gutakaza icyizere (cyo kuba bakwemererwa kugira undi basiga mu cyimbo cya Benjamini), bariherera bajya inama maze umukuru muri bo aravuga ati “Ese ntimuzi ko so yagiranye namwe isezerano mu izina rya Allah (ko muzamugarura), kandi na mbere mutarubahirije (ibyo mwasezeranye) kuri Yusufu? Bityo, sinzigera mva kuri ubu butaka (Misiri) keretse data abimpereye uburenganzira, cyangwa Allah agaca iteka (ryo kuhava mujyanye), kuko ari we Mukiranuzi usumba abandi.”",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 245,
+  "verse_key": "12:80",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا ٱسۡتَيۡـَٔسُواْ مِنۡهُ خَلَصُواْ نَجِيّٗاۖ قَالَ كَبِيرُهُمۡ أَلَمۡ تَعۡلَمُوٓاْ أَنَّ أَبَاكُمۡ قَدۡ أَخَذَ عَلَيۡكُم مَّوۡثِقٗا مِّنَ ٱللَّهِ وَمِن قَبۡلُ مَا فَرَّطتُمۡ فِي يُوسُفَۖ فَلَنۡ أَبۡرَحَ ٱلۡأَرۡضَ حَتَّىٰ يَأۡذَنَ لِيٓ أَبِيٓ أَوۡ يَحۡكُمَ ٱللَّهُ لِيۖ وَهُوَ خَيۡرُ ٱلۡحَٰكِمِينَ",
+  "translation": "Nuko bamaze gutakaza icyizere (cyo kuba bakwemererwa kugira undi basiga mu cyimbo cya Benjamini), bariherera bajya inama maze umukuru muri bo aravuga ati “Ese ntimuzi ko so yagiranye namwe isezerano mu izina rya Allah (ko muzamugarura), kandi na mbere mutarubahirije (ibyo mwasezeranye) kuri Yusufu? Bityo, sinzigera mva kuri ubu butaka (Misiri) keretse data abimpereye uburenganzira, cyangwa Allah agaca iteka (ryo kuhava mujyanye), kuko ari we Mukiranuzi usumba abandi.”",
+  "footnotes": ""
 }

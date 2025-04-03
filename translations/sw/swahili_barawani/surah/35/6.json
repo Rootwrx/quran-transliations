@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3666",
-    "sura": "35",
-    "aya": "6",
-    "arabic_text": "إِنَّ ٱلشَّيۡطَٰنَ لَكُمۡ عَدُوّٞ فَٱتَّخِذُوهُ عَدُوًّاۚ إِنَّمَا يَدۡعُواْ حِزۡبَهُۥ لِيَكُونُواْ مِنۡ أَصۡحَٰبِ ٱلسَّعِيرِ",
-    "translation": "Hakika Shet'ani ni adui yenu, basi mfanyeni kuwa ni adui. Kwani yeye analiita kundi lake liwe katika watu wa Motoni.",
-    "footnotes": "Hakika Shetani ni adui yenu wa kale, msikhadaike kwa ahadi zake. Nanyi mchukulieni kuwa ni adui yenu. Kwani hakika yeye anawaita wafwasi wake wapate kuwa watu wa Moto uwakao kwa nguvu, na wala hawaitii kwa jenginelo."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 435,
+  "verse_key": "35:6",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 174,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلشَّيۡطَٰنَ لَكُمۡ عَدُوّٞ فَٱتَّخِذُوهُ عَدُوًّاۚ إِنَّمَا يَدۡعُواْ حِزۡبَهُۥ لِيَكُونُواْ مِنۡ أَصۡحَٰبِ ٱلسَّعِيرِ",
+  "translation": "Hakika Shet'ani ni adui yenu, basi mfanyeni kuwa ni adui. Kwani yeye analiita kundi lake liwe katika watu wa Motoni.",
+  "footnotes": "Hakika Shetani ni adui yenu wa kale, msikhadaike kwa ahadi zake. Nanyi mchukulieni kuwa ni adui yenu. Kwani hakika yeye anawaita wafwasi wake wapate kuwa watu wa Moto uwakao kwa nguvu, na wala hawaitii kwa jenginelo."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5002",
-    "sura": "56",
-    "aya": "23",
-    "arabic_text": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
-    "translation": "23. telles des perles soigneusement conservées (dans leur coquillage).",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 535,
+  "verse_key": "56:23",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَأَمۡثَٰلِ ٱللُّؤۡلُوِٕ ٱلۡمَكۡنُونِ",
+  "translation": "23. telles des perles soigneusement conservées (dans leur coquillage).",
+  "footnotes": ""
 }

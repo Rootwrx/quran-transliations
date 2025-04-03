@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6114",
-    "sura": "96",
-    "aya": "8",
-    "arabic_text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ",
-    "translation": "ನಿಶ್ಚಯವಾಗಿಯೂ ನಿಮ್ಮ ಪರಿಪಾಲಕನ (ಅಲ್ಲಾಹನ) ಬಳಿಗೆ ಮರಳಿ ಹೋಗಬೇಕಾಗಿದೆ.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 597,
+  "verse_key": "96:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ إِلَىٰ رَبِّكَ ٱلرُّجۡعَىٰٓ",
+  "translation": "ನಿಶ್ಚಯವಾಗಿಯೂ ನಿಮ್ಮ ಪರಿಪಾಲಕನ (ಅಲ್ಲಾಹನ) ಬಳಿಗೆ ಮರಳಿ ಹೋಗಬೇಕಾಗಿದೆ.",
+  "footnotes": ""
 }

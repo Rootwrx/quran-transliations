@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3605",
-    "sura": "33",
-    "aya": "72",
-    "arabic_text": "إِنَّا عَرَضۡنَا ٱلۡأَمَانَةَ عَلَى ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱلۡجِبَالِ فَأَبَيۡنَ أَن يَحۡمِلۡنَهَا وَأَشۡفَقۡنَ مِنۡهَا وَحَمَلَهَا ٱلۡإِنسَٰنُۖ إِنَّهُۥ كَانَ ظَلُومٗا جَهُولٗا",
-    "translation": "72. Ya soló, topesaki mokumba(1) na likolo mpe na nsé mpe na bangomba, kasi baboyaki komema yango na kobanga, kasi moto amemaki yango. Nzoka nde azalaka na bosembo te, mpe boyebi te.",
-    "footnotes": "1 Mokumba: Elakisi: Kobondela Allah ye moko, kotika mabe kosala bolamu."
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 427,
+  "verse_key": "33:72",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا عَرَضۡنَا ٱلۡأَمَانَةَ عَلَى ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَٱلۡجِبَالِ فَأَبَيۡنَ أَن يَحۡمِلۡنَهَا وَأَشۡفَقۡنَ مِنۡهَا وَحَمَلَهَا ٱلۡإِنسَٰنُۖ إِنَّهُۥ كَانَ ظَلُومٗا جَهُولٗا",
+  "translation": "72. Ya soló, topesaki mokumba(1) na likolo mpe na nsé mpe na bangomba, kasi baboyaki komema yango na kobanga, kasi moto amemaki yango. Nzoka nde azalaka na bosembo te, mpe boyebi te.",
+  "footnotes": "1 Mokumba: Elakisi: Kobondela Allah ye moko, kotika mabe kosala bolamu."
 }

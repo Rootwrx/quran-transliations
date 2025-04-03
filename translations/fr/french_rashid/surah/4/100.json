@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "593",
-    "sura": "4",
-    "aya": "100",
-    "arabic_text": "۞ وَمَن يُهَاجِرۡ فِي سَبِيلِ ٱللَّهِ يَجِدۡ فِي ٱلۡأَرۡضِ مُرَٰغَمٗا كَثِيرٗا وَسَعَةٗۚ وَمَن يَخۡرُجۡ مِنۢ بَيۡتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدۡرِكۡهُ ٱلۡمَوۡتُ فَقَدۡ وَقَعَ أَجۡرُهُۥ عَلَى ٱللَّهِۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
-    "translation": "100 Quiconque émigre par obéissance à Allah trouvera sur terre d’innombrables refuges et d’abondantes richesses. Quant à celui qui, après avoir quitté son foyer, poussé par le désir d’émigrer vers Allah et Son Messager, trouve la mort avant d’atteindre le but qu’il s’était fixé, sa récompense incombe à Allah qui est Très Clément et Très Miséricordieux.",
-    "footnotes": ""
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 94,
+  "verse_key": "4:100",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَمَن يُهَاجِرۡ فِي سَبِيلِ ٱللَّهِ يَجِدۡ فِي ٱلۡأَرۡضِ مُرَٰغَمٗا كَثِيرٗا وَسَعَةٗۚ وَمَن يَخۡرُجۡ مِنۢ بَيۡتِهِۦ مُهَاجِرًا إِلَى ٱللَّهِ وَرَسُولِهِۦ ثُمَّ يُدۡرِكۡهُ ٱلۡمَوۡتُ فَقَدۡ وَقَعَ أَجۡرُهُۥ عَلَى ٱللَّهِۗ وَكَانَ ٱللَّهُ غَفُورٗا رَّحِيمٗا",
+  "translation": "100 Quiconque émigre par obéissance à Allah trouvera sur terre d’innombrables refuges et d’abondantes richesses. Quant à celui qui, après avoir quitté son foyer, poussé par le désir d’émigrer vers Allah et Son Messager, trouve la mort avant d’atteindre le but qu’il s’était fixé, sa récompense incombe à Allah qui est Très Clément et Très Miséricordieux.",
+  "footnotes": ""
 }

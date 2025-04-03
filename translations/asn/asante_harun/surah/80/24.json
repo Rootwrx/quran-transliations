@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5782",
-    "sura": "80",
-    "aya": "24",
-    "arabic_text": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
-    "translation": "Enti onipa nhwε n’aduane (ahyε ase),",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 585,
+  "verse_key": "80:24",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلۡيَنظُرِ ٱلۡإِنسَٰنُ إِلَىٰ طَعَامِهِۦٓ",
+  "translation": "Enti onipa nhwε n’aduane (ahyε ase),",
+  "footnotes": ""
 }

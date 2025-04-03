@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1786",
-    "sura": "14",
-    "aya": "36",
-    "arabic_text": "رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ",
-    "translation": "Mein Herr, sie haben viele von den Menschen in die Irre geführt. Wer mir nun folgt, der gehört zu mir; und wer sich mir widersetzt, so bist Du ja Allvergebend und Barmherzig.",
-    "footnotes": null
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 260,
+  "verse_key": "14:36",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبِّ إِنَّهُنَّ أَضۡلَلۡنَ كَثِيرٗا مِّنَ ٱلنَّاسِۖ فَمَن تَبِعَنِي فَإِنَّهُۥ مِنِّيۖ وَمَنۡ عَصَانِي فَإِنَّكَ غَفُورٞ رَّحِيمٞ",
+  "translation": "Mein Herr, sie haben viele von den Menschen in die Irre geführt. Wer mir nun folgt, der gehört zu mir; und wer sich mir widersetzt, so bist Du ja Allvergebend und Barmherzig.",
+  "footnotes": null
 }

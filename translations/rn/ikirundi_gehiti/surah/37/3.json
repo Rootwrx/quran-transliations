@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3791",
-    "sura": "37",
-    "aya": "3",
-    "arabic_text": "فَٱلتَّٰلِيَٰتِ ذِكۡرًا",
-    "translation": "No ku bamalayika basoma urwibutso n’amajambo yanje mu guhishurira Intumwa[1]!",
-    "footnotes": "[1] Imana Allah Irahira ku co Ishatse mu biremwa vyayo, nayo ibiremwa ntibirekuriwe kurahira, kiretse kw’izina ryayo gusa. Ukurahira kw’izina ry’ikitari Imana Allah, ni ibangikanyamana."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 446,
+  "verse_key": "37:3",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱلتَّٰلِيَٰتِ ذِكۡرًا",
+  "translation": "No ku bamalayika basoma urwibutso n’amajambo yanje mu guhishurira Intumwa[1]!",
+  "footnotes": "[1] Imana Allah Irahira ku co Ishatse mu biremwa vyayo, nayo ibiremwa ntibirekuriwe kurahira, kiretse kw’izina ryayo gusa. Ukurahira kw’izina ry’ikitari Imana Allah, ni ibangikanyamana."
 }

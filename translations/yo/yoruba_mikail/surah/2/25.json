@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "32",
-    "sura": "2",
-    "aya": "25",
-    "arabic_text": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ كُلَّمَا رُزِقُواْ مِنۡهَا مِن ثَمَرَةٖ رِّزۡقٗا قَالُواْ هَٰذَا ٱلَّذِي رُزِقۡنَا مِن قَبۡلُۖ وَأُتُواْ بِهِۦ مُتَشَٰبِهٗاۖ وَلَهُمۡ فِيهَآ أَزۡوَٰجٞ مُّطَهَّرَةٞۖ وَهُمۡ فِيهَا خَٰلِدُونَ",
-    "translation": "Fún àwọn tó gbàgbọ́ ní òdodo, tí wọ́n sì ṣe àwọn iṣẹ́ rere ní ìró ìdùnnú pé, dájúdájú àwọn Ọgbà Ìdẹ̀ra kan ń bẹ fún wọn, èyí tí àwọn odò ń ṣàn ní ìsàlẹ̀ rẹ̀. Ìgbàkígbà tí A bá p’èsè jíjẹ-mímu kan fún wọn nínú èso rẹ̀, wọn yóò sọ pé: “Èyí ni wọ́n ti pèsè fún wa tẹ́lẹ̀tẹ́lẹ̀.” - Wọ́n mú un wá fún wọn ní ìrísí kan náà ni (àmọ́ pẹ̀lú adùn ọ̀tọ̀ọ̀tọ̀). - Àwọn ìyàwó mímọ́ sì ń bẹ fún wọn nínú Ọgbà Ìdẹ̀ra. Olùṣegbére sì ni wọ́n nínú rẹ̀.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 5,
+  "verse_key": "2:25",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبَشِّرِ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أَنَّ لَهُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُۖ كُلَّمَا رُزِقُواْ مِنۡهَا مِن ثَمَرَةٖ رِّزۡقٗا قَالُواْ هَٰذَا ٱلَّذِي رُزِقۡنَا مِن قَبۡلُۖ وَأُتُواْ بِهِۦ مُتَشَٰبِهٗاۖ وَلَهُمۡ فِيهَآ أَزۡوَٰجٞ مُّطَهَّرَةٞۖ وَهُمۡ فِيهَا خَٰلِدُونَ",
+  "translation": "Fún àwọn tó gbàgbọ́ ní òdodo, tí wọ́n sì ṣe àwọn iṣẹ́ rere ní ìró ìdùnnú pé, dájúdájú àwọn Ọgbà Ìdẹ̀ra kan ń bẹ fún wọn, èyí tí àwọn odò ń ṣàn ní ìsàlẹ̀ rẹ̀. Ìgbàkígbà tí A bá p’èsè jíjẹ-mímu kan fún wọn nínú èso rẹ̀, wọn yóò sọ pé: “Èyí ni wọ́n ti pèsè fún wa tẹ́lẹ̀tẹ́lẹ̀.” - Wọ́n mú un wá fún wọn ní ìrísí kan náà ni (àmọ́ pẹ̀lú adùn ọ̀tọ̀ọ̀tọ̀). - Àwọn ìyàwó mímọ́ sì ń bẹ fún wọn nínú Ọgbà Ìdẹ̀ra. Olùṣegbére sì ni wọ́n nínú rẹ̀.",
+  "footnotes": ""
 }

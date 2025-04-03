@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4803",
-    "sura": "53",
-    "aya": "19",
-    "arabic_text": "أَفَرَءَيۡتُمُ ٱللَّٰتَ وَٱلۡعُزَّىٰ",
-    "translation": "ߒ߬ߓߵߊߟߎ߫ ߓߘߊ߫ ߟߊ߯ߕߊ߫ ߣߌ߫ ߊ߬ߟߌ߬ߺߊ߳ߎߖ߭ߊ߫ ߦߋ߫ ߓߊ߬؟",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 526,
+  "verse_key": "53:19",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَرَءَيۡتُمُ ٱللَّٰتَ وَٱلۡعُزَّىٰ",
+  "translation": "ߒ߬ߓߵߊߟߎ߫ ߓߘߊ߫ ߟߊ߯ߕߊ߫ ߣߌ߫ ߊ߬ߟߌ߬ߺߊ߳ߎߖ߭ߊ߫ ߦߋ߫ ߓߊ߬؟",
+  "footnotes": ""
 }

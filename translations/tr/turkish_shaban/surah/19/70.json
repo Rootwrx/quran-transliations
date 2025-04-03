@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2320",
-    "sura": "19",
-    "aya": "70",
-    "arabic_text": "ثُمَّ لَنَحۡنُ أَعۡلَمُ بِٱلَّذِينَ هُمۡ أَوۡلَىٰ بِهَا صِلِيّٗا",
-    "translation": "Sonra biz ona (Cehennem'e) girmeye kimlerin en layık olduğunu daha iyi bilmekteyiz.",
-    "footnotes": null
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 310,
+  "verse_key": "19:70",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ لَنَحۡنُ أَعۡلَمُ بِٱلَّذِينَ هُمۡ أَوۡلَىٰ بِهَا صِلِيّٗا",
+  "translation": "Sonra biz ona (Cehennem'e) girmeye kimlerin en layık olduğunu daha iyi bilmekteyiz.",
+  "footnotes": null
 }

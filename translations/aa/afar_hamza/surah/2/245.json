@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "252",
-    "sura": "2",
-    "aya": "245",
-    "arabic_text": "مَّن ذَا ٱلَّذِي يُقۡرِضُ ٱللَّهَ قَرۡضًا حَسَنٗا فَيُضَٰعِفَهُۥ لَهُۥٓ أَضۡعَافٗا كَثِيرَةٗۚ وَٱللَّهُ يَقۡبِضُ وَيَبۡصُۜطُ وَإِلَيۡهِ تُرۡجَعُونَ",
-    "translation": "245. Maa Numuuy isi maalu Yallih gital Yallih Qangara fayya ittamkeh Qaxmeqe mattaccooh taceem Yallak galto edde faxak, Yalli woo maalu maggo dirribuh kaah dirribisaah meqe galtoh kaa elle gaitam keh, Yalli isih faxa maral Rizqhi ceyissi haa isih faxa marah Rizqhi farakka haa, isin Rabteeniik lakal kaâ fanah gacsimtaanaah usuk sin taamoomil sin galte-le Akeeral.",
-    "footnotes": ""
-  }
+  "id": 245,
+  "verse_number": 245,
+  "page_number": 39,
+  "verse_key": "2:245",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 16,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّن ذَا ٱلَّذِي يُقۡرِضُ ٱللَّهَ قَرۡضًا حَسَنٗا فَيُضَٰعِفَهُۥ لَهُۥٓ أَضۡعَافٗا كَثِيرَةٗۚ وَٱللَّهُ يَقۡبِضُ وَيَبۡصُۜطُ وَإِلَيۡهِ تُرۡجَعُونَ",
+  "translation": "245. Maa Numuuy isi maalu Yallih gital Yallih Qangara fayya ittamkeh Qaxmeqe mattaccooh taceem Yallak galto edde faxak, Yalli woo maalu maggo dirribuh kaah dirribisaah meqe galtoh kaa elle gaitam keh, Yalli isih faxa maral Rizqhi ceyissi haa isih faxa marah Rizqhi farakka haa, isin Rabteeniik lakal kaâ fanah gacsimtaanaah usuk sin taamoomil sin galte-le Akeeral.",
+  "footnotes": ""
 }

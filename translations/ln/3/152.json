@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "445",
-    "sura": "3",
-    "aya": "152",
-    "arabic_text": "وَلَقَدۡ صَدَقَكُمُ ٱللَّهُ وَعۡدَهُۥٓ إِذۡ تَحُسُّونَهُم بِإِذۡنِهِۦۖ حَتَّىٰٓ إِذَا فَشِلۡتُمۡ وَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَعَصَيۡتُم مِّنۢ بَعۡدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَۚ مِنكُم مَّن يُرِيدُ ٱلدُّنۡيَا وَمِنكُم مَّن يُرِيدُ ٱلۡأٓخِرَةَۚ ثُمَّ صَرَفَكُمۡ عَنۡهُمۡ لِيَبۡتَلِيَكُمۡۖ وَلَقَدۡ عَفَا عَنكُمۡۗ وَٱللَّهُ ذُو فَضۡلٍ عَلَى ٱلۡمُؤۡمِنِينَ",
-    "translation": "152. Ya sôló, Allah akokisaki elaka naye epai na bino, tango bobomaki bango ebele na ndingisa naye(1), kino tango bolembaki, mpe bokomaki kosuana, mpe bozangaki botosi na tango eye alakisaki bino maye bolingaka. Kati na bino basusu balingaki mokili, mpe basusu balingaki mokolo ya suka. Azongisaki bino sima liboso na bango mpo ete ameka bino mpe asila kolimbisa bino. Kasi Allah nde atonda bolamu likolo ya bandimi.",
-    "footnotes": "1 Allah."
-  }
+  "id": 152,
+  "verse_number": 152,
+  "page_number": 69,
+  "verse_key": "3:152",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ صَدَقَكُمُ ٱللَّهُ وَعۡدَهُۥٓ إِذۡ تَحُسُّونَهُم بِإِذۡنِهِۦۖ حَتَّىٰٓ إِذَا فَشِلۡتُمۡ وَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَعَصَيۡتُم مِّنۢ بَعۡدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَۚ مِنكُم مَّن يُرِيدُ ٱلدُّنۡيَا وَمِنكُم مَّن يُرِيدُ ٱلۡأٓخِرَةَۚ ثُمَّ صَرَفَكُمۡ عَنۡهُمۡ لِيَبۡتَلِيَكُمۡۖ وَلَقَدۡ عَفَا عَنكُمۡۗ وَٱللَّهُ ذُو فَضۡلٍ عَلَى ٱلۡمُؤۡمِنِينَ",
+  "translation": "152. Ya sôló, Allah akokisaki elaka naye epai na bino, tango bobomaki bango ebele na ndingisa naye(1), kino tango bolembaki, mpe bokomaki kosuana, mpe bozangaki botosi na tango eye alakisaki bino maye bolingaka. Kati na bino basusu balingaki mokili, mpe basusu balingaki mokolo ya suka. Azongisaki bino sima liboso na bango mpo ete ameka bino mpe asila kolimbisa bino. Kasi Allah nde atonda bolamu likolo ya bandimi.",
+  "footnotes": "1 Allah."
 }

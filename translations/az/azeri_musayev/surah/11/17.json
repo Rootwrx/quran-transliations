@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1490",
-    "sura": "11",
-    "aya": "17",
-    "arabic_text": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّهِۦ وَيَتۡلُوهُ شَاهِدٞ مِّنۡهُ وَمِن قَبۡلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامٗا وَرَحۡمَةًۚ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۚ وَمَن يَكۡفُرۡ بِهِۦ مِنَ ٱلۡأَحۡزَابِ فَٱلنَّارُ مَوۡعِدُهُۥۚ فَلَا تَكُ فِي مِرۡيَةٖ مِّنۡهُۚ إِنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ",
-    "translation": "Məgər Rəbbindən açıq-aydın bir dəlilə (Qurana) istinad edən, ardınca Ondan bir şahid (Cəbrail) gələn, ondan da əvvəl rəhbər və mərhəmət olmuş Musanın Kitabını (təsdiqlədiyi) kimsə (kafirə tay ola bilərmi)? Onlar (Müsəlmanlar) ona (Qurana) iman gətirirlər. Onu inkar edən firqələrin vəd olunduğu yer oddur. Sənin isə (Qurana) heç bir şübhən olmasın. Çünki bu, sənin Rəbbindən gələn haqdır, lakin insanların əksəriyyəti (buna) inanmaz.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 223,
+  "verse_key": "11:17",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَمَن كَانَ عَلَىٰ بَيِّنَةٖ مِّن رَّبِّهِۦ وَيَتۡلُوهُ شَاهِدٞ مِّنۡهُ وَمِن قَبۡلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامٗا وَرَحۡمَةًۚ أُوْلَٰٓئِكَ يُؤۡمِنُونَ بِهِۦۚ وَمَن يَكۡفُرۡ بِهِۦ مِنَ ٱلۡأَحۡزَابِ فَٱلنَّارُ مَوۡعِدُهُۥۚ فَلَا تَكُ فِي مِرۡيَةٖ مِّنۡهُۚ إِنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يُؤۡمِنُونَ",
+  "translation": "Məgər Rəbbindən açıq-aydın bir dəlilə (Qurana) istinad edən, ardınca Ondan bir şahid (Cəbrail) gələn, ondan da əvvəl rəhbər və mərhəmət olmuş Musanın Kitabını (təsdiqlədiyi) kimsə (kafirə tay ola bilərmi)? Onlar (Müsəlmanlar) ona (Qurana) iman gətirirlər. Onu inkar edən firqələrin vəd olunduğu yer oddur. Sənin isə (Qurana) heç bir şübhən olmasın. Çünki bu, sənin Rəbbindən gələn haqdır, lakin insanların əksəriyyəti (buna) inanmaz.",
+  "footnotes": ""
 }

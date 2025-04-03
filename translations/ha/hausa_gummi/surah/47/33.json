@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4578",
-    "sura": "47",
-    "aya": "33",
-    "arabic_text": "۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَلَا تُبۡطِلُوٓاْ أَعۡمَٰلَكُمۡ",
-    "translation": "Yã kũ waɗanda suka yi ĩmãni! Ku yi ɗã'a ga Allah, kuma ku yi ɗa'a ga Manzon Sa, kuma kada *ku ɓãta ayyukanku.",
-    "footnotes": "* Kada ku ɓata ayyukanku da ƙin ɗa'a ga Allah da Manzon Sa ga fita zuwa yãƙi da waninsa. Ridda na ɓãta ayyuka, kuma riya da mãmãkin kai na ɓãta lãdar ayyuka, kuma ƙwãra da cũtarwa sunã ɓãta lãdar sadaka. Sauran manyan zunubbai, bã su ɓãta ayyuka sai ga ra'ayin Mu'utazilãwa mãsu cewa manyan zunubbai na ɓãta lãdar ayyuka kamar ridda. An ɓãta maganarsu da ãyar da ke cewa: \"Allah na gãfarta abin da ya kãsa hãka ga wanda Yã so.\" Sũratun Nisa'i ãyã ta48."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 510,
+  "verse_key": "47:33",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَلَا تُبۡطِلُوٓاْ أَعۡمَٰلَكُمۡ",
+  "translation": "Yã kũ waɗanda suka yi ĩmãni! Ku yi ɗã'a ga Allah, kuma ku yi ɗa'a ga Manzon Sa, kuma kada *ku ɓãta ayyukanku.",
+  "footnotes": "* Kada ku ɓata ayyukanku da ƙin ɗa'a ga Allah da Manzon Sa ga fita zuwa yãƙi da waninsa. Ridda na ɓãta ayyuka, kuma riya da mãmãkin kai na ɓãta lãdar ayyuka, kuma ƙwãra da cũtarwa sunã ɓãta lãdar sadaka. Sauran manyan zunubbai, bã su ɓãta ayyuka sai ga ra'ayin Mu'utazilãwa mãsu cewa manyan zunubbai na ɓãta lãdar ayyuka kamar ridda. An ɓãta maganarsu da ãyar da ke cewa: \"Allah na gãfarta abin da ya kãsa hãka ga wanda Yã so.\" Sũratun Nisa'i ãyã ta48."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5757",
-    "sura": "79",
-    "aya": "45",
-    "arabic_text": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخۡشَىٰهَا",
-    "translation": "Na wo (Nkͻmhyεni) deε woyε kͻkͻbͻni ma obi a ɔsuro (saa Da no).",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 584,
+  "verse_key": "79:45",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَآ أَنتَ مُنذِرُ مَن يَخۡشَىٰهَا",
+  "translation": "Na wo (Nkͻmhyεni) deε woyε kͻkͻbͻni ma obi a ɔsuro (saa Da no).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1481",
-    "sura": "11",
-    "aya": "8",
-    "arabic_text": "وَلَئِنۡ أَخَّرۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِلَىٰٓ أُمَّةٖ مَّعۡدُودَةٖ لَّيَقُولُنَّ مَا يَحۡبِسُهُۥٓۗ أَلَا يَوۡمَ يَأۡتِيهِمۡ لَيۡسَ مَصۡرُوفًا عَنۡهُمۡ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
-    "translation": "Kuma lalle ne idan Mun jinkirta da azãba gare su zuwa ga wani lõkaci ƙidãyayye, haƙĩƙa sunãcẽwa me yake tsare* ta? To, a rãnar da zã ta je musu, ba ta zama abin karkatarwa ba daga gare su. Kuma abin da suka kasance suna yin izgili da shi, yã wajaba a kansu.",
-    "footnotes": "* Me ke tsare ta, watau azãbar me ke hana ta ta zo yanzu?."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 222,
+  "verse_key": "11:8",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِنۡ أَخَّرۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِلَىٰٓ أُمَّةٖ مَّعۡدُودَةٖ لَّيَقُولُنَّ مَا يَحۡبِسُهُۥٓۗ أَلَا يَوۡمَ يَأۡتِيهِمۡ لَيۡسَ مَصۡرُوفًا عَنۡهُمۡ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+  "translation": "Kuma lalle ne idan Mun jinkirta da azãba gare su zuwa ga wani lõkaci ƙidãyayye, haƙĩƙa sunãcẽwa me yake tsare* ta? To, a rãnar da zã ta je musu, ba ta zama abin karkatarwa ba daga gare su. Kuma abin da suka kasance suna yin izgili da shi, yã wajaba a kansu.",
+  "footnotes": "* Me ke tsare ta, watau azãbar me ke hana ta ta zo yanzu?."
 }

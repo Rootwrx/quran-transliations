@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1809",
-    "sura": "15",
-    "aya": "7",
-    "arabic_text": "لَّوۡمَا تَأۡتِينَا بِٱلۡمَلَٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
-    "translation": "7 Pourquoi n’es-tu pas accompagné d’anges témoignant de l’authenticité de ta mission, si tu dis la vérité ! »",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 262,
+  "verse_key": "15:7",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّوۡمَا تَأۡتِينَا بِٱلۡمَلَٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+  "translation": "7 Pourquoi n’es-tu pas accompagné d’anges témoignant de l’authenticité de ta mission, si tu dis la vérité ! »",
+  "footnotes": ""
 }

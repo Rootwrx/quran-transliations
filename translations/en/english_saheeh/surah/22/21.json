@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2616",
-    "sura": "22",
-    "aya": "21",
-    "arabic_text": "وَلَهُم مَّقَٰمِعُ مِنۡ حَدِيدٖ",
-    "translation": "(21) And for [striking] them are maces of iron.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 334,
+  "verse_key": "22:21",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَهُم مَّقَٰمِعُ مِنۡ حَدِيدٖ",
+  "translation": "(21) And for [striking] them are maces of iron.",
+  "footnotes": ""
 }

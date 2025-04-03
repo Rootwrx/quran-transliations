@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2085",
-    "sura": "17",
-    "aya": "56",
-    "arabic_text": "قُلِ ٱدۡعُواْ ٱلَّذِينَ زَعَمۡتُم مِّن دُونِهِۦ فَلَا يَمۡلِكُونَ كَشۡفَ ٱلضُّرِّ عَنكُمۡ وَلَا تَحۡوِيلًا",
-    "translation": "Ka ce: \"Ku kirãyi waɗanda kuka riya, baicinSa.\" To, ba su mallakar kuranyẽwar cũta daga gare ku, kuma haka jũyarwa.\"*",
-    "footnotes": "* Bã zã su iya jũyar da cũta daga gare ku zuwa ga wani ko kuwa daga wani zuwa gare ku ba."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 287,
+  "verse_key": "17:56",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱدۡعُواْ ٱلَّذِينَ زَعَمۡتُم مِّن دُونِهِۦ فَلَا يَمۡلِكُونَ كَشۡفَ ٱلضُّرِّ عَنكُمۡ وَلَا تَحۡوِيلًا",
+  "translation": "Ka ce: \"Ku kirãyi waɗanda kuka riya, baicinSa.\" To, ba su mallakar kuranyẽwar cũta daga gare ku, kuma haka jũyarwa.\"*",
+  "footnotes": "* Bã zã su iya jũyar da cũta daga gare ku zuwa ga wani ko kuwa daga wani zuwa gare ku ba."
 }

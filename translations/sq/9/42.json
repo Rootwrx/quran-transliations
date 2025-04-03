@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1277",
-    "sura": "9",
-    "aya": "42",
-    "arabic_text": "لَوۡ كَانَ عَرَضٗا قَرِيبٗا وَسَفَرٗا قَاصِدٗا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتۡ عَلَيۡهِمُ ٱلشُّقَّةُۚ وَسَيَحۡلِفُونَ بِٱللَّهِ لَوِ ٱسۡتَطَعۡنَا لَخَرَجۡنَا مَعَكُمۡ يُهۡلِكُونَ أَنفُسَهُمۡ وَٱللَّهُ يَعۡلَمُ إِنَّهُمۡ لَكَٰذِبُونَ",
-    "translation": "Po të ishte përfitimi afër dhe rruga jo aq e gjatë, ata do të vinin pas teje. Por iu duk rrugë e largët. Dhe ata do të betohen në Allahun: “Sikur të kishim mundur, me siguri do të dilnim bashkë me ju;” dhe kështu ata e shkatërrojnë vetveten; Allahu e di se ata janë gënjeshtarë.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 194,
+  "verse_key": "9:42",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَوۡ كَانَ عَرَضٗا قَرِيبٗا وَسَفَرٗا قَاصِدٗا لَّٱتَّبَعُوكَ وَلَٰكِنۢ بَعُدَتۡ عَلَيۡهِمُ ٱلشُّقَّةُۚ وَسَيَحۡلِفُونَ بِٱللَّهِ لَوِ ٱسۡتَطَعۡنَا لَخَرَجۡنَا مَعَكُمۡ يُهۡلِكُونَ أَنفُسَهُمۡ وَٱللَّهُ يَعۡلَمُ إِنَّهُمۡ لَكَٰذِبُونَ",
+  "translation": "Po të ishte përfitimi afër dhe rruga jo aq e gjatë, ata do të vinin pas teje. Por iu duk rrugë e largët. Dhe ata do të betohen në Allahun: “Sikur të kishim mundur, me siguri do të dilnim bashkë me ju;” dhe kështu ata e shkatërrojnë vetveten; Allahu e di se ata janë gënjeshtarë.",
+  "footnotes": ""
 }

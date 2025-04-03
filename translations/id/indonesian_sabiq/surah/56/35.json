@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5014",
-    "sura": "56",
-    "aya": "35",
-    "arabic_text": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ",
-    "translation": "35. Kami menciptakan mereka (bidadari-bidadari itu) secara langsung,*(828)",
-    "footnotes": "*828). Mereka diciptakan tanpa melalui kelahiran dan langsung menjadi gadis."
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 535,
+  "verse_key": "56:35",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَنشَأۡنَٰهُنَّ إِنشَآءٗ",
+  "translation": "35. Kami menciptakan mereka (bidadari-bidadari itu) secara langsung,*(828)",
+  "footnotes": "*828). Mereka diciptakan tanpa melalui kelahiran dan langsung menjadi gadis."
 }

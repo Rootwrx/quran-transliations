@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1766",
-    "sura": "14",
-    "aya": "16",
-    "arabic_text": "مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسۡقَىٰ مِن مَّآءٖ صَدِيدٖ",
-    "translation": "16. Au-devant de lui (en attente, se trouve) la Géhenne, où il sera abreuvé d’une eau purulente et sanglante,",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 257,
+  "verse_key": "14:16",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِّن وَرَآئِهِۦ جَهَنَّمُ وَيُسۡقَىٰ مِن مَّآءٖ صَدِيدٖ",
+  "translation": "16. Au-devant de lui (en attente, se trouve) la Géhenne, où il sera abreuvé d’une eau purulente et sanglante,",
+  "footnotes": ""
 }

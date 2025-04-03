@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "912",
-    "sura": "6",
-    "aya": "123",
-    "arabic_text": "وَكَذَٰلِكَ جَعَلۡنَا فِي كُلِّ قَرۡيَةٍ أَكَٰبِرَ مُجۡرِمِيهَا لِيَمۡكُرُواْ فِيهَاۖ وَمَا يَمۡكُرُونَ إِلَّا بِأَنفُسِهِمۡ وَمَا يَشۡعُرُونَ",
-    "translation": "Kadhaalika katika kila mji tumewajaalia wakubwa wa wakosefu wao wafanye vitimbi ndani yake. Na wala hawafanyii vitimbi isipo kuwa nafsi zao, nao hawatambui.",
-    "footnotes": "Ewe Nabii! Usistaajabu ukiwaona wakuu wa wakosefu katika Makka wanapanga njama za shari za kila namna! Kwani huo ndio mtindo wao katika kila mji mkubwa. Wakuu wa wakosefu wake huwa kazi yao kuzua vitimbi vya shari. Na malipo ya uovu wake utakuja waangukia wenyewe, lakini wao hawatambui wala hawahisi."
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 143,
+  "verse_key": "6:123",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ جَعَلۡنَا فِي كُلِّ قَرۡيَةٍ أَكَٰبِرَ مُجۡرِمِيهَا لِيَمۡكُرُواْ فِيهَاۖ وَمَا يَمۡكُرُونَ إِلَّا بِأَنفُسِهِمۡ وَمَا يَشۡعُرُونَ",
+  "translation": "Kadhaalika katika kila mji tumewajaalia wakubwa wa wakosefu wao wafanye vitimbi ndani yake. Na wala hawafanyii vitimbi isipo kuwa nafsi zao, nao hawatambui.",
+  "footnotes": "Ewe Nabii! Usistaajabu ukiwaona wakuu wa wakosefu katika Makka wanapanga njama za shari za kila namna! Kwani huo ndio mtindo wao katika kila mji mkubwa. Wakuu wa wakosefu wake huwa kazi yao kuzua vitimbi vya shari. Na malipo ya uovu wake utakuja waangukia wenyewe, lakini wao hawatambui wala hawahisi."
 }

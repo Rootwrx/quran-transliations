@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4325",
-    "sura": "42",
-    "aya": "53",
-    "arabic_text": "صِرَٰطِ ٱللَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلۡأُمُورُ",
-    "translation": "Karaa Rabbii wanti samiilee keessa jiruufi wanti dachii keessa jiru hundi kan Isaa ta’ee (ni qajeelchita). Dhagayaa! Dhimmi hundi garuma Rabbiitti deebi’a.",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 489,
+  "verse_key": "42:53",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "صِرَٰطِ ٱللَّهِ ٱلَّذِي لَهُۥ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۗ أَلَآ إِلَى ٱللَّهِ تَصِيرُ ٱلۡأُمُورُ",
+  "translation": "Karaa Rabbii wanti samiilee keessa jiruufi wanti dachii keessa jiru hundi kan Isaa ta’ee (ni qajeelchita). Dhagayaa! Dhimmi hundi garuma Rabbiitti deebi’a.",
+  "footnotes": ""
 }

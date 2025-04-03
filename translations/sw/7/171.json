@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1125",
-    "sura": "7",
-    "aya": "171",
-    "arabic_text": "۞ وَإِذۡ نَتَقۡنَا ٱلۡجَبَلَ فَوۡقَهُمۡ كَأَنَّهُۥ ظُلَّةٞ وَظَنُّوٓاْ أَنَّهُۥ وَاقِعُۢ بِهِمۡ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ",
-    "translation": "Na pale tulipo unyanyua mlima juu yao ukawa kama kwamba ni kiwingu kilicho wafunika, na wakadhani kuwa utawaangukia, (tukawaambia): Kamateni kwa nguvu tuliyo kupeni, na yakumbukeni yaliyomo ndani yake ili mpate kumcha Mungu.",
-    "footnotes": "Mwenyezi Mungu ameijibu kauli ya Mayahudi walipo sema kwamba Wana wa Israili hawakupata kwenda kinyume na Haki. Alisema: Ewe Nabii! Wakumbushe pale tulipo unyanyua mlima juu ya Wana wa Israili ukawa kama kiwingu, na wakafazaika kwa kuwa walidhani utawaangukia. Nasi tukawaambia wakati ule ulipo nyanyuliwa na wao wamo katika khofu: Yashikeni ya uwongofu tuliyo kupeni katika Taurati kwa nguvu na kuazimia ut'iifu. Na kumbukeni yaliyomo ndani yake ili mpate kuzingatia na zitengenee nafsi zenu kwa kuchamngu."
-  }
+  "id": 171,
+  "verse_number": 171,
+  "page_number": 173,
+  "verse_key": "7:171",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 69,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَإِذۡ نَتَقۡنَا ٱلۡجَبَلَ فَوۡقَهُمۡ كَأَنَّهُۥ ظُلَّةٞ وَظَنُّوٓاْ أَنَّهُۥ وَاقِعُۢ بِهِمۡ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ",
+  "translation": "Na pale tulipo unyanyua mlima juu yao ukawa kama kwamba ni kiwingu kilicho wafunika, na wakadhani kuwa utawaangukia, (tukawaambia): Kamateni kwa nguvu tuliyo kupeni, na yakumbukeni yaliyomo ndani yake ili mpate kumcha Mungu.",
+  "footnotes": "Mwenyezi Mungu ameijibu kauli ya Mayahudi walipo sema kwamba Wana wa Israili hawakupata kwenda kinyume na Haki. Alisema: Ewe Nabii! Wakumbushe pale tulipo unyanyua mlima juu ya Wana wa Israili ukawa kama kiwingu, na wakafazaika kwa kuwa walidhani utawaangukia. Nasi tukawaambia wakati ule ulipo nyanyuliwa na wao wamo katika khofu: Yashikeni ya uwongofu tuliyo kupeni katika Taurati kwa nguvu na kuazimia ut'iifu. Na kumbukeni yaliyomo ndani yake ili mpate kuzingatia na zitengenee nafsi zenu kwa kuchamngu."
 }

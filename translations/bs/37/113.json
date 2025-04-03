@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3901",
-    "sura": "37",
-    "aya": "113",
-    "arabic_text": "وَبَٰرَكۡنَا عَلَيۡهِ وَعَلَىٰٓ إِسۡحَٰقَۚ وَمِن ذُرِّيَّتِهِمَا مُحۡسِنٞ وَظَالِمٞ لِّنَفۡسِهِۦ مُبِينٞ",
-    "translation": "i blagosloviti smo i njega i Ishaka; a među potomcima njihovim ima vjernika i onih koji sebi očito nasilje čine. ",
-    "footnotes": ""
-  }
+  "id": 113,
+  "verse_number": 113,
+  "page_number": 450,
+  "verse_key": "37:113",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبَٰرَكۡنَا عَلَيۡهِ وَعَلَىٰٓ إِسۡحَٰقَۚ وَمِن ذُرِّيَّتِهِمَا مُحۡسِنٞ وَظَالِمٞ لِّنَفۡسِهِۦ مُبِينٞ",
+  "translation": "i blagosloviti smo i njega i Ishaka; a među potomcima njihovim ima vjernika i onih koji sebi očito nasilje čine. ",
+  "footnotes": ""
 }

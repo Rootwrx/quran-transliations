@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2167",
-    "sura": "18",
-    "aya": "27",
-    "arabic_text": "وَٱتۡلُ مَآ أُوحِيَ إِلَيۡكَ مِن كِتَابِ رَبِّكَۖ لَا مُبَدِّلَ لِكَلِمَٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلۡتَحَدٗا",
-    "translation": "Ngươi (Muhammad) hãy xướng đọc những gì được mặc khải cho Ngươi từ Kinh Sách nơi Thượng Đế của Ngươi. Không ai có thể thay đổi các lời phán của Ngài và Ngươi sẽ không bao giờ tìm thấy được chỗ nương tựa nào khác ngoài Ngài.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 296,
+  "verse_key": "18:27",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتۡلُ مَآ أُوحِيَ إِلَيۡكَ مِن كِتَابِ رَبِّكَۖ لَا مُبَدِّلَ لِكَلِمَٰتِهِۦ وَلَن تَجِدَ مِن دُونِهِۦ مُلۡتَحَدٗا",
+  "translation": "Ngươi (Muhammad) hãy xướng đọc những gì được mặc khải cho Ngươi từ Kinh Sách nơi Thượng Đế của Ngươi. Không ai có thể thay đổi các lời phán của Ngài và Ngươi sẽ không bao giờ tìm thấy được chỗ nương tựa nào khác ngoài Ngài.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3701",
-    "sura": "35",
-    "aya": "41",
-    "arabic_text": "۞ إِنَّ ٱللَّهَ يُمۡسِكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ أَن تَزُولَاۚ وَلَئِن زَالَتَآ إِنۡ أَمۡسَكَهُمَا مِنۡ أَحَدٖ مِّنۢ بَعۡدِهِۦٓۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورٗا",
-    "translation": "Rabbiin samiileefi dachiin akka hin deemne qaba. Odoo bakkaa deemaniis Isa malee wanti tokkoyyuu isaan lamaan hin qabu. Inni obsaa, araaramaa ta’eera",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 439,
+  "verse_key": "35:41",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّ ٱللَّهَ يُمۡسِكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَ أَن تَزُولَاۚ وَلَئِن زَالَتَآ إِنۡ أَمۡسَكَهُمَا مِنۡ أَحَدٖ مِّنۢ بَعۡدِهِۦٓۚ إِنَّهُۥ كَانَ حَلِيمًا غَفُورٗا",
+  "translation": "Rabbiin samiileefi dachiin akka hin deemne qaba. Odoo bakkaa deemaniis Isa malee wanti tokkoyyuu isaan lamaan hin qabu. Inni obsaa, araaramaa ta’eera",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2674",
-    "sura": "23",
-    "aya": "1",
-    "arabic_text": "قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ",
-    "translation": "1. Bienaventurados los creyentes",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 342,
+  "verse_key": "23:1",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ أَفۡلَحَ ٱلۡمُؤۡمِنُونَ",
+  "translation": "1. Bienaventurados los creyentes",
+  "footnotes": ""
 }

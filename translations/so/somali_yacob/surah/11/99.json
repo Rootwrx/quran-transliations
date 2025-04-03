@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1572",
-    "sura": "11",
-    "aya": "99",
-    "arabic_text": "وَأُتۡبِعُواْ فِي هَٰذِهِۦ لَعۡنَةٗ وَيَوۡمَ ٱلۡقِيَٰمَةِۚ بِئۡسَ ٱلرِّفۡدُ ٱلۡمَرۡفُودُ",
-    "translation": "99. Waxaana lagu raacshay Nacalad (duni) tani gudaheeda iyo Maalinta Qiyaamaha24, xumaa waxa loo kordhin (oo Cadho Alle iyo Cadaab ah).",
-    "footnotes": "24. Waa lacnad ku raaceysa adduun iyo aakhiro labada daaroodba."
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 233,
+  "verse_key": "11:99",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأُتۡبِعُواْ فِي هَٰذِهِۦ لَعۡنَةٗ وَيَوۡمَ ٱلۡقِيَٰمَةِۚ بِئۡسَ ٱلرِّفۡدُ ٱلۡمَرۡفُودُ",
+  "translation": "99. Waxaana lagu raacshay Nacalad (duni) tani gudaheeda iyo Maalinta Qiyaamaha24, xumaa waxa loo kordhin (oo Cadho Alle iyo Cadaab ah).",
+  "footnotes": "24. Waa lacnad ku raaceysa adduun iyo aakhiro labada daaroodba."
 }

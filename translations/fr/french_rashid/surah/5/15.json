@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "684",
-    "sura": "5",
-    "aya": "15",
-    "arabic_text": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ قَدۡ جَآءَكُمۡ رَسُولُنَا يُبَيِّنُ لَكُمۡ كَثِيرٗا مِّمَّا كُنتُمۡ تُخۡفُونَ مِنَ ٱلۡكِتَٰبِ وَيَعۡفُواْ عَن كَثِيرٖۚ قَدۡ جَآءَكُم مِّنَ ٱللَّهِ نُورٞ وَكِتَٰبٞ مُّبِينٞ",
-    "translation": "15 Gens du Livre ! Notre Messager est venu à vous, vous exposant une grande partie des Ecritures que vous cachiez et se taisant sur nombre de vos dissimulations. Vous sont venus de la part d’Allah une lumière et un livre aux enseignements parfaitement clairs",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 110,
+  "verse_key": "5:15",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 44,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ قَدۡ جَآءَكُمۡ رَسُولُنَا يُبَيِّنُ لَكُمۡ كَثِيرٗا مِّمَّا كُنتُمۡ تُخۡفُونَ مِنَ ٱلۡكِتَٰبِ وَيَعۡفُواْ عَن كَثِيرٖۚ قَدۡ جَآءَكُم مِّنَ ٱللَّهِ نُورٞ وَكِتَٰبٞ مُّبِينٞ",
+  "translation": "15 Gens du Livre ! Notre Messager est venu à vous, vous exposant une grande partie des Ecritures que vous cachiez et se taisant sur nombre de vos dissimulations. Vous sont venus de la part d’Allah une lumière et un livre aux enseignements parfaitement clairs",
+  "footnotes": ""
 }

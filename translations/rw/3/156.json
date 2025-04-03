@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "449",
-    "sura": "3",
-    "aya": "156",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَكُونُواْ كَٱلَّذِينَ كَفَرُواْ وَقَالُواْ لِإِخۡوَٰنِهِمۡ إِذَا ضَرَبُواْ فِي ٱلۡأَرۡضِ أَوۡ كَانُواْ غُزّٗى لَّوۡ كَانُواْ عِندَنَا مَا مَاتُواْ وَمَا قُتِلُواْ لِيَجۡعَلَ ٱللَّهُ ذَٰلِكَ حَسۡرَةٗ فِي قُلُوبِهِمۡۗ وَٱللَّهُ يُحۡيِۦ وَيُمِيتُۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ",
-    "translation": "Yemwe abemeye! Ntimukabe nka ba bandi bahakanye bavuga ku byerekeye abavandimwe babo bari ku rugendo cyangwa ku rugamba bati “Iyo bagumana natwe ntibari gupfa cyangwa ngo bicwe.” Ibyo Allah abikora kugira ngo bibe agahinda mu mitima yabo (kuko batemera igeno). Nyamara Allah ni we utanga ubuzima akanatanga urupfu. Kandi Allah ni Ubona bihebuje ibyo mukora.",
-    "footnotes": ""
-  }
+  "id": 156,
+  "verse_number": 156,
+  "page_number": 70,
+  "verse_key": "3:156",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَكُونُواْ كَٱلَّذِينَ كَفَرُواْ وَقَالُواْ لِإِخۡوَٰنِهِمۡ إِذَا ضَرَبُواْ فِي ٱلۡأَرۡضِ أَوۡ كَانُواْ غُزّٗى لَّوۡ كَانُواْ عِندَنَا مَا مَاتُواْ وَمَا قُتِلُواْ لِيَجۡعَلَ ٱللَّهُ ذَٰلِكَ حَسۡرَةٗ فِي قُلُوبِهِمۡۗ وَٱللَّهُ يُحۡيِۦ وَيُمِيتُۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ بَصِيرٞ",
+  "translation": "Yemwe abemeye! Ntimukabe nka ba bandi bahakanye bavuga ku byerekeye abavandimwe babo bari ku rugendo cyangwa ku rugamba bati “Iyo bagumana natwe ntibari gupfa cyangwa ngo bicwe.” Ibyo Allah abikora kugira ngo bibe agahinda mu mitima yabo (kuko batemera igeno). Nyamara Allah ni we utanga ubuzima akanatanga urupfu. Kandi Allah ni Ubona bihebuje ibyo mukora.",
+  "footnotes": ""
 }

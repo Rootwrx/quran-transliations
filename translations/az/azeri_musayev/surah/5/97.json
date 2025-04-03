@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "766",
-    "sura": "5",
-    "aya": "97",
-    "arabic_text": "۞ جَعَلَ ٱللَّهُ ٱلۡكَعۡبَةَ ٱلۡبَيۡتَ ٱلۡحَرَامَ قِيَٰمٗا لِّلنَّاسِ وَٱلشَّهۡرَ ٱلۡحَرَامَ وَٱلۡهَدۡيَ وَٱلۡقَلَٰٓئِدَۚ ذَٰلِكَ لِتَعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَأَنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
-    "translation": "Allah Kəbəni – Beytulharamı, haram ayı, (həcc) qurbanını və boynuna nişan taxılmış qurbanlıq heyvanları insanların işlərini yoluna qoymaq üçün bir vasitə etdi. Bu, Allahın göylərdə və yerdə nə varsa (hamısını) bildiyini anlamanız üçündür. Allah hər şeyi biləndir.",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 124,
+  "verse_key": "5:97",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ جَعَلَ ٱللَّهُ ٱلۡكَعۡبَةَ ٱلۡبَيۡتَ ٱلۡحَرَامَ قِيَٰمٗا لِّلنَّاسِ وَٱلشَّهۡرَ ٱلۡحَرَامَ وَٱلۡهَدۡيَ وَٱلۡقَلَٰٓئِدَۚ ذَٰلِكَ لِتَعۡلَمُوٓاْ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ وَأَنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
+  "translation": "Allah Kəbəni – Beytulharamı, haram ayı, (həcc) qurbanını və boynuna nişan taxılmış qurbanlıq heyvanları insanların işlərini yoluna qoymaq üçün bir vasitə etdi. Bu, Allahın göylərdə və yerdə nə varsa (hamısını) bildiyini anlamanız üçündür. Allah hər şeyi biləndir.",
+  "footnotes": ""
 }

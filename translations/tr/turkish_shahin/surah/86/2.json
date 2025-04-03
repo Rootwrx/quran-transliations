@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5933",
-    "sura": "86",
-    "aya": "2",
-    "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ",
-    "translation": "Tarıkın ne olduğunu nereden bileceksin? ",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 591,
+  "verse_key": "86:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلطَّارِقُ",
+  "translation": "Tarıkın ne olduğunu nereden bileceksin? ",
+  "footnotes": ""
 }

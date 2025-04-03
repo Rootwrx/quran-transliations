@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2800",
-    "sura": "24",
-    "aya": "9",
-    "arabic_text": "وَٱلۡخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيۡهَآ إِن كَانَ مِنَ ٱلصَّٰدِقِينَ",
-    "translation": "Ẹ̀ẹ̀ karùn-ún sì ni pé kí ìbínú Allāhu máa bá òun, tí ọkọ òun bá wà nínú àwọn olódodo.[1]",
-    "footnotes": "1. Tí abilékọ bá ní oyún tàbí bí ọmọ, àmọ́ tí ọkọ rẹ̀ sọ pé kì í ṣe tòun ni oyún náà tàbí ọmọ náà, tí ìyàwó sì takú pé ọkọ òun ló ni í, ìgbéyàwó náà máa túká pẹ̀lú ìṣẹ́bi láààrin tọkọ tìyàwo náà lórí ìlànà tó wà nínú āyah 6 sí āyah 9. Lẹ́yìn ìṣẹ́bi náà, ọmọ náà yóò máa bá ìyá rẹ̀ lọ. Ìkíní kejì kò sì lè di tọkọ tìyàwó mọ́."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 350,
+  "verse_key": "24:9",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 140,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡخَٰمِسَةَ أَنَّ غَضَبَ ٱللَّهِ عَلَيۡهَآ إِن كَانَ مِنَ ٱلصَّٰدِقِينَ",
+  "translation": "Ẹ̀ẹ̀ karùn-ún sì ni pé kí ìbínú Allāhu máa bá òun, tí ọkọ òun bá wà nínú àwọn olódodo.[1]",
+  "footnotes": "1. Tí abilékọ bá ní oyún tàbí bí ọmọ, àmọ́ tí ọkọ rẹ̀ sọ pé kì í ṣe tòun ni oyún náà tàbí ọmọ náà, tí ìyàwó sì takú pé ọkọ òun ló ni í, ìgbéyàwó náà máa túká pẹ̀lú ìṣẹ́bi láààrin tọkọ tìyàwo náà lórí ìlànà tó wà nínú āyah 6 sí āyah 9. Lẹ́yìn ìṣẹ́bi náà, ọmọ náà yóò máa bá ìyá rẹ̀ lọ. Ìkíní kejì kò sì lè di tọkọ tìyàwó mọ́."
 }

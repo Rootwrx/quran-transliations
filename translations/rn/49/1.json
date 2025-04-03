@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4613",
-    "sura": "49",
-    "aya": "1",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُقَدِّمُواْ بَيۡنَ يَدَيِ ٱللَّهِ وَرَسُولِهِۦۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
-    "translation": "Emwe bemeye Imana Allah n’Intumwa yayo bakubahiriza n’amabwirizwa yayo! Ntimugakore ikintu na kimwe kitisunze ingingo y’Imana Allah n’Intumwa yayo, ngo mwadukane bishasha mu mabwirizwa y’idini; muraheza rero mutinye ibihano vy’Imana Allah mu gihe mwovuga canke mugakora ibiciye kubiri n’amabwirizwa yayo. Mu vy’ukuri Imana Allah, ni Nyenukwumva, Irumva ivyo muvuga; Nyenubumenyikurivyose, Irazi neza ivyo mukora n’ivyo muzirikana[1].",
-    "footnotes": "[1] Iyi Aayah, irihaniza abemeramana ko batokwadukana bishasha mw’idini, canke ngo bishingire ingingo ziciye kubiri n’amabwirizwa y’Imana Allah."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 515,
+  "verse_key": "49:1",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 206,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُقَدِّمُواْ بَيۡنَ يَدَيِ ٱللَّهِ وَرَسُولِهِۦۖ وَٱتَّقُواْ ٱللَّهَۚ إِنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+  "translation": "Emwe bemeye Imana Allah n’Intumwa yayo bakubahiriza n’amabwirizwa yayo! Ntimugakore ikintu na kimwe kitisunze ingingo y’Imana Allah n’Intumwa yayo, ngo mwadukane bishasha mu mabwirizwa y’idini; muraheza rero mutinye ibihano vy’Imana Allah mu gihe mwovuga canke mugakora ibiciye kubiri n’amabwirizwa yayo. Mu vy’ukuri Imana Allah, ni Nyenukwumva, Irumva ivyo muvuga; Nyenubumenyikurivyose, Irazi neza ivyo mukora n’ivyo muzirikana[1].",
+  "footnotes": "[1] Iyi Aayah, irihaniza abemeramana ko batokwadukana bishasha mw’idini, canke ngo bishingire ingingo ziciye kubiri n’amabwirizwa y’Imana Allah."
 }

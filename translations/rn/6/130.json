@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "919",
-    "sura": "6",
-    "aya": "130",
-    "arabic_text": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ أَلَمۡ يَأۡتِكُمۡ رُسُلٞ مِّنكُمۡ يَقُصُّونَ عَلَيۡكُمۡ ءَايَٰتِي وَيُنذِرُونَكُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَاۚ قَالُواْ شَهِدۡنَا عَلَىٰٓ أَنفُسِنَاۖ وَغَرَّتۡهُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَشَهِدُواْ عَلَىٰٓ أَنفُسِهِمۡ أَنَّهُمۡ كَانُواْ كَٰفِرِينَ",
-    "translation": "Bazobwirwa bati: “Emwe bagarariji mu majini no mu bantu! Ntimwashikiriwe n’Intumwa zarungitswe muri mwebwe abantu[22], zikabiganira Aayah zanje zibatomorera amabwirizwa yanje, zikanabagabisha ku bihano vy’umusi w’izuka ryanyu?”. Abagarariji bazoca bishura bati: “Ego cane! Turavyemanga ko Intumwa zawe zadushikirije Aayah zawe, zikanatugabisha ku bihano vy’umusi w’izuka ryacu, maze turazihakana twivuye inyuma”. Bahenzwe rero n’ubuzima bw’ibihendamaso vyo kw’isi, bazoheza kandi rero bemange ubwabo ko bari abagarariji, batemera Imana Allah n’Intumwa zayo.",
-    "footnotes": "[22] Insiguro yumvikana muri iyi Aayah, ni uko Intumwa zarungitswe ku bantu no ku majini, zikomoka mu bantu."
-  }
+  "id": 130,
+  "verse_number": 130,
+  "page_number": 144,
+  "verse_key": "6:130",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰمَعۡشَرَ ٱلۡجِنِّ وَٱلۡإِنسِ أَلَمۡ يَأۡتِكُمۡ رُسُلٞ مِّنكُمۡ يَقُصُّونَ عَلَيۡكُمۡ ءَايَٰتِي وَيُنذِرُونَكُمۡ لِقَآءَ يَوۡمِكُمۡ هَٰذَاۚ قَالُواْ شَهِدۡنَا عَلَىٰٓ أَنفُسِنَاۖ وَغَرَّتۡهُمُ ٱلۡحَيَوٰةُ ٱلدُّنۡيَا وَشَهِدُواْ عَلَىٰٓ أَنفُسِهِمۡ أَنَّهُمۡ كَانُواْ كَٰفِرِينَ",
+  "translation": "Bazobwirwa bati: “Emwe bagarariji mu majini no mu bantu! Ntimwashikiriwe n’Intumwa zarungitswe muri mwebwe abantu[22], zikabiganira Aayah zanje zibatomorera amabwirizwa yanje, zikanabagabisha ku bihano vy’umusi w’izuka ryanyu?”. Abagarariji bazoca bishura bati: “Ego cane! Turavyemanga ko Intumwa zawe zadushikirije Aayah zawe, zikanatugabisha ku bihano vy’umusi w’izuka ryacu, maze turazihakana twivuye inyuma”. Bahenzwe rero n’ubuzima bw’ibihendamaso vyo kw’isi, bazoheza kandi rero bemange ubwabo ko bari abagarariji, batemera Imana Allah n’Intumwa zayo.",
+  "footnotes": "[22] Insiguro yumvikana muri iyi Aayah, ni uko Intumwa zarungitswe ku bantu no ku majini, zikomoka mu bantu."
 }

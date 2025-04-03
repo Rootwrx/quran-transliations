@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5267",
-    "sura": "67",
-    "aya": "26",
-    "arabic_text": "قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٞ",
-    "translation": "26. Sakyk (o Muchammedai ﷺ ): „Žinios (apie tikslų jo laiką) yra tik pas Allahą, o aš esu tik aiškus perspėtojas.“",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 563,
+  "verse_key": "67:26",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنَّمَا ٱلۡعِلۡمُ عِندَ ٱللَّهِ وَإِنَّمَآ أَنَا۠ نَذِيرٞ مُّبِينٞ",
+  "translation": "26. Sakyk (o Muchammedai ﷺ ): „Žinios (apie tikslų jo laiką) yra tik pas Allahą, o aš esu tik aiškus perspėtojas.“",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4044",
-    "sura": "38",
-    "aya": "74",
-    "arabic_text": "إِلَّآ إِبۡلِيسَ ٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَٰفِرِينَ",
-    "translation": "İblis müstesnâ. Büyüklük tasladı ve kâfirlerden oldu.",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 457,
+  "verse_key": "38:74",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّآ إِبۡلِيسَ ٱسۡتَكۡبَرَ وَكَانَ مِنَ ٱلۡكَٰفِرِينَ",
+  "translation": "İblis müstesnâ. Büyüklük tasladı ve kâfirlerden oldu.",
+  "footnotes": ""
 }

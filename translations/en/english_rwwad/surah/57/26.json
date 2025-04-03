@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5101",
-    "sura": "57",
-    "aya": "26",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحٗا وَإِبۡرَٰهِيمَ وَجَعَلۡنَا فِي ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلۡكِتَٰبَۖ فَمِنۡهُم مُّهۡتَدٖۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ",
-    "translation": "We sent Noah and Abraham, and gave prophethood and Scripture to their offspring: some among them are guided, but most of them are evildoers.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 541,
+  "verse_key": "57:26",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 216,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَا نُوحٗا وَإِبۡرَٰهِيمَ وَجَعَلۡنَا فِي ذُرِّيَّتِهِمَا ٱلنُّبُوَّةَ وَٱلۡكِتَٰبَۖ فَمِنۡهُم مُّهۡتَدٖۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ",
+  "translation": "We sent Noah and Abraham, and gave prophethood and Scripture to their offspring: some among them are guided, but most of them are evildoers.",
+  "footnotes": ""
 }

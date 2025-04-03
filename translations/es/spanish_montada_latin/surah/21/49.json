@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2532",
-    "sura": "21",
-    "aya": "49",
-    "arabic_text": "ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشۡفِقُونَ",
-    "translation": "49. esos que temen a su Señor cuando no son vistos[605] por la gente y temen la llegada de la Hora final.    ",
-    "footnotes": "[605]  También puede significar: “Esos que temen a su Señor a pesar de no verlo”."
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 326,
+  "verse_key": "21:49",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يَخۡشَوۡنَ رَبَّهُم بِٱلۡغَيۡبِ وَهُم مِّنَ ٱلسَّاعَةِ مُشۡفِقُونَ",
+  "translation": "49. esos que temen a su Señor cuando no son vistos[605] por la gente y temen la llegada de la Hora final.    ",
+  "footnotes": "[605]  También puede significar: “Esos que temen a su Señor a pesar de no verlo”."
 }

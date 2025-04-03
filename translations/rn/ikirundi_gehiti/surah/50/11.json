@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4641",
-    "sura": "50",
-    "aya": "11",
-    "arabic_text": "رِّزۡقٗا لِّلۡعِبَادِۖ وَأَحۡيَيۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ ٱلۡخُرُوجُ",
-    "translation": "Ivyo vyose rero, Tukaba Twabimeresheje kugira bibesheho ibiremwa, kimwe cose ku co gikeneye. Twaranatotahaje isi hakoreshejwe nya mazi nyene, isi yari yagadutse igacika ubukumbagare, isubira kunagisha ibiterwa n’ivyimeza bitandukanye. Ni nk’ukwo nyene rero na mwe Tuzobasubiza kandi ubuzima mukazuka ku musi w’izuka.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 518,
+  "verse_key": "50:11",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رِّزۡقٗا لِّلۡعِبَادِۖ وَأَحۡيَيۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ ٱلۡخُرُوجُ",
+  "translation": "Ivyo vyose rero, Tukaba Twabimeresheje kugira bibesheho ibiremwa, kimwe cose ku co gikeneye. Twaranatotahaje isi hakoreshejwe nya mazi nyene, isi yari yagadutse igacika ubukumbagare, isubira kunagisha ibiterwa n’ivyimeza bitandukanye. Ni nk’ukwo nyene rero na mwe Tuzobasubiza kandi ubuzima mukazuka ku musi w’izuka.",
+  "footnotes": ""
 }

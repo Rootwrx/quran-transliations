@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5301",
-    "sura": "68",
-    "aya": "30",
-    "arabic_text": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَلَٰوَمُونَ",
-    "translation": "30. Y comenzaron a recriminarse unos a otros.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 565,
+  "verse_key": "68:30",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَقۡبَلَ بَعۡضُهُمۡ عَلَىٰ بَعۡضٖ يَتَلَٰوَمُونَ",
+  "translation": "30. Y comenzaron a recriminarse unos a otros.",
+  "footnotes": ""
 }

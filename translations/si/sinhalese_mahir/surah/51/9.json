@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4684",
-    "sura": "51",
-    "aya": "9",
-    "arabic_text": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ",
-    "translation": "හරවනු ලැබූවන් වෙනතකට එයින් හරවනු ලබති.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 521,
+  "verse_key": "51:9",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُؤۡفَكُ عَنۡهُ مَنۡ أُفِكَ",
+  "translation": "හරවනු ලැබූවන් වෙනතකට එයින් හරවනු ලබති.",
+  "footnotes": ""
 }

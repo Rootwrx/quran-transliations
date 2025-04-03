@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3166",
-    "sura": "27",
-    "aya": "7",
-    "arabic_text": "إِذۡ قَالَ مُوسَىٰ لِأَهۡلِهِۦٓ إِنِّيٓ ءَانَسۡتُ نَارٗا سَـَٔاتِيكُم مِّنۡهَا بِخَبَرٍ أَوۡ ءَاتِيكُم بِشِهَابٖ قَبَسٖ لَّعَلَّكُمۡ تَصۡطَلُونَ",
-    "translation": "[Remember] when Moses said to his family, “I have spotted a fire. I will bring you some news[2] from there, or bring you a burning brand so that you may warm yourselves.”",
-    "footnotes": "[2] For they lost their way in the dark while traveling from Midian to Egypt."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 377,
+  "verse_key": "27:7",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَ مُوسَىٰ لِأَهۡلِهِۦٓ إِنِّيٓ ءَانَسۡتُ نَارٗا سَـَٔاتِيكُم مِّنۡهَا بِخَبَرٍ أَوۡ ءَاتِيكُم بِشِهَابٖ قَبَسٖ لَّعَلَّكُمۡ تَصۡطَلُونَ",
+  "translation": "[Remember] when Moses said to his family, “I have spotted a fire. I will bring you some news[2] from there, or bring you a burning brand so that you may warm yourselves.”",
+  "footnotes": "[2] For they lost their way in the dark while traveling from Midian to Egypt."
 }

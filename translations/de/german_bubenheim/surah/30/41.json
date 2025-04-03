@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3450",
-    "sura": "30",
-    "aya": "41",
-    "arabic_text": "ظَهَرَ ٱلۡفَسَادُ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِ بِمَا كَسَبَتۡ أَيۡدِي ٱلنَّاسِ لِيُذِيقَهُم بَعۡضَ ٱلَّذِي عَمِلُواْ لَعَلَّهُمۡ يَرۡجِعُونَ",
-    "translation": "Unheil ist auf dem Festland und im Meer erschienen wegen dessen, was die Hände der Menschen erworben haben, damit Er sie einiges von dem kosten läßt, was sie getan haben, auf daß sie umkehren mögen.",
-    "footnotes": null
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 408,
+  "verse_key": "30:41",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ظَهَرَ ٱلۡفَسَادُ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِ بِمَا كَسَبَتۡ أَيۡدِي ٱلنَّاسِ لِيُذِيقَهُم بَعۡضَ ٱلَّذِي عَمِلُواْ لَعَلَّهُمۡ يَرۡجِعُونَ",
+  "translation": "Unheil ist auf dem Festland und im Meer erschienen wegen dessen, was die Hände der Menschen erworben haben, damit Er sie einiges von dem kosten läßt, was sie getan haben, auf daß sie umkehren mögen.",
+  "footnotes": null
 }

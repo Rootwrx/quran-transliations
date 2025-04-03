@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2206",
-    "sura": "18",
-    "aya": "66",
-    "arabic_text": "قَالَ لَهُۥ مُوسَىٰ هَلۡ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمۡتَ رُشۡدٗا",
-    "translation": "(Ànábì) Mūsā sọ fún un pé: “Ṣé kí n̄g tẹ̀lé ọ nítorí kí o lè kọ́ mi nínú ohun tí Wọ́n fi mọ̀ ọ́ ní ìmọ̀nà.”[1]",
-    "footnotes": "1. Ẹ̀kọ́ pàtàkì tí Allāhu - subhānahu wa ta‘ālā - fẹ́ kọ́ Ànábì Mūsā - kí ọlà Allāhu máa bá a - nípa ìrìn-àjò rẹ̀ sọ́dọ̀ Kidr ni pé, ìmọ̀ nípa òfin àti ìlànà ’Islām, èyí tí Allāhu fún ẹnì kọ̀ọ̀kan wọn yàtọ̀ síra wọn díẹ̀díẹ̀, láti ọ̀dọ̀ Ànábì kan sí òmíràn. Àti pé kò rọrùn fún ẹnì kan nínú wọn láti jẹ́ alámọ̀tán ohun gbogbo. Allāhu - subhānahu wa ta‘ālā - nìkan ṣoṣo sì ni Onímọ̀ nípa gbogbo n̄ǹkan."
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 301,
+  "verse_key": "18:66",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَهُۥ مُوسَىٰ هَلۡ أَتَّبِعُكَ عَلَىٰٓ أَن تُعَلِّمَنِ مِمَّا عُلِّمۡتَ رُشۡدٗا",
+  "translation": "(Ànábì) Mūsā sọ fún un pé: “Ṣé kí n̄g tẹ̀lé ọ nítorí kí o lè kọ́ mi nínú ohun tí Wọ́n fi mọ̀ ọ́ ní ìmọ̀nà.”[1]",
+  "footnotes": "1. Ẹ̀kọ́ pàtàkì tí Allāhu - subhānahu wa ta‘ālā - fẹ́ kọ́ Ànábì Mūsā - kí ọlà Allāhu máa bá a - nípa ìrìn-àjò rẹ̀ sọ́dọ̀ Kidr ni pé, ìmọ̀ nípa òfin àti ìlànà ’Islām, èyí tí Allāhu fún ẹnì kọ̀ọ̀kan wọn yàtọ̀ síra wọn díẹ̀díẹ̀, láti ọ̀dọ̀ Ànábì kan sí òmíràn. Àti pé kò rọrùn fún ẹnì kan nínú wọn láti jẹ́ alámọ̀tán ohun gbogbo. Allāhu - subhānahu wa ta‘ālā - nìkan ṣoṣo sì ni Onímọ̀ nípa gbogbo n̄ǹkan."
 }

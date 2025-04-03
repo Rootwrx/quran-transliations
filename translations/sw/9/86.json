@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1321",
-    "sura": "9",
-    "aya": "86",
-    "arabic_text": "وَإِذَآ أُنزِلَتۡ سُورَةٌ أَنۡ ءَامِنُواْ بِٱللَّهِ وَجَٰهِدُواْ مَعَ رَسُولِهِ ٱسۡتَـٔۡذَنَكَ أُوْلُواْ ٱلطَّوۡلِ مِنۡهُمۡ وَقَالُواْ ذَرۡنَا نَكُن مَّعَ ٱلۡقَٰعِدِينَ",
-    "translation": "Na inapo teremshwa Sura isemayo: Muaminini Mwenyezi Mungu na piganeni Jihadi pamoja na Mtume wake, wale wenye nguvu miongoni mwao hukutaka ruhusa na husema: Tuache tuwe pamoja na wanao kaa nyuma!",
-    "footnotes": "Na hawa wanaafiki wakisikia chochote ulicho teremshiwa katika Qur'ani kinacho wataka wamsafie Imani Mwenyezi Mungu, na wende kwenye Jihadi pamoja na Mtume wa Mwenyezi Mungu, matajiri na wenye nguvu katika wao wanakutaka uwaachilie wasende nawe kwenye Jihadi, na husema: Tuache tuwe na hawa walio pewa ruhusa kukaa nyuma Madina."
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 200,
+  "verse_key": "9:86",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَآ أُنزِلَتۡ سُورَةٌ أَنۡ ءَامِنُواْ بِٱللَّهِ وَجَٰهِدُواْ مَعَ رَسُولِهِ ٱسۡتَـٔۡذَنَكَ أُوْلُواْ ٱلطَّوۡلِ مِنۡهُمۡ وَقَالُواْ ذَرۡنَا نَكُن مَّعَ ٱلۡقَٰعِدِينَ",
+  "translation": "Na inapo teremshwa Sura isemayo: Muaminini Mwenyezi Mungu na piganeni Jihadi pamoja na Mtume wake, wale wenye nguvu miongoni mwao hukutaka ruhusa na husema: Tuache tuwe pamoja na wanao kaa nyuma!",
+  "footnotes": "Na hawa wanaafiki wakisikia chochote ulicho teremshiwa katika Qur'ani kinacho wataka wamsafie Imani Mwenyezi Mungu, na wende kwenye Jihadi pamoja na Mtume wa Mwenyezi Mungu, matajiri na wenye nguvu katika wao wanakutaka uwaachilie wasende nawe kwenye Jihadi, na husema: Tuache tuwe na hawa walio pewa ruhusa kukaa nyuma Madina."
 }

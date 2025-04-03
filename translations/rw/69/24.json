@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5347",
-    "sura": "69",
-    "aya": "24",
-    "arabic_text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَآ أَسۡلَفۡتُمۡ فِي ٱلۡأَيَّامِ ٱلۡخَالِيَةِ",
-    "translation": "(Bazabwirwa bati) “Nimurye munanywe kandi muryoherwe, ibyo ni ukubera ibyo mwakoze mu minsi yahise (mukiri ku isi).”",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 567,
+  "verse_key": "69:24",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَآ أَسۡلَفۡتُمۡ فِي ٱلۡأَيَّامِ ٱلۡخَالِيَةِ",
+  "translation": "(Bazabwirwa bati) “Nimurye munanywe kandi muryoherwe, ibyo ni ukubera ibyo mwakoze mu minsi yahise (mukiri ku isi).”",
+  "footnotes": ""
 }

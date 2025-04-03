@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "193",
-    "sura": "2",
-    "aya": "186",
-    "arabic_text": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِۖ فَلۡيَسۡتَجِيبُواْ لِي وَلۡيُؤۡمِنُواْ بِي لَعَلَّهُمۡ يَرۡشُدُونَ",
-    "translation": "When My slaves ask you concerning Me, I am indeed near[83]. I respond to the call of the supplicant when he calls upon Me; so they should respond to Me and believe in Me, so that they may be guided.",
-    "footnotes": "[83] Allah’s nearness means that one does not need to raise his voice or to ask for intercession in order that his prayers be answered."
-  }
+  "id": 186,
+  "verse_number": 186,
+  "page_number": 28,
+  "verse_key": "2:186",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 11,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا سَأَلَكَ عِبَادِي عَنِّي فَإِنِّي قَرِيبٌۖ أُجِيبُ دَعۡوَةَ ٱلدَّاعِ إِذَا دَعَانِۖ فَلۡيَسۡتَجِيبُواْ لِي وَلۡيُؤۡمِنُواْ بِي لَعَلَّهُمۡ يَرۡشُدُونَ",
+  "translation": "When My slaves ask you concerning Me, I am indeed near[83]. I respond to the call of the supplicant when he calls upon Me; so they should respond to Me and believe in Me, so that they may be guided.",
+  "footnotes": "[83] Allah’s nearness means that one does not need to raise his voice or to ask for intercession in order that his prayers be answered."
 }

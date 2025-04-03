@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4288",
-    "sura": "42",
-    "aya": "16",
-    "arabic_text": "وَٱلَّذِينَ يُحَآجُّونَ فِي ٱللَّهِ مِنۢ بَعۡدِ مَا ٱسۡتُجِيبَ لَهُۥ حُجَّتُهُمۡ دَاحِضَةٌ عِندَ رَبِّهِمۡ وَعَلَيۡهِمۡ غَضَبٞ وَلَهُمۡ عَذَابٞ شَدِيدٌ",
-    "translation": "Ang mga nakikipangatwiran hinggil kay Allāh [sa relihiyon] matapos na tinugon, ang katwiran nila ay walang-saysay sa ganang Panginoon mo. Sumakanila ay galit at ukol sa kanila ay isang pagdurusang matindi.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 485,
+  "verse_key": "42:16",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 194,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يُحَآجُّونَ فِي ٱللَّهِ مِنۢ بَعۡدِ مَا ٱسۡتُجِيبَ لَهُۥ حُجَّتُهُمۡ دَاحِضَةٌ عِندَ رَبِّهِمۡ وَعَلَيۡهِمۡ غَضَبٞ وَلَهُمۡ عَذَابٞ شَدِيدٌ",
+  "translation": "Ang mga nakikipangatwiran hinggil kay Allāh [sa relihiyon] matapos na tinugon, ang katwiran nila ay walang-saysay sa ganang Panginoon mo. Sumakanila ay galit at ukol sa kanila ay isang pagdurusang matindi.",
+  "footnotes": ""
 }

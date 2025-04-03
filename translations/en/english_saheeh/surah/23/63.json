@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2736",
-    "sura": "23",
-    "aya": "63",
-    "arabic_text": "بَلۡ قُلُوبُهُمۡ فِي غَمۡرَةٖ مِّنۡ هَٰذَا وَلَهُمۡ أَعۡمَٰلٞ مِّن دُونِ ذَٰلِكَ هُمۡ لَهَا عَٰمِلُونَ",
-    "translation": "(63) But their hearts are covered with confusion over this, and they have [evil] deeds besides that [i.e., disbelief] which they are doing,",
-    "footnotes": ""
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 346,
+  "verse_key": "23:63",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ قُلُوبُهُمۡ فِي غَمۡرَةٖ مِّنۡ هَٰذَا وَلَهُمۡ أَعۡمَٰلٞ مِّن دُونِ ذَٰلِكَ هُمۡ لَهَا عَٰمِلُونَ",
+  "translation": "(63) But their hearts are covered with confusion over this, and they have [evil] deeds besides that [i.e., disbelief] which they are doing,",
+  "footnotes": ""
 }

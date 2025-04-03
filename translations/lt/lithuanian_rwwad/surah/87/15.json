@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5963",
-    "sura": "87",
-    "aya": "15",
-    "arabic_text": "وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ",
-    "translation": "15. ir mini savo Viešpaties vardą (garbina tik Allahą), ir meldžiasi (penkias privalomąsias maldas ir navafil - savanoriškas maldas).",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 591,
+  "verse_key": "87:15",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَذَكَرَ ٱسۡمَ رَبِّهِۦ فَصَلَّىٰ",
+  "translation": "15. ir mini savo Viešpaties vardą (garbina tik Allahą), ir meldžiasi (penkias privalomąsias maldas ir navafil - savanoriškas maldas).",
+  "footnotes": ""
 }

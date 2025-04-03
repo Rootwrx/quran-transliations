@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "737",
-    "sura": "5",
-    "aya": "68",
-    "arabic_text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
-    "translation": "Thuaj (o Muhamed): “O ithtarët e Librit! Nuk do të keni asgjë në vijë, derisa t’i përmbaheni Teuratit e Ungjillit dhe asaj që ju është shpallur nga Zoti juaj (Kurani). Ajo që të është shpallur ty nga Zoti yt, do t’ua shtojë shumicës së tyre mosbindjen dhe mohimin. Por ti mos u hidhëro për mohuesit.",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 119,
+  "verse_key": "5:68",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لَسۡتُمۡ عَلَىٰ شَيۡءٍ حَتَّىٰ تُقِيمُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُمۡۗ وَلَيَزِيدَنَّ كَثِيرٗا مِّنۡهُم مَّآ أُنزِلَ إِلَيۡكَ مِن رَّبِّكَ طُغۡيَٰنٗا وَكُفۡرٗاۖ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡكَٰفِرِينَ",
+  "translation": "Thuaj (o Muhamed): “O ithtarët e Librit! Nuk do të keni asgjë në vijë, derisa t’i përmbaheni Teuratit e Ungjillit dhe asaj që ju është shpallur nga Zoti juaj (Kurani). Ajo që të është shpallur ty nga Zoti yt, do t’ua shtojë shumicës së tyre mosbindjen dhe mohimin. Por ti mos u hidhëro për mohuesit.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "197",
-    "sura": "2",
-    "aya": "190",
-    "arabic_text": "وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
-    "translation": "Na piganeni katika Njia ya Mwenyezi Mungu na wale wanao kupigeni, wala msianze uadui. Kwani Mwenyezi Mungu hawapendi waanzao uadui.",
-    "footnotes": "Na katika kumcha Mwenyezi Mungu ni kustahamili mashaka katika kumt'ii Yeye, na mashaka makubwa kabisa juu ya nafsi ni kuwapiga vita maadui wa Mwenyezi Mungu. Lakini wakikuvamieni, basi piganeni na hao wavamizi. Na mmepewa ruhusa kuurudi uvamizi wao, lakini nyinyi msivamie kwa kuanza nyinyi, au kwa kumuuwa asiye kupigeni vita wala hana mahusiano na vita; kwani Mwenyezi Mungu hawapendi wavamizi."
-  }
+  "id": 190,
+  "verse_number": 190,
+  "page_number": 29,
+  "verse_key": "2:190",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يُقَٰتِلُونَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
+  "translation": "Na piganeni katika Njia ya Mwenyezi Mungu na wale wanao kupigeni, wala msianze uadui. Kwani Mwenyezi Mungu hawapendi waanzao uadui.",
+  "footnotes": "Na katika kumcha Mwenyezi Mungu ni kustahamili mashaka katika kumt'ii Yeye, na mashaka makubwa kabisa juu ya nafsi ni kuwapiga vita maadui wa Mwenyezi Mungu. Lakini wakikuvamieni, basi piganeni na hao wavamizi. Na mmepewa ruhusa kuurudi uvamizi wao, lakini nyinyi msivamie kwa kuanza nyinyi, au kwa kumuuwa asiye kupigeni vita wala hana mahusiano na vita; kwani Mwenyezi Mungu hawapendi wavamizi."
 }

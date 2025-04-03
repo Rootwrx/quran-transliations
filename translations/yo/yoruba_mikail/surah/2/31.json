@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "38",
-    "sura": "2",
-    "aya": "31",
-    "arabic_text": "وَعَلَّمَ ءَادَمَ ٱلۡأَسۡمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمۡ عَلَى ٱلۡمَلَٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِي بِأَسۡمَآءِ هَٰٓؤُلَآءِ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "Allāhu fi orúkọ gbogbo n̄ǹkan pátápátá mọ Ādam. Lẹ́yìn náà, Ó kó wọn síwájú àwọn mọlāika, Ó sì sọ pé: “Ẹ sọ àwọn orúkọ ìwọ̀nyí fún Mi, tí ẹ bá jẹ́ olódodo.”",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 6,
+  "verse_key": "2:31",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَلَّمَ ءَادَمَ ٱلۡأَسۡمَآءَ كُلَّهَا ثُمَّ عَرَضَهُمۡ عَلَى ٱلۡمَلَٰٓئِكَةِ فَقَالَ أَنۢبِـُٔونِي بِأَسۡمَآءِ هَٰٓؤُلَآءِ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "Allāhu fi orúkọ gbogbo n̄ǹkan pátápátá mọ Ādam. Lẹ́yìn náà, Ó kó wọn síwájú àwọn mọlāika, Ó sì sọ pé: “Ẹ sọ àwọn orúkọ ìwọ̀nyí fún Mi, tí ẹ bá jẹ́ olódodo.”",
+  "footnotes": ""
 }

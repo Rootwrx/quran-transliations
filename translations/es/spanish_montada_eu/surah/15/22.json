@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1824",
-    "sura": "15",
-    "aya": "22",
-    "arabic_text": "وَأَرۡسَلۡنَا ٱلرِّيَٰحَ لَوَٰقِحَ فَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ فَأَسۡقَيۡنَٰكُمُوهُ وَمَآ أَنتُمۡ لَهُۥ بِخَٰزِنِينَ",
-    "translation": "22. Y enviamos los vientos fertilizantes[436] y hacemos descender la lluvia del cielo de la que os damos de beber y cuyas reservas no dependen de vosotros.",
-    "footnotes": "[436]  Al-lah utiliza la palabra fertilizante porque el viento introduce en las nubes partículas de polvo u otras partículas alrededor de las cuales se condensa el vapor para que pueda llover. Aunque las nubes estén llenas de vapor de agua, la lluvia no puede descender si no hay un núcleo de condensación formado por partículas pesadas alrededor de las cuales se acumula todo el vapor de agua condensado. Actualmente, se utiliza, a veces, un procedimiento denominado «la siembra de nubes» para manipular el clima y aumentar la precipitación que cae de las nubes. \nLa acción del viento también ayuda a apilar pequeñas nubes o cúmulos hasta que se forman las grandes nubes de lluvia o cumulonimbus que descargan grandes tormentas."
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 263,
+  "verse_key": "15:22",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَرۡسَلۡنَا ٱلرِّيَٰحَ لَوَٰقِحَ فَأَنزَلۡنَا مِنَ ٱلسَّمَآءِ مَآءٗ فَأَسۡقَيۡنَٰكُمُوهُ وَمَآ أَنتُمۡ لَهُۥ بِخَٰزِنِينَ",
+  "translation": "22. Y enviamos los vientos fertilizantes[436] y hacemos descender la lluvia del cielo de la que os damos de beber y cuyas reservas no dependen de vosotros.",
+  "footnotes": "[436]  Al-lah utiliza la palabra fertilizante porque el viento introduce en las nubes partículas de polvo u otras partículas alrededor de las cuales se condensa el vapor para que pueda llover. Aunque las nubes estén llenas de vapor de agua, la lluvia no puede descender si no hay un núcleo de condensación formado por partículas pesadas alrededor de las cuales se acumula todo el vapor de agua condensado. Actualmente, se utiliza, a veces, un procedimiento denominado «la siembra de nubes» para manipular el clima y aumentar la precipitación que cae de las nubes. \nLa acción del viento también ayuda a apilar pequeñas nubes o cúmulos hasta que se forman las grandes nubes de lluvia o cumulonimbus que descargan grandes tormentas."
 }

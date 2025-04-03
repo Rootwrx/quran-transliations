@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2183",
-    "sura": "18",
-    "aya": "43",
-    "arabic_text": "وَلَمۡ تَكُن لَّهُۥ فِئَةٞ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مُنتَصِرًا",
-    "translation": "(43) And there was for him no company to aid him other than Allāh, nor could he defend himself.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 298,
+  "verse_key": "18:43",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 119,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمۡ تَكُن لَّهُۥ فِئَةٞ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مُنتَصِرًا",
+  "translation": "(43) And there was for him no company to aid him other than Allāh, nor could he defend himself.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "875",
-    "sura": "6",
-    "aya": "86",
-    "arabic_text": "وَإِسۡمَٰعِيلَ وَٱلۡيَسَعَ وَيُونُسَ وَلُوطٗاۚ وَكُلّٗا فَضَّلۡنَا عَلَى ٱلۡعَٰلَمِينَ",
-    "translation": "Dan Ismail, Alyasa', Yunus dan Lut. Masing-masing Kami lebihkan (derajatnya) di atas umat lain (pada masanya),",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 138,
+  "verse_key": "6:86",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 55,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِسۡمَٰعِيلَ وَٱلۡيَسَعَ وَيُونُسَ وَلُوطٗاۚ وَكُلّٗا فَضَّلۡنَا عَلَى ٱلۡعَٰلَمِينَ",
+  "translation": "Dan Ismail, Alyasa', Yunus dan Lut. Masing-masing Kami lebihkan (derajatnya) di atas umat lain (pada masanya),",
+  "footnotes": ""
 }

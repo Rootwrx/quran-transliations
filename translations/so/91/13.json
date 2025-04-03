@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6056",
-    "sura": "91",
-    "aya": "13",
-    "arabic_text": "فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا",
-    "translation": "13. Markaasuu Rasuulkii Alle (Nabi Saalix) ku yidhi : Iska daaya Hasha Ilaahay (ha dilana) oo siiya waraabkeeda.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 595,
+  "verse_key": "91:13",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَالَ لَهُمۡ رَسُولُ ٱللَّهِ نَاقَةَ ٱللَّهِ وَسُقۡيَٰهَا",
+  "translation": "13. Markaasuu Rasuulkii Alle (Nabi Saalix) ku yidhi : Iska daaya Hasha Ilaahay (ha dilana) oo siiya waraabkeeda.",
+  "footnotes": ""
 }

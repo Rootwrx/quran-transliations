@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1797",
-    "sura": "14",
-    "aya": "47",
-    "arabic_text": "فَلَا تَحۡسَبَنَّ ٱللَّهَ مُخۡلِفَ وَعۡدِهِۦ رُسُلَهُۥٓۚ إِنَّ ٱللَّهَ عَزِيزٞ ذُو ٱنتِقَامٖ",
-    "translation": "Nítorí náà, má ṣe lérò pé Allāhu yóò yapa àdéhùn Rẹ̀ tí Ó ṣe fún àwọn Òjíṣẹ́ Rẹ̀. Dájúdájú Allāhu ni Alágbára, Olùgbẹ̀san.",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 261,
+  "verse_key": "14:47",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَا تَحۡسَبَنَّ ٱللَّهَ مُخۡلِفَ وَعۡدِهِۦ رُسُلَهُۥٓۚ إِنَّ ٱللَّهَ عَزِيزٞ ذُو ٱنتِقَامٖ",
+  "translation": "Nítorí náà, má ṣe lérò pé Allāhu yóò yapa àdéhùn Rẹ̀ tí Ó ṣe fún àwọn Òjíṣẹ́ Rẹ̀. Dájúdájú Allāhu ni Alágbára, Olùgbẹ̀san.",
+  "footnotes": ""
 }

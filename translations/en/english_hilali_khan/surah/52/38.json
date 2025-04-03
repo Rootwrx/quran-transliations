@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4773",
-    "sura": "52",
-    "aya": "38",
-    "arabic_text": "أَمۡ لَهُمۡ سُلَّمٞ يَسۡتَمِعُونَ فِيهِۖ فَلۡيَأۡتِ مُسۡتَمِعُهُم بِسُلۡطَٰنٖ مُّبِينٍ",
-    "translation": " 38. Or have they a stairway (to heaven), by means of which they listen (to the talks of the angels)? Then let their listener produce some manifest proof.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 525,
+  "verse_key": "52:38",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ لَهُمۡ سُلَّمٞ يَسۡتَمِعُونَ فِيهِۖ فَلۡيَأۡتِ مُسۡتَمِعُهُم بِسُلۡطَٰنٖ مُّبِينٍ",
+  "translation": " 38. Or have they a stairway (to heaven), by means of which they listen (to the talks of the angels)? Then let their listener produce some manifest proof.",
+  "footnotes": ""
 }

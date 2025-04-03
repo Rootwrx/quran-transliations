@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3774",
-    "sura": "36",
-    "aya": "69",
-    "arabic_text": "وَمَا عَلَّمۡنَٰهُ ٱلشِّعۡرَ وَمَا يَنۢبَغِي لَهُۥٓۚ إِنۡ هُوَ إِلَّا ذِكۡرٞ وَقُرۡءَانٞ مُّبِينٞ",
-    "translation": "Twebwe Allah, ntitwigeze Twigisha Intumwa Muhamadi kwivuga amazina, eka ntivyari binayikwiye namba ko iba umwivuzi w’amazina. Iki Gitabu yabazaniye, si ikindi kiretse ko ari urwibutso n’inyigisho ku wushaka kwikebuka; kikaba na Qor’ani itomoye neza, mu nsiguro, mu ngingo z’ibirekuwe n’ibizira, ikaba inatomoye neza kandi no mu burongozi bwayo;",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 444,
+  "verse_key": "36:69",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا عَلَّمۡنَٰهُ ٱلشِّعۡرَ وَمَا يَنۢبَغِي لَهُۥٓۚ إِنۡ هُوَ إِلَّا ذِكۡرٞ وَقُرۡءَانٞ مُّبِينٞ",
+  "translation": "Twebwe Allah, ntitwigeze Twigisha Intumwa Muhamadi kwivuga amazina, eka ntivyari binayikwiye namba ko iba umwivuzi w’amazina. Iki Gitabu yabazaniye, si ikindi kiretse ko ari urwibutso n’inyigisho ku wushaka kwikebuka; kikaba na Qor’ani itomoye neza, mu nsiguro, mu ngingo z’ibirekuwe n’ibizira, ikaba inatomoye neza kandi no mu burongozi bwayo;",
+  "footnotes": ""
 }

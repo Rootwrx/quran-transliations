@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5938",
-    "sura": "86",
-    "aya": "7",
-    "arabic_text": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ",
-    "translation": "7. அது, முதுகந்தண்டுக்கும் நெஞ்சுக்கும் மத்தியிலிருந்து வெளிப்படுகிறது. ",
-    "footnotes": null
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 591,
+  "verse_key": "86:7",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَخۡرُجُ مِنۢ بَيۡنِ ٱلصُّلۡبِ وَٱلتَّرَآئِبِ",
+  "translation": "7. அது, முதுகந்தண்டுக்கும் நெஞ்சுக்கும் மத்தியிலிருந்து வெளிப்படுகிறது. ",
+  "footnotes": null
 }

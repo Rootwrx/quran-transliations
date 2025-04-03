@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "132",
-    "sura": "2",
-    "aya": "125",
-    "arabic_text": "وَإِذۡ جَعَلۡنَا ٱلۡبَيۡتَ مَثَابَةٗ لِّلنَّاسِ وَأَمۡنٗا وَٱتَّخِذُواْ مِن مَّقَامِ إِبۡرَٰهِـۧمَ مُصَلّٗىۖ وَعَهِدۡنَآ إِلَىٰٓ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ أَن طَهِّرَا بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
-    "translation": "[Et rappelle-toi], quand nous fîmes de la Maison un lieu de visite et un asile pour les gens - Adoptez donc pour lieu de prière, ce lieu où Abraham se tint debout - Et Nous confiâmes à Abraham et à Ismaël ceci: \"Purifiez Ma Maison pour ceux qui tournent autour, y font retraite pieuse, s’y inclinent et s’y prosternent.\"",
-    "footnotes": "[52] La Maison: la Ka˒aba de la Mecque, lieu des pèlerinages, reconstruit par Abraham qui s’y tînt debout pour l’ériger et prier. Ceux qui tourneront autour...: rite du pèlerinage; s’incliner et se prosterner: rites de la Ṣalāt."
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 19,
+  "verse_key": "2:125",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ جَعَلۡنَا ٱلۡبَيۡتَ مَثَابَةٗ لِّلنَّاسِ وَأَمۡنٗا وَٱتَّخِذُواْ مِن مَّقَامِ إِبۡرَٰهِـۧمَ مُصَلّٗىۖ وَعَهِدۡنَآ إِلَىٰٓ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ أَن طَهِّرَا بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+  "translation": "[Et rappelle-toi], quand nous fîmes de la Maison un lieu de visite et un asile pour les gens - Adoptez donc pour lieu de prière, ce lieu où Abraham se tint debout - Et Nous confiâmes à Abraham et à Ismaël ceci: \"Purifiez Ma Maison pour ceux qui tournent autour, y font retraite pieuse, s’y inclinent et s’y prosternent.\"",
+  "footnotes": "[52] La Maison: la Ka˒aba de la Mecque, lieu des pèlerinages, reconstruit par Abraham qui s’y tînt debout pour l’ériger et prier. Ceux qui tourneront autour...: rite du pèlerinage; s’incliner et se prosterner: rites de la Ṣalāt."
 }

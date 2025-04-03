@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5823",
-    "sura": "81",
-    "aya": "23",
-    "arabic_text": "وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِينِ",
-    "translation": "Ó kúkú rí i nínú òfurufú kedere.[1]",
-    "footnotes": "1. Ìyẹn ni pé, Ànábì Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a - fojú ara rẹ̀ rí Mọlāika Jibrīl - kí ọlà Allāhu máa bá a - nínú òfurufú kedere."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 586,
+  "verse_key": "81:23",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ رَءَاهُ بِٱلۡأُفُقِ ٱلۡمُبِينِ",
+  "translation": "Ó kúkú rí i nínú òfurufú kedere.[1]",
+  "footnotes": "1. Ìyẹn ni pé, Ànábì Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a - fojú ara rẹ̀ rí Mọlāika Jibrīl - kí ọlà Allāhu máa bá a - nínú òfurufú kedere."
 }

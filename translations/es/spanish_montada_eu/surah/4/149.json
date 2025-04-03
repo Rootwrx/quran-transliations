@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "642",
-    "sura": "4",
-    "aya": "149",
-    "arabic_text": "إِن تُبۡدُواْ خَيۡرًا أَوۡ تُخۡفُوهُ أَوۡ تَعۡفُواْ عَن سُوٓءٖ فَإِنَّ ٱللَّهَ كَانَ عَفُوّٗا قَدِيرًا",
-    "translation": "149. Tanto si hacéis una buena acción públicamente o en secreto como si perdonáis una injusticia que habéis sufrido (hallaréis vuestra recompensa junto a Al-lah). Y Al-lah es Benévolo y Todopoderoso.",
-    "footnotes": ""
-  }
+  "id": 149,
+  "verse_number": 149,
+  "page_number": 102,
+  "verse_key": "4:149",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن تُبۡدُواْ خَيۡرًا أَوۡ تُخۡفُوهُ أَوۡ تَعۡفُواْ عَن سُوٓءٖ فَإِنَّ ٱللَّهَ كَانَ عَفُوّٗا قَدِيرًا",
+  "translation": "149. Tanto si hacéis una buena acción públicamente o en secreto como si perdonáis una injusticia que habéis sufrido (hallaréis vuestra recompensa junto a Al-lah). Y Al-lah es Benévolo y Todopoderoso.",
+  "footnotes": ""
 }

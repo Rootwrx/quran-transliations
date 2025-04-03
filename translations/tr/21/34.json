@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2517",
-    "sura": "21",
-    "aya": "34",
-    "arabic_text": "وَمَا جَعَلۡنَا لِبَشَرٖ مِّن قَبۡلِكَ ٱلۡخُلۡدَۖ أَفَإِيْن مِّتَّ فَهُمُ ٱلۡخَٰلِدُونَ",
-    "translation": "Biz, senden önce de hiçbir beşere ölümsüzlük vermedik. Şimdi sen ölürsen, onlar ebedî mi kalacaklar?",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 324,
+  "verse_key": "21:34",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا جَعَلۡنَا لِبَشَرٖ مِّن قَبۡلِكَ ٱلۡخُلۡدَۖ أَفَإِيْن مِّتَّ فَهُمُ ٱلۡخَٰلِدُونَ",
+  "translation": "Biz, senden önce de hiçbir beşere ölümsüzlük vermedik. Şimdi sen ölürsen, onlar ebedî mi kalacaklar?",
+  "footnotes": ""
 }

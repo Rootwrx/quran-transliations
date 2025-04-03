@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "172",
-    "sura": "2",
-    "aya": "165",
-    "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ",
-    "translation": "165. Waxaa ka mid ah dadka kuwo yeesha Alle sokadi wax ay la mid dhigaan oo u shariig yeelaan ayna u jecel yihiin siday u jecel yihiin Alle. Kuwase (Xaqa) rumeysan ayaa ka daran oo xooggan jaceylka ay u hayaan Alle. Hadday arki lahaayeenna kuwaa fala dulmiga (shirkiga iyo xumaha kale), markay arkaan cadaabka, in Xoog oo dhan uu leeyahay Alle, iyo in Alle uu Daran yahay Cadaabkiisu.",
-    "footnotes": ""
-  }
+  "id": 165,
+  "verse_number": 165,
+  "page_number": 25,
+  "verse_key": "2:165",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلنَّاسِ مَن يَتَّخِذُ مِن دُونِ ٱللَّهِ أَندَادٗا يُحِبُّونَهُمۡ كَحُبِّ ٱللَّهِۖ وَٱلَّذِينَ ءَامَنُوٓاْ أَشَدُّ حُبّٗا لِّلَّهِۗ وَلَوۡ يَرَى ٱلَّذِينَ ظَلَمُوٓاْ إِذۡ يَرَوۡنَ ٱلۡعَذَابَ أَنَّ ٱلۡقُوَّةَ لِلَّهِ جَمِيعٗا وَأَنَّ ٱللَّهَ شَدِيدُ ٱلۡعَذَابِ",
+  "translation": "165. Waxaa ka mid ah dadka kuwo yeesha Alle sokadi wax ay la mid dhigaan oo u shariig yeelaan ayna u jecel yihiin siday u jecel yihiin Alle. Kuwase (Xaqa) rumeysan ayaa ka daran oo xooggan jaceylka ay u hayaan Alle. Hadday arki lahaayeenna kuwaa fala dulmiga (shirkiga iyo xumaha kale), markay arkaan cadaabka, in Xoog oo dhan uu leeyahay Alle, iyo in Alle uu Daran yahay Cadaabkiisu.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2222",
-    "sura": "18",
-    "aya": "82",
-    "arabic_text": "وَأَمَّا ٱلۡجِدَارُ فَكَانَ لِغُلَٰمَيۡنِ يَتِيمَيۡنِ فِي ٱلۡمَدِينَةِ وَكَانَ تَحۡتَهُۥ كَنزٞ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحٗا فَأَرَادَ رَبُّكَ أَن يَبۡلُغَآ أَشُدَّهُمَا وَيَسۡتَخۡرِجَا كَنزَهُمَا رَحۡمَةٗ مِّن رَّبِّكَۚ وَمَا فَعَلۡتُهُۥ عَنۡ أَمۡرِيۚ ذَٰلِكَ تَأۡوِيلُ مَا لَمۡ تَسۡطِع عَّلَيۡهِ صَبۡرٗا",
-    "translation": "Hinggil sa pader, iyon ay pag-aari ng dalawang batang lalaking ulila sa lungsod. Sa ilalim nito ay may kayaman para sa kanilang dalawa. Ang ama nilang dalawa ay matuwid. Kaya nagnais ang Panginoon mo na umabot silang dalawa sa katindihan nilang dalawa at magpalabas silang dalawa ng kayamanan nilang dalawa bilang awa mula sa Panginoon mo. Hindi ako gumawa niyon dala ng pagkukusa ko. Iyon ay ang pagpapakahulugan ng hindi ka nakakaya roon ng isang pagtitiis.”",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 302,
+  "verse_key": "18:82",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَمَّا ٱلۡجِدَارُ فَكَانَ لِغُلَٰمَيۡنِ يَتِيمَيۡنِ فِي ٱلۡمَدِينَةِ وَكَانَ تَحۡتَهُۥ كَنزٞ لَّهُمَا وَكَانَ أَبُوهُمَا صَٰلِحٗا فَأَرَادَ رَبُّكَ أَن يَبۡلُغَآ أَشُدَّهُمَا وَيَسۡتَخۡرِجَا كَنزَهُمَا رَحۡمَةٗ مِّن رَّبِّكَۚ وَمَا فَعَلۡتُهُۥ عَنۡ أَمۡرِيۚ ذَٰلِكَ تَأۡوِيلُ مَا لَمۡ تَسۡطِع عَّلَيۡهِ صَبۡرٗا",
+  "translation": "Hinggil sa pader, iyon ay pag-aari ng dalawang batang lalaking ulila sa lungsod. Sa ilalim nito ay may kayaman para sa kanilang dalawa. Ang ama nilang dalawa ay matuwid. Kaya nagnais ang Panginoon mo na umabot silang dalawa sa katindihan nilang dalawa at magpalabas silang dalawa ng kayamanan nilang dalawa bilang awa mula sa Panginoon mo. Hindi ako gumawa niyon dala ng pagkukusa ko. Iyon ay ang pagpapakahulugan ng hindi ka nakakaya roon ng isang pagtitiis.”",
+  "footnotes": ""
 }

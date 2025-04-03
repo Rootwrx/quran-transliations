@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4287",
-    "sura": "42",
-    "aya": "15",
-    "arabic_text": "فَلِذَٰلِكَ فَٱدۡعُۖ وَٱسۡتَقِمۡ كَمَآ أُمِرۡتَۖ وَلَا تَتَّبِعۡ أَهۡوَآءَهُمۡۖ وَقُلۡ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٖۖ وَأُمِرۡتُ لِأَعۡدِلَ بَيۡنَكُمُۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمۡۖ لَنَآ أَعۡمَٰلُنَا وَلَكُمۡ أَعۡمَٰلُكُمۡۖ لَا حُجَّةَ بَيۡنَنَا وَبَيۡنَكُمُۖ ٱللَّهُ يَجۡمَعُ بَيۡنَنَاۖ وَإِلَيۡهِ ٱلۡمَصِيرُ",
-    "translation": "15. Arrin(kani) (Towxiidka) ku baaq adigoo ku sugnaan dhabbaha toosan sida lagu amray8, hana raacin hawadooda (xun) oo dheh: Waxaan rumeynay wuxuu Alle soo dejiyey oo Kitaab ah, waxaana la i amray inaan falo caddaalad dhexdiinna, Allaah baa ah Rabbigayo iyo Rabbigiinba. Waxaan mudan acmaashayada idinkuna waxaad mudan acmaashiinna9, xujo (hadda) inama dhex taallo10. Allaah baa ina soo kulmin innagoo dhan, waana Xaggiisa meel noqodka dambe.",
-    "footnotes": "8. Inta ka go’an hadalka waa ugu yeedh inay toobad keenaan.\n9. Waa natiijada camalladooda.\n 10. Marba haddii laga yeelay Xaqa caddaan, kuwaasi Xaqa diida waxay sidaasi u yeelaan oo keliya kibir darti iyo u xilasho dano adduun."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 484,
+  "verse_key": "42:15",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 194,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلِذَٰلِكَ فَٱدۡعُۖ وَٱسۡتَقِمۡ كَمَآ أُمِرۡتَۖ وَلَا تَتَّبِعۡ أَهۡوَآءَهُمۡۖ وَقُلۡ ءَامَنتُ بِمَآ أَنزَلَ ٱللَّهُ مِن كِتَٰبٖۖ وَأُمِرۡتُ لِأَعۡدِلَ بَيۡنَكُمُۖ ٱللَّهُ رَبُّنَا وَرَبُّكُمۡۖ لَنَآ أَعۡمَٰلُنَا وَلَكُمۡ أَعۡمَٰلُكُمۡۖ لَا حُجَّةَ بَيۡنَنَا وَبَيۡنَكُمُۖ ٱللَّهُ يَجۡمَعُ بَيۡنَنَاۖ وَإِلَيۡهِ ٱلۡمَصِيرُ",
+  "translation": "15. Arrin(kani) (Towxiidka) ku baaq adigoo ku sugnaan dhabbaha toosan sida lagu amray8, hana raacin hawadooda (xun) oo dheh: Waxaan rumeynay wuxuu Alle soo dejiyey oo Kitaab ah, waxaana la i amray inaan falo caddaalad dhexdiinna, Allaah baa ah Rabbigayo iyo Rabbigiinba. Waxaan mudan acmaashayada idinkuna waxaad mudan acmaashiinna9, xujo (hadda) inama dhex taallo10. Allaah baa ina soo kulmin innagoo dhan, waana Xaggiisa meel noqodka dambe.",
+  "footnotes": "8. Inta ka go’an hadalka waa ugu yeedh inay toobad keenaan.\n9. Waa natiijada camalladooda.\n 10. Marba haddii laga yeelay Xaqa caddaan, kuwaasi Xaqa diida waxay sidaasi u yeelaan oo keliya kibir darti iyo u xilasho dano adduun."
 }

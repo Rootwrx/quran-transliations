@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5966",
-    "sura": "87",
-    "aya": "18",
-    "arabic_text": "إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
-    "translation": "Şüphesiz bu (anlatılanlar), önceki kitaplarda, ",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 592,
+  "verse_key": "87:18",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰذَا لَفِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
+  "translation": "Şüphesiz bu (anlatılanlar), önceki kitaplarda, ",
+  "footnotes": ""
 }

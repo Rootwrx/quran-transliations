@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2754",
-    "sura": "23",
-    "aya": "81",
-    "arabic_text": "بَلۡ قَالُواْ مِثۡلَ مَا قَالَ ٱلۡأَوَّلُونَ",
-    "translation": "Ka woto ye, ad b yeela wala rãeenem rãmbã sẽn yeelã.",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 347,
+  "verse_key": "23:81",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ قَالُواْ مِثۡلَ مَا قَالَ ٱلۡأَوَّلُونَ",
+  "translation": "Ka woto ye, ad b yeela wala rãeenem rãmbã sẽn yeelã.",
+  "footnotes": ""
 }

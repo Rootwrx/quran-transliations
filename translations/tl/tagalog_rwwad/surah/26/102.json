@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3034",
-    "sura": "26",
-    "aya": "102",
-    "arabic_text": "فَلَوۡ أَنَّ لَنَا كَرَّةٗ فَنَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
-    "translation": "Kaya kung sakaling mayroon kaming panunumbalik [sa Mundo], kami ay magiging kabilang sa mga mananampalataya.",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 371,
+  "verse_key": "26:102",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَوۡ أَنَّ لَنَا كَرَّةٗ فَنَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
+  "translation": "Kaya kung sakaling mayroon kaming panunumbalik [sa Mundo], kami ay magiging kabilang sa mga mananampalataya.",
+  "footnotes": ""
 }

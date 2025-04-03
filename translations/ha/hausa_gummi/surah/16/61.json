@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1962",
-    "sura": "16",
-    "aya": "61",
-    "arabic_text": "وَلَوۡ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِظُلۡمِهِم مَّا تَرَكَ عَلَيۡهَا مِن دَآبَّةٖ وَلَٰكِن يُؤَخِّرُهُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۖ فَإِذَا جَآءَ أَجَلُهُمۡ لَا يَسۡتَـٔۡخِرُونَ سَاعَةٗ وَلَا يَسۡتَقۡدِمُونَ",
-    "translation": "Kuma dã Allah Yanã kãma mutãne da zãluncinsu,* dã bai bar wata dabba ba a kan ƙasa. Kuma amma Yanã jinkirta musu zuwa ga ajali ambatacce. Sa'an nan idan ajalinsu ya zo, bã zã a yi musu jinkiri ba kõ da sa'a guda, kuma bã zã su gabãta ba.",
-    "footnotes": "* Rashin halaka dũniya sabõda laifin mutãne da rashin kãmasu da dukan laifinsu, ni'ima ce babba."
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 273,
+  "verse_key": "16:61",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ يُؤَاخِذُ ٱللَّهُ ٱلنَّاسَ بِظُلۡمِهِم مَّا تَرَكَ عَلَيۡهَا مِن دَآبَّةٖ وَلَٰكِن يُؤَخِّرُهُمۡ إِلَىٰٓ أَجَلٖ مُّسَمّٗىۖ فَإِذَا جَآءَ أَجَلُهُمۡ لَا يَسۡتَـٔۡخِرُونَ سَاعَةٗ وَلَا يَسۡتَقۡدِمُونَ",
+  "translation": "Kuma dã Allah Yanã kãma mutãne da zãluncinsu,* dã bai bar wata dabba ba a kan ƙasa. Kuma amma Yanã jinkirta musu zuwa ga ajali ambatacce. Sa'an nan idan ajalinsu ya zo, bã zã a yi musu jinkiri ba kõ da sa'a guda, kuma bã zã su gabãta ba.",
+  "footnotes": "* Rashin halaka dũniya sabõda laifin mutãne da rashin kãmasu da dukan laifinsu, ni'ima ce babba."
 }

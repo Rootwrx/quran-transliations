@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5813",
-    "sura": "81",
-    "aya": "13",
-    "arabic_text": "وَإِذَا ٱلۡجَنَّةُ أُزۡلِفَتۡ",
-    "translation": "13. அப்போது சொர்க்கம் சமீபமாகக் கொண்டு வரப்படும்.",
-    "footnotes": null
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 586,
+  "verse_key": "81:13",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱلۡجَنَّةُ أُزۡلِفَتۡ",
+  "translation": "13. அப்போது சொர்க்கம் சமீபமாகக் கொண்டு வரப்படும்.",
+  "footnotes": null
 }

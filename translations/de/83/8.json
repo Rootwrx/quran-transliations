@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5856",
-    "sura": "83",
-    "aya": "8",
-    "arabic_text": "وَمَآ أَدۡرَىٰكَ مَا سِجِّينٞ",
-    "translation": "Und was läßt dich wissen, was Siggin ist?",
-    "footnotes": null
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 588,
+  "verse_key": "83:8",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَدۡرَىٰكَ مَا سِجِّينٞ",
+  "translation": "Und was läßt dich wissen, was Siggin ist?",
+  "footnotes": null
 }

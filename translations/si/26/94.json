@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3026",
-    "sura": "26",
-    "aya": "94",
-    "arabic_text": "فَكُبۡكِبُواْ فِيهَا هُمۡ وَٱلۡغَاوُۥنَ",
-    "translation": "එවිට එහි ඔවුහු හා සීමාව ඉක්මවූවෝ මුණින් අතට හෙළනු ලබති.",
-    "footnotes": ""
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 371,
+  "verse_key": "26:94",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكُبۡكِبُواْ فِيهَا هُمۡ وَٱلۡغَاوُۥنَ",
+  "translation": "එවිට එහි ඔවුහු හා සීමාව ඉක්මවූවෝ මුණින් අතට හෙළනු ලබති.",
+  "footnotes": ""
 }

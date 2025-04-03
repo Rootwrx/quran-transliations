@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5524",
-    "sura": "74",
-    "aya": "29",
-    "arabic_text": "لَوَّاحَةٞ لِّلۡبَشَرِ",
-    "translation": "پوست را [دگرگون کرده و] می‌سوزانَد.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 576,
+  "verse_key": "74:29",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَوَّاحَةٞ لِّلۡبَشَرِ",
+  "translation": "پوست را [دگرگون کرده و] می‌سوزانَد.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2404",
-    "sura": "20",
-    "aya": "56",
-    "arabic_text": "وَلَقَدۡ أَرَيۡنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ",
-    "translation": "56. Dan sungguh, Kami telah memperlihatkan kepadanya (Fir'aun) tanda-tanda (kebesaran) Kami semuanya,*(517) ternyata dia mendustakan dan enggan (menerima kebenaran).",
-    "footnotes": "517). Yang dimaksud dengan tanda-tanda di sini ialah tanda-tanda kenabian Musa -'alaihissalām- pada pertemuan Nabi Musa -'alaihissalām- dengan Fir'aun ini, yang diperlihatkan baru dua mukjizat, yaitu tongkat Nabi Musa -'alaihissalām- menjadi ular dan tangannya menjadi putih bercahaya."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 315,
+  "verse_key": "20:56",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرَيۡنَٰهُ ءَايَٰتِنَا كُلَّهَا فَكَذَّبَ وَأَبَىٰ",
+  "translation": "56. Dan sungguh, Kami telah memperlihatkan kepadanya (Fir'aun) tanda-tanda (kebesaran) Kami semuanya,*(517) ternyata dia mendustakan dan enggan (menerima kebenaran).",
+  "footnotes": "517). Yang dimaksud dengan tanda-tanda di sini ialah tanda-tanda kenabian Musa -'alaihissalām- pada pertemuan Nabi Musa -'alaihissalām- dengan Fir'aun ini, yang diperlihatkan baru dua mukjizat, yaitu tongkat Nabi Musa -'alaihissalām- menjadi ular dan tangannya menjadi putih bercahaya."
 }

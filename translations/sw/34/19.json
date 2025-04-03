@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3625",
-    "sura": "34",
-    "aya": "19",
-    "arabic_text": "فَقَالُواْ رَبَّنَا بَٰعِدۡ بَيۡنَ أَسۡفَارِنَا وَظَلَمُوٓاْ أَنفُسَهُمۡ فَجَعَلۡنَٰهُمۡ أَحَادِيثَ وَمَزَّقۡنَٰهُمۡ كُلَّ مُمَزَّقٍۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ",
-    "translation": "Lakini wakasema: Mola wetu Mlezi! Weka mwendo mrefu baina ya safari zetu. Na wakazidhulumu nafsi zao. Basi tukawafanya ni masimulizi tu, na tukawatawanya tawanya. Hakika katika hayo bila ya shaka zimo Ishara kwa kila mwenye kusubiri sana na akashukuru.",
-    "footnotes": "Kwa kutakabari kwa neema, na raha, na amani, walisema: Tuwekee mbali masafa ya safari zetu, tusisadifu kukuta miji iliyo amirishwa ya katikati mpaka tufike huko twendako! Mwenyezi Mungu akazifanya ziwe mbali hizo safari zao. Na wakawa wao wamejidhulumu nafsi zao kwa uasi wao. Tukawafanya hao ni masimulizi ya watu, na tukawatenganisha mtengano mkubwa. Hakika katika yaliyo wapata hao yapo mawaidha kwa kila mwenye kusubiri kwa balaa, mwenye kushukuru kwa apewacho."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 430,
+  "verse_key": "34:19",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَالُواْ رَبَّنَا بَٰعِدۡ بَيۡنَ أَسۡفَارِنَا وَظَلَمُوٓاْ أَنفُسَهُمۡ فَجَعَلۡنَٰهُمۡ أَحَادِيثَ وَمَزَّقۡنَٰهُمۡ كُلَّ مُمَزَّقٍۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ",
+  "translation": "Lakini wakasema: Mola wetu Mlezi! Weka mwendo mrefu baina ya safari zetu. Na wakazidhulumu nafsi zao. Basi tukawafanya ni masimulizi tu, na tukawatawanya tawanya. Hakika katika hayo bila ya shaka zimo Ishara kwa kila mwenye kusubiri sana na akashukuru.",
+  "footnotes": "Kwa kutakabari kwa neema, na raha, na amani, walisema: Tuwekee mbali masafa ya safari zetu, tusisadifu kukuta miji iliyo amirishwa ya katikati mpaka tufike huko twendako! Mwenyezi Mungu akazifanya ziwe mbali hizo safari zao. Na wakawa wao wamejidhulumu nafsi zao kwa uasi wao. Tukawafanya hao ni masimulizi ya watu, na tukawatenganisha mtengano mkubwa. Hakika katika yaliyo wapata hao yapo mawaidha kwa kila mwenye kusubiri kwa balaa, mwenye kushukuru kwa apewacho."
 }

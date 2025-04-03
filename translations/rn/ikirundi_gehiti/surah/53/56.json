@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4840",
-    "sura": "53",
-    "aya": "56",
-    "arabic_text": "هَٰذَا نَذِيرٞ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ",
-    "translation": "Ng’uyu rero Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah), Umugabisha w’ukuri ku vyo n’Abavugishwamana bo hambere yiwe bagabishijeko abo barungitsweko. Ntabwo rero ari icaduka mu Ntumwa.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 528,
+  "verse_key": "53:56",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا نَذِيرٞ مِّنَ ٱلنُّذُرِ ٱلۡأُولَىٰٓ",
+  "translation": "Ng’uyu rero Muhamadi (nyakugira amahoro n’impuhwe z’Imana Allah), Umugabisha w’ukuri ku vyo n’Abavugishwamana bo hambere yiwe bagabishijeko abo barungitsweko. Ntabwo rero ari icaduka mu Ntumwa.",
+  "footnotes": ""
 }

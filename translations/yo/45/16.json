@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4489",
-    "sura": "45",
-    "aya": "16",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ",
-    "translation": "Dájúdájú A fún àwọn ọmọ ’Isrọ̄’īl ní Tírà àti ìdájọ́ ṣíṣe àti ipò Ànábì. A sì ṣe arísìkí fún wọn nínú àwọn n̄ǹkan dáadáa. A sì ṣoore àjùlọ fún wọn lórí àwọn ẹ̀dá (àsìkò tiwọn).",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 500,
+  "verse_key": "45:16",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ",
+  "translation": "Dájúdájú A fún àwọn ọmọ ’Isrọ̄’īl ní Tírà àti ìdájọ́ ṣíṣe àti ipò Ànábì. A sì ṣe arísìkí fún wọn nínú àwọn n̄ǹkan dáadáa. A sì ṣoore àjùlọ fún wọn lórí àwọn ẹ̀dá (àsìkò tiwọn).",
+  "footnotes": ""
 }

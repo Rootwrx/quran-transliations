@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6210",
-    "sura": "109",
-    "aya": "3",
-    "arabic_text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
-    "translation": "Dan kamu bukan penyembah Tuhan yang aku sembah.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 603,
+  "verse_key": "109:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+  "translation": "Dan kamu bukan penyembah Tuhan yang aku sembah.",
+  "footnotes": ""
 }

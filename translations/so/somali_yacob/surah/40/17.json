@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4150",
-    "sura": "40",
-    "aya": "17",
-    "arabic_text": "ٱلۡيَوۡمَ تُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡۚ لَا ظُلۡمَ ٱلۡيَوۡمَۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
-    "translation": "17. Maalinta (Qiyaamaha) naf walba waxaa lagu abaal marin waxay kasbatay (khayr ama shar), dulmi ma jiro Maalintaa4. Hubaal Alle wuu ku Dhaqso badan yahay xisaabinta.",
-    "footnotes": "4. Xadiis qudsi ah:  Alle  wuxuu yidhi: “Addoomaheygow aniga waan iska xaaraanshay dulmiga, waxaana ka yeelay xaaraan dhexdiinna ee ha is dulmina\"."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 469,
+  "verse_key": "40:17",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡيَوۡمَ تُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا كَسَبَتۡۚ لَا ظُلۡمَ ٱلۡيَوۡمَۚ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
+  "translation": "17. Maalinta (Qiyaamaha) naf walba waxaa lagu abaal marin waxay kasbatay (khayr ama shar), dulmi ma jiro Maalintaa4. Hubaal Alle wuu ku Dhaqso badan yahay xisaabinta.",
+  "footnotes": "4. Xadiis qudsi ah:  Alle  wuxuu yidhi: “Addoomaheygow aniga waan iska xaaraanshay dulmiga, waxaana ka yeelay xaaraan dhexdiinna ee ha is dulmina\"."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1623",
-    "sura": "12",
-    "aya": "27",
-    "arabic_text": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٖ فَكَذَبَتۡ وَهُوَ مِنَ ٱلصَّٰدِقِينَ",
-    "translation": "Kung nangyaring ang kamisa niya ay nalaslas mula sa likuran, nagsinungaling ito at siya ay kabilang sa mga tapat.”",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 238,
+  "verse_key": "12:27",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن كَانَ قَمِيصُهُۥ قُدَّ مِن دُبُرٖ فَكَذَبَتۡ وَهُوَ مِنَ ٱلصَّٰدِقِينَ",
+  "translation": "Kung nangyaring ang kamisa niya ay nalaslas mula sa likuran, nagsinungaling ito at siya ay kabilang sa mga tapat.”",
+  "footnotes": ""
 }

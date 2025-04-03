@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4250",
-    "sura": "41",
-    "aya": "32",
-    "arabic_text": "نُزُلٗا مِّنۡ غَفُورٖ رَّحِيمٖ",
-    "translation": "එය අතික්ෂමාශීලී මහා කරුණාන්විතයාණන්ගෙන් වූ සංග්‍රහයක් වශයෙනි.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 480,
+  "verse_key": "41:32",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نُزُلٗا مِّنۡ غَفُورٖ رَّحِيمٖ",
+  "translation": "එය අතික්ෂමාශීලී මහා කරුණාන්විතයාණන්ගෙන් වූ සංග්‍රහයක් වශයෙනි.",
+  "footnotes": ""
 }

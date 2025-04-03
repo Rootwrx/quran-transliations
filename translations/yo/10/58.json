@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1422",
-    "sura": "10",
-    "aya": "58",
-    "arabic_text": "قُلۡ بِفَضۡلِ ٱللَّهِ وَبِرَحۡمَتِهِۦ فَبِذَٰلِكَ فَلۡيَفۡرَحُواْ هُوَ خَيۡرٞ مِّمَّا يَجۡمَعُونَ",
-    "translation": "Sọ pé: “Pẹ̀lú oore àjùlọ Allāhu (ìyẹn, ’Islām) àti àánú Rẹ̀ (ìyẹn, al-Ƙur'ān), nítorí ìyẹn ni kí wọ́n máa fi dunnú; ó sì lóore ju ohun tí àwọn (aláìgbàgbọ́) ń kó jọ (nínú oore ayé).”",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 215,
+  "verse_key": "10:58",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ بِفَضۡلِ ٱللَّهِ وَبِرَحۡمَتِهِۦ فَبِذَٰلِكَ فَلۡيَفۡرَحُواْ هُوَ خَيۡرٞ مِّمَّا يَجۡمَعُونَ",
+  "translation": "Sọ pé: “Pẹ̀lú oore àjùlọ Allāhu (ìyẹn, ’Islām) àti àánú Rẹ̀ (ìyẹn, al-Ƙur'ān), nítorí ìyẹn ni kí wọ́n máa fi dunnú; ó sì lóore ju ohun tí àwọn (aláìgbàgbọ́) ń kó jọ (nínú oore ayé).”",
+  "footnotes": ""
 }

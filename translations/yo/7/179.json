@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1133",
-    "sura": "7",
-    "aya": "179",
-    "arabic_text": "وَلَقَدۡ ذَرَأۡنَا لِجَهَنَّمَ كَثِيرٗا مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ لَهُمۡ قُلُوبٞ لَّا يَفۡقَهُونَ بِهَا وَلَهُمۡ أَعۡيُنٞ لَّا يُبۡصِرُونَ بِهَا وَلَهُمۡ ءَاذَانٞ لَّا يَسۡمَعُونَ بِهَآۚ أُوْلَٰٓئِكَ كَٱلۡأَنۡعَٰمِ بَلۡ هُمۡ أَضَلُّۚ أُوْلَٰٓئِكَ هُمُ ٱلۡغَٰفِلُونَ",
-    "translation": "Dájúdájú A ti dá ọ̀pọ̀lọ́pọ̀ ènìyàn àti àlùjànnú fún iná Jahanamọ (nítorí pé) wọ́n ní ọkàn, wọn kò sì fi gbọ́ àgbọ́yé; wọ́n ní ojú, wọn kò sì fi ríran; wọ́n ní etí, wọn kò sì fi gbọ́ràn. Àwọn wọ̀nyẹn dà bí ẹran-ọ̀sìn. Wọ́n wulẹ̀ sọnù jùlọ. Àwọn wọ̀nyẹn, àwọn ni afọ́nú-fọ́ra.",
-    "footnotes": ""
-  }
+  "id": 179,
+  "verse_number": 179,
+  "page_number": 174,
+  "verse_key": "7:179",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 69,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ذَرَأۡنَا لِجَهَنَّمَ كَثِيرٗا مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ لَهُمۡ قُلُوبٞ لَّا يَفۡقَهُونَ بِهَا وَلَهُمۡ أَعۡيُنٞ لَّا يُبۡصِرُونَ بِهَا وَلَهُمۡ ءَاذَانٞ لَّا يَسۡمَعُونَ بِهَآۚ أُوْلَٰٓئِكَ كَٱلۡأَنۡعَٰمِ بَلۡ هُمۡ أَضَلُّۚ أُوْلَٰٓئِكَ هُمُ ٱلۡغَٰفِلُونَ",
+  "translation": "Dájúdájú A ti dá ọ̀pọ̀lọ́pọ̀ ènìyàn àti àlùjànnú fún iná Jahanamọ (nítorí pé) wọ́n ní ọkàn, wọn kò sì fi gbọ́ àgbọ́yé; wọ́n ní ojú, wọn kò sì fi ríran; wọ́n ní etí, wọn kò sì fi gbọ́ràn. Àwọn wọ̀nyẹn dà bí ẹran-ọ̀sìn. Wọ́n wulẹ̀ sọnù jùlọ. Àwọn wọ̀nyẹn, àwọn ni afọ́nú-fọ́ra.",
+  "footnotes": ""
 }

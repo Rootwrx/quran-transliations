@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5790",
-    "sura": "80",
-    "aya": "32",
-    "arabic_text": "مَّتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ",
-    "translation": "32. en jouissance pour vous et pour vos bestiaux.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 585,
+  "verse_key": "80:32",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّتَٰعٗا لَّكُمۡ وَلِأَنۡعَٰمِكُمۡ",
+  "translation": "32. en jouissance pour vous et pour vos bestiaux.",
+  "footnotes": ""
 }

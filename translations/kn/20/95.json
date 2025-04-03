@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2443",
-    "sura": "20",
-    "aya": "95",
-    "arabic_text": "قَالَ فَمَا خَطۡبُكَ يَٰسَٰمِرِيُّ",
-    "translation": "ಮೂಸಾ ಕೇಳಿದರು: “ಓ ಸಾಮಿರಿ! ನಿನ್ನ ಸಮಾಚಾರವೇನು?”",
-    "footnotes": ""
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 318,
+  "verse_key": "20:95",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ فَمَا خَطۡبُكَ يَٰسَٰمِرِيُّ",
+  "translation": "ಮೂಸಾ ಕೇಳಿದರು: “ಓ ಸಾಮಿರಿ! ನಿನ್ನ ಸಮಾಚಾರವೇನು?”",
+  "footnotes": ""
 }

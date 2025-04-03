@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3225",
-    "sura": "27",
-    "aya": "66",
-    "arabic_text": "بَلِ ٱدَّٰرَكَ عِلۡمُهُمۡ فِي ٱلۡأٓخِرَةِۚ بَلۡ هُمۡ فِي شَكّٖ مِّنۡهَاۖ بَلۡ هُم مِّنۡهَا عَمُونَ",
-    "translation": "Ã'a, saninsu ya kai a cikin Lãhira Ã'a, sunã cikin shakka daga gare ta. Ã'a, sũ da gare ta makãfin zũci ne.",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 383,
+  "verse_key": "27:66",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلِ ٱدَّٰرَكَ عِلۡمُهُمۡ فِي ٱلۡأٓخِرَةِۚ بَلۡ هُمۡ فِي شَكّٖ مِّنۡهَاۖ بَلۡ هُم مِّنۡهَا عَمُونَ",
+  "translation": "Ã'a, saninsu ya kai a cikin Lãhira Ã'a, sunã cikin shakka daga gare ta. Ã'a, sũ da gare ta makãfin zũci ne.",
+  "footnotes": ""
 }

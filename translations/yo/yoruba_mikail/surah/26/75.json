@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3007",
-    "sura": "26",
-    "aya": "75",
-    "arabic_text": "قَالَ أَفَرَءَيۡتُم مَّا كُنتُمۡ تَعۡبُدُونَ",
-    "translation": "(Ànábì ’Ibrọ̄hīm) sọ pé: “ Ẹ sọ fún mi, kí ni n̄ǹkan tí ẹ̀ ń jọ́sìn fún,",
-    "footnotes": ""
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 370,
+  "verse_key": "26:75",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ أَفَرَءَيۡتُم مَّا كُنتُمۡ تَعۡبُدُونَ",
+  "translation": "(Ànábì ’Ibrọ̄hīm) sọ pé: “ Ẹ sọ fún mi, kí ni n̄ǹkan tí ẹ̀ ń jọ́sìn fún,",
+  "footnotes": ""
 }

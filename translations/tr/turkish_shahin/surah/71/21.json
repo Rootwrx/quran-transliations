@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5440",
-    "sura": "71",
-    "aya": "21",
-    "arabic_text": "قَالَ نُوحٞ رَّبِّ إِنَّهُمۡ عَصَوۡنِي وَٱتَّبَعُواْ مَن لَّمۡ يَزِدۡهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارٗا",
-    "translation": "(Öğütlerinin fayda vermemesi üzerine) Nuh: Rabbim! dedi, doğrusu bunlar bana karşı geldiler de, malı ve çocuğu kendi ziyanını arttırmaktan başka işe yaramayan kimseye uydular.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 571,
+  "verse_key": "71:21",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ نُوحٞ رَّبِّ إِنَّهُمۡ عَصَوۡنِي وَٱتَّبَعُواْ مَن لَّمۡ يَزِدۡهُ مَالُهُۥ وَوَلَدُهُۥٓ إِلَّا خَسَارٗا",
+  "translation": "(Öğütlerinin fayda vermemesi üzerine) Nuh: Rabbim! dedi, doğrusu bunlar bana karşı geldiler de, malı ve çocuğu kendi ziyanını arttırmaktan başka işe yaramayan kimseye uydular.",
+  "footnotes": ""
 }

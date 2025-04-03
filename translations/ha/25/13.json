@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2868",
-    "sura": "25",
-    "aya": "13",
-    "arabic_text": "وَإِذَآ أُلۡقُواْ مِنۡهَا مَكَانٗا ضَيِّقٗا مُّقَرَّنِينَ دَعَوۡاْ هُنَالِكَ ثُبُورٗا",
-    "translation": "Kuma idan an jẽfa su a wani wuri mai ƙunci daga gare ta, sunã waɗanda aka ɗaure ciki daidai, sai su kirãyi halaka a can.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 361,
+  "verse_key": "25:13",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَآ أُلۡقُواْ مِنۡهَا مَكَانٗا ضَيِّقٗا مُّقَرَّنِينَ دَعَوۡاْ هُنَالِكَ ثُبُورٗا",
+  "translation": "Kuma idan an jẽfa su a wani wuri mai ƙunci daga gare ta, sunã waɗanda aka ɗaure ciki daidai, sai su kirãyi halaka a can.",
+  "footnotes": ""
 }

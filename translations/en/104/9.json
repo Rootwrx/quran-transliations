@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6188",
-    "sura": "104",
-    "aya": "9",
-    "arabic_text": "فِي عَمَدٖ مُّمَدَّدَةِۭ",
-    "translation": "(9) In extended columns.[1990]",
-    "footnotes": "[1990]- Interpreted to be either columns of fire or columns of iron to which are chained the inmates of Hell."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 601,
+  "verse_key": "104:9",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي عَمَدٖ مُّمَدَّدَةِۭ",
+  "translation": "(9) In extended columns.[1990]",
+  "footnotes": "[1990]- Interpreted to be either columns of fire or columns of iron to which are chained the inmates of Hell."
 }

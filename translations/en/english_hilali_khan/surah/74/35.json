@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5530",
-    "sura": "74",
-    "aya": "35",
-    "arabic_text": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ",
-    "translation": " 35. Verily, it (Hell, or their denial of Prophet Muhammad صلى الله عليه وسلم, or the Day of Resurrection) is but one of the greatest (signs).",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 576,
+  "verse_key": "74:35",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهَا لَإِحۡدَى ٱلۡكُبَرِ",
+  "translation": " 35. Verily, it (Hell, or their denial of Prophet Muhammad صلى الله عليه وسلم, or the Day of Resurrection) is but one of the greatest (signs).",
+  "footnotes": ""
 }

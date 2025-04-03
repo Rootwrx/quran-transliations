@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "57",
-    "sura": "2",
-    "aya": "50",
-    "arabic_text": "وَإِذۡ فَرَقۡنَا بِكُمُ ٱلۡبَحۡرَ فَأَنجَيۡنَٰكُمۡ وَأَغۡرَقۡنَآ ءَالَ فِرۡعَوۡنَ وَأَنتُمۡ تَنظُرُونَ",
-    "translation": "(Ẹ rántí) nígbà tí A pín agbami òkun sí ọ̀tọ̀ọ̀tọ̀ fún yín,[1] A sì gbà yín là. A tẹ àwọn ènìyàn Fir‘aon rì. Ẹ̀yin náà sì ń wò (wọ́n nínú agbami odò).",
-    "footnotes": "1. Àwọn kan nínú àwọn onímọ̀ nípa Tafsīr sọ pé, “Agbami òkun pín sí méjì fún àwọn ọmọ Isrọ̄’īl, ojú-ọ̀nà ẹyọ kan sì là fún gbogbo wọn.” Àmọ́ ọ̀pọ̀lọ́pọ̀ àwọn onímọ̀ nípa Tafsīr sọ pé, “Agbami òkun pín sí méjìlá fún wọn tí ìdìlé kọ̀ọ̀kan sì tọ ojú-ọ̀nà kọ̀ọ̀kan nítorí pé, ìdílé méjìlá ni ìran ọmọ Isrọ̄’īl.”"
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 8,
+  "verse_key": "2:50",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ فَرَقۡنَا بِكُمُ ٱلۡبَحۡرَ فَأَنجَيۡنَٰكُمۡ وَأَغۡرَقۡنَآ ءَالَ فِرۡعَوۡنَ وَأَنتُمۡ تَنظُرُونَ",
+  "translation": "(Ẹ rántí) nígbà tí A pín agbami òkun sí ọ̀tọ̀ọ̀tọ̀ fún yín,[1] A sì gbà yín là. A tẹ àwọn ènìyàn Fir‘aon rì. Ẹ̀yin náà sì ń wò (wọ́n nínú agbami odò).",
+  "footnotes": "1. Àwọn kan nínú àwọn onímọ̀ nípa Tafsīr sọ pé, “Agbami òkun pín sí méjì fún àwọn ọmọ Isrọ̄’īl, ojú-ọ̀nà ẹyọ kan sì là fún gbogbo wọn.” Àmọ́ ọ̀pọ̀lọ́pọ̀ àwọn onímọ̀ nípa Tafsīr sọ pé, “Agbami òkun pín sí méjìlá fún wọn tí ìdìlé kọ̀ọ̀kan sì tọ ojú-ọ̀nà kọ̀ọ̀kan nítorí pé, ìdílé méjìlá ni ìran ọmọ Isrọ̄’īl.”"
 }

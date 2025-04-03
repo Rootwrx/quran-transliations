@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2857",
-    "sura": "25",
-    "aya": "2",
-    "arabic_text": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَمۡ يَتَّخِذۡ وَلَدٗا وَلَمۡ يَكُن لَّهُۥ شَرِيكٞ فِي ٱلۡمُلۡكِ وَخَلَقَ كُلَّ شَيۡءٖ فَقَدَّرَهُۥ تَقۡدِيرٗا",
-    "translation": "Sunduesi i qiejve dhe i Tokës, i Cili nuk ka bir e nuk ka ortak në pushtet; i Cili ka krijuar çdo gjë dhe e ka rregulluar si duhet!",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 359,
+  "verse_key": "25:2",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي لَهُۥ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَلَمۡ يَتَّخِذۡ وَلَدٗا وَلَمۡ يَكُن لَّهُۥ شَرِيكٞ فِي ٱلۡمُلۡكِ وَخَلَقَ كُلَّ شَيۡءٖ فَقَدَّرَهُۥ تَقۡدِيرٗا",
+  "translation": "Sunduesi i qiejve dhe i Tokës, i Cili nuk ka bir e nuk ka ortak në pushtet; i Cili ka krijuar çdo gjë dhe e ka rregulluar si duhet!",
+  "footnotes": ""
 }

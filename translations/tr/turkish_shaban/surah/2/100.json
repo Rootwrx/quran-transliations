@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "107",
-    "sura": "2",
-    "aya": "100",
-    "arabic_text": "أَوَكُلَّمَا عَٰهَدُواْ عَهۡدٗا نَّبَذَهُۥ فَرِيقٞ مِّنۡهُمۚ بَلۡ أَكۡثَرُهُمۡ لَا يُؤۡمِنُونَ",
-    "translation": "Onlar ne zaman bir söz vermişlerse, içlerinden bir grup bu sözü bozup atmadı mı? Zaten onların çoğu iman etmezler. ",
-    "footnotes": null
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 15,
+  "verse_key": "2:100",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَكُلَّمَا عَٰهَدُواْ عَهۡدٗا نَّبَذَهُۥ فَرِيقٞ مِّنۡهُمۚ بَلۡ أَكۡثَرُهُمۡ لَا يُؤۡمِنُونَ",
+  "translation": "Onlar ne zaman bir söz vermişlerse, içlerinden bir grup bu sözü bozup atmadı mı? Zaten onların çoğu iman etmezler. ",
+  "footnotes": null
 }

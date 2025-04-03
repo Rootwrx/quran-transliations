@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6120",
-    "sura": "96",
-    "aya": "14",
-    "arabic_text": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
-    "translation": "ಅಲ್ಲಾಹು ಅವನನ್ನು ನೋಡುತ್ತಿದ್ದಾನೆಂದು ಅವನಿಗೆ ತಿಳಿದಿಲ್ಲವೇ?",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 597,
+  "verse_key": "96:14",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ يَعۡلَم بِأَنَّ ٱللَّهَ يَرَىٰ",
+  "translation": "ಅಲ್ಲಾಹು ಅವನನ್ನು ನೋಡುತ್ತಿದ್ದಾನೆಂದು ಅವನಿಗೆ ತಿಳಿದಿಲ್ಲವೇ?",
+  "footnotes": ""
 }

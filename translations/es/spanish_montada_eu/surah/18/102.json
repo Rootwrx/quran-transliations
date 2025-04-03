@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2242",
-    "sura": "18",
-    "aya": "102",
-    "arabic_text": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓاْ أَن يَتَّخِذُواْ عِبَادِي مِن دُونِيٓ أَوۡلِيَآءَۚ إِنَّآ أَعۡتَدۡنَا جَهَنَّمَ لِلۡكَٰفِرِينَ نُزُلٗا",
-    "translation": "102. ¿Acaso piensan,quienes niegan la verdad, que pueden tomar a Mis siervos por protectores y aliados en vez de a Mí? Ciertamente, hemos preparado el infierno como morada a quienes la rechazan.",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 304,
+  "verse_key": "18:102",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَحَسِبَ ٱلَّذِينَ كَفَرُوٓاْ أَن يَتَّخِذُواْ عِبَادِي مِن دُونِيٓ أَوۡلِيَآءَۚ إِنَّآ أَعۡتَدۡنَا جَهَنَّمَ لِلۡكَٰفِرِينَ نُزُلٗا",
+  "translation": "102. ¿Acaso piensan,quienes niegan la verdad, que pueden tomar a Mis siervos por protectores y aliados en vez de a Mí? Ciertamente, hemos preparado el infierno como morada a quienes la rechazan.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3066",
-    "sura": "26",
-    "aya": "134",
-    "arabic_text": "وَجَنَّٰتٖ وَعُيُونٍ",
-    "translation": "\"Da gõnaki da marẽmari.\"",
-    "footnotes": ""
-  }
+  "id": 134,
+  "verse_number": 134,
+  "page_number": 372,
+  "verse_key": "26:134",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَنَّٰتٖ وَعُيُونٍ",
+  "translation": "\"Da gõnaki da marẽmari.\"",
+  "footnotes": ""
 }

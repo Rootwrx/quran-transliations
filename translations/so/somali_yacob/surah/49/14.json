@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4626",
-    "sura": "49",
-    "aya": "14",
-    "arabic_text": "۞ قَالَتِ ٱلۡأَعۡرَابُ ءَامَنَّاۖ قُل لَّمۡ تُؤۡمِنُواْ وَلَٰكِن قُولُوٓاْ أَسۡلَمۡنَا وَلَمَّا يَدۡخُلِ ٱلۡإِيمَٰنُ فِي قُلُوبِكُمۡۖ وَإِن تُطِيعُواْ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتۡكُم مِّنۡ أَعۡمَٰلِكُمۡ شَيۡـًٔاۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
-    "translation": "14. Reer miyigii (degganaa Madiinah  hareeraheeda) waxay yidhaahdeen: Waanu rumeynay (Xaqa). Dheh: Ma aydaan rumeynin (weli) dhahase, waanu islaamnay (hoggaansannay); waayo Iimaanku weli ma gelin quluubtiinna.  Haddaadse adeecdaan Alle iyo Rasuulkiisa, waxba idinkama uu dhimayo ka mid ah acmaashiinna. Hubaal Alle waa Denbi Dhaaf Badane, Naxariis Badan.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 517,
+  "verse_key": "49:14",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قَالَتِ ٱلۡأَعۡرَابُ ءَامَنَّاۖ قُل لَّمۡ تُؤۡمِنُواْ وَلَٰكِن قُولُوٓاْ أَسۡلَمۡنَا وَلَمَّا يَدۡخُلِ ٱلۡإِيمَٰنُ فِي قُلُوبِكُمۡۖ وَإِن تُطِيعُواْ ٱللَّهَ وَرَسُولَهُۥ لَا يَلِتۡكُم مِّنۡ أَعۡمَٰلِكُمۡ شَيۡـًٔاۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٌ",
+  "translation": "14. Reer miyigii (degganaa Madiinah  hareeraheeda) waxay yidhaahdeen: Waanu rumeynay (Xaqa). Dheh: Ma aydaan rumeynin (weli) dhahase, waanu islaamnay (hoggaansannay); waayo Iimaanku weli ma gelin quluubtiinna.  Haddaadse adeecdaan Alle iyo Rasuulkiisa, waxba idinkama uu dhimayo ka mid ah acmaashiinna. Hubaal Alle waa Denbi Dhaaf Badane, Naxariis Badan.",
+  "footnotes": ""
 }

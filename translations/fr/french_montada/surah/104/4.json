@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6183",
-    "sura": "104",
-    "aya": "4",
-    "arabic_text": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
-    "translation": "4. Que non ! Il sera précipité dans la Ḥutamah. [618]",
-    "footnotes": "[618] Du trilitère arabe « ḥatama » : détruire, briser. La Ḥutamah est l’un des noms de l’Enfer : tout ce qui y est précipité est, justement, brisé."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 601,
+  "verse_key": "104:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّاۖ لَيُنۢبَذَنَّ فِي ٱلۡحُطَمَةِ",
+  "translation": "4. Que non ! Il sera précipité dans la Ḥutamah. [618]",
+  "footnotes": "[618] Du trilitère arabe « ḥatama » : détruire, briser. La Ḥutamah est l’un des noms de l’Enfer : tout ce qui y est précipité est, justement, brisé."
 }

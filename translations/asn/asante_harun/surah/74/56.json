@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5551",
-    "sura": "74",
-    "aya": "56",
-    "arabic_text": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ",
-    "translation": "Nanso wͻmfa ntu wͻn ho fo, gyesε Nyankopͻn pε; Ɔno ne Obi a εsεsε yɛsuro no, na yεyε Ne ho ahwεyie, na Ɔno ne Obi a Ɔde bͻne kyε.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 577,
+  "verse_key": "74:56",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ",
+  "translation": "Nanso wͻmfa ntu wͻn ho fo, gyesε Nyankopͻn pε; Ɔno ne Obi a εsεsε yɛsuro no, na yεyε Ne ho ahwεyie, na Ɔno ne Obi a Ɔde bͻne kyε.",
+  "footnotes": ""
 }

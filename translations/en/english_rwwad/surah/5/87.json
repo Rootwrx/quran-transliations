@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "756",
-    "sura": "5",
-    "aya": "87",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُحَرِّمُواْ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
-    "translation": "O you who believe, do not prohibit the good things that Allah has made lawful for you[62], and do not exceed the limits, for Allah does not like those who exceed the limits.",
-    "footnotes": "[62] Anas ibn Mālik (رضي الله عنه) said about the three men who asked about the Prophet’s life, then one of them said: “I shall pray all night long and never sleep!” Another said: “I shall fast all year long and never break it!” And a third said: “I shall shun women and never ever marry!” The Prophet (ﷺ) condemned their actions and said: “Whoever renounces my way (Sunnah) has nothing to do with me!” [See: Al-Bukhārī: 5063, Muslim: 1401]"
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 122,
+  "verse_key": "5:87",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تُحَرِّمُواْ طَيِّبَٰتِ مَآ أَحَلَّ ٱللَّهُ لَكُمۡ وَلَا تَعۡتَدُوٓاْۚ إِنَّ ٱللَّهَ لَا يُحِبُّ ٱلۡمُعۡتَدِينَ",
+  "translation": "O you who believe, do not prohibit the good things that Allah has made lawful for you[62], and do not exceed the limits, for Allah does not like those who exceed the limits.",
+  "footnotes": "[62] Anas ibn Mālik (رضي الله عنه) said about the three men who asked about the Prophet’s life, then one of them said: “I shall pray all night long and never sleep!” Another said: “I shall fast all year long and never break it!” And a third said: “I shall shun women and never ever marry!” The Prophet (ﷺ) condemned their actions and said: “Whoever renounces my way (Sunnah) has nothing to do with me!” [See: Al-Bukhārī: 5063, Muslim: 1401]"
 }

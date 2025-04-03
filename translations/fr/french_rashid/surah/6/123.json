@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "912",
-    "sura": "6",
-    "aya": "123",
-    "arabic_text": "وَكَذَٰلِكَ جَعَلۡنَا فِي كُلِّ قَرۡيَةٍ أَكَٰبِرَ مُجۡرِمِيهَا لِيَمۡكُرُواْ فِيهَاۖ وَمَا يَمۡكُرُونَ إِلَّا بِأَنفُسِهِمۡ وَمَا يَشۡعُرُونَ",
-    "translation": "123 C’est ainsi que Nous avons placé à la tête de chaque cité de grands criminels qui s’y livrent aux pires manœuvres[408]. Or, ces manœuvres se retourneront tôt ou tard contre eux sans qu’ils en soient conscients.",
-    "footnotes": "[408] Afin d’égarer les hommes sous leur autorité."
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 143,
+  "verse_key": "6:123",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ جَعَلۡنَا فِي كُلِّ قَرۡيَةٍ أَكَٰبِرَ مُجۡرِمِيهَا لِيَمۡكُرُواْ فِيهَاۖ وَمَا يَمۡكُرُونَ إِلَّا بِأَنفُسِهِمۡ وَمَا يَشۡعُرُونَ",
+  "translation": "123 C’est ainsi que Nous avons placé à la tête de chaque cité de grands criminels qui s’y livrent aux pires manœuvres[408]. Or, ces manœuvres se retourneront tôt ou tard contre eux sans qu’ils en soient conscients.",
+  "footnotes": "[408] Afin d’égarer les hommes sous leur autorité."
 }

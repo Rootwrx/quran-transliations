@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3882",
-    "sura": "37",
-    "aya": "94",
-    "arabic_text": "فَأَقۡبَلُوٓاْ إِلَيۡهِ يَزِفُّونَ",
-    "translation": "ߊ߬ߟߎ߬ ߞߊߟߌߦߊߡߍߣߍ߲ߕߐ ߣߊ߬ ߘߴߊ߬ ߡߊ߬ ߏ߬ ߘߐ߫ ߡߍ߲ߞߍ߭",
-    "footnotes": ""
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 449,
+  "verse_key": "37:94",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَقۡبَلُوٓاْ إِلَيۡهِ يَزِفُّونَ",
+  "translation": "ߊ߬ߟߎ߬ ߞߊߟߌߦߊߡߍߣߍ߲ߕߐ ߣߊ߬ ߘߴߊ߬ ߡߊ߬ ߏ߬ ߘߐ߫ ߡߍ߲ߞߍ߭",
+  "footnotes": ""
 }

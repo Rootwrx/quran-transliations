@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3548",
-    "sura": "33",
-    "aya": "15",
-    "arabic_text": "وَلَقَدۡ كَانُواْ عَٰهَدُواْ ٱللَّهَ مِن قَبۡلُ لَا يُوَلُّونَ ٱلۡأَدۡبَٰرَۚ وَكَانَ عَهۡدُ ٱللَّهِ مَسۡـُٔولٗا",
-    "translation": "Andolsun ki, onlar daha önce geri dönüp kaçmayacaklarına dair Allah’a söz vermişlerdi. Allah’a verilen söz mesuliyeti gerektirir.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 419,
+  "verse_key": "33:15",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ كَانُواْ عَٰهَدُواْ ٱللَّهَ مِن قَبۡلُ لَا يُوَلُّونَ ٱلۡأَدۡبَٰرَۚ وَكَانَ عَهۡدُ ٱللَّهِ مَسۡـُٔولٗا",
+  "translation": "Andolsun ki, onlar daha önce geri dönüp kaçmayacaklarına dair Allah’a söz vermişlerdi. Allah’a verilen söz mesuliyeti gerektirir.",
+  "footnotes": ""
 }

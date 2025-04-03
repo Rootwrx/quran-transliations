@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3741",
-    "sura": "36",
-    "aya": "36",
-    "arabic_text": "سُبۡحَٰنَ ٱلَّذِي خَلَقَ ٱلۡأَزۡوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلۡأَرۡضُ وَمِنۡ أَنفُسِهِمۡ وَمِمَّا لَا يَعۡلَمُونَ",
-    "translation": "Mímọ́ ni fún Ẹni tí Ó ṣẹ̀dá gbogbo n̄ǹkan ní oríṣiríṣi nínú ohun tí ilẹ̀ ń hù jáde àti nínú ẹ̀mí ara wọn àti nínú ohun tí wọn kò mọ̀.[1]",
-    "footnotes": "1. Zaoj kò pọn dandan kí ó ní ìtúmọ̀ akọ àti abo nìkan. Oríṣiríṣi ni “zaoj”; akọ jẹ́ oríṣi kan, abo jẹ́ oríṣi kan, àwọ̀ jẹ oríṣi kan, èdè jẹ́ oríṣi kan, adùn jẹ́ oríṣi kan àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 442,
+  "verse_key": "36:36",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سُبۡحَٰنَ ٱلَّذِي خَلَقَ ٱلۡأَزۡوَٰجَ كُلَّهَا مِمَّا تُنۢبِتُ ٱلۡأَرۡضُ وَمِنۡ أَنفُسِهِمۡ وَمِمَّا لَا يَعۡلَمُونَ",
+  "translation": "Mímọ́ ni fún Ẹni tí Ó ṣẹ̀dá gbogbo n̄ǹkan ní oríṣiríṣi nínú ohun tí ilẹ̀ ń hù jáde àti nínú ẹ̀mí ara wọn àti nínú ohun tí wọn kò mọ̀.[1]",
+  "footnotes": "1. Zaoj kò pọn dandan kí ó ní ìtúmọ̀ akọ àti abo nìkan. Oríṣiríṣi ni “zaoj”; akọ jẹ́ oríṣi kan, abo jẹ́ oríṣi kan, àwọ̀ jẹ oríṣi kan, èdè jẹ́ oríṣi kan, adùn jẹ́ oríṣi kan àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
 }

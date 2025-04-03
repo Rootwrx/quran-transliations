@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2205",
-    "sura": "18",
-    "aya": "65",
-    "arabic_text": "فَوَجَدَا عَبۡدٗا مِّنۡ عِبَادِنَآ ءَاتَيۡنَٰهُ رَحۡمَةٗ مِّنۡ عِندِنَا وَعَلَّمۡنَٰهُ مِن لَّدُنَّا عِلۡمٗا",
-    "translation": "Onlar (orada) Öz tərəfimizdən mərhəmət bəxş etdiyimiz və elm öyrətdiyimiz qullarımızdan birinə rast gəldilər.",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 301,
+  "verse_key": "18:65",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَجَدَا عَبۡدٗا مِّنۡ عِبَادِنَآ ءَاتَيۡنَٰهُ رَحۡمَةٗ مِّنۡ عِندِنَا وَعَلَّمۡنَٰهُ مِن لَّدُنَّا عِلۡمٗا",
+  "translation": "Onlar (orada) Öz tərəfimizdən mərhəmət bəxş etdiyimiz və elm öyrətdiyimiz qullarımızdan birinə rast gəldilər.",
+  "footnotes": ""
 }

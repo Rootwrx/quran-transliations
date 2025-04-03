@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4488",
-    "sura": "45",
-    "aya": "15",
-    "arabic_text": "مَنۡ عَمِلَ صَٰلِحٗا فَلِنَفۡسِهِۦۖ وَمَنۡ أَسَآءَ فَعَلَيۡهَاۖ ثُمَّ إِلَىٰ رَبِّكُمۡ تُرۡجَعُونَ",
-    "translation": "15. Meqe taamá abe num isi nafsih sabbatah abaah, uma taamá abe num isi nafsik-tu kala, sinaamey sarra sinni Rabbí fan gacsimetton qhiyaamah ayró.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 500,
+  "verse_key": "45:15",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَنۡ عَمِلَ صَٰلِحٗا فَلِنَفۡسِهِۦۖ وَمَنۡ أَسَآءَ فَعَلَيۡهَاۖ ثُمَّ إِلَىٰ رَبِّكُمۡ تُرۡجَعُونَ",
+  "translation": "15. Meqe taamá abe num isi nafsih sabbatah abaah, uma taamá abe num isi nafsik-tu kala, sinaamey sarra sinni Rabbí fan gacsimetton qhiyaamah ayró.",
+  "footnotes": ""
 }

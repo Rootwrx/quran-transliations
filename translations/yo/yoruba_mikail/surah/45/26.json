@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4499",
-    "sura": "45",
-    "aya": "26",
-    "arabic_text": "قُلِ ٱللَّهُ يُحۡيِيكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يَجۡمَعُكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
-    "translation": "Sọ pé: “Allāhu l’Ó ń sọ yín di alààyè. Lẹ́yìn náà, Ó máa sọ yín di òkú. Lẹ́yìn náà, Ó máa ko yín jọ fún Ọjọ́ Àjíǹde, kò sí iyèméjì nínú rẹ̀, ṣùgbọ́n ọ̀pọ̀lọ́pọ̀ ènìyàn ni kò mọ̀.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 501,
+  "verse_key": "45:26",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهُ يُحۡيِيكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يَجۡمَعُكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+  "translation": "Sọ pé: “Allāhu l’Ó ń sọ yín di alààyè. Lẹ́yìn náà, Ó máa sọ yín di òkú. Lẹ́yìn náà, Ó máa ko yín jọ fún Ọjọ́ Àjíǹde, kò sí iyèméjì nínú rẹ̀, ṣùgbọ́n ọ̀pọ̀lọ́pọ̀ ènìyàn ni kò mọ̀.",
+  "footnotes": ""
 }

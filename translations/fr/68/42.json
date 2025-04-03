@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5313",
-    "sura": "68",
-    "aya": "42",
-    "arabic_text": "يَوۡمَ يُكۡشَفُ عَن سَاقٖ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ",
-    "translation": "Le jour où ils affronteront les horreurs [du Jugement]  et où ils seront appelés à la Prosternation mais ils ne le pourront pas.",
-    "footnotes": "[981] Littéralement: le jour où un pied sera découvert; expression désignant l’horreur."
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 565,
+  "verse_key": "68:42",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يُكۡشَفُ عَن سَاقٖ وَيُدۡعَوۡنَ إِلَى ٱلسُّجُودِ فَلَا يَسۡتَطِيعُونَ",
+  "translation": "Le jour où ils affronteront les horreurs [du Jugement]  et où ils seront appelés à la Prosternation mais ils ne le pourront pas.",
+  "footnotes": "[981] Littéralement: le jour où un pied sera découvert; expression désignant l’horreur."
 }

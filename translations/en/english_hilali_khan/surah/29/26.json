@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3366",
-    "sura": "29",
-    "aya": "26",
-    "arabic_text": "۞ فَـَٔامَنَ لَهُۥ لُوطٞۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّيٓۖ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": " 26. So Lût (Lot) believed in him [Ibrâhîm’s (Abraham) Message of Islâmic Monotheism]. He [Ibrâhîm (Abraham)] said: \"I will emigrate for the sake of my Lord. Verily, He is the All-Mighty, the All-Wise.[2]\"",
-    "footnotes": "(V.29:26) See the footnote of (V.9:121)."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 399,
+  "verse_key": "29:26",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ فَـَٔامَنَ لَهُۥ لُوطٞۘ وَقَالَ إِنِّي مُهَاجِرٌ إِلَىٰ رَبِّيٓۖ إِنَّهُۥ هُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": " 26. So Lût (Lot) believed in him [Ibrâhîm’s (Abraham) Message of Islâmic Monotheism]. He [Ibrâhîm (Abraham)] said: \"I will emigrate for the sake of my Lord. Verily, He is the All-Mighty, the All-Wise.[2]\"",
+  "footnotes": "(V.29:26) See the footnote of (V.9:121)."
 }

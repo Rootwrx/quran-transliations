@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5248",
-    "sura": "67",
-    "aya": "7",
-    "arabic_text": "إِذَآ أُلۡقُواْ فِيهَا سَمِعُواْ لَهَا شَهِيقٗا وَهِيَ تَفُورُ",
-    "translation": "Oraya atıldıklarında, onun kaynarken çıkardığı uğultuyu işitirler.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 562,
+  "verse_key": "67:7",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذَآ أُلۡقُواْ فِيهَا سَمِعُواْ لَهَا شَهِيقٗا وَهِيَ تَفُورُ",
+  "translation": "Oraya atıldıklarında, onun kaynarken çıkardığı uğultuyu işitirler.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5402",
-    "sura": "70",
-    "aya": "27",
-    "arabic_text": "وَٱلَّذِينَ هُم مِّنۡ عَذَابِ رَبِّهِم مُّشۡفِقُونَ",
-    "translation": "27. ir tie, kurie bijo savo Viešpaties bausmės.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 569,
+  "verse_key": "70:27",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ هُم مِّنۡ عَذَابِ رَبِّهِم مُّشۡفِقُونَ",
+  "translation": "27. ir tie, kurie bijo savo Viešpaties bausmės.",
+  "footnotes": ""
 }

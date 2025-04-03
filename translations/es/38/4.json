@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3974",
-    "sura": "38",
-    "aya": "4",
-    "arabic_text": "وَعَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡۖ وَقَالَ ٱلۡكَٰفِرُونَ هَٰذَا سَٰحِرٞ كَذَّابٌ",
-    "translation": "4. Se asombran de que les llegue un amonestador[1], y dicen los que se niegan a creer: “Es un hechicero mentiroso.",
-    "footnotes": "[1] El Profeta Mujámmad r."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 453,
+  "verse_key": "38:4",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَجِبُوٓاْ أَن جَآءَهُم مُّنذِرٞ مِّنۡهُمۡۖ وَقَالَ ٱلۡكَٰفِرُونَ هَٰذَا سَٰحِرٞ كَذَّابٌ",
+  "translation": "4. Se asombran de que les llegue un amonestador[1], y dicen los que se niegan a creer: “Es un hechicero mentiroso.",
+  "footnotes": "[1] El Profeta Mujámmad r."
 }

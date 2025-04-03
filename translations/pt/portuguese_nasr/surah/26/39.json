@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2971",
-    "sura": "26",
-    "aya": "39",
-    "arabic_text": "وَقِيلَ لِلنَّاسِ هَلۡ أَنتُم مُّجۡتَمِعُونَ",
-    "translation": "E foi dito aos homens: \"Estareis juntos,",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 368,
+  "verse_key": "26:39",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقِيلَ لِلنَّاسِ هَلۡ أَنتُم مُّجۡتَمِعُونَ",
+  "translation": "E foi dito aos homens: \"Estareis juntos,",
+  "footnotes": ""
 }

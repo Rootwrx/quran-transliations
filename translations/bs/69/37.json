@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5360",
-    "sura": "69",
-    "aya": "37",
-    "arabic_text": "لَّا يَأۡكُلُهُۥٓ إِلَّا ٱلۡخَٰطِـُٔونَ",
-    "translation": "koju će samo nevjernici jesti.\" ",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 568,
+  "verse_key": "69:37",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَأۡكُلُهُۥٓ إِلَّا ٱلۡخَٰطِـُٔونَ",
+  "translation": "koju će samo nevjernici jesti.\" ",
+  "footnotes": ""
 }

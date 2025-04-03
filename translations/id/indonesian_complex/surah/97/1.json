@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6126",
-    "sura": "97",
-    "aya": "1",
-    "arabic_text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
-    "translation": "Sesungguhnya Kami telah menurunkannya (Al-Qur`ān) pada malam kemuliaan1594.",
-    "footnotes": "1594.  \"Malam kemuliaan\" dikenal dalam bahasa Indonesia dengan malam lailatulkadar, yaitu suatu malam yang penuh kemuliaan, kebesaran, karena pada malam itu permulaan turunnya Al-Qur`ān. "
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 598,
+  "verse_key": "97:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+  "translation": "Sesungguhnya Kami telah menurunkannya (Al-Qur`ān) pada malam kemuliaan1594.",
+  "footnotes": "1594.  \"Malam kemuliaan\" dikenal dalam bahasa Indonesia dengan malam lailatulkadar, yaitu suatu malam yang penuh kemuliaan, kebesaran, karena pada malam itu permulaan turunnya Al-Qur`ān. "
 }

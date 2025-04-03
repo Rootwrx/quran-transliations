@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4728",
-    "sura": "51",
-    "aya": "53",
-    "arabic_text": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
-    "translation": "(53) Did they suggest it to them?[1547] Rather, they [themselves] are a transgressing people.",
-    "footnotes": "[1547]- i.e., Did the former disbelievers pass on these words to the Makkans so that they repeat the same expressions?"
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 523,
+  "verse_key": "51:53",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَتَوَاصَوۡاْ بِهِۦۚ بَلۡ هُمۡ قَوۡمٞ طَاغُونَ",
+  "translation": "(53) Did they suggest it to them?[1547] Rather, they [themselves] are a transgressing people.",
+  "footnotes": "[1547]- i.e., Did the former disbelievers pass on these words to the Makkans so that they repeat the same expressions?"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5858",
-    "sura": "83",
-    "aya": "10",
-    "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
-    "translation": "Ole wao siku hiyo kwa wanao kadhibisha!",
-    "footnotes": "Wataangamia wanao kadhibisha siku itapo kuwa kufufuliwa na kuhisabiwa."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 588,
+  "verse_key": "83:10",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+  "translation": "Ole wao siku hiyo kwa wanao kadhibisha!",
+  "footnotes": "Wataangamia wanao kadhibisha siku itapo kuwa kufufuliwa na kuhisabiwa."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5610",
-    "sura": "76",
-    "aya": "19",
-    "arabic_text": "۞ وَيَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ إِذَا رَأَيۡتَهُمۡ حَسِبۡتَهُمۡ لُؤۡلُؤٗا مَّنثُورٗا",
-    "translation": "Na watawazungukia kuwatumikia wavulana wasio pevuka, ukiwaona utawafikiri ni lulu zilizo tawanywa.",
-    "footnotes": "Na watakuwa wanawazunguka vijana ambao hawabadiliki hali yao, kwa furaha na sururi. Ukiwaona wanapo zunguka kwa wepesi na uchangamfu, utawadhania kwa uzuri wao na usafi wa rangi zao, kama lulu zilizo tandazwa mbele yako zinang'ara."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 579,
+  "verse_key": "76:19",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَيَطُوفُ عَلَيۡهِمۡ وِلۡدَٰنٞ مُّخَلَّدُونَ إِذَا رَأَيۡتَهُمۡ حَسِبۡتَهُمۡ لُؤۡلُؤٗا مَّنثُورٗا",
+  "translation": "Na watawazungukia kuwatumikia wavulana wasio pevuka, ukiwaona utawafikiri ni lulu zilizo tawanywa.",
+  "footnotes": "Na watakuwa wanawazunguka vijana ambao hawabadiliki hali yao, kwa furaha na sururi. Ukiwaona wanapo zunguka kwa wepesi na uchangamfu, utawadhania kwa uzuri wao na usafi wa rangi zao, kama lulu zilizo tandazwa mbele yako zinang'ara."
 }

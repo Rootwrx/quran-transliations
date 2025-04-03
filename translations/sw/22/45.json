@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2640",
-    "sura": "22",
-    "aya": "45",
-    "arabic_text": "فَكَأَيِّن مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَا وَهِيَ ظَالِمَةٞ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئۡرٖ مُّعَطَّلَةٖ وَقَصۡرٖ مَّشِيدٍ",
-    "translation": "Miji mingapi tuliiangamiza iliyo kuwa ikidhulumu, ikawa imebaki magofu, na visima vilivyo achwa, na majumba yaliyo kuwa madhubuti?",
-    "footnotes": "Basi tuliwatekeza watu wengi wa miji ambayo waliiamirisha, kwa sababu ya udhalimu wao na kukanusha kwao Mitume wao. Zikawa paa za nyumba zao zimeangukia kuta zake, hazina wakaazi. Kama kwamba jana hazikuwapo. Visima vingapi vilivyo bomoka na maji yake yakapotea, na majumba mangapi madhubuti yaliyo jengwa kwa mawe na saruji na chokaa, yamekuwa magofu hayana wakaazi!"
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 337,
+  "verse_key": "22:45",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَأَيِّن مِّن قَرۡيَةٍ أَهۡلَكۡنَٰهَا وَهِيَ ظَالِمَةٞ فَهِيَ خَاوِيَةٌ عَلَىٰ عُرُوشِهَا وَبِئۡرٖ مُّعَطَّلَةٖ وَقَصۡرٖ مَّشِيدٍ",
+  "translation": "Miji mingapi tuliiangamiza iliyo kuwa ikidhulumu, ikawa imebaki magofu, na visima vilivyo achwa, na majumba yaliyo kuwa madhubuti?",
+  "footnotes": "Basi tuliwatekeza watu wengi wa miji ambayo waliiamirisha, kwa sababu ya udhalimu wao na kukanusha kwao Mitume wao. Zikawa paa za nyumba zao zimeangukia kuta zake, hazina wakaazi. Kama kwamba jana hazikuwapo. Visima vingapi vilivyo bomoka na maji yake yakapotea, na majumba mangapi madhubuti yaliyo jengwa kwa mawe na saruji na chokaa, yamekuwa magofu hayana wakaazi!"
 }

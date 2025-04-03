@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2518",
-    "sura": "21",
-    "aya": "35",
-    "arabic_text": "كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَنَبۡلُوكُم بِٱلشَّرِّ وَٱلۡخَيۡرِ فِتۡنَةٗۖ وَإِلَيۡنَا تُرۡجَعُونَ",
-    "translation": "Ɔkra biara bεka owuo ahwε. Yεde bͻne ne papa nso bεsͻ mo ahwε, na Yεhͻ na mobεsan aba.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 324,
+  "verse_key": "21:35",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلُّ نَفۡسٖ ذَآئِقَةُ ٱلۡمَوۡتِۗ وَنَبۡلُوكُم بِٱلشَّرِّ وَٱلۡخَيۡرِ فِتۡنَةٗۖ وَإِلَيۡنَا تُرۡجَعُونَ",
+  "translation": "Ɔkra biara bεka owuo ahwε. Yεde bͻne ne papa nso bεsͻ mo ahwε, na Yεhͻ na mobεsan aba.",
+  "footnotes": ""
 }

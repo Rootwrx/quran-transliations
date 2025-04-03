@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4823",
-    "sura": "53",
-    "aya": "39",
-    "arabic_text": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
-    "translation": "Na ya kwamba hatapata mtu ila aliyo yafanya mwenyewe?",
-    "footnotes": "Na kwamba mtu hapati ila malipo ya vitendo vyake mwenyewe."
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 527,
+  "verse_key": "53:39",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَن لَّيۡسَ لِلۡإِنسَٰنِ إِلَّا مَا سَعَىٰ",
+  "translation": "Na ya kwamba hatapata mtu ila aliyo yafanya mwenyewe?",
+  "footnotes": "Na kwamba mtu hapati ila malipo ya vitendo vyake mwenyewe."
 }

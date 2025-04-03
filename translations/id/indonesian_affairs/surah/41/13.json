@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4231",
-    "sura": "41",
-    "aya": "13",
-    "arabic_text": "فَإِنۡ أَعۡرَضُواْ فَقُلۡ أَنذَرۡتُكُمۡ صَٰعِقَةٗ مِّثۡلَ صَٰعِقَةِ عَادٖ وَثَمُودَ",
-    "translation": "Jika mereka berpaling maka katakanlah, \"Aku telah memperingatkan kamu akan (bencana) petir seperti petir yang menimpa kaum 'Ād dan kaum Samud.\"",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 478,
+  "verse_key": "41:13",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنۡ أَعۡرَضُواْ فَقُلۡ أَنذَرۡتُكُمۡ صَٰعِقَةٗ مِّثۡلَ صَٰعِقَةِ عَادٖ وَثَمُودَ",
+  "translation": "Jika mereka berpaling maka katakanlah, \"Aku telah memperingatkan kamu akan (bencana) petir seperti petir yang menimpa kaum 'Ād dan kaum Samud.\"",
+  "footnotes": ""
 }

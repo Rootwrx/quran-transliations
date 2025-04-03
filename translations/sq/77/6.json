@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5628",
-    "sura": "77",
-    "aya": "6",
-    "arabic_text": "عُذۡرًا أَوۡ نُذۡرًا",
-    "translation": "si shfajësim apo paralajmërim!",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 580,
+  "verse_key": "77:6",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عُذۡرًا أَوۡ نُذۡرًا",
+  "translation": "si shfajësim apo paralajmërim!",
+  "footnotes": ""
 }

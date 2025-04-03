@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4435",
-    "sura": "44",
-    "aya": "21",
-    "arabic_text": "وَإِن لَّمۡ تُؤۡمِنُواْ لِي فَٱعۡتَزِلُونِ",
-    "translation": "21. Агар менга иймон келтирмасангизлар, у ҳолда мени холи қўйинглар!»",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 497,
+  "verse_key": "44:21",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن لَّمۡ تُؤۡمِنُواْ لِي فَٱعۡتَزِلُونِ",
+  "translation": "21. Агар менга иймон келтирмасангизлар, у ҳолда мени холи қўйинглар!»",
+  "footnotes": ""
 }

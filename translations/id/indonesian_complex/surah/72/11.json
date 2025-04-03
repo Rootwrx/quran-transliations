@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5458",
-    "sura": "72",
-    "aya": "11",
-    "arabic_text": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَۖ كُنَّا طَرَآئِقَ قِدَدٗا",
-    "translation": "Dan sesungguhnya di antara kami ada orang-orang yang saleh dan di antara kami ada (pula) yang tidak demikian halnya.  Adalah kami menempuh jalan yang berbeda-beda.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 572,
+  "verse_key": "72:11",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّا مِنَّا ٱلصَّٰلِحُونَ وَمِنَّا دُونَ ذَٰلِكَۖ كُنَّا طَرَآئِقَ قِدَدٗا",
+  "translation": "Dan sesungguhnya di antara kami ada orang-orang yang saleh dan di antara kami ada (pula) yang tidak demikian halnya.  Adalah kami menempuh jalan yang berbeda-beda.",
+  "footnotes": ""
 }

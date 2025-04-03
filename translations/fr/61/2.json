@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5165",
-    "sura": "61",
-    "aya": "2",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لِمَ تَقُولُونَ مَا لَا تَفۡعَلُونَ",
-    "translation": "Ô vous qui avez cru ! Pourquoi dites-vous ce que vous ne faites pas ?",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 551,
+  "verse_key": "61:2",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لِمَ تَقُولُونَ مَا لَا تَفۡعَلُونَ",
+  "translation": "Ô vous qui avez cru ! Pourquoi dites-vous ce que vous ne faites pas ?",
+  "footnotes": ""
 }

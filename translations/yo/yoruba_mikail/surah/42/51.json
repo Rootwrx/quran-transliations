@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4323",
-    "sura": "42",
-    "aya": "51",
-    "arabic_text": "۞ وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحۡيًا أَوۡ مِن وَرَآيِٕ حِجَابٍ أَوۡ يُرۡسِلَ رَسُولٗا فَيُوحِيَ بِإِذۡنِهِۦ مَا يَشَآءُۚ إِنَّهُۥ عَلِيٌّ حَكِيمٞ",
-    "translation": "Kò lẹ́tọ̀ọ́ fún abara kan pé kí Allāhu bá a sọ̀rọ̀ àfi kí (ọ̀rọ̀ náà) jẹ́ ìmísí (ìṣípayá mímọ́), tàbí kí ó jẹ́ lẹ́yìn gàgá, tàbí kí Ó rán Òjíṣẹ́ kan (tí ó jẹ́ mọlāika) sí i, ó sì máa fi ìmísí jíṣẹ́ fún (abara náà) pẹ̀lú ìyọ̀ǹda (Allāhu). Dájúdájú Ó ga. Ọlọ́gbọ́n sì ni.",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 488,
+  "verse_key": "42:51",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحۡيًا أَوۡ مِن وَرَآيِٕ حِجَابٍ أَوۡ يُرۡسِلَ رَسُولٗا فَيُوحِيَ بِإِذۡنِهِۦ مَا يَشَآءُۚ إِنَّهُۥ عَلِيٌّ حَكِيمٞ",
+  "translation": "Kò lẹ́tọ̀ọ́ fún abara kan pé kí Allāhu bá a sọ̀rọ̀ àfi kí (ọ̀rọ̀ náà) jẹ́ ìmísí (ìṣípayá mímọ́), tàbí kí ó jẹ́ lẹ́yìn gàgá, tàbí kí Ó rán Òjíṣẹ́ kan (tí ó jẹ́ mọlāika) sí i, ó sì máa fi ìmísí jíṣẹ́ fún (abara náà) pẹ̀lú ìyọ̀ǹda (Allāhu). Dájúdájú Ó ga. Ọlọ́gbọ́n sì ni.",
+  "footnotes": ""
 }

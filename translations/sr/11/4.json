@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1477",
-    "sura": "11",
-    "aya": "4",
-    "arabic_text": "إِلَى ٱللَّهِ مَرۡجِعُكُمۡۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
-    "translation": "Аллаху ћете да се вратите, а Он Својом моћи све може да учини!",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 221,
+  "verse_key": "11:4",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَى ٱللَّهِ مَرۡجِعُكُمۡۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+  "translation": "Аллаху ћете да се вратите, а Он Својом моћи све може да учини!",
+  "footnotes": ""
 }

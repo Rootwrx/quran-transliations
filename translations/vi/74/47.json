@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5542",
-    "sura": "74",
-    "aya": "47",
-    "arabic_text": "حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ",
-    "translation": "“Cho tới khi điều kiên định (cái chết) đến với chúng tôi.”",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 576,
+  "verse_key": "74:47",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ أَتَىٰنَا ٱلۡيَقِينُ",
+  "translation": "“Cho tới khi điều kiên định (cái chết) đến với chúng tôi.”",
+  "footnotes": ""
 }

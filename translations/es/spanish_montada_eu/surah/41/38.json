@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4256",
-    "sura": "41",
-    "aya": "38",
-    "arabic_text": "فَإِنِ ٱسۡتَكۡبَرُواْ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيۡلِ وَٱلنَّهَارِ وَهُمۡ لَا يَسۡـَٔمُونَ۩",
-    "translation": "38. Y si se llenan de soberbia (y se niegan a adorarlo, que sepan que) quienes están con su Señor (los ángeles) Lo glorifican día y noche sin cansarse[894] nunca.",
-    "footnotes": "[894]  Ver la nota de la aleya 206 de la sura 7."
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 480,
+  "verse_key": "41:38",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 11,
+  "text": "فَإِنِ ٱسۡتَكۡبَرُواْ فَٱلَّذِينَ عِندَ رَبِّكَ يُسَبِّحُونَ لَهُۥ بِٱلَّيۡلِ وَٱلنَّهَارِ وَهُمۡ لَا يَسۡـَٔمُونَ۩",
+  "translation": "38. Y si se llenan de soberbia (y se niegan a adorarlo, que sepan que) quienes están con su Señor (los ángeles) Lo glorifican día y noche sin cansarse[894] nunca.",
+  "footnotes": "[894]  Ver la nota de la aleya 206 de la sura 7."
 }

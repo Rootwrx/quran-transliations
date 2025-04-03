@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6195",
-    "sura": "106",
-    "aya": "2",
-    "arabic_text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
-    "translation": "(Ìkẹ́ ni sẹ́ láti ọ̀dọ̀ Allāhu) fún wọn láti wà papọ̀ nínú ààbò lórí ìrìn-àjò ní ìgbà òtútù àti ní ìgbà ooru.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 602,
+  "verse_key": "106:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِۦلَٰفِهِمۡ رِحۡلَةَ ٱلشِّتَآءِ وَٱلصَّيۡفِ",
+  "translation": "(Ìkẹ́ ni sẹ́ láti ọ̀dọ̀ Allāhu) fún wọn láti wà papọ̀ nínú ààbò lórí ìrìn-àjò ní ìgbà òtútù àti ní ìgbà ooru.",
+  "footnotes": ""
 }

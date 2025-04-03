@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4223",
-    "sura": "41",
-    "aya": "5",
-    "arabic_text": "وَقَالُواْ قُلُوبُنَا فِيٓ أَكِنَّةٖ مِّمَّا تَدۡعُونَآ إِلَيۡهِ وَفِيٓ ءَاذَانِنَا وَقۡرٞ وَمِنۢ بَيۡنِنَا وَبَيۡنِكَ حِجَابٞ فَٱعۡمَلۡ إِنَّنَا عَٰمِلُونَ",
-    "translation": "Na wakasema: Nyoyo zetu zimo katika vifuniko kwa hayo unayo tuitia, na masikio yetu yana uziwi, na baina yetu na wewe lipo pazia. Basi wewe tenda, nasi tunatenda.",
-    "footnotes": "Na makafiri wakamwambia Mtume s.a.w.: Nyoyo zetu zimo katika vifuniko vizito kwa hayo unayo tuitia yaliyo khusu Tawhidi (Upweke) wa Mwenyezi Mungu. Na masikioni mwetu mna uziwi, basi hayasikii hayo unayo tulingania. Na baina yetu na wewe lipo pazia nene linalo tuzuia kukubali hayo uliyo tuletea. Basi fanya utakalo, na sisi tunafanya tutakalo."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 477,
+  "verse_key": "41:5",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ قُلُوبُنَا فِيٓ أَكِنَّةٖ مِّمَّا تَدۡعُونَآ إِلَيۡهِ وَفِيٓ ءَاذَانِنَا وَقۡرٞ وَمِنۢ بَيۡنِنَا وَبَيۡنِكَ حِجَابٞ فَٱعۡمَلۡ إِنَّنَا عَٰمِلُونَ",
+  "translation": "Na wakasema: Nyoyo zetu zimo katika vifuniko kwa hayo unayo tuitia, na masikio yetu yana uziwi, na baina yetu na wewe lipo pazia. Basi wewe tenda, nasi tunatenda.",
+  "footnotes": "Na makafiri wakamwambia Mtume s.a.w.: Nyoyo zetu zimo katika vifuniko vizito kwa hayo unayo tuitia yaliyo khusu Tawhidi (Upweke) wa Mwenyezi Mungu. Na masikioni mwetu mna uziwi, basi hayasikii hayo unayo tulingania. Na baina yetu na wewe lipo pazia nene linalo tuzuia kukubali hayo uliyo tuletea. Basi fanya utakalo, na sisi tunafanya tutakalo."
 }

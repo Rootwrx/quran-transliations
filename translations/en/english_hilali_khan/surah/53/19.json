@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4803",
-    "sura": "53",
-    "aya": "19",
-    "arabic_text": "أَفَرَءَيۡتُمُ ٱللَّٰتَ وَٱلۡعُزَّىٰ",
-    "translation": " 19. Have you then considered Al-Lât, and Al-‘Uzzâ (two idols of the pagan Arabs)[3]",
-    "footnotes": "(V.53:19) See the footnote (A) of (V.2: 219)."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 526,
+  "verse_key": "53:19",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَرَءَيۡتُمُ ٱللَّٰتَ وَٱلۡعُزَّىٰ",
+  "translation": " 19. Have you then considered Al-Lât, and Al-‘Uzzâ (two idols of the pagan Arabs)[3]",
+  "footnotes": "(V.53:19) See the footnote (A) of (V.2: 219)."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "297",
-    "sura": "3",
-    "aya": "4",
-    "arabic_text": "مِن قَبۡلُ هُدٗى لِّلنَّاسِ وَأَنزَلَ ٱلۡفُرۡقَانَۗ إِنَّ ٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ لَهُمۡ عَذَابٞ شَدِيدٞۗ وَٱللَّهُ عَزِيزٞ ذُو ٱنتِقَامٍ",
-    "translation": "Tẹ́lẹ̀tẹ́lẹ̀ wọ́n jẹ́ ìmọ̀nà fún àwọn ènìyàn.[1] Ó tún sọ ọ̀rọ̀-ìpínyà (ọ̀rọ̀ tó ń ṣèpínyà láààrin òdodo àti irọ́) kalẹ̀.² Dájúdájú àwọn tó ṣàì gbàgbọ́ nínú àwọn āyah Allāhu, ìyà tó le ń bẹ fún wọn. Allāhu sì ni Alágbára, Olùgbẹ̀san.",
-    "footnotes": "1. Gbólóhùn yìí níí ṣepọ̀ pẹ̀lú ìjọ àti àsìkò. 2. Fún àlàyé lórí al-Furƙọ̄n, ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Baƙọrah; 2:53."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 50,
+  "verse_key": "3:4",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِن قَبۡلُ هُدٗى لِّلنَّاسِ وَأَنزَلَ ٱلۡفُرۡقَانَۗ إِنَّ ٱلَّذِينَ كَفَرُواْ بِـَٔايَٰتِ ٱللَّهِ لَهُمۡ عَذَابٞ شَدِيدٞۗ وَٱللَّهُ عَزِيزٞ ذُو ٱنتِقَامٍ",
+  "translation": "Tẹ́lẹ̀tẹ́lẹ̀ wọ́n jẹ́ ìmọ̀nà fún àwọn ènìyàn.[1] Ó tún sọ ọ̀rọ̀-ìpínyà (ọ̀rọ̀ tó ń ṣèpínyà láààrin òdodo àti irọ́) kalẹ̀.² Dájúdájú àwọn tó ṣàì gbàgbọ́ nínú àwọn āyah Allāhu, ìyà tó le ń bẹ fún wọn. Allāhu sì ni Alágbára, Olùgbẹ̀san.",
+  "footnotes": "1. Gbólóhùn yìí níí ṣepọ̀ pẹ̀lú ìjọ àti àsìkò. 2. Fún àlàyé lórí al-Furƙọ̄n, ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Baƙọrah; 2:53."
 }

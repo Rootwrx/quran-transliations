@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "937",
-    "sura": "6",
-    "aya": "148",
-    "arabic_text": "سَيَقُولُ ٱلَّذِينَ أَشۡرَكُواْ لَوۡ شَآءَ ٱللَّهُ مَآ أَشۡرَكۡنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمۡنَا مِن شَيۡءٖۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ حَتَّىٰ ذَاقُواْ بَأۡسَنَاۗ قُلۡ هَلۡ عِندَكُم مِّنۡ عِلۡمٖ فَتُخۡرِجُوهُ لَنَآۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ أَنتُمۡ إِلَّا تَخۡرُصُونَ",
-    "translation": "148. Koroositeh yan mari Yalli faxinnay Yallat agleytit nanu haak mananninooy Ni-Abbobti haak mananna, nanu hebeltohim carammoysak manannino axcelon, tama koros koo kah dirabbossa innah keenik duma sugte koros sinni farmoytit dirabbosseh Ni-digaala keenil obbuuy tet tammossu haanam fanah, Nabiyow tama lac kee Buqrek carammosseenim kee koroosannu Yalli neh faxe kak ittaanal ixxigay neh tayyaaqeeniih taybulleeni maay liton? Isin tamahal akkalak sa katattaanam mantoonuuy isin diraabak-sa taceenim mantoonu keenik ixxic.",
-    "footnotes": ""
-  }
+  "id": 148,
+  "verse_number": 148,
+  "page_number": 148,
+  "verse_key": "6:148",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 59,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَقُولُ ٱلَّذِينَ أَشۡرَكُواْ لَوۡ شَآءَ ٱللَّهُ مَآ أَشۡرَكۡنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمۡنَا مِن شَيۡءٖۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ حَتَّىٰ ذَاقُواْ بَأۡسَنَاۗ قُلۡ هَلۡ عِندَكُم مِّنۡ عِلۡمٖ فَتُخۡرِجُوهُ لَنَآۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ أَنتُمۡ إِلَّا تَخۡرُصُونَ",
+  "translation": "148. Koroositeh yan mari Yalli faxinnay Yallat agleytit nanu haak mananninooy Ni-Abbobti haak mananna, nanu hebeltohim carammoysak manannino axcelon, tama koros koo kah dirabbossa innah keenik duma sugte koros sinni farmoytit dirabbosseh Ni-digaala keenil obbuuy tet tammossu haanam fanah, Nabiyow tama lac kee Buqrek carammosseenim kee koroosannu Yalli neh faxe kak ittaanal ixxigay neh tayyaaqeeniih taybulleeni maay liton? Isin tamahal akkalak sa katattaanam mantoonuuy isin diraabak-sa taceenim mantoonu keenik ixxic.",
+  "footnotes": ""
 }

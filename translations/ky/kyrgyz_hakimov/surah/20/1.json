@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2349",
-    "sura": "20",
-    "aya": "1",
-    "arabic_text": "طه",
-    "translation": "Таа – хаа.[1]",
-    "footnotes": "[1] Бакара сүрөсүнүн 1-аятын караңыз."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 312,
+  "verse_key": "20:1",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "طه",
+  "translation": "Таа – хаа.[1]",
+  "footnotes": "[1] Бакара сүрөсүнүн 1-аятын караңыз."
 }

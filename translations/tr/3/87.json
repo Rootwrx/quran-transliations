@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "380",
-    "sura": "3",
-    "aya": "87",
-    "arabic_text": "أُوْلَٰٓئِكَ جَزَآؤُهُمۡ أَنَّ عَلَيۡهِمۡ لَعۡنَةَ ٱللَّهِ وَٱلۡمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجۡمَعِينَ",
-    "translation": "İşte onların cezası, Allah’ın meleklerin ve bütün insanların lanetinin üzerlerine olmasıdır.",
-    "footnotes": ""
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 61,
+  "verse_key": "3:87",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ جَزَآؤُهُمۡ أَنَّ عَلَيۡهِمۡ لَعۡنَةَ ٱللَّهِ وَٱلۡمَلَٰٓئِكَةِ وَٱلنَّاسِ أَجۡمَعِينَ",
+  "translation": "İşte onların cezası, Allah’ın meleklerin ve bütün insanların lanetinin üzerlerine olmasıdır.",
+  "footnotes": ""
 }

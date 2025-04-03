@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2747",
-    "sura": "23",
-    "aya": "74",
-    "arabic_text": "وَإِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ عَنِ ٱلصِّرَٰطِ لَنَٰكِبُونَ",
-    "translation": "Or, ceux qui ne croient pas à l’au-delà sont bien écartés de ce chemin.",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 346,
+  "verse_key": "23:74",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ عَنِ ٱلصِّرَٰطِ لَنَٰكِبُونَ",
+  "translation": "Or, ceux qui ne croient pas à l’au-delà sont bien écartés de ce chemin.",
+  "footnotes": ""
 }

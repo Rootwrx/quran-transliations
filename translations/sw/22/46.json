@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2641",
-    "sura": "22",
-    "aya": "46",
-    "arabic_text": "أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَتَكُونَ لَهُمۡ قُلُوبٞ يَعۡقِلُونَ بِهَآ أَوۡ ءَاذَانٞ يَسۡمَعُونَ بِهَاۖ فَإِنَّهَا لَا تَعۡمَى ٱلۡأَبۡصَٰرُ وَلَٰكِن تَعۡمَى ٱلۡقُلُوبُ ٱلَّتِي فِي ٱلصُّدُورِ",
-    "translation": "Je! Hawatembei katika ardhi ili wapate kuwa na nyoyo zao za kuzingatia, au masikio ya kusikilia? Kwani hakika si macho yanayo pofuka, lakini zinazo pofuka ni nyoyo ziliomo vifuani.",
-    "footnotes": "Hivyo wao wanasema wayasemayo na wanahimiza waletewe adhabu, nao hawatembei ulimwenguni wakaona kwa macho yao walivyo teketea hao madhaalimu wakanushao? Huenda hapo nyoyo zao zikagutuka kutokana na ghafla iliyo wapamba, na wakatia akilini yanao wapasa wakafuata hayo ya wito wa Haki unao waitia. Na masikio yao yakisikia vifo vya hao makafiri huenda wao wakazingatia. Lakini wapi! Ya mbali hayo kuwa watu hawa waweze kuzingatia kwa wanayo yaona au kuyasikia maadamu nyoyo zao zimekuwa kama mawe. Kwani kipofu wa kweli siye yule aliye pofuka macho, lakini ni yule aliye pofuka moyo na hatambui kitu."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 337,
+  "verse_key": "22:46",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَلَمۡ يَسِيرُواْ فِي ٱلۡأَرۡضِ فَتَكُونَ لَهُمۡ قُلُوبٞ يَعۡقِلُونَ بِهَآ أَوۡ ءَاذَانٞ يَسۡمَعُونَ بِهَاۖ فَإِنَّهَا لَا تَعۡمَى ٱلۡأَبۡصَٰرُ وَلَٰكِن تَعۡمَى ٱلۡقُلُوبُ ٱلَّتِي فِي ٱلصُّدُورِ",
+  "translation": "Je! Hawatembei katika ardhi ili wapate kuwa na nyoyo zao za kuzingatia, au masikio ya kusikilia? Kwani hakika si macho yanayo pofuka, lakini zinazo pofuka ni nyoyo ziliomo vifuani.",
+  "footnotes": "Hivyo wao wanasema wayasemayo na wanahimiza waletewe adhabu, nao hawatembei ulimwenguni wakaona kwa macho yao walivyo teketea hao madhaalimu wakanushao? Huenda hapo nyoyo zao zikagutuka kutokana na ghafla iliyo wapamba, na wakatia akilini yanao wapasa wakafuata hayo ya wito wa Haki unao waitia. Na masikio yao yakisikia vifo vya hao makafiri huenda wao wakazingatia. Lakini wapi! Ya mbali hayo kuwa watu hawa waweze kuzingatia kwa wanayo yaona au kuyasikia maadamu nyoyo zao zimekuwa kama mawe. Kwani kipofu wa kweli siye yule aliye pofuka macho, lakini ni yule aliye pofuka moyo na hatambui kitu."
 }

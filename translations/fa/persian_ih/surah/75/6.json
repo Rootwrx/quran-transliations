@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5557",
-    "sura": "75",
-    "aya": "6",
-    "arabic_text": "يَسۡـَٔلُ أَيَّانَ يَوۡمُ ٱلۡقِيَٰمَةِ",
-    "translation": "[از این رو] می‌پرسد: «روز قیامت کی خواهد بود؟»",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 577,
+  "verse_key": "75:6",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَسۡـَٔلُ أَيَّانَ يَوۡمُ ٱلۡقِيَٰمَةِ",
+  "translation": "[از این رو] می‌پرسد: «روز قیامت کی خواهد بود؟»",
+  "footnotes": ""
 }

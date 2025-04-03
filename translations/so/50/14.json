@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4644",
-    "sura": "50",
-    "aya": "14",
-    "arabic_text": "وَأَصۡحَٰبُ ٱلۡأَيۡكَةِ وَقَوۡمُ تُبَّعٖۚ كُلّٞ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
-    "translation": "14. Iyo reer hawdkii (loo diray Nabi Shucayb) iyo qolodii Tubbac (ee Yaman); dhammaan waxay beeniyeen Rususha, waxaana ku dhacay gooddigeyga.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 518,
+  "verse_key": "50:14",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَصۡحَٰبُ ٱلۡأَيۡكَةِ وَقَوۡمُ تُبَّعٖۚ كُلّٞ كَذَّبَ ٱلرُّسُلَ فَحَقَّ وَعِيدِ",
+  "translation": "14. Iyo reer hawdkii (loo diray Nabi Shucayb) iyo qolodii Tubbac (ee Yaman); dhammaan waxay beeniyeen Rususha, waxaana ku dhacay gooddigeyga.",
+  "footnotes": ""
 }

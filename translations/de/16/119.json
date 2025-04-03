@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2020",
-    "sura": "16",
-    "aya": "119",
-    "arabic_text": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُواْ ٱلسُّوٓءَ بِجَهَٰلَةٖ ثُمَّ تَابُواْ مِنۢ بَعۡدِ ذَٰلِكَ وَأَصۡلَحُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٌ",
-    "translation": "Hierauf wird dein Herr zu denjenigen, die in Unwissenheit Böses tun, aber nach alledem bereuen und (es) wieder gutmachen - gewiß, dein Herr wird danach (zu ihnen) wahrlich Allvergebend und Barmherzig sein.",
-    "footnotes": null
-  }
+  "id": 119,
+  "verse_number": 119,
+  "page_number": 281,
+  "verse_key": "16:119",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ إِنَّ رَبَّكَ لِلَّذِينَ عَمِلُواْ ٱلسُّوٓءَ بِجَهَٰلَةٖ ثُمَّ تَابُواْ مِنۢ بَعۡدِ ذَٰلِكَ وَأَصۡلَحُوٓاْ إِنَّ رَبَّكَ مِنۢ بَعۡدِهَا لَغَفُورٞ رَّحِيمٌ",
+  "translation": "Hierauf wird dein Herr zu denjenigen, die in Unwissenheit Böses tun, aber nach alledem bereuen und (es) wieder gutmachen - gewiß, dein Herr wird danach (zu ihnen) wahrlich Allvergebend und Barmherzig sein.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3148",
-    "sura": "26",
-    "aya": "216",
-    "arabic_text": "فَإِنۡ عَصَوۡكَ فَقُلۡ إِنِّي بَرِيٓءٞ مِّمَّا تَعۡمَلُونَ",
-    "translation": "如果你的亲戚违抗你，你应当说：“我对于你们的行为确是无干的。”",
-    "footnotes": ""
-  }
+  "id": 216,
+  "verse_number": 216,
+  "page_number": 376,
+  "verse_key": "26:216",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنۡ عَصَوۡكَ فَقُلۡ إِنِّي بَرِيٓءٞ مِّمَّا تَعۡمَلُونَ",
+  "translation": "如果你的亲戚违抗你，你应当说：“我对于你们的行为确是无干的。”",
+  "footnotes": ""
 }

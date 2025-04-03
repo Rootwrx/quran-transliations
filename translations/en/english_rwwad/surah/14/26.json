@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1776",
-    "sura": "14",
-    "aya": "26",
-    "arabic_text": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٖ كَشَجَرَةٍ خَبِيثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارٖ",
-    "translation": "But an evil word[16] is like an evil tree[17], uprooted from the surface of the earth, having no stability.",
-    "footnotes": "[16] i.e., the word of disbelief and polytheism.\n [17] i.e., the tree of colocynth; it has no stable root and its stalks are so feeble; such is disbelief which is shaky in the heart, and their deeds are not raised to benefit them in the Hereafter."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 259,
+  "verse_key": "14:26",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٖ كَشَجَرَةٍ خَبِيثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارٖ",
+  "translation": "But an evil word[16] is like an evil tree[17], uprooted from the surface of the earth, having no stability.",
+  "footnotes": "[16] i.e., the word of disbelief and polytheism.\n [17] i.e., the tree of colocynth; it has no stable root and its stalks are so feeble; such is disbelief which is shaky in the heart, and their deeds are not raised to benefit them in the Hereafter."
 }

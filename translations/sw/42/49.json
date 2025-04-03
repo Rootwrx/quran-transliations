@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4321",
-    "sura": "42",
-    "aya": "49",
-    "arabic_text": "لِّلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ يَخۡلُقُ مَا يَشَآءُۚ يَهَبُ لِمَن يَشَآءُ إِنَٰثٗا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ",
-    "translation": "Ufalme wa mbingu na ardhi ni wa Mwenyezi Mungu; anaumba apendavyo, anamtunukia amtakaye watoto wa kike, na anamtunukia amtakaye watoto wa kiume,",
-    "footnotes": "Ni wa Mwenyezi Mungu peke yake Ufalme wa mbingu na ardhi, kwa kuumba, kuudabiri, na kuusarifu. Yeye anaumba atakacho. Humtunukia amtakaye wana wa kike, na akamtunukia amtakaye wana wanaume bila ya wanawake."
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 488,
+  "verse_key": "42:49",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ يَخۡلُقُ مَا يَشَآءُۚ يَهَبُ لِمَن يَشَآءُ إِنَٰثٗا وَيَهَبُ لِمَن يَشَآءُ ٱلذُّكُورَ",
+  "translation": "Ufalme wa mbingu na ardhi ni wa Mwenyezi Mungu; anaumba apendavyo, anamtunukia amtakaye watoto wa kike, na anamtunukia amtakaye watoto wa kiume,",
+  "footnotes": "Ni wa Mwenyezi Mungu peke yake Ufalme wa mbingu na ardhi, kwa kuumba, kuudabiri, na kuusarifu. Yeye anaumba atakacho. Humtunukia amtakaye wana wa kike, na akamtunukia amtakaye wana wanaume bila ya wanawake."
 }

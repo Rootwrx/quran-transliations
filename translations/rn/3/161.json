@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "454",
-    "sura": "3",
-    "aya": "161",
-    "arabic_text": "وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّۚ وَمَن يَغۡلُلۡ يَأۡتِ بِمَا غَلَّ يَوۡمَ ٱلۡقِيَٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
-    "translation": "Ngendanyi z’intumwa! Nta ho vyakabaye ko Umuvugishwamana ahemukira ingendanyi ziwe mu kwiha na kimwe mu minyago, kiretse ico yagenewe n’Imana Allah. Uwo wese rero muri mwebwe yohemuka akiha na kimwe mu minyago, azoza ku musi w’izuka acikoreye ku guteterezwa imbere y’ibiremwa vyose. Hanyuma ikiremwa cose gifise ubuzima kizotunganirizwa ku ndishi y’ivyo carondeye. Abantu rero ntibazonarenganywa mu kurenza urugero rw’ibihano canke mu kugabanywa indishi.",
-    "footnotes": ""
-  }
+  "id": 161,
+  "verse_number": 161,
+  "page_number": 71,
+  "verse_key": "3:161",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا كَانَ لِنَبِيٍّ أَن يَغُلَّۚ وَمَن يَغۡلُلۡ يَأۡتِ بِمَا غَلَّ يَوۡمَ ٱلۡقِيَٰمَةِۚ ثُمَّ تُوَفَّىٰ كُلُّ نَفۡسٖ مَّا كَسَبَتۡ وَهُمۡ لَا يُظۡلَمُونَ",
+  "translation": "Ngendanyi z’intumwa! Nta ho vyakabaye ko Umuvugishwamana ahemukira ingendanyi ziwe mu kwiha na kimwe mu minyago, kiretse ico yagenewe n’Imana Allah. Uwo wese rero muri mwebwe yohemuka akiha na kimwe mu minyago, azoza ku musi w’izuka acikoreye ku guteterezwa imbere y’ibiremwa vyose. Hanyuma ikiremwa cose gifise ubuzima kizotunganirizwa ku ndishi y’ivyo carondeye. Abantu rero ntibazonarenganywa mu kurenza urugero rw’ibihano canke mu kugabanywa indishi.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1704",
-    "sura": "12",
-    "aya": "108",
-    "arabic_text": "قُلۡ هَٰذِهِۦ سَبِيلِيٓ أَدۡعُوٓاْ إِلَى ٱللَّهِۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِيۖ وَسُبۡحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلۡمُشۡرِكِينَ",
-    "translation": "De ki: Bu, benim yolumdur, ben ve bana uyanlar basiretle Allah’a davet ederiz. Allah’ı tesbih ederim. Ben asla müşriklerden değilim. ",
-    "footnotes": null
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 248,
+  "verse_key": "12:108",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هَٰذِهِۦ سَبِيلِيٓ أَدۡعُوٓاْ إِلَى ٱللَّهِۚ عَلَىٰ بَصِيرَةٍ أَنَا۠ وَمَنِ ٱتَّبَعَنِيۖ وَسُبۡحَٰنَ ٱللَّهِ وَمَآ أَنَا۠ مِنَ ٱلۡمُشۡرِكِينَ",
+  "translation": "De ki: Bu, benim yolumdur, ben ve bana uyanlar basiretle Allah’a davet ederiz. Allah’ı tesbih ederim. Ben asla müşriklerden değilim. ",
+  "footnotes": null
 }

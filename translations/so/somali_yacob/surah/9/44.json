@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1279",
-    "sura": "9",
-    "aya": "44",
-    "arabic_text": "لَا يَسۡتَـٔۡذِنُكَ ٱلَّذِينَ يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ أَن يُجَٰهِدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡۗ وَٱللَّهُ عَلِيمُۢ بِٱلۡمُتَّقِينَ",
-    "translation": "44. Kaama idan qaataan kuwa rumeysan Alle iyo Maalinta Aakhiro, si looga dhaafo inay ku jihaadaan maalkooda iyo nafahooda. Alle waa og yahay kuwa iska jira (xumaha oo dhowra Amarradiisa).",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 194,
+  "verse_key": "9:44",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا يَسۡتَـٔۡذِنُكَ ٱلَّذِينَ يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ أَن يُجَٰهِدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡۗ وَٱللَّهُ عَلِيمُۢ بِٱلۡمُتَّقِينَ",
+  "translation": "44. Kaama idan qaataan kuwa rumeysan Alle iyo Maalinta Aakhiro, si looga dhaafo inay ku jihaadaan maalkooda iyo nafahooda. Alle waa og yahay kuwa iska jira (xumaha oo dhowra Amarradiisa).",
+  "footnotes": ""
 }

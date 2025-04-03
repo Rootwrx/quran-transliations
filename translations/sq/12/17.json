@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1613",
-    "sura": "12",
-    "aya": "17",
-    "arabic_text": "قَالُواْ يَٰٓأَبَانَآ إِنَّا ذَهَبۡنَا نَسۡتَبِقُ وَتَرَكۡنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئۡبُۖ وَمَآ أَنتَ بِمُؤۡمِنٖ لَّنَا وَلَوۡ كُنَّا صَٰدِقِينَ",
-    "translation": "Thanë: “O babai ynë, ne shkuam të vrapojmë e Jusufin e lamë te rrobat tona, andaj e hëngri ujku. Por ti nuk na beson, edhe pse themi të vërtetën”.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 237,
+  "verse_key": "12:17",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰٓأَبَانَآ إِنَّا ذَهَبۡنَا نَسۡتَبِقُ وَتَرَكۡنَا يُوسُفَ عِندَ مَتَٰعِنَا فَأَكَلَهُ ٱلذِّئۡبُۖ وَمَآ أَنتَ بِمُؤۡمِنٖ لَّنَا وَلَوۡ كُنَّا صَٰدِقِينَ",
+  "translation": "Thanë: “O babai ynë, ne shkuam të vrapojmë e Jusufin e lamë te rrobat tona, andaj e hëngri ujku. Por ti nuk na beson, edhe pse themi të vërtetën”.",
+  "footnotes": ""
 }

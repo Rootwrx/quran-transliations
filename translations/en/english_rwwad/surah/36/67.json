@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3772",
-    "sura": "36",
-    "aya": "67",
-    "arabic_text": "وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ مُضِيّٗا وَلَا يَرۡجِعُونَ",
-    "translation": "And if We willed, We could have paralyzed them in their places[18], so they could neither move forward nor backward.",
-    "footnotes": "[18] i.e., We could turn them into inanimate objects."
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 444,
+  "verse_key": "36:67",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ مُضِيّٗا وَلَا يَرۡجِعُونَ",
+  "translation": "And if We willed, We could have paralyzed them in their places[18], so they could neither move forward nor backward.",
+  "footnotes": "[18] i.e., We could turn them into inanimate objects."
 }

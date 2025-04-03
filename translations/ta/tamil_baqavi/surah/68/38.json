@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5309",
-    "sura": "68",
-    "aya": "38",
-    "arabic_text": "إِنَّ لَكُمۡ فِيهِ لَمَا تَخَيَّرُونَ",
-    "translation": "38. நீங்கள் விரும்பியதெல்லாம் நிச்சயமாக உங்களுக்குக் கிடைக்குமென்று அதில் இருக்கிறதா?",
-    "footnotes": null
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 565,
+  "verse_key": "68:38",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ لَكُمۡ فِيهِ لَمَا تَخَيَّرُونَ",
+  "translation": "38. நீங்கள் விரும்பியதெல்லாம் நிச்சயமாக உங்களுக்குக் கிடைக்குமென்று அதில் இருக்கிறதா?",
+  "footnotes": null
 }

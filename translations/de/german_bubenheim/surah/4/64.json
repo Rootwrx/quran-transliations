@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "557",
-    "sura": "4",
-    "aya": "64",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا",
-    "translation": "Und Wir haben keinen Gesandten gesandt, ohne daß ihm - mit Allahs Erlaubnis - gehorcht werde. Und wenn sie, wo sie sich selbst Unrecht zugefügt haben, zu dir kämen und dann Allah um Vergebung bäten, und der Gesandte für sie um Vergebung bäte, würden sie wahrlich Allah Reue-Annehmend und Barmherzig finden.",
-    "footnotes": null
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 88,
+  "verse_key": "4:64",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا مِن رَّسُولٍ إِلَّا لِيُطَاعَ بِإِذۡنِ ٱللَّهِۚ وَلَوۡ أَنَّهُمۡ إِذ ظَّلَمُوٓاْ أَنفُسَهُمۡ جَآءُوكَ فَٱسۡتَغۡفَرُواْ ٱللَّهَ وَٱسۡتَغۡفَرَ لَهُمُ ٱلرَّسُولُ لَوَجَدُواْ ٱللَّهَ تَوَّابٗا رَّحِيمٗا",
+  "translation": "Und Wir haben keinen Gesandten gesandt, ohne daß ihm - mit Allahs Erlaubnis - gehorcht werde. Und wenn sie, wo sie sich selbst Unrecht zugefügt haben, zu dir kämen und dann Allah um Vergebung bäten, und der Gesandte für sie um Vergebung bäte, würden sie wahrlich Allah Reue-Annehmend und Barmherzig finden.",
+  "footnotes": null
 }

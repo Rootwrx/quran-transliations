@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2033",
-    "sura": "17",
-    "aya": "4",
-    "arabic_text": "وَقَضَيۡنَآ إِلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ فِي ٱلۡكِتَٰبِ لَتُفۡسِدُنَّ فِي ٱلۡأَرۡضِ مَرَّتَيۡنِ وَلَتَعۡلُنَّ عُلُوّٗا كَبِيرٗا",
-    "translation": "4. He revelado en el Libro lo que decreté para el pueblo de Israel: “Corromperán la Tierra dos veces y se convertirán en tiranos soberbios.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 282,
+  "verse_key": "17:4",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَضَيۡنَآ إِلَىٰ بَنِيٓ إِسۡرَٰٓءِيلَ فِي ٱلۡكِتَٰبِ لَتُفۡسِدُنَّ فِي ٱلۡأَرۡضِ مَرَّتَيۡنِ وَلَتَعۡلُنَّ عُلُوّٗا كَبِيرٗا",
+  "translation": "4. He revelado en el Libro lo que decreté para el pueblo de Israel: “Corromperán la Tierra dos veces y se convertirán en tiranos soberbios.",
+  "footnotes": ""
 }

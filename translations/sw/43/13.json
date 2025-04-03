@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4338",
-    "sura": "43",
-    "aya": "13",
-    "arabic_text": "لِتَسۡتَوُۥاْ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذۡكُرُواْ نِعۡمَةَ رَبِّكُمۡ إِذَا ٱسۡتَوَيۡتُمۡ عَلَيۡهِ وَتَقُولُواْ سُبۡحَٰنَ ٱلَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقۡرِنِينَ",
-    "translation": "Ili mkae vizuri migongoni mwao, kisha mkumbuke neema za Mola wenu Mlezi mnapokaa sawa sawa juu yao na mseme: Ametakasika aliye mfanya huyu atutumikie, na tusingeli weza kufanya haya wenyewe.",
-    "footnotes": "Ili mtulie juu yao, kisha mkumbuke neema za Muumba wenu na Mlezi wenu kwa kuvifanya hivyo vikutumikieni mnapo tulia juu yao, na kwa kuadhimisha kule kuvifanya vinyonge kwa njia ya ajabu, na kutambua uweza mlio wezeshwa kuvidhibiti na kuvitawala, mseme: Subhana, Ametakasika aliye mfanya huyu (au hichi) kuwa dhalili kututumikia na sisi wenyewe tusingeli weza kumdhalilisha."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 490,
+  "verse_key": "43:13",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِتَسۡتَوُۥاْ عَلَىٰ ظُهُورِهِۦ ثُمَّ تَذۡكُرُواْ نِعۡمَةَ رَبِّكُمۡ إِذَا ٱسۡتَوَيۡتُمۡ عَلَيۡهِ وَتَقُولُواْ سُبۡحَٰنَ ٱلَّذِي سَخَّرَ لَنَا هَٰذَا وَمَا كُنَّا لَهُۥ مُقۡرِنِينَ",
+  "translation": "Ili mkae vizuri migongoni mwao, kisha mkumbuke neema za Mola wenu Mlezi mnapokaa sawa sawa juu yao na mseme: Ametakasika aliye mfanya huyu atutumikie, na tusingeli weza kufanya haya wenyewe.",
+  "footnotes": "Ili mtulie juu yao, kisha mkumbuke neema za Muumba wenu na Mlezi wenu kwa kuvifanya hivyo vikutumikieni mnapo tulia juu yao, na kwa kuadhimisha kule kuvifanya vinyonge kwa njia ya ajabu, na kutambua uweza mlio wezeshwa kuvidhibiti na kuvitawala, mseme: Subhana, Ametakasika aliye mfanya huyu (au hichi) kuwa dhalili kututumikia na sisi wenyewe tusingeli weza kumdhalilisha."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "948",
-    "sura": "6",
-    "aya": "159",
-    "arabic_text": "إِنَّ ٱلَّذِينَ فَرَّقُواْ دِينَهُمۡ وَكَانُواْ شِيَعٗا لَّسۡتَ مِنۡهُمۡ فِي شَيۡءٍۚ إِنَّمَآ أَمۡرُهُمۡ إِلَى ٱللَّهِ ثُمَّ يُنَبِّئُهُم بِمَا كَانُواْ يَفۡعَلُونَ",
-    "translation": "159. Iš tiesų, tie, kurie dalina savo tikėjimą ir skyla į grupes (visų rūšių religines sektas), tu (Muchammedai ﷺ ) neturi dėl jų nė menkiausio rūpesčio. Jų reikalai yra tik su Allahu, Kuris tada pasakys jiems, ką jie darydavo.",
-    "footnotes": ""
-  }
+  "id": 159,
+  "verse_number": 159,
+  "page_number": 150,
+  "verse_key": "6:159",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ فَرَّقُواْ دِينَهُمۡ وَكَانُواْ شِيَعٗا لَّسۡتَ مِنۡهُمۡ فِي شَيۡءٍۚ إِنَّمَآ أَمۡرُهُمۡ إِلَى ٱللَّهِ ثُمَّ يُنَبِّئُهُم بِمَا كَانُواْ يَفۡعَلُونَ",
+  "translation": "159. Iš tiesų, tie, kurie dalina savo tikėjimą ir skyla į grupes (visų rūšių religines sektas), tu (Muchammedai ﷺ ) neturi dėl jų nė menkiausio rūpesčio. Jų reikalai yra tik su Allahu, Kuris tada pasakys jiems, ką jie darydavo.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5275",
-    "sura": "68",
-    "aya": "4",
-    "arabic_text": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٖ",
-    "translation": "Na hakika wewe una tabia tukufu.",
-    "footnotes": "Na hakika wewe bila ya shaka umeshikamana na sifa nzuri kabisa na vitendo vizuri kabisa alivyo kuumba navyo Mwenyezi Mungu."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 564,
+  "verse_key": "68:4",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّكَ لَعَلَىٰ خُلُقٍ عَظِيمٖ",
+  "translation": "Na hakika wewe una tabia tukufu.",
+  "footnotes": "Na hakika wewe bila ya shaka umeshikamana na sifa nzuri kabisa na vitendo vizuri kabisa alivyo kuumba navyo Mwenyezi Mungu."
 }

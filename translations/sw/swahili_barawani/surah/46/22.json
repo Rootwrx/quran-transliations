@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4532",
-    "sura": "46",
-    "aya": "22",
-    "arabic_text": "قَالُوٓاْ أَجِئۡتَنَا لِتَأۡفِكَنَا عَنۡ ءَالِهَتِنَا فَأۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
-    "translation": "Wakasema: Je! Umetujia ili ututenge mbali na miungu yetu? Basi tuletee hayo unayo tuahidi ikiwa wewe ni miongoni mwa wasemao kweli.",
-    "footnotes": "Kaumu ya Hud walisema kwa kumkanya: Hivyo ndio umetujia ili utuachishe kuwaabudu miungu yetu? Basi tuletee hiyo adhabu ikiwa wewe hakika ni mwenye kusema kweli kwa ahadi hiyo."
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 505,
+  "verse_key": "46:22",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَجِئۡتَنَا لِتَأۡفِكَنَا عَنۡ ءَالِهَتِنَا فَأۡتِنَا بِمَا تَعِدُنَآ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+  "translation": "Wakasema: Je! Umetujia ili ututenge mbali na miungu yetu? Basi tuletee hayo unayo tuahidi ikiwa wewe ni miongoni mwa wasemao kweli.",
+  "footnotes": "Kaumu ya Hud walisema kwa kumkanya: Hivyo ndio umetujia ili utuachishe kuwaabudu miungu yetu? Basi tuletee hiyo adhabu ikiwa wewe hakika ni mwenye kusema kweli kwa ahadi hiyo."
 }

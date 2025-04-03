@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "735",
-    "sura": "5",
-    "aya": "66",
-    "arabic_text": "وَلَوۡ أَنَّهُمۡ أَقَامُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡهِم مِّن رَّبِّهِمۡ لَأَكَلُواْ مِن فَوۡقِهِمۡ وَمِن تَحۡتِ أَرۡجُلِهِمۚ مِّنۡهُمۡ أُمَّةٞ مُّقۡتَصِدَةٞۖ وَكَثِيرٞ مِّنۡهُمۡ سَآءَ مَا يَعۡمَلُونَ",
-    "translation": "Eğer onlar Tevrat'ı, İncil’i ve Rablerinden onlara indirileni (Kur'an’ı) doğru dürüst uygulasalardı, şüphesiz hem üstlerinden, hem de ayaklarının altından yerlerdi (yeraltı ve yerüstü servetlerinden istifade ederek refah içinde yaşarlardı). Onlardan aşırılığa kaçmayan (iktisatlı, mutedil) bir zümre vardır; fakat çoğunun yaptıkları ne kötüdür!",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 119,
+  "verse_key": "5:66",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 47,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ أَنَّهُمۡ أَقَامُواْ ٱلتَّوۡرَىٰةَ وَٱلۡإِنجِيلَ وَمَآ أُنزِلَ إِلَيۡهِم مِّن رَّبِّهِمۡ لَأَكَلُواْ مِن فَوۡقِهِمۡ وَمِن تَحۡتِ أَرۡجُلِهِمۚ مِّنۡهُمۡ أُمَّةٞ مُّقۡتَصِدَةٞۖ وَكَثِيرٞ مِّنۡهُمۡ سَآءَ مَا يَعۡمَلُونَ",
+  "translation": "Eğer onlar Tevrat'ı, İncil’i ve Rablerinden onlara indirileni (Kur'an’ı) doğru dürüst uygulasalardı, şüphesiz hem üstlerinden, hem de ayaklarının altından yerlerdi (yeraltı ve yerüstü servetlerinden istifade ederek refah içinde yaşarlardı). Onlardan aşırılığa kaçmayan (iktisatlı, mutedil) bir zümre vardır; fakat çoğunun yaptıkları ne kötüdür!",
+  "footnotes": ""
 }

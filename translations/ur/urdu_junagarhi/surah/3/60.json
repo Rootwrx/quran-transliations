@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "353",
-    "sura": "3",
-    "aya": "60",
-    "arabic_text": "ٱلۡحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلۡمُمۡتَرِينَ",
-    "translation": "تیرے رب کی طرف سے حق یہی ہے خبردار شک کرنے والوں میں نہ ہونا۔",
-    "footnotes": ""
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 57,
+  "verse_key": "3:60",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَقُّ مِن رَّبِّكَ فَلَا تَكُن مِّنَ ٱلۡمُمۡتَرِينَ",
+  "translation": "تیرے رب کی طرف سے حق یہی ہے خبردار شک کرنے والوں میں نہ ہونا۔",
+  "footnotes": ""
 }

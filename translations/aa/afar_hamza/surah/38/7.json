@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3977",
-    "sura": "38",
-    "aya": "7",
-    "arabic_text": "مَا سَمِعۡنَا بِهَٰذَا فِي ٱلۡمِلَّةِ ٱلۡأٓخِرَةِ إِنۡ هَٰذَآ إِلَّا ٱخۡتِلَٰقٌ",
-    "translation": "7. A Yallih inkittinaaney Mucammmad nee kah seecah yani ellecabö diinil maabbino (Nabii Qiisâ diini kinnuk), usuk kah seecam tu-hinna diraabay ginnaasite akke waytek iyyen.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 453,
+  "verse_key": "38:7",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا سَمِعۡنَا بِهَٰذَا فِي ٱلۡمِلَّةِ ٱلۡأٓخِرَةِ إِنۡ هَٰذَآ إِلَّا ٱخۡتِلَٰقٌ",
+  "translation": "7. A Yallih inkittinaaney Mucammmad nee kah seecah yani ellecabö diinil maabbino (Nabii Qiisâ diini kinnuk), usuk kah seecam tu-hinna diraabay ginnaasite akke waytek iyyen.",
+  "footnotes": ""
 }

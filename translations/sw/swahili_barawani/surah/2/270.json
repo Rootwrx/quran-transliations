@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "277",
-    "sura": "2",
-    "aya": "270",
-    "arabic_text": "وَمَآ أَنفَقۡتُم مِّن نَّفَقَةٍ أَوۡ نَذَرۡتُم مِّن نَّذۡرٖ فَإِنَّ ٱللَّهَ يَعۡلَمُهُۥۗ وَمَا لِلظَّٰلِمِينَ مِنۡ أَنصَارٍ",
-    "translation": "Na chochote mnacho toa au nadhiri mnazo weka basi hakika Mwenyezi Mungu anajua. Na walio dhulumu hawana wa kuwanusuru.",
-    "footnotes": "Na kila mnacho kitoa, ikiwa kwa kheri au shari, au mnacho lazimika kutoa kwa ut'iifu, basi Mwenyezi Mungu anakijua na atakulipeni. Na wale wenye kudhulumu, wanao toa kwa ajili ya kujionyesha kwa watu au wale wanapo toa wanawaudhi masikini za Mungu, au wanao toa kwa ajili ya maasi, hawatakuwa na watu wa kuwanusuru na adhabu ya Mwenyezi Mungu huko Akhera."
-  }
+  "id": 270,
+  "verse_number": 270,
+  "page_number": 46,
+  "verse_key": "2:270",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 18,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَنفَقۡتُم مِّن نَّفَقَةٍ أَوۡ نَذَرۡتُم مِّن نَّذۡرٖ فَإِنَّ ٱللَّهَ يَعۡلَمُهُۥۗ وَمَا لِلظَّٰلِمِينَ مِنۡ أَنصَارٍ",
+  "translation": "Na chochote mnacho toa au nadhiri mnazo weka basi hakika Mwenyezi Mungu anajua. Na walio dhulumu hawana wa kuwanusuru.",
+  "footnotes": "Na kila mnacho kitoa, ikiwa kwa kheri au shari, au mnacho lazimika kutoa kwa ut'iifu, basi Mwenyezi Mungu anakijua na atakulipeni. Na wale wenye kudhulumu, wanao toa kwa ajili ya kujionyesha kwa watu au wale wanapo toa wanawaudhi masikini za Mungu, au wanao toa kwa ajili ya maasi, hawatakuwa na watu wa kuwanusuru na adhabu ya Mwenyezi Mungu huko Akhera."
 }

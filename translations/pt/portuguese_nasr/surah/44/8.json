@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4422",
-    "sura": "44",
-    "aya": "8",
-    "arabic_text": "لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ",
-    "translation": "Não existe deus senão Ele. Ele dá a vida e dá a morte. Ele é Vosso Senhor e O Senhor de vossos pais antepassados.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 496,
+  "verse_key": "44:8",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ",
+  "translation": "Não existe deus senão Ele. Ele dá a vida e dá a morte. Ele é Vosso Senhor e O Senhor de vossos pais antepassados.",
+  "footnotes": ""
 }

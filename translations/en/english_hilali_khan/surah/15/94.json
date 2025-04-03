@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1896",
-    "sura": "15",
-    "aya": "94",
-    "arabic_text": "فَٱصۡدَعۡ بِمَا تُؤۡمَرُ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِينَ",
-    "translation": " 94. Therefore proclaim openly (Allâh’s Message - Islâmic Monotheism) that which you are commanded, and turn away from Al-Mushrikûn (polytheists, idolaters, and disbelievers - See V.2:105).",
-    "footnotes": ""
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 267,
+  "verse_key": "15:94",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱصۡدَعۡ بِمَا تُؤۡمَرُ وَأَعۡرِضۡ عَنِ ٱلۡمُشۡرِكِينَ",
+  "translation": " 94. Therefore proclaim openly (Allâh’s Message - Islâmic Monotheism) that which you are commanded, and turn away from Al-Mushrikûn (polytheists, idolaters, and disbelievers - See V.2:105).",
+  "footnotes": ""
 }

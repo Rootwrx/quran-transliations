@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "622",
-    "sura": "4",
-    "aya": "129",
-    "arabic_text": "وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
-    "translation": "Ẹ kò lè ṣe déédé (nínú ìfẹ́) láààrin àwọn obìnrin, ẹ ò báà jẹ̀rankàn rẹ̀. Nítorí náà, ẹ má ṣe fì síbì kan tán pátápátá, kí ẹ wá pa (ẹnì kan) tì bí ohun tí wọ́n gbékọ́ ara ilé. Tí ẹ bá ṣàtúnṣe, tí ẹ sì bẹ̀rù (Allāhu), dájúdájú Allāhu ń jẹ́ Aláforíjìn, Àṣàkẹ́-ọ̀run.",
-    "footnotes": ""
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 99,
+  "verse_key": "4:129",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
+  "translation": "Ẹ kò lè ṣe déédé (nínú ìfẹ́) láààrin àwọn obìnrin, ẹ ò báà jẹ̀rankàn rẹ̀. Nítorí náà, ẹ má ṣe fì síbì kan tán pátápátá, kí ẹ wá pa (ẹnì kan) tì bí ohun tí wọ́n gbékọ́ ara ilé. Tí ẹ bá ṣàtúnṣe, tí ẹ sì bẹ̀rù (Allāhu), dájúdájú Allāhu ń jẹ́ Aláforíjìn, Àṣàkẹ́-ọ̀run.",
+  "footnotes": ""
 }

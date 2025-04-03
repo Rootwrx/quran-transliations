@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3628",
-    "sura": "34",
-    "aya": "22",
-    "arabic_text": "قُلِ ٱدۡعُواْ ٱلَّذِينَ زَعَمۡتُم مِّن دُونِ ٱللَّهِ لَا يَمۡلِكُونَ مِثۡقَالَ ذَرَّةٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِ وَمَا لَهُمۡ فِيهِمَا مِن شِرۡكٖ وَمَا لَهُۥ مِنۡهُم مِّن ظَهِيرٖ",
-    "translation": "Vuga (yewe Muhamadi) uti “Nimuhamagare ibyo mwise imana mu cyimbo cya Allah (mukeka ko hari icyo byabamarira), ntibitunze n’igifite uburemere bungana n’akantu gato cyane kurusha ibindi haba mu birere no mu isi. Kandi nta bufatanye byagiranye (na Allah, mu iremwa ry’ibiri mu isi no mu birere), ndetse nta n’umushyigikira afite muri byo.”",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 430,
+  "verse_key": "34:22",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱدۡعُواْ ٱلَّذِينَ زَعَمۡتُم مِّن دُونِ ٱللَّهِ لَا يَمۡلِكُونَ مِثۡقَالَ ذَرَّةٖ فِي ٱلسَّمَٰوَٰتِ وَلَا فِي ٱلۡأَرۡضِ وَمَا لَهُمۡ فِيهِمَا مِن شِرۡكٖ وَمَا لَهُۥ مِنۡهُم مِّن ظَهِيرٖ",
+  "translation": "Vuga (yewe Muhamadi) uti “Nimuhamagare ibyo mwise imana mu cyimbo cya Allah (mukeka ko hari icyo byabamarira), ntibitunze n’igifite uburemere bungana n’akantu gato cyane kurusha ibindi haba mu birere no mu isi. Kandi nta bufatanye byagiranye (na Allah, mu iremwa ry’ibiri mu isi no mu birere), ndetse nta n’umushyigikira afite muri byo.”",
+  "footnotes": ""
 }

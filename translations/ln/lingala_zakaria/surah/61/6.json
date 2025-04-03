@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5169",
-    "sura": "61",
-    "aya": "6",
-    "arabic_text": "وَإِذۡ قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُم مُّصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَمُبَشِّرَۢا بِرَسُولٖ يَأۡتِي مِنۢ بَعۡدِي ٱسۡمُهُۥٓ أَحۡمَدُۖ فَلَمَّا جَآءَهُم بِٱلۡبَيِّنَٰتِ قَالُواْ هَٰذَا سِحۡرٞ مُّبِينٞ",
-    "translation": "6. Mpe tango Issa mwana ya Maryam alobaki na bana ya isalayele: Ya soló, nazali motindami ya Allah epai na bino (тропа kolobela) bosôló oyo ezali na kati ya torah, тре kopesa bino sango elamu ya motindami oyo akoya sima na ngai nkombo naye Ahmad(1). Mpe tango ayeli bango bilembo bia polele, balobi: Oyo ezali bonganga ya polele.",
-    "footnotes": "1 Ahmad: Моко ya bakombo ya ntoma, Muhammad oyo azali suka ya bantoma."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 552,
+  "verse_key": "61:6",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ عِيسَى ٱبۡنُ مَرۡيَمَ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ إِنِّي رَسُولُ ٱللَّهِ إِلَيۡكُم مُّصَدِّقٗا لِّمَا بَيۡنَ يَدَيَّ مِنَ ٱلتَّوۡرَىٰةِ وَمُبَشِّرَۢا بِرَسُولٖ يَأۡتِي مِنۢ بَعۡدِي ٱسۡمُهُۥٓ أَحۡمَدُۖ فَلَمَّا جَآءَهُم بِٱلۡبَيِّنَٰتِ قَالُواْ هَٰذَا سِحۡرٞ مُّبِينٞ",
+  "translation": "6. Mpe tango Issa mwana ya Maryam alobaki na bana ya isalayele: Ya soló, nazali motindami ya Allah epai na bino (тропа kolobela) bosôló oyo ezali na kati ya torah, тре kopesa bino sango elamu ya motindami oyo akoya sima na ngai nkombo naye Ahmad(1). Mpe tango ayeli bango bilembo bia polele, balobi: Oyo ezali bonganga ya polele.",
+  "footnotes": "1 Ahmad: Моко ya bakombo ya ntoma, Muhammad oyo azali suka ya bantoma."
 }

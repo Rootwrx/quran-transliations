@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2363",
-    "sura": "20",
-    "aya": "15",
-    "arabic_text": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخۡفِيهَا لِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا تَسۡعَىٰ",
-    "translation": "Dájúdájú Àkókò náà ń bọ̀. Ó súnmọ́ kí N̄g ṣàfi hàn[1] rẹ̀ (pẹ̀lú àwọn àmì kan. Àkókò náà wà fún) kí Á lè san ẹ̀mí kọ̀ọ̀kan ní ẹ̀san n̄ǹkan tí ó ṣe níṣẹ́.",
-    "footnotes": "1. Ẹ kíyè sí ọ̀rọ̀ yìí “’ukfī, ’ikfā’.” Ó jẹ́ ọ̀rọ̀ alójú-lódì. Nítorí náà, bí ó ṣe túmọ̀ sí ṣíṣe àfihàn n̄ǹkan, ó tún ń túmọ̀ sí fífi n̄ǹkan pamọ́."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 313,
+  "verse_key": "20:15",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلسَّاعَةَ ءَاتِيَةٌ أَكَادُ أُخۡفِيهَا لِتُجۡزَىٰ كُلُّ نَفۡسِۭ بِمَا تَسۡعَىٰ",
+  "translation": "Dájúdájú Àkókò náà ń bọ̀. Ó súnmọ́ kí N̄g ṣàfi hàn[1] rẹ̀ (pẹ̀lú àwọn àmì kan. Àkókò náà wà fún) kí Á lè san ẹ̀mí kọ̀ọ̀kan ní ẹ̀san n̄ǹkan tí ó ṣe níṣẹ́.",
+  "footnotes": "1. Ẹ kíyè sí ọ̀rọ̀ yìí “’ukfī, ’ikfā’.” Ó jẹ́ ọ̀rọ̀ alójú-lódì. Nítorí náà, bí ó ṣe túmọ̀ sí ṣíṣe àfihàn n̄ǹkan, ó tún ń túmọ̀ sí fífi n̄ǹkan pamọ́."
 }

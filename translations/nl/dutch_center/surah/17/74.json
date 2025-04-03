@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2103",
-    "sura": "17",
-    "aya": "74",
-    "arabic_text": "وَلَوۡلَآ أَن ثَبَّتۡنَٰكَ لَقَدۡ كِدتَّ تَرۡكَنُ إِلَيۡهِمۡ شَيۡـٔٗا قَلِيلًا",
-    "translation": "74. En als Wij jou niet standvastig hadden gemaakt dan was jij daar toe een beetje geneigd.",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 289,
+  "verse_key": "17:74",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡلَآ أَن ثَبَّتۡنَٰكَ لَقَدۡ كِدتَّ تَرۡكَنُ إِلَيۡهِمۡ شَيۡـٔٗا قَلِيلًا",
+  "translation": "74. En als Wij jou niet standvastig hadden gemaakt dan was jij daar toe een beetje geneigd.",
+  "footnotes": ""
 }

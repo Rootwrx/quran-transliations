@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4638",
-    "sura": "50",
-    "aya": "8",
-    "arabic_text": "تَبۡصِرَةٗ وَذِكۡرَىٰ لِكُلِّ عَبۡدٖ مُّنِيبٖ",
-    "translation": "8. En inzicht en een herinnering voor elke dienaar die zich tot Allah keert in berouw [1].",
-    "footnotes": "[1]Berouw maken is verplicht, het is een aanbidding van het hart wie dat laat zal uiteindelijk afdwalen."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 518,
+  "verse_key": "50:8",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَبۡصِرَةٗ وَذِكۡرَىٰ لِكُلِّ عَبۡدٖ مُّنِيبٖ",
+  "translation": "8. En inzicht en een herinnering voor elke dienaar die zich tot Allah keert in berouw [1].",
+  "footnotes": "[1]Berouw maken is verplicht, het is een aanbidding van het hart wie dat laat zal uiteindelijk afdwalen."
 }

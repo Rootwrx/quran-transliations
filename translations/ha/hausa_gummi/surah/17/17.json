@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2046",
-    "sura": "17",
-    "aya": "17",
-    "arabic_text": "وَكَمۡ أَهۡلَكۡنَا مِنَ ٱلۡقُرُونِ مِنۢ بَعۡدِ نُوحٖۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرَۢا بَصِيرٗا",
-    "translation": "Kuma da yawa Muka halakar da al'ummomi a bãyan Nũhu. Kuma Ubangijinka Ya isa ya zama Mai ƙididdigewa ga zunubban bãyinSa, Mai gani.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 283,
+  "verse_key": "17:17",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَمۡ أَهۡلَكۡنَا مِنَ ٱلۡقُرُونِ مِنۢ بَعۡدِ نُوحٖۗ وَكَفَىٰ بِرَبِّكَ بِذُنُوبِ عِبَادِهِۦ خَبِيرَۢا بَصِيرٗا",
+  "translation": "Kuma da yawa Muka halakar da al'ummomi a bãyan Nũhu. Kuma Ubangijinka Ya isa ya zama Mai ƙididdigewa ga zunubban bãyinSa, Mai gani.",
+  "footnotes": ""
 }

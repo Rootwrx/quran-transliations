@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5662",
-    "sura": "77",
-    "aya": "40",
-    "arabic_text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
-    "translation": "Ал күндө (кыяматты) «жалган» дегендерге кайгы!",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 581,
+  "verse_key": "77:40",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيۡلٞ يَوۡمَئِذٖ لِّلۡمُكَذِّبِينَ",
+  "translation": "Ал күндө (кыяматты) «жалган» дегендерге кайгы!",
+  "footnotes": ""
 }

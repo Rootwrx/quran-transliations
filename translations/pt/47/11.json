@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4556",
-    "sura": "47",
-    "aya": "11",
-    "arabic_text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوۡلَى ٱلَّذِينَ ءَامَنُواْ وَأَنَّ ٱلۡكَٰفِرِينَ لَا مَوۡلَىٰ لَهُمۡ",
-    "translation": "Isso, porque Allah é Protetor dos que crêem, e porque os renegadores da Fé não têm protetor algum.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 507,
+  "verse_key": "47:11",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ مَوۡلَى ٱلَّذِينَ ءَامَنُواْ وَأَنَّ ٱلۡكَٰفِرِينَ لَا مَوۡلَىٰ لَهُمۡ",
+  "translation": "Isso, porque Allah é Protetor dos que crêem, e porque os renegadores da Fé não têm protetor algum.",
+  "footnotes": ""
 }

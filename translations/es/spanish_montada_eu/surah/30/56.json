@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3465",
-    "sura": "30",
-    "aya": "56",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ وَٱلۡإِيمَٰنَ لَقَدۡ لَبِثۡتُمۡ فِي كِتَٰبِ ٱللَّهِ إِلَىٰ يَوۡمِ ٱلۡبَعۡثِۖ فَهَٰذَا يَوۡمُ ٱلۡبَعۡثِ وَلَٰكِنَّكُمۡ كُنتُمۡ لَا تَعۡلَمُونَ",
-    "translation": "56. Y a quienes se les concedió el conocimiento y la fe[775] dirán: «Ciertamente habéis permanecido (en la tierra) el tiempo decretado por Al-lah hasta el Día de la Resurrección. Y este es el Día de la Resurrección, pero lo ignorabais (y por eso lo negasteis).",
-    "footnotes": "[775]  Los ángeles, los profetas y los creyentes."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 410,
+  "verse_key": "30:56",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ وَٱلۡإِيمَٰنَ لَقَدۡ لَبِثۡتُمۡ فِي كِتَٰبِ ٱللَّهِ إِلَىٰ يَوۡمِ ٱلۡبَعۡثِۖ فَهَٰذَا يَوۡمُ ٱلۡبَعۡثِ وَلَٰكِنَّكُمۡ كُنتُمۡ لَا تَعۡلَمُونَ",
+  "translation": "56. Y a quienes se les concedió el conocimiento y la fe[775] dirán: «Ciertamente habéis permanecido (en la tierra) el tiempo decretado por Al-lah hasta el Día de la Resurrección. Y este es el Día de la Resurrección, pero lo ignorabais (y por eso lo negasteis).",
+  "footnotes": "[775]  Los ángeles, los profetas y los creyentes."
 }

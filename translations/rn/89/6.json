@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5999",
-    "sura": "89",
-    "aya": "6",
-    "arabic_text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
-    "translation": "Ntumwa y’Imana! Mbega, ntiwabonye ingene Imana yawe Rurema Allah Yagize Bene Aadi igihe c’Intumwa Huudi (nyakugira amahoro y’Imana Allah)!",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 593,
+  "verse_key": "89:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ كَيۡفَ فَعَلَ رَبُّكَ بِعَادٍ",
+  "translation": "Ntumwa y’Imana! Mbega, ntiwabonye ingene Imana yawe Rurema Allah Yagize Bene Aadi igihe c’Intumwa Huudi (nyakugira amahoro y’Imana Allah)!",
+  "footnotes": ""
 }

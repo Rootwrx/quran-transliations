@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4983",
-    "sura": "56",
-    "aya": "4",
-    "arabic_text": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
-    "translation": "ߣߌ߫ ߘߎ߱ ߟߊߦߙߍߦߙߍ߫ ߘߊ߫ ߕߎ߬ߡߊ ߡߍ߲ ߜߙߌߜߙߌ߫",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 534,
+  "verse_key": "56:4",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذَا رُجَّتِ ٱلۡأَرۡضُ رَجّٗا",
+  "translation": "ߣߌ߫ ߘߎ߱ ߟߊߦߙߍߦߙߍ߫ ߘߊ߫ ߕߎ߬ߡߊ ߡߍ߲ ߜߙߌߜߙߌ߫",
+  "footnotes": ""
 }

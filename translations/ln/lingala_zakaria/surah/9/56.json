@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1291",
-    "sura": "9",
-    "aya": "56",
-    "arabic_text": "وَيَحۡلِفُونَ بِٱللَّهِ إِنَّهُمۡ لَمِنكُمۡ وَمَا هُم مِّنكُمۡ وَلَٰكِنَّهُمۡ قَوۡمٞ يَفۡرَقُونَ",
-    "translation": "56. Мре bazali kolapa па Allah, (bato ya bilongi mibale) ete bazali penza bato ba bino, kasi bazali na bino te, mpe ya soló bango bazali kobanga bino.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 196,
+  "verse_key": "9:56",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 78,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَحۡلِفُونَ بِٱللَّهِ إِنَّهُمۡ لَمِنكُمۡ وَمَا هُم مِّنكُمۡ وَلَٰكِنَّهُمۡ قَوۡمٞ يَفۡرَقُونَ",
+  "translation": "56. Мре bazali kolapa па Allah, (bato ya bilongi mibale) ete bazali penza bato ba bino, kasi bazali na bino te, mpe ya soló bango bazali kobanga bino.",
+  "footnotes": ""
 }

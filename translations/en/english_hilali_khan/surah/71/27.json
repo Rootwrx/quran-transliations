@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5446",
-    "sura": "71",
-    "aya": "27",
-    "arabic_text": "إِنَّكَ إِن تَذَرۡهُمۡ يُضِلُّواْ عِبَادَكَ وَلَا يَلِدُوٓاْ إِلَّا فَاجِرٗا كَفَّارٗا",
-    "translation": " 27. \"If You leave them, they will mislead Your slaves, and they will beget none but wicked disbelievers.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 571,
+  "verse_key": "71:27",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّكَ إِن تَذَرۡهُمۡ يُضِلُّواْ عِبَادَكَ وَلَا يَلِدُوٓاْ إِلَّا فَاجِرٗا كَفَّارٗا",
+  "translation": " 27. \"If You leave them, they will mislead Your slaves, and they will beget none but wicked disbelievers.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6214",
-    "sura": "110",
-    "aya": "1",
-    "arabic_text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
-    "translation": "کاتێک کە یارمەتی وکۆمەکی خوا ھات لەگەڵ سەرکەوتن (شاری مەککە ئازاد کرا)\n",
-    "footnotes": null
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 603,
+  "verse_key": "110:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+  "translation": "کاتێک کە یارمەتی وکۆمەکی خوا ھات لەگەڵ سەرکەوتن (شاری مەککە ئازاد کرا)\n",
+  "footnotes": null
 }

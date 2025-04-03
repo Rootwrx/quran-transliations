@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4027",
-    "sura": "38",
-    "aya": "57",
-    "arabic_text": "هَٰذَا فَلۡيَذُوقُوهُ حَمِيمٞ وَغَسَّاقٞ",
-    "translation": "این [مجازات،] آب جوشان و خونابۀ چرک‌آلودی است که باید آن را بچشند.",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 456,
+  "verse_key": "38:57",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا فَلۡيَذُوقُوهُ حَمِيمٞ وَغَسَّاقٞ",
+  "translation": "این [مجازات،] آب جوشان و خونابۀ چرک‌آلودی است که باید آن را بچشند.",
+  "footnotes": ""
 }

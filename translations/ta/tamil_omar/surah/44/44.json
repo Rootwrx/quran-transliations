@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4458",
-    "sura": "44",
-    "aya": "44",
-    "arabic_text": "طَعَامُ ٱلۡأَثِيمِ",
-    "translation": "பாவிகளின் உணவாகும்.",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 498,
+  "verse_key": "44:44",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "طَعَامُ ٱلۡأَثِيمِ",
+  "translation": "பாவிகளின் உணவாகும்.",
+  "footnotes": ""
 }

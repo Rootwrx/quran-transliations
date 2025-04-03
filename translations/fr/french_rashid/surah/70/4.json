@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5379",
-    "sura": "70",
-    "aya": "4",
-    "arabic_text": "تَعۡرُجُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ",
-    "translation": "4 empruntées par les anges et l’Esprit[1472] pour s’élever vers Lui en un jour[1473] équivalant à cinquante mille ans.",
-    "footnotes": "[1472] L’archange Gabriel, selon la majorité des exégètes.\n[1473] Le Jour de la résurrection, selon nombre d’exégètes, un jour de ce monde, selon d’autres."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 568,
+  "verse_key": "70:4",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَعۡرُجُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ",
+  "translation": "4 empruntées par les anges et l’Esprit[1472] pour s’élever vers Lui en un jour[1473] équivalant à cinquante mille ans.",
+  "footnotes": "[1472] L’archange Gabriel, selon la majorité des exégètes.\n[1473] Le Jour de la résurrection, selon nombre d’exégètes, un jour de ce monde, selon d’autres."
 }

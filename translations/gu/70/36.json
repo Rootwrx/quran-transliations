@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5411",
-    "sura": "70",
-    "aya": "36",
-    "arabic_text": "فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهۡطِعِينَ",
-    "translation": "૩૬. બસ! આ કાફિરોને શુ થઇ ગયુ છે કે તે તમારી તરફ દોડતા આવી રહ્યા છે.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 569,
+  "verse_key": "70:36",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَالِ ٱلَّذِينَ كَفَرُواْ قِبَلَكَ مُهۡطِعِينَ",
+  "translation": "૩૬. બસ! આ કાફિરોને શુ થઇ ગયુ છે કે તે તમારી તરફ દોડતા આવી રહ્યા છે.",
+  "footnotes": ""
 }

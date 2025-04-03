@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4066",
-    "sura": "39",
-    "aya": "8",
-    "arabic_text": "۞ وَإِذَا مَسَّ ٱلۡإِنسَٰنَ ضُرّٞ دَعَا رَبَّهُۥ مُنِيبًا إِلَيۡهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعۡمَةٗ مِّنۡهُ نَسِيَ مَا كَانَ يَدۡعُوٓاْ إِلَيۡهِ مِن قَبۡلُ وَجَعَلَ لِلَّهِ أَندَادٗا لِّيُضِلَّ عَن سَبِيلِهِۦۚ قُلۡ تَمَتَّعۡ بِكُفۡرِكَ قَلِيلًا إِنَّكَ مِنۡ أَصۡحَٰبِ ٱلنَّارِ",
-    "translation": "La keelem sã n paam ninsaala, a boonda a Soabã t'a yaa sẽn lebs a mengã A nengẽ, rẽ poorẽ A sã n lebg n kõ-a neema sẽn yi A nengẽ (Wẽnd ) a yĩmda bũmb ning a sẽn da yɩ boond pĩndã. La a maan wõnesem-taas ne Wẽnd sẽn na yɩl n menes (nebã) n yi A sorã, yeele: \"wʋm noog ne f kɩfendã bilf bal tɩ ad fo yaa Bugum neda\".",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 459,
+  "verse_key": "39:8",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَإِذَا مَسَّ ٱلۡإِنسَٰنَ ضُرّٞ دَعَا رَبَّهُۥ مُنِيبًا إِلَيۡهِ ثُمَّ إِذَا خَوَّلَهُۥ نِعۡمَةٗ مِّنۡهُ نَسِيَ مَا كَانَ يَدۡعُوٓاْ إِلَيۡهِ مِن قَبۡلُ وَجَعَلَ لِلَّهِ أَندَادٗا لِّيُضِلَّ عَن سَبِيلِهِۦۚ قُلۡ تَمَتَّعۡ بِكُفۡرِكَ قَلِيلًا إِنَّكَ مِنۡ أَصۡحَٰبِ ٱلنَّارِ",
+  "translation": "La keelem sã n paam ninsaala, a boonda a Soabã t'a yaa sẽn lebs a mengã A nengẽ, rẽ poorẽ A sã n lebg n kõ-a neema sẽn yi A nengẽ (Wẽnd ) a yĩmda bũmb ning a sẽn da yɩ boond pĩndã. La a maan wõnesem-taas ne Wẽnd sẽn na yɩl n menes (nebã) n yi A sorã, yeele: \"wʋm noog ne f kɩfendã bilf bal tɩ ad fo yaa Bugum neda\".",
+  "footnotes": ""
 }

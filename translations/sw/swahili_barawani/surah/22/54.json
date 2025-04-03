@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2649",
-    "sura": "22",
-    "aya": "54",
-    "arabic_text": "وَلِيَعۡلَمَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ فَيُؤۡمِنُواْ بِهِۦ فَتُخۡبِتَ لَهُۥ قُلُوبُهُمۡۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ ءَامَنُوٓاْ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "Na ili walio pewa ilimu wajue kuwa hayo ni Haki itokayo kwa Mola wako Mlezi na waamini, na zipate kutua nyoyo zao. Na hakika Mwenyezi Mungu ndiye anaye waongoa wenye kuamini kwenye Njia Iliyo Nyooka.",
-    "footnotes": "Na ili walio pewa ilimu ya sharia na Imani wazidi Imani na kujua kwamba wayasemayo Mitume na Manabii hakika ni kweli iliyo teremka kutokana na Mwenyezi Mungu. Na kwamba Mwenyezi Mungu hakika anawalinda Waumini kwa hima yake kutokana na matatizo yote yanayo wapitikia. Na huwaongoa kwenye maarifa ya Njia Iliyo Nyooka nao wakaifuata."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 338,
+  "verse_key": "22:54",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِيَعۡلَمَ ٱلَّذِينَ أُوتُواْ ٱلۡعِلۡمَ أَنَّهُ ٱلۡحَقُّ مِن رَّبِّكَ فَيُؤۡمِنُواْ بِهِۦ فَتُخۡبِتَ لَهُۥ قُلُوبُهُمۡۗ وَإِنَّ ٱللَّهَ لَهَادِ ٱلَّذِينَ ءَامَنُوٓاْ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "Na ili walio pewa ilimu wajue kuwa hayo ni Haki itokayo kwa Mola wako Mlezi na waamini, na zipate kutua nyoyo zao. Na hakika Mwenyezi Mungu ndiye anaye waongoa wenye kuamini kwenye Njia Iliyo Nyooka.",
+  "footnotes": "Na ili walio pewa ilimu ya sharia na Imani wazidi Imani na kujua kwamba wayasemayo Mitume na Manabii hakika ni kweli iliyo teremka kutokana na Mwenyezi Mungu. Na kwamba Mwenyezi Mungu hakika anawalinda Waumini kwa hima yake kutokana na matatizo yote yanayo wapitikia. Na huwaongoa kwenye maarifa ya Njia Iliyo Nyooka nao wakaifuata."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4493",
-    "sura": "45",
-    "aya": "20",
-    "arabic_text": "هَٰذَا بَصَٰٓئِرُ لِلنَّاسِ وَهُدٗى وَرَحۡمَةٞ لِّقَوۡمٖ يُوقِنُونَ",
-    "translation": "这是给世人的明证，也是对坚信的民众的引导和恩惠。",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 500,
+  "verse_key": "45:20",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا بَصَٰٓئِرُ لِلنَّاسِ وَهُدٗى وَرَحۡمَةٞ لِّقَوۡمٖ يُوقِنُونَ",
+  "translation": "这是给世人的明证，也是对坚信的民众的引导和恩惠。",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2130",
-    "sura": "17",
-    "aya": "101",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ تِسۡعَ ءَايَٰتِۭ بَيِّنَٰتٖۖ فَسۡـَٔلۡ بَنِيٓ إِسۡرَٰٓءِيلَ إِذۡ جَآءَهُمۡ فَقَالَ لَهُۥ فِرۡعَوۡنُ إِنِّي لَأَظُنُّكَ يَٰمُوسَىٰ مَسۡحُورٗا",
-    "translation": "101 Nous avons permis à Moïse de produire neuf miracles éclatants[757]. Interroge donc les fils d’Israël sur son histoire lorsqu’il fut envoyé à leurs ancêtres et que Pharaon lui dit : « Je crois, Moïse, que tu es ensorcelé[758]. »",
-    "footnotes": "[757] Le bâton transformé en serpent, sa main devenue blanche, la disette, la baisse des eaux du Nil, les inondations, les sauterelles, les teignes, les grenouilles et le sang, précisent certains commentateurs.\n[758] Ou : que tu es un magicien."
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 292,
+  "verse_key": "17:101",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ تِسۡعَ ءَايَٰتِۭ بَيِّنَٰتٖۖ فَسۡـَٔلۡ بَنِيٓ إِسۡرَٰٓءِيلَ إِذۡ جَآءَهُمۡ فَقَالَ لَهُۥ فِرۡعَوۡنُ إِنِّي لَأَظُنُّكَ يَٰمُوسَىٰ مَسۡحُورٗا",
+  "translation": "101 Nous avons permis à Moïse de produire neuf miracles éclatants[757]. Interroge donc les fils d’Israël sur son histoire lorsqu’il fut envoyé à leurs ancêtres et que Pharaon lui dit : « Je crois, Moïse, que tu es ensorcelé[758]. »",
+  "footnotes": "[757] Le bâton transformé en serpent, sa main devenue blanche, la disette, la baisse des eaux du Nil, les inondations, les sauterelles, les teignes, les grenouilles et le sang, précisent certains commentateurs.\n[758] Ou : que tu es un magicien."
 }

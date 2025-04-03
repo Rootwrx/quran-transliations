@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "837",
-    "sura": "6",
-    "aya": "48",
-    "arabic_text": "وَمَا نُرۡسِلُ ٱلۡمُرۡسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَۖ فَمَنۡ ءَامَنَ وَأَصۡلَحَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "A kò rán àwọn Òjíṣẹ́ náà níṣẹ́ bí kò ṣe pé (kí wọ́n jẹ́) oníròó ìdùnnú àti olùkìlọ̀. Nítorí náà, ẹnikẹ́ni tí ó bá gbàgbọ́ ní òdodo, tí ó sì ṣe àtúnṣe (iṣẹ́ rẹ̀), kò níí sí ìbẹ̀rù fún wọn, wọn kò sì níí banújẹ́.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 133,
+  "verse_key": "6:48",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا نُرۡسِلُ ٱلۡمُرۡسَلِينَ إِلَّا مُبَشِّرِينَ وَمُنذِرِينَۖ فَمَنۡ ءَامَنَ وَأَصۡلَحَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "A kò rán àwọn Òjíṣẹ́ náà níṣẹ́ bí kò ṣe pé (kí wọ́n jẹ́) oníròó ìdùnnú àti olùkìlọ̀. Nítorí náà, ẹnikẹ́ni tí ó bá gbàgbọ́ ní òdodo, tí ó sì ṣe àtúnṣe (iṣẹ́ rẹ̀), kò níí sí ìbẹ̀rù fún wọn, wọn kò sì níí banújẹ́.",
+  "footnotes": ""
 }

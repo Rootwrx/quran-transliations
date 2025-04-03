@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4503",
-    "sura": "45",
-    "aya": "30",
-    "arabic_text": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُدۡخِلُهُمۡ رَبُّهُمۡ فِي رَحۡمَتِهِۦۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡمُبِينُ",
-    "translation": "Então, quanto aos que crêem e fazem as boas obras, seu Senhor fá-los-á entrar em Sua misericórdia. Esse é o evidente triunfo.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 501,
+  "verse_key": "45:30",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَمَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فَيُدۡخِلُهُمۡ رَبُّهُمۡ فِي رَحۡمَتِهِۦۚ ذَٰلِكَ هُوَ ٱلۡفَوۡزُ ٱلۡمُبِينُ",
+  "translation": "Então, quanto aos que crêem e fazem as boas obras, seu Senhor fá-los-á entrar em Sua misericórdia. Esse é o evidente triunfo.",
+  "footnotes": ""
 }

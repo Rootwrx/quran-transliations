@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4642",
-    "sura": "50",
-    "aya": "12",
-    "arabic_text": "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَأَصۡحَٰبُ ٱلرَّسِّ وَثَمُودُ",
-    "translation": "Der Lüge bezichtigten vor ihnen das Volk Nuhs und die Leute von ar-Rass und die Tamud",
-    "footnotes": null
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 518,
+  "verse_key": "50:12",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَّبَتۡ قَبۡلَهُمۡ قَوۡمُ نُوحٖ وَأَصۡحَٰبُ ٱلرَّسِّ وَثَمُودُ",
+  "translation": "Der Lüge bezichtigten vor ihnen das Volk Nuhs und die Leute von ar-Rass und die Tamud",
+  "footnotes": null
 }

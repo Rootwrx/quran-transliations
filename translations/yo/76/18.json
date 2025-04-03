@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5609",
-    "sura": "76",
-    "aya": "18",
-    "arabic_text": "عَيۡنٗا فِيهَا تُسَمَّىٰ سَلۡسَبِيلٗا",
-    "translation": "Nínú Ọgbà Ìdẹ̀ra (wọn yóò tún máa mu) omi ìṣẹ́lẹ̀rú kan, tí À ń pè ní omi salsabīl.",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 579,
+  "verse_key": "76:18",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَيۡنٗا فِيهَا تُسَمَّىٰ سَلۡسَبِيلٗا",
+  "translation": "Nínú Ọgbà Ìdẹ̀ra (wọn yóò tún máa mu) omi ìṣẹ́lẹ̀rú kan, tí À ń pè ní omi salsabīl.",
+  "footnotes": ""
 }

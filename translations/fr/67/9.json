@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5250",
-    "sura": "67",
-    "aya": "9",
-    "arabic_text": "قَالُواْ بَلَىٰ قَدۡ جَآءَنَا نَذِيرٞ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلٖ كَبِيرٖ",
-    "translation": "Ils dirent: \"Mais si ! un avertisseur nous était venu certes, mais nous avons crié au mensonge et avons dit : Allah n’a rien fait descendre, vous n’êtes que dans un grand égarement.\"",
-    "footnotes": "[973] Vous n’êtes: le Prophète et ses adeptes."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 562,
+  "verse_key": "67:9",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ بَلَىٰ قَدۡ جَآءَنَا نَذِيرٞ فَكَذَّبۡنَا وَقُلۡنَا مَا نَزَّلَ ٱللَّهُ مِن شَيۡءٍ إِنۡ أَنتُمۡ إِلَّا فِي ضَلَٰلٖ كَبِيرٖ",
+  "translation": "Ils dirent: \"Mais si ! un avertisseur nous était venu certes, mais nous avons crié au mensonge et avons dit : Allah n’a rien fait descendre, vous n’êtes que dans un grand égarement.\"",
+  "footnotes": "[973] Vous n’êtes: le Prophète et ses adeptes."
 }

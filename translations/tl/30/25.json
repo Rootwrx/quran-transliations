@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3434",
-    "sura": "30",
-    "aya": "25",
-    "arabic_text": "وَمِنۡ ءَايَٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلۡأَرۡضُ بِأَمۡرِهِۦۚ ثُمَّ إِذَا دَعَاكُمۡ دَعۡوَةٗ مِّنَ ٱلۡأَرۡضِ إِذَآ أَنتُمۡ تَخۡرُجُونَ",
-    "translation": "Kabilang sa mga tanda Niya na manatili ang langit at ang lupa ayon sa utos Niya. Pagkatapos kapag tumawag Siya sa inyo sa isang pagtawag mula sa lupa, biglang kayo ay lalabas.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 407,
+  "verse_key": "30:25",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡ ءَايَٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلۡأَرۡضُ بِأَمۡرِهِۦۚ ثُمَّ إِذَا دَعَاكُمۡ دَعۡوَةٗ مِّنَ ٱلۡأَرۡضِ إِذَآ أَنتُمۡ تَخۡرُجُونَ",
+  "translation": "Kabilang sa mga tanda Niya na manatili ang langit at ang lupa ayon sa utos Niya. Pagkatapos kapag tumawag Siya sa inyo sa isang pagtawag mula sa lupa, biglang kayo ay lalabas.",
+  "footnotes": ""
 }

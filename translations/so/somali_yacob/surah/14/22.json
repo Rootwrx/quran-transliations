@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1772",
-    "sura": "14",
-    "aya": "22",
-    "arabic_text": "وَقَالَ ٱلشَّيۡطَٰنُ لَمَّا قُضِيَ ٱلۡأَمۡرُ إِنَّ ٱللَّهَ وَعَدَكُمۡ وَعۡدَ ٱلۡحَقِّ وَوَعَدتُّكُمۡ فَأَخۡلَفۡتُكُمۡۖ وَمَا كَانَ لِيَ عَلَيۡكُم مِّن سُلۡطَٰنٍ إِلَّآ أَن دَعَوۡتُكُمۡ فَٱسۡتَجَبۡتُمۡ لِيۖ فَلَا تَلُومُونِي وَلُومُوٓاْ أَنفُسَكُمۖ مَّآ أَنَا۠ بِمُصۡرِخِكُمۡ وَمَآ أَنتُم بِمُصۡرِخِيَّ إِنِّي كَفَرۡتُ بِمَآ أَشۡرَكۡتُمُونِ مِن قَبۡلُۗ إِنَّ ٱلظَّٰلِمِينَ لَهُمۡ عَذَابٌ أَلِيمٞ",
-    "translation": "22. Shaydaanna wuxuu odhan marka Arrinka la xukumo: Alle wuxuu idiin ballan qaaday ballan Xaq ah, aniguna idiin ballan qaaday ballamo (been ah), waana idiinka baxay. Kumana laheyn awood dushiinna, waan idiin baaqay uun oo aad i yeesheen. Marka ha i eedaynina ee eedeeya nafahiinna7. Anigu idiinma gargaari karo (haatan), idinkuna iima gargaari kartaan. Anigu diiday ila wadaajintiinna horey cibaadada Alle. Daalimiintu waxay leeyihiin Cadaab Xanuun Badan.",
-    "footnotes": "7. Adeeciddii aad I adeecdeen aniga halkii Alle intaad dunida joogteen."
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 258,
+  "verse_key": "14:22",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلشَّيۡطَٰنُ لَمَّا قُضِيَ ٱلۡأَمۡرُ إِنَّ ٱللَّهَ وَعَدَكُمۡ وَعۡدَ ٱلۡحَقِّ وَوَعَدتُّكُمۡ فَأَخۡلَفۡتُكُمۡۖ وَمَا كَانَ لِيَ عَلَيۡكُم مِّن سُلۡطَٰنٍ إِلَّآ أَن دَعَوۡتُكُمۡ فَٱسۡتَجَبۡتُمۡ لِيۖ فَلَا تَلُومُونِي وَلُومُوٓاْ أَنفُسَكُمۖ مَّآ أَنَا۠ بِمُصۡرِخِكُمۡ وَمَآ أَنتُم بِمُصۡرِخِيَّ إِنِّي كَفَرۡتُ بِمَآ أَشۡرَكۡتُمُونِ مِن قَبۡلُۗ إِنَّ ٱلظَّٰلِمِينَ لَهُمۡ عَذَابٌ أَلِيمٞ",
+  "translation": "22. Shaydaanna wuxuu odhan marka Arrinka la xukumo: Alle wuxuu idiin ballan qaaday ballan Xaq ah, aniguna idiin ballan qaaday ballamo (been ah), waana idiinka baxay. Kumana laheyn awood dushiinna, waan idiin baaqay uun oo aad i yeesheen. Marka ha i eedaynina ee eedeeya nafahiinna7. Anigu idiinma gargaari karo (haatan), idinkuna iima gargaari kartaan. Anigu diiday ila wadaajintiinna horey cibaadada Alle. Daalimiintu waxay leeyihiin Cadaab Xanuun Badan.",
+  "footnotes": "7. Adeeciddii aad I adeecdeen aniga halkii Alle intaad dunida joogteen."
 }

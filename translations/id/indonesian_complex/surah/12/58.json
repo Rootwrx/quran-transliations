@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1654",
-    "sura": "12",
-    "aya": "58",
-    "arabic_text": "وَجَآءَ إِخۡوَةُ يُوسُفَ فَدَخَلُواْ عَلَيۡهِ فَعَرَفَهُمۡ وَهُمۡ لَهُۥ مُنكِرُونَ",
-    "translation": "Dan saudara-saudara Yūsuf datang (ke Mesir), lalu mereka masuk ke (tempat)nya.   Maka  Yūsuf mengenal mereka, sedang mereka tidak kenal (lagi) kepadanya 756.",
-    "footnotes": "756.  Menurut sejarah, ketika terjadi musim paceklik di Mesir dan sekitarnya, maka atas anjuran Ya`qūb, saudara-saudara Yūsuf  datang dari Kanaan ke Mesir menghadap pembesar-pembesar Mesir untuk meminta bantuan bahan makanan."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 242,
+  "verse_key": "12:58",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَآءَ إِخۡوَةُ يُوسُفَ فَدَخَلُواْ عَلَيۡهِ فَعَرَفَهُمۡ وَهُمۡ لَهُۥ مُنكِرُونَ",
+  "translation": "Dan saudara-saudara Yūsuf datang (ke Mesir), lalu mereka masuk ke (tempat)nya.   Maka  Yūsuf mengenal mereka, sedang mereka tidak kenal (lagi) kepadanya 756.",
+  "footnotes": "756.  Menurut sejarah, ketika terjadi musim paceklik di Mesir dan sekitarnya, maka atas anjuran Ya`qūb, saudara-saudara Yūsuf  datang dari Kanaan ke Mesir menghadap pembesar-pembesar Mesir untuk meminta bantuan bahan makanan."
 }

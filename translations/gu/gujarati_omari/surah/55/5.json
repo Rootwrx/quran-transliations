@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4906",
-    "sura": "55",
-    "aya": "5",
-    "arabic_text": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ",
-    "translation": "૫. સુર્ય અને ચંદ્ર (નક્કી કરેલ) હિસાબ પ્રમાણે ચાલી રહ્યા છે.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 531,
+  "verse_key": "55:5",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلشَّمۡسُ وَٱلۡقَمَرُ بِحُسۡبَانٖ",
+  "translation": "૫. સુર્ય અને ચંદ્ર (નક્કી કરેલ) હિસાબ પ્રમાણે ચાલી રહ્યા છે.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3757",
-    "sura": "36",
-    "aya": "52",
-    "arabic_text": "قَالُواْ يَٰوَيۡلَنَا مَنۢ بَعَثَنَا مِن مَّرۡقَدِنَاۜۗ هَٰذَا مَا وَعَدَ ٱلرَّحۡمَٰنُ وَصَدَقَ ٱلۡمُرۡسَلُونَ",
-    "translation": "52 s’exclamant : « Malheur à nous ! Qui nous a arrachés à notre sommeil ? Voici que s’accomplit la menace du Tout Miséricordieux, les Messagers disaient donc la vérité. »[1130]",
-    "footnotes": "[1130] Cette dernière phrase sera, selon certains commentateurs, prononcée par les croyants ou les anges."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 443,
+  "verse_key": "36:52",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 177,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰوَيۡلَنَا مَنۢ بَعَثَنَا مِن مَّرۡقَدِنَاۜۗ هَٰذَا مَا وَعَدَ ٱلرَّحۡمَٰنُ وَصَدَقَ ٱلۡمُرۡسَلُونَ",
+  "translation": "52 s’exclamant : « Malheur à nous ! Qui nous a arrachés à notre sommeil ? Voici que s’accomplit la menace du Tout Miséricordieux, les Messagers disaient donc la vérité. »[1130]",
+  "footnotes": "[1130] Cette dernière phrase sera, selon certains commentateurs, prononcée par les croyants ou les anges."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2545",
-    "sura": "21",
-    "aya": "62",
-    "arabic_text": "قَالُوٓاْ ءَأَنتَ فَعَلۡتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبۡرَٰهِيمُ",
-    "translation": "Bunu ilâhlarımıza sen mi yaptın ey İbrahim? dediler.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 327,
+  "verse_key": "21:62",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ ءَأَنتَ فَعَلۡتَ هَٰذَا بِـَٔالِهَتِنَا يَٰٓإِبۡرَٰهِيمُ",
+  "translation": "Bunu ilâhlarımıza sen mi yaptın ey İbrahim? dediler.",
+  "footnotes": ""
 }

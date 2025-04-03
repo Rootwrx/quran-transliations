@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "205",
-    "sura": "2",
-    "aya": "198",
-    "arabic_text": "لَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡۚ فَإِذَآ أَفَضۡتُم مِّنۡ عَرَفَٰتٖ فَٱذۡكُرُواْ ٱللَّهَ عِندَ ٱلۡمَشۡعَرِ ٱلۡحَرَامِۖ وَٱذۡكُرُوهُ كَمَا هَدَىٰكُمۡ وَإِن كُنتُم مِّن قَبۡلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
-    "translation": "Nta kibi kuri mwebwe kiri mu kurondera ingabirano z’Imana yanyu Rurema Allah mu rudandazwa mu gihe co gushengerera ingoro ntagatifu. Nihagera aho mutera muva “Arafaati” mugana “Muzdalifa” izuba rimaze kurenga[33], muraninahaza mutazira musaba kenshi Imana Allah mugeze “Muzdalifa” ahagenewe kuninaharizwa Imana Allah. Murayininahaza kenshi rero ku vyo Yabashoboje Ikabarongora mu nzira yayo. Ni ukuri mwari mu bahuvye imbere yuko Ibarongora.",
-    "footnotes": "[33] Ku musi w’igenekerezo rya 9 mu kwezi kwa “Dhu l-Hijja” kwa 12."
-  }
+  "id": 198,
+  "verse_number": 198,
+  "page_number": 31,
+  "verse_key": "2:198",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَبۡتَغُواْ فَضۡلٗا مِّن رَّبِّكُمۡۚ فَإِذَآ أَفَضۡتُم مِّنۡ عَرَفَٰتٖ فَٱذۡكُرُواْ ٱللَّهَ عِندَ ٱلۡمَشۡعَرِ ٱلۡحَرَامِۖ وَٱذۡكُرُوهُ كَمَا هَدَىٰكُمۡ وَإِن كُنتُم مِّن قَبۡلِهِۦ لَمِنَ ٱلضَّآلِّينَ",
+  "translation": "Nta kibi kuri mwebwe kiri mu kurondera ingabirano z’Imana yanyu Rurema Allah mu rudandazwa mu gihe co gushengerera ingoro ntagatifu. Nihagera aho mutera muva “Arafaati” mugana “Muzdalifa” izuba rimaze kurenga[33], muraninahaza mutazira musaba kenshi Imana Allah mugeze “Muzdalifa” ahagenewe kuninaharizwa Imana Allah. Murayininahaza kenshi rero ku vyo Yabashoboje Ikabarongora mu nzira yayo. Ni ukuri mwari mu bahuvye imbere yuko Ibarongora.",
+  "footnotes": "[33] Ku musi w’igenekerezo rya 9 mu kwezi kwa “Dhu l-Hijja” kwa 12."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4704",
-    "sura": "51",
-    "aya": "29",
-    "arabic_text": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
-    "translation": "Nígbà náà, ìyàwó rẹ̀ wọlé pẹ̀lú igbe, ó sì gbára rẹ̀ lójú, ó sọ pé: “Arúgbó, àgàn (mà ni mí)!”",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 521,
+  "verse_key": "51:29",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
+  "translation": "Nígbà náà, ìyàwó rẹ̀ wọlé pẹ̀lú igbe, ó sì gbára rẹ̀ lójú, ó sọ pé: “Arúgbó, àgàn (mà ni mí)!”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4751",
-    "sura": "52",
-    "aya": "16",
-    "arabic_text": "ٱصۡلَوۡهَا فَٱصۡبِرُوٓاْ أَوۡ لَا تَصۡبِرُواْ سَوَآءٌ عَلَيۡكُمۡۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "Kẽ-y-yã-a. Y maanda sugri, y pa maand sugri, fãa yaa yembr yãmb zugu. Ad b sẽn rol yãmbã yaa y sẽn da tʋmdɑ keoore.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 524,
+  "verse_key": "52:16",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱصۡلَوۡهَا فَٱصۡبِرُوٓاْ أَوۡ لَا تَصۡبِرُواْ سَوَآءٌ عَلَيۡكُمۡۖ إِنَّمَا تُجۡزَوۡنَ مَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "Kẽ-y-yã-a. Y maanda sugri, y pa maand sugri, fãa yaa yembr yãmb zugu. Ad b sẽn rol yãmbã yaa y sẽn da tʋmdɑ keoore.",
+  "footnotes": ""
 }

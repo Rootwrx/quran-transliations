@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "263",
-    "sura": "2",
-    "aya": "256",
-    "arabic_text": "لَآ إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ فَمَن يَكۡفُرۡ بِٱلطَّٰغُوتِ وَيُؤۡمِنۢ بِٱللَّهِ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰ لَا ٱنفِصَامَ لَهَاۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
-    "translation": "256. Tidak ada paksaan untuk (menganut) agama (Islam), sesungguhnya telah jelas (perbedaan) antara jalan yang benar dengan jalan yang sesat. Barangsiapa ingkar kepada ṭāgūt*(97) dan beriman kepada Allah, maka sungguh, dia telah berpegang (teguh) pada tali yang sangat kuat yang tidak akan putus. Dan Allah Maha Mendengar, Maha Mengetahui.",
-    "footnotes": "*97). Setan dan apa saja yang disembah selain Allah Subhānahu wata'āla, dan yang disembah itu meridainya. Kalau yang disembah itu tidak meridainya maka mereka tidak termasuk ke dalam makna ṭāgūt."
-  }
+  "id": 256,
+  "verse_number": 256,
+  "page_number": 42,
+  "verse_key": "2:256",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 17,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَآ إِكۡرَاهَ فِي ٱلدِّينِۖ قَد تَّبَيَّنَ ٱلرُّشۡدُ مِنَ ٱلۡغَيِّۚ فَمَن يَكۡفُرۡ بِٱلطَّٰغُوتِ وَيُؤۡمِنۢ بِٱللَّهِ فَقَدِ ٱسۡتَمۡسَكَ بِٱلۡعُرۡوَةِ ٱلۡوُثۡقَىٰ لَا ٱنفِصَامَ لَهَاۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+  "translation": "256. Tidak ada paksaan untuk (menganut) agama (Islam), sesungguhnya telah jelas (perbedaan) antara jalan yang benar dengan jalan yang sesat. Barangsiapa ingkar kepada ṭāgūt*(97) dan beriman kepada Allah, maka sungguh, dia telah berpegang (teguh) pada tali yang sangat kuat yang tidak akan putus. Dan Allah Maha Mendengar, Maha Mengetahui.",
+  "footnotes": "*97). Setan dan apa saja yang disembah selain Allah Subhānahu wata'āla, dan yang disembah itu meridainya. Kalau yang disembah itu tidak meridainya maka mereka tidak termasuk ke dalam makna ṭāgūt."
 }

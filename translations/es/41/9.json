@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4227",
-    "sura": "41",
-    "aya": "9",
-    "arabic_text": "۞ قُلۡ أَئِنَّكُمۡ لَتَكۡفُرُونَ بِٱلَّذِي خَلَقَ ٱلۡأَرۡضَ فِي يَوۡمَيۡنِ وَتَجۡعَلُونَ لَهُۥٓ أَندَادٗاۚ ذَٰلِكَ رَبُّ ٱلۡعَٰلَمِينَ",
-    "translation": "9. Diles: “¿Cómo es que no creen en Quien creó la Tierra en dos días e inventan ídolos a los que adoran como si tuvieran poderes igual que Él? Él es el Señor del universo.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 477,
+  "verse_key": "41:9",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قُلۡ أَئِنَّكُمۡ لَتَكۡفُرُونَ بِٱلَّذِي خَلَقَ ٱلۡأَرۡضَ فِي يَوۡمَيۡنِ وَتَجۡعَلُونَ لَهُۥٓ أَندَادٗاۚ ذَٰلِكَ رَبُّ ٱلۡعَٰلَمِينَ",
+  "translation": "9. Diles: “¿Cómo es que no creen en Quien creó la Tierra en dos días e inventan ídolos a los que adoran como si tuvieran poderes igual que Él? Él es el Señor del universo.",
+  "footnotes": ""
 }

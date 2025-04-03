@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3372",
-    "sura": "29",
-    "aya": "32",
-    "arabic_text": "قَالَ إِنَّ فِيهَا لُوطٗاۚ قَالُواْ نَحۡنُ أَعۡلَمُ بِمَن فِيهَاۖ لَنُنَجِّيَنَّهُۥ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ",
-    "translation": "Ibrahim reče: “U njemu je Lut!” “Mi dobro znamo ko je u njemu”, rekoše oni, “mi ćemo njega i porodicu njegovu sigurno spasiti, osim žene njegove, ona će ostati s onima koji će kaznu iskusiti.”",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 400,
+  "verse_key": "29:32",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ إِنَّ فِيهَا لُوطٗاۚ قَالُواْ نَحۡنُ أَعۡلَمُ بِمَن فِيهَاۖ لَنُنَجِّيَنَّهُۥ وَأَهۡلَهُۥٓ إِلَّا ٱمۡرَأَتَهُۥ كَانَتۡ مِنَ ٱلۡغَٰبِرِينَ",
+  "translation": "Ibrahim reče: “U njemu je Lut!” “Mi dobro znamo ko je u njemu”, rekoše oni, “mi ćemo njega i porodicu njegovu sigurno spasiti, osim žene njegove, ona će ostati s onima koji će kaznu iskusiti.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2996",
-    "sura": "26",
-    "aya": "64",
-    "arabic_text": "وَأَزۡلَفۡنَا ثَمَّ ٱلۡأٓخَرِينَ",
-    "translation": "Kuma Muka kusantar da waɗansu mutãne a can.",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 370,
+  "verse_key": "26:64",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَزۡلَفۡنَا ثَمَّ ٱلۡأٓخَرِينَ",
+  "translation": "Kuma Muka kusantar da waɗansu mutãne a can.",
+  "footnotes": ""
 }

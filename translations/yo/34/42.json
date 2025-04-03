@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3648",
-    "sura": "34",
-    "aya": "42",
-    "arabic_text": "فَٱلۡيَوۡمَ لَا يَمۡلِكُ بَعۡضُكُمۡ لِبَعۡضٖ نَّفۡعٗا وَلَا ضَرّٗا وَنَقُولُ لِلَّذِينَ ظَلَمُواْ ذُوقُواْ عَذَابَ ٱلنَّارِ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ",
-    "translation": "Nítorí náà, ní òní apá kan yín kò ní ìkápá àǹfààní, kò sì ní ìkápá ìnira fún apá kan. A sì máa sọ fún àwọn tó ṣàbòsí pé: “Ẹ tọ́ ìyà Iná tí ẹ̀ ń pè ní irọ́ wò.”",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 433,
+  "verse_key": "34:42",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱلۡيَوۡمَ لَا يَمۡلِكُ بَعۡضُكُمۡ لِبَعۡضٖ نَّفۡعٗا وَلَا ضَرّٗا وَنَقُولُ لِلَّذِينَ ظَلَمُواْ ذُوقُواْ عَذَابَ ٱلنَّارِ ٱلَّتِي كُنتُم بِهَا تُكَذِّبُونَ",
+  "translation": "Nítorí náà, ní òní apá kan yín kò ní ìkápá àǹfààní, kò sì ní ìkápá ìnira fún apá kan. A sì máa sọ fún àwọn tó ṣàbòsí pé: “Ẹ tọ́ ìyà Iná tí ẹ̀ ń pè ní irọ́ wò.”",
+  "footnotes": ""
 }

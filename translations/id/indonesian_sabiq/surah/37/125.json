@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3913",
-    "sura": "37",
-    "aya": "125",
-    "arabic_text": "أَتَدۡعُونَ بَعۡلٗا وَتَذَرُونَ أَحۡسَنَ ٱلۡخَٰلِقِينَ",
-    "translation": "125. Patutkah kamu menyembah Ba'l  dan kamu tinggalkan (Allah) sebaik-baik Pencipta,",
-    "footnotes": "*735). Ba`l adalah nama salah satu berhala dari orang Phunicia."
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 450,
+  "verse_key": "37:125",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَتَدۡعُونَ بَعۡلٗا وَتَذَرُونَ أَحۡسَنَ ٱلۡخَٰلِقِينَ",
+  "translation": "125. Patutkah kamu menyembah Ba'l  dan kamu tinggalkan (Allah) sebaik-baik Pencipta,",
+  "footnotes": "*735). Ba`l adalah nama salah satu berhala dari orang Phunicia."
 }

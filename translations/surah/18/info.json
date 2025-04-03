@@ -1,0 +1,27 @@
+{
+  "number": 18,
+  "name": {
+    "ar": "الكهف",
+    "en": "The Cave",
+    "transliteration": "Al-Kahf"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 69,
+  "bismillah_pre": true,
+  "verses_count": 110,
+  "words_count": 1583,
+  "letters_count": 6425,
+  "pages": [
+    293,
+    304
+  ],
+  "name_simple": "Al-Kahf",
+  "name_complex": "Al-Kahf",
+  "name_arabic": "الكهف",
+  "translated_name": "The Cave",
+  "start_page": 293,
+  "end_page": 304
+}

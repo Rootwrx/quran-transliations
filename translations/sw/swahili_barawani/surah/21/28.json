@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2511",
-    "sura": "21",
-    "aya": "28",
-    "arabic_text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يَشۡفَعُونَ إِلَّا لِمَنِ ٱرۡتَضَىٰ وَهُم مِّنۡ خَشۡيَتِهِۦ مُشۡفِقُونَ",
-    "translation": "Anayajua yaliyo mbele yao na yaliyo nyuma yao. Wala hawamwombei yeyote ila yule anaye mridhia Yeye, nao kwa ajili ya kumwogopa wananyenyekea.",
-    "footnotes": "Mwenyezi Mungu anazijua hali zao zote na vitendo vyao vyote, walivyo vitanguliza na walivyo viakhirisha. Wala hawamwombei mtu kwake ila kwa aliye ridhia Mwenyezi Mungu. Na wao jinsi ya wingi wa khofu yao kumwogopa Mwenyezi Mungu Mtukufu, na kumtukuza Yeye, daima wana hadhari naye.."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 324,
+  "verse_key": "21:28",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَعۡلَمُ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُمۡ وَلَا يَشۡفَعُونَ إِلَّا لِمَنِ ٱرۡتَضَىٰ وَهُم مِّنۡ خَشۡيَتِهِۦ مُشۡفِقُونَ",
+  "translation": "Anayajua yaliyo mbele yao na yaliyo nyuma yao. Wala hawamwombei yeyote ila yule anaye mridhia Yeye, nao kwa ajili ya kumwogopa wananyenyekea.",
+  "footnotes": "Mwenyezi Mungu anazijua hali zao zote na vitendo vyao vyote, walivyo vitanguliza na walivyo viakhirisha. Wala hawamwombei mtu kwake ila kwa aliye ridhia Mwenyezi Mungu. Na wao jinsi ya wingi wa khofu yao kumwogopa Mwenyezi Mungu Mtukufu, na kumtukuza Yeye, daima wana hadhari naye.."
 }

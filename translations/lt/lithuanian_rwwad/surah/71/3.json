@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5422",
-    "sura": "71",
-    "aya": "3",
-    "arabic_text": "أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
-    "translation": "3. garbinti Allahą, baimintis Jo ir paklusti man.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 570,
+  "verse_key": "71:3",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَنِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُ وَأَطِيعُونِ",
+  "translation": "3. garbinti Allahą, baimintis Jo ir paklusti man.",
+  "footnotes": ""
 }

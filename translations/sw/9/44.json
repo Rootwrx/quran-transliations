@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1279",
-    "sura": "9",
-    "aya": "44",
-    "arabic_text": "لَا يَسۡتَـٔۡذِنُكَ ٱلَّذِينَ يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ أَن يُجَٰهِدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡۗ وَٱللَّهُ عَلِيمُۢ بِٱلۡمُتَّقِينَ",
-    "translation": "Hawatakuomba ruhusa wale wanao muamini Mwenyezi Mungu na Siku ya Mwisho, wasende kupigana Jihadi kwa mali yao na nafsi zao. Na Mwenyezi Mungu ni Mwenye kuwajua wachamngu.",
-    "footnotes": "Sio mwendo wa Waumini wa kweli wanao muamini Mwenyezi Mungu na Hisabu ya Siku ya Mwisho waje kukutaka ruhusa ya kuto kwenda kuwania Jihadi kwa mali na nafsi, au kuwa wao wabaki nyuma wakuache wewe. Kwa sababu ukweli wa Imani yao unawapendekezesha Jihadi katika Njia ya Mwenyezi Mungu. Na Mwenyezi Mungu anajua ukweli wa niya za Waumini."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 194,
+  "verse_key": "9:44",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا يَسۡتَـٔۡذِنُكَ ٱلَّذِينَ يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ أَن يُجَٰهِدُواْ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡۗ وَٱللَّهُ عَلِيمُۢ بِٱلۡمُتَّقِينَ",
+  "translation": "Hawatakuomba ruhusa wale wanao muamini Mwenyezi Mungu na Siku ya Mwisho, wasende kupigana Jihadi kwa mali yao na nafsi zao. Na Mwenyezi Mungu ni Mwenye kuwajua wachamngu.",
+  "footnotes": "Sio mwendo wa Waumini wa kweli wanao muamini Mwenyezi Mungu na Hisabu ya Siku ya Mwisho waje kukutaka ruhusa ya kuto kwenda kuwania Jihadi kwa mali na nafsi, au kuwa wao wabaki nyuma wakuache wewe. Kwa sababu ukweli wa Imani yao unawapendekezesha Jihadi katika Njia ya Mwenyezi Mungu. Na Mwenyezi Mungu anajua ukweli wa niya za Waumini."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4571",
-    "sura": "47",
-    "aya": "26",
-    "arabic_text": "ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لِلَّذِينَ كَرِهُواْ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمۡ فِي بَعۡضِ ٱلۡأَمۡرِۖ وَٱللَّهُ يَعۡلَمُ إِسۡرَارَهُمۡ",
-    "translation": "Ìyẹn nítorí pé (àwọn aláìsàn ọkàn) ń sọ fún àwọn tó kórira ohun tí Allāhu sọ̀kalẹ̀ (ìyẹn àwọn yẹhudi) pé: “Àwa yóò tẹ̀lé yin nínú apá kan ọ̀rọ̀ náà.”[1] Allāhu sì mọ àṣírí wọn.",
-    "footnotes": "1. Ìyẹn ni pé, àwọn aláìsàn ọkàn nínú àwọn mùsùlùmí, ìyẹn àwọn tí wọn ń sá fún ogun ẹ̀sìn, wọ́n lọ bá àwọn yẹhudi, ìyẹn àwọn tí wọ́n kírira pé Ànábì ìkẹ́yìn dìde láààrin àwọn ọmọ Ànábì ’Ismā‘īl. Igun alágàbàǹgebè sì ń sàdéhùn àtìlẹ́yìn fún igun yẹhudi."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 509,
+  "verse_key": "47:26",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لِلَّذِينَ كَرِهُواْ مَا نَزَّلَ ٱللَّهُ سَنُطِيعُكُمۡ فِي بَعۡضِ ٱلۡأَمۡرِۖ وَٱللَّهُ يَعۡلَمُ إِسۡرَارَهُمۡ",
+  "translation": "Ìyẹn nítorí pé (àwọn aláìsàn ọkàn) ń sọ fún àwọn tó kórira ohun tí Allāhu sọ̀kalẹ̀ (ìyẹn àwọn yẹhudi) pé: “Àwa yóò tẹ̀lé yin nínú apá kan ọ̀rọ̀ náà.”[1] Allāhu sì mọ àṣírí wọn.",
+  "footnotes": "1. Ìyẹn ni pé, àwọn aláìsàn ọkàn nínú àwọn mùsùlùmí, ìyẹn àwọn tí wọn ń sá fún ogun ẹ̀sìn, wọ́n lọ bá àwọn yẹhudi, ìyẹn àwọn tí wọ́n kírira pé Ànábì ìkẹ́yìn dìde láààrin àwọn ọmọ Ànábì ’Ismā‘īl. Igun alágàbàǹgebè sì ń sàdéhùn àtìlẹ́yìn fún igun yẹhudi."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1377",
-    "sura": "10",
-    "aya": "13",
-    "arabic_text": "وَلَقَدۡ أَهۡلَكۡنَا ٱلۡقُرُونَ مِن قَبۡلِكُمۡ لَمَّا ظَلَمُواْ وَجَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَمَا كَانُواْ لِيُؤۡمِنُواْۚ كَذَٰلِكَ نَجۡزِي ٱلۡقَوۡمَ ٱلۡمُجۡرِمِينَ",
-    "translation": "Na kwa yakini tumekwisha ziangamiza kaumu za kabla yenu walipo dhulumu, na waliwajia Mitume wao kwa Ishara zilizo wazi; lakini hawakuwa wenye kuamini. Ndio kama hivyo tunavyo walipa watu wakosefu.",
-    "footnotes": "Na Sisi tulikwisha ziangamiza kaumu zilizo kutangulieni kwa sababu ya kufuru zao walipo wajia Mitume na Ishara zilizo wazi za kusadikisha wito wao wa kuitia Imani. Na Mwenyezi Mungu akijua, kwa ajili ya kung'ang'ania kwao ukafiri na uasi, kuwa haitopatikana Imani kwao! Basi enyi makafiri wa Kikureshi! Zingatieni! Kama tulivyo waangamiza walio kuwa kabla yenu, kadhaalika tutawalipa wakosefu kwa maangamizo."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 209,
+  "verse_key": "10:13",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَهۡلَكۡنَا ٱلۡقُرُونَ مِن قَبۡلِكُمۡ لَمَّا ظَلَمُواْ وَجَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ وَمَا كَانُواْ لِيُؤۡمِنُواْۚ كَذَٰلِكَ نَجۡزِي ٱلۡقَوۡمَ ٱلۡمُجۡرِمِينَ",
+  "translation": "Na kwa yakini tumekwisha ziangamiza kaumu za kabla yenu walipo dhulumu, na waliwajia Mitume wao kwa Ishara zilizo wazi; lakini hawakuwa wenye kuamini. Ndio kama hivyo tunavyo walipa watu wakosefu.",
+  "footnotes": "Na Sisi tulikwisha ziangamiza kaumu zilizo kutangulieni kwa sababu ya kufuru zao walipo wajia Mitume na Ishara zilizo wazi za kusadikisha wito wao wa kuitia Imani. Na Mwenyezi Mungu akijua, kwa ajili ya kung'ang'ania kwao ukafiri na uasi, kuwa haitopatikana Imani kwao! Basi enyi makafiri wa Kikureshi! Zingatieni! Kama tulivyo waangamiza walio kuwa kabla yenu, kadhaalika tutawalipa wakosefu kwa maangamizo."
 }

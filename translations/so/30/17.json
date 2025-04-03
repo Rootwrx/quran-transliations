@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3426",
-    "sura": "30",
-    "aya": "17",
-    "arabic_text": "فَسُبۡحَٰنَ ٱللَّهِ حِينَ تُمۡسُونَ وَحِينَ تُصۡبِحُونَ",
-    "translation": "17. Ee Xurmad weyneeya Allaah oo ka hufa (ceeb iyo nuqsaan iyo inuu leeyahay wax shariig ah ama xaas ama ilmo) markaad galabsataan (salaadaha Maghribka iyo Cishaha) iyo markaad waabariisataan (salaadda Subax).",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 406,
+  "verse_key": "30:17",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسُبۡحَٰنَ ٱللَّهِ حِينَ تُمۡسُونَ وَحِينَ تُصۡبِحُونَ",
+  "translation": "17. Ee Xurmad weyneeya Allaah oo ka hufa (ceeb iyo nuqsaan iyo inuu leeyahay wax shariig ah ama xaas ama ilmo) markaad galabsataan (salaadaha Maghribka iyo Cishaha) iyo markaad waabariisataan (salaadda Subax).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3710",
-    "sura": "36",
-    "aya": "5",
-    "arabic_text": "تَنزِيلَ ٱلۡعَزِيزِ ٱلرَّحِيمِ",
-    "translation": "C’est une révélation de la part du Tout-Puissant, du Très Miséricordieux.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 440,
+  "verse_key": "36:5",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَنزِيلَ ٱلۡعَزِيزِ ٱلرَّحِيمِ",
+  "translation": "C’est une révélation de la part du Tout-Puissant, du Très Miséricordieux.",
+  "footnotes": ""
 }

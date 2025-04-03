@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1402",
-    "sura": "10",
-    "aya": "38",
-    "arabic_text": "أَمۡ يَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ فَأۡتُواْ بِسُورَةٖ مِّثۡلِهِۦ وَٱدۡعُواْ مَنِ ٱسۡتَطَعۡتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "38. Apakah pantas mereka mengatakan dia (Muhammad) yang telah membuat-buatnya? Katakanlah, “Buatlah sebuah surah semisal dengan surah (Al-Qur`ān), dan ajaklah siapa saja di antara kamu orang yang mampu (membuatnya) selain Allah, jika kamu orang-orang yang benar.”",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 213,
+  "verse_key": "10:38",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ يَقُولُونَ ٱفۡتَرَىٰهُۖ قُلۡ فَأۡتُواْ بِسُورَةٖ مِّثۡلِهِۦ وَٱدۡعُواْ مَنِ ٱسۡتَطَعۡتُم مِّن دُونِ ٱللَّهِ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "38. Apakah pantas mereka mengatakan dia (Muhammad) yang telah membuat-buatnya? Katakanlah, “Buatlah sebuah surah semisal dengan surah (Al-Qur`ān), dan ajaklah siapa saja di antara kamu orang yang mampu (membuatnya) selain Allah, jika kamu orang-orang yang benar.”",
+  "footnotes": ""
 }

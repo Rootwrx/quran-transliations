@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1715",
-    "sura": "13",
-    "aya": "8",
-    "arabic_text": "ٱللَّهُ يَعۡلَمُ مَا تَحۡمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلۡأَرۡحَامُ وَمَا تَزۡدَادُۚ وَكُلُّ شَيۡءٍ عِندَهُۥ بِمِقۡدَارٍ",
-    "translation": "Allah her dişinin rahminde ne taşıdığını, rahimlerin neyi eksiltip ve neyi arttırdığını bilir. O’nun katında her şeyin bir miktarı vardır. ",
-    "footnotes": null
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 250,
+  "verse_key": "13:8",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ يَعۡلَمُ مَا تَحۡمِلُ كُلُّ أُنثَىٰ وَمَا تَغِيضُ ٱلۡأَرۡحَامُ وَمَا تَزۡدَادُۚ وَكُلُّ شَيۡءٍ عِندَهُۥ بِمِقۡدَارٍ",
+  "translation": "Allah her dişinin rahminde ne taşıdığını, rahimlerin neyi eksiltip ve neyi arttırdığını bilir. O’nun katında her şeyin bir miktarı vardır. ",
+  "footnotes": null
 }

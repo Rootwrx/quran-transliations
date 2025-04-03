@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2346",
-    "sura": "19",
-    "aya": "96",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ سَيَجۡعَلُ لَهُمُ ٱلرَّحۡمَٰنُ وُدّٗا",
-    "translation": "96. Kuwa (Xaqa) rumeeyey ee samaha fala, Raxmaanku (Allaah) wuxuu u yeeli maxabbad (qalbiyada mu’miniinta)15.",
-    "footnotes": "15. Abuu Hurayra a.k.r. waxaa laga soo weriyey in Nabigu s.c.w. yidhi: Markuu Alle jeclaado addoon ka mid ah addoomahiisa, wuxuu u yeedhaa malag Jabriil oo u sheegaa in Alle Kor ahaaye jecel yahay hebel, ee adiguna jeclow. Markaas baa Jabriil jeclaadaa oo waxa cirka jooga u dhawaaqaa in Alle jecel yahay hebel, iyaguna sidaas darteed ay jeclaadaan, markaasay jeclaadaan waxa cirka jooga, dabeeto loo dhigaa aqbal iyo oggolaansho arlada dhexdeeda. (W.w. Al-Bukhaari)."
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 312,
+  "verse_key": "19:96",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ سَيَجۡعَلُ لَهُمُ ٱلرَّحۡمَٰنُ وُدّٗا",
+  "translation": "96. Kuwa (Xaqa) rumeeyey ee samaha fala, Raxmaanku (Allaah) wuxuu u yeeli maxabbad (qalbiyada mu’miniinta)15.",
+  "footnotes": "15. Abuu Hurayra a.k.r. waxaa laga soo weriyey in Nabigu s.c.w. yidhi: Markuu Alle jeclaado addoon ka mid ah addoomahiisa, wuxuu u yeedhaa malag Jabriil oo u sheegaa in Alle Kor ahaaye jecel yahay hebel, ee adiguna jeclow. Markaas baa Jabriil jeclaadaa oo waxa cirka jooga u dhawaaqaa in Alle jecel yahay hebel, iyaguna sidaas darteed ay jeclaadaan, markaasay jeclaadaan waxa cirka jooga, dabeeto loo dhigaa aqbal iyo oggolaansho arlada dhexdeeda. (W.w. Al-Bukhaari)."
 }

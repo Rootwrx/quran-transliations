@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "523",
-    "sura": "4",
-    "aya": "30",
-    "arabic_text": "وَمَن يَفۡعَلۡ ذَٰلِكَ عُدۡوَٰنٗا وَظُلۡمٗا فَسَوۡفَ نُصۡلِيهِ نَارٗاۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
-    "translation": "30 Quiconque transgresse délibérément ces interdits sera introduit par le Seigneur dans le feu de l’Enfer, chose des plus aisées pour Allah.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 83,
+  "verse_key": "4:30",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 33,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن يَفۡعَلۡ ذَٰلِكَ عُدۡوَٰنٗا وَظُلۡمٗا فَسَوۡفَ نُصۡلِيهِ نَارٗاۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرًا",
+  "translation": "30 Quiconque transgresse délibérément ces interdits sera introduit par le Seigneur dans le feu de l’Enfer, chose des plus aisées pour Allah.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5257",
-    "sura": "67",
-    "aya": "16",
-    "arabic_text": "ءَأَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا هِيَ تَمُورُ",
-    "translation": "16. Êtes-vous donc si sûrs que Celui Qui est au ciel ne fasse pas crouler la terre sous vos pieds et ne la fasse pas trembler ?",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 563,
+  "verse_key": "67:16",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ءَأَمِنتُم مَّن فِي ٱلسَّمَآءِ أَن يَخۡسِفَ بِكُمُ ٱلۡأَرۡضَ فَإِذَا هِيَ تَمُورُ",
+  "translation": "16. Êtes-vous donc si sûrs que Celui Qui est au ciel ne fasse pas crouler la terre sous vos pieds et ne la fasse pas trembler ?",
+  "footnotes": ""
 }

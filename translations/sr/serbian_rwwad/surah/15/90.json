@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1892",
-    "sura": "15",
-    "aya": "90",
-    "arabic_text": "كَمَآ أَنزَلۡنَا عَلَى ٱلۡمُقۡتَسِمِينَ",
-    "translation": "Као што смо следбенике Књиге опоменули.",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 266,
+  "verse_key": "15:90",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَمَآ أَنزَلۡنَا عَلَى ٱلۡمُقۡتَسِمِينَ",
+  "translation": "Као што смо следбенике Књиге опоменули.",
+  "footnotes": ""
 }

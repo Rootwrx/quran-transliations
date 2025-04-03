@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4021",
-    "sura": "38",
-    "aya": "51",
-    "arabic_text": "مُتَّكِـِٔينَ فِيهَا يَدۡعُونَ فِيهَا بِفَٰكِهَةٖ كَثِيرَةٖ وَشَرَابٖ",
-    "translation": "They will recline therein, calling for abundant fruit and drink.",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 456,
+  "verse_key": "38:51",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مُتَّكِـِٔينَ فِيهَا يَدۡعُونَ فِيهَا بِفَٰكِهَةٖ كَثِيرَةٖ وَشَرَابٖ",
+  "translation": "They will recline therein, calling for abundant fruit and drink.",
+  "footnotes": ""
 }

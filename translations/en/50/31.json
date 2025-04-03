@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4661",
-    "sura": "50",
-    "aya": "31",
-    "arabic_text": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ غَيۡرَ بَعِيدٍ",
-    "translation": "(31) And Paradise will be brought near to the righteous, not far,",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 519,
+  "verse_key": "50:31",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأُزۡلِفَتِ ٱلۡجَنَّةُ لِلۡمُتَّقِينَ غَيۡرَ بَعِيدٍ",
+  "translation": "(31) And Paradise will be brought near to the righteous, not far,",
+  "footnotes": ""
 }

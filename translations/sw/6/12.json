@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "801",
-    "sura": "6",
-    "aya": "12",
-    "arabic_text": "قُل لِّمَن مَّا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ قُل لِّلَّهِۚ كَتَبَ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَۚ لَيَجۡمَعَنَّكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِۚ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُونَ",
-    "translation": "Sema: Ni vya nani viliomo katika mbingu na katika ardhi? Sema: Ni vya Mwenyezi Mungu. Yeye amejilazimisha nafsi yake kurehemu. Hakika atakukusanyeni Siku ya Kiyama isiyo kuwa na shaka. Walio jikhasiri wenyewe hawaamini.",
-    "footnotes": "Ewe Nabii! Waambie hawa wapinzani: Nani Mmiliki mbingu na ardhi, na viliomo ndani yao? Wakiemewa, wape jawabu ambayo hakuna nyengineyo, nayo ni: Hakika Mwenye kuvimiliki vyote hivyo ni Mwenyezi Mungu peke yake, wala hana mshirika. Na Yeye amejiwajibishia Mwenyewe rehema kuwarehemu waja wake. Kwa hivyo hawafanyii haraka kuwaadhibu, na anakubali toba yao. Hakika, atakukusanyeni Siku ya Kiyama ambayo haina shaka. Walio zipoteza nafsi zao, na wakazipelekea kwenye adhabu katika Siku hii, ni wale ambao hawamsadiki Mwenyezi Mungu, wala Siku ya Hisabu."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 129,
+  "verse_key": "6:12",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لِّمَن مَّا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ قُل لِّلَّهِۚ كَتَبَ عَلَىٰ نَفۡسِهِ ٱلرَّحۡمَةَۚ لَيَجۡمَعَنَّكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِۚ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُونَ",
+  "translation": "Sema: Ni vya nani viliomo katika mbingu na katika ardhi? Sema: Ni vya Mwenyezi Mungu. Yeye amejilazimisha nafsi yake kurehemu. Hakika atakukusanyeni Siku ya Kiyama isiyo kuwa na shaka. Walio jikhasiri wenyewe hawaamini.",
+  "footnotes": "Ewe Nabii! Waambie hawa wapinzani: Nani Mmiliki mbingu na ardhi, na viliomo ndani yao? Wakiemewa, wape jawabu ambayo hakuna nyengineyo, nayo ni: Hakika Mwenye kuvimiliki vyote hivyo ni Mwenyezi Mungu peke yake, wala hana mshirika. Na Yeye amejiwajibishia Mwenyewe rehema kuwarehemu waja wake. Kwa hivyo hawafanyii haraka kuwaadhibu, na anakubali toba yao. Hakika, atakukusanyeni Siku ya Kiyama ambayo haina shaka. Walio zipoteza nafsi zao, na wakazipelekea kwenye adhabu katika Siku hii, ni wale ambao hawamsadiki Mwenyezi Mungu, wala Siku ya Hisabu."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1000",
-    "sura": "7",
-    "aya": "46",
-    "arabic_text": "وَبَيۡنَهُمَا حِجَابٞۚ وَعَلَى ٱلۡأَعۡرَافِ رِجَالٞ يَعۡرِفُونَ كُلَّۢا بِسِيمَىٰهُمۡۚ وَنَادَوۡاْ أَصۡحَٰبَ ٱلۡجَنَّةِ أَن سَلَٰمٌ عَلَيۡكُمۡۚ لَمۡ يَدۡخُلُوهَا وَهُمۡ يَطۡمَعُونَ",
-    "translation": "46. O tarp jų bus (užtverianti) pertvara ir ant Al-Araf [3] (siena su iškeltomis vietomis) bus žmonės (kurių geri ir blogi darbai bus lygūs ant svarstyklių), kurie atpažins visus (Rojaus ir Pragaro žmones) pagal jų žymes (Rojaus gyventojus – pagal jų baltus veidus, o Pragaro gyventojus – pagal jų juodus veidus). Jie sušuks Rojaus gyventojams: „Salamun Alaikum (taika jums)“ ir tuo metu jie (žmonės ant Al-Araf) dar nebus įžengę į jį (Rojų), tačiau tikrai tikėsis įžengti (į jį).",
-    "footnotes": "[3] Al-Araf: sakoma, kad tai yra siena tarp Rojaus ir Pragaro, ir ant jos yra iškeltų vietų."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 156,
+  "verse_key": "7:46",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 62,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبَيۡنَهُمَا حِجَابٞۚ وَعَلَى ٱلۡأَعۡرَافِ رِجَالٞ يَعۡرِفُونَ كُلَّۢا بِسِيمَىٰهُمۡۚ وَنَادَوۡاْ أَصۡحَٰبَ ٱلۡجَنَّةِ أَن سَلَٰمٌ عَلَيۡكُمۡۚ لَمۡ يَدۡخُلُوهَا وَهُمۡ يَطۡمَعُونَ",
+  "translation": "46. O tarp jų bus (užtverianti) pertvara ir ant Al-Araf [3] (siena su iškeltomis vietomis) bus žmonės (kurių geri ir blogi darbai bus lygūs ant svarstyklių), kurie atpažins visus (Rojaus ir Pragaro žmones) pagal jų žymes (Rojaus gyventojus – pagal jų baltus veidus, o Pragaro gyventojus – pagal jų juodus veidus). Jie sušuks Rojaus gyventojams: „Salamun Alaikum (taika jums)“ ir tuo metu jie (žmonės ant Al-Araf) dar nebus įžengę į jį (Rojų), tačiau tikrai tikėsis įžengti (į jį).",
+  "footnotes": "[3] Al-Araf: sakoma, kad tai yra siena tarp Rojaus ir Pragaro, ir ant jos yra iškeltų vietų."
 }

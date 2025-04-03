@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "806",
-    "sura": "6",
-    "aya": "17",
-    "arabic_text": "وَإِن يَمۡسَسۡكَ ٱللَّهُ بِضُرّٖ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَۖ وَإِن يَمۡسَسۡكَ بِخَيۡرٖ فَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "La Wẽnd sã n paams foom ne toogo, ad pãrgd pa be ne-a rẽnda Yẽ. La A sã n paams foom ne sõma, ad A yaa tõod ne bũmb fãa.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 129,
+  "verse_key": "6:17",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن يَمۡسَسۡكَ ٱللَّهُ بِضُرّٖ فَلَا كَاشِفَ لَهُۥٓ إِلَّا هُوَۖ وَإِن يَمۡسَسۡكَ بِخَيۡرٖ فَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "La Wẽnd sã n paams foom ne toogo, ad pãrgd pa be ne-a rẽnda Yẽ. La A sã n paams foom ne sõma, ad A yaa tõod ne bũmb fãa.",
+  "footnotes": ""
 }

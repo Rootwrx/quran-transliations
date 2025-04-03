@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "120",
-    "sura": "2",
-    "aya": "113",
-    "arabic_text": "وَقَالَتِ ٱلۡيَهُودُ لَيۡسَتِ ٱلنَّصَٰرَىٰ عَلَىٰ شَيۡءٖ وَقَالَتِ ٱلنَّصَٰرَىٰ لَيۡسَتِ ٱلۡيَهُودُ عَلَىٰ شَيۡءٖ وَهُمۡ يَتۡلُونَ ٱلۡكِتَٰبَۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعۡلَمُونَ مِثۡلَ قَوۡلِهِمۡۚ فَٱللَّهُ يَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
-    "translation": "Hebrenjtë thonë: “Të krishterët nuk kanë kurrfarë udhërrëfimi ku të mbështeten!” Edhe të krishterët thonë: “Hebrenjtë nuk kanë kurrfarë urdhërrëfimi ku të mbështeten!” Ndërkohë, të dyja palët lexojnë të njëjtin Libër. Po kështu, edhe ata që nuk dinë, thonë të njëjtat fjalë. Allahu do t’i gjykojë kundërshtitë e tyre në Ditën e Kiametit.",
-    "footnotes": ""
-  }
+  "id": 113,
+  "verse_number": 113,
+  "page_number": 18,
+  "verse_key": "2:113",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَتِ ٱلۡيَهُودُ لَيۡسَتِ ٱلنَّصَٰرَىٰ عَلَىٰ شَيۡءٖ وَقَالَتِ ٱلنَّصَٰرَىٰ لَيۡسَتِ ٱلۡيَهُودُ عَلَىٰ شَيۡءٖ وَهُمۡ يَتۡلُونَ ٱلۡكِتَٰبَۗ كَذَٰلِكَ قَالَ ٱلَّذِينَ لَا يَعۡلَمُونَ مِثۡلَ قَوۡلِهِمۡۚ فَٱللَّهُ يَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
+  "translation": "Hebrenjtë thonë: “Të krishterët nuk kanë kurrfarë udhërrëfimi ku të mbështeten!” Edhe të krishterët thonë: “Hebrenjtë nuk kanë kurrfarë urdhërrëfimi ku të mbështeten!” Ndërkohë, të dyja palët lexojnë të njëjtin Libër. Po kështu, edhe ata që nuk dinë, thonë të njëjtat fjalë. Allahu do t’i gjykojë kundërshtitë e tyre në Ditën e Kiametit.",
+  "footnotes": ""
 }

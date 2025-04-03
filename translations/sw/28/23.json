@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3275",
-    "sura": "28",
-    "aya": "23",
-    "arabic_text": "وَلَمَّا وَرَدَ مَآءَ مَدۡيَنَ وَجَدَ عَلَيۡهِ أُمَّةٗ مِّنَ ٱلنَّاسِ يَسۡقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمۡرَأَتَيۡنِ تَذُودَانِۖ قَالَ مَا خَطۡبُكُمَاۖ قَالَتَا لَا نَسۡقِي حَتَّىٰ يُصۡدِرَ ٱلرِّعَآءُۖ وَأَبُونَا شَيۡخٞ كَبِيرٞ",
-    "translation": "Na alipo yafikia maji ya Madyana alikuta umati wa watu wananywesha (wanyama wao), na akakuta karibu yao wanawake wawili wanawazuia wanyama wao. Akasema: Mna nini? Wakasema: Hatunyweshi sisi mpaka wamalize hao wachunga. Na baba yetu ni mzee sana.",
-    "footnotes": "Alipo yafikia maji ya Madyana wanapo nyweshea maji alikuta karibu na kisima kundi la watu wengi mbali mbali wanawanywesha wanyama wao wa mifugo. Na pahali pa chini kuliko hapo pao akawakuta wanawake wawili wanawazuia kunywa maji kondoo na mbuzi wao. Musa akawaambia: Mbona mko mbali na maji? Wakajibu: Hatuwezi kusukumana, na wala hatunyweshi sisi mpaka hawa wachunga wamalize wao kunywesha. Na baba yetu ni mkongwe, hawezi kuchunga wala kunywesha wanyama."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 388,
+  "verse_key": "28:23",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا وَرَدَ مَآءَ مَدۡيَنَ وَجَدَ عَلَيۡهِ أُمَّةٗ مِّنَ ٱلنَّاسِ يَسۡقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمۡرَأَتَيۡنِ تَذُودَانِۖ قَالَ مَا خَطۡبُكُمَاۖ قَالَتَا لَا نَسۡقِي حَتَّىٰ يُصۡدِرَ ٱلرِّعَآءُۖ وَأَبُونَا شَيۡخٞ كَبِيرٞ",
+  "translation": "Na alipo yafikia maji ya Madyana alikuta umati wa watu wananywesha (wanyama wao), na akakuta karibu yao wanawake wawili wanawazuia wanyama wao. Akasema: Mna nini? Wakasema: Hatunyweshi sisi mpaka wamalize hao wachunga. Na baba yetu ni mzee sana.",
+  "footnotes": "Alipo yafikia maji ya Madyana wanapo nyweshea maji alikuta karibu na kisima kundi la watu wengi mbali mbali wanawanywesha wanyama wao wa mifugo. Na pahali pa chini kuliko hapo pao akawakuta wanawake wawili wanawazuia kunywa maji kondoo na mbuzi wao. Musa akawaambia: Mbona mko mbali na maji? Wakajibu: Hatuwezi kusukumana, na wala hatunyweshi sisi mpaka hawa wachunga wamalize wao kunywesha. Na baba yetu ni mkongwe, hawezi kuchunga wala kunywesha wanyama."
 }

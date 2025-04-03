@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "561",
-    "sura": "4",
-    "aya": "68",
-    "arabic_text": "وَلَهَدَيۡنَٰهُمۡ صِرَٰطٗا مُّسۡتَقِيمٗا",
-    "translation": "жана аларды туура жолго багыттап коймокпуз.",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 89,
+  "verse_key": "4:68",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَهَدَيۡنَٰهُمۡ صِرَٰطٗا مُّسۡتَقِيمٗا",
+  "translation": "жана аларды туура жолго багыттап коймокпуз.",
+  "footnotes": ""
 }

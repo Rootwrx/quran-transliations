@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2492",
-    "sura": "21",
-    "aya": "9",
-    "arabic_text": "ثُمَّ صَدَقۡنَٰهُمُ ٱلۡوَعۡدَ فَأَنجَيۡنَٰهُمۡ وَمَن نَّشَآءُ وَأَهۡلَكۡنَا ٱلۡمُسۡرِفِينَ",
-    "translation": "Lẹ́yìn náà, A mú àdéhùn Wa ṣẹ fún wọn. A sì gba àwọn Òjíṣẹ́ àti àwọn tí A bá fẹ́ là. A sì pa àwọn olùtayọ ẹnu-ààlà run.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 322,
+  "verse_key": "21:9",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ صَدَقۡنَٰهُمُ ٱلۡوَعۡدَ فَأَنجَيۡنَٰهُمۡ وَمَن نَّشَآءُ وَأَهۡلَكۡنَا ٱلۡمُسۡرِفِينَ",
+  "translation": "Lẹ́yìn náà, A mú àdéhùn Wa ṣẹ fún wọn. A sì gba àwọn Òjíṣẹ́ àti àwọn tí A bá fẹ́ là. A sì pa àwọn olùtayọ ẹnu-ààlà run.",
+  "footnotes": ""
 }

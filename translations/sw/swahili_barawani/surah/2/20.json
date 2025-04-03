@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "27",
-    "sura": "2",
-    "aya": "20",
-    "arabic_text": "يَكَادُ ٱلۡبَرۡقُ يَخۡطَفُ أَبۡصَٰرَهُمۡۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوۡاْ فِيهِ وَإِذَآ أَظۡلَمَ عَلَيۡهِمۡ قَامُواْۚ وَلَوۡ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمۡعِهِمۡ وَأَبۡصَٰرِهِمۡۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Unakaribia umeme kunyakua macho yao. Kila ukiwatolea mwangaza huenda, na unapo wafanyia giza husimama. Na angelitaka Mwenyezi Mungu angeliondoa kusikia kwao na kuona kwao. Hakika Mwenyezi Mungu ni Muweza wa kila kitu.",
-    "footnotes": "Huu umeme mkali wa kuonya unakaribia kunyakua macho yao kwa ukali wake, nao kwa hakika unawamurikia njia kidogo ili wapate kwenda khatua chache kwa mwangaza wake, na unapo katika umeme kiza kinazidi, basi wao husimama hawajui watendeje, wamepotea. Basi hawa wanaafiki dalili na ishara zinapo watolea mwangaza huwa na hamu ya kutaka kuongoka, lakini mara punde hurejea kule kule kwenye ukafiri na unaafiki. Mwenyezi Mungu, Mkunjufu wa uwezo akitaka kitu hukitenda tu, haemewi na chochote katika ardhi wala katika mbingu."
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 4,
+  "verse_key": "2:20",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَكَادُ ٱلۡبَرۡقُ يَخۡطَفُ أَبۡصَٰرَهُمۡۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوۡاْ فِيهِ وَإِذَآ أَظۡلَمَ عَلَيۡهِمۡ قَامُواْۚ وَلَوۡ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمۡعِهِمۡ وَأَبۡصَٰرِهِمۡۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Unakaribia umeme kunyakua macho yao. Kila ukiwatolea mwangaza huenda, na unapo wafanyia giza husimama. Na angelitaka Mwenyezi Mungu angeliondoa kusikia kwao na kuona kwao. Hakika Mwenyezi Mungu ni Muweza wa kila kitu.",
+  "footnotes": "Huu umeme mkali wa kuonya unakaribia kunyakua macho yao kwa ukali wake, nao kwa hakika unawamurikia njia kidogo ili wapate kwenda khatua chache kwa mwangaza wake, na unapo katika umeme kiza kinazidi, basi wao husimama hawajui watendeje, wamepotea. Basi hawa wanaafiki dalili na ishara zinapo watolea mwangaza huwa na hamu ya kutaka kuongoka, lakini mara punde hurejea kule kule kwenye ukafiri na unaafiki. Mwenyezi Mungu, Mkunjufu wa uwezo akitaka kitu hukitenda tu, haemewi na chochote katika ardhi wala katika mbingu."
 }

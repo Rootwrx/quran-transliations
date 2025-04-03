@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3807",
-    "sura": "37",
-    "aya": "19",
-    "arabic_text": "فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ فَإِذَا هُمۡ يَنظُرُونَ",
-    "translation": "Çünkü o, korkunç bir sesten ibarettir. O zaman etrafa bakıp dururlar.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 446,
+  "verse_key": "37:19",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنَّمَا هِيَ زَجۡرَةٞ وَٰحِدَةٞ فَإِذَا هُمۡ يَنظُرُونَ",
+  "translation": "Çünkü o, korkunç bir sesten ibarettir. O zaman etrafa bakıp dururlar.",
+  "footnotes": ""
 }

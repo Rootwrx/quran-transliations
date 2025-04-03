@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1957",
-    "sura": "16",
-    "aya": "56",
-    "arabic_text": "وَيَجۡعَلُونَ لِمَا لَا يَعۡلَمُونَ نَصِيبٗا مِّمَّا رَزَقۡنَٰهُمۡۗ تَٱللَّهِ لَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَفۡتَرُونَ",
-    "translation": "Višebošci onima koje kako treba ne poznaju određuju dio onoga čime smo ih opskrbili. Allaha Mi, bit ćete, sigurno, pitani za ono što ste stalno izmišljali!",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 273,
+  "verse_key": "16:56",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَجۡعَلُونَ لِمَا لَا يَعۡلَمُونَ نَصِيبٗا مِّمَّا رَزَقۡنَٰهُمۡۗ تَٱللَّهِ لَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَفۡتَرُونَ",
+  "translation": "Višebošci onima koje kako treba ne poznaju određuju dio onoga čime smo ih opskrbili. Allaha Mi, bit ćete, sigurno, pitani za ono što ste stalno izmišljali!",
+  "footnotes": ""
 }

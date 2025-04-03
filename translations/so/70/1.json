@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5376",
-    "sura": "70",
-    "aya": "1",
-    "arabic_text": "سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ",
-    "translation": "1. Mid wax dalbaya baa dalbay in cadaab ku dhacda (gaalada loo soo dedejiyo)2.",
-    "footnotes": "1. Al-Macaarij: Waddooyinka kor loogu baxo cirka waa kuwa ay malaa’igta u maraan aadista samooyinka.\n 2. Gaaladu waxay ka hor yimaadeen Nabiga s.c.w. iyagoo ka dalbay inuu ku keeno cadaab dushooda."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 568,
+  "verse_key": "70:1",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَأَلَ سَآئِلُۢ بِعَذَابٖ وَاقِعٖ",
+  "translation": "1. Mid wax dalbaya baa dalbay in cadaab ku dhacda (gaalada loo soo dedejiyo)2.",
+  "footnotes": "1. Al-Macaarij: Waddooyinka kor loogu baxo cirka waa kuwa ay malaa’igta u maraan aadista samooyinka.\n 2. Gaaladu waxay ka hor yimaadeen Nabiga s.c.w. iyagoo ka dalbay inuu ku keeno cadaab dushooda."
 }

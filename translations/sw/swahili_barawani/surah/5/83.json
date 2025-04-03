@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "752",
-    "sura": "5",
-    "aya": "83",
-    "arabic_text": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ",
-    "translation": "NA WANAPO SIKIA yaliyo teremshwa kwa Mtume utaona macho yao yanachururika machozi kwa sababu ya Haki waliyo itambua. Wanasema: Mola wetu Mlezi! Tumeamini. Basi tuandike pamoja na wanao shuhudia.",
-    "footnotes": "Na pia miongoni mwa Manasara wakiisikia Qur'ani aliyo teremshiwa Mtume huathirika nayo, macho huwatiririka machozi, kwa kuwa wanajua kuwa wanayo yasikia ni kweli tupu, basi nyoyo zao humili kwayo, na ndimi zao huomba dua kumwomba Mwenyezi Mungu kwa kusema: Mola wetu Mlezi! Tumekuamini Wewe na Mitume wako, na Haki ulio wateremshia. Basi ipokee Imani yetu, na utufanye miongoni mwa Umma wa Muhammad ulio wafanya mashahidi na hoja kwa watu wote Siku ya Kiyama."
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 122,
+  "verse_key": "5:83",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ",
+  "translation": "NA WANAPO SIKIA yaliyo teremshwa kwa Mtume utaona macho yao yanachururika machozi kwa sababu ya Haki waliyo itambua. Wanasema: Mola wetu Mlezi! Tumeamini. Basi tuandike pamoja na wanao shuhudia.",
+  "footnotes": "Na pia miongoni mwa Manasara wakiisikia Qur'ani aliyo teremshiwa Mtume huathirika nayo, macho huwatiririka machozi, kwa kuwa wanajua kuwa wanayo yasikia ni kweli tupu, basi nyoyo zao humili kwayo, na ndimi zao huomba dua kumwomba Mwenyezi Mungu kwa kusema: Mola wetu Mlezi! Tumekuamini Wewe na Mitume wako, na Haki ulio wateremshia. Basi ipokee Imani yetu, na utufanye miongoni mwa Umma wa Muhammad ulio wafanya mashahidi na hoja kwa watu wote Siku ya Kiyama."
 }

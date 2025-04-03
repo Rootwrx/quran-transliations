@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "643",
-    "sura": "4",
-    "aya": "150",
-    "arabic_text": "إِنَّ ٱلَّذِينَ يَكۡفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُواْ بَيۡنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤۡمِنُ بِبَعۡضٖ وَنَكۡفُرُ بِبَعۡضٖ وَيُرِيدُونَ أَن يَتَّخِذُواْ بَيۡنَ ذَٰلِكَ سَبِيلًا",
-    "translation": "(150) Indeed, those who disbelieve in Allāh and His messengers and wish to discriminate between Allāh and His messengers and say, \"We believe in some and disbelieve in others,\" and wish to adopt a way in between -",
-    "footnotes": ""
-  }
+  "id": 150,
+  "verse_number": 150,
+  "page_number": 102,
+  "verse_key": "4:150",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ يَكۡفُرُونَ بِٱللَّهِ وَرُسُلِهِۦ وَيُرِيدُونَ أَن يُفَرِّقُواْ بَيۡنَ ٱللَّهِ وَرُسُلِهِۦ وَيَقُولُونَ نُؤۡمِنُ بِبَعۡضٖ وَنَكۡفُرُ بِبَعۡضٖ وَيُرِيدُونَ أَن يَتَّخِذُواْ بَيۡنَ ذَٰلِكَ سَبِيلًا",
+  "translation": "(150) Indeed, those who disbelieve in Allāh and His messengers and wish to discriminate between Allāh and His messengers and say, \"We believe in some and disbelieve in others,\" and wish to adopt a way in between -",
+  "footnotes": ""
 }

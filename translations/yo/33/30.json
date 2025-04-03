@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3563",
-    "sura": "33",
-    "aya": "30",
-    "arabic_text": "يَٰنِسَآءَ ٱلنَّبِيِّ مَن يَأۡتِ مِنكُنَّ بِفَٰحِشَةٖ مُّبَيِّنَةٖ يُضَٰعَفۡ لَهَا ٱلۡعَذَابُ ضِعۡفَيۡنِۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٗا",
-    "translation": "Ẹ̀yin ìyàwó Ànábì, ẹnikẹ́ni nínú yín tí ó bá ṣe ìbàjẹ́ tó fojú hàn, A máa di àdìpèlé ìyà ìlọ́po méjì fún un. Ìyẹn sì ń jẹ́ ìrọ̀rùn fún Allāhu.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 421,
+  "verse_key": "33:30",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 168,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰنِسَآءَ ٱلنَّبِيِّ مَن يَأۡتِ مِنكُنَّ بِفَٰحِشَةٖ مُّبَيِّنَةٖ يُضَٰعَفۡ لَهَا ٱلۡعَذَابُ ضِعۡفَيۡنِۚ وَكَانَ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٗا",
+  "translation": "Ẹ̀yin ìyàwó Ànábì, ẹnikẹ́ni nínú yín tí ó bá ṣe ìbàjẹ́ tó fojú hàn, A máa di àdìpèlé ìyà ìlọ́po méjì fún un. Ìyẹn sì ń jẹ́ ìrọ̀rùn fún Allāhu.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3585",
-    "sura": "33",
-    "aya": "52",
-    "arabic_text": "لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعۡدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنۡ أَزۡوَٰجٖ وَلَوۡ أَعۡجَبَكَ حُسۡنُهُنَّ إِلَّا مَا مَلَكَتۡ يَمِينُكَۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ رَّقِيبٗا",
-    "translation": "Kò lẹ́tọ̀ọ́ fún ọ (láti fẹ́) àwọn obìnrin (mìíràn) lẹ́yìn (ìsọ̀rí àwọn obìnrin tí A ti sọ ṣíwájú[1], kò sì lẹ́tọ̀ọ́ fún ọ) láti fi àwọn obìnrin (mìíràn) pààrọ̀ wọn, kódà kí dáadáa wọn jọ ọ́ lójú, àfi àwọn ẹrú rẹ. Allāhu sì ń jẹ́ Olùṣọ́ lórí gbogbo n̄ǹkan.²",
-    "footnotes": "1. Ìyẹn nínú āyah 50. 2. Āyah yìí kò túmọ̀ sí pé kí Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - má ṣe fẹ́ ìyàwó kún àwọn ìyàwó rẹ̀ ní àsìkò tí āyah yìí sọ̀kalẹ̀, àmọ́ kò gbọ́dọ̀ fẹ́ obìnrin kan àyàfi nínú àwọn ìsọ̀rí obìnrin tí Allāhu ti ṣe ní ẹ̀tọ́ fún un nínú āyah 50."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 425,
+  "verse_key": "33:52",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 170,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَحِلُّ لَكَ ٱلنِّسَآءُ مِنۢ بَعۡدُ وَلَآ أَن تَبَدَّلَ بِهِنَّ مِنۡ أَزۡوَٰجٖ وَلَوۡ أَعۡجَبَكَ حُسۡنُهُنَّ إِلَّا مَا مَلَكَتۡ يَمِينُكَۗ وَكَانَ ٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ رَّقِيبٗا",
+  "translation": "Kò lẹ́tọ̀ọ́ fún ọ (láti fẹ́) àwọn obìnrin (mìíràn) lẹ́yìn (ìsọ̀rí àwọn obìnrin tí A ti sọ ṣíwájú[1], kò sì lẹ́tọ̀ọ́ fún ọ) láti fi àwọn obìnrin (mìíràn) pààrọ̀ wọn, kódà kí dáadáa wọn jọ ọ́ lójú, àfi àwọn ẹrú rẹ. Allāhu sì ń jẹ́ Olùṣọ́ lórí gbogbo n̄ǹkan.²",
+  "footnotes": "1. Ìyẹn nínú āyah 50. 2. Āyah yìí kò túmọ̀ sí pé kí Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - má ṣe fẹ́ ìyàwó kún àwọn ìyàwó rẹ̀ ní àsìkò tí āyah yìí sọ̀kalẹ̀, àmọ́ kò gbọ́dọ̀ fẹ́ obìnrin kan àyàfi nínú àwọn ìsọ̀rí obìnrin tí Allāhu ti ṣe ní ẹ̀tọ́ fún un nínú āyah 50."
 }

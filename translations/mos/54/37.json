@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4883",
-    "sura": "54",
-    "aya": "37",
-    "arabic_text": "وَلَقَدۡ رَٰوَدُوهُ عَن ضَيۡفِهِۦ فَطَمَسۡنَآ أَعۡيُنَهُمۡ فَذُوقُواْ عَذَابِي وَنُذُرِ",
-    "translation": "La sɩd la hakɩɩka b ro-a lame t'a bɑs bãmb ne ɑ sãambã, tɩ Tõnd yẽes b ninã, bɩ y lemb Mam namsgã la M Bugsgã.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 530,
+  "verse_key": "54:37",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ رَٰوَدُوهُ عَن ضَيۡفِهِۦ فَطَمَسۡنَآ أَعۡيُنَهُمۡ فَذُوقُواْ عَذَابِي وَنُذُرِ",
+  "translation": "La sɩd la hakɩɩka b ro-a lame t'a bɑs bãmb ne ɑ sãambã, tɩ Tõnd yẽes b ninã, bɩ y lemb Mam namsgã la M Bugsgã.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4103",
-    "sura": "39",
-    "aya": "45",
-    "arabic_text": "وَإِذَا ذُكِرَ ٱللَّهُ وَحۡدَهُ ٱشۡمَأَزَّتۡ قُلُوبُ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمۡ يَسۡتَبۡشِرُونَ",
-    "translation": "45. Quand Allah est évoqué Tout Seul, ceux qui ne croient pas en l’autre monde ont le cœur saisi d’aversion. Mais quand sont évoquées (les divinités qu’ils adorent) en dehors de Lui, ils sont transportés de joie.",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 463,
+  "verse_key": "39:45",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 185,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ذُكِرَ ٱللَّهُ وَحۡدَهُ ٱشۡمَأَزَّتۡ قُلُوبُ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِۖ وَإِذَا ذُكِرَ ٱلَّذِينَ مِن دُونِهِۦٓ إِذَا هُمۡ يَسۡتَبۡشِرُونَ",
+  "translation": "45. Quand Allah est évoqué Tout Seul, ceux qui ne croient pas en l’autre monde ont le cœur saisi d’aversion. Mais quand sont évoquées (les divinités qu’ils adorent) en dehors de Lui, ils sont transportés de joie.",
+  "footnotes": ""
 }

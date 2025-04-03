@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "730",
-    "sura": "5",
-    "aya": "61",
-    "arabic_text": "وَإِذَا جَآءُوكُمۡ قَالُوٓاْ ءَامَنَّا وَقَد دَّخَلُواْ بِٱلۡكُفۡرِ وَهُمۡ قَدۡ خَرَجُواْ بِهِۦۚ وَٱللَّهُ أَعۡلَمُ بِمَا كَانُواْ يَكۡتُمُونَ",
-    "translation": "61. Et lorsqu’ils viennent vous trouver, ils disent : « Nous avons cru. » Mais ils sont en vérité entrés en mécréants et sortis en mécréants. Et Allah en Sait mieux sur ce qu’ils taisaient.",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 118,
+  "verse_key": "5:61",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 47,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا جَآءُوكُمۡ قَالُوٓاْ ءَامَنَّا وَقَد دَّخَلُواْ بِٱلۡكُفۡرِ وَهُمۡ قَدۡ خَرَجُواْ بِهِۦۚ وَٱللَّهُ أَعۡلَمُ بِمَا كَانُواْ يَكۡتُمُونَ",
+  "translation": "61. Et lorsqu’ils viennent vous trouver, ils disent : « Nous avons cru. » Mais ils sont en vérité entrés en mécréants et sortis en mécréants. Et Allah en Sait mieux sur ce qu’ils taisaient.",
+  "footnotes": ""
 }

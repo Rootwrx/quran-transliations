@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1523",
-    "sura": "11",
-    "aya": "50",
-    "arabic_text": "وَإِلَىٰ عَادٍ أَخَاهُمۡ هُودٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۖ إِنۡ أَنتُمۡ إِلَّا مُفۡتَرُونَ",
-    "translation": "To the people of ‘Ād[24] We sent their brother Hūd. He said, “O my people, worship Allah; you have no god other than Him. You are but fabricators[25].",
-    "footnotes": "[24] An Arabian tribe who rebelled against their Messenger, so Allah destroyed them.\n [25] Their claim to worship others besides Allah was a groundless lie."
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 227,
+  "verse_key": "11:50",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِلَىٰ عَادٍ أَخَاهُمۡ هُودٗاۚ قَالَ يَٰقَوۡمِ ٱعۡبُدُواْ ٱللَّهَ مَا لَكُم مِّنۡ إِلَٰهٍ غَيۡرُهُۥٓۖ إِنۡ أَنتُمۡ إِلَّا مُفۡتَرُونَ",
+  "translation": "To the people of ‘Ād[24] We sent their brother Hūd. He said, “O my people, worship Allah; you have no god other than Him. You are but fabricators[25].",
+  "footnotes": "[24] An Arabian tribe who rebelled against their Messenger, so Allah destroyed them.\n [25] Their claim to worship others besides Allah was a groundless lie."
 }

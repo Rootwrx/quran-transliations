@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3816",
-    "sura": "37",
-    "aya": "28",
-    "arabic_text": "قَالُوٓاْ إِنَّكُمۡ كُنتُمۡ تَأۡتُونَنَا عَنِ ٱلۡيَمِينِ",
-    "translation": "[The followers] will say, “It was you who used to delude us from the right way[6].”",
-    "footnotes": "[6] Or you used to pressure us, or deceived us with false oaths, or claimed to have the truth."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 447,
+  "verse_key": "37:28",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ إِنَّكُمۡ كُنتُمۡ تَأۡتُونَنَا عَنِ ٱلۡيَمِينِ",
+  "translation": "[The followers] will say, “It was you who used to delude us from the right way[6].”",
+  "footnotes": "[6] Or you used to pressure us, or deceived us with false oaths, or claimed to have the truth."
 }

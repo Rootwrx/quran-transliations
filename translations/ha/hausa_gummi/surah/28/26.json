@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3278",
-    "sura": "28",
-    "aya": "26",
-    "arabic_text": "قَالَتۡ إِحۡدَىٰهُمَا يَٰٓأَبَتِ ٱسۡتَـٔۡجِرۡهُۖ إِنَّ خَيۡرَ مَنِ ٱسۡتَـٔۡجَرۡتَ ٱلۡقَوِيُّ ٱلۡأَمِينُ",
-    "translation": "¦ayarsu ta ce, \"Yã Bãba! Ka bã shi aikin ijãra, lalle ne mafi alhẽrin wanda ka bai wa aikin ijãra shi ne mai ƙarfi* amintacce.\"",
-    "footnotes": "* Watau tanã iShãra ga ubantada cewa Mũsa ya tãra siffõfin nan biyu na ƙarfi da amãna dõmin abin da ta jarraba daga gare shi kafin ya iso ga ubanta."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 388,
+  "verse_key": "28:26",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ إِحۡدَىٰهُمَا يَٰٓأَبَتِ ٱسۡتَـٔۡجِرۡهُۖ إِنَّ خَيۡرَ مَنِ ٱسۡتَـٔۡجَرۡتَ ٱلۡقَوِيُّ ٱلۡأَمِينُ",
+  "translation": "¦ayarsu ta ce, \"Yã Bãba! Ka bã shi aikin ijãra, lalle ne mafi alhẽrin wanda ka bai wa aikin ijãra shi ne mai ƙarfi* amintacce.\"",
+  "footnotes": "* Watau tanã iShãra ga ubantada cewa Mũsa ya tãra siffõfin nan biyu na ƙarfi da amãna dõmin abin da ta jarraba daga gare shi kafin ya iso ga ubanta."
 }

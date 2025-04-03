@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2410",
-    "sura": "20",
-    "aya": "62",
-    "arabic_text": "فَتَنَٰزَعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡ وَأَسَرُّواْ ٱلنَّجۡوَىٰ",
-    "translation": " I oni se, o tome šta im je činiti, stadoše između sebe raspravljati, a tiho su šaptali. ",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 315,
+  "verse_key": "20:62",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتَنَٰزَعُوٓاْ أَمۡرَهُم بَيۡنَهُمۡ وَأَسَرُّواْ ٱلنَّجۡوَىٰ",
+  "translation": " I oni se, o tome šta im je činiti, stadoše između sebe raspravljati, a tiho su šaptali. ",
+  "footnotes": ""
 }

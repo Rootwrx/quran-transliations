@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5260",
-    "sura": "67",
-    "aya": "19",
-    "arabic_text": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ صَٰٓفَّٰتٖ وَيَقۡبِضۡنَۚ مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ إِنَّهُۥ بِكُلِّ شَيۡءِۭ بَصِيرٌ",
-    "translation": "19. Boye bazali kornona te bandeke na likolo lolenge akangaka mpe afungolaka mapapu naye? Oyo asimbi bango ezali sé Ar-Rahmân(1). Ya soló, ye amonaka biloko binso.",
-    "footnotes": "1 Ar-Rahmân: Bótala suratu Ar-Ra’d mokapo: 30."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 563,
+  "verse_key": "67:19",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ فَوۡقَهُمۡ صَٰٓفَّٰتٖ وَيَقۡبِضۡنَۚ مَا يُمۡسِكُهُنَّ إِلَّا ٱلرَّحۡمَٰنُۚ إِنَّهُۥ بِكُلِّ شَيۡءِۭ بَصِيرٌ",
+  "translation": "19. Boye bazali kornona te bandeke na likolo lolenge akangaka mpe afungolaka mapapu naye? Oyo asimbi bango ezali sé Ar-Rahmân(1). Ya soló, ye amonaka biloko binso.",
+  "footnotes": "1 Ar-Rahmân: Bótala suratu Ar-Ra’d mokapo: 30."
 }

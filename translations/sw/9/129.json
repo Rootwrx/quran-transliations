@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1364",
-    "sura": "9",
-    "aya": "129",
-    "arabic_text": "فَإِن تَوَلَّوۡاْ فَقُلۡ حَسۡبِيَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ عَلَيۡهِ تَوَكَّلۡتُۖ وَهُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ",
-    "translation": "Basi wakigeuka, wewe sema: Mwenyezi Mungu ananitosheleza. Hapana mungu isipokuwa Yeye tu. Mimi namtegemea Yeye, na Yeye ndiye Mola Mlezi wa Kiti Kikuu cha Enzi.",
-    "footnotes": "Basi, ewe Mtume! Wakiipuuza Imani, wakaikataa, wewe usihuzunike kwa mapuuza yao. Wewe tafakhari na utukufu wa Mola wako Mlezi, na useme: Ananitosheleza Mwenyezi Mungu, ambaye hapana mungu asiye kuwa Yeye. Juu yake Yeye tu peke yake mimi nategemea. Na Yeye ndiye Mmiliki wa ufalme wote, Mola Mlezi wa viumbe vyote, na ndiye Mwenye utawala mkuu."
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 207,
+  "verse_key": "9:129",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن تَوَلَّوۡاْ فَقُلۡ حَسۡبِيَ ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۖ عَلَيۡهِ تَوَكَّلۡتُۖ وَهُوَ رَبُّ ٱلۡعَرۡشِ ٱلۡعَظِيمِ",
+  "translation": "Basi wakigeuka, wewe sema: Mwenyezi Mungu ananitosheleza. Hapana mungu isipokuwa Yeye tu. Mimi namtegemea Yeye, na Yeye ndiye Mola Mlezi wa Kiti Kikuu cha Enzi.",
+  "footnotes": "Basi, ewe Mtume! Wakiipuuza Imani, wakaikataa, wewe usihuzunike kwa mapuuza yao. Wewe tafakhari na utukufu wa Mola wako Mlezi, na useme: Ananitosheleza Mwenyezi Mungu, ambaye hapana mungu asiye kuwa Yeye. Juu yake Yeye tu peke yake mimi nategemea. Na Yeye ndiye Mmiliki wa ufalme wote, Mola Mlezi wa viumbe vyote, na ndiye Mwenye utawala mkuu."
 }

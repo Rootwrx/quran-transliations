@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2145",
-    "sura": "18",
-    "aya": "5",
-    "arabic_text": "مَّا لَهُم بِهِۦ مِنۡ عِلۡمٖ وَلَا لِأٓبَآئِهِمۡۚ كَبُرَتۡ كَلِمَةٗ تَخۡرُجُ مِنۡ أَفۡوَٰهِهِمۡۚ إِن يَقُولُونَ إِلَّا كَذِبٗا",
-    "translation": "5 Ils n’en ont aucune preuve, pas plus que n’en avaient avant eux leurs ancêtres. Quel odieux blasphème et quel infâme mensonge profèrent-ils !",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 294,
+  "verse_key": "18:5",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّا لَهُم بِهِۦ مِنۡ عِلۡمٖ وَلَا لِأٓبَآئِهِمۡۚ كَبُرَتۡ كَلِمَةٗ تَخۡرُجُ مِنۡ أَفۡوَٰهِهِمۡۚ إِن يَقُولُونَ إِلَّا كَذِبٗا",
+  "translation": "5 Ils n’en ont aucune preuve, pas plus que n’en avaient avant eux leurs ancêtres. Quel odieux blasphème et quel infâme mensonge profèrent-ils !",
+  "footnotes": ""
 }

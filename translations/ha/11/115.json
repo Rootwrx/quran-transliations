@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1588",
-    "sura": "11",
-    "aya": "115",
-    "arabic_text": "وَٱصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
-    "translation": "Kuma ka yi haƙuri. Allah bã Ya tõzartar da lãdar mãsu kyautatãwa.*",
-    "footnotes": "* Haƙuri a kan ibãda wãjibi ne, haka kuma kyautatãwa, wãtau shĩ ne yin kõwãne aiki na ibãda tsantsa kamar salla kõ na ma'amala kamar ciniki da aure, dõmĩn Allah kawai. An yi wa wannan fanni na biyu sũna da \"Tasawwuf\", bidi'a ne dõmin bai taho daga sunna ba. Asalinsa \"theosophy\" daga lugar Ajam, ma'anarsa neman hikima ta Allah a hãlin keɓance kai a cikin kaɗaita da wasu aikace-aikace na ibada, kamar girka ga 'yanbõri."
-  }
+  "id": 115,
+  "verse_number": 115,
+  "page_number": 234,
+  "verse_key": "11:115",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+  "translation": "Kuma ka yi haƙuri. Allah bã Ya tõzartar da lãdar mãsu kyautatãwa.*",
+  "footnotes": "* Haƙuri a kan ibãda wãjibi ne, haka kuma kyautatãwa, wãtau shĩ ne yin kõwãne aiki na ibãda tsantsa kamar salla kõ na ma'amala kamar ciniki da aure, dõmĩn Allah kawai. An yi wa wannan fanni na biyu sũna da \"Tasawwuf\", bidi'a ne dõmin bai taho daga sunna ba. Asalinsa \"theosophy\" daga lugar Ajam, ma'anarsa neman hikima ta Allah a hãlin keɓance kai a cikin kaɗaita da wasu aikace-aikace na ibada, kamar girka ga 'yanbõri."
 }

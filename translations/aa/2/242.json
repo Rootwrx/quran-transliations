@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "249",
-    "sura": "2",
-    "aya": "242",
-    "arabic_text": "كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ",
-    "translation": "242. Yalli xayloo kee Agbi madqooqi Baxxaqqa Siinih kah hee innah isi Aayoota Baxxaqqa Siinih haa Addunyaay Akeeral kah caagiddowwu ittaanamak elle kas- kassoowa mara takkeenim keh.",
-    "footnotes": ""
-  }
+  "id": 242,
+  "verse_number": 242,
+  "page_number": 39,
+  "verse_key": "2:242",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 15,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦ لَعَلَّكُمۡ تَعۡقِلُونَ",
+  "translation": "242. Yalli xayloo kee Agbi madqooqi Baxxaqqa Siinih kah hee innah isi Aayoota Baxxaqqa Siinih haa Addunyaay Akeeral kah caagiddowwu ittaanamak elle kas- kassoowa mara takkeenim keh.",
+  "footnotes": ""
 }

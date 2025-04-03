@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "685",
-    "sura": "5",
-    "aya": "16",
-    "arabic_text": "يَهۡدِي بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضۡوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ وَيُخۡرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِهِۦ وَيَهۡدِيهِمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "(Tírà tó yanjú náà, al-Ƙur’ān), Allāhu ń fi ṣe ìmọ̀nà fún ẹnikẹ́ni tí ó bá tẹ̀lé (àwọn n̄ǹkan) tí Allāhu yọ́nú sí, àwọn ọ̀nà àlàáfíà (àwọn ọ̀nà ọlà). Ó sì ń mú wọn jáde láti inú àwọn òkùnkùn wá sínú ìmọ́lẹ̀ pẹ̀lú ìyọ̀ǹda Allāhu. Ó sì ń tọ́ wọn sí ọ̀nà tààrà (’Islām).",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 110,
+  "verse_key": "5:16",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 44,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَهۡدِي بِهِ ٱللَّهُ مَنِ ٱتَّبَعَ رِضۡوَٰنَهُۥ سُبُلَ ٱلسَّلَٰمِ وَيُخۡرِجُهُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِهِۦ وَيَهۡدِيهِمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "(Tírà tó yanjú náà, al-Ƙur’ān), Allāhu ń fi ṣe ìmọ̀nà fún ẹnikẹ́ni tí ó bá tẹ̀lé (àwọn n̄ǹkan) tí Allāhu yọ́nú sí, àwọn ọ̀nà àlàáfíà (àwọn ọ̀nà ọlà). Ó sì ń mú wọn jáde láti inú àwọn òkùnkùn wá sínú ìmọ́lẹ̀ pẹ̀lú ìyọ̀ǹda Allāhu. Ó sì ń tọ́ wọn sí ọ̀nà tààrà (’Islām).",
+  "footnotes": ""
 }

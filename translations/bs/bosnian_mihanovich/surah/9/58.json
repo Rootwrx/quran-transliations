@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1293",
-    "sura": "9",
-    "aya": "58",
-    "arabic_text": "وَمِنۡهُم مَّن يَلۡمِزُكَ فِي ٱلصَّدَقَٰتِ فَإِنۡ أُعۡطُواْ مِنۡهَا رَضُواْ وَإِن لَّمۡ يُعۡطَوۡاْ مِنۡهَآ إِذَا هُمۡ يَسۡخَطُونَ",
-    "translation": "Ima ih koji ti prigovaraju zbog raspodjele zekata. Ako im se iz njega da, zadovolje se, a ako im se ne da, odjednom se razljute. ",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 196,
+  "verse_key": "9:58",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 78,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡهُم مَّن يَلۡمِزُكَ فِي ٱلصَّدَقَٰتِ فَإِنۡ أُعۡطُواْ مِنۡهَا رَضُواْ وَإِن لَّمۡ يُعۡطَوۡاْ مِنۡهَآ إِذَا هُمۡ يَسۡخَطُونَ",
+  "translation": "Ima ih koji ti prigovaraju zbog raspodjele zekata. Ako im se iz njega da, zadovolje se, a ako im se ne da, odjednom se razljute. ",
+  "footnotes": ""
 }

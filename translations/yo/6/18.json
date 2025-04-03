@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "807",
-    "sura": "6",
-    "aya": "18",
-    "arabic_text": "وَهُوَ ٱلۡقَاهِرُ فَوۡقَ عِبَادِهِۦۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ",
-    "translation": "Òun sì ni Olùborí tó wà lókè àwọn ẹrú Rẹ̀. Òun ni Ọlọ́gbọ́n, Alámọ̀tán.[1]",
-    "footnotes": "1. Āyah yìí àti āyah 61 nínú sūrah yìí ti fi rinlẹ̀ pé, òkè lókè àwọn sánmọ̀ ni pàápàá bíbẹ Allāhu - subhānahu wa ta‘ālā - wà pẹ̀lú títóbi Rẹ̀."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 129,
+  "verse_key": "6:18",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلۡقَاهِرُ فَوۡقَ عِبَادِهِۦۚ وَهُوَ ٱلۡحَكِيمُ ٱلۡخَبِيرُ",
+  "translation": "Òun sì ni Olùborí tó wà lókè àwọn ẹrú Rẹ̀. Òun ni Ọlọ́gbọ́n, Alámọ̀tán.[1]",
+  "footnotes": "1. Āyah yìí àti āyah 61 nínú sūrah yìí ti fi rinlẹ̀ pé, òkè lókè àwọn sánmọ̀ ni pàápàá bíbẹ Allāhu - subhānahu wa ta‘ālā - wà pẹ̀lú títóbi Rẹ̀."
 }

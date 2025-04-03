@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1102",
-    "sura": "7",
-    "aya": "148",
-    "arabic_text": "وَٱتَّخَذَ قَوۡمُ مُوسَىٰ مِنۢ بَعۡدِهِۦ مِنۡ حُلِيِّهِمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٌۚ أَلَمۡ يَرَوۡاْ أَنَّهُۥ لَا يُكَلِّمُهُمۡ وَلَا يَهۡدِيهِمۡ سَبِيلًاۘ ٱتَّخَذُوهُ وَكَانُواْ ظَٰلِمِينَ",
-    "translation": "148. Waxay ka yeesheen qolodii Muuse markuu ka soo tagey kaddib (si uu wada hadal ula yeesho Rabbigi, waxay ka yeesheen) dahabkoodii dibi qolof ah leh cod beynaax ah (ay caabudaan)4. Miyaanay arkaynin inaanu la hadleyn, kuna toosineynin jid? Wayse yeesheen (si ay u caabudaan) waxayna ahaayeen daalimiin.",
-    "footnotes": "4. Sameyntooda sanam leh muuqaal dibi iyo caabudaadda ay caabudeen waxay ahayd imtixaan laga imtixaanay xagga Alle si uu u muujiyo qofka iimaankiisu sugan yahay oo xoog leeyahay iyo kan shakiga qaba. Kuwa iimaankooda daciifka ahaa waxay raaceen Saamiri,. Halka kuwa iimaankoodu xoog lahaa ay ku sugnaadeen Xaqa."
-  }
+  "id": 148,
+  "verse_number": 148,
+  "page_number": 168,
+  "verse_key": "7:148",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 67,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّخَذَ قَوۡمُ مُوسَىٰ مِنۢ بَعۡدِهِۦ مِنۡ حُلِيِّهِمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٌۚ أَلَمۡ يَرَوۡاْ أَنَّهُۥ لَا يُكَلِّمُهُمۡ وَلَا يَهۡدِيهِمۡ سَبِيلًاۘ ٱتَّخَذُوهُ وَكَانُواْ ظَٰلِمِينَ",
+  "translation": "148. Waxay ka yeesheen qolodii Muuse markuu ka soo tagey kaddib (si uu wada hadal ula yeesho Rabbigi, waxay ka yeesheen) dahabkoodii dibi qolof ah leh cod beynaax ah (ay caabudaan)4. Miyaanay arkaynin inaanu la hadleyn, kuna toosineynin jid? Wayse yeesheen (si ay u caabudaan) waxayna ahaayeen daalimiin.",
+  "footnotes": "4. Sameyntooda sanam leh muuqaal dibi iyo caabudaadda ay caabudeen waxay ahayd imtixaan laga imtixaanay xagga Alle si uu u muujiyo qofka iimaankiisu sugan yahay oo xoog leeyahay iyo kan shakiga qaba. Kuwa iimaankooda daciifka ahaa waxay raaceen Saamiri,. Halka kuwa iimaankoodu xoog lahaa ay ku sugnaadeen Xaqa."
 }

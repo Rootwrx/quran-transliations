@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1943",
-    "sura": "16",
-    "aya": "42",
-    "arabic_text": "ٱلَّذِينَ صَبَرُواْ وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ",
-    "translation": "他们是坚忍的，是托靠他们的主的。",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 271,
+  "verse_key": "16:42",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ صَبَرُواْ وَعَلَىٰ رَبِّهِمۡ يَتَوَكَّلُونَ",
+  "translation": "他们是坚忍的，是托靠他们的主的。",
+  "footnotes": ""
 }

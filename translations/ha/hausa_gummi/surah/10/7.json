@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1371",
-    "sura": "10",
-    "aya": "7",
-    "arabic_text": "إِنَّ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا وَرَضُواْ بِٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَٱطۡمَأَنُّواْ بِهَا وَٱلَّذِينَ هُمۡ عَنۡ ءَايَٰتِنَا غَٰفِلُونَ",
-    "translation": "Lalle ne waɗanda ba su ƙaunar gamuwa da Mũ, kuma suka yarda da rãyuwar dũniya kuma suka natsu da ita, da waɗanda suke gafalallu ne daga ãyõyin Mu,",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 209,
+  "verse_key": "10:7",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا وَرَضُواْ بِٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَٱطۡمَأَنُّواْ بِهَا وَٱلَّذِينَ هُمۡ عَنۡ ءَايَٰتِنَا غَٰفِلُونَ",
+  "translation": "Lalle ne waɗanda ba su ƙaunar gamuwa da Mũ, kuma suka yarda da rãyuwar dũniya kuma suka natsu da ita, da waɗanda suke gafalallu ne daga ãyõyin Mu,",
+  "footnotes": ""
 }

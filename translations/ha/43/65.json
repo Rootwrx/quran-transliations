@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4390",
-    "sura": "43",
-    "aya": "65",
-    "arabic_text": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ ظَلَمُواْ مِنۡ عَذَابِ يَوۡمٍ أَلِيمٍ",
-    "translation": "Sai ƙungiyõyi *suka sãɓa a tsakãninsu. To, bone yã tabbata ga waɗanda suka yi zãlunci daga azãbar yini mai raɗaɗi!",
-    "footnotes": "* Nasãra suka kasu a cikin ƙungiyõyi a bayan Ĩsã. Ya'akubiyya, mãsu cewa Ĩsã ɗan Allah ne, da Malakãniyya, mãsu cewa Ĩsa ɗayan uku ne. Waɗansu kuma suka ce bãwan Allah ne watau su ne Musulminsu, kuma waɗansu daga Musulmin suka kãfirta a bãyan zakuwar, Muhammadu tsĩra da amincin Allah su tabbata a gare shi, sabõda sun ƙi yarda da Annabcinsa. Yahũdu suka ce: \"Ĩsã bã Annabi ba ne dan zina ne.\" Allah Ya la'ani kãfirai dukansu."
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 494,
+  "verse_key": "43:65",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ ظَلَمُواْ مِنۡ عَذَابِ يَوۡمٍ أَلِيمٍ",
+  "translation": "Sai ƙungiyõyi *suka sãɓa a tsakãninsu. To, bone yã tabbata ga waɗanda suka yi zãlunci daga azãbar yini mai raɗaɗi!",
+  "footnotes": "* Nasãra suka kasu a cikin ƙungiyõyi a bayan Ĩsã. Ya'akubiyya, mãsu cewa Ĩsã ɗan Allah ne, da Malakãniyya, mãsu cewa Ĩsa ɗayan uku ne. Waɗansu kuma suka ce bãwan Allah ne watau su ne Musulminsu, kuma waɗansu daga Musulmin suka kãfirta a bãyan zakuwar, Muhammadu tsĩra da amincin Allah su tabbata a gare shi, sabõda sun ƙi yarda da Annabcinsa. Yahũdu suka ce: \"Ĩsã bã Annabi ba ne dan zina ne.\" Allah Ya la'ani kãfirai dukansu."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1208",
-    "sura": "8",
-    "aya": "48",
-    "arabic_text": "وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارٞ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءٞ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
-    "translation": "48. (Xusuuso) markuu shaydaanku u qurxiyey acmaashooda (xun) oo yidhi: Ma jiro maanta cid ka mid ah dadka oo idinka adkaan karta, anigaana ah ilaaliyahiinna. Markayse is arkeen labadii kooxood ayuu u gurtay cidhbahiisa oo yidhi, anigu barii baan idinka ahay. Waxaan anigu arkaa wax aydaan arag. Waxaan anigu ka cabsan Alle, Allena Ciqaabkiisu wuu daran yahay.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 183,
+  "verse_key": "8:48",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ زَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ وَقَالَ لَا غَالِبَ لَكُمُ ٱلۡيَوۡمَ مِنَ ٱلنَّاسِ وَإِنِّي جَارٞ لَّكُمۡۖ فَلَمَّا تَرَآءَتِ ٱلۡفِئَتَانِ نَكَصَ عَلَىٰ عَقِبَيۡهِ وَقَالَ إِنِّي بَرِيٓءٞ مِّنكُمۡ إِنِّيٓ أَرَىٰ مَا لَا تَرَوۡنَ إِنِّيٓ أَخَافُ ٱللَّهَۚ وَٱللَّهُ شَدِيدُ ٱلۡعِقَابِ",
+  "translation": "48. (Xusuuso) markuu shaydaanku u qurxiyey acmaashooda (xun) oo yidhi: Ma jiro maanta cid ka mid ah dadka oo idinka adkaan karta, anigaana ah ilaaliyahiinna. Markayse is arkeen labadii kooxood ayuu u gurtay cidhbahiisa oo yidhi, anigu barii baan idinka ahay. Waxaan anigu arkaa wax aydaan arag. Waxaan anigu ka cabsan Alle, Allena Ciqaabkiisu wuu daran yahay.",
+  "footnotes": ""
 }

@@ -1,26 +1,44 @@
 {
-  "result": [
+  "verses": [
     {
-      "id": "6177",
-      "sura": "103",
-      "aya": "1",
-      "arabic_text": "وَٱلۡعَصۡرِ",
+      "id": 1,
+      "verse_number": 1,
+      "page_number": 601,
+      "verse_key": "103:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "وَٱلۡعَصۡرِ",
       "translation": "1. Аср (вақти)га қасамки, ",
       "footnotes": ""
     },
     {
-      "id": "6178",
-      "sura": "103",
-      "aya": "2",
-      "arabic_text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+      "id": 2,
+      "verse_number": 2,
+      "page_number": 601,
+      "verse_key": "103:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
       "translation": "2. (Барча) инсон зиён-бахтсизликдадир.",
       "footnotes": ""
     },
     {
-      "id": "6179",
-      "sura": "103",
-      "aya": "3",
-      "arabic_text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
+      "id": 3,
+      "verse_number": 3,
+      "page_number": 601,
+      "verse_key": "103:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ",
       "translation": "3. Фақат иймон келтирган ва яхши амаллар қилган, бир-бирларига Ҳақ (йўли)ни тавсия этган ва бир-бирларига (мана шу Ҳақ йўлида) сабр-тоқат қилишни тавсия этган зотларгина (нажот топгувчидирлар).",
       "footnotes": ""
     }

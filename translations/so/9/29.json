@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1264",
-    "sura": "9",
-    "aya": "29",
-    "arabic_text": "قَٰتِلُواْ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلۡحَقِّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حَتَّىٰ يُعۡطُواْ ٱلۡجِزۡيَةَ عَن يَدٖ وَهُمۡ صَٰغِرُونَ",
-    "translation": "29. La dagaallama kuwa aan rumeysnayn Alle, iyo Maalinta Aakhiro, aan xaaraameyn waxay xaaraameeyeen Alle iyo Rasuulkiisu, ee aan ka diin dhigan raacinna Diinta Xaqa ah ee ka mid ah ehlu Kitaabka (Yuhuudda iyo Nasaarada), ilaa ay ka dhiibaan Jisyo6 si raalli leh iyagoo hoggaansan.",
-    "footnotes": "6. Jizyo waa canshuur laga qaado dadka aan muslimka ahayn iyagoo laga cafiyo shaqada millateriga, oo waxay ku mutaan sidaas ilaalinta iyo difaaca dawladda islaamka. Dhinaca kale sako lagama qaado gaalada, oo waxay saaran tahay inay sako bixiyaan muslimiinta oo keliya."
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 191,
+  "verse_key": "9:29",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَٰتِلُواْ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَلَا بِٱلۡيَوۡمِ ٱلۡأٓخِرِ وَلَا يُحَرِّمُونَ مَا حَرَّمَ ٱللَّهُ وَرَسُولُهُۥ وَلَا يَدِينُونَ دِينَ ٱلۡحَقِّ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حَتَّىٰ يُعۡطُواْ ٱلۡجِزۡيَةَ عَن يَدٖ وَهُمۡ صَٰغِرُونَ",
+  "translation": "29. La dagaallama kuwa aan rumeysnayn Alle, iyo Maalinta Aakhiro, aan xaaraameyn waxay xaaraameeyeen Alle iyo Rasuulkiisu, ee aan ka diin dhigan raacinna Diinta Xaqa ah ee ka mid ah ehlu Kitaabka (Yuhuudda iyo Nasaarada), ilaa ay ka dhiibaan Jisyo6 si raalli leh iyagoo hoggaansan.",
+  "footnotes": "6. Jizyo waa canshuur laga qaado dadka aan muslimka ahayn iyagoo laga cafiyo shaqada millateriga, oo waxay ku mutaan sidaas ilaalinta iyo difaaca dawladda islaamka. Dhinaca kale sako lagama qaado gaalada, oo waxay saaran tahay inay sako bixiyaan muslimiinta oo keliya."
 }

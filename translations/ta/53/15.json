@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4799",
-    "sura": "53",
-    "aya": "15",
-    "arabic_text": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ",
-    "translation": "15. அதன் சமீபத்தில்தான் (நல்லடியார்கள்) தங்கும் சொர்க்கம் இருக்கிறது. ",
-    "footnotes": null
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 526,
+  "verse_key": "53:15",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عِندَهَا جَنَّةُ ٱلۡمَأۡوَىٰٓ",
+  "translation": "15. அதன் சமீபத்தில்தான் (நல்லடியார்கள்) தங்கும் சொர்க்கம் இருக்கிறது. ",
+  "footnotes": null
 }

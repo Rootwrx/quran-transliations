@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3067",
-    "sura": "26",
-    "aya": "135",
-    "arabic_text": "إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ",
-    "translation": "ಆ ಭಯಾನಕ ದಿನದ ಶಿಕ್ಷೆಯು ನಿಮ್ಮ ಮೇಲೆರಗಬಹುದೆಂದು ನನಗೆ ಭಯವಾಗುತ್ತಿದೆ.”",
-    "footnotes": ""
-  }
+  "id": 135,
+  "verse_number": 135,
+  "page_number": 372,
+  "verse_key": "26:135",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنِّيٓ أَخَافُ عَلَيۡكُمۡ عَذَابَ يَوۡمٍ عَظِيمٖ",
+  "translation": "ಆ ಭಯಾನಕ ದಿನದ ಶಿಕ್ಷೆಯು ನಿಮ್ಮ ಮೇಲೆರಗಬಹುದೆಂದು ನನಗೆ ಭಯವಾಗುತ್ತಿದೆ.”",
+  "footnotes": ""
 }

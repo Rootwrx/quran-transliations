@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1566",
-    "sura": "11",
-    "aya": "93",
-    "arabic_text": "وَيَٰقَوۡمِ ٱعۡمَلُواْ عَلَىٰ مَكَانَتِكُمۡ إِنِّي عَٰمِلٞۖ سَوۡفَ تَعۡلَمُونَ مَن يَأۡتِيهِ عَذَابٞ يُخۡزِيهِ وَمَنۡ هُوَ كَٰذِبٞۖ وَٱرۡتَقِبُوٓاْ إِنِّي مَعَكُمۡ رَقِيبٞ",
-    "translation": "Ey halkım! Elinizden gelen, her şeyi yapın, ben de yapacağım. Kime rezil edici bir azabın geleceğini, kimin yalancı olduğunu bileceksiniz. Bekleyin, doğrusu ben de sizinle bekliyorum.",
-    "footnotes": ""
-  }
+  "id": 93,
+  "verse_number": 93,
+  "page_number": 232,
+  "verse_key": "11:93",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَٰقَوۡمِ ٱعۡمَلُواْ عَلَىٰ مَكَانَتِكُمۡ إِنِّي عَٰمِلٞۖ سَوۡفَ تَعۡلَمُونَ مَن يَأۡتِيهِ عَذَابٞ يُخۡزِيهِ وَمَنۡ هُوَ كَٰذِبٞۖ وَٱرۡتَقِبُوٓاْ إِنِّي مَعَكُمۡ رَقِيبٞ",
+  "translation": "Ey halkım! Elinizden gelen, her şeyi yapın, ben de yapacağım. Kime rezil edici bir azabın geleceğini, kimin yalancı olduğunu bileceksiniz. Bekleyin, doğrusu ben de sizinle bekliyorum.",
+  "footnotes": ""
 }

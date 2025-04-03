@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "95",
-    "sura": "2",
-    "aya": "88",
-    "arabic_text": "وَقَالُواْ قُلُوبُنَا غُلۡفُۢۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ فَقَلِيلٗا مَّا يُؤۡمِنُونَ",
-    "translation": "Na walisema: Nyoyo zetu zimefunikwa. Bali Mwenyezi Mungu amewalaani kwa kufuru zao: kwa hivyo ni kidogo tu wanayo yaamini.",
-    "footnotes": "Hali kadhaalika msimamo wenu kwa Mtume wetu Muhammad, Nabii wa mwisho. Mlimwambia alipo kuiteni msilimu: Nyoyo zetu zimefunikwa kwa vifuniko visivyo achilia kupenya huo wito wako. Basi sisi hatuelewi kitu chochote unacho sema! Wala nyoyo zao hazikufunikwa kama wanavyo dai, lakini wamepanda kiburi tu, na wakakhiari upotovu kuliko uwongofu. Basi Mwenyezi Mungu amewalaani kwa ukafiri wao, na amedhoofisha yakini yao na imani yao."
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 13,
+  "verse_key": "2:88",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ قُلُوبُنَا غُلۡفُۢۚ بَل لَّعَنَهُمُ ٱللَّهُ بِكُفۡرِهِمۡ فَقَلِيلٗا مَّا يُؤۡمِنُونَ",
+  "translation": "Na walisema: Nyoyo zetu zimefunikwa. Bali Mwenyezi Mungu amewalaani kwa kufuru zao: kwa hivyo ni kidogo tu wanayo yaamini.",
+  "footnotes": "Hali kadhaalika msimamo wenu kwa Mtume wetu Muhammad, Nabii wa mwisho. Mlimwambia alipo kuiteni msilimu: Nyoyo zetu zimefunikwa kwa vifuniko visivyo achilia kupenya huo wito wako. Basi sisi hatuelewi kitu chochote unacho sema! Wala nyoyo zao hazikufunikwa kama wanavyo dai, lakini wamepanda kiburi tu, na wakakhiari upotovu kuliko uwongofu. Basi Mwenyezi Mungu amewalaani kwa ukafiri wao, na amedhoofisha yakini yao na imani yao."
 }

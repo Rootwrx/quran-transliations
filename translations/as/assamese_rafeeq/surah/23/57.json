@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2730",
-    "sura": "23",
-    "aya": "57",
-    "arabic_text": "إِنَّ ٱلَّذِينَ هُم مِّنۡ خَشۡيَةِ رَبِّهِم مُّشۡفِقُونَ",
-    "translation": "নিশ্চয় যিসকলে নিজ প্ৰতিপালকৰ ভয়ত ভীত-সন্ত্ৰস্ত,",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 345,
+  "verse_key": "23:57",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ هُم مِّنۡ خَشۡيَةِ رَبِّهِم مُّشۡفِقُونَ",
+  "translation": "নিশ্চয় যিসকলে নিজ প্ৰতিপালকৰ ভয়ত ভীত-সন্ত্ৰস্ত,",
+  "footnotes": ""
 }

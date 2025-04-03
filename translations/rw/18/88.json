@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2228",
-    "sura": "18",
-    "aya": "88",
-    "arabic_text": "وَأَمَّا مَنۡ ءَامَنَ وَعَمِلَ صَٰلِحٗا فَلَهُۥ جَزَآءً ٱلۡحُسۡنَىٰۖ وَسَنَقُولُ لَهُۥ مِنۡ أَمۡرِنَا يُسۡرٗا",
-    "translation": "Naho uwemeye (Allah) akanakora ibikorwa byiza, uwo azagororerwa ibyiza (Ijuru), kandi tuzamworohereza (tumuha amategeko amworoheye).",
-    "footnotes": ""
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 303,
+  "verse_key": "18:88",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَمَّا مَنۡ ءَامَنَ وَعَمِلَ صَٰلِحٗا فَلَهُۥ جَزَآءً ٱلۡحُسۡنَىٰۖ وَسَنَقُولُ لَهُۥ مِنۡ أَمۡرِنَا يُسۡرٗا",
+  "translation": "Naho uwemeye (Allah) akanakora ibikorwa byiza, uwo azagororerwa ibyiza (Ijuru), kandi tuzamworohereza (tumuha amategeko amworoheye).",
+  "footnotes": ""
 }

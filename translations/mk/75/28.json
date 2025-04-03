@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5579",
-    "sura": "75",
-    "aya": "28",
-    "arabic_text": "وَظَنَّ أَنَّهُ ٱلۡفِرَاقُ",
-    "translation": "28. и тој ќе се увери дека тоа е Часот на разделбата",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 578,
+  "verse_key": "75:28",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَظَنَّ أَنَّهُ ٱلۡفِرَاقُ",
+  "translation": "28. и тој ќе се увери дека тоа е Часот на разделбата",
+  "footnotes": ""
 }

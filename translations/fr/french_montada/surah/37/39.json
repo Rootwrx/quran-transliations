@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3827",
-    "sura": "37",
-    "aya": "39",
-    "arabic_text": "وَمَا تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "39. et n’aurez pour rétribution que le prix des actions que vous aurez commises,",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 447,
+  "verse_key": "37:39",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "39. et n’aurez pour rétribution que le prix des actions que vous aurez commises,",
+  "footnotes": ""
 }

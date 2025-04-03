@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1633",
-    "sura": "12",
-    "aya": "37",
-    "arabic_text": "قَالَ لَا يَأۡتِيكُمَا طَعَامٞ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي تَرَكۡتُ مِلَّةَ قَوۡمٖ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
-    "translation": "Akasema: Hakitakufikilieni chakula mtakacho pewa ila nitakwambieni hakika yake kabla hakijakufikieni. Haya ni katika yale aliyo nifundisha Mola wangu Mlezi. Hakika mimi nimeacha mila ya watu wasio muamini Mwenyezi Mungu, na wakawa hawaiamini Akhera.",
-    "footnotes": "Yusuf akawaambia kutilia mkazo yale waliyo yajua kwake Yusuf: Hakitowahi kukufikieni chakula kuwa ni riziki mliyo kadiriwa ila nami nitakwambieni kitavyo kujieni kabla ya kukufikieni. Na nitakutajieni mapishi yake na vipi kilivyo. Namna hivyo ndivyo tafsiri ya ndoto na khabari zilizo fichikana katika alivyo nifunza Mola wangu Mlezi na akanifunulia, kwani nilimtakasia Yeye tu ibada yangu. Na nikakataa kumshirikisha na kitu chochote. Na nikajitenga mbali na dini ya watu wasio msadiki Mwenyezi Mungu, na wala hawamuamini Yeye kwa njia iliyo sawa, nao wanaikanya Akhera na hisabu zake."
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 239,
+  "verse_key": "12:37",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 96,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ لَا يَأۡتِيكُمَا طَعَامٞ تُرۡزَقَانِهِۦٓ إِلَّا نَبَّأۡتُكُمَا بِتَأۡوِيلِهِۦ قَبۡلَ أَن يَأۡتِيَكُمَاۚ ذَٰلِكُمَا مِمَّا عَلَّمَنِي رَبِّيٓۚ إِنِّي تَرَكۡتُ مِلَّةَ قَوۡمٖ لَّا يُؤۡمِنُونَ بِٱللَّهِ وَهُم بِٱلۡأٓخِرَةِ هُمۡ كَٰفِرُونَ",
+  "translation": "Akasema: Hakitakufikilieni chakula mtakacho pewa ila nitakwambieni hakika yake kabla hakijakufikieni. Haya ni katika yale aliyo nifundisha Mola wangu Mlezi. Hakika mimi nimeacha mila ya watu wasio muamini Mwenyezi Mungu, na wakawa hawaiamini Akhera.",
+  "footnotes": "Yusuf akawaambia kutilia mkazo yale waliyo yajua kwake Yusuf: Hakitowahi kukufikieni chakula kuwa ni riziki mliyo kadiriwa ila nami nitakwambieni kitavyo kujieni kabla ya kukufikieni. Na nitakutajieni mapishi yake na vipi kilivyo. Namna hivyo ndivyo tafsiri ya ndoto na khabari zilizo fichikana katika alivyo nifunza Mola wangu Mlezi na akanifunulia, kwani nilimtakasia Yeye tu ibada yangu. Na nikakataa kumshirikisha na kitu chochote. Na nikajitenga mbali na dini ya watu wasio msadiki Mwenyezi Mungu, na wala hawamuamini Yeye kwa njia iliyo sawa, nao wanaikanya Akhera na hisabu zake."
 }

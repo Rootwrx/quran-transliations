@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1920",
-    "sura": "16",
-    "aya": "19",
-    "arabic_text": "وَٱللَّهُ يَعۡلَمُ مَا تُسِرُّونَ وَمَا تُعۡلِنُونَ",
-    "translation": "また、アッラー*はあなた方が隠すことも、露わにすることもご存知である。",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 269,
+  "verse_key": "16:19",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ يَعۡلَمُ مَا تُسِرُّونَ وَمَا تُعۡلِنُونَ",
+  "translation": "また、アッラー*はあなた方が隠すことも、露わにすることもご存知である。",
+  "footnotes": ""
 }

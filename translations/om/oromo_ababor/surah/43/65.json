@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4390",
-    "sura": "43",
-    "aya": "65",
-    "arabic_text": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ ظَلَمُواْ مِنۡ عَذَابِ يَوۡمٍ أَلِيمٍ",
-    "translation": "Gareewwan gidduu isaaniitti (dhimma kana irratti) wal dhabaniiru. Isaan miidhaa dalaganiif adabbii guyyaa laalessaa irraa halaakni isaaniif tahe.",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 494,
+  "verse_key": "43:65",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱخۡتَلَفَ ٱلۡأَحۡزَابُ مِنۢ بَيۡنِهِمۡۖ فَوَيۡلٞ لِّلَّذِينَ ظَلَمُواْ مِنۡ عَذَابِ يَوۡمٍ أَلِيمٍ",
+  "translation": "Gareewwan gidduu isaaniitti (dhimma kana irratti) wal dhabaniiru. Isaan miidhaa dalaganiif adabbii guyyaa laalessaa irraa halaakni isaaniif tahe.",
+  "footnotes": ""
 }

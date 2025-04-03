@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4663",
-    "sura": "50",
-    "aya": "33",
-    "arabic_text": "مَّنۡ خَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ وَجَآءَ بِقَلۡبٖ مُّنِيبٍ",
-    "translation": "33. qui craint le Tout Clément sans Le voir, et qui revient vers Lui avec un cœur repentant.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 519,
+  "verse_key": "50:33",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّنۡ خَشِيَ ٱلرَّحۡمَٰنَ بِٱلۡغَيۡبِ وَجَآءَ بِقَلۡبٖ مُّنِيبٍ",
+  "translation": "33. qui craint le Tout Clément sans Le voir, et qui revient vers Lui avec un cœur repentant.",
+  "footnotes": ""
 }

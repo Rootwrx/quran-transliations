@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3273",
-    "sura": "28",
-    "aya": "21",
-    "arabic_text": "فَخَرَجَ مِنۡهَا خَآئِفٗا يَتَرَقَّبُۖ قَالَ رَبِّ نَجِّنِي مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
-    "translation": "Musa korka korka, (etrafı) gözetleyerek oradan çıktı. «Rabbim! Beni zalimler güruhundan kurtar» dedi. ",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 387,
+  "verse_key": "28:21",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَخَرَجَ مِنۡهَا خَآئِفٗا يَتَرَقَّبُۖ قَالَ رَبِّ نَجِّنِي مِنَ ٱلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+  "translation": "Musa korka korka, (etrafı) gözetleyerek oradan çıktı. «Rabbim! Beni zalimler güruhundan kurtar» dedi. ",
+  "footnotes": ""
 }

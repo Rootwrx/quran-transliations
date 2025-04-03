@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "950",
-    "sura": "6",
-    "aya": "161",
-    "arabic_text": "قُلۡ إِنَّنِي هَدَىٰنِي رَبِّيٓ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ دِينٗا قِيَمٗا مِّلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۚ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
-    "translation": " 161. Say (O Muhammad صلى الله عليه وسلم): \"Truly, my Lord has guided me to a Straight Path, a right religion, the religion of Ibrâhîm (Abraham), Hanîfa [i.e. the true Islâmic Monotheism - to believe in One God (Allâh i.e. to worship none but Allâh, Alone)] and he was not of Al-Mushrikûn (See V.2:105).\"",
-    "footnotes": ""
-  }
+  "id": 161,
+  "verse_number": 161,
+  "page_number": 150,
+  "verse_key": "6:161",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنَّنِي هَدَىٰنِي رَبِّيٓ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ دِينٗا قِيَمٗا مِّلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۚ وَمَا كَانَ مِنَ ٱلۡمُشۡرِكِينَ",
+  "translation": " 161. Say (O Muhammad صلى الله عليه وسلم): \"Truly, my Lord has guided me to a Straight Path, a right religion, the religion of Ibrâhîm (Abraham), Hanîfa [i.e. the true Islâmic Monotheism - to believe in One God (Allâh i.e. to worship none but Allâh, Alone)] and he was not of Al-Mushrikûn (See V.2:105).\"",
+  "footnotes": ""
 }

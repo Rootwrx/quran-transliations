@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1714",
-    "sura": "13",
-    "aya": "7",
-    "arabic_text": "وَيَقُولُ ٱلَّذِينَ كَفَرُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦٓۗ إِنَّمَآ أَنتَ مُنذِرٞۖ وَلِكُلِّ قَوۡمٍ هَادٍ",
-    "translation": "Kandi abahakanyi baravuga bati “Kubera iki (Muhamadi) atamanuriwe ikimenyetso (gifatika) giturutse kwa Nyagasani we (kimeze nk’inkoni ya Musa cyangwa nk’ingamiya ya Swaleh)?” Mu by’ukuri (ibyo ntibiri mu bushobozi bwawe kuko) wowe uri umuburizi, kandi buri bantu bagira umuyobozi (Intumwa).",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 250,
+  "verse_key": "13:7",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُ ٱلَّذِينَ كَفَرُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦٓۗ إِنَّمَآ أَنتَ مُنذِرٞۖ وَلِكُلِّ قَوۡمٍ هَادٍ",
+  "translation": "Kandi abahakanyi baravuga bati “Kubera iki (Muhamadi) atamanuriwe ikimenyetso (gifatika) giturutse kwa Nyagasani we (kimeze nk’inkoni ya Musa cyangwa nk’ingamiya ya Swaleh)?” Mu by’ukuri (ibyo ntibiri mu bushobozi bwawe kuko) wowe uri umuburizi, kandi buri bantu bagira umuyobozi (Intumwa).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4406",
-    "sura": "43",
-    "aya": "81",
-    "arabic_text": "قُلۡ إِن كَانَ لِلرَّحۡمَٰنِ وَلَدٞ فَأَنَا۠ أَوَّلُ ٱلۡعَٰبِدِينَ",
-    "translation": "Say, “If the Most Compassionate truly had a son, I would be the first of [his] worshipers[30].”",
-    "footnotes": "[30] Or I would be the first to approve it, as I obey Him in everything; whereas I deny that, for He has no offspring."
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 495,
+  "verse_key": "43:81",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِن كَانَ لِلرَّحۡمَٰنِ وَلَدٞ فَأَنَا۠ أَوَّلُ ٱلۡعَٰبِدِينَ",
+  "translation": "Say, “If the Most Compassionate truly had a son, I would be the first of [his] worshipers[30].”",
+  "footnotes": "[30] Or I would be the first to approve it, as I obey Him in everything; whereas I deny that, for He has no offspring."
 }

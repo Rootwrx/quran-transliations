@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5719",
-    "sura": "79",
-    "aya": "7",
-    "arabic_text": "تَتۡبَعُهَا ٱلرَّادِفَةُ",
-    "translation": "後続のもの[1]が、それに続く。",
-    "footnotes": "[1]　これは復活を知らせる、二回目の角笛（家畜章７３の訳注も参照）のこととされる（ムヤッサル５８３頁参照）。"
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 583,
+  "verse_key": "79:7",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَتۡبَعُهَا ٱلرَّادِفَةُ",
+  "translation": "後続のもの[1]が、それに続く。",
+  "footnotes": "[1]　これは復活を知らせる、二回目の角笛（家畜章７３の訳注も参照）のこととされる（ムヤッサル５８３頁参照）。"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5091",
-    "sura": "57",
-    "aya": "16",
-    "arabic_text": "۞ أَلَمۡ يَأۡنِ لِلَّذِينَ ءَامَنُوٓاْ أَن تَخۡشَعَ قُلُوبُهُمۡ لِذِكۡرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلۡحَقِّ وَلَا يَكُونُواْ كَٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلُ فَطَالَ عَلَيۡهِمُ ٱلۡأَمَدُ فَقَسَتۡ قُلُوبُهُمۡۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ",
-    "translation": "İman edenlerin Allah'ı anma ve O'ndan inen Kur’an sebebiyle kalplerinin ürpermesi zamanı daha gelmedi mi? Onlar daha önce kendilerine kitap verilenler gibi olmasınlar. Onların üzerinden uzun zaman geçti de kalpleri katılaştı. Onlardan bir çoğu yoldan çıkmış kimselerdir.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 539,
+  "verse_key": "57:16",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 216,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَلَمۡ يَأۡنِ لِلَّذِينَ ءَامَنُوٓاْ أَن تَخۡشَعَ قُلُوبُهُمۡ لِذِكۡرِ ٱللَّهِ وَمَا نَزَلَ مِنَ ٱلۡحَقِّ وَلَا يَكُونُواْ كَٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلُ فَطَالَ عَلَيۡهِمُ ٱلۡأَمَدُ فَقَسَتۡ قُلُوبُهُمۡۖ وَكَثِيرٞ مِّنۡهُمۡ فَٰسِقُونَ",
+  "translation": "İman edenlerin Allah'ı anma ve O'ndan inen Kur’an sebebiyle kalplerinin ürpermesi zamanı daha gelmedi mi? Onlar daha önce kendilerine kitap verilenler gibi olmasınlar. Onların üzerinden uzun zaman geçti de kalpleri katılaştı. Onlardan bir çoğu yoldan çıkmış kimselerdir.",
+  "footnotes": ""
 }

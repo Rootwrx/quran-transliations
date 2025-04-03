@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "250",
-    "sura": "2",
-    "aya": "243",
-    "arabic_text": "۞ أَلَمۡ تَرَ إِلَى ٱلَّذِينَ خَرَجُواْ مِن دِيَٰرِهِمۡ وَهُمۡ أُلُوفٌ حَذَرَ ٱلۡمَوۡتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُواْ ثُمَّ أَحۡيَٰهُمۡۚ إِنَّ ٱللَّهَ لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَشۡكُرُونَ",
-    "translation": "Hindi ka ba nakaalam sa mga lumisan mula sa mga tahanan nila habang sila ay libu-libo dala ng pangingilag sa kamatayan kaya nagsabi sa kanila si Allāh: “Mamatay kayo,” pagkatapos nagbigay-buhay Siya sa kanila? Tunay na si Allāh ay talagang may kabutihang-loob sa mga tao subalit ang higit na marami sa mga tao ay hindi nagpapasalamat.",
-    "footnotes": ""
-  }
+  "id": 243,
+  "verse_number": 243,
+  "page_number": 39,
+  "verse_key": "2:243",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 16,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَلَمۡ تَرَ إِلَى ٱلَّذِينَ خَرَجُواْ مِن دِيَٰرِهِمۡ وَهُمۡ أُلُوفٌ حَذَرَ ٱلۡمَوۡتِ فَقَالَ لَهُمُ ٱللَّهُ مُوتُواْ ثُمَّ أَحۡيَٰهُمۡۚ إِنَّ ٱللَّهَ لَذُو فَضۡلٍ عَلَى ٱلنَّاسِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَشۡكُرُونَ",
+  "translation": "Hindi ka ba nakaalam sa mga lumisan mula sa mga tahanan nila habang sila ay libu-libo dala ng pangingilag sa kamatayan kaya nagsabi sa kanila si Allāh: “Mamatay kayo,” pagkatapos nagbigay-buhay Siya sa kanila? Tunay na si Allāh ay talagang may kabutihang-loob sa mga tao subalit ang higit na marami sa mga tao ay hindi nagpapasalamat.",
+  "footnotes": ""
 }

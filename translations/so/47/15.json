@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4560",
-    "sura": "47",
-    "aya": "15",
-    "arabic_text": "مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ فِيهَآ أَنۡهَٰرٞ مِّن مَّآءٍ غَيۡرِ ءَاسِنٖ وَأَنۡهَٰرٞ مِّن لَّبَنٖ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرٞ مِّنۡ خَمۡرٖ لَّذَّةٖ لِّلشَّٰرِبِينَ وَأَنۡهَٰرٞ مِّنۡ عَسَلٖ مُّصَفّٗىۖ وَلَهُمۡ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةٞ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدٞ فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمٗا فَقَطَّعَ أَمۡعَآءَهُمۡ",
-    "translation": "15. Tilmaanta Jannada loo ballan qaaday kuwa ka dhowrsada (xumaha) waa mid gudaheeda ay yihiin webiyo biyo ah oo aan isbeddelin8, iyo webiyo caano ah oo uusan dhadhankoodu marnaba doorsoomin, iyo webiyaal khamro (xalaal) ah oo u macaan kuwa cabba, iyo webiyaal malab ah la saafi yeelay; waxayna ku leeyihiin (Jannada) gudaheeda midho nooc kasta iyo astur xagga Rabbigood, (kuwani) ma la mid baa kuwaa ku waaraya Naarta, lagana waraabin biyo karaya markaas goyn xiidmahooda.",
-    "footnotes": "8. Dhadhan iyo caraf ahaanba, ma aha kuwo doorsama ama wasakh gasho."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 508,
+  "verse_key": "47:15",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّثَلُ ٱلۡجَنَّةِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۖ فِيهَآ أَنۡهَٰرٞ مِّن مَّآءٍ غَيۡرِ ءَاسِنٖ وَأَنۡهَٰرٞ مِّن لَّبَنٖ لَّمۡ يَتَغَيَّرۡ طَعۡمُهُۥ وَأَنۡهَٰرٞ مِّنۡ خَمۡرٖ لَّذَّةٖ لِّلشَّٰرِبِينَ وَأَنۡهَٰرٞ مِّنۡ عَسَلٖ مُّصَفّٗىۖ وَلَهُمۡ فِيهَا مِن كُلِّ ٱلثَّمَرَٰتِ وَمَغۡفِرَةٞ مِّن رَّبِّهِمۡۖ كَمَنۡ هُوَ خَٰلِدٞ فِي ٱلنَّارِ وَسُقُواْ مَآءً حَمِيمٗا فَقَطَّعَ أَمۡعَآءَهُمۡ",
+  "translation": "15. Tilmaanta Jannada loo ballan qaaday kuwa ka dhowrsada (xumaha) waa mid gudaheeda ay yihiin webiyo biyo ah oo aan isbeddelin8, iyo webiyo caano ah oo uusan dhadhankoodu marnaba doorsoomin, iyo webiyaal khamro (xalaal) ah oo u macaan kuwa cabba, iyo webiyaal malab ah la saafi yeelay; waxayna ku leeyihiin (Jannada) gudaheeda midho nooc kasta iyo astur xagga Rabbigood, (kuwani) ma la mid baa kuwaa ku waaraya Naarta, lagana waraabin biyo karaya markaas goyn xiidmahooda.",
+  "footnotes": "8. Dhadhan iyo caraf ahaanba, ma aha kuwo doorsama ama wasakh gasho."
 }

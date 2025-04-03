@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1830",
-    "sura": "15",
-    "aya": "28",
-    "arabic_text": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي خَٰلِقُۢ بَشَرٗا مِّن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
-    "translation": "(Rántí) nígbà tí Olúwa rẹ sọ fún àwọn mọlāika pé: “Dájúdájú Èmi yóò ṣe ẹ̀dá abara kan láti ara amọ̀ tó ń dún koko, tó ti pàwọ̀dà sí dúdú.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 263,
+  "verse_key": "15:28",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ رَبُّكَ لِلۡمَلَٰٓئِكَةِ إِنِّي خَٰلِقُۢ بَشَرٗا مِّن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+  "translation": "(Rántí) nígbà tí Olúwa rẹ sọ fún àwọn mọlāika pé: “Dájúdájú Èmi yóò ṣe ẹ̀dá abara kan láti ara amọ̀ tó ń dún koko, tó ti pàwọ̀dà sí dúdú.",
+  "footnotes": ""
 }

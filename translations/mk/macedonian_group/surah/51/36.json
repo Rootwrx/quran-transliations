@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4711",
-    "sura": "51",
-    "aya": "36",
-    "arabic_text": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ",
-    "translation": "36. а во него само една муслиманска куќа најдовме,",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 522,
+  "verse_key": "51:36",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَا وَجَدۡنَا فِيهَا غَيۡرَ بَيۡتٖ مِّنَ ٱلۡمُسۡلِمِينَ",
+  "translation": "36. а во него само една муслиманска куќа најдовме,",
+  "footnotes": ""
 }

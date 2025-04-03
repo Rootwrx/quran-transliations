@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4584",
-    "sura": "48",
-    "aya": "1",
-    "arabic_text": "إِنَّا فَتَحۡنَا لَكَ فَتۡحٗا مُّبِينٗا",
-    "translation": "Ne të dhamë ty një fitore të qartë,[318]",
-    "footnotes": "[318] Bëhet fjalë për Traktatin e Paqes së Hudejbijes, të lidhur midis Profetit Muhamed (a.s.) dhe udhëheqësve të Mekës në vitin 6 h / 628 e.s.. Sipas komentuesve të Kuranit, marrëveshja e armëpushimit hoqi barrierat midis idhujtarëve të Mekës dhe myslimanëve të Medinës dhe kontaktet paqësore ndërmjet tyre bënë që të përhapej me shpejtësi besimi islam ndër fiset arabe. Prandaj kjo marrëveshje u quajt “fitore e qartë”."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 511,
+  "verse_key": "48:1",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا فَتَحۡنَا لَكَ فَتۡحٗا مُّبِينٗا",
+  "translation": "Ne të dhamë ty një fitore të qartë,[318]",
+  "footnotes": "[318] Bëhet fjalë për Traktatin e Paqes së Hudejbijes, të lidhur midis Profetit Muhamed (a.s.) dhe udhëheqësve të Mekës në vitin 6 h / 628 e.s.. Sipas komentuesve të Kuranit, marrëveshja e armëpushimit hoqi barrierat midis idhujtarëve të Mekës dhe myslimanëve të Medinës dhe kontaktet paqësore ndërmjet tyre bënë që të përhapej me shpejtësi besimi islam ndër fiset arabe. Prandaj kjo marrëveshje u quajt “fitore e qartë”."
 }

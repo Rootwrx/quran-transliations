@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1373",
-    "sura": "10",
-    "aya": "9",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ يَهۡدِيهِمۡ رَبُّهُم بِإِيمَٰنِهِمۡۖ تَجۡرِي مِن تَحۡتِهِمُ ٱلۡأَنۡهَٰرُ فِي جَنَّٰتِ ٱلنَّعِيمِ",
-    "translation": "Dájúdájú àwọn tó gbàgbọ́ ní òdodo, tí wọ́n sì ṣe àwọn iṣẹ́ rere, Olúwa wọn yóò fi ìgbàgbọ́ òdodo wọn tọ́ wọn sọ́nà.[1] Àwọn odò yó sì máa ṣàn ní ìsàlẹ̀ ọ̀dọ̀ wọn nínú Ọgbà Ìdẹ̀ra.",
-    "footnotes": "1. Ìgbàgbọ́ òdodo yóò máa ṣe atọ́nà onígbàgbọ́ òdodo lọ síbi àlékún iṣẹ́ rere títí ọjọ́ ikú rẹ̀."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 209,
+  "verse_key": "10:9",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ يَهۡدِيهِمۡ رَبُّهُم بِإِيمَٰنِهِمۡۖ تَجۡرِي مِن تَحۡتِهِمُ ٱلۡأَنۡهَٰرُ فِي جَنَّٰتِ ٱلنَّعِيمِ",
+  "translation": "Dájúdájú àwọn tó gbàgbọ́ ní òdodo, tí wọ́n sì ṣe àwọn iṣẹ́ rere, Olúwa wọn yóò fi ìgbàgbọ́ òdodo wọn tọ́ wọn sọ́nà.[1] Àwọn odò yó sì máa ṣàn ní ìsàlẹ̀ ọ̀dọ̀ wọn nínú Ọgbà Ìdẹ̀ra.",
+  "footnotes": "1. Ìgbàgbọ́ òdodo yóò máa ṣe atọ́nà onígbàgbọ́ òdodo lọ síbi àlékún iṣẹ́ rere títí ọjọ́ ikú rẹ̀."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "565",
-    "sura": "4",
-    "aya": "72",
-    "arabic_text": "وَإِنَّ مِنكُمۡ لَمَن لَّيُبَطِّئَنَّ فَإِنۡ أَصَٰبَتۡكُم مُّصِيبَةٞ قَالَ قَدۡ أَنۡعَمَ ٱللَّهُ عَلَيَّ إِذۡ لَمۡ أَكُن مَّعَهُمۡ شَهِيدٗا",
-    "translation": "Dájúdájú ó ń bẹ nínú yín ẹni tó ń fà sẹ́yìn. Tí àdánwó kan bá kàn yín, ó máa wí pé: “Allāhu kúkú ti ṣe ìdẹ̀ra fún mi nítorí pé èmi kò sí níbẹ̀ pẹ̀lú wọn (wọn kò sì rí mi pa pẹ̀lú àwọn tó kú ikú ṣẹhīdi).”",
-    "footnotes": ""
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 89,
+  "verse_key": "4:72",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ مِنكُمۡ لَمَن لَّيُبَطِّئَنَّ فَإِنۡ أَصَٰبَتۡكُم مُّصِيبَةٞ قَالَ قَدۡ أَنۡعَمَ ٱللَّهُ عَلَيَّ إِذۡ لَمۡ أَكُن مَّعَهُمۡ شَهِيدٗا",
+  "translation": "Dájúdájú ó ń bẹ nínú yín ẹni tó ń fà sẹ́yìn. Tí àdánwó kan bá kàn yín, ó máa wí pé: “Allāhu kúkú ti ṣe ìdẹ̀ra fún mi nítorí pé èmi kò sí níbẹ̀ pẹ̀lú wọn (wọn kò sì rí mi pa pẹ̀lú àwọn tó kú ikú ṣẹhīdi).”",
+  "footnotes": ""
 }

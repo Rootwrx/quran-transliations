@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5830",
-    "sura": "82",
-    "aya": "1",
-    "arabic_text": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
-    "translation": "Асман жарылып,",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 587,
+  "verse_key": "82:1",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذَا ٱلسَّمَآءُ ٱنفَطَرَتۡ",
+  "translation": "Асман жарылып,",
+  "footnotes": ""
 }

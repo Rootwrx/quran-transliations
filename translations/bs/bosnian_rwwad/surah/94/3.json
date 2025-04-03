@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6093",
-    "sura": "94",
-    "aya": "3",
-    "arabic_text": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ",
-    "translation": "koje je pleća tvoja pritiskalo,",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 596,
+  "verse_key": "94:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِيٓ أَنقَضَ ظَهۡرَكَ",
+  "translation": "koje je pleća tvoja pritiskalo,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1741",
-    "sura": "13",
-    "aya": "34",
-    "arabic_text": "لَّهُمۡ عَذَابٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَقُّۖ وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقٖ",
-    "translation": "Wanayo adhabu katika maisha ya dunia, na adhabu ya Akhera hapana shaka ina mashaka zaidi. Na wala hawatakuwa na wa kuwalinda na Mwenyezi Mungu.",
-    "footnotes": "Duniani watapata adhabu kwa kushindwa na kutekwa na kuuliwa, ikiwa Waumini watakwenda katika njia ya Haki. Na hapana shaka adhabu ya Akhera itayo wateremkia ni kali zaidi na ya kudumu zaidi. Hapana wa kuwakinga na adhabu ya Mwenyezi Mungu Mwenye uwezo wa kila kitu."
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 253,
+  "verse_key": "13:34",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّهُمۡ عَذَابٞ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَاۖ وَلَعَذَابُ ٱلۡأٓخِرَةِ أَشَقُّۖ وَمَا لَهُم مِّنَ ٱللَّهِ مِن وَاقٖ",
+  "translation": "Wanayo adhabu katika maisha ya dunia, na adhabu ya Akhera hapana shaka ina mashaka zaidi. Na wala hawatakuwa na wa kuwalinda na Mwenyezi Mungu.",
+  "footnotes": "Duniani watapata adhabu kwa kushindwa na kutekwa na kuuliwa, ikiwa Waumini watakwenda katika njia ya Haki. Na hapana shaka adhabu ya Akhera itayo wateremkia ni kali zaidi na ya kudumu zaidi. Hapana wa kuwakinga na adhabu ya Mwenyezi Mungu Mwenye uwezo wa kila kitu."
 }

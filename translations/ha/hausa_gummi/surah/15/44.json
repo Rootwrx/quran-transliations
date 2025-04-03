@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1846",
-    "sura": "15",
-    "aya": "44",
-    "arabic_text": "لَهَا سَبۡعَةُ أَبۡوَٰبٖ لِّكُلِّ بَابٖ مِّنۡهُمۡ جُزۡءٞ مَّقۡسُومٌ",
-    "translation": "Tanã da ƙõfõfi bakwai,* ga kõwace ƙõfa akwai wani juz'i daga gare su rababbe.",
-    "footnotes": "* Ƙõfofin Jahannama bakwai ne, watau ɗabaƙõƙinta ta farko ita ce Jahannama, sa'an nan Lazza, sa'an nan Alhuɗama sa'an nan Assa'ĩra, sa'an nan saƙar, sa'an nan Aljahĩm, sa'an nan Alhãwiya. Kõwace ɗabaƙa tanã da juz'i sananne, watau ƙõfa ga Yahudu, wata ga Nasãra, wata Saba'ãwa, wata ga Majũsãwa, wata ga Mushirikai, wata ga munãfukai, wata ga Musulmi waɗanda aka yi musu hushi (mummunan aiki). Anã fatan fita ga mãsu tauhĩdi daga gare ta. Ba a fatan kõme ga sauran, sunã dawwama a cikinta har abada."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 264,
+  "verse_key": "15:44",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَهَا سَبۡعَةُ أَبۡوَٰبٖ لِّكُلِّ بَابٖ مِّنۡهُمۡ جُزۡءٞ مَّقۡسُومٌ",
+  "translation": "Tanã da ƙõfõfi bakwai,* ga kõwace ƙõfa akwai wani juz'i daga gare su rababbe.",
+  "footnotes": "* Ƙõfofin Jahannama bakwai ne, watau ɗabaƙõƙinta ta farko ita ce Jahannama, sa'an nan Lazza, sa'an nan Alhuɗama sa'an nan Assa'ĩra, sa'an nan saƙar, sa'an nan Aljahĩm, sa'an nan Alhãwiya. Kõwace ɗabaƙa tanã da juz'i sananne, watau ƙõfa ga Yahudu, wata ga Nasãra, wata Saba'ãwa, wata ga Majũsãwa, wata ga Mushirikai, wata ga munãfukai, wata ga Musulmi waɗanda aka yi musu hushi (mummunan aiki). Anã fatan fita ga mãsu tauhĩdi daga gare ta. Ba a fatan kõme ga sauran, sunã dawwama a cikinta har abada."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4940",
-    "sura": "55",
-    "aya": "39",
-    "arabic_text": "فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ",
-    "translation": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya.822)",
-    "footnotes": "*822) Tetapi pada saatnya akan dimintai pertanggungjawaban atas segala amal perbuatannya."
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 532,
+  "verse_key": "55:39",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَيَوۡمَئِذٖ لَّا يُسۡـَٔلُ عَن ذَنۢبِهِۦٓ إِنسٞ وَلَا جَآنّٞ",
+  "translation": "Maka pada hari itu manusia dan jin tidak ditanya tentang dosanya.822)",
+  "footnotes": "*822) Tetapi pada saatnya akan dimintai pertanggungjawaban atas segala amal perbuatannya."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2238",
-    "sura": "18",
-    "aya": "98",
-    "arabic_text": "قَالَ هَٰذَا رَحۡمَةٞ مِّن رَّبِّيۖ فَإِذَا جَآءَ وَعۡدُ رَبِّي جَعَلَهُۥ دَكَّآءَۖ وَكَانَ وَعۡدُ رَبِّي حَقّٗا",
-    "translation": "Akasema: Hii ni rehema itokayo kwa Mola wangu Mlezi. Na itapo fika ahadi ya Mola wangu Mlezi atauvunja vunja. Na ahadi ya Mola wangu Mlezi ni kweli tu.",
-    "footnotes": "Dhul-Qarnaini alipo kwisha jenga ile ngome alisema kumshukuru Mwenyezi Mungu: Ngome hii ni rehema iliyo toka kwa Mola wangu Mlezi kwa ajili ya waja wake. Na itabaki hivi hivi imesimama mpaka ije amri ya Mwenyezi Mungu kuiteketeza. Hapo tena itakuwa sawa sawa na ardhi. Na amri ya Mwenyezi Mungu ni lazima itimie bila ya muhali."
-  }
+  "id": 98,
+  "verse_number": 98,
+  "page_number": 304,
+  "verse_key": "18:98",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ هَٰذَا رَحۡمَةٞ مِّن رَّبِّيۖ فَإِذَا جَآءَ وَعۡدُ رَبِّي جَعَلَهُۥ دَكَّآءَۖ وَكَانَ وَعۡدُ رَبِّي حَقّٗا",
+  "translation": "Akasema: Hii ni rehema itokayo kwa Mola wangu Mlezi. Na itapo fika ahadi ya Mola wangu Mlezi atauvunja vunja. Na ahadi ya Mola wangu Mlezi ni kweli tu.",
+  "footnotes": "Dhul-Qarnaini alipo kwisha jenga ile ngome alisema kumshukuru Mwenyezi Mungu: Ngome hii ni rehema iliyo toka kwa Mola wangu Mlezi kwa ajili ya waja wake. Na itabaki hivi hivi imesimama mpaka ije amri ya Mwenyezi Mungu kuiteketeza. Hapo tena itakuwa sawa sawa na ardhi. Na amri ya Mwenyezi Mungu ni lazima itimie bila ya muhali."
 }

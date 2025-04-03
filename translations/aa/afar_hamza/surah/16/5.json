@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1906",
-    "sura": "16",
-    "aya": "5",
-    "arabic_text": "وَٱلۡأَنۡعَٰمَ خَلَقَهَاۖ لَكُمۡ فِيهَا دِفۡءٞ وَمَنَٰفِعُ وَمِنۡهَا تَأۡكُلُونَ",
-    "translation": "5. Yalli lac siinih gineeh, xabcak edde gamittan saray kay xagooruk (dagooruk) bicissaana edde litoonuuh, gersi tuxxiq kee cado kaak takmeenim edde liton.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 267,
+  "verse_key": "16:5",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡأَنۡعَٰمَ خَلَقَهَاۖ لَكُمۡ فِيهَا دِفۡءٞ وَمَنَٰفِعُ وَمِنۡهَا تَأۡكُلُونَ",
+  "translation": "5. Yalli lac siinih gineeh, xabcak edde gamittan saray kay xagooruk (dagooruk) bicissaana edde litoonuuh, gersi tuxxiq kee cado kaak takmeenim edde liton.",
+  "footnotes": ""
 }

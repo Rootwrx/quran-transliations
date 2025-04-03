@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5363",
-    "sura": "69",
-    "aya": "40",
-    "arabic_text": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
-    "translation": "چې بېشكه دا د يو عزتمن استازي وينا ده",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 568,
+  "verse_key": "69:40",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
+  "translation": "چې بېشكه دا د يو عزتمن استازي وينا ده",
+  "footnotes": ""
 }

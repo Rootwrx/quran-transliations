@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4771",
-    "sura": "52",
-    "aya": "36",
-    "arabic_text": "أَمۡ خَلَقُواْ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۚ بَل لَّا يُوقِنُونَ",
-    "translation": "それとも、彼らが諸天と大地を創ったのだと？いや、彼らは（アッラー*の懲罰を）確信していない。",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 525,
+  "verse_key": "52:36",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ خَلَقُواْ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضَۚ بَل لَّا يُوقِنُونَ",
+  "translation": "それとも、彼らが諸天と大地を創ったのだと？いや、彼らは（アッラー*の懲罰を）確信していない。",
+  "footnotes": ""
 }

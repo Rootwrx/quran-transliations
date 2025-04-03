@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "630",
-    "sura": "4",
-    "aya": "137",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ ثُمَّ كَفَرُواْ ثُمَّ ءَامَنُواْ ثُمَّ كَفَرُواْ ثُمَّ ٱزۡدَادُواْ كُفۡرٗا لَّمۡ يَكُنِ ٱللَّهُ لِيَغۡفِرَ لَهُمۡ وَلَا لِيَهۡدِيَهُمۡ سَبِيلَۢا",
-    "translation": "Dhugumatti isaan amananii ergasii kafaran, ergasii amananii ergasii kafaran, ergasiis kufrii daddabalatan, Rabbiin kan isaaniif araaramuufi kan karaa isaan qajeelchu hin taane.",
-    "footnotes": ""
-  }
+  "id": 137,
+  "verse_number": 137,
+  "page_number": 100,
+  "verse_key": "4:137",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 40,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ ثُمَّ كَفَرُواْ ثُمَّ ءَامَنُواْ ثُمَّ كَفَرُواْ ثُمَّ ٱزۡدَادُواْ كُفۡرٗا لَّمۡ يَكُنِ ٱللَّهُ لِيَغۡفِرَ لَهُمۡ وَلَا لِيَهۡدِيَهُمۡ سَبِيلَۢا",
+  "translation": "Dhugumatti isaan amananii ergasii kafaran, ergasii amananii ergasii kafaran, ergasiis kufrii daddabalatan, Rabbiin kan isaaniif araaramuufi kan karaa isaan qajeelchu hin taane.",
+  "footnotes": ""
 }

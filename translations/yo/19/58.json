@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2308",
-    "sura": "19",
-    "aya": "58",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوحٖ وَمِن ذُرِّيَّةِ إِبۡرَٰهِيمَ وَإِسۡرَٰٓءِيلَ وَمِمَّنۡ هَدَيۡنَا وَٱجۡتَبَيۡنَآۚ إِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُ ٱلرَّحۡمَٰنِ خَرُّواْۤ سُجَّدٗاۤ وَبُكِيّٗا۩",
-    "translation": "Àwọn wọ̀nyẹn ni àwọn tí Allāhu ṣe ìdẹ̀ra fún nínú àwọn Ànábì, nínú àwọn àrọ́mọdọ́mọ (Ànábì) Ādam àti nínú àwọn tí A gbé gun ọkọ̀ ojú-omi pẹ̀lú (Ànábì) Nūh àti nínú àrọ́mọdọ́mọ (Ànábì) ’Ibrọ̄hīm àti ’Isrọ̄’īl àti nínú àwọn tí A ti fi mọ̀nà, tí A sì ṣà lẹ́ṣà. Nígbà tí wọ́n bá ń ké àwọn āyah Àjọkẹ́-ayé fún wọn, wọ́n máa dojú bolẹ̀; tí wọ́n á foríkanlẹ̀, tí wọ́n á sì máa sunkún.",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 309,
+  "verse_key": "19:58",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 5,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوحٖ وَمِن ذُرِّيَّةِ إِبۡرَٰهِيمَ وَإِسۡرَٰٓءِيلَ وَمِمَّنۡ هَدَيۡنَا وَٱجۡتَبَيۡنَآۚ إِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُ ٱلرَّحۡمَٰنِ خَرُّواْۤ سُجَّدٗاۤ وَبُكِيّٗا۩",
+  "translation": "Àwọn wọ̀nyẹn ni àwọn tí Allāhu ṣe ìdẹ̀ra fún nínú àwọn Ànábì, nínú àwọn àrọ́mọdọ́mọ (Ànábì) Ādam àti nínú àwọn tí A gbé gun ọkọ̀ ojú-omi pẹ̀lú (Ànábì) Nūh àti nínú àrọ́mọdọ́mọ (Ànábì) ’Ibrọ̄hīm àti ’Isrọ̄’īl àti nínú àwọn tí A ti fi mọ̀nà, tí A sì ṣà lẹ́ṣà. Nígbà tí wọ́n bá ń ké àwọn āyah Àjọkẹ́-ayé fún wọn, wọ́n máa dojú bolẹ̀; tí wọ́n á foríkanlẹ̀, tí wọ́n á sì máa sunkún.",
+  "footnotes": ""
 }

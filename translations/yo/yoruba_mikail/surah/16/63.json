@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1964",
-    "sura": "16",
-    "aya": "63",
-    "arabic_text": "تَٱللَّهِ لَقَدۡ أَرۡسَلۡنَآ إِلَىٰٓ أُمَمٖ مِّن قَبۡلِكَ فَزَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ فَهُوَ وَلِيُّهُمُ ٱلۡيَوۡمَ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
-    "translation": "Allāhu fi ara Rẹ̀ búra,[1] dájúdájú A ti rán àwọn Òjíṣẹ́ níṣẹ́ sí àwọn ìjọ kan ṣíwájú rẹ. Nígbà náà, aṣ-Ṣaetọ̄n ṣe iṣẹ́ wọn ní ọ̀ṣọ́ fún wọn; òun sì ni ọ̀rẹ́ wọn ní òní. Ìyà ẹlẹ́ta-eléro sì wà fún wọn.",
-    "footnotes": "1. Allāhu - subhānahu wa ta‘ālā - fi Ara Rẹ̀ búra. Ó sì jẹ́ ẹ̀tọ́ fún Un láti ṣe bẹ́ẹ̀ nítorí pé, Òun l’Ó ni Ara Rẹ̀."
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 273,
+  "verse_key": "16:63",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَٱللَّهِ لَقَدۡ أَرۡسَلۡنَآ إِلَىٰٓ أُمَمٖ مِّن قَبۡلِكَ فَزَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ فَهُوَ وَلِيُّهُمُ ٱلۡيَوۡمَ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+  "translation": "Allāhu fi ara Rẹ̀ búra,[1] dájúdájú A ti rán àwọn Òjíṣẹ́ níṣẹ́ sí àwọn ìjọ kan ṣíwájú rẹ. Nígbà náà, aṣ-Ṣaetọ̄n ṣe iṣẹ́ wọn ní ọ̀ṣọ́ fún wọn; òun sì ni ọ̀rẹ́ wọn ní òní. Ìyà ẹlẹ́ta-eléro sì wà fún wọn.",
+  "footnotes": "1. Allāhu - subhānahu wa ta‘ālā - fi Ara Rẹ̀ búra. Ó sì jẹ́ ẹ̀tọ́ fún Un láti ṣe bẹ́ẹ̀ nítorí pé, Òun l’Ó ni Ara Rẹ̀."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "588",
-    "sura": "4",
-    "aya": "95",
-    "arabic_text": "لَّا يَسۡتَوِي ٱلۡقَٰعِدُونَ مِنَ ٱلۡمُؤۡمِنِينَ غَيۡرُ أُوْلِي ٱلضَّرَرِ وَٱلۡمُجَٰهِدُونَ فِي سَبِيلِ ٱللَّهِ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡۚ فَضَّلَ ٱللَّهُ ٱلۡمُجَٰهِدِينَ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ عَلَى ٱلۡقَٰعِدِينَ دَرَجَةٗۚ وَكُلّٗا وَعَدَ ٱللَّهُ ٱلۡحُسۡنَىٰۚ وَفَضَّلَ ٱللَّهُ ٱلۡمُجَٰهِدِينَ عَلَى ٱلۡقَٰعِدِينَ أَجۡرًا عَظِيمٗا",
-    "translation": "Mãsu zama* daga barin yãƙi daga mũminai, wasun ma'abũta larũra da mãsu jihãdi a cikin hanyar Allah da dũkiyõyinsu da rãyukansu, bã su zama daidai. Allah Yã fĩfĩta mãsu jihãdi da dũkiyoyinsu da rãyukansu a kan mãsu zama, ga daraja. Kuma dukansu Allah Yã yi musu alkawari da abu mai kyau.** Kuma Allah yã fĩfĩta mãsu jihãdi a kan mãsu zama da lãda mai girma.",
-    "footnotes": "* Falalar mãsu jihãdi a kan waɗanda ba su jihãdi daga cikin muminai. Faɗar falalar tana ƙarfafa zukãta ga yin jihãdi domin tsaron addini da rãyukan mãsu rauni da dũkiyarsu. ** Aljanna."
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 94,
+  "verse_key": "4:95",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 37,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَسۡتَوِي ٱلۡقَٰعِدُونَ مِنَ ٱلۡمُؤۡمِنِينَ غَيۡرُ أُوْلِي ٱلضَّرَرِ وَٱلۡمُجَٰهِدُونَ فِي سَبِيلِ ٱللَّهِ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡۚ فَضَّلَ ٱللَّهُ ٱلۡمُجَٰهِدِينَ بِأَمۡوَٰلِهِمۡ وَأَنفُسِهِمۡ عَلَى ٱلۡقَٰعِدِينَ دَرَجَةٗۚ وَكُلّٗا وَعَدَ ٱللَّهُ ٱلۡحُسۡنَىٰۚ وَفَضَّلَ ٱللَّهُ ٱلۡمُجَٰهِدِينَ عَلَى ٱلۡقَٰعِدِينَ أَجۡرًا عَظِيمٗا",
+  "translation": "Mãsu zama* daga barin yãƙi daga mũminai, wasun ma'abũta larũra da mãsu jihãdi a cikin hanyar Allah da dũkiyõyinsu da rãyukansu, bã su zama daidai. Allah Yã fĩfĩta mãsu jihãdi da dũkiyoyinsu da rãyukansu a kan mãsu zama, ga daraja. Kuma dukansu Allah Yã yi musu alkawari da abu mai kyau.** Kuma Allah yã fĩfĩta mãsu jihãdi a kan mãsu zama da lãda mai girma.",
+  "footnotes": "* Falalar mãsu jihãdi a kan waɗanda ba su jihãdi daga cikin muminai. Faɗar falalar tana ƙarfafa zukãta ga yin jihãdi domin tsaron addini da rãyukan mãsu rauni da dũkiyarsu. ** Aljanna."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3448",
-    "sura": "30",
-    "aya": "39",
-    "arabic_text": "وَمَآ ءَاتَيۡتُم مِّن رِّبٗا لِّيَرۡبُوَاْ فِيٓ أَمۡوَٰلِ ٱلنَّاسِ فَلَا يَرۡبُواْ عِندَ ٱللَّهِۖ وَمَآ ءَاتَيۡتُم مِّن زَكَوٰةٖ تُرِيدُونَ وَجۡهَ ٱللَّهِ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُضۡعِفُونَ",
-    "translation": "Ingurane iyo ari yo yose mutanze mu ntumbero yo kuronka inyungu izira[14] yiyongera mu matungo y’abantu, ntizokwigera yiyongera namba ku Mana Allah, ahubwo izocika agahombo n’ivumwe. Nayo ico ari co cose mutanze kw’ishikanwa-bwirizwa no ku mperezwa, mukagihereza abakigenewe murondera gushimwa n’Imana Allah, Imana Allah Izokibakirira. Abatanga rero muri ubwo buryo, ni bo bazogwirizwa indishi ku Mana Allah.",
-    "footnotes": "[14] Inyungu izira ni riba"
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 408,
+  "verse_key": "30:39",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ ءَاتَيۡتُم مِّن رِّبٗا لِّيَرۡبُوَاْ فِيٓ أَمۡوَٰلِ ٱلنَّاسِ فَلَا يَرۡبُواْ عِندَ ٱللَّهِۖ وَمَآ ءَاتَيۡتُم مِّن زَكَوٰةٖ تُرِيدُونَ وَجۡهَ ٱللَّهِ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُضۡعِفُونَ",
+  "translation": "Ingurane iyo ari yo yose mutanze mu ntumbero yo kuronka inyungu izira[14] yiyongera mu matungo y’abantu, ntizokwigera yiyongera namba ku Mana Allah, ahubwo izocika agahombo n’ivumwe. Nayo ico ari co cose mutanze kw’ishikanwa-bwirizwa no ku mperezwa, mukagihereza abakigenewe murondera gushimwa n’Imana Allah, Imana Allah Izokibakirira. Abatanga rero muri ubwo buryo, ni bo bazogwirizwa indishi ku Mana Allah.",
+  "footnotes": "[14] Inyungu izira ni riba"
 }

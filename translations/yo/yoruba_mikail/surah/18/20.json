@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2160",
-    "sura": "18",
-    "aya": "20",
-    "arabic_text": "إِنَّهُمۡ إِن يَظۡهَرُواْ عَلَيۡكُمۡ يَرۡجُمُوكُمۡ أَوۡ يُعِيدُوكُمۡ فِي مِلَّتِهِمۡ وَلَن تُفۡلِحُوٓاْ إِذًا أَبَدٗا",
-    "translation": "(Nítorí pé) dájúdájú tí wọ́n bá fi lè mọ̀ nípa yín, wọn yóò jù yín lókò tàbí kí wọ́n da yín padà sínú ẹ̀sìn wọn. (Tí ó bá sì fi rí bẹ́ẹ̀) nígbà náà, ẹ kò níí jèrè mọ́ láéláé.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 295,
+  "verse_key": "18:20",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُمۡ إِن يَظۡهَرُواْ عَلَيۡكُمۡ يَرۡجُمُوكُمۡ أَوۡ يُعِيدُوكُمۡ فِي مِلَّتِهِمۡ وَلَن تُفۡلِحُوٓاْ إِذًا أَبَدٗا",
+  "translation": "(Nítorí pé) dájúdájú tí wọ́n bá fi lè mọ̀ nípa yín, wọn yóò jù yín lókò tàbí kí wọ́n da yín padà sínú ẹ̀sìn wọn. (Tí ó bá sì fi rí bẹ́ẹ̀) nígbà náà, ẹ kò níí jèrè mọ́ láéláé.",
+  "footnotes": ""
 }

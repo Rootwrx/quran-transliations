@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "313",
-    "sura": "3",
-    "aya": "20",
-    "arabic_text": "فَإِنۡ حَآجُّوكَ فَقُلۡ أَسۡلَمۡتُ وَجۡهِيَ لِلَّهِ وَمَنِ ٱتَّبَعَنِۗ وَقُل لِّلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡأُمِّيِّـۧنَ ءَأَسۡلَمۡتُمۡۚ فَإِنۡ أَسۡلَمُواْ فَقَدِ ٱهۡتَدَواْۖ وَّإِن تَوَلَّوۡاْ فَإِنَّمَا عَلَيۡكَ ٱلۡبَلَٰغُۗ وَٱللَّهُ بَصِيرُۢ بِٱلۡعِبَادِ",
-    "translation": "20. Y si te discuten (acerca de la religión), diles (¡oh, Muhammad!): “Yo y quienes me siguen nos hemos sometido completamente a Al-lah (adorándolo solo a Él)”. Y diles a quienes recibieron las Escrituras (los judíos y los cristianos) y a los iletrados (los idólatras de entre los árabes): “¿No se someterán ustedes también (aceptado el Islam)?”. Si se someten aceptando el Islam, estarán en el buen camino; pero si le dan la espalda (rendirán cuentas a Al-lah por ello). Y a ti solo te corresponde transmitirles el mensaje (de Al-lah). Y Al-lah ve todo lo que hacen Sus siervos.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 52,
+  "verse_key": "3:20",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنۡ حَآجُّوكَ فَقُلۡ أَسۡلَمۡتُ وَجۡهِيَ لِلَّهِ وَمَنِ ٱتَّبَعَنِۗ وَقُل لِّلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ وَٱلۡأُمِّيِّـۧنَ ءَأَسۡلَمۡتُمۡۚ فَإِنۡ أَسۡلَمُواْ فَقَدِ ٱهۡتَدَواْۖ وَّإِن تَوَلَّوۡاْ فَإِنَّمَا عَلَيۡكَ ٱلۡبَلَٰغُۗ وَٱللَّهُ بَصِيرُۢ بِٱلۡعِبَادِ",
+  "translation": "20. Y si te discuten (acerca de la religión), diles (¡oh, Muhammad!): “Yo y quienes me siguen nos hemos sometido completamente a Al-lah (adorándolo solo a Él)”. Y diles a quienes recibieron las Escrituras (los judíos y los cristianos) y a los iletrados (los idólatras de entre los árabes): “¿No se someterán ustedes también (aceptado el Islam)?”. Si se someten aceptando el Islam, estarán en el buen camino; pero si le dan la espalda (rendirán cuentas a Al-lah por ello). Y a ti solo te corresponde transmitirles el mensaje (de Al-lah). Y Al-lah ve todo lo que hacen Sus siervos.",
+  "footnotes": ""
 }

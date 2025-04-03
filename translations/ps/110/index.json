@@ -1,26 +1,44 @@
 {
-  "result": [
+  "verses": [
     {
-      "id": "6214",
-      "sura": "110",
-      "aya": "1",
-      "arabic_text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
+      "id": 1,
+      "verse_number": 1,
+      "page_number": 603,
+      "verse_key": "110:1",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "إِذَا جَآءَ نَصۡرُ ٱللَّهِ وَٱلۡفَتۡحُ",
       "translation": "کله چې د الله مرسته او بريا راشي.",
       "footnotes": ""
     },
     {
-      "id": "6215",
-      "sura": "110",
-      "aya": "2",
-      "arabic_text": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا",
+      "id": 2,
+      "verse_number": 2,
+      "page_number": 603,
+      "verse_key": "110:2",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "وَرَأَيۡتَ ٱلنَّاسَ يَدۡخُلُونَ فِي دِينِ ٱللَّهِ أَفۡوَاجٗا",
       "translation": "او خلک ووينې چې د الله په دين کې ډلې ډلې داخليږي",
       "footnotes": ""
     },
     {
-      "id": "6216",
-      "sura": "110",
-      "aya": "3",
-      "arabic_text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
+      "id": 3,
+      "verse_number": 3,
+      "page_number": 603,
+      "verse_key": "110:3",
+      "juz_number": 30,
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "sajdah_type": null,
+      "sajdah_number": null,
+      "text": "فَسَبِّحۡ بِحَمۡدِ رَبِّكَ وَٱسۡتَغۡفِرۡهُۚ إِنَّهُۥ كَانَ تَوَّابَۢا",
       "translation": "نو بيا د خپل پالونکي له ستاينې سره د هغه پاکي بيانوه او بخښنه ترې غواړه، بېشکه هغه ډېر بخښونکی دی.",
       "footnotes": ""
     }

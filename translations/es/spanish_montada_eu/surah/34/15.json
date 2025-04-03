@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3621",
-    "sura": "34",
-    "aya": "15",
-    "arabic_text": "لَقَدۡ كَانَ لِسَبَإٖ فِي مَسۡكَنِهِمۡ ءَايَةٞۖ جَنَّتَانِ عَن يَمِينٖ وَشِمَالٖۖ كُلُواْ مِن رِّزۡقِ رَبِّكُمۡ وَٱشۡكُرُواْ لَهُۥۚ بَلۡدَةٞ طَيِّبَةٞ وَرَبٌّ غَفُورٞ",
-    "translation": "15. Ciertamente, los habitantes de Saba[819] tenían una prueba del poder de Al-lah en la tierra que habitaban. Tenían dos (grandes extensiones de) huertas (que rodeaban su territorio), una a la derecha (del valle) y otra a su izquierda. (Se les dijo:)«Comed de lo que vuestro Señor os provee y sed agradecidos con él». Tenían una buena tierra y un Señor Indulgente. ",
-    "footnotes": "[819]  La tierra de Saba continuaba siendo muy próspera, como en tiempos del profeta Salomón y la reina Bilqis, debido a una gran presa que había sido construida por antiguos reyes del lugar, donde se acumulaba el agua de la lluvia y la que bajaba de las montañas. Esto permitía que la tierra fuera rica en cultivos. Algunos comentaristas opinan que Saba es el nombre de una tribu importante que vivía en esa zona de Yemen, concretamente en Ma’rib, y que no es el nombre de la tierra (ver la nota de la aleya 22 de la sura 27 sobre el reino de Saba)."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 430,
+  "verse_key": "34:15",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ كَانَ لِسَبَإٖ فِي مَسۡكَنِهِمۡ ءَايَةٞۖ جَنَّتَانِ عَن يَمِينٖ وَشِمَالٖۖ كُلُواْ مِن رِّزۡقِ رَبِّكُمۡ وَٱشۡكُرُواْ لَهُۥۚ بَلۡدَةٞ طَيِّبَةٞ وَرَبٌّ غَفُورٞ",
+  "translation": "15. Ciertamente, los habitantes de Saba[819] tenían una prueba del poder de Al-lah en la tierra que habitaban. Tenían dos (grandes extensiones de) huertas (que rodeaban su territorio), una a la derecha (del valle) y otra a su izquierda. (Se les dijo:)«Comed de lo que vuestro Señor os provee y sed agradecidos con él». Tenían una buena tierra y un Señor Indulgente. ",
+  "footnotes": "[819]  La tierra de Saba continuaba siendo muy próspera, como en tiempos del profeta Salomón y la reina Bilqis, debido a una gran presa que había sido construida por antiguos reyes del lugar, donde se acumulaba el agua de la lluvia y la que bajaba de las montañas. Esto permitía que la tierra fuera rica en cultivos. Algunos comentaristas opinan que Saba es el nombre de una tribu importante que vivía en esa zona de Yemen, concretamente en Ma’rib, y que no es el nombre de la tierra (ver la nota de la aleya 22 de la sura 27 sobre el reino de Saba)."
 }

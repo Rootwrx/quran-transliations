@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "908",
-    "sura": "6",
-    "aya": "119",
-    "arabic_text": "وَمَا لَكُمۡ أَلَّا تَأۡكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَقَدۡ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيۡكُمۡ إِلَّا مَا ٱضۡطُرِرۡتُمۡ إِلَيۡهِۗ وَإِنَّ كَثِيرٗا لَّيُضِلُّونَ بِأَهۡوَآئِهِم بِغَيۡرِ عِلۡمٍۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِٱلۡمُعۡتَدِينَ",
-    "translation": "Mbega ni igiki cobabuza gufungura inyama z’ivyakerewe habanje kuvugwa izina ry’Imana Allah, kandi Imana Allah Yaramaze kubatomorera ivyo Yaziririje ko mufungura! Ariko ku mvo zo kurokora ubuzima, n’ivyaziririjwe nyene murarekuriwe kuvyikorako. Mu vy’ukuri, abenshi mu bahuvye, ni ukuri bisunga ivyipfuzo vyabo mu guhubisha abantu inzira y’Imana Allah, mu kuzirura ivyaziririjwe no mu kuziririza ivyaziruwe ku bujuju bwabo. Ntumwa y’Imana! Mu vy’ukuri, Imana yawe Rurema Allah, ni Yo Izi neza abarenga ku mabwirizwa yayo, ni na Yo Izobaharurira Ikanabahembera ivyo bakoze.",
-    "footnotes": ""
-  }
+  "id": 119,
+  "verse_number": 119,
+  "page_number": 143,
+  "verse_key": "6:119",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا لَكُمۡ أَلَّا تَأۡكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَقَدۡ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيۡكُمۡ إِلَّا مَا ٱضۡطُرِرۡتُمۡ إِلَيۡهِۗ وَإِنَّ كَثِيرٗا لَّيُضِلُّونَ بِأَهۡوَآئِهِم بِغَيۡرِ عِلۡمٍۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِٱلۡمُعۡتَدِينَ",
+  "translation": "Mbega ni igiki cobabuza gufungura inyama z’ivyakerewe habanje kuvugwa izina ry’Imana Allah, kandi Imana Allah Yaramaze kubatomorera ivyo Yaziririje ko mufungura! Ariko ku mvo zo kurokora ubuzima, n’ivyaziririjwe nyene murarekuriwe kuvyikorako. Mu vy’ukuri, abenshi mu bahuvye, ni ukuri bisunga ivyipfuzo vyabo mu guhubisha abantu inzira y’Imana Allah, mu kuzirura ivyaziririjwe no mu kuziririza ivyaziruwe ku bujuju bwabo. Ntumwa y’Imana! Mu vy’ukuri, Imana yawe Rurema Allah, ni Yo Izi neza abarenga ku mabwirizwa yayo, ni na Yo Izobaharurira Ikanabahembera ivyo bakoze.",
+  "footnotes": ""
 }

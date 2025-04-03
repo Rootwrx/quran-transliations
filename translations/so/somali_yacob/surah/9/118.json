@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1353",
-    "sura": "9",
-    "aya": "118",
-    "arabic_text": "وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُواْ حَتَّىٰٓ إِذَا ضَاقَتۡ عَلَيۡهِمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ وَضَاقَتۡ عَلَيۡهِمۡ أَنفُسُهُمۡ وَظَنُّوٓاْ أَن لَّا مَلۡجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيۡهِ ثُمَّ تَابَ عَلَيۡهِمۡ لِيَتُوبُوٓاْۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
-    "translation": "118. (Sidoo kale Alle wuu cafiyey) seddexdii dib loo dhigay (arrinkooda ee ka xumaaday khaladkoodii)39, heer arladu ku ciriiryoontay waxay ballaar laheyd,  nafahoodana sidoo kale ku ciriiryoomeen, waxayna hubeen in aanay jirin meel laga magan galaa Alle aan ahayn Xaggiisa. Markaasuu waafajiyey toobad san, si ay u toobad keenaan. Hubaal Alle waa Toobad Aqbal Badanaha, Naxariista badan.",
-    "footnotes": "39. Aayadahani waxay ku soo degeen duullaankii Tabuuk, wuxuuna ahaa waqti aad u kulul, iyo socdaal dheer, waayo Madiina iyo Tabuuk waa kala dheer yihiin marka lug lagu socdo. Seddexdaas nin ee dib ku haray waxay ahaayeen: Kacab bin Maalik, Hilaal bin Umayyah, iyo Muraarah bin Rabiic., waxaana lagu eedeeyey inay ka hareen dagaalkii Tabuuk oo ayan ka soo qayb gelin."
-  }
+  "id": 118,
+  "verse_number": 118,
+  "page_number": 206,
+  "verse_key": "9:118",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 82,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَلَى ٱلثَّلَٰثَةِ ٱلَّذِينَ خُلِّفُواْ حَتَّىٰٓ إِذَا ضَاقَتۡ عَلَيۡهِمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ وَضَاقَتۡ عَلَيۡهِمۡ أَنفُسُهُمۡ وَظَنُّوٓاْ أَن لَّا مَلۡجَأَ مِنَ ٱللَّهِ إِلَّآ إِلَيۡهِ ثُمَّ تَابَ عَلَيۡهِمۡ لِيَتُوبُوٓاْۚ إِنَّ ٱللَّهَ هُوَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "translation": "118. (Sidoo kale Alle wuu cafiyey) seddexdii dib loo dhigay (arrinkooda ee ka xumaaday khaladkoodii)39, heer arladu ku ciriiryoontay waxay ballaar laheyd,  nafahoodana sidoo kale ku ciriiryoomeen, waxayna hubeen in aanay jirin meel laga magan galaa Alle aan ahayn Xaggiisa. Markaasuu waafajiyey toobad san, si ay u toobad keenaan. Hubaal Alle waa Toobad Aqbal Badanaha, Naxariista badan.",
+  "footnotes": "39. Aayadahani waxay ku soo degeen duullaankii Tabuuk, wuxuuna ahaa waqti aad u kulul, iyo socdaal dheer, waayo Madiina iyo Tabuuk waa kala dheer yihiin marka lug lagu socdo. Seddexdaas nin ee dib ku haray waxay ahaayeen: Kacab bin Maalik, Hilaal bin Umayyah, iyo Muraarah bin Rabiic., waxaana lagu eedeeyey inay ka hareen dagaalkii Tabuuk oo ayan ka soo qayb gelin."
 }

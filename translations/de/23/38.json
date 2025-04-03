@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2711",
-    "sura": "23",
-    "aya": "38",
-    "arabic_text": "إِنۡ هُوَ إِلَّا رَجُلٌ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبٗا وَمَا نَحۡنُ لَهُۥ بِمُؤۡمِنِينَ",
-    "translation": "Er ist nur ein Mann, der gegen Allah eine Lüge ersonnen hat; und wir wollen ihm nicht glauben.",
-    "footnotes": null
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 344,
+  "verse_key": "23:38",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ هُوَ إِلَّا رَجُلٌ ٱفۡتَرَىٰ عَلَى ٱللَّهِ كَذِبٗا وَمَا نَحۡنُ لَهُۥ بِمُؤۡمِنِينَ",
+  "translation": "Er ist nur ein Mann, der gegen Allah eine Lüge ersonnen hat; und wir wollen ihm nicht glauben.",
+  "footnotes": null
 }

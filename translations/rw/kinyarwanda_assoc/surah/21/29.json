@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2512",
-    "sura": "21",
-    "aya": "29",
-    "arabic_text": "۞ وَمَن يَقُلۡ مِنۡهُمۡ إِنِّيٓ إِلَٰهٞ مِّن دُونِهِۦ فَذَٰلِكَ نَجۡزِيهِ جَهَنَّمَۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
-    "translation": "N’uwo ari we wese muri bo (abamalayika) wavuga ati “Mu by’ukuri njye ndi imana mu cyimbo cye (Allah)”; uwo twazamuhanisha umuriro wa Jahanamu. Kandi uko ni ko duhemba inkozi z’ibibi.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 324,
+  "verse_key": "21:29",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَمَن يَقُلۡ مِنۡهُمۡ إِنِّيٓ إِلَٰهٞ مِّن دُونِهِۦ فَذَٰلِكَ نَجۡزِيهِ جَهَنَّمَۚ كَذَٰلِكَ نَجۡزِي ٱلظَّٰلِمِينَ",
+  "translation": "N’uwo ari we wese muri bo (abamalayika) wavuga ati “Mu by’ukuri njye ndi imana mu cyimbo cye (Allah)”; uwo twazamuhanisha umuriro wa Jahanamu. Kandi uko ni ko duhemba inkozi z’ibibi.",
+  "footnotes": ""
 }

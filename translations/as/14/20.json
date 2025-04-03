@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1770",
-    "sura": "14",
-    "aya": "20",
-    "arabic_text": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ",
-    "translation": "আৰু এইটো আল্লাহৰ বাবে একো টান কাম নহয়।",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 258,
+  "verse_key": "14:20",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا ذَٰلِكَ عَلَى ٱللَّهِ بِعَزِيزٖ",
+  "translation": "আৰু এইটো আল্লাহৰ বাবে একো টান কাম নহয়।",
+  "footnotes": ""
 }

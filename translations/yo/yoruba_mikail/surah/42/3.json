@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4275",
-    "sura": "42",
-    "aya": "3",
-    "arabic_text": "كَذَٰلِكَ يُوحِيٓ إِلَيۡكَ وَإِلَى ٱلَّذِينَ مِن قَبۡلِكَ ٱللَّهُ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "Báyẹn ni Allāhu, Alágbára, Ọlọ́gbọ́n ṣe ń fi ìmísí ránṣẹ́ sí ìwọ àti àwọn tó ṣíwájú rẹ.[1]",
-    "footnotes": "\"1. È é ti ṣe tí Allāhu lẹ́yìn tí Ó sọ pé “Báyẹn ni Allāhu, Alágbára, Ọlọ́gbọ́n ṣe ń fi ìmísí ránṣẹ́ sí ìwọ àti àwọn tó ṣíwájú rẹ.” kò fi kún un pé, “àti àwọn tó ń bọ̀ lẹ́yìn rẹ”? Ìdí ni pé, Allāhu ti fi Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - ṣe òpin àwọn arímìísígbà “kātamu-nnabiyyīn”. Ẹ wo sūrah al-’Ahzāb; 33:40."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 483,
+  "verse_key": "42:3",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَٰلِكَ يُوحِيٓ إِلَيۡكَ وَإِلَى ٱلَّذِينَ مِن قَبۡلِكَ ٱللَّهُ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "Báyẹn ni Allāhu, Alágbára, Ọlọ́gbọ́n ṣe ń fi ìmísí ránṣẹ́ sí ìwọ àti àwọn tó ṣíwájú rẹ.[1]",
+  "footnotes": "\"1. È é ti ṣe tí Allāhu lẹ́yìn tí Ó sọ pé “Báyẹn ni Allāhu, Alágbára, Ọlọ́gbọ́n ṣe ń fi ìmísí ránṣẹ́ sí ìwọ àti àwọn tó ṣíwájú rẹ.” kò fi kún un pé, “àti àwọn tó ń bọ̀ lẹ́yìn rẹ”? Ìdí ni pé, Allāhu ti fi Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a - ṣe òpin àwọn arímìísígbà “kātamu-nnabiyyīn”. Ẹ wo sūrah al-’Ahzāb; 33:40."
 }

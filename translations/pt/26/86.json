@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3018",
-    "sura": "26",
-    "aya": "86",
-    "arabic_text": "وَٱغۡفِرۡ لِأَبِيٓ إِنَّهُۥ كَانَ مِنَ ٱلضَّآلِّينَ",
-    "translation": "E perdoa a meu pai: por certo, ele é dos descaminhados;",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 371,
+  "verse_key": "26:86",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱغۡفِرۡ لِأَبِيٓ إِنَّهُۥ كَانَ مِنَ ٱلضَّآلِّينَ",
+  "translation": "E perdoa a meu pai: por certo, ele é dos descaminhados;",
+  "footnotes": ""
 }

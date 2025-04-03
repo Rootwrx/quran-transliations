@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4675",
-    "sura": "50",
-    "aya": "45",
-    "arabic_text": "نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَۖ وَمَآ أَنتَ عَلَيۡهِم بِجَبَّارٖۖ فَذَكِّرۡ بِٱلۡقُرۡءَانِ مَن يَخَافُ وَعِيدِ",
-    "translation": "(45) We are most knowing of what they say, and you are not over them a tyrant.[1533] But remind by the Qur’ān whoever fears My threat.",
-    "footnotes": "[1533]- Forcing people to belief or submission."
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 520,
+  "verse_key": "50:45",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نَّحۡنُ أَعۡلَمُ بِمَا يَقُولُونَۖ وَمَآ أَنتَ عَلَيۡهِم بِجَبَّارٖۖ فَذَكِّرۡ بِٱلۡقُرۡءَانِ مَن يَخَافُ وَعِيدِ",
+  "translation": "(45) We are most knowing of what they say, and you are not over them a tyrant.[1533] But remind by the Qur’ān whoever fears My threat.",
+  "footnotes": "[1533]- Forcing people to belief or submission."
 }

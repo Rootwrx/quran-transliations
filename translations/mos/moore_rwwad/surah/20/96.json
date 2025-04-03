@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2444",
-    "sura": "20",
-    "aya": "96",
-    "arabic_text": "قَالَ بَصُرۡتُ بِمَا لَمۡ يَبۡصُرُواْ بِهِۦ فَقَبَضۡتُ قَبۡضَةٗ مِّنۡ أَثَرِ ٱلرَّسُولِ فَنَبَذۡتُهَا وَكَذَٰلِكَ سَوَّلَتۡ لِي نَفۡسِي",
-    "translation": "A (Saamiriy) yeelame: \"mam yãnda bũmb ning b sẽn pa yã, tɩ m yãk tom sẽn yi Tʋntʋʋmã vũunẽ n lobe, woto la mam yõorã sagl maam\".",
-    "footnotes": ""
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 318,
+  "verse_key": "20:96",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ بَصُرۡتُ بِمَا لَمۡ يَبۡصُرُواْ بِهِۦ فَقَبَضۡتُ قَبۡضَةٗ مِّنۡ أَثَرِ ٱلرَّسُولِ فَنَبَذۡتُهَا وَكَذَٰلِكَ سَوَّلَتۡ لِي نَفۡسِي",
+  "translation": "A (Saamiriy) yeelame: \"mam yãnda bũmb ning b sẽn pa yã, tɩ m yãk tom sẽn yi Tʋntʋʋmã vũunẽ n lobe, woto la mam yõorã sagl maam\".",
+  "footnotes": ""
 }

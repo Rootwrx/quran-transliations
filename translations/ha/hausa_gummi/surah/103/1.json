@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6177",
-    "sura": "103",
-    "aya": "1",
-    "arabic_text": "وَٱلۡعَصۡرِ",
-    "translation": "Ina rantsuwa da zãmani.*",
-    "footnotes": "* Wasu suna fassarawa da lokacin sallar La'asar da kuma marece. A kõwane dai, an bai wa lokaci muhimmanci, zãmani yana yanke wanda bai yanke shi ba. ba ya halatta ga mutum wata mudda ta zãmani ta wuce shi bai san amfãnin da ya sãma wa kansa a cikinta ba, kuma kõme ya sãmu idan ba addini ba ne, to, hasãrace."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 601,
+  "verse_key": "103:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡعَصۡرِ",
+  "translation": "Ina rantsuwa da zãmani.*",
+  "footnotes": "* Wasu suna fassarawa da lokacin sallar La'asar da kuma marece. A kõwane dai, an bai wa lokaci muhimmanci, zãmani yana yanke wanda bai yanke shi ba. ba ya halatta ga mutum wata mudda ta zãmani ta wuce shi bai san amfãnin da ya sãma wa kansa a cikinta ba, kuma kõme ya sãmu idan ba addini ba ne, to, hasãrace."
 }

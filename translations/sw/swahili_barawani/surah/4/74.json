@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "567",
-    "sura": "4",
-    "aya": "74",
-    "arabic_text": "۞ فَلۡيُقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشۡرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا بِٱلۡأٓخِرَةِۚ وَمَن يُقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ فَيُقۡتَلۡ أَوۡ يَغۡلِبۡ فَسَوۡفَ نُؤۡتِيهِ أَجۡرًا عَظِيمٗا",
-    "translation": "Basi nawapigane katika Njia ya Mwenyezi Mungu wale ambao wanao uza uhai wa dunia kwa Akhera. Na anaye pigana katika Njia ya Mwenyezi Mungu kisha akauliwa au akashinda basi tutakuja mpa ujira mkubwa.",
-    "footnotes": "Ikiwa yupo kati yenu anaye bakia nyuma asende kupigana kutokana na udhaifu wa Imani yake, au ulegevu wa azma yake, basi na wapigane, kuinua Neno la Mwenyezi Mungu na kuwania Haki, wale walio uza uhai wao wa dunia kutafuta uhai wa Akhera. Na mwenye kupigana vita kwa ajili ya kunyanyua Neno la Mwenyezi Mungu na kuwania Haki, atapata moja ya mema mawili. Ama atauliwa apate fadhila ya kufa shahidi katika Njia ya Mwenyezi Mungu, au atashinda, apate fadhila ya kufuzu katika dunia. Naye katika hali zote mbili atapewa na Mwenyezi Mungu ujira mkubwa katika Akhera."
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 89,
+  "verse_key": "4:74",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ فَلۡيُقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ ٱلَّذِينَ يَشۡرُونَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا بِٱلۡأٓخِرَةِۚ وَمَن يُقَٰتِلۡ فِي سَبِيلِ ٱللَّهِ فَيُقۡتَلۡ أَوۡ يَغۡلِبۡ فَسَوۡفَ نُؤۡتِيهِ أَجۡرًا عَظِيمٗا",
+  "translation": "Basi nawapigane katika Njia ya Mwenyezi Mungu wale ambao wanao uza uhai wa dunia kwa Akhera. Na anaye pigana katika Njia ya Mwenyezi Mungu kisha akauliwa au akashinda basi tutakuja mpa ujira mkubwa.",
+  "footnotes": "Ikiwa yupo kati yenu anaye bakia nyuma asende kupigana kutokana na udhaifu wa Imani yake, au ulegevu wa azma yake, basi na wapigane, kuinua Neno la Mwenyezi Mungu na kuwania Haki, wale walio uza uhai wao wa dunia kutafuta uhai wa Akhera. Na mwenye kupigana vita kwa ajili ya kunyanyua Neno la Mwenyezi Mungu na kuwania Haki, atapata moja ya mema mawili. Ama atauliwa apate fadhila ya kufa shahidi katika Njia ya Mwenyezi Mungu, au atashinda, apate fadhila ya kufuzu katika dunia. Naye katika hali zote mbili atapewa na Mwenyezi Mungu ujira mkubwa katika Akhera."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1281",
-    "sura": "9",
-    "aya": "46",
-    "arabic_text": "۞ وَلَوۡ أَرَادُواْ ٱلۡخُرُوجَ لَأَعَدُّواْ لَهُۥ عُدَّةٗ وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمۡ فَثَبَّطَهُمۡ وَقِيلَ ٱقۡعُدُواْ مَعَ ٱلۡقَٰعِدِينَ",
-    "translation": "Et s’ils avaient voulu partir (au combat), ils lui auraient fait des préparatifs. Mais leur départ répugna à Allah; Il les a rendus paresseux. Et il leur fut dit : \"Restez avec ceux qui restent !\"",
-    "footnotes": "[376] Ceux qui restent: femmes, enfants, vieillards, malades, etc."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 194,
+  "verse_key": "9:46",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 78,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَوۡ أَرَادُواْ ٱلۡخُرُوجَ لَأَعَدُّواْ لَهُۥ عُدَّةٗ وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمۡ فَثَبَّطَهُمۡ وَقِيلَ ٱقۡعُدُواْ مَعَ ٱلۡقَٰعِدِينَ",
+  "translation": "Et s’ils avaient voulu partir (au combat), ils lui auraient fait des préparatifs. Mais leur départ répugna à Allah; Il les a rendus paresseux. Et il leur fut dit : \"Restez avec ceux qui restent !\"",
+  "footnotes": "[376] Ceux qui restent: femmes, enfants, vieillards, malades, etc."
 }

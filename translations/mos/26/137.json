@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3069",
-    "sura": "26",
-    "aya": "137",
-    "arabic_text": "إِنۡ هَٰذَآ إِلَّا خُلُقُ ٱلۡأَوَّلِينَ",
-    "translation": "Ad wãnde yaa rãeenem rãmb zʋgdo lɑ b rog-n-miki.",
-    "footnotes": ""
-  }
+  "id": 137,
+  "verse_number": 137,
+  "page_number": 373,
+  "verse_key": "26:137",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ هَٰذَآ إِلَّا خُلُقُ ٱلۡأَوَّلِينَ",
+  "translation": "Ad wãnde yaa rãeenem rãmb zʋgdo lɑ b rog-n-miki.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2308",
-    "sura": "19",
-    "aya": "58",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوحٖ وَمِن ذُرِّيَّةِ إِبۡرَٰهِيمَ وَإِسۡرَٰٓءِيلَ وَمِمَّنۡ هَدَيۡنَا وَٱجۡتَبَيۡنَآۚ إِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُ ٱلرَّحۡمَٰنِ خَرُّواْۤ سُجَّدٗاۤ وَبُكِيّٗا۩",
-    "translation": "58. Baye wana bantoma baye Allah atondisaki bolamu naye likolo na bango kati ya libota ya Adam, na baye bazalaki elongo na Nûh (okati ya masuwa), mpe libota lia Ibrâhîm mpe Isalayele, mpe basusu baye tokambaki mpe toponaki, soki mikapo mia Ar-Rahmân(1) mizali kotangama, bakweyaka na kofukama na kolela.",
-    "footnotes": "1 Bótala na suratu oyo Mokapo: 18, 26, 45."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 309,
+  "verse_key": "19:58",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 5,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوحٖ وَمِن ذُرِّيَّةِ إِبۡرَٰهِيمَ وَإِسۡرَٰٓءِيلَ وَمِمَّنۡ هَدَيۡنَا وَٱجۡتَبَيۡنَآۚ إِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُ ٱلرَّحۡمَٰنِ خَرُّواْۤ سُجَّدٗاۤ وَبُكِيّٗا۩",
+  "translation": "58. Baye wana bantoma baye Allah atondisaki bolamu naye likolo na bango kati ya libota ya Adam, na baye bazalaki elongo na Nûh (okati ya masuwa), mpe libota lia Ibrâhîm mpe Isalayele, mpe basusu baye tokambaki mpe toponaki, soki mikapo mia Ar-Rahmân(1) mizali kotangama, bakweyaka na kofukama na kolela.",
+  "footnotes": "1 Bótala na suratu oyo Mokapo: 18, 26, 45."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4806",
-    "sura": "53",
-    "aya": "22",
-    "arabic_text": "تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ",
-    "translation": "Öyleyse bu haksız bir taksim. ",
-    "footnotes": null
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 526,
+  "verse_key": "53:22",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ إِذٗا قِسۡمَةٞ ضِيزَىٰٓ",
+  "translation": "Öyleyse bu haksız bir taksim. ",
+  "footnotes": null
 }

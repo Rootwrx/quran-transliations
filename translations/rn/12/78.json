@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1674",
-    "sura": "12",
-    "aya": "78",
-    "arabic_text": "قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ إِنَّ لَهُۥٓ أَبٗا شَيۡخٗا كَبِيرٗا فَخُذۡ أَحَدَنَا مَكَانَهُۥٓۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِينَ",
-    "translation": "Baraheza bamubwira bamwinginga bati: “Ewe mutware! Mu vy’ukuri, uyo yivye afise se ashaje cane, amukunda cane, ntiyoba kure yiwe, pfuma ufata umwe muri twebwe mu kibanza ciwe, ni ukuri turabona ko wewe uri mu bagwaneza koko!”.",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 244,
+  "verse_key": "12:78",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰٓأَيُّهَا ٱلۡعَزِيزُ إِنَّ لَهُۥٓ أَبٗا شَيۡخٗا كَبِيرٗا فَخُذۡ أَحَدَنَا مَكَانَهُۥٓۖ إِنَّا نَرَىٰكَ مِنَ ٱلۡمُحۡسِنِينَ",
+  "translation": "Baraheza bamubwira bamwinginga bati: “Ewe mutware! Mu vy’ukuri, uyo yivye afise se ashaje cane, amukunda cane, ntiyoba kure yiwe, pfuma ufata umwe muri twebwe mu kibanza ciwe, ni ukuri turabona ko wewe uri mu bagwaneza koko!”.",
+  "footnotes": ""
 }

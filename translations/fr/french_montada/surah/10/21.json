@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1385",
-    "sura": "10",
-    "aya": "21",
-    "arabic_text": "وَإِذَآ أَذَقۡنَا ٱلنَّاسَ رَحۡمَةٗ مِّنۢ بَعۡدِ ضَرَّآءَ مَسَّتۡهُمۡ إِذَا لَهُم مَّكۡرٞ فِيٓ ءَايَاتِنَاۚ قُلِ ٱللَّهُ أَسۡرَعُ مَكۡرًاۚ إِنَّ رُسُلَنَا يَكۡتُبُونَ مَا تَمۡكُرُونَ",
-    "translation": "21. Quand Nous donnons à goûter aux hommes Notre miséricorde, ils se mettent à tramer les intrigues contre Nos versets. Dis : « Allah est encore plus prompt à déjouer les intrigues. » tandis que Nos émissaires[216] inscrivent ce que vous tramez comme intrigues.",
-    "footnotes": "[216] Nous employons le mot « émissaires » au lieu de « messagers » ou « envoyés » pour ne pas les confondre avec les Prophètes, le mot visant ici les Anges."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 211,
+  "verse_key": "10:21",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَآ أَذَقۡنَا ٱلنَّاسَ رَحۡمَةٗ مِّنۢ بَعۡدِ ضَرَّآءَ مَسَّتۡهُمۡ إِذَا لَهُم مَّكۡرٞ فِيٓ ءَايَاتِنَاۚ قُلِ ٱللَّهُ أَسۡرَعُ مَكۡرًاۚ إِنَّ رُسُلَنَا يَكۡتُبُونَ مَا تَمۡكُرُونَ",
+  "translation": "21. Quand Nous donnons à goûter aux hommes Notre miséricorde, ils se mettent à tramer les intrigues contre Nos versets. Dis : « Allah est encore plus prompt à déjouer les intrigues. » tandis que Nos émissaires[216] inscrivent ce que vous tramez comme intrigues.",
+  "footnotes": "[216] Nous employons le mot « émissaires » au lieu de « messagers » ou « envoyés » pour ne pas les confondre avec les Prophètes, le mot visant ici les Anges."
 }

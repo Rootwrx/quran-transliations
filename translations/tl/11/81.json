@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1554",
-    "sura": "11",
-    "aya": "81",
-    "arabic_text": "قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ بِقَرِيبٖ",
-    "translation": "Nagsabi sila: “O Lot, tunay na kami ay mga sugo ng Panginoon mo. Hindi sila aabot sa iyo, kaya lumisan ka kasama ng mag-anak mo sa isang bahagi ng gabi at huwag lilingon kabilang sa inyo ang isa man, maliban ang maybahay mo; tunay na tatama sa kanya ang tatama sa kanila. Tunay na ang tipanan nila [sa kapahamakan] ay sa umaga. Hindi ba ang umaga ay malapit na?”",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 230,
+  "verse_key": "11:81",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ بِقَرِيبٖ",
+  "translation": "Nagsabi sila: “O Lot, tunay na kami ay mga sugo ng Panginoon mo. Hindi sila aabot sa iyo, kaya lumisan ka kasama ng mag-anak mo sa isang bahagi ng gabi at huwag lilingon kabilang sa inyo ang isa man, maliban ang maybahay mo; tunay na tatama sa kanya ang tatama sa kanila. Tunay na ang tipanan nila [sa kapahamakan] ay sa umaga. Hindi ba ang umaga ay malapit na?”",
+  "footnotes": ""
 }

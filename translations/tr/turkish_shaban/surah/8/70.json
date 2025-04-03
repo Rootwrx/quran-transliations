@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1230",
-    "sura": "8",
-    "aya": "70",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّمَن فِيٓ أَيۡدِيكُم مِّنَ ٱلۡأَسۡرَىٰٓ إِن يَعۡلَمِ ٱللَّهُ فِي قُلُوبِكُمۡ خَيۡرٗا يُؤۡتِكُمۡ خَيۡرٗا مِّمَّآ أُخِذَ مِنكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
-    "translation": " Ey Peygamber! Elinizdeki esirlere söyle: Eğer Allah, kalplerinizde bir hayır (olduğunu) bilirse, sizden alınan fidyeden daha hayırlısını size verir ve sizi bağışlar. Allah, çok bağışlayandır, çok merhamet edendir.",
-    "footnotes": null
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 186,
+  "verse_key": "8:70",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ قُل لِّمَن فِيٓ أَيۡدِيكُم مِّنَ ٱلۡأَسۡرَىٰٓ إِن يَعۡلَمِ ٱللَّهُ فِي قُلُوبِكُمۡ خَيۡرٗا يُؤۡتِكُمۡ خَيۡرٗا مِّمَّآ أُخِذَ مِنكُمۡ وَيَغۡفِرۡ لَكُمۡۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "translation": " Ey Peygamber! Elinizdeki esirlere söyle: Eğer Allah, kalplerinizde bir hayır (olduğunu) bilirse, sizden alınan fidyeden daha hayırlısını size verir ve sizi bağışlar. Allah, çok bağışlayandır, çok merhamet edendir.",
+  "footnotes": null
 }

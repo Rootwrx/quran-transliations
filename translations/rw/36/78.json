@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3783",
-    "sura": "36",
-    "aya": "78",
-    "arabic_text": "وَضَرَبَ لَنَا مَثَلٗا وَنَسِيَ خَلۡقَهُۥۖ قَالَ مَن يُحۡيِ ٱلۡعِظَٰمَ وَهِيَ رَمِيمٞ",
-    "translation": "Yaduhaye urugero[1] yibagirwa ukuremwa kwe, maze aravuga ati “Ni nde wazura aya magufa kandi yarabaye ubuvungukira?”",
-    "footnotes": "[1] Urugero ruvugwa muri uyu murongo; ni umuntu utaremeraga izuka waje ku Ntumwa y’Imana (Muhamadi), maze afata igufa ryashenye akarivungagura nuko akavuga ati “Ese koko Nyagasani wawe ashobora kuzura nyir’iri gufa?”"
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 445,
+  "verse_key": "36:78",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَضَرَبَ لَنَا مَثَلٗا وَنَسِيَ خَلۡقَهُۥۖ قَالَ مَن يُحۡيِ ٱلۡعِظَٰمَ وَهِيَ رَمِيمٞ",
+  "translation": "Yaduhaye urugero[1] yibagirwa ukuremwa kwe, maze aravuga ati “Ni nde wazura aya magufa kandi yarabaye ubuvungukira?”",
+  "footnotes": "[1] Urugero ruvugwa muri uyu murongo; ni umuntu utaremeraga izuka waje ku Ntumwa y’Imana (Muhamadi), maze afata igufa ryashenye akarivungagura nuko akavuga ati “Ese koko Nyagasani wawe ashobora kuzura nyir’iri gufa?”"
 }

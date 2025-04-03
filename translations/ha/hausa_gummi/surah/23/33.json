@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2706",
-    "sura": "23",
-    "aya": "33",
-    "arabic_text": "وَقَالَ ٱلۡمَلَأُ مِن قَوۡمِهِ ٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ ٱلۡأٓخِرَةِ وَأَتۡرَفۡنَٰهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا مَا هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡ يَأۡكُلُ مِمَّا تَأۡكُلُونَ مِنۡهُ وَيَشۡرَبُ مِمَّا تَشۡرَبُونَ",
-    "translation": "Mashãwarta daga mutãnensa, waɗanda suka kãfirta kuma suka ƙaryata game da haɗuwa da Lãhira, kuma Muka ni'imtar da su a cikin rãyuwar dũniya, suka ce: \"Wannan bã kõwa ba fãce wani mutum ne kamarku, yanã cĩ daga abin da kuke cĩ daga gare shi, kuma yanã shã daga abin da kuke shã.\"",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 344,
+  "verse_key": "23:33",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلۡمَلَأُ مِن قَوۡمِهِ ٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِلِقَآءِ ٱلۡأٓخِرَةِ وَأَتۡرَفۡنَٰهُمۡ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا مَا هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡ يَأۡكُلُ مِمَّا تَأۡكُلُونَ مِنۡهُ وَيَشۡرَبُ مِمَّا تَشۡرَبُونَ",
+  "translation": "Mashãwarta daga mutãnensa, waɗanda suka kãfirta kuma suka ƙaryata game da haɗuwa da Lãhira, kuma Muka ni'imtar da su a cikin rãyuwar dũniya, suka ce: \"Wannan bã kõwa ba fãce wani mutum ne kamarku, yanã cĩ daga abin da kuke cĩ daga gare shi, kuma yanã shã daga abin da kuke shã.\"",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3168",
-    "sura": "27",
-    "aya": "9",
-    "arabic_text": "يَٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا ٱللَّهُ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "Ey Musa! Qüdrətli və Hikmətli olan Allah Mənəm!",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 377,
+  "verse_key": "27:9",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰمُوسَىٰٓ إِنَّهُۥٓ أَنَا ٱللَّهُ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "Ey Musa! Qüdrətli və Hikmətli olan Allah Mənəm!",
+  "footnotes": ""
 }

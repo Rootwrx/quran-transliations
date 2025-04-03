@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "21",
-    "sura": "2",
-    "aya": "14",
-    "arabic_text": "وَإِذَا لَقُواْ ٱلَّذِينَ ءَامَنُواْ قَالُوٓاْ ءَامَنَّا وَإِذَا خَلَوۡاْ إِلَىٰ شَيَٰطِينِهِمۡ قَالُوٓاْ إِنَّا مَعَكُمۡ إِنَّمَا نَحۡنُ مُسۡتَهۡزِءُونَ",
-    "translation": "Sε wͻ’hyia wͻn a wͻ’agye adie no a, wͻ’ka (de daadaa wͻn) sε: ”Yε’gye di”. Sε wͻ’san kͻ wͻn abonsamfoͻ no hͻ na εka wͻ’ne wͻn nko ara a, deε wͻ’ka nesε: “Nokorε sε yε’ka mo ho, na mmom yεredi (wͻn ho) fεw kwa”.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 3,
+  "verse_key": "2:14",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا لَقُواْ ٱلَّذِينَ ءَامَنُواْ قَالُوٓاْ ءَامَنَّا وَإِذَا خَلَوۡاْ إِلَىٰ شَيَٰطِينِهِمۡ قَالُوٓاْ إِنَّا مَعَكُمۡ إِنَّمَا نَحۡنُ مُسۡتَهۡزِءُونَ",
+  "translation": "Sε wͻ’hyia wͻn a wͻ’agye adie no a, wͻ’ka (de daadaa wͻn) sε: ”Yε’gye di”. Sε wͻ’san kͻ wͻn abonsamfoͻ no hͻ na εka wͻ’ne wͻn nko ara a, deε wͻ’ka nesε: “Nokorε sε yε’ka mo ho, na mmom yεredi (wͻn ho) fεw kwa”.",
+  "footnotes": ""
 }

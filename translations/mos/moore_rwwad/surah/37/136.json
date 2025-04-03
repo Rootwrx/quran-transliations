@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3924",
-    "sura": "37",
-    "aya": "136",
-    "arabic_text": "ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ",
-    "translation": "Rẽ loogr poorẽ tɩ Tõnd na n halk sẽn ket-bã.",
-    "footnotes": ""
-  }
+  "id": 136,
+  "verse_number": 136,
+  "page_number": 451,
+  "verse_key": "37:136",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ دَمَّرۡنَا ٱلۡأٓخَرِينَ",
+  "translation": "Rẽ loogr poorẽ tɩ Tõnd na n halk sẽn ket-bã.",
+  "footnotes": ""
 }

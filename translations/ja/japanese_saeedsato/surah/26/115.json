@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3047",
-    "sura": "26",
-    "aya": "115",
-    "arabic_text": "إِنۡ أَنَا۠ إِلَّا نَذِيرٞ مُّبِينٞ",
-    "translation": "私は明白なる警告者でしかないのだ」。[1]",
-    "footnotes": "[1]　この内容の詳細については、フード*章2７－３1とその訳注を参照。"
-  }
+  "id": 115,
+  "verse_number": 115,
+  "page_number": 372,
+  "verse_key": "26:115",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ أَنَا۠ إِلَّا نَذِيرٞ مُّبِينٞ",
+  "translation": "私は明白なる警告者でしかないのだ」。[1]",
+  "footnotes": "[1]　この内容の詳細については、フード*章2７－３1とその訳注を参照。"
 }

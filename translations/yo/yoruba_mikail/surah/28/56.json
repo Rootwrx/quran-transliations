@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3308",
-    "sura": "28",
-    "aya": "56",
-    "arabic_text": "إِنَّكَ لَا تَهۡدِي مَنۡ أَحۡبَبۡتَ وَلَٰكِنَّ ٱللَّهَ يَهۡدِي مَن يَشَآءُۚ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
-    "translation": "Dájúdájú ìwọ kò lè fi ọ̀nà mọ ẹni tí o fẹ́ràn, ṣùgbọ́n Allāhu l’Ó ń fi ọ̀nà mọ ẹni tí Ó bá fẹ́.[1] Àti pé Ó nímọ̀ jùlọ nípa àwọn olùmọ̀nà.",
-    "footnotes": "1. “Hidāyah” túmọ̀ sí ìwọ̀nyí: (1) Ìfẹsẹ̀rinlẹ̀ nínú ẹ̀sìn ’Islām, ṣíṣí ọkàn ẹ̀dá payá fún gbígba ẹ̀sìn ’Islām, fífi al-Ƙur’ān àti sunnah ṣàlàyé ìmọ̀nà sí ọ̀nà tààrà ’Islām àti títọ́ka ènìyàn sí ibì kan tàbí fífi ojú-ọ̀nà kan mọ ènìyàn."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 392,
+  "verse_key": "28:56",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّكَ لَا تَهۡدِي مَنۡ أَحۡبَبۡتَ وَلَٰكِنَّ ٱللَّهَ يَهۡدِي مَن يَشَآءُۚ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+  "translation": "Dájúdájú ìwọ kò lè fi ọ̀nà mọ ẹni tí o fẹ́ràn, ṣùgbọ́n Allāhu l’Ó ń fi ọ̀nà mọ ẹni tí Ó bá fẹ́.[1] Àti pé Ó nímọ̀ jùlọ nípa àwọn olùmọ̀nà.",
+  "footnotes": "1. “Hidāyah” túmọ̀ sí ìwọ̀nyí: (1) Ìfẹsẹ̀rinlẹ̀ nínú ẹ̀sìn ’Islām, ṣíṣí ọkàn ẹ̀dá payá fún gbígba ẹ̀sìn ’Islām, fífi al-Ƙur’ān àti sunnah ṣàlàyé ìmọ̀nà sí ọ̀nà tààrà ’Islām àti títọ́ka ènìyàn sí ibì kan tàbí fífi ojú-ọ̀nà kan mọ ènìyàn."
 }

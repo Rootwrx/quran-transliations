@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5617",
-    "sura": "76",
-    "aya": "26",
-    "arabic_text": "وَمِنَ ٱلَّيۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَيۡلٗا طَوِيلًا",
-    "translation": "26. And during night, prostrate yourself to Him (i.e. the offering of Maghrib and ‘Ishâ’ prayers), and glorify Him a long night through (i.e. Tahajjud prayer).",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 580,
+  "verse_key": "76:26",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلَّيۡلِ فَٱسۡجُدۡ لَهُۥ وَسَبِّحۡهُ لَيۡلٗا طَوِيلًا",
+  "translation": "26. And during night, prostrate yourself to Him (i.e. the offering of Maghrib and ‘Ishâ’ prayers), and glorify Him a long night through (i.e. Tahajjud prayer).",
+  "footnotes": ""
 }

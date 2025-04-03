@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2331",
-    "sura": "19",
-    "aya": "81",
-    "arabic_text": "وَٱتَّخَذُواْ مِن دُونِ ٱللَّهِ ءَالِهَةٗ لِّيَكُونُواْ لَهُمۡ عِزّٗا",
-    "translation": "81. Waxay yeeshaan Allaah sokadi ilaahyo (baadil ah) si ay u siiyaan ciso.",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 311,
+  "verse_key": "19:81",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّخَذُواْ مِن دُونِ ٱللَّهِ ءَالِهَةٗ لِّيَكُونُواْ لَهُمۡ عِزّٗا",
+  "translation": "81. Waxay yeeshaan Allaah sokadi ilaahyo (baadil ah) si ay u siiyaan ciso.",
+  "footnotes": ""
 }

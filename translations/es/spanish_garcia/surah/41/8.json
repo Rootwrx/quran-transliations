@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4226",
-    "sura": "41",
-    "aya": "8",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونٖ",
-    "translation": "8. Los que crean y obren rectamente recibirán una recompensa ininterrumpida.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 477,
+  "verse_key": "41:8",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 190,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَهُمۡ أَجۡرٌ غَيۡرُ مَمۡنُونٖ",
+  "translation": "8. Los que crean y obren rectamente recibirán una recompensa ininterrumpida.",
+  "footnotes": ""
 }

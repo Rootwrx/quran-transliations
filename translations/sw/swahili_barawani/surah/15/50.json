@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1852",
-    "sura": "15",
-    "aya": "50",
-    "arabic_text": "وَأَنَّ عَذَابِي هُوَ ٱلۡعَذَابُ ٱلۡأَلِيمُ",
-    "translation": "Na kwamba adhabu yangu ndio adhabu iliyo chungu!",
-    "footnotes": "Na wape khabari kwamba adhabu ninayo wateremshia wenye kuasi na kukufuru ni adhabu yenye kutia machungu kweli, na adhabu yoyote nyengineyo haihisabiwi kuwa ina machungu mbele ya hii."
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 264,
+  "verse_key": "15:50",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّ عَذَابِي هُوَ ٱلۡعَذَابُ ٱلۡأَلِيمُ",
+  "translation": "Na kwamba adhabu yangu ndio adhabu iliyo chungu!",
+  "footnotes": "Na wape khabari kwamba adhabu ninayo wateremshia wenye kuasi na kukufuru ni adhabu yenye kutia machungu kweli, na adhabu yoyote nyengineyo haihisabiwi kuwa ina machungu mbele ya hii."
 }

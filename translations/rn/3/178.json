@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "471",
-    "sura": "3",
-    "aya": "178",
-    "arabic_text": "وَلَا يَحۡسَبَنَّ ٱلَّذِينَ كَفَرُوٓاْ أَنَّمَا نُمۡلِي لَهُمۡ خَيۡرٞ لِّأَنفُسِهِمۡۚ إِنَّمَا نُمۡلِي لَهُمۡ لِيَزۡدَادُوٓاْ إِثۡمٗاۖ وَلَهُمۡ عَذَابٞ مُّهِينٞ",
-    "translation": "Abagararije mu guhakana bivuye inyuma, iyo Tubahaye kuramba, Tukabaha n’ibisayangana kw’isi, ntitwihutire kubahanira ivyaha vyabo, ntibakibwire ko Tuba Tubahaye ivyiza; ni ukuri, Dutenyenya kubahana kugira barendegere mu bukozi bw’ikibi n’akarenganyo. Baranategekanirijwe ibihano bisuzuguza.",
-    "footnotes": ""
-  }
+  "id": 178,
+  "verse_number": 178,
+  "page_number": 73,
+  "verse_key": "3:178",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 29,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَحۡسَبَنَّ ٱلَّذِينَ كَفَرُوٓاْ أَنَّمَا نُمۡلِي لَهُمۡ خَيۡرٞ لِّأَنفُسِهِمۡۚ إِنَّمَا نُمۡلِي لَهُمۡ لِيَزۡدَادُوٓاْ إِثۡمٗاۖ وَلَهُمۡ عَذَابٞ مُّهِينٞ",
+  "translation": "Abagararije mu guhakana bivuye inyuma, iyo Tubahaye kuramba, Tukabaha n’ibisayangana kw’isi, ntitwihutire kubahanira ivyaha vyabo, ntibakibwire ko Tuba Tubahaye ivyiza; ni ukuri, Dutenyenya kubahana kugira barendegere mu bukozi bw’ikibi n’akarenganyo. Baranategekanirijwe ibihano bisuzuguza.",
+  "footnotes": ""
 }

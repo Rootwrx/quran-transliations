@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2575",
-    "sura": "21",
-    "aya": "92",
-    "arabic_text": "إِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱعۡبُدُونِ",
-    "translation": "Lalle ne wannan* ita ce al'ummarku ta zama al'umma guda, kuma Nĩ ne Ubangijinku. Sai ku bauta Mini.",
-    "footnotes": "* Al'ummar Musulmi duka guda ce kõ da yake Annabãwansu sun zo dabam-dabam, a cikin lõkuta mãsu nĩSa tsakãninsu da harsuna dabam-dabam dõmin duk aƙĩdarsu guda ce a kan Ubangiji guda ne. Sa'an nan daga bãya waɗanda suka fita daga wannan aƙĩdar suka rarrabu ƙungiya-ƙungiya."
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 330,
+  "verse_key": "21:92",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰذِهِۦٓ أُمَّتُكُمۡ أُمَّةٗ وَٰحِدَةٗ وَأَنَا۠ رَبُّكُمۡ فَٱعۡبُدُونِ",
+  "translation": "Lalle ne wannan* ita ce al'ummarku ta zama al'umma guda, kuma Nĩ ne Ubangijinku. Sai ku bauta Mini.",
+  "footnotes": "* Al'ummar Musulmi duka guda ce kõ da yake Annabãwansu sun zo dabam-dabam, a cikin lõkuta mãsu nĩSa tsakãninsu da harsuna dabam-dabam dõmin duk aƙĩdarsu guda ce a kan Ubangiji guda ne. Sa'an nan daga bãya waɗanda suka fita daga wannan aƙĩdar suka rarrabu ƙungiya-ƙungiya."
 }

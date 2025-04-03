@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3360",
-    "sura": "29",
-    "aya": "20",
-    "arabic_text": "قُلۡ سِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ بَدَأَ ٱلۡخَلۡقَۚ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشۡأَةَ ٱلۡأٓخِرَةَۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Ntumwa y’Imana! Bwira abahakana izurwa ry’ibiremwa, uti: “Nimugendagende kw’isi, maze mwirabire ukuntu Imana Allah Yaremye ibiremwa bitari bwabeho ata co Irinze gufatirako, hanyuma mumenye ko Ishoboye no kubirema kandi bushasha. Mu vy’ukuri Imana Allah, ni Mushoboravyose, nta co Ishaka ngo kiyinanire”.",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 398,
+  "verse_key": "29:20",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ سِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ بَدَأَ ٱلۡخَلۡقَۚ ثُمَّ ٱللَّهُ يُنشِئُ ٱلنَّشۡأَةَ ٱلۡأٓخِرَةَۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Ntumwa y’Imana! Bwira abahakana izurwa ry’ibiremwa, uti: “Nimugendagende kw’isi, maze mwirabire ukuntu Imana Allah Yaremye ibiremwa bitari bwabeho ata co Irinze gufatirako, hanyuma mumenye ko Ishoboye no kubirema kandi bushasha. Mu vy’ukuri Imana Allah, ni Mushoboravyose, nta co Ishaka ngo kiyinanire”.",
+  "footnotes": ""
 }

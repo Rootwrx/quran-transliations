@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1425",
-    "sura": "10",
-    "aya": "61",
-    "arabic_text": "وَمَا تَكُونُ فِي شَأۡنٖ وَمَا تَتۡلُواْ مِنۡهُ مِن قُرۡءَانٖ وَلَا تَعۡمَلُونَ مِنۡ عَمَلٍ إِلَّا كُنَّا عَلَيۡكُمۡ شُهُودًا إِذۡ تُفِيضُونَ فِيهِۚ وَمَا يَعۡزُبُ عَن رَّبِّكَ مِن مِّثۡقَالِ ذَرَّةٖ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ وَلَآ أَصۡغَرَ مِن ذَٰلِكَ وَلَآ أَكۡبَرَ إِلَّا فِي كِتَٰبٖ مُّبِينٍ",
-    "translation": "(Ey Muhamməd) Sən hansı bir iş görsən, Qurandan nə oxusan, (ey insanlar) siz (də) nə iş görsəniz, onları etdiyiniz zaman Biz sizə şahid olarıq. Nə yerdə, nə də göydə zərrə qədər bir şey Rəbbindən gizli qalmaz. Bundan daha kiçiyi və daha böyüyü yoxdur ki, açıq-aydın Yazıda (Lövhi-Məhfuzda) olmasın.",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 215,
+  "verse_key": "10:61",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 86,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تَكُونُ فِي شَأۡنٖ وَمَا تَتۡلُواْ مِنۡهُ مِن قُرۡءَانٖ وَلَا تَعۡمَلُونَ مِنۡ عَمَلٍ إِلَّا كُنَّا عَلَيۡكُمۡ شُهُودًا إِذۡ تُفِيضُونَ فِيهِۚ وَمَا يَعۡزُبُ عَن رَّبِّكَ مِن مِّثۡقَالِ ذَرَّةٖ فِي ٱلۡأَرۡضِ وَلَا فِي ٱلسَّمَآءِ وَلَآ أَصۡغَرَ مِن ذَٰلِكَ وَلَآ أَكۡبَرَ إِلَّا فِي كِتَٰبٖ مُّبِينٍ",
+  "translation": "(Ey Muhamməd) Sən hansı bir iş görsən, Qurandan nə oxusan, (ey insanlar) siz (də) nə iş görsəniz, onları etdiyiniz zaman Biz sizə şahid olarıq. Nə yerdə, nə də göydə zərrə qədər bir şey Rəbbindən gizli qalmaz. Bundan daha kiçiyi və daha böyüyü yoxdur ki, açıq-aydın Yazıda (Lövhi-Məhfuzda) olmasın.",
+  "footnotes": ""
 }

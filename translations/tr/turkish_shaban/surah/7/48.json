@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1002",
-    "sura": "7",
-    "aya": "48",
-    "arabic_text": "وَنَادَىٰٓ أَصۡحَٰبُ ٱلۡأَعۡرَافِ رِجَالٗا يَعۡرِفُونَهُم بِسِيمَىٰهُمۡ قَالُواْ مَآ أَغۡنَىٰ عَنكُمۡ جَمۡعُكُمۡ وَمَا كُنتُمۡ تَسۡتَكۡبِرُونَ",
-    "translation": "A’raftakiler simalarından tanıdıkları bazı adamlara seslenirler: Topladıklarınız ve büyüklük taslıyor olmanız size fayda vermedi.",
-    "footnotes": null
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 156,
+  "verse_key": "7:48",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنَادَىٰٓ أَصۡحَٰبُ ٱلۡأَعۡرَافِ رِجَالٗا يَعۡرِفُونَهُم بِسِيمَىٰهُمۡ قَالُواْ مَآ أَغۡنَىٰ عَنكُمۡ جَمۡعُكُمۡ وَمَا كُنتُمۡ تَسۡتَكۡبِرُونَ",
+  "translation": "A’raftakiler simalarından tanıdıkları bazı adamlara seslenirler: Topladıklarınız ve büyüklük taslıyor olmanız size fayda vermedi.",
+  "footnotes": null
 }

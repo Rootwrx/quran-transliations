@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6147",
-    "sura": "100",
-    "aya": "1",
-    "arabic_text": "وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا",
-    "translation": "1. மூச்சுத் திணர அதிவேகமாகச் செல்லும் குதிரைகள் மீது சத்தியமாக!",
-    "footnotes": null
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 599,
+  "verse_key": "100:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡعَٰدِيَٰتِ ضَبۡحٗا",
+  "translation": "1. மூச்சுத் திணர அதிவேகமாகச் செல்லும் குதிரைகள் மீது சத்தியமாக!",
+  "footnotes": null
 }

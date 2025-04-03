@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5863",
-    "sura": "83",
-    "aya": "15",
-    "arabic_text": "كَلَّآ إِنَّهُمۡ عَن رَّبِّهِمۡ يَوۡمَئِذٖ لَّمَحۡجُوبُونَ",
-    "translation": "Sekali-kali tidak1564, sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhan mereka.",
-    "footnotes": "1564.  Maksudnya sekali-kali tidak seperti apa yang mereka katakan bahwa mereka dekat pada sisi Tuhan. "
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 588,
+  "verse_key": "83:15",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّآ إِنَّهُمۡ عَن رَّبِّهِمۡ يَوۡمَئِذٖ لَّمَحۡجُوبُونَ",
+  "translation": "Sekali-kali tidak1564, sesungguhnya mereka pada hari itu benar-benar terhalang dari (melihat) Tuhan mereka.",
+  "footnotes": "1564.  Maksudnya sekali-kali tidak seperti apa yang mereka katakan bahwa mereka dekat pada sisi Tuhan. "
 }

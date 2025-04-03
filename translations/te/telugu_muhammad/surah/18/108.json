@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2248",
-    "sura": "18",
-    "aya": "108",
-    "arabic_text": "خَٰلِدِينَ فِيهَا لَا يَبۡغُونَ عَنۡهَا حِوَلٗا",
-    "translation": "వారందులో శాశ్వతంగా ఉంటారు. వారు అక్కడి నుండి వేరగుటకు ఇష్టపడరు.",
-    "footnotes": ""
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 304,
+  "verse_key": "18:108",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خَٰلِدِينَ فِيهَا لَا يَبۡغُونَ عَنۡهَا حِوَلٗا",
+  "translation": "వారందులో శాశ్వతంగా ఉంటారు. వారు అక్కడి నుండి వేరగుటకు ఇష్టపడరు.",
+  "footnotes": ""
 }

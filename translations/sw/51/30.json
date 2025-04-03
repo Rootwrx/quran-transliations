@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4705",
-    "sura": "51",
-    "aya": "30",
-    "arabic_text": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
-    "translation": "Wakasema: Ndivyo vivyo hivyo alivyo sema Mola wako Mlezi. Hakika Yeye ni Mwenye hikima na Mwenye kujua.",
-    "footnotes": "Wakasema: Hivyo ndivyo alivyo kwisha hukumu Mola wako Mlezi. Hakika Yeye ni Mwenye hikima katika kila anayo hukumu, ni Mwenye ujuzi ambaye hapana linalo fichikana kwake lolote."
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 521,
+  "verse_key": "51:30",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ كَذَٰلِكِ قَالَ رَبُّكِۖ إِنَّهُۥ هُوَ ٱلۡحَكِيمُ ٱلۡعَلِيمُ",
+  "translation": "Wakasema: Ndivyo vivyo hivyo alivyo sema Mola wako Mlezi. Hakika Yeye ni Mwenye hikima na Mwenye kujua.",
+  "footnotes": "Wakasema: Hivyo ndivyo alivyo kwisha hukumu Mola wako Mlezi. Hakika Yeye ni Mwenye hikima katika kila anayo hukumu, ni Mwenye ujuzi ambaye hapana linalo fichikana kwake lolote."
 }

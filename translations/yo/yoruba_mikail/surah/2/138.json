@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "145",
-    "sura": "2",
-    "aya": "138",
-    "arabic_text": "صِبۡغَةَ ٱللَّهِ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ صِبۡغَةٗۖ وَنَحۡنُ لَهُۥ عَٰبِدُونَ",
-    "translation": "(Ẹ dúró ti) aró Allāhu. Kò sì ẹni tí ó dára ju Allāhu lọ ní aró? Àwa sì ni olùjọ́sìn fún Un.[1]",
-    "footnotes": "1. Kíyè sí i, ìtúmọ̀ àkànlò ni wọ́n lò fún “aró” nínú āyah yìí. “Aró” sì dúró fún ẹ̀sìn. Kókó ìtúmọ̀ rẹ̀ sì ni pé, ẹ̀sìn gbọ́dọ̀ hàn lára olùjọ́sìn fún Allāhu gẹ́gẹ́ bí aró ṣe máa ń hàn lára aṣọ tí wọ́n bá pa láró."
-  }
+  "id": 138,
+  "verse_number": 138,
+  "page_number": 21,
+  "verse_key": "2:138",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "صِبۡغَةَ ٱللَّهِ وَمَنۡ أَحۡسَنُ مِنَ ٱللَّهِ صِبۡغَةٗۖ وَنَحۡنُ لَهُۥ عَٰبِدُونَ",
+  "translation": "(Ẹ dúró ti) aró Allāhu. Kò sì ẹni tí ó dára ju Allāhu lọ ní aró? Àwa sì ni olùjọ́sìn fún Un.[1]",
+  "footnotes": "1. Kíyè sí i, ìtúmọ̀ àkànlò ni wọ́n lò fún “aró” nínú āyah yìí. “Aró” sì dúró fún ẹ̀sìn. Kókó ìtúmọ̀ rẹ̀ sì ni pé, ẹ̀sìn gbọ́dọ̀ hàn lára olùjọ́sìn fún Allāhu gẹ́gẹ́ bí aró ṣe máa ń hàn lára aṣọ tí wọ́n bá pa láró."
 }

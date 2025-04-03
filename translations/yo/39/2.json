@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4060",
-    "sura": "39",
-    "aya": "2",
-    "arabic_text": "إِنَّآ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ فَٱعۡبُدِ ٱللَّهَ مُخۡلِصٗا لَّهُ ٱلدِّينَ",
-    "translation": "Dájúdájú Àwa sọ Tírà (al-Ƙur’ān) kalẹ̀ fún ọ pẹ̀lú òdodo. Nítorí náà, jọ́sìn fún Allāhu lẹ́ni tí yóò máa fi àfọ̀mọ́-ọkàn (àníyàn mímọ́) ṣe ẹ̀sìn fún Un.[1]",
-    "footnotes": "1. Fífi àfọ̀mọ́-ọkàn (àníyàn mímọ́) ṣe ẹ̀sìn fún Allāhu ni sísin Allāhu, jíjọ́sìn fún Allāhu láti fi wá ojú rere Rẹ̀ nìkan ṣoṣo, tí kò sì níí fi ọ̀nà kan kan ròpọ̀ mọ́ ẹbọ ṣíṣe (ṣirk), ṣekárími (riyā’) àti ìṣọ̀bẹṣèlu (nifāƙ)."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 458,
+  "verse_key": "39:2",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَنزَلۡنَآ إِلَيۡكَ ٱلۡكِتَٰبَ بِٱلۡحَقِّ فَٱعۡبُدِ ٱللَّهَ مُخۡلِصٗا لَّهُ ٱلدِّينَ",
+  "translation": "Dájúdájú Àwa sọ Tírà (al-Ƙur’ān) kalẹ̀ fún ọ pẹ̀lú òdodo. Nítorí náà, jọ́sìn fún Allāhu lẹ́ni tí yóò máa fi àfọ̀mọ́-ọkàn (àníyàn mímọ́) ṣe ẹ̀sìn fún Un.[1]",
+  "footnotes": "1. Fífi àfọ̀mọ́-ọkàn (àníyàn mímọ́) ṣe ẹ̀sìn fún Allāhu ni sísin Allāhu, jíjọ́sìn fún Allāhu láti fi wá ojú rere Rẹ̀ nìkan ṣoṣo, tí kò sì níí fi ọ̀nà kan kan ròpọ̀ mọ́ ẹbọ ṣíṣe (ṣirk), ṣekárími (riyā’) àti ìṣọ̀bẹṣèlu (nifāƙ)."
 }

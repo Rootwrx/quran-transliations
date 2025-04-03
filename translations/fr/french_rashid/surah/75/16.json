@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5567",
-    "sura": "75",
-    "aya": "16",
-    "arabic_text": "لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ",
-    "translation": "16 Ne répète pas avec empressement le Coran qui t’est révélé avant que sa récitation ne soit terminée[1516].",
-    "footnotes": "[1516] Voir note verset 114, sourate 20."
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 577,
+  "verse_key": "75:16",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا تُحَرِّكۡ بِهِۦ لِسَانَكَ لِتَعۡجَلَ بِهِۦٓ",
+  "translation": "16 Ne répète pas avec empressement le Coran qui t’est révélé avant que sa récitation ne soit terminée[1516].",
+  "footnotes": "[1516] Voir note verset 114, sourate 20."
 }

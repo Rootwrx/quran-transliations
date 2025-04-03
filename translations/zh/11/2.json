@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1475",
-    "sura": "11",
-    "aya": "2",
-    "arabic_text": "أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۚ إِنَّنِي لَكُم مِّنۡهُ نَذِيرٞ وَبَشِيرٞ",
-    "translation": "（你说）：“你们只应当崇拜安拉，我确是奉他的命令来警告你们，并向你们报喜的。",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 221,
+  "verse_key": "11:2",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۚ إِنَّنِي لَكُم مِّنۡهُ نَذِيرٞ وَبَشِيرٞ",
+  "translation": "（你说）：“你们只应当崇拜安拉，我确是奉他的命令来警告你们，并向你们报喜的。",
+  "footnotes": ""
 }

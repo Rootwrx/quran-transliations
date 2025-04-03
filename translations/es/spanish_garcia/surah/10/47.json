@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1411",
-    "sura": "10",
-    "aya": "47",
-    "arabic_text": "وَلِكُلِّ أُمَّةٖ رَّسُولٞۖ فَإِذَا جَآءَ رَسُولُهُمۡ قُضِيَ بَيۡنَهُم بِٱلۡقِسۡطِ وَهُمۡ لَا يُظۡلَمُونَ",
-    "translation": "47. A cada comunidad envié un Mensajero[1]. Cada vez que lo desmintieron los destruí, salvando al Mensajero y a los creyentes, pero nadie fue castigado injustamente.",
-    "footnotes": "[1] Este versículo evidencia el carácter universal de la revelación de Dios que no se limita a los Profetas y Mensajeros que son mencionados en la Biblia, sino que Dios envió a cada pueblo y nación un Profeta que hablara su propio idioma y comprendiese su idiosincrasia, para transmitirles el mensaje del monoteísmo."
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 214,
+  "verse_key": "10:47",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِكُلِّ أُمَّةٖ رَّسُولٞۖ فَإِذَا جَآءَ رَسُولُهُمۡ قُضِيَ بَيۡنَهُم بِٱلۡقِسۡطِ وَهُمۡ لَا يُظۡلَمُونَ",
+  "translation": "47. A cada comunidad envié un Mensajero[1]. Cada vez que lo desmintieron los destruí, salvando al Mensajero y a los creyentes, pero nadie fue castigado injustamente.",
+  "footnotes": "[1] Este versículo evidencia el carácter universal de la revelación de Dios que no se limita a los Profetas y Mensajeros que son mencionados en la Biblia, sino que Dios envió a cada pueblo y nación un Profeta que hablara su propio idioma y comprendiese su idiosincrasia, para transmitirles el mensaje del monoteísmo."
 }

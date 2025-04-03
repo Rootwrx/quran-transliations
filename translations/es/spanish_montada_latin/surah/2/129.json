@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "136",
-    "sura": "2",
-    "aya": "129",
-    "arabic_text": "رَبَّنَا وَٱبۡعَثۡ فِيهِمۡ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِكَ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُزَكِّيهِمۡۖ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "129. ¡Señor!, y envíales un Mensajero de entre ellos que les recite Tus aleyas, les enseñe el Libro (el Corán) y la sabiduría (el entendimiento de la religión), y los purifique. En verdad, Tú eres el Poderoso (que no puede ser vencido), el Sabio”.",
-    "footnotes": ""
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 20,
+  "verse_key": "2:129",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبَّنَا وَٱبۡعَثۡ فِيهِمۡ رَسُولٗا مِّنۡهُمۡ يَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِكَ وَيُعَلِّمُهُمُ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَيُزَكِّيهِمۡۖ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "129. ¡Señor!, y envíales un Mensajero de entre ellos que les recite Tus aleyas, les enseñe el Libro (el Corán) y la sabiduría (el entendimiento de la religión), y los purifique. En verdad, Tú eres el Poderoso (que no puede ser vencido), el Sabio”.",
+  "footnotes": ""
 }

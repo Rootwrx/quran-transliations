@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3094",
-    "sura": "26",
-    "aya": "162",
-    "arabic_text": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
-    "translation": "“Şüphesiz ben size gönderilmiş güvenilir bir rasûlüm.”",
-    "footnotes": ""
-  }
+  "id": 162,
+  "verse_number": 162,
+  "page_number": 374,
+  "verse_key": "26:162",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+  "translation": "“Şüphesiz ben size gönderilmiş güvenilir bir rasûlüm.”",
+  "footnotes": ""
 }

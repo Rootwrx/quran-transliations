@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2635",
-    "sura": "22",
-    "aya": "40",
-    "arabic_text": "ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِم بِغَيۡرِ حَقٍّ إِلَّآ أَن يَقُولُواْ رَبُّنَا ٱللَّهُۗ وَلَوۡلَا دَفۡعُ ٱللَّهِ ٱلنَّاسَ بَعۡضَهُم بِبَعۡضٖ لَّهُدِّمَتۡ صَوَٰمِعُ وَبِيَعٞ وَصَلَوَٰتٞ وَمَسَٰجِدُ يُذۡكَرُ فِيهَا ٱسۡمُ ٱللَّهِ كَثِيرٗاۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ",
-    "translation": "40 ceux qui ont été chassés de leurs foyers sans droit[879], simplement pour avoir proclamé que leur Seigneur est Allah. Si Allah ne repoussait pas une partie des hommes par une autre, combien de monastères auraient été détruits, combien d’églises, de synagogues et de mosquées où le nom d’Allah est souvent invoqué. Allah, qui est Fort et Tout-Puissant, fera assurément triompher ceux qui défendent Sa cause,",
-    "footnotes": "[879] Les musulmans de la Mecque contraints à s’exiler à Médine."
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 337,
+  "verse_key": "22:40",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ أُخۡرِجُواْ مِن دِيَٰرِهِم بِغَيۡرِ حَقٍّ إِلَّآ أَن يَقُولُواْ رَبُّنَا ٱللَّهُۗ وَلَوۡلَا دَفۡعُ ٱللَّهِ ٱلنَّاسَ بَعۡضَهُم بِبَعۡضٖ لَّهُدِّمَتۡ صَوَٰمِعُ وَبِيَعٞ وَصَلَوَٰتٞ وَمَسَٰجِدُ يُذۡكَرُ فِيهَا ٱسۡمُ ٱللَّهِ كَثِيرٗاۗ وَلَيَنصُرَنَّ ٱللَّهُ مَن يَنصُرُهُۥٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ",
+  "translation": "40 ceux qui ont été chassés de leurs foyers sans droit[879], simplement pour avoir proclamé que leur Seigneur est Allah. Si Allah ne repoussait pas une partie des hommes par une autre, combien de monastères auraient été détruits, combien d’églises, de synagogues et de mosquées où le nom d’Allah est souvent invoqué. Allah, qui est Fort et Tout-Puissant, fera assurément triompher ceux qui défendent Sa cause,",
+  "footnotes": "[879] Les musulmans de la Mecque contraints à s’exiler à Médine."
 }

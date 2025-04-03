@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1281",
-    "sura": "9",
-    "aya": "46",
-    "arabic_text": "۞ وَلَوۡ أَرَادُواْ ٱلۡخُرُوجَ لَأَعَدُّواْ لَهُۥ عُدَّةٗ وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمۡ فَثَبَّطَهُمۡ وَقِيلَ ٱقۡعُدُواْ مَعَ ٱلۡقَٰعِدِينَ",
-    "translation": "Kuma dã sun yi nufin fita, dã sun yi wani tattali sabõda shi, kuma amma Allah Ya ƙi zãburarsu, sai Ya nauyayar da zamansu. Kuma aka ce ku zauna tãre da mãsu* zama.",
-    "footnotes": "* Watau mãtã da yãra da gajiyayyu."
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 194,
+  "verse_key": "9:46",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 78,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَوۡ أَرَادُواْ ٱلۡخُرُوجَ لَأَعَدُّواْ لَهُۥ عُدَّةٗ وَلَٰكِن كَرِهَ ٱللَّهُ ٱنۢبِعَاثَهُمۡ فَثَبَّطَهُمۡ وَقِيلَ ٱقۡعُدُواْ مَعَ ٱلۡقَٰعِدِينَ",
+  "translation": "Kuma dã sun yi nufin fita, dã sun yi wani tattali sabõda shi, kuma amma Allah Ya ƙi zãburarsu, sai Ya nauyayar da zamansu. Kuma aka ce ku zauna tãre da mãsu* zama.",
+  "footnotes": "* Watau mãtã da yãra da gajiyayyu."
 }

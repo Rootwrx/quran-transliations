@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2795",
-    "sura": "24",
-    "aya": "4",
-    "arabic_text": "وَٱلَّذِينَ يَرۡمُونَ ٱلۡمُحۡصَنَٰتِ ثُمَّ لَمۡ يَأۡتُواْ بِأَرۡبَعَةِ شُهَدَآءَ فَٱجۡلِدُوهُمۡ ثَمَٰنِينَ جَلۡدَةٗ وَلَا تَقۡبَلُواْ لَهُمۡ شَهَٰدَةً أَبَدٗاۚ وَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ",
-    "translation": "Àwọn tó ń fi ẹ̀sùn sìná kan àwọn ọmọlúàbí lóbìnrin, lẹ́yìn náà tí wọn kò mú àwọn ẹlẹ́rìí mẹ́rin wá, ẹ nà wọ́n ní ọgọ́rin kòbókò. Ẹ má ṣe gba ẹ̀rí wọn mọ́ láéláé; àwọn wọ̀nyẹn sì ni òbìlẹ̀jẹ́.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 350,
+  "verse_key": "24:4",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 140,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يَرۡمُونَ ٱلۡمُحۡصَنَٰتِ ثُمَّ لَمۡ يَأۡتُواْ بِأَرۡبَعَةِ شُهَدَآءَ فَٱجۡلِدُوهُمۡ ثَمَٰنِينَ جَلۡدَةٗ وَلَا تَقۡبَلُواْ لَهُمۡ شَهَٰدَةً أَبَدٗاۚ وَأُوْلَٰٓئِكَ هُمُ ٱلۡفَٰسِقُونَ",
+  "translation": "Àwọn tó ń fi ẹ̀sùn sìná kan àwọn ọmọlúàbí lóbìnrin, lẹ́yìn náà tí wọn kò mú àwọn ẹlẹ́rìí mẹ́rin wá, ẹ nà wọ́n ní ọgọ́rin kòbókò. Ẹ má ṣe gba ẹ̀rí wọn mọ́ láéláé; àwọn wọ̀nyẹn sì ni òbìlẹ̀jẹ́.",
+  "footnotes": ""
 }

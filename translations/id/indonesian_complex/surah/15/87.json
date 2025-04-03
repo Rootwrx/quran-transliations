@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1889",
-    "sura": "15",
-    "aya": "87",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ",
-    "translation": "Dan sesungguhnya Kami telah berikan kepadamu tujuh ayat yang dibaca berulang-ulang 814 dan Al-Qur`ān yang agung.",
-    "footnotes": "814.  Maksud tujuh ayat yang dibaca berulang-ulang ialah Surah Al-Fātiḥah yang terdiri atas  tujuh ayat.  Sebagian ahli tafsir mengatakan tujuh surah-surah yang panjang, yaitu Al-Baqarah,  Āli ʻImrān,  Al-Mā`idah, An-Nisā`, Al-Aʻrāf, Al-Anʻām dan Al-Anfāl atau At-Taubah."
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 266,
+  "verse_key": "15:87",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ",
+  "translation": "Dan sesungguhnya Kami telah berikan kepadamu tujuh ayat yang dibaca berulang-ulang 814 dan Al-Qur`ān yang agung.",
+  "footnotes": "814.  Maksud tujuh ayat yang dibaca berulang-ulang ialah Surah Al-Fātiḥah yang terdiri atas  tujuh ayat.  Sebagian ahli tafsir mengatakan tujuh surah-surah yang panjang, yaitu Al-Baqarah,  Āli ʻImrān,  Al-Mā`idah, An-Nisā`, Al-Aʻrāf, Al-Anʻām dan Al-Anfāl atau At-Taubah."
 }

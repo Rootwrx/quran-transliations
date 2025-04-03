@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5162",
-    "sura": "60",
-    "aya": "12",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا جَآءَكَ ٱلۡمُؤۡمِنَٰتُ يُبَايِعۡنَكَ عَلَىٰٓ أَن لَّا يُشۡرِكۡنَ بِٱللَّهِ شَيۡـٔٗا وَلَا يَسۡرِقۡنَ وَلَا يَزۡنِينَ وَلَا يَقۡتُلۡنَ أَوۡلَٰدَهُنَّ وَلَا يَأۡتِينَ بِبُهۡتَٰنٖ يَفۡتَرِينَهُۥ بَيۡنَ أَيۡدِيهِنَّ وَأَرۡجُلِهِنَّ وَلَا يَعۡصِينَكَ فِي مَعۡرُوفٖ فَبَايِعۡهُنَّ وَٱسۡتَغۡفِرۡ لَهُنَّ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
-    "translation": "Ey Peyğəmbər! Mömin qadınlar Allaha heç bir şərik qoşmayacaqlarına, oğurluq və zina etməyəcəklərinə, uşaqlarını öldürməyəcəklərinə, əlləri ilə ayaqları arasında olanı yalanla ört-basdır etməyəcəklərinə (ərlərindən olmayan uşaqlarını onlara isnad etməyəcəklərinə) və heç bir yaxşı işdə sənə qarşı çıxmayacaqlarına dair sənə beyət etmək üçün yanına gəldikləri zaman onların beyətini qəbul et və Allahdan onlar üçün bağışlanma dilə. Həqiqətən, Allah bağışlayandır, rəhmlidir.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 551,
+  "verse_key": "60:12",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا جَآءَكَ ٱلۡمُؤۡمِنَٰتُ يُبَايِعۡنَكَ عَلَىٰٓ أَن لَّا يُشۡرِكۡنَ بِٱللَّهِ شَيۡـٔٗا وَلَا يَسۡرِقۡنَ وَلَا يَزۡنِينَ وَلَا يَقۡتُلۡنَ أَوۡلَٰدَهُنَّ وَلَا يَأۡتِينَ بِبُهۡتَٰنٖ يَفۡتَرِينَهُۥ بَيۡنَ أَيۡدِيهِنَّ وَأَرۡجُلِهِنَّ وَلَا يَعۡصِينَكَ فِي مَعۡرُوفٖ فَبَايِعۡهُنَّ وَٱسۡتَغۡفِرۡ لَهُنَّ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+  "translation": "Ey Peyğəmbər! Mömin qadınlar Allaha heç bir şərik qoşmayacaqlarına, oğurluq və zina etməyəcəklərinə, uşaqlarını öldürməyəcəklərinə, əlləri ilə ayaqları arasında olanı yalanla ört-basdır etməyəcəklərinə (ərlərindən olmayan uşaqlarını onlara isnad etməyəcəklərinə) və heç bir yaxşı işdə sənə qarşı çıxmayacaqlarına dair sənə beyət etmək üçün yanına gəldikləri zaman onların beyətini qəbul et və Allahdan onlar üçün bağışlanma dilə. Həqiqətən, Allah bağışlayandır, rəhmlidir.",
+  "footnotes": ""
 }

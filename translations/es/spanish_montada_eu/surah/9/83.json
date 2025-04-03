@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1318",
-    "sura": "9",
-    "aya": "83",
-    "arabic_text": "فَإِن رَّجَعَكَ ٱللَّهُ إِلَىٰ طَآئِفَةٖ مِّنۡهُمۡ فَٱسۡتَـٔۡذَنُوكَ لِلۡخُرُوجِ فَقُل لَّن تَخۡرُجُواْ مَعِيَ أَبَدٗا وَلَن تُقَٰتِلُواْ مَعِيَ عَدُوًّاۖ إِنَّكُمۡ رَضِيتُم بِٱلۡقُعُودِ أَوَّلَ مَرَّةٖ فَٱقۡعُدُواْ مَعَ ٱلۡخَٰلِفِينَ",
-    "translation": "83. Y si, tras tu regreso (de Tabuk), un grupo de quienes no salieron a luchar te piden permiso para salir a combatir (en otra batalla), diles: «No saldréis nunca conmigo ni combatiréis conmigo al enemigo. Preferisteis quedaros la vez primera (en vuestros hogares); permaneced, pues, con quienes se quedan atrás».",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 200,
+  "verse_key": "9:83",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن رَّجَعَكَ ٱللَّهُ إِلَىٰ طَآئِفَةٖ مِّنۡهُمۡ فَٱسۡتَـٔۡذَنُوكَ لِلۡخُرُوجِ فَقُل لَّن تَخۡرُجُواْ مَعِيَ أَبَدٗا وَلَن تُقَٰتِلُواْ مَعِيَ عَدُوًّاۖ إِنَّكُمۡ رَضِيتُم بِٱلۡقُعُودِ أَوَّلَ مَرَّةٖ فَٱقۡعُدُواْ مَعَ ٱلۡخَٰلِفِينَ",
+  "translation": "83. Y si, tras tu regreso (de Tabuk), un grupo de quienes no salieron a luchar te piden permiso para salir a combatir (en otra batalla), diles: «No saldréis nunca conmigo ni combatiréis conmigo al enemigo. Preferisteis quedaros la vez primera (en vuestros hogares); permaneced, pues, con quienes se quedan atrás».",
+  "footnotes": ""
 }

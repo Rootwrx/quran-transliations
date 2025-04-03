@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5973",
-    "sura": "88",
-    "aya": "6",
-    "arabic_text": "لَّيۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِيعٖ",
-    "translation": "B pa tar rɩɩb rẽnda taksẽnego (gõose),",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 592,
+  "verse_key": "88:6",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّيۡسَ لَهُمۡ طَعَامٌ إِلَّا مِن ضَرِيعٖ",
+  "translation": "B pa tar rɩɩb rẽnda taksẽnego (gõose),",
+  "footnotes": ""
 }

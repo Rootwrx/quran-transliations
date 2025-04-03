@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4678",
-    "sura": "51",
-    "aya": "3",
-    "arabic_text": "فَٱلۡجَٰرِيَٰتِ يُسۡرٗا",
-    "translation": "និងនាវាដែលធ្វើដំណើរ(លើផ្ទៃសមុទ្រ)ដោយងាយស្រួល",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 520,
+  "verse_key": "51:3",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱلۡجَٰرِيَٰتِ يُسۡرٗا",
+  "translation": "និងនាវាដែលធ្វើដំណើរ(លើផ្ទៃសមុទ្រ)ដោយងាយស្រួល",
+  "footnotes": ""
 }

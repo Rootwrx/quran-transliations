@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5193",
-    "sura": "63",
-    "aya": "5",
-    "arabic_text": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ يَسۡتَغۡفِرۡ لَكُمۡ رَسُولُ ٱللَّهِ لَوَّوۡاْ رُءُوسَهُمۡ وَرَأَيۡتَهُمۡ يَصُدُّونَ وَهُم مُّسۡتَكۡبِرُونَ",
-    "translation": "When it is said to them, “Come, so that the Messenger of Allah may seek forgiveness for you”, they shake their heads, and you see them turning away in arrogance.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 555,
+  "verse_key": "63:5",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ يَسۡتَغۡفِرۡ لَكُمۡ رَسُولُ ٱللَّهِ لَوَّوۡاْ رُءُوسَهُمۡ وَرَأَيۡتَهُمۡ يَصُدُّونَ وَهُم مُّسۡتَكۡبِرُونَ",
+  "translation": "When it is said to them, “Come, so that the Messenger of Allah may seek forgiveness for you”, they shake their heads, and you see them turning away in arrogance.",
+  "footnotes": ""
 }

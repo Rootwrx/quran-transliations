@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6044",
-    "sura": "91",
-    "aya": "1",
-    "arabic_text": "وَٱلشَّمۡسِ وَضُحَىٰهَا",
-    "translation": "Aduufi ifa isheetiinin (kakadha).",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 595,
+  "verse_key": "91:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلشَّمۡسِ وَضُحَىٰهَا",
+  "translation": "Aduufi ifa isheetiinin (kakadha).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1963",
-    "sura": "16",
-    "aya": "62",
-    "arabic_text": "وَيَجۡعَلُونَ لِلَّهِ مَا يَكۡرَهُونَۚ وَتَصِفُ أَلۡسِنَتُهُمُ ٱلۡكَذِبَ أَنَّ لَهُمُ ٱلۡحُسۡنَىٰۚ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفۡرَطُونَ",
-    "translation": "They attribute to Allah[36] what they dislike for themselves, and their tongues make false claim that they will have the best [reward][37]. Without a doubt for them there will be the Fire, and they will be neglected.",
-    "footnotes": "[36] That the angels are Allah’s daughters. [37] Both in this life and in the Hereafter."
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 273,
+  "verse_key": "16:62",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَجۡعَلُونَ لِلَّهِ مَا يَكۡرَهُونَۚ وَتَصِفُ أَلۡسِنَتُهُمُ ٱلۡكَذِبَ أَنَّ لَهُمُ ٱلۡحُسۡنَىٰۚ لَا جَرَمَ أَنَّ لَهُمُ ٱلنَّارَ وَأَنَّهُم مُّفۡرَطُونَ",
+  "translation": "They attribute to Allah[36] what they dislike for themselves, and their tongues make false claim that they will have the best [reward][37]. Without a doubt for them there will be the Fire, and they will be neglected.",
+  "footnotes": "[36] That the angels are Allah’s daughters. [37] Both in this life and in the Hereafter."
 }

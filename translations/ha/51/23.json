@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4698",
-    "sura": "51",
-    "aya": "23",
-    "arabic_text": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ",
-    "translation": "To, kuma Ina rantsuwa da Ubangijin sama da ƙasã, lalle shĩ (abin da ake yi muku alkawari), haƙĩƙa gaskiya ne, kamar abin da kuka zamo kunã karantãwa na magana,",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 521,
+  "verse_key": "51:23",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَرَبِّ ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِنَّهُۥ لَحَقّٞ مِّثۡلَ مَآ أَنَّكُمۡ تَنطِقُونَ",
+  "translation": "To, kuma Ina rantsuwa da Ubangijin sama da ƙasã, lalle shĩ (abin da ake yi muku alkawari), haƙĩƙa gaskiya ne, kamar abin da kuka zamo kunã karantãwa na magana,",
+  "footnotes": ""
 }

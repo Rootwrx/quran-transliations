@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2083",
-    "sura": "17",
-    "aya": "54",
-    "arabic_text": "رَّبُّكُمۡ أَعۡلَمُ بِكُمۡۖ إِن يَشَأۡ يَرۡحَمۡكُمۡ أَوۡ إِن يَشَأۡ يُعَذِّبۡكُمۡۚ وَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ وَكِيلٗا",
-    "translation": "Mola wenu Mlezi anakujueni vilivyo. Akipenda atakurehemuni, na akipenda atakuadhibuni. Na hatukukutuma ili uwe mlinzi juu yao.",
-    "footnotes": "Mola wenu Mlezi ndiye anaye jua vyema mwisho wa mambo yenu. Akipenda atakurehemuni kwa kukupeni tawfiki ya Imani, (uwezo wa kuamini) au akipenda atakupeni adhabu kwa kuikosa hiyo Imani. Wala Sisi hatukukupeleka wewe uwe ni mwakilishi wao kwa mambo yao, hata uwalazimishe kuamini. Bali tumekutuma uwe ni mbashiri kuwapa khabari njema wenye kusadiki, na mwonyaji kuwaonya wanao kanusha. Waachilie mbali, na waamrishe sahaba zako wawastahamilie."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 287,
+  "verse_key": "17:54",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَّبُّكُمۡ أَعۡلَمُ بِكُمۡۖ إِن يَشَأۡ يَرۡحَمۡكُمۡ أَوۡ إِن يَشَأۡ يُعَذِّبۡكُمۡۚ وَمَآ أَرۡسَلۡنَٰكَ عَلَيۡهِمۡ وَكِيلٗا",
+  "translation": "Mola wenu Mlezi anakujueni vilivyo. Akipenda atakurehemuni, na akipenda atakuadhibuni. Na hatukukutuma ili uwe mlinzi juu yao.",
+  "footnotes": "Mola wenu Mlezi ndiye anaye jua vyema mwisho wa mambo yenu. Akipenda atakurehemuni kwa kukupeni tawfiki ya Imani, (uwezo wa kuamini) au akipenda atakupeni adhabu kwa kuikosa hiyo Imani. Wala Sisi hatukukupeleka wewe uwe ni mwakilishi wao kwa mambo yao, hata uwalazimishe kuamini. Bali tumekutuma uwe ni mbashiri kuwapa khabari njema wenye kusadiki, na mwonyaji kuwaonya wanao kanusha. Waachilie mbali, na waamrishe sahaba zako wawastahamilie."
 }

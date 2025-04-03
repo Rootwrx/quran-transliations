@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2104",
-    "sura": "17",
-    "aya": "75",
-    "arabic_text": "إِذٗا لَّأَذَقۡنَٰكَ ضِعۡفَ ٱلۡحَيَوٰةِ وَضِعۡفَ ٱلۡمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيۡنَا نَصِيرٗا",
-    "translation": "Hapo basi bila ya shaka tungeli kuonjesha adhabu mardufu ya uhai, na adhabu mardufu ya kifo. Kisha usinge pata mtu wa kukunusuru nasi.",
-    "footnotes": "Na lau ungeli karibia kuwaelekea hao, basi tungeli kukusanyia adhabu za duniani tukazifanya mardufu, na adhabu za Akhera nazo tukaziongeza mara mbili vile vile. Na wala usingeli pata yeyote wa kukunusuru na adhabu. Lakini hayo hayawi kabisa, hayawezi kumfikilia Mtume wetu Muaminifu."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 289,
+  "verse_key": "17:75",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذٗا لَّأَذَقۡنَٰكَ ضِعۡفَ ٱلۡحَيَوٰةِ وَضِعۡفَ ٱلۡمَمَاتِ ثُمَّ لَا تَجِدُ لَكَ عَلَيۡنَا نَصِيرٗا",
+  "translation": "Hapo basi bila ya shaka tungeli kuonjesha adhabu mardufu ya uhai, na adhabu mardufu ya kifo. Kisha usinge pata mtu wa kukunusuru nasi.",
+  "footnotes": "Na lau ungeli karibia kuwaelekea hao, basi tungeli kukusanyia adhabu za duniani tukazifanya mardufu, na adhabu za Akhera nazo tukaziongeza mara mbili vile vile. Na wala usingeli pata yeyote wa kukunusuru na adhabu. Lakini hayo hayawi kabisa, hayawezi kumfikilia Mtume wetu Muaminifu."
 }

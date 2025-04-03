@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "501",
-    "sura": "4",
-    "aya": "8",
-    "arabic_text": "وَإِذَا حَضَرَ ٱلۡقِسۡمَةَ أُوْلُواْ ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينُ فَٱرۡزُقُوهُم مِّنۡهُ وَقُولُواْ لَهُمۡ قَوۡلٗا مَّعۡرُوفٗا",
-    "translation": "Und wenn bei der Verteilung Verwandte, Waisen und Arme zugegen sind, dann versorgt sie davon und sagt zu ihnen geziemende Worte.",
-    "footnotes": null
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 78,
+  "verse_key": "4:8",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا حَضَرَ ٱلۡقِسۡمَةَ أُوْلُواْ ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينُ فَٱرۡزُقُوهُم مِّنۡهُ وَقُولُواْ لَهُمۡ قَوۡلٗا مَّعۡرُوفٗا",
+  "translation": "Und wenn bei der Verteilung Verwandte, Waisen und Arme zugegen sind, dann versorgt sie davon und sagt zu ihnen geziemende Worte.",
+  "footnotes": null
 }

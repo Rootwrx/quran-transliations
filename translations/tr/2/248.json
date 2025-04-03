@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "255",
-    "sura": "2",
-    "aya": "248",
-    "arabic_text": "وَقَالَ لَهُمۡ نَبِيُّهُمۡ إِنَّ ءَايَةَ مُلۡكِهِۦٓ أَن يَأۡتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٞ مِّن رَّبِّكُمۡ وَبَقِيَّةٞ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحۡمِلُهُ ٱلۡمَلَٰٓئِكَةُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": "Peygamberleri onlara, “Onun hükümdarlığının alameti, size sandığın gelmesidir. Onda Rabbinizden gelen bir huzur, Mûsâ ailesinin ve Hârûn ailesinin bıraktıklarından kalanlar vardır ve onu melekler taşır. Eğer iman etmişseniz, bunda sizin için apaçık delil vardır” dedi.",
-    "footnotes": ""
-  }
+  "id": 248,
+  "verse_number": 248,
+  "page_number": 40,
+  "verse_key": "2:248",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 16,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ لَهُمۡ نَبِيُّهُمۡ إِنَّ ءَايَةَ مُلۡكِهِۦٓ أَن يَأۡتِيَكُمُ ٱلتَّابُوتُ فِيهِ سَكِينَةٞ مِّن رَّبِّكُمۡ وَبَقِيَّةٞ مِّمَّا تَرَكَ ءَالُ مُوسَىٰ وَءَالُ هَٰرُونَ تَحۡمِلُهُ ٱلۡمَلَٰٓئِكَةُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لَّكُمۡ إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": "Peygamberleri onlara, “Onun hükümdarlığının alameti, size sandığın gelmesidir. Onda Rabbinizden gelen bir huzur, Mûsâ ailesinin ve Hârûn ailesinin bıraktıklarından kalanlar vardır ve onu melekler taşır. Eğer iman etmişseniz, bunda sizin için apaçık delil vardır” dedi.",
+  "footnotes": ""
 }

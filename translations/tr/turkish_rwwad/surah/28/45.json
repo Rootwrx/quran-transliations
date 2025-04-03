@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3297",
-    "sura": "28",
-    "aya": "45",
-    "arabic_text": "وَلَٰكِنَّآ أَنشَأۡنَا قُرُونٗا فَتَطَاوَلَ عَلَيۡهِمُ ٱلۡعُمُرُۚ وَمَا كُنتَ ثَاوِيٗا فِيٓ أَهۡلِ مَدۡيَنَ تَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِنَا وَلَٰكِنَّا كُنَّا مُرۡسِلِينَ",
-    "translation": "Fakat biz (Mûsâ’dan sonra) birçok nesiller meydana getirdik. Üzerlerinden uzun zaman geçti. Sen Medyen halkı arasında yaşıyor değildin, ayetlerimizi onlardan okuyup öğreniyor da değildin. Fakat (seni peygamber olarak) gönderenler gerçekten bizleriz.",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 391,
+  "verse_key": "28:45",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَٰكِنَّآ أَنشَأۡنَا قُرُونٗا فَتَطَاوَلَ عَلَيۡهِمُ ٱلۡعُمُرُۚ وَمَا كُنتَ ثَاوِيٗا فِيٓ أَهۡلِ مَدۡيَنَ تَتۡلُواْ عَلَيۡهِمۡ ءَايَٰتِنَا وَلَٰكِنَّا كُنَّا مُرۡسِلِينَ",
+  "translation": "Fakat biz (Mûsâ’dan sonra) birçok nesiller meydana getirdik. Üzerlerinden uzun zaman geçti. Sen Medyen halkı arasında yaşıyor değildin, ayetlerimizi onlardan okuyup öğreniyor da değildin. Fakat (seni peygamber olarak) gönderenler gerçekten bizleriz.",
+  "footnotes": ""
 }

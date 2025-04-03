@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3983",
-    "sura": "38",
-    "aya": "13",
-    "arabic_text": "وَثَمُودُ وَقَوۡمُ لُوطٖ وَأَصۡحَٰبُ لۡـَٔيۡكَةِۚ أُوْلَٰٓئِكَ ٱلۡأَحۡزَابُ",
-    "translation": "Na Thamud na kaumu Lut'i na watu wa Machakani. Hayo ndiyo makundi.",
-    "footnotes": "Na kina Thamudi na Kaumu Lut'i na Kaumu ya Shuaibu, na watu wa Machakani, kwenye miti mingi iliyo shikamana. Hao ndio walio jumuika kuwapinga Mitume wao kama walivyo jumuika watu wako."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 453,
+  "verse_key": "38:13",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَثَمُودُ وَقَوۡمُ لُوطٖ وَأَصۡحَٰبُ لۡـَٔيۡكَةِۚ أُوْلَٰٓئِكَ ٱلۡأَحۡزَابُ",
+  "translation": "Na Thamud na kaumu Lut'i na watu wa Machakani. Hayo ndiyo makundi.",
+  "footnotes": "Na kina Thamudi na Kaumu Lut'i na Kaumu ya Shuaibu, na watu wa Machakani, kwenye miti mingi iliyo shikamana. Hao ndio walio jumuika kuwapinga Mitume wao kama walivyo jumuika watu wako."
 }

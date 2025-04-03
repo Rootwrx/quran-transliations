@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5675",
-    "sura": "78",
-    "aya": "3",
-    "arabic_text": "ٱلَّذِي هُمۡ فِيهِ مُخۡتَلِفُونَ",
-    "translation": "૩. જેના વિશે તેઓ એકબીજાથી મતભેદ કરી રહ્યા છે.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 582,
+  "verse_key": "78:3",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي هُمۡ فِيهِ مُخۡتَلِفُونَ",
+  "translation": "૩. જેના વિશે તેઓ એકબીજાથી મતભેદ કરી રહ્યા છે.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "166",
-    "sura": "2",
-    "aya": "159",
-    "arabic_text": "إِنَّ ٱلَّذِينَ يَكۡتُمُونَ مَآ أَنزَلۡنَا مِنَ ٱلۡبَيِّنَٰتِ وَٱلۡهُدَىٰ مِنۢ بَعۡدِ مَا بَيَّنَّٰهُ لِلنَّاسِ فِي ٱلۡكِتَٰبِ أُوْلَٰٓئِكَ يَلۡعَنُهُمُ ٱللَّهُ وَيَلۡعَنُهُمُ ٱللَّٰعِنُونَ",
-    "translation": "Kitabda insanlara bəyan etdikdən sonra, nazil etdiyimiz açıq-aydın dəlilləri və doğru yol göstərən ayələri gizlədən kəslərə həm Allah lənət edər, həm də, lənət edə bilənlər lənət oxuyarlar!",
-    "footnotes": ""
-  }
+  "id": 159,
+  "verse_number": 159,
+  "page_number": 24,
+  "verse_key": "2:159",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ يَكۡتُمُونَ مَآ أَنزَلۡنَا مِنَ ٱلۡبَيِّنَٰتِ وَٱلۡهُدَىٰ مِنۢ بَعۡدِ مَا بَيَّنَّٰهُ لِلنَّاسِ فِي ٱلۡكِتَٰبِ أُوْلَٰٓئِكَ يَلۡعَنُهُمُ ٱللَّهُ وَيَلۡعَنُهُمُ ٱللَّٰعِنُونَ",
+  "translation": "Kitabda insanlara bəyan etdikdən sonra, nazil etdiyimiz açıq-aydın dəlilləri və doğru yol göstərən ayələri gizlədən kəslərə həm Allah lənət edər, həm də, lənət edə bilənlər lənət oxuyarlar!",
+  "footnotes": ""
 }

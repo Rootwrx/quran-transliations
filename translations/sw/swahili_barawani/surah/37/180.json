@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3968",
-    "sura": "37",
-    "aya": "180",
-    "arabic_text": "سُبۡحَٰنَ رَبِّكَ رَبِّ ٱلۡعِزَّةِ عَمَّا يَصِفُونَ",
-    "translation": "Subhana Rabbi'l'Izzat Ametakasika Mola Mlezi Mwenye enzi na yale wanayo mzulia.",
-    "footnotes": "Mwenyezi Mungu, aliye kuumba wewe na aliye ziumba nguvu na ushindi, ametakasika na huo uzushi wanao muambatisha naye."
-  }
+  "id": 180,
+  "verse_number": 180,
+  "page_number": 452,
+  "verse_key": "37:180",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سُبۡحَٰنَ رَبِّكَ رَبِّ ٱلۡعِزَّةِ عَمَّا يَصِفُونَ",
+  "translation": "Subhana Rabbi'l'Izzat Ametakasika Mola Mlezi Mwenye enzi na yale wanayo mzulia.",
+  "footnotes": "Mwenyezi Mungu, aliye kuumba wewe na aliye ziumba nguvu na ushindi, ametakasika na huo uzushi wanao muambatisha naye."
 }

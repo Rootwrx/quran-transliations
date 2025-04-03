@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3641",
-    "sura": "34",
-    "aya": "35",
-    "arabic_text": "وَقَالُواْ نَحۡنُ أَكۡثَرُ أَمۡوَٰلٗا وَأَوۡلَٰدٗا وَمَا نَحۡنُ بِمُعَذَّبِينَ",
-    "translation": "35. Decían también: “Nosotros tenemos más bienes materiales e hijos que tú, y no seremos castigados”.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 432,
+  "verse_key": "34:35",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ نَحۡنُ أَكۡثَرُ أَمۡوَٰلٗا وَأَوۡلَٰدٗا وَمَا نَحۡنُ بِمُعَذَّبِينَ",
+  "translation": "35. Decían también: “Nosotros tenemos más bienes materiales e hijos que tú, y no seremos castigados”.",
+  "footnotes": ""
 }

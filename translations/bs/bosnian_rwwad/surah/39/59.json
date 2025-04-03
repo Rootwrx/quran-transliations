@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4117",
-    "sura": "39",
-    "aya": "59",
-    "arabic_text": "بَلَىٰ قَدۡ جَآءَتۡكَ ءَايَٰتِي فَكَذَّبۡتَ بِهَا وَٱسۡتَكۡبَرۡتَ وَكُنتَ مِنَ ٱلۡكَٰفِرِينَ",
-    "translation": "“Nikad! Dolazile su ti pouke Moje, pa si ih poricao i oholio se, i nevjernik si bio.”",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 465,
+  "verse_key": "39:59",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلَىٰ قَدۡ جَآءَتۡكَ ءَايَٰتِي فَكَذَّبۡتَ بِهَا وَٱسۡتَكۡبَرۡتَ وَكُنتَ مِنَ ٱلۡكَٰفِرِينَ",
+  "translation": "“Nikad! Dolazile su ti pouke Moje, pa si ih poricao i oholio se, i nevjernik si bio.”",
+  "footnotes": ""
 }

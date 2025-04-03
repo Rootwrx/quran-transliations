@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2308",
-    "sura": "19",
-    "aya": "58",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوحٖ وَمِن ذُرِّيَّةِ إِبۡرَٰهِيمَ وَإِسۡرَٰٓءِيلَ وَمِمَّنۡ هَدَيۡنَا وَٱجۡتَبَيۡنَآۚ إِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُ ٱلرَّحۡمَٰنِ خَرُّواْۤ سُجَّدٗاۤ وَبُكِيّٗا۩",
-    "translation": "Ad bãmbã la Wẽnd sẽn maan-b rãmb neema wã, sẽn yi nabiyaam-rãmbã pʋgẽ, sẽn yi a Adam koɑmbẽ la neb nins Tõnd sẽn rɩk n naag a Nuuh koglgã pʋgẽ wã, la sẽn yi a ɭbraahɩɩm la a ɭsraa'ɩɩl koɑmbẽ lɑ neb nins Tõnd sẽn kãndg la D tũusã pʋgẽ, b sã n wa karemd Arrɑhmɑɑn nɑɑb Aayayã b nengẽ, la b sẽn lʋɩt n maan suguud n kũmdẽ۩.",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 309,
+  "verse_key": "19:58",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 5,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوحٖ وَمِن ذُرِّيَّةِ إِبۡرَٰهِيمَ وَإِسۡرَٰٓءِيلَ وَمِمَّنۡ هَدَيۡنَا وَٱجۡتَبَيۡنَآۚ إِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُ ٱلرَّحۡمَٰنِ خَرُّواْۤ سُجَّدٗاۤ وَبُكِيّٗا۩",
+  "translation": "Ad bãmbã la Wẽnd sẽn maan-b rãmb neema wã, sẽn yi nabiyaam-rãmbã pʋgẽ, sẽn yi a Adam koɑmbẽ la neb nins Tõnd sẽn rɩk n naag a Nuuh koglgã pʋgẽ wã, la sẽn yi a ɭbraahɩɩm la a ɭsraa'ɩɩl koɑmbẽ lɑ neb nins Tõnd sẽn kãndg la D tũusã pʋgẽ, b sã n wa karemd Arrɑhmɑɑn nɑɑb Aayayã b nengẽ, la b sẽn lʋɩt n maan suguud n kũmdẽ۩.",
+  "footnotes": ""
 }

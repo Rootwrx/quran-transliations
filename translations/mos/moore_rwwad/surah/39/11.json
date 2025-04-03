@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4069",
-    "sura": "39",
-    "aya": "11",
-    "arabic_text": "قُلۡ إِنِّيٓ أُمِرۡتُ أَنۡ أَعۡبُدَ ٱللَّهَ مُخۡلِصٗا لَّهُ ٱلدِّينَ",
-    "translation": "Yeele: \"ad maam, b sagl-m lame tɩ m tũ Wẽnde, tɩ m yaa sẽn yɩlg dĩinã ne-A,",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 460,
+  "verse_key": "39:11",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنِّيٓ أُمِرۡتُ أَنۡ أَعۡبُدَ ٱللَّهَ مُخۡلِصٗا لَّهُ ٱلدِّينَ",
+  "translation": "Yeele: \"ad maam, b sagl-m lame tɩ m tũ Wẽnde, tɩ m yaa sẽn yɩlg dĩinã ne-A,",
+  "footnotes": ""
 }

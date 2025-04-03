@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2774",
-    "sura": "23",
-    "aya": "101",
-    "arabic_text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ فَلَآ أَنسَابَ بَيۡنَهُمۡ يَوۡمَئِذٖ وَلَا يَتَسَآءَلُونَ",
-    "translation": "When the Trumpet is blown[45], there will be no kinship ties between them on that Day, nor will they ask about one another[46].",
-    "footnotes": "[45] When the Trumpet is blown on the Day of Resurrection by an angel, everyone on earth will die. Then it will be blown a second time, and all will raise for Judgment. See 39:68.\n [46] For everyone will be worried and anxious about his own plight."
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 348,
+  "verse_key": "23:101",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ فَلَآ أَنسَابَ بَيۡنَهُمۡ يَوۡمَئِذٖ وَلَا يَتَسَآءَلُونَ",
+  "translation": "When the Trumpet is blown[45], there will be no kinship ties between them on that Day, nor will they ask about one another[46].",
+  "footnotes": "[45] When the Trumpet is blown on the Day of Resurrection by an angel, everyone on earth will die. Then it will be blown a second time, and all will raise for Judgment. See 39:68.\n [46] For everyone will be worried and anxious about his own plight."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "366",
-    "sura": "3",
-    "aya": "73",
-    "arabic_text": "وَلَا تُؤۡمِنُوٓاْ إِلَّا لِمَن تَبِعَ دِينَكُمۡ قُلۡ إِنَّ ٱلۡهُدَىٰ هُدَى ٱللَّهِ أَن يُؤۡتَىٰٓ أَحَدٞ مِّثۡلَ مَآ أُوتِيتُمۡ أَوۡ يُحَآجُّوكُمۡ عِندَ رَبِّكُمۡۗ قُلۡ إِنَّ ٱلۡفَضۡلَ بِيَدِ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ",
-    "translation": "Sizin dininizə tabe olanlardan başqa heç kəsə inanmayın!” De: “Şübhəsiz ki, doğru yol, Allahın yoludur!” Onlar yenə (bir-birilərinə) dedilər: “Sizə verilənin bənzərinin başqa bir kimsəyə verildiyinə və ya Rəbbiniz yanında (müsəlmanların) sizə dəlil gətirəcəyinə inanmayın.” De: “Şübhəsiz ki, lütf Allahın əlindədir və onu istədiyinə verir! Allahın lütfü genişdir, O (hər şeyi) biləndir”.",
-    "footnotes": ""
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 59,
+  "verse_key": "3:73",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تُؤۡمِنُوٓاْ إِلَّا لِمَن تَبِعَ دِينَكُمۡ قُلۡ إِنَّ ٱلۡهُدَىٰ هُدَى ٱللَّهِ أَن يُؤۡتَىٰٓ أَحَدٞ مِّثۡلَ مَآ أُوتِيتُمۡ أَوۡ يُحَآجُّوكُمۡ عِندَ رَبِّكُمۡۗ قُلۡ إِنَّ ٱلۡفَضۡلَ بِيَدِ ٱللَّهِ يُؤۡتِيهِ مَن يَشَآءُۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ",
+  "translation": "Sizin dininizə tabe olanlardan başqa heç kəsə inanmayın!” De: “Şübhəsiz ki, doğru yol, Allahın yoludur!” Onlar yenə (bir-birilərinə) dedilər: “Sizə verilənin bənzərinin başqa bir kimsəyə verildiyinə və ya Rəbbiniz yanında (müsəlmanların) sizə dəlil gətirəcəyinə inanmayın.” De: “Şübhəsiz ki, lütf Allahın əlindədir və onu istədiyinə verir! Allahın lütfü genişdir, O (hər şeyi) biləndir”.",
+  "footnotes": ""
 }

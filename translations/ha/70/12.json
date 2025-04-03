@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5387",
-    "sura": "70",
-    "aya": "12",
-    "arabic_text": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
-    "translation": "Da matarsa da ɗan'uwansa.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 569,
+  "verse_key": "70:12",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَصَٰحِبَتِهِۦ وَأَخِيهِ",
+  "translation": "Da matarsa da ɗan'uwansa.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3368",
-    "sura": "29",
-    "aya": "28",
-    "arabic_text": "وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦٓ إِنَّكُمۡ لَتَأۡتُونَ ٱلۡفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنۡ أَحَدٖ مِّنَ ٱلۡعَٰلَمِينَ",
-    "translation": "Lutu da (xatırla)! Bir zaman o öz qövmünə belə demişdi: “Doğrudanmı siz özünüzdən öncə heç kimsənin etmədiyi iyrənc bir iş edirsiniz?",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 399,
+  "verse_key": "29:28",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلُوطًا إِذۡ قَالَ لِقَوۡمِهِۦٓ إِنَّكُمۡ لَتَأۡتُونَ ٱلۡفَٰحِشَةَ مَا سَبَقَكُم بِهَا مِنۡ أَحَدٖ مِّنَ ٱلۡعَٰلَمِينَ",
+  "translation": "Lutu da (xatırla)! Bir zaman o öz qövmünə belə demişdi: “Doğrudanmı siz özünüzdən öncə heç kimsənin etmədiyi iyrənc bir iş edirsiniz?",
+  "footnotes": ""
 }

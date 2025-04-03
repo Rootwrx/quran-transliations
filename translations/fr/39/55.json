@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4113",
-    "sura": "39",
-    "aya": "55",
-    "arabic_text": "وَٱتَّبِعُوٓاْ أَحۡسَنَ مَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُم مِّن قَبۡلِ أَن يَأۡتِيَكُمُ ٱلۡعَذَابُ بَغۡتَةٗ وَأَنتُمۡ لَا تَشۡعُرُونَ",
-    "translation": "Et suivez la meilleure révélation  qui vous est descendue de la part de votre Seigneur, avant que le châtiment ne vous vienne soudain, sans que vous ne [le] pressentiez ;",
-    "footnotes": "[803] La meilleure révélation: le Coran."
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 464,
+  "verse_key": "39:55",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّبِعُوٓاْ أَحۡسَنَ مَآ أُنزِلَ إِلَيۡكُم مِّن رَّبِّكُم مِّن قَبۡلِ أَن يَأۡتِيَكُمُ ٱلۡعَذَابُ بَغۡتَةٗ وَأَنتُمۡ لَا تَشۡعُرُونَ",
+  "translation": "Et suivez la meilleure révélation  qui vous est descendue de la part de votre Seigneur, avant que le châtiment ne vous vienne soudain, sans que vous ne [le] pressentiez ;",
+  "footnotes": "[803] La meilleure révélation: le Coran."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3847",
-    "sura": "37",
-    "aya": "59",
-    "arabic_text": "إِلَّا مَوۡتَتَنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُعَذَّبِينَ",
-    "translation": "Isipo kuwa kifo chetu cha kwanza? Wala sisi hatutaadhibiwa.",
-    "footnotes": "Je! Sisi tutakaa milele tukineemeka katika Pepo, wala hatufi kabisa isipo kuwa kule kufa kwetu mara ya kwanza duniani, na wala hatuadhibiwi baada ya kwisha ingia Peponi?"
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 448,
+  "verse_key": "37:59",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا مَوۡتَتَنَا ٱلۡأُولَىٰ وَمَا نَحۡنُ بِمُعَذَّبِينَ",
+  "translation": "Isipo kuwa kifo chetu cha kwanza? Wala sisi hatutaadhibiwa.",
+  "footnotes": "Je! Sisi tutakaa milele tukineemeka katika Pepo, wala hatufi kabisa isipo kuwa kule kufa kwetu mara ya kwanza duniani, na wala hatuadhibiwi baada ya kwisha ingia Peponi?"
 }

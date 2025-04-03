@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "521",
-    "sura": "4",
-    "aya": "28",
-    "arabic_text": "يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمۡۚ وَخُلِقَ ٱلۡإِنسَٰنُ ضَعِيفٗا",
-    "translation": "28. Dios facilita las cosas, ya que el ser humano fue creado con una naturaleza débil.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 83,
+  "verse_key": "4:28",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 33,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُرِيدُ ٱللَّهُ أَن يُخَفِّفَ عَنكُمۡۚ وَخُلِقَ ٱلۡإِنسَٰنُ ضَعِيفٗا",
+  "translation": "28. Dios facilita las cosas, ya que el ser humano fue creado con una naturaleza débil.",
+  "footnotes": ""
 }

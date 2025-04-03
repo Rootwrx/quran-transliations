@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2117",
-    "sura": "17",
-    "aya": "88",
-    "arabic_text": "قُل لَّئِنِ ٱجۡتَمَعَتِ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَىٰٓ أَن يَأۡتُواْ بِمِثۡلِ هَٰذَا ٱلۡقُرۡءَانِ لَا يَأۡتُونَ بِمِثۡلِهِۦ وَلَوۡ كَانَ بَعۡضُهُمۡ لِبَعۡضٖ ظَهِيرٗا",
-    "translation": "Sọ pé: “Dájúdájú tí àwọn ènìyàn àti àlùjànnú bá parapọ̀ láti mú irú al-Ƙur’ān yìí wá, wọn kò lè mú irú rẹ̀ wá, apá kan wọn ìbáà jẹ́ olùrànlọ́wọ́ fún apá kan.”[1]",
-    "footnotes": "1. Bí wọ́n bá gbìyànjú rẹ̀, wọ́n máa fìdí rẹmi."
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 291,
+  "verse_key": "17:88",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لَّئِنِ ٱجۡتَمَعَتِ ٱلۡإِنسُ وَٱلۡجِنُّ عَلَىٰٓ أَن يَأۡتُواْ بِمِثۡلِ هَٰذَا ٱلۡقُرۡءَانِ لَا يَأۡتُونَ بِمِثۡلِهِۦ وَلَوۡ كَانَ بَعۡضُهُمۡ لِبَعۡضٖ ظَهِيرٗا",
+  "translation": "Sọ pé: “Dájúdájú tí àwọn ènìyàn àti àlùjànnú bá parapọ̀ láti mú irú al-Ƙur’ān yìí wá, wọn kò lè mú irú rẹ̀ wá, apá kan wọn ìbáà jẹ́ olùrànlọ́wọ́ fún apá kan.”[1]",
+  "footnotes": "1. Bí wọ́n bá gbìyànjú rẹ̀, wọ́n máa fìdí rẹmi."
 }

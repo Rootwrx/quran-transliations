@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "794",
-    "sura": "6",
-    "aya": "5",
-    "arabic_text": "فَقَدۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَسَوۡفَ يَأۡتِيهِمۡ أَنۢبَٰٓؤُاْ مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
-    "translation": "Kështu, ata e mohojnë të vërtetën, posa u shpallet, por së shpejti do t’u vijnë lajmet e asaj me të cilën talleshin.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 128,
+  "verse_key": "6:5",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَدۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَسَوۡفَ يَأۡتِيهِمۡ أَنۢبَٰٓؤُاْ مَا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+  "translation": "Kështu, ata e mohojnë të vërtetën, posa u shpallet, por së shpejti do t’u vijnë lajmet e asaj me të cilën talleshin.",
+  "footnotes": ""
 }

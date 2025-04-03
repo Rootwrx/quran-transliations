@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3953",
-    "sura": "37",
-    "aya": "165",
-    "arabic_text": "وَإِنَّا لَنَحۡنُ ٱلصَّآفُّونَ",
-    "translation": "තවද නියත වශයෙන්ම අප මය පෙළගැසෙන්නෝ.",
-    "footnotes": ""
-  }
+  "id": 165,
+  "verse_number": 165,
+  "page_number": 452,
+  "verse_key": "37:165",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّا لَنَحۡنُ ٱلصَّآفُّونَ",
+  "translation": "තවද නියත වශයෙන්ම අප මය පෙළගැසෙන්නෝ.",
+  "footnotes": ""
 }

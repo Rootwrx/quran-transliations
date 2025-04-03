@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "527",
-    "sura": "4",
-    "aya": "34",
-    "arabic_text": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعۡضَهُمۡ عَلَىٰ بَعۡضٖ وَبِمَآ أَنفَقُواْ مِنۡ أَمۡوَٰلِهِمۡۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٞ لِّلۡغَيۡبِ بِمَا حَفِظَ ٱللَّهُۚ وَٱلَّٰتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهۡجُرُوهُنَّ فِي ٱلۡمَضَاجِعِ وَٱضۡرِبُوهُنَّۖ فَإِنۡ أَطَعۡنَكُمۡ فَلَا تَبۡغُواْ عَلَيۡهِنَّ سَبِيلًاۗ إِنَّ ٱللَّهَ كَانَ عَلِيّٗا كَبِيرٗا",
-    "translation": "34. Los hombres son responsables del cuidado de las mujeres debido a las diferencias [físicas] que Dios ha puesto entre ambos, y por su obligación de mantenerlas con sus bienes. Las mujeres piadosas e íntegras obedecen a Dios y en ausencia de su marido se mantienen fieles, tal como Dios manda. A aquellas de quienes teman maltrato y animadversión, exhórtenlas, tomen distancia no compartiendo el lecho, y por último pongan un límite físico[1]; si les obedecen [en lo que Dios ordena], no les reclamen ni recriminen más. Dios es Sublime, Grande.",
-    "footnotes": "[1] Iniciando una separación de hecho por un tiempo, para que ambos tengan posibilidad de reflexionar. Según Ibn ‘Abbas, compañero del Profeta y famoso exégeta del Corán, la palabra árabe dáraba ضرب traducida aquí como “límite físico”, significa mostrar enojo y hacer saber la gravedad de la situación elevando el siwak سواك (palillo de madera utilizado como cepillo de dientes) para subrayar que las circunstancias pueden desembocar en un divorcio (Tafsir At-Tabari). Considero que no es correcto traducir esta palabra como “golpear” como acción de dar con violencia, ya que el Corán debe ser interpretado a la luz de las enseñanzas del Profeta r quien dijo: “Es derecho de la esposa… que no la insultes ni la golpees en el rostro”; en otra ocasión dijo: “Que no la insultes en su cara ni la golpees”. (Abu Dawud). Su esposa Aisha narró: “El mensajero de Dios jamás golpeó a alguien, ni mujer ni sirviente”. (Muslim)."
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 84,
+  "verse_key": "4:34",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 33,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلرِّجَالُ قَوَّٰمُونَ عَلَى ٱلنِّسَآءِ بِمَا فَضَّلَ ٱللَّهُ بَعۡضَهُمۡ عَلَىٰ بَعۡضٖ وَبِمَآ أَنفَقُواْ مِنۡ أَمۡوَٰلِهِمۡۚ فَٱلصَّٰلِحَٰتُ قَٰنِتَٰتٌ حَٰفِظَٰتٞ لِّلۡغَيۡبِ بِمَا حَفِظَ ٱللَّهُۚ وَٱلَّٰتِي تَخَافُونَ نُشُوزَهُنَّ فَعِظُوهُنَّ وَٱهۡجُرُوهُنَّ فِي ٱلۡمَضَاجِعِ وَٱضۡرِبُوهُنَّۖ فَإِنۡ أَطَعۡنَكُمۡ فَلَا تَبۡغُواْ عَلَيۡهِنَّ سَبِيلًاۗ إِنَّ ٱللَّهَ كَانَ عَلِيّٗا كَبِيرٗا",
+  "translation": "34. Los hombres son responsables del cuidado de las mujeres debido a las diferencias [físicas] que Dios ha puesto entre ambos, y por su obligación de mantenerlas con sus bienes. Las mujeres piadosas e íntegras obedecen a Dios y en ausencia de su marido se mantienen fieles, tal como Dios manda. A aquellas de quienes teman maltrato y animadversión, exhórtenlas, tomen distancia no compartiendo el lecho, y por último pongan un límite físico[1]; si les obedecen [en lo que Dios ordena], no les reclamen ni recriminen más. Dios es Sublime, Grande.",
+  "footnotes": "[1] Iniciando una separación de hecho por un tiempo, para que ambos tengan posibilidad de reflexionar. Según Ibn ‘Abbas, compañero del Profeta y famoso exégeta del Corán, la palabra árabe dáraba ضرب traducida aquí como “límite físico”, significa mostrar enojo y hacer saber la gravedad de la situación elevando el siwak سواك (palillo de madera utilizado como cepillo de dientes) para subrayar que las circunstancias pueden desembocar en un divorcio (Tafsir At-Tabari). Considero que no es correcto traducir esta palabra como “golpear” como acción de dar con violencia, ya que el Corán debe ser interpretado a la luz de las enseñanzas del Profeta r quien dijo: “Es derecho de la esposa… que no la insultes ni la golpees en el rostro”; en otra ocasión dijo: “Que no la insultes en su cara ni la golpees”. (Abu Dawud). Su esposa Aisha narró: “El mensajero de Dios jamás golpeó a alguien, ni mujer ni sirviente”. (Muslim)."
 }

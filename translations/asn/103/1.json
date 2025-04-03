@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6177",
-    "sura": "103",
-    "aya": "1",
-    "arabic_text": "وَٱلۡعَصۡرِ",
-    "translation": "(Nyankopͻn) de εberε no di nse sε:",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 601,
+  "verse_key": "103:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡعَصۡرِ",
+  "translation": "(Nyankopͻn) de εberε no di nse sε:",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6186",
-    "sura": "104",
-    "aya": "7",
-    "arabic_text": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
-    "translation": " 7. Which leaps up over the hearts,",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 601,
+  "verse_key": "104:7",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّتِي تَطَّلِعُ عَلَى ٱلۡأَفۡـِٔدَةِ",
+  "translation": " 7. Which leaps up over the hearts,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6162",
-    "sura": "101",
-    "aya": "5",
-    "arabic_text": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
-    "translation": "また山々が、梳かれた羊毛のようになる日。[1]",
-    "footnotes": "[1]　復活の日*の山々の変化については、洞窟章４７の訳注を参照。"
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 600,
+  "verse_key": "101:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
+  "translation": "また山々が、梳かれた羊毛のようになる日。[1]",
+  "footnotes": "[1]　復活の日*の山々の変化については、洞窟章４７の訳注を参照。"
 }

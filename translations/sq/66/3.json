@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5232",
-    "sura": "66",
-    "aya": "3",
-    "arabic_text": "وَإِذۡ أَسَرَّ ٱلنَّبِيُّ إِلَىٰ بَعۡضِ أَزۡوَٰجِهِۦ حَدِيثٗا فَلَمَّا نَبَّأَتۡ بِهِۦ وَأَظۡهَرَهُ ٱللَّهُ عَلَيۡهِ عَرَّفَ بَعۡضَهُۥ وَأَعۡرَضَ عَنۢ بَعۡضٖۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتۡ مَنۡ أَنۢبَأَكَ هَٰذَاۖ قَالَ نَبَّأَنِيَ ٱلۡعَلِيمُ ٱلۡخَبِيرُ",
-    "translation": "Kur i Dërguari i tregoi një sekret njërës prej grave të tij, ajo e hapi këtë fjalë. Allahu ia zbuloi këtë të Dërguarit, i cili një pjesë të këtij zbulimi ia tha (gruas që ia përhapi sekretin), kurse pjesën tjetër jo. Kur i Dërguari ia tregoi asaj të fshehtën, ajo e pyeti: “E kush të ka treguar ty?” Ai i tha: “Ma tregoi i Gjithëdijshmi, i Mirinformuari”.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 560,
+  "verse_key": "66:3",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ أَسَرَّ ٱلنَّبِيُّ إِلَىٰ بَعۡضِ أَزۡوَٰجِهِۦ حَدِيثٗا فَلَمَّا نَبَّأَتۡ بِهِۦ وَأَظۡهَرَهُ ٱللَّهُ عَلَيۡهِ عَرَّفَ بَعۡضَهُۥ وَأَعۡرَضَ عَنۢ بَعۡضٖۖ فَلَمَّا نَبَّأَهَا بِهِۦ قَالَتۡ مَنۡ أَنۢبَأَكَ هَٰذَاۖ قَالَ نَبَّأَنِيَ ٱلۡعَلِيمُ ٱلۡخَبِيرُ",
+  "translation": "Kur i Dërguari i tregoi një sekret njërës prej grave të tij, ajo e hapi këtë fjalë. Allahu ia zbuloi këtë të Dërguarit, i cili një pjesë të këtij zbulimi ia tha (gruas që ia përhapi sekretin), kurse pjesën tjetër jo. Kur i Dërguari ia tregoi asaj të fshehtën, ajo e pyeti: “E kush të ka treguar ty?” Ai i tha: “Ma tregoi i Gjithëdijshmi, i Mirinformuari”.",
+  "footnotes": ""
 }

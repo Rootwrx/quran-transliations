@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1554",
-    "sura": "11",
-    "aya": "81",
-    "arabic_text": "قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ بِقَرِيبٖ",
-    "translation": "Tɩ b [sãambã] yeele: \" Yaa foo a Lʋʋte, ad tõnd yaa fo Soabã tẽn-tʋmdba. B pa na n tõog n ta foom ye. Bɩ f yi yʋngã ne f nebã. La yãmb ned ba a yembr ra wẽneg n ges a poorẽ ye. Sã n pa fo pagã, bũmb ning sẽn na n paam neb a taabã na n paam-a lame. B sεkã yɑɑ beoog yibeoogo. Lɑ yibeoog pa pẽ sɩda?",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 230,
+  "verse_key": "11:81",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰلُوطُ إِنَّا رُسُلُ رَبِّكَ لَن يَصِلُوٓاْ إِلَيۡكَۖ فَأَسۡرِ بِأَهۡلِكَ بِقِطۡعٖ مِّنَ ٱلَّيۡلِ وَلَا يَلۡتَفِتۡ مِنكُمۡ أَحَدٌ إِلَّا ٱمۡرَأَتَكَۖ إِنَّهُۥ مُصِيبُهَا مَآ أَصَابَهُمۡۚ إِنَّ مَوۡعِدَهُمُ ٱلصُّبۡحُۚ أَلَيۡسَ ٱلصُّبۡحُ بِقَرِيبٖ",
+  "translation": "Tɩ b [sãambã] yeele: \" Yaa foo a Lʋʋte, ad tõnd yaa fo Soabã tẽn-tʋmdba. B pa na n tõog n ta foom ye. Bɩ f yi yʋngã ne f nebã. La yãmb ned ba a yembr ra wẽneg n ges a poorẽ ye. Sã n pa fo pagã, bũmb ning sẽn na n paam neb a taabã na n paam-a lame. B sεkã yɑɑ beoog yibeoogo. Lɑ yibeoog pa pẽ sɩda?",
+  "footnotes": ""
 }

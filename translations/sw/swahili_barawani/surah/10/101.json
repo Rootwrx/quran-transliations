@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1465",
-    "sura": "10",
-    "aya": "101",
-    "arabic_text": "قُلِ ٱنظُرُواْ مَاذَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَا تُغۡنِي ٱلۡأٓيَٰتُ وَٱلنُّذُرُ عَن قَوۡمٖ لَّا يُؤۡمِنُونَ",
-    "translation": "Sema: Angalieni yaliomo mbinguni na kwenye ardhi! Na Ishara zote na maonyo hayawafai kitu watu wasio amini.",
-    "footnotes": "Ewe Nabii! Waambie hawa wenye inda: Tazameni Ishara zilizo wazi zinazo onyesha Ungu na Upweke wa Mwenyezi Mungu zilio enea katika mbingu na ardhi. Lakini Ishara, juu ya wingi wake, na maonyo na yangawa na nguvu, hayawafai kitu watu wanao kataa na wala hawatumii akili zao. Hawa wanao kanya kama hawaamini, basi hawatoangalia. Aya hii na Aya nyingi nyenginezo zinaita watu wajifunze kwa kuangalia na kuzingatia (Observation). Na inaita watu wajifunze ilimu ya ulimwengu na viliomo ndani yake, kwani huo ulimwengu umedhalilishwa kwa ajili ya mwanaadamu. Kisha hizo Aya zinataka watu waingie katika ilimu za kujaribu (Experimental Science). Kwani hiyo ni njia ya kujua kwa kuona vinavyo onekana."
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 220,
+  "verse_key": "10:101",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱنظُرُواْ مَاذَا فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَا تُغۡنِي ٱلۡأٓيَٰتُ وَٱلنُّذُرُ عَن قَوۡمٖ لَّا يُؤۡمِنُونَ",
+  "translation": "Sema: Angalieni yaliomo mbinguni na kwenye ardhi! Na Ishara zote na maonyo hayawafai kitu watu wasio amini.",
+  "footnotes": "Ewe Nabii! Waambie hawa wenye inda: Tazameni Ishara zilizo wazi zinazo onyesha Ungu na Upweke wa Mwenyezi Mungu zilio enea katika mbingu na ardhi. Lakini Ishara, juu ya wingi wake, na maonyo na yangawa na nguvu, hayawafai kitu watu wanao kataa na wala hawatumii akili zao. Hawa wanao kanya kama hawaamini, basi hawatoangalia. Aya hii na Aya nyingi nyenginezo zinaita watu wajifunze kwa kuangalia na kuzingatia (Observation). Na inaita watu wajifunze ilimu ya ulimwengu na viliomo ndani yake, kwani huo ulimwengu umedhalilishwa kwa ajili ya mwanaadamu. Kisha hizo Aya zinataka watu waingie katika ilimu za kujaribu (Experimental Science). Kwani hiyo ni njia ya kujua kwa kuona vinavyo onekana."
 }

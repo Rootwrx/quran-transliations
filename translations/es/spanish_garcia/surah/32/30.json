@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3533",
-    "sura": "32",
-    "aya": "30",
-    "arabic_text": "فَأَعۡرِضۡ عَنۡهُمۡ وَٱنتَظِرۡ إِنَّهُم مُّنتَظِرُونَ",
-    "translation": "30. Apártate de ellos y aguarda [pacientemente el designio de Dios], y sabe que ellos seguirán acechándote.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 417,
+  "verse_key": "32:30",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَعۡرِضۡ عَنۡهُمۡ وَٱنتَظِرۡ إِنَّهُم مُّنتَظِرُونَ",
+  "translation": "30. Apártate de ellos y aguarda [pacientemente el designio de Dios], y sabe que ellos seguirán acechándote.",
+  "footnotes": ""
 }

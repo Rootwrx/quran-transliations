@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1776",
-    "sura": "14",
-    "aya": "26",
-    "arabic_text": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٖ كَشَجَرَةٍ خَبِيثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارٖ",
-    "translation": "26. Tusaalaha Kelmedda xunna waa sida geed xun8 laga rujiyey dhulka korkiisa oo aan laheyn sugnaan.",
-    "footnotes": "8. Waxaa soo galaya kelmedda xun: Gaalnimada, shirkiga, iyo qowl kasta oo xun, iyo xumo falka."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 259,
+  "verse_key": "14:26",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 103,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَثَلُ كَلِمَةٍ خَبِيثَةٖ كَشَجَرَةٍ خَبِيثَةٍ ٱجۡتُثَّتۡ مِن فَوۡقِ ٱلۡأَرۡضِ مَا لَهَا مِن قَرَارٖ",
+  "translation": "26. Tusaalaha Kelmedda xunna waa sida geed xun8 laga rujiyey dhulka korkiisa oo aan laheyn sugnaan.",
+  "footnotes": "8. Waxaa soo galaya kelmedda xun: Gaalnimada, shirkiga, iyo qowl kasta oo xun, iyo xumo falka."
 }

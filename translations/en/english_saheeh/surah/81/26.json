@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5826",
-    "sura": "81",
-    "aya": "26",
-    "arabic_text": "فَأَيۡنَ تَذۡهَبُونَ",
-    "translation": "(26) So where are you going?[1874]",
-    "footnotes": "[1874]- In your denial of the Qur’ān and in your accusations against the Prophet (ﷺ) . The meaning is essentially \"Surely, you have strayed far from Allāh's path.\""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 586,
+  "verse_key": "81:26",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَيۡنَ تَذۡهَبُونَ",
+  "translation": "(26) So where are you going?[1874]",
+  "footnotes": "[1874]- In your denial of the Qur’ān and in your accusations against the Prophet (ﷺ) . The meaning is essentially \"Surely, you have strayed far from Allāh's path.\""
 }

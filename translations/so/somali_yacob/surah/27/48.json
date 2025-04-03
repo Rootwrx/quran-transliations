@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3207",
-    "sura": "27",
-    "aya": "48",
-    "arabic_text": "وَكَانَ فِي ٱلۡمَدِينَةِ تِسۡعَةُ رَهۡطٖ يُفۡسِدُونَ فِي ٱلۡأَرۡضِ وَلَا يُصۡلِحُونَ",
-    "translation": "48. Waxaa magaalada ku sugnaana sagaal nin (oo ah wiilashii madaxdoodii)16, ku fala fasahaad arlada17, wax halleeya aan wax hagaajin.",
-    "footnotes": "16. Mufasiriinta qaarkood waxay yidhaahdeen waxaa loola jeedaa magaalada halkan magaaladii qolodii Thamuud, waana magaaladii Al-Xijir – dhadhaab. \n17. Oo ahaa madaxdoodii iyo wiilasha ay dhaleen oo diinta colaadinayey."
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 381,
+  "verse_key": "27:48",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَانَ فِي ٱلۡمَدِينَةِ تِسۡعَةُ رَهۡطٖ يُفۡسِدُونَ فِي ٱلۡأَرۡضِ وَلَا يُصۡلِحُونَ",
+  "translation": "48. Waxaa magaalada ku sugnaana sagaal nin (oo ah wiilashii madaxdoodii)16, ku fala fasahaad arlada17, wax halleeya aan wax hagaajin.",
+  "footnotes": "16. Mufasiriinta qaarkood waxay yidhaahdeen waxaa loola jeedaa magaalada halkan magaaladii qolodii Thamuud, waana magaaladii Al-Xijir – dhadhaab. \n17. Oo ahaa madaxdoodii iyo wiilasha ay dhaleen oo diinta colaadinayey."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4195",
-    "sura": "40",
-    "aya": "62",
-    "arabic_text": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ خَٰلِقُ كُلِّ شَيۡءٖ لَّآ إِلَٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُؤۡفَكُونَ",
-    "translation": "To vam je, eto, Allah, Gospodar vaš, Stvoritelj svega, drugog boga osim Njega nema, pa kuda se onda odmećete?! ",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 474,
+  "verse_key": "40:62",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ خَٰلِقُ كُلِّ شَيۡءٖ لَّآ إِلَٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُؤۡفَكُونَ",
+  "translation": "To vam je, eto, Allah, Gospodar vaš, Stvoritelj svega, drugog boga osim Njega nema, pa kuda se onda odmećete?! ",
+  "footnotes": ""
 }

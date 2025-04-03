@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4323",
-    "sura": "42",
-    "aya": "51",
-    "arabic_text": "۞ وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحۡيًا أَوۡ مِن وَرَآيِٕ حِجَابٍ أَوۡ يُرۡسِلَ رَسُولٗا فَيُوحِيَ بِإِذۡنِهِۦ مَا يَشَآءُۚ إِنَّهُۥ عَلِيٌّ حَكِيمٞ",
-    "translation": "51. Dios no habla a las personas excepto por inspiración o tras un velo o enviando un Mensajero [el ángel Gabriel] para transmitirle por Su voluntad lo que Él quiera de la revelación. Él es Sublime, Sabio.",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 488,
+  "verse_key": "42:51",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَمَا كَانَ لِبَشَرٍ أَن يُكَلِّمَهُ ٱللَّهُ إِلَّا وَحۡيًا أَوۡ مِن وَرَآيِٕ حِجَابٍ أَوۡ يُرۡسِلَ رَسُولٗا فَيُوحِيَ بِإِذۡنِهِۦ مَا يَشَآءُۚ إِنَّهُۥ عَلِيٌّ حَكِيمٞ",
+  "translation": "51. Dios no habla a las personas excepto por inspiración o tras un velo o enviando un Mensajero [el ángel Gabriel] para transmitirle por Su voluntad lo que Él quiera de la revelación. Él es Sublime, Sabio.",
+  "footnotes": ""
 }

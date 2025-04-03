@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1903",
-    "sura": "16",
-    "aya": "2",
-    "arabic_text": "يُنَزِّلُ ٱلۡمَلَٰٓئِكَةَ بِٱلرُّوحِ مِنۡ أَمۡرِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦٓ أَنۡ أَنذِرُوٓاْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ",
-    "translation": "(Allāhu) ń fi àṣẹ Rẹ̀ sọ mọlāika (Jibrīl) kalẹ̀ láti máa mú ìmísí wá díẹ̀díẹ̀ fún ẹnikẹ́ni tí Ó bá fẹ́ (bẹ́ẹ̀ fún) nínú àwọn ẹrúsìn Rẹ̀ nítorí kí ẹ lè fi ṣe ìkìlọ̀ pé: “Dájúdájú kò sí ọlọ́hun kan tí ẹ gbọ́dọ̀ jọ́sìn fún ní ọ̀nà òdodo àyàfi Èmi. Nítorí náà, ẹ bẹ̀rù Mi.”",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 267,
+  "verse_key": "16:2",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُنَزِّلُ ٱلۡمَلَٰٓئِكَةَ بِٱلرُّوحِ مِنۡ أَمۡرِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦٓ أَنۡ أَنذِرُوٓاْ أَنَّهُۥ لَآ إِلَٰهَ إِلَّآ أَنَا۠ فَٱتَّقُونِ",
+  "translation": "(Allāhu) ń fi àṣẹ Rẹ̀ sọ mọlāika (Jibrīl) kalẹ̀ láti máa mú ìmísí wá díẹ̀díẹ̀ fún ẹnikẹ́ni tí Ó bá fẹ́ (bẹ́ẹ̀ fún) nínú àwọn ẹrúsìn Rẹ̀ nítorí kí ẹ lè fi ṣe ìkìlọ̀ pé: “Dájúdájú kò sí ọlọ́hun kan tí ẹ gbọ́dọ̀ jọ́sìn fún ní ọ̀nà òdodo àyàfi Èmi. Nítorí náà, ẹ bẹ̀rù Mi.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4522",
-    "sura": "46",
-    "aya": "12",
-    "arabic_text": "وَمِن قَبۡلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامٗا وَرَحۡمَةٗۚ وَهَٰذَا كِتَٰبٞ مُّصَدِّقٞ لِّسَانًا عَرَبِيّٗا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُواْ وَبُشۡرَىٰ لِلۡمُحۡسِنِينَ",
-    "translation": "Tírà (Ànábì) Mūsā sì ti wá ṣíwájú rẹ̀, tí ó jẹ́ tírà tí wọ́n ń tẹ̀lé, ó sì jẹ́ ìkẹ́ (fún wọn. Al-Ƙur’ān) yìí tún ni Tírà kan tó ń jẹ́rìí sí òdodo ní èdè Lárúbáwá nítorí kí ó lè ṣèkìlọ̀ fún àwọn tó ṣàbòsí, (ó sì jẹ́) ìró ìdùnnú fún àwọn olùṣe-rere.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 503,
+  "verse_key": "46:12",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِن قَبۡلِهِۦ كِتَٰبُ مُوسَىٰٓ إِمَامٗا وَرَحۡمَةٗۚ وَهَٰذَا كِتَٰبٞ مُّصَدِّقٞ لِّسَانًا عَرَبِيّٗا لِّيُنذِرَ ٱلَّذِينَ ظَلَمُواْ وَبُشۡرَىٰ لِلۡمُحۡسِنِينَ",
+  "translation": "Tírà (Ànábì) Mūsā sì ti wá ṣíwájú rẹ̀, tí ó jẹ́ tírà tí wọ́n ń tẹ̀lé, ó sì jẹ́ ìkẹ́ (fún wọn. Al-Ƙur’ān) yìí tún ni Tírà kan tó ń jẹ́rìí sí òdodo ní èdè Lárúbáwá nítorí kí ó lè ṣèkìlọ̀ fún àwọn tó ṣàbòsí, (ó sì jẹ́) ìró ìdùnnú fún àwọn olùṣe-rere.",
+  "footnotes": ""
 }

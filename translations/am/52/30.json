@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4765",
-    "sura": "52",
-    "aya": "30",
-    "arabic_text": "أَمۡ يَقُولُونَ شَاعِرٞ نَّتَرَبَّصُ بِهِۦ رَيۡبَ ٱلۡمَنُونِ",
-    "translation": "ይልቁንም የሞትን አደጋ በእርሱ የምንጠባበቅበት የኾነ ባለ ቅኔ ነው ይላሉን?",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 524,
+  "verse_key": "52:30",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ يَقُولُونَ شَاعِرٞ نَّتَرَبَّصُ بِهِۦ رَيۡبَ ٱلۡمَنُونِ",
+  "translation": "ይልቁንም የሞትን አደጋ በእርሱ የምንጠባበቅበት የኾነ ባለ ቅኔ ነው ይላሉን?",
+  "footnotes": ""
 }

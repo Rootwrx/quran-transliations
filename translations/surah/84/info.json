@@ -1,0 +1,27 @@
+{
+  "number": 84,
+  "name": {
+    "ar": "الانشقاق",
+    "en": "The Splitting Open",
+    "transliteration": "Al-Inshiqaq"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 83,
+  "bismillah_pre": true,
+  "verses_count": 25,
+  "words_count": 108,
+  "letters_count": 436,
+  "pages": [
+    589,
+    589
+  ],
+  "name_simple": "Al-Inshiqaq",
+  "name_complex": "Al-'Inshiqāq",
+  "name_arabic": "الإنشقاق",
+  "translated_name": "The Sundering",
+  "start_page": 589,
+  "end_page": 590
+}

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3337",
-    "sura": "28",
-    "aya": "85",
-    "arabic_text": "إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٖۚ قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "Hakika aliye kulazimisha kuifuata Qur'ani hapana shaka atakurudisha pahala pa marejeo. Sema: Mola wangu Mlezi ndiye anaye mjua zaidi mwenye kuja na uwongofu, na nani aliyomo katika upotofu ulio dhaahiri.",
-    "footnotes": "Hakika Mwenyezi Mungu aliye kuteremshia Qur'ani na akakulazimisha uifikishe kwa watu na ushikane nayo hapana shaka atakurudisha kwenye miadi, nako ni Siku ya Kiyama, ili apambanue baina yako na wale wanao kukadhibisha. Ewe Mtume! Waambie makafiri: Mola wangu Mlezi ndiye anaye jua kwa ujuzi usio pikuliwa na yeyote, nani aliye mpa uwongofu na uwongozi, na nani aliye tumbukia katika upotovu unao tambulikana na kila mwenye akili nzima."
-  }
+  "id": 85,
+  "verse_number": 85,
+  "page_number": 396,
+  "verse_key": "28:85",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 158,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِي فَرَضَ عَلَيۡكَ ٱلۡقُرۡءَانَ لَرَآدُّكَ إِلَىٰ مَعَادٖۚ قُل رَّبِّيٓ أَعۡلَمُ مَن جَآءَ بِٱلۡهُدَىٰ وَمَنۡ هُوَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "Hakika aliye kulazimisha kuifuata Qur'ani hapana shaka atakurudisha pahala pa marejeo. Sema: Mola wangu Mlezi ndiye anaye mjua zaidi mwenye kuja na uwongofu, na nani aliyomo katika upotofu ulio dhaahiri.",
+  "footnotes": "Hakika Mwenyezi Mungu aliye kuteremshia Qur'ani na akakulazimisha uifikishe kwa watu na ushikane nayo hapana shaka atakurudisha kwenye miadi, nako ni Siku ya Kiyama, ili apambanue baina yako na wale wanao kukadhibisha. Ewe Mtume! Waambie makafiri: Mola wangu Mlezi ndiye anaye jua kwa ujuzi usio pikuliwa na yeyote, nani aliye mpa uwongofu na uwongozi, na nani aliye tumbukia katika upotovu unao tambulikana na kila mwenye akili nzima."
 }

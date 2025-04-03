@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6178",
-    "sura": "103",
-    "aya": "2",
-    "arabic_text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
-    "translation": "ߤߊ߲߫ ߸ ߡߐ߱ ߦߋ߫ ߓߐ߬ߣߐ ߟߋ߬ ߘߐ߫ ߘߋ߬",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 601,
+  "verse_key": "103:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ",
+  "translation": "ߤߊ߲߫ ߸ ߡߐ߱ ߦߋ߫ ߓߐ߬ߣߐ ߟߋ߬ ߘߐ߫ ߘߋ߬",
+  "footnotes": ""
 }

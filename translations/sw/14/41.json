@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1791",
-    "sura": "14",
-    "aya": "41",
-    "arabic_text": "رَبَّنَا ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِلۡمُؤۡمِنِينَ يَوۡمَ يَقُومُ ٱلۡحِسَابُ",
-    "translation": "Mola wetu! Unighufirie mimi na wazazi wangu wote wawili, na Waumini, siku ya kusimama hisabu.",
-    "footnotes": "Ewe Mola wetu Mlezi! Nisamehe madhambi yaliyo niponyoka, na wasamehe wazazi wangu, na Waumini wote, Siku itapo hakikishwa hisabu, na baadae ikawa malipo."
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 260,
+  "verse_key": "14:41",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَبَّنَا ٱغۡفِرۡ لِي وَلِوَٰلِدَيَّ وَلِلۡمُؤۡمِنِينَ يَوۡمَ يَقُومُ ٱلۡحِسَابُ",
+  "translation": "Mola wetu! Unighufirie mimi na wazazi wangu wote wawili, na Waumini, siku ya kusimama hisabu.",
+  "footnotes": "Ewe Mola wetu Mlezi! Nisamehe madhambi yaliyo niponyoka, na wasamehe wazazi wangu, na Waumini wote, Siku itapo hakikishwa hisabu, na baadae ikawa malipo."
 }

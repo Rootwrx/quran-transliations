@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1517",
-    "sura": "11",
-    "aya": "44",
-    "arabic_text": "وَقِيلَ يَٰٓأَرۡضُ ٱبۡلَعِي مَآءَكِ وَيَٰسَمَآءُ أَقۡلِعِي وَغِيضَ ٱلۡمَآءُ وَقُضِيَ ٱلۡأَمۡرُ وَٱسۡتَوَتۡ عَلَى ٱلۡجُودِيِّۖ وَقِيلَ بُعۡدٗا لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
-    "translation": "44.Nabii Nuuc mari finqiteek lakal Yalli baaxok:baaxoy isi lee fuuqaay Qaraanow isi rob eysed iyye, lee fuuqumteeh aqut gexxeeh caagid Nabii Nuuc marih finqat gaba kaleeh doynik Al-Juudiyyi deqsitta qaleh xaqul teede, Yalli daalimiinih yan maray Yalla nummayseweeh umaanct caddok tatrel finqaa kee Yalli isi Racmatak ken yayxeerem keenil tanay iyyen.",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 226,
+  "verse_key": "11:44",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقِيلَ يَٰٓأَرۡضُ ٱبۡلَعِي مَآءَكِ وَيَٰسَمَآءُ أَقۡلِعِي وَغِيضَ ٱلۡمَآءُ وَقُضِيَ ٱلۡأَمۡرُ وَٱسۡتَوَتۡ عَلَى ٱلۡجُودِيِّۖ وَقِيلَ بُعۡدٗا لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+  "translation": "44.Nabii Nuuc mari finqiteek lakal Yalli baaxok:baaxoy isi lee fuuqaay Qaraanow isi rob eysed iyye, lee fuuqumteeh aqut gexxeeh caagid Nabii Nuuc marih finqat gaba kaleeh doynik Al-Juudiyyi deqsitta qaleh xaqul teede, Yalli daalimiinih yan maray Yalla nummayseweeh umaanct caddok tatrel finqaa kee Yalli isi Racmatak ken yayxeerem keenil tanay iyyen.",
+  "footnotes": ""
 }

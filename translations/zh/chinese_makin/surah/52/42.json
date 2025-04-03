@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4777",
-    "sura": "52",
-    "aya": "42",
-    "arabic_text": "أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ",
-    "translation": "难道他们欲用计谋吗？不信道者，将自中其计。",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 525,
+  "verse_key": "52:42",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ يُرِيدُونَ كَيۡدٗاۖ فَٱلَّذِينَ كَفَرُواْ هُمُ ٱلۡمَكِيدُونَ",
+  "translation": "难道他们欲用计谋吗？不信道者，将自中其计。",
+  "footnotes": ""
 }

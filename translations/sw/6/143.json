@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "932",
-    "sura": "6",
-    "aya": "143",
-    "arabic_text": "ثَمَٰنِيَةَ أَزۡوَٰجٖۖ مِّنَ ٱلضَّأۡنِ ٱثۡنَيۡنِ وَمِنَ ٱلۡمَعۡزِ ٱثۡنَيۡنِۗ قُلۡ ءَآلذَّكَرَيۡنِ حَرَّمَ أَمِ ٱلۡأُنثَيَيۡنِ أَمَّا ٱشۡتَمَلَتۡ عَلَيۡهِ أَرۡحَامُ ٱلۡأُنثَيَيۡنِۖ نَبِّـُٔونِي بِعِلۡمٍ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "Amekuumbieni namna nane za wanyama: Wawili katika kondoo, na wawili katika mbuzi. Sema je, ameharimisha yote madume wawili au majike wawili, au waliomo matumboni mwa majike yote mawili? Niambieni kwa ilimu ikiwa nyinyi mnasema kweli.",
-    "footnotes": "Mwenyezi Mungu ameumba katika kila namna ya nyama hoa dume na jike. Hizo basi ni namna nane. Kondoo namna mbili, mbuzi namna mbili. (ngamia na ng'ombe wametajwa katika Aya inayo fuata.) Ewe Muhammad! Waambie washirikina kukanya hayo waliyo yaharimisha: Nini sababu ya kuharimisha katika hawa kama mnavyo dai? Ni kwa kuwa madume? Au kwa kuwa ni kuwa matumboni ya mama zao? Hayo hayawezi kuwa hivyo, kwa sababu nyinyi hamkuharimisha watoto waliomo tumboni kabisa!! Nambieni kwa mategemeo baraabara, ikiwa nyinyi mnasema kweli katika kuhalalisha na kuharimisha."
-  }
+  "id": 143,
+  "verse_number": 143,
+  "page_number": 147,
+  "verse_key": "6:143",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 59,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثَمَٰنِيَةَ أَزۡوَٰجٖۖ مِّنَ ٱلضَّأۡنِ ٱثۡنَيۡنِ وَمِنَ ٱلۡمَعۡزِ ٱثۡنَيۡنِۗ قُلۡ ءَآلذَّكَرَيۡنِ حَرَّمَ أَمِ ٱلۡأُنثَيَيۡنِ أَمَّا ٱشۡتَمَلَتۡ عَلَيۡهِ أَرۡحَامُ ٱلۡأُنثَيَيۡنِۖ نَبِّـُٔونِي بِعِلۡمٍ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "Amekuumbieni namna nane za wanyama: Wawili katika kondoo, na wawili katika mbuzi. Sema je, ameharimisha yote madume wawili au majike wawili, au waliomo matumboni mwa majike yote mawili? Niambieni kwa ilimu ikiwa nyinyi mnasema kweli.",
+  "footnotes": "Mwenyezi Mungu ameumba katika kila namna ya nyama hoa dume na jike. Hizo basi ni namna nane. Kondoo namna mbili, mbuzi namna mbili. (ngamia na ng'ombe wametajwa katika Aya inayo fuata.) Ewe Muhammad! Waambie washirikina kukanya hayo waliyo yaharimisha: Nini sababu ya kuharimisha katika hawa kama mnavyo dai? Ni kwa kuwa madume? Au kwa kuwa ni kuwa matumboni ya mama zao? Hayo hayawezi kuwa hivyo, kwa sababu nyinyi hamkuharimisha watoto waliomo tumboni kabisa!! Nambieni kwa mategemeo baraabara, ikiwa nyinyi mnasema kweli katika kuhalalisha na kuharimisha."
 }

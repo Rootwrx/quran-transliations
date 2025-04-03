@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2187",
-    "sura": "18",
-    "aya": "47",
-    "arabic_text": "وَيَوۡمَ نُسَيِّرُ ٱلۡجِبَالَ وَتَرَى ٱلۡأَرۡضَ بَارِزَةٗ وَحَشَرۡنَٰهُمۡ فَلَمۡ نُغَادِرۡ مِنۡهُمۡ أَحَدٗا",
-    "translation": "Na siku tutapo iondoa milima na ukaiona ardhi iwazi, na tukawafufua - wala hatutamwacha hata mmoja kati yao",
-    "footnotes": "Na ewe Mtume! Waonye watu kwa Siku ambayo vyote viliopo vitaondoka. Milima itaondoka, na mtaiona ardhi tupu wazi imetanda, hapana chochote kilicho kuwapo cha kuisitiri. Na tutawafufua watu kwa ajili ya hisabu, na hatutamwacha hata mmoja kati yao."
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 299,
+  "verse_key": "18:47",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 119,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَوۡمَ نُسَيِّرُ ٱلۡجِبَالَ وَتَرَى ٱلۡأَرۡضَ بَارِزَةٗ وَحَشَرۡنَٰهُمۡ فَلَمۡ نُغَادِرۡ مِنۡهُمۡ أَحَدٗا",
+  "translation": "Na siku tutapo iondoa milima na ukaiona ardhi iwazi, na tukawafufua - wala hatutamwacha hata mmoja kati yao",
+  "footnotes": "Na ewe Mtume! Waonye watu kwa Siku ambayo vyote viliopo vitaondoka. Milima itaondoka, na mtaiona ardhi tupu wazi imetanda, hapana chochote kilicho kuwapo cha kuisitiri. Na tutawafufua watu kwa ajili ya hisabu, na hatutamwacha hata mmoja kati yao."
 }

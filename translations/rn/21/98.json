@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2581",
-    "sura": "21",
-    "aya": "98",
-    "arabic_text": "إِنَّكُمۡ وَمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ حَصَبُ جَهَنَّمَ أَنتُمۡ لَهَا وَٰرِدُونَ",
-    "translation": "Bagarariji! Mu vy’ukuri, mwebwe hamwe n’ibigirwamana vy’ubwoko bwose[16] mwasenga mu gishingo c’Imana Allah, ni ibicanirizo vy’umuriro wa Jahannamu, mwebwe mwese rero mutegerezwa kuwinjira;",
-    "footnotes": "[16] Ibigirwamana vy'ubwoko bwose, ni ico cose gisengwa mu gishingo c’Imana Allah. Abasenga abamalayika canke Intumwa nka Uzayru na Isa mwene Mariyamu, abo bazohanwa bonyene gusa kuko basengwa batabinezererewe."
-  }
+  "id": 98,
+  "verse_number": 98,
+  "page_number": 330,
+  "verse_key": "21:98",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّكُمۡ وَمَا تَعۡبُدُونَ مِن دُونِ ٱللَّهِ حَصَبُ جَهَنَّمَ أَنتُمۡ لَهَا وَٰرِدُونَ",
+  "translation": "Bagarariji! Mu vy’ukuri, mwebwe hamwe n’ibigirwamana vy’ubwoko bwose[16] mwasenga mu gishingo c’Imana Allah, ni ibicanirizo vy’umuriro wa Jahannamu, mwebwe mwese rero mutegerezwa kuwinjira;",
+  "footnotes": "[16] Ibigirwamana vy'ubwoko bwose, ni ico cose gisengwa mu gishingo c’Imana Allah. Abasenga abamalayika canke Intumwa nka Uzayru na Isa mwene Mariyamu, abo bazohanwa bonyene gusa kuko basengwa batabinezererewe."
 }

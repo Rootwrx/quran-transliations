@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2288",
-    "sura": "19",
-    "aya": "38",
-    "arabic_text": "أَسۡمِعۡ بِهِمۡ وَأَبۡصِرۡ يَوۡمَ يَأۡتُونَنَا لَٰكِنِ ٱلظَّٰلِمُونَ ٱلۡيَوۡمَ فِي ضَلَٰلٖ مُّبِينٖ",
-    "translation": "Kí ni wọn kò níí gbọ́, kí sì ni wọn kò níí rí ní ọjọ́ tí wọn yóò wá bá Wa![1] Ṣùgbọ́n àwọn alábòsí ní ọjọ́ òní (ní ilé ayé) wà nínú ìṣìnà pọ́nńbélé.",
-    "footnotes": "1. Ìyẹn ni pé, bí àwọn aláìgbàgbọ́ kò bá lo ìgbọ́rọ̀ wọn fún gbígbọ́ òdodo, tí wọn kò sì lo ìríran wọn fún rírí òdodo ní ilé ayé yìí, wọn yóò fi ìgbọ́rọ̀ wọn gbọ́ òdodo ketekete, wọn yó sì fi ìríran wọn rí òdodo kedere pẹ̀lú àbámọ̀ ní ọ̀run nítorí pé, Ọjọ́ ẹ̀san ni ọjọ́ náà."
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 307,
+  "verse_key": "19:38",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَسۡمِعۡ بِهِمۡ وَأَبۡصِرۡ يَوۡمَ يَأۡتُونَنَا لَٰكِنِ ٱلظَّٰلِمُونَ ٱلۡيَوۡمَ فِي ضَلَٰلٖ مُّبِينٖ",
+  "translation": "Kí ni wọn kò níí gbọ́, kí sì ni wọn kò níí rí ní ọjọ́ tí wọn yóò wá bá Wa![1] Ṣùgbọ́n àwọn alábòsí ní ọjọ́ òní (ní ilé ayé) wà nínú ìṣìnà pọ́nńbélé.",
+  "footnotes": "1. Ìyẹn ni pé, bí àwọn aláìgbàgbọ́ kò bá lo ìgbọ́rọ̀ wọn fún gbígbọ́ òdodo, tí wọn kò sì lo ìríran wọn fún rírí òdodo ní ilé ayé yìí, wọn yóò fi ìgbọ́rọ̀ wọn gbọ́ òdodo ketekete, wọn yó sì fi ìríran wọn rí òdodo kedere pẹ̀lú àbámọ̀ ní ọ̀run nítorí pé, Ọjọ́ ẹ̀san ni ọjọ́ náà."
 }

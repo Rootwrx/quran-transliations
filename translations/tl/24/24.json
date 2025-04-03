@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2815",
-    "sura": "24",
-    "aya": "24",
-    "arabic_text": "يَوۡمَ تَشۡهَدُ عَلَيۡهِمۡ أَلۡسِنَتُهُمۡ وَأَيۡدِيهِمۡ وَأَرۡجُلُهُم بِمَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "sa Araw na sasaksi laban sa kanila ang mga dila nila, ang mga kamay nila, at ang mga paa nila sa dati nilang ginagawa.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 352,
+  "verse_key": "24:24",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 141,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ تَشۡهَدُ عَلَيۡهِمۡ أَلۡسِنَتُهُمۡ وَأَيۡدِيهِمۡ وَأَرۡجُلُهُم بِمَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "sa Araw na sasaksi laban sa kanila ang mga dila nila, ang mga kamay nila, at ang mga paa nila sa dati nilang ginagawa.",
+  "footnotes": ""
 }

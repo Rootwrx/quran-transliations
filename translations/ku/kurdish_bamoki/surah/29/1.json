@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3341",
-    "sura": "29",
-    "aya": "1",
-    "arabic_text": "الٓمٓ",
-    "translation": "بە (ئەلیف ، لام ، میم) دەخوێنرێتەوە خوا زاناترە بە ماناکەی بۆ زانیاری زیاتر سەیری سەرەتای سورەتی (البقرة) بکە\n",
-    "footnotes": null
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 396,
+  "verse_key": "29:1",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓ",
+  "translation": "بە (ئەلیف ، لام ، میم) دەخوێنرێتەوە خوا زاناترە بە ماناکەی بۆ زانیاری زیاتر سەیری سەرەتای سورەتی (البقرة) بکە\n",
+  "footnotes": null
 }

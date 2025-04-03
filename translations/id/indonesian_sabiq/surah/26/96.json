@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3028",
-    "sura": "26",
-    "aya": "96",
-    "arabic_text": "قَالُواْ وَهُمۡ فِيهَا يَخۡتَصِمُونَ",
-    "translation": "96. Mereka berkata sambil bertengkar di dalamnya (neraka),",
-    "footnotes": ""
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 371,
+  "verse_key": "26:96",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ وَهُمۡ فِيهَا يَخۡتَصِمُونَ",
+  "translation": "96. Mereka berkata sambil bertengkar di dalamnya (neraka),",
+  "footnotes": ""
 }

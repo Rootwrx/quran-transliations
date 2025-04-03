@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4346",
-    "sura": "43",
-    "aya": "21",
-    "arabic_text": "أَمۡ ءَاتَيۡنَٰهُمۡ كِتَٰبٗا مِّن قَبۡلِهِۦ فَهُم بِهِۦ مُسۡتَمۡسِكُونَ",
-    "translation": "难道以前我曾赐他们一本天经，而他们是坚持那本天经的。",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 490,
+  "verse_key": "43:21",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ ءَاتَيۡنَٰهُمۡ كِتَٰبٗا مِّن قَبۡلِهِۦ فَهُم بِهِۦ مُسۡتَمۡسِكُونَ",
+  "translation": "难道以前我曾赐他们一本天经，而他们是坚持那本天经的。",
+  "footnotes": ""
 }

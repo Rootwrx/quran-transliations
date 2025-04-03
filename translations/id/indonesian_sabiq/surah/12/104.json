@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1700",
-    "sura": "12",
-    "aya": "104",
-    "arabic_text": "وَمَا تَسۡـَٔلُهُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۚ إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
-    "translation": "104. Dan engkau tidak meminta imbalan apa pun kepada mereka (terhadap seruanmu itu), sebab (seruan) itu adalah pengajaran bagi seluruh alam.",
-    "footnotes": ""
-  }
+  "id": 104,
+  "verse_number": 104,
+  "page_number": 248,
+  "verse_key": "12:104",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تَسۡـَٔلُهُمۡ عَلَيۡهِ مِنۡ أَجۡرٍۚ إِنۡ هُوَ إِلَّا ذِكۡرٞ لِّلۡعَٰلَمِينَ",
+  "translation": "104. Dan engkau tidak meminta imbalan apa pun kepada mereka (terhadap seruanmu itu), sebab (seruan) itu adalah pengajaran bagi seluruh alam.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2233",
-    "sura": "18",
-    "aya": "93",
-    "arabic_text": "حَتَّىٰٓ إِذَا بَلَغَ بَيۡنَ ٱلسَّدَّيۡنِ وَجَدَ مِن دُونِهِمَا قَوۡمٗا لَّا يَكَادُونَ يَفۡقَهُونَ قَوۡلٗا",
-    "translation": "Hata alipo fika baina ya milima miwili, alikuta nyuma yake watu ambao takriban hawakuwa wanafahamu lolote.",
-    "footnotes": "Mpaka akafika - katika safari yake ya tatu - pahala mbali baina ya milima miwili mirefu...Na huko akakuta watu ambao hawafahamu wanalo ambiwa ila kwa uzito na mashaka. Hiyo ngome au boma baina ya milima miwili iliyo tajwa katika maelezo ya juu ni milima ya Azarbajan na Arminia, na kauli nyingine ni kaskazini ya mwisho katika jimbo la Turkistan."
-  }
+  "id": 93,
+  "verse_number": 93,
+  "page_number": 303,
+  "verse_key": "18:93",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا بَلَغَ بَيۡنَ ٱلسَّدَّيۡنِ وَجَدَ مِن دُونِهِمَا قَوۡمٗا لَّا يَكَادُونَ يَفۡقَهُونَ قَوۡلٗا",
+  "translation": "Hata alipo fika baina ya milima miwili, alikuta nyuma yake watu ambao takriban hawakuwa wanafahamu lolote.",
+  "footnotes": "Mpaka akafika - katika safari yake ya tatu - pahala mbali baina ya milima miwili mirefu...Na huko akakuta watu ambao hawafahamu wanalo ambiwa ila kwa uzito na mashaka. Hiyo ngome au boma baina ya milima miwili iliyo tajwa katika maelezo ya juu ni milima ya Azarbajan na Arminia, na kauli nyingine ni kaskazini ya mwisho katika jimbo la Turkistan."
 }

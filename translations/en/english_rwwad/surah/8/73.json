@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1233",
-    "sura": "8",
-    "aya": "73",
-    "arabic_text": "وَٱلَّذِينَ كَفَرُواْ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٍۚ إِلَّا تَفۡعَلُوهُ تَكُن فِتۡنَةٞ فِي ٱلۡأَرۡضِ وَفَسَادٞ كَبِيرٞ",
-    "translation": "Those who disbelieve are protectors of one another[46]. Unless you do likewise, there will be persecution in the land and great corruption.",
-    "footnotes": "[46] i.e., taking one another as allies and abandoning all bonds with the disbelievers."
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 186,
+  "verse_key": "8:73",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ كَفَرُواْ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٍۚ إِلَّا تَفۡعَلُوهُ تَكُن فِتۡنَةٞ فِي ٱلۡأَرۡضِ وَفَسَادٞ كَبِيرٞ",
+  "translation": "Those who disbelieve are protectors of one another[46]. Unless you do likewise, there will be persecution in the land and great corruption.",
+  "footnotes": "[46] i.e., taking one another as allies and abandoning all bonds with the disbelievers."
 }

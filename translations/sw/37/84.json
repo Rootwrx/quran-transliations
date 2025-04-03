@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3872",
-    "sura": "37",
-    "aya": "84",
-    "arabic_text": "إِذۡ جَآءَ رَبَّهُۥ بِقَلۡبٖ سَلِيمٍ",
-    "translation": "Alipo mjia Mola wake Mlezi kwa moyo mzima.",
-    "footnotes": "Alipo mkabili Mola wake Mlezi kwa moyo ulio kuwa nadhifu hauna ushirikina, umemsafia ibada Yeye tu."
-  }
+  "id": 84,
+  "verse_number": 84,
+  "page_number": 449,
+  "verse_key": "37:84",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ جَآءَ رَبَّهُۥ بِقَلۡبٖ سَلِيمٍ",
+  "translation": "Alipo mjia Mola wake Mlezi kwa moyo mzima.",
+  "footnotes": "Alipo mkabili Mola wake Mlezi kwa moyo ulio kuwa nadhifu hauna ushirikina, umemsafia ibada Yeye tu."
 }

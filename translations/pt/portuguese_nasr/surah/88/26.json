@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5993",
-    "sura": "88",
-    "aya": "26",
-    "arabic_text": "ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم",
-    "translation": "Em seguida, por certo, impender-Nos-á sua conta.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 592,
+  "verse_key": "88:26",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ إِنَّ عَلَيۡنَا حِسَابَهُم",
+  "translation": "Em seguida, por certo, impender-Nos-á sua conta.",
+  "footnotes": ""
 }

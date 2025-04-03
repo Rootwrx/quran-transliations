@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2559",
-    "sura": "21",
-    "aya": "76",
-    "arabic_text": "وَنُوحًا إِذۡ نَادَىٰ مِن قَبۡلُ فَٱسۡتَجَبۡنَا لَهُۥ فَنَجَّيۡنَٰهُ وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِيمِ",
-    "translation": "76. Y (recuerda) cuando Noé nos suplicó ayuda con anterioridad. Respondimos a su súplica y lo salvamos junto con su familia (quienes creyeron en él y lo siguieron) de un gran desastre.",
-    "footnotes": ""
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 328,
+  "verse_key": "21:76",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنُوحًا إِذۡ نَادَىٰ مِن قَبۡلُ فَٱسۡتَجَبۡنَا لَهُۥ فَنَجَّيۡنَٰهُ وَأَهۡلَهُۥ مِنَ ٱلۡكَرۡبِ ٱلۡعَظِيمِ",
+  "translation": "76. Y (recuerda) cuando Noé nos suplicó ayuda con anterioridad. Respondimos a su súplica y lo salvamos junto con su familia (quienes creyeron en él y lo siguieron) de un gran desastre.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2500",
-    "sura": "21",
-    "aya": "17",
-    "arabic_text": "لَوۡ أَرَدۡنَآ أَن نَّتَّخِذَ لَهۡوٗا لَّٱتَّخَذۡنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ",
-    "translation": "Kama tungeli taka kufanya mchezo tunge jifanyia Sisi wenyewe, lau kwamba tungeli kuwa ni wafanyao mchezo.",
-    "footnotes": "Lau kuwa tunataka kufanya mchezo na pumbao isingeli mkinika kuchukua ila yaliyo katika ufalme wetu, kwani hapana ufalme ila wetu - ingeli kuwa Sisi ni wa kufanya hayo. Wala nasi si wenye kufanya hayo, kwa kuwa si laiki ya haki yetu."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 323,
+  "verse_key": "21:17",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَوۡ أَرَدۡنَآ أَن نَّتَّخِذَ لَهۡوٗا لَّٱتَّخَذۡنَٰهُ مِن لَّدُنَّآ إِن كُنَّا فَٰعِلِينَ",
+  "translation": "Kama tungeli taka kufanya mchezo tunge jifanyia Sisi wenyewe, lau kwamba tungeli kuwa ni wafanyao mchezo.",
+  "footnotes": "Lau kuwa tunataka kufanya mchezo na pumbao isingeli mkinika kuchukua ila yaliyo katika ufalme wetu, kwani hapana ufalme ila wetu - ingeli kuwa Sisi ni wa kufanya hayo. Wala nasi si wenye kufanya hayo, kwa kuwa si laiki ya haki yetu."
 }

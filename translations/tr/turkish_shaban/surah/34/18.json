@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3624",
-    "sura": "34",
-    "aya": "18",
-    "arabic_text": "وَجَعَلۡنَا بَيۡنَهُمۡ وَبَيۡنَ ٱلۡقُرَى ٱلَّتِي بَٰرَكۡنَا فِيهَا قُرٗى ظَٰهِرَةٗ وَقَدَّرۡنَا فِيهَا ٱلسَّيۡرَۖ سِيرُواْ فِيهَا لَيَالِيَ وَأَيَّامًا ءَامِنِينَ",
-    "translation": "Kendileri (Sebe) ile içlerinde bereketler kıldığımız memleketler (Şam) arasında (birbirine yakın) görünebilen memleketler var ettik, içlerinde yolculuğu ölçülü kıldık/konaklara ayırdık ve “Oralarda geceleri ve gündüzleri güvenlik içinde gezip dolaşın (dedik).",
-    "footnotes": null
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 430,
+  "verse_key": "34:18",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلۡنَا بَيۡنَهُمۡ وَبَيۡنَ ٱلۡقُرَى ٱلَّتِي بَٰرَكۡنَا فِيهَا قُرٗى ظَٰهِرَةٗ وَقَدَّرۡنَا فِيهَا ٱلسَّيۡرَۖ سِيرُواْ فِيهَا لَيَالِيَ وَأَيَّامًا ءَامِنِينَ",
+  "translation": "Kendileri (Sebe) ile içlerinde bereketler kıldığımız memleketler (Şam) arasında (birbirine yakın) görünebilen memleketler var ettik, içlerinde yolculuğu ölçülü kıldık/konaklara ayırdık ve “Oralarda geceleri ve gündüzleri güvenlik içinde gezip dolaşın (dedik).",
+  "footnotes": null
 }

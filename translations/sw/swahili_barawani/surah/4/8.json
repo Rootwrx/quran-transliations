@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "501",
-    "sura": "4",
-    "aya": "8",
-    "arabic_text": "وَإِذَا حَضَرَ ٱلۡقِسۡمَةَ أُوْلُواْ ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينُ فَٱرۡزُقُوهُم مِّنۡهُ وَقُولُواْ لَهُمۡ قَوۡلٗا مَّعۡرُوفٗا",
-    "translation": "Na wakati wa kugawanya wakihudhuria jamaa na mayatima na masikini, wapeni katika hayo mali ya urithi, na semeni nao maneno mema.",
-    "footnotes": "Na pindi ikiwa wamehudhuria wakati ule wa kugawanya urithi baadhi ya jamaa ambao hawarithi, na ni mayatima na masikini, basi wakirimuni kwa kuwapa chochote katika huo urithi ili kuzipoza nafsi zao, na kuondoa uhasidi katika nyoyo zao. Na ni vizuri pia katika kuwapa kuleta maneno laini na udhuru mwema."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 78,
+  "verse_key": "4:8",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا حَضَرَ ٱلۡقِسۡمَةَ أُوْلُواْ ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينُ فَٱرۡزُقُوهُم مِّنۡهُ وَقُولُواْ لَهُمۡ قَوۡلٗا مَّعۡرُوفٗا",
+  "translation": "Na wakati wa kugawanya wakihudhuria jamaa na mayatima na masikini, wapeni katika hayo mali ya urithi, na semeni nao maneno mema.",
+  "footnotes": "Na pindi ikiwa wamehudhuria wakati ule wa kugawanya urithi baadhi ya jamaa ambao hawarithi, na ni mayatima na masikini, basi wakirimuni kwa kuwapa chochote katika huo urithi ili kuzipoza nafsi zao, na kuondoa uhasidi katika nyoyo zao. Na ni vizuri pia katika kuwapa kuleta maneno laini na udhuru mwema."
 }

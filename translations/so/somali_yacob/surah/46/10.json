@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4520",
-    "sura": "46",
-    "aya": "10",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ وَكَفَرۡتُم بِهِۦ وَشَهِدَ شَاهِدٞ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ عَلَىٰ مِثۡلِهِۦ فَـَٔامَنَ وَٱسۡتَكۡبَرۡتُمۡۚ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
-    "translation": "10. Dheh: Bal ka warrama hadduu (Qur’aanka) ka yimid xagga Alle, oo aad ku gaalowdeen, uuna ka marag furay marag fure ka mid ah ilmahii Israa’iil5 inuu  la mid yahay (Towraadda), markaasuu rumeeyey6 halka aad idinku is kibriseen. Hubaal Alle ma hanuuniyo qoloda daalimiinta ah (madaxa adag).",
-    "footnotes": "5. Waxaa loola jeedaa Cabdullaah bin Salaam. \n6. Hadalka ka go’an waa: Soo ma ahaaneysaan markaa kuwa ugu gef badan dadka? Ama xaalad noocee baad markaa ku sugnaan doontaan?"
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 503,
+  "verse_key": "46:10",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ وَكَفَرۡتُم بِهِۦ وَشَهِدَ شَاهِدٞ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ عَلَىٰ مِثۡلِهِۦ فَـَٔامَنَ وَٱسۡتَكۡبَرۡتُمۡۚ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+  "translation": "10. Dheh: Bal ka warrama hadduu (Qur’aanka) ka yimid xagga Alle, oo aad ku gaalowdeen, uuna ka marag furay marag fure ka mid ah ilmahii Israa’iil5 inuu  la mid yahay (Towraadda), markaasuu rumeeyey6 halka aad idinku is kibriseen. Hubaal Alle ma hanuuniyo qoloda daalimiinta ah (madaxa adag).",
+  "footnotes": "5. Waxaa loola jeedaa Cabdullaah bin Salaam. \n6. Hadalka ka go’an waa: Soo ma ahaaneysaan markaa kuwa ugu gef badan dadka? Ama xaalad noocee baad markaa ku sugnaan doontaan?"
 }

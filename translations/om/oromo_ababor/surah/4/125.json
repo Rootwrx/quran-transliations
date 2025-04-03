@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "618",
-    "sura": "4",
-    "aya": "125",
-    "arabic_text": "وَمَنۡ أَحۡسَنُ دِينٗا مِّمَّنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنٞ وَٱتَّبَعَ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۗ وَٱتَّخَذَ ٱللَّهُ إِبۡرَٰهِيمَ خَلِيلٗا",
-    "translation": "Eenyutu irra tole amanatiin nama haala bareechaa ta'een fuula isaa Rabbiif bulchee caalaa? kan amantii Ibraahiim qajeelaa haala ta'een hordofe. Rabbiin Ibraahiimiin jaalallee godhateera.",
-    "footnotes": ""
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 98,
+  "verse_key": "4:125",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَنۡ أَحۡسَنُ دِينٗا مِّمَّنۡ أَسۡلَمَ وَجۡهَهُۥ لِلَّهِ وَهُوَ مُحۡسِنٞ وَٱتَّبَعَ مِلَّةَ إِبۡرَٰهِيمَ حَنِيفٗاۗ وَٱتَّخَذَ ٱللَّهُ إِبۡرَٰهِيمَ خَلِيلٗا",
+  "translation": "Eenyutu irra tole amanatiin nama haala bareechaa ta'een fuula isaa Rabbiif bulchee caalaa? kan amantii Ibraahiim qajeelaa haala ta'een hordofe. Rabbiin Ibraahiimiin jaalallee godhateera.",
+  "footnotes": ""
 }

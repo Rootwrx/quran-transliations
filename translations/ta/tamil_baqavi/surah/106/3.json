@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6196",
-    "sura": "106",
-    "aya": "3",
-    "arabic_text": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ",
-    "translation": "3. (அதற்கு நன்றி செலுத்துவதற்காக) இவ்வீட்டின் இறைவனையே அவர்கள் வணங்கவும்.",
-    "footnotes": null
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 602,
+  "verse_key": "106:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلۡيَعۡبُدُواْ رَبَّ هَٰذَا ٱلۡبَيۡتِ",
+  "translation": "3. (அதற்கு நன்றி செலுத்துவதற்காக) இவ்வீட்டின் இறைவனையே அவர்கள் வணங்கவும்.",
+  "footnotes": null
 }

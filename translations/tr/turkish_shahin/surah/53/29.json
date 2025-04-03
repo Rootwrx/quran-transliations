@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4813",
-    "sura": "53",
-    "aya": "29",
-    "arabic_text": "فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
-    "translation": "Onun için sen bizi anmaktan yüz çeviren ve dünya hayatından başka bir şey istemeyen kimselere yüz verme.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 527,
+  "verse_key": "53:29",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَعۡرِضۡ عَن مَّن تَوَلَّىٰ عَن ذِكۡرِنَا وَلَمۡ يُرِدۡ إِلَّا ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+  "translation": "Onun için sen bizi anmaktan yüz çeviren ve dünya hayatından başka bir şey istemeyen kimselere yüz verme.",
+  "footnotes": ""
 }

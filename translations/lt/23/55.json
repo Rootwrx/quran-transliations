@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2728",
-    "sura": "23",
-    "aya": "55",
-    "arabic_text": "أَيَحۡسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٖ وَبَنِينَ",
-    "translation": "55. Argi jie mano, kad turte ir vaikuose, kuriais Mes išdidinam juos",
-    "footnotes": ""
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 345,
+  "verse_key": "23:55",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَيَحۡسَبُونَ أَنَّمَا نُمِدُّهُم بِهِۦ مِن مَّالٖ وَبَنِينَ",
+  "translation": "55. Argi jie mano, kad turte ir vaikuose, kuriais Mes išdidinam juos",
+  "footnotes": ""
 }

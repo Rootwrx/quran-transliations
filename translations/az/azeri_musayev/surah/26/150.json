@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3082",
-    "sura": "26",
-    "aya": "150",
-    "arabic_text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
-    "translation": "Allahdan qorxun və mənə itaət edin!",
-    "footnotes": ""
-  }
+  "id": 150,
+  "verse_number": 150,
+  "page_number": 373,
+  "verse_key": "26:150",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+  "translation": "Allahdan qorxun və mənə itaət edin!",
+  "footnotes": ""
 }

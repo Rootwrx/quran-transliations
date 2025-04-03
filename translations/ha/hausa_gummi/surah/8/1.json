@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1161",
-    "sura": "8",
-    "aya": "1",
-    "arabic_text": "يَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُواْ ٱللَّهَ وَأَصۡلِحُواْ ذَاتَ بَيۡنِكُمۡۖ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": "Suna tambayar ka* ga ganĩma. ka ce: \"Ganĩma ta Allah daManzonSa ce. Sai ku bi Allah da taƙawa, kuma ku gyãra abin da yake a tsakãninku, kuma ku yi ɗã'a ga Allah da ManzonSa, idan kun kasance Mũminai.\"",
-    "footnotes": "* Yã fãra Sũrar da tambayar Sahabbai ga Annabi cewa. wãne ne ya fi cancanta da dũkiyar ganĩmar da aka sãmu a yãƙin Badar Babba, samãri mayãƙa kõ tsõfaffi mãsu bãyar da shãwara da ra'ayõyinsu, mãsu kyau. Sa'annan ya yi jawãbi da cewa: \"Ka ce ganimar ta Allah ce da ManzonSa,\" sabõda dalĩlan da suke tafe ga ayõyin da suke biye. Ana nufi wanke sõja daga jãyayya a kan dũkiya. AllahYa fi sani."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 177,
+  "verse_key": "8:1",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَسۡـَٔلُونَكَ عَنِ ٱلۡأَنفَالِۖ قُلِ ٱلۡأَنفَالُ لِلَّهِ وَٱلرَّسُولِۖ فَٱتَّقُواْ ٱللَّهَ وَأَصۡلِحُواْ ذَاتَ بَيۡنِكُمۡۖ وَأَطِيعُواْ ٱللَّهَ وَرَسُولَهُۥٓ إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": "Suna tambayar ka* ga ganĩma. ka ce: \"Ganĩma ta Allah daManzonSa ce. Sai ku bi Allah da taƙawa, kuma ku gyãra abin da yake a tsakãninku, kuma ku yi ɗã'a ga Allah da ManzonSa, idan kun kasance Mũminai.\"",
+  "footnotes": "* Yã fãra Sũrar da tambayar Sahabbai ga Annabi cewa. wãne ne ya fi cancanta da dũkiyar ganĩmar da aka sãmu a yãƙin Badar Babba, samãri mayãƙa kõ tsõfaffi mãsu bãyar da shãwara da ra'ayõyinsu, mãsu kyau. Sa'annan ya yi jawãbi da cewa: \"Ka ce ganimar ta Allah ce da ManzonSa,\" sabõda dalĩlan da suke tafe ga ayõyin da suke biye. Ana nufi wanke sõja daga jãyayya a kan dũkiya. AllahYa fi sani."
 }

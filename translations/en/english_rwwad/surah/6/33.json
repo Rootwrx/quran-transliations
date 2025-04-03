@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "822",
-    "sura": "6",
-    "aya": "33",
-    "arabic_text": "قَدۡ نَعۡلَمُ إِنَّهُۥ لَيَحۡزُنُكَ ٱلَّذِي يَقُولُونَۖ فَإِنَّهُمۡ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ ٱلظَّٰلِمِينَ بِـَٔايَٰتِ ٱللَّهِ يَجۡحَدُونَ",
-    "translation": "We know well that what they say grieves you [O Prophet]. It is not you that they doubt, rather it is the verses of Allah that the wrongdoers deny.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 131,
+  "verse_key": "6:33",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ نَعۡلَمُ إِنَّهُۥ لَيَحۡزُنُكَ ٱلَّذِي يَقُولُونَۖ فَإِنَّهُمۡ لَا يُكَذِّبُونَكَ وَلَٰكِنَّ ٱلظَّٰلِمِينَ بِـَٔايَٰتِ ٱللَّهِ يَجۡحَدُونَ",
+  "translation": "We know well that what they say grieves you [O Prophet]. It is not you that they doubt, rather it is the verses of Allah that the wrongdoers deny.",
+  "footnotes": ""
 }

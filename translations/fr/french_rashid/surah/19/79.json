@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2329",
-    "sura": "19",
-    "aya": "79",
-    "arabic_text": "كَلَّاۚ سَنَكۡتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلۡعَذَابِ مَدّٗا",
-    "translation": "79 Sûrement pas ! Nous consignerons chacune de ses paroles et accroîtrons ses tourments.",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 311,
+  "verse_key": "19:79",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّاۚ سَنَكۡتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلۡعَذَابِ مَدّٗا",
+  "translation": "79 Sûrement pas ! Nous consignerons chacune de ses paroles et accroîtrons ses tourments.",
+  "footnotes": ""
 }

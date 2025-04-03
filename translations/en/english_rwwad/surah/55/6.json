@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4907",
-    "sura": "55",
-    "aya": "6",
-    "arabic_text": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
-    "translation": "and the stars[1] and trees prostrate [to Allah][2].",
-    "footnotes": "[1] \"Najm\" is also a vegetation without a trunk, stalk, or stem.\n [2] i.e., they obediently submit to the laws of Allah. See 22:18."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 531,
+  "verse_key": "55:6",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
+  "translation": "and the stars[1] and trees prostrate [to Allah][2].",
+  "footnotes": "[1] \"Najm\" is also a vegetation without a trunk, stalk, or stem.\n [2] i.e., they obediently submit to the laws of Allah. See 22:18."
 }

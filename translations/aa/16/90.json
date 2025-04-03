@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1991",
-    "sura": "16",
-    "aya": "90",
-    "arabic_text": "۞ إِنَّ ٱللَّهَ يَأۡمُرُ بِٱلۡعَدۡلِ وَٱلۡإِحۡسَٰنِ وَإِيتَآيِٕ ذِي ٱلۡقُرۡبَىٰ وَيَنۡهَىٰ عَنِ ٱلۡفَحۡشَآءِ وَٱلۡمُنكَرِ وَٱلۡبَغۡيِۚ يَعِظُكُمۡ لَعَلَّكُمۡ تَذَكَّرُونَ",
-    "translation": "90. Diggah Yalli tama Qhuraanal sinam isi cakkii kee isi naqoosâ cakki qadaalat dacrissankeh ken amrisa, isi qibaada yaymaaqeeniih usuk keenil hee fardi elle faxxiimannal abaanaah, kay naqoosah yamqcenimih ken amrisa, Ramad Íe mara xakbaanaah ken cakki keenih yaceenimil ken amrisa, Yalli sinam maxcoocaa kee abinak qaxumaamak ken waasa, koroosannuu kee uma taamaay seehadâ dulmii kee caddok taturuk ken waasa, Yalli tama sin kah amrissi heem kee sin kak waassa heemil kassis siinit aba, tamah kassittaanaah edde tantifiqeeninkeh.",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 277,
+  "verse_key": "16:90",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّ ٱللَّهَ يَأۡمُرُ بِٱلۡعَدۡلِ وَٱلۡإِحۡسَٰنِ وَإِيتَآيِٕ ذِي ٱلۡقُرۡبَىٰ وَيَنۡهَىٰ عَنِ ٱلۡفَحۡشَآءِ وَٱلۡمُنكَرِ وَٱلۡبَغۡيِۚ يَعِظُكُمۡ لَعَلَّكُمۡ تَذَكَّرُونَ",
+  "translation": "90. Diggah Yalli tama Qhuraanal sinam isi cakkii kee isi naqoosâ cakki qadaalat dacrissankeh ken amrisa, isi qibaada yaymaaqeeniih usuk keenil hee fardi elle faxxiimannal abaanaah, kay naqoosah yamqcenimih ken amrisa, Ramad Íe mara xakbaanaah ken cakki keenih yaceenimil ken amrisa, Yalli sinam maxcoocaa kee abinak qaxumaamak ken waasa, koroosannuu kee uma taamaay seehadâ dulmii kee caddok taturuk ken waasa, Yalli tama sin kah amrissi heem kee sin kak waassa heemil kassis siinit aba, tamah kassittaanaah edde tantifiqeeninkeh.",
+  "footnotes": ""
 }

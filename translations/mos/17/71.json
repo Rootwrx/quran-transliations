@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2100",
-    "sura": "17",
-    "aya": "71",
-    "arabic_text": "يَوۡمَ نَدۡعُواْ كُلَّ أُنَاسِۭ بِإِمَٰمِهِمۡۖ فَمَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَأُوْلَٰٓئِكَ يَقۡرَءُونَ كِتَٰبَهُمۡ وَلَا يُظۡلَمُونَ فَتِيلٗا",
-    "translation": "Raar ning D sẽn na n bool zãma fãa ne b taoor soabã; raar-kãngã b sẽn kõ-a soɑb a gaf ne a rɩtgo, rẽnd yaa bãmb rãmb la sẽn na n karem b gafã tɩ b pa na n wẽg-b baa fʋɩ.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 289,
+  "verse_key": "17:71",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ نَدۡعُواْ كُلَّ أُنَاسِۭ بِإِمَٰمِهِمۡۖ فَمَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَأُوْلَٰٓئِكَ يَقۡرَءُونَ كِتَٰبَهُمۡ وَلَا يُظۡلَمُونَ فَتِيلٗا",
+  "translation": "Raar ning D sẽn na n bool zãma fãa ne b taoor soabã; raar-kãngã b sẽn kõ-a soɑb a gaf ne a rɩtgo, rẽnd yaa bãmb rãmb la sẽn na n karem b gafã tɩ b pa na n wẽg-b baa fʋɩ.",
+  "footnotes": ""
 }

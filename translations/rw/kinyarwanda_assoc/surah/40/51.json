@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4184",
-    "sura": "40",
-    "aya": "51",
-    "arabic_text": "إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُواْ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَيَوۡمَ يَقُومُ ٱلۡأَشۡهَٰدُ",
-    "translation": "Mu by’ukuri dutabara Intumwa zacu na ba bandi bemeye (Intumwa bakazikurikira) bakiri mu buzima bw’isi, no ku munsi abahamya bazahagarara (babashinja ibyo bakoze).",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 473,
+  "verse_key": "40:51",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا لَنَنصُرُ رُسُلَنَا وَٱلَّذِينَ ءَامَنُواْ فِي ٱلۡحَيَوٰةِ ٱلدُّنۡيَا وَيَوۡمَ يَقُومُ ٱلۡأَشۡهَٰدُ",
+  "translation": "Mu by’ukuri dutabara Intumwa zacu na ba bandi bemeye (Intumwa bakazikurikira) bakiri mu buzima bw’isi, no ku munsi abahamya bazahagarara (babashinja ibyo bakoze).",
+  "footnotes": ""
 }

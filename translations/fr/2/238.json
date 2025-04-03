@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "245",
-    "sura": "2",
-    "aya": "238",
-    "arabic_text": "حَٰفِظُواْ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلۡوُسۡطَىٰ وَقُومُواْ لِلَّهِ قَٰنِتِينَ",
-    "translation": "Soyez assidus aux prières (Aṣ-Ṣalawāt) et surtout la prière médiane (As-Salât Al Wustâ); et tenez-vous debout devant Allah, avec humilité .",
-    "footnotes": "[103] Parenthèse pour rappeler qu’au milieu des plus heureuses joies ou des luttes les plus âpres, il ne faut pas oublier Allah. La Ṣalāt médiane: la Ṣalāt al-˒Aṣr."
-  }
+  "id": 238,
+  "verse_number": 238,
+  "page_number": 39,
+  "verse_key": "2:238",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 15,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَٰفِظُواْ عَلَى ٱلصَّلَوَٰتِ وَٱلصَّلَوٰةِ ٱلۡوُسۡطَىٰ وَقُومُواْ لِلَّهِ قَٰنِتِينَ",
+  "translation": "Soyez assidus aux prières (Aṣ-Ṣalawāt) et surtout la prière médiane (As-Salât Al Wustâ); et tenez-vous debout devant Allah, avec humilité .",
+  "footnotes": "[103] Parenthèse pour rappeler qu’au milieu des plus heureuses joies ou des luttes les plus âpres, il ne faut pas oublier Allah. La Ṣalāt médiane: la Ṣalāt al-˒Aṣr."
 }

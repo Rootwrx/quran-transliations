@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3650",
-    "sura": "34",
-    "aya": "44",
-    "arabic_text": "وَمَآ ءَاتَيۡنَٰهُم مِّن كُتُبٖ يَدۡرُسُونَهَاۖ وَمَآ أَرۡسَلۡنَآ إِلَيۡهِمۡ قَبۡلَكَ مِن نَّذِيرٖ",
-    "translation": "A kò fún wọn ní àwọn tírà kan kan tí wọ́n ń kọ́ ẹ̀kọ́ nínú rẹ̀, A kò sì rán olùkìlọ̀ kan sí wọn ṣíwájú rẹ.[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Ƙọsọs; 28:46."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 433,
+  "verse_key": "34:44",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ ءَاتَيۡنَٰهُم مِّن كُتُبٖ يَدۡرُسُونَهَاۖ وَمَآ أَرۡسَلۡنَآ إِلَيۡهِمۡ قَبۡلَكَ مِن نَّذِيرٖ",
+  "translation": "A kò fún wọn ní àwọn tírà kan kan tí wọ́n ń kọ́ ẹ̀kọ́ nínú rẹ̀, A kò sì rán olùkìlọ̀ kan sí wọn ṣíwájú rẹ.[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Ƙọsọs; 28:46."
 }

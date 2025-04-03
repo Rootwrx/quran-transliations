@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2109",
-    "sura": "17",
-    "aya": "80",
-    "arabic_text": "وَقُل رَّبِّ أَدۡخِلۡنِي مُدۡخَلَ صِدۡقٖ وَأَخۡرِجۡنِي مُخۡرَجَ صِدۡقٖ وَٱجۡعَل لِّي مِن لَّدُنكَ سُلۡطَٰنٗا نَّصِيرٗا",
-    "translation": "80. Y di (tras haberte ordenado emigrar): «¡Señor!, haz que tenga una entrada honorable (en la ciudad de Medina) y una salida victoriosa (de La Meca)[502]; y concédeme de Tu parte una autoridad que me ayude (a vencer a Tus enemigos)».",
-    "footnotes": "[502]  También queda incluida la petición de ayuda o de éxito en todos los asuntos que emprenda o finalice, no solamente en lo referente a su entrada en Medina o salida de La Meca."
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 290,
+  "verse_key": "17:80",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُل رَّبِّ أَدۡخِلۡنِي مُدۡخَلَ صِدۡقٖ وَأَخۡرِجۡنِي مُخۡرَجَ صِدۡقٖ وَٱجۡعَل لِّي مِن لَّدُنكَ سُلۡطَٰنٗا نَّصِيرٗا",
+  "translation": "80. Y di (tras haberte ordenado emigrar): «¡Señor!, haz que tenga una entrada honorable (en la ciudad de Medina) y una salida victoriosa (de La Meca)[502]; y concédeme de Tu parte una autoridad que me ayude (a vencer a Tus enemigos)».",
+  "footnotes": "[502]  También queda incluida la petición de ayuda o de éxito en todos los asuntos que emprenda o finalice, no solamente en lo referente a su entrada en Medina o salida de La Meca."
 }

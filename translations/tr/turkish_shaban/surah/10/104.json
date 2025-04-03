@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1468",
-    "sura": "10",
-    "aya": "104",
-    "arabic_text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِي شَكّٖ مِّن دِينِي فَلَآ أَعۡبُدُ ٱلَّذِينَ تَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَلَٰكِنۡ أَعۡبُدُ ٱللَّهَ ٱلَّذِي يَتَوَفَّىٰكُمۡۖ وَأُمِرۡتُ أَنۡ أَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
-    "translation": "De ki: Ey İnsanlar! Benim dinimden şüphede iseniz bilin ki ben Allah’tan başka ibadet ettiklerinize ibadet etmem, ancak sizi öldürecek olan Allah’a ibadet ederim. Müminlerden olmakla emrolundum. ",
-    "footnotes": null
-  }
+  "id": 104,
+  "verse_number": 104,
+  "page_number": 220,
+  "verse_key": "10:104",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يَٰٓأَيُّهَا ٱلنَّاسُ إِن كُنتُمۡ فِي شَكّٖ مِّن دِينِي فَلَآ أَعۡبُدُ ٱلَّذِينَ تَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَلَٰكِنۡ أَعۡبُدُ ٱللَّهَ ٱلَّذِي يَتَوَفَّىٰكُمۡۖ وَأُمِرۡتُ أَنۡ أَكُونَ مِنَ ٱلۡمُؤۡمِنِينَ",
+  "translation": "De ki: Ey İnsanlar! Benim dinimden şüphede iseniz bilin ki ben Allah’tan başka ibadet ettiklerinize ibadet etmem, ancak sizi öldürecek olan Allah’a ibadet ederim. Müminlerden olmakla emrolundum. ",
+  "footnotes": null
 }

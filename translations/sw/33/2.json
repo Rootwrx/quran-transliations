@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3535",
-    "sura": "33",
-    "aya": "2",
-    "arabic_text": "وَٱتَّبِعۡ مَا يُوحَىٰٓ إِلَيۡكَ مِن رَّبِّكَۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِيرٗا",
-    "translation": "Na fuata uliyo funuliwa kwa wahyi kutokana na Mola wako Mlezi. Hakika Mwenyezi Mungu anazo khabari ya mnayo yatenda.",
-    "footnotes": "Na fuata wahyi unao teremka juu yako kutokana na Mola wako Mlezi. Hakika Mwenyezi Mungu anaye kufunulia kwa wahyi anazo khabari hata za mambo madogo madogo unayo yatenda wewe, na wanayo yatenda makafiri na wanaafiki."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 418,
+  "verse_key": "33:2",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّبِعۡ مَا يُوحَىٰٓ إِلَيۡكَ مِن رَّبِّكَۚ إِنَّ ٱللَّهَ كَانَ بِمَا تَعۡمَلُونَ خَبِيرٗا",
+  "translation": "Na fuata uliyo funuliwa kwa wahyi kutokana na Mola wako Mlezi. Hakika Mwenyezi Mungu anazo khabari ya mnayo yatenda.",
+  "footnotes": "Na fuata wahyi unao teremka juu yako kutokana na Mola wako Mlezi. Hakika Mwenyezi Mungu anaye kufunulia kwa wahyi anazo khabari hata za mambo madogo madogo unayo yatenda wewe, na wanayo yatenda makafiri na wanaafiki."
 }

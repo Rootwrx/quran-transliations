@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "445",
-    "sura": "3",
-    "aya": "152",
-    "arabic_text": "وَلَقَدۡ صَدَقَكُمُ ٱللَّهُ وَعۡدَهُۥٓ إِذۡ تَحُسُّونَهُم بِإِذۡنِهِۦۖ حَتَّىٰٓ إِذَا فَشِلۡتُمۡ وَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَعَصَيۡتُم مِّنۢ بَعۡدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَۚ مِنكُم مَّن يُرِيدُ ٱلدُّنۡيَا وَمِنكُم مَّن يُرِيدُ ٱلۡأٓخِرَةَۚ ثُمَّ صَرَفَكُمۡ عَنۡهُمۡ لِيَبۡتَلِيَكُمۡۖ وَلَقَدۡ عَفَا عَنكُمۡۗ وَٱللَّهُ ذُو فَضۡلٍ عَلَى ٱلۡمُؤۡمِنِينَ",
-    "translation": "Indeed, Allah fulfilled His promise to you when you were slaying them by His permission, until you lost courage and disputed over the command and disobeyed after He had shown you what you liked [victory]. Among you are some who seek this world and some who seek the Hereafter[68]. He then prevented you from [defeating] them so that He may test You, but He pardoned you, for Allah is Most Gracious to the believers.",
-    "footnotes": "[68] The first party were the archers who left their positions to collect the spoils, while the latter were those who remained at their posts."
-  }
+  "id": 152,
+  "verse_number": 152,
+  "page_number": 69,
+  "verse_key": "3:152",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ صَدَقَكُمُ ٱللَّهُ وَعۡدَهُۥٓ إِذۡ تَحُسُّونَهُم بِإِذۡنِهِۦۖ حَتَّىٰٓ إِذَا فَشِلۡتُمۡ وَتَنَٰزَعۡتُمۡ فِي ٱلۡأَمۡرِ وَعَصَيۡتُم مِّنۢ بَعۡدِ مَآ أَرَىٰكُم مَّا تُحِبُّونَۚ مِنكُم مَّن يُرِيدُ ٱلدُّنۡيَا وَمِنكُم مَّن يُرِيدُ ٱلۡأٓخِرَةَۚ ثُمَّ صَرَفَكُمۡ عَنۡهُمۡ لِيَبۡتَلِيَكُمۡۖ وَلَقَدۡ عَفَا عَنكُمۡۗ وَٱللَّهُ ذُو فَضۡلٍ عَلَى ٱلۡمُؤۡمِنِينَ",
+  "translation": "Indeed, Allah fulfilled His promise to you when you were slaying them by His permission, until you lost courage and disputed over the command and disobeyed after He had shown you what you liked [victory]. Among you are some who seek this world and some who seek the Hereafter[68]. He then prevented you from [defeating] them so that He may test You, but He pardoned you, for Allah is Most Gracious to the believers.",
+  "footnotes": "[68] The first party were the archers who left their positions to collect the spoils, while the latter were those who remained at their posts."
 }

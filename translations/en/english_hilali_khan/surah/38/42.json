@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4012",
-    "sura": "38",
-    "aya": "42",
-    "arabic_text": "ٱرۡكُضۡ بِرِجۡلِكَۖ هَٰذَا مُغۡتَسَلُۢ بَارِدٞ وَشَرَابٞ",
-    "translation": " 42. (Allâh said to him): \"Strike the ground with your foot: This is (a spring of) water to wash in, cool and a (refreshing) drink.\"",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 455,
+  "verse_key": "38:42",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱرۡكُضۡ بِرِجۡلِكَۖ هَٰذَا مُغۡتَسَلُۢ بَارِدٞ وَشَرَابٞ",
+  "translation": " 42. (Allâh said to him): \"Strike the ground with your foot: This is (a spring of) water to wash in, cool and a (refreshing) drink.\"",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1315",
-    "sura": "9",
-    "aya": "80",
-    "arabic_text": "ٱسۡتَغۡفِرۡ لَهُمۡ أَوۡ لَا تَسۡتَغۡفِرۡ لَهُمۡ إِن تَسۡتَغۡفِرۡ لَهُمۡ سَبۡعِينَ مَرَّةٗ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ ذَٰلِكَ بِأَنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
-    "translation": "Waombee msamaha au usiwaombee. Hata ukiwaombea msamaha mara sabiini, Mwenyezi Mungu hatawasamehe. Hayo ni kwa sababu ya kuwa wao wamemkataa Mwenyezi Mungu na Mtume wake. Na Mwenyezi Mungu hawaongoi watu wapotofu.",
-    "footnotes": "Haitofaa kitu kuwaitikia baadhi yao na ukawaombea maghfira kwa Mwenyezi Mungu. Ewe Nabii! Ukiwaombea msamaha au ukitowaombea, hata ukiwaombea mara ngapi, Mwenyezi Mungu hatowasamehe! Kwa sababu kwa hawa hapana matarajio ya msamaha wala maghfira maadamu wanaendelea na ukafiri wao. Na watu hawa wamemkataa Mwenyezi Mungu na Mtume wake! Na Mwenyezi Mungu hawaongoi watu wanao kwenda kinyume naye, wakamuasi, na wakenda kinyume na kumuasi Mtume wake, na wakaiasi Sharia yake na Dini yake."
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 200,
+  "verse_key": "9:80",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 80,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱسۡتَغۡفِرۡ لَهُمۡ أَوۡ لَا تَسۡتَغۡفِرۡ لَهُمۡ إِن تَسۡتَغۡفِرۡ لَهُمۡ سَبۡعِينَ مَرَّةٗ فَلَن يَغۡفِرَ ٱللَّهُ لَهُمۡۚ ذَٰلِكَ بِأَنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَرَسُولِهِۦۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+  "translation": "Waombee msamaha au usiwaombee. Hata ukiwaombea msamaha mara sabiini, Mwenyezi Mungu hatawasamehe. Hayo ni kwa sababu ya kuwa wao wamemkataa Mwenyezi Mungu na Mtume wake. Na Mwenyezi Mungu hawaongoi watu wapotofu.",
+  "footnotes": "Haitofaa kitu kuwaitikia baadhi yao na ukawaombea maghfira kwa Mwenyezi Mungu. Ewe Nabii! Ukiwaombea msamaha au ukitowaombea, hata ukiwaombea mara ngapi, Mwenyezi Mungu hatowasamehe! Kwa sababu kwa hawa hapana matarajio ya msamaha wala maghfira maadamu wanaendelea na ukafiri wao. Na watu hawa wamemkataa Mwenyezi Mungu na Mtume wake! Na Mwenyezi Mungu hawaongoi watu wanao kwenda kinyume naye, wakamuasi, na wakenda kinyume na kumuasi Mtume wake, na wakaiasi Sharia yake na Dini yake."
 }

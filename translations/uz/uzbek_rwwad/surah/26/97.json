@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3029",
-    "sura": "26",
-    "aya": "97",
-    "arabic_text": "تَٱللَّهِ إِن كُنَّا لَفِي ضَلَٰلٖ مُّبِينٍ",
-    "translation": "«Аллоҳга қасамки, биз, албатта, очиқ залолатда бўлган эканмиз.",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 371,
+  "verse_key": "26:97",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَٱللَّهِ إِن كُنَّا لَفِي ضَلَٰلٖ مُّبِينٍ",
+  "translation": "«Аллоҳга қасамки, биз, албатта, очиқ залолатда бўлган эканмиз.",
+  "footnotes": ""
 }

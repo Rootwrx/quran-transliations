@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5620",
-    "sura": "76",
-    "aya": "29",
-    "arabic_text": "إِنَّ هَٰذِهِۦ تَذۡكِرَةٞۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلٗا",
-    "translation": "Tunay na ito ay isang pagpapaalaala, kaya ang sinumang lumuob ay gumawa siya tungo sa Panginoon niya ng isang landas.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 580,
+  "verse_key": "76:29",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰذِهِۦ تَذۡكِرَةٞۖ فَمَن شَآءَ ٱتَّخَذَ إِلَىٰ رَبِّهِۦ سَبِيلٗا",
+  "translation": "Tunay na ito ay isang pagpapaalaala, kaya ang sinumang lumuob ay gumawa siya tungo sa Panginoon niya ng isang landas.",
+  "footnotes": ""
 }

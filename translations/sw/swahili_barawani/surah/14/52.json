@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1802",
-    "sura": "14",
-    "aya": "52",
-    "arabic_text": "هَٰذَا بَلَٰغٞ لِّلنَّاسِ وَلِيُنذَرُواْ بِهِۦ وَلِيَعۡلَمُوٓاْ أَنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ وَلِيَذَّكَّرَ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
-    "translation": "Hili ni Tangazo liwafikie watu, liwaonye, na wapate kujua kuwa hakika Yeye ni Mungu Mmoja, na wapate kukumbuka wenye akili.",
-    "footnotes": "Hii Qur'ani ni Tangazo la kuwanasihi na kuwaonya na kuwakhofisha adhabu ya Mwenyezi Mungu, na ili wajue ya kwamba wakikhofu wakazingatia kuwa hakika hapana mungu ila Mungu Mmoja, na ili wenye akili wakumbuke utukufu wa Mola wao Mlezi, na kwa hivyo wajitenge mbali na yale yatayo waletea hilaki."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 261,
+  "verse_key": "14:52",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 104,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا بَلَٰغٞ لِّلنَّاسِ وَلِيُنذَرُواْ بِهِۦ وَلِيَعۡلَمُوٓاْ أَنَّمَا هُوَ إِلَٰهٞ وَٰحِدٞ وَلِيَذَّكَّرَ أُوْلُواْ ٱلۡأَلۡبَٰبِ",
+  "translation": "Hili ni Tangazo liwafikie watu, liwaonye, na wapate kujua kuwa hakika Yeye ni Mungu Mmoja, na wapate kukumbuka wenye akili.",
+  "footnotes": "Hii Qur'ani ni Tangazo la kuwanasihi na kuwaonya na kuwakhofisha adhabu ya Mwenyezi Mungu, na ili wajue ya kwamba wakikhofu wakazingatia kuwa hakika hapana mungu ila Mungu Mmoja, na ili wenye akili wakumbuke utukufu wa Mola wao Mlezi, na kwa hivyo wajitenge mbali na yale yatayo waletea hilaki."
 }

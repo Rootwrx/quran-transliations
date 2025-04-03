@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6094",
-    "sura": "94",
-    "aya": "4",
-    "arabic_text": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ",
-    "translation": "and raised high your fame for you[3]?",
-    "footnotes": "[3] Allah raised the Prophet's name in numerous ways, such as his name is mentioned twice in the call to prayer five times a day, as well the second call to prayer; at the end of each of the five daily prayers; believers invoke Allah’s blessings upon him and his family; and upon reverting to Islam, his name is mentioned, etc."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 596,
+  "verse_key": "94:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَرَفَعۡنَا لَكَ ذِكۡرَكَ",
+  "translation": "and raised high your fame for you[3]?",
+  "footnotes": "[3] Allah raised the Prophet's name in numerous ways, such as his name is mentioned twice in the call to prayer five times a day, as well the second call to prayer; at the end of each of the five daily prayers; believers invoke Allah’s blessings upon him and his family; and upon reverting to Islam, his name is mentioned, etc."
 }

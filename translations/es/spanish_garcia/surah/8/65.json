@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1225",
-    "sura": "8",
-    "aya": "65",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَرِّضِ ٱلۡمُؤۡمِنِينَ عَلَى ٱلۡقِتَالِۚ إِن يَكُن مِّنكُمۡ عِشۡرُونَ صَٰبِرُونَ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُم مِّاْئَةٞ يَغۡلِبُوٓاْ أَلۡفٗا مِّنَ ٱلَّذِينَ كَفَرُواْ بِأَنَّهُمۡ قَوۡمٞ لَّا يَفۡقَهُونَ",
-    "translation": "65. ¡Oh, Profeta! Exhorta a los creyentes a combatir [por la causa de Dios]. Por cada veinte pacientes y perseverantes de entre ustedes, vencerán a doscientos[1]; y si hubiere cien, vencerán a mil de los que se negaron a creer, porque ellos no razonan[2].",
-    "footnotes": "[1] Combatientes enemigos.\n[2] Que su causa es injusta."
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 185,
+  "verse_key": "8:65",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 74,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ حَرِّضِ ٱلۡمُؤۡمِنِينَ عَلَى ٱلۡقِتَالِۚ إِن يَكُن مِّنكُمۡ عِشۡرُونَ صَٰبِرُونَ يَغۡلِبُواْ مِاْئَتَيۡنِۚ وَإِن يَكُن مِّنكُم مِّاْئَةٞ يَغۡلِبُوٓاْ أَلۡفٗا مِّنَ ٱلَّذِينَ كَفَرُواْ بِأَنَّهُمۡ قَوۡمٞ لَّا يَفۡقَهُونَ",
+  "translation": "65. ¡Oh, Profeta! Exhorta a los creyentes a combatir [por la causa de Dios]. Por cada veinte pacientes y perseverantes de entre ustedes, vencerán a doscientos[1]; y si hubiere cien, vencerán a mil de los que se negaron a creer, porque ellos no razonan[2].",
+  "footnotes": "[1] Combatientes enemigos.\n[2] Que su causa es injusta."
 }

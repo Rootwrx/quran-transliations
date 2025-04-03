@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "596",
-    "sura": "4",
-    "aya": "103",
-    "arabic_text": "فَإِذَا قَضَيۡتُمُ ٱلصَّلَوٰةَ فَٱذۡكُرُواْ ٱللَّهَ قِيَٰمٗا وَقُعُودٗا وَعَلَىٰ جُنُوبِكُمۡۚ فَإِذَا ٱطۡمَأۡنَنتُمۡ فَأَقِيمُواْ ٱلصَّلَوٰةَۚ إِنَّ ٱلصَّلَوٰةَ كَانَتۡ عَلَى ٱلۡمُؤۡمِنِينَ كِتَٰبٗا مَّوۡقُوتٗا",
-    "translation": "Mkisha sali basi mkumbukeni Mwenyezi Mungu mkisimama, na mkikaa, na mnapo jinyoosha kwa kulala. Na mtapo tulia basi shikeni Sala kama dasturi. Kwani hakika Sala kwa Waumini ni faradhi iliyo wekewa nyakati maalumu.",
-    "footnotes": "Na mkisha Swala ya vita, inayo itwa Swala ya Khofu, msisahau kumkumbuka Mwenyezi Mungu daima. Mkumbukeni nanyi mmesimama, mnapigana, mmekaa, na mmelala. Kwani kumkumbuka Mwenyezi Mungu Mtukufu kunatia nguvu nyoyo, na kuzituliza. Khofu ikiondoka pakawa na utulivu basi timizeni Swala kwa ukamilifu, kwani Swala imefaridhiwa juu ya Waumini isaliwe kwa nyakati zake."
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 95,
+  "verse_key": "4:103",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا قَضَيۡتُمُ ٱلصَّلَوٰةَ فَٱذۡكُرُواْ ٱللَّهَ قِيَٰمٗا وَقُعُودٗا وَعَلَىٰ جُنُوبِكُمۡۚ فَإِذَا ٱطۡمَأۡنَنتُمۡ فَأَقِيمُواْ ٱلصَّلَوٰةَۚ إِنَّ ٱلصَّلَوٰةَ كَانَتۡ عَلَى ٱلۡمُؤۡمِنِينَ كِتَٰبٗا مَّوۡقُوتٗا",
+  "translation": "Mkisha sali basi mkumbukeni Mwenyezi Mungu mkisimama, na mkikaa, na mnapo jinyoosha kwa kulala. Na mtapo tulia basi shikeni Sala kama dasturi. Kwani hakika Sala kwa Waumini ni faradhi iliyo wekewa nyakati maalumu.",
+  "footnotes": "Na mkisha Swala ya vita, inayo itwa Swala ya Khofu, msisahau kumkumbuka Mwenyezi Mungu daima. Mkumbukeni nanyi mmesimama, mnapigana, mmekaa, na mmelala. Kwani kumkumbuka Mwenyezi Mungu Mtukufu kunatia nguvu nyoyo, na kuzituliza. Khofu ikiondoka pakawa na utulivu basi timizeni Swala kwa ukamilifu, kwani Swala imefaridhiwa juu ya Waumini isaliwe kwa nyakati zake."
 }

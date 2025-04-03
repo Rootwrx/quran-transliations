@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4441",
-    "sura": "44",
-    "aya": "27",
-    "arabic_text": "وَنَعۡمَةٖ كَانُواْ فِيهَا فَٰكِهِينَ",
-    "translation": "27. y una comodidad de la que disfrutaban.",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 497,
+  "verse_key": "44:27",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنَعۡمَةٖ كَانُواْ فِيهَا فَٰكِهِينَ",
+  "translation": "27. y una comodidad de la que disfrutaban.",
+  "footnotes": ""
 }

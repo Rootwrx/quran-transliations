@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3356",
-    "sura": "29",
-    "aya": "16",
-    "arabic_text": "وَإِبۡرَٰهِيمَ إِذۡ قَالَ لِقَوۡمِهِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُۖ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
-    "translation": "Et Abraham, quand il dit à son peuple : \"Adorez Allah, et craignez-Le ! cela vous est bien meilleur si vous saviez.\"",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 398,
+  "verse_key": "29:16",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 159,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِبۡرَٰهِيمَ إِذۡ قَالَ لِقَوۡمِهِ ٱعۡبُدُواْ ٱللَّهَ وَٱتَّقُوهُۖ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+  "translation": "Et Abraham, quand il dit à son peuple : \"Adorez Allah, et craignez-Le ! cela vous est bien meilleur si vous saviez.\"",
+  "footnotes": ""
 }

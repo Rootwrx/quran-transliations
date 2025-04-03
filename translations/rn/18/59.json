@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2199",
-    "sura": "18",
-    "aya": "59",
-    "arabic_text": "وَتِلۡكَ ٱلۡقُرَىٰٓ أَهۡلَكۡنَٰهُمۡ لَمَّا ظَلَمُواْ وَجَعَلۡنَا لِمَهۡلِكِهِم مَّوۡعِدٗا",
-    "translation": "Abahora baba muri turya ducimbiri turi hafi yanyu[8], Twebwe Allah Twabahoneje igihe birenganya mu kugarariza, Tukaba Twari Twabageneye isango ryo kubahonya, aho nya sango rigereye rero Twarabahoneje.",
-    "footnotes": "[8] Uducimbiri tw’abarungikiwe Intumwa Hudi, Swalehe, Luutwi na Shu’ayibu (za nyakugira impuhwe z’Imana Allah)."
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 300,
+  "verse_key": "18:59",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتِلۡكَ ٱلۡقُرَىٰٓ أَهۡلَكۡنَٰهُمۡ لَمَّا ظَلَمُواْ وَجَعَلۡنَا لِمَهۡلِكِهِم مَّوۡعِدٗا",
+  "translation": "Abahora baba muri turya ducimbiri turi hafi yanyu[8], Twebwe Allah Twabahoneje igihe birenganya mu kugarariza, Tukaba Twari Twabageneye isango ryo kubahonya, aho nya sango rigereye rero Twarabahoneje.",
+  "footnotes": "[8] Uducimbiri tw’abarungikiwe Intumwa Hudi, Swalehe, Luutwi na Shu’ayibu (za nyakugira impuhwe z’Imana Allah)."
 }

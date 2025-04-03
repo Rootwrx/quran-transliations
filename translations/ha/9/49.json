@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1284",
-    "sura": "9",
-    "aya": "49",
-    "arabic_text": "وَمِنۡهُم مَّن يَقُولُ ٱئۡذَن لِّي وَلَا تَفۡتِنِّيٓۚ أَلَا فِي ٱلۡفِتۡنَةِ سَقَطُواْۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةُۢ بِٱلۡكَٰفِرِينَ",
-    "translation": "Kuma daga cikinsu* akwai mai cẽwa, \"Ka yi mini izinin zama, kuma kada ka fitine ni.\" To, a cikin fitinar suka fãɗa. Kuma lalle ne Jahannama, haƙĩƙa, mai ƙẽwayẽwa ce ga kãfirai.",
-    "footnotes": "* Kuma a yanzu ga yãƙin Tabũka (munafukai) sun bayyana da irin uzurran da suke kãwowa dõmin kada su fita kamar mai cewa\" To, Allah Ya hana zina, idan na fita nã gã mãtan Rũmãwa, bã zan iya yin haƙuri daga barinsu ba' sabõdahaka inã son a karbi uzurina kada a jefa ni a cikin fitina.\" Bai sani ba. da wannan rashin fitar ya jefa kansa a cikin fitinar. Dõmin zã a bar shi tãre da mãtã, sũ da shi kawai."
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 195,
+  "verse_key": "9:49",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 78,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡهُم مَّن يَقُولُ ٱئۡذَن لِّي وَلَا تَفۡتِنِّيٓۚ أَلَا فِي ٱلۡفِتۡنَةِ سَقَطُواْۗ وَإِنَّ جَهَنَّمَ لَمُحِيطَةُۢ بِٱلۡكَٰفِرِينَ",
+  "translation": "Kuma daga cikinsu* akwai mai cẽwa, \"Ka yi mini izinin zama, kuma kada ka fitine ni.\" To, a cikin fitinar suka fãɗa. Kuma lalle ne Jahannama, haƙĩƙa, mai ƙẽwayẽwa ce ga kãfirai.",
+  "footnotes": "* Kuma a yanzu ga yãƙin Tabũka (munafukai) sun bayyana da irin uzurran da suke kãwowa dõmin kada su fita kamar mai cewa\" To, Allah Ya hana zina, idan na fita nã gã mãtan Rũmãwa, bã zan iya yin haƙuri daga barinsu ba' sabõdahaka inã son a karbi uzurina kada a jefa ni a cikin fitina.\" Bai sani ba. da wannan rashin fitar ya jefa kansa a cikin fitinar. Dõmin zã a bar shi tãre da mãtã, sũ da shi kawai."
 }

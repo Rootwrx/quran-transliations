@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4717",
-    "sura": "51",
-    "aya": "42",
-    "arabic_text": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ",
-    "translation": "pored čega god je prošao, ništa nije poštedio, sve je u gnjilež pretvorio.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 522,
+  "verse_key": "51:42",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا تَذَرُ مِن شَيۡءٍ أَتَتۡ عَلَيۡهِ إِلَّا جَعَلَتۡهُ كَٱلرَّمِيمِ",
+  "translation": "pored čega god je prošao, ništa nije poštedio, sve je u gnjilež pretvorio.",
+  "footnotes": ""
 }

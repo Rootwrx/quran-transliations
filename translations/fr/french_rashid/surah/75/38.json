@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5589",
-    "sura": "75",
-    "aya": "38",
-    "arabic_text": "ثُمَّ كَانَ عَلَقَةٗ فَخَلَقَ فَسَوَّىٰ",
-    "translation": "38 puis d’un corps s’accrochant à la matrice, avant qu’Allah ne lui donne la vie et n’en fasse un être accompli,",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 578,
+  "verse_key": "75:38",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ كَانَ عَلَقَةٗ فَخَلَقَ فَسَوَّىٰ",
+  "translation": "38 puis d’un corps s’accrochant à la matrice, avant qu’Allah ne lui donne la vie et n’en fasse un être accompli,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5074",
-    "sura": "56",
-    "aya": "95",
-    "arabic_text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
-    "translation": "Hakika hii ndiyo haki yenye yakini.",
-    "footnotes": "Hakika haya yaliyo tajwa katika Sura hii tukufu bila ya shaka ni kiini cha yakini iliyo thibiti, isiyo ingiliwa na shaka."
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 537,
+  "verse_key": "56:95",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰذَا لَهُوَ حَقُّ ٱلۡيَقِينِ",
+  "translation": "Hakika hii ndiyo haki yenye yakini.",
+  "footnotes": "Hakika haya yaliyo tajwa katika Sura hii tukufu bila ya shaka ni kiini cha yakini iliyo thibiti, isiyo ingiliwa na shaka."
 }

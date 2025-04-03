@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4818",
-    "sura": "53",
-    "aya": "34",
-    "arabic_text": "وَأَعۡطَىٰ قَلِيلٗا وَأَكۡدَىٰٓ",
-    "translation": "ߊ߬ ߣߴߊ߬ ߞߊ߬ ߘߏߣߍ߲߫ ߘߌ߫ ߞߵߊ߬ ߕߍ߮ ߜߟߍ߬ߦߊ߫؟",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 527,
+  "verse_key": "53:34",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَعۡطَىٰ قَلِيلٗا وَأَكۡدَىٰٓ",
+  "translation": "ߊ߬ ߣߴߊ߬ ߞߊ߬ ߘߏߣߍ߲߫ ߘߌ߫ ߞߵߊ߬ ߕߍ߮ ߜߟߍ߬ߦߊ߫؟",
+  "footnotes": ""
 }

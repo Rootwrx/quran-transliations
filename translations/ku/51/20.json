@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4695",
-    "sura": "51",
-    "aya": "20",
-    "arabic_text": "وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ",
-    "translation": "وەلەزەویدا بەڵگە ونیشانە ھەیە بۆ باوەڕداران\n",
-    "footnotes": null
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 521,
+  "verse_key": "51:20",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفِي ٱلۡأَرۡضِ ءَايَٰتٞ لِّلۡمُوقِنِينَ",
+  "translation": "وەلەزەویدا بەڵگە ونیشانە ھەیە بۆ باوەڕداران\n",
+  "footnotes": null
 }

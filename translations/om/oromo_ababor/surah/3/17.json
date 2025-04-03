@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "310",
-    "sura": "3",
-    "aya": "17",
-    "arabic_text": "ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلۡقَٰنِتِينَ وَٱلۡمُنفِقِينَ وَٱلۡمُسۡتَغۡفِرِينَ بِٱلۡأَسۡحَارِ",
-    "translation": "Obsitoota, dhugaa dubbattoota, [Rabbiif] ajajamtoota, kennattootaafi warra obboroo keessa dhiifama kadhatanin [faarsa].",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 52,
+  "verse_key": "3:17",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلصَّٰبِرِينَ وَٱلصَّٰدِقِينَ وَٱلۡقَٰنِتِينَ وَٱلۡمُنفِقِينَ وَٱلۡمُسۡتَغۡفِرِينَ بِٱلۡأَسۡحَارِ",
+  "translation": "Obsitoota, dhugaa dubbattoota, [Rabbiif] ajajamtoota, kennattootaafi warra obboroo keessa dhiifama kadhatanin [faarsa].",
+  "footnotes": ""
 }

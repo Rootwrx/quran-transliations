@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3813",
-    "sura": "37",
-    "aya": "25",
-    "arabic_text": "مَا لَكُمۡ لَا تَنَاصَرُونَ",
-    "translation": "\"Pourquoi ne vous portez-vous pas secours mutuellement?\"",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 447,
+  "verse_key": "37:25",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا لَكُمۡ لَا تَنَاصَرُونَ",
+  "translation": "\"Pourquoi ne vous portez-vous pas secours mutuellement?\"",
+  "footnotes": ""
 }

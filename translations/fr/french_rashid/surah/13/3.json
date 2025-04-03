@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1710",
-    "sura": "13",
-    "aya": "3",
-    "arabic_text": "وَهُوَ ٱلَّذِي مَدَّ ٱلۡأَرۡضَ وَجَعَلَ فِيهَا رَوَٰسِيَ وَأَنۡهَٰرٗاۖ وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوۡجَيۡنِ ٱثۡنَيۡنِۖ يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ",
-    "translation": "3 C’est Lui qui a fait de la terre une vaste étendue où Il a solidement fixé des montagnes[653], où Il a fait couler des rivières et où Il fait pousser chaque fruit à partir d’un couple d’éléments[654]. Il couvre le jour de l’obscurité de la nuit et celle-ci de la lumière du jour. Voilà des signes suffisamment clairs pour des hommes capables de les méditer.",
-    "footnotes": "[653] Qui en assurent la stabilité.\n[654] Les organes mâles et femelles. Voici, au sujet de ce verset, le commentaire du docteur Maurice Bucaille dans son fameux ouvrage intitulé : La Bible, le Coran et la science : « On sait que le fruit est le terme du processus de reproduction des végétaux supérieurs qui ont l’organisation la plus élaborée, la plus complexe. Le stade qui précède le fruit est celui de la fleur avec ses organes mâles (étamines) et femelles (ovules). Ces derniers, après apport du pollen, donnent des fruits qui, après maturation, libèrent les graines. Tout fruit implique donc l’existence d’organes mâles et d’organes femelles. »"
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 249,
+  "verse_key": "13:3",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِي مَدَّ ٱلۡأَرۡضَ وَجَعَلَ فِيهَا رَوَٰسِيَ وَأَنۡهَٰرٗاۖ وَمِن كُلِّ ٱلثَّمَرَٰتِ جَعَلَ فِيهَا زَوۡجَيۡنِ ٱثۡنَيۡنِۖ يُغۡشِي ٱلَّيۡلَ ٱلنَّهَارَۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ",
+  "translation": "3 C’est Lui qui a fait de la terre une vaste étendue où Il a solidement fixé des montagnes[653], où Il a fait couler des rivières et où Il fait pousser chaque fruit à partir d’un couple d’éléments[654]. Il couvre le jour de l’obscurité de la nuit et celle-ci de la lumière du jour. Voilà des signes suffisamment clairs pour des hommes capables de les méditer.",
+  "footnotes": "[653] Qui en assurent la stabilité.\n[654] Les organes mâles et femelles. Voici, au sujet de ce verset, le commentaire du docteur Maurice Bucaille dans son fameux ouvrage intitulé : La Bible, le Coran et la science : « On sait que le fruit est le terme du processus de reproduction des végétaux supérieurs qui ont l’organisation la plus élaborée, la plus complexe. Le stade qui précède le fruit est celui de la fleur avec ses organes mâles (étamines) et femelles (ovules). Ces derniers, après apport du pollen, donnent des fruits qui, après maturation, libèrent les graines. Tout fruit implique donc l’existence d’organes mâles et d’organes femelles. »"
 }

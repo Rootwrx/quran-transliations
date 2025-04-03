@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1729",
-    "sura": "13",
-    "aya": "22",
-    "arabic_text": "وَٱلَّذِينَ صَبَرُواْ ٱبۡتِغَآءَ وَجۡهِ رَبِّهِمۡ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَنفَقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ أُوْلَٰٓئِكَ لَهُمۡ عُقۡبَى ٱلدَّارِ",
-    "translation": "Na ambao husubiri kwa kutaka radhi ya Mola wao Mlezi, na wakashika Swala, na wakatoa, kwa siri na kwa uwazi, katika tulivyo wapa; na wakayaondoa maovu kwa wema. Hao ndio watakao pata malipo ya Nyumba ya Akhera.",
-    "footnotes": "Na wanavumilia maudhi wakitafuta radhi za Mwenyezi Mungu iwasaidie katika Njia ya kuwania Haki. Wanashika Swala kama inavyo pasa kusafisha roho zao, na kumkumbuka Mola wao Mlezi. Na wanatoa kutokana na mali aliyo wapa Mwenyezi Mungu kisirisiri na kwa dhahiri bila ya kutaka kuonyesha watu, na kwa maovu wanao tendewa wao wanalipa mema. Na wao kwa sifa hizi watapata malipo mema kwa kukaa katika ahsani ya nyumba, nayo ndiyo Pepo."
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 252,
+  "verse_key": "13:22",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ صَبَرُواْ ٱبۡتِغَآءَ وَجۡهِ رَبِّهِمۡ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَنفَقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ أُوْلَٰٓئِكَ لَهُمۡ عُقۡبَى ٱلدَّارِ",
+  "translation": "Na ambao husubiri kwa kutaka radhi ya Mola wao Mlezi, na wakashika Swala, na wakatoa, kwa siri na kwa uwazi, katika tulivyo wapa; na wakayaondoa maovu kwa wema. Hao ndio watakao pata malipo ya Nyumba ya Akhera.",
+  "footnotes": "Na wanavumilia maudhi wakitafuta radhi za Mwenyezi Mungu iwasaidie katika Njia ya kuwania Haki. Wanashika Swala kama inavyo pasa kusafisha roho zao, na kumkumbuka Mola wao Mlezi. Na wanatoa kutokana na mali aliyo wapa Mwenyezi Mungu kisirisiri na kwa dhahiri bila ya kutaka kuonyesha watu, na kwa maovu wanao tendewa wao wanalipa mema. Na wao kwa sifa hizi watapata malipo mema kwa kukaa katika ahsani ya nyumba, nayo ndiyo Pepo."
 }

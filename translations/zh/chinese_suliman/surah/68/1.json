@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5272",
-    "sura": "68",
-    "aya": "1",
-    "arabic_text": "نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ",
-    "translation": "努尼。以笔和他们所写的盟誓，",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 564,
+  "verse_key": "68:1",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ",
+  "translation": "努尼。以笔和他们所写的盟誓，",
+  "footnotes": ""
 }

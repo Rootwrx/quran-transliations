@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5601",
-    "sura": "76",
-    "aya": "10",
-    "arabic_text": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوۡمًا عَبُوسٗا قَمۡطَرِيرٗا",
-    "translation": "Efirisε, yɛsuro muna ne ahokyerε Da kεseε a efiri yεn Wura Nyankopͻn hͻ no.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 579,
+  "verse_key": "76:10",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا نَخَافُ مِن رَّبِّنَا يَوۡمًا عَبُوسٗا قَمۡطَرِيرٗا",
+  "translation": "Efirisε, yɛsuro muna ne ahokyerε Da kεseε a efiri yεn Wura Nyankopͻn hͻ no.",
+  "footnotes": ""
 }

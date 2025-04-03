@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5988",
-    "sura": "88",
-    "aya": "21",
-    "arabic_text": "فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ",
-    "translation": "Então, lembra-lhes o Alcorão. És, apenas lembrador.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 592,
+  "verse_key": "88:21",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَذَكِّرۡ إِنَّمَآ أَنتَ مُذَكِّرٞ",
+  "translation": "Então, lembra-lhes o Alcorão. És, apenas lembrador.",
+  "footnotes": ""
 }

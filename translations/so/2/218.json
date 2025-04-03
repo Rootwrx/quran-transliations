@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "225",
-    "sura": "2",
-    "aya": "218",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ أُوْلَٰٓئِكَ يَرۡجُونَ رَحۡمَتَ ٱللَّهِۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
-    "translation": "218. Kuwa rumeeyay (Xaqa) iyo kuwa soo haajiray ee ku jihaaday Jidka Alle, kuwaa waxay rajayn Naxariista Alle. Allena waa Denbi Dhaaf Badane, Naxariis Badan.",
-    "footnotes": ""
-  }
+  "id": 218,
+  "verse_number": 218,
+  "page_number": 34,
+  "verse_key": "2:218",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَاجَرُواْ وَجَٰهَدُواْ فِي سَبِيلِ ٱللَّهِ أُوْلَٰٓئِكَ يَرۡجُونَ رَحۡمَتَ ٱللَّهِۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "translation": "218. Kuwa rumeeyay (Xaqa) iyo kuwa soo haajiray ee ku jihaaday Jidka Alle, kuwaa waxay rajayn Naxariista Alle. Allena waa Denbi Dhaaf Badane, Naxariis Badan.",
+  "footnotes": ""
 }

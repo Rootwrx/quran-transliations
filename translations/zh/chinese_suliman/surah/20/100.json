@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2448",
-    "sura": "20",
-    "aya": "100",
-    "arabic_text": "مَّنۡ أَعۡرَضَ عَنۡهُ فَإِنَّهُۥ يَحۡمِلُ يَوۡمَ ٱلۡقِيَٰمَةِ وِزۡرًا",
-    "translation": "谁违背它〔教诲〕，谁在复活日必负重罪，",
-    "footnotes": ""
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 319,
+  "verse_key": "20:100",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّنۡ أَعۡرَضَ عَنۡهُ فَإِنَّهُۥ يَحۡمِلُ يَوۡمَ ٱلۡقِيَٰمَةِ وِزۡرًا",
+  "translation": "谁违背它〔教诲〕，谁在复活日必负重罪，",
+  "footnotes": ""
 }

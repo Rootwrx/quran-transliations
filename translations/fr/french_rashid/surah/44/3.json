@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4417",
-    "sura": "44",
-    "aya": "3",
-    "arabic_text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةٖ مُّبَٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِينَ",
-    "translation": "3 Nous l’avons fait descendre par une nuit bénie[1263] - Nous n’avons eu de cesse d’avertir les hommes -,",
-    "footnotes": "[1263] La Nuit des décrets divins ou « Nuit du destin »."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 496,
+  "verse_key": "44:3",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةٖ مُّبَٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِينَ",
+  "translation": "3 Nous l’avons fait descendre par une nuit bénie[1263] - Nous n’avons eu de cesse d’avertir les hommes -,",
+  "footnotes": "[1263] La Nuit des décrets divins ou « Nuit du destin »."
 }

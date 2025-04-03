@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "362",
-    "sura": "3",
-    "aya": "69",
-    "arabic_text": "وَدَّت طَّآئِفَةٞ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ لَوۡ يُضِلُّونَكُمۡ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمۡ وَمَا يَشۡعُرُونَ",
-    "translation": "Bislamu! Mu bahawe Igitabu mu bayahudi n’abanaswara, harimwo umugwi wipfuza cane ko wobahubisha ukabakura mw’idini ryanyu ry’ubwislamu, nta n’uwo uzohubisha kiretse ukwihubisha wo nyene hamwe n’abawukurikira utabizi.",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 58,
+  "verse_key": "3:69",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَدَّت طَّآئِفَةٞ مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ لَوۡ يُضِلُّونَكُمۡ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمۡ وَمَا يَشۡعُرُونَ",
+  "translation": "Bislamu! Mu bahawe Igitabu mu bayahudi n’abanaswara, harimwo umugwi wipfuza cane ko wobahubisha ukabakura mw’idini ryanyu ry’ubwislamu, nta n’uwo uzohubisha kiretse ukwihubisha wo nyene hamwe n’abawukurikira utabizi.",
+  "footnotes": ""
 }

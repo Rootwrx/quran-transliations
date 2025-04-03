@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "355",
-    "sura": "3",
-    "aya": "62",
-    "arabic_text": "إِنَّ هَٰذَا لَهُوَ ٱلۡقَصَصُ ٱلۡحَقُّۚ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "62. Ésta es la verdadera historia. No hay otra divinidad más que Dios. Dios es el Poderoso, el Sabio.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 58,
+  "verse_key": "3:62",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ هَٰذَا لَهُوَ ٱلۡقَصَصُ ٱلۡحَقُّۚ وَمَا مِنۡ إِلَٰهٍ إِلَّا ٱللَّهُۚ وَإِنَّ ٱللَّهَ لَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "62. Ésta es la verdadera historia. No hay otra divinidad más que Dios. Dios es el Poderoso, el Sabio.",
+  "footnotes": ""
 }

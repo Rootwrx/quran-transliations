@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1980",
-    "sura": "16",
-    "aya": "79",
-    "arabic_text": "أَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ مُسَخَّرَٰتٖ فِي جَوِّ ٱلسَّمَآءِ مَا يُمۡسِكُهُنَّ إِلَّا ٱللَّهُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
-    "translation": "Je! Hawawaoni ndege walivyo wat'iifu katika anga la mbingu? Hapana mwenye kuwashika isipo kuwa Mwenyezi Mungu. Hakika katika haya zipo ishara kwa watu wanao amini.",
-    "footnotes": "Je! Hao washirikina hawawaangalii ndege walio jaaliwa waweze kuruka hewani juu, kwa kupewa na Mwenyezi Mungu mbawa kubwa kuliko miili yao, wakiikunjua na kuikunja. Na Mwenyezi Mungu akaidhalilisha hewa kuwabeba hao ndege. Hapana anaye washika huko angani ila Mwenyezi Mungu kwa nidhamu aliyo itengeneza Yeye Mwenyewe! Hakika katika kuwatazama hao ndege, na kuzingatia hikima ya Mwenyezi Mungu katika kuwaumba, ni ishara kubwa ya kuwanafiisha walio kuwa tayari kuamini. Ndege wanaruka kwa sababu kadhaa wa kadhaa katika kuumbwa kwao. Muhimu kuliko yote ni lile umbo lao la kuchongoka, na kuwa mbawa zao zilivyo tanda zenye manyoya, na mafupa yenye uwazi na myepesi na vifuko vya hewa kati ya matumbo yao, navyo vimeambatishwa na mayavuyavu (mapafu). Hivyo vifuko hujaa hewa wakati wa kuruka, basi huzidi hao ndege kuwa wepesi."
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 275,
+  "verse_key": "16:79",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ يَرَوۡاْ إِلَى ٱلطَّيۡرِ مُسَخَّرَٰتٖ فِي جَوِّ ٱلسَّمَآءِ مَا يُمۡسِكُهُنَّ إِلَّا ٱللَّهُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يُؤۡمِنُونَ",
+  "translation": "Je! Hawawaoni ndege walivyo wat'iifu katika anga la mbingu? Hapana mwenye kuwashika isipo kuwa Mwenyezi Mungu. Hakika katika haya zipo ishara kwa watu wanao amini.",
+  "footnotes": "Je! Hao washirikina hawawaangalii ndege walio jaaliwa waweze kuruka hewani juu, kwa kupewa na Mwenyezi Mungu mbawa kubwa kuliko miili yao, wakiikunjua na kuikunja. Na Mwenyezi Mungu akaidhalilisha hewa kuwabeba hao ndege. Hapana anaye washika huko angani ila Mwenyezi Mungu kwa nidhamu aliyo itengeneza Yeye Mwenyewe! Hakika katika kuwatazama hao ndege, na kuzingatia hikima ya Mwenyezi Mungu katika kuwaumba, ni ishara kubwa ya kuwanafiisha walio kuwa tayari kuamini. Ndege wanaruka kwa sababu kadhaa wa kadhaa katika kuumbwa kwao. Muhimu kuliko yote ni lile umbo lao la kuchongoka, na kuwa mbawa zao zilivyo tanda zenye manyoya, na mafupa yenye uwazi na myepesi na vifuko vya hewa kati ya matumbo yao, navyo vimeambatishwa na mayavuyavu (mapafu). Hivyo vifuko hujaa hewa wakati wa kuruka, basi huzidi hao ndege kuwa wepesi."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5607",
-    "sura": "76",
-    "aya": "16",
-    "arabic_text": "قَوَارِيرَاْ مِن فِضَّةٖ قَدَّرُوهَا تَقۡدِيرٗا",
-    "translation": "16. Kristalhelder, gemaakt van zilver. Zij zullen de maat daarvan bepalen volgens hun wensen.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 579,
+  "verse_key": "76:16",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَوَارِيرَاْ مِن فِضَّةٖ قَدَّرُوهَا تَقۡدِيرٗا",
+  "translation": "16. Kristalhelder, gemaakt van zilver. Zij zullen de maat daarvan bepalen volgens hun wensen.",
+  "footnotes": ""
 }

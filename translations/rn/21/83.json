@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2566",
-    "sura": "21",
-    "aya": "83",
-    "arabic_text": "۞ وَأَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
-    "translation": "Ntumwa y’Imana! Ibuka n’inkuru y’Umuja wacu Ayubu (nyakugira amahoro y’Imana Allah), igihe yageragezwa mu vyago vy’indwara z’igihe kirekire, abana bagahwera, amatungo akamuherako, akihanganira ivyo vyose ku bw’Imana Allah, araheza ahamagara Imana yiwe Rurema Allah ayitakambira ati: “Mu vy’ukuri, nakozweko n’ivyago vy’indwara, none rero ndagusavye Mana yanje ubinkureko, kuko Wewe Urangwa n’impuhwe zisumba iz’abagirampuhwe bose”.",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 329,
+  "verse_key": "21:83",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَأَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
+  "translation": "Ntumwa y’Imana! Ibuka n’inkuru y’Umuja wacu Ayubu (nyakugira amahoro y’Imana Allah), igihe yageragezwa mu vyago vy’indwara z’igihe kirekire, abana bagahwera, amatungo akamuherako, akihanganira ivyo vyose ku bw’Imana Allah, araheza ahamagara Imana yiwe Rurema Allah ayitakambira ati: “Mu vy’ukuri, nakozweko n’ivyago vy’indwara, none rero ndagusavye Mana yanje ubinkureko, kuko Wewe Urangwa n’impuhwe zisumba iz’abagirampuhwe bose”.",
+  "footnotes": ""
 }

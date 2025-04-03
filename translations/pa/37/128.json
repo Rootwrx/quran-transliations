@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3916",
-    "sura": "37",
-    "aya": "128",
-    "arabic_text": "إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِينَ",
-    "translation": "128਼ ਰੱਬ ਦੇ ਨੇਕ ਬੰਦਿਆਂ ਤੋਂ ਛੁੱਟ (ਸਜ਼ਾ ਤੋਂ ਕੋਈ ਨਹੀਂ ਬਚ ਸਕੇਗਾ)।",
-    "footnotes": ""
-  }
+  "id": 128,
+  "verse_number": 128,
+  "page_number": 451,
+  "verse_key": "37:128",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا عِبَادَ ٱللَّهِ ٱلۡمُخۡلَصِينَ",
+  "translation": "128਼ ਰੱਬ ਦੇ ਨੇਕ ਬੰਦਿਆਂ ਤੋਂ ਛੁੱਟ (ਸਜ਼ਾ ਤੋਂ ਕੋਈ ਨਹੀਂ ਬਚ ਸਕੇਗਾ)।",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2280",
-    "sura": "19",
-    "aya": "30",
-    "arabic_text": "قَالَ إِنِّي عَبۡدُ ٱللَّهِ ءَاتَىٰنِيَ ٱلۡكِتَٰبَ وَجَعَلَنِي نَبِيّٗا",
-    "translation": "(Ngay lúc đó, đứa bé) lên tiếng: “Quả thật Ta là một người bề tôi của Allah. Ngài ban cho Ta Kinh Sách và chọn Ta làm một vị Nabi.”",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 307,
+  "verse_key": "19:30",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ إِنِّي عَبۡدُ ٱللَّهِ ءَاتَىٰنِيَ ٱلۡكِتَٰبَ وَجَعَلَنِي نَبِيّٗا",
+  "translation": "(Ngay lúc đó, đứa bé) lên tiếng: “Quả thật Ta là một người bề tôi của Allah. Ngài ban cho Ta Kinh Sách và chọn Ta làm một vị Nabi.”",
+  "footnotes": ""
 }

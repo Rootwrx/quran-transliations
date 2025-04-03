@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4450",
-    "sura": "44",
-    "aya": "36",
-    "arabic_text": "فَأۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "Ngaho nimugarure abakurambere bacu (bapfuye kera) niba muvuga ukuri (ko Allah azazura abapfuye).",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 497,
+  "verse_key": "44:36",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأۡتُواْ بِـَٔابَآئِنَآ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "Ngaho nimugarure abakurambere bacu (bapfuye kera) niba muvuga ukuri (ko Allah azazura abapfuye).",
+  "footnotes": ""
 }

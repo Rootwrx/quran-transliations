@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3275",
-    "sura": "28",
-    "aya": "23",
-    "arabic_text": "وَلَمَّا وَرَدَ مَآءَ مَدۡيَنَ وَجَدَ عَلَيۡهِ أُمَّةٗ مِّنَ ٱلنَّاسِ يَسۡقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمۡرَأَتَيۡنِ تَذُودَانِۖ قَالَ مَا خَطۡبُكُمَاۖ قَالَتَا لَا نَسۡقِي حَتَّىٰ يُصۡدِرَ ٱلرِّعَآءُۖ وَأَبُونَا شَيۡخٞ كَبِيرٞ",
-    "translation": "23. Markuu soo gaaray biyihii Madyan wuxuu ka helay halkaa koox rag ah oo waraabsanaya (xoolahooda), sokadooda wuxuu ka helay labo haween ah oo horaya (xoolahooda). (Muuse) wuxuu yidhi: Muxuu xaalkiinnu yahay? Waxay yidhaahdeen: Ma waraabinno (xoolaheenna) jeeray raacata- du fulaan oo kaxeystaan (xoolahooda), aabbaheennna waa oday weyn oo da' ah.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 388,
+  "verse_key": "28:23",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا وَرَدَ مَآءَ مَدۡيَنَ وَجَدَ عَلَيۡهِ أُمَّةٗ مِّنَ ٱلنَّاسِ يَسۡقُونَ وَوَجَدَ مِن دُونِهِمُ ٱمۡرَأَتَيۡنِ تَذُودَانِۖ قَالَ مَا خَطۡبُكُمَاۖ قَالَتَا لَا نَسۡقِي حَتَّىٰ يُصۡدِرَ ٱلرِّعَآءُۖ وَأَبُونَا شَيۡخٞ كَبِيرٞ",
+  "translation": "23. Markuu soo gaaray biyihii Madyan wuxuu ka helay halkaa koox rag ah oo waraabsanaya (xoolahooda), sokadooda wuxuu ka helay labo haween ah oo horaya (xoolahooda). (Muuse) wuxuu yidhi: Muxuu xaalkiinnu yahay? Waxay yidhaahdeen: Ma waraabinno (xoolaheenna) jeeray raacata- du fulaan oo kaxeystaan (xoolahooda), aabbaheennna waa oday weyn oo da' ah.",
+  "footnotes": ""
 }

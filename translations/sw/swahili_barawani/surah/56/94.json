@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5073",
-    "sura": "56",
-    "aya": "94",
-    "arabic_text": "وَتَصۡلِيَةُ جَحِيمٍ",
-    "translation": "Na kutiwa Motoni.",
-    "footnotes": "Na kubabuliwa na moto wa mwisho wa ukali."
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 537,
+  "verse_key": "56:94",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَصۡلِيَةُ جَحِيمٍ",
+  "translation": "Na kutiwa Motoni.",
+  "footnotes": "Na kubabuliwa na moto wa mwisho wa ukali."
 }

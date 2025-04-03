@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1805",
-    "sura": "15",
-    "aya": "3",
-    "arabic_text": "ذَرۡهُمۡ يَأۡكُلُواْ وَيَتَمَتَّعُواْ وَيُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ يَعۡلَمُونَ",
-    "translation": " 3. Leave them to eat and enjoy, and let them be preoccupied with (false) hope. They will come to know!",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 262,
+  "verse_key": "15:3",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَرۡهُمۡ يَأۡكُلُواْ وَيَتَمَتَّعُواْ وَيُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ يَعۡلَمُونَ",
+  "translation": " 3. Leave them to eat and enjoy, and let them be preoccupied with (false) hope. They will come to know!",
+  "footnotes": ""
 }

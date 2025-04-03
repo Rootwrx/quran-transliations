@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2930",
-    "sura": "25",
-    "aya": "75",
-    "arabic_text": "أُوْلَٰٓئِكَ يُجۡزَوۡنَ ٱلۡغُرۡفَةَ بِمَا صَبَرُواْ وَيُلَقَّوۡنَ فِيهَا تَحِيَّةٗ وَسَلَٰمًا",
-    "translation": "It is they who will be rewarded with high palaces [in Paradise] for their perseverance, and they will be received therein with salutations and greetings of peace,",
-    "footnotes": ""
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 366,
+  "verse_key": "25:75",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ يُجۡزَوۡنَ ٱلۡغُرۡفَةَ بِمَا صَبَرُواْ وَيُلَقَّوۡنَ فِيهَا تَحِيَّةٗ وَسَلَٰمًا",
+  "translation": "It is they who will be rewarded with high palaces [in Paradise] for their perseverance, and they will be received therein with salutations and greetings of peace,",
+  "footnotes": ""
 }

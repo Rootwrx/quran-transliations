@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5419",
-    "sura": "70",
-    "aya": "44",
-    "arabic_text": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۚ ذَٰلِكَ ٱلۡيَوۡمُ ٱلَّذِي كَانُواْ يُوعَدُونَ",
-    "translation": "Gözleri horluktan aşağı düşmüş ve kendileri zillete bürünmüş. İşte bu, onların tehdit edilegeldikleri gündür!",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 570,
+  "verse_key": "70:44",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۚ ذَٰلِكَ ٱلۡيَوۡمُ ٱلَّذِي كَانُواْ يُوعَدُونَ",
+  "translation": "Gözleri horluktan aşağı düşmüş ve kendileri zillete bürünmüş. İşte bu, onların tehdit edilegeldikleri gündür!",
+  "footnotes": ""
 }

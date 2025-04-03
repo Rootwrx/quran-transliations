@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "943",
-    "sura": "6",
-    "aya": "154",
-    "arabic_text": "ثُمَّ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ تَمَامًا عَلَى ٱلَّذِيٓ أَحۡسَنَ وَتَفۡصِيلٗا لِّكُلِّ شَيۡءٖ وَهُدٗى وَرَحۡمَةٗ لَّعَلَّهُم بِلِقَآءِ رَبِّهِمۡ يُؤۡمِنُونَ",
-    "translation": " 154. Then, We gave Mûsâ (Moses) the Book [the Taurât (Torah)] to complete (Our Favour) upon those who would do right, and explaining all things in detail and a guidance and a mercy that they might believe in the meeting with their Lord.",
-    "footnotes": ""
-  }
+  "id": 154,
+  "verse_number": 154,
+  "page_number": 149,
+  "verse_key": "6:154",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ تَمَامًا عَلَى ٱلَّذِيٓ أَحۡسَنَ وَتَفۡصِيلٗا لِّكُلِّ شَيۡءٖ وَهُدٗى وَرَحۡمَةٗ لَّعَلَّهُم بِلِقَآءِ رَبِّهِمۡ يُؤۡمِنُونَ",
+  "translation": " 154. Then, We gave Mûsâ (Moses) the Book [the Taurât (Torah)] to complete (Our Favour) upon those who would do right, and explaining all things in detail and a guidance and a mercy that they might believe in the meeting with their Lord.",
+  "footnotes": ""
 }

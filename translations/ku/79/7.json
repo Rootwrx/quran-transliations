@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5719",
-    "sura": "79",
-    "aya": "7",
-    "arabic_text": "تَتۡبَعُهَا ٱلرَّادِفَةُ",
-    "translation": "بومەلەرزەیەکی تریشی بەدوایدا دێت، مردووان زیندوو دەبنەوە\n",
-    "footnotes": null
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 583,
+  "verse_key": "79:7",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَتۡبَعُهَا ٱلرَّادِفَةُ",
+  "translation": "بومەلەرزەیەکی تریشی بەدوایدا دێت، مردووان زیندوو دەبنەوە\n",
+  "footnotes": null
 }

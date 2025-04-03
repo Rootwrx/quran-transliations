@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1939",
-    "sura": "16",
-    "aya": "38",
-    "arabic_text": "وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَا يَبۡعَثُ ٱللَّهُ مَن يَمُوتُۚ بَلَىٰ وَعۡدًا عَلَيۡهِ حَقّٗا وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
-    "translation": "Et ils jurent par Allah en prononçant leurs serments les plus solennels : \"Allah ne ressuscitera pas celui qui meurt.\" Bien au contraire! C’est une promesse véritable [de Sa part], mais la plupart des gens ne le savent pas.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 271,
+  "verse_key": "16:38",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَقۡسَمُواْ بِٱللَّهِ جَهۡدَ أَيۡمَٰنِهِمۡ لَا يَبۡعَثُ ٱللَّهُ مَن يَمُوتُۚ بَلَىٰ وَعۡدًا عَلَيۡهِ حَقّٗا وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+  "translation": "Et ils jurent par Allah en prononçant leurs serments les plus solennels : \"Allah ne ressuscitera pas celui qui meurt.\" Bien au contraire! C’est une promesse véritable [de Sa part], mais la plupart des gens ne le savent pas.",
+  "footnotes": ""
 }

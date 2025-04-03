@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "196",
-    "sura": "2",
-    "aya": "189",
-    "arabic_text": "۞ يَسۡـَٔلُونَكَ عَنِ ٱلۡأَهِلَّةِۖ قُلۡ هِيَ مَوَٰقِيتُ لِلنَّاسِ وَٱلۡحَجِّۗ وَلَيۡسَ ٱلۡبِرُّ بِأَن تَأۡتُواْ ٱلۡبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلۡبِرَّ مَنِ ٱتَّقَىٰۗ وَأۡتُواْ ٱلۡبُيُوتَ مِنۡ أَبۡوَٰبِهَاۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
-    "translation": "Wọ́n ń bi ọ́ léèrè nípa àwọn ìlétéṣù. Sọ pé: “Òhun ni (òǹkà) àkókò fún àwọn ènìyàn àti (òǹkà àkókò fún) iṣẹ́ Hajj. Kì í ṣe iṣẹ́ rere (fún yín) láti gba ẹ̀yìn-ìnkùlé wọnú ilé, ṣùgbọ́n (olùṣe) rere ni ẹni tí ó bá bẹ̀rù (Allāhu). Ẹ gba ẹnu-ọ̀nà wọnú ilé. Kí ẹ sì bẹ̀rù Allāhu nítorí kí ẹ lè jèrè.",
-    "footnotes": ""
-  }
+  "id": 189,
+  "verse_number": 189,
+  "page_number": 29,
+  "verse_key": "2:189",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 12,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ يَسۡـَٔلُونَكَ عَنِ ٱلۡأَهِلَّةِۖ قُلۡ هِيَ مَوَٰقِيتُ لِلنَّاسِ وَٱلۡحَجِّۗ وَلَيۡسَ ٱلۡبِرُّ بِأَن تَأۡتُواْ ٱلۡبُيُوتَ مِن ظُهُورِهَا وَلَٰكِنَّ ٱلۡبِرَّ مَنِ ٱتَّقَىٰۗ وَأۡتُواْ ٱلۡبُيُوتَ مِنۡ أَبۡوَٰبِهَاۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُفۡلِحُونَ",
+  "translation": "Wọ́n ń bi ọ́ léèrè nípa àwọn ìlétéṣù. Sọ pé: “Òhun ni (òǹkà) àkókò fún àwọn ènìyàn àti (òǹkà àkókò fún) iṣẹ́ Hajj. Kì í ṣe iṣẹ́ rere (fún yín) láti gba ẹ̀yìn-ìnkùlé wọnú ilé, ṣùgbọ́n (olùṣe) rere ni ẹni tí ó bá bẹ̀rù (Allāhu). Ẹ gba ẹnu-ọ̀nà wọnú ilé. Kí ẹ sì bẹ̀rù Allāhu nítorí kí ẹ lè jèrè.",
+  "footnotes": ""
 }

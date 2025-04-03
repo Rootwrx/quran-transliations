@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2733",
-    "sura": "23",
-    "aya": "60",
-    "arabic_text": "وَٱلَّذِينَ يُؤۡتُونَ مَآ ءَاتَواْ وَّقُلُوبُهُمۡ وَجِلَةٌ أَنَّهُمۡ إِلَىٰ رَبِّهِمۡ رَٰجِعُونَ",
-    "translation": "Warri waan kennan onneewwann isaanii sodaan guutamtee, gara Gooftaa isaanii akka deebi’an amanaa kennan,",
-    "footnotes": ""
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 346,
+  "verse_key": "23:60",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يُؤۡتُونَ مَآ ءَاتَواْ وَّقُلُوبُهُمۡ وَجِلَةٌ أَنَّهُمۡ إِلَىٰ رَبِّهِمۡ رَٰجِعُونَ",
+  "translation": "Warri waan kennan onneewwann isaanii sodaan guutamtee, gara Gooftaa isaanii akka deebi’an amanaa kennan,",
+  "footnotes": ""
 }

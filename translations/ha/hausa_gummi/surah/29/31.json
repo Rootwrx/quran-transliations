@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3371",
-    "sura": "29",
-    "aya": "31",
-    "arabic_text": "وَلَمَّا جَآءَتۡ رُسُلُنَآ إِبۡرَٰهِيمَ بِٱلۡبُشۡرَىٰ قَالُوٓاْ إِنَّا مُهۡلِكُوٓاْ أَهۡلِ هَٰذِهِ ٱلۡقَرۡيَةِۖ إِنَّ أَهۡلَهَا كَانُواْ ظَٰلِمِينَ",
-    "translation": "Kuma a lõkacin da Manzannin Mu suka jẽ wa Ibrãhĩm da bushãra suka ce: \"Lalle mu mãsu halaka mutãnen, wannan alƙarya ne. Lalle mutãnenta sun kasance mãsu zãlunci.\"",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 400,
+  "verse_key": "29:31",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا جَآءَتۡ رُسُلُنَآ إِبۡرَٰهِيمَ بِٱلۡبُشۡرَىٰ قَالُوٓاْ إِنَّا مُهۡلِكُوٓاْ أَهۡلِ هَٰذِهِ ٱلۡقَرۡيَةِۖ إِنَّ أَهۡلَهَا كَانُواْ ظَٰلِمِينَ",
+  "translation": "Kuma a lõkacin da Manzannin Mu suka jẽ wa Ibrãhĩm da bushãra suka ce: \"Lalle mu mãsu halaka mutãnen, wannan alƙarya ne. Lalle mutãnenta sun kasance mãsu zãlunci.\"",
+  "footnotes": ""
 }

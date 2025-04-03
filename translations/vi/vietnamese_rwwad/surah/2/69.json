@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "76",
-    "sura": "2",
-    "aya": "69",
-    "arabic_text": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوۡنُهَاۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ صَفۡرَآءُ فَاقِعٞ لَّوۡنُهَا تَسُرُّ ٱلنَّٰظِرِينَ",
-    "translation": "Họ (lại yêu cầu Musa), nói: “Vậy Người hãy cầu nguyện Thượng Đế của Người trình bày rõ cho chúng tôi biết nó màu gì?” (Musa) bảo: “Ngài phán rằng đó là con bò cái vàng hung, màu của nó làm cho người nhìn thích thú.”",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 10,
+  "verse_key": "2:69",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ ٱدۡعُ لَنَا رَبَّكَ يُبَيِّن لَّنَا مَا لَوۡنُهَاۚ قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ صَفۡرَآءُ فَاقِعٞ لَّوۡنُهَا تَسُرُّ ٱلنَّٰظِرِينَ",
+  "translation": "Họ (lại yêu cầu Musa), nói: “Vậy Người hãy cầu nguyện Thượng Đế của Người trình bày rõ cho chúng tôi biết nó màu gì?” (Musa) bảo: “Ngài phán rằng đó là con bò cái vàng hung, màu của nó làm cho người nhìn thích thú.”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4510",
-    "sura": "45",
-    "aya": "37",
-    "arabic_text": "وَلَهُ ٱلۡكِبۡرِيَآءُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
-    "translation": "Njemu pripada veličanstvenost na nebesima i na Zemlji, On je Silni i Mudri!",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 502,
+  "verse_key": "45:37",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَهُ ٱلۡكِبۡرِيَآءُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَهُوَ ٱلۡعَزِيزُ ٱلۡحَكِيمُ",
+  "translation": "Njemu pripada veličanstvenost na nebesima i na Zemlji, On je Silni i Mudri!",
+  "footnotes": ""
 }

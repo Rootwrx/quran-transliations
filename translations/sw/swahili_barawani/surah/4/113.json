@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "606",
-    "sura": "4",
-    "aya": "113",
-    "arabic_text": "وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكَ وَرَحۡمَتُهُۥ لَهَمَّت طَّآئِفَةٞ مِّنۡهُمۡ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمۡۖ وَمَا يَضُرُّونَكَ مِن شَيۡءٖۚ وَأَنزَلَ ٱللَّهُ عَلَيۡكَ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَعَلَّمَكَ مَا لَمۡ تَكُن تَعۡلَمُۚ وَكَانَ فَضۡلُ ٱللَّهِ عَلَيۡكَ عَظِيمٗا",
-    "translation": "Na lau kuwa si fadhila ya Mwenyezi Mungu juu yako na rehema yake, kundi moja kati yao linge dhamiria kukupoteza. Wala hawapotezi ila nafsi zao, wala hawawezi kukudhuru kwa lolote. Na Mwenyezi Mungu amekuteremshia Kitabu na hikima na amekufundisha uliyo kuwa huyajui. Na fadhila za Mwenyezi Mungu zilizo juu yako ni kubwa.",
-    "footnotes": "Lau kuwa Mwenyezi Mungu hakukufadhili kwa kukuteremshia Wahyi, Ufunuo, na akakupa rehema ya kutambua na kufahamu hakika, kikundi cha wapotovu kingependa kukupoteza. Lakini hawapotezi ila nafsi zao. Kwani Mwenyezi Mungu ni muangalizi wako, na ndiye mwenye kukuonyesha haki. Hayakufikilii madhara ya mipango yao na upotezi wao. Yeye Mwenyezi Mungu amekuteremshia Qur'ani Tukufu ambayo hiyo ndiyo mizani ya haki, na ameutuza moyo wako kwa hikima, na amekufundisha Sharia na hukumu ambazo ulikuwa hukuzijua ila kwa kufunuliwa na Yeye. Hakika fadhila za Mwenyezi Mungu juu yako daima ni kubwa."
-  }
+  "id": 113,
+  "verse_number": 113,
+  "page_number": 96,
+  "verse_key": "4:113",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡلَا فَضۡلُ ٱللَّهِ عَلَيۡكَ وَرَحۡمَتُهُۥ لَهَمَّت طَّآئِفَةٞ مِّنۡهُمۡ أَن يُضِلُّوكَ وَمَا يُضِلُّونَ إِلَّآ أَنفُسَهُمۡۖ وَمَا يَضُرُّونَكَ مِن شَيۡءٖۚ وَأَنزَلَ ٱللَّهُ عَلَيۡكَ ٱلۡكِتَٰبَ وَٱلۡحِكۡمَةَ وَعَلَّمَكَ مَا لَمۡ تَكُن تَعۡلَمُۚ وَكَانَ فَضۡلُ ٱللَّهِ عَلَيۡكَ عَظِيمٗا",
+  "translation": "Na lau kuwa si fadhila ya Mwenyezi Mungu juu yako na rehema yake, kundi moja kati yao linge dhamiria kukupoteza. Wala hawapotezi ila nafsi zao, wala hawawezi kukudhuru kwa lolote. Na Mwenyezi Mungu amekuteremshia Kitabu na hikima na amekufundisha uliyo kuwa huyajui. Na fadhila za Mwenyezi Mungu zilizo juu yako ni kubwa.",
+  "footnotes": "Lau kuwa Mwenyezi Mungu hakukufadhili kwa kukuteremshia Wahyi, Ufunuo, na akakupa rehema ya kutambua na kufahamu hakika, kikundi cha wapotovu kingependa kukupoteza. Lakini hawapotezi ila nafsi zao. Kwani Mwenyezi Mungu ni muangalizi wako, na ndiye mwenye kukuonyesha haki. Hayakufikilii madhara ya mipango yao na upotezi wao. Yeye Mwenyezi Mungu amekuteremshia Qur'ani Tukufu ambayo hiyo ndiyo mizani ya haki, na ameutuza moyo wako kwa hikima, na amekufundisha Sharia na hukumu ambazo ulikuwa hukuzijua ila kwa kufunuliwa na Yeye. Hakika fadhila za Mwenyezi Mungu juu yako daima ni kubwa."
 }

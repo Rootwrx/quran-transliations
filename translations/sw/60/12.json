@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5162",
-    "sura": "60",
-    "aya": "12",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا جَآءَكَ ٱلۡمُؤۡمِنَٰتُ يُبَايِعۡنَكَ عَلَىٰٓ أَن لَّا يُشۡرِكۡنَ بِٱللَّهِ شَيۡـٔٗا وَلَا يَسۡرِقۡنَ وَلَا يَزۡنِينَ وَلَا يَقۡتُلۡنَ أَوۡلَٰدَهُنَّ وَلَا يَأۡتِينَ بِبُهۡتَٰنٖ يَفۡتَرِينَهُۥ بَيۡنَ أَيۡدِيهِنَّ وَأَرۡجُلِهِنَّ وَلَا يَعۡصِينَكَ فِي مَعۡرُوفٖ فَبَايِعۡهُنَّ وَٱسۡتَغۡفِرۡ لَهُنَّ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
-    "translation": "Ewe Nabii! Watakapo kujia wanawake Waumini wanakuahidi ya kwamba hawatamshirikisha Mwenyezi Mungu na chochote, wala hawataiba, wala hawatazini, wala hawatawauwa watoto wao, wala hawataleta uzushi wanao uzua tu wenyewe baina ya mikono yao na miguu yao, wala hawatakuasi katika jambo jema, basi peana nao ahadi, na uwatakie maghfira kwa Mwenyezi Mungu. Hakika Mwenyezi Mungu ni Mwingi maghfira, Mwenye kurehemu.",
-    "footnotes": "Ewe Nabii! Wakikujia wanawake Waumini kukuahidi kwamba hawatamshirikisha Mwenyezi Mungu na chochote, wala hawataiba, wala hawatazini, wala hawatwauwa watoto wao, wala hawatawabandikiza waume zao watoto wao (wa haramu) kwa uzushi na uwongo wanao uzua baina ya mikono yao na miguu yao. (yaani matumboni mwao, au kwa ndimi zao na tupu zao); wala hawendi kinyume nawe katika jambo jema unalo waitia, basi pokea ahadi zao juu ya hayo, na waombee msamaha kwa Mwenyezi Mungu. Hakika Mwenyezi Mungu ni Mwingi wa kusamehe na kurehemu. (Mtume s.a.w. haamrishi ila jema, lakini sharia hapo inasema kuwa mtawala yeyote hut'iiwa akiamrisha jema tu. Ama kwa lilio ovu, Mtume s.a.w. amesema: \"Hapana kumtii kiumbe katika kumuasi Muumba.\")"
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 551,
+  "verse_key": "60:12",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا جَآءَكَ ٱلۡمُؤۡمِنَٰتُ يُبَايِعۡنَكَ عَلَىٰٓ أَن لَّا يُشۡرِكۡنَ بِٱللَّهِ شَيۡـٔٗا وَلَا يَسۡرِقۡنَ وَلَا يَزۡنِينَ وَلَا يَقۡتُلۡنَ أَوۡلَٰدَهُنَّ وَلَا يَأۡتِينَ بِبُهۡتَٰنٖ يَفۡتَرِينَهُۥ بَيۡنَ أَيۡدِيهِنَّ وَأَرۡجُلِهِنَّ وَلَا يَعۡصِينَكَ فِي مَعۡرُوفٖ فَبَايِعۡهُنَّ وَٱسۡتَغۡفِرۡ لَهُنَّ ٱللَّهَۚ إِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+  "translation": "Ewe Nabii! Watakapo kujia wanawake Waumini wanakuahidi ya kwamba hawatamshirikisha Mwenyezi Mungu na chochote, wala hawataiba, wala hawatazini, wala hawatawauwa watoto wao, wala hawataleta uzushi wanao uzua tu wenyewe baina ya mikono yao na miguu yao, wala hawatakuasi katika jambo jema, basi peana nao ahadi, na uwatakie maghfira kwa Mwenyezi Mungu. Hakika Mwenyezi Mungu ni Mwingi maghfira, Mwenye kurehemu.",
+  "footnotes": "Ewe Nabii! Wakikujia wanawake Waumini kukuahidi kwamba hawatamshirikisha Mwenyezi Mungu na chochote, wala hawataiba, wala hawatazini, wala hawatwauwa watoto wao, wala hawatawabandikiza waume zao watoto wao (wa haramu) kwa uzushi na uwongo wanao uzua baina ya mikono yao na miguu yao. (yaani matumboni mwao, au kwa ndimi zao na tupu zao); wala hawendi kinyume nawe katika jambo jema unalo waitia, basi pokea ahadi zao juu ya hayo, na waombee msamaha kwa Mwenyezi Mungu. Hakika Mwenyezi Mungu ni Mwingi wa kusamehe na kurehemu. (Mtume s.a.w. haamrishi ila jema, lakini sharia hapo inasema kuwa mtawala yeyote hut'iiwa akiamrisha jema tu. Ama kwa lilio ovu, Mtume s.a.w. amesema: \"Hapana kumtii kiumbe katika kumuasi Muumba.\")"
 }

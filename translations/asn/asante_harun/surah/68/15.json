@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5286",
-    "sura": "68",
-    "aya": "15",
-    "arabic_text": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
-    "translation": "Sε yεrekenkan Yεn Nsεm kyerε no a, deɛ ɔka ne sɛ, tetefoͻ no anansesεm.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 564,
+  "verse_key": "68:15",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذَا تُتۡلَىٰ عَلَيۡهِ ءَايَٰتُنَا قَالَ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+  "translation": "Sε yεrekenkan Yεn Nsεm kyerε no a, deɛ ɔka ne sɛ, tetefoͻ no anansesεm.",
+  "footnotes": ""
 }

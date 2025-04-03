@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "217",
-    "sura": "2",
-    "aya": "210",
-    "arabic_text": "هَلۡ يَنظُرُونَ إِلَّآ أَن يَأۡتِيَهُمُ ٱللَّهُ فِي ظُلَلٖ مِّنَ ٱلۡغَمَامِ وَٱلۡمَلَٰٓئِكَةُ وَقُضِيَ ٱلۡأَمۡرُۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
-    "translation": "Je wanangoja mpaka Mwenyezi Mungu awajie katika vivuli vya mawingu pamoja na Malaika, na hukumu iwe imekwisha tolewa? Na kwa Mwenyezi Mungu ndio hurejeshwa mashauri yote.",
-    "footnotes": "Je, hao wanao ukataa Uislamu wanangojea mpaka wamwone Mwenyezi Mungu Mtukufu na Malaika jahara katika mawingu na hukumu ya kuwakatisha tamaa zao imekwisha pitishwa? Kwani hakika mambo yote yamo mikononi mwa Mwenyezi Mungu. Yeye huyasarifu atakavyo, na hukumu yake imekwisha tolewa, na hapana shaka yoyote itatekelezwa tu."
-  }
+  "id": 210,
+  "verse_number": 210,
+  "page_number": 32,
+  "verse_key": "2:210",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَلۡ يَنظُرُونَ إِلَّآ أَن يَأۡتِيَهُمُ ٱللَّهُ فِي ظُلَلٖ مِّنَ ٱلۡغَمَامِ وَٱلۡمَلَٰٓئِكَةُ وَقُضِيَ ٱلۡأَمۡرُۚ وَإِلَى ٱللَّهِ تُرۡجَعُ ٱلۡأُمُورُ",
+  "translation": "Je wanangoja mpaka Mwenyezi Mungu awajie katika vivuli vya mawingu pamoja na Malaika, na hukumu iwe imekwisha tolewa? Na kwa Mwenyezi Mungu ndio hurejeshwa mashauri yote.",
+  "footnotes": "Je, hao wanao ukataa Uislamu wanangojea mpaka wamwone Mwenyezi Mungu Mtukufu na Malaika jahara katika mawingu na hukumu ya kuwakatisha tamaa zao imekwisha pitishwa? Kwani hakika mambo yote yamo mikononi mwa Mwenyezi Mungu. Yeye huyasarifu atakavyo, na hukumu yake imekwisha tolewa, na hapana shaka yoyote itatekelezwa tu."
 }

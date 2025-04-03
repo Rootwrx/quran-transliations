@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "777",
-    "sura": "5",
-    "aya": "108",
-    "arabic_text": "ذَٰلِكَ أَدۡنَىٰٓ أَن يَأۡتُواْ بِٱلشَّهَٰدَةِ عَلَىٰ وَجۡهِهَآ أَوۡ يَخَافُوٓاْ أَن تُرَدَّ أَيۡمَٰنُۢ بَعۡدَ أَيۡمَٰنِهِمۡۗ وَٱتَّقُواْ ٱللَّهَ وَٱسۡمَعُواْۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
-    "translation": "Ìyẹn súnmọ́ jùlọ láti mú ẹ̀rí jíjẹ́ wá ní ojú-pọ̀nnà rẹ̀ tàbí láti (lè là nínú) ìpáyà pé wọ́n yóò da ìbúra kan nù (ìbúra ẹni méjì àkọ́kọ́) lẹ́yìn ìbúra tiwọn (ìbúrà ẹni méjì kejì). Ẹ bẹ̀rù Allāhu, kí ẹ sì gbọ́ràn. Allāhu kò níí fi ọ̀nà mọ ìjọ òbìlẹ̀jẹ́.[1]",
-    "footnotes": "1. Òfin yìí, òfin àsọọ́lẹ̀ lórí ogún, igun kan nínú àwọn onímọ̀ sọ pé, wọ́n ti pa ìdájọ́ rẹ̀ rẹ́, àmọ́ igun kejì sọ pé, wọn kò pa ìdájọ́ rẹ̀ rẹ́."
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 125,
+  "verse_key": "5:108",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ أَدۡنَىٰٓ أَن يَأۡتُواْ بِٱلشَّهَٰدَةِ عَلَىٰ وَجۡهِهَآ أَوۡ يَخَافُوٓاْ أَن تُرَدَّ أَيۡمَٰنُۢ بَعۡدَ أَيۡمَٰنِهِمۡۗ وَٱتَّقُواْ ٱللَّهَ وَٱسۡمَعُواْۗ وَٱللَّهُ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلۡفَٰسِقِينَ",
+  "translation": "Ìyẹn súnmọ́ jùlọ láti mú ẹ̀rí jíjẹ́ wá ní ojú-pọ̀nnà rẹ̀ tàbí láti (lè là nínú) ìpáyà pé wọ́n yóò da ìbúra kan nù (ìbúra ẹni méjì àkọ́kọ́) lẹ́yìn ìbúra tiwọn (ìbúrà ẹni méjì kejì). Ẹ bẹ̀rù Allāhu, kí ẹ sì gbọ́ràn. Allāhu kò níí fi ọ̀nà mọ ìjọ òbìlẹ̀jẹ́.[1]",
+  "footnotes": "1. Òfin yìí, òfin àsọọ́lẹ̀ lórí ogún, igun kan nínú àwọn onímọ̀ sọ pé, wọ́n ti pa ìdájọ́ rẹ̀ rẹ́, àmọ́ igun kejì sọ pé, wọn kò pa ìdájọ́ rẹ̀ rẹ́."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2815",
-    "sura": "24",
-    "aya": "24",
-    "arabic_text": "يَوۡمَ تَشۡهَدُ عَلَيۡهِمۡ أَلۡسِنَتُهُمۡ وَأَيۡدِيهِمۡ وَأَرۡجُلُهُم بِمَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Siku ambayo zitawashuhudia ndimi zao na mikono yao na miguu yao kwa waliyo kuwa wakiyatenda.",
-    "footnotes": "Adhabu hiyo itakuwa Siku ya Kiyama ambapo itakuwa hapana njia ya kuikataa. Bali waliyo yatenda yatathibiti juu yao, kwa kuwa zitawashuhudia ndimi zao, na mikono yao, na miguu yao, kwa madhambi yote waliyo yatenda. Na hayo ni kwa kudhihiri athari ya vitendo vyao juu ya viungo hivyo, au kwa kutamkishwa na Mwenyezi Mungu ambaye anatamkisha kila kitu."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 352,
+  "verse_key": "24:24",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 141,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ تَشۡهَدُ عَلَيۡهِمۡ أَلۡسِنَتُهُمۡ وَأَيۡدِيهِمۡ وَأَرۡجُلُهُم بِمَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Siku ambayo zitawashuhudia ndimi zao na mikono yao na miguu yao kwa waliyo kuwa wakiyatenda.",
+  "footnotes": "Adhabu hiyo itakuwa Siku ya Kiyama ambapo itakuwa hapana njia ya kuikataa. Bali waliyo yatenda yatathibiti juu yao, kwa kuwa zitawashuhudia ndimi zao, na mikono yao, na miguu yao, kwa madhambi yote waliyo yatenda. Na hayo ni kwa kudhihiri athari ya vitendo vyao juu ya viungo hivyo, au kwa kutamkishwa na Mwenyezi Mungu ambaye anatamkisha kila kitu."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2949",
-    "sura": "26",
-    "aya": "17",
-    "arabic_text": "أَنۡ أَرۡسِلۡ مَعَنَا بَنِيٓ إِسۡرَٰٓءِيلَ",
-    "translation": "që të lejoni bijtë e Israilit të vijnë me ne!”",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 367,
+  "verse_key": "26:17",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَنۡ أَرۡسِلۡ مَعَنَا بَنِيٓ إِسۡرَٰٓءِيلَ",
+  "translation": "që të lejoni bijtë e Israilit të vijnë me ne!”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2599",
-    "sura": "22",
-    "aya": "4",
-    "arabic_text": "كُتِبَ عَلَيۡهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ يُضِلُّهُۥ وَيَهۡدِيهِ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
-    "translation": "(Những tên Shaytan phản nghịch) được quy định rằng ai làm bạn với chúng, chúng sẽ đưa người đó đi lạc (khỏi con đường chân lý) và sẽ dẫn y đến hình phạt nơi Hỏa Ngục.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 332,
+  "verse_key": "22:4",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُتِبَ عَلَيۡهِ أَنَّهُۥ مَن تَوَلَّاهُ فَأَنَّهُۥ يُضِلُّهُۥ وَيَهۡدِيهِ إِلَىٰ عَذَابِ ٱلسَّعِيرِ",
+  "translation": "(Những tên Shaytan phản nghịch) được quy định rằng ai làm bạn với chúng, chúng sẽ đưa người đó đi lạc (khỏi con đường chân lý) và sẽ dẫn y đến hình phạt nơi Hỏa Ngục.",
+  "footnotes": ""
 }

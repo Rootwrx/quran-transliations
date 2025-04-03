@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3973",
-    "sura": "38",
-    "aya": "3",
-    "arabic_text": "كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنٖ فَنَادَواْ وَّلَاتَ حِينَ مَنَاصٖ",
-    "translation": "3 Que de peuples avons-Nous anéantis avant eux qui crièrent au secours au moment où il n’était plus temps d’échapper au châtiment.",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 453,
+  "verse_key": "38:3",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَمۡ أَهۡلَكۡنَا مِن قَبۡلِهِم مِّن قَرۡنٖ فَنَادَواْ وَّلَاتَ حِينَ مَنَاصٖ",
+  "translation": "3 Que de peuples avons-Nous anéantis avant eux qui crièrent au secours au moment où il n’était plus temps d’échapper au châtiment.",
+  "footnotes": ""
 }

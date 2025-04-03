@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "317",
-    "sura": "3",
-    "aya": "24",
-    "arabic_text": "ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامٗا مَّعۡدُودَٰتٖۖ وَغَرَّهُمۡ فِي دِينِهِم مَّا كَانُواْ يَفۡتَرُونَ",
-    "translation": "24. Eso se debe a que dicen: “El fuego del Infierno no nos tocará, salvo por unos días contados”, y se dejan engañar por lo que ellos mismos han inventado acerca de su religión[99].",
-    "footnotes": "[99]  Los judíos se engañaban a ellos mismos al creer que no serían castigados porque se consideraban el pueblo escogido o favorito de Al-lah."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 53,
+  "verse_key": "3:24",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّهُمۡ قَالُواْ لَن تَمَسَّنَا ٱلنَّارُ إِلَّآ أَيَّامٗا مَّعۡدُودَٰتٖۖ وَغَرَّهُمۡ فِي دِينِهِم مَّا كَانُواْ يَفۡتَرُونَ",
+  "translation": "24. Eso se debe a que dicen: “El fuego del Infierno no nos tocará, salvo por unos días contados”, y se dejan engañar por lo que ellos mismos han inventado acerca de su religión[99].",
+  "footnotes": "[99]  Los judíos se engañaban a ellos mismos al creer que no serían castigados porque se consideraban el pueblo escogido o favorito de Al-lah."
 }

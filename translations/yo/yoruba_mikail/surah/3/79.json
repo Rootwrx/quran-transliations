@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "372",
-    "sura": "3",
-    "aya": "79",
-    "arabic_text": "مَا كَانَ لِبَشَرٍ أَن يُؤۡتِيَهُ ٱللَّهُ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادٗا لِّي مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُواْ رَبَّٰنِيِّـۧنَ بِمَا كُنتُمۡ تُعَلِّمُونَ ٱلۡكِتَٰبَ وَبِمَا كُنتُمۡ تَدۡرُسُونَ",
-    "translation": "Kò lẹ́tọ̀ọ́ fún abara kan nígbà tí Allāhu bá fún un ní tírà, òye ìjìnlẹ̀ àti ipò Ànábì, lẹ́yìn náà kí ó máa sọ fún àwọn ènìyàn pé, “ẹ jẹ́ ẹrúsìn fún mi lẹ́yìn Allāhu.” Ṣùgbọ́n (ó máa sọ pé) “ẹ jẹ́ olùjọ́sìn fún Olúwa (kí ẹ sì máa fi ẹ̀kọ́ Rẹ̀ kọ́ àwọn ènìyàn) nítorí pé ẹ jẹ́ ẹni tí ń kọ́ àwọn ènìyàn ní tírà àti nítorí pé ẹ jẹ́ ẹni tí ń kọ́ ẹ̀kọ́ (nípa ẹ̀sìn).”",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 60,
+  "verse_key": "3:79",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا كَانَ لِبَشَرٍ أَن يُؤۡتِيَهُ ٱللَّهُ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ ثُمَّ يَقُولَ لِلنَّاسِ كُونُواْ عِبَادٗا لِّي مِن دُونِ ٱللَّهِ وَلَٰكِن كُونُواْ رَبَّٰنِيِّـۧنَ بِمَا كُنتُمۡ تُعَلِّمُونَ ٱلۡكِتَٰبَ وَبِمَا كُنتُمۡ تَدۡرُسُونَ",
+  "translation": "Kò lẹ́tọ̀ọ́ fún abara kan nígbà tí Allāhu bá fún un ní tírà, òye ìjìnlẹ̀ àti ipò Ànábì, lẹ́yìn náà kí ó máa sọ fún àwọn ènìyàn pé, “ẹ jẹ́ ẹrúsìn fún mi lẹ́yìn Allāhu.” Ṣùgbọ́n (ó máa sọ pé) “ẹ jẹ́ olùjọ́sìn fún Olúwa (kí ẹ sì máa fi ẹ̀kọ́ Rẹ̀ kọ́ àwọn ènìyàn) nítorí pé ẹ jẹ́ ẹni tí ń kọ́ àwọn ènìyàn ní tírà àti nítorí pé ẹ jẹ́ ẹni tí ń kọ́ ẹ̀kọ́ (nípa ẹ̀sìn).”",
+  "footnotes": ""
 }

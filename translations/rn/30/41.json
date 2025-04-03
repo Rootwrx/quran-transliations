@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3450",
-    "sura": "30",
-    "aya": "41",
-    "arabic_text": "ظَهَرَ ٱلۡفَسَادُ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِ بِمَا كَسَبَتۡ أَيۡدِي ٱلنَّاسِ لِيُذِيقَهُم بَعۡضَ ٱلَّذِي عَمِلُواْ لَعَلَّهُمۡ يَرۡجِعُونَ",
-    "translation": "Ubwononyi bwibonekeje kw’isi[16]; imusozi no mw’ibahari, buturutse ku vyaha bikorwa n’abantu, butuma Imana Allah Ibahanira kw’isi bimwe mu vyo bakoze kugira bikebuke bigaye, baheze baroranirwe kw’isi.",
-    "footnotes": "[16] Nk’igwirirana ry’indwara, itara ry’imvura n’ihindagurika ry’ibihe vyayo, amapfa n’ibiza vy’indwara z’akaranda zifata abantu, ibitungwa n’ibiterwa, n’ibindi."
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 408,
+  "verse_key": "30:41",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 163,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ظَهَرَ ٱلۡفَسَادُ فِي ٱلۡبَرِّ وَٱلۡبَحۡرِ بِمَا كَسَبَتۡ أَيۡدِي ٱلنَّاسِ لِيُذِيقَهُم بَعۡضَ ٱلَّذِي عَمِلُواْ لَعَلَّهُمۡ يَرۡجِعُونَ",
+  "translation": "Ubwononyi bwibonekeje kw’isi[16]; imusozi no mw’ibahari, buturutse ku vyaha bikorwa n’abantu, butuma Imana Allah Ibahanira kw’isi bimwe mu vyo bakoze kugira bikebuke bigaye, baheze baroranirwe kw’isi.",
+  "footnotes": "[16] Nk’igwirirana ry’indwara, itara ry’imvura n’ihindagurika ry’ibihe vyayo, amapfa n’ibiza vy’indwara z’akaranda zifata abantu, ibitungwa n’ibiterwa, n’ibindi."
 }

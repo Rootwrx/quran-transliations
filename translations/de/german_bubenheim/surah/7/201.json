@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1155",
-    "sura": "7",
-    "aya": "201",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ٱتَّقَوۡاْ إِذَا مَسَّهُمۡ طَٰٓئِفٞ مِّنَ ٱلشَّيۡطَٰنِ تَذَكَّرُواْ فَإِذَا هُم مُّبۡصِرُونَ",
-    "translation": "Diejenigen, die gottesfürchtig sind, - wenn ihnen eine Anwandlung vom Satan widerfährt, bedenken sie, und da werden sie sogleich einsichtig.",
-    "footnotes": null
-  }
+  "id": 201,
+  "verse_number": 201,
+  "page_number": 176,
+  "verse_key": "7:201",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ٱتَّقَوۡاْ إِذَا مَسَّهُمۡ طَٰٓئِفٞ مِّنَ ٱلشَّيۡطَٰنِ تَذَكَّرُواْ فَإِذَا هُم مُّبۡصِرُونَ",
+  "translation": "Diejenigen, die gottesfürchtig sind, - wenn ihnen eine Anwandlung vom Satan widerfährt, bedenken sie, und da werden sie sogleich einsichtig.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "437",
-    "sura": "3",
-    "aya": "144",
-    "arabic_text": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٞ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُۚ أَفَإِيْن مَّاتَ أَوۡ قُتِلَ ٱنقَلَبۡتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡۚ وَمَن يَنقَلِبۡ عَلَىٰ عَقِبَيۡهِ فَلَن يَضُرَّ ٱللَّهَ شَيۡـٔٗاۚ وَسَيَجۡزِي ٱللَّهُ ٱلشَّٰكِرِينَ",
-    "translation": "144. Muxammad ma aha waxaan ahayn Rasuul (Alle), Waxaa tagay hortiis Rusul (badan). Ee hadduu dhinto26 ama la dilo ma waxaad dib ugu gaddooomi lahaydeen cirbihiinna? Qofkiina dib ugu gaddooma cirbihiisa, waxba uma dhimayo Alle, Allena waa u abaal gudi kuwa mahdiya (af, uur iyo addinba).",
-    "footnotes": "26. Rasuulka Alle waa qof Aadmi ah uu soo diray Alle Rusul hortiis. Qaarkood la dilay, qaarna u dhinteen jirrooyin, sidaas oo kale Nabigu sc.w. wuu dhiman sida Rusushii horeba. Dagaalkii Uxud waxaa faafay warka dilidda Nabiga s.c.w. warkaasoo qas iyo qalalaase geliyey muslimiiintii, heer muslimiinta qaarkood ay magan weydiisteen Abuu Sufyaan oo ahaa markaas odayga Quraysh. Munaafiqiintiina waxay yidhaahdeen hadduu Muxammad ahaan lahaa Nabi lama dileen. Markaasuu Alle soo dejiyey Aayaddan si uu u dejiyo quluubta muslimiinta iyo jawaab celin ahaan waxay yidhaahdeen munaafiqiinta. (Saxiix Al- Bukhaari Baabka Jihaadka).\n Abuu Bakar a.k.r. wuxuu soo daliilsaday Aayaddan maalintii uu geeriyooday Nabiga s.c.w. si uu u dejiyo Cumar bin Al-Khaddaab iyo saxaabada qaarkood ee rumeysan waayey dhimashada Nabiga s.c.w. ( Saxiix Al- Bukhaari qaybta Taqwada Saxaabada)."
-  }
+  "id": 144,
+  "verse_number": 144,
+  "page_number": 68,
+  "verse_key": "3:144",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٞ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُۚ أَفَإِيْن مَّاتَ أَوۡ قُتِلَ ٱنقَلَبۡتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡۚ وَمَن يَنقَلِبۡ عَلَىٰ عَقِبَيۡهِ فَلَن يَضُرَّ ٱللَّهَ شَيۡـٔٗاۚ وَسَيَجۡزِي ٱللَّهُ ٱلشَّٰكِرِينَ",
+  "translation": "144. Muxammad ma aha waxaan ahayn Rasuul (Alle), Waxaa tagay hortiis Rusul (badan). Ee hadduu dhinto26 ama la dilo ma waxaad dib ugu gaddooomi lahaydeen cirbihiinna? Qofkiina dib ugu gaddooma cirbihiisa, waxba uma dhimayo Alle, Allena waa u abaal gudi kuwa mahdiya (af, uur iyo addinba).",
+  "footnotes": "26. Rasuulka Alle waa qof Aadmi ah uu soo diray Alle Rusul hortiis. Qaarkood la dilay, qaarna u dhinteen jirrooyin, sidaas oo kale Nabigu sc.w. wuu dhiman sida Rusushii horeba. Dagaalkii Uxud waxaa faafay warka dilidda Nabiga s.c.w. warkaasoo qas iyo qalalaase geliyey muslimiiintii, heer muslimiinta qaarkood ay magan weydiisteen Abuu Sufyaan oo ahaa markaas odayga Quraysh. Munaafiqiintiina waxay yidhaahdeen hadduu Muxammad ahaan lahaa Nabi lama dileen. Markaasuu Alle soo dejiyey Aayaddan si uu u dejiyo quluubta muslimiinta iyo jawaab celin ahaan waxay yidhaahdeen munaafiqiinta. (Saxiix Al- Bukhaari Baabka Jihaadka).\n Abuu Bakar a.k.r. wuxuu soo daliilsaday Aayaddan maalintii uu geeriyooday Nabiga s.c.w. si uu u dejiyo Cumar bin Al-Khaddaab iyo saxaabada qaarkood ee rumeysan waayey dhimashada Nabiga s.c.w. ( Saxiix Al- Bukhaari qaybta Taqwada Saxaabada)."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4693",
-    "sura": "51",
-    "aya": "18",
-    "arabic_text": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ",
-    "translation": "und im letzten Teil der Nacht pflegten sie um Vergebung zu bitten,",
-    "footnotes": null
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 521,
+  "verse_key": "51:18",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبِٱلۡأَسۡحَارِ هُمۡ يَسۡتَغۡفِرُونَ",
+  "translation": "und im letzten Teil der Nacht pflegten sie um Vergebung zu bitten,",
+  "footnotes": null
 }

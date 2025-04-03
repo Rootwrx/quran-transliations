@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1675",
-    "sura": "12",
-    "aya": "79",
-    "arabic_text": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأۡخُذَ إِلَّا مَن وَجَدۡنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذٗا لَّظَٰلِمُونَ",
-    "translation": "79. Dia (Yusuf) berkata, “Aku memohon perlindungan kepada Allah dari menahan (seseorang), kecuali orang yang kami temukan harta kami padanya, jika kami (berbuat) demikian, berarti kami orang yang zalim.”",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 245,
+  "verse_key": "12:79",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ مَعَاذَ ٱللَّهِ أَن نَّأۡخُذَ إِلَّا مَن وَجَدۡنَا مَتَٰعَنَا عِندَهُۥٓ إِنَّآ إِذٗا لَّظَٰلِمُونَ",
+  "translation": "79. Dia (Yusuf) berkata, “Aku memohon perlindungan kepada Allah dari menahan (seseorang), kecuali orang yang kami temukan harta kami padanya, jika kami (berbuat) demikian, berarti kami orang yang zalim.”",
+  "footnotes": ""
 }

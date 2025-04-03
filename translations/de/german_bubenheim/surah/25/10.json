@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2865",
-    "sura": "25",
-    "aya": "10",
-    "arabic_text": "تَبَارَكَ ٱلَّذِيٓ إِن شَآءَ جَعَلَ لَكَ خَيۡرٗا مِّن ذَٰلِكَ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ وَيَجۡعَل لَّكَ قُصُورَۢا",
-    "translation": "Segensreich ist Derjenige, Der dir, wenn Er will, etwas Besseres als dies zuteilen kann: Gärten, durcheilt von Bächen, und Der dir Schlösser zuteilen kann.",
-    "footnotes": null
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 360,
+  "verse_key": "25:10",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَبَارَكَ ٱلَّذِيٓ إِن شَآءَ جَعَلَ لَكَ خَيۡرٗا مِّن ذَٰلِكَ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ وَيَجۡعَل لَّكَ قُصُورَۢا",
+  "translation": "Segensreich ist Derjenige, Der dir, wenn Er will, etwas Besseres als dies zuteilen kann: Gärten, durcheilt von Bächen, und Der dir Schlösser zuteilen kann.",
+  "footnotes": null
 }

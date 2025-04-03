@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "817",
-    "sura": "6",
-    "aya": "28",
-    "arabic_text": "بَلۡ بَدَا لَهُم مَّا كَانُواْ يُخۡفُونَ مِن قَبۡلُۖ وَلَوۡ رُدُّواْ لَعَادُواْ لِمَا نُهُواْ عَنۡهُ وَإِنَّهُمۡ لَكَٰذِبُونَ",
-    "translation": "28 Non ! Mais leur apparaîtra ce qu’ils dissimulaient autrefois en eux-mêmes[375]. S’ils étaient rendus à la vie, ils retomberaient dans l’interdit. Ils ne font que mentir.",
-    "footnotes": "[375] La réalité de la Résurrection, expliquent certains commentateurs, en laquelle ils croyaient au fond d’eux-mêmes tout en le dissimulant et qui se manifestera clairement lorsqu’ils feront face au châtiment."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 131,
+  "verse_key": "6:28",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ بَدَا لَهُم مَّا كَانُواْ يُخۡفُونَ مِن قَبۡلُۖ وَلَوۡ رُدُّواْ لَعَادُواْ لِمَا نُهُواْ عَنۡهُ وَإِنَّهُمۡ لَكَٰذِبُونَ",
+  "translation": "28 Non ! Mais leur apparaîtra ce qu’ils dissimulaient autrefois en eux-mêmes[375]. S’ils étaient rendus à la vie, ils retomberaient dans l’interdit. Ils ne font que mentir.",
+  "footnotes": "[375] La réalité de la Résurrection, expliquent certains commentateurs, en laquelle ils croyaient au fond d’eux-mêmes tout en le dissimulant et qui se manifestera clairement lorsqu’ils feront face au châtiment."
 }

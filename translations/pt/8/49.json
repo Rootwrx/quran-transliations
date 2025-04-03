@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1209",
-    "sura": "8",
-    "aya": "49",
-    "arabic_text": "إِذۡ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمۡۗ وَمَن يَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
-    "translation": "Lembra-te de quando os hipócritas e aqueles em cujos corações havia enfermidade, disseram: \"Esses crentes, sua religião os iludiu. E quem confia em Allah, por certo, Allah é Todo-Poderoso, Sábio.\"",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 183,
+  "verse_key": "8:49",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ يَقُولُ ٱلۡمُنَٰفِقُونَ وَٱلَّذِينَ فِي قُلُوبِهِم مَّرَضٌ غَرَّ هَٰٓؤُلَآءِ دِينُهُمۡۗ وَمَن يَتَوَكَّلۡ عَلَى ٱللَّهِ فَإِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
+  "translation": "Lembra-te de quando os hipócritas e aqueles em cujos corações havia enfermidade, disseram: \"Esses crentes, sua religião os iludiu. E quem confia em Allah, por certo, Allah é Todo-Poderoso, Sábio.\"",
+  "footnotes": ""
 }

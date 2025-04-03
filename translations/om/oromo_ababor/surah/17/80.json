@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2109",
-    "sura": "17",
-    "aya": "80",
-    "arabic_text": "وَقُل رَّبِّ أَدۡخِلۡنِي مُدۡخَلَ صِدۡقٖ وَأَخۡرِجۡنِي مُخۡرَجَ صِدۡقٖ وَٱجۡعَل لِّي مِن لَّدُنكَ سُلۡطَٰنٗا نَّصِيرٗا",
-    "translation": "Jedhis: “(yaa) Gooftaa kiyya! Seensa gaarii naseensisi, Ba’iinsa gaariis na baasi, Si biraa ragaa na gargaaru naaf taasisi.",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 290,
+  "verse_key": "17:80",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُل رَّبِّ أَدۡخِلۡنِي مُدۡخَلَ صِدۡقٖ وَأَخۡرِجۡنِي مُخۡرَجَ صِدۡقٖ وَٱجۡعَل لِّي مِن لَّدُنكَ سُلۡطَٰنٗا نَّصِيرٗا",
+  "translation": "Jedhis: “(yaa) Gooftaa kiyya! Seensa gaarii naseensisi, Ba’iinsa gaariis na baasi, Si biraa ragaa na gargaaru naaf taasisi.",
+  "footnotes": ""
 }

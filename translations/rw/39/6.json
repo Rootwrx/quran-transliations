@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4064",
-    "sura": "39",
-    "aya": "6",
-    "arabic_text": "خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ ثُمَّ جَعَلَ مِنۡهَا زَوۡجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلۡأَنۡعَٰمِ ثَمَٰنِيَةَ أَزۡوَٰجٖۚ يَخۡلُقُكُمۡ فِي بُطُونِ أُمَّهَٰتِكُمۡ خَلۡقٗا مِّنۢ بَعۡدِ خَلۡقٖ فِي ظُلُمَٰتٖ ثَلَٰثٖۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ لَهُ ٱلۡمُلۡكُۖ لَآ إِلَٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُصۡرَفُونَ",
-    "translation": "Yabaremye abakomoye ku muntu umwe (Adamu), nuko amuremera umugore we (Hawa) amumukomoyemo. Yabaremeye amatungo umunani (ingabo n’ingore mu ngamiya, inka, intama ndetse n’ihene). Abaremera muri nyababyeyi za ba nyoko, mu byiciro bikurikirana, mu myijima itatu (mu nda, muri nyababyeyi no mu ngobyi). Uwo ni We Allah Nyagasani wanyu, nyir’ubwami bwose. Nta yindi mana ikwiriye gusengwa by’ukuri itari We. Ese ni gute mureka kugaragira (Allah wenyine)?",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 459,
+  "verse_key": "39:6",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خَلَقَكُم مِّن نَّفۡسٖ وَٰحِدَةٖ ثُمَّ جَعَلَ مِنۡهَا زَوۡجَهَا وَأَنزَلَ لَكُم مِّنَ ٱلۡأَنۡعَٰمِ ثَمَٰنِيَةَ أَزۡوَٰجٖۚ يَخۡلُقُكُمۡ فِي بُطُونِ أُمَّهَٰتِكُمۡ خَلۡقٗا مِّنۢ بَعۡدِ خَلۡقٖ فِي ظُلُمَٰتٖ ثَلَٰثٖۚ ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡ لَهُ ٱلۡمُلۡكُۖ لَآ إِلَٰهَ إِلَّا هُوَۖ فَأَنَّىٰ تُصۡرَفُونَ",
+  "translation": "Yabaremye abakomoye ku muntu umwe (Adamu), nuko amuremera umugore we (Hawa) amumukomoyemo. Yabaremeye amatungo umunani (ingabo n’ingore mu ngamiya, inka, intama ndetse n’ihene). Abaremera muri nyababyeyi za ba nyoko, mu byiciro bikurikirana, mu myijima itatu (mu nda, muri nyababyeyi no mu ngobyi). Uwo ni We Allah Nyagasani wanyu, nyir’ubwami bwose. Nta yindi mana ikwiriye gusengwa by’ukuri itari We. Ese ni gute mureka kugaragira (Allah wenyine)?",
+  "footnotes": ""
 }

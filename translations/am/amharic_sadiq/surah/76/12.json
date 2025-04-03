@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5603",
-    "sura": "76",
-    "aya": "12",
-    "arabic_text": "وَجَزَىٰهُم بِمَا صَبَرُواْ جَنَّةٗ وَحَرِيرٗا",
-    "translation": "በመታገሣቸውም ገነትንና የሐር ልብስን መነዳቸው፡፡",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 579,
+  "verse_key": "76:12",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَزَىٰهُم بِمَا صَبَرُواْ جَنَّةٗ وَحَرِيرٗا",
+  "translation": "በመታገሣቸውም ገነትንና የሐር ልብስን መነዳቸው፡፡",
+  "footnotes": ""
 }

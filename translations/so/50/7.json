@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4637",
-    "sura": "50",
-    "aya": "7",
-    "arabic_text": "وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجِۭ بَهِيجٖ",
-    "translation": "7. Dhulka waanu fidinnay, oo ku sugnay buuro, waxaana ka soo bixinnay dhexdiisa dhir qurxoon oo cayn walba leh.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 518,
+  "verse_key": "50:7",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ زَوۡجِۭ بَهِيجٖ",
+  "translation": "7. Dhulka waanu fidinnay, oo ku sugnay buuro, waxaana ka soo bixinnay dhexdiisa dhir qurxoon oo cayn walba leh.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5903",
-    "sura": "84",
-    "aya": "19",
-    "arabic_text": "لَتَرۡكَبُنَّ طَبَقًا عَن طَبَقٖ",
-    "translation": "talagang lululan nga kayo sa isang antas buhat sa isang antas.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 589,
+  "verse_key": "84:19",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَتَرۡكَبُنَّ طَبَقًا عَن طَبَقٖ",
+  "translation": "talagang lululan nga kayo sa isang antas buhat sa isang antas.",
+  "footnotes": ""
 }

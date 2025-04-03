@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5704",
-    "sura": "78",
-    "aya": "32",
-    "arabic_text": "حَدَآئِقَ وَأَعۡنَٰبٗا",
-    "translation": "32. Bilanga mpe masanga ya bilengi,",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 583,
+  "verse_key": "78:32",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَدَآئِقَ وَأَعۡنَٰبٗا",
+  "translation": "32. Bilanga mpe masanga ya bilengi,",
+  "footnotes": ""
 }

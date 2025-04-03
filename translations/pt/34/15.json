@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3621",
-    "sura": "34",
-    "aya": "15",
-    "arabic_text": "لَقَدۡ كَانَ لِسَبَإٖ فِي مَسۡكَنِهِمۡ ءَايَةٞۖ جَنَّتَانِ عَن يَمِينٖ وَشِمَالٖۖ كُلُواْ مِن رِّزۡقِ رَبِّكُمۡ وَٱشۡكُرُواْ لَهُۥۚ بَلۡدَةٞ طَيِّبَةٞ وَرَبٌّ غَفُورٞ",
-    "translation": "Com efeito, havia para Saba, em seu habitat, um Sinal: dois jardins, à direita e à esquerda. Foi-lhes dito: \"Comei do sustento de vosso Senhor e agradecei-Lhe. Tendes uma plaga benigna e um Senhor Perdoador.\"",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 430,
+  "verse_key": "34:15",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ كَانَ لِسَبَإٖ فِي مَسۡكَنِهِمۡ ءَايَةٞۖ جَنَّتَانِ عَن يَمِينٖ وَشِمَالٖۖ كُلُواْ مِن رِّزۡقِ رَبِّكُمۡ وَٱشۡكُرُواْ لَهُۥۚ بَلۡدَةٞ طَيِّبَةٞ وَرَبٌّ غَفُورٞ",
+  "translation": "Com efeito, havia para Saba, em seu habitat, um Sinal: dois jardins, à direita e à esquerda. Foi-lhes dito: \"Comei do sustento de vosso Senhor e agradecei-Lhe. Tendes uma plaga benigna e um Senhor Perdoador.\"",
+  "footnotes": ""
 }

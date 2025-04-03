@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1306",
-    "sura": "9",
-    "aya": "71",
-    "arabic_text": "وَٱلۡمُؤۡمِنُونَ وَٱلۡمُؤۡمِنَٰتُ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ يَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓۚ أُوْلَٰٓئِكَ سَيَرۡحَمُهُمُ ٱللَّهُۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
-    "translation": "Mömin kişilərlə mömin qadınlar bir-birinin dostlarıdırlar. Onlar (insanlara) yaxşı işlər görməyi əmr edib, pis işləri qadağan edər, namaz qılıb, zəkat verər, Allaha və Rəsuluna itaət edərlər. Allah onlara rəhm edəcəkdir. Həqiqətən, Allah Qüdrətlidir, Hikmət sahibidir.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 198,
+  "verse_key": "9:71",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡمُؤۡمِنُونَ وَٱلۡمُؤۡمِنَٰتُ بَعۡضُهُمۡ أَوۡلِيَآءُ بَعۡضٖۚ يَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِ وَيُقِيمُونَ ٱلصَّلَوٰةَ وَيُؤۡتُونَ ٱلزَّكَوٰةَ وَيُطِيعُونَ ٱللَّهَ وَرَسُولَهُۥٓۚ أُوْلَٰٓئِكَ سَيَرۡحَمُهُمُ ٱللَّهُۗ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
+  "translation": "Mömin kişilərlə mömin qadınlar bir-birinin dostlarıdırlar. Onlar (insanlara) yaxşı işlər görməyi əmr edib, pis işləri qadağan edər, namaz qılıb, zəkat verər, Allaha və Rəsuluna itaət edərlər. Allah onlara rəhm edəcəkdir. Həqiqətən, Allah Qüdrətlidir, Hikmət sahibidir.",
+  "footnotes": ""
 }

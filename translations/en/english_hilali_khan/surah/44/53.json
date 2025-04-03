@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4467",
-    "sura": "44",
-    "aya": "53",
-    "arabic_text": "يَلۡبَسُونَ مِن سُندُسٖ وَإِسۡتَبۡرَقٖ مُّتَقَٰبِلِينَ",
-    "translation": " 53. Dressed in fine silk and (also) in thick silk, facing each other,",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 498,
+  "verse_key": "44:53",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَلۡبَسُونَ مِن سُندُسٖ وَإِسۡتَبۡرَقٖ مُّتَقَٰبِلِينَ",
+  "translation": " 53. Dressed in fine silk and (also) in thick silk, facing each other,",
+  "footnotes": ""
 }

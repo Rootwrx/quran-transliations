@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4664",
-    "sura": "50",
-    "aya": "34",
-    "arabic_text": "ٱدۡخُلُوهَا بِسَلَٰمٖۖ ذَٰلِكَ يَوۡمُ ٱلۡخُلُودِ",
-    "translation": "ఇందులో (ఈ స్వర్గంలో), శాంతితో ప్రవేశించండి. ఇదే శాశ్వాత జీవిత దినం.\"",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 519,
+  "verse_key": "50:34",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱدۡخُلُوهَا بِسَلَٰمٖۖ ذَٰلِكَ يَوۡمُ ٱلۡخُلُودِ",
+  "translation": "ఇందులో (ఈ స్వర్గంలో), శాంతితో ప్రవేశించండి. ఇదే శాశ్వాత జీవిత దినం.\"",
+  "footnotes": ""
 }

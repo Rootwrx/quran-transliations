@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "132",
-    "sura": "2",
-    "aya": "125",
-    "arabic_text": "وَإِذۡ جَعَلۡنَا ٱلۡبَيۡتَ مَثَابَةٗ لِّلنَّاسِ وَأَمۡنٗا وَٱتَّخِذُواْ مِن مَّقَامِ إِبۡرَٰهِـۧمَ مُصَلّٗىۖ وَعَهِدۡنَآ إِلَىٰٓ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ أَن طَهِّرَا بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
-    "translation": "And [remember] when We made the House [i.e., Ka‘bah] a focal point and a sanctuary for the people. “[O believers], take the Station of Abraham as a place for prayer.” We charged Abraham and Ishmael to purify My House for those who perform circumambulation[52] or stay for worship, or those who bow down and prostrate.",
-    "footnotes": "[52] A form of worship particular to the Ka‘bah consisting of going around it in circuits."
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 19,
+  "verse_key": "2:125",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ جَعَلۡنَا ٱلۡبَيۡتَ مَثَابَةٗ لِّلنَّاسِ وَأَمۡنٗا وَٱتَّخِذُواْ مِن مَّقَامِ إِبۡرَٰهِـۧمَ مُصَلّٗىۖ وَعَهِدۡنَآ إِلَىٰٓ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ أَن طَهِّرَا بَيۡتِيَ لِلطَّآئِفِينَ وَٱلۡعَٰكِفِينَ وَٱلرُّكَّعِ ٱلسُّجُودِ",
+  "translation": "And [remember] when We made the House [i.e., Ka‘bah] a focal point and a sanctuary for the people. “[O believers], take the Station of Abraham as a place for prayer.” We charged Abraham and Ishmael to purify My House for those who perform circumambulation[52] or stay for worship, or those who bow down and prostrate.",
+  "footnotes": "[52] A form of worship particular to the Ka‘bah consisting of going around it in circuits."
 }

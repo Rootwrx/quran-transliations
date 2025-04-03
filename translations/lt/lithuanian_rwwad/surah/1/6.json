@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6",
-    "sura": "1",
-    "aya": "6",
-    "arabic_text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
-    "translation": "6. Vesk mus Tiesiu keliu. [2]",
-    "footnotes": "[2] Vedimas yra dviejų rūšių:\na) Taufik vedimas, kuris priklauso tik nuo pačio Allaho – tik Jis atveria žmonių širdis tiesai (atveda iš netikėjimo į tikėjimą, t. y. islamiškąjį monoteizmą).\nb) Iršad vedimas, vykstantis per Allaho Pasiuntinių ir dievobaimingųjų mokslininkų mokymus, skelbiančus tiesą, t. y. islamiškąjį monoteizmą."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 1,
+  "verse_key": "1:6",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱهۡدِنَا ٱلصِّرَٰطَ ٱلۡمُسۡتَقِيمَ",
+  "translation": "6. Vesk mus Tiesiu keliu. [2]",
+  "footnotes": "[2] Vedimas yra dviejų rūšių:\na) Taufik vedimas, kuris priklauso tik nuo pačio Allaho – tik Jis atveria žmonių širdis tiesai (atveda iš netikėjimo į tikėjimą, t. y. islamiškąjį monoteizmą).\nb) Iršad vedimas, vykstantis per Allaho Pasiuntinių ir dievobaimingųjų mokslininkų mokymus, skelbiančus tiesą, t. y. islamiškąjį monoteizmą."
 }

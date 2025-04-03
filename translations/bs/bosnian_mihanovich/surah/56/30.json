@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5009",
-    "sura": "56",
-    "aya": "30",
-    "arabic_text": "وَظِلّٖ مَّمۡدُودٖ",
-    "translation": "i u hladovini prostranoj, ",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 535,
+  "verse_key": "56:30",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَظِلّٖ مَّمۡدُودٖ",
+  "translation": "i u hladovini prostranoj, ",
+  "footnotes": ""
 }

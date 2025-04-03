@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1808",
-    "sura": "15",
-    "aya": "6",
-    "arabic_text": "وَقَالُواْ يَٰٓأَيُّهَا ٱلَّذِي نُزِّلَ عَلَيۡهِ ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونٞ",
-    "translation": "6. Nabii Mucammad ﷺ dirabboyse mari (koros kinnuk) anqasah kaak iyyeh : kee Qhuraan elle obsime numow diggah atu cabuli anu Nabii kinniyo itta waqdi.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 262,
+  "verse_key": "15:6",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ يَٰٓأَيُّهَا ٱلَّذِي نُزِّلَ عَلَيۡهِ ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونٞ",
+  "translation": "6. Nabii Mucammad ﷺ dirabboyse mari (koros kinnuk) anqasah kaak iyyeh : kee Qhuraan elle obsime numow diggah atu cabuli anu Nabii kinniyo itta waqdi.",
+  "footnotes": ""
 }

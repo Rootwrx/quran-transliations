@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5841",
-    "sura": "82",
-    "aya": "12",
-    "arabic_text": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
-    "translation": "12਼ ਉਹ ਜਾਣਦੇ ਹਨ, ਜੋ ਵੀ ਤੁਸੀਂ ਕਰਦੇ ਹੋ।",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 587,
+  "verse_key": "82:12",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَعۡلَمُونَ مَا تَفۡعَلُونَ",
+  "translation": "12਼ ਉਹ ਜਾਣਦੇ ਹਨ, ਜੋ ਵੀ ਤੁਸੀਂ ਕਰਦੇ ਹੋ।",
+  "footnotes": ""
 }

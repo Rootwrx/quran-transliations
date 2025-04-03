@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2589",
-    "sura": "21",
-    "aya": "106",
-    "arabic_text": "إِنَّ فِي هَٰذَا لَبَلَٰغٗا لِّقَوۡمٍ عَٰبِدِينَ",
-    "translation": "Dájúdájú ohun tí ó máa tó ẹ̀dá (nípa ọ̀rọ̀ ayé àti ọ̀rọ̀ ọ̀run)[1] wà nínú (al-Ƙur’ān) yìí fún ìjọ tó ń jọ́sìn (fún Allāhu ní ọ̀nà òdodo).",
-    "footnotes": "1. Ìtúmọ̀ méjì ló wà fún “balāg” nínú āyah yìí. Ìtúmọ̀ kejì nìyí, Dájúdájú “ohun tí ó máa mú ẹ̀dá gúnlẹ̀ síbi ìyọ́nú Allāhu” wà nínú (al-Ƙur’ān) yìí fún ìjọ tó ń jọ́sìn (fún Allāhu ní ọ̀nà òdodo). (Tafsīr ’Adwā’il-bayān li Ṣinƙītiy)"
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 331,
+  "verse_key": "21:106",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي هَٰذَا لَبَلَٰغٗا لِّقَوۡمٍ عَٰبِدِينَ",
+  "translation": "Dájúdájú ohun tí ó máa tó ẹ̀dá (nípa ọ̀rọ̀ ayé àti ọ̀rọ̀ ọ̀run)[1] wà nínú (al-Ƙur’ān) yìí fún ìjọ tó ń jọ́sìn (fún Allāhu ní ọ̀nà òdodo).",
+  "footnotes": "1. Ìtúmọ̀ méjì ló wà fún “balāg” nínú āyah yìí. Ìtúmọ̀ kejì nìyí, Dájúdájú “ohun tí ó máa mú ẹ̀dá gúnlẹ̀ síbi ìyọ́nú Allāhu” wà nínú (al-Ƙur’ān) yìí fún ìjọ tó ń jọ́sìn (fún Allāhu ní ọ̀nà òdodo). (Tafsīr ’Adwā’il-bayān li Ṣinƙītiy)"
 }

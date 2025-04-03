@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5728",
-    "sura": "79",
-    "aya": "16",
-    "arabic_text": "إِذۡ نَادَىٰهُ رَبُّهُۥ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوًى",
-    "translation": "Ubwo Nyagasani we yamuhamagaraga ari mu kibaya gitagatifu cya Tuwa (agira ati),",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 584,
+  "verse_key": "79:16",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ نَادَىٰهُ رَبُّهُۥ بِٱلۡوَادِ ٱلۡمُقَدَّسِ طُوًى",
+  "translation": "Ubwo Nyagasani we yamuhamagaraga ari mu kibaya gitagatifu cya Tuwa (agira ati),",
+  "footnotes": ""
 }

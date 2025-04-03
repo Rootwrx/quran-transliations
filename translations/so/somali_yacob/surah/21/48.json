@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2531",
-    "sura": "21",
-    "aya": "48",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ وَهَٰرُونَ ٱلۡفُرۡقَانَ وَضِيَآءٗ وَذِكۡرٗا لِّلۡمُتَّقِينَ",
-    "translation": "48. Waxaanu dhab ahaan siinnay Muuse iyo Haaruun Furqaanka (kala sooce samaanta iyo xumaanta), iyo iftiin iyo waano12 ay leeyihiin kuwa iska jira (xumaha ee dhowra Amarrada Alle).",
-    "footnotes": "12. Kuwani waa seddex tilmaamood oo lagu sifeeyey isla Towraadda."
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 326,
+  "verse_key": "21:48",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ وَهَٰرُونَ ٱلۡفُرۡقَانَ وَضِيَآءٗ وَذِكۡرٗا لِّلۡمُتَّقِينَ",
+  "translation": "48. Waxaanu dhab ahaan siinnay Muuse iyo Haaruun Furqaanka (kala sooce samaanta iyo xumaanta), iyo iftiin iyo waano12 ay leeyihiin kuwa iska jira (xumaha ee dhowra Amarrada Alle).",
+  "footnotes": "12. Kuwani waa seddex tilmaamood oo lagu sifeeyey isla Towraadda."
 }

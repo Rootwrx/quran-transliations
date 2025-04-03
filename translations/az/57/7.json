@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5082",
-    "sura": "57",
-    "aya": "7",
-    "arabic_text": "ءَامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُواْ مِمَّا جَعَلَكُم مُّسۡتَخۡلَفِينَ فِيهِۖ فَٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَأَنفَقُواْ لَهُمۡ أَجۡرٞ كَبِيرٞ",
-    "translation": "Allaha və Onun Rəsuluna iman gətirin! İxtiyarınıza verdiyi maldan (Allah yolunda) xərcləyin! Sizdən iman gətirib (mallarından) xərcləyənləri böyük bir mükafat gözləyir.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 538,
+  "verse_key": "57:7",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ءَامِنُواْ بِٱللَّهِ وَرَسُولِهِۦ وَأَنفِقُواْ مِمَّا جَعَلَكُم مُّسۡتَخۡلَفِينَ فِيهِۖ فَٱلَّذِينَ ءَامَنُواْ مِنكُمۡ وَأَنفَقُواْ لَهُمۡ أَجۡرٞ كَبِيرٞ",
+  "translation": "Allaha və Onun Rəsuluna iman gətirin! İxtiyarınıza verdiyi maldan (Allah yolunda) xərcləyin! Sizdən iman gətirib (mallarından) xərcləyənləri böyük bir mükafat gözləyir.",
+  "footnotes": ""
 }

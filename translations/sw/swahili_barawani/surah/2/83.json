@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "90",
-    "sura": "2",
-    "aya": "83",
-    "arabic_text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَ بَنِيٓ إِسۡرَٰٓءِيلَ لَا تَعۡبُدُونَ إِلَّا ٱللَّهَ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَانٗا وَذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَقُولُواْ لِلنَّاسِ حُسۡنٗا وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيۡتُمۡ إِلَّا قَلِيلٗا مِّنكُمۡ وَأَنتُم مُّعۡرِضُونَ",
-    "translation": "Na tulipo funga agano na Wana wa Israili: Hamtamuabudu yeyote ila Mwenyezi Mungu; na muwafanyie wema wazazi na jamaa na mayatima na masikini, na semeni na watu kwa wema, na shikeni Swala, na toeni Zaka. Kisha mkageuka isipo kuwa wachache tu katika nyinyi; na nyinyi mnapuuza.",
-    "footnotes": "Mbali na haya yote, nyinyi jamaa wa Kiyahudi, mnaendelea kuyashughulikia madhambi na kuvunja ahadi, na kupindukia mipaka aliyo kuwekeeni Mwenyezi Mungu. Kumbukeni tulipo chukua ahadi kwenu katika Taurat kuwa hamtamuabudu ila Mwenyezi Mungu, na mwatendee wema wazazi na jamaa na mayatima na masikini, na mnapo zungumza na watu mtumie maneno mazuri ya kuleta masikilizano baina yenu nao wala sio ya kukutenganisheni, na mtimize yaliyo kuwa waajibu juu yenu, nayo ni Swala, na Zaka. Na kumbukeni ulikuwaje mwendo wenu katika ahadi hiyo? Vipi mlivyo ivunja na mkajipuuza nao, isipo kuwa wachache tu ndio walio ifuata Haki?"
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 12,
+  "verse_key": "2:83",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَ بَنِيٓ إِسۡرَٰٓءِيلَ لَا تَعۡبُدُونَ إِلَّا ٱللَّهَ وَبِٱلۡوَٰلِدَيۡنِ إِحۡسَانٗا وَذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَقُولُواْ لِلنَّاسِ حُسۡنٗا وَأَقِيمُواْ ٱلصَّلَوٰةَ وَءَاتُواْ ٱلزَّكَوٰةَ ثُمَّ تَوَلَّيۡتُمۡ إِلَّا قَلِيلٗا مِّنكُمۡ وَأَنتُم مُّعۡرِضُونَ",
+  "translation": "Na tulipo funga agano na Wana wa Israili: Hamtamuabudu yeyote ila Mwenyezi Mungu; na muwafanyie wema wazazi na jamaa na mayatima na masikini, na semeni na watu kwa wema, na shikeni Swala, na toeni Zaka. Kisha mkageuka isipo kuwa wachache tu katika nyinyi; na nyinyi mnapuuza.",
+  "footnotes": "Mbali na haya yote, nyinyi jamaa wa Kiyahudi, mnaendelea kuyashughulikia madhambi na kuvunja ahadi, na kupindukia mipaka aliyo kuwekeeni Mwenyezi Mungu. Kumbukeni tulipo chukua ahadi kwenu katika Taurat kuwa hamtamuabudu ila Mwenyezi Mungu, na mwatendee wema wazazi na jamaa na mayatima na masikini, na mnapo zungumza na watu mtumie maneno mazuri ya kuleta masikilizano baina yenu nao wala sio ya kukutenganisheni, na mtimize yaliyo kuwa waajibu juu yenu, nayo ni Swala, na Zaka. Na kumbukeni ulikuwaje mwendo wenu katika ahadi hiyo? Vipi mlivyo ivunja na mkajipuuza nao, isipo kuwa wachache tu ndio walio ifuata Haki?"
 }

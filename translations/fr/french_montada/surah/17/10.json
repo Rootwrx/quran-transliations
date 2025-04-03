@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2039",
-    "sura": "17",
-    "aya": "10",
-    "arabic_text": "وَأَنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ أَعۡتَدۡنَا لَهُمۡ عَذَابًا أَلِيمٗا",
-    "translation": "10. et (annonce de même) à ceux qui ne croient pas en l’autre monde, que Nous leur avons ménagé un supplice très douloureux.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 283,
+  "verse_key": "17:10",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ أَعۡتَدۡنَا لَهُمۡ عَذَابًا أَلِيمٗا",
+  "translation": "10. et (annonce de même) à ceux qui ne croient pas en l’autre monde, que Nous leur avons ménagé un supplice très douloureux.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2444",
-    "sura": "20",
-    "aya": "96",
-    "arabic_text": "قَالَ بَصُرۡتُ بِمَا لَمۡ يَبۡصُرُواْ بِهِۦ فَقَبَضۡتُ قَبۡضَةٗ مِّنۡ أَثَرِ ٱلرَّسُولِ فَنَبَذۡتُهَا وَكَذَٰلِكَ سَوَّلَتۡ لِي نَفۡسِي",
-    "translation": "96. Wuxuu yidhi: “Waxaan arkay wax aysan arag. Waxaana ka soo qaaatay sacab muggi (oo carro ah) raadkii Rasuulka18 (Faraskii Jabriil) oo aan ku tuuray (dabkii lagu riday alaabadii ay isku qurxin jireen reer Fircoon si aan uga sameeyo sawir dibi). Sidaasayna ii qurxisay nafteydu.",
-    "footnotes": "18. Raadka Rasuulka waxaa loola jeedaa Raadka qoobka faraskii uu watay Jabriil c.s. Waxaa kaloo lagu fasiray Raadka Rasuulka:Risaaladii Rasuulka oo ah sharciga uu la yimid Muuse, inuu Saamiri isaga tagay sharcigaas."
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 318,
+  "verse_key": "20:96",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ بَصُرۡتُ بِمَا لَمۡ يَبۡصُرُواْ بِهِۦ فَقَبَضۡتُ قَبۡضَةٗ مِّنۡ أَثَرِ ٱلرَّسُولِ فَنَبَذۡتُهَا وَكَذَٰلِكَ سَوَّلَتۡ لِي نَفۡسِي",
+  "translation": "96. Wuxuu yidhi: “Waxaan arkay wax aysan arag. Waxaana ka soo qaaatay sacab muggi (oo carro ah) raadkii Rasuulka18 (Faraskii Jabriil) oo aan ku tuuray (dabkii lagu riday alaabadii ay isku qurxin jireen reer Fircoon si aan uga sameeyo sawir dibi). Sidaasayna ii qurxisay nafteydu.",
+  "footnotes": "18. Raadka Rasuulka waxaa loola jeedaa Raadka qoobka faraskii uu watay Jabriil c.s. Waxaa kaloo lagu fasiray Raadka Rasuulka:Risaaladii Rasuulka oo ah sharciga uu la yimid Muuse, inuu Saamiri isaga tagay sharcigaas."
 }

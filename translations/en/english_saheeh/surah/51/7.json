@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4682",
-    "sura": "51",
-    "aya": "7",
-    "arabic_text": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ",
-    "translation": "(7) By the heaven containing pathways,[1535]",
-    "footnotes": "[1535]- Explained as tracks, layers or orbits."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 521,
+  "verse_key": "51:7",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلسَّمَآءِ ذَاتِ ٱلۡحُبُكِ",
+  "translation": "(7) By the heaven containing pathways,[1535]",
+  "footnotes": "[1535]- Explained as tracks, layers or orbits."
 }

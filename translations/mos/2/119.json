@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "126",
-    "sura": "2",
-    "aya": "119",
-    "arabic_text": "إِنَّآ أَرۡسَلۡنَٰكَ بِٱلۡحَقِّ بَشِيرٗا وَنَذِيرٗاۖ وَلَا تُسۡـَٔلُ عَنۡ أَصۡحَٰبِ ٱلۡجَحِيمِ",
-    "translation": "Ad Tõnd tʋmsɑ foom ne sɩdɑ tɩ f yɑɑ sũ-noogdɑ lɑ bugsdɑ, lɑ b pɑ nɑ n sok foom bugum koɑmbã yell ye.",
-    "footnotes": ""
-  }
+  "id": 119,
+  "verse_number": 119,
+  "page_number": 18,
+  "verse_key": "2:119",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَرۡسَلۡنَٰكَ بِٱلۡحَقِّ بَشِيرٗا وَنَذِيرٗاۖ وَلَا تُسۡـَٔلُ عَنۡ أَصۡحَٰبِ ٱلۡجَحِيمِ",
+  "translation": "Ad Tõnd tʋmsɑ foom ne sɩdɑ tɩ f yɑɑ sũ-noogdɑ lɑ bugsdɑ, lɑ b pɑ nɑ n sok foom bugum koɑmbã yell ye.",
+  "footnotes": ""
 }

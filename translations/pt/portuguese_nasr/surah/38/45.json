@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4015",
-    "sura": "38",
-    "aya": "45",
-    "arabic_text": "وَٱذۡكُرۡ عِبَٰدَنَآ إِبۡرَٰهِيمَ وَإِسۡحَٰقَ وَيَعۡقُوبَ أُوْلِي ٱلۡأَيۡدِي وَٱلۡأَبۡصَٰرِ",
-    "translation": "E menciona Nossos servos Abraão e Isaque e Jacó, dotados de vigor e visão.",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 456,
+  "verse_key": "38:45",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱذۡكُرۡ عِبَٰدَنَآ إِبۡرَٰهِيمَ وَإِسۡحَٰقَ وَيَعۡقُوبَ أُوْلِي ٱلۡأَيۡدِي وَٱلۡأَبۡصَٰرِ",
+  "translation": "E menciona Nossos servos Abraão e Isaque e Jacó, dotados de vigor e visão.",
+  "footnotes": ""
 }

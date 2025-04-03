@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3804",
-    "sura": "37",
-    "aya": "16",
-    "arabic_text": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
-    "translation": "(16) When we have died and become dust and bones, are we indeed to be resurrected?",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 446,
+  "verse_key": "37:16",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَءِذَا مِتۡنَا وَكُنَّا تُرَابٗا وَعِظَٰمًا أَءِنَّا لَمَبۡعُوثُونَ",
+  "translation": "(16) When we have died and become dust and bones, are we indeed to be resurrected?",
+  "footnotes": ""
 }

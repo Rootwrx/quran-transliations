@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "78",
-    "sura": "2",
-    "aya": "71",
-    "arabic_text": "قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ لَّا ذَلُولٞ تُثِيرُ ٱلۡأَرۡضَ وَلَا تَسۡقِي ٱلۡحَرۡثَ مُسَلَّمَةٞ لَّا شِيَةَ فِيهَاۚ قَالُواْ ٱلۡـَٰٔنَ جِئۡتَ بِٱلۡحَقِّۚ فَذَبَحُوهَا وَمَا كَادُواْ يَفۡعَلُونَ",
-    "translation": "Nagsabi siya: “Tunay na Siya ay nagsasabing tunay na ito ay isang baka, na hindi maamo na nagbubungkal ng lupa at hindi nagpapatubig ng taniman, na binusilak na walang batik dito.” Nagsabi sila: “Ngayon ay naghatid ka ng katotohanan.” Kaya kinatay nila ito at hindi nila halos nagawa.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 11,
+  "verse_key": "2:71",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ إِنَّهُۥ يَقُولُ إِنَّهَا بَقَرَةٞ لَّا ذَلُولٞ تُثِيرُ ٱلۡأَرۡضَ وَلَا تَسۡقِي ٱلۡحَرۡثَ مُسَلَّمَةٞ لَّا شِيَةَ فِيهَاۚ قَالُواْ ٱلۡـَٰٔنَ جِئۡتَ بِٱلۡحَقِّۚ فَذَبَحُوهَا وَمَا كَادُواْ يَفۡعَلُونَ",
+  "translation": "Nagsabi siya: “Tunay na Siya ay nagsasabing tunay na ito ay isang baka, na hindi maamo na nagbubungkal ng lupa at hindi nagpapatubig ng taniman, na binusilak na walang batik dito.” Nagsabi sila: “Ngayon ay naghatid ka ng katotohanan.” Kaya kinatay nila ito at hindi nila halos nagawa.",
+  "footnotes": ""
 }

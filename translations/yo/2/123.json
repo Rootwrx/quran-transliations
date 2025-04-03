@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "130",
-    "sura": "2",
-    "aya": "123",
-    "arabic_text": "وَٱتَّقُواْ يَوۡمٗا لَّا تَجۡزِي نَفۡسٌ عَن نَّفۡسٖ شَيۡـٔٗا وَلَا يُقۡبَلُ مِنۡهَا عَدۡلٞ وَلَا تَنفَعُهَا شَفَٰعَةٞ وَلَا هُمۡ يُنصَرُونَ",
-    "translation": "Ẹ bẹ̀rù ọjọ́ kan tí ẹ̀mí kan kò níí rọrọ̀ kiní kan fún ẹ̀mí kan. A ò sì níí gba ààrọ̀ l’ọ́wọ́ rẹ̀. Ìṣìpẹ̀ kan kò níí wúlò fún un. A ò sì níí ràn wọ́n lọ́wọ́.[1]",
-    "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Baƙọrah; 2:48."
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 19,
+  "verse_key": "2:123",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 7,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّقُواْ يَوۡمٗا لَّا تَجۡزِي نَفۡسٌ عَن نَّفۡسٖ شَيۡـٔٗا وَلَا يُقۡبَلُ مِنۡهَا عَدۡلٞ وَلَا تَنفَعُهَا شَفَٰعَةٞ وَلَا هُمۡ يُنصَرُونَ",
+  "translation": "Ẹ bẹ̀rù ọjọ́ kan tí ẹ̀mí kan kò níí rọrọ̀ kiní kan fún ẹ̀mí kan. A ò sì níí gba ààrọ̀ l’ọ́wọ́ rẹ̀. Ìṣìpẹ̀ kan kò níí wúlò fún un. A ò sì níí ràn wọ́n lọ́wọ́.[1]",
+  "footnotes": "1. Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Baƙọrah; 2:48."
 }

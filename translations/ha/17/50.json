@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2079",
-    "sura": "17",
-    "aya": "50",
-    "arabic_text": "۞ قُلۡ كُونُواْ حِجَارَةً أَوۡ حَدِيدًا",
-    "translation": "Ka ce: \"Ku kasance duwãtsu ko kuwa baƙin ƙarfe.\"",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 287,
+  "verse_key": "17:50",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قُلۡ كُونُواْ حِجَارَةً أَوۡ حَدِيدًا",
+  "translation": "Ka ce: \"Ku kasance duwãtsu ko kuwa baƙin ƙarfe.\"",
+  "footnotes": ""
 }

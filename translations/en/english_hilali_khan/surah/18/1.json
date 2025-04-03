@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2141",
-    "sura": "18",
-    "aya": "1",
-    "arabic_text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِيٓ أَنزَلَ عَلَىٰ عَبۡدِهِ ٱلۡكِتَٰبَ وَلَمۡ يَجۡعَل لَّهُۥ عِوَجَاۜ",
-    "translation": "1. All the praises and thanks be to Allâh, Who has sent down to His slave (Muhammad صلى الله عليه وسلم) the Book (the Qur’ân), and has not placed therein any crookedness.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 293,
+  "verse_key": "18:1",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡحَمۡدُ لِلَّهِ ٱلَّذِيٓ أَنزَلَ عَلَىٰ عَبۡدِهِ ٱلۡكِتَٰبَ وَلَمۡ يَجۡعَل لَّهُۥ عِوَجَاۜ",
+  "translation": "1. All the praises and thanks be to Allâh, Who has sent down to His slave (Muhammad صلى الله عليه وسلم) the Book (the Qur’ân), and has not placed therein any crookedness.",
+  "footnotes": ""
 }

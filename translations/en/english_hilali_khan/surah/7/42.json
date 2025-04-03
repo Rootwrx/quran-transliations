@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "996",
-    "sura": "7",
-    "aya": "42",
-    "arabic_text": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَا نُكَلِّفُ نَفۡسًا إِلَّا وُسۡعَهَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ",
-    "translation": " 42. But those who believed (in the Oneness of Allâh - Islâmic Monotheism), and worked righteousness - We tax not any person beyond his scope - such are the dwellers of Paradise. They will abide therein.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 155,
+  "verse_key": "7:42",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 62,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ لَا نُكَلِّفُ نَفۡسًا إِلَّا وُسۡعَهَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+  "translation": " 42. But those who believed (in the Oneness of Allâh - Islâmic Monotheism), and worked righteousness - We tax not any person beyond his scope - such are the dwellers of Paradise. They will abide therein.",
+  "footnotes": ""
 }

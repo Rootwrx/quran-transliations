@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3726",
-    "sura": "36",
-    "aya": "21",
-    "arabic_text": "ٱتَّبِعُواْ مَن لَّا يَسۡـَٔلُكُمۡ أَجۡرٗا وَهُم مُّهۡتَدُونَ",
-    "translation": "Wafuateni ambao hawakutakini ujira, hali ya kuwa wenyewe wameongoka.",
-    "footnotes": "Wafuateni watu wasio taka kwenu ujira wowote kwa kukunasihini na kukuongozeni, na hali wao wenyewe wameongoka, na nyinyi mtapata manufaa kwa kufuata njia ya kheri na mafanikio!"
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 441,
+  "verse_key": "36:21",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱتَّبِعُواْ مَن لَّا يَسۡـَٔلُكُمۡ أَجۡرٗا وَهُم مُّهۡتَدُونَ",
+  "translation": "Wafuateni ambao hawakutakini ujira, hali ya kuwa wenyewe wameongoka.",
+  "footnotes": "Wafuateni watu wasio taka kwenu ujira wowote kwa kukunasihini na kukuongozeni, na hali wao wenyewe wameongoka, na nyinyi mtapata manufaa kwa kufuata njia ya kheri na mafanikio!"
 }

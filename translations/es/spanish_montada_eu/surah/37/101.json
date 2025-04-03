@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3889",
-    "sura": "37",
-    "aya": "101",
-    "arabic_text": "فَبَشَّرۡنَٰهُ بِغُلَٰمٍ حَلِيمٖ",
-    "translation": "101. Y le anunciamos el nacimiento de un niño (Ismael)[850] paciente y tolerante.",
-    "footnotes": "[850]  La aleya siguiente deja claro que Ismael fue el hijo al que Al-lah ordenó sacrificar a Abraham, ya que no le anunciaría el nacimiento de su hijo Isaac hasta más adelante, como refleja la aleya 112 de esta misma sura. Asimismo, el significado de la palabra «Ismael» es «Al-lah ha escuchado», haciendo referencia a la plegaria de Abraham, y ello confirma la creencia islámica de que estas aleyas se refieren a Ismael y no a Isaac."
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 449,
+  "verse_key": "37:101",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَبَشَّرۡنَٰهُ بِغُلَٰمٍ حَلِيمٖ",
+  "translation": "101. Y le anunciamos el nacimiento de un niño (Ismael)[850] paciente y tolerante.",
+  "footnotes": "[850]  La aleya siguiente deja claro que Ismael fue el hijo al que Al-lah ordenó sacrificar a Abraham, ya que no le anunciaría el nacimiento de su hijo Isaac hasta más adelante, como refleja la aleya 112 de esta misma sura. Asimismo, el significado de la palabra «Ismael» es «Al-lah ha escuchado», haciendo referencia a la plegaria de Abraham, y ello confirma la creencia islámica de que estas aleyas se refieren a Ismael y no a Isaac."
 }

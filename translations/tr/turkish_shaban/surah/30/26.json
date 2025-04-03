@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3435",
-    "sura": "30",
-    "aya": "26",
-    "arabic_text": "وَلَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
-    "translation": "Göklerde ve yerde ne varsa O’nundur. Hepsi O’na boyun eğmiştir. ",
-    "footnotes": null
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 407,
+  "verse_key": "30:26",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ كُلّٞ لَّهُۥ قَٰنِتُونَ",
+  "translation": "Göklerde ve yerde ne varsa O’nundur. Hepsi O’na boyun eğmiştir. ",
+  "footnotes": null
 }

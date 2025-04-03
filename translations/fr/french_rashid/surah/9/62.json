@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1297",
-    "sura": "9",
-    "aya": "62",
-    "arabic_text": "يَحۡلِفُونَ بِٱللَّهِ لَكُمۡ لِيُرۡضُوكُمۡ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ أَن يُرۡضُوهُ إِن كَانُواْ مُؤۡمِنِينَ",
-    "translation": "62 Les hypocrites vous jurent par Allah de leur bonne foi afin de gagner vos bonnes grâces. Ce sont plutôt les grâces d’Allah et de Son Messager qu’ils devraient rechercher, s’ils étaient vraiment croyants.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 197,
+  "verse_key": "9:62",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 79,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَحۡلِفُونَ بِٱللَّهِ لَكُمۡ لِيُرۡضُوكُمۡ وَٱللَّهُ وَرَسُولُهُۥٓ أَحَقُّ أَن يُرۡضُوهُ إِن كَانُواْ مُؤۡمِنِينَ",
+  "translation": "62 Les hypocrites vous jurent par Allah de leur bonne foi afin de gagner vos bonnes grâces. Ce sont plutôt les grâces d’Allah et de Son Messager qu’ils devraient rechercher, s’ils étaient vraiment croyants.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "955",
-    "sura": "7",
-    "aya": "1",
-    "arabic_text": "الٓمٓصٓ",
-    "translation": "Alif. Lām. Mīm. Sād.[1]",
-    "footnotes": "[1] Ang Qur’ān ay nasa wikang Arabe na binubuo ng mga titiks Arabe gaya ng mga ito subalit walang isa mang nakagawa ng kahit pinkamaiikling kabanata ng mahimalang kababalaghan ng Qur’ān."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 151,
+  "verse_key": "7:1",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 61,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓصٓ",
+  "translation": "Alif. Lām. Mīm. Sād.[1]",
+  "footnotes": "[1] Ang Qur’ān ay nasa wikang Arabe na binubuo ng mga titiks Arabe gaya ng mga ito subalit walang isa mang nakagawa ng kahit pinkamaiikling kabanata ng mahimalang kababalaghan ng Qur’ān."
 }

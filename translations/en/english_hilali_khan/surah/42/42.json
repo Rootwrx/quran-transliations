@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4314",
-    "sura": "42",
-    "aya": "42",
-    "arabic_text": "إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظۡلِمُونَ ٱلنَّاسَ وَيَبۡغُونَ فِي ٱلۡأَرۡضِ بِغَيۡرِ ٱلۡحَقِّۚ أُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ أَلِيمٞ",
-    "translation": " 42. The way (of blame) is only against those who oppress men and rebel in the earth without justification; for such there will be a painful torment.",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 487,
+  "verse_key": "42:42",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا ٱلسَّبِيلُ عَلَى ٱلَّذِينَ يَظۡلِمُونَ ٱلنَّاسَ وَيَبۡغُونَ فِي ٱلۡأَرۡضِ بِغَيۡرِ ٱلۡحَقِّۚ أُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ أَلِيمٞ",
+  "translation": " 42. The way (of blame) is only against those who oppress men and rebel in the earth without justification; for such there will be a painful torment.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4347",
-    "sura": "43",
-    "aya": "22",
-    "arabic_text": "بَلۡ قَالُوٓاْ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهۡتَدُونَ",
-    "translation": "Mais plutôt ils dirent : \"Nous avons trouvé nos ancêtres sur une religion, et nous nous guidons sur leurs traces.\"",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 490,
+  "verse_key": "43:22",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ قَالُوٓاْ إِنَّا وَجَدۡنَآ ءَابَآءَنَا عَلَىٰٓ أُمَّةٖ وَإِنَّا عَلَىٰٓ ءَاثَٰرِهِم مُّهۡتَدُونَ",
+  "translation": "Mais plutôt ils dirent : \"Nous avons trouvé nos ancêtres sur une religion, et nous nous guidons sur leurs traces.\"",
+  "footnotes": ""
 }

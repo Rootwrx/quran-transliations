@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2006",
-    "sura": "16",
-    "aya": "105",
-    "arabic_text": "إِنَّمَا يَفۡتَرِي ٱلۡكَذِبَ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِـَٔايَٰتِ ٱللَّهِۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡكَٰذِبُونَ",
-    "translation": "105. Ya solo, bazali kobuka lokuta baye oyo bazali kondima te na mikapo mia Allah, mpe bango nde bato ba lokuta.",
-    "footnotes": ""
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 279,
+  "verse_key": "16:105",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا يَفۡتَرِي ٱلۡكَذِبَ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِـَٔايَٰتِ ٱللَّهِۖ وَأُوْلَٰٓئِكَ هُمُ ٱلۡكَٰذِبُونَ",
+  "translation": "105. Ya solo, bazali kobuka lokuta baye oyo bazali kondima te na mikapo mia Allah, mpe bango nde bato ba lokuta.",
+  "footnotes": ""
 }

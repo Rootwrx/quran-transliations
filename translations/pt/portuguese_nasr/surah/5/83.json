@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "752",
-    "sura": "5",
-    "aya": "83",
-    "arabic_text": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ",
-    "translation": "E quando ouvem o que foi descido, para o Mensageiro, tu vês seus olhos se marejarem de lágrimas, pelo que reconhecem da Verdade. Dizem: \"Senhor nosso! Cremos. Então, inscreve-nos entre as testemunhas da verdade\".",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 122,
+  "verse_key": "5:83",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا سَمِعُواْ مَآ أُنزِلَ إِلَى ٱلرَّسُولِ تَرَىٰٓ أَعۡيُنَهُمۡ تَفِيضُ مِنَ ٱلدَّمۡعِ مِمَّا عَرَفُواْ مِنَ ٱلۡحَقِّۖ يَقُولُونَ رَبَّنَآ ءَامَنَّا فَٱكۡتُبۡنَا مَعَ ٱلشَّٰهِدِينَ",
+  "translation": "E quando ouvem o que foi descido, para o Mensageiro, tu vês seus olhos se marejarem de lágrimas, pelo que reconhecem da Verdade. Dizem: \"Senhor nosso! Cremos. Então, inscreve-nos entre as testemunhas da verdade\".",
+  "footnotes": ""
 }

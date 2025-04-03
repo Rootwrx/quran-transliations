@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5059",
-    "sura": "56",
-    "aya": "80",
-    "arabic_text": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "ലോകരക്ഷിതാവിങ്കല്‍ നിന്ന് അവതരിപ്പിക്കപ്പെട്ടതത്രെ അത്‌.",
-    "footnotes": ""
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 537,
+  "verse_key": "56:80",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَنزِيلٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "ലോകരക്ഷിതാവിങ്കല്‍ നിന്ന് അവതരിപ്പിക്കപ്പെട്ടതത്രെ അത്‌.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4692",
-    "sura": "51",
-    "aya": "17",
-    "arabic_text": "كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
-    "translation": "They used to sleep only a little at night[4],",
-    "footnotes": "[4] i.e., spending most of the night in prayer, reciting the Qur’an, and in supplication."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 521,
+  "verse_key": "51:17",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَانُواْ قَلِيلٗا مِّنَ ٱلَّيۡلِ مَا يَهۡجَعُونَ",
+  "translation": "They used to sleep only a little at night[4],",
+  "footnotes": "[4] i.e., spending most of the night in prayer, reciting the Qur’an, and in supplication."
 }

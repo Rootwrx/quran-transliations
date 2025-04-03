@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6182",
-    "sura": "104",
-    "aya": "3",
-    "arabic_text": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ",
-    "translation": "i misli da će ga blago njegovo besmrtnim učiniti. ",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 601,
+  "verse_key": "104:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَحۡسَبُ أَنَّ مَالَهُۥٓ أَخۡلَدَهُۥ",
+  "translation": "i misli da će ga blago njegovo besmrtnim učiniti. ",
+  "footnotes": ""
 }

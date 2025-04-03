@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5292",
-    "sura": "68",
-    "aya": "21",
-    "arabic_text": "فَتَنَادَوۡاْ مُصۡبِحِينَ",
-    "translation": " ئۇلار: «ئەگەر (مېۋىلەرنى) ئۈزمەكچى بولساڭلار باغقا بېرىڭلار» دەپ، ئەتىگەندە بىر ـ بىرىنى توۋلاشتى[21ـ22].",
-    "footnotes": null
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 565,
+  "verse_key": "68:21",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتَنَادَوۡاْ مُصۡبِحِينَ",
+  "translation": " ئۇلار: «ئەگەر (مېۋىلەرنى) ئۈزمەكچى بولساڭلار باغقا بېرىڭلار» دەپ، ئەتىگەندە بىر ـ بىرىنى توۋلاشتى[21ـ22].",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1102",
-    "sura": "7",
-    "aya": "148",
-    "arabic_text": "وَٱتَّخَذَ قَوۡمُ مُوسَىٰ مِنۢ بَعۡدِهِۦ مِنۡ حُلِيِّهِمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٌۚ أَلَمۡ يَرَوۡاْ أَنَّهُۥ لَا يُكَلِّمُهُمۡ وَلَا يَهۡدِيهِمۡ سَبِيلًاۘ ٱتَّخَذُوهُ وَكَانُواْ ظَٰلِمِينَ",
-    "translation": "Populli i Musait, pas largimit të tij, filloi të adhurojë një viç të bërë nga stolisjet e tyre të arta. Ai kishte një zë si të lopës. A nuk e shihnin ata se ai as nuk mund t’u fliste, as t’i udhëzonte në rrugë të drejtë?! Ata e zgjodhën këtë viç për adhurim dhe u bënë keqbërës.",
-    "footnotes": ""
-  }
+  "id": 148,
+  "verse_number": 148,
+  "page_number": 168,
+  "verse_key": "7:148",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 67,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّخَذَ قَوۡمُ مُوسَىٰ مِنۢ بَعۡدِهِۦ مِنۡ حُلِيِّهِمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٌۚ أَلَمۡ يَرَوۡاْ أَنَّهُۥ لَا يُكَلِّمُهُمۡ وَلَا يَهۡدِيهِمۡ سَبِيلًاۘ ٱتَّخَذُوهُ وَكَانُواْ ظَٰلِمِينَ",
+  "translation": "Populli i Musait, pas largimit të tij, filloi të adhurojë një viç të bërë nga stolisjet e tyre të arta. Ai kishte një zë si të lopës. A nuk e shihnin ata se ai as nuk mund t’u fliste, as t’i udhëzonte në rrugë të drejtë?! Ata e zgjodhën këtë viç për adhurim dhe u bënë keqbërës.",
+  "footnotes": ""
 }

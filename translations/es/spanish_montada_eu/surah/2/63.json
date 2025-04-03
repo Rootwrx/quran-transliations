@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "70",
-    "sura": "2",
-    "aya": "63",
-    "arabic_text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ",
-    "translation": "63. Y (recordad, ¡oh, hijos de Israel!) cuando establecimos un pacto con vosotros (en el que os comprometíais a seguir la Torá) y elevamos sobre vosotros el monte (en señal de amenaza cuando rechazasteis hacerlo, diciendo:) «Aferraos con fuerza a lo que os hemos otorgado (la Torá) y recordad lo que contiene para que podáis ser piadosos».",
-    "footnotes": ""
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 10,
+  "verse_key": "2:63",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ",
+  "translation": "63. Y (recordad, ¡oh, hijos de Israel!) cuando establecimos un pacto con vosotros (en el que os comprometíais a seguir la Torá) y elevamos sobre vosotros el monte (en señal de amenaza cuando rechazasteis hacerlo, diciendo:) «Aferraos con fuerza a lo que os hemos otorgado (la Torá) y recordad lo que contiene para que podáis ser piadosos».",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5794",
-    "sura": "80",
-    "aya": "36",
-    "arabic_text": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
-    "translation": "36. Хотини-ю, бола-чақасидан ҳам қочур!",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 585,
+  "verse_key": "80:36",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَصَٰحِبَتِهِۦ وَبَنِيهِ",
+  "translation": "36. Хотини-ю, бола-чақасидан ҳам қочур!",
+  "footnotes": ""
 }

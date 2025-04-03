@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "908",
-    "sura": "6",
-    "aya": "119",
-    "arabic_text": "وَمَا لَكُمۡ أَلَّا تَأۡكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَقَدۡ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيۡكُمۡ إِلَّا مَا ٱضۡطُرِرۡتُمۡ إِلَيۡهِۗ وَإِنَّ كَثِيرٗا لَّيُضِلُّونَ بِأَهۡوَآئِهِم بِغَيۡرِ عِلۡمٍۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِٱلۡمُعۡتَدِينَ",
-    "translation": "Ni iki kibabuza kurya ibyavugiweho izina rya Allah (bibagwa) kandi yarabasobanuriye ibyo yabaziririje, uretse igihe mwasumbirijwe? Rwose abenshi bayobya abandi kubera irari ryabo nta bumenyi bafite. Mu by’ukuri Nyagasani wawe ni we uzi neza abarengera (imbago ze).",
-    "footnotes": ""
-  }
+  "id": 119,
+  "verse_number": 119,
+  "page_number": 143,
+  "verse_key": "6:119",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا لَكُمۡ أَلَّا تَأۡكُلُواْ مِمَّا ذُكِرَ ٱسۡمُ ٱللَّهِ عَلَيۡهِ وَقَدۡ فَصَّلَ لَكُم مَّا حَرَّمَ عَلَيۡكُمۡ إِلَّا مَا ٱضۡطُرِرۡتُمۡ إِلَيۡهِۗ وَإِنَّ كَثِيرٗا لَّيُضِلُّونَ بِأَهۡوَآئِهِم بِغَيۡرِ عِلۡمٍۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِٱلۡمُعۡتَدِينَ",
+  "translation": "Ni iki kibabuza kurya ibyavugiweho izina rya Allah (bibagwa) kandi yarabasobanuriye ibyo yabaziririje, uretse igihe mwasumbirijwe? Rwose abenshi bayobya abandi kubera irari ryabo nta bumenyi bafite. Mu by’ukuri Nyagasani wawe ni we uzi neza abarengera (imbago ze).",
+  "footnotes": ""
 }

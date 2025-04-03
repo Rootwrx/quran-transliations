@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4146",
-    "sura": "40",
-    "aya": "13",
-    "arabic_text": "هُوَ ٱلَّذِي يُرِيكُمۡ ءَايَٰتِهِۦ وَيُنَزِّلُ لَكُم مِّنَ ٱلسَّمَآءِ رِزۡقٗاۚ وَمَا يَتَذَكَّرُ إِلَّا مَن يُنِيبُ",
-    "translation": "13. Ye nde alakisaki bino bilembo bia ye, mpe azali kokitisela bino bozui kowuta na likolo. Azali kokanisa sé oyo amizongisi epai naye (ya Allah)",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 468,
+  "verse_key": "40:13",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي يُرِيكُمۡ ءَايَٰتِهِۦ وَيُنَزِّلُ لَكُم مِّنَ ٱلسَّمَآءِ رِزۡقٗاۚ وَمَا يَتَذَكَّرُ إِلَّا مَن يُنِيبُ",
+  "translation": "13. Ye nde alakisaki bino bilembo bia ye, mpe azali kokitisela bino bozui kowuta na likolo. Azali kokanisa sé oyo amizongisi epai naye (ya Allah)",
+  "footnotes": ""
 }

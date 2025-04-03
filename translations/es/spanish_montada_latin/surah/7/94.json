@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1048",
-    "sura": "7",
-    "aya": "94",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا فِي قَرۡيَةٖ مِّن نَّبِيٍّ إِلَّآ أَخَذۡنَآ أَهۡلَهَا بِٱلۡبَأۡسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمۡ يَضَّرَّعُونَ",
-    "translation": "94. Y nunca hemos enviado un Profeta a una comunidad a la que no hayamos puesto a prueba (tras desmentir a su Mensajero) con la enfermedad o la pobreza para que se volvieran humildemente (a Al-lah).",
-    "footnotes": ""
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 162,
+  "verse_key": "7:94",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا فِي قَرۡيَةٖ مِّن نَّبِيٍّ إِلَّآ أَخَذۡنَآ أَهۡلَهَا بِٱلۡبَأۡسَآءِ وَٱلضَّرَّآءِ لَعَلَّهُمۡ يَضَّرَّعُونَ",
+  "translation": "94. Y nunca hemos enviado un Profeta a una comunidad a la que no hayamos puesto a prueba (tras desmentir a su Mensajero) con la enfermedad o la pobreza para que se volvieran humildemente (a Al-lah).",
+  "footnotes": ""
 }

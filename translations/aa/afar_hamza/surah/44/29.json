@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4443",
-    "sura": "44",
-    "aya": "29",
-    "arabic_text": "فَمَا بَكَتۡ عَلَيۡهِمُ ٱلسَّمَآءُ وَٱلۡأَرۡضُ وَمَا كَانُواْ مُنظَرِينَ",
-    "translation": "29. Tokkel qaran kee baaxó keenih (firqawnaa kee firqawni mara kinnuk) maweeqinnaay, digaalák mohlá kah yeceen mara makkon.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 497,
+  "verse_key": "44:29",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَا بَكَتۡ عَلَيۡهِمُ ٱلسَّمَآءُ وَٱلۡأَرۡضُ وَمَا كَانُواْ مُنظَرِينَ",
+  "translation": "29. Tokkel qaran kee baaxó keenih (firqawnaa kee firqawni mara kinnuk) maweeqinnaay, digaalák mohlá kah yeceen mara makkon.",
+  "footnotes": ""
 }

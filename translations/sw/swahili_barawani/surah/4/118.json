@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "611",
-    "sura": "4",
-    "aya": "118",
-    "arabic_text": "لَّعَنَهُ ٱللَّهُۘ وَقَالَ لَأَتَّخِذَنَّ مِنۡ عِبَادِكَ نَصِيبٗا مَّفۡرُوضٗا",
-    "translation": "Mwenyezi Mungu amemlaani. Naye Shet'ani alisema: Kwa yakini nitawachukua sehemu maalumu katika waja wako.",
-    "footnotes": "Na Mwenyezi Mungu Mtukufu amekwisha mfukuza huyu Shetani kutokana na kivuli cha rehema yake, na amemjaalia awe katika njia ya upotovu. Na Shetani ameapa, na amejichukulia ahadi mwenyewe, kuwa atachota miongoni mwa waja wa Mwenyezi Mungu Mtukufu idadi maalumu awapumbaze kwa upotovu wake na awatie wasiwasi kwa shari yake."
-  }
+  "id": 118,
+  "verse_number": 118,
+  "page_number": 97,
+  "verse_key": "4:118",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّعَنَهُ ٱللَّهُۘ وَقَالَ لَأَتَّخِذَنَّ مِنۡ عِبَادِكَ نَصِيبٗا مَّفۡرُوضٗا",
+  "translation": "Mwenyezi Mungu amemlaani. Naye Shet'ani alisema: Kwa yakini nitawachukua sehemu maalumu katika waja wako.",
+  "footnotes": "Na Mwenyezi Mungu Mtukufu amekwisha mfukuza huyu Shetani kutokana na kivuli cha rehema yake, na amemjaalia awe katika njia ya upotovu. Na Shetani ameapa, na amejichukulia ahadi mwenyewe, kuwa atachota miongoni mwa waja wa Mwenyezi Mungu Mtukufu idadi maalumu awapumbaze kwa upotovu wake na awatie wasiwasi kwa shari yake."
 }

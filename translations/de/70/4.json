@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5379",
-    "sura": "70",
-    "aya": "4",
-    "arabic_text": "تَعۡرُجُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ",
-    "translation": "Es steigen die Engel und der Geist zu Ihm auf an einem Tag, dessen (Aus)maß fünfzigtausend Jahre ist.",
-    "footnotes": null
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 568,
+  "verse_key": "70:4",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَعۡرُجُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ",
+  "translation": "Es steigen die Engel und der Geist zu Ihm auf an einem Tag, dessen (Aus)maß fünfzigtausend Jahre ist.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "599",
-    "sura": "4",
-    "aya": "106",
-    "arabic_text": "وَٱسۡتَغۡفِرِ ٱللَّهَۖ إِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
-    "translation": "Allah’tan mağfiret dile, şüphesiz Allah, bağışlayan ve merhamet edendir.",
-    "footnotes": null
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 96,
+  "verse_key": "4:106",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 38,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱسۡتَغۡفِرِ ٱللَّهَۖ إِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
+  "translation": "Allah’tan mağfiret dile, şüphesiz Allah, bağışlayan ve merhamet edendir.",
+  "footnotes": null
 }

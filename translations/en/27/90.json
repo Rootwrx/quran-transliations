@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3249",
-    "sura": "27",
-    "aya": "90",
-    "arabic_text": "وَمَن جَآءَ بِٱلسَّيِّئَةِ فَكُبَّتۡ وُجُوهُهُمۡ فِي ٱلنَّارِ هَلۡ تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ",
-    "translation": "(90) And whoever comes with an evil deed[1090] - their faces will be overturned into the Fire, [and it will be said], \"Are you recompensed except for what you used to do?\"",
-    "footnotes": "[1090]- Without having repented.  It may refer generally to any sin or more specifically to association of another with Allāh."
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 385,
+  "verse_key": "27:90",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن جَآءَ بِٱلسَّيِّئَةِ فَكُبَّتۡ وُجُوهُهُمۡ فِي ٱلنَّارِ هَلۡ تُجۡزَوۡنَ إِلَّا مَا كُنتُمۡ تَعۡمَلُونَ",
+  "translation": "(90) And whoever comes with an evil deed[1090] - their faces will be overturned into the Fire, [and it will be said], \"Are you recompensed except for what you used to do?\"",
+  "footnotes": "[1090]- Without having repented.  It may refer generally to any sin or more specifically to association of another with Allāh."
 }

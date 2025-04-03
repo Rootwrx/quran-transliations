@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5231",
-    "sura": "66",
-    "aya": "2",
-    "arabic_text": "قَدۡ فَرَضَ ٱللَّهُ لَكُمۡ تَحِلَّةَ أَيۡمَٰنِكُمۡۚ وَٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
-    "translation": " 2. Allâh has already ordained for you (O men) the absolution from your oaths. And Allâh is your Maulâ (Lord, or Master, or Protector) and He is the All-Knower, the All-Wise.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 560,
+  "verse_key": "66:2",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ فَرَضَ ٱللَّهُ لَكُمۡ تَحِلَّةَ أَيۡمَٰنِكُمۡۚ وَٱللَّهُ مَوۡلَىٰكُمۡۖ وَهُوَ ٱلۡعَلِيمُ ٱلۡحَكِيمُ",
+  "translation": " 2. Allâh has already ordained for you (O men) the absolution from your oaths. And Allâh is your Maulâ (Lord, or Master, or Protector) and He is the All-Knower, the All-Wise.",
+  "footnotes": ""
 }

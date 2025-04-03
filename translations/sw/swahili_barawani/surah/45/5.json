@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4478",
-    "sura": "45",
-    "aya": "5",
-    "arabic_text": "وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزۡقٖ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَا وَتَصۡرِيفِ ٱلرِّيَٰحِ ءَايَٰتٞ لِّقَوۡمٖ يَعۡقِلُونَ",
-    "translation": "Na kupishana usiku na mchana, na riziki anayo iteremsha Mwenyezi Mungu kutoka mbinguni, na kwayo akaifufua ardhi baada ya kufa kwake, na mabadiliko ya upepo, ni Ishara kwa watu wenye akili.",
-    "footnotes": "Na katika kukhitalifiana usiku na mchana, kwa urefu na ufupi, na mwangaza na giza, na kupeana zamu kwa nidhamu iliyo thibiti, na katika mvua anayo iteremsha Mwenyezi Mungu kutoka mbinguni, akaihuisha ardhi kwa mimea baada ya kufa kwake kwa ukame, na kuziendesha pepo pande mbali mbali nazo zinakhitalifiana kwa ubaridi na joto, na nguvu na udhaifu, ni alama zilizo wazi za kuonyesha ukamilifu wa uwezo wa Mwenyezi Mungu kwa watu wenye kufikiri kwa akili zao, wakafikilia yakini yao."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 499,
+  "verse_key": "45:5",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ وَمَآ أَنزَلَ ٱللَّهُ مِنَ ٱلسَّمَآءِ مِن رِّزۡقٖ فَأَحۡيَا بِهِ ٱلۡأَرۡضَ بَعۡدَ مَوۡتِهَا وَتَصۡرِيفِ ٱلرِّيَٰحِ ءَايَٰتٞ لِّقَوۡمٖ يَعۡقِلُونَ",
+  "translation": "Na kupishana usiku na mchana, na riziki anayo iteremsha Mwenyezi Mungu kutoka mbinguni, na kwayo akaifufua ardhi baada ya kufa kwake, na mabadiliko ya upepo, ni Ishara kwa watu wenye akili.",
+  "footnotes": "Na katika kukhitalifiana usiku na mchana, kwa urefu na ufupi, na mwangaza na giza, na kupeana zamu kwa nidhamu iliyo thibiti, na katika mvua anayo iteremsha Mwenyezi Mungu kutoka mbinguni, akaihuisha ardhi kwa mimea baada ya kufa kwake kwa ukame, na kuziendesha pepo pande mbali mbali nazo zinakhitalifiana kwa ubaridi na joto, na nguvu na udhaifu, ni alama zilizo wazi za kuonyesha ukamilifu wa uwezo wa Mwenyezi Mungu kwa watu wenye kufikiri kwa akili zao, wakafikilia yakini yao."
 }

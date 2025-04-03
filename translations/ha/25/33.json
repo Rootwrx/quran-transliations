@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2888",
-    "sura": "25",
-    "aya": "33",
-    "arabic_text": "وَلَا يَأۡتُونَكَ بِمَثَلٍ إِلَّا جِئۡنَٰكَ بِٱلۡحَقِّ وَأَحۡسَنَ تَفۡسِيرًا",
-    "translation": "Kuma bã zã su zo maka da wani misãli ba, fãce Mun je maka da gaskiya da mafi kyau ga fassara.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 363,
+  "verse_key": "25:33",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَأۡتُونَكَ بِمَثَلٍ إِلَّا جِئۡنَٰكَ بِٱلۡحَقِّ وَأَحۡسَنَ تَفۡسِيرًا",
+  "translation": "Kuma bã zã su zo maka da wani misãli ba, fãce Mun je maka da gaskiya da mafi kyau ga fassara.",
+  "footnotes": ""
 }

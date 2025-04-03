@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4053",
-    "sura": "38",
-    "aya": "83",
-    "arabic_text": "إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِينَ",
-    "translation": "kecuali hamba-hamba-Mu yang terpilih di antara mereka.\"755)",
-    "footnotes": "*755) Orang-orang yang telah diberi taufik untuk menaati segala petunjuk dan perintah Allah."
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 457,
+  "verse_key": "38:83",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا عِبَادَكَ مِنۡهُمُ ٱلۡمُخۡلَصِينَ",
+  "translation": "kecuali hamba-hamba-Mu yang terpilih di antara mereka.\"755)",
+  "footnotes": "*755) Orang-orang yang telah diberi taufik untuk menaati segala petunjuk dan perintah Allah."
 }

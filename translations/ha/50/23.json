@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4653",
-    "sura": "50",
-    "aya": "23",
-    "arabic_text": "وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَيَّ عَتِيدٌ",
-    "translation": "Kuma abõkin haɗinsa* ya ce: \"Wannan shi ne abin da ke tãre da ni halarce.\"",
-    "footnotes": "* Malã'ika mai rubũtun aikinsa. Bã ya rabuwa da shi sai a hãlãye uku, wurin jimã'i da salga da wanka. Malã'ikan da aka haɗa shi da shi dõmin ya rubũta ayyukansa."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 519,
+  "verse_key": "50:23",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ قَرِينُهُۥ هَٰذَا مَا لَدَيَّ عَتِيدٌ",
+  "translation": "Kuma abõkin haɗinsa* ya ce: \"Wannan shi ne abin da ke tãre da ni halarce.\"",
+  "footnotes": "* Malã'ika mai rubũtun aikinsa. Bã ya rabuwa da shi sai a hãlãye uku, wurin jimã'i da salga da wanka. Malã'ikan da aka haɗa shi da shi dõmin ya rubũta ayyukansa."
 }

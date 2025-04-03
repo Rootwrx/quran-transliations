@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3122",
-    "sura": "26",
-    "aya": "190",
-    "arabic_text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
-    "translation": "Quả thật, trong sự việc đó là một dấu hiệu (bài học cho những ai phủ nhận và không vâng lời các vị Thiên Sứ của Allah); tuy nhiên, đa số bọn họ không có đức tin.",
-    "footnotes": ""
-  }
+  "id": 190,
+  "verse_number": 190,
+  "page_number": 375,
+  "verse_key": "26:190",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+  "translation": "Quả thật, trong sự việc đó là một dấu hiệu (bài học cho những ai phủ nhận và không vâng lời các vị Thiên Sứ của Allah); tuy nhiên, đa số bọn họ không có đức tin.",
+  "footnotes": ""
 }

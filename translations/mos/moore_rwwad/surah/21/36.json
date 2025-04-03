@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2519",
-    "sura": "21",
-    "aya": "36",
-    "arabic_text": "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓاْ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِي يَذۡكُرُ ءَالِهَتَكُمۡ وَهُم بِذِكۡرِ ٱلرَّحۡمَٰنِ هُمۡ كَٰفِرُونَ",
-    "translation": "Neb nins sẽn kɩfl-bã sã n wa yãnd foom, b pa gãt foom rẽnda sãbsgo (n yetẽ): \" yaa yãoã soab la sẽn zangd yãmb soab-rãmbã bɩɩ?\" tɩ bãmb yaool n kɩfl ne yolsg Naabã yʋʋrã tẽegre.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 325,
+  "verse_key": "21:36",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا رَءَاكَ ٱلَّذِينَ كَفَرُوٓاْ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِي يَذۡكُرُ ءَالِهَتَكُمۡ وَهُم بِذِكۡرِ ٱلرَّحۡمَٰنِ هُمۡ كَٰفِرُونَ",
+  "translation": "Neb nins sẽn kɩfl-bã sã n wa yãnd foom, b pa gãt foom rẽnda sãbsgo (n yetẽ): \" yaa yãoã soab la sẽn zangd yãmb soab-rãmbã bɩɩ?\" tɩ bãmb yaool n kɩfl ne yolsg Naabã yʋʋrã tẽegre.",
+  "footnotes": ""
 }

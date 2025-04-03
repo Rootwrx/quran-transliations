@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3834",
-    "sura": "37",
-    "aya": "46",
-    "arabic_text": "بَيۡضَآءَ لَذَّةٖ لِّلشَّٰرِبِينَ",
-    "translation": "تك سپين، د څښونكو لپاره خوندور.",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 447,
+  "verse_key": "37:46",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَيۡضَآءَ لَذَّةٖ لِّلشَّٰرِبِينَ",
+  "translation": "تك سپين، د څښونكو لپاره خوندور.",
+  "footnotes": ""
 }

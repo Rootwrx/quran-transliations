@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2876",
-    "sura": "25",
-    "aya": "21",
-    "arabic_text": "۞ وَقَالَ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا لَوۡلَآ أُنزِلَ عَلَيۡنَا ٱلۡمَلَٰٓئِكَةُ أَوۡ نَرَىٰ رَبَّنَاۗ لَقَدِ ٱسۡتَكۡبَرُواْ فِيٓ أَنفُسِهِمۡ وَعَتَوۡ عُتُوّٗا كَبِيرٗا",
-    "translation": "NA WALISEMA wale wasio taraji kukutana nasi: Mbona sisi hatuteremshiwi Malaika au hatumwoni Mola wetu Mlezi? Kwa yakini hawa wamejiona bora nafsi zao, na wamepanda kichwa vikubwa mno!",
-    "footnotes": "Na wakasema wanao kataa kufufuliwa na wala hawatumai kuwa yapo malipo kwa vitendo vyao: Kwa nini hatuteremshiwi Malaika wa kukuunga mkono, au Mwenyezi Mungu akajionyesha kwetu na akatwambia kwamba kweli Yeye kakutuma? Kiburi kimewajaa katika nafsi zao, na wamepita mpaka katika udhalimu na ujabari!"
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 362,
+  "verse_key": "25:21",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَقَالَ ٱلَّذِينَ لَا يَرۡجُونَ لِقَآءَنَا لَوۡلَآ أُنزِلَ عَلَيۡنَا ٱلۡمَلَٰٓئِكَةُ أَوۡ نَرَىٰ رَبَّنَاۗ لَقَدِ ٱسۡتَكۡبَرُواْ فِيٓ أَنفُسِهِمۡ وَعَتَوۡ عُتُوّٗا كَبِيرٗا",
+  "translation": "NA WALISEMA wale wasio taraji kukutana nasi: Mbona sisi hatuteremshiwi Malaika au hatumwoni Mola wetu Mlezi? Kwa yakini hawa wamejiona bora nafsi zao, na wamepanda kichwa vikubwa mno!",
+  "footnotes": "Na wakasema wanao kataa kufufuliwa na wala hawatumai kuwa yapo malipo kwa vitendo vyao: Kwa nini hatuteremshiwi Malaika wa kukuunga mkono, au Mwenyezi Mungu akajionyesha kwetu na akatwambia kwamba kweli Yeye kakutuma? Kiburi kimewajaa katika nafsi zao, na wamepita mpaka katika udhalimu na ujabari!"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2607",
-    "sura": "22",
-    "aya": "12",
-    "arabic_text": "يَدۡعُواْ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ",
-    "translation": "O, Allah’ı bırakır da kendine ne zarar, ne de fayda veren şeylere ibadet eder. İşte bu uzak sapıklığın ta kendisidir.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 333,
+  "verse_key": "22:12",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَدۡعُواْ مِن دُونِ ٱللَّهِ مَا لَا يَضُرُّهُۥ وَمَا لَا يَنفَعُهُۥۚ ذَٰلِكَ هُوَ ٱلضَّلَٰلُ ٱلۡبَعِيدُ",
+  "translation": "O, Allah’ı bırakır da kendine ne zarar, ne de fayda veren şeylere ibadet eder. İşte bu uzak sapıklığın ta kendisidir.",
+  "footnotes": ""
 }

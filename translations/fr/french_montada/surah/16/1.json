@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1902",
-    "sura": "16",
-    "aya": "1",
-    "arabic_text": "أَتَىٰٓ أَمۡرُ ٱللَّهِ فَلَا تَسۡتَعۡجِلُوهُۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
-    "translation": "1. L’ordre d’Allah est bientôt venu. Ne le hâtez donc pas. Gloire Lui soit rendue ! Lui, est bien au-dessus de ce qu’ils Lui associent.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 267,
+  "verse_key": "16:1",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَتَىٰٓ أَمۡرُ ٱللَّهِ فَلَا تَسۡتَعۡجِلُوهُۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
+  "translation": "1. L’ordre d’Allah est bientôt venu. Ne le hâtez donc pas. Gloire Lui soit rendue ! Lui, est bien au-dessus de ce qu’ils Lui associent.",
+  "footnotes": ""
 }

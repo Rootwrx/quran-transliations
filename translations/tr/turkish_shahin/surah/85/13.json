@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5922",
-    "sura": "85",
-    "aya": "13",
-    "arabic_text": "إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ",
-    "translation": "Bilin ki O, (kâinat yokken) ilk olarak yaratan, (ölümden sonra tekrar hayatı) geri getirendir.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 590,
+  "verse_key": "85:13",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُۥ هُوَ يُبۡدِئُ وَيُعِيدُ",
+  "translation": "Bilin ki O, (kâinat yokken) ilk olarak yaratan, (ölümden sonra tekrar hayatı) geri getirendir.",
+  "footnotes": ""
 }

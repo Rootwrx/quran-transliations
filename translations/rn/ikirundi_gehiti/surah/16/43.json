@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1944",
-    "sura": "16",
-    "aya": "43",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِمۡۖ فَسۡـَٔلُوٓاْ أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ",
-    "translation": "Ntumwa y’Imana! Ntitwigeze Dutuma mu bantu b’aho hambere yawe, kiretse ko Twatuma Intumwa mu bantu b’abagabo, batari mu bamalayika, Tugaheza rero Tugahishurira nya Ntumwa amabwirizwa yacu. Babangikanyamana! Nimwaba mutemera ivyo, murabaza abamenyi mu bahawe Ibitabu, bazobabwira ko Intumwa zose zarungitswe zava mu bantu b’abagabo nimwaba mutazi ko vyari ukwo[336].",
-    "footnotes": "[336] Iyi Aayah isaba umuntu wese afise akamubakiye mw’idini, ko ategerezwa kubaza abamenyi babushitse."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 272,
+  "verse_key": "16:43",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 108,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا مِن قَبۡلِكَ إِلَّا رِجَالٗا نُّوحِيٓ إِلَيۡهِمۡۖ فَسۡـَٔلُوٓاْ أَهۡلَ ٱلذِّكۡرِ إِن كُنتُمۡ لَا تَعۡلَمُونَ",
+  "translation": "Ntumwa y’Imana! Ntitwigeze Dutuma mu bantu b’aho hambere yawe, kiretse ko Twatuma Intumwa mu bantu b’abagabo, batari mu bamalayika, Tugaheza rero Tugahishurira nya Ntumwa amabwirizwa yacu. Babangikanyamana! Nimwaba mutemera ivyo, murabaza abamenyi mu bahawe Ibitabu, bazobabwira ko Intumwa zose zarungitswe zava mu bantu b’abagabo nimwaba mutazi ko vyari ukwo[336].",
+  "footnotes": "[336] Iyi Aayah isaba umuntu wese afise akamubakiye mw’idini, ko ategerezwa kubaza abamenyi babushitse."
 }

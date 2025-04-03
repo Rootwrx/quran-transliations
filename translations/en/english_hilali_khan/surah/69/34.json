@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5357",
-    "sura": "69",
-    "aya": "34",
-    "arabic_text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
-    "translation": " 34. And urged not on the feeding of Al-Miskîn (the poor).[1]",
-    "footnotes": "(V.69:34)\na) See the footnote of (V.2:83).\nb) Narrated ‘Abdullâh bin ‘Amr رضي الله عنه: A man asked the Prophet صلى الله عليه وسلم, \"What sort of deeds (or what qualities) of Islâm are good?\" The Prophet صلى الله عليه وسلم replied, \"To feed (the poor) and greet those whom you know and those whom you do not know\". (Sahih Al-Bukhari, Vol.1, Hadith No.11)."
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 567,
+  "verse_key": "69:34",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَحُضُّ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+  "translation": " 34. And urged not on the feeding of Al-Miskîn (the poor).[1]",
+  "footnotes": "(V.69:34)\na) See the footnote of (V.2:83).\nb) Narrated ‘Abdullâh bin ‘Amr رضي الله عنه: A man asked the Prophet صلى الله عليه وسلم, \"What sort of deeds (or what qualities) of Islâm are good?\" The Prophet صلى الله عليه وسلم replied, \"To feed (the poor) and greet those whom you know and those whom you do not know\". (Sahih Al-Bukhari, Vol.1, Hadith No.11)."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "661",
-    "sura": "4",
-    "aya": "168",
-    "arabic_text": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَظَلَمُواْ لَمۡ يَكُنِ ٱللَّهُ لِيَغۡفِرَ لَهُمۡ وَلَا لِيَهۡدِيَهُمۡ طَرِيقًا",
-    "translation": "Those who disbelieve and do wrong, Allah will not forgive them nor will He guide them to a way",
-    "footnotes": ""
-  }
+  "id": 168,
+  "verse_number": 168,
+  "page_number": 104,
+  "verse_key": "4:168",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 42,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ كَفَرُواْ وَظَلَمُواْ لَمۡ يَكُنِ ٱللَّهُ لِيَغۡفِرَ لَهُمۡ وَلَا لِيَهۡدِيَهُمۡ طَرِيقًا",
+  "translation": "Those who disbelieve and do wrong, Allah will not forgive them nor will He guide them to a way",
+  "footnotes": ""
 }

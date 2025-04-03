@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2089",
-    "sura": "17",
-    "aya": "60",
-    "arabic_text": "وَإِذۡ قُلۡنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِۚ وَمَا جَعَلۡنَا ٱلرُّءۡيَا ٱلَّتِيٓ أَرَيۡنَٰكَ إِلَّا فِتۡنَةٗ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلۡمَلۡعُونَةَ فِي ٱلۡقُرۡءَانِۚ وَنُخَوِّفُهُمۡ فَمَا يَزِيدُهُمۡ إِلَّا طُغۡيَٰنٗا كَبِيرٗا",
-    "translation": "60. Dan (ingatlah) ketika Kami wahyukan kepadamu, “Sungguh, (ilmu) Tuhanmu meliputi seluruh manusia.” Dan Kami tidak menjadikan mimpi*(478) yang telah Kami perlihatkan kepadamu, melainkan sebagai ujian bagi manusia. Dan (begitu pula) pohon yang terkutuk (zaqqūm) dalam Al-Qur`ān. Dan Kami menakut-nakuti mereka, tetapi yang demikian itu hanyalah menambah besar kedurhakaan mereka.",
-    "footnotes": "*478). Mimpi adalah terjemah dari kata ar-ru’ya dalam ayat ini maksudnya ialah mimpi tentang Perang Badar yang dialami Rasulullah -ṣallallāhu 'alaihi wa sallam- sebelum peristiwa Perang Badar itu terjadi.Banyak pula mufassir menerjemahkan kata ar-ru’ya tersebut dengan penglihatan yang maksudnya, penglihatan yang dialami Rasulullah -ṣallallāhu 'alaihi wa sallam- pada waktu malam Isra` dan Mi'raj."
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 288,
+  "verse_key": "17:60",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 115,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قُلۡنَا لَكَ إِنَّ رَبَّكَ أَحَاطَ بِٱلنَّاسِۚ وَمَا جَعَلۡنَا ٱلرُّءۡيَا ٱلَّتِيٓ أَرَيۡنَٰكَ إِلَّا فِتۡنَةٗ لِّلنَّاسِ وَٱلشَّجَرَةَ ٱلۡمَلۡعُونَةَ فِي ٱلۡقُرۡءَانِۚ وَنُخَوِّفُهُمۡ فَمَا يَزِيدُهُمۡ إِلَّا طُغۡيَٰنٗا كَبِيرٗا",
+  "translation": "60. Dan (ingatlah) ketika Kami wahyukan kepadamu, “Sungguh, (ilmu) Tuhanmu meliputi seluruh manusia.” Dan Kami tidak menjadikan mimpi*(478) yang telah Kami perlihatkan kepadamu, melainkan sebagai ujian bagi manusia. Dan (begitu pula) pohon yang terkutuk (zaqqūm) dalam Al-Qur`ān. Dan Kami menakut-nakuti mereka, tetapi yang demikian itu hanyalah menambah besar kedurhakaan mereka.",
+  "footnotes": "*478). Mimpi adalah terjemah dari kata ar-ru’ya dalam ayat ini maksudnya ialah mimpi tentang Perang Badar yang dialami Rasulullah -ṣallallāhu 'alaihi wa sallam- sebelum peristiwa Perang Badar itu terjadi.Banyak pula mufassir menerjemahkan kata ar-ru’ya tersebut dengan penglihatan yang maksudnya, penglihatan yang dialami Rasulullah -ṣallallāhu 'alaihi wa sallam- pada waktu malam Isra` dan Mi'raj."
 }

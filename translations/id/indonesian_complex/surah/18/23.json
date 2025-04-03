@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2163",
-    "sura": "18",
-    "aya": "23",
-    "arabic_text": "وَلَا تَقُولَنَّ لِشَاْيۡءٍ إِنِّي فَاعِلٞ ذَٰلِكَ غَدًا",
-    "translation": "Dan jangan sekali-kali kamu mengatakan terhadap sesuatu, \"Sesungguhnya aku akan mengerjakan itu besok pagi,",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 296,
+  "verse_key": "18:23",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَقُولَنَّ لِشَاْيۡءٍ إِنِّي فَاعِلٞ ذَٰلِكَ غَدًا",
+  "translation": "Dan jangan sekali-kali kamu mengatakan terhadap sesuatu, \"Sesungguhnya aku akan mengerjakan itu besok pagi,",
+  "footnotes": ""
 }

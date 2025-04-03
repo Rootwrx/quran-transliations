@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3816",
-    "sura": "37",
-    "aya": "28",
-    "arabic_text": "قَالُوٓاْ إِنَّكُمۡ كُنتُمۡ تَأۡتُونَنَا عَنِ ٱلۡيَمِينِ",
-    "translation": " 28. They will say: \"It was you who used to come to us from the right side [i.e. from the right side of one of us and beautify for us every evil, enjoin on us polytheism, and stop us from the truth i.e. Islâmic Monotheism and from every good deed].\"",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 447,
+  "verse_key": "37:28",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ إِنَّكُمۡ كُنتُمۡ تَأۡتُونَنَا عَنِ ٱلۡيَمِينِ",
+  "translation": " 28. They will say: \"It was you who used to come to us from the right side [i.e. from the right side of one of us and beautify for us every evil, enjoin on us polytheism, and stop us from the truth i.e. Islâmic Monotheism and from every good deed].\"",
+  "footnotes": ""
 }

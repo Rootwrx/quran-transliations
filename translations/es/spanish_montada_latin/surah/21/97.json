@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2580",
-    "sura": "21",
-    "aya": "97",
-    "arabic_text": "وَٱقۡتَرَبَ ٱلۡوَعۡدُ ٱلۡحَقُّ فَإِذَا هِيَ شَٰخِصَةٌ أَبۡصَٰرُ ٱلَّذِينَ كَفَرُواْ يَٰوَيۡلَنَا قَدۡ كُنَّا فِي غَفۡلَةٖ مِّنۡ هَٰذَا بَلۡ كُنَّا ظَٰلِمِينَ",
-    "translation": "97. La promesa (del Día de la Resurrección) se aproxima. (Y cuando llegue) quienes rechazan la verdad tendrán la mirada fija de espanto. (Dirán:) “¡Ay de nosotros! Vivíamos indiferentes a este día. Realmente fuimos injustos”.",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 330,
+  "verse_key": "21:97",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱقۡتَرَبَ ٱلۡوَعۡدُ ٱلۡحَقُّ فَإِذَا هِيَ شَٰخِصَةٌ أَبۡصَٰرُ ٱلَّذِينَ كَفَرُواْ يَٰوَيۡلَنَا قَدۡ كُنَّا فِي غَفۡلَةٖ مِّنۡ هَٰذَا بَلۡ كُنَّا ظَٰلِمِينَ",
+  "translation": "97. La promesa (del Día de la Resurrección) se aproxima. (Y cuando llegue) quienes rechazan la verdad tendrán la mirada fija de espanto. (Dirán:) “¡Ay de nosotros! Vivíamos indiferentes a este día. Realmente fuimos injustos”.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3650",
-    "sura": "34",
-    "aya": "44",
-    "arabic_text": "وَمَآ ءَاتَيۡنَٰهُم مِّن كُتُبٖ يَدۡرُسُونَهَاۖ وَمَآ أَرۡسَلۡنَآ إِلَيۡهِمۡ قَبۡلَكَ مِن نَّذِيرٖ",
-    "translation": "TA (Allah) đã không ban cho họ bất cứ Kinh Sách nào để họ có thể học hỏi; và TA cũng không cử bất cứ người cảnh báo nào đến với họ trước Ngươi cả.",
-    "footnotes": ""
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 433,
+  "verse_key": "34:44",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ ءَاتَيۡنَٰهُم مِّن كُتُبٖ يَدۡرُسُونَهَاۖ وَمَآ أَرۡسَلۡنَآ إِلَيۡهِمۡ قَبۡلَكَ مِن نَّذِيرٖ",
+  "translation": "TA (Allah) đã không ban cho họ bất cứ Kinh Sách nào để họ có thể học hỏi; và TA cũng không cử bất cứ người cảnh báo nào đến với họ trước Ngươi cả.",
+  "footnotes": ""
 }

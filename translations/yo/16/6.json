@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1907",
-    "sura": "16",
-    "aya": "6",
-    "arabic_text": "وَلَكُمۡ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسۡرَحُونَ",
-    "translation": "Ọ̀ṣọ́ tún ń bẹ fún yín lára wọn nígbà tí ẹ bá ń dà wọ́n lọ (sí ilé wọn) àti nígbà tí ẹ bá ń kó wọn jáde lọ jẹko.[1]",
-    "footnotes": "1. Èyí ni pé, dída ẹran-ọ̀sìn lọ bọ̀, ó jẹ́ ọ̀ṣọ́ fún olówó rẹ̀ fún wí pé àwọn ènìyàn yóò mọ olówó ẹran-ọ̀sìn sí ẹni tí àṣírí rẹ̀ bò tàbí ọlọ́rọ̀."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 267,
+  "verse_key": "16:6",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَكُمۡ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسۡرَحُونَ",
+  "translation": "Ọ̀ṣọ́ tún ń bẹ fún yín lára wọn nígbà tí ẹ bá ń dà wọ́n lọ (sí ilé wọn) àti nígbà tí ẹ bá ń kó wọn jáde lọ jẹko.[1]",
+  "footnotes": "1. Èyí ni pé, dída ẹran-ọ̀sìn lọ bọ̀, ó jẹ́ ọ̀ṣọ́ fún olówó rẹ̀ fún wí pé àwọn ènìyàn yóò mọ olówó ẹran-ọ̀sìn sí ẹni tí àṣírí rẹ̀ bò tàbí ọlọ́rọ̀."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2533",
-    "sura": "21",
-    "aya": "50",
-    "arabic_text": "وَهَٰذَا ذِكۡرٞ مُّبَارَكٌ أَنزَلۡنَٰهُۚ أَفَأَنتُمۡ لَهُۥ مُنكِرُونَ",
-    "translation": "And this [Qur’an] is a blessed reminder which We have sent down. Are you still denying it[21]?",
-    "footnotes": "[21] i.e., pretending ignorance or refusing to acknowledge it?"
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 326,
+  "verse_key": "21:50",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهَٰذَا ذِكۡرٞ مُّبَارَكٌ أَنزَلۡنَٰهُۚ أَفَأَنتُمۡ لَهُۥ مُنكِرُونَ",
+  "translation": "And this [Qur’an] is a blessed reminder which We have sent down. Are you still denying it[21]?",
+  "footnotes": "[21] i.e., pretending ignorance or refusing to acknowledge it?"
 }

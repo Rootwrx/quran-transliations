@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "55",
-    "sura": "2",
-    "aya": "48",
-    "arabic_text": "وَٱتَّقُواْ يَوۡمٗا لَّا تَجۡزِي نَفۡسٌ عَن نَّفۡسٖ شَيۡـٔٗا وَلَا يُقۡبَلُ مِنۡهَا شَفَٰعَةٞ وَلَا يُؤۡخَذُ مِنۡهَا عَدۡلٞ وَلَا هُمۡ يُنصَرُونَ",
-    "translation": "48 Craignez le Jour[31] où nul ne pourra rien pour son prochain, où nulle intercession ne sera acceptée sans l’autorisation d’Allah, où nul ne pourra racheter son âme et nul ne pourra être sauvé s’il meurt dans l’impiété.",
-    "footnotes": "[31] Nous mettrons, dans cette traduction, une majuscule au mot « Jour » lorsqu’il sera question du Jour de la résurrection."
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 7,
+  "verse_key": "2:48",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّقُواْ يَوۡمٗا لَّا تَجۡزِي نَفۡسٌ عَن نَّفۡسٖ شَيۡـٔٗا وَلَا يُقۡبَلُ مِنۡهَا شَفَٰعَةٞ وَلَا يُؤۡخَذُ مِنۡهَا عَدۡلٞ وَلَا هُمۡ يُنصَرُونَ",
+  "translation": "48 Craignez le Jour[31] où nul ne pourra rien pour son prochain, où nulle intercession ne sera acceptée sans l’autorisation d’Allah, où nul ne pourra racheter son âme et nul ne pourra être sauvé s’il meurt dans l’impiété.",
+  "footnotes": "[31] Nous mettrons, dans cette traduction, une majuscule au mot « Jour » lorsqu’il sera question du Jour de la résurrection."
 }

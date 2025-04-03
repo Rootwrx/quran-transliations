@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4322",
-    "sura": "42",
-    "aya": "50",
-    "arabic_text": "أَوۡ يُزَوِّجُهُمۡ ذُكۡرَانٗا وَإِنَٰثٗاۖ وَيَجۡعَلُ مَن يَشَآءُ عَقِيمًاۚ إِنَّهُۥ عَلِيمٞ قَدِيرٞ",
-    "translation": "Cyangwa akabagenera kubyara abahungu n’abakobwa, ndetse uwo ashaka akamwima urubyaro (akamugira ingumba). Mu by’ukuri (Allah) ni Umumenyi uhebuje, Ushobora byose.",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 488,
+  "verse_key": "42:50",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ يُزَوِّجُهُمۡ ذُكۡرَانٗا وَإِنَٰثٗاۖ وَيَجۡعَلُ مَن يَشَآءُ عَقِيمًاۚ إِنَّهُۥ عَلِيمٞ قَدِيرٞ",
+  "translation": "Cyangwa akabagenera kubyara abahungu n’abakobwa, ndetse uwo ashaka akamwima urubyaro (akamugira ingumba). Mu by’ukuri (Allah) ni Umumenyi uhebuje, Ushobora byose.",
+  "footnotes": ""
 }

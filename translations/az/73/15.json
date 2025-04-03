@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5490",
-    "sura": "73",
-    "aya": "15",
-    "arabic_text": "إِنَّآ أَرۡسَلۡنَآ إِلَيۡكُمۡ رَسُولٗا شَٰهِدًا عَلَيۡكُمۡ كَمَآ أَرۡسَلۡنَآ إِلَىٰ فِرۡعَوۡنَ رَسُولٗا",
-    "translation": "(Ey Məkkə əhli!) Biz (Musanı) Firona elçi göndərdiyimiz kimi sizə də (qiyamət günü əməllərinizə) şahidlik edəcək (Muhammədi) elçi göndərdik.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 574,
+  "verse_key": "73:15",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَرۡسَلۡنَآ إِلَيۡكُمۡ رَسُولٗا شَٰهِدًا عَلَيۡكُمۡ كَمَآ أَرۡسَلۡنَآ إِلَىٰ فِرۡعَوۡنَ رَسُولٗا",
+  "translation": "(Ey Məkkə əhli!) Biz (Musanı) Firona elçi göndərdiyimiz kimi sizə də (qiyamət günü əməllərinizə) şahidlik edəcək (Muhammədi) elçi göndərdik.",
+  "footnotes": ""
 }

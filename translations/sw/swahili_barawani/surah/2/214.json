@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "221",
-    "sura": "2",
-    "aya": "214",
-    "arabic_text": "أَمۡ حَسِبۡتُمۡ أَن تَدۡخُلُواْ ٱلۡجَنَّةَ وَلَمَّا يَأۡتِكُم مَّثَلُ ٱلَّذِينَ خَلَوۡاْ مِن قَبۡلِكُمۖ مَّسَّتۡهُمُ ٱلۡبَأۡسَآءُ وَٱلضَّرَّآءُ وَزُلۡزِلُواْ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ مَتَىٰ نَصۡرُ ٱللَّهِۗ أَلَآ إِنَّ نَصۡرَ ٱللَّهِ قَرِيبٞ",
-    "translation": "Mnadhani kuwa mtaingia Peponi, bila ya kukujieni kama yaliyo wajia wale walio pita kabla yenu? Iliwapata shida na madhara na wakatikiswa hata Mtume na walio amini pamoja naye wakasema: Lini nusura ya Mwenyezi Mungu itakuja? Jueni kuwa nusura ya Mwenyezi Mungu ipo karibu.",
-    "footnotes": "Hivyo mnadhani kuwa mtaingia Peponi kwa Uislamu wa kutamka tu bila ya kupatikana na masaibu mfano wa masaibu yaliyo wasibu walio kuwa kabla yenu? Hao walipata shida na mashaka na mateso, wakatikiswa mpaka ikafika hadi ya kuwa Mtume wao mwenyewe kusema, na wao wakasema vile vile pamoja naye: Lini itakuja nusura ya Mwenyezi Mungu? Mola wao Mlezi basi anawahakikishia kwa ahadi yake kwa kuwajibu kuwa nusura ya Mwenyezi Mungu ipo karibu"
-  }
+  "id": 214,
+  "verse_number": 214,
+  "page_number": 33,
+  "verse_key": "2:214",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 13,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ حَسِبۡتُمۡ أَن تَدۡخُلُواْ ٱلۡجَنَّةَ وَلَمَّا يَأۡتِكُم مَّثَلُ ٱلَّذِينَ خَلَوۡاْ مِن قَبۡلِكُمۖ مَّسَّتۡهُمُ ٱلۡبَأۡسَآءُ وَٱلضَّرَّآءُ وَزُلۡزِلُواْ حَتَّىٰ يَقُولَ ٱلرَّسُولُ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥ مَتَىٰ نَصۡرُ ٱللَّهِۗ أَلَآ إِنَّ نَصۡرَ ٱللَّهِ قَرِيبٞ",
+  "translation": "Mnadhani kuwa mtaingia Peponi, bila ya kukujieni kama yaliyo wajia wale walio pita kabla yenu? Iliwapata shida na madhara na wakatikiswa hata Mtume na walio amini pamoja naye wakasema: Lini nusura ya Mwenyezi Mungu itakuja? Jueni kuwa nusura ya Mwenyezi Mungu ipo karibu.",
+  "footnotes": "Hivyo mnadhani kuwa mtaingia Peponi kwa Uislamu wa kutamka tu bila ya kupatikana na masaibu mfano wa masaibu yaliyo wasibu walio kuwa kabla yenu? Hao walipata shida na mashaka na mateso, wakatikiswa mpaka ikafika hadi ya kuwa Mtume wao mwenyewe kusema, na wao wakasema vile vile pamoja naye: Lini itakuja nusura ya Mwenyezi Mungu? Mola wao Mlezi basi anawahakikishia kwa ahadi yake kwa kuwajibu kuwa nusura ya Mwenyezi Mungu ipo karibu"
 }

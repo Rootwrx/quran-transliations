@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "674",
-    "sura": "5",
-    "aya": "5",
-    "arabic_text": "ٱلۡيَوۡمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُۖ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حِلّٞ لَّكُمۡ وَطَعَامُكُمۡ حِلّٞ لَّهُمۡۖ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلۡمُؤۡمِنَٰتِ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ إِذَآ ءَاتَيۡتُمُوهُنَّ أُجُورَهُنَّ مُحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِيٓ أَخۡدَانٖۗ وَمَن يَكۡفُرۡ بِٱلۡإِيمَٰنِ فَقَدۡ حَبِطَ عَمَلُهُۥ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ",
-    "translation": "5. Lelo bozali na ndingisa ya kolia bilei ya malamu, mpe bozali na ndingisa ya kolia bilei ya baye bazuaki buku, bango mpe bazali na ndingisa ya kolia bilei na bino. Mpe lisusu bozali na ndingisa ya kobala basi ya malamu kati na bandimi, mpe basi ya malamu kati ya baye bazuaki buku liboso na bino, soki bopesi bango misolo na bango ya libala na lolenge ya malamu, kasi na potopoto ya ekobo te, kasi oyo akopengwa na bondimi, ye wana mosala naye esili kobebisama, mpe o mokolo ya suka akozala elongo na bazangi.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 107,
+  "verse_key": "5:5",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 43,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡيَوۡمَ أُحِلَّ لَكُمُ ٱلطَّيِّبَٰتُۖ وَطَعَامُ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ حِلّٞ لَّكُمۡ وَطَعَامُكُمۡ حِلّٞ لَّهُمۡۖ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلۡمُؤۡمِنَٰتِ وَٱلۡمُحۡصَنَٰتُ مِنَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ مِن قَبۡلِكُمۡ إِذَآ ءَاتَيۡتُمُوهُنَّ أُجُورَهُنَّ مُحۡصِنِينَ غَيۡرَ مُسَٰفِحِينَ وَلَا مُتَّخِذِيٓ أَخۡدَانٖۗ وَمَن يَكۡفُرۡ بِٱلۡإِيمَٰنِ فَقَدۡ حَبِطَ عَمَلُهُۥ وَهُوَ فِي ٱلۡأٓخِرَةِ مِنَ ٱلۡخَٰسِرِينَ",
+  "translation": "5. Lelo bozali na ndingisa ya kolia bilei ya malamu, mpe bozali na ndingisa ya kolia bilei ya baye bazuaki buku, bango mpe bazali na ndingisa ya kolia bilei na bino. Mpe lisusu bozali na ndingisa ya kobala basi ya malamu kati na bandimi, mpe basi ya malamu kati ya baye bazuaki buku liboso na bino, soki bopesi bango misolo na bango ya libala na lolenge ya malamu, kasi na potopoto ya ekobo te, kasi oyo akopengwa na bondimi, ye wana mosala naye esili kobebisama, mpe o mokolo ya suka akozala elongo na bazangi.",
+  "footnotes": ""
 }

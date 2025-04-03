@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4309",
-    "sura": "42",
-    "aya": "37",
-    "arabic_text": "وَٱلَّذِينَ يَجۡتَنِبُونَ كَبَٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ وَإِذَا مَا غَضِبُواْ هُمۡ يَغۡفِرُونَ",
-    "translation": "Isaan warra dilii gurguddaafi gochaalee fokkatoos irraa fagaatanii, yeroo dallananis dhiifama godhaniidha.",
-    "footnotes": ""
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 487,
+  "verse_key": "42:37",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يَجۡتَنِبُونَ كَبَٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ وَإِذَا مَا غَضِبُواْ هُمۡ يَغۡفِرُونَ",
+  "translation": "Isaan warra dilii gurguddaafi gochaalee fokkatoos irraa fagaatanii, yeroo dallananis dhiifama godhaniidha.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2486",
-    "sura": "21",
-    "aya": "3",
-    "arabic_text": "لَاهِيَةٗ قُلُوبُهُمۡۗ وَأَسَرُّواْ ٱلنَّجۡوَى ٱلَّذِينَ ظَلَمُواْ هَلۡ هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡۖ أَفَتَأۡتُونَ ٱلسِّحۡرَ وَأَنتُمۡ تُبۡصِرُونَ",
-    "translation": "3. Sus corazones están distraídos (ocupados en banalidades, y no prestan atención al Corán). Y los injustos que rechazan la verdad se dicen entre ellos en secreto: «¿No es (Muhammad) un ser humano como nosotros? ¿Nos dejaremos hechizar (por él) cuando vemos (que lo suyo es brujería)?».",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 322,
+  "verse_key": "21:3",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَاهِيَةٗ قُلُوبُهُمۡۗ وَأَسَرُّواْ ٱلنَّجۡوَى ٱلَّذِينَ ظَلَمُواْ هَلۡ هَٰذَآ إِلَّا بَشَرٞ مِّثۡلُكُمۡۖ أَفَتَأۡتُونَ ٱلسِّحۡرَ وَأَنتُمۡ تُبۡصِرُونَ",
+  "translation": "3. Sus corazones están distraídos (ocupados en banalidades, y no prestan atención al Corán). Y los injustos que rechazan la verdad se dicen entre ellos en secreto: «¿No es (Muhammad) un ser humano como nosotros? ¿Nos dejaremos hechizar (por él) cuando vemos (que lo suyo es brujería)?».",
+  "footnotes": ""
 }

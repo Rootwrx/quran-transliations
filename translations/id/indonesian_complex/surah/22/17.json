@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2612",
-    "sura": "22",
-    "aya": "17",
-    "arabic_text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلصَّٰبِـِٔينَ وَٱلنَّصَٰرَىٰ وَٱلۡمَجُوسَ وَٱلَّذِينَ أَشۡرَكُوٓاْ إِنَّ ٱللَّهَ يَفۡصِلُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
-    "translation": "Sesungguhnya orang-orang yang beriman, orang-orang Yahudi, orang-orang Ṣhabi’ īn 984 , orang-orang Nasrani, orang-orang Majusi, dan orang-orang musyrik, Allah akan memberi keputusan di antara mereka pada hari kiamat.  Sesungguhnya, Allah menyaksikan segala sesuatu.",
-    "footnotes": "984.  Lihat catatan kaki nomor 56."
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 334,
+  "verse_key": "22:17",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ ءَامَنُواْ وَٱلَّذِينَ هَادُواْ وَٱلصَّٰبِـِٔينَ وَٱلنَّصَٰرَىٰ وَٱلۡمَجُوسَ وَٱلَّذِينَ أَشۡرَكُوٓاْ إِنَّ ٱللَّهَ يَفۡصِلُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ شَهِيدٌ",
+  "translation": "Sesungguhnya orang-orang yang beriman, orang-orang Yahudi, orang-orang Ṣhabi’ īn 984 , orang-orang Nasrani, orang-orang Majusi, dan orang-orang musyrik, Allah akan memberi keputusan di antara mereka pada hari kiamat.  Sesungguhnya, Allah menyaksikan segala sesuatu.",
+  "footnotes": "984.  Lihat catatan kaki nomor 56."
 }

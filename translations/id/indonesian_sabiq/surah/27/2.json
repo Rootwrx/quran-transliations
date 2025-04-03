@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3161",
-    "sura": "27",
-    "aya": "2",
-    "arabic_text": "هُدٗى وَبُشۡرَىٰ لِلۡمُؤۡمِنِينَ",
-    "translation": "2. petunjuk dan berita gembira bagi orang-orang yang beriman,",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 377,
+  "verse_key": "27:2",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُدٗى وَبُشۡرَىٰ لِلۡمُؤۡمِنِينَ",
+  "translation": "2. petunjuk dan berita gembira bagi orang-orang yang beriman,",
+  "footnotes": ""
 }

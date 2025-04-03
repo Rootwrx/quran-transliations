@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1396",
-    "sura": "10",
-    "aya": "32",
-    "arabic_text": "فَذَٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلۡحَقُّۖ فَمَاذَا بَعۡدَ ٱلۡحَقِّ إِلَّا ٱلضَّلَٰلُۖ فَأَنَّىٰ تُصۡرَفُونَ",
-    "translation": "Basi huyo ndiye Mwenyezi Mungu, Mola Mlezi wenu wa haki. Na kipo kitu gani baada ya haki, isipokuwa upotovu tu? Basi huwaje mkageuzwa?",
-    "footnotes": "Huyo basi ndiye Mwenyezi Mungu mliye mkiri, na Yeye tu peke yake ndiye Mola wenu Mlezi aliye thibiti kuwa ni Mola na Mlezi, na akapasa kuabudiwa pekee, wala hapana mwenginewe. Na hapana baada ya Haki ya Umoja wa Mwenyezi Mungu na kumuabudu Yeye tu, ila kutumbukia katika upotovu, nao ni kumshirikisha Mwenyezi Mungu na kumuabudu mwenginewe. Basi vipi mnaiacha Haki mkauendea upotovu?"
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 212,
+  "verse_key": "10:32",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَذَٰلِكُمُ ٱللَّهُ رَبُّكُمُ ٱلۡحَقُّۖ فَمَاذَا بَعۡدَ ٱلۡحَقِّ إِلَّا ٱلضَّلَٰلُۖ فَأَنَّىٰ تُصۡرَفُونَ",
+  "translation": "Basi huyo ndiye Mwenyezi Mungu, Mola Mlezi wenu wa haki. Na kipo kitu gani baada ya haki, isipokuwa upotovu tu? Basi huwaje mkageuzwa?",
+  "footnotes": "Huyo basi ndiye Mwenyezi Mungu mliye mkiri, na Yeye tu peke yake ndiye Mola wenu Mlezi aliye thibiti kuwa ni Mola na Mlezi, na akapasa kuabudiwa pekee, wala hapana mwenginewe. Na hapana baada ya Haki ya Umoja wa Mwenyezi Mungu na kumuabudu Yeye tu, ila kutumbukia katika upotovu, nao ni kumshirikisha Mwenyezi Mungu na kumuabudu mwenginewe. Basi vipi mnaiacha Haki mkauendea upotovu?"
 }

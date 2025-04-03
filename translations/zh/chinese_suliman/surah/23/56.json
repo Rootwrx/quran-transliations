@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2729",
-    "sura": "23",
-    "aya": "56",
-    "arabic_text": "نُسَارِعُ لَهُمۡ فِي ٱلۡخَيۡرَٰتِۚ بَل لَّا يَشۡعُرُونَ",
-    "translation": "是我用来使他们快得福利的〔手段〕吗？不然，他们是不晓得的。",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 345,
+  "verse_key": "23:56",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نُسَارِعُ لَهُمۡ فِي ٱلۡخَيۡرَٰتِۚ بَل لَّا يَشۡعُرُونَ",
+  "translation": "是我用来使他们快得福利的〔手段〕吗？不然，他们是不晓得的。",
+  "footnotes": ""
 }

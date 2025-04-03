@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "381",
-    "sura": "3",
-    "aya": "88",
-    "arabic_text": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنظَرُونَ",
-    "translation": "Olùṣegbére ni wọ́n nínú ègún. Nítorí náà, A ò níí ṣe ìyà náà ní fífúyẹ́ fún wọn, A ò sì níí lọ́ wọn lára (láti jẹ̀yà nínú Iná).",
-    "footnotes": ""
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 61,
+  "verse_key": "3:88",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خَٰلِدِينَ فِيهَا لَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنظَرُونَ",
+  "translation": "Olùṣegbére ni wọ́n nínú ègún. Nítorí náà, A ò níí ṣe ìyà náà ní fífúyẹ́ fún wọn, A ò sì níí lọ́ wọn lára (láti jẹ̀yà nínú Iná).",
+  "footnotes": ""
 }

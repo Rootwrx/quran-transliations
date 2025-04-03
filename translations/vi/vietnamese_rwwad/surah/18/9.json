@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2149",
-    "sura": "18",
-    "aya": "9",
-    "arabic_text": "أَمۡ حَسِبۡتَ أَنَّ أَصۡحَٰبَ ٱلۡكَهۡفِ وَٱلرَّقِيمِ كَانُواْ مِنۡ ءَايَٰتِنَا عَجَبًا",
-    "translation": "Hoặc có phải Ngươi (Muhammad) đã nghĩ rằng những người bạn của hang núi và bia ký là một trong các dấu hiệu lạ của TA?!",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 294,
+  "verse_key": "18:9",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ حَسِبۡتَ أَنَّ أَصۡحَٰبَ ٱلۡكَهۡفِ وَٱلرَّقِيمِ كَانُواْ مِنۡ ءَايَٰتِنَا عَجَبًا",
+  "translation": "Hoặc có phải Ngươi (Muhammad) đã nghĩ rằng những người bạn của hang núi và bia ký là một trong các dấu hiệu lạ của TA?!",
+  "footnotes": ""
 }

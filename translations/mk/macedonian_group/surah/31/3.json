@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3472",
-    "sura": "31",
-    "aya": "3",
-    "arabic_text": "هُدٗى وَرَحۡمَةٗ لِّلۡمُحۡسِنِينَ",
-    "translation": "3. упатство и милост за тие што ќе прават добри дела,",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 411,
+  "verse_key": "31:3",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُدٗى وَرَحۡمَةٗ لِّلۡمُحۡسِنِينَ",
+  "translation": "3. упатство и милост за тие што ќе прават добри дела,",
+  "footnotes": ""
 }

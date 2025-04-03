@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5289",
-    "sura": "68",
-    "aya": "18",
-    "arabic_text": "وَلَا يَسۡتَثۡنُونَ",
-    "translation": "(18) Without making exception.[1727]",
-    "footnotes": "[1727]- i.e., without conceding that nothing can be accomplished unless Allāh wills, saying, \"...if Allāh wills\" (\"in-shā’-Allāh\").  See 18:23-24."
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 565,
+  "verse_key": "68:18",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَسۡتَثۡنُونَ",
+  "translation": "(18) Without making exception.[1727]",
+  "footnotes": "[1727]- i.e., without conceding that nothing can be accomplished unless Allāh wills, saying, \"...if Allāh wills\" (\"in-shā’-Allāh\").  See 18:23-24."
 }

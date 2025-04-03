@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4688",
-    "sura": "51",
-    "aya": "13",
-    "arabic_text": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ",
-    "translation": "Ní ọjọ́ náà sì ni wọn yóò máa fi Iná jẹ wọ́n níyà.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 521,
+  "verse_key": "51:13",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ هُمۡ عَلَى ٱلنَّارِ يُفۡتَنُونَ",
+  "translation": "Ní ọjọ́ náà sì ni wọn yóò máa fi Iná jẹ wọ́n níyà.",
+  "footnotes": ""
 }

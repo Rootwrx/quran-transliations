@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4928",
-    "sura": "55",
-    "aya": "27",
-    "arabic_text": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
-    "translation": "bleiben wird (nur) das Angesicht deines Herrn, Besitzer der Erhabenheit und Ehre.",
-    "footnotes": null
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 532,
+  "verse_key": "55:27",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَبۡقَىٰ وَجۡهُ رَبِّكَ ذُو ٱلۡجَلَٰلِ وَٱلۡإِكۡرَامِ",
+  "translation": "bleiben wird (nur) das Angesicht deines Herrn, Besitzer der Erhabenheit und Ehre.",
+  "footnotes": null
 }

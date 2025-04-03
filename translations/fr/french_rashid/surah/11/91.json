@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1564",
-    "sura": "11",
-    "aya": "91",
-    "arabic_text": "قَالُواْ يَٰشُعَيۡبُ مَا نَفۡقَهُ كَثِيرٗا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفٗاۖ وَلَوۡلَا رَهۡطُكَ لَرَجَمۡنَٰكَۖ وَمَآ أَنتَ عَلَيۡنَا بِعَزِيزٖ",
-    "translation": "91 Ils dirent : « Chou’ayb ! Nous ne comprenons pas grand-chose à ton discours. Nous constatons seulement que tu occupes un rang peu enviable parmi nous. D’ailleurs, sans ton clan, nous t’aurions déjà lapidé, car nous n’avons pour toi aucune estime. »",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 232,
+  "verse_key": "11:91",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰشُعَيۡبُ مَا نَفۡقَهُ كَثِيرٗا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفٗاۖ وَلَوۡلَا رَهۡطُكَ لَرَجَمۡنَٰكَۖ وَمَآ أَنتَ عَلَيۡنَا بِعَزِيزٖ",
+  "translation": "91 Ils dirent : « Chou’ayb ! Nous ne comprenons pas grand-chose à ton discours. Nous constatons seulement que tu occupes un rang peu enviable parmi nous. D’ailleurs, sans ton clan, nous t’aurions déjà lapidé, car nous n’avons pour toi aucune estime. »",
+  "footnotes": ""
 }

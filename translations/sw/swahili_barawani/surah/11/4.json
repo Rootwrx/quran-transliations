@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1477",
-    "sura": "11",
-    "aya": "4",
-    "arabic_text": "إِلَى ٱللَّهِ مَرۡجِعُكُمۡۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
-    "translation": "Marejeo yenu ni kwa Mwenyezi Mungu tu. Naye ni Muweza wa kila kitu.",
-    "footnotes": "Marejeo yenu ni kwa Mwenyezi Mungu peke yake hapa duniani na Siku ya Kiyama, atakapo kufufueni kutoka makaburini mwenu, ili akulipeni kwa vitendo vyenu. Na Yeye ni Muweza wa kila kitu. Kwani Yeye ndiye aliye kamilika uwezo wake, na hashindwi na kitu chochote."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 221,
+  "verse_key": "11:4",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَى ٱللَّهِ مَرۡجِعُكُمۡۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+  "translation": "Marejeo yenu ni kwa Mwenyezi Mungu tu. Naye ni Muweza wa kila kitu.",
+  "footnotes": "Marejeo yenu ni kwa Mwenyezi Mungu peke yake hapa duniani na Siku ya Kiyama, atakapo kufufueni kutoka makaburini mwenu, ili akulipeni kwa vitendo vyenu. Na Yeye ni Muweza wa kila kitu. Kwani Yeye ndiye aliye kamilika uwezo wake, na hashindwi na kitu chochote."
 }

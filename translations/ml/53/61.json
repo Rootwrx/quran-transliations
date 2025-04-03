@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4845",
-    "sura": "53",
-    "aya": "61",
-    "arabic_text": "وَأَنتُمۡ سَٰمِدُونَ",
-    "translation": "നിങ്ങള്‍ അശ്രദ്ധയില്‍ കഴിയുകയുമാണോ?",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 528,
+  "verse_key": "53:61",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنتُمۡ سَٰمِدُونَ",
+  "translation": "നിങ്ങള്‍ അശ്രദ്ധയില്‍ കഴിയുകയുമാണോ?",
+  "footnotes": ""
 }

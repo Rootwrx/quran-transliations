@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "659",
-    "sura": "4",
-    "aya": "166",
-    "arabic_text": "لَّٰكِنِ ٱللَّهُ يَشۡهَدُ بِمَآ أَنزَلَ إِلَيۡكَۖ أَنزَلَهُۥ بِعِلۡمِهِۦۖ وَٱلۡمَلَٰٓئِكَةُ يَشۡهَدُونَۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
-    "translation": "166. Laakiinse Alle wuxuu markhaati ka yahay waxa uu kuu soo dejiyey wuxuu ku soo dejiyey Cilmigiisa, malaa’igtuna57 waa ka markhaati kacaan (sidoo kale). Allena ku Filan Markhaati uu ahaado.",
-    "footnotes": "57. Malaa’igta Carshiga hareerahiisa ah sida Jabriil, Miikaa’iil iyo Israafiil."
-  }
+  "id": 166,
+  "verse_number": 166,
+  "page_number": 104,
+  "verse_key": "4:166",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 42,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّٰكِنِ ٱللَّهُ يَشۡهَدُ بِمَآ أَنزَلَ إِلَيۡكَۖ أَنزَلَهُۥ بِعِلۡمِهِۦۖ وَٱلۡمَلَٰٓئِكَةُ يَشۡهَدُونَۚ وَكَفَىٰ بِٱللَّهِ شَهِيدًا",
+  "translation": "166. Laakiinse Alle wuxuu markhaati ka yahay waxa uu kuu soo dejiyey wuxuu ku soo dejiyey Cilmigiisa, malaa’igtuna57 waa ka markhaati kacaan (sidoo kale). Allena ku Filan Markhaati uu ahaado.",
+  "footnotes": "57. Malaa’igta Carshiga hareerahiisa ah sida Jabriil, Miikaa’iil iyo Israafiil."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1755",
-    "sura": "14",
-    "aya": "5",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنۡ أَخۡرِجۡ قَوۡمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرۡهُم بِأَيَّىٰمِ ٱللَّهِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ",
-    "translation": "Ni ukuri, Twararungitse Musa kuri Bene Israyeli, Tumuteza intege ibitangaro vyacu bigaragaza ukuri kwiwe, Tumubwiriza duti: “Kura abantu warungitsweko mu muzimagiza w’ubuhuvyi ubashire mu muco w’uburongozi bw’ukuri, wongere ubibutse ku nema z’Imana Allah, ubagabishe no ku bihano vyayo”. Mu vy’ukuri muri ukwo kwibutsa, ni ukuri harimwo ivyemezo bigaragara ku muntu wese yihanganira iyumviramana no kudakora ibibi, ashimira Imana Allah ku nema zayo[2].",
-    "footnotes": "[2] Muri iyi Aayah, Imana Allah Ishimangira canecane ku bantu barangwa n’inyifato zibiri “ukwihangana” no “gushima”, kuko ari bo ivyemezo bigirira akamaro mu buzima."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 255,
+  "verse_key": "14:5",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنۡ أَخۡرِجۡ قَوۡمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرۡهُم بِأَيَّىٰمِ ٱللَّهِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ",
+  "translation": "Ni ukuri, Twararungitse Musa kuri Bene Israyeli, Tumuteza intege ibitangaro vyacu bigaragaza ukuri kwiwe, Tumubwiriza duti: “Kura abantu warungitsweko mu muzimagiza w’ubuhuvyi ubashire mu muco w’uburongozi bw’ukuri, wongere ubibutse ku nema z’Imana Allah, ubagabishe no ku bihano vyayo”. Mu vy’ukuri muri ukwo kwibutsa, ni ukuri harimwo ivyemezo bigaragara ku muntu wese yihanganira iyumviramana no kudakora ibibi, ashimira Imana Allah ku nema zayo[2].",
+  "footnotes": "[2] Muri iyi Aayah, Imana Allah Ishimangira canecane ku bantu barangwa n’inyifato zibiri “ukwihangana” no “gushima”, kuko ari bo ivyemezo bigirira akamaro mu buzima."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4183",
-    "sura": "40",
-    "aya": "50",
-    "arabic_text": "قَالُوٓاْ أَوَلَمۡ تَكُ تَأۡتِيكُمۡ رُسُلُكُم بِٱلۡبَيِّنَٰتِۖ قَالُواْ بَلَىٰۚ قَالُواْ فَٱدۡعُواْۗ وَمَا دُعَٰٓؤُاْ ٱلۡكَٰفِرِينَ إِلَّا فِي ضَلَٰلٍ",
-    "translation": "Sie sagen: Pflegten nicht doch eure Gesandten mit den klaren Beweisen zu euch zu kommen? Sie sagen: Ja, doch! Sie sagen: So ruft an. Aber das Anrufen der Ungläubigen geht bestimmt verloren’.",
-    "footnotes": null
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 473,
+  "verse_key": "40:50",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَوَلَمۡ تَكُ تَأۡتِيكُمۡ رُسُلُكُم بِٱلۡبَيِّنَٰتِۖ قَالُواْ بَلَىٰۚ قَالُواْ فَٱدۡعُواْۗ وَمَا دُعَٰٓؤُاْ ٱلۡكَٰفِرِينَ إِلَّا فِي ضَلَٰلٍ",
+  "translation": "Sie sagen: Pflegten nicht doch eure Gesandten mit den klaren Beweisen zu euch zu kommen? Sie sagen: Ja, doch! Sie sagen: So ruft an. Aber das Anrufen der Ungläubigen geht bestimmt verloren’.",
+  "footnotes": null
 }

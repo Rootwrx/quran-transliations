@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1332",
-    "sura": "9",
-    "aya": "97",
-    "arabic_text": "ٱلۡأَعۡرَابُ أَشَدُّ كُفۡرٗا وَنِفَاقٗا وَأَجۡدَرُ أَلَّا يَعۡلَمُواْ حُدُودَ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ رَسُولِهِۦۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
-    "translation": "Mabedui wamezidi sana katika ukafiri na unaafiki, na wameelekea zaidi kutojua mipaka ya aliyo yateremsha Mwenyezi Mungu juu ya Mtume wake. Na Mwenyezi Mungu ni Mjuzi Mwenye hikima.",
-    "footnotes": "Mabedui, Waarabu wa majangwani, ndio wakubwa wa kuikataa Haki na wa unaafiki. Hao hakika wamefika upeo wa mwisho katika hayo. Na hayo ni hivyo kwa kuwa wao wapo mbali na maarifa na mwahali mwenye vitovu vya ilimu. Na wao ndio wameelekea zaidi kuwa wasiijue mipaka ya Mwenyezi Mungu, na aliyo mteremshia Mtume wake katika sharia na hukumu. Na Mwenyezi Mungu ni Mjuzi wa pande zote mbili, na ni Mwenye hikima katika malipo anayo yakadiria."
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 202,
+  "verse_key": "9:97",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 81,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡأَعۡرَابُ أَشَدُّ كُفۡرٗا وَنِفَاقٗا وَأَجۡدَرُ أَلَّا يَعۡلَمُواْ حُدُودَ مَآ أَنزَلَ ٱللَّهُ عَلَىٰ رَسُولِهِۦۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
+  "translation": "Mabedui wamezidi sana katika ukafiri na unaafiki, na wameelekea zaidi kutojua mipaka ya aliyo yateremsha Mwenyezi Mungu juu ya Mtume wake. Na Mwenyezi Mungu ni Mjuzi Mwenye hikima.",
+  "footnotes": "Mabedui, Waarabu wa majangwani, ndio wakubwa wa kuikataa Haki na wa unaafiki. Hao hakika wamefika upeo wa mwisho katika hayo. Na hayo ni hivyo kwa kuwa wao wapo mbali na maarifa na mwahali mwenye vitovu vya ilimu. Na wao ndio wameelekea zaidi kuwa wasiijue mipaka ya Mwenyezi Mungu, na aliyo mteremshia Mtume wake katika sharia na hukumu. Na Mwenyezi Mungu ni Mjuzi wa pande zote mbili, na ni Mwenye hikima katika malipo anayo yakadiria."
 }

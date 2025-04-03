@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4326",
-    "sura": "43",
-    "aya": "1",
-    "arabic_text": "حمٓ",
-    "translation": "1. Há, mím.(1)",
-    "footnotes": "1 Bótala na suratu Al-Baqarah mokapo: 1."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 489,
+  "verse_key": "43:1",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حمٓ",
+  "translation": "1. Há, mím.(1)",
+  "footnotes": "1 Bótala na suratu Al-Baqarah mokapo: 1."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5981",
-    "sura": "88",
-    "aya": "14",
-    "arabic_text": "وَأَكۡوَابٞ مَّوۡضُوعَةٞ",
-    "translation": "మరియు పేర్చబడిన (మధు) పాత్రలు;",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 592,
+  "verse_key": "88:14",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَكۡوَابٞ مَّوۡضُوعَةٞ",
+  "translation": "మరియు పేర్చబడిన (మధు) పాత్రలు;",
+  "footnotes": ""
 }

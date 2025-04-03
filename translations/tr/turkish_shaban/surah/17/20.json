@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2049",
-    "sura": "17",
-    "aya": "20",
-    "arabic_text": "كُلّٗا نُّمِدُّ هَٰٓؤُلَآءِ وَهَٰٓؤُلَآءِ مِنۡ عَطَآءِ رَبِّكَۚ وَمَا كَانَ عَطَآءُ رَبِّكَ مَحۡظُورًا",
-    "translation": "Hepsine, hem onlara hem bunlara Rabbinin nimetlerinden veririz. Rabbinin ihsanı kimseye yasak kılınmış değildir. ",
-    "footnotes": null
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 284,
+  "verse_key": "17:20",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُلّٗا نُّمِدُّ هَٰٓؤُلَآءِ وَهَٰٓؤُلَآءِ مِنۡ عَطَآءِ رَبِّكَۚ وَمَا كَانَ عَطَآءُ رَبِّكَ مَحۡظُورًا",
+  "translation": "Hepsine, hem onlara hem bunlara Rabbinin nimetlerinden veririz. Rabbinin ihsanı kimseye yasak kılınmış değildir. ",
+  "footnotes": null
 }

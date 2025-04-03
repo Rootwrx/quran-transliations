@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4778",
-    "sura": "52",
-    "aya": "43",
-    "arabic_text": "أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ",
-    "translation": " 43. Or have they an ilâh (a god) other than Allâh? Glorified be Allâh from all that they ascribe as partners (to Him)[1]",
-    "footnotes": "(V.52:43)\na) See the footnote (B) of (V.3:130).\nb) See the footnote of (V.2:278)"
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 525,
+  "verse_key": "52:43",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ",
+  "translation": " 43. Or have they an ilâh (a god) other than Allâh? Glorified be Allâh from all that they ascribe as partners (to Him)[1]",
+  "footnotes": "(V.52:43)\na) See the footnote (B) of (V.3:130).\nb) See the footnote of (V.2:278)"
 }

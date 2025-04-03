@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6007",
-    "sura": "89",
-    "aya": "14",
-    "arabic_text": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ",
-    "translation": "14. tu Señor está atento [a las acciones de la gente].",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 593,
+  "verse_key": "89:14",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ رَبَّكَ لَبِٱلۡمِرۡصَادِ",
+  "translation": "14. tu Señor está atento [a las acciones de la gente].",
+  "footnotes": ""
 }

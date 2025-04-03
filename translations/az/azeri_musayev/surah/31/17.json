@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3486",
-    "sura": "31",
-    "aya": "17",
-    "arabic_text": "يَٰبُنَيَّ أَقِمِ ٱلصَّلَوٰةَ وَأۡمُرۡ بِٱلۡمَعۡرُوفِ وَٱنۡهَ عَنِ ٱلۡمُنكَرِ وَٱصۡبِرۡ عَلَىٰ مَآ أَصَابَكَۖ إِنَّ ذَٰلِكَ مِنۡ عَزۡمِ ٱلۡأُمُورِ",
-    "translation": "Oğlum! Namaz qıl, yaxşı işlər görməyi əmr et, pis işləri qadağan elə. Başına gələn çətinliklərə səbir et. Həqiqətən, bu, əzm (tələb edən) əməllərdəndir.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 412,
+  "verse_key": "31:17",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰبُنَيَّ أَقِمِ ٱلصَّلَوٰةَ وَأۡمُرۡ بِٱلۡمَعۡرُوفِ وَٱنۡهَ عَنِ ٱلۡمُنكَرِ وَٱصۡبِرۡ عَلَىٰ مَآ أَصَابَكَۖ إِنَّ ذَٰلِكَ مِنۡ عَزۡمِ ٱلۡأُمُورِ",
+  "translation": "Oğlum! Namaz qıl, yaxşı işlər görməyi əmr et, pis işləri qadağan elə. Başına gələn çətinliklərə səbir et. Həqiqətən, bu, əzm (tələb edən) əməllərdəndir.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6071",
-    "sura": "92",
-    "aya": "13",
-    "arabic_text": "وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ",
-    "translation": "13 et c’est Nous qui sommes Maître de l’au-delà et de ce bas monde.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 595,
+  "verse_key": "92:13",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ لَنَا لَلۡأٓخِرَةَ وَٱلۡأُولَىٰ",
+  "translation": "13 et c’est Nous qui sommes Maître de l’au-delà et de ce bas monde.",
+  "footnotes": ""
 }

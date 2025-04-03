@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1564",
-    "sura": "11",
-    "aya": "91",
-    "arabic_text": "قَالُواْ يَٰشُعَيۡبُ مَا نَفۡقَهُ كَثِيرٗا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفٗاۖ وَلَوۡلَا رَهۡطُكَ لَرَجَمۡنَٰكَۖ وَمَآ أَنتَ عَلَيۡنَا بِعَزِيزٖ",
-    "translation": "(Người dân của Shu’aib) nói: “Này Shu’aib, bọn ta không hiểu nhiều những gì ngươi nói, và thực tế bọn ta thấy ngươi là kẻ yếu hèn trong bọn ta, nếu không vì nể trọng dòng họ của ngươi thì bọn ta đã ném đá giết ngươi, bởi lẽ ngươi đối với bọn ta chẳng có một sự tôn trọng nào cả.”",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 232,
+  "verse_key": "11:91",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰشُعَيۡبُ مَا نَفۡقَهُ كَثِيرٗا مِّمَّا تَقُولُ وَإِنَّا لَنَرَىٰكَ فِينَا ضَعِيفٗاۖ وَلَوۡلَا رَهۡطُكَ لَرَجَمۡنَٰكَۖ وَمَآ أَنتَ عَلَيۡنَا بِعَزِيزٖ",
+  "translation": "(Người dân của Shu’aib) nói: “Này Shu’aib, bọn ta không hiểu nhiều những gì ngươi nói, và thực tế bọn ta thấy ngươi là kẻ yếu hèn trong bọn ta, nếu không vì nể trọng dòng họ của ngươi thì bọn ta đã ném đá giết ngươi, bởi lẽ ngươi đối với bọn ta chẳng có một sự tôn trọng nào cả.”",
+  "footnotes": ""
 }

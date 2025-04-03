@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1051",
-    "sura": "7",
-    "aya": "97",
-    "arabic_text": "أَفَأَمِنَ أَهۡلُ ٱلۡقُرَىٰٓ أَن يَأۡتِيَهُم بَأۡسُنَا بَيَٰتٗا وَهُمۡ نَآئِمُونَ",
-    "translation": "97. Ee ma waxay reer magaaluhu aamin ka yihiin Ciqaabkayaga inuu u yimaado habeennimo iyagoo hurda?",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 163,
+  "verse_key": "7:97",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَأَمِنَ أَهۡلُ ٱلۡقُرَىٰٓ أَن يَأۡتِيَهُم بَأۡسُنَا بَيَٰتٗا وَهُمۡ نَآئِمُونَ",
+  "translation": "97. Ee ma waxay reer magaaluhu aamin ka yihiin Ciqaabkayaga inuu u yimaado habeennimo iyagoo hurda?",
+  "footnotes": ""
 }

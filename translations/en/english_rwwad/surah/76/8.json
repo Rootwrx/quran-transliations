@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5599",
-    "sura": "76",
-    "aya": "8",
-    "arabic_text": "وَيُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسۡكِينٗا وَيَتِيمٗا وَأَسِيرًا",
-    "translation": "and they give food, despite their love for it[4], to the needy, the orphans, and the captives,",
-    "footnotes": "[4] Or \"out of love for Him (Allah)\"."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 579,
+  "verse_key": "76:8",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُطۡعِمُونَ ٱلطَّعَامَ عَلَىٰ حُبِّهِۦ مِسۡكِينٗا وَيَتِيمٗا وَأَسِيرًا",
+  "translation": "and they give food, despite their love for it[4], to the needy, the orphans, and the captives,",
+  "footnotes": "[4] Or \"out of love for Him (Allah)\"."
 }

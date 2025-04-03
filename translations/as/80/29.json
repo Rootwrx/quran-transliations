@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5787",
-    "sura": "80",
-    "aya": "29",
-    "arabic_text": "وَزَيۡتُونٗا وَنَخۡلٗا",
-    "translation": "যায়তুন আৰু খেজুৰ গছ,",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 585,
+  "verse_key": "80:29",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَزَيۡتُونٗا وَنَخۡلٗا",
+  "translation": "যায়তুন আৰু খেজুৰ গছ,",
+  "footnotes": ""
 }

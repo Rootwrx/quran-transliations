@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3953",
-    "sura": "37",
-    "aya": "165",
-    "arabic_text": "وَإِنَّا لَنَحۡنُ ٱلصَّآفُّونَ",
-    "translation": "തീര്‍ച്ചയായും ഞങ്ങള്‍ തന്നെയാണ് അണിനിരന്ന് നില്‍ക്കുന്നവര്‍.",
-    "footnotes": ""
-  }
+  "id": 165,
+  "verse_number": 165,
+  "page_number": 452,
+  "verse_key": "37:165",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّا لَنَحۡنُ ٱلصَّآفُّونَ",
+  "translation": "തീര്‍ച്ചയായും ഞങ്ങള്‍ തന്നെയാണ് അണിനിരന്ന് നില്‍ക്കുന്നവര്‍.",
+  "footnotes": ""
 }

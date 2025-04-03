@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "397",
-    "sura": "3",
-    "aya": "104",
-    "arabic_text": "وَلۡتَكُن مِّنكُمۡ أُمَّةٞ يَدۡعُونَ إِلَى ٱلۡخَيۡرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِۚ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
-    "translation": "Isin irraa ummanni gara khayrii waamtuufi tan gaariitti ajajju badii irraa dhorgitu haa jiraattu. Warri sun isaantu milkaa’oodha.",
-    "footnotes": ""
-  }
+  "id": 104,
+  "verse_number": 104,
+  "page_number": 63,
+  "verse_key": "3:104",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلۡتَكُن مِّنكُمۡ أُمَّةٞ يَدۡعُونَ إِلَى ٱلۡخَيۡرِ وَيَأۡمُرُونَ بِٱلۡمَعۡرُوفِ وَيَنۡهَوۡنَ عَنِ ٱلۡمُنكَرِۚ وَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+  "translation": "Isin irraa ummanni gara khayrii waamtuufi tan gaariitti ajajju badii irraa dhorgitu haa jiraattu. Warri sun isaantu milkaa’oodha.",
+  "footnotes": ""
 }

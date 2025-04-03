@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3071",
-    "sura": "26",
-    "aya": "139",
-    "arabic_text": "فَكَذَّبُوهُ فَأَهۡلَكۡنَٰهُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
-    "translation": "Wakamkanusha; nasi tukawaangamiza. Hakika bila ya shaka katika haya ipo Ishara. Lakini hawakuwa wengi wao wenye kuamini.",
-    "footnotes": "Basi wakaendelea kushikilia kumkanusha. Mwenyezi Mungu akawafanyia haraka kuwateketeza. Hakika katika hayo aliyo wateremshia Mwenyezi Mungu kina A'di kwa kuwa ni malipo kwa ukanushi wao, ni hoja inayo juulisha ukamilifu wa uwezo wa Mwenyezi Mungu. Na si wengi katika wanao somewa khabari za A'adi walio Waumini."
-  }
+  "id": 139,
+  "verse_number": 139,
+  "page_number": 373,
+  "verse_key": "26:139",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَذَّبُوهُ فَأَهۡلَكۡنَٰهُمۡۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗۖ وَمَا كَانَ أَكۡثَرُهُم مُّؤۡمِنِينَ",
+  "translation": "Wakamkanusha; nasi tukawaangamiza. Hakika bila ya shaka katika haya ipo Ishara. Lakini hawakuwa wengi wao wenye kuamini.",
+  "footnotes": "Basi wakaendelea kushikilia kumkanusha. Mwenyezi Mungu akawafanyia haraka kuwateketeza. Hakika katika hayo aliyo wateremshia Mwenyezi Mungu kina A'di kwa kuwa ni malipo kwa ukanushi wao, ni hoja inayo juulisha ukamilifu wa uwezo wa Mwenyezi Mungu. Na si wengi katika wanao somewa khabari za A'adi walio Waumini."
 }

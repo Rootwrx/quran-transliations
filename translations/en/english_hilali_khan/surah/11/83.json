@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1556",
-    "sura": "11",
-    "aya": "83",
-    "arabic_text": "مُّسَوَّمَةً عِندَ رَبِّكَۖ وَمَا هِيَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٖ",
-    "translation": " 83. Marked from your Lord; and they are not ever far from the Zâlimûn (polytheists, evil-doers).",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 231,
+  "verse_key": "11:83",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مُّسَوَّمَةً عِندَ رَبِّكَۖ وَمَا هِيَ مِنَ ٱلظَّٰلِمِينَ بِبَعِيدٖ",
+  "translation": " 83. Marked from your Lord; and they are not ever far from the Zâlimûn (polytheists, evil-doers).",
+  "footnotes": ""
 }

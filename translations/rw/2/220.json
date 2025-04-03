@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "227",
-    "sura": "2",
-    "aya": "220",
-    "arabic_text": "فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۗ وَيَسۡـَٔلُونَكَ عَنِ ٱلۡيَتَٰمَىٰۖ قُلۡ إِصۡلَاحٞ لَّهُمۡ خَيۡرٞۖ وَإِن تُخَالِطُوهُمۡ فَإِخۡوَٰنُكُمۡۚ وَٱللَّهُ يَعۡلَمُ ٱلۡمُفۡسِدَ مِنَ ٱلۡمُصۡلِحِۚ وَلَوۡ شَآءَ ٱللَّهُ لَأَعۡنَتَكُمۡۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
-    "translation": "ku isi no ku munsi w’imperuka. Baranakubaza ku byerekeye imfubyi. Vuga (yewe Muhamadi) uti “Kuzigirira neza ni byo byiza, kandi nimunavanga (ibyanyu n’ibyazo), ni abavandimwe banyu (ntimuzabahemukire). Kandi Allah azi uwangiza n’utunganya. N’iyo Allah abishaka yari kubagora (ababuza kuvanga ibyanyu n’iby’imfubyi). Mu by’ukuri, Allah ni Umunyacyubahiro bihebuje, Nyirubugenge buhambaye.”",
-    "footnotes": ""
-  }
+  "id": 220,
+  "verse_number": 220,
+  "page_number": 35,
+  "verse_key": "2:220",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 14,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۗ وَيَسۡـَٔلُونَكَ عَنِ ٱلۡيَتَٰمَىٰۖ قُلۡ إِصۡلَاحٞ لَّهُمۡ خَيۡرٞۖ وَإِن تُخَالِطُوهُمۡ فَإِخۡوَٰنُكُمۡۚ وَٱللَّهُ يَعۡلَمُ ٱلۡمُفۡسِدَ مِنَ ٱلۡمُصۡلِحِۚ وَلَوۡ شَآءَ ٱللَّهُ لَأَعۡنَتَكُمۡۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
+  "translation": "ku isi no ku munsi w’imperuka. Baranakubaza ku byerekeye imfubyi. Vuga (yewe Muhamadi) uti “Kuzigirira neza ni byo byiza, kandi nimunavanga (ibyanyu n’ibyazo), ni abavandimwe banyu (ntimuzabahemukire). Kandi Allah azi uwangiza n’utunganya. N’iyo Allah abishaka yari kubagora (ababuza kuvanga ibyanyu n’iby’imfubyi). Mu by’ukuri, Allah ni Umunyacyubahiro bihebuje, Nyirubugenge buhambaye.”",
+  "footnotes": ""
 }

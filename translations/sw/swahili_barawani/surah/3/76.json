@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "369",
-    "sura": "3",
-    "aya": "76",
-    "arabic_text": "بَلَىٰۚ مَنۡ أَوۡفَىٰ بِعَهۡدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُتَّقِينَ",
-    "translation": "Sivyo hivyo, bali anaye timiza ahadi yake na akamchamngu basi Mwenyezi Mungu huwapenda wachamngu.",
-    "footnotes": "Hakika ni kweli wamemzulia uwongo Mwenyezi Mungu. Kwani mwenye kumrejeshea mwenyewe haki yake na akamtimizia kwa wakati wake kama alivyo ahidi, na akamwogopa Mwenyezi Mungu, wala asipunguze kitu wala asiakhirishe, huyo basi atapata mapenzi ya Mwenyezi Mungu kwa sababu amemcha Yeye."
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 59,
+  "verse_key": "3:76",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلَىٰۚ مَنۡ أَوۡفَىٰ بِعَهۡدِهِۦ وَٱتَّقَىٰ فَإِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُتَّقِينَ",
+  "translation": "Sivyo hivyo, bali anaye timiza ahadi yake na akamchamngu basi Mwenyezi Mungu huwapenda wachamngu.",
+  "footnotes": "Hakika ni kweli wamemzulia uwongo Mwenyezi Mungu. Kwani mwenye kumrejeshea mwenyewe haki yake na akamtimizia kwa wakati wake kama alivyo ahidi, na akamwogopa Mwenyezi Mungu, wala asipunguze kitu wala asiakhirishe, huyo basi atapata mapenzi ya Mwenyezi Mungu kwa sababu amemcha Yeye."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "652",
-    "sura": "4",
-    "aya": "159",
-    "arabic_text": "وَإِن مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ إِلَّا لَيُؤۡمِنَنَّ بِهِۦ قَبۡلَ مَوۡتِهِۦۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكُونُ عَلَيۡهِمۡ شَهِيدٗا",
-    "translation": "Et il n’y aura personne, parmi les gens du Livre, qui n’aura pas foi en lui avant sa mort. Et au Jour de la Résurrection, il sera témoin contre eux.",
-    "footnotes": "[229] Avant sa mort: il existe deux interprétations. La première affirmant qu’il s’agit de la mort de Jésus et la seconde estimant qu’il s’agit de la mort d’un partisan des gens du Livre."
-  }
+  "id": 159,
+  "verse_number": 159,
+  "page_number": 103,
+  "verse_key": "4:159",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن مِّنۡ أَهۡلِ ٱلۡكِتَٰبِ إِلَّا لَيُؤۡمِنَنَّ بِهِۦ قَبۡلَ مَوۡتِهِۦۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ يَكُونُ عَلَيۡهِمۡ شَهِيدٗا",
+  "translation": "Et il n’y aura personne, parmi les gens du Livre, qui n’aura pas foi en lui avant sa mort. Et au Jour de la Résurrection, il sera témoin contre eux.",
+  "footnotes": "[229] Avant sa mort: il existe deux interprétations. La première affirmant qu’il s’agit de la mort de Jésus et la seconde estimant qu’il s’agit de la mort d’un partisan des gens du Livre."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "891",
-    "sura": "6",
-    "aya": "102",
-    "arabic_text": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡۖ لَآ إِلَٰهَ إِلَّا هُوَۖ خَٰلِقُ كُلِّ شَيۡءٖ فَٱعۡبُدُوهُۚ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ وَكِيلٞ",
-    "translation": "(102) That is Allāh, your Lord; there is no deity except Him, the Creator of all things, so worship Him. And He is Disposer of all things.",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 141,
+  "verse_key": "6:102",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 56,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكُمُ ٱللَّهُ رَبُّكُمۡۖ لَآ إِلَٰهَ إِلَّا هُوَۖ خَٰلِقُ كُلِّ شَيۡءٖ فَٱعۡبُدُوهُۚ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ وَكِيلٞ",
+  "translation": "(102) That is Allāh, your Lord; there is no deity except Him, the Creator of all things, so worship Him. And He is Disposer of all things.",
+  "footnotes": ""
 }

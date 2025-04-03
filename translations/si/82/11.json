@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5840",
-    "sura": "82",
-    "aya": "11",
-    "arabic_text": "كِرَامٗا كَٰتِبِينَ",
-    "translation": "(ඔවුහු) ගෞරවනීය ලේඛකයෝ වෙති.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 587,
+  "verse_key": "82:11",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كِرَامٗا كَٰتِبِينَ",
+  "translation": "(ඔවුහු) ගෞරවනීය ලේඛකයෝ වෙති.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1619",
-    "sura": "12",
-    "aya": "23",
-    "arabic_text": "وَرَٰوَدَتۡهُ ٱلَّتِي هُوَ فِي بَيۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَٰبَ وَقَالَتۡ هَيۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّيٓ أَحۡسَنَ مَثۡوَايَۖ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
-    "translation": "Kuma wadda yake *a cikin ɗãkinta, ta nẽme shi ga kansa, kuma ta kukkulle ƙõfõfi, kuma ta ce, \"Yã rage a gare ka!\" ya ce: \"Ina neman tsarin Allah! Lalle shĩne Ubangijina. Yã kyautata mazaunina. Lalle ne shĩ, mãsu zãlunci ba su cin nasara!\"",
-    "footnotes": "* Yũsufu yã shiga cikin fitinar uwar ɗãkinsa, Zalĩha. Yã mai da al'amarinsa ga Ubangijinsa wanda ya fitar da shi daga rĩjiya zuwa gidan sarautar Masar kuma Ya bã shi hukunci, watau Annabci da ilmi da Ya saukar masa na ibãda da mu'amãla. Ya sanar da shi halal da haram kuma ya sanya masa tsaro daga zunubi."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 238,
+  "verse_key": "12:23",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَرَٰوَدَتۡهُ ٱلَّتِي هُوَ فِي بَيۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَٰبَ وَقَالَتۡ هَيۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّيٓ أَحۡسَنَ مَثۡوَايَۖ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
+  "translation": "Kuma wadda yake *a cikin ɗãkinta, ta nẽme shi ga kansa, kuma ta kukkulle ƙõfõfi, kuma ta ce, \"Yã rage a gare ka!\" ya ce: \"Ina neman tsarin Allah! Lalle shĩne Ubangijina. Yã kyautata mazaunina. Lalle ne shĩ, mãsu zãlunci ba su cin nasara!\"",
+  "footnotes": "* Yũsufu yã shiga cikin fitinar uwar ɗãkinsa, Zalĩha. Yã mai da al'amarinsa ga Ubangijinsa wanda ya fitar da shi daga rĩjiya zuwa gidan sarautar Masar kuma Ya bã shi hukunci, watau Annabci da ilmi da Ya saukar masa na ibãda da mu'amãla. Ya sanar da shi halal da haram kuma ya sanya masa tsaro daga zunubi."
 }

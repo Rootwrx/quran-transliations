@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4616",
-    "sura": "49",
-    "aya": "4",
-    "arabic_text": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلۡحُجُرَٰتِ أَكۡثَرُهُمۡ لَا يَعۡقِلُونَ",
-    "translation": "4. La mayoría de los que te llaman con insistencia [¡Oh, Mujámmad!] desde afuera de tu morada, no razonan.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 515,
+  "verse_key": "49:4",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 206,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ يُنَادُونَكَ مِن وَرَآءِ ٱلۡحُجُرَٰتِ أَكۡثَرُهُمۡ لَا يَعۡقِلُونَ",
+  "translation": "4. La mayoría de los que te llaman con insistencia [¡Oh, Mujámmad!] desde afuera de tu morada, no razonan.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1651",
-    "sura": "12",
-    "aya": "55",
-    "arabic_text": "قَالَ ٱجۡعَلۡنِي عَلَىٰ خَزَآئِنِ ٱلۡأَرۡضِۖ إِنِّي حَفِيظٌ عَلِيمٞ",
-    "translation": "55. Dijo [José]: “Ponme a cargo de los graneros [y las arcas] del país, porque yo sé cómo administrarlas con prudencia”.",
-    "footnotes": ""
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 242,
+  "verse_key": "12:55",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ ٱجۡعَلۡنِي عَلَىٰ خَزَآئِنِ ٱلۡأَرۡضِۖ إِنِّي حَفِيظٌ عَلِيمٞ",
+  "translation": "55. Dijo [José]: “Ponme a cargo de los graneros [y las arcas] del país, porque yo sé cómo administrarlas con prudencia”.",
+  "footnotes": ""
 }

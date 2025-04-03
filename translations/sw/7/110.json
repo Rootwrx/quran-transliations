@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1064",
-    "sura": "7",
-    "aya": "110",
-    "arabic_text": "يُرِيدُ أَن يُخۡرِجَكُم مِّنۡ أَرۡضِكُمۡۖ فَمَاذَا تَأۡمُرُونَ",
-    "translation": "Anataka kukutoeni katika nchi yenu. Basi mnatoa shauri gani?.",
-    "footnotes": "Na yeye ameelekeza lengo lake akupokonyeni ufalme wenu, na akutoeni katika nchi yenu kwa uchawi wake na yatayo tokea hapo kwa kuwavutia watu wamili na wamfuate. Basi tazameni, mnaamrisha njia gani ya kutokana naye huyu?"
-  }
+  "id": 110,
+  "verse_number": 110,
+  "page_number": 164,
+  "verse_key": "7:110",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُرِيدُ أَن يُخۡرِجَكُم مِّنۡ أَرۡضِكُمۡۖ فَمَاذَا تَأۡمُرُونَ",
+  "translation": "Anataka kukutoeni katika nchi yenu. Basi mnatoa shauri gani?.",
+  "footnotes": "Na yeye ameelekeza lengo lake akupokonyeni ufalme wenu, na akutoeni katika nchi yenu kwa uchawi wake na yatayo tokea hapo kwa kuwavutia watu wamili na wamfuate. Basi tazameni, mnaamrisha njia gani ya kutokana naye huyu?"
 }

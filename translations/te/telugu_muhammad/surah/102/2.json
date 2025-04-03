@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6170",
-    "sura": "102",
-    "aya": "2",
-    "arabic_text": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ",
-    "translation": "మీరు గోరీలలోకి చేరే వరకు.[1]",
-    "footnotes": "[1] ఆ పేరాస కోసం ప్రయత్నిస్తూనే మీరు గోరీలలోకి చేరి పోతారు."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 600,
+  "verse_key": "102:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰ زُرۡتُمُ ٱلۡمَقَابِرَ",
+  "translation": "మీరు గోరీలలోకి చేరే వరకు.[1]",
+  "footnotes": "[1] ఆ పేరాస కోసం ప్రయత్నిస్తూనే మీరు గోరీలలోకి చేరి పోతారు."
 }

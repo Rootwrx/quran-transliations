@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6101",
-    "sura": "95",
-    "aya": "3",
-    "arabic_text": "وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ",
-    "translation": "dhe për këtë Qytet të sigurt (Mekën)[414],",
-    "footnotes": "[414] Sipas disa dijetarëve, në tre vargjet e para, Allahu i Madhëruar është betuar për tre vende, prej të cilave ka nisur tre nga të dërguarit më të mëdhenj: Isanë (a.s.), Musanë (a.s.) dhe Muhamedin (a.s.). Kështu, fiku dhe ulliri simbolizojnë Jerusalemin, qytetin e Isait (a.s.), sepse ai është vendi i fiqve dhe i ullinjve. Mali i Sinait është vendi, ku Allahu ka folur me Musain (a.s.), ndërsa Qyteti i sigurt është Meka, qyteti i Muhamedit (a.s.), sepse kështu është cilësuar ky vend në Kuran, në suren 2, vargu 126."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 597,
+  "verse_key": "95:3",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهَٰذَا ٱلۡبَلَدِ ٱلۡأَمِينِ",
+  "translation": "dhe për këtë Qytet të sigurt (Mekën)[414],",
+  "footnotes": "[414] Sipas disa dijetarëve, në tre vargjet e para, Allahu i Madhëruar është betuar për tre vende, prej të cilave ka nisur tre nga të dërguarit më të mëdhenj: Isanë (a.s.), Musanë (a.s.) dhe Muhamedin (a.s.). Kështu, fiku dhe ulliri simbolizojnë Jerusalemin, qytetin e Isait (a.s.), sepse ai është vendi i fiqve dhe i ullinjve. Mali i Sinait është vendi, ku Allahu ka folur me Musain (a.s.), ndërsa Qyteti i sigurt është Meka, qyteti i Muhamedit (a.s.), sepse kështu është cilësuar ky vend në Kuran, në suren 2, vargu 126."
 }

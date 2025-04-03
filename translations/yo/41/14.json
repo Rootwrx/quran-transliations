@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4232",
-    "sura": "41",
-    "aya": "14",
-    "arabic_text": "إِذۡ جَآءَتۡهُمُ ٱلرُّسُلُ مِنۢ بَيۡنِ أَيۡدِيهِمۡ وَمِنۡ خَلۡفِهِمۡ أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۖ قَالُواْ لَوۡ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةٗ فَإِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
-    "translation": "Nígbà tí àwọn Òjíṣẹ́ wọn wá bá wọn níwájú wọn àti lẹ́yìn wọn,[1] (wọ́n sọ) pé: “Ẹ̀yin kò gbọdọ̀ jọ́sìn fún ẹnì kan àyàfi Allāhu.” Wọ́n wí pé: “Tí ó bá jẹ́ pé Olúwa wa bá fẹ́ ni, ìbá sọ àwọn mọlāika kalẹ̀ (fún ìpèpè yìí). Dájúdájú àwa jẹ́ aláìgbàgbọ́ nínú ohun tí wọ́n fi ran yín níṣẹ́.”",
-    "footnotes": "1. “níwájú wọn” túmọ̀ sí pé àwọn Òjíṣẹ́ Allāhu - kí ọlà Allāhu máa bá wọn - wá bá àwọn bàbá ńlá wọn, “lẹ́yìn wọn” sì túmọ̀ sí pé àwọn Òjíṣẹ́ Allāhu tún wá bá àwọn àrọ́mọdọ́mọ wọn lẹ́yìn ìparun àwọn bàbá ńlá wọn."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 478,
+  "verse_key": "41:14",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ جَآءَتۡهُمُ ٱلرُّسُلُ مِنۢ بَيۡنِ أَيۡدِيهِمۡ وَمِنۡ خَلۡفِهِمۡ أَلَّا تَعۡبُدُوٓاْ إِلَّا ٱللَّهَۖ قَالُواْ لَوۡ شَآءَ رَبُّنَا لَأَنزَلَ مَلَٰٓئِكَةٗ فَإِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
+  "translation": "Nígbà tí àwọn Òjíṣẹ́ wọn wá bá wọn níwájú wọn àti lẹ́yìn wọn,[1] (wọ́n sọ) pé: “Ẹ̀yin kò gbọdọ̀ jọ́sìn fún ẹnì kan àyàfi Allāhu.” Wọ́n wí pé: “Tí ó bá jẹ́ pé Olúwa wa bá fẹ́ ni, ìbá sọ àwọn mọlāika kalẹ̀ (fún ìpèpè yìí). Dájúdájú àwa jẹ́ aláìgbàgbọ́ nínú ohun tí wọ́n fi ran yín níṣẹ́.”",
+  "footnotes": "1. “níwájú wọn” túmọ̀ sí pé àwọn Òjíṣẹ́ Allāhu - kí ọlà Allāhu máa bá wọn - wá bá àwọn bàbá ńlá wọn, “lẹ́yìn wọn” sì túmọ̀ sí pé àwọn Òjíṣẹ́ Allāhu tún wá bá àwọn àrọ́mọdọ́mọ wọn lẹ́yìn ìparun àwọn bàbá ńlá wọn."
 }

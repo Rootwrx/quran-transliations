@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3809",
-    "sura": "37",
-    "aya": "21",
-    "arabic_text": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِ ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
-    "translation": "21. Да, ова е Денот на судот во кој вие не верувавте!",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 446,
+  "verse_key": "37:21",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا يَوۡمُ ٱلۡفَصۡلِ ٱلَّذِي كُنتُم بِهِۦ تُكَذِّبُونَ",
+  "translation": "21. Да, ова е Денот на судот во кој вие не верувавте!",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2951",
-    "sura": "26",
-    "aya": "19",
-    "arabic_text": "وَفَعَلۡتَ فَعۡلَتَكَ ٱلَّتِي فَعَلۡتَ وَأَنتَ مِنَ ٱلۡكَٰفِرِينَ",
-    "translation": "你曾干了你所干的那件事，你是忘恩的。”",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 367,
+  "verse_key": "26:19",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفَعَلۡتَ فَعۡلَتَكَ ٱلَّتِي فَعَلۡتَ وَأَنتَ مِنَ ٱلۡكَٰفِرِينَ",
+  "translation": "你曾干了你所干的那件事，你是忘恩的。”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "855",
-    "sura": "6",
-    "aya": "66",
-    "arabic_text": "وَكَذَّبَ بِهِۦ قَوۡمُكَ وَهُوَ ٱلۡحَقُّۚ قُل لَّسۡتُ عَلَيۡكُم بِوَكِيلٖ",
-    "translation": "Na watu wako wameikanusha, nayo ni Haki. Sema: Mimi sikuwakilishwa juu yenu.",
-    "footnotes": "Na kaumu yako wameikanusha Qur'ani, nayo ni Haki ambayo haina cha kukanushwa ndani yake. Ewe Nabii! Waambie: Mimi sikuwekwa kuwa ni muwakilishi wa kukulindeni, na kupima vitendo vyenu na kukulipeni kwavyo. Bali mambo yenu katika hayo yako kwa Mwenyezi Mungu."
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 135,
+  "verse_key": "6:66",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 54,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَّبَ بِهِۦ قَوۡمُكَ وَهُوَ ٱلۡحَقُّۚ قُل لَّسۡتُ عَلَيۡكُم بِوَكِيلٖ",
+  "translation": "Na watu wako wameikanusha, nayo ni Haki. Sema: Mimi sikuwakilishwa juu yenu.",
+  "footnotes": "Na kaumu yako wameikanusha Qur'ani, nayo ni Haki ambayo haina cha kukanushwa ndani yake. Ewe Nabii! Waambie: Mimi sikuwekwa kuwa ni muwakilishi wa kukulindeni, na kupima vitendo vyenu na kukulipeni kwavyo. Bali mambo yenu katika hayo yako kwa Mwenyezi Mungu."
 }

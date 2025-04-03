@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5263",
-    "sura": "67",
-    "aya": "22",
-    "arabic_text": "أَفَمَن يَمۡشِي مُكِبًّا عَلَىٰ وَجۡهِهِۦٓ أَهۡدَىٰٓ أَمَّن يَمۡشِي سَوِيًّا عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "Enti obi a ͻnam a wasi neti ase ama n’anim wͻ fͻm no na atenee, anaasε obi a, ͻnam a w’atene ne ho nam kwan tenenee soͻ?.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 563,
+  "verse_key": "67:22",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَمَن يَمۡشِي مُكِبًّا عَلَىٰ وَجۡهِهِۦٓ أَهۡدَىٰٓ أَمَّن يَمۡشِي سَوِيًّا عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "Enti obi a ͻnam a wasi neti ase ama n’anim wͻ fͻm no na atenee, anaasε obi a, ͻnam a w’atene ne ho nam kwan tenenee soͻ?.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3887",
-    "sura": "37",
-    "aya": "99",
-    "arabic_text": "وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهۡدِينِ",
-    "translation": "Ó sọ pé: “Dájúdájú mo máa lọ sí (ìlú tí) Olúwa mi (pa mí láṣẹ láti lọ). Ó sì máa tọ́ mi sọ́nà (láti dé ibẹ̀).[1]",
-    "footnotes": "1. Ìyẹn ìlú Ṣām."
-  }
+  "id": 99,
+  "verse_number": 99,
+  "page_number": 449,
+  "verse_key": "37:99",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ إِنِّي ذَاهِبٌ إِلَىٰ رَبِّي سَيَهۡدِينِ",
+  "translation": "Ó sọ pé: “Dájúdájú mo máa lọ sí (ìlú tí) Olúwa mi (pa mí láṣẹ láti lọ). Ó sì máa tọ́ mi sọ́nà (láti dé ibẹ̀).[1]",
+  "footnotes": "1. Ìyẹn ìlú Ṣām."
 }

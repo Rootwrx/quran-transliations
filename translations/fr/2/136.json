@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "143",
-    "sura": "2",
-    "aya": "136",
-    "arabic_text": "قُولُوٓاْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيۡنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَمَآ أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِيَ ٱلنَّبِيُّونَ مِن رَّبِّهِمۡ لَا نُفَرِّقُ بَيۡنَ أَحَدٖ مِّنۡهُمۡ وَنَحۡنُ لَهُۥ مُسۡلِمُونَ",
-    "translation": "Dites : “Nous croyons en Allah et en ce qu’on nous a révélé, et en ce qu’on a fait descendre vers Abraham et Ismaël et Isaac et Jacob et les Tribus, et en ce qui a été donné à Moïse et à Jésus, et en ce qui a été donné aux Prophètes, venant de leur Seigneur: Nous ne faisons aucune distinction entre eux. Et à Lui nous sommes Soumis.”",
-    "footnotes": "[57] Ce qu’on a fait descendre: en révélation."
-  }
+  "id": 136,
+  "verse_number": 136,
+  "page_number": 21,
+  "verse_key": "2:136",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُولُوٓاْ ءَامَنَّا بِٱللَّهِ وَمَآ أُنزِلَ إِلَيۡنَا وَمَآ أُنزِلَ إِلَىٰٓ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ وَيَعۡقُوبَ وَٱلۡأَسۡبَاطِ وَمَآ أُوتِيَ مُوسَىٰ وَعِيسَىٰ وَمَآ أُوتِيَ ٱلنَّبِيُّونَ مِن رَّبِّهِمۡ لَا نُفَرِّقُ بَيۡنَ أَحَدٖ مِّنۡهُمۡ وَنَحۡنُ لَهُۥ مُسۡلِمُونَ",
+  "translation": "Dites : “Nous croyons en Allah et en ce qu’on nous a révélé, et en ce qu’on a fait descendre vers Abraham et Ismaël et Isaac et Jacob et les Tribus, et en ce qui a été donné à Moïse et à Jésus, et en ce qui a été donné aux Prophètes, venant de leur Seigneur: Nous ne faisons aucune distinction entre eux. Et à Lui nous sommes Soumis.”",
+  "footnotes": "[57] Ce qu’on a fait descendre: en révélation."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2076",
-    "sura": "17",
-    "aya": "47",
-    "arabic_text": "نَّحۡنُ أَعۡلَمُ بِمَا يَسۡتَمِعُونَ بِهِۦٓ إِذۡ يَسۡتَمِعُونَ إِلَيۡكَ وَإِذۡ هُمۡ نَجۡوَىٰٓ إِذۡ يَقُولُ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلٗا مَّسۡحُورًا",
-    "translation": "Mi dobro znamo šta oni žele čuti kad te dolaze prisluškivati, i o čemu se sašaptavaju kad nepravednici govore: “Vi slijedite samo opčinjena čovjeka!”",
-    "footnotes": ""
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 286,
+  "verse_key": "17:47",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نَّحۡنُ أَعۡلَمُ بِمَا يَسۡتَمِعُونَ بِهِۦٓ إِذۡ يَسۡتَمِعُونَ إِلَيۡكَ وَإِذۡ هُمۡ نَجۡوَىٰٓ إِذۡ يَقُولُ ٱلظَّٰلِمُونَ إِن تَتَّبِعُونَ إِلَّا رَجُلٗا مَّسۡحُورًا",
+  "translation": "Mi dobro znamo šta oni žele čuti kad te dolaze prisluškivati, i o čemu se sašaptavaju kad nepravednici govore: “Vi slijedite samo opčinjena čovjeka!”",
+  "footnotes": ""
 }

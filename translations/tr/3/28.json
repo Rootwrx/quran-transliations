@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "321",
-    "sura": "3",
-    "aya": "28",
-    "arabic_text": "لَّا يَتَّخِذِ ٱلۡمُؤۡمِنُونَ ٱلۡكَٰفِرِينَ أَوۡلِيَآءَ مِن دُونِ ٱلۡمُؤۡمِنِينَۖ وَمَن يَفۡعَلۡ ذَٰلِكَ فَلَيۡسَ مِنَ ٱللَّهِ فِي شَيۡءٍ إِلَّآ أَن تَتَّقُواْ مِنۡهُمۡ تُقَىٰةٗۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ",
-    "translation": "Müminler, Müminleri bırakıp kâfirleri veli/dost edinmesinler. Kim böyle yaparsa Allah ile ilişiğini kesmiş olur. Ancak onlardan (gelebilecek tehlikeden) korunmanız başkadır. Allah, asıl sizi kendisi hakkında korkutup uyarmaktadır. Dönüş Allah’adır.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 53,
+  "verse_key": "3:28",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَتَّخِذِ ٱلۡمُؤۡمِنُونَ ٱلۡكَٰفِرِينَ أَوۡلِيَآءَ مِن دُونِ ٱلۡمُؤۡمِنِينَۖ وَمَن يَفۡعَلۡ ذَٰلِكَ فَلَيۡسَ مِنَ ٱللَّهِ فِي شَيۡءٍ إِلَّآ أَن تَتَّقُواْ مِنۡهُمۡ تُقَىٰةٗۗ وَيُحَذِّرُكُمُ ٱللَّهُ نَفۡسَهُۥۗ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ",
+  "translation": "Müminler, Müminleri bırakıp kâfirleri veli/dost edinmesinler. Kim böyle yaparsa Allah ile ilişiğini kesmiş olur. Ancak onlardan (gelebilecek tehlikeden) korunmanız başkadır. Allah, asıl sizi kendisi hakkında korkutup uyarmaktadır. Dönüş Allah’adır.",
+  "footnotes": ""
 }

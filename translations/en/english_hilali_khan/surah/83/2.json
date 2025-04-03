@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5850",
-    "sura": "83",
-    "aya": "2",
-    "arabic_text": "ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ",
-    "translation": " 2. Those who, when they have to receive by measure from men, demand full measure,",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 587,
+  "verse_key": "83:2",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ إِذَا ٱكۡتَالُواْ عَلَى ٱلنَّاسِ يَسۡتَوۡفُونَ",
+  "translation": " 2. Those who, when they have to receive by measure from men, demand full measure,",
+  "footnotes": ""
 }

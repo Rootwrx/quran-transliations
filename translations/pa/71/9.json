@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5428",
-    "sura": "71",
-    "aya": "9",
-    "arabic_text": "ثُمَّ إِنِّيٓ أَعۡلَنتُ لَهُمۡ وَأَسۡرَرۡتُ لَهُمۡ إِسۡرَارٗا",
-    "translation": "9਼ ਮੈਨੇ ਉਹਨਾਂ ਨੂੰ ਸਪਸ਼ਟ ਰੂਪ ਵਿਚ ਵੀ ਤੇ ਗੁਪਤ ਰੂਪ ਵਿਚ ਵੀ ਸਮਝਾਇਆ।",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 570,
+  "verse_key": "71:9",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ إِنِّيٓ أَعۡلَنتُ لَهُمۡ وَأَسۡرَرۡتُ لَهُمۡ إِسۡرَارٗا",
+  "translation": "9਼ ਮੈਨੇ ਉਹਨਾਂ ਨੂੰ ਸਪਸ਼ਟ ਰੂਪ ਵਿਚ ਵੀ ਤੇ ਗੁਪਤ ਰੂਪ ਵਿਚ ਵੀ ਸਮਝਾਇਆ।",
+  "footnotes": ""
 }

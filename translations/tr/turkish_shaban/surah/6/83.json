@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "872",
-    "sura": "6",
-    "aya": "83",
-    "arabic_text": "وَتِلۡكَ حُجَّتُنَآ ءَاتَيۡنَٰهَآ إِبۡرَٰهِيمَ عَلَىٰ قَوۡمِهِۦۚ نَرۡفَعُ دَرَجَٰتٖ مَّن نَّشَآءُۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٞ",
-    "translation": "Bu, kavmine karşı İbrahim’e verdiğimiz delilimizdir. Biz dilediğimiz kimselerin derecelerini yükseltiriz. O, Hakim ve her şeyi bilendir. ",
-    "footnotes": null
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 138,
+  "verse_key": "6:83",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 55,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتِلۡكَ حُجَّتُنَآ ءَاتَيۡنَٰهَآ إِبۡرَٰهِيمَ عَلَىٰ قَوۡمِهِۦۚ نَرۡفَعُ دَرَجَٰتٖ مَّن نَّشَآءُۗ إِنَّ رَبَّكَ حَكِيمٌ عَلِيمٞ",
+  "translation": "Bu, kavmine karşı İbrahim’e verdiğimiz delilimizdir. Biz dilediğimiz kimselerin derecelerini yükseltiriz. O, Hakim ve her şeyi bilendir. ",
+  "footnotes": null
 }

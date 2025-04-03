@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1529",
-    "sura": "11",
-    "aya": "56",
-    "arabic_text": "إِنِّي تَوَكَّلۡتُ عَلَى ٱللَّهِ رَبِّي وَرَبِّكُمۚ مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذُۢ بِنَاصِيَتِهَآۚ إِنَّ رَبِّي عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "Ad mam bobla m meng ne Wẽnde, sẽn yaa maam la yãmb Soabã. Bõn-vɩt ka be rẽndame t'A wõr-ɑ lame t'ɑ be A soolmẽ wã. Ad mam Soabã bee tẽeg-tɩrg zugu.",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 228,
+  "verse_key": "11:56",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنِّي تَوَكَّلۡتُ عَلَى ٱللَّهِ رَبِّي وَرَبِّكُمۚ مَّا مِن دَآبَّةٍ إِلَّا هُوَ ءَاخِذُۢ بِنَاصِيَتِهَآۚ إِنَّ رَبِّي عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "Ad mam bobla m meng ne Wẽnde, sẽn yaa maam la yãmb Soabã. Bõn-vɩt ka be rẽndame t'A wõr-ɑ lame t'ɑ be A soolmẽ wã. Ad mam Soabã bee tẽeg-tɩrg zugu.",
+  "footnotes": ""
 }

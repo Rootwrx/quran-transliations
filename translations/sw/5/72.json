@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "741",
-    "sura": "5",
-    "aya": "72",
-    "arabic_text": "لَقَدۡ كَفَرَ ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ هُوَ ٱلۡمَسِيحُ ٱبۡنُ مَرۡيَمَۖ وَقَالَ ٱلۡمَسِيحُ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱعۡبُدُواْ ٱللَّهَ رَبِّي وَرَبَّكُمۡۖ إِنَّهُۥ مَن يُشۡرِكۡ بِٱللَّهِ فَقَدۡ حَرَّمَ ٱللَّهُ عَلَيۡهِ ٱلۡجَنَّةَ وَمَأۡوَىٰهُ ٱلنَّارُۖ وَمَا لِلظَّٰلِمِينَ مِنۡ أَنصَارٖ",
-    "translation": "Hakika wamekufuru walio sema: Mwenyezi Mungu ni Masihi mwana wa Maryamu! Na hali Masihi mwenyewe alisema: Enyi Wana wa Israili! Muabuduni Mwenyezi Mungu, Mola wangu Mlezi na Mola wenu Mlezi. Kwani anaye mshirikisha Mwenyezi Mungu, hakika Mwenyezi Mungu atamharimishia Pepo, na mahala pake ni Motoni. Na walio dhulumu hawatakuwa na wa kuwanusuru.",
-    "footnotes": "Wenye kudai kuwa Mwenyezi Mungu yu katika Isa bin Maryam hata akawa yeye Mungu, kama wasemavyo Wakristo hii leo, hakika wamekufuru! Yeye Isa hana dhambi ya haya, kwani hakupata kudai hivyo hata mara moja. Bali yeye aliwaamrisha Wana wa Israili wamsafie imani Mwenyezi Mungu peke yake kwa kusema: Hakika Mwenyezi Mungu ndiye aliye niumba mimi na nyinyi, na ndiye anaye niendeshea mambo yangu yote, na kwamba kila mwenye kumshirikisha Mwenyezi Mungu malipo yake ni kuwa hatoingia Peponi kabisa, bali ataingia Motoni, kwa kuwa amekiuka mipaka ya Mwenyezi Mungu. Na mwenye kuvunja mipaka yake hataepuka na adhabu.(Yesu kasema: \"Sikia, Israeli, Bwana Mungu wetu ni Bwana mmoja.\" Marko 12.28. \"Mimi siwezi kufanya neno mwenyewe\".Yohana 5.30 \"Ninapaa kwenda kwa...Mungu wangu naye ni Mungu wenu.\" Yohana 20.17 )"
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 120,
+  "verse_key": "5:72",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 48,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ كَفَرَ ٱلَّذِينَ قَالُوٓاْ إِنَّ ٱللَّهَ هُوَ ٱلۡمَسِيحُ ٱبۡنُ مَرۡيَمَۖ وَقَالَ ٱلۡمَسِيحُ يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱعۡبُدُواْ ٱللَّهَ رَبِّي وَرَبَّكُمۡۖ إِنَّهُۥ مَن يُشۡرِكۡ بِٱللَّهِ فَقَدۡ حَرَّمَ ٱللَّهُ عَلَيۡهِ ٱلۡجَنَّةَ وَمَأۡوَىٰهُ ٱلنَّارُۖ وَمَا لِلظَّٰلِمِينَ مِنۡ أَنصَارٖ",
+  "translation": "Hakika wamekufuru walio sema: Mwenyezi Mungu ni Masihi mwana wa Maryamu! Na hali Masihi mwenyewe alisema: Enyi Wana wa Israili! Muabuduni Mwenyezi Mungu, Mola wangu Mlezi na Mola wenu Mlezi. Kwani anaye mshirikisha Mwenyezi Mungu, hakika Mwenyezi Mungu atamharimishia Pepo, na mahala pake ni Motoni. Na walio dhulumu hawatakuwa na wa kuwanusuru.",
+  "footnotes": "Wenye kudai kuwa Mwenyezi Mungu yu katika Isa bin Maryam hata akawa yeye Mungu, kama wasemavyo Wakristo hii leo, hakika wamekufuru! Yeye Isa hana dhambi ya haya, kwani hakupata kudai hivyo hata mara moja. Bali yeye aliwaamrisha Wana wa Israili wamsafie imani Mwenyezi Mungu peke yake kwa kusema: Hakika Mwenyezi Mungu ndiye aliye niumba mimi na nyinyi, na ndiye anaye niendeshea mambo yangu yote, na kwamba kila mwenye kumshirikisha Mwenyezi Mungu malipo yake ni kuwa hatoingia Peponi kabisa, bali ataingia Motoni, kwa kuwa amekiuka mipaka ya Mwenyezi Mungu. Na mwenye kuvunja mipaka yake hataepuka na adhabu.(Yesu kasema: \"Sikia, Israeli, Bwana Mungu wetu ni Bwana mmoja.\" Marko 12.28. \"Mimi siwezi kufanya neno mwenyewe\".Yohana 5.30 \"Ninapaa kwenda kwa...Mungu wangu naye ni Mungu wenu.\" Yohana 20.17 )"
 }

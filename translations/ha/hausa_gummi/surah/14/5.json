@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1755",
-    "sura": "14",
-    "aya": "5",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنۡ أَخۡرِجۡ قَوۡمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرۡهُم بِأَيَّىٰمِ ٱللَّهِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ",
-    "translation": "Kuma lalle ne haƙĩƙa Mun aika Mũsã game, da ãyõin Mu cẽwa, \"Ka fitar da mutãnenkadaga duhu zuwa ga haske. Kuma ka tunar musu da kwãnukan (masĩfun) Allah.\" Lalle ne a cikin wancan akwai ãyõyi dõmin dukan mai yawan haƙuri, mai gõdiya.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 255,
+  "verse_key": "14:5",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَا مُوسَىٰ بِـَٔايَٰتِنَآ أَنۡ أَخۡرِجۡ قَوۡمَكَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ وَذَكِّرۡهُم بِأَيَّىٰمِ ٱللَّهِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّكُلِّ صَبَّارٖ شَكُورٖ",
+  "translation": "Kuma lalle ne haƙĩƙa Mun aika Mũsã game, da ãyõin Mu cẽwa, \"Ka fitar da mutãnenkadaga duhu zuwa ga haske. Kuma ka tunar musu da kwãnukan (masĩfun) Allah.\" Lalle ne a cikin wancan akwai ãyõyi dõmin dukan mai yawan haƙuri, mai gõdiya.",
+  "footnotes": ""
 }

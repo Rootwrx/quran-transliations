@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2933",
-    "sura": "26",
-    "aya": "1",
-    "arabic_text": "طسٓمٓ",
-    "translation": "ター・スィーン・ミーム[1]。",
-    "footnotes": "[1]　この文字群については、頻出名・用語解説の「クルアーン*の冒頭に現れる文字群*」を参照。"
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 367,
+  "verse_key": "26:1",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "طسٓمٓ",
+  "translation": "ター・スィーン・ミーム[1]。",
+  "footnotes": "[1]　この文字群については、頻出名・用語解説の「クルアーン*の冒頭に現れる文字群*」を参照。"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "937",
-    "sura": "6",
-    "aya": "148",
-    "arabic_text": "سَيَقُولُ ٱلَّذِينَ أَشۡرَكُواْ لَوۡ شَآءَ ٱللَّهُ مَآ أَشۡرَكۡنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمۡنَا مِن شَيۡءٖۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ حَتَّىٰ ذَاقُواْ بَأۡسَنَاۗ قُلۡ هَلۡ عِندَكُم مِّنۡ عِلۡمٖ فَتُخۡرِجُوهُ لَنَآۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ أَنتُمۡ إِلَّا تَخۡرُصُونَ",
-    "translation": "Waɗanda suka yi shirki* zã su ce: \"Dã Allah Yã so dã ba mu yi shirki ba, kuma dã ubanninmu ba su yi ba, kuma dã ba mu haramta wani abu ba.\" Kamar wannan ne mutãnen da suke a gabãninsu suka ƙaryata, har suka ɗanɗani azãbarMu. Ka ce: \"Shin, kunã da wani ilmi a wurinku dõmin ku fito mana da shi? Bã ku bin kõme fãce zato kuma ba ku zama ba fãce ƙiri-faɗi kawai kuke yi.\"",
-    "footnotes": "* Wahayin shaiɗan zuwa ga mãsu shirki da hana dabbõbi da ƙãga wasu hukunce-hukunce. Kalmar gaskiya ce ake yin nufin ƙarya da ita, da bãyanin warware rikicin. Jũyar da maganar gaskiya dõmin a yi ƙarya da ita yanã sabbaba saukar azãba. Kuma dukan maganar da bã ta da asali ga Littãfi kõ sunna, to, bã gaskiya ba ce, bin ta nau'in shirki ne."
-  }
+  "id": 148,
+  "verse_number": 148,
+  "page_number": 148,
+  "verse_key": "6:148",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 59,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَيَقُولُ ٱلَّذِينَ أَشۡرَكُواْ لَوۡ شَآءَ ٱللَّهُ مَآ أَشۡرَكۡنَا وَلَآ ءَابَآؤُنَا وَلَا حَرَّمۡنَا مِن شَيۡءٖۚ كَذَٰلِكَ كَذَّبَ ٱلَّذِينَ مِن قَبۡلِهِمۡ حَتَّىٰ ذَاقُواْ بَأۡسَنَاۗ قُلۡ هَلۡ عِندَكُم مِّنۡ عِلۡمٖ فَتُخۡرِجُوهُ لَنَآۖ إِن تَتَّبِعُونَ إِلَّا ٱلظَّنَّ وَإِنۡ أَنتُمۡ إِلَّا تَخۡرُصُونَ",
+  "translation": "Waɗanda suka yi shirki* zã su ce: \"Dã Allah Yã so dã ba mu yi shirki ba, kuma dã ubanninmu ba su yi ba, kuma dã ba mu haramta wani abu ba.\" Kamar wannan ne mutãnen da suke a gabãninsu suka ƙaryata, har suka ɗanɗani azãbarMu. Ka ce: \"Shin, kunã da wani ilmi a wurinku dõmin ku fito mana da shi? Bã ku bin kõme fãce zato kuma ba ku zama ba fãce ƙiri-faɗi kawai kuke yi.\"",
+  "footnotes": "* Wahayin shaiɗan zuwa ga mãsu shirki da hana dabbõbi da ƙãga wasu hukunce-hukunce. Kalmar gaskiya ce ake yin nufin ƙarya da ita, da bãyanin warware rikicin. Jũyar da maganar gaskiya dõmin a yi ƙarya da ita yanã sabbaba saukar azãba. Kuma dukan maganar da bã ta da asali ga Littãfi kõ sunna, to, bã gaskiya ba ce, bin ta nau'in shirki ne."
 }

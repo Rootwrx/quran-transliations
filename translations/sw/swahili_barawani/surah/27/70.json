@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3229",
-    "sura": "27",
-    "aya": "70",
-    "arabic_text": "وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَلَا تَكُن فِي ضَيۡقٖ مِّمَّا يَمۡكُرُونَ",
-    "translation": "Wala usiwahuzunukie wala usiwe katika dhiki kwa sababu ya hila zao wanazo zifanya.",
-    "footnotes": "Ewe Mtume! Usiwahuzunukie makafiri wasio kufuata. Kwani kwa hakika waajibu wako ni kufikisha Ujumbe tu. Wala usiwe na dhiki kifuani mwako kwa sababu ya hila zao na vitimbi vyao. Kwani hakika Mwenyezi Mungu atakupa ushindi juu yao."
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 383,
+  "verse_key": "27:70",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَحۡزَنۡ عَلَيۡهِمۡ وَلَا تَكُن فِي ضَيۡقٖ مِّمَّا يَمۡكُرُونَ",
+  "translation": "Wala usiwahuzunukie wala usiwe katika dhiki kwa sababu ya hila zao wanazo zifanya.",
+  "footnotes": "Ewe Mtume! Usiwahuzunukie makafiri wasio kufuata. Kwani kwa hakika waajibu wako ni kufikisha Ujumbe tu. Wala usiwe na dhiki kifuani mwako kwa sababu ya hila zao na vitimbi vyao. Kwani hakika Mwenyezi Mungu atakupa ushindi juu yao."
 }

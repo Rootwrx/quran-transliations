@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6011",
-    "sura": "89",
-    "aya": "18",
-    "arabic_text": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
-    "translation": "Ndetse nta n’ubwo mubwirizanya kugaburira abakene!",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 593,
+  "verse_key": "89:18",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَحَٰٓضُّونَ عَلَىٰ طَعَامِ ٱلۡمِسۡكِينِ",
+  "translation": "Ndetse nta n’ubwo mubwirizanya kugaburira abakene!",
+  "footnotes": ""
 }

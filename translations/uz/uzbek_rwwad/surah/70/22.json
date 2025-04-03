@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5397",
-    "sura": "70",
-    "aya": "22",
-    "arabic_text": "إِلَّا ٱلۡمُصَلِّينَ",
-    "translation": "Намозхонлар бундан мустасно.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 569,
+  "verse_key": "70:22",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا ٱلۡمُصَلِّينَ",
+  "translation": "Намозхонлар бундан мустасно.",
+  "footnotes": ""
 }

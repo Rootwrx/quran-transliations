@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1398",
-    "sura": "10",
-    "aya": "34",
-    "arabic_text": "قُلۡ هَلۡ مِن شُرَكَآئِكُم مَّن يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥۚ قُلِ ٱللَّهُ يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥۖ فَأَنَّىٰ تُؤۡفَكُونَ",
-    "translation": "34. Loba: Nalingi koyeba banzambe na bino, basusu kati na bango bakelaka mpe bazongisaka ekelamu na bomoyi (o sima ya liwa?) loba: Allah ye mei nde abandaki ekelamu mpe akozongisa ye, тропа nini bolingi komitiya mosika na kokumisa ye?",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 213,
+  "verse_key": "10:34",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هَلۡ مِن شُرَكَآئِكُم مَّن يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥۚ قُلِ ٱللَّهُ يَبۡدَؤُاْ ٱلۡخَلۡقَ ثُمَّ يُعِيدُهُۥۖ فَأَنَّىٰ تُؤۡفَكُونَ",
+  "translation": "34. Loba: Nalingi koyeba banzambe na bino, basusu kati na bango bakelaka mpe bazongisaka ekelamu na bomoyi (o sima ya liwa?) loba: Allah ye mei nde abandaki ekelamu mpe akozongisa ye, тропа nini bolingi komitiya mosika na kokumisa ye?",
+  "footnotes": ""
 }

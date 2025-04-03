@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2774",
-    "sura": "23",
-    "aya": "101",
-    "arabic_text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ فَلَآ أَنسَابَ بَيۡنَهُمۡ يَوۡمَئِذٖ وَلَا يَتَسَآءَلُونَ",
-    "translation": "Yeroo garriin (xurumbaan) afuufame, guyyaa san firummaan gidduu isaanii hin jiru; walis hin gaafatan.",
-    "footnotes": ""
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 348,
+  "verse_key": "23:101",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 139,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ فَلَآ أَنسَابَ بَيۡنَهُمۡ يَوۡمَئِذٖ وَلَا يَتَسَآءَلُونَ",
+  "translation": "Yeroo garriin (xurumbaan) afuufame, guyyaa san firummaan gidduu isaanii hin jiru; walis hin gaafatan.",
+  "footnotes": ""
 }

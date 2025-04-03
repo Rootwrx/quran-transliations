@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "241",
-    "sura": "2",
-    "aya": "234",
-    "arabic_text": "وَٱلَّذِينَ يُتَوَفَّوۡنَ مِنكُمۡ وَيَذَرُونَ أَزۡوَٰجٗا يَتَرَبَّصۡنَ بِأَنفُسِهِنَّ أَرۡبَعَةَ أَشۡهُرٖ وَعَشۡرٗاۖ فَإِذَا بَلَغۡنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا فَعَلۡنَ فِيٓ أَنفُسِهِنَّ بِٱلۡمَعۡرُوفِۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
-    "translation": "Ang mga papapanawin kabilang sa inyo at mag-iiwan ng mga maybahay, mag-aantabay ang mga ito sa mga sarili ng mga ito nang apat na buwan at sampung [araw kung hindi nagdadalang-tao].[61] Kapag umabot ang mga ito sa taning ng mga ito ay walang maisisisi sa inyo sa anumang ginawa ng mga ito sa mga sarili ng mga ito[62] ayon sa nakabubuti. Si Allāh sa anumang ginagawa ninyo ay Mapagbatid.",
-    "footnotes": "[61] at kung nagdadalang-tao naman ay hanggang sa makapanganak\n[62] Ibig sabihin: kung muling mag-asawa."
-  }
+  "id": 234,
+  "verse_number": 234,
+  "page_number": 38,
+  "verse_key": "2:234",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 15,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يُتَوَفَّوۡنَ مِنكُمۡ وَيَذَرُونَ أَزۡوَٰجٗا يَتَرَبَّصۡنَ بِأَنفُسِهِنَّ أَرۡبَعَةَ أَشۡهُرٖ وَعَشۡرٗاۖ فَإِذَا بَلَغۡنَ أَجَلَهُنَّ فَلَا جُنَاحَ عَلَيۡكُمۡ فِيمَا فَعَلۡنَ فِيٓ أَنفُسِهِنَّ بِٱلۡمَعۡرُوفِۗ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+  "translation": "Ang mga papapanawin kabilang sa inyo at mag-iiwan ng mga maybahay, mag-aantabay ang mga ito sa mga sarili ng mga ito nang apat na buwan at sampung [araw kung hindi nagdadalang-tao].[61] Kapag umabot ang mga ito sa taning ng mga ito ay walang maisisisi sa inyo sa anumang ginawa ng mga ito sa mga sarili ng mga ito[62] ayon sa nakabubuti. Si Allāh sa anumang ginagawa ninyo ay Mapagbatid.",
+  "footnotes": "[61] at kung nagdadalang-tao naman ay hanggang sa makapanganak\n[62] Ibig sabihin: kung muling mag-asawa."
 }

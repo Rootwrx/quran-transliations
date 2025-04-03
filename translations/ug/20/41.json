@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2389",
-    "sura": "20",
-    "aya": "41",
-    "arabic_text": "وَٱصۡطَنَعۡتُكَ لِنَفۡسِي",
-    "translation": "سېنى مېنىڭ مۇھەببىتىمگە (يەنى پەيغەمبەر قىلىپ ۋەھىي نازىل قىلىشىمغا) تاللىدىم[41].",
-    "footnotes": null
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 314,
+  "verse_key": "20:41",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱصۡطَنَعۡتُكَ لِنَفۡسِي",
+  "translation": "سېنى مېنىڭ مۇھەببىتىمگە (يەنى پەيغەمبەر قىلىپ ۋەھىي نازىل قىلىشىمغا) تاللىدىم[41].",
+  "footnotes": null
 }

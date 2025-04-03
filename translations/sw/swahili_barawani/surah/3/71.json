@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "364",
-    "sura": "3",
-    "aya": "71",
-    "arabic_text": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَلۡبِسُونَ ٱلۡحَقَّ بِٱلۡبَٰطِلِ وَتَكۡتُمُونَ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ",
-    "translation": "Enyi Watu wa Kitabu! Mbona kweli mnaivisha uwongo, na kweli mnaificha na hali mnajua?",
-    "footnotes": "Enyi Watu wa Kitabu! Kwa nini mkachukua Haki waliyo kuja nayo Manabii, na ikateremshiwa Vitabu, mkaichanganya na mambo ya udanganyifu ya kubuni na mkaleta tafsiri potovu, na msieneze Haki safi iliyo wazi isiyo kuwa na mchanganyiko? Na nyinyi mwajua vyema kuwa adhabu ya Mwenyezi Mungu kwa kitendo kama hichi ni kubwa."
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 59,
+  "verse_key": "3:71",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَهۡلَ ٱلۡكِتَٰبِ لِمَ تَلۡبِسُونَ ٱلۡحَقَّ بِٱلۡبَٰطِلِ وَتَكۡتُمُونَ ٱلۡحَقَّ وَأَنتُمۡ تَعۡلَمُونَ",
+  "translation": "Enyi Watu wa Kitabu! Mbona kweli mnaivisha uwongo, na kweli mnaificha na hali mnajua?",
+  "footnotes": "Enyi Watu wa Kitabu! Kwa nini mkachukua Haki waliyo kuja nayo Manabii, na ikateremshiwa Vitabu, mkaichanganya na mambo ya udanganyifu ya kubuni na mkaleta tafsiri potovu, na msieneze Haki safi iliyo wazi isiyo kuwa na mchanganyiko? Na nyinyi mwajua vyema kuwa adhabu ya Mwenyezi Mungu kwa kitendo kama hichi ni kubwa."
 }

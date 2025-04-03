@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4340",
-    "sura": "43",
-    "aya": "15",
-    "arabic_text": "وَجَعَلُواْ لَهُۥ مِنۡ عِبَادِهِۦ جُزۡءًاۚ إِنَّ ٱلۡإِنسَٰنَ لَكَفُورٞ مُّبِينٌ",
-    "translation": "Na wanamfanyia katika waja wake fungu. Kwa hakika mwanaadamu ni mtovu wa fadhila aliye dhaahiri.",
-    "footnotes": "Na makafiri washirikina wamemfanyia Mwenyezi Mungu Subhanahu katika viumbe vyake mwana wakaamini kuwa ni sehemu ya nafsi yake. Hakika mwanaadamu kwa kitendo chake hichi hadi amepita ukomo katika ukafiri wake, na upinzani wake uwazi."
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 490,
+  "verse_key": "43:15",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلُواْ لَهُۥ مِنۡ عِبَادِهِۦ جُزۡءًاۚ إِنَّ ٱلۡإِنسَٰنَ لَكَفُورٞ مُّبِينٌ",
+  "translation": "Na wanamfanyia katika waja wake fungu. Kwa hakika mwanaadamu ni mtovu wa fadhila aliye dhaahiri.",
+  "footnotes": "Na makafiri washirikina wamemfanyia Mwenyezi Mungu Subhanahu katika viumbe vyake mwana wakaamini kuwa ni sehemu ya nafsi yake. Hakika mwanaadamu kwa kitendo chake hichi hadi amepita ukomo katika ukafiri wake, na upinzani wake uwazi."
 }

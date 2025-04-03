@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3151",
-    "sura": "26",
-    "aya": "219",
-    "arabic_text": "وَتَقَلُّبَكَ فِي ٱلسَّٰجِدِينَ",
-    "translation": "Na mageuko yako kati ya wanao sujudu.",
-    "footnotes": "Na anaona mwendo wako kati ya wanao sali, kwa kusimama, na kukaa, na kurukuu na kusujudu, pale unapo waongoza katika Swala."
-  }
+  "id": 219,
+  "verse_number": 219,
+  "page_number": 376,
+  "verse_key": "26:219",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَقَلُّبَكَ فِي ٱلسَّٰجِدِينَ",
+  "translation": "Na mageuko yako kati ya wanao sujudu.",
+  "footnotes": "Na anaona mwendo wako kati ya wanao sali, kwa kusimama, na kukaa, na kurukuu na kusujudu, pale unapo waongoza katika Swala."
 }

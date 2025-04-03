@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5672",
-    "sura": "77",
-    "aya": "50",
-    "arabic_text": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ",
-    "translation": "దీని (ఈ ఖుర్ఆన్) తరువాత ఇక వారు మరెలాంటి సందేశాన్నివిశ్వసిస్తారు?",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 581,
+  "verse_key": "77:50",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَبِأَيِّ حَدِيثِۭ بَعۡدَهُۥ يُؤۡمِنُونَ",
+  "translation": "దీని (ఈ ఖుర్ఆన్) తరువాత ఇక వారు మరెలాంటి సందేశాన్నివిశ్వసిస్తారు?",
+  "footnotes": ""
 }

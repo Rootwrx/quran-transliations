@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2250",
-    "sura": "18",
-    "aya": "110",
-    "arabic_text": "قُلۡ إِنَّمَآ أَنَا۠ بَشَرٞ مِّثۡلُكُمۡ يُوحَىٰٓ إِلَيَّ أَنَّمَآ إِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۖ فَمَن كَانَ يَرۡجُواْ لِقَآءَ رَبِّهِۦ فَلۡيَعۡمَلۡ عَمَلٗا صَٰلِحٗا وَلَا يُشۡرِكۡ بِعِبَادَةِ رَبِّهِۦٓ أَحَدَۢا",
-    "translation": "Reci: \"Ja sam čovjek kao i vi, meni se objavljuje da je vaš Bog- jedan Bog. Pa ko se nada susretu s Gospodarom svojim, neka čini dobra djela i neka u ibadetu Gospodaru svome nikoga ne pridružuje.\"",
-    "footnotes": ""
-  }
+  "id": 110,
+  "verse_number": 110,
+  "page_number": 304,
+  "verse_key": "18:110",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنَّمَآ أَنَا۠ بَشَرٞ مِّثۡلُكُمۡ يُوحَىٰٓ إِلَيَّ أَنَّمَآ إِلَٰهُكُمۡ إِلَٰهٞ وَٰحِدٞۖ فَمَن كَانَ يَرۡجُواْ لِقَآءَ رَبِّهِۦ فَلۡيَعۡمَلۡ عَمَلٗا صَٰلِحٗا وَلَا يُشۡرِكۡ بِعِبَادَةِ رَبِّهِۦٓ أَحَدَۢا",
+  "translation": "Reci: \"Ja sam čovjek kao i vi, meni se objavljuje da je vaš Bog- jedan Bog. Pa ko se nada susretu s Gospodarom svojim, neka čini dobra djela i neka u ibadetu Gospodaru svome nikoga ne pridružuje.\"",
+  "footnotes": ""
 }

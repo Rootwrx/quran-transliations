@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3558",
-    "sura": "33",
-    "aya": "25",
-    "arabic_text": "وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُواْ بِغَيۡظِهِمۡ لَمۡ يَنَالُواْ خَيۡرٗاۚ وَكَفَى ٱللَّهُ ٱلۡمُؤۡمِنِينَ ٱلۡقِتَالَۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزٗا",
-    "translation": "Kuma Allah Yã mayar *da waɗanda suka kãfirta da fushinsu, ba su sãmi wani alhẽri ba. Allah Ya isar wa mũminai daga barin yãƙi. Kuma Allah Ya kasance Mai ƙarfi, Mabuwãyi.",
-    "footnotes": "* Allah Yã kõre ƙungiyõyin kãfirai da iskarsa mai tsananin sanyi, watau iskar Saba."
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 421,
+  "verse_key": "33:25",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 168,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَرَدَّ ٱللَّهُ ٱلَّذِينَ كَفَرُواْ بِغَيۡظِهِمۡ لَمۡ يَنَالُواْ خَيۡرٗاۚ وَكَفَى ٱللَّهُ ٱلۡمُؤۡمِنِينَ ٱلۡقِتَالَۚ وَكَانَ ٱللَّهُ قَوِيًّا عَزِيزٗا",
+  "translation": "Kuma Allah Yã mayar *da waɗanda suka kãfirta da fushinsu, ba su sãmi wani alhẽri ba. Allah Ya isar wa mũminai daga barin yãƙi. Kuma Allah Ya kasance Mai ƙarfi, Mabuwãyi.",
+  "footnotes": "* Allah Yã kõre ƙungiyõyin kãfirai da iskarsa mai tsananin sanyi, watau iskar Saba."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5688",
-    "sura": "78",
-    "aya": "16",
-    "arabic_text": "وَجَنَّٰتٍ أَلۡفَافًا",
-    "translation": "16. இன்னும், கிளைகள் அடர்ந்த சோலைகளையும் (உற்பத்தி செய்கிறோம்).",
-    "footnotes": null
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 582,
+  "verse_key": "78:16",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَنَّٰتٍ أَلۡفَافًا",
+  "translation": "16. இன்னும், கிளைகள் அடர்ந்த சோலைகளையும் (உற்பத்தி செய்கிறோம்).",
+  "footnotes": null
 }

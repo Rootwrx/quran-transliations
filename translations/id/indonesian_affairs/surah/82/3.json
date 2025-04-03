@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5832",
-    "sura": "82",
-    "aya": "3",
-    "arabic_text": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
-    "translation": "dan apabila lautan dijadikan meluap,",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 587,
+  "verse_key": "82:3",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا ٱلۡبِحَارُ فُجِّرَتۡ",
+  "translation": "dan apabila lautan dijadikan meluap,",
+  "footnotes": ""
 }

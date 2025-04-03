@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4230",
-    "sura": "41",
-    "aya": "12",
-    "arabic_text": "فَقَضَىٰهُنَّ سَبۡعَ سَمَٰوَاتٖ فِي يَوۡمَيۡنِ وَأَوۡحَىٰ فِي كُلِّ سَمَآءٍ أَمۡرَهَاۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَحِفۡظٗاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
-    "translation": "Il décréta d’en faire sept cieux en deux jours et révéla à chaque ciel sa fonction . Et Nous avons décoré le ciel le plus proche de lampes [étoiles] de lampes par lesquelles Nous l'avons protégé. Tel est l’Ordre établi par le Puissant, l’Omniscient.",
-    "footnotes": "[821] Sept cieux en deux jours: avec 4 jours pour la terre, cela fait six jours, comme cela est répété maintes fois ailleurs."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 478,
+  "verse_key": "41:12",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 191,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَضَىٰهُنَّ سَبۡعَ سَمَٰوَاتٖ فِي يَوۡمَيۡنِ وَأَوۡحَىٰ فِي كُلِّ سَمَآءٍ أَمۡرَهَاۚ وَزَيَّنَّا ٱلسَّمَآءَ ٱلدُّنۡيَا بِمَصَٰبِيحَ وَحِفۡظٗاۚ ذَٰلِكَ تَقۡدِيرُ ٱلۡعَزِيزِ ٱلۡعَلِيمِ",
+  "translation": "Il décréta d’en faire sept cieux en deux jours et révéla à chaque ciel sa fonction . Et Nous avons décoré le ciel le plus proche de lampes [étoiles] de lampes par lesquelles Nous l'avons protégé. Tel est l’Ordre établi par le Puissant, l’Omniscient.",
+  "footnotes": "[821] Sept cieux en deux jours: avec 4 jours pour la terre, cela fait six jours, comme cela est répété maintes fois ailleurs."
 }

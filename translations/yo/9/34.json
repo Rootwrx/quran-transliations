@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1269",
-    "sura": "9",
-    "aya": "34",
-    "arabic_text": "۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ كَثِيرٗا مِّنَ ٱلۡأَحۡبَارِ وَٱلرُّهۡبَانِ لَيَأۡكُلُونَ أَمۡوَٰلَ ٱلنَّاسِ بِٱلۡبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِۗ وَٱلَّذِينَ يَكۡنِزُونَ ٱلذَّهَبَ وَٱلۡفِضَّةَ وَلَا يُنفِقُونَهَا فِي سَبِيلِ ٱللَّهِ فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٖ",
-    "translation": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ọ̀pọ̀lọ́pọ̀ nínú àwọn àlùfáà (nínú yẹhudi) àti àwọn àlùfáà (nínú nasọ̄rọ̄), wọ́n kúkú ń fi ọ̀nà èrú jẹ dúkìá àwọn ènìyàn ni, wọ́n sì ń ṣẹ́rí àwọn ènìyàn kúrò lójú ọ̀nà (ẹ̀sìn) Allāhu. Àwọn tó sì ń kó wúrà àti fàdákà jọ, tí wọn kò sì máa ná an sí ojú-ọ̀nà Allāhu, fún wọn ní ìró ìyà ẹlẹ́ta-eléro.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 192,
+  "verse_key": "9:34",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّ كَثِيرٗا مِّنَ ٱلۡأَحۡبَارِ وَٱلرُّهۡبَانِ لَيَأۡكُلُونَ أَمۡوَٰلَ ٱلنَّاسِ بِٱلۡبَٰطِلِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِۗ وَٱلَّذِينَ يَكۡنِزُونَ ٱلذَّهَبَ وَٱلۡفِضَّةَ وَلَا يُنفِقُونَهَا فِي سَبِيلِ ٱللَّهِ فَبَشِّرۡهُم بِعَذَابٍ أَلِيمٖ",
+  "translation": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ọ̀pọ̀lọ́pọ̀ nínú àwọn àlùfáà (nínú yẹhudi) àti àwọn àlùfáà (nínú nasọ̄rọ̄), wọ́n kúkú ń fi ọ̀nà èrú jẹ dúkìá àwọn ènìyàn ni, wọ́n sì ń ṣẹ́rí àwọn ènìyàn kúrò lójú ọ̀nà (ẹ̀sìn) Allāhu. Àwọn tó sì ń kó wúrà àti fàdákà jọ, tí wọn kò sì máa ná an sí ojú-ọ̀nà Allāhu, fún wọn ní ìró ìyà ẹlẹ́ta-eléro.",
+  "footnotes": ""
 }

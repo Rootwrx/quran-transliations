@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "554",
-    "sura": "4",
-    "aya": "61",
-    "arabic_text": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيۡتَ ٱلۡمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودٗا",
-    "translation": "Kuma idan aka ce musu: \"Ku zo zuwa ga abin da Allah Ya saukar, kuma zuwa ga Manzo\" zã ka ga munãfukai* sunã kange mutãne daga gare ka, kangẽwa.",
-    "footnotes": "* Miyãgun shugabanni mãsu karkatar da mũminai daga hukuncin Allah da hujjar wai suna nufin su daidaita domin a haɗa Musulmi da kãfirai ga hukunci; ta haka har kãfiri ya kasance mai yin hukunci a kan Musulmi. Su waɗannan masu yin haka ba Musulmi ba ne, munãfukan Musulmi ne. Musuluncinsu na bãki ne kawai, dã yã kai ga zũciya dã ba su yi ko tunãnin yarda da haka ba. Allah Ya tsare mu daga sharrin Shaiɗan,."
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 88,
+  "verse_key": "4:61",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا قِيلَ لَهُمۡ تَعَالَوۡاْ إِلَىٰ مَآ أَنزَلَ ٱللَّهُ وَإِلَى ٱلرَّسُولِ رَأَيۡتَ ٱلۡمُنَٰفِقِينَ يَصُدُّونَ عَنكَ صُدُودٗا",
+  "translation": "Kuma idan aka ce musu: \"Ku zo zuwa ga abin da Allah Ya saukar, kuma zuwa ga Manzo\" zã ka ga munãfukai* sunã kange mutãne daga gare ka, kangẽwa.",
+  "footnotes": "* Miyãgun shugabanni mãsu karkatar da mũminai daga hukuncin Allah da hujjar wai suna nufin su daidaita domin a haɗa Musulmi da kãfirai ga hukunci; ta haka har kãfiri ya kasance mai yin hukunci a kan Musulmi. Su waɗannan masu yin haka ba Musulmi ba ne, munãfukan Musulmi ne. Musuluncinsu na bãki ne kawai, dã yã kai ga zũciya dã ba su yi ko tunãnin yarda da haka ba. Allah Ya tsare mu daga sharrin Shaiɗan,."
 }

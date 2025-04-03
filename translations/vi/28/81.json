@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3333",
-    "sura": "28",
-    "aya": "81",
-    "arabic_text": "فَخَسَفۡنَا بِهِۦ وَبِدَارِهِ ٱلۡأَرۡضَ فَمَا كَانَ لَهُۥ مِن فِئَةٖ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلۡمُنتَصِرِينَ",
-    "translation": "Vì vậy, TA đã làm cho đất sụp xuống nuốt chửng y và cả nhà cửa của y. Và y đã chẳng có nhóm bè phái nào ngoài Allah giúp đỡ giải cứu y thoát khỏi hình phạt đó của Ngài và y cũng không thể tự cứu lấy mình.",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 395,
+  "verse_key": "28:81",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 158,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَخَسَفۡنَا بِهِۦ وَبِدَارِهِ ٱلۡأَرۡضَ فَمَا كَانَ لَهُۥ مِن فِئَةٖ يَنصُرُونَهُۥ مِن دُونِ ٱللَّهِ وَمَا كَانَ مِنَ ٱلۡمُنتَصِرِينَ",
+  "translation": "Vì vậy, TA đã làm cho đất sụp xuống nuốt chửng y và cả nhà cửa của y. Và y đã chẳng có nhóm bè phái nào ngoài Allah giúp đỡ giải cứu y thoát khỏi hình phạt đó của Ngài và y cũng không thể tự cứu lấy mình.",
+  "footnotes": ""
 }

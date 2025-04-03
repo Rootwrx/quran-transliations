@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1853",
-    "sura": "15",
-    "aya": "51",
-    "arabic_text": "وَنَبِّئۡهُمۡ عَن ضَيۡفِ إِبۡرَٰهِيمَ",
-    "translation": "و از مهمانان ابراهیم [نیز] به آنان خبر بده.",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 264,
+  "verse_key": "15:51",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنَبِّئۡهُمۡ عَن ضَيۡفِ إِبۡرَٰهِيمَ",
+  "translation": "و از مهمانان ابراهیم [نیز] به آنان خبر بده.",
+  "footnotes": ""
 }

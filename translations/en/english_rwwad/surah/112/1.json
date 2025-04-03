@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6222",
-    "sura": "112",
-    "aya": "1",
-    "arabic_text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
-    "translation": "Say: “He is Allah, the One[1];",
-    "footnotes": "[1] He is Alone, without a partner, indivisible and distinct from all else. The only true deity, unique in His essence, attributes, and actions."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 604,
+  "verse_key": "112:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هُوَ ٱللَّهُ أَحَدٌ",
+  "translation": "Say: “He is Allah, the One[1];",
+  "footnotes": "[1] He is Alone, without a partner, indivisible and distinct from all else. The only true deity, unique in His essence, attributes, and actions."
 }

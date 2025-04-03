@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "70",
-    "sura": "2",
-    "aya": "63",
-    "arabic_text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ",
-    "translation": "(Các ngươi hãy nhớ lại) khi TA đã nhận giao ước của các ngươi và TA đã nâng ngọn núi lên trên các ngươi mà phán: “Các ngươi hãy nắm chắc những gì TA đã ban cho các ngươi (trong Kinh Tawrah), và các ngươi hãy ghi nhớ mọi điều răn dạy trong đó hi vọng các ngươi sẽ ngoan đạo.”",
-    "footnotes": ""
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 10,
+  "verse_key": "2:63",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ",
+  "translation": "(Các ngươi hãy nhớ lại) khi TA đã nhận giao ước của các ngươi và TA đã nâng ngọn núi lên trên các ngươi mà phán: “Các ngươi hãy nắm chắc những gì TA đã ban cho các ngươi (trong Kinh Tawrah), và các ngươi hãy ghi nhớ mọi điều răn dạy trong đó hi vọng các ngươi sẽ ngoan đạo.”",
+  "footnotes": ""
 }

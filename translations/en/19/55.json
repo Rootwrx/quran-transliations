@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2305",
-    "sura": "19",
-    "aya": "55",
-    "arabic_text": "وَكَانَ يَأۡمُرُ أَهۡلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرۡضِيّٗا",
-    "translation": "(55) And he used to enjoin on his people prayer and zakāh and was to his Lord pleasing [i.e., accepted by Him].",
-    "footnotes": ""
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 309,
+  "verse_key": "19:55",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَانَ يَأۡمُرُ أَهۡلَهُۥ بِٱلصَّلَوٰةِ وَٱلزَّكَوٰةِ وَكَانَ عِندَ رَبِّهِۦ مَرۡضِيّٗا",
+  "translation": "(55) And he used to enjoin on his people prayer and zakāh and was to his Lord pleasing [i.e., accepted by Him].",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1889",
-    "sura": "15",
-    "aya": "87",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ",
-    "translation": "我确已赏赐你常常反复诵读的七节经文和伟大的《古兰经》。",
-    "footnotes": ""
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 266,
+  "verse_key": "15:87",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَٰكَ سَبۡعٗا مِّنَ ٱلۡمَثَانِي وَٱلۡقُرۡءَانَ ٱلۡعَظِيمَ",
+  "translation": "我确已赏赐你常常反复诵读的七节经文和伟大的《古兰经》。",
+  "footnotes": ""
 }

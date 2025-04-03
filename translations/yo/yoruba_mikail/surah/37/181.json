@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3969",
-    "sura": "37",
-    "aya": "181",
-    "arabic_text": "وَسَلَٰمٌ عَلَى ٱلۡمُرۡسَلِينَ",
-    "translation": "Kí àlàáfíà máa bá àwọn Òjíṣẹ́",
-    "footnotes": ""
-  }
+  "id": 181,
+  "verse_number": 181,
+  "page_number": 452,
+  "verse_key": "37:181",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَسَلَٰمٌ عَلَى ٱلۡمُرۡسَلِينَ",
+  "translation": "Kí àlàáfíà máa bá àwọn Òjíṣẹ́",
+  "footnotes": ""
 }

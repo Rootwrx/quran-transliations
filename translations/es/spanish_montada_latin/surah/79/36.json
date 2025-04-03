@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5748",
-    "sura": "79",
-    "aya": "36",
-    "arabic_text": "وَبُرِّزَتِ ٱلۡجَحِيمُ لِمَن يَرَىٰ",
-    "translation": "36. y el Infierno se hará visible para quienes contemplen.",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 584,
+  "verse_key": "79:36",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَبُرِّزَتِ ٱلۡجَحِيمُ لِمَن يَرَىٰ",
+  "translation": "36. y el Infierno se hará visible para quienes contemplen.",
+  "footnotes": ""
 }

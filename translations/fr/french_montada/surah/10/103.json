@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1467",
-    "sura": "10",
-    "aya": "103",
-    "arabic_text": "ثُمَّ نُنَجِّي رُسُلَنَا وَٱلَّذِينَ ءَامَنُواْۚ كَذَٰلِكَ حَقًّا عَلَيۡنَا نُنجِ ٱلۡمُؤۡمِنِينَ",
-    "translation": "103. Puis Nous sauverons Nos Messagers et ceux qui auront cru, car c’est à Nous qu’il incombe de sauver les croyants.",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 220,
+  "verse_key": "10:103",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ نُنَجِّي رُسُلَنَا وَٱلَّذِينَ ءَامَنُواْۚ كَذَٰلِكَ حَقًّا عَلَيۡنَا نُنجِ ٱلۡمُؤۡمِنِينَ",
+  "translation": "103. Puis Nous sauverons Nos Messagers et ceux qui auront cru, car c’est à Nous qu’il incombe de sauver les croyants.",
+  "footnotes": ""
 }

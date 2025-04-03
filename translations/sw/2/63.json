@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "70",
-    "sura": "2",
-    "aya": "63",
-    "arabic_text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ",
-    "translation": "Na tulipo chukua ahadi yenu, na tukaunyanyua mlima juu yenu (tukakwambieni): Shikeni kwa nguvu haya tuliyo kupeni, na yakumbukeni yaliyomo ndani yake ili mpate kujilinda.",
-    "footnotes": "Kumbukeni pale tulipo chukua ahadi na agano juu yenu, tukaunyanyua mlima wa T'uur, tukaufanya kwa uwezo wetu kama kivuli juu yenu mpaka mkaogopa mkanyenyekea, tukakwambieni: Shikeni uwongofu na uwongozi tulio kupeni kwa nguvu na jitihadi, na mkumbuke kwa kutekeleza na kutenda yaliyo tajwa ndani ili mpate kujilinda nafsi zenu msipate adhabu."
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 10,
+  "verse_key": "2:63",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ أَخَذۡنَا مِيثَٰقَكُمۡ وَرَفَعۡنَا فَوۡقَكُمُ ٱلطُّورَ خُذُواْ مَآ ءَاتَيۡنَٰكُم بِقُوَّةٖ وَٱذۡكُرُواْ مَا فِيهِ لَعَلَّكُمۡ تَتَّقُونَ",
+  "translation": "Na tulipo chukua ahadi yenu, na tukaunyanyua mlima juu yenu (tukakwambieni): Shikeni kwa nguvu haya tuliyo kupeni, na yakumbukeni yaliyomo ndani yake ili mpate kujilinda.",
+  "footnotes": "Kumbukeni pale tulipo chukua ahadi na agano juu yenu, tukaunyanyua mlima wa T'uur, tukaufanya kwa uwezo wetu kama kivuli juu yenu mpaka mkaogopa mkanyenyekea, tukakwambieni: Shikeni uwongofu na uwongozi tulio kupeni kwa nguvu na jitihadi, na mkumbuke kwa kutekeleza na kutenda yaliyo tajwa ndani ili mpate kujilinda nafsi zenu msipate adhabu."
 }

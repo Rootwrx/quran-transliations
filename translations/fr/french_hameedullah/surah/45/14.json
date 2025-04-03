@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4487",
-    "sura": "45",
-    "aya": "14",
-    "arabic_text": "قُل لِّلَّذِينَ ءَامَنُواْ يَغۡفِرُواْ لِلَّذِينَ لَا يَرۡجُونَ أَيَّامَ ٱللَّهِ لِيَجۡزِيَ قَوۡمَۢا بِمَا كَانُواْ يَكۡسِبُونَ",
-    "translation": "Dis à ceux qui ont cru de pardonner à ceux qui n’espèrent pas les jours d’Allah afin qu’Il rétribue [chaque] peuple pour les acquis qu’ils faisaient.",
-    "footnotes": "[862] Ceux qui n’espèrent pas: ceux qui ne craignent pas. Les jours d’Allah: les événements qu’Allah peut faire arriver. Ce verset exclut l’esprit de vengeance envers les non-Musulmans."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 500,
+  "verse_key": "45:14",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لِّلَّذِينَ ءَامَنُواْ يَغۡفِرُواْ لِلَّذِينَ لَا يَرۡجُونَ أَيَّامَ ٱللَّهِ لِيَجۡزِيَ قَوۡمَۢا بِمَا كَانُواْ يَكۡسِبُونَ",
+  "translation": "Dis à ceux qui ont cru de pardonner à ceux qui n’espèrent pas les jours d’Allah afin qu’Il rétribue [chaque] peuple pour les acquis qu’ils faisaient.",
+  "footnotes": "[862] Ceux qui n’espèrent pas: ceux qui ne craignent pas. Les jours d’Allah: les événements qu’Allah peut faire arriver. Ce verset exclut l’esprit de vengeance envers les non-Musulmans."
 }

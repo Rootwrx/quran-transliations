@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "334",
-    "sura": "3",
-    "aya": "41",
-    "arabic_text": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمۡزٗاۗ وَٱذۡكُر رَّبَّكَ كَثِيرٗا وَسَبِّحۡ بِٱلۡعَشِيِّ وَٱلۡإِبۡكَٰرِ",
-    "translation": "(Zakariyyā) sọ pé: “Olúwa mi, fún mi ní àmì kan.” Ó sọ pé: “Àmì rẹ ni pé ìwọ kò níí lè bá ènìyàn sọ̀rọ̀ fún ọjọ́ mẹ́ta àyàfi títọ́ka (sí n̄ǹkan). Rántí Olúwa rẹ lọ́pọ̀lọ́pọ̀. Kí o sì ṣàfọ̀mọ́ (fún Un) ní àṣálẹ́ àti ní òwúrọ̀ kùtù.”",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 55,
+  "verse_key": "3:41",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَةَ أَيَّامٍ إِلَّا رَمۡزٗاۗ وَٱذۡكُر رَّبَّكَ كَثِيرٗا وَسَبِّحۡ بِٱلۡعَشِيِّ وَٱلۡإِبۡكَٰرِ",
+  "translation": "(Zakariyyā) sọ pé: “Olúwa mi, fún mi ní àmì kan.” Ó sọ pé: “Àmì rẹ ni pé ìwọ kò níí lè bá ènìyàn sọ̀rọ̀ fún ọjọ́ mẹ́ta àyàfi títọ́ka (sí n̄ǹkan). Rántí Olúwa rẹ lọ́pọ̀lọ́pọ̀. Kí o sì ṣàfọ̀mọ́ (fún Un) ní àṣálẹ́ àti ní òwúrọ̀ kùtù.”",
+  "footnotes": ""
 }

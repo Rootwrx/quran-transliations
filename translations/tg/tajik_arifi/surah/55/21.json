@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4922",
-    "sura": "55",
-    "aya": "21",
-    "arabic_text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
-    "translation": "Пас, [эй ҷинну инс] кадом як аз неъматҳои Парвардигоратонро инкор мекунед?",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 532,
+  "verse_key": "55:21",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَبِأَيِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ",
+  "translation": "Пас, [эй ҷинну инс] кадом як аз неъматҳои Парвардигоратонро инкор мекунед?",
+  "footnotes": ""
 }

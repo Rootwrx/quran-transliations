@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "401",
-    "sura": "3",
-    "aya": "108",
-    "arabic_text": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۗ وَمَا ٱللَّهُ يُرِيدُ ظُلۡمٗا لِّلۡعَٰلَمِينَ",
-    "translation": "108 Tels sont les versets d’Allah que Nous te récitons en toute vérité. Allah n’entend pas traiter injustement Ses créatures.",
-    "footnotes": ""
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 63,
+  "verse_key": "3:108",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ ءَايَٰتُ ٱللَّهِ نَتۡلُوهَا عَلَيۡكَ بِٱلۡحَقِّۗ وَمَا ٱللَّهُ يُرِيدُ ظُلۡمٗا لِّلۡعَٰلَمِينَ",
+  "translation": "108 Tels sont les versets d’Allah que Nous te récitons en toute vérité. Allah n’entend pas traiter injustement Ses créatures.",
+  "footnotes": ""
 }

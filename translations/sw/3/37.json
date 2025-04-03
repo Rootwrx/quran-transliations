@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "330",
-    "sura": "3",
-    "aya": "37",
-    "arabic_text": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٖ وَأَنۢبَتَهَا نَبَاتًا حَسَنٗا وَكَفَّلَهَا زَكَرِيَّاۖ كُلَّمَا دَخَلَ عَلَيۡهَا زَكَرِيَّا ٱلۡمِحۡرَابَ وَجَدَ عِندَهَا رِزۡقٗاۖ قَالَ يَٰمَرۡيَمُ أَنَّىٰ لَكِ هَٰذَاۖ قَالَتۡ هُوَ مِنۡ عِندِ ٱللَّهِۖ إِنَّ ٱللَّهَ يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٍ",
-    "translation": "Tena Mola wake Mlezi akampokea kwa mapokeo mema na akamkuza makuzo mema, na akamfanya Zakariya awe mlezi wake. Kila mara Zakariya alipo ingia chumbani kwake alimkuta na vyakula. Basi alimwambia: Ewe Maryamu! Unavipata wapi hivi? Naye akasema: Hivi vinatoka kwa Mwenyezi Mungu; na Mwenyezi Mungu humruzuku amtakaye bila ya hisabu.",
-    "footnotes": "Mwenyezi Mungu alimpokea Maryamu kuwa ni nadhiri aliyo iweka mama yake, akamwitikia maombi yake, akamkuza makuzo mema, na akamlea katika kheri yake, Mola Mlezi, huku akimruzuku na kumshughulikia kwa malezi mazuri ya kumpa nguvu mwili wake na roho yake. Mwenyezi Mungu akamkabidhi Zakariya a.s. awe mlezi wake. Zakariya kila akiingia chumbani, alipo kuwa Maryamu anaabudu, akikuta chakula wasicho kizowea wakati ule. Zakariya akasema kwa kustaajabu: Ewe Maryamu! Umepata wapi riziki hii? Naye akamjibu: Hichi ni katika fadhila za Mwenyezi Mungu. Ni shani yake kumruzuku mja wake amtakaye riziki nyingi bila ya hisabu au kipimo."
-  }
+  "id": 37,
+  "verse_number": 37,
+  "page_number": 54,
+  "verse_key": "3:37",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتَقَبَّلَهَا رَبُّهَا بِقَبُولٍ حَسَنٖ وَأَنۢبَتَهَا نَبَاتًا حَسَنٗا وَكَفَّلَهَا زَكَرِيَّاۖ كُلَّمَا دَخَلَ عَلَيۡهَا زَكَرِيَّا ٱلۡمِحۡرَابَ وَجَدَ عِندَهَا رِزۡقٗاۖ قَالَ يَٰمَرۡيَمُ أَنَّىٰ لَكِ هَٰذَاۖ قَالَتۡ هُوَ مِنۡ عِندِ ٱللَّهِۖ إِنَّ ٱللَّهَ يَرۡزُقُ مَن يَشَآءُ بِغَيۡرِ حِسَابٍ",
+  "translation": "Tena Mola wake Mlezi akampokea kwa mapokeo mema na akamkuza makuzo mema, na akamfanya Zakariya awe mlezi wake. Kila mara Zakariya alipo ingia chumbani kwake alimkuta na vyakula. Basi alimwambia: Ewe Maryamu! Unavipata wapi hivi? Naye akasema: Hivi vinatoka kwa Mwenyezi Mungu; na Mwenyezi Mungu humruzuku amtakaye bila ya hisabu.",
+  "footnotes": "Mwenyezi Mungu alimpokea Maryamu kuwa ni nadhiri aliyo iweka mama yake, akamwitikia maombi yake, akamkuza makuzo mema, na akamlea katika kheri yake, Mola Mlezi, huku akimruzuku na kumshughulikia kwa malezi mazuri ya kumpa nguvu mwili wake na roho yake. Mwenyezi Mungu akamkabidhi Zakariya a.s. awe mlezi wake. Zakariya kila akiingia chumbani, alipo kuwa Maryamu anaabudu, akikuta chakula wasicho kizowea wakati ule. Zakariya akasema kwa kustaajabu: Ewe Maryamu! Umepata wapi riziki hii? Naye akamjibu: Hichi ni katika fadhila za Mwenyezi Mungu. Ni shani yake kumruzuku mja wake amtakaye riziki nyingi bila ya hisabu au kipimo."
 }

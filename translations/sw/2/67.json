@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "74",
-    "sura": "2",
-    "aya": "67",
-    "arabic_text": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦٓ إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تَذۡبَحُواْ بَقَرَةٗۖ قَالُوٓاْ أَتَتَّخِذُنَا هُزُوٗاۖ قَالَ أَعُوذُ بِٱللَّهِ أَنۡ أَكُونَ مِنَ ٱلۡجَٰهِلِينَ",
-    "translation": "Na Musa alipo waambia watu wake: Hakika Mwenyezi Mungu anakuamrisheni mchinje Ng'ombe. Wakasema: Je! Unatufanyia mzaha? Akasema: Audhubil lahi! Najikinga kwa Mwenyezi Mungu nisiwe miongoni mwa wajinga.",
-    "footnotes": "Na kumbukeni pale alipo uliwa mtu na asijuulikane muuwaji, Musa akawaambia watu wake: Mwenyezi Mungu anakuamrisheni mchinje Ng'ombe ili iwe ndio ufunguo wa kumgundua muuwaji. Lakini wakaona hayo ni mageni, baina ya yale mauwaji na kumchinja ng'ombe. Wakasema: Unatufanyia maskhara wewe Musa? Yeye akawajibu: Mimi najilinda kwa Mwenyezi Mungu asinipatilize kwa kuwa katika wajinga wanao wadhihaki waja wake."
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 10,
+  "verse_key": "2:67",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 4,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ مُوسَىٰ لِقَوۡمِهِۦٓ إِنَّ ٱللَّهَ يَأۡمُرُكُمۡ أَن تَذۡبَحُواْ بَقَرَةٗۖ قَالُوٓاْ أَتَتَّخِذُنَا هُزُوٗاۖ قَالَ أَعُوذُ بِٱللَّهِ أَنۡ أَكُونَ مِنَ ٱلۡجَٰهِلِينَ",
+  "translation": "Na Musa alipo waambia watu wake: Hakika Mwenyezi Mungu anakuamrisheni mchinje Ng'ombe. Wakasema: Je! Unatufanyia mzaha? Akasema: Audhubil lahi! Najikinga kwa Mwenyezi Mungu nisiwe miongoni mwa wajinga.",
+  "footnotes": "Na kumbukeni pale alipo uliwa mtu na asijuulikane muuwaji, Musa akawaambia watu wake: Mwenyezi Mungu anakuamrisheni mchinje Ng'ombe ili iwe ndio ufunguo wa kumgundua muuwaji. Lakini wakaona hayo ni mageni, baina ya yale mauwaji na kumchinja ng'ombe. Wakasema: Unatufanyia maskhara wewe Musa? Yeye akawajibu: Mimi najilinda kwa Mwenyezi Mungu asinipatilize kwa kuwa katika wajinga wanao wadhihaki waja wake."
 }

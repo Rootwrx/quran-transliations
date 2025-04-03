@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3816",
-    "sura": "37",
-    "aya": "28",
-    "arabic_text": "قَالُوٓاْ إِنَّكُمۡ كُنتُمۡ تَأۡتُونَنَا عَنِ ٱلۡيَمِينِ",
-    "translation": "(Pasuesit) do t’u thonë (prijësve): “Ju na vinit nga ana e djathtë[273]”.",
-    "footnotes": "[273] E djathta paraqet në kulturën dhe në gjuhën arabe (dhe jo vetëm në të) anën e arsyes dhe të së mirës, kështu që shprehja “na vinit nga e djathta” do të thotë: “Ju na paraqiteshit me argumente që në pamje të parë ishin të paqortueshme, për të na nxjerrë nga rruga e drejtë”."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 447,
+  "verse_key": "37:28",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ إِنَّكُمۡ كُنتُمۡ تَأۡتُونَنَا عَنِ ٱلۡيَمِينِ",
+  "translation": "(Pasuesit) do t’u thonë (prijësve): “Ju na vinit nga ana e djathtë[273]”.",
+  "footnotes": "[273] E djathta paraqet në kulturën dhe në gjuhën arabe (dhe jo vetëm në të) anën e arsyes dhe të së mirës, kështu që shprehja “na vinit nga e djathta” do të thotë: “Ju na paraqiteshit me argumente që në pamje të parë ishin të paqortueshme, për të na nxjerrë nga rruga e drejtë”."
 }

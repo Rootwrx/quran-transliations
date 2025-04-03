@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5635",
-    "sura": "77",
-    "aya": "13",
-    "arabic_text": "لِيَوۡمِ ٱلۡفَصۡلِ",
-    "translation": "13. Dėl Teismo Dienos.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 580,
+  "verse_key": "77:13",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِيَوۡمِ ٱلۡفَصۡلِ",
+  "translation": "13. Dėl Teismo Dienos.",
+  "footnotes": ""
 }

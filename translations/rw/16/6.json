@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1907",
-    "sura": "16",
-    "aya": "6",
-    "arabic_text": "وَلَكُمۡ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسۡرَحُونَ",
-    "translation": "Munashimishwa n’ubwiza bwayo igihe muyacyuye nimugoroba n’igihe muyahuye mu gitondo.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 267,
+  "verse_key": "16:6",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَكُمۡ فِيهَا جَمَالٌ حِينَ تُرِيحُونَ وَحِينَ تَسۡرَحُونَ",
+  "translation": "Munashimishwa n’ubwiza bwayo igihe muyacyuye nimugoroba n’igihe muyahuye mu gitondo.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2724",
-    "sura": "23",
-    "aya": "51",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُواْ مِنَ ٱلطَّيِّبَٰتِ وَٱعۡمَلُواْ صَٰلِحًاۖ إِنِّي بِمَا تَعۡمَلُونَ عَلِيمٞ",
-    "translation": "51. ¡Oh, Mensajeros! Coman de las cosas buenas y hagan buenas obras, que Yo bien sé lo que hacen.",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 345,
+  "verse_key": "23:51",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُواْ مِنَ ٱلطَّيِّبَٰتِ وَٱعۡمَلُواْ صَٰلِحًاۖ إِنِّي بِمَا تَعۡمَلُونَ عَلِيمٞ",
+  "translation": "51. ¡Oh, Mensajeros! Coman de las cosas buenas y hagan buenas obras, que Yo bien sé lo que hacen.",
+  "footnotes": ""
 }

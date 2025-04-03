@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1527",
-    "sura": "11",
-    "aya": "54",
-    "arabic_text": "إِن نَّقُولُ إِلَّا ٱعۡتَرَىٰكَ بَعۡضُ ءَالِهَتِنَا بِسُوٓءٖۗ قَالَ إِنِّيٓ أُشۡهِدُ ٱللَّهَ وَٱشۡهَدُوٓاْ أَنِّي بَرِيٓءٞ مِّمَّا تُشۡرِكُونَ",
-    "translation": "Icyo twavuga ni uko zimwe mu mana zacu zaguteje ibyago (kuko ubuza abantu kuzisenga). Aravuga ati “Mu by’ukuri njye ntanze Allah ho umuhamya, kandi namwe nimube abahamya ko rwose nitandukanyije n’ibyo mumubangikanya musenga,",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 228,
+  "verse_key": "11:54",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن نَّقُولُ إِلَّا ٱعۡتَرَىٰكَ بَعۡضُ ءَالِهَتِنَا بِسُوٓءٖۗ قَالَ إِنِّيٓ أُشۡهِدُ ٱللَّهَ وَٱشۡهَدُوٓاْ أَنِّي بَرِيٓءٞ مِّمَّا تُشۡرِكُونَ",
+  "translation": "Icyo twavuga ni uko zimwe mu mana zacu zaguteje ibyago (kuko ubuza abantu kuzisenga). Aravuga ati “Mu by’ukuri njye ntanze Allah ho umuhamya, kandi namwe nimube abahamya ko rwose nitandukanyije n’ibyo mumubangikanya musenga,",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4252",
-    "sura": "41",
-    "aya": "34",
-    "arabic_text": "وَلَا تَسۡتَوِي ٱلۡحَسَنَةُ وَلَا ٱلسَّيِّئَةُۚ ٱدۡفَعۡ بِٱلَّتِي هِيَ أَحۡسَنُ فَإِذَا ٱلَّذِي بَيۡنَكَ وَبَيۡنَهُۥ عَدَٰوَةٞ كَأَنَّهُۥ وَلِيٌّ حَمِيمٞ",
-    "translation": "Rere àti aburú kò dọ́gba. Fi èyí tí ó dára jùlọ dènà (aburú).[1] Nígbà náà ni ẹni tí ọ̀tá wà láààrin ìwọ àti òun máa dà bí ọ̀rẹ́ alásùn-únmọ́ pẹ́kípẹ́kí.",
-    "footnotes": "1. Fífi rere dènà aburú ni ṣíṣe sùúrù pẹ̀lú ẹni tí ó ń bínú sí wa, ṣíṣe rere sí ẹni tí ó ń ṣe aburú sí wa, kíkí ẹni tí ó ń yàn wá lódì, ṣíṣe àtẹ̀mọ́ra pẹ̀lú ẹni tí ó ń hùwà àìmọ̀kan sí wa, wíwo ẹni tí ó ń ṣépè fún wa níran, wíwo ẹni tí ó ń bú wa níran àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 480,
+  "verse_key": "41:34",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَسۡتَوِي ٱلۡحَسَنَةُ وَلَا ٱلسَّيِّئَةُۚ ٱدۡفَعۡ بِٱلَّتِي هِيَ أَحۡسَنُ فَإِذَا ٱلَّذِي بَيۡنَكَ وَبَيۡنَهُۥ عَدَٰوَةٞ كَأَنَّهُۥ وَلِيٌّ حَمِيمٞ",
+  "translation": "Rere àti aburú kò dọ́gba. Fi èyí tí ó dára jùlọ dènà (aburú).[1] Nígbà náà ni ẹni tí ọ̀tá wà láààrin ìwọ àti òun máa dà bí ọ̀rẹ́ alásùn-únmọ́ pẹ́kípẹ́kí.",
+  "footnotes": "1. Fífi rere dènà aburú ni ṣíṣe sùúrù pẹ̀lú ẹni tí ó ń bínú sí wa, ṣíṣe rere sí ẹni tí ó ń ṣe aburú sí wa, kíkí ẹni tí ó ń yàn wá lódì, ṣíṣe àtẹ̀mọ́ra pẹ̀lú ẹni tí ó ń hùwà àìmọ̀kan sí wa, wíwo ẹni tí ó ń ṣépè fún wa níran, wíwo ẹni tí ó ń bú wa níran àti bẹ́ẹ̀ bẹ́ẹ̀ lọ."
 }

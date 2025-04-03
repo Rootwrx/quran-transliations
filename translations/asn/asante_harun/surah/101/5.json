@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6162",
-    "sura": "101",
-    "aya": "5",
-    "arabic_text": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
-    "translation": "Na mmepͻ nso bεyε sε aboa nwii a εrehu korͻ.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 600,
+  "verse_key": "101:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَكُونُ ٱلۡجِبَالُ كَٱلۡعِهۡنِ ٱلۡمَنفُوشِ",
+  "translation": "Na mmepͻ nso bεyε sε aboa nwii a εrehu korͻ.",
+  "footnotes": ""
 }

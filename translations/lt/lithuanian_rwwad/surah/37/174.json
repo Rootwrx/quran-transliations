@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3962",
-    "sura": "37",
-    "aya": "174",
-    "arabic_text": "فَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِينٖ",
-    "translation": "174. Taigi nusigręžk (Muchammedai ﷺ) nuo jų kuriam laikui",
-    "footnotes": ""
-  }
+  "id": 174,
+  "verse_number": 174,
+  "page_number": 452,
+  "verse_key": "37:174",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتَوَلَّ عَنۡهُمۡ حَتَّىٰ حِينٖ",
+  "translation": "174. Taigi nusigręžk (Muchammedai ﷺ) nuo jų kuriam laikui",
+  "footnotes": ""
 }

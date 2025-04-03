@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5085",
-    "sura": "57",
-    "aya": "10",
-    "arabic_text": "وَمَا لَكُمۡ أَلَّا تُنفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ لَا يَسۡتَوِي مِنكُم مَّنۡ أَنفَقَ مِن قَبۡلِ ٱلۡفَتۡحِ وَقَٰتَلَۚ أُوْلَٰٓئِكَ أَعۡظَمُ دَرَجَةٗ مِّنَ ٱلَّذِينَ أَنفَقُواْ مِنۢ بَعۡدُ وَقَٰتَلُواْۚ وَكُلّٗا وَعَدَ ٱللَّهُ ٱلۡحُسۡنَىٰۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
-    "translation": "Kí ni ó mu yín tí ẹ̀yin kò fi níí náwó sí ojú-ọ̀nà Allāhu? Ti Allāhu sì ni ogún àwọn sánmọ̀ àti ilẹ̀. Ẹni tí ó náwó ṣíwájú ṣíṣí ìlú Mọkkah, tí ó tún jagun ẹ̀sìn, kò dọ́gba láààrin yín (sí àwọn mìíràn). Àwọn wọ̀nyẹn ni ẹ̀san wọn tóbi ju ti àwọn tó náwó lẹ́yìn ìgbà náà, tí wọ́n tún jagun ẹ̀sìn. Ẹnì kọ̀ọ̀kan sì ni Allāhu ṣ’àdéhùn ẹ̀san rere fún. Allāhu sì ni Alámọ̀tán nípa ohun tí ẹ̀ ń ṣe níṣẹ́.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 538,
+  "verse_key": "57:10",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا لَكُمۡ أَلَّا تُنفِقُواْ فِي سَبِيلِ ٱللَّهِ وَلِلَّهِ مِيرَٰثُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ لَا يَسۡتَوِي مِنكُم مَّنۡ أَنفَقَ مِن قَبۡلِ ٱلۡفَتۡحِ وَقَٰتَلَۚ أُوْلَٰٓئِكَ أَعۡظَمُ دَرَجَةٗ مِّنَ ٱلَّذِينَ أَنفَقُواْ مِنۢ بَعۡدُ وَقَٰتَلُواْۚ وَكُلّٗا وَعَدَ ٱللَّهُ ٱلۡحُسۡنَىٰۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+  "translation": "Kí ni ó mu yín tí ẹ̀yin kò fi níí náwó sí ojú-ọ̀nà Allāhu? Ti Allāhu sì ni ogún àwọn sánmọ̀ àti ilẹ̀. Ẹni tí ó náwó ṣíwájú ṣíṣí ìlú Mọkkah, tí ó tún jagun ẹ̀sìn, kò dọ́gba láààrin yín (sí àwọn mìíràn). Àwọn wọ̀nyẹn ni ẹ̀san wọn tóbi ju ti àwọn tó náwó lẹ́yìn ìgbà náà, tí wọ́n tún jagun ẹ̀sìn. Ẹnì kọ̀ọ̀kan sì ni Allāhu ṣ’àdéhùn ẹ̀san rere fún. Allāhu sì ni Alámọ̀tán nípa ohun tí ẹ̀ ń ṣe níṣẹ́.",
+  "footnotes": ""
 }

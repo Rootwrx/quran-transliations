@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5718",
-    "sura": "79",
-    "aya": "6",
-    "arabic_text": "يَوۡمَ تَرۡجُفُ ٱلرَّاجِفَةُ",
-    "translation": "sa araw na yayanig ang tagayanig,[4]",
-    "footnotes": "[4] sa unang pag-ihip sa tambuli"
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 583,
+  "verse_key": "79:6",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ تَرۡجُفُ ٱلرَّاجِفَةُ",
+  "translation": "sa araw na yayanig ang tagayanig,[4]",
+  "footnotes": "[4] sa unang pag-ihip sa tambuli"
 }

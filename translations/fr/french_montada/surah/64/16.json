@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5215",
-    "sura": "64",
-    "aya": "16",
-    "arabic_text": "فَٱتَّقُواْ ٱللَّهَ مَا ٱسۡتَطَعۡتُمۡ وَٱسۡمَعُواْ وَأَطِيعُواْ وَأَنفِقُواْ خَيۡرٗا لِّأَنفُسِكُمۡۗ وَمَن يُوقَ شُحَّ نَفۡسِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
-    "translation": "16. Craignez donc Allah autant que vous le pourrez. Écoutez, obéissez et dépensez (de vos biens) en charité, cela est meilleur pour vous. Ceux qui sont préservés de leur propre avarice sont ceux qui réussissent.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 557,
+  "verse_key": "64:16",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱتَّقُواْ ٱللَّهَ مَا ٱسۡتَطَعۡتُمۡ وَٱسۡمَعُواْ وَأَطِيعُواْ وَأَنفِقُواْ خَيۡرٗا لِّأَنفُسِكُمۡۗ وَمَن يُوقَ شُحَّ نَفۡسِهِۦ فَأُوْلَٰٓئِكَ هُمُ ٱلۡمُفۡلِحُونَ",
+  "translation": "16. Craignez donc Allah autant que vous le pourrez. Écoutez, obéissez et dépensez (de vos biens) en charité, cela est meilleur pour vous. Ceux qui sont préservés de leur propre avarice sont ceux qui réussissent.",
+  "footnotes": ""
 }

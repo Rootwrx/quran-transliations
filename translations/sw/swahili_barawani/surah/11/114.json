@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1587",
-    "sura": "11",
-    "aya": "114",
-    "arabic_text": "وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَيِ ٱلنَّهَارِ وَزُلَفٗا مِّنَ ٱلَّيۡلِۚ إِنَّ ٱلۡحَسَنَٰتِ يُذۡهِبۡنَ ٱلسَّيِّـَٔاتِۚ ذَٰلِكَ ذِكۡرَىٰ لِلذَّٰكِرِينَ",
-    "translation": "Na shika Swala katika ncha mbili za mchana na nyakati za usiku zilizo karibu na mchana. Hakika mema huondoa maovu. Huu ni ukumbusho kwa wanao kumbuka.",
-    "footnotes": "Ewe Nabii! Timiza Swala kwa ukamilifu katika ncha mbili za mchana, na nyakati mbali mbali za usiku. Kwani Swala husafisha nafsi na hushinda katika kung'oa shari, na hufuta athari ya maovu ambayo mwanaadamu shida kuepukana nayo! Hayo uliyo amrishwa, ewe Nabii, katika uwongofu wa kheri ni mawaidha ya kuwanufaisha wale ambao walio tayari kuyakubali, ambao kwamba wanamkumbuka Mola wao Mlezi, wala hawamsahau."
-  }
+  "id": 114,
+  "verse_number": 114,
+  "page_number": 234,
+  "verse_key": "11:114",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَقِمِ ٱلصَّلَوٰةَ طَرَفَيِ ٱلنَّهَارِ وَزُلَفٗا مِّنَ ٱلَّيۡلِۚ إِنَّ ٱلۡحَسَنَٰتِ يُذۡهِبۡنَ ٱلسَّيِّـَٔاتِۚ ذَٰلِكَ ذِكۡرَىٰ لِلذَّٰكِرِينَ",
+  "translation": "Na shika Swala katika ncha mbili za mchana na nyakati za usiku zilizo karibu na mchana. Hakika mema huondoa maovu. Huu ni ukumbusho kwa wanao kumbuka.",
+  "footnotes": "Ewe Nabii! Timiza Swala kwa ukamilifu katika ncha mbili za mchana, na nyakati mbali mbali za usiku. Kwani Swala husafisha nafsi na hushinda katika kung'oa shari, na hufuta athari ya maovu ambayo mwanaadamu shida kuepukana nayo! Hayo uliyo amrishwa, ewe Nabii, katika uwongofu wa kheri ni mawaidha ya kuwanufaisha wale ambao walio tayari kuyakubali, ambao kwamba wanamkumbuka Mola wao Mlezi, wala hawamsahau."
 }

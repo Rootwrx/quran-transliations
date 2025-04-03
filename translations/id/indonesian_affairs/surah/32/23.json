@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3526",
-    "sura": "32",
-    "aya": "23",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ فَلَا تَكُن فِي مِرۡيَةٖ مِّن لِّقَآئِهِۦۖ وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَٰٓءِيلَ",
-    "translation": "Dan sungguh, telah Kami anugerahkan Kitab (Taurat) kepada Musa, maka janganlah engkau (Muhammad) ragu-ragu menerimanya (Al-Qur`an) dan Kami jadikan Kitab (Taurat) itu petunjuk bagi Bani Israil.660)",
-    "footnotes": "*660) Taurat telah diberikan kepada Nabi Musa -'alaihissalām-, dan pada masanya dijadikan petunjuk bagi Bani Israil. Begitu juga Al-Qur`an telah diberikan kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan dijadikan petunjuk bagi umat Islam."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 417,
+  "verse_key": "32:23",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ فَلَا تَكُن فِي مِرۡيَةٖ مِّن لِّقَآئِهِۦۖ وَجَعَلۡنَٰهُ هُدٗى لِّبَنِيٓ إِسۡرَٰٓءِيلَ",
+  "translation": "Dan sungguh, telah Kami anugerahkan Kitab (Taurat) kepada Musa, maka janganlah engkau (Muhammad) ragu-ragu menerimanya (Al-Qur`an) dan Kami jadikan Kitab (Taurat) itu petunjuk bagi Bani Israil.660)",
+  "footnotes": "*660) Taurat telah diberikan kepada Nabi Musa -'alaihissalām-, dan pada masanya dijadikan petunjuk bagi Bani Israil. Begitu juga Al-Qur`an telah diberikan kepada Nabi Muhammad -ṣallallāhu 'alaihi wa sallam- dan dijadikan petunjuk bagi umat Islam."
 }

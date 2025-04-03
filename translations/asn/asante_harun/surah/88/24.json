@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5991",
-    "sura": "88",
-    "aya": "24",
-    "arabic_text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ",
-    "translation": "Nyankopͻn de asotwee kεseε no bεtwe n’aso",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 592,
+  "verse_key": "88:24",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَيُعَذِّبُهُ ٱللَّهُ ٱلۡعَذَابَ ٱلۡأَكۡبَرَ",
+  "translation": "Nyankopͻn de asotwee kεseε no bεtwe n’aso",
+  "footnotes": ""
 }

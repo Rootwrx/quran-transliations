@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3131",
-    "sura": "26",
-    "aya": "199",
-    "arabic_text": "فَقَرَأَهُۥ عَلَيۡهِم مَّا كَانُواْ بِهِۦ مُؤۡمِنِينَ",
-    "translation": "199. y este les hubiera recitado sus aleyas, tampoco habrían creído en él[721].",
-    "footnotes": "[721]  Los idólatras de La Meca se negaron a creer en el profeta Muhammad —que Al-lah lo bendiga y le dé la paz— argumentando que Al-lah no podía haber encomendado Su mensaje a un hombre como ellos. Mas si Al-lah les hubiese enviado un profeta que hablase una lengua extranjera, habrían tenido más razones para desmentirlo, pues entonces no habrían comprendido el mensaje."
-  }
+  "id": 199,
+  "verse_number": 199,
+  "page_number": 375,
+  "verse_key": "26:199",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَقَرَأَهُۥ عَلَيۡهِم مَّا كَانُواْ بِهِۦ مُؤۡمِنِينَ",
+  "translation": "199. y este les hubiera recitado sus aleyas, tampoco habrían creído en él[721].",
+  "footnotes": "[721]  Los idólatras de La Meca se negaron a creer en el profeta Muhammad —que Al-lah lo bendiga y le dé la paz— argumentando que Al-lah no podía haber encomendado Su mensaje a un hombre como ellos. Mas si Al-lah les hubiese enviado un profeta que hablase una lengua extranjera, habrían tenido más razones para desmentirlo, pues entonces no habrían comprendido el mensaje."
 }

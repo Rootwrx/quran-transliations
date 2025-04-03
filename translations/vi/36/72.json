@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3777",
-    "sura": "36",
-    "aya": "72",
-    "arabic_text": "وَذَلَّلۡنَٰهَا لَهُمۡ فَمِنۡهَا رَكُوبُهُمۡ وَمِنۡهَا يَأۡكُلُونَ",
-    "translation": "TA đã bắt các loài gia súc phục tùng họ; bởi thế, một số loài họ dùng để cưỡi và một số khác họ ăn thịt.",
-    "footnotes": ""
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 445,
+  "verse_key": "36:72",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَذَلَّلۡنَٰهَا لَهُمۡ فَمِنۡهَا رَكُوبُهُمۡ وَمِنۡهَا يَأۡكُلُونَ",
+  "translation": "TA đã bắt các loài gia súc phục tùng họ; bởi thế, một số loài họ dùng để cưỡi và một số khác họ ăn thịt.",
+  "footnotes": ""
 }

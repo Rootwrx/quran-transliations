@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1356",
-    "sura": "9",
-    "aya": "121",
-    "arabic_text": "وَلَا يُنفِقُونَ نَفَقَةٗ صَغِيرَةٗ وَلَا كَبِيرَةٗ وَلَا يَقۡطَعُونَ وَادِيًا إِلَّا كُتِبَ لَهُمۡ لِيَجۡزِيَهُمُ ٱللَّهُ أَحۡسَنَ مَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "I neće dati nikakav prilog, ni mali ni veliki, niti će ikakvu dolinu prevaliti, a da im to neće zapisano biti, da bi ih Allah nagradio za ono dobro što su radili. ",
-    "footnotes": ""
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 206,
+  "verse_key": "9:121",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 82,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يُنفِقُونَ نَفَقَةٗ صَغِيرَةٗ وَلَا كَبِيرَةٗ وَلَا يَقۡطَعُونَ وَادِيًا إِلَّا كُتِبَ لَهُمۡ لِيَجۡزِيَهُمُ ٱللَّهُ أَحۡسَنَ مَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "I neće dati nikakav prilog, ni mali ni veliki, niti će ikakvu dolinu prevaliti, a da im to neće zapisano biti, da bi ih Allah nagradio za ono dobro što su radili. ",
+  "footnotes": ""
 }

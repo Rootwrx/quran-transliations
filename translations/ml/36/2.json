@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3707",
-    "sura": "36",
-    "aya": "2",
-    "arabic_text": "وَٱلۡقُرۡءَانِ ٱلۡحَكِيمِ",
-    "translation": "തത്വസമ്പൂര്‍ണമായ ഖുര്‍ആന്‍ തന്നെയാണ സത്യം;",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 440,
+  "verse_key": "36:2",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡقُرۡءَانِ ٱلۡحَكِيمِ",
+  "translation": "തത്വസമ്പൂര്‍ണമായ ഖുര്‍ആന്‍ തന്നെയാണ സത്യം;",
+  "footnotes": ""
 }

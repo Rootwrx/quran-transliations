@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5844",
-    "sura": "82",
-    "aya": "15",
-    "arabic_text": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
-    "translation": "(அந்த பாவிகள்,) கூலி (வழங்கப்படும்) நாளில் அ(ந்த நரகத்)தில் எரிவார்கள்.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 587,
+  "verse_key": "82:15",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَصۡلَوۡنَهَا يَوۡمَ ٱلدِّينِ",
+  "translation": "(அந்த பாவிகள்,) கூலி (வழங்கப்படும்) நாளில் அ(ந்த நரகத்)தில் எரிவார்கள்.",
+  "footnotes": ""
 }

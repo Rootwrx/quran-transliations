@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "389",
-    "sura": "3",
-    "aya": "96",
-    "arabic_text": "إِنَّ أَوَّلَ بَيۡتٖ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكٗا وَهُدٗى لِّلۡعَٰلَمِينَ",
-    "translation": "Kuma lalle ne, ¦aki na farko* da aka aza dõmin mutãne, haƙĩƙa, shi ne wanda ke Bakka** mai albarka kuma shiriya ga tãlikai.",
-    "footnotes": "* Ɗãkunan Allah a cikin ƙasa dõmin mutãne su yi ibãda zuwa gare su biyu ne; Ka'aba a Makka da Baitil Muƙaddas. An gina Ka'aba a gabaninsa da shekara arba'in. Dãkin Bakka kuwa Ibrãhĩma ne ya gina shi alhãli Yahũdu da Nasãra sunã cewa kan addininsa suke. Dã sunã faɗar gaskiya dã sun kõma a gare shi gabã ɗaya. ** Ana ce wa Makka Bakka."
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 62,
+  "verse_key": "3:96",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ أَوَّلَ بَيۡتٖ وُضِعَ لِلنَّاسِ لَلَّذِي بِبَكَّةَ مُبَارَكٗا وَهُدٗى لِّلۡعَٰلَمِينَ",
+  "translation": "Kuma lalle ne, ¦aki na farko* da aka aza dõmin mutãne, haƙĩƙa, shi ne wanda ke Bakka** mai albarka kuma shiriya ga tãlikai.",
+  "footnotes": "* Ɗãkunan Allah a cikin ƙasa dõmin mutãne su yi ibãda zuwa gare su biyu ne; Ka'aba a Makka da Baitil Muƙaddas. An gina Ka'aba a gabaninsa da shekara arba'in. Dãkin Bakka kuwa Ibrãhĩma ne ya gina shi alhãli Yahũdu da Nasãra sunã cewa kan addininsa suke. Dã sunã faɗar gaskiya dã sun kõma a gare shi gabã ɗaya. ** Ana ce wa Makka Bakka."
 }

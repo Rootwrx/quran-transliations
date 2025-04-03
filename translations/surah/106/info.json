@@ -1,0 +1,27 @@
+{
+  "number": 106,
+  "name": {
+    "ar": "قريش",
+    "en": "Quraysh",
+    "transliteration": "Quraysh"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 29,
+  "bismillah_pre": true,
+  "verses_count": 4,
+  "words_count": 17,
+  "letters_count": 73,
+  "pages": [
+    602,
+    602
+  ],
+  "name_simple": "Quraysh",
+  "name_complex": "Quraysh",
+  "name_arabic": "قريش",
+  "translated_name": "Quraysh",
+  "start_page": 602,
+  "end_page": 602
+}

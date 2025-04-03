@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4070",
-    "sura": "39",
-    "aya": "12",
-    "arabic_text": "وَأُمِرۡتُ لِأَنۡ أَكُونَ أَوَّلَ ٱلۡمُسۡلِمِينَ",
-    "translation": "Na nimeamrishwa niwe wa mwanzo wa Waislamu.",
-    "footnotes": "Na nimeamrishwa amri iliyo tokana naye Mtukufu, amri ya nguvu, ya kwamba niwe wa mwanzo wa kufuata amri zake."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 460,
+  "verse_key": "39:12",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأُمِرۡتُ لِأَنۡ أَكُونَ أَوَّلَ ٱلۡمُسۡلِمِينَ",
+  "translation": "Na nimeamrishwa niwe wa mwanzo wa Waislamu.",
+  "footnotes": "Na nimeamrishwa amri iliyo tokana naye Mtukufu, amri ya nguvu, ya kwamba niwe wa mwanzo wa kufuata amri zake."
 }

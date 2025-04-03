@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2651",
-    "sura": "22",
-    "aya": "56",
-    "arabic_text": "ٱلۡمُلۡكُ يَوۡمَئِذٖ لِّلَّهِ يَحۡكُمُ بَيۡنَهُمۡۚ فَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فِي جَنَّٰتِ ٱلنَّعِيمِ",
-    "translation": "(56) [All] sovereignty that Day is for Allāh;[936] He will judge between them. So they who believed and did righteous deeds will be in the Gardens of Pleasure.",
-    "footnotes": "[936]- None will compete with Him for authority at that time."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 339,
+  "verse_key": "22:56",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡمُلۡكُ يَوۡمَئِذٖ لِّلَّهِ يَحۡكُمُ بَيۡنَهُمۡۚ فَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فِي جَنَّٰتِ ٱلنَّعِيمِ",
+  "translation": "(56) [All] sovereignty that Day is for Allāh;[936] He will judge between them. So they who believed and did righteous deeds will be in the Gardens of Pleasure.",
+  "footnotes": "[936]- None will compete with Him for authority at that time."
 }

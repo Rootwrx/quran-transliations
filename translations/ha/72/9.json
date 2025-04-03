@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5456",
-    "sura": "72",
-    "aya": "9",
-    "arabic_text": "وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَٰعِدَ لِلسَّمۡعِۖ فَمَن يَسۡتَمِعِ ٱلۡأٓنَ يَجِدۡ لَهُۥ شِهَابٗا رَّصَدٗا",
-    "translation": "\"Kuma lalle ne mũ, mun kasance muna zama daga garẽta, a wurãren zama dõmin saurare. To wanda ya yi saurãre a yanzu, zai sãmi yũla, mai dãko dõminsa.\"",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 572,
+  "verse_key": "72:9",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَٰعِدَ لِلسَّمۡعِۖ فَمَن يَسۡتَمِعِ ٱلۡأٓنَ يَجِدۡ لَهُۥ شِهَابٗا رَّصَدٗا",
+  "translation": "\"Kuma lalle ne mũ, mun kasance muna zama daga garẽta, a wurãren zama dõmin saurare. To wanda ya yi saurãre a yanzu, zai sãmi yũla, mai dãko dõminsa.\"",
+  "footnotes": ""
 }

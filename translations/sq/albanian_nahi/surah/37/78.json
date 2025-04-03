@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3866",
-    "sura": "37",
-    "aya": "78",
-    "arabic_text": "وَتَرَكۡنَا عَلَيۡهِ فِي ٱلۡأٓخِرِينَ",
-    "translation": "dhe e lamë atë kujtim te brezat e tjerë.",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 449,
+  "verse_key": "37:78",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَرَكۡنَا عَلَيۡهِ فِي ٱلۡأٓخِرِينَ",
+  "translation": "dhe e lamë atë kujtim te brezat e tjerë.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "251",
-    "sura": "2",
-    "aya": "244",
-    "arabic_text": "وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
-    "translation": "I borite se na Allahovu putu i znajte da je Allah Onaj Koji sve čuje i Onaj Koji sve zna.",
-    "footnotes": ""
-  }
+  "id": 244,
+  "verse_number": 244,
+  "page_number": 39,
+  "verse_key": "2:244",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 16,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَٰتِلُواْ فِي سَبِيلِ ٱللَّهِ وَٱعۡلَمُوٓاْ أَنَّ ٱللَّهَ سَمِيعٌ عَلِيمٞ",
+  "translation": "I borite se na Allahovu putu i znajte da je Allah Onaj Koji sve čuje i Onaj Koji sve zna.",
+  "footnotes": ""
 }

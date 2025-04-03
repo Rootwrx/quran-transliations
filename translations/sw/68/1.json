@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5272",
-    "sura": "68",
-    "aya": "1",
-    "arabic_text": "نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ",
-    "translation": "Nuun. Naapa kwa kalamu na yale wayaandikayo!",
-    "footnotes": "Nuun, ndio harufi ya N, iliyo anzia Sura hii ni kama kupinzana na hao wanao kadhibisha, na ili kuwazindua wenye kusadiki. Naapa kwa kalamu wanayo andikia Malaika na wenginewe, na hayo mambo ya kheri na manufaa wanayo yaandika,"
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 564,
+  "verse_key": "68:1",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نٓۚ وَٱلۡقَلَمِ وَمَا يَسۡطُرُونَ",
+  "translation": "Nuun. Naapa kwa kalamu na yale wayaandikayo!",
+  "footnotes": "Nuun, ndio harufi ya N, iliyo anzia Sura hii ni kama kupinzana na hao wanao kadhibisha, na ili kuwazindua wenye kusadiki. Naapa kwa kalamu wanayo andikia Malaika na wenginewe, na hayo mambo ya kheri na manufaa wanayo yaandika,"
 }

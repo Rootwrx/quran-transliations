@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1135",
-    "sura": "7",
-    "aya": "181",
-    "arabic_text": "وَمِمَّنۡ خَلَقۡنَآ أُمَّةٞ يَهۡدُونَ بِٱلۡحَقِّ وَبِهِۦ يَعۡدِلُونَ",
-    "translation": "181. En van degenen die Wij geschapen hebben is er een gemeenschap die (anderen) leidt in de waarheid en daartussen rechtvaardigheid betracht.",
-    "footnotes": ""
-  }
+  "id": 181,
+  "verse_number": 181,
+  "page_number": 174,
+  "verse_key": "7:181",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 69,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِمَّنۡ خَلَقۡنَآ أُمَّةٞ يَهۡدُونَ بِٱلۡحَقِّ وَبِهِۦ يَعۡدِلُونَ",
+  "translation": "181. En van degenen die Wij geschapen hebben is er een gemeenschap die (anderen) leidt in de waarheid en daartussen rechtvaardigheid betracht.",
+  "footnotes": ""
 }

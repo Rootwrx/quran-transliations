@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4854",
-    "sura": "54",
-    "aya": "8",
-    "arabic_text": "مُّهۡطِعِينَ إِلَى ٱلدَّاعِۖ يَقُولُ ٱلۡكَٰفِرُونَ هَٰذَا يَوۡمٌ عَسِرٞ",
-    "translation": "Kafirlər carçıya tərəf tələsərək: “Bu nə çətin bir gündür!”– deyəcəklər.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 529,
+  "verse_key": "54:8",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مُّهۡطِعِينَ إِلَى ٱلدَّاعِۖ يَقُولُ ٱلۡكَٰفِرُونَ هَٰذَا يَوۡمٌ عَسِرٞ",
+  "translation": "Kafirlər carçıya tərəf tələsərək: “Bu nə çətin bir gündür!”– deyəcəklər.",
+  "footnotes": ""
 }

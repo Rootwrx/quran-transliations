@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3912",
-    "sura": "37",
-    "aya": "124",
-    "arabic_text": "إِذۡ قَالَ لِقَوۡمِهِۦٓ أَلَا تَتَّقُونَ",
-    "translation": "जब उसने अपनी जाति से कहा : क्या तुम डरते नहीं?",
-    "footnotes": ""
-  }
+  "id": 124,
+  "verse_number": 124,
+  "page_number": 450,
+  "verse_key": "37:124",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ قَالَ لِقَوۡمِهِۦٓ أَلَا تَتَّقُونَ",
+  "translation": "जब उसने अपनी जाति से कहा : क्या तुम डरते नहीं?",
+  "footnotes": ""
 }

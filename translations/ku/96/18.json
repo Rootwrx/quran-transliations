@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6124",
-    "sura": "96",
-    "aya": "18",
-    "arabic_text": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
-    "translation": " ئێمەش بانگی فریشتەی زەبر بە دەست دەکەین\n",
-    "footnotes": null
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 597,
+  "verse_key": "96:18",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَنَدۡعُ ٱلزَّبَانِيَةَ",
+  "translation": " ئێمەش بانگی فریشتەی زەبر بە دەست دەکەین\n",
+  "footnotes": null
 }

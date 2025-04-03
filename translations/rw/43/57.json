@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4382",
-    "sura": "43",
-    "aya": "57",
-    "arabic_text": "۞ وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡيَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ يَصِدُّونَ",
-    "translation": "Kandi ubwo hatangwaga urugero kuri mwene Mariyamu (Issa),[1] icyo gihe abantu bawe (ababangikanyamana b’i Maka, yewe Muhamadi) bararwishimiye cyane (barukwena.)",
-    "footnotes": "[1] Urugero ruvugwa aha ni igihe uyu murongo wahishurwaga ugira uti: “Mu by’ukuri mwe (abahakanyi) hamwe n’ibyo mugaragira bitari Allah, muzaba ibicanwa by’umuriro wa Jahanamu; kandi mwese muzawinjiramo.” Surat Al Anbiya-u: 98. Uyu murongo wahishuwe usubiza amagambo Ibun Zibaara yavuze agira ati “Niba amagambo Muhamadi avuga y’uko twe n’ibyo tugaragira tuzajya mu muriro, ubwo n’abamalayika bazawujyamo kuko na bo tubasenga, na Uzayiru awujyemo kuko Abayahudi bamusenga, ndetse na Yesu awujyemo kuko Abanaswara bamusenga.”"
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 493,
+  "verse_key": "43:57",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡيَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ يَصِدُّونَ",
+  "translation": "Kandi ubwo hatangwaga urugero kuri mwene Mariyamu (Issa),[1] icyo gihe abantu bawe (ababangikanyamana b’i Maka, yewe Muhamadi) bararwishimiye cyane (barukwena.)",
+  "footnotes": "[1] Urugero ruvugwa aha ni igihe uyu murongo wahishurwaga ugira uti: “Mu by’ukuri mwe (abahakanyi) hamwe n’ibyo mugaragira bitari Allah, muzaba ibicanwa by’umuriro wa Jahanamu; kandi mwese muzawinjiramo.” Surat Al Anbiya-u: 98. Uyu murongo wahishuwe usubiza amagambo Ibun Zibaara yavuze agira ati “Niba amagambo Muhamadi avuga y’uko twe n’ibyo tugaragira tuzajya mu muriro, ubwo n’abamalayika bazawujyamo kuko na bo tubasenga, na Uzayiru awujyemo kuko Abayahudi bamusenga, ndetse na Yesu awujyemo kuko Abanaswara bamusenga.”"
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4336",
-    "sura": "43",
-    "aya": "11",
-    "arabic_text": "وَٱلَّذِي نَزَّلَ مِنَ ٱلسَّمَآءِ مَآءَۢ بِقَدَرٖ فَأَنشَرۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ تُخۡرَجُونَ",
-    "translation": "Ẹni tí Ó ń sọ omi kalẹ̀ láti sánmọ̀ níwọ̀n-níwọ̀n. Ó sì ń fi sọ òkú ilẹ̀ di àyè ilẹ̀. Báyẹn náà ni wọn yóò ṣe mu yín jáde.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 490,
+  "verse_key": "43:11",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 196,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِي نَزَّلَ مِنَ ٱلسَّمَآءِ مَآءَۢ بِقَدَرٖ فَأَنشَرۡنَا بِهِۦ بَلۡدَةٗ مَّيۡتٗاۚ كَذَٰلِكَ تُخۡرَجُونَ",
+  "translation": "Ẹni tí Ó ń sọ omi kalẹ̀ láti sánmọ̀ níwọ̀n-níwọ̀n. Ó sì ń fi sọ òkú ilẹ̀ di àyè ilẹ̀. Báyẹn náà ni wọn yóò ṣe mu yín jáde.",
+  "footnotes": ""
 }

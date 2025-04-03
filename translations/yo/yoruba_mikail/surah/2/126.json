@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "133",
-    "sura": "2",
-    "aya": "126",
-    "arabic_text": "وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ ٱجۡعَلۡ هَٰذَا بَلَدًا ءَامِنٗا وَٱرۡزُقۡ أَهۡلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنۡ ءَامَنَ مِنۡهُم بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلٗا ثُمَّ أَضۡطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِۖ وَبِئۡسَ ٱلۡمَصِيرُ",
-    "translation": "(Ẹ rántí) nígbà tí (Ànábì) ’Ibrọ̄hīm sọ pé: “Olúwa mi, ṣe ìlú yìí ní ìlú ìfàyàbalẹ̀. Kí O sì pèsè àwọn èso fún àwọn ará ibẹ̀ (ìyẹn) ẹnikẹ́ni nínú wọn tí ó bá ní ìgbàgbọ́ òdodo nínú Allāhu àti Ọjọ́ Ìkẹ́yìn.” (Allāhu) sọ pé: “Àti ẹni tí ó bá ṣàì gbàgbọ́, Èmi yóò fún un ní ìgbádùn díẹ̀. Lẹ́yìn náà, Mo máa taari rẹ̀ sínú ìyà Iná. Ìkángun náà sì burú.”",
-    "footnotes": ""
-  }
+  "id": 126,
+  "verse_number": 126,
+  "page_number": 19,
+  "verse_key": "2:126",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ قَالَ إِبۡرَٰهِـۧمُ رَبِّ ٱجۡعَلۡ هَٰذَا بَلَدًا ءَامِنٗا وَٱرۡزُقۡ أَهۡلَهُۥ مِنَ ٱلثَّمَرَٰتِ مَنۡ ءَامَنَ مِنۡهُم بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ قَالَ وَمَن كَفَرَ فَأُمَتِّعُهُۥ قَلِيلٗا ثُمَّ أَضۡطَرُّهُۥٓ إِلَىٰ عَذَابِ ٱلنَّارِۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+  "translation": "(Ẹ rántí) nígbà tí (Ànábì) ’Ibrọ̄hīm sọ pé: “Olúwa mi, ṣe ìlú yìí ní ìlú ìfàyàbalẹ̀. Kí O sì pèsè àwọn èso fún àwọn ará ibẹ̀ (ìyẹn) ẹnikẹ́ni nínú wọn tí ó bá ní ìgbàgbọ́ òdodo nínú Allāhu àti Ọjọ́ Ìkẹ́yìn.” (Allāhu) sọ pé: “Àti ẹni tí ó bá ṣàì gbàgbọ́, Èmi yóò fún un ní ìgbádùn díẹ̀. Lẹ́yìn náà, Mo máa taari rẹ̀ sínú ìyà Iná. Ìkángun náà sì burú.”",
+  "footnotes": ""
 }

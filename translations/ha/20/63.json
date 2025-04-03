@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2411",
-    "sura": "20",
-    "aya": "63",
-    "arabic_text": "قَالُوٓاْ إِنۡ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخۡرِجَاكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِمَا وَيَذۡهَبَا بِطَرِيقَتِكُمُ ٱلۡمُثۡلَىٰ",
-    "translation": "Suka ce: \"Lalle ne waɗannan biyun, haƙĩƙa masihirta ne sunã nufin su fitar da ku daga ƙasarku* game da sihirinsu kuma su tafi da tabĩ'arku mafĩficiya.\"",
-    "footnotes": "* Ya fara da siyãsa dõmin ya karkatar da hankalin mutãne daga ãyõyin Allah. Cewarsa yãyi nufin ya fitar da ku daga ƙasarku, shĩ ne siyãsa dõmin idan mutãne suka ji maganar fitarwa daga ƙasa, sai su manta da kõwace irin magana tawani alheri."
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 315,
+  "verse_key": "20:63",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ إِنۡ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخۡرِجَاكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِمَا وَيَذۡهَبَا بِطَرِيقَتِكُمُ ٱلۡمُثۡلَىٰ",
+  "translation": "Suka ce: \"Lalle ne waɗannan biyun, haƙĩƙa masihirta ne sunã nufin su fitar da ku daga ƙasarku* game da sihirinsu kuma su tafi da tabĩ'arku mafĩficiya.\"",
+  "footnotes": "* Ya fara da siyãsa dõmin ya karkatar da hankalin mutãne daga ãyõyin Allah. Cewarsa yãyi nufin ya fitar da ku daga ƙasarku, shĩ ne siyãsa dõmin idan mutãne suka ji maganar fitarwa daga ƙasa, sai su manta da kõwace irin magana tawani alheri."
 }

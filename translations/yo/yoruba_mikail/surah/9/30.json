@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1265",
-    "sura": "9",
-    "aya": "30",
-    "arabic_text": "وَقَالَتِ ٱلۡيَهُودُ عُزَيۡرٌ ٱبۡنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلۡمَسِيحُ ٱبۡنُ ٱللَّهِۖ ذَٰلِكَ قَوۡلُهُم بِأَفۡوَٰهِهِمۡۖ يُضَٰهِـُٔونَ قَوۡلَ ٱلَّذِينَ كَفَرُواْ مِن قَبۡلُۚ قَٰتَلَهُمُ ٱللَّهُۖ أَنَّىٰ يُؤۡفَكُونَ",
-    "translation": "Àwọn yẹhudi wí pé: “‘Uzaer ni ọmọ Allāhu.” Àwọn nasọ̄rọ̄ sì wí pé: “Mọsīh ni ọmọ Allāhu.” Ìyẹn ni ọ̀rọ̀ wọn ní ẹnu wọn. Wọ́n ń fi jọ ọ̀rọ̀ àwọn tó ṣàì gbàgbọ́ ṣíwájú (wọn). Allāhu fi wọ́n gégùn-ún. Báwo ni wọ́n ṣe ń ṣẹ́rí wọn kúrò níbi òdodo!",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 191,
+  "verse_key": "9:30",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَتِ ٱلۡيَهُودُ عُزَيۡرٌ ٱبۡنُ ٱللَّهِ وَقَالَتِ ٱلنَّصَٰرَى ٱلۡمَسِيحُ ٱبۡنُ ٱللَّهِۖ ذَٰلِكَ قَوۡلُهُم بِأَفۡوَٰهِهِمۡۖ يُضَٰهِـُٔونَ قَوۡلَ ٱلَّذِينَ كَفَرُواْ مِن قَبۡلُۚ قَٰتَلَهُمُ ٱللَّهُۖ أَنَّىٰ يُؤۡفَكُونَ",
+  "translation": "Àwọn yẹhudi wí pé: “‘Uzaer ni ọmọ Allāhu.” Àwọn nasọ̄rọ̄ sì wí pé: “Mọsīh ni ọmọ Allāhu.” Ìyẹn ni ọ̀rọ̀ wọn ní ẹnu wọn. Wọ́n ń fi jọ ọ̀rọ̀ àwọn tó ṣàì gbàgbọ́ ṣíwájú (wọn). Allāhu fi wọ́n gégùn-ún. Báwo ni wọ́n ṣe ń ṣẹ́rí wọn kúrò níbi òdodo!",
+  "footnotes": ""
 }

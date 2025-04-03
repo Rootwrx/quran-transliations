@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5471",
-    "sura": "72",
-    "aya": "24",
-    "arabic_text": "حَتَّىٰٓ إِذَا رَأَوۡاْ مَا يُوعَدُونَ فَسَيَعۡلَمُونَ مَنۡ أَضۡعَفُ نَاصِرٗا وَأَقَلُّ عَدَدٗا",
-    "translation": "Hata watakapo yaona wanayo ahidiwa, ndipo watakapo jua ni nani mwenye msaidizi dhaifu, na mchache wa idadi.",
-    "footnotes": "Hata watakapo iona adhabu waliyo ahidiwaa, hapo basi watajua wakati itapo shuka, nani mwenye msaidizi dhaifu asiye na nguvu, na yupi mchache wa idadi. Ni wao au Waumini?"
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 573,
+  "verse_key": "72:24",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا رَأَوۡاْ مَا يُوعَدُونَ فَسَيَعۡلَمُونَ مَنۡ أَضۡعَفُ نَاصِرٗا وَأَقَلُّ عَدَدٗا",
+  "translation": "Hata watakapo yaona wanayo ahidiwa, ndipo watakapo jua ni nani mwenye msaidizi dhaifu, na mchache wa idadi.",
+  "footnotes": "Hata watakapo iona adhabu waliyo ahidiwaa, hapo basi watajua wakati itapo shuka, nani mwenye msaidizi dhaifu asiye na nguvu, na yupi mchache wa idadi. Ni wao au Waumini?"
 }

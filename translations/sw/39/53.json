@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4111",
-    "sura": "39",
-    "aya": "53",
-    "arabic_text": "۞ قُلۡ يَٰعِبَادِيَ ٱلَّذِينَ أَسۡرَفُواْ عَلَىٰٓ أَنفُسِهِمۡ لَا تَقۡنَطُواْ مِن رَّحۡمَةِ ٱللَّهِۚ إِنَّ ٱللَّهَ يَغۡفِرُ ٱلذُّنُوبَ جَمِيعًاۚ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ",
-    "translation": "Sema: Enyi waja wangu walio jidhulumu nafsi zao! Msikate tamaa na rehema ya Mwenyezi Mungu. Hakika Mwenyezi Mungu husamehe dhambi zote. Hakika Yeye ni Mwenye kusamehe, Mwenye kurehemu.",
-    "footnotes": "Ewe Muhammad! Sema kwa kufikisha kutokana na Mola wako Mlezi: Enyi waja wangu walio jizidishia juu ya nafsi zao maasi, msikate tamaa na rehema ya Mwenyezi Mungu. Hakika Mwenyezi Mungu huyafuta madhambi yote. Hakika Yeye, peke yake, ndiye Mkuu katika kusamehe kwake na kurehemu kwake."
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 464,
+  "verse_key": "39:53",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ قُلۡ يَٰعِبَادِيَ ٱلَّذِينَ أَسۡرَفُواْ عَلَىٰٓ أَنفُسِهِمۡ لَا تَقۡنَطُواْ مِن رَّحۡمَةِ ٱللَّهِۚ إِنَّ ٱللَّهَ يَغۡفِرُ ٱلذُّنُوبَ جَمِيعًاۚ إِنَّهُۥ هُوَ ٱلۡغَفُورُ ٱلرَّحِيمُ",
+  "translation": "Sema: Enyi waja wangu walio jidhulumu nafsi zao! Msikate tamaa na rehema ya Mwenyezi Mungu. Hakika Mwenyezi Mungu husamehe dhambi zote. Hakika Yeye ni Mwenye kusamehe, Mwenye kurehemu.",
+  "footnotes": "Ewe Muhammad! Sema kwa kufikisha kutokana na Mola wako Mlezi: Enyi waja wangu walio jizidishia juu ya nafsi zao maasi, msikate tamaa na rehema ya Mwenyezi Mungu. Hakika Mwenyezi Mungu huyafuta madhambi yote. Hakika Yeye, peke yake, ndiye Mkuu katika kusamehe kwake na kurehemu kwake."
 }

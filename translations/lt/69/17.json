@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5340",
-    "sura": "69",
-    "aya": "17",
-    "arabic_text": "وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ يَوۡمَئِذٖ ثَمَٰنِيَةٞ",
-    "translation": "17. Ir angelai yra jo kraštuose, ir aštuoni (iš jų) Tą Dieną laikys virš savęs tavojo Viešpaties Sostą.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 567,
+  "verse_key": "69:17",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلۡمَلَكُ عَلَىٰٓ أَرۡجَآئِهَاۚ وَيَحۡمِلُ عَرۡشَ رَبِّكَ فَوۡقَهُمۡ يَوۡمَئِذٖ ثَمَٰنِيَةٞ",
+  "translation": "17. Ir angelai yra jo kraštuose, ir aštuoni (iš jų) Tą Dieną laikys virš savęs tavojo Viešpaties Sostą.",
+  "footnotes": ""
 }

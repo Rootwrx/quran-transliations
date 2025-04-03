@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5407",
-    "sura": "70",
-    "aya": "32",
-    "arabic_text": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ",
-    "translation": "また、自らの信託と契約を厳守する[1]者たち。",
-    "footnotes": "[1]　同様のアーヤ*である、信仰者たち章８の訳注も参照。"
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 569,
+  "verse_key": "70:32",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ",
+  "translation": "また、自らの信託と契約を厳守する[1]者たち。",
+  "footnotes": "[1]　同様のアーヤ*である、信仰者たち章８の訳注も参照。"
 }

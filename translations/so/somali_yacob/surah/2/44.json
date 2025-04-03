@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "51",
-    "sura": "2",
-    "aya": "44",
-    "arabic_text": "۞ أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَٰبَۚ أَفَلَا تَعۡقِلُونَ",
-    "translation": "44. Ma waxaad amraysaan samaan dadka oo hilmaameysaan nafahiinna9 idinkoo akhriya Kitaabka? Miyeydaan wax fahmin?",
-    "footnotes": "9. Nabigu s.c.w. wuxuu yidhi: “Waxaa Maalinta Qiyaame la keeni nin oo lagu tuuri Naarta, markaasuu wuxuu ku dhex wareegaaleysan ehlu Naarka sida dameerka ugu wareegsado shiidkiisa, markaasay isugu soo ururi ehlu Naarka oo weydiin: Hebelow, ma waadan fari jirin samaanta oo reebi jirin xumaanta, markaasuu wuxuu odhan: Waxaan fari jirey samaanta mana fali jirin oo reebi jirey xumaanta anigaana fali jirey.”"
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 7,
+  "verse_key": "2:44",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ أَتَأۡمُرُونَ ٱلنَّاسَ بِٱلۡبِرِّ وَتَنسَوۡنَ أَنفُسَكُمۡ وَأَنتُمۡ تَتۡلُونَ ٱلۡكِتَٰبَۚ أَفَلَا تَعۡقِلُونَ",
+  "translation": "44. Ma waxaad amraysaan samaan dadka oo hilmaameysaan nafahiinna9 idinkoo akhriya Kitaabka? Miyeydaan wax fahmin?",
+  "footnotes": "9. Nabigu s.c.w. wuxuu yidhi: “Waxaa Maalinta Qiyaame la keeni nin oo lagu tuuri Naarta, markaasuu wuxuu ku dhex wareegaaleysan ehlu Naarka sida dameerka ugu wareegsado shiidkiisa, markaasay isugu soo ururi ehlu Naarka oo weydiin: Hebelow, ma waadan fari jirin samaanta oo reebi jirin xumaanta, markaasuu wuxuu odhan: Waxaan fari jirey samaanta mana fali jirin oo reebi jirey xumaanta anigaana fali jirey.”"
 }

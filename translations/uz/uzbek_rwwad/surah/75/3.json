@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5554",
-    "sura": "75",
-    "aya": "3",
-    "arabic_text": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَلَّن نَّجۡمَعَ عِظَامَهُۥ",
-    "translation": "Инсон Бизни унинг суякларини ҳеч қачон тўплаёлмас, деб ўйлайдими?",
-    "footnotes": ""
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 577,
+  "verse_key": "75:3",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَيَحۡسَبُ ٱلۡإِنسَٰنُ أَلَّن نَّجۡمَعَ عِظَامَهُۥ",
+  "translation": "Инсон Бизни унинг суякларини ҳеч қачон тўплаёлмас, деб ўйлайдими?",
+  "footnotes": ""
 }

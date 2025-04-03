@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2318",
-    "sura": "19",
-    "aya": "68",
-    "arabic_text": "فَوَرَبِّكَ لَنَحۡشُرَنَّهُمۡ وَٱلشَّيَٰطِينَ ثُمَّ لَنُحۡضِرَنَّهُمۡ حَوۡلَ جَهَنَّمَ جِثِيّٗا",
-    "translation": "Enti (Nkͻmhyεni), mede wo Wura Nyankopͻn di nse sε: “Yε bεboa wͻn ne abonsamfoͻ no (nyinaa) ano, na Yεde wͻn abetwa Ogya no ho ahyia wͻ (wͻn) nkotodwe so.",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 310,
+  "verse_key": "19:68",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَرَبِّكَ لَنَحۡشُرَنَّهُمۡ وَٱلشَّيَٰطِينَ ثُمَّ لَنُحۡضِرَنَّهُمۡ حَوۡلَ جَهَنَّمَ جِثِيّٗا",
+  "translation": "Enti (Nkͻmhyεni), mede wo Wura Nyankopͻn di nse sε: “Yε bεboa wͻn ne abonsamfoͻ no (nyinaa) ano, na Yεde wͻn abetwa Ogya no ho ahyia wͻ (wͻn) nkotodwe so.",
+  "footnotes": ""
 }

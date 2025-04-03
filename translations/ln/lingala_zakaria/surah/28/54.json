@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3306",
-    "sura": "28",
-    "aya": "54",
-    "arabic_text": "أُوْلَٰٓئِكَ يُؤۡتَوۡنَ أَجۡرَهُم مَّرَّتَيۡنِ بِمَا صَبَرُواْ وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
-    "translation": "54. Bango nde bakozuaka lifuta lia bango mbala mibale тропа maye bakangaki motema na yango, mpe mpo bayanolaki malamu na esika ya mabe, mpe bazalaki kobimisa ndambo ya maye topesaki bango.",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 392,
+  "verse_key": "28:54",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 157,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ يُؤۡتَوۡنَ أَجۡرَهُم مَّرَّتَيۡنِ بِمَا صَبَرُواْ وَيَدۡرَءُونَ بِٱلۡحَسَنَةِ ٱلسَّيِّئَةَ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+  "translation": "54. Bango nde bakozuaka lifuta lia bango mbala mibale тропа maye bakangaki motema na yango, mpe mpo bayanolaki malamu na esika ya mabe, mpe bazalaki kobimisa ndambo ya maye topesaki bango.",
+  "footnotes": ""
 }

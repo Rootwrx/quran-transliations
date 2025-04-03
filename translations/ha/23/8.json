@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2681",
-    "sura": "23",
-    "aya": "8",
-    "arabic_text": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ",
-    "translation": "Kuma waɗanda suke, sũga amãnõninsu da alkawarinsu mãsu tsarẽwa ne.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 342,
+  "verse_key": "23:8",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ هُمۡ لِأَمَٰنَٰتِهِمۡ وَعَهۡدِهِمۡ رَٰعُونَ",
+  "translation": "Kuma waɗanda suke, sũga amãnõninsu da alkawarinsu mãsu tsarẽwa ne.",
+  "footnotes": ""
 }

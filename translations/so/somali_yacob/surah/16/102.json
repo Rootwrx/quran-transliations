@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2003",
-    "sura": "16",
-    "aya": "102",
-    "arabic_text": "قُلۡ نَزَّلَهُۥ رُوحُ ٱلۡقُدُسِ مِن رَّبِّكَ بِٱلۡحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُواْ وَهُدٗى وَبُشۡرَىٰ لِلۡمُسۡلِمِينَ",
-    "translation": "102. Dheh: Ruuxa Daahirka ah (Jabriil) baa kaga soo dejiyey xagga Rabbigaa si xaq ah, si uu ugu sugo kuwa (Xaqa) rumeysan, oo ugu ahaado hanuun iyo bishaaro Muslimiinta (u hoggaansan Rabbigood).",
-    "footnotes": ""
-  }
+  "id": 102,
+  "verse_number": 102,
+  "page_number": 278,
+  "verse_key": "16:102",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ نَزَّلَهُۥ رُوحُ ٱلۡقُدُسِ مِن رَّبِّكَ بِٱلۡحَقِّ لِيُثَبِّتَ ٱلَّذِينَ ءَامَنُواْ وَهُدٗى وَبُشۡرَىٰ لِلۡمُسۡلِمِينَ",
+  "translation": "102. Dheh: Ruuxa Daahirka ah (Jabriil) baa kaga soo dejiyey xagga Rabbigaa si xaq ah, si uu ugu sugo kuwa (Xaqa) rumeysan, oo ugu ahaado hanuun iyo bishaaro Muslimiinta (u hoggaansan Rabbigood).",
+  "footnotes": ""
 }

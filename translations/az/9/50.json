@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1285",
-    "sura": "9",
-    "aya": "50",
-    "arabic_text": "إِن تُصِبۡكَ حَسَنَةٞ تَسُؤۡهُمۡۖ وَإِن تُصِبۡكَ مُصِيبَةٞ يَقُولُواْ قَدۡ أَخَذۡنَآ أَمۡرَنَا مِن قَبۡلُ وَيَتَوَلَّواْ وَّهُمۡ فَرِحُونَ",
-    "translation": "Sənə bir uğur (qənimət, zəfər) nəsib olsa, (bu) onları kədərləndirər. Sənə bir müsibət (Allah yolunda yaralanmaq və ya ölmək) üz versə: “Biz ehtiyat tədbirimizi əvvəlcədən görmüşük!”– deyər və sevinə-sevinə dönüb gedərlər.",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 195,
+  "verse_key": "9:50",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 78,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن تُصِبۡكَ حَسَنَةٞ تَسُؤۡهُمۡۖ وَإِن تُصِبۡكَ مُصِيبَةٞ يَقُولُواْ قَدۡ أَخَذۡنَآ أَمۡرَنَا مِن قَبۡلُ وَيَتَوَلَّواْ وَّهُمۡ فَرِحُونَ",
+  "translation": "Sənə bir uğur (qənimət, zəfər) nəsib olsa, (bu) onları kədərləndirər. Sənə bir müsibət (Allah yolunda yaralanmaq və ya ölmək) üz versə: “Biz ehtiyat tədbirimizi əvvəlcədən görmüşük!”– deyər və sevinə-sevinə dönüb gedərlər.",
+  "footnotes": ""
 }

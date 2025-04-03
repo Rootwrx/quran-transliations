@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5055",
-    "sura": "56",
-    "aya": "76",
-    "arabic_text": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
-    "translation": "اور اگرتمہیں علم ہو تو یہ بہت بڑی قسم ہے.",
-    "footnotes": ""
-  }
+  "id": 76,
+  "verse_number": 76,
+  "page_number": 536,
+  "verse_key": "56:76",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّهُۥ لَقَسَمٞ لَّوۡ تَعۡلَمُونَ عَظِيمٌ",
+  "translation": "اور اگرتمہیں علم ہو تو یہ بہت بڑی قسم ہے.",
+  "footnotes": ""
 }

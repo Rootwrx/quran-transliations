@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2481",
-    "sura": "20",
-    "aya": "133",
-    "arabic_text": "وَقَالُواْ لَوۡلَا يَأۡتِينَا بِـَٔايَةٖ مِّن رَّبِّهِۦٓۚ أَوَلَمۡ تَأۡتِهِم بَيِّنَةُ مَا فِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
-    "translation": "Dan mereka berkata, \"Mengapa ia tidak membawa bukti kepada kami dari Tuhan-nya?\" Dan apakah belum datang kepada mereka bukti yang nyata dari apa yang tersebut di dalam kitab-kitab yang dahulu?",
-    "footnotes": ""
-  }
+  "id": 133,
+  "verse_number": 133,
+  "page_number": 321,
+  "verse_key": "20:133",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ لَوۡلَا يَأۡتِينَا بِـَٔايَةٖ مِّن رَّبِّهِۦٓۚ أَوَلَمۡ تَأۡتِهِم بَيِّنَةُ مَا فِي ٱلصُّحُفِ ٱلۡأُولَىٰ",
+  "translation": "Dan mereka berkata, \"Mengapa ia tidak membawa bukti kepada kami dari Tuhan-nya?\" Dan apakah belum datang kepada mereka bukti yang nyata dari apa yang tersebut di dalam kitab-kitab yang dahulu?",
+  "footnotes": ""
 }

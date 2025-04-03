@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2910",
-    "sura": "25",
-    "aya": "55",
-    "arabic_text": "وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمۡ وَلَا يَضُرُّهُمۡۗ وَكَانَ ٱلۡكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرٗا",
-    "translation": "Na wanayaabudu badala ya Mwenyezi Mungu yasiyo wafaa wala yasiyo wadhuru. Na kafiri daima ni msaidizi wa kumpinga Mola wake Mlezi.",
-    "footnotes": "Na baada ya Ishara hizi zenye kuonyesha kuwa Mwenyezi Mungu peke yake ndiye anaye stahiki kuabudiwa, na kwamba hapana mungu isipo kuwa Yeye, wanatoka kikundi cha watu kuabudu masanamu yasiyo wafaa wala kuwadhuru. Na hawa kwa kujua kwao haya wanamsaidia Shetani, na yeye anawapoteza. Basi hao inakuwa wanasaidiana katika kuipinga Haki ambayo Mwenyezi Mungu anawaitia."
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 364,
+  "verse_key": "25:55",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَعۡبُدُونَ مِن دُونِ ٱللَّهِ مَا لَا يَنفَعُهُمۡ وَلَا يَضُرُّهُمۡۗ وَكَانَ ٱلۡكَافِرُ عَلَىٰ رَبِّهِۦ ظَهِيرٗا",
+  "translation": "Na wanayaabudu badala ya Mwenyezi Mungu yasiyo wafaa wala yasiyo wadhuru. Na kafiri daima ni msaidizi wa kumpinga Mola wake Mlezi.",
+  "footnotes": "Na baada ya Ishara hizi zenye kuonyesha kuwa Mwenyezi Mungu peke yake ndiye anaye stahiki kuabudiwa, na kwamba hapana mungu isipo kuwa Yeye, wanatoka kikundi cha watu kuabudu masanamu yasiyo wafaa wala kuwadhuru. Na hawa kwa kujua kwao haya wanamsaidia Shetani, na yeye anawapoteza. Basi hao inakuwa wanasaidiana katika kuipinga Haki ambayo Mwenyezi Mungu anawaitia."
 }

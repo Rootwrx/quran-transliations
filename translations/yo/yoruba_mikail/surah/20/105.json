@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2453",
-    "sura": "20",
-    "aya": "105",
-    "arabic_text": "وَيَسۡـَٔلُونَكَ عَنِ ٱلۡجِبَالِ فَقُلۡ يَنسِفُهَا رَبِّي نَسۡفٗا",
-    "translation": "Wọ́n ń bi ọ́ léèrè nípa àwọn àpáta. Sọ pé: “Olúwa mi yóò kù wọ́n dànù pátápátá.",
-    "footnotes": ""
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 319,
+  "verse_key": "20:105",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَسۡـَٔلُونَكَ عَنِ ٱلۡجِبَالِ فَقُلۡ يَنسِفُهَا رَبِّي نَسۡفٗا",
+  "translation": "Wọ́n ń bi ọ́ léèrè nípa àwọn àpáta. Sọ pé: “Olúwa mi yóò kù wọ́n dànù pátápátá.",
+  "footnotes": ""
 }

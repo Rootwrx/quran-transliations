@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "702",
-    "sura": "5",
-    "aya": "33",
-    "arabic_text": "إِنَّمَا جَزَٰٓؤُاْ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسۡعَوۡنَ فِي ٱلۡأَرۡضِ فَسَادًا أَن يُقَتَّلُوٓاْ أَوۡ يُصَلَّبُوٓاْ أَوۡ تُقَطَّعَ أَيۡدِيهِمۡ وَأَرۡجُلُهُم مِّنۡ خِلَٰفٍ أَوۡ يُنفَوۡاْ مِنَ ٱلۡأَرۡضِۚ ذَٰلِكَ لَهُمۡ خِزۡيٞ فِي ٱلدُّنۡيَاۖ وَلَهُمۡ فِي ٱلۡأٓخِرَةِ عَذَابٌ عَظِيمٌ",
-    "translation": "Ni ukuri, indishi yagenewe abarwanya Imana Allah n’Intumwa yayo, mu kurenga ku mabwirizwa yayo n’inyigisho z’intumwa, bagaheza bakagenzwa n’ubwononyi kw’isi mu kwicira abantu ubusa, bakanabambura ivyabo, ni uko bokwicwa; canke bakabambwa hamwe no kwicwa; canke bagacibwa amaboko yabo y’iburyo n’amaguru yabo y’ibubamfu; basubira bagacibwa amaboko yabo y’ibubamfu n’amaguru yabo y’iburyo; canke bakomorerwa mu kindi gihugu kitari ic’amavukiro; canke bagatabwa mw’ibohero ryo muri ico gihugu bakoreyemwo icaha gushika bigaye. Iyo ndishi rero, ni co gihano cabo gisuzuguza kw’isi, baranategekanirijwe mu buzima bw’inyuma yo gupfa ibihano bihambaye;",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 113,
+  "verse_key": "5:33",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 45,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا جَزَٰٓؤُاْ ٱلَّذِينَ يُحَارِبُونَ ٱللَّهَ وَرَسُولَهُۥ وَيَسۡعَوۡنَ فِي ٱلۡأَرۡضِ فَسَادًا أَن يُقَتَّلُوٓاْ أَوۡ يُصَلَّبُوٓاْ أَوۡ تُقَطَّعَ أَيۡدِيهِمۡ وَأَرۡجُلُهُم مِّنۡ خِلَٰفٍ أَوۡ يُنفَوۡاْ مِنَ ٱلۡأَرۡضِۚ ذَٰلِكَ لَهُمۡ خِزۡيٞ فِي ٱلدُّنۡيَاۖ وَلَهُمۡ فِي ٱلۡأٓخِرَةِ عَذَابٌ عَظِيمٌ",
+  "translation": "Ni ukuri, indishi yagenewe abarwanya Imana Allah n’Intumwa yayo, mu kurenga ku mabwirizwa yayo n’inyigisho z’intumwa, bagaheza bakagenzwa n’ubwononyi kw’isi mu kwicira abantu ubusa, bakanabambura ivyabo, ni uko bokwicwa; canke bakabambwa hamwe no kwicwa; canke bagacibwa amaboko yabo y’iburyo n’amaguru yabo y’ibubamfu; basubira bagacibwa amaboko yabo y’ibubamfu n’amaguru yabo y’iburyo; canke bakomorerwa mu kindi gihugu kitari ic’amavukiro; canke bagatabwa mw’ibohero ryo muri ico gihugu bakoreyemwo icaha gushika bigaye. Iyo ndishi rero, ni co gihano cabo gisuzuguza kw’isi, baranategekanirijwe mu buzima bw’inyuma yo gupfa ibihano bihambaye;",
+  "footnotes": ""
 }

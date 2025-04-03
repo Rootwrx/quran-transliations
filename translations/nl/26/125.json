@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3057",
-    "sura": "26",
-    "aya": "125",
-    "arabic_text": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
-    "translation": "125. Waarlijk, ik ben een betrouwbare boodschapper voor jullie.",
-    "footnotes": ""
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 372,
+  "verse_key": "26:125",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنِّي لَكُمۡ رَسُولٌ أَمِينٞ",
+  "translation": "125. Waarlijk, ik ben een betrouwbare boodschapper voor jullie.",
+  "footnotes": ""
 }

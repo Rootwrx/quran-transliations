@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1278",
-    "sura": "9",
-    "aya": "43",
-    "arabic_text": "عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمۡ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُواْ وَتَعۡلَمَ ٱلۡكَٰذِبِينَ",
-    "translation": "Allah Ya yãfe maka laifi. Dõmin me ka yi musu izinin zama? Sai waɗanda suka yi gaskiya ssun bayyana a gare ka, kuma ka san maƙaryata.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 194,
+  "verse_key": "9:43",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَفَا ٱللَّهُ عَنكَ لِمَ أَذِنتَ لَهُمۡ حَتَّىٰ يَتَبَيَّنَ لَكَ ٱلَّذِينَ صَدَقُواْ وَتَعۡلَمَ ٱلۡكَٰذِبِينَ",
+  "translation": "Allah Ya yãfe maka laifi. Dõmin me ka yi musu izinin zama? Sai waɗanda suka yi gaskiya ssun bayyana a gare ka, kuma ka san maƙaryata.",
+  "footnotes": ""
 }

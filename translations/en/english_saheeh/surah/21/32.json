@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2515",
-    "sura": "21",
-    "aya": "32",
-    "arabic_text": "وَجَعَلۡنَا ٱلسَّمَآءَ سَقۡفٗا مَّحۡفُوظٗاۖ وَهُمۡ عَنۡ ءَايَٰتِهَا مُعۡرِضُونَ",
-    "translation": "(32) And We made the sky a protected ceiling, but they, from its signs,[884] are turning away.",
-    "footnotes": "[884]- The signs present in the heavens."
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 324,
+  "verse_key": "21:32",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلۡنَا ٱلسَّمَآءَ سَقۡفٗا مَّحۡفُوظٗاۖ وَهُمۡ عَنۡ ءَايَٰتِهَا مُعۡرِضُونَ",
+  "translation": "(32) And We made the sky a protected ceiling, but they, from its signs,[884] are turning away.",
+  "footnotes": "[884]- The signs present in the heavens."
 }

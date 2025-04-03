@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6020",
-    "sura": "89",
-    "aya": "27",
-    "arabic_text": "يَٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ",
-    "translation": "(27) [To the righteous it will be said], \"O reassured soul,",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 594,
+  "verse_key": "89:27",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيَّتُهَا ٱلنَّفۡسُ ٱلۡمُطۡمَئِنَّةُ",
+  "translation": "(27) [To the righteous it will be said], \"O reassured soul,",
+  "footnotes": ""
 }

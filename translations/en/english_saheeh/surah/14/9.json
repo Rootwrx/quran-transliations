@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1759",
-    "sura": "14",
-    "aya": "9",
-    "arabic_text": "أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ مِن قَبۡلِكُمۡ قَوۡمِ نُوحٖ وَعَادٖ وَثَمُودَ وَٱلَّذِينَ مِنۢ بَعۡدِهِمۡ لَا يَعۡلَمُهُمۡ إِلَّا ٱللَّهُۚ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَرَدُّوٓاْ أَيۡدِيَهُمۡ فِيٓ أَفۡوَٰهِهِمۡ وَقَالُوٓاْ إِنَّا كَفَرۡنَا بِمَآ أُرۡسِلۡتُم بِهِۦ وَإِنَّا لَفِي شَكّٖ مِّمَّا تَدۡعُونَنَآ إِلَيۡهِ مُرِيبٖ",
-    "translation": "(9) Has there not reached you the news of those before you - the people of Noah and ʿAad and Thamūd and those after them? No one knows them [i.e., their number] but Allāh. Their messengers brought them clear proofs, but they returned their hands to their mouths[651] and said, \"Indeed, we disbelieve in that with which you have been sent, and indeed we are, about that to which you invite us, in disquieting doubt.\"",
-    "footnotes": "[651]- Several explanations have been given as to the meaning.  Based upon the conclusion of the verse, Ibn Katheer preferred that this was a gesture of denial and rejection."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 256,
+  "verse_key": "14:9",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ مِن قَبۡلِكُمۡ قَوۡمِ نُوحٖ وَعَادٖ وَثَمُودَ وَٱلَّذِينَ مِنۢ بَعۡدِهِمۡ لَا يَعۡلَمُهُمۡ إِلَّا ٱللَّهُۚ جَآءَتۡهُمۡ رُسُلُهُم بِٱلۡبَيِّنَٰتِ فَرَدُّوٓاْ أَيۡدِيَهُمۡ فِيٓ أَفۡوَٰهِهِمۡ وَقَالُوٓاْ إِنَّا كَفَرۡنَا بِمَآ أُرۡسِلۡتُم بِهِۦ وَإِنَّا لَفِي شَكّٖ مِّمَّا تَدۡعُونَنَآ إِلَيۡهِ مُرِيبٖ",
+  "translation": "(9) Has there not reached you the news of those before you - the people of Noah and ʿAad and Thamūd and those after them? No one knows them [i.e., their number] but Allāh. Their messengers brought them clear proofs, but they returned their hands to their mouths[651] and said, \"Indeed, we disbelieve in that with which you have been sent, and indeed we are, about that to which you invite us, in disquieting doubt.\"",
+  "footnotes": "[651]- Several explanations have been given as to the meaning.  Based upon the conclusion of the verse, Ibn Katheer preferred that this was a gesture of denial and rejection."
 }

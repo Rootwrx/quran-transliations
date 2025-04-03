@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "398",
-    "sura": "3",
-    "aya": "105",
-    "arabic_text": "وَلَا تَكُونُواْ كَٱلَّذِينَ تَفَرَّقُواْ وَٱخۡتَلَفُواْ مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡبَيِّنَٰتُۚ وَأُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ عَظِيمٞ",
-    "translation": "Kendilerine apaçık deliller geldikten sonra ihtilafa düşerek parçalananlar gibi olmayın. Onlar için büyük bir azap vardır ",
-    "footnotes": null
-  }
+  "id": 105,
+  "verse_number": 105,
+  "page_number": 63,
+  "verse_key": "3:105",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 25,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَكُونُواْ كَٱلَّذِينَ تَفَرَّقُواْ وَٱخۡتَلَفُواْ مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡبَيِّنَٰتُۚ وَأُوْلَٰٓئِكَ لَهُمۡ عَذَابٌ عَظِيمٞ",
+  "translation": "Kendilerine apaçık deliller geldikten sonra ihtilafa düşerek parçalananlar gibi olmayın. Onlar için büyük bir azap vardır ",
+  "footnotes": null
 }

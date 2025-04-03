@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3513",
-    "sura": "32",
-    "aya": "10",
-    "arabic_text": "وَقَالُوٓاْ أَءِذَا ضَلَلۡنَا فِي ٱلۡأَرۡضِ أَءِنَّا لَفِي خَلۡقٖ جَدِيدِۭۚ بَلۡ هُم بِلِقَآءِ رَبِّهِمۡ كَٰفِرُونَ",
-    "translation": "Nao husema: Tutapo kwisha potea chini ya ardhi, ni kweli tutarudishwa katika umbo jipya? Bali wao wanakanusha kwamba watakutana na Mola wao Mlezi.",
-    "footnotes": "Na wanao kanya kufufuliwa wakasema: Ati sisi tukisha kuwa mchanga, ulio changanyika na mchanga wa ardhi, usibagulike, ndio kweli tutarejea kwa umbo jipya? Hao hakika si kama wanakanya kufufuliwa tu, bali wanakadhibisha yote yatayo kuwako Akhera."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 415,
+  "verse_key": "32:10",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُوٓاْ أَءِذَا ضَلَلۡنَا فِي ٱلۡأَرۡضِ أَءِنَّا لَفِي خَلۡقٖ جَدِيدِۭۚ بَلۡ هُم بِلِقَآءِ رَبِّهِمۡ كَٰفِرُونَ",
+  "translation": "Nao husema: Tutapo kwisha potea chini ya ardhi, ni kweli tutarudishwa katika umbo jipya? Bali wao wanakanusha kwamba watakutana na Mola wao Mlezi.",
+  "footnotes": "Na wanao kanya kufufuliwa wakasema: Ati sisi tukisha kuwa mchanga, ulio changanyika na mchanga wa ardhi, usibagulike, ndio kweli tutarejea kwa umbo jipya? Hao hakika si kama wanakanya kufufuliwa tu, bali wanakadhibisha yote yatayo kuwako Akhera."
 }

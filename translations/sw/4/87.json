@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "580",
-    "sura": "4",
-    "aya": "87",
-    "arabic_text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ لَيَجۡمَعَنَّكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِۗ وَمَنۡ أَصۡدَقُ مِنَ ٱللَّهِ حَدِيثٗا",
-    "translation": "Mwenyezi Mungu, hapana mungu isipo kuwa Yeye. Kwa yakini atakukusanyeni Siku ya Kiyama. Halina shaka hilo. Na ni nani msema kweli kuliko Mwenyezi Mungu?",
-    "footnotes": "Mwenyezi Mungu ambaye hapana mungu ila Yeye, wala hapana mwenye uweza ila Yeye, hapana shaka atakufufueni baada ya kufa kwenu, na atakukusanyeni kwenye kituo cha kuhisabiwa kwa ajili ya malipo. Hayo hayana shaka. Yeye anasema hayo, basi msiyatilie shaka maneno yake. Na kauli gani iliyo ya kweli zaidi kuliko kauli ya Mwenyezi Mungu?"
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 92,
+  "verse_key": "4:87",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ لَآ إِلَٰهَ إِلَّا هُوَۚ لَيَجۡمَعَنَّكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِۗ وَمَنۡ أَصۡدَقُ مِنَ ٱللَّهِ حَدِيثٗا",
+  "translation": "Mwenyezi Mungu, hapana mungu isipo kuwa Yeye. Kwa yakini atakukusanyeni Siku ya Kiyama. Halina shaka hilo. Na ni nani msema kweli kuliko Mwenyezi Mungu?",
+  "footnotes": "Mwenyezi Mungu ambaye hapana mungu ila Yeye, wala hapana mwenye uweza ila Yeye, hapana shaka atakufufueni baada ya kufa kwenu, na atakukusanyeni kwenye kituo cha kuhisabiwa kwa ajili ya malipo. Hayo hayana shaka. Yeye anasema hayo, basi msiyatilie shaka maneno yake. Na kauli gani iliyo ya kweli zaidi kuliko kauli ya Mwenyezi Mungu?"
 }

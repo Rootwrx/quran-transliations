@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1461",
-    "sura": "10",
-    "aya": "97",
-    "arabic_text": "وَلَوۡ جَآءَتۡهُمۡ كُلُّ ءَايَةٍ حَتَّىٰ يَرَوُاْ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
-    "translation": "97. Ata soki bilembo binso biyeli bango, kino bakomonaka etumbu ya makasi.",
-    "footnotes": ""
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 219,
+  "verse_key": "10:97",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ جَآءَتۡهُمۡ كُلُّ ءَايَةٍ حَتَّىٰ يَرَوُاْ ٱلۡعَذَابَ ٱلۡأَلِيمَ",
+  "translation": "97. Ata soki bilembo binso biyeli bango, kino bakomonaka etumbu ya makasi.",
+  "footnotes": ""
 }

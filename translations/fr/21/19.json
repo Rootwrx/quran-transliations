@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2502",
-    "sura": "21",
-    "aya": "19",
-    "arabic_text": "وَلَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَنۡ عِندَهُۥ لَا يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَلَا يَسۡتَحۡسِرُونَ",
-    "translation": "À Lui seul appartiennent tous ceux qui sont dans les cieux et sur la Terre. Et ceux qui sont auprès de Lui [Les Anges] ne s’enorgueillissent pas de Son adoration et ne s’en lassent pas.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 323,
+  "verse_key": "21:19",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَهُۥ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۚ وَمَنۡ عِندَهُۥ لَا يَسۡتَكۡبِرُونَ عَنۡ عِبَادَتِهِۦ وَلَا يَسۡتَحۡسِرُونَ",
+  "translation": "À Lui seul appartiennent tous ceux qui sont dans les cieux et sur la Terre. Et ceux qui sont auprès de Lui [Les Anges] ne s’enorgueillissent pas de Son adoration et ne s’en lassent pas.",
+  "footnotes": ""
 }

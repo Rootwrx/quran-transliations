@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "931",
-    "sura": "6",
-    "aya": "142",
-    "arabic_text": "وَمِنَ ٱلۡأَنۡعَٰمِ حَمُولَةٗ وَفَرۡشٗاۚ كُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ",
-    "translation": "   Hayvanlardan yük taşıyanı ve tüyünden döşek yapılanları yaratan O'dur. Allah'ın size verdiği rızıktan yiyin, şeytanın ardına düşmeyin; şüphesiz o sizin için apaçık bir düşmandır.",
-    "footnotes": ""
-  }
+  "id": 142,
+  "verse_number": 142,
+  "page_number": 146,
+  "verse_key": "6:142",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 59,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلۡأَنۡعَٰمِ حَمُولَةٗ وَفَرۡشٗاۚ كُلُواْ مِمَّا رَزَقَكُمُ ٱللَّهُ وَلَا تَتَّبِعُواْ خُطُوَٰتِ ٱلشَّيۡطَٰنِۚ إِنَّهُۥ لَكُمۡ عَدُوّٞ مُّبِينٞ",
+  "translation": "   Hayvanlardan yük taşıyanı ve tüyünden döşek yapılanları yaratan O'dur. Allah'ın size verdiği rızıktan yiyin, şeytanın ardına düşmeyin; şüphesiz o sizin için apaçık bir düşmandır.",
+  "footnotes": ""
 }

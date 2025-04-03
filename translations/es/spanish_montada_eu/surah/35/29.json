@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3689",
-    "sura": "35",
-    "aya": "29",
-    "arabic_text": "إِنَّ ٱلَّذِينَ يَتۡلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَنفَقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ يَرۡجُونَ تِجَٰرَةٗ لَّن تَبُورَ",
-    "translation": "29. Quienes recitan el Libro de Al-lah, realizan el salat y dan caridad, en secreto o públicamente,de lo que les hemos proveídopersiguen un gran beneficio que no perecerá.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 437,
+  "verse_key": "35:29",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 175,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ يَتۡلُونَ كِتَٰبَ ٱللَّهِ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَنفَقُواْ مِمَّا رَزَقۡنَٰهُمۡ سِرّٗا وَعَلَانِيَةٗ يَرۡجُونَ تِجَٰرَةٗ لَّن تَبُورَ",
+  "translation": "29. Quienes recitan el Libro de Al-lah, realizan el salat y dan caridad, en secreto o públicamente,de lo que les hemos proveídopersiguen un gran beneficio que no perecerá.",
+  "footnotes": ""
 }

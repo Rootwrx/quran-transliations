@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5975",
-    "sura": "88",
-    "aya": "8",
-    "arabic_text": "وُجُوهٞ يَوۡمَئِذٖ نَّاعِمَةٞ",
-    "translation": "8਼ ਉਸੇ ਦਿਨ ਕਈ ਚਿਹਰੇ ਖਿੜੇ ਹੋਣਗੇ।",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 592,
+  "verse_key": "88:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وُجُوهٞ يَوۡمَئِذٖ نَّاعِمَةٞ",
+  "translation": "8਼ ਉਸੇ ਦਿਨ ਕਈ ਚਿਹਰੇ ਖਿੜੇ ਹੋਣਗੇ।",
+  "footnotes": ""
 }

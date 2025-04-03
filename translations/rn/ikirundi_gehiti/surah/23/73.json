@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2746",
-    "sura": "23",
-    "aya": "73",
-    "arabic_text": "وَإِنَّكَ لَتَدۡعُوهُمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": "Ntumwa y’Imana! Mu vy’ukuri, nta nkeka ko wewe urarikira abantu warungitsweko mu nzira igororotse y’idini ry’ubwislamu.",
-    "footnotes": ""
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 346,
+  "verse_key": "23:73",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّكَ لَتَدۡعُوهُمۡ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": "Ntumwa y’Imana! Mu vy’ukuri, nta nkeka ko wewe urarikira abantu warungitsweko mu nzira igororotse y’idini ry’ubwislamu.",
+  "footnotes": ""
 }

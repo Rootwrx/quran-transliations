@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "161",
-    "sura": "2",
-    "aya": "154",
-    "arabic_text": "وَلَا تَقُولُواْ لِمَن يُقۡتَلُ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتُۢۚ بَلۡ أَحۡيَآءٞ وَلَٰكِن لَّا تَشۡعُرُونَ",
-    "translation": "Dhe mos thoni për ata që vriten në rrugën e Allahut[30] se janë të vdekur! Jo! Ata janë të gjallë, ndonëse ju nuk e ndieni!",
-    "footnotes": "[30] Shprehja “në rrugën e Allahut” (fî sebîlil-lâh) do të thotë: “për çështjen e Allahut”, “në shërbim të Allahut” etj."
-  }
+  "id": 154,
+  "verse_number": 154,
+  "page_number": 24,
+  "verse_key": "2:154",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَقُولُواْ لِمَن يُقۡتَلُ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتُۢۚ بَلۡ أَحۡيَآءٞ وَلَٰكِن لَّا تَشۡعُرُونَ",
+  "translation": "Dhe mos thoni për ata që vriten në rrugën e Allahut[30] se janë të vdekur! Jo! Ata janë të gjallë, ndonëse ju nuk e ndieni!",
+  "footnotes": "[30] Shprehja “në rrugën e Allahut” (fî sebîlil-lâh) do të thotë: “për çështjen e Allahut”, “në shërbim të Allahut” etj."
 }

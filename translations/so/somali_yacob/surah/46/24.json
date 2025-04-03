@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4534",
-    "sura": "46",
-    "aya": "24",
-    "arabic_text": "فَلَمَّا رَأَوۡهُ عَارِضٗا مُّسۡتَقۡبِلَ أَوۡدِيَتِهِمۡ قَالُواْ هَٰذَا عَارِضٞ مُّمۡطِرُنَاۚ بَلۡ هُوَ مَا ٱسۡتَعۡجَلۡتُم بِهِۦۖ رِيحٞ فِيهَا عَذَابٌ أَلِيمٞ",
-    "translation": "24. Markay arkeen isagoo sidii daruur hogal ah ka muuqda samada ku soo aaddan togaggooda, waxay yidhaahdeen: waa daruur roob noo keeni.Ma jirto’ ee waa waxaad dalabteen in la soo dedejiyo10. Waa dabeyl leh cadaab xanuun badan.",
-    "footnotes": "10. Markaad ka hortimaaddeen Nabigiinna oo aad tidhaahdeen noo keen waxa aad noogu gooddisey. Eeg Aayadda 22 ee Suuraddan."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 505,
+  "verse_key": "46:24",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا رَأَوۡهُ عَارِضٗا مُّسۡتَقۡبِلَ أَوۡدِيَتِهِمۡ قَالُواْ هَٰذَا عَارِضٞ مُّمۡطِرُنَاۚ بَلۡ هُوَ مَا ٱسۡتَعۡجَلۡتُم بِهِۦۖ رِيحٞ فِيهَا عَذَابٌ أَلِيمٞ",
+  "translation": "24. Markay arkeen isagoo sidii daruur hogal ah ka muuqda samada ku soo aaddan togaggooda, waxay yidhaahdeen: waa daruur roob noo keeni.Ma jirto’ ee waa waxaad dalabteen in la soo dedejiyo10. Waa dabeyl leh cadaab xanuun badan.",
+  "footnotes": "10. Markaad ka hortimaaddeen Nabigiinna oo aad tidhaahdeen noo keen waxa aad noogu gooddisey. Eeg Aayadda 22 ee Suuraddan."
 }

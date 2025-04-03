@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "110",
-    "sura": "2",
-    "aya": "103",
-    "arabic_text": "وَلَوۡ أَنَّهُمۡ ءَامَنُواْ وَٱتَّقَوۡاْ لَمَثُوبَةٞ مِّنۡ عِندِ ٱللَّهِ خَيۡرٞۚ لَّوۡ كَانُواْ يَعۡلَمُونَ",
-    "translation": "103. O jei jie būtų patikėję ir saugoję save nuo blogio ir vykdę savo pareigą Allahui, daug geresnis būtų atlyginimas iš jų Viešpaties, jei jie būtų žinoję!",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 16,
+  "verse_key": "2:103",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ أَنَّهُمۡ ءَامَنُواْ وَٱتَّقَوۡاْ لَمَثُوبَةٞ مِّنۡ عِندِ ٱللَّهِ خَيۡرٞۚ لَّوۡ كَانُواْ يَعۡلَمُونَ",
+  "translation": "103. O jei jie būtų patikėję ir saugoję save nuo blogio ir vykdę savo pareigą Allahui, daug geresnis būtų atlyginimas iš jų Viešpaties, jei jie būtų žinoję!",
+  "footnotes": ""
 }

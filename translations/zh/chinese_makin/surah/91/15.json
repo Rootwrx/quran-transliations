@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6058",
-    "sura": "91",
-    "aya": "15",
-    "arabic_text": "وَلَا يَخَافُ عُقۡبَٰهَا",
-    "translation": "他是不顾虑那灾难的后果的。",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 595,
+  "verse_key": "91:15",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا يَخَافُ عُقۡبَٰهَا",
+  "translation": "他是不顾虑那灾难的后果的。",
+  "footnotes": ""
 }

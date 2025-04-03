@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "150",
-    "sura": "2",
-    "aya": "143",
-    "arabic_text": "وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ",
-    "translation": "Lɑ woto me lɑ D mɑɑn yãmb tɩ y yɑɑ zãmɑ sẽn tẽeg tɩrgɑ, bʋl yɩng tɩ y nɑ yi Seetb nebã zugu, tɩ Tẽn-tʋʋmã me yɩ Seet yãmb zugu. Lɑ Tõnd pɑ mɑɑn Yɑɑng ning fo sẽn dɑ be ɑ zugã rẽndɑ D sẽn nɑ bãng ned ning sẽn pʋgd Tẽn-tʋʋmã n welg sẽn tɑrg-ɑ n leb poorẽ, lɑ ɑd ɑ wẽnegrã yɩɩme n yɑɑ pɑkre, sã n pɑ Wẽnd sẽn kãndg-b rãmbã, lɑ Wẽnd pɑ yɩ n nɑ n yeeb yãmb tʋʋmã ye, ɑd Wẽnd yɑ ɑ Nimbãɑn-zoet n yɑ ɑ Yolsdɑ ne nebã.",
-    "footnotes": ""
-  }
+  "id": 143,
+  "verse_number": 143,
+  "page_number": 22,
+  "verse_key": "2:143",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَكَذَٰلِكَ جَعَلۡنَٰكُمۡ أُمَّةٗ وَسَطٗا لِّتَكُونُواْ شُهَدَآءَ عَلَى ٱلنَّاسِ وَيَكُونَ ٱلرَّسُولُ عَلَيۡكُمۡ شَهِيدٗاۗ وَمَا جَعَلۡنَا ٱلۡقِبۡلَةَ ٱلَّتِي كُنتَ عَلَيۡهَآ إِلَّا لِنَعۡلَمَ مَن يَتَّبِعُ ٱلرَّسُولَ مِمَّن يَنقَلِبُ عَلَىٰ عَقِبَيۡهِۚ وَإِن كَانَتۡ لَكَبِيرَةً إِلَّا عَلَى ٱلَّذِينَ هَدَى ٱللَّهُۗ وَمَا كَانَ ٱللَّهُ لِيُضِيعَ إِيمَٰنَكُمۡۚ إِنَّ ٱللَّهَ بِٱلنَّاسِ لَرَءُوفٞ رَّحِيمٞ",
+  "translation": "Lɑ woto me lɑ D mɑɑn yãmb tɩ y yɑɑ zãmɑ sẽn tẽeg tɩrgɑ, bʋl yɩng tɩ y nɑ yi Seetb nebã zugu, tɩ Tẽn-tʋʋmã me yɩ Seet yãmb zugu. Lɑ Tõnd pɑ mɑɑn Yɑɑng ning fo sẽn dɑ be ɑ zugã rẽndɑ D sẽn nɑ bãng ned ning sẽn pʋgd Tẽn-tʋʋmã n welg sẽn tɑrg-ɑ n leb poorẽ, lɑ ɑd ɑ wẽnegrã yɩɩme n yɑɑ pɑkre, sã n pɑ Wẽnd sẽn kãndg-b rãmbã, lɑ Wẽnd pɑ yɩ n nɑ n yeeb yãmb tʋʋmã ye, ɑd Wẽnd yɑ ɑ Nimbãɑn-zoet n yɑ ɑ Yolsdɑ ne nebã.",
+  "footnotes": ""
 }

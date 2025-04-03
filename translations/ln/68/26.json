@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5297",
-    "sura": "68",
-    "aya": "26",
-    "arabic_text": "فَلَمَّا رَأَوۡهَا قَالُوٓاْ إِنَّا لَضَآلُّونَ",
-    "translation": "26. Mpe tango bamoni (elanga) yango, balobi: Ya soló tobungi nzela na biso,",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 565,
+  "verse_key": "68:26",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا رَأَوۡهَا قَالُوٓاْ إِنَّا لَضَآلُّونَ",
+  "translation": "26. Mpe tango bamoni (elanga) yango, balobi: Ya soló tobungi nzela na biso,",
+  "footnotes": ""
 }

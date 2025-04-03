@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3620",
-    "sura": "34",
-    "aya": "14",
-    "arabic_text": "فَلَمَّا قَضَيۡنَا عَلَيۡهِ ٱلۡمَوۡتَ مَا دَلَّهُمۡ عَلَىٰ مَوۡتِهِۦٓ إِلَّا دَآبَّةُ ٱلۡأَرۡضِ تَأۡكُلُ مِنسَأَتَهُۥۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلۡجِنُّ أَن لَّوۡ كَانُواْ يَعۡلَمُونَ ٱلۡغَيۡبَ مَا لَبِثُواْ فِي ٱلۡعَذَابِ ٱلۡمُهِينِ",
-    "translation": "Nígbà tí A pàṣẹ pé kí ikú pa (Ànábì) Sulaemọ̄n, kò sí ohun tí ó mú àwọn àlùjànnú mọ̀ pé ó ti kú bí kò ṣe kòkòrò inú ilẹ̀ kan tí ó jẹ ọ̀pá rẹ̀. Nígbà tí ó wó lulẹ̀, ó hàn kedere sí àwọn àlùjànnú pé tí ó bá jẹ́ pé àwọn ní ìmọ̀ ìkọ̀kọ̀ ni, àwọn ìbá tí wà nínú (iṣẹ́) ìyà tó ń yẹpẹrẹ ẹ̀dá.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 429,
+  "verse_key": "34:14",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا قَضَيۡنَا عَلَيۡهِ ٱلۡمَوۡتَ مَا دَلَّهُمۡ عَلَىٰ مَوۡتِهِۦٓ إِلَّا دَآبَّةُ ٱلۡأَرۡضِ تَأۡكُلُ مِنسَأَتَهُۥۖ فَلَمَّا خَرَّ تَبَيَّنَتِ ٱلۡجِنُّ أَن لَّوۡ كَانُواْ يَعۡلَمُونَ ٱلۡغَيۡبَ مَا لَبِثُواْ فِي ٱلۡعَذَابِ ٱلۡمُهِينِ",
+  "translation": "Nígbà tí A pàṣẹ pé kí ikú pa (Ànábì) Sulaemọ̄n, kò sí ohun tí ó mú àwọn àlùjànnú mọ̀ pé ó ti kú bí kò ṣe kòkòrò inú ilẹ̀ kan tí ó jẹ ọ̀pá rẹ̀. Nígbà tí ó wó lulẹ̀, ó hàn kedere sí àwọn àlùjànnú pé tí ó bá jẹ́ pé àwọn ní ìmọ̀ ìkọ̀kọ̀ ni, àwọn ìbá tí wà nínú (iṣẹ́) ìyà tó ń yẹpẹrẹ ẹ̀dá.",
+  "footnotes": ""
 }

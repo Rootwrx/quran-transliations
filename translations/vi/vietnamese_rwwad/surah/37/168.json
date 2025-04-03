@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3956",
-    "sura": "37",
-    "aya": "168",
-    "arabic_text": "لَوۡ أَنَّ عِندَنَا ذِكۡرٗا مِّنَ ٱلۡأَوَّلِينَ",
-    "translation": "“Phải chi chúng tôi có được một Lời Nhắc Nhở (những kinh sách chẳng hạn như Kinh Tawrah) từ những người thời trước,”",
-    "footnotes": ""
-  }
+  "id": 168,
+  "verse_number": 168,
+  "page_number": 452,
+  "verse_key": "37:168",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَوۡ أَنَّ عِندَنَا ذِكۡرٗا مِّنَ ٱلۡأَوَّلِينَ",
+  "translation": "“Phải chi chúng tôi có được một Lời Nhắc Nhở (những kinh sách chẳng hạn như Kinh Tawrah) từ những người thời trước,”",
+  "footnotes": ""
 }

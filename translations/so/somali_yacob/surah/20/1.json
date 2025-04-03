@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2349",
-    "sura": "20",
-    "aya": "1",
-    "arabic_text": "طه",
-    "translation": "1. Daa Haa1.",
-    "footnotes": "1. Xarfahan waa xuruuf ka mid ah alifbeetada afka Carabiga uu Qur’aanku ku soo degay, sidaas oo ay tahay ma jiro axad keeni kara xitaa Suuradda ugu kooban ee Qur’aanka Mucjisada weyn ah)."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 312,
+  "verse_key": "20:1",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "طه",
+  "translation": "1. Daa Haa1.",
+  "footnotes": "1. Xarfahan waa xuruuf ka mid ah alifbeetada afka Carabiga uu Qur’aanku ku soo degay, sidaas oo ay tahay ma jiro axad keeni kara xitaa Suuradda ugu kooban ee Qur’aanka Mucjisada weyn ah)."
 }

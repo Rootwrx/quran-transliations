@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3566",
-    "sura": "33",
-    "aya": "33",
-    "arabic_text": "وَقَرۡنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجۡنَ تَبَرُّجَ ٱلۡجَٰهِلِيَّةِ ٱلۡأُولَىٰۖ وَأَقِمۡنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعۡنَ ٱللَّهَ وَرَسُولَهُۥٓۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذۡهِبَ عَنكُمُ ٱلرِّجۡسَ أَهۡلَ ٱلۡبَيۡتِ وَيُطَهِّرَكُمۡ تَطۡهِيرٗا",
-    "translation": "Muheze muturure mu kuguma mu zanyu, kiretse mu gihe hoba hari igituma mwosohoka. Kandi ntimukerekane ibisharizo mwambaye n’ibiranga ubwiza bwanyu, nk’uko abakenyezi babigira imbere yuko hashingwa amabwirizwa y’ubwislamu. Muratsimbataza amasengesho akwije ibisabwa ku mwanya wayo, muheze mutange n’ishikanwa-bwirizwa, maze mwumvire Imana Allah n’Intumwa yayo. Emwe banyamuryango w’Intumwa[10]! Ni ukuri Imana Allah, Ibahanura kugira Ibeze akabi n’akabibi mu mitima yanyu, Yongere Ibasukure isuku ry’ibiboneka n’isuku ry’umushaha;",
-    "footnotes": "[10] Abantu bo mu muryango w’Intumwa “ahlu l-bayti”, ni abakenyezi biwe hamwe n’uruvyaro rukomoka kuri yo."
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 422,
+  "verse_key": "33:33",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَرۡنَ فِي بُيُوتِكُنَّ وَلَا تَبَرَّجۡنَ تَبَرُّجَ ٱلۡجَٰهِلِيَّةِ ٱلۡأُولَىٰۖ وَأَقِمۡنَ ٱلصَّلَوٰةَ وَءَاتِينَ ٱلزَّكَوٰةَ وَأَطِعۡنَ ٱللَّهَ وَرَسُولَهُۥٓۚ إِنَّمَا يُرِيدُ ٱللَّهُ لِيُذۡهِبَ عَنكُمُ ٱلرِّجۡسَ أَهۡلَ ٱلۡبَيۡتِ وَيُطَهِّرَكُمۡ تَطۡهِيرٗا",
+  "translation": "Muheze muturure mu kuguma mu zanyu, kiretse mu gihe hoba hari igituma mwosohoka. Kandi ntimukerekane ibisharizo mwambaye n’ibiranga ubwiza bwanyu, nk’uko abakenyezi babigira imbere yuko hashingwa amabwirizwa y’ubwislamu. Muratsimbataza amasengesho akwije ibisabwa ku mwanya wayo, muheze mutange n’ishikanwa-bwirizwa, maze mwumvire Imana Allah n’Intumwa yayo. Emwe banyamuryango w’Intumwa[10]! Ni ukuri Imana Allah, Ibahanura kugira Ibeze akabi n’akabibi mu mitima yanyu, Yongere Ibasukure isuku ry’ibiboneka n’isuku ry’umushaha;",
+  "footnotes": "[10] Abantu bo mu muryango w’Intumwa “ahlu l-bayti”, ni abakenyezi biwe hamwe n’uruvyaro rukomoka kuri yo."
 }

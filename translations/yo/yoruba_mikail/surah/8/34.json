@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1194",
-    "sura": "8",
-    "aya": "34",
-    "arabic_text": "وَمَا لَهُمۡ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمۡ يَصُدُّونَ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَمَا كَانُوٓاْ أَوۡلِيَآءَهُۥٓۚ إِنۡ أَوۡلِيَآؤُهُۥٓ إِلَّا ٱلۡمُتَّقُونَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
-    "translation": "Kò sí ìdí tí Allāhu kò fi níí jẹ wọ́n níyà níwọ̀n ìgbà tí wọ́n bá ń ṣẹ́ àwọn ènìyàn lórí kúrò nínú Mọ́sálásí Haram. Àti pé àwọn ọ̀ṣẹbọ kọ́ ni alámòjúútó rẹ̀. Kò sí alámòjúútó kan fún un bí kò ṣe àwọn olùbẹ̀rù (Allāhu), ṣùgbọ́n ọ̀pọ̀lọ́pọ̀ wọn ni kò mọ̀.",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 181,
+  "verse_key": "8:34",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 72,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا لَهُمۡ أَلَّا يُعَذِّبَهُمُ ٱللَّهُ وَهُمۡ يَصُدُّونَ عَنِ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ وَمَا كَانُوٓاْ أَوۡلِيَآءَهُۥٓۚ إِنۡ أَوۡلِيَآؤُهُۥٓ إِلَّا ٱلۡمُتَّقُونَ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ",
+  "translation": "Kò sí ìdí tí Allāhu kò fi níí jẹ wọ́n níyà níwọ̀n ìgbà tí wọ́n bá ń ṣẹ́ àwọn ènìyàn lórí kúrò nínú Mọ́sálásí Haram. Àti pé àwọn ọ̀ṣẹbọ kọ́ ni alámòjúútó rẹ̀. Kò sí alámòjúútó kan fún un bí kò ṣe àwọn olùbẹ̀rù (Allāhu), ṣùgbọ́n ọ̀pọ̀lọ́pọ̀ wọn ni kò mọ̀.",
+  "footnotes": ""
 }

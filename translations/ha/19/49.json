@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2299",
-    "sura": "19",
-    "aya": "49",
-    "arabic_text": "فَلَمَّا ٱعۡتَزَلَهُمۡ وَمَا يَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَۖ وَكُلّٗا جَعَلۡنَا نَبِيّٗا",
-    "translation": "To, sa'ad da ya nĩsance su da abin da suke bautãwa baicin Allah, Muka bã shi Is'hãƙa da Ya'aƙuba alhãli kuwa kõwanensu Mun mayar da shi Annabi.",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 308,
+  "verse_key": "19:49",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا ٱعۡتَزَلَهُمۡ وَمَا يَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَۖ وَكُلّٗا جَعَلۡنَا نَبِيّٗا",
+  "translation": "To, sa'ad da ya nĩsance su da abin da suke bautãwa baicin Allah, Muka bã shi Is'hãƙa da Ya'aƙuba alhãli kuwa kõwanensu Mun mayar da shi Annabi.",
+  "footnotes": ""
 }

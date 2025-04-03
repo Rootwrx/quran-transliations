@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2906",
-    "sura": "25",
-    "aya": "51",
-    "arabic_text": "وَلَوۡ شِئۡنَا لَبَعَثۡنَا فِي كُلِّ قَرۡيَةٖ نَّذِيرٗا",
-    "translation": "51. Да сакаме, во секој град ќе испратевме некого да опоменува;",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 364,
+  "verse_key": "25:51",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ شِئۡنَا لَبَعَثۡنَا فِي كُلِّ قَرۡيَةٖ نَّذِيرٗا",
+  "translation": "51. Да сакаме, во секој град ќе испратевме некого да опоменува;",
+  "footnotes": ""
 }

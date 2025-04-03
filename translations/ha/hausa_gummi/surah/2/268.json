@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "275",
-    "sura": "2",
-    "aya": "268",
-    "arabic_text": "ٱلشَّيۡطَٰنُ يَعِدُكُمُ ٱلۡفَقۡرَ وَيَأۡمُرُكُم بِٱلۡفَحۡشَآءِۖ وَٱللَّهُ يَعِدُكُم مَّغۡفِرَةٗ مِّنۡهُ وَفَضۡلٗاۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ",
-    "translation": "Shaiɗan yana yi muku alƙawarin talauci, kuma yana umurnin ku da alfasha*, kuma Allah Yana yi muku alƙawarin gãfara daga gare shi da ƙãri, kuma Allah Mawadãci ne, Masani.",
-    "footnotes": "* Alfãsha ita ce ayyukan zunubi kamar zina da shan giya, alhãli ɓatar da dũkiya a nan, ya fi tsanani, kuma bãbu wani badali don sakamako, sabõda haka ƙin ciyarwa dõmin gudun talauci da umurninku da alfãsha sun sãɓã wa jũna, ga abin da shi Shaiɗan yake gaya muku; watau kada ku ciyar, dõmin gudun talauci, amma ku sha giya, ku yi zina!."
-  }
+  "id": 268,
+  "verse_number": 268,
+  "page_number": 45,
+  "verse_key": "2:268",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 18,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلشَّيۡطَٰنُ يَعِدُكُمُ ٱلۡفَقۡرَ وَيَأۡمُرُكُم بِٱلۡفَحۡشَآءِۖ وَٱللَّهُ يَعِدُكُم مَّغۡفِرَةٗ مِّنۡهُ وَفَضۡلٗاۗ وَٱللَّهُ وَٰسِعٌ عَلِيمٞ",
+  "translation": "Shaiɗan yana yi muku alƙawarin talauci, kuma yana umurnin ku da alfasha*, kuma Allah Yana yi muku alƙawarin gãfara daga gare shi da ƙãri, kuma Allah Mawadãci ne, Masani.",
+  "footnotes": "* Alfãsha ita ce ayyukan zunubi kamar zina da shan giya, alhãli ɓatar da dũkiya a nan, ya fi tsanani, kuma bãbu wani badali don sakamako, sabõda haka ƙin ciyarwa dõmin gudun talauci da umurninku da alfãsha sun sãɓã wa jũna, ga abin da shi Shaiɗan yake gaya muku; watau kada ku ciyar, dõmin gudun talauci, amma ku sha giya, ku yi zina!."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5896",
-    "sura": "84",
-    "aya": "12",
-    "arabic_text": "وَيَصۡلَىٰ سَعِيرًا",
-    "translation": "ആളിക്കത്തുന്ന നരകാഗ്നിയില്‍ കടന്ന് എരിയുകയും ചെയ്യും.",
-    "footnotes": ""
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 589,
+  "verse_key": "84:12",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَصۡلَىٰ سَعِيرًا",
+  "translation": "ആളിക്കത്തുന്ന നരകാഗ്നിയില്‍ കടന്ന് എരിയുകയും ചെയ്യും.",
+  "footnotes": ""
 }

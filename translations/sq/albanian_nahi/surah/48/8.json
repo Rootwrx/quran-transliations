@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4591",
-    "sura": "48",
-    "aya": "8",
-    "arabic_text": "إِنَّآ أَرۡسَلۡنَٰكَ شَٰهِدٗا وَمُبَشِّرٗا وَنَذِيرٗا",
-    "translation": "Me të vërtetë, Ne të kemi dërguar ty (Muhamed) dëshmitar, sjellës të lajmeve të mira dhe paralajmërues,",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 511,
+  "verse_key": "48:8",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَرۡسَلۡنَٰكَ شَٰهِدٗا وَمُبَشِّرٗا وَنَذِيرٗا",
+  "translation": "Me të vërtetë, Ne të kemi dërguar ty (Muhamed) dëshmitar, sjellës të lajmeve të mira dhe paralajmërues,",
+  "footnotes": ""
 }

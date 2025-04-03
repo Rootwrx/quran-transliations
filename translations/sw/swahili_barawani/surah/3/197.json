@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "490",
-    "sura": "3",
-    "aya": "197",
-    "arabic_text": "مَتَٰعٞ قَلِيلٞ ثُمَّ مَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ",
-    "translation": "Hiyo ni starehe ndogo. Kisha makaazi yao yatakuwa Jahannamu. Na ni mahali pabaya mno pa kupumzikia.",
-    "footnotes": "Hizo ni starehe za kupita njia, na kila kipitacho ni duni. Kisha marejeo ya daima watayo ishia ni Jahannamu. Na hapana makaazi maovu kama Jahannamu."
-  }
+  "id": 197,
+  "verse_number": 197,
+  "page_number": 76,
+  "verse_key": "3:197",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَتَٰعٞ قَلِيلٞ ثُمَّ مَأۡوَىٰهُمۡ جَهَنَّمُۖ وَبِئۡسَ ٱلۡمِهَادُ",
+  "translation": "Hiyo ni starehe ndogo. Kisha makaazi yao yatakuwa Jahannamu. Na ni mahali pabaya mno pa kupumzikia.",
+  "footnotes": "Hizo ni starehe za kupita njia, na kila kipitacho ni duni. Kisha marejeo ya daima watayo ishia ni Jahannamu. Na hapana makaazi maovu kama Jahannamu."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3772",
-    "sura": "36",
-    "aya": "67",
-    "arabic_text": "وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ مُضِيّٗا وَلَا يَرۡجِعُونَ",
-    "translation": " 67. And if it had been Our Will, We could have transformed them (into animals or lifeless objects) in their places. Then they would have been unable to go forward (move about) nor they could have turned back.[3]",
-    "footnotes": "(V.36:67) See (V.7:166) and the footnote of (V.5:90)."
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 444,
+  "verse_key": "36:67",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ نَشَآءُ لَمَسَخۡنَٰهُمۡ عَلَىٰ مَكَانَتِهِمۡ فَمَا ٱسۡتَطَٰعُواْ مُضِيّٗا وَلَا يَرۡجِعُونَ",
+  "translation": " 67. And if it had been Our Will, We could have transformed them (into animals or lifeless objects) in their places. Then they would have been unable to go forward (move about) nor they could have turned back.[3]",
+  "footnotes": "(V.36:67) See (V.7:166) and the footnote of (V.5:90)."
 }

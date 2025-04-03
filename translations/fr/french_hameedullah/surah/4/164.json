@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "657",
-    "sura": "4",
-    "aya": "164",
-    "arabic_text": "وَرُسُلٗا قَدۡ قَصَصۡنَٰهُمۡ عَلَيۡكَ مِن قَبۡلُ وَرُسُلٗا لَّمۡ نَقۡصُصۡهُمۡ عَلَيۡكَۚ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكۡلِيمٗا",
-    "translation": "Et il y a des Messagers dont Nous t’avons raconté l’histoire précédemment, et des Messagers dont Nous ne t’avons point raconté l’histoire - et Allah a parlé à Moïse de vive voix -",
-    "footnotes": ""
-  }
+  "id": 164,
+  "verse_number": 164,
+  "page_number": 104,
+  "verse_key": "4:164",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 42,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَرُسُلٗا قَدۡ قَصَصۡنَٰهُمۡ عَلَيۡكَ مِن قَبۡلُ وَرُسُلٗا لَّمۡ نَقۡصُصۡهُمۡ عَلَيۡكَۚ وَكَلَّمَ ٱللَّهُ مُوسَىٰ تَكۡلِيمٗا",
+  "translation": "Et il y a des Messagers dont Nous t’avons raconté l’histoire précédemment, et des Messagers dont Nous ne t’avons point raconté l’histoire - et Allah a parlé à Moïse de vive voix -",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "776",
-    "sura": "5",
-    "aya": "107",
-    "arabic_text": "فَإِنۡ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسۡتَحَقَّآ إِثۡمٗا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسۡتَحَقَّ عَلَيۡهِمُ ٱلۡأَوۡلَيَٰنِ فَيُقۡسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعۡتَدَيۡنَآ إِنَّآ إِذٗا لَّمِنَ ٱلظَّٰلِمِينَ",
-    "translation": "Ikigundulikana kuwa wawili hao wamestahiki dhambi, basi wawili wengineo kutokana na warithi wenye kudai haki washike makamo ya wa mwanzo. Nao waape kwa Mwenyezi Mungu wakisema: Hakika ushahidi wetu ni wa haki zaidi kuliko ushahidi wa wale. Na sisi hatujafanya dhambi; hakika hapo tutakuwa miongoni mwa walio dhulumu.",
-    "footnotes": "Na ikionekana kuwa mashahidi wawili hao wamesema uwongo katika ushahidi wao, au wameficha kitu, basi walio na haki zaidi kushika mahala pao ni wawili wengine walio karibu zaidi kukhusika na warithi wa maiti. Hao washike pahala pao baada ya Swala, wadhihirishe uwongo wa walio tangulia, na waape kwa Mwenyezi Mungu kuwa wale mashahidi wa mwanzo walisema uwongo, na: Yamini yetu inafaa zaidi kuliko yamini ya wale, na wala hatuitupi haki katika yamini zetu, wala hatuwatuhumu mashahidi wale kwa uzushi. Kwani tukifanya hivyo tutakuwa katika walio dhulumu, wenye kustahiki adhabu ya mwenye kumdhulumu mwenginewe."
-  }
+  "id": 107,
+  "verse_number": 107,
+  "page_number": 125,
+  "verse_key": "5:107",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 50,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنۡ عُثِرَ عَلَىٰٓ أَنَّهُمَا ٱسۡتَحَقَّآ إِثۡمٗا فَـَٔاخَرَانِ يَقُومَانِ مَقَامَهُمَا مِنَ ٱلَّذِينَ ٱسۡتَحَقَّ عَلَيۡهِمُ ٱلۡأَوۡلَيَٰنِ فَيُقۡسِمَانِ بِٱللَّهِ لَشَهَٰدَتُنَآ أَحَقُّ مِن شَهَٰدَتِهِمَا وَمَا ٱعۡتَدَيۡنَآ إِنَّآ إِذٗا لَّمِنَ ٱلظَّٰلِمِينَ",
+  "translation": "Ikigundulikana kuwa wawili hao wamestahiki dhambi, basi wawili wengineo kutokana na warithi wenye kudai haki washike makamo ya wa mwanzo. Nao waape kwa Mwenyezi Mungu wakisema: Hakika ushahidi wetu ni wa haki zaidi kuliko ushahidi wa wale. Na sisi hatujafanya dhambi; hakika hapo tutakuwa miongoni mwa walio dhulumu.",
+  "footnotes": "Na ikionekana kuwa mashahidi wawili hao wamesema uwongo katika ushahidi wao, au wameficha kitu, basi walio na haki zaidi kushika mahala pao ni wawili wengine walio karibu zaidi kukhusika na warithi wa maiti. Hao washike pahala pao baada ya Swala, wadhihirishe uwongo wa walio tangulia, na waape kwa Mwenyezi Mungu kuwa wale mashahidi wa mwanzo walisema uwongo, na: Yamini yetu inafaa zaidi kuliko yamini ya wale, na wala hatuitupi haki katika yamini zetu, wala hatuwatuhumu mashahidi wale kwa uzushi. Kwani tukifanya hivyo tutakuwa katika walio dhulumu, wenye kustahiki adhabu ya mwenye kumdhulumu mwenginewe."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5629",
-    "sura": "77",
-    "aya": "7",
-    "arabic_text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ",
-    "translation": "あなた方に約束されていること[1]は、確実に起こるのである。",
-    "footnotes": "[1]　「約束されていること」とは、復活の日*と、そこでの清算や報いのこと（ムヤッサル５８０頁参照）。"
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 580,
+  "verse_key": "77:7",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا تُوعَدُونَ لَوَٰقِعٞ",
+  "translation": "あなた方に約束されていること[1]は、確実に起こるのである。",
+  "footnotes": "[1]　「約束されていること」とは、復活の日*と、そこでの清算や報いのこと（ムヤッサル５８０頁参照）。"
 }

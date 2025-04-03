@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1665",
-    "sura": "12",
-    "aya": "69",
-    "arabic_text": "وَلَمَّا دَخَلُواْ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيۡهِ أَخَاهُۖ قَالَ إِنِّيٓ أَنَا۠ أَخُوكَ فَلَا تَبۡتَئِسۡ بِمَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "69. Y cuando [los hijos de Jacob] se presentaron ante José, éste abrazó a su hermano [Benjamín], y le dijo [en secreto]: “Yo soy tu hermano, ya no sientas pena por lo que ellos hicieron [conmigo]”.",
-    "footnotes": ""
-  }
+  "id": 69,
+  "verse_number": 69,
+  "page_number": 243,
+  "verse_key": "12:69",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا دَخَلُواْ عَلَىٰ يُوسُفَ ءَاوَىٰٓ إِلَيۡهِ أَخَاهُۖ قَالَ إِنِّيٓ أَنَا۠ أَخُوكَ فَلَا تَبۡتَئِسۡ بِمَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "69. Y cuando [los hijos de Jacob] se presentaron ante José, éste abrazó a su hermano [Benjamín], y le dijo [en secreto]: “Yo soy tu hermano, ya no sientas pena por lo que ellos hicieron [conmigo]”.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2896",
-    "sura": "25",
-    "aya": "41",
-    "arabic_text": "وَإِذَا رَأَوۡكَ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِي بَعَثَ ٱللَّهُ رَسُولًا",
-    "translation": "Onlar səni gördükdə ancaq sənə lağ edib (belə deyirlər): “Budurmu Allahın elçi göndərdiyi kəs?",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 363,
+  "verse_key": "25:41",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا رَأَوۡكَ إِن يَتَّخِذُونَكَ إِلَّا هُزُوًا أَهَٰذَا ٱلَّذِي بَعَثَ ٱللَّهُ رَسُولًا",
+  "translation": "Onlar səni gördükdə ancaq sənə lağ edib (belə deyirlər): “Budurmu Allahın elçi göndərdiyi kəs?",
+  "footnotes": ""
 }

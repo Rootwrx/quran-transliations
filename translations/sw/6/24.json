@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "813",
-    "sura": "6",
-    "aya": "24",
-    "arabic_text": "ٱنظُرۡ كَيۡفَ كَذَبُواْ عَلَىٰٓ أَنفُسِهِمۡۚ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
-    "translation": "Tazama jinsi wanavyo jisemea uwongo wenyewe. Na yamewapotea waliyo kuwa wakiyazua.",
-    "footnotes": "Angalia vipi wanavyo jitia makosani wenyewe kwa uwongo huu. Na vile walivyo kuwa wameviunda wenyewe kwa kuviabudu, navyo ni mawe tu, na wakadai kuwa ni washirika wa Mwenyezi Mungu, sasa vimewapotea"
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 130,
+  "verse_key": "6:24",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱنظُرۡ كَيۡفَ كَذَبُواْ عَلَىٰٓ أَنفُسِهِمۡۚ وَضَلَّ عَنۡهُم مَّا كَانُواْ يَفۡتَرُونَ",
+  "translation": "Tazama jinsi wanavyo jisemea uwongo wenyewe. Na yamewapotea waliyo kuwa wakiyazua.",
+  "footnotes": "Angalia vipi wanavyo jitia makosani wenyewe kwa uwongo huu. Na vile walivyo kuwa wameviunda wenyewe kwa kuviabudu, navyo ni mawe tu, na wakadai kuwa ni washirika wa Mwenyezi Mungu, sasa vimewapotea"
 }

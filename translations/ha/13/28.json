@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1735",
-    "sura": "13",
-    "aya": "28",
-    "arabic_text": "ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ",
-    "translation": "Waɗanda suka yi ĩmãni kuma zukãtansu sukan natsu da ambaton Allah. To, da ambaton Allah* zukãta suke natsuwa.",
-    "footnotes": "* Ambaton Allah, shĩ ne bin hukunce-hukuncensa ga kõme. Umar ɗan Khattãb ya ce: \"Mafificin ambaton Allah, shi ne wanda aka yi a wurin umurninsa ko haninsa. Wanda yake yin zikirin bãki ba da yanã aiki da hukunce-hukuncen Allah ba a cikin ibãdarsa da mu'amalarsa, to, shi mai izgili kawai ne da sũnan Ubangijinsa, ba mai yin zikiri ba ne.\"."
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 252,
+  "verse_key": "13:28",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَامَنُواْ وَتَطۡمَئِنُّ قُلُوبُهُم بِذِكۡرِ ٱللَّهِۗ أَلَا بِذِكۡرِ ٱللَّهِ تَطۡمَئِنُّ ٱلۡقُلُوبُ",
+  "translation": "Waɗanda suka yi ĩmãni kuma zukãtansu sukan natsu da ambaton Allah. To, da ambaton Allah* zukãta suke natsuwa.",
+  "footnotes": "* Ambaton Allah, shĩ ne bin hukunce-hukuncensa ga kõme. Umar ɗan Khattãb ya ce: \"Mafificin ambaton Allah, shi ne wanda aka yi a wurin umurninsa ko haninsa. Wanda yake yin zikirin bãki ba da yanã aiki da hukunce-hukuncen Allah ba a cikin ibãdarsa da mu'amalarsa, to, shi mai izgili kawai ne da sũnan Ubangijinsa, ba mai yin zikiri ba ne.\"."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4527",
-    "sura": "46",
-    "aya": "17",
-    "arabic_text": "وَٱلَّذِي قَالَ لِوَٰلِدَيۡهِ أُفّٖ لَّكُمَآ أَتَعِدَانِنِيٓ أَنۡ أُخۡرَجَ وَقَدۡ خَلَتِ ٱلۡقُرُونُ مِن قَبۡلِي وَهُمَا يَسۡتَغِيثَانِ ٱللَّهَ وَيۡلَكَ ءَامِنۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
-    "translation": "Na ambaye amewafyonya wazazi wake na akawaambia: Ati ndio mnanitisha kuwa nitafufuliwa, na hali vizazi vingi vimekwisha pita kabla yangu! Na hao wazazi humwomba msaada Mwenyezi Mungu (na humwambia mtoto wao): Ole wako! Amini! Hakika ahadi ya Mwenyezi Mungu ni kweli. Na yeye husema: Hayakuwa haya ila ni visa vya watu wa kale.",
-    "footnotes": "Na waliwafyonya wazazi wao kwa kuchukia na kuchoka nao, walipo wataka waamini kufufuliwa, na wakawaambia: Mnaniambia tutatoka makaburini na mataifa mangapi yamepita kabla yangu na hapana hata mmoja aliye fufuliwa kutoka makaburini? Na hao wazazi wake wanaomba msaada kwa Mwenyezi Mungu jinsi ya kuona ni makuu makosa ya mwana wao, wakisema kwa kumshikilia aamini: Utaangamia wewe kama hukuamini. Hakika ahadi ya Mwenyezi Mungu ya kufufua ni kweli. Naye bado amekakamia kukadhibisha kwa kusema: Hayo mnayo yasema si chochote ila ni hadithi za uwongo za watu wa kale!"
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 504,
+  "verse_key": "46:17",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِي قَالَ لِوَٰلِدَيۡهِ أُفّٖ لَّكُمَآ أَتَعِدَانِنِيٓ أَنۡ أُخۡرَجَ وَقَدۡ خَلَتِ ٱلۡقُرُونُ مِن قَبۡلِي وَهُمَا يَسۡتَغِيثَانِ ٱللَّهَ وَيۡلَكَ ءَامِنۡ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ فَيَقُولُ مَا هَٰذَآ إِلَّآ أَسَٰطِيرُ ٱلۡأَوَّلِينَ",
+  "translation": "Na ambaye amewafyonya wazazi wake na akawaambia: Ati ndio mnanitisha kuwa nitafufuliwa, na hali vizazi vingi vimekwisha pita kabla yangu! Na hao wazazi humwomba msaada Mwenyezi Mungu (na humwambia mtoto wao): Ole wako! Amini! Hakika ahadi ya Mwenyezi Mungu ni kweli. Na yeye husema: Hayakuwa haya ila ni visa vya watu wa kale.",
+  "footnotes": "Na waliwafyonya wazazi wao kwa kuchukia na kuchoka nao, walipo wataka waamini kufufuliwa, na wakawaambia: Mnaniambia tutatoka makaburini na mataifa mangapi yamepita kabla yangu na hapana hata mmoja aliye fufuliwa kutoka makaburini? Na hao wazazi wake wanaomba msaada kwa Mwenyezi Mungu jinsi ya kuona ni makuu makosa ya mwana wao, wakisema kwa kumshikilia aamini: Utaangamia wewe kama hukuamini. Hakika ahadi ya Mwenyezi Mungu ya kufufua ni kweli. Naye bado amekakamia kukadhibisha kwa kusema: Hayo mnayo yasema si chochote ila ni hadithi za uwongo za watu wa kale!"
 }

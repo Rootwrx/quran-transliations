@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "431",
-    "sura": "3",
-    "aya": "138",
-    "arabic_text": "هَٰذَا بَيَانٞ لِّلنَّاسِ وَهُدٗى وَمَوۡعِظَةٞ لِّلۡمُتَّقِينَ",
-    "translation": "Dies ist eine klare Darlegung für die Menschen und eine Rechtleitung und Ermahnung für die Gottesfürchtigen.",
-    "footnotes": null
-  }
+  "id": 138,
+  "verse_number": 138,
+  "page_number": 67,
+  "verse_key": "3:138",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَٰذَا بَيَانٞ لِّلنَّاسِ وَهُدٗى وَمَوۡعِظَةٞ لِّلۡمُتَّقِينَ",
+  "translation": "Dies ist eine klare Darlegung für die Menschen und eine Rechtleitung und Ermahnung für die Gottesfürchtigen.",
+  "footnotes": null
 }

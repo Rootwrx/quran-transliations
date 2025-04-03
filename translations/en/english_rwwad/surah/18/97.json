@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2237",
-    "sura": "18",
-    "aya": "97",
-    "arabic_text": "فَمَا ٱسۡطَٰعُوٓاْ أَن يَظۡهَرُوهُ وَمَا ٱسۡتَطَٰعُواْ لَهُۥ نَقۡبٗا",
-    "translation": "Thus they could not climb over it nor could they pierce it[48].",
-    "footnotes": "[48] They could not climb the dam for its smooth surface as well as it was as high as the mountains, and could not pierce it for its fortitude."
-  }
+  "id": 97,
+  "verse_number": 97,
+  "page_number": 303,
+  "verse_key": "18:97",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَا ٱسۡطَٰعُوٓاْ أَن يَظۡهَرُوهُ وَمَا ٱسۡتَطَٰعُواْ لَهُۥ نَقۡبٗا",
+  "translation": "Thus they could not climb over it nor could they pierce it[48].",
+  "footnotes": "[48] They could not climb the dam for its smooth surface as well as it was as high as the mountains, and could not pierce it for its fortitude."
 }

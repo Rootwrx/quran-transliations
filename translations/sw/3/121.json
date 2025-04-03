@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "414",
-    "sura": "3",
-    "aya": "121",
-    "arabic_text": "وَإِذۡ غَدَوۡتَ مِنۡ أَهۡلِكَ تُبَوِّئُ ٱلۡمُؤۡمِنِينَ مَقَٰعِدَ لِلۡقِتَالِۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
-    "translation": "Na pale ulipo toka asubuhi, ukaacha ahali zako uwapange Waumini kwenye vituo kwa ajili ya vita - na Mwenyezi Mungu anasikia na anajua.",
-    "footnotes": "Na hebu taja Ewe Nabii! Pale ulipo toka asubuhi mapema ukaacha ahali zako, watu wako wa nyumbani, ukenda mpaka Uhud kwa makusudi ya kuwaweka Waumini katika makao yao kwa ajili ya vita. Na Mwenyezi Mungu ni Mwenye kusikia kauli zenu, ni Mwenye kuzijua niya zenu."
-  }
+  "id": 121,
+  "verse_number": 121,
+  "page_number": 65,
+  "verse_key": "3:121",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ غَدَوۡتَ مِنۡ أَهۡلِكَ تُبَوِّئُ ٱلۡمُؤۡمِنِينَ مَقَٰعِدَ لِلۡقِتَالِۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+  "translation": "Na pale ulipo toka asubuhi, ukaacha ahali zako uwapange Waumini kwenye vituo kwa ajili ya vita - na Mwenyezi Mungu anasikia na anajua.",
+  "footnotes": "Na hebu taja Ewe Nabii! Pale ulipo toka asubuhi mapema ukaacha ahali zako, watu wako wa nyumbani, ukenda mpaka Uhud kwa makusudi ya kuwaweka Waumini katika makao yao kwa ajili ya vita. Na Mwenyezi Mungu ni Mwenye kusikia kauli zenu, ni Mwenye kuzijua niya zenu."
 }

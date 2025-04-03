@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2454",
-    "sura": "20",
-    "aya": "106",
-    "arabic_text": "فَيَذَرُهَا قَاعٗا صَفۡصَفٗا",
-    "translation": "نو هوار ډاګ به يې پرېږدي.",
-    "footnotes": ""
-  }
+  "id": 106,
+  "verse_number": 106,
+  "page_number": 319,
+  "verse_key": "20:106",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَيَذَرُهَا قَاعٗا صَفۡصَفٗا",
+  "translation": "نو هوار ډاګ به يې پرېږدي.",
+  "footnotes": ""
 }

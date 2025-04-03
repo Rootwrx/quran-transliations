@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5621",
-    "sura": "76",
-    "aya": "30",
-    "arabic_text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا",
-    "translation": "Ԑnyε sεdeε mopε, (na εbεyε hͻ) na mmom sεdeε Nyankopͻn pε. Nokorε, Nyankopͻn ne Onimdefoͻ, Ɔne Onyansafoͻ.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 580,
+  "verse_key": "76:30",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا تَشَآءُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ إِنَّ ٱللَّهَ كَانَ عَلِيمًا حَكِيمٗا",
+  "translation": "Ԑnyε sεdeε mopε, (na εbεyε hͻ) na mmom sεdeε Nyankopͻn pε. Nokorε, Nyankopͻn ne Onimdefoͻ, Ɔne Onyansafoͻ.",
+  "footnotes": ""
 }

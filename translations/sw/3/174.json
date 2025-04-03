@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "467",
-    "sura": "3",
-    "aya": "174",
-    "arabic_text": "فَٱنقَلَبُواْ بِنِعۡمَةٖ مِّنَ ٱللَّهِ وَفَضۡلٖ لَّمۡ يَمۡسَسۡهُمۡ سُوٓءٞ وَٱتَّبَعُواْ رِضۡوَٰنَ ٱللَّهِۗ وَٱللَّهُ ذُو فَضۡلٍ عَظِيمٍ",
-    "translation": "Basi wakarudi na neema na fadhila za Mwenyezi Mungu. Hapana baya lilio wagusa, na wakafuata yanayo mridhi Mwenyezi Mungu. Na Mwenyezi Mungu ni Mwenye fadhila kuu.",
-    "footnotes": "Kisha wakatoka kwenda kwenye Jihadi na kupambana na hilo jeshi kubwa, lakini washirikina wakaingiwa na woga wakakimbia. Wakarejea Waumini kuwa wameshinda kwa neema ya salama ilhali wao wana hamu ya Jihadi, na wana malipo na thawabu na fadhila ya Mwenyezi Mungu kwao kwa vile kutia kitisho katika nyoyo za maadui zao, na wao wasipatikane na maudhi yoyote. Waliitafuta radhi ya Mwenyezi Mungu, na wao wakaistahiki fadhila yake. Na Mwenyezi Mungu ni Mwenye fadhila kubwa."
-  }
+  "id": 174,
+  "verse_number": 174,
+  "page_number": 73,
+  "verse_key": "3:174",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 29,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱنقَلَبُواْ بِنِعۡمَةٖ مِّنَ ٱللَّهِ وَفَضۡلٖ لَّمۡ يَمۡسَسۡهُمۡ سُوٓءٞ وَٱتَّبَعُواْ رِضۡوَٰنَ ٱللَّهِۗ وَٱللَّهُ ذُو فَضۡلٍ عَظِيمٍ",
+  "translation": "Basi wakarudi na neema na fadhila za Mwenyezi Mungu. Hapana baya lilio wagusa, na wakafuata yanayo mridhi Mwenyezi Mungu. Na Mwenyezi Mungu ni Mwenye fadhila kuu.",
+  "footnotes": "Kisha wakatoka kwenda kwenye Jihadi na kupambana na hilo jeshi kubwa, lakini washirikina wakaingiwa na woga wakakimbia. Wakarejea Waumini kuwa wameshinda kwa neema ya salama ilhali wao wana hamu ya Jihadi, na wana malipo na thawabu na fadhila ya Mwenyezi Mungu kwao kwa vile kutia kitisho katika nyoyo za maadui zao, na wao wasipatikane na maudhi yoyote. Waliitafuta radhi ya Mwenyezi Mungu, na wao wakaistahiki fadhila yake. Na Mwenyezi Mungu ni Mwenye fadhila kubwa."
 }

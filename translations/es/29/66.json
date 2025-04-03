@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3406",
-    "sura": "29",
-    "aya": "66",
-    "arabic_text": "لِيَكۡفُرُواْ بِمَآ ءَاتَيۡنَٰهُمۡ وَلِيَتَمَتَّعُواْۚ فَسَوۡفَ يَعۡلَمُونَ",
-    "translation": "66. ¡Que no agradezcan por cuanto les he concedido y que solo disfruten! ¡Ya verán [la consecuencia de su decisión]!",
-    "footnotes": ""
-  }
+  "id": 66,
+  "verse_number": 66,
+  "page_number": 404,
+  "verse_key": "29:66",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 161,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِيَكۡفُرُواْ بِمَآ ءَاتَيۡنَٰهُمۡ وَلِيَتَمَتَّعُواْۚ فَسَوۡفَ يَعۡلَمُونَ",
+  "translation": "66. ¡Que no agradezcan por cuanto les he concedido y que solo disfruten! ¡Ya verán [la consecuencia de su decisión]!",
+  "footnotes": ""
 }

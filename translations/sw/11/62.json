@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1535",
-    "sura": "11",
-    "aya": "62",
-    "arabic_text": "قَالُواْ يَٰصَٰلِحُ قَدۡ كُنتَ فِينَا مَرۡجُوّٗا قَبۡلَ هَٰذَآۖ أَتَنۡهَىٰنَآ أَن نَّعۡبُدَ مَا يَعۡبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِي شَكّٖ مِّمَّا تَدۡعُونَآ إِلَيۡهِ مُرِيبٖ",
-    "translation": "Wakasema: Ewe Swaleh! Hakika kabla ya haya ulikuwa unatarajiwa kheri kwetu. Je, unatukataza tusiwaabudu waliyo kuwa wakiwaabudu baba zetu? Na hakika sisi tuna shaka na wasiwasi kwa hayo unayo tuitia.",
-    "footnotes": "Wakasema: Ewe Swaleh! Hakika wewe ulikuwa kwetu mtu wa kutarajiwa mema, na kupendwa, na kutukuzwa katika nyoyo zetu, kabla ya haya unayo tuitia! Hivyo unatutaka tuache ibada waliyo kuwa wakiabudu baba zetu na tuliyo izoea sisi na wao? Hakika sisi tuna shaka na huo wito wako wa kumuabudu Mwenyezi Mungu Mmoja. Haya ni mambo ya kukutilia shaka na dhana mbovu wewe na huo wito wako!"
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 228,
+  "verse_key": "11:62",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ يَٰصَٰلِحُ قَدۡ كُنتَ فِينَا مَرۡجُوّٗا قَبۡلَ هَٰذَآۖ أَتَنۡهَىٰنَآ أَن نَّعۡبُدَ مَا يَعۡبُدُ ءَابَآؤُنَا وَإِنَّنَا لَفِي شَكّٖ مِّمَّا تَدۡعُونَآ إِلَيۡهِ مُرِيبٖ",
+  "translation": "Wakasema: Ewe Swaleh! Hakika kabla ya haya ulikuwa unatarajiwa kheri kwetu. Je, unatukataza tusiwaabudu waliyo kuwa wakiwaabudu baba zetu? Na hakika sisi tuna shaka na wasiwasi kwa hayo unayo tuitia.",
+  "footnotes": "Wakasema: Ewe Swaleh! Hakika wewe ulikuwa kwetu mtu wa kutarajiwa mema, na kupendwa, na kutukuzwa katika nyoyo zetu, kabla ya haya unayo tuitia! Hivyo unatutaka tuache ibada waliyo kuwa wakiabudu baba zetu na tuliyo izoea sisi na wao? Hakika sisi tuna shaka na huo wito wako wa kumuabudu Mwenyezi Mungu Mmoja. Haya ni mambo ya kukutilia shaka na dhana mbovu wewe na huo wito wako!"
 }

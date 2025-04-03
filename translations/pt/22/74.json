@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2669",
-    "sura": "22",
-    "aya": "74",
-    "arabic_text": "مَا قَدَرُواْ ٱللَّهَ حَقَّ قَدۡرِهِۦٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ",
-    "translation": "Eles não estimam a Allah como se deve estimar a Ele. Por certo, Allah é Forte, Todo-Poderoso.",
-    "footnotes": ""
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 341,
+  "verse_key": "22:74",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا قَدَرُواْ ٱللَّهَ حَقَّ قَدۡرِهِۦٓۚ إِنَّ ٱللَّهَ لَقَوِيٌّ عَزِيزٌ",
+  "translation": "Eles não estimam a Allah como se deve estimar a Ele. Por certo, Allah é Forte, Todo-Poderoso.",
+  "footnotes": ""
 }

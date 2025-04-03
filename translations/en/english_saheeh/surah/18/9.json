@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2149",
-    "sura": "18",
-    "aya": "9",
-    "arabic_text": "أَمۡ حَسِبۡتَ أَنَّ أَصۡحَٰبَ ٱلۡكَهۡفِ وَٱلرَّقِيمِ كَانُواْ مِنۡ ءَايَٰتِنَا عَجَبًا",
-    "translation": "(9) Or have you thought that the companions of the cave and the inscription were, among Our signs, a wonder?[781]",
-    "footnotes": "[781]- Rather, it is only one of the many wonders of Allāh."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 294,
+  "verse_key": "18:9",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ حَسِبۡتَ أَنَّ أَصۡحَٰبَ ٱلۡكَهۡفِ وَٱلرَّقِيمِ كَانُواْ مِنۡ ءَايَٰتِنَا عَجَبًا",
+  "translation": "(9) Or have you thought that the companions of the cave and the inscription were, among Our signs, a wonder?[781]",
+  "footnotes": "[781]- Rather, it is only one of the many wonders of Allāh."
 }

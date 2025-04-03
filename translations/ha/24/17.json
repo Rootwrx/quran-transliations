@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2808",
-    "sura": "24",
-    "aya": "17",
-    "arabic_text": "يَعِظُكُمُ ٱللَّهُ أَن تَعُودُواْ لِمِثۡلِهِۦٓ أَبَدًا إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": "Allah Yanã yi muku wa'azi, kada ku kõma ga irinsa, har abada, idan kun kasance mũminai.",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 351,
+  "verse_key": "24:17",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 140,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَعِظُكُمُ ٱللَّهُ أَن تَعُودُواْ لِمِثۡلِهِۦٓ أَبَدًا إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": "Allah Yanã yi muku wa'azi, kada ku kõma ga irinsa, har abada, idan kun kasance mũminai.",
+  "footnotes": ""
 }

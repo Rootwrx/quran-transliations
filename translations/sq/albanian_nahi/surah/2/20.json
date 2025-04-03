@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "27",
-    "sura": "2",
-    "aya": "20",
-    "arabic_text": "يَكَادُ ٱلۡبَرۡقُ يَخۡطَفُ أَبۡصَٰرَهُمۡۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوۡاْ فِيهِ وَإِذَآ أَظۡلَمَ عَلَيۡهِمۡ قَامُواْۚ وَلَوۡ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمۡعِهِمۡ وَأَبۡصَٰرِهِمۡۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Shkreptima, pothuaj, ua merr shikimin. Sa herë që ajo ua ndriçon rrugën, ata ecin dhe, kur i kaplon errësira, ndalen. Sikur të donte Allahu, do t’ua merrte dëgjimin dhe shikimin. Pa dyshim, Allahu është i Fuqishëm për çdo gjë.[15]",
-    "footnotes": "[15] Vargjet 6-20 bëjnë fjalë për një kategori të caktuar njerëzish që hiqen si besimtarë, por që në të vërtetë nuk janë të tillë. Këta njerëz përmenden në Kuran me termin munâfikûn, hipokritë, dhe në zemrat e veta kanë sëmundjen e dyshimit në të vërtetat fetare."
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 4,
+  "verse_key": "2:20",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَكَادُ ٱلۡبَرۡقُ يَخۡطَفُ أَبۡصَٰرَهُمۡۖ كُلَّمَآ أَضَآءَ لَهُم مَّشَوۡاْ فِيهِ وَإِذَآ أَظۡلَمَ عَلَيۡهِمۡ قَامُواْۚ وَلَوۡ شَآءَ ٱللَّهُ لَذَهَبَ بِسَمۡعِهِمۡ وَأَبۡصَٰرِهِمۡۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Shkreptima, pothuaj, ua merr shikimin. Sa herë që ajo ua ndriçon rrugën, ata ecin dhe, kur i kaplon errësira, ndalen. Sikur të donte Allahu, do t’ua merrte dëgjimin dhe shikimin. Pa dyshim, Allahu është i Fuqishëm për çdo gjë.[15]",
+  "footnotes": "[15] Vargjet 6-20 bëjnë fjalë për një kategori të caktuar njerëzish që hiqen si besimtarë, por që në të vërtetë nuk janë të tillë. Këta njerëz përmenden në Kuran me termin munâfikûn, hipokritë, dhe në zemrat e veta kanë sëmundjen e dyshimit në të vërtetat fetare."
 }

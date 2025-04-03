@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3156",
-    "sura": "26",
-    "aya": "224",
-    "arabic_text": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلۡغَاوُۥنَ",
-    "translation": "Na watungaji mashairi ni wapotofu ndio wanawafuata.",
-    "footnotes": "Makafiri wanasema: Hii Qur'ani ni mashairi, na Muhammad ni mtungaji mashairi. Mwenyezi Mungu ameyavunja haya kwa kuthibitisha kuwa hakika Qur'ani imejaa hikima na hukumu. Mpango wake unapingana na mpango wa mashairi ambao unategemea juu ya kweli na uwongo. Na amebainisha kwamba hali ya Muhammad s.a.w. inapingana na hali ya watungaji mashairi. Yeye anasema kwa hikima, wao wanasema kwa udanganyifu. Na hii ndiyo hali ya wengi katika watungaji mashairi."
-  }
+  "id": 224,
+  "verse_number": 224,
+  "page_number": 376,
+  "verse_key": "26:224",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 150,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلشُّعَرَآءُ يَتَّبِعُهُمُ ٱلۡغَاوُۥنَ",
+  "translation": "Na watungaji mashairi ni wapotofu ndio wanawafuata.",
+  "footnotes": "Makafiri wanasema: Hii Qur'ani ni mashairi, na Muhammad ni mtungaji mashairi. Mwenyezi Mungu ameyavunja haya kwa kuthibitisha kuwa hakika Qur'ani imejaa hikima na hukumu. Mpango wake unapingana na mpango wa mashairi ambao unategemea juu ya kweli na uwongo. Na amebainisha kwamba hali ya Muhammad s.a.w. inapingana na hali ya watungaji mashairi. Yeye anasema kwa hikima, wao wanasema kwa udanganyifu. Na hii ndiyo hali ya wengi katika watungaji mashairi."
 }

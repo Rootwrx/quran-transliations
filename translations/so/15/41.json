@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1843",
-    "sura": "15",
-    "aya": "41",
-    "arabic_text": "قَالَ هَٰذَا صِرَٰطٌ عَلَيَّ مُسۡتَقِيمٌ",
-    "translation": "41. (Alle) wuxuu yidhi: Kani waa Jid Toosan oo Xaggeyga ah.",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 264,
+  "verse_key": "15:41",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ هَٰذَا صِرَٰطٌ عَلَيَّ مُسۡتَقِيمٌ",
+  "translation": "41. (Alle) wuxuu yidhi: Kani waa Jid Toosan oo Xaggeyga ah.",
+  "footnotes": ""
 }

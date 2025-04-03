@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3288",
-    "sura": "28",
-    "aya": "36",
-    "arabic_text": "فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَٰتِنَا بَيِّنَٰتٖ قَالُواْ مَا هَٰذَآ إِلَّا سِحۡرٞ مُّفۡتَرٗى وَمَا سَمِعۡنَا بِهَٰذَا فِيٓ ءَابَآئِنَا ٱلۡأَوَّلِينَ",
-    "translation": "Rồi khi Musa mang những lời mặc khải rõ rệt của TA đến gặp Pha-ra-ông và đồng bọn của hắn thì bọn họ bảo: “Đây quả thật chỉ là trò ảo thuật được bịa ra mà thôi chứ bọn ta chưa bao giờ nghe chuyện này từ nơi tổ tiên của bọn ta trước đây cả.”",
-    "footnotes": ""
-  }
+  "id": 36,
+  "verse_number": 36,
+  "page_number": 390,
+  "verse_key": "28:36",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا جَآءَهُم مُّوسَىٰ بِـَٔايَٰتِنَا بَيِّنَٰتٖ قَالُواْ مَا هَٰذَآ إِلَّا سِحۡرٞ مُّفۡتَرٗى وَمَا سَمِعۡنَا بِهَٰذَا فِيٓ ءَابَآئِنَا ٱلۡأَوَّلِينَ",
+  "translation": "Rồi khi Musa mang những lời mặc khải rõ rệt của TA đến gặp Pha-ra-ông và đồng bọn của hắn thì bọn họ bảo: “Đây quả thật chỉ là trò ảo thuật được bịa ra mà thôi chứ bọn ta chưa bao giờ nghe chuyện này từ nơi tổ tiên của bọn ta trước đây cả.”",
+  "footnotes": ""
 }

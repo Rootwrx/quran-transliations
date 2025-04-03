@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "920",
-    "sura": "6",
-    "aya": "131",
-    "arabic_text": "ذَٰلِكَ أَن لَّمۡ يَكُن رَّبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمٖ وَأَهۡلُهَا غَٰفِلُونَ",
-    "translation": "Wanan kuwa sabõda Ubangijinka bai kasance Mai halaka alƙaryõyi sabõda wani zãlunci ba ne, alhãli kuwa mutãnensu sunã jãhilai.*",
-    "footnotes": "* Allah bã Ya halaka mutãne sabõda wani laifi, sai bãyan Ya aiki mai gargaɗi ya tafi ya yi musu gargaɗi, sun san laifinsu, sun ƙi bari, sa'an nan azãba ta je musu."
-  }
+  "id": 131,
+  "verse_number": 131,
+  "page_number": 144,
+  "verse_key": "6:131",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 58,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ أَن لَّمۡ يَكُن رَّبُّكَ مُهۡلِكَ ٱلۡقُرَىٰ بِظُلۡمٖ وَأَهۡلُهَا غَٰفِلُونَ",
+  "translation": "Wanan kuwa sabõda Ubangijinka bai kasance Mai halaka alƙaryõyi sabõda wani zãlunci ba ne, alhãli kuwa mutãnensu sunã jãhilai.*",
+  "footnotes": "* Allah bã Ya halaka mutãne sabõda wani laifi, sai bãyan Ya aiki mai gargaɗi ya tafi ya yi musu gargaɗi, sun san laifinsu, sun ƙi bari, sa'an nan azãba ta je musu."
 }

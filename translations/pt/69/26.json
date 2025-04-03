@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5349",
-    "sura": "69",
-    "aya": "26",
-    "arabic_text": "وَلَمۡ أَدۡرِ مَا حِسَابِيَهۡ",
-    "translation": "\"E me não inteirasse de minha conta:",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 567,
+  "verse_key": "69:26",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمۡ أَدۡرِ مَا حِسَابِيَهۡ",
+  "translation": "\"E me não inteirasse de minha conta:",
+  "footnotes": ""
 }

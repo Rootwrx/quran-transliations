@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5223",
-    "sura": "65",
-    "aya": "6",
-    "arabic_text": "أَسۡكِنُوهُنَّ مِنۡ حَيۡثُ سَكَنتُم مِّن وُجۡدِكُمۡ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُواْ عَلَيۡهِنَّۚ وَإِن كُنَّ أُوْلَٰتِ حَمۡلٖ فَأَنفِقُواْ عَلَيۡهِنَّ حَتَّىٰ يَضَعۡنَ حَمۡلَهُنَّۚ فَإِنۡ أَرۡضَعۡنَ لَكُمۡ فَـَٔاتُوهُنَّ أُجُورَهُنَّ وَأۡتَمِرُواْ بَيۡنَكُم بِمَعۡرُوفٖۖ وَإِن تَعَاسَرۡتُمۡ فَسَتُرۡضِعُ لَهُۥٓ أُخۡرَىٰ",
-    "translation": "Zĩndg-y-b zĩig ning yãmb sẽn zĩẽ wã n zems yãmb tõogo, la y ra nams-b n rat n na n weoog b zug ye. Lɑ b sã n yɩɩme n yaa pʋs-rãmba, bɩ y kõ-b mond hal tɩ b wa roge. Lɑ b sã n na n yẽsem n kõ yãmba, bɩ y kɩs-y b keoorã, la y sagl taab ne manegre. Lɑ yãmb sã n pa zems taaba, rẽnd pag a to n na n yẽsem-a.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 559,
+  "verse_key": "65:6",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 223,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَسۡكِنُوهُنَّ مِنۡ حَيۡثُ سَكَنتُم مِّن وُجۡدِكُمۡ وَلَا تُضَآرُّوهُنَّ لِتُضَيِّقُواْ عَلَيۡهِنَّۚ وَإِن كُنَّ أُوْلَٰتِ حَمۡلٖ فَأَنفِقُواْ عَلَيۡهِنَّ حَتَّىٰ يَضَعۡنَ حَمۡلَهُنَّۚ فَإِنۡ أَرۡضَعۡنَ لَكُمۡ فَـَٔاتُوهُنَّ أُجُورَهُنَّ وَأۡتَمِرُواْ بَيۡنَكُم بِمَعۡرُوفٖۖ وَإِن تَعَاسَرۡتُمۡ فَسَتُرۡضِعُ لَهُۥٓ أُخۡرَىٰ",
+  "translation": "Zĩndg-y-b zĩig ning yãmb sẽn zĩẽ wã n zems yãmb tõogo, la y ra nams-b n rat n na n weoog b zug ye. Lɑ b sã n yɩɩme n yaa pʋs-rãmba, bɩ y kõ-b mond hal tɩ b wa roge. Lɑ b sã n na n yẽsem n kõ yãmba, bɩ y kɩs-y b keoorã, la y sagl taab ne manegre. Lɑ yãmb sã n pa zems taaba, rẽnd pag a to n na n yẽsem-a.",
+  "footnotes": ""
 }

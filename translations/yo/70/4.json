@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5379",
-    "sura": "70",
-    "aya": "4",
-    "arabic_text": "تَعۡرُجُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ",
-    "translation": "Àwọn mọlāika àti mọlāika Jibrīl ń gùnkè wá sí ọ̀dọ̀ Rẹ̀ nínú ọjọ́ kan tí òdiwọ̀n rẹ̀ jẹ́ ọ̀kẹ́ méjì ààbọ̀ ọdún (tí ẹ bá fẹ́ rìn ín).[1]",
-    "footnotes": "1. Ọ̀kẹ́ méjì ààbọ̀ ọdún ni ẹgbẹ̀rún lọ́nà àádọ́ta ọdún (50,000). Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Hajj; 22:47."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 568,
+  "verse_key": "70:4",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَعۡرُجُ ٱلۡمَلَٰٓئِكَةُ وَٱلرُّوحُ إِلَيۡهِ فِي يَوۡمٖ كَانَ مِقۡدَارُهُۥ خَمۡسِينَ أَلۡفَ سَنَةٖ",
+  "translation": "Àwọn mọlāika àti mọlāika Jibrīl ń gùnkè wá sí ọ̀dọ̀ Rẹ̀ nínú ọjọ́ kan tí òdiwọ̀n rẹ̀ jẹ́ ọ̀kẹ́ méjì ààbọ̀ ọdún (tí ẹ bá fẹ́ rìn ín).[1]",
+  "footnotes": "1. Ọ̀kẹ́ méjì ààbọ̀ ọdún ni ẹgbẹ̀rún lọ́nà àádọ́ta ọdún (50,000). Ẹ wo ìtọsẹ̀-ọ̀rọ̀ sūrah al-Hajj; 22:47."
 }

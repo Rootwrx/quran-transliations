@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5050",
-    "sura": "56",
-    "aya": "71",
-    "arabic_text": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
-    "translation": "اچھا ذرا یہ بھی بتاؤ کہ جو آگ تم سلگاتے ہو.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 536,
+  "verse_key": "56:71",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَرَءَيۡتُمُ ٱلنَّارَ ٱلَّتِي تُورُونَ",
+  "translation": "اچھا ذرا یہ بھی بتاؤ کہ جو آگ تم سلگاتے ہو.",
+  "footnotes": ""
 }

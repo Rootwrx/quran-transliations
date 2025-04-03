@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2927",
-    "sura": "25",
-    "aya": "72",
-    "arabic_text": "وَٱلَّذِينَ لَا يَشۡهَدُونَ ٱلزُّورَ وَإِذَا مَرُّواْ بِٱللَّغۡوِ مَرُّواْ كِرَامٗا",
-    "translation": "Na wale ambao hawatoi ushahidi wa uwongo, na pindi wapitapo penye upuuzi, hupita kwa hishima yao.",
-    "footnotes": "Na katika khulka za waja wa Mwingi wa Rehema ni kuwa wanajiepusha na kutoa ushahidi wa uwongo, na wakisadifu kukutana na mtu asiye kuwa na kauli au kitendo chema hawashirikiani naye katika hayo, na huacha kufuatana naye."
-  }
+  "id": 72,
+  "verse_number": 72,
+  "page_number": 366,
+  "verse_key": "25:72",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ لَا يَشۡهَدُونَ ٱلزُّورَ وَإِذَا مَرُّواْ بِٱللَّغۡوِ مَرُّواْ كِرَامٗا",
+  "translation": "Na wale ambao hawatoi ushahidi wa uwongo, na pindi wapitapo penye upuuzi, hupita kwa hishima yao.",
+  "footnotes": "Na katika khulka za waja wa Mwingi wa Rehema ni kuwa wanajiepusha na kutoa ushahidi wa uwongo, na wakisadifu kukutana na mtu asiye kuwa na kauli au kitendo chema hawashirikiani naye katika hayo, na huacha kufuatana naye."
 }

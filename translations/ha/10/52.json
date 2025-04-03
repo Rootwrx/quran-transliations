@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1416",
-    "sura": "10",
-    "aya": "52",
-    "arabic_text": "ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُواْ ذُوقُواْ عَذَابَ ٱلۡخُلۡدِ هَلۡ تُجۡزَوۡنَ إِلَّا بِمَا كُنتُمۡ تَكۡسِبُونَ",
-    "translation": "Sa'an nan kuma aka ce ga waɗanda suka yi zãlunci, \"Ku ɗanɗani azãbar dawwama! Shin, anã sãka muku fãce da abin da kuka kasance kuna aikatãwa?\"",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 214,
+  "verse_key": "10:52",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ قِيلَ لِلَّذِينَ ظَلَمُواْ ذُوقُواْ عَذَابَ ٱلۡخُلۡدِ هَلۡ تُجۡزَوۡنَ إِلَّا بِمَا كُنتُمۡ تَكۡسِبُونَ",
+  "translation": "Sa'an nan kuma aka ce ga waɗanda suka yi zãlunci, \"Ku ɗanɗani azãbar dawwama! Shin, anã sãka muku fãce da abin da kuka kasance kuna aikatãwa?\"",
+  "footnotes": ""
 }

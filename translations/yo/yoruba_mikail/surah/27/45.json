@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3204",
-    "sura": "27",
-    "aya": "45",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَآ إِلَىٰ ثَمُودَ أَخَاهُمۡ صَٰلِحًا أَنِ ٱعۡبُدُواْ ٱللَّهَ فَإِذَا هُمۡ فَرِيقَانِ يَخۡتَصِمُونَ",
-    "translation": "Dájúdájú A ti ránṣẹ́ sí ìjọ Thamūd. (A rán) arákùnrin wọn, Sọ̄lih (níṣẹ́ sí wọn), pé: “Ẹ jọ́sìn fún Allāhu.” Nígbà náà ni wọ́n pín sí ìjọ méjì, tó ń bára wọn jiyàn.",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 381,
+  "verse_key": "27:45",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَآ إِلَىٰ ثَمُودَ أَخَاهُمۡ صَٰلِحًا أَنِ ٱعۡبُدُواْ ٱللَّهَ فَإِذَا هُمۡ فَرِيقَانِ يَخۡتَصِمُونَ",
+  "translation": "Dájúdájú A ti ránṣẹ́ sí ìjọ Thamūd. (A rán) arákùnrin wọn, Sọ̄lih (níṣẹ́ sí wọn), pé: “Ẹ jọ́sìn fún Allāhu.” Nígbà náà ni wọ́n pín sí ìjọ méjì, tó ń bára wọn jiyàn.",
+  "footnotes": ""
 }

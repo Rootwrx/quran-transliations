@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "102",
-    "sura": "2",
-    "aya": "95",
-    "arabic_text": "وَلَن يَتَمَنَّوۡهُ أَبَدَۢا بِمَا قَدَّمَتۡ أَيۡدِيهِمۡۚ وَٱللَّهُ عَلِيمُۢ بِٱلظَّٰلِمِينَ",
-    "translation": "95. Mpe bakondimaka yango te na mbeba oyo basalaki. Mpe Allah nde moyebi ya babubi.",
-    "footnotes": ""
-  }
+  "id": 95,
+  "verse_number": 95,
+  "page_number": 15,
+  "verse_key": "2:95",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَن يَتَمَنَّوۡهُ أَبَدَۢا بِمَا قَدَّمَتۡ أَيۡدِيهِمۡۚ وَٱللَّهُ عَلِيمُۢ بِٱلظَّٰلِمِينَ",
+  "translation": "95. Mpe bakondimaka yango te na mbeba oyo basalaki. Mpe Allah nde moyebi ya babubi.",
+  "footnotes": ""
 }

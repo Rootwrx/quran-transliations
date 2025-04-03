@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1828",
-    "sura": "15",
-    "aya": "26",
-    "arabic_text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
-    "translation": "26. He creado al ser humano de arcilla, un barro maleable[1].",
-    "footnotes": "[1] Existen numerosas referencias en el Corán a que el ser humano ha sido “creado de arcilla (tin طين)” o “de tierra (turab تراب)”, y ambos términos apuntan al humilde origen biológico del ser humano, así como al hecho de que su cuerpo está compuesto de diversas substancias orgánicas e inorgánicas que existen, en otras combinaciones o en sus formas elementales, sobre la tierra o en su interior. El término salsal صلصال, que aparece en tres versículos de este capítulo y también en 55:14, añade una nueva dimensión a este concepto. Según la mayoría de los expertos en filología árabe, denota “arcilla seca que produce sonido” (al ser golpeada); y dado que se emplea en el Corán exclusivamente con referencia a la creación del ser humano, parece contener una alusión a su capacidad para el “lenguaje articulado”. Mientras que hama’ حمإ es un “barro” mezcla de tierra y agua, que son otros dos componentes que se mencionan en el Corán relacionados a la creación del ser humano, a lo que se suma el adjetivo masnún مسنون que significa “moldeado” o “maleable”."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 263,
+  "verse_key": "15:26",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ خَلَقۡنَا ٱلۡإِنسَٰنَ مِن صَلۡصَٰلٖ مِّنۡ حَمَإٖ مَّسۡنُونٖ",
+  "translation": "26. He creado al ser humano de arcilla, un barro maleable[1].",
+  "footnotes": "[1] Existen numerosas referencias en el Corán a que el ser humano ha sido “creado de arcilla (tin طين)” o “de tierra (turab تراب)”, y ambos términos apuntan al humilde origen biológico del ser humano, así como al hecho de que su cuerpo está compuesto de diversas substancias orgánicas e inorgánicas que existen, en otras combinaciones o en sus formas elementales, sobre la tierra o en su interior. El término salsal صلصال, que aparece en tres versículos de este capítulo y también en 55:14, añade una nueva dimensión a este concepto. Según la mayoría de los expertos en filología árabe, denota “arcilla seca que produce sonido” (al ser golpeada); y dado que se emplea en el Corán exclusivamente con referencia a la creación del ser humano, parece contener una alusión a su capacidad para el “lenguaje articulado”. Mientras que hama’ حمإ es un “barro” mezcla de tierra y agua, que son otros dos componentes que se mencionan en el Corán relacionados a la creación del ser humano, a lo que se suma el adjetivo masnún مسنون que significa “moldeado” o “maleable”."
 }

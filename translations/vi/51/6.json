@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4681",
-    "sura": "51",
-    "aya": "6",
-    "arabic_text": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ",
-    "translation": "Thật vậy, sự việc phán xét thưởng phạt (của Ngày Phán Xét Cuối Cùng) chắc chắn sẽ xảy ra.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 520,
+  "verse_key": "51:6",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ ٱلدِّينَ لَوَٰقِعٞ",
+  "translation": "Thật vậy, sự việc phán xét thưởng phạt (của Ngày Phán Xét Cuối Cùng) chắc chắn sẽ xảy ra.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4704",
-    "sura": "51",
-    "aya": "29",
-    "arabic_text": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
-    "translation": "29. Toen kwam zijn vrouw tevoorschijn met een luide stem, zij sloeg haar gezicht en zei: ”Ik ben een oude onvruchtbare vrouw!”",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 521,
+  "verse_key": "51:29",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَقۡبَلَتِ ٱمۡرَأَتُهُۥ فِي صَرَّةٖ فَصَكَّتۡ وَجۡهَهَا وَقَالَتۡ عَجُوزٌ عَقِيمٞ",
+  "translation": "29. Toen kwam zijn vrouw tevoorschijn met een luide stem, zij sloeg haar gezicht en zei: ”Ik ben een oude onvruchtbare vrouw!”",
+  "footnotes": ""
 }

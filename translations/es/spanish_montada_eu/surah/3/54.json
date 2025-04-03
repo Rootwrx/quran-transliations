@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "347",
-    "sura": "3",
-    "aya": "54",
-    "arabic_text": "وَمَكَرُواْ وَمَكَرَ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
-    "translation": "54. Y (los judíos) tramaron (un plan para matar a Jesús), pero Al-lah también tramó (un plan para salvarlo[103]), y Al-lah es el mejor planeando.",
-    "footnotes": "[103]  Según la creencia islámica, Jesús —la paz de Al-lah esté con él— no murió en la cruz, sino que Al-lah lo salvó ascendiéndolo en vida hacia Él; y crucificaron en su lugar a otro hombre que guardaba un gran parecido con él, de manera que los judíos pensaron que Jesús —la paz de Al-lah esté con él—había muerto realmente."
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 57,
+  "verse_key": "3:54",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَكَرُواْ وَمَكَرَ ٱللَّهُۖ وَٱللَّهُ خَيۡرُ ٱلۡمَٰكِرِينَ",
+  "translation": "54. Y (los judíos) tramaron (un plan para matar a Jesús), pero Al-lah también tramó (un plan para salvarlo[103]), y Al-lah es el mejor planeando.",
+  "footnotes": "[103]  Según la creencia islámica, Jesús —la paz de Al-lah esté con él— no murió en la cruz, sino que Al-lah lo salvó ascendiéndolo en vida hacia Él; y crucificaron en su lugar a otro hombre que guardaba un gran parecido con él, de manera que los judíos pensaron que Jesús —la paz de Al-lah esté con él—había muerto realmente."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5876",
-    "sura": "83",
-    "aya": "28",
-    "arabic_text": "عَيۡنٗا يَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ",
-    "translation": "28. el cual es un manantial del que beben los más allegados (a Al-lah).",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 588,
+  "verse_key": "83:28",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَيۡنٗا يَشۡرَبُ بِهَا ٱلۡمُقَرَّبُونَ",
+  "translation": "28. el cual es un manantial del que beben los más allegados (a Al-lah).",
+  "footnotes": ""
 }

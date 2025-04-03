@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4489",
-    "sura": "45",
-    "aya": "16",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ",
-    "translation": "Na hakika tuliwapa Wana wa Israili Kitabu na hukumu na Unabii, na tukawaruzuku vitu vizuri vizuri, na tukawafadhilisha kuliko walimwengu wote.",
-    "footnotes": "Ninaapa kwa hakika tumewapa Wana wa Israili Taurati, na hukumu iliomo ndani yake, na Unabii ulio funuliwa kutoka kwa Mwenyezi Mungu. Na tumewaruzuku kheri namna mbali mbali, na tumewafadhilisha wao katika neema nyingi juu ya viumbe vyote."
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 500,
+  "verse_key": "45:16",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ",
+  "translation": "Na hakika tuliwapa Wana wa Israili Kitabu na hukumu na Unabii, na tukawaruzuku vitu vizuri vizuri, na tukawafadhilisha kuliko walimwengu wote.",
+  "footnotes": "Ninaapa kwa hakika tumewapa Wana wa Israili Taurati, na hukumu iliomo ndani yake, na Unabii ulio funuliwa kutoka kwa Mwenyezi Mungu. Na tumewaruzuku kheri namna mbali mbali, na tumewafadhilisha wao katika neema nyingi juu ya viumbe vyote."
 }

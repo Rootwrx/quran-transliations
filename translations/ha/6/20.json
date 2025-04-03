@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "809",
-    "sura": "6",
-    "aya": "20",
-    "arabic_text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡرِفُونَهُۥ كَمَا يَعۡرِفُونَ أَبۡنَآءَهُمُۘ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُونَ",
-    "translation": "Waɗanda Muka bã su Littãfi sunã sanin sa* kamar yadda suke sanin ɗiyansu. Waɗanda suka yi hasãrar rãyukansu, to, sũ bã su yin ĩmãni.",
-    "footnotes": "* Yahũdu da Nasãra sunã sanin Annabi Muhammadu tsĩra da aminci su tabbata a gare shi, da abin da ya zo da shi na Alƙur'ãni, kamar yadda suka san ɗiyan tsatsõnsu; kamar yadda Abdullahi ɗan Sallãmi ya ce wa Umar: \"Lalle ne na san shi a lõkacin da na gan shi, kamar yadda nake sanin ɗãna, kuma lalle ne, ni, mãfi tsananin sani ne ga Muhammadu fiye da ɗãna.\"."
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 130,
+  "verse_key": "6:20",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ ءَاتَيۡنَٰهُمُ ٱلۡكِتَٰبَ يَعۡرِفُونَهُۥ كَمَا يَعۡرِفُونَ أَبۡنَآءَهُمُۘ ٱلَّذِينَ خَسِرُوٓاْ أَنفُسَهُمۡ فَهُمۡ لَا يُؤۡمِنُونَ",
+  "translation": "Waɗanda Muka bã su Littãfi sunã sanin sa* kamar yadda suke sanin ɗiyansu. Waɗanda suka yi hasãrar rãyukansu, to, sũ bã su yin ĩmãni.",
+  "footnotes": "* Yahũdu da Nasãra sunã sanin Annabi Muhammadu tsĩra da aminci su tabbata a gare shi, da abin da ya zo da shi na Alƙur'ãni, kamar yadda suka san ɗiyan tsatsõnsu; kamar yadda Abdullahi ɗan Sallãmi ya ce wa Umar: \"Lalle ne na san shi a lõkacin da na gan shi, kamar yadda nake sanin ɗãna, kuma lalle ne, ni, mãfi tsananin sani ne ga Muhammadu fiye da ɗãna.\"."
 }

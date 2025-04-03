@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4670",
-    "sura": "50",
-    "aya": "40",
-    "arabic_text": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَأَدۡبَٰرَ ٱلسُّجُودِ",
-    "translation": "Туннинг бир қисмида ҳам, саждалар ортидан ҳам тасбеҳ айтинг.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 520,
+  "verse_key": "50:40",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَأَدۡبَٰرَ ٱلسُّجُودِ",
+  "translation": "Туннинг бир қисмида ҳам, саждалар ортидан ҳам тасбеҳ айтинг.",
+  "footnotes": ""
 }

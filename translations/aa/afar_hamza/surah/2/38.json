@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "45",
-    "sura": "2",
-    "aya": "38",
-    "arabic_text": "قُلۡنَا ٱهۡبِطُواْ مِنۡهَا جَمِيعٗاۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَن تَبِعَ هُدَايَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
-    "translation": "38.Yalli keenik iyyeh : isin jannatak inkih (Aadamaay, cawwaay, ibliis kinnuk) Baaxö fanah oobaay Aadam kee Cawwak sin Samaday (Raddi) siinil kataatah tirto edde tanim Siinih tascassee farmoytit kee Anu keenil oobisa kitooba Siinih yi-xaquk temeetek, tokkel Siinik yi-tirto kataate mari, toysa ken Amol ellecaboh ayroh meesi matanaay, Addunyak keenik taturteemih ma-rookitan keenik inne iyye yalli.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 7,
+  "verse_key": "2:38",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡنَا ٱهۡبِطُواْ مِنۡهَا جَمِيعٗاۖ فَإِمَّا يَأۡتِيَنَّكُم مِّنِّي هُدٗى فَمَن تَبِعَ هُدَايَ فَلَا خَوۡفٌ عَلَيۡهِمۡ وَلَا هُمۡ يَحۡزَنُونَ",
+  "translation": "38.Yalli keenik iyyeh : isin jannatak inkih (Aadamaay, cawwaay, ibliis kinnuk) Baaxö fanah oobaay Aadam kee Cawwak sin Samaday (Raddi) siinil kataatah tirto edde tanim Siinih tascassee farmoytit kee Anu keenil oobisa kitooba Siinih yi-xaquk temeetek, tokkel Siinik yi-tirto kataate mari, toysa ken Amol ellecaboh ayroh meesi matanaay, Addunyak keenik taturteemih ma-rookitan keenik inne iyye yalli.",
+  "footnotes": ""
 }

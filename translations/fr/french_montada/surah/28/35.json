@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3287",
-    "sura": "28",
-    "aya": "35",
-    "arabic_text": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجۡعَلُ لَكُمَا سُلۡطَٰنٗا فَلَا يَصِلُونَ إِلَيۡكُمَا بِـَٔايَٰتِنَآۚ أَنتُمَا وَمَنِ ٱتَّبَعَكُمَا ٱلۡغَٰلِبُونَ",
-    "translation": "35. « Nous ferons que ton frère te prête main forte, et Nous vous donnerons, à tous les deux, des arguments d’autorité et ils ne pourront vous atteindre. Grâce à Nos Signes, vous deux, ainsi que ceux qui vous suivront, serez les vainqueurs. »",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 389,
+  "verse_key": "28:35",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ سَنَشُدُّ عَضُدَكَ بِأَخِيكَ وَنَجۡعَلُ لَكُمَا سُلۡطَٰنٗا فَلَا يَصِلُونَ إِلَيۡكُمَا بِـَٔايَٰتِنَآۚ أَنتُمَا وَمَنِ ٱتَّبَعَكُمَا ٱلۡغَٰلِبُونَ",
+  "translation": "35. « Nous ferons que ton frère te prête main forte, et Nous vous donnerons, à tous les deux, des arguments d’autorité et ils ne pourront vous atteindre. Grâce à Nos Signes, vous deux, ainsi que ceux qui vous suivront, serez les vainqueurs. »",
+  "footnotes": ""
 }

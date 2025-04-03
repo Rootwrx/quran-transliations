@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2025",
-    "sura": "16",
-    "aya": "124",
-    "arabic_text": "إِنَّمَا جُعِلَ ٱلسَّبۡتُ عَلَى ٱلَّذِينَ ٱخۡتَلَفُواْ فِيهِۚ وَإِنَّ رَبَّكَ لَيَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
-    "translation": "Hakika siku ya Sabato (Jumaamosi) waliwekewa wale walio khitalifiana kwa ajili yake. Na hakika Mola wako Mlezi bila ya shaka atahukumu baina yao Siku ya Kiyama katika yale waliyo kuwa wakikhitalifiana.",
-    "footnotes": "Wala sio kuitukuza siku ya Ijumaa na kuiacha Jumaamosi kama ilivyo katika Uislamu kuwa ni kukhitalifiana na alivyo kuwa akifanya Ibrahim, kama wanavyo dai Mayahudi. Kwani kuharimishwa kuvua (na kufanya kazi nyengine) siku ya Jumaamosi, ndio Siku ya Sabato, kwa sababu ya kuitukuza haikuwamo katika sharia ya Ibrahim. Hayo walilazimishwa Mayahudi tu (ambao hata hawakuwapo zama za Ibrahim). Na juu ya hivyo hawakuitukuza, bali baadhi yao waliacha kutukuza huko, na wakenda kinyume na amri ya Mola wao Mlezi. Basi yawaje hata wanawatia makosani wengine kwa kutolazimishwa kutukuza jambo ambalo wao walio lazimishwa wameliasi? Ewe Nabii! Kuwa na yakini kuwa Mola wako Mlezi atawahukumu hao Siku ya Kiyama katika hayo mambo wanayo khitalifiana kwayo, na atamlipa kila mmoja wao kwa vitendo vyake."
-  }
+  "id": 124,
+  "verse_number": 124,
+  "page_number": 281,
+  "verse_key": "16:124",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا جُعِلَ ٱلسَّبۡتُ عَلَى ٱلَّذِينَ ٱخۡتَلَفُواْ فِيهِۚ وَإِنَّ رَبَّكَ لَيَحۡكُمُ بَيۡنَهُمۡ يَوۡمَ ٱلۡقِيَٰمَةِ فِيمَا كَانُواْ فِيهِ يَخۡتَلِفُونَ",
+  "translation": "Hakika siku ya Sabato (Jumaamosi) waliwekewa wale walio khitalifiana kwa ajili yake. Na hakika Mola wako Mlezi bila ya shaka atahukumu baina yao Siku ya Kiyama katika yale waliyo kuwa wakikhitalifiana.",
+  "footnotes": "Wala sio kuitukuza siku ya Ijumaa na kuiacha Jumaamosi kama ilivyo katika Uislamu kuwa ni kukhitalifiana na alivyo kuwa akifanya Ibrahim, kama wanavyo dai Mayahudi. Kwani kuharimishwa kuvua (na kufanya kazi nyengine) siku ya Jumaamosi, ndio Siku ya Sabato, kwa sababu ya kuitukuza haikuwamo katika sharia ya Ibrahim. Hayo walilazimishwa Mayahudi tu (ambao hata hawakuwapo zama za Ibrahim). Na juu ya hivyo hawakuitukuza, bali baadhi yao waliacha kutukuza huko, na wakenda kinyume na amri ya Mola wao Mlezi. Basi yawaje hata wanawatia makosani wengine kwa kutolazimishwa kutukuza jambo ambalo wao walio lazimishwa wameliasi? Ewe Nabii! Kuwa na yakini kuwa Mola wako Mlezi atawahukumu hao Siku ya Kiyama katika hayo mambo wanayo khitalifiana kwayo, na atamlipa kila mmoja wao kwa vitendo vyake."
 }

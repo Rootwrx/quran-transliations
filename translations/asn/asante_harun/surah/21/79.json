@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2562",
-    "sura": "21",
-    "aya": "79",
-    "arabic_text": "فَفَهَّمۡنَٰهَا سُلَيۡمَٰنَۚ وَكُلًّا ءَاتَيۡنَا حُكۡمٗا وَعِلۡمٗاۚ وَسَخَّرۡنَا مَعَ دَاوُۥدَ ٱلۡجِبَالَ يُسَبِّحۡنَ وَٱلطَّيۡرَۚ وَكُنَّا فَٰعِلِينَ",
-    "translation": "Enti Yεmaa Solomon nyaa (asεm no) ho nteaseε. Wͻn mu biara, Yεmaa (no) nyansa ne adwen; na Yεbrεε mmepͻ ne nnomaa ase kaa Dawid ho maa wͻbͻͻ Yεn abodin. Yεn na Yεyεε (woi nom nyinaa).",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 328,
+  "verse_key": "21:79",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 131,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَفَهَّمۡنَٰهَا سُلَيۡمَٰنَۚ وَكُلًّا ءَاتَيۡنَا حُكۡمٗا وَعِلۡمٗاۚ وَسَخَّرۡنَا مَعَ دَاوُۥدَ ٱلۡجِبَالَ يُسَبِّحۡنَ وَٱلطَّيۡرَۚ وَكُنَّا فَٰعِلِينَ",
+  "translation": "Enti Yεmaa Solomon nyaa (asεm no) ho nteaseε. Wͻn mu biara, Yεmaa (no) nyansa ne adwen; na Yεbrεε mmepͻ ne nnomaa ase kaa Dawid ho maa wͻbͻͻ Yεn abodin. Yεn na Yεyεε (woi nom nyinaa).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2229",
-    "sura": "18",
-    "aya": "89",
-    "arabic_text": "ثُمَّ أَتۡبَعَ سَبَبًا",
-    "translation": "随后他又遵循一条路，",
-    "footnotes": ""
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 303,
+  "verse_key": "18:89",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ أَتۡبَعَ سَبَبًا",
+  "translation": "随后他又遵循一条路，",
+  "footnotes": ""
 }

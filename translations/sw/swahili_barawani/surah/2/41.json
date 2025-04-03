@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "48",
-    "sura": "2",
-    "aya": "41",
-    "arabic_text": "وَءَامِنُواْ بِمَآ أَنزَلۡتُ مُصَدِّقٗا لِّمَا مَعَكُمۡ وَلَا تَكُونُوٓاْ أَوَّلَ كَافِرِۭ بِهِۦۖ وَلَا تَشۡتَرُواْ بِـَٔايَٰتِي ثَمَنٗا قَلِيلٗا وَإِيَّٰيَ فَٱتَّقُونِ",
-    "translation": "Na aminini niliyo yateremsha ambayo yanasadikisha mliyo nayo, wala msiwe wa kwanza kuyakataa. Wala msiuze Ishara zangu kwa thamani ndogo. Na niogopeni Mimi tu.",
-    "footnotes": "Na isadikini Qur'ani iliyo teremshwa kusadikisha vile vitabu mlivyo navyo, na kufunza Tawhidi (kuwa Mwenyezi Mungu ni mmoja) na kumwabudu Mwenyezi Mungu, na uadilifu baina ya watu. Wala msikimbilie kutaka kuipinga Qur'ani msije mkawa ndio wa mwanzo kuikana, na ilhali ifaavyo ni nyinyi ndio muwe wa mwanzo kuiamini. Wala msiziache Ishara za Mwenyezi Mungu mkenda badala yake mkachukua chenginecho kipitacho njia katika starehe za uhai wa dunia. Na niogopeni Mimi tu, na fuateni Njia yangu, na wacheni upotovu."
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 7,
+  "verse_key": "2:41",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَامِنُواْ بِمَآ أَنزَلۡتُ مُصَدِّقٗا لِّمَا مَعَكُمۡ وَلَا تَكُونُوٓاْ أَوَّلَ كَافِرِۭ بِهِۦۖ وَلَا تَشۡتَرُواْ بِـَٔايَٰتِي ثَمَنٗا قَلِيلٗا وَإِيَّٰيَ فَٱتَّقُونِ",
+  "translation": "Na aminini niliyo yateremsha ambayo yanasadikisha mliyo nayo, wala msiwe wa kwanza kuyakataa. Wala msiuze Ishara zangu kwa thamani ndogo. Na niogopeni Mimi tu.",
+  "footnotes": "Na isadikini Qur'ani iliyo teremshwa kusadikisha vile vitabu mlivyo navyo, na kufunza Tawhidi (kuwa Mwenyezi Mungu ni mmoja) na kumwabudu Mwenyezi Mungu, na uadilifu baina ya watu. Wala msikimbilie kutaka kuipinga Qur'ani msije mkawa ndio wa mwanzo kuikana, na ilhali ifaavyo ni nyinyi ndio muwe wa mwanzo kuiamini. Wala msiziache Ishara za Mwenyezi Mungu mkenda badala yake mkachukua chenginecho kipitacho njia katika starehe za uhai wa dunia. Na niogopeni Mimi tu, na fuateni Njia yangu, na wacheni upotovu."
 }

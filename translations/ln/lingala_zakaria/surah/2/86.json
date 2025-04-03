@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "93",
-    "sura": "2",
-    "aya": "86",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا بِٱلۡأٓخِرَةِۖ فَلَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنصَرُونَ",
-    "translation": "86. Ba oyo bazali kosomba bomoyi ya nsé kotika bomoyi ya lobi. Mpe tokokutola etumbu na bango te mpe bakosungama te.",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 13,
+  "verse_key": "2:86",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا بِٱلۡأٓخِرَةِۖ فَلَا يُخَفَّفُ عَنۡهُمُ ٱلۡعَذَابُ وَلَا هُمۡ يُنصَرُونَ",
+  "translation": "86. Ba oyo bazali kosomba bomoyi ya nsé kotika bomoyi ya lobi. Mpe tokokutola etumbu na bango te mpe bakosungama te.",
+  "footnotes": ""
 }

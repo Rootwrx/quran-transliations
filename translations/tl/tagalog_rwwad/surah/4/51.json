@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "544",
-    "sura": "4",
-    "aya": "51",
-    "arabic_text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يُؤۡمِنُونَ بِٱلۡجِبۡتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُواْ هَٰٓؤُلَآءِ أَهۡدَىٰ مِنَ ٱلَّذِينَ ءَامَنُواْ سَبِيلًا",
-    "translation": "Hindi ka ba nakaalam sa mga [Hudyong] binigyan ng isang bahagi mula sa Kasulatan? Sumasampalataya sila sa dinidiyos at nagpapakadiyos at nagsasabi sila sa mga tumangging sumampalataya na ang mga ito ay higit na napatnubayan kaysa sa mga sumampalataya ayon sa landas.",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 86,
+  "verse_key": "4:51",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ أُوتُواْ نَصِيبٗا مِّنَ ٱلۡكِتَٰبِ يُؤۡمِنُونَ بِٱلۡجِبۡتِ وَٱلطَّٰغُوتِ وَيَقُولُونَ لِلَّذِينَ كَفَرُواْ هَٰٓؤُلَآءِ أَهۡدَىٰ مِنَ ٱلَّذِينَ ءَامَنُواْ سَبِيلًا",
+  "translation": "Hindi ka ba nakaalam sa mga [Hudyong] binigyan ng isang bahagi mula sa Kasulatan? Sumasampalataya sila sa dinidiyos at nagpapakadiyos at nagsasabi sila sa mga tumangging sumampalataya na ang mga ito ay higit na napatnubayan kaysa sa mga sumampalataya ayon sa landas.",
+  "footnotes": ""
 }

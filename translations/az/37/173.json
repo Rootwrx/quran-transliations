@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3961",
-    "sura": "37",
-    "aya": "173",
-    "arabic_text": "وَإِنَّ جُندَنَا لَهُمُ ٱلۡغَٰلِبُونَ",
-    "translation": "Ordumuz mütləq qalib gələcəkdir”.",
-    "footnotes": ""
-  }
+  "id": 173,
+  "verse_number": 173,
+  "page_number": 452,
+  "verse_key": "37:173",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ جُندَنَا لَهُمُ ٱلۡغَٰلِبُونَ",
+  "translation": "Ordumuz mütləq qalib gələcəkdir”.",
+  "footnotes": ""
 }

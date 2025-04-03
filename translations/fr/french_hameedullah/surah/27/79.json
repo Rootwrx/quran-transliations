@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3238",
-    "sura": "27",
-    "aya": "79",
-    "arabic_text": "فَتَوَكَّلۡ عَلَى ٱللَّهِۖ إِنَّكَ عَلَى ٱلۡحَقِّ ٱلۡمُبِينِ",
-    "translation": "Place donc ta confiance en Allah, car tu es de toute évidence dans la vérité et le bon droit.",
-    "footnotes": ""
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 384,
+  "verse_key": "27:79",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتَوَكَّلۡ عَلَى ٱللَّهِۖ إِنَّكَ عَلَى ٱلۡحَقِّ ٱلۡمُبِينِ",
+  "translation": "Place donc ta confiance en Allah, car tu es de toute évidence dans la vérité et le bon droit.",
+  "footnotes": ""
 }

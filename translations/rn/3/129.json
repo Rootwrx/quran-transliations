@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "422",
-    "sura": "3",
-    "aya": "129",
-    "arabic_text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
-    "translation": "Imana Allah ni Yo Rugaba Igaba Ikaganza ibiri mu majuru n’ibiri mw’isi n’ibiri hagati yavyo. Igumiriza akabanga ku vyaha uwo Ishatse ku mpuhwe zayo, maze Ikamubabarira; Igahana uwo Ishatse ku butungane bwayo ata we Irenganije. Burya rero Imana Allah ni Nyenimbabazi-ntangere ku bigaya, Nyenimbabazi ku batoni bayo.",
-    "footnotes": ""
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 66,
+  "verse_key": "3:129",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۚ يَغۡفِرُ لِمَن يَشَآءُ وَيُعَذِّبُ مَن يَشَآءُۚ وَٱللَّهُ غَفُورٞ رَّحِيمٞ",
+  "translation": "Imana Allah ni Yo Rugaba Igaba Ikaganza ibiri mu majuru n’ibiri mw’isi n’ibiri hagati yavyo. Igumiriza akabanga ku vyaha uwo Ishatse ku mpuhwe zayo, maze Ikamubabarira; Igahana uwo Ishatse ku butungane bwayo ata we Irenganije. Burya rero Imana Allah ni Nyenimbabazi-ntangere ku bigaya, Nyenimbabazi ku batoni bayo.",
+  "footnotes": ""
 }

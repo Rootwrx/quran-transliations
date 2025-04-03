@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3984",
-    "sura": "38",
-    "aya": "14",
-    "arabic_text": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
-    "translation": "Bãmb yembr fãa pa yɩ rẽndame t'a yagsa tẽn-tʋʋmbã, tɩ Mam naongã sɩdg b zugu.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 453,
+  "verse_key": "38:14",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن كُلٌّ إِلَّا كَذَّبَ ٱلرُّسُلَ فَحَقَّ عِقَابِ",
+  "translation": "Bãmb yembr fãa pa yɩ rẽndame t'a yagsa tẽn-tʋʋmbã, tɩ Mam naongã sɩdg b zugu.",
+  "footnotes": ""
 }

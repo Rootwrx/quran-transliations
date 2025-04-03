@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3799",
-    "sura": "37",
-    "aya": "11",
-    "arabic_text": "فَٱسۡتَفۡتِهِمۡ أَهُمۡ أَشَدُّ خَلۡقًا أَم مَّنۡ خَلَقۡنَآۚ إِنَّا خَلَقۡنَٰهُم مِّن طِينٖ لَّازِبِۭ",
-    "translation": "Onlardan (öldükdən sonra yenidə dirilməyi inkar edən kafirlərdən) soruş: Onları yaratmaq çətindir, yoxsa Bizim (başqa) yaratdıqlarımızı? Biz onları yapışqan bir palçıqdan yaratdıq.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 446,
+  "verse_key": "37:11",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱسۡتَفۡتِهِمۡ أَهُمۡ أَشَدُّ خَلۡقًا أَم مَّنۡ خَلَقۡنَآۚ إِنَّا خَلَقۡنَٰهُم مِّن طِينٖ لَّازِبِۭ",
+  "translation": "Onlardan (öldükdən sonra yenidə dirilməyi inkar edən kafirlərdən) soruş: Onları yaratmaq çətindir, yoxsa Bizim (başqa) yaratdıqlarımızı? Biz onları yapışqan bir palçıqdan yaratdıq.",
+  "footnotes": ""
 }

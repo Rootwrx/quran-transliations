@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4551",
-    "sura": "47",
-    "aya": "6",
-    "arabic_text": "وَيُدۡخِلُهُمُ ٱلۡجَنَّةَ عَرَّفَهَا لَهُمۡ",
-    "translation": "Kuma Ya shigarda su Aljanna (wadda) Ya siffanta ta a gare su.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 507,
+  "verse_key": "47:6",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُدۡخِلُهُمُ ٱلۡجَنَّةَ عَرَّفَهَا لَهُمۡ",
+  "translation": "Kuma Ya shigarda su Aljanna (wadda) Ya siffanta ta a gare su.",
+  "footnotes": ""
 }

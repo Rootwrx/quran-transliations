@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5034",
-    "sura": "56",
-    "aya": "55",
-    "arabic_text": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
-    "translation": "象害消渴病的骆驼那样暴饮。",
-    "footnotes": ""
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 536,
+  "verse_key": "56:55",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَشَٰرِبُونَ شُرۡبَ ٱلۡهِيمِ",
+  "translation": "象害消渴病的骆驼那样暴饮。",
+  "footnotes": ""
 }

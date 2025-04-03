@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2436",
-    "sura": "20",
-    "aya": "88",
-    "arabic_text": "فَأَخۡرَجَ لَهُمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٞ فَقَالُواْ هَٰذَآ إِلَٰهُكُمۡ وَإِلَٰهُ مُوسَىٰ فَنَسِيَ",
-    "translation": "Ó sì (fi mọ) ọmọ màálù ọ̀bọrọgidi kan jáde fún wọn, tó ń dún (bíi màálù). Wọ́n sì wí pé: “Èyí ni ọlọ́hun yín àti ọlọ́hun Mūsā. Àmọ́ ó ti gbàgbé (rẹ̀).”",
-    "footnotes": ""
-  }
+  "id": 88,
+  "verse_number": 88,
+  "page_number": 318,
+  "verse_key": "20:88",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَخۡرَجَ لَهُمۡ عِجۡلٗا جَسَدٗا لَّهُۥ خُوَارٞ فَقَالُواْ هَٰذَآ إِلَٰهُكُمۡ وَإِلَٰهُ مُوسَىٰ فَنَسِيَ",
+  "translation": "Ó sì (fi mọ) ọmọ màálù ọ̀bọrọgidi kan jáde fún wọn, tó ń dún (bíi màálù). Wọ́n sì wí pé: “Èyí ni ọlọ́hun yín àti ọlọ́hun Mūsā. Àmọ́ ó ti gbàgbé (rẹ̀).”",
+  "footnotes": ""
 }

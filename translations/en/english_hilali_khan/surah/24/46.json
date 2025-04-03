@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2837",
-    "sura": "24",
-    "aya": "46",
-    "arabic_text": "لَّقَدۡ أَنزَلۡنَآ ءَايَٰتٖ مُّبَيِّنَٰتٖۚ وَٱللَّهُ يَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
-    "translation": " 46. We have indeed sent down (in this Qur’ân) manifest Ayât (proofs, evidence, verses, lessons, signs, revelations, lawful and unlawful things, and the set boundaries of Islâmic religion, etc. that make things clear showing the Right Path of Allâh). And Allâh guides whom He wills to the Straight Path (i.e. to Allâh’s religion of Islâmic Monotheism).",
-    "footnotes": ""
-  }
+  "id": 46,
+  "verse_number": 46,
+  "page_number": 356,
+  "verse_key": "24:46",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 142,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّقَدۡ أَنزَلۡنَآ ءَايَٰتٖ مُّبَيِّنَٰتٖۚ وَٱللَّهُ يَهۡدِي مَن يَشَآءُ إِلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ",
+  "translation": " 46. We have indeed sent down (in this Qur’ân) manifest Ayât (proofs, evidence, verses, lessons, signs, revelations, lawful and unlawful things, and the set boundaries of Islâmic religion, etc. that make things clear showing the Right Path of Allâh). And Allâh guides whom He wills to the Straight Path (i.e. to Allâh’s religion of Islâmic Monotheism).",
+  "footnotes": ""
 }

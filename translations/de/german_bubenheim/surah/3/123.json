@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "416",
-    "sura": "3",
-    "aya": "123",
-    "arabic_text": "وَلَقَدۡ نَصَرَكُمُ ٱللَّهُ بِبَدۡرٖ وَأَنتُمۡ أَذِلَّةٞۖ فَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تَشۡكُرُونَ",
-    "translation": "Allah hat euch doch schon in Badr geholfen, als ihr verächtlich erschient. Darum fürchtet Allah, auf daß ihr dankbar sein möget!",
-    "footnotes": null
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 66,
+  "verse_key": "3:123",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 26,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ نَصَرَكُمُ ٱللَّهُ بِبَدۡرٖ وَأَنتُمۡ أَذِلَّةٞۖ فَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تَشۡكُرُونَ",
+  "translation": "Allah hat euch doch schon in Badr geholfen, als ihr verächtlich erschient. Darum fürchtet Allah, auf daß ihr dankbar sein möget!",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "803",
-    "sura": "6",
-    "aya": "14",
-    "arabic_text": "قُلۡ أَغَيۡرَ ٱللَّهِ أَتَّخِذُ وَلِيّٗا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَهُوَ يُطۡعِمُ وَلَا يُطۡعَمُۗ قُلۡ إِنِّيٓ أُمِرۡتُ أَنۡ أَكُونَ أَوَّلَ مَنۡ أَسۡلَمَۖ وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِينَ",
-    "translation": "Sọ pé: “Ṣé kí n̄g mú olùrànlọ́wọ́ kan yàtọ̀ sí Allāhu, Ẹlẹ́dàá àwọn sánmọ̀ àti ilẹ̀? Òun sì ni Ó ń bọ́ (ẹ̀dá), wọn kì í bọ́ Ọ.” Sọ pé: “Dájúdájú Wọ́n pa mí láṣẹ pé kí n̄g jẹ́ ẹni àkọ́kọ́ tí ó máa ṣe ’Islām (ní àsìkò tèmi).”[1] Ìwọ kò sì gbọdọ̀ wà nínú àwọn ọ̀ṣẹbọ.",
-    "footnotes": "1. Ìyẹn nínú ìjọ rẹ̀ torí pé gbogbo ànábì ló bá Islām nílé ayé."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 129,
+  "verse_key": "6:14",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَغَيۡرَ ٱللَّهِ أَتَّخِذُ وَلِيّٗا فَاطِرِ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَهُوَ يُطۡعِمُ وَلَا يُطۡعَمُۗ قُلۡ إِنِّيٓ أُمِرۡتُ أَنۡ أَكُونَ أَوَّلَ مَنۡ أَسۡلَمَۖ وَلَا تَكُونَنَّ مِنَ ٱلۡمُشۡرِكِينَ",
+  "translation": "Sọ pé: “Ṣé kí n̄g mú olùrànlọ́wọ́ kan yàtọ̀ sí Allāhu, Ẹlẹ́dàá àwọn sánmọ̀ àti ilẹ̀? Òun sì ni Ó ń bọ́ (ẹ̀dá), wọn kì í bọ́ Ọ.” Sọ pé: “Dájúdájú Wọ́n pa mí láṣẹ pé kí n̄g jẹ́ ẹni àkọ́kọ́ tí ó máa ṣe ’Islām (ní àsìkò tèmi).”[1] Ìwọ kò sì gbọdọ̀ wà nínú àwọn ọ̀ṣẹbọ.",
+  "footnotes": "1. Ìyẹn nínú ìjọ rẹ̀ torí pé gbogbo ànábì ló bá Islām nílé ayé."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2712",
-    "sura": "23",
-    "aya": "39",
-    "arabic_text": "قَالَ رَبِّ ٱنصُرۡنِي بِمَا كَذَّبُونِ",
-    "translation": "(39) He said, \"My Lord, support me because they have denied me.\"",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 344,
+  "verse_key": "23:39",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّ ٱنصُرۡنِي بِمَا كَذَّبُونِ",
+  "translation": "(39) He said, \"My Lord, support me because they have denied me.\"",
+  "footnotes": ""
 }

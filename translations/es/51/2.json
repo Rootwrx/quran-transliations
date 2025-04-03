@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4677",
-    "sura": "51",
-    "aya": "2",
-    "arabic_text": "فَٱلۡحَٰمِلَٰتِ وِقۡرٗا",
-    "translation": "2. por las nubes cargadas de lluvias,",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 520,
+  "verse_key": "51:2",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱلۡحَٰمِلَٰتِ وِقۡرٗا",
+  "translation": "2. por las nubes cargadas de lluvias,",
+  "footnotes": ""
 }

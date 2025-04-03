@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5726",
-    "sura": "79",
-    "aya": "14",
-    "arabic_text": "فَإِذَا هُم بِٱلسَّاهِرَةِ",
-    "translation": "ពេលនោះស្រាប់តែពួកគេរស់ឡើងវិញពាសពេញផែនដី។",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 583,
+  "verse_key": "79:14",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا هُم بِٱلسَّاهِرَةِ",
+  "translation": "ពេលនោះស្រាប់តែពួកគេរស់ឡើងវិញពាសពេញផែនដី។",
+  "footnotes": ""
 }

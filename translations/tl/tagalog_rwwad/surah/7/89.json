@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1043",
-    "sura": "7",
-    "aya": "89",
-    "arabic_text": "قَدِ ٱفۡتَرَيۡنَا عَلَى ٱللَّهِ كَذِبًا إِنۡ عُدۡنَا فِي مِلَّتِكُم بَعۡدَ إِذۡ نَجَّىٰنَا ٱللَّهُ مِنۡهَاۚ وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَاۚ وَسِعَ رَبُّنَا كُلَّ شَيۡءٍ عِلۡمًاۚ عَلَى ٱللَّهِ تَوَكَّلۡنَاۚ رَبَّنَا ٱفۡتَحۡ بَيۡنَنَا وَبَيۡنَ قَوۡمِنَا بِٱلۡحَقِّ وَأَنتَ خَيۡرُ ٱلۡفَٰتِحِينَ",
-    "translation": "Gumawa-gawa nga kami laban kay Allāh ng isang kasinungalingan kung nanumbalik kami sa kapaniwalaan ninyo matapos noong nagligtas sa amin si Allāh mula roon. Hindi nagiging ukol sa amin na manumbalik kami roon maliban na loobin ni Allāh, ang Panginoon namin. Sumakop ang Panginoon namin sa bawat bagay sa kaalaman. Kay Allāh kami nananalig. Panginoon naming, humusga Ka sa pagitan namin at ng mga kalipi namin ayon sa katotohanan, at Ikaw ay ang pinakamabuti sa mga tagahusga.”",
-    "footnotes": ""
-  }
+  "id": 89,
+  "verse_number": 89,
+  "page_number": 162,
+  "verse_key": "7:89",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 65,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدِ ٱفۡتَرَيۡنَا عَلَى ٱللَّهِ كَذِبًا إِنۡ عُدۡنَا فِي مِلَّتِكُم بَعۡدَ إِذۡ نَجَّىٰنَا ٱللَّهُ مِنۡهَاۚ وَمَا يَكُونُ لَنَآ أَن نَّعُودَ فِيهَآ إِلَّآ أَن يَشَآءَ ٱللَّهُ رَبُّنَاۚ وَسِعَ رَبُّنَا كُلَّ شَيۡءٍ عِلۡمًاۚ عَلَى ٱللَّهِ تَوَكَّلۡنَاۚ رَبَّنَا ٱفۡتَحۡ بَيۡنَنَا وَبَيۡنَ قَوۡمِنَا بِٱلۡحَقِّ وَأَنتَ خَيۡرُ ٱلۡفَٰتِحِينَ",
+  "translation": "Gumawa-gawa nga kami laban kay Allāh ng isang kasinungalingan kung nanumbalik kami sa kapaniwalaan ninyo matapos noong nagligtas sa amin si Allāh mula roon. Hindi nagiging ukol sa amin na manumbalik kami roon maliban na loobin ni Allāh, ang Panginoon namin. Sumakop ang Panginoon namin sa bawat bagay sa kaalaman. Kay Allāh kami nananalig. Panginoon naming, humusga Ka sa pagitan namin at ng mga kalipi namin ayon sa katotohanan, at Ikaw ay ang pinakamabuti sa mga tagahusga.”",
+  "footnotes": ""
 }

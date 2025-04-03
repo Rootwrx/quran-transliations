@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5353",
-    "sura": "69",
-    "aya": "30",
-    "arabic_text": "خُذُوهُ فَغُلُّوهُ",
-    "translation": "30. (Allah berfirman), “Tangkaplah dia lalu belenggulah tangannya ke lehernya.”",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 567,
+  "verse_key": "69:30",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خُذُوهُ فَغُلُّوهُ",
+  "translation": "30. (Allah berfirman), “Tangkaplah dia lalu belenggulah tangannya ke lehernya.”",
+  "footnotes": ""
 }

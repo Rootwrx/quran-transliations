@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1145",
-    "sura": "7",
-    "aya": "191",
-    "arabic_text": "أَيُشۡرِكُونَ مَا لَا يَخۡلُقُ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ",
-    "translation": "191.Ma waxay la wadaajin Alle (cibaadada) waxaan waxna abuurin,iyagana la abuuray?",
-    "footnotes": ""
-  }
+  "id": 191,
+  "verse_number": 191,
+  "page_number": 175,
+  "verse_key": "7:191",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَيُشۡرِكُونَ مَا لَا يَخۡلُقُ شَيۡـٔٗا وَهُمۡ يُخۡلَقُونَ",
+  "translation": "191.Ma waxay la wadaajin Alle (cibaadada) waxaan waxna abuurin,iyagana la abuuray?",
+  "footnotes": ""
 }

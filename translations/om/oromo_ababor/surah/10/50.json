@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1414",
-    "sura": "10",
-    "aya": "50",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَتَىٰكُمۡ عَذَابُهُۥ بَيَٰتًا أَوۡ نَهَارٗا مَّاذَا يَسۡتَعۡجِلُ مِنۡهُ ٱلۡمُجۡرِمُونَ",
-    "translation": "Jedhi “Mee naaf himaa! yoo adabbiin Isaa halkan yookiin guyyaa isinitti dhufe, badii raawwattoonni isa irraa maal jarjarfatu?”.",
-    "footnotes": ""
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 214,
+  "verse_key": "10:50",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِنۡ أَتَىٰكُمۡ عَذَابُهُۥ بَيَٰتًا أَوۡ نَهَارٗا مَّاذَا يَسۡتَعۡجِلُ مِنۡهُ ٱلۡمُجۡرِمُونَ",
+  "translation": "Jedhi “Mee naaf himaa! yoo adabbiin Isaa halkan yookiin guyyaa isinitti dhufe, badii raawwattoonni isa irraa maal jarjarfatu?”.",
+  "footnotes": ""
 }

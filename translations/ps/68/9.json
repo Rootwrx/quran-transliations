@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5280",
-    "sura": "68",
-    "aya": "9",
-    "arabic_text": "وَدُّواْ لَوۡ تُدۡهِنُ فَيُدۡهِنُونَ",
-    "translation": "هغوى غواړي چې ته نرمي وكړې نو هغوى به هم نرمي وکړي.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 564,
+  "verse_key": "68:9",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَدُّواْ لَوۡ تُدۡهِنُ فَيُدۡهِنُونَ",
+  "translation": "هغوى غواړي چې ته نرمي وكړې نو هغوى به هم نرمي وکړي.",
+  "footnotes": ""
 }

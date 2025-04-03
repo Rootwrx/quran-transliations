@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2625",
-    "sura": "22",
-    "aya": "30",
-    "arabic_text": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرٞ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ",
-    "translation": "Ìyẹn (nìyẹn). Ẹnikẹ́ni tí ó bá sì pàtàkì àwọn n̄ǹkan tí Allāhu bu ọ̀wọ̀ fún, òhun ló lóore jùlọ fún un lọ́dọ̀ Olúwa rẹ̀. Wọ́n sì ṣe àwọn ẹran-ọ̀sìn ní ẹ̀tọ́ fún yín àyàfi àwọn tí wọ́n ń kà (ní èèwọ̀) fún yín. Nítorí náà, ẹ jìnnà sí ẹ̀gbin òrìṣà. Kí ẹ sì jìnnà sí ọ̀rọ̀ irọ́.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 335,
+  "verse_key": "22:30",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 134,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَۖ وَمَن يُعَظِّمۡ حُرُمَٰتِ ٱللَّهِ فَهُوَ خَيۡرٞ لَّهُۥ عِندَ رَبِّهِۦۗ وَأُحِلَّتۡ لَكُمُ ٱلۡأَنۡعَٰمُ إِلَّا مَا يُتۡلَىٰ عَلَيۡكُمۡۖ فَٱجۡتَنِبُواْ ٱلرِّجۡسَ مِنَ ٱلۡأَوۡثَٰنِ وَٱجۡتَنِبُواْ قَوۡلَ ٱلزُّورِ",
+  "translation": "Ìyẹn (nìyẹn). Ẹnikẹ́ni tí ó bá sì pàtàkì àwọn n̄ǹkan tí Allāhu bu ọ̀wọ̀ fún, òhun ló lóore jùlọ fún un lọ́dọ̀ Olúwa rẹ̀. Wọ́n sì ṣe àwọn ẹran-ọ̀sìn ní ẹ̀tọ́ fún yín àyàfi àwọn tí wọ́n ń kà (ní èèwọ̀) fún yín. Nítorí náà, ẹ jìnnà sí ẹ̀gbin òrìṣà. Kí ẹ sì jìnnà sí ọ̀rọ̀ irọ́.",
+  "footnotes": ""
 }

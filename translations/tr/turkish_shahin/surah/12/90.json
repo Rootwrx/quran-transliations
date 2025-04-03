@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1686",
-    "sura": "12",
-    "aya": "90",
-    "arabic_text": "قَالُوٓاْ أَءِنَّكَ لَأَنتَ يُوسُفُۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِيۖ قَدۡ مَنَّ ٱللَّهُ عَلَيۡنَآۖ إِنَّهُۥ مَن يَتَّقِ وَيَصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
-    "translation": "Yoksa sen, gerçekten Yusuf musun? dediler. O da: (Evet) ben Yusuf'um, bu da kardeşim. (Birbirimize kavuşmayı) Allah bize lütfetti. Çünkü kim (Allah'tan) korkar ve sabrederse, şüphesiz Allah güzel davrananların mükâfatını zayi etmez, dedi.",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 246,
+  "verse_key": "12:90",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ أَءِنَّكَ لَأَنتَ يُوسُفُۖ قَالَ أَنَا۠ يُوسُفُ وَهَٰذَآ أَخِيۖ قَدۡ مَنَّ ٱللَّهُ عَلَيۡنَآۖ إِنَّهُۥ مَن يَتَّقِ وَيَصۡبِرۡ فَإِنَّ ٱللَّهَ لَا يُضِيعُ أَجۡرَ ٱلۡمُحۡسِنِينَ",
+  "translation": "Yoksa sen, gerçekten Yusuf musun? dediler. O da: (Evet) ben Yusuf'um, bu da kardeşim. (Birbirimize kavuşmayı) Allah bize lütfetti. Çünkü kim (Allah'tan) korkar ve sabrederse, şüphesiz Allah güzel davrananların mükâfatını zayi etmez, dedi.",
+  "footnotes": ""
 }

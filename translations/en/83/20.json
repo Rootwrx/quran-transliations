@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5868",
-    "sura": "83",
-    "aya": "20",
-    "arabic_text": "كِتَٰبٞ مَّرۡقُومٞ",
-    "translation": "(20) It is [their destination[1882] recorded in] a register inscribed",
-    "footnotes": "[1882]- The highest elevations of Paradise."
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 588,
+  "verse_key": "83:20",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كِتَٰبٞ مَّرۡقُومٞ",
+  "translation": "(20) It is [their destination[1882] recorded in] a register inscribed",
+  "footnotes": "[1882]- The highest elevations of Paradise."
 }

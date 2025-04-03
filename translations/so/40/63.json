@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4196",
-    "sura": "40",
-    "aya": "63",
-    "arabic_text": "كَذَٰلِكَ يُؤۡفَكُ ٱلَّذِينَ كَانُواْ بِـَٔايَٰتِ ٱللَّهِ يَجۡحَدُونَ",
-    "translation": "63. Sidaas oo kale baa loo iilay kuwii Aayadaha Alle dafiri jirey.",
-    "footnotes": ""
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 474,
+  "verse_key": "40:63",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 189,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَٰلِكَ يُؤۡفَكُ ٱلَّذِينَ كَانُواْ بِـَٔايَٰتِ ٱللَّهِ يَجۡحَدُونَ",
+  "translation": "63. Sidaas oo kale baa loo iilay kuwii Aayadaha Alle dafiri jirey.",
+  "footnotes": ""
 }

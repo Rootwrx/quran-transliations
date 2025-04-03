@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5218",
-    "sura": "65",
-    "aya": "1",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحۡصُواْ ٱلۡعِدَّةَۖ وَٱتَّقُواْ ٱللَّهَ رَبَّكُمۡۖ لَا تُخۡرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخۡرُجۡنَ إِلَّآ أَن يَأۡتِينَ بِفَٰحِشَةٖ مُّبَيِّنَةٖۚ وَتِلۡكَ حُدُودُ ٱللَّهِۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ لَا تَدۡرِي لَعَلَّ ٱللَّهَ يُحۡدِثُ بَعۡدَ ذَٰلِكَ أَمۡرٗا",
-    "translation": "1. Nabiyow! Markaad furaysaan haween, fura iyagoo markaas ku jira waqtiga loo qabtay furitaanka2, oo u tiriya (si dhan) maalmaha ciddada (muddada ay sugayaan furitaanka kaddib3), dhowrana (xilkuu idin saaray) Allaah, ee Rabbigiin ah, ha uga saarina (xaasaskiinna) debedda guryahooda,  yeysan iyaguna bixin (intay ciddada ku jiraan ee la soo ceshan karo) inay la yimaadaan maahee xumaan cad. kuwaas waa soohdimaha uu dhigay Allaah. Qofkiina ka tillaaba soohdimaha uu dhigay Allaah, wuxuu dulmiyey naftiisa. (Midka furayow xaaskiisa) ma ogid waxaa laga yaabaa inuu Alle dib ka keeno xaal cusub4.",
-    "footnotes": "1. Ad-Dalaaq: Furriinka.\n2. Haweeni waxaa bannaan in la furo markuu dhammaado dhiigga caadadeeda oo ka daahir noqoto, ka hor inta aan loo galmoon ama iyadoo uur leh. \n3. Waa inaan lagu dirqin inay baxaan ama is madax furtaan. \n4. Sida inay ka xumaadaan waxa ka dhex dhacay ama uu jaceyl hor leh uu galo ninka iyo xaaskiisa oo isku soo noqdaan."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 558,
+  "verse_key": "65:1",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 223,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلنَّبِيُّ إِذَا طَلَّقۡتُمُ ٱلنِّسَآءَ فَطَلِّقُوهُنَّ لِعِدَّتِهِنَّ وَأَحۡصُواْ ٱلۡعِدَّةَۖ وَٱتَّقُواْ ٱللَّهَ رَبَّكُمۡۖ لَا تُخۡرِجُوهُنَّ مِنۢ بُيُوتِهِنَّ وَلَا يَخۡرُجۡنَ إِلَّآ أَن يَأۡتِينَ بِفَٰحِشَةٖ مُّبَيِّنَةٖۚ وَتِلۡكَ حُدُودُ ٱللَّهِۚ وَمَن يَتَعَدَّ حُدُودَ ٱللَّهِ فَقَدۡ ظَلَمَ نَفۡسَهُۥۚ لَا تَدۡرِي لَعَلَّ ٱللَّهَ يُحۡدِثُ بَعۡدَ ذَٰلِكَ أَمۡرٗا",
+  "translation": "1. Nabiyow! Markaad furaysaan haween, fura iyagoo markaas ku jira waqtiga loo qabtay furitaanka2, oo u tiriya (si dhan) maalmaha ciddada (muddada ay sugayaan furitaanka kaddib3), dhowrana (xilkuu idin saaray) Allaah, ee Rabbigiin ah, ha uga saarina (xaasaskiinna) debedda guryahooda,  yeysan iyaguna bixin (intay ciddada ku jiraan ee la soo ceshan karo) inay la yimaadaan maahee xumaan cad. kuwaas waa soohdimaha uu dhigay Allaah. Qofkiina ka tillaaba soohdimaha uu dhigay Allaah, wuxuu dulmiyey naftiisa. (Midka furayow xaaskiisa) ma ogid waxaa laga yaabaa inuu Alle dib ka keeno xaal cusub4.",
+  "footnotes": "1. Ad-Dalaaq: Furriinka.\n2. Haweeni waxaa bannaan in la furo markuu dhammaado dhiigga caadadeeda oo ka daahir noqoto, ka hor inta aan loo galmoon ama iyadoo uur leh. \n3. Waa inaan lagu dirqin inay baxaan ama is madax furtaan. \n4. Sida inay ka xumaadaan waxa ka dhex dhacay ama uu jaceyl hor leh uu galo ninka iyo xaaskiisa oo isku soo noqdaan."
 }

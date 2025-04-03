@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5133",
-    "sura": "59",
-    "aya": "7",
-    "arabic_text": "مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنۡ أَهۡلِ ٱلۡقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِ كَيۡ لَا يَكُونَ دُولَةَۢ بَيۡنَ ٱلۡأَغۡنِيَآءِ مِنكُمۡۚ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمۡ عَنۡهُ فَٱنتَهُواْۚ وَٱتَّقُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
-    "translation": "Allahın Öz rəsuluna (fəth edilən) məmləkətlərin əhalisindən verdiyi qənimətlər Allaha, Peyğəmbərə, onun qohum-əqrəbasına, yetimlərə, miskinlərə və müsafirlərə məxsus edilmişdir ki, (o mallar) aranızdakı zənginlərin var-dövləti olub qalmasın. Allahın rəsulu sizə nə verirsə, onu götürün, nəyi də qadağan edirsə, ondan çəkinin. Allahdan qorxun. Həqiqətən, Allahın cəzası şiddətlidir.",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 546,
+  "verse_key": "59:7",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 218,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَّآ أَفَآءَ ٱللَّهُ عَلَىٰ رَسُولِهِۦ مِنۡ أَهۡلِ ٱلۡقُرَىٰ فَلِلَّهِ وَلِلرَّسُولِ وَلِذِي ٱلۡقُرۡبَىٰ وَٱلۡيَتَٰمَىٰ وَٱلۡمَسَٰكِينِ وَٱبۡنِ ٱلسَّبِيلِ كَيۡ لَا يَكُونَ دُولَةَۢ بَيۡنَ ٱلۡأَغۡنِيَآءِ مِنكُمۡۚ وَمَآ ءَاتَىٰكُمُ ٱلرَّسُولُ فَخُذُوهُ وَمَا نَهَىٰكُمۡ عَنۡهُ فَٱنتَهُواْۚ وَٱتَّقُواْ ٱللَّهَۖ إِنَّ ٱللَّهَ شَدِيدُ ٱلۡعِقَابِ",
+  "translation": "Allahın Öz rəsuluna (fəth edilən) məmləkətlərin əhalisindən verdiyi qənimətlər Allaha, Peyğəmbərə, onun qohum-əqrəbasına, yetimlərə, miskinlərə və müsafirlərə məxsus edilmişdir ki, (o mallar) aranızdakı zənginlərin var-dövləti olub qalmasın. Allahın rəsulu sizə nə verirsə, onu götürün, nəyi də qadağan edirsə, ondan çəkinin. Allahdan qorxun. Həqiqətən, Allahın cəzası şiddətlidir.",
+  "footnotes": ""
 }

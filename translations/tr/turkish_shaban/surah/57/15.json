@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5090",
-    "sura": "57",
-    "aya": "15",
-    "arabic_text": "فَٱلۡيَوۡمَ لَا يُؤۡخَذُ مِنكُمۡ فِدۡيَةٞ وَلَا مِنَ ٱلَّذِينَ كَفَرُواْۚ مَأۡوَىٰكُمُ ٱلنَّارُۖ هِيَ مَوۡلَىٰكُمۡۖ وَبِئۡسَ ٱلۡمَصِيرُ",
-    "translation": "Bugün artık ne sizden, ne de kâfirlerden bir fidye alınır. Barınağınız ateştir. Size yaraşan odur. Ne kötü bir sonuç! ",
-    "footnotes": null
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 539,
+  "verse_key": "57:15",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱلۡيَوۡمَ لَا يُؤۡخَذُ مِنكُمۡ فِدۡيَةٞ وَلَا مِنَ ٱلَّذِينَ كَفَرُواْۚ مَأۡوَىٰكُمُ ٱلنَّارُۖ هِيَ مَوۡلَىٰكُمۡۖ وَبِئۡسَ ٱلۡمَصِيرُ",
+  "translation": "Bugün artık ne sizden, ne de kâfirlerden bir fidye alınır. Barınağınız ateştir. Size yaraşan odur. Ne kötü bir sonuç! ",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "729",
-    "sura": "5",
-    "aya": "60",
-    "arabic_text": "قُلۡ هَلۡ أُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيۡهِ وَجَعَلَ مِنۡهُمُ ٱلۡقِرَدَةَ وَٱلۡخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَۚ أُوْلَٰٓئِكَ شَرّٞ مَّكَانٗا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ",
-    "translation": "Sema: Je! Nikwambieni yule ambaye ni mwenye malipo mabaya zaidi kuliko hayo mbele ya Mwenyezi Mungu? Ni yule ambaye Mwenyezi Mungu amemlaani na amemkasirikia, na amewafanya miongoni mwao manyani na nguruwe, na wakamuabudu Shet'ani. Hao ndio wenye mahali pabaya na wamepotea zaidi njia iliyo sawa.",
-    "footnotes": "Waambie: Nikwambieni malipo maovu kabisa kutokana na Mwenyezi Mungu? Ni hivyo vitendo vyenu nyinyi mlio tengwa mbali na Mwenyezi Mungu na rehema yake, na mkakasirikiwa kwa sababu ya ukafiri wenu na uasi wenu, na mkazibwa nyoyo zenu, mkawa kama manyani na nguruwe, na mkamuabudu Shetani, na mkafuata upotovu. Nyinyi ndio mko katika daraja ya mwisho katika shari, kwa sababu nyinyi ni watu walio potea kabisa, mkaiwacha Njia ya Haki."
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 118,
+  "verse_key": "5:60",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 47,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ هَلۡ أُنَبِّئُكُم بِشَرّٖ مِّن ذَٰلِكَ مَثُوبَةً عِندَ ٱللَّهِۚ مَن لَّعَنَهُ ٱللَّهُ وَغَضِبَ عَلَيۡهِ وَجَعَلَ مِنۡهُمُ ٱلۡقِرَدَةَ وَٱلۡخَنَازِيرَ وَعَبَدَ ٱلطَّٰغُوتَۚ أُوْلَٰٓئِكَ شَرّٞ مَّكَانٗا وَأَضَلُّ عَن سَوَآءِ ٱلسَّبِيلِ",
+  "translation": "Sema: Je! Nikwambieni yule ambaye ni mwenye malipo mabaya zaidi kuliko hayo mbele ya Mwenyezi Mungu? Ni yule ambaye Mwenyezi Mungu amemlaani na amemkasirikia, na amewafanya miongoni mwao manyani na nguruwe, na wakamuabudu Shet'ani. Hao ndio wenye mahali pabaya na wamepotea zaidi njia iliyo sawa.",
+  "footnotes": "Waambie: Nikwambieni malipo maovu kabisa kutokana na Mwenyezi Mungu? Ni hivyo vitendo vyenu nyinyi mlio tengwa mbali na Mwenyezi Mungu na rehema yake, na mkakasirikiwa kwa sababu ya ukafiri wenu na uasi wenu, na mkazibwa nyoyo zenu, mkawa kama manyani na nguruwe, na mkamuabudu Shetani, na mkafuata upotovu. Nyinyi ndio mko katika daraja ya mwisho katika shari, kwa sababu nyinyi ni watu walio potea kabisa, mkaiwacha Njia ya Haki."
 }

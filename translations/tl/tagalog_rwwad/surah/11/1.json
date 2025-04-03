@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1474",
-    "sura": "11",
-    "aya": "1",
-    "arabic_text": "الٓرۚ كِتَٰبٌ أُحۡكِمَتۡ ءَايَٰتُهُۥ ثُمَّ فُصِّلَتۡ مِن لَّدُنۡ حَكِيمٍ خَبِيرٍ",
-    "translation": "Alif. Lām. Rā’.[1] [Ito ay] isang Aklat na pinahusay ang mga talata nito, pagkatapos dinetalye mula sa panig ng isang Marunong, isang Mapagbatid.",
-    "footnotes": "[1] Ang Qur’ān ay nasa wikang Arabe na binubuo ng mga titiks Arabe gaya ng mga ito subalit walang isa mang nakagawa ng kahit pinkamaiikling kabanata ng mahimalang kababalaghan ng Qur’ān."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 221,
+  "verse_key": "11:1",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓرۚ كِتَٰبٌ أُحۡكِمَتۡ ءَايَٰتُهُۥ ثُمَّ فُصِّلَتۡ مِن لَّدُنۡ حَكِيمٍ خَبِيرٍ",
+  "translation": "Alif. Lām. Rā’.[1] [Ito ay] isang Aklat na pinahusay ang mga talata nito, pagkatapos dinetalye mula sa panig ng isang Marunong, isang Mapagbatid.",
+  "footnotes": "[1] Ang Qur’ān ay nasa wikang Arabe na binubuo ng mga titiks Arabe gaya ng mga ito subalit walang isa mang nakagawa ng kahit pinkamaiikling kabanata ng mahimalang kababalaghan ng Qur’ān."
 }

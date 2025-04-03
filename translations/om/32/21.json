@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3524",
-    "sura": "32",
-    "aya": "21",
-    "arabic_text": "وَلَنُذِيقَنَّهُم مِّنَ ٱلۡعَذَابِ ٱلۡأَدۡنَىٰ دُونَ ٱلۡعَذَابِ ٱلۡأَكۡبَرِ لَعَلَّهُمۡ يَرۡجِعُونَ",
-    "translation": "Dhugumatti (Nuti) adabbii xiqqaa (kan addunyaa) isaan dhamdhamsiifna, adabbii guddaa dura, akka isaan (gara iimaanaatti) debi’aniif jecha.",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 417,
+  "verse_key": "32:21",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 166,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَنُذِيقَنَّهُم مِّنَ ٱلۡعَذَابِ ٱلۡأَدۡنَىٰ دُونَ ٱلۡعَذَابِ ٱلۡأَكۡبَرِ لَعَلَّهُمۡ يَرۡجِعُونَ",
+  "translation": "Dhugumatti (Nuti) adabbii xiqqaa (kan addunyaa) isaan dhamdhamsiifna, adabbii guddaa dura, akka isaan (gara iimaanaatti) debi’aniif jecha.",
+  "footnotes": ""
 }

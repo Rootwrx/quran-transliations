@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "819",
-    "sura": "6",
-    "aya": "30",
-    "arabic_text": "وَلَوۡ تَرَىٰٓ إِذۡ وُقِفُواْ عَلَىٰ رَبِّهِمۡۚ قَالَ أَلَيۡسَ هَٰذَا بِٱلۡحَقِّۚ قَالُواْ بَلَىٰ وَرَبِّنَاۚ قَالَ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
-    "translation": "Rablerinin huzurunda durduruldukları zaman, sen onları bir görsen: O vakit Allah onlara, bu yeniden dirilme olayı gerçek değil miymiş? diyecek, onlar da “Rabbimize andolsun ki, evet” diyeceklerdir (Allah): “Öyleyse inkâr etmekte olduğunuzdan dolayı tadın azabı!” diyecek.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 131,
+  "verse_key": "6:30",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 52,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ تَرَىٰٓ إِذۡ وُقِفُواْ عَلَىٰ رَبِّهِمۡۚ قَالَ أَلَيۡسَ هَٰذَا بِٱلۡحَقِّۚ قَالُواْ بَلَىٰ وَرَبِّنَاۚ قَالَ فَذُوقُواْ ٱلۡعَذَابَ بِمَا كُنتُمۡ تَكۡفُرُونَ",
+  "translation": "Rablerinin huzurunda durduruldukları zaman, sen onları bir görsen: O vakit Allah onlara, bu yeniden dirilme olayı gerçek değil miymiş? diyecek, onlar da “Rabbimize andolsun ki, evet” diyeceklerdir (Allah): “Öyleyse inkâr etmekte olduğunuzdan dolayı tadın azabı!” diyecek.",
+  "footnotes": ""
 }

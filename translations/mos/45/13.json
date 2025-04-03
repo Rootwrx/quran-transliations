@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4486",
-    "sura": "45",
-    "aya": "13",
-    "arabic_text": "وَسَخَّرَ لَكُم مَّا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ جَمِيعٗا مِّنۡهُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ",
-    "translation": "La A wõr sẽn be saasẽ la sẽn be tẽng zug n kõ yãmba, fãa kɛp yaa sẽn yi A nengẽ; ad yel-soalem bee rẽ pʋgẽ ne tagsdba.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 499,
+  "verse_key": "45:13",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَسَخَّرَ لَكُم مَّا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِ جَمِيعٗا مِّنۡهُۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَفَكَّرُونَ",
+  "translation": "La A wõr sẽn be saasẽ la sẽn be tẽng zug n kõ yãmba, fãa kɛp yaa sẽn yi A nengẽ; ad yel-soalem bee rẽ pʋgẽ ne tagsdba.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3410",
-    "sura": "30",
-    "aya": "1",
-    "arabic_text": "الٓمٓ",
-    "translation": "Elif-lam-mim. ",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 404,
+  "verse_key": "30:1",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓمٓ",
+  "translation": "Elif-lam-mim. ",
+  "footnotes": ""
 }

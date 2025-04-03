@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6066",
-    "sura": "92",
-    "aya": "8",
-    "arabic_text": "وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ",
-    "translation": "የሰሰተ ሰውማ የተብቃቃም፤ (በራሱ የተመካ)፤",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 595,
+  "verse_key": "92:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَمَّا مَنۢ بَخِلَ وَٱسۡتَغۡنَىٰ",
+  "translation": "የሰሰተ ሰውማ የተብቃቃም፤ (በራሱ የተመካ)፤",
+  "footnotes": ""
 }

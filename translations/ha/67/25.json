@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5266",
-    "sura": "67",
-    "aya": "25",
-    "arabic_text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "Kuma sunã cewa, \"Yaushe ne wannan alkawarin zai tabbata in dai kun kasance mãsu gaskiya ne kũ?\"",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 563,
+  "verse_key": "67:25",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 225,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُونَ مَتَىٰ هَٰذَا ٱلۡوَعۡدُ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "Kuma sunã cewa, \"Yaushe ne wannan alkawarin zai tabbata in dai kun kasance mãsu gaskiya ne kũ?\"",
+  "footnotes": ""
 }

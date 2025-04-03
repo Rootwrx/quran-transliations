@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1711",
-    "sura": "13",
-    "aya": "4",
-    "arabic_text": "وَفِي ٱلۡأَرۡضِ قِطَعٞ مُّتَجَٰوِرَٰتٞ وَجَنَّٰتٞ مِّنۡ أَعۡنَٰبٖ وَزَرۡعٞ وَنَخِيلٞ صِنۡوَانٞ وَغَيۡرُ صِنۡوَانٖ يُسۡقَىٰ بِمَآءٖ وَٰحِدٖ وَنُفَضِّلُ بَعۡضَهَا عَلَىٰ بَعۡضٖ فِي ٱلۡأُكُلِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ",
-    "translation": "4. Sur terre, il y a des lots de terrain contigus, des jardins de vigne, des champs de céréales et des palmiers poussant de troncs communs ou séparés. Ils sont arrosés de la même eau mais Nous faisons que certains aient meilleur goût que d’autres : il y a bien là des Signes pour des gens qui savent raisonner.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 249,
+  "verse_key": "13:4",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفِي ٱلۡأَرۡضِ قِطَعٞ مُّتَجَٰوِرَٰتٞ وَجَنَّٰتٞ مِّنۡ أَعۡنَٰبٖ وَزَرۡعٞ وَنَخِيلٞ صِنۡوَانٞ وَغَيۡرُ صِنۡوَانٖ يُسۡقَىٰ بِمَآءٖ وَٰحِدٖ وَنُفَضِّلُ بَعۡضَهَا عَلَىٰ بَعۡضٖ فِي ٱلۡأُكُلِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَٰتٖ لِّقَوۡمٖ يَعۡقِلُونَ",
+  "translation": "4. Sur terre, il y a des lots de terrain contigus, des jardins de vigne, des champs de céréales et des palmiers poussant de troncs communs ou séparés. Ils sont arrosés de la même eau mais Nous faisons que certains aient meilleur goût que d’autres : il y a bien là des Signes pour des gens qui savent raisonner.",
+  "footnotes": ""
 }

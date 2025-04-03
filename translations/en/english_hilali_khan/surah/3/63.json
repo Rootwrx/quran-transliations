@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "356",
-    "sura": "3",
-    "aya": "63",
-    "arabic_text": "فَإِن تَوَلَّوۡاْ فَإِنَّ ٱللَّهَ عَلِيمُۢ بِٱلۡمُفۡسِدِينَ",
-    "translation": " 63. And if they turn away (and do not accept these true proofs and evidence), then surely, Allâh is All-Aware of those who do mischief.",
-    "footnotes": ""
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 58,
+  "verse_key": "3:63",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن تَوَلَّوۡاْ فَإِنَّ ٱللَّهَ عَلِيمُۢ بِٱلۡمُفۡسِدِينَ",
+  "translation": " 63. And if they turn away (and do not accept these true proofs and evidence), then surely, Allâh is All-Aware of those who do mischief.",
+  "footnotes": ""
 }

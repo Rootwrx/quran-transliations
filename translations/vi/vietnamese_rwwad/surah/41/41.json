@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4259",
-    "sura": "41",
-    "aya": "41",
-    "arabic_text": "إِنَّ ٱلَّذِينَ كَفَرُواْ بِٱلذِّكۡرِ لَمَّا جَآءَهُمۡۖ وَإِنَّهُۥ لَكِتَٰبٌ عَزِيزٞ",
-    "translation": "Quả thật, những kẻ phủ nhận Lời Nhắc Nhở (Qur’an) khi Nó đến với chúng (thì chắc chắn sẽ bị trừng phạt vào Ngày Phán Xét). Quả thật, (Qur’an) là một Kinh Sách rất đỗi quyền năng (dưới sự bảo vệ của Allah).",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 481,
+  "verse_key": "41:41",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ كَفَرُواْ بِٱلذِّكۡرِ لَمَّا جَآءَهُمۡۖ وَإِنَّهُۥ لَكِتَٰبٌ عَزِيزٞ",
+  "translation": "Quả thật, những kẻ phủ nhận Lời Nhắc Nhở (Qur’an) khi Nó đến với chúng (thì chắc chắn sẽ bị trừng phạt vào Ngày Phán Xét). Quả thật, (Qur’an) là một Kinh Sách rất đỗi quyền năng (dưới sự bảo vệ của Allah).",
+  "footnotes": ""
 }

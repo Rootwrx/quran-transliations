@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1473",
-    "sura": "10",
-    "aya": "109",
-    "arabic_text": "وَٱتَّبِعۡ مَا يُوحَىٰٓ إِلَيۡكَ وَٱصۡبِرۡ حَتَّىٰ يَحۡكُمَ ٱللَّهُۚ وَهُوَ خَيۡرُ ٱلۡحَٰكِمِينَ",
-    "translation": "109. [¡Oh, Mujámmad!] Aférrate a lo que te ha sido revelado y sé paciente[1] hasta que Dios juzgue. Él es el mejor de los jueces.",
-    "footnotes": "[1] Ante las adversidades en la divulgación de tu mensaje."
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 221,
+  "verse_key": "10:109",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱتَّبِعۡ مَا يُوحَىٰٓ إِلَيۡكَ وَٱصۡبِرۡ حَتَّىٰ يَحۡكُمَ ٱللَّهُۚ وَهُوَ خَيۡرُ ٱلۡحَٰكِمِينَ",
+  "translation": "109. [¡Oh, Mujámmad!] Aférrate a lo que te ha sido revelado y sé paciente[1] hasta que Dios juzgue. Él es el mejor de los jueces.",
+  "footnotes": "[1] Ante las adversidades en la divulgación de tu mensaje."
 }

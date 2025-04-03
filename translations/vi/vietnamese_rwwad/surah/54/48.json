@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4894",
-    "sura": "54",
-    "aya": "48",
-    "arabic_text": "يَوۡمَ يُسۡحَبُونَ فِي ٱلنَّارِ عَلَىٰ وُجُوهِهِمۡ ذُوقُواْ مَسَّ سَقَرَ",
-    "translation": "Vào Ngày mà chúng sẽ bị lôi úp mặt trong Hỏa Ngục (và chúng được bảo): “Các ngươi hãy nếm (cảm giác) của Lửa (thiêu đốt)!”",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 530,
+  "verse_key": "54:48",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يُسۡحَبُونَ فِي ٱلنَّارِ عَلَىٰ وُجُوهِهِمۡ ذُوقُواْ مَسَّ سَقَرَ",
+  "translation": "Vào Ngày mà chúng sẽ bị lôi úp mặt trong Hỏa Ngục (và chúng được bảo): “Các ngươi hãy nếm (cảm giác) của Lửa (thiêu đốt)!”",
+  "footnotes": ""
 }

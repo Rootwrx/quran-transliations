@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5107",
-    "sura": "58",
-    "aya": "3",
-    "arabic_text": "وَٱلَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمۡ ثُمَّ يَعُودُونَ لِمَا قَالُواْ فَتَحۡرِيرُ رَقَبَةٖ مِّن قَبۡلِ أَن يَتَمَآسَّاۚ ذَٰلِكُمۡ تُوعَظُونَ بِهِۦۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
-    "translation": "Na wale wanao jitenga na wake zao, kisha wakarudia katika yale waliyo yasema, basi wamkomboe mtumwa kabla hawajagusana. Mnapewa maonyo kwa hayo. Na Mwenyezi Mungu anayajua yote mnayo yatenda.",
-    "footnotes": "Na wale wanao watenga wake zao na kisha wakarejeza kauli yao, wakayaona makosa yao, na wakataka kubaki na wake zao, basi juu yao kumkomboa mtumwa kabla ya kugusana. Hayo aliyo yawajibisha Mwenyezi Mungu, ya kukomboa mtumwa, ni mawaidha kwenu mnawaidhiwa ili msirejee tena katika makosa hayo. Na Mwenyezi Mungu ni Mwenye kuyajua vilivyo myatendayo."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 542,
+  "verse_key": "58:3",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 217,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ يُظَٰهِرُونَ مِن نِّسَآئِهِمۡ ثُمَّ يَعُودُونَ لِمَا قَالُواْ فَتَحۡرِيرُ رَقَبَةٖ مِّن قَبۡلِ أَن يَتَمَآسَّاۚ ذَٰلِكُمۡ تُوعَظُونَ بِهِۦۚ وَٱللَّهُ بِمَا تَعۡمَلُونَ خَبِيرٞ",
+  "translation": "Na wale wanao jitenga na wake zao, kisha wakarudia katika yale waliyo yasema, basi wamkomboe mtumwa kabla hawajagusana. Mnapewa maonyo kwa hayo. Na Mwenyezi Mungu anayajua yote mnayo yatenda.",
+  "footnotes": "Na wale wanao watenga wake zao na kisha wakarejeza kauli yao, wakayaona makosa yao, na wakataka kubaki na wake zao, basi juu yao kumkomboa mtumwa kabla ya kugusana. Hayo aliyo yawajibisha Mwenyezi Mungu, ya kukomboa mtumwa, ni mawaidha kwenu mnawaidhiwa ili msirejee tena katika makosa hayo. Na Mwenyezi Mungu ni Mwenye kuyajua vilivyo myatendayo."
 }

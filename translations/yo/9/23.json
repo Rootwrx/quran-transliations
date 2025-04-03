@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1258",
-    "sura": "9",
-    "aya": "23",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُوٓاْ ءَابَآءَكُمۡ وَإِخۡوَٰنَكُمۡ أَوۡلِيَآءَ إِنِ ٱسۡتَحَبُّواْ ٱلۡكُفۡرَ عَلَى ٱلۡإِيمَٰنِۚ وَمَن يَتَوَلَّهُم مِّنكُمۡ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
-    "translation": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ẹ má ṣe mú àwọn bàbá yín àti àwọn arakùnrin yín ní ọ̀rẹ́ àyò bí wọ́n bá gbọ́lá fún àìgbàgbọ́ lórí ìgbàgbọ́ òdodo. Ẹnikẹ́ni tó bá mú wọn ní ọ̀rẹ́ àyò nínú yín, àwọn wọ̀nyẹn gan-an ni alábòsí.[1]",
-    "footnotes": "1. Āyah yìí ń tọ́ka sí ẹnu ààlà láààrin òbí tàbí ẹbí tó jẹ́ aláìgbàgbọ́ àti ọmọ rẹ̀ tó jẹ́ onígbàgbọ́ òdodo."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 190,
+  "verse_key": "9:23",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ لَا تَتَّخِذُوٓاْ ءَابَآءَكُمۡ وَإِخۡوَٰنَكُمۡ أَوۡلِيَآءَ إِنِ ٱسۡتَحَبُّواْ ٱلۡكُفۡرَ عَلَى ٱلۡإِيمَٰنِۚ وَمَن يَتَوَلَّهُم مِّنكُمۡ فَأُوْلَٰٓئِكَ هُمُ ٱلظَّٰلِمُونَ",
+  "translation": "Ẹ̀yin tí ẹ gbàgbọ́ ní òdodo, ẹ má ṣe mú àwọn bàbá yín àti àwọn arakùnrin yín ní ọ̀rẹ́ àyò bí wọ́n bá gbọ́lá fún àìgbàgbọ́ lórí ìgbàgbọ́ òdodo. Ẹnikẹ́ni tó bá mú wọn ní ọ̀rẹ́ àyò nínú yín, àwọn wọ̀nyẹn gan-an ni alábòsí.[1]",
+  "footnotes": "1. Āyah yìí ń tọ́ka sí ẹnu ààlà láààrin òbí tàbí ẹbí tó jẹ́ aláìgbàgbọ́ àti ọmọ rẹ̀ tó jẹ́ onígbàgbọ́ òdodo."
 }

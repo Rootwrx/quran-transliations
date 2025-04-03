@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5000",
-    "sura": "56",
-    "aya": "21",
-    "arabic_text": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
-    "translation": "അവര്‍ കൊതിക്കുന്ന തരത്തില്‍ പെട്ട പക്ഷിമാംസവും കൊണ്ട് (അവര്‍ ചുറ്റി നടക്കും.)",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 535,
+  "verse_key": "56:21",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَحۡمِ طَيۡرٖ مِّمَّا يَشۡتَهُونَ",
+  "translation": "അവര്‍ കൊതിക്കുന്ന തരത്തില്‍ പെട്ട പക്ഷിമാംസവും കൊണ്ട് (അവര്‍ ചുറ്റി നടക്കും.)",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3784",
-    "sura": "36",
-    "aya": "79",
-    "arabic_text": "قُلۡ يُحۡيِيهَا ٱلَّذِيٓ أَنشَأَهَآ أَوَّلَ مَرَّةٖۖ وَهُوَ بِكُلِّ خَلۡقٍ عَلِيمٌ",
-    "translation": "Sema: Ataihuisha huyo huyo aliye iumba hapo mara ya mwanzo. Na Yeye ni Mjuzi wa kila kuumba.",
-    "footnotes": "Ewe Muhammad! Sema: Atayafufua yule yule aliye yaumba hapo mara ya kwanza. Kwani aliye anza anao uweza wa kufanya tena. Naye ni Mkubwa wa kujua kila alicho kiumba. Basi haemewi Yeye na kukusanya vipande vipande baada ya kutawanyika."
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 445,
+  "verse_key": "36:79",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ يُحۡيِيهَا ٱلَّذِيٓ أَنشَأَهَآ أَوَّلَ مَرَّةٖۖ وَهُوَ بِكُلِّ خَلۡقٍ عَلِيمٌ",
+  "translation": "Sema: Ataihuisha huyo huyo aliye iumba hapo mara ya mwanzo. Na Yeye ni Mjuzi wa kila kuumba.",
+  "footnotes": "Ewe Muhammad! Sema: Atayafufua yule yule aliye yaumba hapo mara ya kwanza. Kwani aliye anza anao uweza wa kufanya tena. Naye ni Mkubwa wa kujua kila alicho kiumba. Basi haemewi Yeye na kukusanya vipande vipande baada ya kutawanyika."
 }

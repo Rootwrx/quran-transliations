@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3572",
-    "sura": "33",
-    "aya": "39",
-    "arabic_text": "ٱلَّذِينَ يُبَلِّغُونَ رِسَٰلَٰتِ ٱللَّهِ وَيَخۡشَوۡنَهُۥ وَلَا يَخۡشَوۡنَ أَحَدًا إِلَّا ٱللَّهَۗ وَكَفَىٰ بِٱللَّهِ حَسِيبٗا",
-    "translation": "O peygamberler ki Allah'ın gönderdiği emirleri duyururlar, Allah'tan korkarlar ve O'ndan başka kimseden korkmazlar. Hesap görücü olarak Allah (herkese) yeter.",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 423,
+  "verse_key": "33:39",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يُبَلِّغُونَ رِسَٰلَٰتِ ٱللَّهِ وَيَخۡشَوۡنَهُۥ وَلَا يَخۡشَوۡنَ أَحَدًا إِلَّا ٱللَّهَۗ وَكَفَىٰ بِٱللَّهِ حَسِيبٗا",
+  "translation": "O peygamberler ki Allah'ın gönderdiği emirleri duyururlar, Allah'tan korkarlar ve O'ndan başka kimseden korkmazlar. Hesap görücü olarak Allah (herkese) yeter.",
+  "footnotes": ""
 }

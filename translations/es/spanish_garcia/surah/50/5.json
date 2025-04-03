@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4635",
-    "sura": "50",
-    "aya": "5",
-    "arabic_text": "بَلۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَهُمۡ فِيٓ أَمۡرٖ مَّرِيجٍ",
-    "translation": "5. Desmintieron la verdad cuando les llegó y se encuentran en un estado de confusión.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 518,
+  "verse_key": "50:5",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 207,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ كَذَّبُواْ بِٱلۡحَقِّ لَمَّا جَآءَهُمۡ فَهُمۡ فِيٓ أَمۡرٖ مَّرِيجٍ",
+  "translation": "5. Desmintieron la verdad cuando les llegó y se encuentran en un estado de confusión.",
+  "footnotes": ""
 }

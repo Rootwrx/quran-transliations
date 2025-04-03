@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1812",
-    "sura": "15",
-    "aya": "10",
-    "arabic_text": "وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي شِيَعِ ٱلۡأَوَّلِينَ",
-    "translation": "La ad Tõnd tʋma sẽn reng fo taoore tɩ kẽng rẽenem rãmbã sulẽ wã.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 262,
+  "verse_key": "15:10",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَرۡسَلۡنَا مِن قَبۡلِكَ فِي شِيَعِ ٱلۡأَوَّلِينَ",
+  "translation": "La ad Tõnd tʋma sẽn reng fo taoore tɩ kẽng rẽenem rãmbã sulẽ wã.",
+  "footnotes": ""
 }

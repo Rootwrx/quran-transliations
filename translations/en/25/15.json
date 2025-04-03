@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2870",
-    "sura": "25",
-    "aya": "15",
-    "arabic_text": "قُلۡ أَذَٰلِكَ خَيۡرٌ أَمۡ جَنَّةُ ٱلۡخُلۡدِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۚ كَانَتۡ لَهُمۡ جَزَآءٗ وَمَصِيرٗا",
-    "translation": "(15) Say, \"Is that better or the Garden of Eternity which is promised to the righteous? It will be for them a reward and destination.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 361,
+  "verse_key": "25:15",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 144,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَذَٰلِكَ خَيۡرٌ أَمۡ جَنَّةُ ٱلۡخُلۡدِ ٱلَّتِي وُعِدَ ٱلۡمُتَّقُونَۚ كَانَتۡ لَهُمۡ جَزَآءٗ وَمَصِيرٗا",
+  "translation": "(15) Say, \"Is that better or the Garden of Eternity which is promised to the righteous? It will be for them a reward and destination.",
+  "footnotes": ""
 }

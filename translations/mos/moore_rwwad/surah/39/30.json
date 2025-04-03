@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4088",
-    "sura": "39",
-    "aya": "30",
-    "arabic_text": "إِنَّكَ مَيِّتٞ وَإِنَّهُم مَّيِّتُونَ",
-    "translation": "Ad fo (Mʋhammad) yaa kiida, la ad bãmb me yaa kiidba.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 461,
+  "verse_key": "39:30",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّكَ مَيِّتٞ وَإِنَّهُم مَّيِّتُونَ",
+  "translation": "Ad fo (Mʋhammad) yaa kiida, la ad bãmb me yaa kiidba.",
+  "footnotes": ""
 }

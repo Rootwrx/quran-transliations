@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3869",
-    "sura": "37",
-    "aya": "81",
-    "arabic_text": "إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِينَ",
-    "translation": "on je bio rob Naš, vjernik,",
-    "footnotes": ""
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 449,
+  "verse_key": "37:81",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُۥ مِنۡ عِبَادِنَا ٱلۡمُؤۡمِنِينَ",
+  "translation": "on je bio rob Naš, vjernik,",
+  "footnotes": ""
 }

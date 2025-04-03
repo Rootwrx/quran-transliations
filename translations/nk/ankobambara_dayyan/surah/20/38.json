@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2386",
-    "sura": "20",
-    "aya": "38",
-    "arabic_text": "إِذۡ أَوۡحَيۡنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ",
-    "translation": "ߕߎ߬ߡߊ ߡߍ߲ ߊ߲ ߞߵߌ ߣߊ߫ ߦߟߌߘߏ߲߬ ߦߟߌߘߏ߲ߞߊ߲ ߘߏ߫ ߟߊ߫",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 314,
+  "verse_key": "20:38",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 125,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ أَوۡحَيۡنَآ إِلَىٰٓ أُمِّكَ مَا يُوحَىٰٓ",
+  "translation": "ߕߎ߬ߡߊ ߡߍ߲ ߊ߲ ߞߵߌ ߣߊ߫ ߦߟߌߘߏ߲߬ ߦߟߌߘߏ߲ߞߊ߲ ߘߏ߫ ߟߊ߫",
+  "footnotes": ""
 }

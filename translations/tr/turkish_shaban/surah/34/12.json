@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3618",
-    "sura": "34",
-    "aya": "12",
-    "arabic_text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهۡرٞ وَرَوَاحُهَا شَهۡرٞۖ وَأَسَلۡنَا لَهُۥ عَيۡنَ ٱلۡقِطۡرِۖ وَمِنَ ٱلۡجِنِّ مَن يَعۡمَلُ بَيۡنَ يَدَيۡهِ بِإِذۡنِ رَبِّهِۦۖ وَمَن يَزِغۡ مِنۡهُمۡ عَنۡ أَمۡرِنَا نُذِقۡهُ مِنۡ عَذَابِ ٱلسَّعِيرِ",
-    "translation": "Sabah gidişi bir aylık mesafe, akşam dönüşü yine bir aylık mesafe olan rüzgarı da Süleyman'a boyun eğdirdik. Ona bakırı sel gibi akıttık. Cinlerden bir kısmı da Rabbinin emriyle onun emrinde çalışırdı. Onlardan, kim emrimizden çıkarsa alevli ateş azabından tattırırdık. ",
-    "footnotes": null
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 429,
+  "verse_key": "34:12",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 172,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِسُلَيۡمَٰنَ ٱلرِّيحَ غُدُوُّهَا شَهۡرٞ وَرَوَاحُهَا شَهۡرٞۖ وَأَسَلۡنَا لَهُۥ عَيۡنَ ٱلۡقِطۡرِۖ وَمِنَ ٱلۡجِنِّ مَن يَعۡمَلُ بَيۡنَ يَدَيۡهِ بِإِذۡنِ رَبِّهِۦۖ وَمَن يَزِغۡ مِنۡهُمۡ عَنۡ أَمۡرِنَا نُذِقۡهُ مِنۡ عَذَابِ ٱلسَّعِيرِ",
+  "translation": "Sabah gidişi bir aylık mesafe, akşam dönüşü yine bir aylık mesafe olan rüzgarı da Süleyman'a boyun eğdirdik. Ona bakırı sel gibi akıttık. Cinlerden bir kısmı da Rabbinin emriyle onun emrinde çalışırdı. Onlardan, kim emrimizden çıkarsa alevli ateş azabından tattırırdık. ",
+  "footnotes": null
 }

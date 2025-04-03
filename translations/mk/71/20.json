@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5439",
-    "sura": "71",
-    "aya": "20",
-    "arabic_text": "لِّتَسۡلُكُواْ مِنۡهَا سُبُلٗا فِجَاجٗا",
-    "translation": "20. за да патувате по неа по патиштата пространи.“",
-    "footnotes": ""
-  }
+  "id": 20,
+  "verse_number": 20,
+  "page_number": 571,
+  "verse_key": "71:20",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّتَسۡلُكُواْ مِنۡهَا سُبُلٗا فِجَاجٗا",
+  "translation": "20. за да патувате по неа по патиштата пространи.“",
+  "footnotes": ""
 }

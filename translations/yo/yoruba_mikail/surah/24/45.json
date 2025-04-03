@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2836",
-    "sura": "24",
-    "aya": "45",
-    "arabic_text": "وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٖ مِّن مَّآءٖۖ فَمِنۡهُم مَّن يَمۡشِي عَلَىٰ بَطۡنِهِۦ وَمِنۡهُم مَّن يَمۡشِي عَلَىٰ رِجۡلَيۡنِ وَمِنۡهُم مَّن يَمۡشِي عَلَىٰٓ أَرۡبَعٖۚ يَخۡلُقُ ٱللَّهُ مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Allāhu ṣẹ̀dá gbogbo abẹ̀mí láti inú omi. Ó wà nínú wọn, èyí tó ń fi àyà rẹ̀ wọ́. Ó wà nínú wọn, èyí tó ń fi ẹsẹ̀ méjì rìn. Ó sì wà nínú wọn, èyí tó ń fi mẹ́rin rìn. Allāhu ń ṣẹ̀dá ohun tí Ó bá fẹ́. Dájúdájú Allāhu ni Alágbára lórí gbogbo n̄ǹkan.",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 356,
+  "verse_key": "24:45",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 142,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱللَّهُ خَلَقَ كُلَّ دَآبَّةٖ مِّن مَّآءٖۖ فَمِنۡهُم مَّن يَمۡشِي عَلَىٰ بَطۡنِهِۦ وَمِنۡهُم مَّن يَمۡشِي عَلَىٰ رِجۡلَيۡنِ وَمِنۡهُم مَّن يَمۡشِي عَلَىٰٓ أَرۡبَعٖۚ يَخۡلُقُ ٱللَّهُ مَا يَشَآءُۚ إِنَّ ٱللَّهَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Allāhu ṣẹ̀dá gbogbo abẹ̀mí láti inú omi. Ó wà nínú wọn, èyí tó ń fi àyà rẹ̀ wọ́. Ó wà nínú wọn, èyí tó ń fi ẹsẹ̀ méjì rìn. Ó sì wà nínú wọn, èyí tó ń fi mẹ́rin rìn. Allāhu ń ṣẹ̀dá ohun tí Ó bá fẹ́. Dájúdájú Allāhu ni Alágbára lórí gbogbo n̄ǹkan.",
+  "footnotes": ""
 }

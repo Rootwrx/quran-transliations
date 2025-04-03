@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1596",
-    "sura": "11",
-    "aya": "123",
-    "arabic_text": "وَلِلَّهِ غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَإِلَيۡهِ يُرۡجَعُ ٱلۡأَمۡرُ كُلُّهُۥ فَٱعۡبُدۡهُ وَتَوَكَّلۡ عَلَيۡهِۚ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
-    "translation": "123. Y Al-lah posee el conocimiento absoluto del gaib[385] (que sus siervos desconocen) en los cielos y en la tierra, y todos los asuntos retornarán a Él (para que decida sobre ellos). Adoradlo, pues, y depositad vuestra confianza en Él. Tu Señor no deja pasar por alto lo que hacéis.",
-    "footnotes": "[385]Ver la nota de la aleya 3 de la sura 2."
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 235,
+  "verse_key": "11:123",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِلَّهِ غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَإِلَيۡهِ يُرۡجَعُ ٱلۡأَمۡرُ كُلُّهُۥ فَٱعۡبُدۡهُ وَتَوَكَّلۡ عَلَيۡهِۚ وَمَا رَبُّكَ بِغَٰفِلٍ عَمَّا تَعۡمَلُونَ",
+  "translation": "123. Y Al-lah posee el conocimiento absoluto del gaib[385] (que sus siervos desconocen) en los cielos y en la tierra, y todos los asuntos retornarán a Él (para que decida sobre ellos). Adoradlo, pues, y depositad vuestra confianza en Él. Tu Señor no deja pasar por alto lo que hacéis.",
+  "footnotes": "[385]Ver la nota de la aleya 3 de la sura 2."
 }

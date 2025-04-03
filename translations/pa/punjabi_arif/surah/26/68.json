@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3000",
-    "sura": "26",
-    "aya": "68",
-    "arabic_text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
-    "translation": "68਼ ਬੇਸ਼ੱਕ ਤੁਹਾਡਾ ਪਾਲਣਹਾਰ ਬਹੁਤ ਹੀ ਜ਼ੋਰਾਵਰ ਅਤੇ ਮਿਹਰਬਾਨ ਹੈ।",
-    "footnotes": ""
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 370,
+  "verse_key": "26:68",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+  "translation": "68਼ ਬੇਸ਼ੱਕ ਤੁਹਾਡਾ ਪਾਲਣਹਾਰ ਬਹੁਤ ਹੀ ਜ਼ੋਰਾਵਰ ਅਤੇ ਮਿਹਰਬਾਨ ਹੈ।",
+  "footnotes": ""
 }

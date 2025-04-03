@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "759",
-    "sura": "5",
-    "aya": "90",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡخَمۡرُ وَٱلۡمَيۡسِرُ وَٱلۡأَنصَابُ وَٱلۡأَزۡلَٰمُ رِجۡسٞ مِّنۡ عَمَلِ ٱلشَّيۡطَٰنِ فَٱجۡتَنِبُوهُ لَعَلَّكُمۡ تُفۡلِحُونَ",
-    "translation": "90. Kuwa (Xaqa) rumeeyow! Sideedaba Khamrada iyo qamaarka iyo (wax u hibeynta) sanammada iyo faalku11 waa qurun camal shaydaan ah ee ka fogaada aad liibaataane.",
-    "footnotes": "11. Azlaam: waa fallaar aan lahayn baal ama dhogor ay qaadan jireen dadkii jaahiliyadda waagii jaahiliyadda ay ku qori tuuran jireen markay arrin damcaan, waxay soo qaadan jireen seddex fallaarood: ay midi ku dhigan tahay: fal, midka labaadna ha falin, kan seddexaad: ku celi mar kale. Waxaa la dhigi jirey meel, kaddib lagu xafidi jirey Kacbada. Hadday arrin damcaan waxay amri jireen furahayeenka Kacbada inuu midkood soo qaado, hadday gacantiisa ku soo dhacdo midka ay ku dhigan tahay fal, wuxuu wadanayey howshiisa, haddayse u soo baxdo midka ay ku dhigan tahay ha falin, wuu iska deynayey arrinkaa, hadduu u soo baxona ku celi, wuu ku celinayay qori tuurashada."
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 123,
+  "verse_key": "5:90",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 49,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِنَّمَا ٱلۡخَمۡرُ وَٱلۡمَيۡسِرُ وَٱلۡأَنصَابُ وَٱلۡأَزۡلَٰمُ رِجۡسٞ مِّنۡ عَمَلِ ٱلشَّيۡطَٰنِ فَٱجۡتَنِبُوهُ لَعَلَّكُمۡ تُفۡلِحُونَ",
+  "translation": "90. Kuwa (Xaqa) rumeeyow! Sideedaba Khamrada iyo qamaarka iyo (wax u hibeynta) sanammada iyo faalku11 waa qurun camal shaydaan ah ee ka fogaada aad liibaataane.",
+  "footnotes": "11. Azlaam: waa fallaar aan lahayn baal ama dhogor ay qaadan jireen dadkii jaahiliyadda waagii jaahiliyadda ay ku qori tuuran jireen markay arrin damcaan, waxay soo qaadan jireen seddex fallaarood: ay midi ku dhigan tahay: fal, midka labaadna ha falin, kan seddexaad: ku celi mar kale. Waxaa la dhigi jirey meel, kaddib lagu xafidi jirey Kacbada. Hadday arrin damcaan waxay amri jireen furahayeenka Kacbada inuu midkood soo qaado, hadday gacantiisa ku soo dhacdo midka ay ku dhigan tahay fal, wuxuu wadanayey howshiisa, haddayse u soo baxdo midka ay ku dhigan tahay ha falin, wuu iska deynayey arrinkaa, hadduu u soo baxona ku celi, wuu ku celinayay qori tuurashada."
 }

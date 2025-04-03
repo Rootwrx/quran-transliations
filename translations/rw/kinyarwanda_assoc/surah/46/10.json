@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4520",
-    "sura": "46",
-    "aya": "10",
-    "arabic_text": "قُلۡ أَرَءَيۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ وَكَفَرۡتُم بِهِۦ وَشَهِدَ شَاهِدٞ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ عَلَىٰ مِثۡلِهِۦ فَـَٔامَنَ وَٱسۡتَكۡبَرۡتُمۡۚ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
-    "translation": "Babaze (yewe Muhamadi) uti “Mutekereze nk’ubu iyi (Qur’an) ibaye ituruka kwa Allah mukaba muyihakana; nyamara umwe muri bene Isiraheli[1] ahamya ko ari nka yo (ari ukuri nka Tawurati), akaba anayemera mu gihe mwe mwishyira hejuru (muyihakana)!” Mu by’ukuri Allah ntayobora abantu b’abahakanyi.",
-    "footnotes": "[1] Umwe muri bene Isiraheli uvugwa muri uyu murongo ni Abdullahi bun Salaam, Umuyahudi wabaye Umuyisilamu ndetse akaba yari n’umwe mu basangirangendo b’Intumwa y’Imana Muhamadi (Imana imuhe amahoro n’umugisha)."
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 503,
+  "verse_key": "46:10",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُمۡ إِن كَانَ مِنۡ عِندِ ٱللَّهِ وَكَفَرۡتُم بِهِۦ وَشَهِدَ شَاهِدٞ مِّنۢ بَنِيٓ إِسۡرَٰٓءِيلَ عَلَىٰ مِثۡلِهِۦ فَـَٔامَنَ وَٱسۡتَكۡبَرۡتُمۡۚ إِنَّ ٱللَّهَ لَا يَهۡدِي ٱلۡقَوۡمَ ٱلظَّٰلِمِينَ",
+  "translation": "Babaze (yewe Muhamadi) uti “Mutekereze nk’ubu iyi (Qur’an) ibaye ituruka kwa Allah mukaba muyihakana; nyamara umwe muri bene Isiraheli[1] ahamya ko ari nka yo (ari ukuri nka Tawurati), akaba anayemera mu gihe mwe mwishyira hejuru (muyihakana)!” Mu by’ukuri Allah ntayobora abantu b’abahakanyi.",
+  "footnotes": "[1] Umwe muri bene Isiraheli uvugwa muri uyu murongo ni Abdullahi bun Salaam, Umuyahudi wabaye Umuyisilamu ndetse akaba yari n’umwe mu basangirangendo b’Intumwa y’Imana Muhamadi (Imana imuhe amahoro n’umugisha)."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2965",
-    "sura": "26",
-    "aya": "33",
-    "arabic_text": "وَنَزَعَ يَدَهُۥ فَإِذَا هِيَ بَيۡضَآءُ لِلنَّٰظِرِينَ",
-    "translation": "I ruku svoju izvuče, kad ona, onima koji su gledali - bijela.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 368,
+  "verse_key": "26:33",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنَزَعَ يَدَهُۥ فَإِذَا هِيَ بَيۡضَآءُ لِلنَّٰظِرِينَ",
+  "translation": "I ruku svoju izvuče, kad ona, onima koji su gledali - bijela.",
+  "footnotes": ""
 }

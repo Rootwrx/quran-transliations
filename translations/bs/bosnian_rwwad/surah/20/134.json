@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2482",
-    "sura": "20",
-    "aya": "134",
-    "arabic_text": "وَلَوۡ أَنَّآ أَهۡلَكۡنَٰهُم بِعَذَابٖ مِّن قَبۡلِهِۦ لَقَالُواْ رَبَّنَا لَوۡلَآ أَرۡسَلۡتَ إِلَيۡنَا رَسُولٗا فَنَتَّبِعَ ءَايَٰتِكَ مِن قَبۡلِ أَن نَّذِلَّ وَنَخۡزَىٰ",
-    "translation": "A da smo ih kakvom kaznom prije njega uništili, sigurno bi rekli: “Gospodaru naš, zašto nam nisi poslanika poslao, pa bismo riječi Tvoje slijedili prije nego što smo poniženi i osramoćeni postali?”",
-    "footnotes": ""
-  }
+  "id": 134,
+  "verse_number": 134,
+  "page_number": 321,
+  "verse_key": "20:134",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَوۡ أَنَّآ أَهۡلَكۡنَٰهُم بِعَذَابٖ مِّن قَبۡلِهِۦ لَقَالُواْ رَبَّنَا لَوۡلَآ أَرۡسَلۡتَ إِلَيۡنَا رَسُولٗا فَنَتَّبِعَ ءَايَٰتِكَ مِن قَبۡلِ أَن نَّذِلَّ وَنَخۡزَىٰ",
+  "translation": "A da smo ih kakvom kaznom prije njega uništili, sigurno bi rekli: “Gospodaru naš, zašto nam nisi poslanika poslao, pa bismo riječi Tvoje slijedili prije nego što smo poniženi i osramoćeni postali?”",
+  "footnotes": ""
 }

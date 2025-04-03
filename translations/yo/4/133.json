@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "626",
-    "sura": "4",
-    "aya": "133",
-    "arabic_text": "إِن يَشَأۡ يُذۡهِبۡكُمۡ أَيُّهَا ٱلنَّاسُ وَيَأۡتِ بِـَٔاخَرِينَۚ وَكَانَ ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرٗا",
-    "translation": "Tí (Allāhu) bá fẹ́, Ó máa ko yín kúrò lórí ilẹ̀, ẹ̀yin ènìyàn. Ó sì máa mú àwọn mìíràn wá. Allāhu sì ń jẹ́ Alágbára lórí ìyẹn.",
-    "footnotes": ""
-  }
+  "id": 133,
+  "verse_number": 133,
+  "page_number": 99,
+  "verse_key": "4:133",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِن يَشَأۡ يُذۡهِبۡكُمۡ أَيُّهَا ٱلنَّاسُ وَيَأۡتِ بِـَٔاخَرِينَۚ وَكَانَ ٱللَّهُ عَلَىٰ ذَٰلِكَ قَدِيرٗا",
+  "translation": "Tí (Allāhu) bá fẹ́, Ó máa ko yín kúrò lórí ilẹ̀, ẹ̀yin ènìyàn. Ó sì máa mú àwọn mìíràn wá. Allāhu sì ń jẹ́ Alágbára lórí ìyẹn.",
+  "footnotes": ""
 }

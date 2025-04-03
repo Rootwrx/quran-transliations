@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "482",
-    "sura": "3",
-    "aya": "189",
-    "arabic_text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
-    "translation": "189. Alle baana iska leh Boqortooyada (runta ah ee) samooyinka iyo arladaba, Allena wax walba wuu Karaa.",
-    "footnotes": ""
-  }
+  "id": 189,
+  "verse_number": 189,
+  "page_number": 75,
+  "verse_key": "3:189",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۗ وَٱللَّهُ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+  "translation": "189. Alle baana iska leh Boqortooyada (runta ah ee) samooyinka iyo arladaba, Allena wax walba wuu Karaa.",
+  "footnotes": ""
 }

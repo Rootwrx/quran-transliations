@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4713",
-    "sura": "51",
-    "aya": "38",
-    "arabic_text": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ",
-    "translation": "Edhe në historinë e Musait (ka mësim), kur ia dërguam Faraonit, me provë të qartë.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 522,
+  "verse_key": "51:38",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفِي مُوسَىٰٓ إِذۡ أَرۡسَلۡنَٰهُ إِلَىٰ فِرۡعَوۡنَ بِسُلۡطَٰنٖ مُّبِينٖ",
+  "translation": "Edhe në historinë e Musait (ka mësim), kur ia dërguam Faraonit, me provë të qartë.",
+  "footnotes": ""
 }

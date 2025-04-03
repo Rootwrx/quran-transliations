@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3103",
-    "sura": "26",
-    "aya": "171",
-    "arabic_text": "إِلَّا عَجُوزٗا فِي ٱلۡغَٰبِرِينَ",
-    "translation": "except an old woman who was among those who remained behind[21].",
-    "footnotes": "[21] Lot's wife, who betrayed him by not believing and remained a disbeliever; thus, she was among those destroyed."
-  }
+  "id": 171,
+  "verse_number": 171,
+  "page_number": 374,
+  "verse_key": "26:171",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا عَجُوزٗا فِي ٱلۡغَٰبِرِينَ",
+  "translation": "except an old woman who was among those who remained behind[21].",
+  "footnotes": "[21] Lot's wife, who betrayed him by not believing and remained a disbeliever; thus, she was among those destroyed."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2890",
-    "sura": "25",
-    "aya": "35",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَجَعَلۡنَا مَعَهُۥٓ أَخَاهُ هَٰرُونَ وَزِيرٗا",
-    "translation": "35. En voorwaar, Wij hebben aan Moesa het Boek gegeven en zijn broeder Haaroen naast hem geplaatst als helper.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 363,
+  "verse_key": "25:35",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ وَجَعَلۡنَا مَعَهُۥٓ أَخَاهُ هَٰرُونَ وَزِيرٗا",
+  "translation": "35. En voorwaar, Wij hebben aan Moesa het Boek gegeven en zijn broeder Haaroen naast hem geplaatst als helper.",
+  "footnotes": ""
 }

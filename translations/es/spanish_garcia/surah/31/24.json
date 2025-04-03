@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3493",
-    "sura": "31",
-    "aya": "24",
-    "arabic_text": "نُمَتِّعُهُمۡ قَلِيلٗا ثُمَّ نَضۡطَرُّهُمۡ إِلَىٰ عَذَابٍ غَلِيظٖ",
-    "translation": "24. Los dejaré que gocen un tiempo breve[1] y luego los llevaré a un castigo riguroso.",
-    "footnotes": "[1] La vida de una persona, comparada a la eternidad de Dios, es sin duda un período breve."
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 413,
+  "verse_key": "31:24",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "نُمَتِّعُهُمۡ قَلِيلٗا ثُمَّ نَضۡطَرُّهُمۡ إِلَىٰ عَذَابٍ غَلِيظٖ",
+  "translation": "24. Los dejaré que gocen un tiempo breve[1] y luego los llevaré a un castigo riguroso.",
+  "footnotes": "[1] La vida de una persona, comparada a la eternidad de Dios, es sin duda un período breve."
 }

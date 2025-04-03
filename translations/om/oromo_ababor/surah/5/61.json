@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "730",
-    "sura": "5",
-    "aya": "61",
-    "arabic_text": "وَإِذَا جَآءُوكُمۡ قَالُوٓاْ ءَامَنَّا وَقَد دَّخَلُواْ بِٱلۡكُفۡرِ وَهُمۡ قَدۡ خَرَجُواْ بِهِۦۚ وَٱللَّهُ أَعۡلَمُ بِمَا كَانُواْ يَكۡتُمُونَ",
-    "translation": " yeroo isinitti dhufan \"nuti amanne\" jedhu, Isaan odoma dhugumatti kufrii wajjin seenaniifi isaan dhugumatti isumaa wajjin ba’anii jiranuu. Rabbiin irra beekaa waan isaan dhoksaa turaniiti.",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 118,
+  "verse_key": "5:61",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 47,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا جَآءُوكُمۡ قَالُوٓاْ ءَامَنَّا وَقَد دَّخَلُواْ بِٱلۡكُفۡرِ وَهُمۡ قَدۡ خَرَجُواْ بِهِۦۚ وَٱللَّهُ أَعۡلَمُ بِمَا كَانُواْ يَكۡتُمُونَ",
+  "translation": " yeroo isinitti dhufan \"nuti amanne\" jedhu, Isaan odoma dhugumatti kufrii wajjin seenaniifi isaan dhugumatti isumaa wajjin ba’anii jiranuu. Rabbiin irra beekaa waan isaan dhoksaa turaniiti.",
+  "footnotes": ""
 }

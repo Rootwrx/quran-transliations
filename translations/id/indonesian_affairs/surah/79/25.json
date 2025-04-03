@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5737",
-    "sura": "79",
-    "aya": "25",
-    "arabic_text": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلۡأٓخِرَةِ وَٱلۡأُولَىٰٓ",
-    "translation": "Maka Allah menghukumnya dengan azab di akhirat dan siksaan di dunia.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 584,
+  "verse_key": "79:25",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَخَذَهُ ٱللَّهُ نَكَالَ ٱلۡأٓخِرَةِ وَٱلۡأُولَىٰٓ",
+  "translation": "Maka Allah menghukumnya dengan azab di akhirat dan siksaan di dunia.",
+  "footnotes": ""
 }

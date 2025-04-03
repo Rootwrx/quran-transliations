@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2598",
-    "sura": "22",
-    "aya": "3",
-    "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَيَتَّبِعُ كُلَّ شَيۡطَٰنٖ مَّرِيدٖ",
-    "translation": "Na miongoni mwa watu wapo wanao bishana juu ya Mwenyezi Mungu bila ya ilimu, na wanamfuata kila shet'ani aliye asi.",
-    "footnotes": "Na juu ya onyo hili kali na la kweli bado wapo baadhi ya watu inadi yao au kufuata kwao kijinga huwapelekea katika mambo ya kubishana juu ya Mwenyezi Mungu na sifa zake, wakamsingizia kuwa ati ana washirika, au wakaukataa uweza wake wa kufufua na kuwalipa watu kwa vitendo vyao. Na kwa huo ubishi wao na kukataa kwao hawategemei ilimu sahihi, au hoja ya kweli; lakini wao hufuata tu nyayo za kila shetani aliye muasi Mola wake Mlezi, aliye baidika na uwongofu."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 332,
+  "verse_key": "22:3",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَيَتَّبِعُ كُلَّ شَيۡطَٰنٖ مَّرِيدٖ",
+  "translation": "Na miongoni mwa watu wapo wanao bishana juu ya Mwenyezi Mungu bila ya ilimu, na wanamfuata kila shet'ani aliye asi.",
+  "footnotes": "Na juu ya onyo hili kali na la kweli bado wapo baadhi ya watu inadi yao au kufuata kwao kijinga huwapelekea katika mambo ya kubishana juu ya Mwenyezi Mungu na sifa zake, wakamsingizia kuwa ati ana washirika, au wakaukataa uweza wake wa kufufua na kuwalipa watu kwa vitendo vyao. Na kwa huo ubishi wao na kukataa kwao hawategemei ilimu sahihi, au hoja ya kweli; lakini wao hufuata tu nyayo za kila shetani aliye muasi Mola wake Mlezi, aliye baidika na uwongofu."
 }

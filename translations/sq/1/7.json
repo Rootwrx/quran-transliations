@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "7",
-    "sura": "1",
-    "aya": "7",
-    "arabic_text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
-    "translation": "Në rrugën e atyre që u ke dhuruar mirësi[4] e jo në të atyre që kanë shkaktuar zemërimin Tënd,[5] as në të atyre që janë të humbur![6]",
-    "footnotes": "[4] Vargu i fundit përmban pohimin se edhe para shpalljes së Kuranit, mëshira e Allahut të Madhëruar vepronte midis njerëzve, duke prodhuar sjellje të ndriçuara nga besimi dhe të udhëhequra nga frika ndaj Zotit. Sipas komentuesit më të njohur të Kuranit, Ibn Abbasit (r.a.), ata njerëz të cilëve Allahu u ka dhuruar mirësi, janë: profetët, besimtarët e sinqertë e të drejtë (siddikûn), martirët për çështjen e besimit (shuhadâ’) dhe besimtarët e mirë e të drejtë (sâlihûn). \n[5] Njerëzit e tillë janë ata që e njohin rrugën e drejtë, por që nuk e ndjekin atë.\n[6] Njerëzit e tillë janë ata që kanë gabuar rrugë, duke kujtuar se ndjekin rrugën e drejtë."
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 1,
+  "verse_key": "1:7",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "صِرَٰطَ ٱلَّذِينَ أَنۡعَمۡتَ عَلَيۡهِمۡ غَيۡرِ ٱلۡمَغۡضُوبِ عَلَيۡهِمۡ وَلَا ٱلضَّآلِّينَ",
+  "translation": "Në rrugën e atyre që u ke dhuruar mirësi[4] e jo në të atyre që kanë shkaktuar zemërimin Tënd,[5] as në të atyre që janë të humbur![6]",
+  "footnotes": "[4] Vargu i fundit përmban pohimin se edhe para shpalljes së Kuranit, mëshira e Allahut të Madhëruar vepronte midis njerëzve, duke prodhuar sjellje të ndriçuara nga besimi dhe të udhëhequra nga frika ndaj Zotit. Sipas komentuesit më të njohur të Kuranit, Ibn Abbasit (r.a.), ata njerëz të cilëve Allahu u ka dhuruar mirësi, janë: profetët, besimtarët e sinqertë e të drejtë (siddikûn), martirët për çështjen e besimit (shuhadâ’) dhe besimtarët e mirë e të drejtë (sâlihûn). \n[5] Njerëzit e tillë janë ata që e njohin rrugën e drejtë, por që nuk e ndjekin atë.\n[6] Njerëzit e tillë janë ata që kanë gabuar rrugë, duke kujtuar se ndjekin rrugën e drejtë."
 }

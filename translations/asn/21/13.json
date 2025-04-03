@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2496",
-    "sura": "21",
-    "aya": "13",
-    "arabic_text": "لَا تَرۡكُضُواْ وَٱرۡجِعُوٓاْ إِلَىٰ مَآ أُتۡرِفۡتُمۡ فِيهِ وَمَسَٰكِنِكُمۡ لَعَلَّكُمۡ تُسۡـَٔلُونَ",
-    "translation": "Monhwε na moandwane, na mmom monsan nkͻ moahodwoͻ abrabͻ a mowͻ mu no mu, ne moasetena a mowͻ mu no mu sεdeε yεbebisa mo asεm.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 323,
+  "verse_key": "21:13",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا تَرۡكُضُواْ وَٱرۡجِعُوٓاْ إِلَىٰ مَآ أُتۡرِفۡتُمۡ فِيهِ وَمَسَٰكِنِكُمۡ لَعَلَّكُمۡ تُسۡـَٔلُونَ",
+  "translation": "Monhwε na moandwane, na mmom monsan nkͻ moahodwoͻ abrabͻ a mowͻ mu no mu, ne moasetena a mowͻ mu no mu sεdeε yεbebisa mo asεm.",
+  "footnotes": ""
 }

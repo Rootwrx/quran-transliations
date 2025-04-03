@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2004",
-    "sura": "16",
-    "aya": "103",
-    "arabic_text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
-    "translation": "103. Waxaana ognahay inay (gaaladu) yidhaahdaan: Waxaa sideedaba wax bara qof aadmi ah. Carrabka midkay ku leexinayaan waa af shisheeye25, kanina waa af Carabi faseex ah.",
-    "footnotes": "25. Af cajami ah waa af aan Carabi ahayn , sidoo kalena waxaa la yidhaahdaa cajami afka carabiga ee la jajabiyo, waayo ninka ay ku tuhmayaan inuu baro Qur’aanka Rasuulka waa nimaan Carab ahayn, oo yaqaan xoogaa Carabi ah."
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 279,
+  "verse_key": "16:103",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
+  "translation": "103. Waxaana ognahay inay (gaaladu) yidhaahdaan: Waxaa sideedaba wax bara qof aadmi ah. Carrabka midkay ku leexinayaan waa af shisheeye25, kanina waa af Carabi faseex ah.",
+  "footnotes": "25. Af cajami ah waa af aan Carabi ahayn , sidoo kalena waxaa la yidhaahdaa cajami afka carabiga ee la jajabiyo, waayo ninka ay ku tuhmayaan inuu baro Qur’aanka Rasuulka waa nimaan Carab ahayn, oo yaqaan xoogaa Carabi ah."
 }

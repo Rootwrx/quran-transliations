@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5456",
-    "sura": "72",
-    "aya": "9",
-    "arabic_text": "وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَٰعِدَ لِلسَّمۡعِۖ فَمَن يَسۡتَمِعِ ٱلۡأٓنَ يَجِدۡ لَهُۥ شِهَابٗا رَّصَدٗا",
-    "translation": "9 Nous pouvions auparavant[1491] y prendre place pour écouter les secrets célestes. Mais quiconque tente aujourd’hui de surprendre l’un de ces secrets doit affronter un météore prêt à le foudroyer.",
-    "footnotes": "[1491] Avant l’avènement du Prophète."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 572,
+  "verse_key": "72:9",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّا كُنَّا نَقۡعُدُ مِنۡهَا مَقَٰعِدَ لِلسَّمۡعِۖ فَمَن يَسۡتَمِعِ ٱلۡأٓنَ يَجِدۡ لَهُۥ شِهَابٗا رَّصَدٗا",
+  "translation": "9 Nous pouvions auparavant[1491] y prendre place pour écouter les secrets célestes. Mais quiconque tente aujourd’hui de surprendre l’un de ces secrets doit affronter un météore prêt à le foudroyer.",
+  "footnotes": "[1491] Avant l’avènement du Prophète."
 }

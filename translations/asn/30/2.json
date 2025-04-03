@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3411",
-    "sura": "30",
-    "aya": "2",
-    "arabic_text": "غُلِبَتِ ٱلرُّومُ",
-    "translation": "Romafoͻ no adi nkoguo-",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 404,
+  "verse_key": "30:2",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "غُلِبَتِ ٱلرُّومُ",
+  "translation": "Romafoͻ no adi nkoguo-",
+  "footnotes": ""
 }

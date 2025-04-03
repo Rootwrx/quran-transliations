@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3467",
-    "sura": "30",
-    "aya": "58",
-    "arabic_text": "وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖۚ وَلَئِن جِئۡتَهُم بِـَٔايَةٖ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ أَنتُمۡ إِلَّا مُبۡطِلُونَ",
-    "translation": "U ovom Kur’anu Mi navodimo ljudima svakovrsne primjere. A kad bi im ti ne znam kakvo čudo donio, opet bi rekli oni koji neće da vjeruju: “Vi samo iznosite laži!”",
-    "footnotes": ""
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 410,
+  "verse_key": "30:58",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 164,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ضَرَبۡنَا لِلنَّاسِ فِي هَٰذَا ٱلۡقُرۡءَانِ مِن كُلِّ مَثَلٖۚ وَلَئِن جِئۡتَهُم بِـَٔايَةٖ لَّيَقُولَنَّ ٱلَّذِينَ كَفَرُوٓاْ إِنۡ أَنتُمۡ إِلَّا مُبۡطِلُونَ",
+  "translation": "U ovom Kur’anu Mi navodimo ljudima svakovrsne primjere. A kad bi im ti ne znam kakvo čudo donio, opet bi rekli oni koji neće da vjeruju: “Vi samo iznosite laži!”",
+  "footnotes": ""
 }

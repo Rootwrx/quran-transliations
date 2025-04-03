@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5314",
-    "sura": "68",
-    "aya": "43",
-    "arabic_text": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۖ وَقَدۡ كَانُواْ يُدۡعَوۡنَ إِلَى ٱلسُّجُودِ وَهُمۡ سَٰلِمُونَ",
-    "translation": "Com suas vistas humildemente baixas, uma vileza cobri-los-á. E, com efeito, haviam sido convocados a prosternar-se, enquanto sãos.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 566,
+  "verse_key": "68:43",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 226,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "خَٰشِعَةً أَبۡصَٰرُهُمۡ تَرۡهَقُهُمۡ ذِلَّةٞۖ وَقَدۡ كَانُواْ يُدۡعَوۡنَ إِلَى ٱلسُّجُودِ وَهُمۡ سَٰلِمُونَ",
+  "translation": "Com suas vistas humildemente baixas, uma vileza cobri-los-á. E, com efeito, haviam sido convocados a prosternar-se, enquanto sãos.",
+  "footnotes": ""
 }

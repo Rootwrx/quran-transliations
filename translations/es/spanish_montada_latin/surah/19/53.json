@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2303",
-    "sura": "19",
-    "aya": "53",
-    "arabic_text": "وَوَهَبۡنَا لَهُۥ مِن رَّحۡمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيّٗا",
-    "translation": "53. Y le concedimos a su hermano Aarón (como apoyo) por misericordia Nuestra, haciendo que fuera (también) un Profeta.",
-    "footnotes": ""
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 309,
+  "verse_key": "19:53",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَهَبۡنَا لَهُۥ مِن رَّحۡمَتِنَآ أَخَاهُ هَٰرُونَ نَبِيّٗا",
+  "translation": "53. Y le concedimos a su hermano Aarón (como apoyo) por misericordia Nuestra, haciendo que fuera (también) un Profeta.",
+  "footnotes": ""
 }

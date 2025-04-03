@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1922",
-    "sura": "16",
-    "aya": "21",
-    "arabic_text": "أَمۡوَٰتٌ غَيۡرُ أَحۡيَآءٖۖ وَمَا يَشۡعُرُونَ أَيَّانَ يُبۡعَثُونَ",
-    "translation": "Òkú (ni wọ́n), wọn kì í ṣe alààyè.[1] Wọn kò sì mọ àkókò tí A óò jí wọn dìde (nínú sàréè).",
-    "footnotes": "1. Allāhu pe àwọn òrìṣà ní òkú nítorí pé, ère tí kò sí ẹ̀mí lára rẹ̀ ni àwọn òrìṣà náà. Ipò òkú, ẹni tí kò lè sọ̀rọ̀, ẹni tí kò lè ríran, ẹni tí kò lè ran ara rẹ̀ lọ́wọ́ áḿbọ̀sìbọ́sí pé ó máa ran ẹlòmíìràn lọ́wọ́ ni ipò tí gbogbo ère òrìṣà wà."
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 269,
+  "verse_key": "16:21",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡوَٰتٌ غَيۡرُ أَحۡيَآءٖۖ وَمَا يَشۡعُرُونَ أَيَّانَ يُبۡعَثُونَ",
+  "translation": "Òkú (ni wọ́n), wọn kì í ṣe alààyè.[1] Wọn kò sì mọ àkókò tí A óò jí wọn dìde (nínú sàréè).",
+  "footnotes": "1. Allāhu pe àwọn òrìṣà ní òkú nítorí pé, ère tí kò sí ẹ̀mí lára rẹ̀ ni àwọn òrìṣà náà. Ipò òkú, ẹni tí kò lè sọ̀rọ̀, ẹni tí kò lè ríran, ẹni tí kò lè ran ara rẹ̀ lọ́wọ́ áḿbọ̀sìbọ́sí pé ó máa ran ẹlòmíìràn lọ́wọ́ ni ipò tí gbogbo ère òrìṣà wà."
 }

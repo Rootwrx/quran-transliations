@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "827",
-    "sura": "6",
-    "aya": "38",
-    "arabic_text": "وَمَا مِن دَآبَّةٖ فِي ٱلۡأَرۡضِ وَلَا طَٰٓئِرٖ يَطِيرُ بِجَنَاحَيۡهِ إِلَّآ أُمَمٌ أَمۡثَالُكُمۚ مَّا فَرَّطۡنَا فِي ٱلۡكِتَٰبِ مِن شَيۡءٖۚ ثُمَّ إِلَىٰ رَبِّهِمۡ يُحۡشَرُونَ",
-    "translation": "Kò sí ohun abẹ̀mí kan (tó ń rìn) lórí ilẹ̀, tàbí ẹyẹ kan tó ń fò pẹ̀lú apá rẹ̀ méjèèjì bí kò ṣe àwọn ẹ̀dá kan (bí) irú yín. A kò fi kiní kan sílẹ̀ (láì ṣàkọsílẹ̀ rẹ̀) sínú Tírà (ìyẹn, ummul-kitāb). Lẹ́yìn náà, ọ̀dọ̀ Olúwa wọn ni wọn yóò kó wọn jọ sí.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 132,
+  "verse_key": "6:38",
+  "juz_number": 7,
+  "hizb_number": 14,
+  "rub_el_hizb_number": 53,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا مِن دَآبَّةٖ فِي ٱلۡأَرۡضِ وَلَا طَٰٓئِرٖ يَطِيرُ بِجَنَاحَيۡهِ إِلَّآ أُمَمٌ أَمۡثَالُكُمۚ مَّا فَرَّطۡنَا فِي ٱلۡكِتَٰبِ مِن شَيۡءٖۚ ثُمَّ إِلَىٰ رَبِّهِمۡ يُحۡشَرُونَ",
+  "translation": "Kò sí ohun abẹ̀mí kan (tó ń rìn) lórí ilẹ̀, tàbí ẹyẹ kan tó ń fò pẹ̀lú apá rẹ̀ méjèèjì bí kò ṣe àwọn ẹ̀dá kan (bí) irú yín. A kò fi kiní kan sílẹ̀ (láì ṣàkọsílẹ̀ rẹ̀) sínú Tírà (ìyẹn, ummul-kitāb). Lẹ́yìn náà, ọ̀dọ̀ Olúwa wọn ni wọn yóò kó wọn jọ sí.",
+  "footnotes": ""
 }

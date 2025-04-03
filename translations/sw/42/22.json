@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4294",
-    "sura": "42",
-    "aya": "22",
-    "arabic_text": "تَرَى ٱلظَّٰلِمِينَ مُشۡفِقِينَ مِمَّا كَسَبُواْ وَهُوَ وَاقِعُۢ بِهِمۡۗ وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فِي رَوۡضَاتِ ٱلۡجَنَّاتِۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمۡۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ",
-    "translation": "Utawaona hao madhaalimu wanavyo kuwa na khofu kwa sababu ya waliyo yachuma, nayo yatawafika tu. Na walio amini na wakatenda mema watakuwamo katika mabustani ya Peponi. Humo watapata wayatakayo kwa Mola wao Mlezi. Hiyo ndiyo fadhila kubwa.",
-    "footnotes": "Ewe unaye semezwa! Utawaona Siku ya Kiyama hao walio jidhulumu nafsi zao kwa ushirikina wamo katika khofu kuogopa malipo ya ushirikina wao, nayo yatawateremkia tu hapana hivi wala hivi. Na utawaona wenye kuamini na wakatenda mema wamestarehe katika mwahali mzuri kabisa katika Pepo. Humo watapata neema wazitamaniazo kwa Mola wao Mlezi. Hayo ndiyo malipo makubwa, na ndio fadhila kubwa ya kutarajiwa."
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 485,
+  "verse_key": "42:22",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 194,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَرَى ٱلظَّٰلِمِينَ مُشۡفِقِينَ مِمَّا كَسَبُواْ وَهُوَ وَاقِعُۢ بِهِمۡۗ وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ فِي رَوۡضَاتِ ٱلۡجَنَّاتِۖ لَهُم مَّا يَشَآءُونَ عِندَ رَبِّهِمۡۚ ذَٰلِكَ هُوَ ٱلۡفَضۡلُ ٱلۡكَبِيرُ",
+  "translation": "Utawaona hao madhaalimu wanavyo kuwa na khofu kwa sababu ya waliyo yachuma, nayo yatawafika tu. Na walio amini na wakatenda mema watakuwamo katika mabustani ya Peponi. Humo watapata wayatakayo kwa Mola wao Mlezi. Hiyo ndiyo fadhila kubwa.",
+  "footnotes": "Ewe unaye semezwa! Utawaona Siku ya Kiyama hao walio jidhulumu nafsi zao kwa ushirikina wamo katika khofu kuogopa malipo ya ushirikina wao, nayo yatawateremkia tu hapana hivi wala hivi. Na utawaona wenye kuamini na wakatenda mema wamestarehe katika mwahali mzuri kabisa katika Pepo. Humo watapata neema wazitamaniazo kwa Mola wao Mlezi. Hayo ndiyo malipo makubwa, na ndio fadhila kubwa ya kutarajiwa."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4686",
-    "sura": "51",
-    "aya": "11",
-    "arabic_text": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ",
-    "translation": "Wͻn a wͻn wͻ anibianaso ne awerεfire mu no.",
-    "footnotes": ""
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 521,
+  "verse_key": "51:11",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ هُمۡ فِي غَمۡرَةٖ سَاهُونَ",
+  "translation": "Wͻn a wͻn wͻ anibianaso ne awerεfire mu no.",
+  "footnotes": ""
 }

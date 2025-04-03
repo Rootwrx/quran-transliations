@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "534",
-    "sura": "4",
-    "aya": "41",
-    "arabic_text": "فَكَيۡفَ إِذَا جِئۡنَا مِن كُلِّ أُمَّةِۭ بِشَهِيدٖ وَجِئۡنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدٗا",
-    "translation": "41. ¿Y cuál será el estado de quienes rechazan la verdad cuando hagamos comparecer a un testigo[144] de cada comunidad y hagamos que comparezcas tú (¡oh, Muhammad!) como testigo contra ellos?",
-    "footnotes": "[144]  El Día de la Resurrección, cada comunidad aparecerá liderada por el profeta que le fue enviado, y este actuará como testigo a favor de su propia comunidad o contra ella."
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 85,
+  "verse_key": "4:41",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَيۡفَ إِذَا جِئۡنَا مِن كُلِّ أُمَّةِۭ بِشَهِيدٖ وَجِئۡنَا بِكَ عَلَىٰ هَٰٓؤُلَآءِ شَهِيدٗا",
+  "translation": "41. ¿Y cuál será el estado de quienes rechazan la verdad cuando hagamos comparecer a un testigo[144] de cada comunidad y hagamos que comparezcas tú (¡oh, Muhammad!) como testigo contra ellos?",
+  "footnotes": "[144]  El Día de la Resurrección, cada comunidad aparecerá liderada por el profeta que le fue enviado, y este actuará como testigo a favor de su propia comunidad o contra ella."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6175",
-    "sura": "102",
-    "aya": "7",
-    "arabic_text": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ",
-    "translation": "फिर निश्चय तुम उसे अवश्य विश्वास की आँख से देखोगे।",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 600,
+  "verse_key": "102:7",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ لَتَرَوُنَّهَا عَيۡنَ ٱلۡيَقِينِ",
+  "translation": "फिर निश्चय तुम उसे अवश्य विश्वास की आँख से देखोगे।",
+  "footnotes": ""
 }

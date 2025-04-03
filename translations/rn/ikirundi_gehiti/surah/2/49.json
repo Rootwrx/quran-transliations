@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "56",
-    "sura": "2",
-    "aya": "49",
-    "arabic_text": "وَإِذۡ نَجَّيۡنَٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ يُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ عَظِيمٞ",
-    "translation": "Nimwibuke inema zanje Nabahaye muheze mushime, mwibuke n’igihe Tubakuyeko amagorwa y’abantu ba Firawuni yo gucurwa bufuni na buhoro, babaha ibihano bikomeye, bagakereragura abana banyu b’abahungu, bagasigaza abakobwa banyu ku gutinya ko mu bahungu hovamwo uwuzoza gukura ubutegetsi bwiwe. Muri ivyo vyose vyabashikiye rero, harimwo igeragezwa rikomeye rivuye ku Mana yanyu Rurema Allah.",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 8,
+  "verse_key": "2:49",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 3,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذۡ نَجَّيۡنَٰكُم مِّنۡ ءَالِ فِرۡعَوۡنَ يَسُومُونَكُمۡ سُوٓءَ ٱلۡعَذَابِ يُذَبِّحُونَ أَبۡنَآءَكُمۡ وَيَسۡتَحۡيُونَ نِسَآءَكُمۡۚ وَفِي ذَٰلِكُم بَلَآءٞ مِّن رَّبِّكُمۡ عَظِيمٞ",
+  "translation": "Nimwibuke inema zanje Nabahaye muheze mushime, mwibuke n’igihe Tubakuyeko amagorwa y’abantu ba Firawuni yo gucurwa bufuni na buhoro, babaha ibihano bikomeye, bagakereragura abana banyu b’abahungu, bagasigaza abakobwa banyu ku gutinya ko mu bahungu hovamwo uwuzoza gukura ubutegetsi bwiwe. Muri ivyo vyose vyabashikiye rero, harimwo igeragezwa rikomeye rivuye ku Mana yanyu Rurema Allah.",
+  "footnotes": ""
 }

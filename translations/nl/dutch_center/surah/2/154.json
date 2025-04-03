@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "161",
-    "sura": "2",
-    "aya": "154",
-    "arabic_text": "وَلَا تَقُولُواْ لِمَن يُقۡتَلُ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتُۢۚ بَلۡ أَحۡيَآءٞ وَلَٰكِن لَّا تَشۡعُرُونَ",
-    "translation": "154. En zeg niet van degenen die op Allah Zijn weg zijn gedood: “Zij zijn dood.” Nee, zij leven, maar jullie beseffen (het) niet.",
-    "footnotes": ""
-  }
+  "id": 154,
+  "verse_number": 154,
+  "page_number": 24,
+  "verse_key": "2:154",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 9,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَقُولُواْ لِمَن يُقۡتَلُ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتُۢۚ بَلۡ أَحۡيَآءٞ وَلَٰكِن لَّا تَشۡعُرُونَ",
+  "translation": "154. En zeg niet van degenen die op Allah Zijn weg zijn gedood: “Zij zijn dood.” Nee, zij leven, maar jullie beseffen (het) niet.",
+  "footnotes": ""
 }

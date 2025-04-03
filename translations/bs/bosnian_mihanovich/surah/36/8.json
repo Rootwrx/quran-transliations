@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3713",
-    "sura": "36",
-    "aya": "8",
-    "arabic_text": "إِنَّا جَعَلۡنَا فِيٓ أَعۡنَٰقِهِمۡ أَغۡلَٰلٗا فَهِيَ إِلَى ٱلۡأَذۡقَانِ فَهُم مُّقۡمَحُونَ",
-    "translation": "Mi smo na njihove vratove sindžire \"stavili\", a ruke su im na podbratke \"privezane\" - pa su oni glava zadignutih, ",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 440,
+  "verse_key": "36:8",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا جَعَلۡنَا فِيٓ أَعۡنَٰقِهِمۡ أَغۡلَٰلٗا فَهِيَ إِلَى ٱلۡأَذۡقَانِ فَهُم مُّقۡمَحُونَ",
+  "translation": "Mi smo na njihove vratove sindžire \"stavili\", a ruke su im na podbratke \"privezane\" - pa su oni glava zadignutih, ",
+  "footnotes": ""
 }

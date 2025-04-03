@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3040",
-    "sura": "26",
-    "aya": "108",
-    "arabic_text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
-    "translation": "Basi Mcheni Mwenyezi Mungu, na nit'iini mimi.",
-    "footnotes": "Basi mkhofuni Mwenyezi Mungu, na fuateni amri yangu katika hayo ninayo kuitieni kwayo ya kumuamini Mwenyezi Mungu wa pekee na kumt'ii."
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 371,
+  "verse_key": "26:108",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱتَّقُواْ ٱللَّهَ وَأَطِيعُونِ",
+  "translation": "Basi Mcheni Mwenyezi Mungu, na nit'iini mimi.",
+  "footnotes": "Basi mkhofuni Mwenyezi Mungu, na fuateni amri yangu katika hayo ninayo kuitieni kwayo ya kumuamini Mwenyezi Mungu wa pekee na kumt'ii."
 }

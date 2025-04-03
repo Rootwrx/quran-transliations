@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2638",
-    "sura": "22",
-    "aya": "43",
-    "arabic_text": "وَقَوۡمُ إِبۡرَٰهِيمَ وَقَوۡمُ لُوطٖ",
-    "translation": "Na watu wa Ibrahim na watu wa Lut'i",
-    "footnotes": "Na kaumu ya Ibrahim walimkanusha Mtume wao Ibrahim, na kaumu Lut'i walimfanyia hayo hayo Mtume wao Lut'i."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 337,
+  "verse_key": "22:43",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَوۡمُ إِبۡرَٰهِيمَ وَقَوۡمُ لُوطٖ",
+  "translation": "Na watu wa Ibrahim na watu wa Lut'i",
+  "footnotes": "Na kaumu ya Ibrahim walimkanusha Mtume wao Ibrahim, na kaumu Lut'i walimfanyia hayo hayo Mtume wao Lut'i."
 }

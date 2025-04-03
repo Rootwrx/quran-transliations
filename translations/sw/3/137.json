@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "430",
-    "sura": "3",
-    "aya": "137",
-    "arabic_text": "قَدۡ خَلَتۡ مِن قَبۡلِكُمۡ سُنَنٞ فَسِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ",
-    "translation": "Kabla yenu zimepita nyendo nyingi; basi tembeeni katika ulimwengu muangalie vipi ulikuwa mwisho wa wanao kanusha.",
-    "footnotes": "Enyi Waumini, kabla yenu shani ya Mwenyezi Mungu imewapitia kaumu zilizo kadhibisha kwa mapuuza yao. Mwenyezi Mungu akawashika kwa madhambi yao. Basi zingatieni vipi yalikuwa matokeo ya vitendo vya walio kadhibisha."
-  }
+  "id": 137,
+  "verse_number": 137,
+  "page_number": 67,
+  "verse_key": "3:137",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ خَلَتۡ مِن قَبۡلِكُمۡ سُنَنٞ فَسِيرُواْ فِي ٱلۡأَرۡضِ فَٱنظُرُواْ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُكَذِّبِينَ",
+  "translation": "Kabla yenu zimepita nyendo nyingi; basi tembeeni katika ulimwengu muangalie vipi ulikuwa mwisho wa wanao kanusha.",
+  "footnotes": "Enyi Waumini, kabla yenu shani ya Mwenyezi Mungu imewapitia kaumu zilizo kadhibisha kwa mapuuza yao. Mwenyezi Mungu akawashika kwa madhambi yao. Basi zingatieni vipi yalikuwa matokeo ya vitendo vya walio kadhibisha."
 }

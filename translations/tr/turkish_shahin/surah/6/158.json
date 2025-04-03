@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "947",
-    "sura": "6",
-    "aya": "158",
-    "arabic_text": "هَلۡ يَنظُرُونَ إِلَّآ أَن تَأۡتِيَهُمُ ٱلۡمَلَٰٓئِكَةُ أَوۡ يَأۡتِيَ رَبُّكَ أَوۡ يَأۡتِيَ بَعۡضُ ءَايَٰتِ رَبِّكَۗ يَوۡمَ يَأۡتِي بَعۡضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفۡسًا إِيمَٰنُهَا لَمۡ تَكُنۡ ءَامَنَتۡ مِن قَبۡلُ أَوۡ كَسَبَتۡ فِيٓ إِيمَٰنِهَا خَيۡرٗاۗ قُلِ ٱنتَظِرُوٓاْ إِنَّا مُنتَظِرُونَ",
-    "translation": "  Onlar ancak kendilerine meleklerin (ölüm emriyle) gelmesini veya Rabbinin (Kıyâmet Günü) gelmesini yahut Rabbinin bazı alâmetlerinin (gelmesini yani güneşin batıdan gelmesini mi) bekliyorlar. Rabbinin bazı alâmetleri geldiği gün, önceden inanmamış ya da imanında bir hayır kazanmamış olan kimseye artık imanı bir fayda sağlamaz. De ki: Bekleyin, şüphesiz biz de beklemekteyiz!",
-    "footnotes": ""
-  }
+  "id": 158,
+  "verse_number": 158,
+  "page_number": 150,
+  "verse_key": "6:158",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 60,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هَلۡ يَنظُرُونَ إِلَّآ أَن تَأۡتِيَهُمُ ٱلۡمَلَٰٓئِكَةُ أَوۡ يَأۡتِيَ رَبُّكَ أَوۡ يَأۡتِيَ بَعۡضُ ءَايَٰتِ رَبِّكَۗ يَوۡمَ يَأۡتِي بَعۡضُ ءَايَٰتِ رَبِّكَ لَا يَنفَعُ نَفۡسًا إِيمَٰنُهَا لَمۡ تَكُنۡ ءَامَنَتۡ مِن قَبۡلُ أَوۡ كَسَبَتۡ فِيٓ إِيمَٰنِهَا خَيۡرٗاۗ قُلِ ٱنتَظِرُوٓاْ إِنَّا مُنتَظِرُونَ",
+  "translation": "  Onlar ancak kendilerine meleklerin (ölüm emriyle) gelmesini veya Rabbinin (Kıyâmet Günü) gelmesini yahut Rabbinin bazı alâmetlerinin (gelmesini yani güneşin batıdan gelmesini mi) bekliyorlar. Rabbinin bazı alâmetleri geldiği gün, önceden inanmamış ya da imanında bir hayır kazanmamış olan kimseye artık imanı bir fayda sağlamaz. De ki: Bekleyin, şüphesiz biz de beklemekteyiz!",
+  "footnotes": ""
 }

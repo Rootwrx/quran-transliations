@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4564",
-    "sura": "47",
-    "aya": "19",
-    "arabic_text": "فَٱعۡلَمۡ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۗ وَٱللَّهُ يَعۡلَمُ مُتَقَلَّبَكُمۡ وَمَثۡوَىٰكُمۡ",
-    "translation": "Basi jua ya kwamba hapana mungu ila Mwenyezi Mungu, na omba maghufira kwa dhambi zako na za Waumini wanaume na Waumini wanawake. Na Mwenyezi Mungu anajua mahali penu pa kwenda na kurudi, na mahali penu pa kukaa.",
-    "footnotes": "Basi thibiti juu ya ujuzi ya kwamba hakika hapana wa kuabudiwa kwa Haki ila Mwenyezi Mungu tu. Na muombe maghfira Mwenyezi Mungu kwa dhambi yako na madhambi ya Waumini wanaume na Waumini wanawake. Na Mwenyezi Mungu anajua kila lenu, la kupita na la kukaa."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 508,
+  "verse_key": "47:19",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 203,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱعۡلَمۡ أَنَّهُۥ لَآ إِلَٰهَ إِلَّا ٱللَّهُ وَٱسۡتَغۡفِرۡ لِذَنۢبِكَ وَلِلۡمُؤۡمِنِينَ وَٱلۡمُؤۡمِنَٰتِۗ وَٱللَّهُ يَعۡلَمُ مُتَقَلَّبَكُمۡ وَمَثۡوَىٰكُمۡ",
+  "translation": "Basi jua ya kwamba hapana mungu ila Mwenyezi Mungu, na omba maghufira kwa dhambi zako na za Waumini wanaume na Waumini wanawake. Na Mwenyezi Mungu anajua mahali penu pa kwenda na kurudi, na mahali penu pa kukaa.",
+  "footnotes": "Basi thibiti juu ya ujuzi ya kwamba hakika hapana wa kuabudiwa kwa Haki ila Mwenyezi Mungu tu. Na muombe maghfira Mwenyezi Mungu kwa dhambi yako na madhambi ya Waumini wanaume na Waumini wanawake. Na Mwenyezi Mungu anajua kila lenu, la kupita na la kukaa."
 }

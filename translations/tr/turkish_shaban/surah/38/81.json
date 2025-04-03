@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4051",
-    "sura": "38",
-    "aya": "81",
-    "arabic_text": "إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ",
-    "translation": " Hem de belli bir vakte kadar...",
-    "footnotes": null
-  }
+  "id": 81,
+  "verse_number": 81,
+  "page_number": 457,
+  "verse_key": "38:81",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 183,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَىٰ يَوۡمِ ٱلۡوَقۡتِ ٱلۡمَعۡلُومِ",
+  "translation": " Hem de belli bir vakte kadar...",
+  "footnotes": null
 }

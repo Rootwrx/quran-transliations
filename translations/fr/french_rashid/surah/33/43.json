@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3576",
-    "sura": "33",
-    "aya": "43",
-    "arabic_text": "هُوَ ٱلَّذِي يُصَلِّي عَلَيۡكُمۡ وَمَلَٰٓئِكَتُهُۥ لِيُخۡرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَكَانَ بِٱلۡمُؤۡمِنِينَ رَحِيمٗا",
-    "translation": "43 C’est Lui qui répand Ses bénédictions sur vous[1087], ainsi que Ses anges qui ne cessent de prier pour vous afin de vous tirer des ténèbres vers la lumière. Il est Très Miséricordieux envers les croyants",
-    "footnotes": "[1087] Voir note verset 157, sourate 2."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 423,
+  "verse_key": "33:43",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 169,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي يُصَلِّي عَلَيۡكُمۡ وَمَلَٰٓئِكَتُهُۥ لِيُخۡرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَكَانَ بِٱلۡمُؤۡمِنِينَ رَحِيمٗا",
+  "translation": "43 C’est Lui qui répand Ses bénédictions sur vous[1087], ainsi que Ses anges qui ne cessent de prier pour vous afin de vous tirer des ténèbres vers la lumière. Il est Très Miséricordieux envers les croyants",
+  "footnotes": "[1087] Voir note verset 157, sourate 2."
 }

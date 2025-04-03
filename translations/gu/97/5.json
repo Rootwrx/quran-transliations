@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6130",
-    "sura": "97",
-    "aya": "5",
-    "arabic_text": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
-    "translation": "૫. આ રાત્રિ સંપૂર્ણ સલામતી વાળી હોય છે અને ફજરના ઉદય સુધી (રહે છે).",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 598,
+  "verse_key": "97:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سَلَٰمٌ هِيَ حَتَّىٰ مَطۡلَعِ ٱلۡفَجۡرِ",
+  "translation": "૫. આ રાત્રિ સંપૂર્ણ સલામતી વાળી હોય છે અને ફજરના ઉદય સુધી (રહે છે).",
+  "footnotes": ""
 }

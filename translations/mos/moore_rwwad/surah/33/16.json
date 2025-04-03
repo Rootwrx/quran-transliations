@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3549",
-    "sura": "33",
-    "aya": "16",
-    "arabic_text": "قُل لَّن يَنفَعَكُمُ ٱلۡفِرَارُ إِن فَرَرۡتُم مِّنَ ٱلۡمَوۡتِ أَوِ ٱلۡقَتۡلِ وَإِذٗا لَّا تُمَتَّعُونَ إِلَّا قَلِيلٗا",
-    "translation": "Yeele: \"zoees kɑ nɑ n tɑll yõod ne yãmb bɑ tɩ yãmb sã n zoe n nɑ n põs kũumã mɑɑ kʋʋbã ye, lɑ bɑ tɩ y põs me, y kõon n vʋɩɩm noog rẽndɑ bilf bɑlɑ''.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 420,
+  "verse_key": "33:16",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 167,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُل لَّن يَنفَعَكُمُ ٱلۡفِرَارُ إِن فَرَرۡتُم مِّنَ ٱلۡمَوۡتِ أَوِ ٱلۡقَتۡلِ وَإِذٗا لَّا تُمَتَّعُونَ إِلَّا قَلِيلٗا",
+  "translation": "Yeele: \"zoees kɑ nɑ n tɑll yõod ne yãmb bɑ tɩ yãmb sã n zoe n nɑ n põs kũumã mɑɑ kʋʋbã ye, lɑ bɑ tɩ y põs me, y kõon n vʋɩɩm noog rẽndɑ bilf bɑlɑ''.",
+  "footnotes": ""
 }

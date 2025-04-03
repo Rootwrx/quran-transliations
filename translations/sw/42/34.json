@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4306",
-    "sura": "42",
-    "aya": "34",
-    "arabic_text": "أَوۡ يُوبِقۡهُنَّ بِمَا كَسَبُواْ وَيَعۡفُ عَن كَثِيرٖ",
-    "translation": "Au huviangamiza hivyo vyombo kwa sababu ya waliyo yatenda hao watu. Naye husamehe mengi.",
-    "footnotes": "Au akayateketeza hayo majahazi kwa sababu ya madhambi ya walio panda, kwa kuwapelekea upepo wa kimbunga. Na Mwenyezi Mungu akipenda anasamehe mengi; kwa kuwa hawaadhibu kwa kuzuia upepo na kuleta shuwari, au kwa kuleta kimbunga cha kuwazamisha."
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 487,
+  "verse_key": "42:34",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ يُوبِقۡهُنَّ بِمَا كَسَبُواْ وَيَعۡفُ عَن كَثِيرٖ",
+  "translation": "Au huviangamiza hivyo vyombo kwa sababu ya waliyo yatenda hao watu. Naye husamehe mengi.",
+  "footnotes": "Au akayateketeza hayo majahazi kwa sababu ya madhambi ya walio panda, kwa kuwapelekea upepo wa kimbunga. Na Mwenyezi Mungu akipenda anasamehe mengi; kwa kuwa hawaadhibu kwa kuzuia upepo na kuleta shuwari, au kwa kuleta kimbunga cha kuwazamisha."
 }

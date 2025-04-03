@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5843",
-    "sura": "82",
-    "aya": "14",
-    "arabic_text": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
-    "translation": "14. mientras que los pecadores incrédulos estarán en el fuego (del infierno),",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 587,
+  "verse_key": "82:14",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ ٱلۡفُجَّارَ لَفِي جَحِيمٖ",
+  "translation": "14. mientras que los pecadores incrédulos estarán en el fuego (del infierno),",
+  "footnotes": ""
 }

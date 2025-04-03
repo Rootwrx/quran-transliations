@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "47",
-    "sura": "2",
-    "aya": "40",
-    "arabic_text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَوۡفُواْ بِعَهۡدِيٓ أُوفِ بِعَهۡدِكُمۡ وَإِيَّٰيَ فَٱرۡهَبُونِ",
-    "translation": "Emwe Bene Israyeli[5]! Enda nimwibuke inema zanje Nabahaye, mwongere mwubahirize isezerano ryanje ryo kwemera Ibitabu n’Intumwa zanje ata kuvangura, maze mwubahirize amabwirizwa yanje, nanje Nzoheza Nubahirize isezerano ryanyu ryo kubagirira impuhwe kw’isi no kubaha impera y’ivyo mwakoze mu buzima bw’inyuma yo gupfa. Kandi ni Jewe rero gusa mutegerezwa gutinya mu kwiyubara ko mwohabwa ibihano vyanje hamwe mwongarariza,",
-    "footnotes": "[5] Biswe Bene Israyeli kuko bamuka kuri Yakobo mwene Ibrahimu, akaba ari we atazirwa Israyeli."
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 7,
+  "verse_key": "2:40",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰبَنِيٓ إِسۡرَٰٓءِيلَ ٱذۡكُرُواْ نِعۡمَتِيَ ٱلَّتِيٓ أَنۡعَمۡتُ عَلَيۡكُمۡ وَأَوۡفُواْ بِعَهۡدِيٓ أُوفِ بِعَهۡدِكُمۡ وَإِيَّٰيَ فَٱرۡهَبُونِ",
+  "translation": "Emwe Bene Israyeli[5]! Enda nimwibuke inema zanje Nabahaye, mwongere mwubahirize isezerano ryanje ryo kwemera Ibitabu n’Intumwa zanje ata kuvangura, maze mwubahirize amabwirizwa yanje, nanje Nzoheza Nubahirize isezerano ryanyu ryo kubagirira impuhwe kw’isi no kubaha impera y’ivyo mwakoze mu buzima bw’inyuma yo gupfa. Kandi ni Jewe rero gusa mutegerezwa gutinya mu kwiyubara ko mwohabwa ibihano vyanje hamwe mwongarariza,",
+  "footnotes": "[5] Biswe Bene Israyeli kuko bamuka kuri Yakobo mwene Ibrahimu, akaba ari we atazirwa Israyeli."
 }

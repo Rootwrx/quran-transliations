@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5065",
-    "sura": "56",
-    "aya": "86",
-    "arabic_text": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
-    "translation": "If you are not subject to retribution, then why do you not",
-    "footnotes": ""
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 537,
+  "verse_key": "56:86",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَوۡلَآ إِن كُنتُمۡ غَيۡرَ مَدِينِينَ",
+  "translation": "If you are not subject to retribution, then why do you not",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3639",
-    "sura": "34",
-    "aya": "33",
-    "arabic_text": "وَقَالَ ٱلَّذِينَ ٱسۡتُضۡعِفُواْ لِلَّذِينَ ٱسۡتَكۡبَرُواْ بَلۡ مَكۡرُ ٱلَّيۡلِ وَٱلنَّهَارِ إِذۡ تَأۡمُرُونَنَآ أَن نَّكۡفُرَ بِٱللَّهِ وَنَجۡعَلَ لَهُۥٓ أَندَادٗاۚ وَأَسَرُّواْ ٱلنَّدَامَةَ لَمَّا رَأَوُاْ ٱلۡعَذَابَۚ وَجَعَلۡنَا ٱلۡأَغۡلَٰلَ فِيٓ أَعۡنَاقِ ٱلَّذِينَ كَفَرُواْۖ هَلۡ يُجۡزَوۡنَ إِلَّا مَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Magsasabi ang mga siniil sa mga nagmalaki: “Bagkus, [humadlang sa amin] ang pakana [ninyo] sa gabi at maghapon noong nag-uutos kayo sa amin na tumanggi kaming sumampalataya kay Allāh at [na] gumawa kami para sa Kanya ng mga kaagaw.” Maglilihim sila ng pagsisisi kapag nakita nila ang pagdurusa. Maglalagay Kami ng mga kulyar sa mga leeg ng tumangging sumampalataya. Gagantihan kaya sila ng maliban pa sa dati nilang ginagawa [na mga kasalanan]?",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 432,
+  "verse_key": "34:33",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ ٱلَّذِينَ ٱسۡتُضۡعِفُواْ لِلَّذِينَ ٱسۡتَكۡبَرُواْ بَلۡ مَكۡرُ ٱلَّيۡلِ وَٱلنَّهَارِ إِذۡ تَأۡمُرُونَنَآ أَن نَّكۡفُرَ بِٱللَّهِ وَنَجۡعَلَ لَهُۥٓ أَندَادٗاۚ وَأَسَرُّواْ ٱلنَّدَامَةَ لَمَّا رَأَوُاْ ٱلۡعَذَابَۚ وَجَعَلۡنَا ٱلۡأَغۡلَٰلَ فِيٓ أَعۡنَاقِ ٱلَّذِينَ كَفَرُواْۖ هَلۡ يُجۡزَوۡنَ إِلَّا مَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Magsasabi ang mga siniil sa mga nagmalaki: “Bagkus, [humadlang sa amin] ang pakana [ninyo] sa gabi at maghapon noong nag-uutos kayo sa amin na tumanggi kaming sumampalataya kay Allāh at [na] gumawa kami para sa Kanya ng mga kaagaw.” Maglilihim sila ng pagsisisi kapag nakita nila ang pagdurusa. Maglalagay Kami ng mga kulyar sa mga leeg ng tumangging sumampalataya. Gagantihan kaya sila ng maliban pa sa dati nilang ginagawa [na mga kasalanan]?",
+  "footnotes": ""
 }

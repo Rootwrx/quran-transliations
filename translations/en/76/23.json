@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5614",
-    "sura": "76",
-    "aya": "23",
-    "arabic_text": "إِنَّا نَحۡنُ نَزَّلۡنَا عَلَيۡكَ ٱلۡقُرۡءَانَ تَنزِيلٗا",
-    "translation": "(23) Indeed, it is We who have sent down to you, [O Muḥammad], the Qur’ān progressively.",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 579,
+  "verse_key": "76:23",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا نَحۡنُ نَزَّلۡنَا عَلَيۡكَ ٱلۡقُرۡءَانَ تَنزِيلٗا",
+  "translation": "(23) Indeed, it is We who have sent down to you, [O Muḥammad], the Qur’ān progressively.",
+  "footnotes": ""
 }

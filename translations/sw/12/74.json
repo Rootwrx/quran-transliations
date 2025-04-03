@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1670",
-    "sura": "12",
-    "aya": "74",
-    "arabic_text": "قَالُواْ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمۡ كَٰذِبِينَ",
-    "translation": "Wakasema: Basi malipo yake yatakuwa nini ikiwa nyinyi ni waongo.",
-    "footnotes": "Na Yusuf alikwisha waamrisha wafwasi wake wawaache nduguze waamue nini malipo anayo stahiki kupata yule atakaye onekana nacho kile kikopo, ili apate kumchukua nduguye kwa hukumu yao wenyewe, na iwe hukumu yao ndiyo ya kukata shauri, isiwepo njia ya kumwombea. Basi watu wa Yusuf wakawaambia wale nduguze: Nini malipo ya wevi kwenu wanapo gundulikana ni katika nyinyi?"
-  }
+  "id": 74,
+  "verse_number": 74,
+  "page_number": 244,
+  "verse_key": "12:74",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُواْ فَمَا جَزَٰٓؤُهُۥٓ إِن كُنتُمۡ كَٰذِبِينَ",
+  "translation": "Wakasema: Basi malipo yake yatakuwa nini ikiwa nyinyi ni waongo.",
+  "footnotes": "Na Yusuf alikwisha waamrisha wafwasi wake wawaache nduguze waamue nini malipo anayo stahiki kupata yule atakaye onekana nacho kile kikopo, ili apate kumchukua nduguye kwa hukumu yao wenyewe, na iwe hukumu yao ndiyo ya kukata shauri, isiwepo njia ya kumwombea. Basi watu wa Yusuf wakawaambia wale nduguze: Nini malipo ya wevi kwenu wanapo gundulikana ni katika nyinyi?"
 }

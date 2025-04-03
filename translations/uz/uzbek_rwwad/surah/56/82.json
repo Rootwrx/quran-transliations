@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5061",
-    "sura": "56",
-    "aya": "82",
-    "arabic_text": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
-    "translation": "Мана шу ёлғон дейишингизни ўз ризқингиз қилиб оляпсизларми?",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 537,
+  "verse_key": "56:82",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَجۡعَلُونَ رِزۡقَكُمۡ أَنَّكُمۡ تُكَذِّبُونَ",
+  "translation": "Мана шу ёлғон дейишингизни ўз ризқингиз қилиб оляпсизларми?",
+  "footnotes": ""
 }

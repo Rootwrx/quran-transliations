@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3821",
-    "sura": "37",
-    "aya": "33",
-    "arabic_text": "فَإِنَّهُمۡ يَوۡمَئِذٖ فِي ٱلۡعَذَابِ مُشۡتَرِكُونَ",
-    "translation": "Kaya tunay na sila sa Araw na iyon sa pagdurusa ay mga lumalahok.",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 447,
+  "verse_key": "37:33",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِنَّهُمۡ يَوۡمَئِذٖ فِي ٱلۡعَذَابِ مُشۡتَرِكُونَ",
+  "translation": "Kaya tunay na sila sa Araw na iyon sa pagdurusa ay mga lumalahok.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2586",
-    "sura": "21",
-    "aya": "103",
-    "arabic_text": "لَا يَحۡزُنُهُمُ ٱلۡفَزَعُ ٱلۡأَكۡبَرُ وَتَتَلَقَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ هَٰذَا يَوۡمُكُمُ ٱلَّذِي كُنتُمۡ تُوعَدُونَ",
-    "translation": "Hicho Kitisho Kikubwa hakito wahuzunisha. Na Malaika watawapokea (kwa kuwaambia): Hii ndiyo Siku yenu mliyo kuwa mkiahidiwa!.",
-    "footnotes": "Hawato huzunishwa na Kitisho Kikubwa kinacho wafazaisha makafiri. Na Malaika watawapokea kwa kuwapongeza kwa kusema: Hii ndiyo Siku yenu ya neema aliyo kuahidini Mola wenu Mlezi!"
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 331,
+  "verse_key": "21:103",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَا يَحۡزُنُهُمُ ٱلۡفَزَعُ ٱلۡأَكۡبَرُ وَتَتَلَقَّىٰهُمُ ٱلۡمَلَٰٓئِكَةُ هَٰذَا يَوۡمُكُمُ ٱلَّذِي كُنتُمۡ تُوعَدُونَ",
+  "translation": "Hicho Kitisho Kikubwa hakito wahuzunisha. Na Malaika watawapokea (kwa kuwaambia): Hii ndiyo Siku yenu mliyo kuwa mkiahidiwa!.",
+  "footnotes": "Hawato huzunishwa na Kitisho Kikubwa kinacho wafazaisha makafiri. Na Malaika watawapokea kwa kuwapongeza kwa kusema: Hii ndiyo Siku yenu ya neema aliyo kuahidini Mola wenu Mlezi!"
 }

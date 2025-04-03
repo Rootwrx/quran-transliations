@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2260",
-    "sura": "19",
-    "aya": "10",
-    "arabic_text": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٖ سَوِيّٗا",
-    "translation": "10 Zacharie dit : « Seigneur ! Donne-moi un signe. » Le Seigneur dit : « Ce signe est que tu ne pourras t’adresser aux gens trois jours durant, tout en étant bien portant. »",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 305,
+  "verse_key": "19:10",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 122,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّ ٱجۡعَل لِّيٓ ءَايَةٗۖ قَالَ ءَايَتُكَ أَلَّا تُكَلِّمَ ٱلنَّاسَ ثَلَٰثَ لَيَالٖ سَوِيّٗا",
+  "translation": "10 Zacharie dit : « Seigneur ! Donne-moi un signe. » Le Seigneur dit : « Ce signe est que tu ne pourras t’adresser aux gens trois jours durant, tout en étant bien portant. »",
+  "footnotes": ""
 }

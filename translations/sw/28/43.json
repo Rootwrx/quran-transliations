@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3295",
-    "sura": "28",
-    "aya": "43",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ مِنۢ بَعۡدِ مَآ أَهۡلَكۡنَا ٱلۡقُرُونَ ٱلۡأُولَىٰ بَصَآئِرَ لِلنَّاسِ وَهُدٗى وَرَحۡمَةٗ لَّعَلَّهُمۡ يَتَذَكَّرُونَ",
-    "translation": "Na hakika bila ya shaka tulimpa Musa Kitabu baada ya kwisha ziangamiza kaumu za mwanzo, ili kiwafumbue macho watu, na kiwe uwongofu, na rehema, ili wapate kukumbuka.",
-    "footnotes": "Na kwa yakini Mwenyezi Mungu alimteremshia Musa Taurati, baada ya kuwahiliki wakanushao katika kaumu zilizo tangulia, ili iwe nuru ya nyoyo. Kwani nyoyo hizo zilikuwa gizani, haziijui Haki wala uwongozi mwema. Kwani hao walikuwa wakitangatanga tu katika upotovu, na hawaijui njia ya kupatia rehema kwa mwenye kutenda kwa ajili yake, na wakawaidhika kwa yaliyomo katika hiyo Taurati, na wakakimbilia kuzifuata amri, na kuyaacha yaliyo katazwa."
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 390,
+  "verse_key": "28:43",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَى ٱلۡكِتَٰبَ مِنۢ بَعۡدِ مَآ أَهۡلَكۡنَا ٱلۡقُرُونَ ٱلۡأُولَىٰ بَصَآئِرَ لِلنَّاسِ وَهُدٗى وَرَحۡمَةٗ لَّعَلَّهُمۡ يَتَذَكَّرُونَ",
+  "translation": "Na hakika bila ya shaka tulimpa Musa Kitabu baada ya kwisha ziangamiza kaumu za mwanzo, ili kiwafumbue macho watu, na kiwe uwongofu, na rehema, ili wapate kukumbuka.",
+  "footnotes": "Na kwa yakini Mwenyezi Mungu alimteremshia Musa Taurati, baada ya kuwahiliki wakanushao katika kaumu zilizo tangulia, ili iwe nuru ya nyoyo. Kwani nyoyo hizo zilikuwa gizani, haziijui Haki wala uwongozi mwema. Kwani hao walikuwa wakitangatanga tu katika upotovu, na hawaijui njia ya kupatia rehema kwa mwenye kutenda kwa ajili yake, na wakawaidhika kwa yaliyomo katika hiyo Taurati, na wakakimbilia kuzifuata amri, na kuyaacha yaliyo katazwa."
 }

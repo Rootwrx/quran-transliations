@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "579",
-    "sura": "4",
-    "aya": "86",
-    "arabic_text": "وَإِذَا حُيِّيتُم بِتَحِيَّةٖ فَحَيُّواْ بِأَحۡسَنَ مِنۡهَآ أَوۡ رُدُّوهَآۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٍ حَسِيبًا",
-    "translation": "When you are given a greeting, respond with a better greeting or return the same[65]. Indeed, Allah is the Reckoner of all things.",
-    "footnotes": "[65] ‘Imrān ibn al-Husayn (رضي الله عنه) said: “A man came to the Prophet (ﷺ) and said: “Assalāmu ‘alaykum (Peace be upon you)”. He was replied to and sat down. The Prophet (ﷺ) said: “Ten (rewards)”. Then another one came and said: “Assalāmu ‘alaykum wa raḥmatu Allah (Peace be upon you and Allah’s Mercy)”. He was replied to and sat down. The Prophet (ﷺ) said: “Twenty”. Then another one came and said: “Assalāmu ‘alaykum wa raḥmatu Allah wa barakātuhu (Peace be upon you and Allah’s Mercy and His Blessings)”. He was replied to and sat down. The Prophet (ﷺ) said: “Thirty”. [Abū Dāwūd: 5195, At-Tirmidhī: 2689, Ahmad: 19948]"
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 91,
+  "verse_key": "4:86",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا حُيِّيتُم بِتَحِيَّةٖ فَحَيُّواْ بِأَحۡسَنَ مِنۡهَآ أَوۡ رُدُّوهَآۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٍ حَسِيبًا",
+  "translation": "When you are given a greeting, respond with a better greeting or return the same[65]. Indeed, Allah is the Reckoner of all things.",
+  "footnotes": "[65] ‘Imrān ibn al-Husayn (رضي الله عنه) said: “A man came to the Prophet (ﷺ) and said: “Assalāmu ‘alaykum (Peace be upon you)”. He was replied to and sat down. The Prophet (ﷺ) said: “Ten (rewards)”. Then another one came and said: “Assalāmu ‘alaykum wa raḥmatu Allah (Peace be upon you and Allah’s Mercy)”. He was replied to and sat down. The Prophet (ﷺ) said: “Twenty”. Then another one came and said: “Assalāmu ‘alaykum wa raḥmatu Allah wa barakātuhu (Peace be upon you and Allah’s Mercy and His Blessings)”. He was replied to and sat down. The Prophet (ﷺ) said: “Thirty”. [Abū Dāwūd: 5195, At-Tirmidhī: 2689, Ahmad: 19948]"
 }

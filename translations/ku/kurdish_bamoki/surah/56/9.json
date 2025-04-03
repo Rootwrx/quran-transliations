@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4988",
-    "sura": "56",
-    "aya": "9",
-    "arabic_text": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
-    "translation": "وە یارانی لای چەپ، کام یارانی لای چەپ؟\n",
-    "footnotes": null
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 534,
+  "verse_key": "56:9",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ مَآ أَصۡحَٰبُ ٱلۡمَشۡـَٔمَةِ",
+  "translation": "وە یارانی لای چەپ، کام یارانی لای چەپ؟\n",
+  "footnotes": null
 }

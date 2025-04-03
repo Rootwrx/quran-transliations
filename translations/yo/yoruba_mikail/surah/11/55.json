@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1528",
-    "sura": "11",
-    "aya": "55",
-    "arabic_text": "مِن دُونِهِۦۖ فَكِيدُونِي جَمِيعٗا ثُمَّ لَا تُنظِرُونِ",
-    "translation": "dípò jíjọ́sìn fún Allāhu. Nítorí náà, ẹ parapọ̀ déte sí mi. Lẹ́yìn náà, kí ẹ má ṣe lọ́ mi lára.",
-    "footnotes": ""
-  }
+  "id": 55,
+  "verse_number": 55,
+  "page_number": 228,
+  "verse_key": "11:55",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِن دُونِهِۦۖ فَكِيدُونِي جَمِيعٗا ثُمَّ لَا تُنظِرُونِ",
+  "translation": "dípò jíjọ́sìn fún Allāhu. Nítorí náà, ẹ parapọ̀ déte sí mi. Lẹ́yìn náà, kí ẹ má ṣe lọ́ mi lára.",
+  "footnotes": ""
 }

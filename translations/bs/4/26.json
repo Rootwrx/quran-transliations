@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "519",
-    "sura": "4",
-    "aya": "26",
-    "arabic_text": "يُرِيدُ ٱللَّهُ لِيُبَيِّنَ لَكُمۡ وَيَهۡدِيَكُمۡ سُنَنَ ٱلَّذِينَ مِن قَبۡلِكُمۡ وَيَتُوبَ عَلَيۡكُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
-    "translation": "Allah vam želi objasniti i uputiti vas putevima kojima su išli oni prije vas i oprostiti vam. Allah je Onaj Koji sve zna i mudar je. ",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 82,
+  "verse_key": "4:26",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 33,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُرِيدُ ٱللَّهُ لِيُبَيِّنَ لَكُمۡ وَيَهۡدِيَكُمۡ سُنَنَ ٱلَّذِينَ مِن قَبۡلِكُمۡ وَيَتُوبَ عَلَيۡكُمۡۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
+  "translation": "Allah vam želi objasniti i uputiti vas putevima kojima su išli oni prije vas i oprostiti vam. Allah je Onaj Koji sve zna i mudar je. ",
+  "footnotes": ""
 }

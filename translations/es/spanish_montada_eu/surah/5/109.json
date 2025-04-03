@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "778",
-    "sura": "5",
-    "aya": "109",
-    "arabic_text": "۞ يَوۡمَ يَجۡمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبۡتُمۡۖ قَالُواْ لَا عِلۡمَ لَنَآۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلۡغُيُوبِ",
-    "translation": "109. El día en que Al-lah reúna a Sus mensajeros (el Día de la Resurrección) y les pregunte: «¿Qué respuesta obtuvisteis (de los hombres cuando los exhortabais a la unicidad de Al-lah)?», estos responderán: «Lo desconocemos; realmente, solo Tú posees el conocimiento absoluto de todas las cosas».",
-    "footnotes": ""
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 126,
+  "verse_key": "5:109",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ يَوۡمَ يَجۡمَعُ ٱللَّهُ ٱلرُّسُلَ فَيَقُولُ مَاذَآ أُجِبۡتُمۡۖ قَالُواْ لَا عِلۡمَ لَنَآۖ إِنَّكَ أَنتَ عَلَّٰمُ ٱلۡغُيُوبِ",
+  "translation": "109. El día en que Al-lah reúna a Sus mensajeros (el Día de la Resurrección) y les pregunte: «¿Qué respuesta obtuvisteis (de los hombres cuando los exhortabais a la unicidad de Al-lah)?», estos responderán: «Lo desconocemos; realmente, solo Tú posees el conocimiento absoluto de todas las cosas».",
+  "footnotes": ""
 }

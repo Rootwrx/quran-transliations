@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "914",
-    "sura": "6",
-    "aya": "125",
-    "arabic_text": "فَمَن يُرِدِ ٱللَّهُ أَن يَهۡدِيَهُۥ يَشۡرَحۡ صَدۡرَهُۥ لِلۡإِسۡلَٰمِۖ وَمَن يُرِدۡ أَن يُضِلَّهُۥ يَجۡعَلۡ صَدۡرَهُۥ ضَيِّقًا حَرَجٗا كَأَنَّمَا يَصَّعَّدُ فِي ٱلسَّمَآءِۚ كَذَٰلِكَ يَجۡعَلُ ٱللَّهُ ٱلرِّجۡسَ عَلَى ٱلَّذِينَ لَا يُؤۡمِنُونَ",
-    "translation": "Dõmin haka wanda Allah Ya yi nufin ya shiryar da shi sai ya bũɗa ƙirjinsa dõmĩn Musulunci, kuma wanda Ya yi nufin Ya ɓatar da shi, sai Ya sanya ƙirjinsa mai ƙunci matsattse, kamar dai yanã tãkãwa* ne a ckin sama. Kamar wannan ne Allah Yake sanyãwar ƙazanta a kan waɗanda bã su yin ĩmãni.",
-    "footnotes": "* Mai tãkãwa zuwa sama ƙirjinsa ƙunci yake yi, sabõda iskar numfashi tanã raguwa gare shi. Kuma shi yanã shasshekar gajiya da rashin iska. Wannan ilmi yanã a cikin mu'ujizar Alƙur'ani."
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 144,
+  "verse_key": "6:125",
+  "juz_number": 8,
+  "hizb_number": 15,
+  "rub_el_hizb_number": 57,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَن يُرِدِ ٱللَّهُ أَن يَهۡدِيَهُۥ يَشۡرَحۡ صَدۡرَهُۥ لِلۡإِسۡلَٰمِۖ وَمَن يُرِدۡ أَن يُضِلَّهُۥ يَجۡعَلۡ صَدۡرَهُۥ ضَيِّقًا حَرَجٗا كَأَنَّمَا يَصَّعَّدُ فِي ٱلسَّمَآءِۚ كَذَٰلِكَ يَجۡعَلُ ٱللَّهُ ٱلرِّجۡسَ عَلَى ٱلَّذِينَ لَا يُؤۡمِنُونَ",
+  "translation": "Dõmin haka wanda Allah Ya yi nufin ya shiryar da shi sai ya bũɗa ƙirjinsa dõmĩn Musulunci, kuma wanda Ya yi nufin Ya ɓatar da shi, sai Ya sanya ƙirjinsa mai ƙunci matsattse, kamar dai yanã tãkãwa* ne a ckin sama. Kamar wannan ne Allah Yake sanyãwar ƙazanta a kan waɗanda bã su yin ĩmãni.",
+  "footnotes": "* Mai tãkãwa zuwa sama ƙirjinsa ƙunci yake yi, sabõda iskar numfashi tanã raguwa gare shi. Kuma shi yanã shasshekar gajiya da rashin iska. Wannan ilmi yanã a cikin mu'ujizar Alƙur'ani."
 }

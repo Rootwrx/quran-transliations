@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2321",
-    "sura": "19",
-    "aya": "71",
-    "arabic_text": "وَإِن مِّنكُمۡ إِلَّا وَارِدُهَاۚ كَانَ عَلَىٰ رَبِّكَ حَتۡمٗا مَّقۡضِيّٗا",
-    "translation": "İçinizdən hər kəs oraya varid olacaqdır. (Bu,) Rəbbinin (əzəldən) müəyyən etdiyi qəti bir qərardır.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 310,
+  "verse_key": "19:71",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 124,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن مِّنكُمۡ إِلَّا وَارِدُهَاۚ كَانَ عَلَىٰ رَبِّكَ حَتۡمٗا مَّقۡضِيّٗا",
+  "translation": "İçinizdən hər kəs oraya varid olacaqdır. (Bu,) Rəbbinin (əzəldən) müəyyən etdiyi qəti bir qərardır.",
+  "footnotes": ""
 }

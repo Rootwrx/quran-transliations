@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2307",
-    "sura": "19",
-    "aya": "57",
-    "arabic_text": "وَرَفَعۡنَٰهُ مَكَانًا عَلِيًّا",
-    "translation": "57. dan Kami telah mengangkatnya ke martabat yang tinggi.",
-    "footnotes": ""
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 309,
+  "verse_key": "19:57",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَرَفَعۡنَٰهُ مَكَانًا عَلِيًّا",
+  "translation": "57. dan Kami telah mengangkatnya ke martabat yang tinggi.",
+  "footnotes": ""
 }

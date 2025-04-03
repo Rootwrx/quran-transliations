@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3000",
-    "sura": "26",
-    "aya": "68",
-    "arabic_text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
-    "translation": "Na kwa hakika Mola wako Mlezi ndiye Mwenye nguvu Mwenye kurehemu.",
-    "footnotes": "Hakika Muumba wako na Mlezi wako ndiye huyo Mwenye nguvu katika kuwaadhibu wanao kanusha, Mwenye kuwaneemesha kwa rehema Waumini."
-  }
+  "id": 68,
+  "verse_number": 68,
+  "page_number": 370,
+  "verse_key": "26:68",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ رَبَّكَ لَهُوَ ٱلۡعَزِيزُ ٱلرَّحِيمُ",
+  "translation": "Na kwa hakika Mola wako Mlezi ndiye Mwenye nguvu Mwenye kurehemu.",
+  "footnotes": "Hakika Muumba wako na Mlezi wako ndiye huyo Mwenye nguvu katika kuwaadhibu wanao kanusha, Mwenye kuwaneemesha kwa rehema Waumini."
 }

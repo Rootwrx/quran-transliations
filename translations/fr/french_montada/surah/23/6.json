@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2679",
-    "sura": "23",
-    "aya": "6",
-    "arabic_text": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ",
-    "translation": "6. sauf vis-à-vis de leurs épouses ou des femmes qu’ils possèdent légalement[341] - car dans ce cas, il ne peut leur être fait aucun reproche,",
-    "footnotes": "[341] Comme captives de guerre ou comme esclaves, du temps où l’esclavage était un phénomène social universellement accepté."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 342,
+  "verse_key": "23:6",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 137,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا عَلَىٰٓ أَزۡوَٰجِهِمۡ أَوۡ مَا مَلَكَتۡ أَيۡمَٰنُهُمۡ فَإِنَّهُمۡ غَيۡرُ مَلُومِينَ",
+  "translation": "6. sauf vis-à-vis de leurs épouses ou des femmes qu’ils possèdent légalement[341] - car dans ce cas, il ne peut leur être fait aucun reproche,",
+  "footnotes": "[341] Comme captives de guerre ou comme esclaves, du temps où l’esclavage était un phénomène social universellement accepté."
 }

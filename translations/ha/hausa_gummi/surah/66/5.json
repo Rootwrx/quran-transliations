@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5234",
-    "sura": "66",
-    "aya": "5",
-    "arabic_text": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرٗا مِّنكُنَّ مُسۡلِمَٰتٖ مُّؤۡمِنَٰتٖ قَٰنِتَٰتٖ تَٰٓئِبَٰتٍ عَٰبِدَٰتٖ سَٰٓئِحَٰتٖ ثَيِّبَٰتٖ وَأَبۡكَارٗا",
-    "translation": "Mai yiwuwa ne Ubangijinsa, idan ya sake ku, Ya musanya masa waɗansu mãtan aure mafiya alhẽri daga gare ku, Musulmai mũminai mãsu tawãli'u, mãsu tũba, mãsu ibãda, mãsu, azumi, zawarõri da 'yammãta.",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 560,
+  "verse_key": "66:5",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرٗا مِّنكُنَّ مُسۡلِمَٰتٖ مُّؤۡمِنَٰتٖ قَٰنِتَٰتٖ تَٰٓئِبَٰتٍ عَٰبِدَٰتٖ سَٰٓئِحَٰتٖ ثَيِّبَٰتٖ وَأَبۡكَارٗا",
+  "translation": "Mai yiwuwa ne Ubangijinsa, idan ya sake ku, Ya musanya masa waɗansu mãtan aure mafiya alhẽri daga gare ku, Musulmai mũminai mãsu tawãli'u, mãsu tũba, mãsu ibãda, mãsu, azumi, zawarõri da 'yammãta.",
+  "footnotes": ""
 }

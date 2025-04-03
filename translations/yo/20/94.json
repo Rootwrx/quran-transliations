@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2442",
-    "sura": "20",
-    "aya": "94",
-    "arabic_text": "قَالَ يَبۡنَؤُمَّ لَا تَأۡخُذۡ بِلِحۡيَتِي وَلَا بِرَأۡسِيٓۖ إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقۡتَ بَيۡنَ بَنِيٓ إِسۡرَٰٓءِيلَ وَلَمۡ تَرۡقُبۡ قَوۡلِي",
-    "translation": "(Ànábì Hārūn) sọ pé: “Ọmọ ìyá mi, má ṣe fi irungbọ̀n mi mú mi, (má ṣe fi irun) orí mi mú mi. Dájúdájú èmi páyà pé ó máa sọ pé: 'O dá òpínyà sílẹ̀ láààrin àwọn ọmọ ’Isrọ̄’īl. O ò sì ṣọ́ ọ̀rọ̀ mi.'“",
-    "footnotes": ""
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 318,
+  "verse_key": "20:94",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ يَبۡنَؤُمَّ لَا تَأۡخُذۡ بِلِحۡيَتِي وَلَا بِرَأۡسِيٓۖ إِنِّي خَشِيتُ أَن تَقُولَ فَرَّقۡتَ بَيۡنَ بَنِيٓ إِسۡرَٰٓءِيلَ وَلَمۡ تَرۡقُبۡ قَوۡلِي",
+  "translation": "(Ànábì Hārūn) sọ pé: “Ọmọ ìyá mi, má ṣe fi irungbọ̀n mi mú mi, (má ṣe fi irun) orí mi mú mi. Dájúdájú èmi páyà pé ó máa sọ pé: 'O dá òpínyà sílẹ̀ láààrin àwọn ọmọ ’Isrọ̄’īl. O ò sì ṣọ́ ọ̀rọ̀ mi.'“",
+  "footnotes": ""
 }

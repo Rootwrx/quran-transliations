@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5237",
-    "sura": "66",
-    "aya": "8",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ تُوبُوٓاْ إِلَى ٱللَّهِ تَوۡبَةٗ نَّصُوحًا عَسَىٰ رَبُّكُمۡ أَن يُكَفِّرَ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَيُدۡخِلَكُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ يَوۡمَ لَا يُخۡزِي ٱللَّهُ ٱلنَّبِيَّ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥۖ نُورُهُمۡ يَسۡعَىٰ بَيۡنَ أَيۡدِيهِمۡ وَبِأَيۡمَٰنِهِمۡ يَقُولُونَ رَبَّنَآ أَتۡمِمۡ لَنَا نُورَنَا وَٱغۡفِرۡ لَنَآۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
-    "translation": "Enyi mlio amini! Tubuni kwa Mwenyezi Mungu toba iliyo ya kweli! Asaa Mola wenu Mlezi akakufutieni maovu yenu na akakuingizeni katika Pepo zipitazo mito kati yake, siku ambayo Mwenyezi Mungu hatamdhalilisha Nabii na walio amini pamoja naye. Nuru yao inakwenda mbele yao na pande zao za kulia, na huku wanasema: Mola wetu Mlezi! Tutimilizie nuru yetu, na utughufirie! Hakika Wewe ni Mwenye uweza juu ya kila kitu.",
-    "footnotes": "Enyi mlio amini! Rejeeni kwa Mwenyezi Mungu, muache madhambi yenu, mrejee kweli kweli kwa ikhlasi. Asaa Mola wenu Mlezi akakufutieni maovu yenu, na akakutieni Peponi kwenye kupita mito chini ya majumba yake na miti yake, Siku atakayo inyanyua Mwenyezi Mungu hadhi ya Nabii na walio amini pamoja naye. Nuru yao hao itakuwa inakwenda mbele yao, nayo itakuwa kuliani mwao, nao watakuwa wakisema kwa kujikaribisha kwa Mwenyezi Mungu: Ewe Bwana wetu, Mwenye kumiliki mambo yetu! Tutimizie nuru yetu, mpaka tuongoke kufikia Peponi. Na tusamehe dhambi zetu. Hakika Wewe ni Mtimilivu wa uweza juu ya kila kitu."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 561,
+  "verse_key": "66:8",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ تُوبُوٓاْ إِلَى ٱللَّهِ تَوۡبَةٗ نَّصُوحًا عَسَىٰ رَبُّكُمۡ أَن يُكَفِّرَ عَنكُمۡ سَيِّـَٔاتِكُمۡ وَيُدۡخِلَكُمۡ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ يَوۡمَ لَا يُخۡزِي ٱللَّهُ ٱلنَّبِيَّ وَٱلَّذِينَ ءَامَنُواْ مَعَهُۥۖ نُورُهُمۡ يَسۡعَىٰ بَيۡنَ أَيۡدِيهِمۡ وَبِأَيۡمَٰنِهِمۡ يَقُولُونَ رَبَّنَآ أَتۡمِمۡ لَنَا نُورَنَا وَٱغۡفِرۡ لَنَآۖ إِنَّكَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٞ",
+  "translation": "Enyi mlio amini! Tubuni kwa Mwenyezi Mungu toba iliyo ya kweli! Asaa Mola wenu Mlezi akakufutieni maovu yenu na akakuingizeni katika Pepo zipitazo mito kati yake, siku ambayo Mwenyezi Mungu hatamdhalilisha Nabii na walio amini pamoja naye. Nuru yao inakwenda mbele yao na pande zao za kulia, na huku wanasema: Mola wetu Mlezi! Tutimilizie nuru yetu, na utughufirie! Hakika Wewe ni Mwenye uweza juu ya kila kitu.",
+  "footnotes": "Enyi mlio amini! Rejeeni kwa Mwenyezi Mungu, muache madhambi yenu, mrejee kweli kweli kwa ikhlasi. Asaa Mola wenu Mlezi akakufutieni maovu yenu, na akakutieni Peponi kwenye kupita mito chini ya majumba yake na miti yake, Siku atakayo inyanyua Mwenyezi Mungu hadhi ya Nabii na walio amini pamoja naye. Nuru yao hao itakuwa inakwenda mbele yao, nayo itakuwa kuliani mwao, nao watakuwa wakisema kwa kujikaribisha kwa Mwenyezi Mungu: Ewe Bwana wetu, Mwenye kumiliki mambo yetu! Tutimizie nuru yetu, mpaka tuongoke kufikia Peponi. Na tusamehe dhambi zetu. Hakika Wewe ni Mtimilivu wa uweza juu ya kila kitu."
 }

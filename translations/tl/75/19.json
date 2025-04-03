@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5570",
-    "sura": "75",
-    "aya": "19",
-    "arabic_text": "ثُمَّ إِنَّ عَلَيۡنَا بَيَانَهُۥ",
-    "translation": "Pagkatapos tunay na nasa Amin ang paglilinaw nito [sa iyo].",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 577,
+  "verse_key": "75:19",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ إِنَّ عَلَيۡنَا بَيَانَهُۥ",
+  "translation": "Pagkatapos tunay na nasa Amin ang paglilinaw nito [sa iyo].",
+  "footnotes": ""
 }

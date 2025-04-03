@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4274",
-    "sura": "42",
-    "aya": "2",
-    "arabic_text": "عٓسٓقٓ",
-    "translation": "2. Ајн-син-каф.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 483,
+  "verse_key": "42:2",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 193,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عٓسٓقٓ",
+  "translation": "2. Ајн-син-каф.",
+  "footnotes": ""
 }

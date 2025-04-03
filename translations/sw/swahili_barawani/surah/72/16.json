@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5463",
-    "sura": "72",
-    "aya": "16",
-    "arabic_text": "وَأَلَّوِ ٱسۡتَقَٰمُواْ عَلَى ٱلطَّرِيقَةِ لَأَسۡقَيۡنَٰهُم مَّآءً غَدَقٗا",
-    "translation": "Na lau kama wangeli simama sawasawa juu ya njia tungeli wanywesha maji kwa wingi,",
-    "footnotes": "Na hakika lau kuwa watu na majini wakifuata Njia ya Uislamu, wala wasende upogo wakaiwacha, basi bila ya shaka tutawanywesha maji mengi yatakayo enea nyakati za haja."
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 573,
+  "verse_key": "72:16",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَلَّوِ ٱسۡتَقَٰمُواْ عَلَى ٱلطَّرِيقَةِ لَأَسۡقَيۡنَٰهُم مَّآءً غَدَقٗا",
+  "translation": "Na lau kama wangeli simama sawasawa juu ya njia tungeli wanywesha maji kwa wingi,",
+  "footnotes": "Na hakika lau kuwa watu na majini wakifuata Njia ya Uislamu, wala wasende upogo wakaiwacha, basi bila ya shaka tutawanywesha maji mengi yatakayo enea nyakati za haja."
 }

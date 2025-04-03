@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2231",
-    "sura": "18",
-    "aya": "91",
-    "arabic_text": "كَذَٰلِكَۖ وَقَدۡ أَحَطۡنَا بِمَا لَدَيۡهِ خُبۡرٗا",
-    "translation": "事实就像说的那样。我已彻知他拥有一切。",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 303,
+  "verse_key": "18:91",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَٰلِكَۖ وَقَدۡ أَحَطۡنَا بِمَا لَدَيۡهِ خُبۡرٗا",
+  "translation": "事实就像说的那样。我已彻知他拥有一切。",
+  "footnotes": ""
 }

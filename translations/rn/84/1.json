@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5885",
-    "sura": "84",
-    "aya": "1",
-    "arabic_text": "إِذَا ٱلسَّمَآءُ ٱنشَقَّتۡ",
-    "translation": "Igihe ijuru ryasadutse rigatabuka ku musi w’umuhero w’isi;",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 589,
+  "verse_key": "84:1",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذَا ٱلسَّمَآءُ ٱنشَقَّتۡ",
+  "translation": "Igihe ijuru ryasadutse rigatabuka ku musi w’umuhero w’isi;",
+  "footnotes": ""
 }

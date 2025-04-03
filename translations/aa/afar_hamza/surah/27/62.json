@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3221",
-    "sura": "27",
-    "aya": "62",
-    "arabic_text": "أَمَّن يُجِيبُ ٱلۡمُضۡطَرَّ إِذَا دَعَاهُ وَيَكۡشِفُ ٱلسُّوٓءَ وَيَجۡعَلُكُمۡ خُلَفَآءَ ٱلۡأَرۡضِۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
-    "translation": "62.Hinnak Nabiyow A-korosuk Yallat agleytah haytaanamih qibaadâ tayse innaa, hinnay gibdaabini xage seehadayti kaa xaaqa waqdi xaaqó kaak oggolaah, umaane kaak kalaah, siinik yookomeh yan marak baaxo ciggiila mara sin abe Yalli yaysee?ah abeh yan Yallâ luk yaqbuden Yalli yanii? (mayan), Yallih dudda tascasse astootik taabbceniih tableenimil kassittaanam siinik dagoh keenik ixxic.",
-    "footnotes": ""
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 382,
+  "verse_key": "27:62",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمَّن يُجِيبُ ٱلۡمُضۡطَرَّ إِذَا دَعَاهُ وَيَكۡشِفُ ٱلسُّوٓءَ وَيَجۡعَلُكُمۡ خُلَفَآءَ ٱلۡأَرۡضِۗ أَءِلَٰهٞ مَّعَ ٱللَّهِۚ قَلِيلٗا مَّا تَذَكَّرُونَ",
+  "translation": "62.Hinnak Nabiyow A-korosuk Yallat agleytah haytaanamih qibaadâ tayse innaa, hinnay gibdaabini xage seehadayti kaa xaaqa waqdi xaaqó kaak oggolaah, umaane kaak kalaah, siinik yookomeh yan marak baaxo ciggiila mara sin abe Yalli yaysee?ah abeh yan Yallâ luk yaqbuden Yalli yanii? (mayan), Yallih dudda tascasse astootik taabbceniih tableenimil kassittaanam siinik dagoh keenik ixxic.",
+  "footnotes": ""
 }

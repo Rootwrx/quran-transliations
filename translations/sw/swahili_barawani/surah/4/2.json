@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "495",
-    "sura": "4",
-    "aya": "2",
-    "arabic_text": "وَءَاتُواْ ٱلۡيَتَٰمَىٰٓ أَمۡوَٰلَهُمۡۖ وَلَا تَتَبَدَّلُواْ ٱلۡخَبِيثَ بِٱلطَّيِّبِۖ وَلَا تَأۡكُلُوٓاْ أَمۡوَٰلَهُمۡ إِلَىٰٓ أَمۡوَٰلِكُمۡۚ إِنَّهُۥ كَانَ حُوبٗا كَبِيرٗا",
-    "translation": "Na wapeni mayatima mali yao. Wala msibadilishe kibaya kwa kizuri. Wala msile mali zao pamoja na mali zenu. Hakika yote hayo ni jukumu kubwa.",
-    "footnotes": "Na wapeni mayatima mali yao wanayo stahiki, na yalindeni mali yao vizuri, wala msiwape kilio duni mkawanyima kizuri. Wala msichukue mali yao mkaongezea kwenye mali yenu. Hakika kitendo hicho ni dhambi kubwa."
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 77,
+  "verse_key": "4:2",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 31,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاتُواْ ٱلۡيَتَٰمَىٰٓ أَمۡوَٰلَهُمۡۖ وَلَا تَتَبَدَّلُواْ ٱلۡخَبِيثَ بِٱلطَّيِّبِۖ وَلَا تَأۡكُلُوٓاْ أَمۡوَٰلَهُمۡ إِلَىٰٓ أَمۡوَٰلِكُمۡۚ إِنَّهُۥ كَانَ حُوبٗا كَبِيرٗا",
+  "translation": "Na wapeni mayatima mali yao. Wala msibadilishe kibaya kwa kizuri. Wala msile mali zao pamoja na mali zenu. Hakika yote hayo ni jukumu kubwa.",
+  "footnotes": "Na wapeni mayatima mali yao wanayo stahiki, na yalindeni mali yao vizuri, wala msiwape kilio duni mkawanyima kizuri. Wala msichukue mali yao mkaongezea kwenye mali yenu. Hakika kitendo hicho ni dhambi kubwa."
 }

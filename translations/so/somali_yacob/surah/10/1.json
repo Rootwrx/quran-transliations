@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1365",
-    "sura": "10",
-    "aya": "1",
-    "arabic_text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ",
-    "translation": "1. Alif Laam Raa1, Kuwakani waa Aayadaha Kitaabka (Qur’aanka) Xikmadda Badan2.",
-    "footnotes": "1. Eeg sharaxa Suuradda 2 Al-Baqara: Aayadda 1.\n 2. Xakiim waa tilmaanta qofka warkiisa iyo ficilkiisa salka ku hayaan garasho iyo aragti dheer. waxaa loola jeedaa tilmaamaha doonista, hadaf yeelashada, war samida, falsamada, wax kala saaridda iyo xog ogaanta, aragti dheerida, abwaanka ah."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 208,
+  "verse_key": "10:1",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡحَكِيمِ",
+  "translation": "1. Alif Laam Raa1, Kuwakani waa Aayadaha Kitaabka (Qur’aanka) Xikmadda Badan2.",
+  "footnotes": "1. Eeg sharaxa Suuradda 2 Al-Baqara: Aayadda 1.\n 2. Xakiim waa tilmaanta qofka warkiisa iyo ficilkiisa salka ku hayaan garasho iyo aragti dheer. waxaa loola jeedaa tilmaamaha doonista, hadaf yeelashada, war samida, falsamada, wax kala saaridda iyo xog ogaanta, aragti dheerida, abwaanka ah."
 }

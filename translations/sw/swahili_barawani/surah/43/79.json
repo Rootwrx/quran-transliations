@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4404",
-    "sura": "43",
-    "aya": "79",
-    "arabic_text": "أَمۡ أَبۡرَمُوٓاْ أَمۡرٗا فَإِنَّا مُبۡرِمُونَ",
-    "translation": "Au waliweza kupitisha amri yao? Bali ni Sisi ndio tunao pitisha.",
-    "footnotes": "Kwani ndio waliweza washirikina wa Makka kutimiza hivyo vituko vyao kumkadhibisha Mtume na kupanga njama za kumuuwa? Bali Sisi kwa hakika tuliweza jambo katika kuwalipizia wao na kukupa ushindi wewe juu yao."
-  }
+  "id": 79,
+  "verse_number": 79,
+  "page_number": 495,
+  "verse_key": "43:79",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ أَبۡرَمُوٓاْ أَمۡرٗا فَإِنَّا مُبۡرِمُونَ",
+  "translation": "Au waliweza kupitisha amri yao? Bali ni Sisi ndio tunao pitisha.",
+  "footnotes": "Kwani ndio waliweza washirikina wa Makka kutimiza hivyo vituko vyao kumkadhibisha Mtume na kupanga njama za kumuuwa? Bali Sisi kwa hakika tuliweza jambo katika kuwalipizia wao na kukupa ushindi wewe juu yao."
 }

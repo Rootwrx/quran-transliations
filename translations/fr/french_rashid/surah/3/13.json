@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "306",
-    "sura": "3",
-    "aya": "13",
-    "arabic_text": "قَدۡ كَانَ لَكُمۡ ءَايَةٞ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةٞ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةٞ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
-    "translation": "13 Un signe vous a été donné dans l’affrontement qui opposa ces deux armées[186], l’une luttant pour la cause d’Allah, l’autre poussée par son impiété. Les uns voyaient les autres de leurs propres yeux deux fois plus nombreux[187]. Allah prête assistance à qui Il veut. Voilà bien une leçon pour des esprits clairvoyants.",
-    "footnotes": "[186] Lors de la bataille de Badr, explique la majorité des commentateurs, première grande bataille de l’islam qui vit la victoire des musulmans nouvellement installés à Médine sur les païens de la Mecque qui les avaient contraints à l’exil.\n[187] Qu’eux ou deux fois plus nombreux qu’ils n’étaient vraiment. Ce sont les polythéistes, selon certains commentateurs, qui voyaient les musulmans deux fois plus nombreux. Allah fit d’ailleurs de cette illusion un élément décisif de la victoire de l’armée musulmane sur celle des impies. Selon d’autres exégètes, toutefois, ce sont les musulmans qui voyaient les mécréants deux fois plus nombreux qu’eux ou qu’ils n’étaient vraiment."
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 51,
+  "verse_key": "3:13",
+  "juz_number": 3,
+  "hizb_number": 5,
+  "rub_el_hizb_number": 20,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَدۡ كَانَ لَكُمۡ ءَايَةٞ فِي فِئَتَيۡنِ ٱلۡتَقَتَاۖ فِئَةٞ تُقَٰتِلُ فِي سَبِيلِ ٱللَّهِ وَأُخۡرَىٰ كَافِرَةٞ يَرَوۡنَهُم مِّثۡلَيۡهِمۡ رَأۡيَ ٱلۡعَيۡنِۚ وَٱللَّهُ يُؤَيِّدُ بِنَصۡرِهِۦ مَن يَشَآءُۚ إِنَّ فِي ذَٰلِكَ لَعِبۡرَةٗ لِّأُوْلِي ٱلۡأَبۡصَٰرِ",
+  "translation": "13 Un signe vous a été donné dans l’affrontement qui opposa ces deux armées[186], l’une luttant pour la cause d’Allah, l’autre poussée par son impiété. Les uns voyaient les autres de leurs propres yeux deux fois plus nombreux[187]. Allah prête assistance à qui Il veut. Voilà bien une leçon pour des esprits clairvoyants.",
+  "footnotes": "[186] Lors de la bataille de Badr, explique la majorité des commentateurs, première grande bataille de l’islam qui vit la victoire des musulmans nouvellement installés à Médine sur les païens de la Mecque qui les avaient contraints à l’exil.\n[187] Qu’eux ou deux fois plus nombreux qu’ils n’étaient vraiment. Ce sont les polythéistes, selon certains commentateurs, qui voyaient les musulmans deux fois plus nombreux. Allah fit d’ailleurs de cette illusion un élément décisif de la victoire de l’armée musulmane sur celle des impies. Selon d’autres exégètes, toutefois, ce sont les musulmans qui voyaient les mécréants deux fois plus nombreux qu’eux ou qu’ils n’étaient vraiment."
 }

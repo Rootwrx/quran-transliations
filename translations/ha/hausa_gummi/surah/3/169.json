@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "462",
-    "sura": "3",
-    "aya": "169",
-    "arabic_text": "وَلَا تَحۡسَبَنَّ ٱلَّذِينَ قُتِلُواْ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتَۢاۚ بَلۡ أَحۡيَآءٌ عِندَ رَبِّهِمۡ يُرۡزَقُونَ",
-    "translation": "Kada ka yi zaton waɗanda aka kashe a cikin hanyar Allah matattu ne. A'a, rãyayyu ne su, a wurin bangijinsu*. Ana ciyar da su.",
-    "footnotes": "* A cikin Hadisi an ruwaito cewa, Annabi yã ce Allah Yanã sanya rũhinsu a cikin cikkunan tsuntsãye mãsu kõren launi, sunã tafiya da su a cikin Aljanna sunã ci daga 'ya'yan itãcenta da rãna, sa'an nan su kõma zuwa ga wasu fitillu waɗanda aka rãtaye a cikin inuwar Al'arshi."
-  }
+  "id": 169,
+  "verse_number": 169,
+  "page_number": 72,
+  "verse_key": "3:169",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 28,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَحۡسَبَنَّ ٱلَّذِينَ قُتِلُواْ فِي سَبِيلِ ٱللَّهِ أَمۡوَٰتَۢاۚ بَلۡ أَحۡيَآءٌ عِندَ رَبِّهِمۡ يُرۡزَقُونَ",
+  "translation": "Kada ka yi zaton waɗanda aka kashe a cikin hanyar Allah matattu ne. A'a, rãyayyu ne su, a wurin bangijinsu*. Ana ciyar da su.",
+  "footnotes": "* A cikin Hadisi an ruwaito cewa, Annabi yã ce Allah Yanã sanya rũhinsu a cikin cikkunan tsuntsãye mãsu kõren launi, sunã tafiya da su a cikin Aljanna sunã ci daga 'ya'yan itãcenta da rãna, sa'an nan su kõma zuwa ga wasu fitillu waɗanda aka rãtaye a cikin inuwar Al'arshi."
 }

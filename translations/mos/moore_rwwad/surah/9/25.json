@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1260",
-    "sura": "9",
-    "aya": "25",
-    "arabic_text": "لَقَدۡ نَصَرَكُمُ ٱللَّهُ فِي مَوَاطِنَ كَثِيرَةٖ وَيَوۡمَ حُنَيۡنٍ إِذۡ أَعۡجَبَتۡكُمۡ كَثۡرَتُكُمۡ فَلَمۡ تُغۡنِ عَنكُمۡ شَيۡـٔٗا وَضَاقَتۡ عَلَيۡكُمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ ثُمَّ وَلَّيۡتُم مُّدۡبِرِينَ",
-    "translation": "Sɩdã, ɑd Wẽnd sõngɑ yãmb zĩis wʋsgo, lɑ Hʋnɑeen (zabrã) rɑɑrã, yãmb wɑooglmã sẽn wɑ n mɑɑn yãmb yel-solemd lɑ ɑ yɑool n kɑ tõog n sõng yãmb bɑɑ fɩ, hɑl tɩ tẽngã ne ɑ yɑlmã wɑ lebg sẽk ne yãmbɑ, rẽ poorẽ tɩ yãmb mɑk n kong n zoe.",
-    "footnotes": ""
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 190,
+  "verse_key": "9:25",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 76,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَقَدۡ نَصَرَكُمُ ٱللَّهُ فِي مَوَاطِنَ كَثِيرَةٖ وَيَوۡمَ حُنَيۡنٍ إِذۡ أَعۡجَبَتۡكُمۡ كَثۡرَتُكُمۡ فَلَمۡ تُغۡنِ عَنكُمۡ شَيۡـٔٗا وَضَاقَتۡ عَلَيۡكُمُ ٱلۡأَرۡضُ بِمَا رَحُبَتۡ ثُمَّ وَلَّيۡتُم مُّدۡبِرِينَ",
+  "translation": "Sɩdã, ɑd Wẽnd sõngɑ yãmb zĩis wʋsgo, lɑ Hʋnɑeen (zabrã) rɑɑrã, yãmb wɑooglmã sẽn wɑ n mɑɑn yãmb yel-solemd lɑ ɑ yɑool n kɑ tõog n sõng yãmb bɑɑ fɩ, hɑl tɩ tẽngã ne ɑ yɑlmã wɑ lebg sẽk ne yãmbɑ, rẽ poorẽ tɩ yãmb mɑk n kong n zoe.",
+  "footnotes": ""
 }

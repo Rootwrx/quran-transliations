@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3380",
-    "sura": "29",
-    "aya": "40",
-    "arabic_text": "فَكُلًّا أَخَذۡنَا بِذَنۢبِهِۦۖ فَمِنۡهُم مَّنۡ أَرۡسَلۡنَا عَلَيۡهِ حَاصِبٗا وَمِنۡهُم مَّنۡ أَخَذَتۡهُ ٱلصَّيۡحَةُ وَمِنۡهُم مَّنۡ خَسَفۡنَا بِهِ ٱلۡأَرۡضَ وَمِنۡهُم مَّنۡ أَغۡرَقۡنَاۚ وَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
-    "translation": "I sve smo zbog grijeha njihovih kaznili: na neke vjetar, pun pijeska poslali, a neke strašnim glasom uništili; neke u zemlju utjerali, a neke potopili. Allah im nije učinio nepravdu, sami su sebi nepravdu nanijeli.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 401,
+  "verse_key": "29:40",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكُلًّا أَخَذۡنَا بِذَنۢبِهِۦۖ فَمِنۡهُم مَّنۡ أَرۡسَلۡنَا عَلَيۡهِ حَاصِبٗا وَمِنۡهُم مَّنۡ أَخَذَتۡهُ ٱلصَّيۡحَةُ وَمِنۡهُم مَّنۡ خَسَفۡنَا بِهِ ٱلۡأَرۡضَ وَمِنۡهُم مَّنۡ أَغۡرَقۡنَاۚ وَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+  "translation": "I sve smo zbog grijeha njihovih kaznili: na neke vjetar, pun pijeska poslali, a neke strašnim glasom uništili; neke u zemlju utjerali, a neke potopili. Allah im nije učinio nepravdu, sami su sebi nepravdu nanijeli.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1370",
-    "sura": "10",
-    "aya": "6",
-    "arabic_text": "إِنَّ فِي ٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَّقُونَ",
-    "translation": "Dájúdájú àwọn àmì wà nínú ìtẹ̀léǹtẹ̀lé òru àti ọ̀sán àti ohun tí Allāhu dá sínú àwọn sánmọ̀ àti ilẹ̀; (àmì wà nínú wọn) fún ìjọ tó ń bẹ̀rù (Allāhu).",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 208,
+  "verse_key": "10:6",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ فِي ٱخۡتِلَٰفِ ٱلَّيۡلِ وَٱلنَّهَارِ وَمَا خَلَقَ ٱللَّهُ فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ لَأٓيَٰتٖ لِّقَوۡمٖ يَتَّقُونَ",
+  "translation": "Dájúdájú àwọn àmì wà nínú ìtẹ̀léǹtẹ̀lé òru àti ọ̀sán àti ohun tí Allāhu dá sínú àwọn sánmọ̀ àti ilẹ̀; (àmì wà nínú wọn) fún ìjọ tó ń bẹ̀rù (Allāhu).",
+  "footnotes": ""
 }

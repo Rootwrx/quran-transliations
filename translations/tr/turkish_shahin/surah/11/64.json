@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1537",
-    "sura": "11",
-    "aya": "64",
-    "arabic_text": "وَيَٰقَوۡمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمۡ ءَايَةٗۖ فَذَرُوهَا تَأۡكُلۡ فِيٓ أَرۡضِ ٱللَّهِۖ وَلَا تَمَسُّوهَا بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابٞ قَرِيبٞ",
-    "translation": " Ey kavmim! İşte size mucize olarak Allah'ın devesi. Onu bırakın, Allah'ın arzında yesin (içsin). Ona kötülük dokundurmayın; sonra sizi yakın bir azap yakalar.",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 229,
+  "verse_key": "11:64",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَٰقَوۡمِ هَٰذِهِۦ نَاقَةُ ٱللَّهِ لَكُمۡ ءَايَةٗۖ فَذَرُوهَا تَأۡكُلۡ فِيٓ أَرۡضِ ٱللَّهِۖ وَلَا تَمَسُّوهَا بِسُوٓءٖ فَيَأۡخُذَكُمۡ عَذَابٞ قَرِيبٞ",
+  "translation": " Ey kavmim! İşte size mucize olarak Allah'ın devesi. Onu bırakın, Allah'ın arzında yesin (içsin). Ona kötülük dokundurmayın; sonra sizi yakın bir azap yakalar.",
+  "footnotes": ""
 }

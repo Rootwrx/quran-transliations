@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1517",
-    "sura": "11",
-    "aya": "44",
-    "arabic_text": "وَقِيلَ يَٰٓأَرۡضُ ٱبۡلَعِي مَآءَكِ وَيَٰسَمَآءُ أَقۡلِعِي وَغِيضَ ٱلۡمَآءُ وَقُضِيَ ٱلۡأَمۡرُ وَٱسۡتَوَتۡ عَلَى ٱلۡجُودِيِّۖ وَقِيلَ بُعۡدٗا لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
-    "translation": "Na ikasemwa: Ewe ardhi! Meza maji yako. Na Ewe mbingu! Jizuie. Basi maji yakadidimia chini, na amri ikapitishwa, na (jahazi) likasimama juu ya (mlima) wa Al Juudiy. Na ikasemwa: Wapotelee mbali watu walio dhulumu!",
-    "footnotes": "Walipo kwisha hiliki makafiri kwa kuzamishwa, ikaja amri ya Mwenyezi Mungu ya maumbile. Ikasemwa kwa hukumu ya uumbaji: Ewe ardhi! Yameze maji yako, na wewe mbingu! Sita na kuteremsha maji. Yakaondoka maji kwenye ardhi, wala kisiongezeke chochote kutoka mbinguni. Hukumu ya Mwenyezi Mungu ya kuhiliki ikamalizika. Jahazi likatua na likasimama juu ya mlima uitwao Al Juudiy. Na Mwenyezi Mungu akawahukumia walio dhulumu kwa kuwatenga na rehema yake. Ikasemwa: Wateketee kaumu walio dhulumu kwa sababu ya dhulma zao. Mlima huo uko Mosal (kaskazini mwa Iraq na kusini ya Turki) Ulikuwa maarufu hapo kale."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 226,
+  "verse_key": "11:44",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 91,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقِيلَ يَٰٓأَرۡضُ ٱبۡلَعِي مَآءَكِ وَيَٰسَمَآءُ أَقۡلِعِي وَغِيضَ ٱلۡمَآءُ وَقُضِيَ ٱلۡأَمۡرُ وَٱسۡتَوَتۡ عَلَى ٱلۡجُودِيِّۖ وَقِيلَ بُعۡدٗا لِّلۡقَوۡمِ ٱلظَّٰلِمِينَ",
+  "translation": "Na ikasemwa: Ewe ardhi! Meza maji yako. Na Ewe mbingu! Jizuie. Basi maji yakadidimia chini, na amri ikapitishwa, na (jahazi) likasimama juu ya (mlima) wa Al Juudiy. Na ikasemwa: Wapotelee mbali watu walio dhulumu!",
+  "footnotes": "Walipo kwisha hiliki makafiri kwa kuzamishwa, ikaja amri ya Mwenyezi Mungu ya maumbile. Ikasemwa kwa hukumu ya uumbaji: Ewe ardhi! Yameze maji yako, na wewe mbingu! Sita na kuteremsha maji. Yakaondoka maji kwenye ardhi, wala kisiongezeke chochote kutoka mbinguni. Hukumu ya Mwenyezi Mungu ya kuhiliki ikamalizika. Jahazi likatua na likasimama juu ya mlima uitwao Al Juudiy. Na Mwenyezi Mungu akawahukumia walio dhulumu kwa kuwatenga na rehema yake. Ikasemwa: Wateketee kaumu walio dhulumu kwa sababu ya dhulma zao. Mlima huo uko Mosal (kaskazini mwa Iraq na kusini ya Turki) Ulikuwa maarufu hapo kale."
 }

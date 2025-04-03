@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2932",
-    "sura": "25",
-    "aya": "77",
-    "arabic_text": "قُلۡ مَا يَعۡبَؤُاْ بِكُمۡ رَبِّي لَوۡلَا دُعَآؤُكُمۡۖ فَقَدۡ كَذَّبۡتُمۡ فَسَوۡفَ يَكُونُ لِزَامَۢا",
-    "translation": "77. Loba: Nkolo wa ngai akomitungisa тропа bino te wana bozangi losambo na bino, mpo bozwaka(ntoma) lokuta, na yango etumbu ekotika bino te, mpe ekozalaka seko na seko.",
-    "footnotes": ""
-  }
+  "id": 77,
+  "verse_number": 77,
+  "page_number": 366,
+  "verse_key": "25:77",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 146,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ مَا يَعۡبَؤُاْ بِكُمۡ رَبِّي لَوۡلَا دُعَآؤُكُمۡۖ فَقَدۡ كَذَّبۡتُمۡ فَسَوۡفَ يَكُونُ لِزَامَۢا",
+  "translation": "77. Loba: Nkolo wa ngai akomitungisa тропа bino te wana bozangi losambo na bino, mpo bozwaka(ntoma) lokuta, na yango etumbu ekotika bino te, mpe ekozalaka seko na seko.",
+  "footnotes": ""
 }

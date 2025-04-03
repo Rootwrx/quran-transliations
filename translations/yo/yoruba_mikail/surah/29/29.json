@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3369",
-    "sura": "29",
-    "aya": "29",
-    "arabic_text": "أَئِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ وَتَقۡطَعُونَ ٱلسَّبِيلَ وَتَأۡتُونَ فِي نَادِيكُمُ ٱلۡمُنكَرَۖ فَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُواْ ٱئۡتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
-    "translation": "Ṣé dájúdájú ẹ̀yin (ọkùnrin) yóò máa tọ àwọn ọkùnrin (ẹgbẹ́ yín) lọ (fún adùn ìbálòpọ̀), ẹ tún ń dánà, ẹ tún ń ṣe ohun burúkú nínú àkójọ yín? Èsì ìjọ rẹ̀ kò jẹ́ kiní kan àfi kí wọ́n wí pé[1]: “Mú ìyà Allāhu wá fún wa tí o bá wà nínú àwọn olódodo.”",
-    "footnotes": "1. Ìyẹn kò túmọ̀ sí pé, ìjọ rẹ̀ kì í sọ ọ̀rọ̀ mìíràn láti fi takò ó. Àmọ́ gbogbo ọ̀rọ̀ ẹnu wọ́n máa ń dá lérí “mú ìyà wá”."
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 399,
+  "verse_key": "29:29",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَئِنَّكُمۡ لَتَأۡتُونَ ٱلرِّجَالَ وَتَقۡطَعُونَ ٱلسَّبِيلَ وَتَأۡتُونَ فِي نَادِيكُمُ ٱلۡمُنكَرَۖ فَمَا كَانَ جَوَابَ قَوۡمِهِۦٓ إِلَّآ أَن قَالُواْ ٱئۡتِنَا بِعَذَابِ ٱللَّهِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+  "translation": "Ṣé dájúdájú ẹ̀yin (ọkùnrin) yóò máa tọ àwọn ọkùnrin (ẹgbẹ́ yín) lọ (fún adùn ìbálòpọ̀), ẹ tún ń dánà, ẹ tún ń ṣe ohun burúkú nínú àkójọ yín? Èsì ìjọ rẹ̀ kò jẹ́ kiní kan àfi kí wọ́n wí pé[1]: “Mú ìyà Allāhu wá fún wa tí o bá wà nínú àwọn olódodo.”",
+  "footnotes": "1. Ìyẹn kò túmọ̀ sí pé, ìjọ rẹ̀ kì í sọ ọ̀rọ̀ mìíràn láti fi takò ó. Àmọ́ gbogbo ọ̀rọ̀ ẹnu wọ́n máa ń dá lérí “mú ìyà wá”."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3726",
-    "sura": "36",
-    "aya": "21",
-    "arabic_text": "ٱتَّبِعُواْ مَن لَّا يَسۡـَٔلُكُمۡ أَجۡرٗا وَهُم مُّهۡتَدُونَ",
-    "translation": "Ndiqni ata, që nuk kërkojnë prej jush kurrfarë shpërblimi e që janë në rrugë të drejtë!",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 441,
+  "verse_key": "36:21",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 176,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱتَّبِعُواْ مَن لَّا يَسۡـَٔلُكُمۡ أَجۡرٗا وَهُم مُّهۡتَدُونَ",
+  "translation": "Ndiqni ata, që nuk kërkojnë prej jush kurrfarë shpërblimi e që janë në rrugë të drejtë!",
+  "footnotes": ""
 }

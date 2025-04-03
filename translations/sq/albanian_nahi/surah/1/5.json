@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5",
-    "sura": "1",
-    "aya": "5",
-    "arabic_text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
-    "translation": "Vetëm Ty të adhurojmë dhe vetëm prej Teje ndihmë kërkojmë.[2]",
-    "footnotes": "[2] Vini re kumbimin e rreptë monoteist të lutjeve islame. Në Islam, jo vetëm që nuk duhet adhuruar asnjë krijesë, por edhe t’i lutesh për ndihmë ndonjë shenjtori, profeti apo çfarëdo krijese tjetër, është rreptësisht e ndaluar. Njeriu duhet t’i lutet për ndihmë vetëm Allahut."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 1,
+  "verse_key": "1:5",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِيَّاكَ نَعۡبُدُ وَإِيَّاكَ نَسۡتَعِينُ",
+  "translation": "Vetëm Ty të adhurojmë dhe vetëm prej Teje ndihmë kërkojmë.[2]",
+  "footnotes": "[2] Vini re kumbimin e rreptë monoteist të lutjeve islame. Në Islam, jo vetëm që nuk duhet adhuruar asnjë krijesë, por edhe t’i lutesh për ndihmë ndonjë shenjtori, profeti apo çfarëdo krijese tjetër, është rreptësisht e ndaluar. Njeriu duhet t’i lutet për ndihmë vetëm Allahut."
 }

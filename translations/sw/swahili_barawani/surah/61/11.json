@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5174",
-    "sura": "61",
-    "aya": "11",
-    "arabic_text": "تُؤۡمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَٰهِدُونَ فِي سَبِيلِ ٱللَّهِ بِأَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
-    "translation": "Muaminini Mwenyezi Mungu na Mtume wake, na piganeni Jihadi katika Njia ya Mwenyezi Mungu kwa mali yenu na nafsi zenu. Haya ni bora kwenu, ikiwa nyinyi mnajua.",
-    "footnotes": "Biashara hii ni kuwa mumuamini Mwenyezi Mungu, na Mtume wake, na mpigane Jihadi katika Njia ya MwenyeziMungu kwa mali zenu na nafsi zenu. Hayo aliyo kuonyesheni ndiyo kheri yenu ikiwa nyinyi mnajua."
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 552,
+  "verse_key": "61:11",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 220,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تُؤۡمِنُونَ بِٱللَّهِ وَرَسُولِهِۦ وَتُجَٰهِدُونَ فِي سَبِيلِ ٱللَّهِ بِأَمۡوَٰلِكُمۡ وَأَنفُسِكُمۡۚ ذَٰلِكُمۡ خَيۡرٞ لَّكُمۡ إِن كُنتُمۡ تَعۡلَمُونَ",
+  "translation": "Muaminini Mwenyezi Mungu na Mtume wake, na piganeni Jihadi katika Njia ya Mwenyezi Mungu kwa mali yenu na nafsi zenu. Haya ni bora kwenu, ikiwa nyinyi mnajua.",
+  "footnotes": "Biashara hii ni kuwa mumuamini Mwenyezi Mungu, na Mtume wake, na mpigane Jihadi katika Njia ya MwenyeziMungu kwa mali zenu na nafsi zenu. Hayo aliyo kuonyesheni ndiyo kheri yenu ikiwa nyinyi mnajua."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5084",
-    "sura": "57",
-    "aya": "9",
-    "arabic_text": "هُوَ ٱلَّذِي يُنَزِّلُ عَلَىٰ عَبۡدِهِۦٓ ءَايَٰتِۭ بَيِّنَٰتٖ لِّيُخۡرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَإِنَّ ٱللَّهَ بِكُمۡ لَرَءُوفٞ رَّحِيمٞ",
-    "translation": "Sizi karanlıklardan aydınlığa çıkarmak için kuluna apaçık ayetler indiren O’dur. Şüphesiz Allah, size karşı çok şefkatli, çok merhametlidir.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 538,
+  "verse_key": "57:9",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "هُوَ ٱلَّذِي يُنَزِّلُ عَلَىٰ عَبۡدِهِۦٓ ءَايَٰتِۭ بَيِّنَٰتٖ لِّيُخۡرِجَكُم مِّنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِۚ وَإِنَّ ٱللَّهَ بِكُمۡ لَرَءُوفٞ رَّحِيمٞ",
+  "translation": "Sizi karanlıklardan aydınlığa çıkarmak için kuluna apaçık ayetler indiren O’dur. Şüphesiz Allah, size karşı çok şefkatli, çok merhametlidir.",
+  "footnotes": ""
 }

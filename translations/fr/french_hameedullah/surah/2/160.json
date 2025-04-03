@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "167",
-    "sura": "2",
-    "aya": "160",
-    "arabic_text": "إِلَّا ٱلَّذِينَ تَابُواْ وَأَصۡلَحُواْ وَبَيَّنُواْ فَأُوْلَٰٓئِكَ أَتُوبُ عَلَيۡهِمۡ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ",
-    "translation": "sauf ceux qui se sont repentis, corrigés et déclarés: d’eux Je reçois le repentir. Car c’est Moi, l’Accueillant au repentir, le Miséricordieux.",
-    "footnotes": ""
-  }
+  "id": 160,
+  "verse_number": 160,
+  "page_number": 24,
+  "verse_key": "2:160",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 10,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا ٱلَّذِينَ تَابُواْ وَأَصۡلَحُواْ وَبَيَّنُواْ فَأُوْلَٰٓئِكَ أَتُوبُ عَلَيۡهِمۡ وَأَنَا ٱلتَّوَّابُ ٱلرَّحِيمُ",
+  "translation": "sauf ceux qui se sont repentis, corrigés et déclarés: d’eux Je reçois le repentir. Car c’est Moi, l’Accueillant au repentir, le Miséricordieux.",
+  "footnotes": ""
 }

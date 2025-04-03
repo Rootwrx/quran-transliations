@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "227",
-    "sura": "2",
-    "aya": "220",
-    "arabic_text": "فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۗ وَيَسۡـَٔلُونَكَ عَنِ ٱلۡيَتَٰمَىٰۖ قُلۡ إِصۡلَاحٞ لَّهُمۡ خَيۡرٞۖ وَإِن تُخَالِطُوهُمۡ فَإِخۡوَٰنُكُمۡۚ وَٱللَّهُ يَعۡلَمُ ٱلۡمُفۡسِدَ مِنَ ٱلۡمُصۡلِحِۚ وَلَوۡ شَآءَ ٱللَّهُ لَأَعۡنَتَكُمۡۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
-    "translation": "Sẽn nɑ nɑf yãmb Dũni lɑ Lɑɑhrã wεεngẽ, lɑ b sokdɑ foo kɩɩbsã yelle, yeele: \" mɑneg b Arsεgsã toor zɑll n kõ-bã rẽ lɑ sõmɑ ne yãmb n yɩɩdɑ, lɑ yãmb sã n gẽdg-ɑ ne y Arzεgsã b yɑɑ yãmb mɑ-biisi, lɑ Wẽnd mii sãɑmdɑ n welg ne mɑnegdɑ, lɑ Wẽnd sã n tʋllẽ A nɑɑn n tãndgẽ yãmb, ɑd Wẽnd yɑɑ Windɑ n yɑɑ Bʋʋd-mitɑ\".",
-    "footnotes": ""
-  }
+  "id": 220,
+  "verse_number": 220,
+  "page_number": 35,
+  "verse_key": "2:220",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 14,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۗ وَيَسۡـَٔلُونَكَ عَنِ ٱلۡيَتَٰمَىٰۖ قُلۡ إِصۡلَاحٞ لَّهُمۡ خَيۡرٞۖ وَإِن تُخَالِطُوهُمۡ فَإِخۡوَٰنُكُمۡۚ وَٱللَّهُ يَعۡلَمُ ٱلۡمُفۡسِدَ مِنَ ٱلۡمُصۡلِحِۚ وَلَوۡ شَآءَ ٱللَّهُ لَأَعۡنَتَكُمۡۚ إِنَّ ٱللَّهَ عَزِيزٌ حَكِيمٞ",
+  "translation": "Sẽn nɑ nɑf yãmb Dũni lɑ Lɑɑhrã wεεngẽ, lɑ b sokdɑ foo kɩɩbsã yelle, yeele: \" mɑneg b Arsεgsã toor zɑll n kõ-bã rẽ lɑ sõmɑ ne yãmb n yɩɩdɑ, lɑ yãmb sã n gẽdg-ɑ ne y Arzεgsã b yɑɑ yãmb mɑ-biisi, lɑ Wẽnd mii sãɑmdɑ n welg ne mɑnegdɑ, lɑ Wẽnd sã n tʋllẽ A nɑɑn n tãndgẽ yãmb, ɑd Wẽnd yɑɑ Windɑ n yɑɑ Bʋʋd-mitɑ\".",
+  "footnotes": ""
 }

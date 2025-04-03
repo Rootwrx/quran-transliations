@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4528",
-    "sura": "46",
-    "aya": "18",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ فِيٓ أُمَمٖ قَدۡ خَلَتۡ مِن قَبۡلِهِم مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ إِنَّهُمۡ كَانُواْ خَٰسِرِينَ",
-    "translation": "18 Voilà ceux contre lesquels Notre arrêt fut prononcé, comme il le fut contre les nations de djinns et d’hommes qui les ont précédés, qui tous furent voués à la perdition.",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 504,
+  "verse_key": "46:18",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ حَقَّ عَلَيۡهِمُ ٱلۡقَوۡلُ فِيٓ أُمَمٖ قَدۡ خَلَتۡ مِن قَبۡلِهِم مِّنَ ٱلۡجِنِّ وَٱلۡإِنسِۖ إِنَّهُمۡ كَانُواْ خَٰسِرِينَ",
+  "translation": "18 Voilà ceux contre lesquels Notre arrêt fut prononcé, comme il le fut contre les nations de djinns et d’hommes qui les ont précédés, qui tous furent voués à la perdition.",
+  "footnotes": ""
 }

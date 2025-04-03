@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "327",
-    "sura": "3",
-    "aya": "34",
-    "arabic_text": "ذُرِّيَّةَۢ بَعۡضُهَا مِنۢ بَعۡضٖۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
-    "translation": "نەوەیەکن ھەندێکیان لە ھەندێکیان کەوتوونەتەوە, وە خوا بیسەر و زانایە\n",
-    "footnotes": null
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 54,
+  "verse_key": "3:34",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 22,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذُرِّيَّةَۢ بَعۡضُهَا مِنۢ بَعۡضٖۗ وَٱللَّهُ سَمِيعٌ عَلِيمٌ",
+  "translation": "نەوەیەکن ھەندێکیان لە ھەندێکیان کەوتوونەتەوە, وە خوا بیسەر و زانایە\n",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5915",
-    "sura": "85",
-    "aya": "6",
-    "arabic_text": "إِذۡ هُمۡ عَلَيۡهَا قُعُودٞ",
-    "translation": "૬. જ્યારે કે તે લોકો તેની આજુબાજુ બેઠા હતા.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 590,
+  "verse_key": "85:6",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ هُمۡ عَلَيۡهَا قُعُودٞ",
+  "translation": "૬. જ્યારે કે તે લોકો તેની આજુબાજુ બેઠા હતા.",
+  "footnotes": ""
 }

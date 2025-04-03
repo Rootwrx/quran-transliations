@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1699",
-    "sura": "12",
-    "aya": "103",
-    "arabic_text": "وَمَآ أَكۡثَرُ ٱلنَّاسِ وَلَوۡ حَرَصۡتَ بِمُؤۡمِنِينَ",
-    "translation": "Lɑ nebã sẽn waoog fãa pɑ sɩd-kõtb ye, ba tɩ fo sã n mɑɑndɑ yã-beed ne rã.",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 247,
+  "verse_key": "12:103",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 99,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَكۡثَرُ ٱلنَّاسِ وَلَوۡ حَرَصۡتَ بِمُؤۡمِنِينَ",
+  "translation": "Lɑ nebã sẽn waoog fãa pɑ sɩd-kõtb ye, ba tɩ fo sã n mɑɑndɑ yã-beed ne rã.",
+  "footnotes": ""
 }

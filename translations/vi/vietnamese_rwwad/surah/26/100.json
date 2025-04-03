@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3032",
-    "sura": "26",
-    "aya": "100",
-    "arabic_text": "فَمَا لَنَا مِن شَٰفِعِينَ",
-    "translation": "“Thế là chúng tôi chẳng có ai can thiệp.”",
-    "footnotes": ""
-  }
+  "id": 100,
+  "verse_number": 100,
+  "page_number": 371,
+  "verse_key": "26:100",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَا لَنَا مِن شَٰفِعِينَ",
+  "translation": "“Thế là chúng tôi chẳng có ai can thiệp.”",
+  "footnotes": ""
 }

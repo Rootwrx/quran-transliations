@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4985",
-    "sura": "56",
-    "aya": "6",
-    "arabic_text": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
-    "translation": "Igacika intumo itumurwa n’umuyaga mu kirere;",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 534,
+  "verse_key": "56:6",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَانَتۡ هَبَآءٗ مُّنۢبَثّٗا",
+  "translation": "Igacika intumo itumurwa n’umuyaga mu kirere;",
+  "footnotes": ""
 }

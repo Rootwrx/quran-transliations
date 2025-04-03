@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4584",
-    "sura": "48",
-    "aya": "1",
-    "arabic_text": "إِنَّا فَتَحۡنَا لَكَ فَتۡحٗا مُّبِينٗا",
-    "translation": "(1) Indeed, We have given you, [O Muḥammad], a clear conquest[1507]",
-    "footnotes": "[1507]- Ibn Masʿūd said, \"You [people] consider the conquest to be that of Makkah, but we consider it to be the Treaty of al-Ḥudaybiyyah.\"  Al-Bukhārī reported a similar quotation from al-Barā’ bin ʿĀzib.  Although initially regarded by the companions as a setback, the treaty, in effect, served to promote the spread of Islām, which led to the conquest of Makkah two years later."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 511,
+  "verse_key": "48:1",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 204,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّا فَتَحۡنَا لَكَ فَتۡحٗا مُّبِينٗا",
+  "translation": "(1) Indeed, We have given you, [O Muḥammad], a clear conquest[1507]",
+  "footnotes": "[1507]- Ibn Masʿūd said, \"You [people] consider the conquest to be that of Makkah, but we consider it to be the Treaty of al-Ḥudaybiyyah.\"  Al-Bukhārī reported a similar quotation from al-Barā’ bin ʿĀzib.  Although initially regarded by the companions as a setback, the treaty, in effect, served to promote the spread of Islām, which led to the conquest of Makkah two years later."
 }

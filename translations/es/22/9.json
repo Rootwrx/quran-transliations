@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2604",
-    "sura": "22",
-    "aya": "9",
-    "arabic_text": "ثَانِيَ عِطۡفِهِۦ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِۖ لَهُۥ فِي ٱلدُّنۡيَا خِزۡيٞۖ وَنُذِيقُهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ عَذَابَ ٱلۡحَرِيقِ",
-    "translation": "9. Con arrogancia pretenden apartar a la gente del camino de Dios. Serán humillados en esta vida, y el Día de la Resurrección los haré sufrir el castigo de quemarse.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 333,
+  "verse_key": "22:9",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثَانِيَ عِطۡفِهِۦ لِيُضِلَّ عَن سَبِيلِ ٱللَّهِۖ لَهُۥ فِي ٱلدُّنۡيَا خِزۡيٞۖ وَنُذِيقُهُۥ يَوۡمَ ٱلۡقِيَٰمَةِ عَذَابَ ٱلۡحَرِيقِ",
+  "translation": "9. Con arrogancia pretenden apartar a la gente del camino de Dios. Serán humillados en esta vida, y el Día de la Resurrección los haré sufrir el castigo de quemarse.",
+  "footnotes": ""
 }

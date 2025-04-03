@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4082",
-    "sura": "39",
-    "aya": "24",
-    "arabic_text": "أَفَمَن يَتَّقِي بِوَجۡهِهِۦ سُوٓءَ ٱلۡعَذَابِ يَوۡمَ ٱلۡقِيَٰمَةِۚ وَقِيلَ لِلظَّٰلِمِينَ ذُوقُواْ مَا كُنتُمۡ تَكۡسِبُونَ",
-    "translation": "Zar je isti onaj koji će se na Sudnjem danu licem svojim zaklanjati od strahovite patnje? “Trpite ono što ste zaslužili!”, nepravednima će se reći.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 461,
+  "verse_key": "39:24",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَمَن يَتَّقِي بِوَجۡهِهِۦ سُوٓءَ ٱلۡعَذَابِ يَوۡمَ ٱلۡقِيَٰمَةِۚ وَقِيلَ لِلظَّٰلِمِينَ ذُوقُواْ مَا كُنتُمۡ تَكۡسِبُونَ",
+  "translation": "Zar je isti onaj koji će se na Sudnjem danu licem svojim zaklanjati od strahovite patnje? “Trpite ono što ste zaslužili!”, nepravednima će se reći.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4758",
-    "sura": "52",
-    "aya": "23",
-    "arabic_text": "يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ",
-    "translation": "Tuzobaha n’umwuhiro w’inzoga zitaboreza, ibirahuri vy’inzoga bikurakuranwa, bahererekanya hagati yabo mu Bwami bw’ijuru; nya nzoga, nta ho zisa zisana n’izo kw’isi ziyayura umutwe, umuntu agatangura kudedemba avuga ayamuhe yitonganya;",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 524,
+  "verse_key": "52:23",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَتَنَٰزَعُونَ فِيهَا كَأۡسٗا لَّا لَغۡوٞ فِيهَا وَلَا تَأۡثِيمٞ",
+  "translation": "Tuzobaha n’umwuhiro w’inzoga zitaboreza, ibirahuri vy’inzoga bikurakuranwa, bahererekanya hagati yabo mu Bwami bw’ijuru; nya nzoga, nta ho zisa zisana n’izo kw’isi ziyayura umutwe, umuntu agatangura kudedemba avuga ayamuhe yitonganya;",
+  "footnotes": ""
 }

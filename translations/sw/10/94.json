@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1458",
-    "sura": "10",
-    "aya": "94",
-    "arabic_text": "فَإِن كُنتَ فِي شَكّٖ مِّمَّآ أَنزَلۡنَآ إِلَيۡكَ فَسۡـَٔلِ ٱلَّذِينَ يَقۡرَءُونَ ٱلۡكِتَٰبَ مِن قَبۡلِكَۚ لَقَدۡ جَآءَكَ ٱلۡحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ",
-    "translation": "Na ikiwa unayo shaka katika tuliyo kuteremshia, basi waulize wasomao Kitabu kabla yako. Kwa yakini imekwisha kujia Haki kutoka kwa Mola wako Mlezi. Basi usiwe miongoni mwa wenye shaka.",
-    "footnotes": "Ikikuingia shaka wewe au mwengineo katika huu wahyi tuliyo kuteremshia, basi waulize watu wa Vitabu vilivyo tangulia walivyo teremshiwa Manabii wao. Kwao utapata jawabu ya kukata, yenye kuwafikiana na haya tuliyo kuteremshia wewe. Na hayo ni kutilia mkazo ukweli wa uwazi wa dalili pindi ikitokea shaka yoyote. Basi hapana njia ya kutia shaka. Sisi tumekuteremshia Haki isiyo na shaka yoyote. Basi usishindane na yeyote mwenginewe katika kutia shaka na kutaradadi."
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 219,
+  "verse_key": "10:94",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 88,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن كُنتَ فِي شَكّٖ مِّمَّآ أَنزَلۡنَآ إِلَيۡكَ فَسۡـَٔلِ ٱلَّذِينَ يَقۡرَءُونَ ٱلۡكِتَٰبَ مِن قَبۡلِكَۚ لَقَدۡ جَآءَكَ ٱلۡحَقُّ مِن رَّبِّكَ فَلَا تَكُونَنَّ مِنَ ٱلۡمُمۡتَرِينَ",
+  "translation": "Na ikiwa unayo shaka katika tuliyo kuteremshia, basi waulize wasomao Kitabu kabla yako. Kwa yakini imekwisha kujia Haki kutoka kwa Mola wako Mlezi. Basi usiwe miongoni mwa wenye shaka.",
+  "footnotes": "Ikikuingia shaka wewe au mwengineo katika huu wahyi tuliyo kuteremshia, basi waulize watu wa Vitabu vilivyo tangulia walivyo teremshiwa Manabii wao. Kwao utapata jawabu ya kukata, yenye kuwafikiana na haya tuliyo kuteremshia wewe. Na hayo ni kutilia mkazo ukweli wa uwazi wa dalili pindi ikitokea shaka yoyote. Basi hapana njia ya kutia shaka. Sisi tumekuteremshia Haki isiyo na shaka yoyote. Basi usishindane na yeyote mwenginewe katika kutia shaka na kutaradadi."
 }

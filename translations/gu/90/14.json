@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6037",
-    "sura": "90",
-    "aya": "14",
-    "arabic_text": "أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ",
-    "translation": "૧૪. અથવા તો ભુખમરાના દિવસે ભોજન કરાવવું.",
-    "footnotes": ""
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 594,
+  "verse_key": "90:14",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 238,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ إِطۡعَٰمٞ فِي يَوۡمٖ ذِي مَسۡغَبَةٖ",
+  "translation": "૧૪. અથવા તો ભુખમરાના દિવસે ભોજન કરાવવું.",
+  "footnotes": ""
 }

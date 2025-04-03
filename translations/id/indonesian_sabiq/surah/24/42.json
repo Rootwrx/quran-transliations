@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2833",
-    "sura": "24",
-    "aya": "42",
-    "arabic_text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ",
-    "translation": "42. Dan milik Allah-lah kerajaan langit dan bumi, dan hanya kepada Allah-lah kembali (seluruh makhluk).",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 355,
+  "verse_key": "24:42",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 142,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِلَّهِ مُلۡكُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ وَإِلَى ٱللَّهِ ٱلۡمَصِيرُ",
+  "translation": "42. Dan milik Allah-lah kerajaan langit dan bumi, dan hanya kepada Allah-lah kembali (seluruh makhluk).",
+  "footnotes": ""
 }

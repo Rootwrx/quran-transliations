@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5234",
-    "sura": "66",
-    "aya": "5",
-    "arabic_text": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرٗا مِّنكُنَّ مُسۡلِمَٰتٖ مُّؤۡمِنَٰتٖ قَٰنِتَٰتٖ تَٰٓئِبَٰتٍ عَٰبِدَٰتٖ سَٰٓئِحَٰتٖ ثَيِّبَٰتٖ وَأَبۡكَارٗا",
-    "translation": "Asaa Mola wake Mlezi, akikupeni talaka, akampa wake wengine badala yenu nyinyi, walio bora kuliko nyinyi, wanynyekevu, Waumini, wat'awa, walio tubu, wenye kushika ibada, wafanyao kheri, wajane na wanawari.",
-    "footnotes": "Asaa Mola wake Mlezi akikuacheni, enyi wakeze, atamwoza badala yenu wake wengine walio wanyenyekevu kwa Mwenyezi Mungu kwa ut'iifu, wenye kusadiki kwa nyoyo zao, wanyonge mbele ya Mwenyezi Mungu, wenye kurejea kwa Mwenyezi Mungu kwa toba, wenye kumuabudu kwa kujidhalilisha kwake, wendao kila njia za ut'iifu kwa Mwenyezi Mungu, wajane na bikra."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 560,
+  "verse_key": "66:5",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "عَسَىٰ رَبُّهُۥٓ إِن طَلَّقَكُنَّ أَن يُبۡدِلَهُۥٓ أَزۡوَٰجًا خَيۡرٗا مِّنكُنَّ مُسۡلِمَٰتٖ مُّؤۡمِنَٰتٖ قَٰنِتَٰتٖ تَٰٓئِبَٰتٍ عَٰبِدَٰتٖ سَٰٓئِحَٰتٖ ثَيِّبَٰتٖ وَأَبۡكَارٗا",
+  "translation": "Asaa Mola wake Mlezi, akikupeni talaka, akampa wake wengine badala yenu nyinyi, walio bora kuliko nyinyi, wanynyekevu, Waumini, wat'awa, walio tubu, wenye kushika ibada, wafanyao kheri, wajane na wanawari.",
+  "footnotes": "Asaa Mola wake Mlezi akikuacheni, enyi wakeze, atamwoza badala yenu wake wengine walio wanyenyekevu kwa Mwenyezi Mungu kwa ut'iifu, wenye kusadiki kwa nyoyo zao, wanyonge mbele ya Mwenyezi Mungu, wenye kurejea kwa Mwenyezi Mungu kwa toba, wenye kumuabudu kwa kujidhalilisha kwake, wendao kila njia za ut'iifu kwa Mwenyezi Mungu, wajane na bikra."
 }

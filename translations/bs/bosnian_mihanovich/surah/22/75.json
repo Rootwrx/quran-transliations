@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2670",
-    "sura": "22",
-    "aya": "75",
-    "arabic_text": "ٱللَّهُ يَصۡطَفِي مِنَ ٱلۡمَلَٰٓئِكَةِ رُسُلٗا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٞ",
-    "translation": "Allah odabire izaslanike među melecima i ljudima-Allah je, zaista, Onaj Koji sve čuje i Onaj Koji sve vidi.",
-    "footnotes": ""
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 341,
+  "verse_key": "22:75",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ يَصۡطَفِي مِنَ ٱلۡمَلَٰٓئِكَةِ رُسُلٗا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٞ",
+  "translation": "Allah odabire izaslanike među melecima i ljudima-Allah je, zaista, Onaj Koji sve čuje i Onaj Koji sve vidi.",
+  "footnotes": ""
 }

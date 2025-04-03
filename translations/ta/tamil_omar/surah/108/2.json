@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6206",
-    "sura": "108",
-    "aya": "2",
-    "arabic_text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
-    "translation": "ஆகவே, உம் இறைவனுக்காகத் தொழுவீராக. இன்னும், (அவனுக்காகவே) அறுத்துப் பலியிடுவீராக!",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 602,
+  "verse_key": "108:2",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَصَلِّ لِرَبِّكَ وَٱنۡحَرۡ",
+  "translation": "ஆகவே, உம் இறைவனுக்காகத் தொழுவீராக. இன்னும், (அவனுக்காகவே) அறுத்துப் பலியிடுவீராக!",
+  "footnotes": ""
 }

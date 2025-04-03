@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4778",
-    "sura": "52",
-    "aya": "43",
-    "arabic_text": "أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ",
-    "translation": "Zar oni drugog boga osim Allaha da imaju? Uzvišen je Allah od onoga što Mu u obožavanju pridružuju.",
-    "footnotes": ""
-  }
+  "id": 43,
+  "verse_number": 43,
+  "page_number": 525,
+  "verse_key": "52:43",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ لَهُمۡ إِلَٰهٌ غَيۡرُ ٱللَّهِۚ سُبۡحَٰنَ ٱللَّهِ عَمَّا يُشۡرِكُونَ",
+  "translation": "Zar oni drugog boga osim Allaha da imaju? Uzvišen je Allah od onoga što Mu u obožavanju pridružuju.",
+  "footnotes": ""
 }

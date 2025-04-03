@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4489",
-    "sura": "45",
-    "aya": "16",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ",
-    "translation": "Kuma lalle ne, haƙĩƙa, Mun bai* (wa Bãnĩ Isrã'ĩla Littãfi da hukunci da Annabci, Kuma Mun azurta su daga abũbuwa mãsudãɗi, Kuma Mun fĩfta su a kan mutãnen dũniya (a zãmaninsu).",
-    "footnotes": "* Bã Musulmi kawai aka aikowa Manzo ba,ba su kawai aka bã su sharĩ'a ba, kuma aka umurce su da binta ba, Banĩ Isrã'ĩla ma an bã su haka kuma sunɗaukaka a kan mutãne a lõkacin da suka yi aiki da sharĩ'ar, kuma suka ƙasƙanta a lõkacin da suka bar aiki da ita. Musulmi ma haka suke idan sun bar sharĩ'ar da Allah Ya aza su a kanta, zã su ƙasƙanta yadda Yahũdawa suka ƙasƙanta."
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 500,
+  "verse_key": "45:16",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا بَنِيٓ إِسۡرَٰٓءِيلَ ٱلۡكِتَٰبَ وَٱلۡحُكۡمَ وَٱلنُّبُوَّةَ وَرَزَقۡنَٰهُم مِّنَ ٱلطَّيِّبَٰتِ وَفَضَّلۡنَٰهُمۡ عَلَى ٱلۡعَٰلَمِينَ",
+  "translation": "Kuma lalle ne, haƙĩƙa, Mun bai* (wa Bãnĩ Isrã'ĩla Littãfi da hukunci da Annabci, Kuma Mun azurta su daga abũbuwa mãsudãɗi, Kuma Mun fĩfta su a kan mutãnen dũniya (a zãmaninsu).",
+  "footnotes": "* Bã Musulmi kawai aka aikowa Manzo ba,ba su kawai aka bã su sharĩ'a ba, kuma aka umurce su da binta ba, Banĩ Isrã'ĩla ma an bã su haka kuma sunɗaukaka a kan mutãne a lõkacin da suka yi aiki da sharĩ'ar, kuma suka ƙasƙanta a lõkacin da suka bar aiki da ita. Musulmi ma haka suke idan sun bar sharĩ'ar da Allah Ya aza su a kanta, zã su ƙasƙanta yadda Yahũdawa suka ƙasƙanta."
 }

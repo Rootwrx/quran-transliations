@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "579",
-    "sura": "4",
-    "aya": "86",
-    "arabic_text": "وَإِذَا حُيِّيتُم بِتَحِيَّةٖ فَحَيُّواْ بِأَحۡسَنَ مِنۡهَآ أَوۡ رُدُّوهَآۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٍ حَسِيبًا",
-    "translation": "Kuma idan an gaishe* ku da wata gaisuwa, to, ku yi gaisuwa da abin da yake mafi kyau daga gare ta, kõ kuwa ku mayar da ita. Kuma Allah Yã kasance a kan dukkan kõme Mai lissãfi.",
-    "footnotes": "* A gaisuwa idan an ce muku: \"Assalãmu alaikum\" ku mayar da cewa, \"Wa'alaikumus Salãmu wa rahamatul Lãhi wa barakãtuH.\" Kõ ku mayar kamar yadda aka yi muku. Watau kada ku naƙasa 'yan'uwanku kõ da ga gaisuwa ne. Faɗakarwa: Fara sallama mustahabbi ne, mayarwa kuma farilla ne, amma wanda ya fãra, ya fi lãda. Haka yin tsarki a gabãnin lokaci mustahabbi ne, amma a bayãn shigar lokaci ya zama wajibi. Wanda ya yi mustahabbi a nan yã fi lãda. Haka jinkirtar da biyan bãshi ga matsattse wãjibine, amma barrantar da shi mustahabbi ne. Yin mustahabbi a nan yã fi lada."
-  }
+  "id": 86,
+  "verse_number": 86,
+  "page_number": 91,
+  "verse_key": "4:86",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 36,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا حُيِّيتُم بِتَحِيَّةٖ فَحَيُّواْ بِأَحۡسَنَ مِنۡهَآ أَوۡ رُدُّوهَآۗ إِنَّ ٱللَّهَ كَانَ عَلَىٰ كُلِّ شَيۡءٍ حَسِيبًا",
+  "translation": "Kuma idan an gaishe* ku da wata gaisuwa, to, ku yi gaisuwa da abin da yake mafi kyau daga gare ta, kõ kuwa ku mayar da ita. Kuma Allah Yã kasance a kan dukkan kõme Mai lissãfi.",
+  "footnotes": "* A gaisuwa idan an ce muku: \"Assalãmu alaikum\" ku mayar da cewa, \"Wa'alaikumus Salãmu wa rahamatul Lãhi wa barakãtuH.\" Kõ ku mayar kamar yadda aka yi muku. Watau kada ku naƙasa 'yan'uwanku kõ da ga gaisuwa ne. Faɗakarwa: Fara sallama mustahabbi ne, mayarwa kuma farilla ne, amma wanda ya fãra, ya fi lãda. Haka yin tsarki a gabãnin lokaci mustahabbi ne, amma a bayãn shigar lokaci ya zama wajibi. Wanda ya yi mustahabbi a nan yã fi lãda. Haka jinkirtar da biyan bãshi ga matsattse wãjibine, amma barrantar da shi mustahabbi ne. Yin mustahabbi a nan yã fi lada."
 }

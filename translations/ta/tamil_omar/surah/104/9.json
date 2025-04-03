@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6188",
-    "sura": "104",
-    "aya": "9",
-    "arabic_text": "فِي عَمَدٖ مُّمَدَّدَةِۭ",
-    "translation": "உயரமான தூண்களில் (அவர்கள் கட்டப்படுவார்கள்).",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 601,
+  "verse_key": "104:9",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي عَمَدٖ مُّمَدَّدَةِۭ",
+  "translation": "உயரமான தூண்களில் (அவர்கள் கட்டப்படுவார்கள்).",
+  "footnotes": ""
 }

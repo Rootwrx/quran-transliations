@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5111",
-    "sura": "58",
-    "aya": "7",
-    "arabic_text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ مَا يَكُونُ مِن نَّجۡوَىٰ ثَلَٰثَةٍ إِلَّا هُوَ رَابِعُهُمۡ وَلَا خَمۡسَةٍ إِلَّا هُوَ سَادِسُهُمۡ وَلَآ أَدۡنَىٰ مِن ذَٰلِكَ وَلَآ أَكۡثَرَ إِلَّا هُوَ مَعَهُمۡ أَيۡنَ مَا كَانُواْۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوۡمَ ٱلۡقِيَٰمَةِۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
-    "translation": "A nuk e di ti, se Allahu di çdo gjë që është në qiej dhe në Tokë?! Nuk ka bisedë të fshehtë midis tre vetave, që Ai të mos jetë i katërti; as midis pesë vetave e që Ai të mos jetë i gjashti; as kur janë më pak, as kur janë më shumë, që Ai të mos jetë me ata, kudo që të ndodhen; Ai në Ditën e Kiametit do t’i njoftojë ata se çfarë kanë bërë, se, me të vërtetë, Allahu di çdo gjë!",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 543,
+  "verse_key": "58:7",
+  "juz_number": 28,
+  "hizb_number": 55,
+  "rub_el_hizb_number": 217,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ مَا يَكُونُ مِن نَّجۡوَىٰ ثَلَٰثَةٍ إِلَّا هُوَ رَابِعُهُمۡ وَلَا خَمۡسَةٍ إِلَّا هُوَ سَادِسُهُمۡ وَلَآ أَدۡنَىٰ مِن ذَٰلِكَ وَلَآ أَكۡثَرَ إِلَّا هُوَ مَعَهُمۡ أَيۡنَ مَا كَانُواْۖ ثُمَّ يُنَبِّئُهُم بِمَا عَمِلُواْ يَوۡمَ ٱلۡقِيَٰمَةِۚ إِنَّ ٱللَّهَ بِكُلِّ شَيۡءٍ عَلِيمٌ",
+  "translation": "A nuk e di ti, se Allahu di çdo gjë që është në qiej dhe në Tokë?! Nuk ka bisedë të fshehtë midis tre vetave, që Ai të mos jetë i katërti; as midis pesë vetave e që Ai të mos jetë i gjashti; as kur janë më pak, as kur janë më shumë, që Ai të mos jetë me ata, kudo që të ndodhen; Ai në Ditën e Kiametit do t’i njoftojë ata se çfarë kanë bërë, se, me të vërtetë, Allahu di çdo gjë!",
+  "footnotes": ""
 }

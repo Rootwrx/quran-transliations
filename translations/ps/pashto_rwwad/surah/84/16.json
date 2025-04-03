@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5900",
-    "sura": "84",
-    "aya": "16",
-    "arabic_text": "فَلَآ أُقۡسِمُ بِٱلشَّفَقِ",
-    "translation": "خو نه زه پر شفق (سوروالی د ماښام) لوړه کوم.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 589,
+  "verse_key": "84:16",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَآ أُقۡسِمُ بِٱلشَّفَقِ",
+  "translation": "خو نه زه پر شفق (سوروالی د ماښام) لوړه کوم.",
+  "footnotes": ""
 }

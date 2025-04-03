@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3940",
-    "sura": "37",
-    "aya": "152",
-    "arabic_text": "وَلَدَ ٱللَّهُ وَإِنَّهُمۡ لَكَٰذِبُونَ",
-    "translation": "152. « Allah a engendré ! » Or ils ne font que mentir.",
-    "footnotes": ""
-  }
+  "id": 152,
+  "verse_number": 152,
+  "page_number": 451,
+  "verse_key": "37:152",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَدَ ٱللَّهُ وَإِنَّهُمۡ لَكَٰذِبُونَ",
+  "translation": "152. « Allah a engendré ! » Or ils ne font que mentir.",
+  "footnotes": ""
 }

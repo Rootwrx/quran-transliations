@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4071",
-    "sura": "39",
-    "aya": "13",
-    "arabic_text": "قُلۡ إِنِّيٓ أَخَافُ إِنۡ عَصَيۡتُ رَبِّي عَذَابَ يَوۡمٍ عَظِيمٖ",
-    "translation": "13. Zeg: “Waarlijk, ik vrees de bestraffing van een grote dag als ik ongehoorzaam aan mijn Heer zal zijn.”",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 460,
+  "verse_key": "39:13",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 184,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ إِنِّيٓ أَخَافُ إِنۡ عَصَيۡتُ رَبِّي عَذَابَ يَوۡمٍ عَظِيمٖ",
+  "translation": "13. Zeg: “Waarlijk, ik vrees de bestraffing van een grote dag als ik ongehoorzaam aan mijn Heer zal zijn.”",
+  "footnotes": ""
 }

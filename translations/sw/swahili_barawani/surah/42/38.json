@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4310",
-    "sura": "42",
-    "aya": "38",
-    "arabic_text": "وَٱلَّذِينَ ٱسۡتَجَابُواْ لِرَبِّهِمۡ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَمۡرُهُمۡ شُورَىٰ بَيۡنَهُمۡ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
-    "translation": "Na wanao mwitikia Mola wao Mlezi, na wakashika Swala, na mambo yao yakawa ni kwa kushauriana baina yao, na kutokana na tulicho waruzuku wakawa wanatoa,",
-    "footnotes": "Na wanao uitikia wito wa Muumba wao na Mlezi wao, na wakamuamini, na wakazihifadhi Swala zao, na ukawa mwendo wao ni kushauriana katika mambo yao ili upatikane uadilifu katika jamii zao, bila ya mtu mmojapo au kikundi cha wachache kutaka kuwatumilia mabavu wenginewe, na wakawa wanatoa kwa njia za kheri kutokana na neema alizo mneemesha Mwenyezi Mungu;"
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 487,
+  "verse_key": "42:38",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 195,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ ٱسۡتَجَابُواْ لِرَبِّهِمۡ وَأَقَامُواْ ٱلصَّلَوٰةَ وَأَمۡرُهُمۡ شُورَىٰ بَيۡنَهُمۡ وَمِمَّا رَزَقۡنَٰهُمۡ يُنفِقُونَ",
+  "translation": "Na wanao mwitikia Mola wao Mlezi, na wakashika Swala, na mambo yao yakawa ni kwa kushauriana baina yao, na kutokana na tulicho waruzuku wakawa wanatoa,",
+  "footnotes": "Na wanao uitikia wito wa Muumba wao na Mlezi wao, na wakamuamini, na wakazihifadhi Swala zao, na ukawa mwendo wao ni kushauriana katika mambo yao ili upatikane uadilifu katika jamii zao, bila ya mtu mmojapo au kikundi cha wachache kutaka kuwatumilia mabavu wenginewe, na wakawa wanatoa kwa njia za kheri kutokana na neema alizo mneemesha Mwenyezi Mungu;"
 }

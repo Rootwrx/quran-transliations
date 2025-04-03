@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2230",
-    "sura": "18",
-    "aya": "90",
-    "arabic_text": "حَتَّىٰٓ إِذَا بَلَغَ مَطۡلِعَ ٱلشَّمۡسِ وَجَدَهَا تَطۡلُعُ عَلَىٰ قَوۡمٖ لَّمۡ نَجۡعَل لَّهُم مِّن دُونِهَا سِتۡرٗا",
-    "translation": "Nəhayət, günəşin doğduğu yerə çatdıqda onu elə bir qövm üzərində doğan gördü ki, onlardan ötrü ona (günəşə) qarşı heç bir örtük yaratmamışdıq.",
-    "footnotes": ""
-  }
+  "id": 90,
+  "verse_number": 90,
+  "page_number": 303,
+  "verse_key": "18:90",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 121,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حَتَّىٰٓ إِذَا بَلَغَ مَطۡلِعَ ٱلشَّمۡسِ وَجَدَهَا تَطۡلُعُ عَلَىٰ قَوۡمٖ لَّمۡ نَجۡعَل لَّهُم مِّن دُونِهَا سِتۡرٗا",
+  "translation": "Nəhayət, günəşin doğduğu yerə çatdıqda onu elə bir qövm üzərində doğan gördü ki, onlardan ötrü ona (günəşə) qarşı heç bir örtük yaratmamışdıq.",
+  "footnotes": ""
 }

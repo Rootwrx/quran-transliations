@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1902",
-    "sura": "16",
-    "aya": "1",
-    "arabic_text": "أَتَىٰٓ أَمۡرُ ٱللَّهِ فَلَا تَسۡتَعۡجِلُوهُۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
-    "translation": "Lệnh (trừng phạt) của Allah đang đến gần, vì vậy, các ngươi (những người vô đức tin) chớ đừng nóng vội hối thúc. Vinh Quang thay Allah, Ngài Tối Cao vượt bên trên mọi thứ mà chúng qui cho Ngài.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 267,
+  "verse_key": "16:1",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 107,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَتَىٰٓ أَمۡرُ ٱللَّهِ فَلَا تَسۡتَعۡجِلُوهُۚ سُبۡحَٰنَهُۥ وَتَعَٰلَىٰ عَمَّا يُشۡرِكُونَ",
+  "translation": "Lệnh (trừng phạt) của Allah đang đến gần, vì vậy, các ngươi (những người vô đức tin) chớ đừng nóng vội hối thúc. Vinh Quang thay Allah, Ngài Tối Cao vượt bên trên mọi thứ mà chúng qui cho Ngài.",
+  "footnotes": ""
 }

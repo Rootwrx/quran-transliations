@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "622",
-    "sura": "4",
-    "aya": "129",
-    "arabic_text": "وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
-    "translation": "Wala hamtaweza kufanya uadilifu baina ya wake, hata mkikakamia. Kwa hivyo msimili moja kwa moja mkamwacha (mmojapo) kama aliye tundikwa. Na mkisikizana na mkamchamungu basi Mwenyezi Mungu ni Mwingi wa maghfira na Mwenye kurehemu.",
-    "footnotes": "Kuwafanyia uadilifu wake kwa mapenzi ya daima yasiyo chafuliwa na udanganyifu, na kutendeana usawa katika mapenzi ikawa nipe nikupe, ni jambo lisilo wezekana kuwa. Kadhaalika haiwezi kuwepo usawa katika kuwapenda wake, ikiwa kuna zaidi kuliko mke mmoja. Walakini mkijitahidi, basi msimfanyie ujeuri mmoja wapo, mkamili upande mmoja, na mkamwacha mwengine si mke si mt'alaka. Yapasa mjitengeneze, na muendeshe nyumba zenu kwa wema si kwa ufisadi. Na mcheni Mwenyezi Mungu apate kughufirieni na akurehemuni. Ni shani yake kughufiria na kurehemu."
-  }
+  "id": 129,
+  "verse_number": 129,
+  "page_number": 99,
+  "verse_key": "4:129",
+  "juz_number": 5,
+  "hizb_number": 10,
+  "rub_el_hizb_number": 39,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَن تَسۡتَطِيعُوٓاْ أَن تَعۡدِلُواْ بَيۡنَ ٱلنِّسَآءِ وَلَوۡ حَرَصۡتُمۡۖ فَلَا تَمِيلُواْ كُلَّ ٱلۡمَيۡلِ فَتَذَرُوهَا كَٱلۡمُعَلَّقَةِۚ وَإِن تُصۡلِحُواْ وَتَتَّقُواْ فَإِنَّ ٱللَّهَ كَانَ غَفُورٗا رَّحِيمٗا",
+  "translation": "Wala hamtaweza kufanya uadilifu baina ya wake, hata mkikakamia. Kwa hivyo msimili moja kwa moja mkamwacha (mmojapo) kama aliye tundikwa. Na mkisikizana na mkamchamungu basi Mwenyezi Mungu ni Mwingi wa maghfira na Mwenye kurehemu.",
+  "footnotes": "Kuwafanyia uadilifu wake kwa mapenzi ya daima yasiyo chafuliwa na udanganyifu, na kutendeana usawa katika mapenzi ikawa nipe nikupe, ni jambo lisilo wezekana kuwa. Kadhaalika haiwezi kuwepo usawa katika kuwapenda wake, ikiwa kuna zaidi kuliko mke mmoja. Walakini mkijitahidi, basi msimfanyie ujeuri mmoja wapo, mkamili upande mmoja, na mkamwacha mwengine si mke si mt'alaka. Yapasa mjitengeneze, na muendeshe nyumba zenu kwa wema si kwa ufisadi. Na mcheni Mwenyezi Mungu apate kughufirieni na akurehemuni. Ni shani yake kughufiria na kurehemu."
 }

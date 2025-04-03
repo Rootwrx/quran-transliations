@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4161",
-    "sura": "40",
-    "aya": "28",
-    "arabic_text": "وَقَالَ رَجُلٞ مُّؤۡمِنٞ مِّنۡ ءَالِ فِرۡعَوۡنَ يَكۡتُمُ إِيمَٰنَهُۥٓ أَتَقۡتُلُونَ رَجُلًا أَن يَقُولَ رَبِّيَ ٱللَّهُ وَقَدۡ جَآءَكُم بِٱلۡبَيِّنَٰتِ مِن رَّبِّكُمۡۖ وَإِن يَكُ كَٰذِبٗا فَعَلَيۡهِ كَذِبُهُۥۖ وَإِن يَكُ صَادِقٗا يُصِبۡكُم بَعۡضُ ٱلَّذِي يَعِدُكُمۡۖ إِنَّ ٱللَّهَ لَا يَهۡدِي مَنۡ هُوَ مُسۡرِفٞ كَذَّابٞ",
-    "translation": "28.Firqawni buxah marak moomintuh yan numuy isi iimaan qellisa keenik iyyeh; yi-Rabbi Yalla iyya num qiddaanaa nummah sin Rabbih xaquk baxxaqqooqi-le astooti luk siinih amaatuk? Kaadu Nabii Muusa dirab-li yekkek kay diraabih umaané kaal gaceleeh, numma yacee num yekkek usuk sin kah xagnisaamak tuk teyná sin xagele. Diggah Yalli tirri mahaa ummaan caddok taturlih yan numuy, maggo dirablih yani.",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 470,
+  "verse_key": "40:28",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 188,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ رَجُلٞ مُّؤۡمِنٞ مِّنۡ ءَالِ فِرۡعَوۡنَ يَكۡتُمُ إِيمَٰنَهُۥٓ أَتَقۡتُلُونَ رَجُلًا أَن يَقُولَ رَبِّيَ ٱللَّهُ وَقَدۡ جَآءَكُم بِٱلۡبَيِّنَٰتِ مِن رَّبِّكُمۡۖ وَإِن يَكُ كَٰذِبٗا فَعَلَيۡهِ كَذِبُهُۥۖ وَإِن يَكُ صَادِقٗا يُصِبۡكُم بَعۡضُ ٱلَّذِي يَعِدُكُمۡۖ إِنَّ ٱللَّهَ لَا يَهۡدِي مَنۡ هُوَ مُسۡرِفٞ كَذَّابٞ",
+  "translation": "28.Firqawni buxah marak moomintuh yan numuy isi iimaan qellisa keenik iyyeh; yi-Rabbi Yalla iyya num qiddaanaa nummah sin Rabbih xaquk baxxaqqooqi-le astooti luk siinih amaatuk? Kaadu Nabii Muusa dirab-li yekkek kay diraabih umaané kaal gaceleeh, numma yacee num yekkek usuk sin kah xagnisaamak tuk teyná sin xagele. Diggah Yalli tirri mahaa ummaan caddok taturlih yan numuy, maggo dirablih yani.",
+  "footnotes": ""
 }

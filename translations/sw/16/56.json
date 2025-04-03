@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1957",
-    "sura": "16",
-    "aya": "56",
-    "arabic_text": "وَيَجۡعَلُونَ لِمَا لَا يَعۡلَمُونَ نَصِيبٗا مِّمَّا رَزَقۡنَٰهُمۡۗ تَٱللَّهِ لَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَفۡتَرُونَ",
-    "translation": "Na hao ambao hata hawawajui wanawawekea sehemu ya tunavyo waruzuku.Wallahi! Bila ya shaka mtasailiwa kwa hayo mliyo kuwa mnayazua!",
-    "footnotes": "Na washirikina huyapa masanamu yao, ambayo wanayaita kwa ujinga wao kuwa ni miungu, sehemu ya kujikaribisha kwayo kutokana na zile riziki tulizo wapa Sisi, katika makulima na mifugo na vyenginevyo. Nakuulizeni, kwa Utukufu wangu, enyi washirikina, hayo mliyo khitalifiana kwayo katika uwongo wenu na upotovu mlio uzua. Na Mimi nitakulipeni kwayo."
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 273,
+  "verse_key": "16:56",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 109,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَجۡعَلُونَ لِمَا لَا يَعۡلَمُونَ نَصِيبٗا مِّمَّا رَزَقۡنَٰهُمۡۗ تَٱللَّهِ لَتُسۡـَٔلُنَّ عَمَّا كُنتُمۡ تَفۡتَرُونَ",
+  "translation": "Na hao ambao hata hawawajui wanawawekea sehemu ya tunavyo waruzuku.Wallahi! Bila ya shaka mtasailiwa kwa hayo mliyo kuwa mnayazua!",
+  "footnotes": "Na washirikina huyapa masanamu yao, ambayo wanayaita kwa ujinga wao kuwa ni miungu, sehemu ya kujikaribisha kwayo kutokana na zile riziki tulizo wapa Sisi, katika makulima na mifugo na vyenginevyo. Nakuulizeni, kwa Utukufu wangu, enyi washirikina, hayo mliyo khitalifiana kwayo katika uwongo wenu na upotovu mlio uzua. Na Mimi nitakulipeni kwayo."
 }

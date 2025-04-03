@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2004",
-    "sura": "16",
-    "aya": "103",
-    "arabic_text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
-    "translation": "A sì kúkú ti mọ̀ pé dájúdájú wọ́n ń wí pé: “Ṣebí abara kan ló ń kọ́ ọ (ní al-Ƙur’ān).” Èdè ẹni tí wọ́n ń darí al-Ƙur’ān kọ ní ọ̀nà òdì (pé ó ń kọ́ Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a -) kì í ṣe elédè Lárúbáwá. Èdè Lárúbáwá pọ́nńbélé sì ni (al-Ƙur’ān) yìí.[1]",
-    "footnotes": "1. Ẹ wo sūrah al-’Ani‘ām; 6:105."
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 279,
+  "verse_key": "16:103",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 111,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ نَعۡلَمُ أَنَّهُمۡ يَقُولُونَ إِنَّمَا يُعَلِّمُهُۥ بَشَرٞۗ لِّسَانُ ٱلَّذِي يُلۡحِدُونَ إِلَيۡهِ أَعۡجَمِيّٞ وَهَٰذَا لِسَانٌ عَرَبِيّٞ مُّبِينٌ",
+  "translation": "A sì kúkú ti mọ̀ pé dájúdájú wọ́n ń wí pé: “Ṣebí abara kan ló ń kọ́ ọ (ní al-Ƙur’ān).” Èdè ẹni tí wọ́n ń darí al-Ƙur’ān kọ ní ọ̀nà òdì (pé ó ń kọ́ Ànábì - kí ìkẹ́ àti ọlà Allāhu máa bá a -) kì í ṣe elédè Lárúbáwá. Èdè Lárúbáwá pọ́nńbélé sì ni (al-Ƙur’ān) yìí.[1]",
+  "footnotes": "1. Ẹ wo sūrah al-’Ani‘ām; 6:105."
 }

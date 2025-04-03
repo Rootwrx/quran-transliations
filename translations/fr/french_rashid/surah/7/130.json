@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1084",
-    "sura": "7",
-    "aya": "130",
-    "arabic_text": "وَلَقَدۡ أَخَذۡنَآ ءَالَ فِرۡعَوۡنَ بِٱلسِّنِينَ وَنَقۡصٖ مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمۡ يَذَّكَّرُونَ",
-    "translation": "130 Nous avons éprouvé le peuple de Pharaon par la disette et une pénurie de récoltes afin de les amener à réfléchir.",
-    "footnotes": ""
-  }
+  "id": 130,
+  "verse_number": 130,
+  "page_number": 165,
+  "verse_key": "7:130",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 66,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أَخَذۡنَآ ءَالَ فِرۡعَوۡنَ بِٱلسِّنِينَ وَنَقۡصٖ مِّنَ ٱلثَّمَرَٰتِ لَعَلَّهُمۡ يَذَّكَّرُونَ",
+  "translation": "130 Nous avons éprouvé le peuple de Pharaon par la disette et une pénurie de récoltes afin de les amener à réfléchir.",
+  "footnotes": ""
 }

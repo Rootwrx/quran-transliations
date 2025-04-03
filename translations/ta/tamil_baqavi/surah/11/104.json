@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1577",
-    "sura": "11",
-    "aya": "104",
-    "arabic_text": "وَمَا نُؤَخِّرُهُۥٓ إِلَّا لِأَجَلٖ مَّعۡدُودٖ",
-    "translation": "104. ஒரு சொற்ப தவணைக்கே தவிர அதை நாம் பிற்படுத்தி வைக்கவில்லை.",
-    "footnotes": null
-  }
+  "id": 104,
+  "verse_number": 104,
+  "page_number": 233,
+  "verse_key": "11:104",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 93,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا نُؤَخِّرُهُۥٓ إِلَّا لِأَجَلٖ مَّعۡدُودٖ",
+  "translation": "104. ஒரு சொற்ப தவணைக்கே தவிர அதை நாம் பிற்படுத்தி வைக்கவில்லை.",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2026",
-    "sura": "16",
-    "aya": "125",
-    "arabic_text": "ٱدۡعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلۡحِكۡمَةِ وَٱلۡمَوۡعِظَةِ ٱلۡحَسَنَةِۖ وَجَٰدِلۡهُم بِٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
-    "translation": "Ka yi kira zuwa ga hanyar Ubangijinka da hikima* da wa'azi mai kyau kuma ka yi jãyayya da su da magana wadda take mafi kyau. Lalle ne Ubangijinka Shĩ neMafi sani ga wanda ya ɓãce daga hanyarSa, kuma Shi ne Mafi sani ga mãsu shiryuwa.",
-    "footnotes": "* Kira zuwa ga hanyar Ubangiji, Allah, yanã daga cikin abũbuwan kõyo daga Ibrãhĩm kuma kira zuwa ga Allah na daga cikin ni'imõmin Allah ga mai kiran da wanda ake kiran sa'an nan zaman kiran da hikima da wa'azi mai kyau, ni'ima ce ga mai yi da waɗanda ake kira zuwa ga shiriyar duka. Abin da ake cħwa Hikima shĩ ne a yi magana a kan hujja wadda abõkin husũma bã zai iya kauce mata ba."
-  }
+  "id": 125,
+  "verse_number": 125,
+  "page_number": 281,
+  "verse_key": "16:125",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 112,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱدۡعُ إِلَىٰ سَبِيلِ رَبِّكَ بِٱلۡحِكۡمَةِ وَٱلۡمَوۡعِظَةِ ٱلۡحَسَنَةِۖ وَجَٰدِلۡهُم بِٱلَّتِي هِيَ أَحۡسَنُۚ إِنَّ رَبَّكَ هُوَ أَعۡلَمُ بِمَن ضَلَّ عَن سَبِيلِهِۦ وَهُوَ أَعۡلَمُ بِٱلۡمُهۡتَدِينَ",
+  "translation": "Ka yi kira zuwa ga hanyar Ubangijinka da hikima* da wa'azi mai kyau kuma ka yi jãyayya da su da magana wadda take mafi kyau. Lalle ne Ubangijinka Shĩ neMafi sani ga wanda ya ɓãce daga hanyarSa, kuma Shi ne Mafi sani ga mãsu shiryuwa.",
+  "footnotes": "* Kira zuwa ga hanyar Ubangiji, Allah, yanã daga cikin abũbuwan kõyo daga Ibrãhĩm kuma kira zuwa ga Allah na daga cikin ni'imõmin Allah ga mai kiran da wanda ake kiran sa'an nan zaman kiran da hikima da wa'azi mai kyau, ni'ima ce ga mai yi da waɗanda ake kira zuwa ga shiriyar duka. Abin da ake cħwa Hikima shĩ ne a yi magana a kan hujja wadda abõkin husũma bã zai iya kauce mata ba."
 }

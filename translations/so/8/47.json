@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1207",
-    "sura": "8",
-    "aya": "47",
-    "arabic_text": "وَلَا تَكُونُواْ كَٱلَّذِينَ خَرَجُواْ مِن دِيَٰرِهِم بَطَرٗا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِۚ وَٱللَّهُ بِمَا يَعۡمَلُونَ مُحِيطٞ",
-    "translation": "47. Ha la mid noqonnina sidii kuwaa uga soo baxay guryahooda kibir iyo istuska dadka, oo ka hor istaaga (dadka) jidka Alle 12. Allena wuu koobaa waxay falaan.",
-    "footnotes": "12. Dagaalkooda Muslimiinta wuxuu ahaa si ay u difaacaan diinta iyo qaadasho Amarka Alle, halka gaalada ay u dagaalamayeen kibir iyo qooq iyo qabyaalad iyo arrimo jaahiliyad iyo dano adduunyo iyo faan."
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 183,
+  "verse_key": "8:47",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَكُونُواْ كَٱلَّذِينَ خَرَجُواْ مِن دِيَٰرِهِم بَطَرٗا وَرِئَآءَ ٱلنَّاسِ وَيَصُدُّونَ عَن سَبِيلِ ٱللَّهِۚ وَٱللَّهُ بِمَا يَعۡمَلُونَ مُحِيطٞ",
+  "translation": "47. Ha la mid noqonnina sidii kuwaa uga soo baxay guryahooda kibir iyo istuska dadka, oo ka hor istaaga (dadka) jidka Alle 12. Allena wuu koobaa waxay falaan.",
+  "footnotes": "12. Dagaalkooda Muslimiinta wuxuu ahaa si ay u difaacaan diinta iyo qaadasho Amarka Alle, halka gaalada ay u dagaalamayeen kibir iyo qooq iyo qabyaalad iyo arrimo jaahiliyad iyo dano adduunyo iyo faan."
 }

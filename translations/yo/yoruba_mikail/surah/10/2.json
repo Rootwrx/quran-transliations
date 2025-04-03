@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1366",
-    "sura": "10",
-    "aya": "2",
-    "arabic_text": "أَكَانَ لِلنَّاسِ عَجَبًا أَنۡ أَوۡحَيۡنَآ إِلَىٰ رَجُلٖ مِّنۡهُمۡ أَنۡ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓاْ أَنَّ لَهُمۡ قَدَمَ صِدۡقٍ عِندَ رَبِّهِمۡۗ قَالَ ٱلۡكَٰفِرُونَ إِنَّ هَٰذَا لَسَٰحِرٞ مُّبِينٌ",
-    "translation": "Ṣé ó jẹ́ kàyééfì fún àwọn ènìyàn pé A fi ìmísí ránṣẹ́ sí arákùnrin kan nínú wọn pé: “Ṣe ìkìlọ̀ fún àwọn ènìyàn, kí o sì fún àwọn tó gbàgbọ́ ní ìró ìdùnnú pé ẹ̀san rere (iṣẹ́ tí wọ́n ṣe) ṣíwájú ti wà ní ọ̀dọ̀ Olúwa wọn.”? Àwọn aláìgbàgbọ́ wí pé: “Dájúdájú òpìdán pọ́nńbélé mà ni (Ànábì) yìí.”",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 208,
+  "verse_key": "10:2",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 83,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَكَانَ لِلنَّاسِ عَجَبًا أَنۡ أَوۡحَيۡنَآ إِلَىٰ رَجُلٖ مِّنۡهُمۡ أَنۡ أَنذِرِ ٱلنَّاسَ وَبَشِّرِ ٱلَّذِينَ ءَامَنُوٓاْ أَنَّ لَهُمۡ قَدَمَ صِدۡقٍ عِندَ رَبِّهِمۡۗ قَالَ ٱلۡكَٰفِرُونَ إِنَّ هَٰذَا لَسَٰحِرٞ مُّبِينٌ",
+  "translation": "Ṣé ó jẹ́ kàyééfì fún àwọn ènìyàn pé A fi ìmísí ránṣẹ́ sí arákùnrin kan nínú wọn pé: “Ṣe ìkìlọ̀ fún àwọn ènìyàn, kí o sì fún àwọn tó gbàgbọ́ ní ìró ìdùnnú pé ẹ̀san rere (iṣẹ́ tí wọ́n ṣe) ṣíwájú ti wà ní ọ̀dọ̀ Olúwa wọn.”? Àwọn aláìgbàgbọ́ wí pé: “Dájúdájú òpìdán pọ́nńbélé mà ni (Ànábì) yìí.”",
+  "footnotes": ""
 }

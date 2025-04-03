@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5363",
-    "sura": "69",
-    "aya": "40",
-    "arabic_text": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
-    "translation": "Dájúdájú al-Ƙur’ān ni ọ̀rọ̀ (tí A fi rán) Òjíṣẹ́, alápọ̀n-ọ́nlé.[1]",
-    "footnotes": "1. Āyah yìí jọ āyah 19 nínú sūrah at-Takwīr ní ìsọ, àmọ “Òjíṣẹ́” tí wọ́n gbàlérò nínú āyah ti sūrah al-Hāƙƙọh ni Òjíṣẹ́ abara, ìyẹn Ànábì wa Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a -, Òjíṣẹ́ mọlāika ni wọ́n sì gbàlérò nínú āyah ti sūrah at-Takwīr. Sàkánì ti ìkọ̀ọ̀kan ti jẹyọ l’ó ṣàfi hàn èyí bẹ́ẹ̀."
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 568,
+  "verse_key": "69:40",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُۥ لَقَوۡلُ رَسُولٖ كَرِيمٖ",
+  "translation": "Dájúdájú al-Ƙur’ān ni ọ̀rọ̀ (tí A fi rán) Òjíṣẹ́, alápọ̀n-ọ́nlé.[1]",
+  "footnotes": "1. Āyah yìí jọ āyah 19 nínú sūrah at-Takwīr ní ìsọ, àmọ “Òjíṣẹ́” tí wọ́n gbàlérò nínú āyah ti sūrah al-Hāƙƙọh ni Òjíṣẹ́ abara, ìyẹn Ànábì wa Muhammad - kí ìkẹ́ àti ọlà Allāhu máa bá a -, Òjíṣẹ́ mọlāika ni wọ́n sì gbàlérò nínú āyah ti sūrah at-Takwīr. Sàkánì ti ìkọ̀ọ̀kan ti jẹyọ l’ó ṣàfi hàn èyí bẹ́ẹ̀."
 }

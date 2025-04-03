@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2566",
-    "sura": "21",
-    "aya": "83",
-    "arabic_text": "۞ وَأَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
-    "translation": "(Ẹ rántí Ànábì) ’Ayyūb, nígbà tí ó pe Olúwa rẹ̀ pé: “Dájúdájú ọwọ́ ìnira ti kàn mí. Ìwọ sì ni Aláàánú jùlọ nínú àwọn aláàánú.”",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 329,
+  "verse_key": "21:83",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 132,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَأَيُّوبَ إِذۡ نَادَىٰ رَبَّهُۥٓ أَنِّي مَسَّنِيَ ٱلضُّرُّ وَأَنتَ أَرۡحَمُ ٱلرَّٰحِمِينَ",
+  "translation": "(Ẹ rántí Ànábì) ’Ayyūb, nígbà tí ó pe Olúwa rẹ̀ pé: “Dájúdájú ọwọ́ ìnira ti kàn mí. Ìwọ sì ni Aláàánú jùlọ nínú àwọn aláàánú.”",
+  "footnotes": ""
 }

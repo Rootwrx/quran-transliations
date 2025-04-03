@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4995",
-    "sura": "56",
-    "aya": "16",
-    "arabic_text": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
-    "translation": "その上に寄りかかって、互いに向かい合いつつ。[1]",
-    "footnotes": "[1]　アル＝ヒジュル章４７の訳注を参照。"
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 534,
+  "verse_key": "56:16",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 214,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مُّتَّكِـِٔينَ عَلَيۡهَا مُتَقَٰبِلِينَ",
+  "translation": "その上に寄りかかって、互いに向かい合いつつ。[1]",
+  "footnotes": "[1]　アル＝ヒジュル章４７の訳注を参照。"
 }

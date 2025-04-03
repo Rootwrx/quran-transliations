@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "371",
-    "sura": "3",
-    "aya": "78",
-    "arabic_text": "وَإِنَّ مِنۡهُمۡ لَفَرِيقٗا يَلۡوُۥنَ أَلۡسِنَتَهُم بِٱلۡكِتَٰبِ لِتَحۡسَبُوهُ مِنَ ٱلۡكِتَٰبِ وَمَا هُوَ مِنَ ٱلۡكِتَٰبِ وَيَقُولُونَ هُوَ مِنۡ عِندِ ٱللَّهِ وَمَا هُوَ مِنۡ عِندِ ٱللَّهِۖ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ",
-    "translation": "Quả thật, một nhóm trong bọn họ đã bóp méo Kinh Sách bằng chiếc lưỡi của họ. (Cho nên khi đọc), các ngươi cứ tưởng đó là điều nằm trong Kinh Sách nhưng thực chất nó không thuộc về Kinh Sách. Họ bảo đó là điều từ nơi Allah nhưng thực chất không phải đến từ nơi Allah. Họ nói dối cho Allah trong lúc họ biết rõ (sự thật).",
-    "footnotes": ""
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 60,
+  "verse_key": "3:78",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 24,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ مِنۡهُمۡ لَفَرِيقٗا يَلۡوُۥنَ أَلۡسِنَتَهُم بِٱلۡكِتَٰبِ لِتَحۡسَبُوهُ مِنَ ٱلۡكِتَٰبِ وَمَا هُوَ مِنَ ٱلۡكِتَٰبِ وَيَقُولُونَ هُوَ مِنۡ عِندِ ٱللَّهِ وَمَا هُوَ مِنۡ عِندِ ٱللَّهِۖ وَيَقُولُونَ عَلَى ٱللَّهِ ٱلۡكَذِبَ وَهُمۡ يَعۡلَمُونَ",
+  "translation": "Quả thật, một nhóm trong bọn họ đã bóp méo Kinh Sách bằng chiếc lưỡi của họ. (Cho nên khi đọc), các ngươi cứ tưởng đó là điều nằm trong Kinh Sách nhưng thực chất nó không thuộc về Kinh Sách. Họ bảo đó là điều từ nơi Allah nhưng thực chất không phải đến từ nơi Allah. Họ nói dối cho Allah trong lúc họ biết rõ (sự thật).",
+  "footnotes": ""
 }

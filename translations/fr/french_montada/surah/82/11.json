@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5840",
-    "sura": "82",
-    "aya": "11",
-    "arabic_text": "كِرَامٗا كَٰتِبِينَ",
-    "translation": "11. qui sont de nobles scripteurs,[597]",
-    "footnotes": "[597] Sur le choix de ce mot, au lieu de « scribe » ou « écrivain », voir la note 105. "
-  }
+  "id": 11,
+  "verse_number": 11,
+  "page_number": 587,
+  "verse_key": "82:11",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كِرَامٗا كَٰتِبِينَ",
+  "translation": "11. qui sont de nobles scripteurs,[597]",
+  "footnotes": "[597] Sur le choix de ce mot, au lieu de « scribe » ou « écrivain », voir la note 105. "
 }

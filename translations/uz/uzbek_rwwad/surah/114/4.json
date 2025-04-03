@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6234",
-    "sura": "114",
-    "aya": "4",
-    "arabic_text": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
-    "translation": "Яшириниб олган васвасачининг ёмонлигидан.",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 604,
+  "verse_key": "114:4",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مِن شَرِّ ٱلۡوَسۡوَاسِ ٱلۡخَنَّاسِ",
+  "translation": "Яшириниб олган васвасачининг ёмонлигидан.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5710",
-    "sura": "78",
-    "aya": "38",
-    "arabic_text": "يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابٗا",
-    "translation": "On the Day when the Spirit and the angels will stand in rows; none will dare to speak, except those to whom the Most Compassionate granted permission, and they will only speak the truth.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 583,
+  "verse_key": "78:38",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَقُومُ ٱلرُّوحُ وَٱلۡمَلَٰٓئِكَةُ صَفّٗاۖ لَّا يَتَكَلَّمُونَ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَقَالَ صَوَابٗا",
+  "translation": "On the Day when the Spirit and the angels will stand in rows; none will dare to speak, except those to whom the Most Compassionate granted permission, and they will only speak the truth.",
+  "footnotes": ""
 }

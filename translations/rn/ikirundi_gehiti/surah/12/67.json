@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1663",
-    "sura": "12",
-    "aya": "67",
-    "arabic_text": "وَقَالَ يَٰبَنِيَّ لَا تَدۡخُلُواْ مِنۢ بَابٖ وَٰحِدٖ وَٱدۡخُلُواْ مِنۡ أَبۡوَٰبٖ مُّتَفَرِّقَةٖۖ وَمَآ أُغۡنِي عَنكُم مِّنَ ٱللَّهِ مِن شَيۡءٍۖ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِۖ عَلَيۡهِ تَوَكَّلۡتُۖ وَعَلَيۡهِ فَلۡيَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ",
-    "translation": "Hageze ko basubira muri Misiri rero, se wabo yabatekereye impanuro avuga ati: “Bane banje! Nimwaramuka mugeze muri Misiri, ntimuzokwinjire muciye mu muryango umwe, ahubwo murinjirira mu miryango itandukanye kugira mwikingire ijisho ribi. Hamwe n’uko ndabahaye izo mpanuro, nta cobuza ko mudashikirwa n’ivyagezwe vy’Imana Allah, kandi nta co mpinduramwo ngo ngire ico ndabamariye. Burya, nta ngingo ija mu ngiro ku biremwa, kiretse ko iva ku Mana Allah, ni Yo nishimikije kandi nizeye, abizera rero nibayishimikize bayizere”.",
-    "footnotes": ""
-  }
+  "id": 67,
+  "verse_number": 67,
+  "page_number": 243,
+  "verse_key": "12:67",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ يَٰبَنِيَّ لَا تَدۡخُلُواْ مِنۢ بَابٖ وَٰحِدٖ وَٱدۡخُلُواْ مِنۡ أَبۡوَٰبٖ مُّتَفَرِّقَةٖۖ وَمَآ أُغۡنِي عَنكُم مِّنَ ٱللَّهِ مِن شَيۡءٍۖ إِنِ ٱلۡحُكۡمُ إِلَّا لِلَّهِۖ عَلَيۡهِ تَوَكَّلۡتُۖ وَعَلَيۡهِ فَلۡيَتَوَكَّلِ ٱلۡمُتَوَكِّلُونَ",
+  "translation": "Hageze ko basubira muri Misiri rero, se wabo yabatekereye impanuro avuga ati: “Bane banje! Nimwaramuka mugeze muri Misiri, ntimuzokwinjire muciye mu muryango umwe, ahubwo murinjirira mu miryango itandukanye kugira mwikingire ijisho ribi. Hamwe n’uko ndabahaye izo mpanuro, nta cobuza ko mudashikirwa n’ivyagezwe vy’Imana Allah, kandi nta co mpinduramwo ngo ngire ico ndabamariye. Burya, nta ngingo ija mu ngiro ku biremwa, kiretse ko iva ku Mana Allah, ni Yo nishimikije kandi nizeye, abizera rero nibayishimikize bayizere”.",
+  "footnotes": ""
 }

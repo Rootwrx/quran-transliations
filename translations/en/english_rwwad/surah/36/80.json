@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3785",
-    "sura": "36",
-    "aya": "80",
-    "arabic_text": "ٱلَّذِي جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلۡأَخۡضَرِ نَارٗا فَإِذَآ أَنتُم مِّنۡهُ تُوقِدُونَ",
-    "translation": "the One Who made for you fire out of the green tree, with which you kindle your fires[25].”",
-    "footnotes": "[25] It alludes to the \"markh\" and \"‘afār\" trees in Arabia, whose green branches if struck against each other, it produces sparks."
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 445,
+  "verse_key": "36:80",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 178,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِي جَعَلَ لَكُم مِّنَ ٱلشَّجَرِ ٱلۡأَخۡضَرِ نَارٗا فَإِذَآ أَنتُم مِّنۡهُ تُوقِدُونَ",
+  "translation": "the One Who made for you fire out of the green tree, with which you kindle your fires[25].”",
+  "footnotes": "[25] It alludes to the \"markh\" and \"‘afār\" trees in Arabia, whose green branches if struck against each other, it produces sparks."
 }

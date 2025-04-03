@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5200",
-    "sura": "64",
-    "aya": "1",
-    "arabic_text": "يُسَبِّحُ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ لَهُ ٱلۡمُلۡكُ وَلَهُ ٱلۡحَمۡدُۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
-    "translation": "1. Waxaa Xurma weyneeya oo (xumaan ka) hufa Alle waxa ku sugan samooyinka iyo waxa ku sugan arlada. Alle baana leh Boqortooyada, oo leh Ammaan idilkeed iyo Mahad, oo wax walba Kara.",
-    "footnotes": "1. Waxaa loola jeedaa in lagaaga hormaray oo lagaa qaatay wax aad u qiimo badan. Waa gaalada markay guuldarreystaan, oo mu’miniintu liibaanaan."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 556,
+  "verse_key": "64:1",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُسَبِّحُ لِلَّهِ مَا فِي ٱلسَّمَٰوَٰتِ وَمَا فِي ٱلۡأَرۡضِۖ لَهُ ٱلۡمُلۡكُ وَلَهُ ٱلۡحَمۡدُۖ وَهُوَ عَلَىٰ كُلِّ شَيۡءٖ قَدِيرٌ",
+  "translation": "1. Waxaa Xurma weyneeya oo (xumaan ka) hufa Alle waxa ku sugan samooyinka iyo waxa ku sugan arlada. Alle baana leh Boqortooyada, oo leh Ammaan idilkeed iyo Mahad, oo wax walba Kara.",
+  "footnotes": "1. Waxaa loola jeedaa in lagaaga hormaray oo lagaa qaatay wax aad u qiimo badan. Waa gaalada markay guuldarreystaan, oo mu’miniintu liibaanaan."
 }

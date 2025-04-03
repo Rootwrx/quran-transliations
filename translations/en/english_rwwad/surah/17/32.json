@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2061",
-    "sura": "17",
-    "aya": "32",
-    "arabic_text": "وَلَا تَقۡرَبُواْ ٱلزِّنَىٰٓۖ إِنَّهُۥ كَانَ فَٰحِشَةٗ وَسَآءَ سَبِيلٗا",
-    "translation": "Do not go near adultery[31], for it is indeed a shameful act and an evil way.",
-    "footnotes": "[31] i.e., avoid all things that might lead to it."
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 285,
+  "verse_key": "17:32",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تَقۡرَبُواْ ٱلزِّنَىٰٓۖ إِنَّهُۥ كَانَ فَٰحِشَةٗ وَسَآءَ سَبِيلٗا",
+  "translation": "Do not go near adultery[31], for it is indeed a shameful act and an evil way.",
+  "footnotes": "[31] i.e., avoid all things that might lead to it."
 }

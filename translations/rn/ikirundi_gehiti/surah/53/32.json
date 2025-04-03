@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4816",
-    "sura": "53",
-    "aya": "32",
-    "arabic_text": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ",
-    "translation": "Abirinda gukora ivyaha rutura be n’ibicumuro, kiretse ibicumuro bitobito bidakorwa n’ibigirankana canke bigakorwa gake kabaho, ivyo biraheza bigahunguruka mu gihe umuntu yubahirije amabwirizwa y’ibisabwa n’ibibujijwe gukora; mu vy’ukuri Imana yawe Rurema Allah, Iragumiriza akabanga umuntu Ikamubabarira ibicumuro, ni na Yo rero Izi cane ukuntu mubayeho kuva aho Iremeye so wanyu Adamu mw’ivu, n’igihe muba mukiri mu mbanyi z’abavyeyi banyu. Ntimukiyeze rero ko muri abagamburutsi, burya Imana Allah, ni Yo Izi na canecane uwikingira ibihano vyayo mu kwirinda gukora ibibujijwe.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 527,
+  "verse_key": "53:32",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلَّذِينَ يَجۡتَنِبُونَ كَبَٰٓئِرَ ٱلۡإِثۡمِ وَٱلۡفَوَٰحِشَ إِلَّا ٱللَّمَمَۚ إِنَّ رَبَّكَ وَٰسِعُ ٱلۡمَغۡفِرَةِۚ هُوَ أَعۡلَمُ بِكُمۡ إِذۡ أَنشَأَكُم مِّنَ ٱلۡأَرۡضِ وَإِذۡ أَنتُمۡ أَجِنَّةٞ فِي بُطُونِ أُمَّهَٰتِكُمۡۖ فَلَا تُزَكُّوٓاْ أَنفُسَكُمۡۖ هُوَ أَعۡلَمُ بِمَنِ ٱتَّقَىٰٓ",
+  "translation": "Abirinda gukora ivyaha rutura be n’ibicumuro, kiretse ibicumuro bitobito bidakorwa n’ibigirankana canke bigakorwa gake kabaho, ivyo biraheza bigahunguruka mu gihe umuntu yubahirije amabwirizwa y’ibisabwa n’ibibujijwe gukora; mu vy’ukuri Imana yawe Rurema Allah, Iragumiriza akabanga umuntu Ikamubabarira ibicumuro, ni na Yo rero Izi cane ukuntu mubayeho kuva aho Iremeye so wanyu Adamu mw’ivu, n’igihe muba mukiri mu mbanyi z’abavyeyi banyu. Ntimukiyeze rero ko muri abagamburutsi, burya Imana Allah, ni Yo Izi na canecane uwikingira ibihano vyayo mu kwirinda gukora ibibujijwe.",
+  "footnotes": ""
 }

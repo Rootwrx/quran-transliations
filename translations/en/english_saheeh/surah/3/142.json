@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "435",
-    "sura": "3",
-    "aya": "142",
-    "arabic_text": "أَمۡ حَسِبۡتُمۡ أَن تَدۡخُلُواْ ٱلۡجَنَّةَ وَلَمَّا يَعۡلَمِ ٱللَّهُ ٱلَّذِينَ جَٰهَدُواْ مِنكُمۡ وَيَعۡلَمَ ٱلصَّٰبِرِينَ",
-    "translation": "(142) Or do you think that you will enter Paradise while Allāh has not yet made evident those of you who fight in His cause and made evident those who are steadfast?",
-    "footnotes": ""
-  }
+  "id": 142,
+  "verse_number": 142,
+  "page_number": 68,
+  "verse_key": "3:142",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ حَسِبۡتُمۡ أَن تَدۡخُلُواْ ٱلۡجَنَّةَ وَلَمَّا يَعۡلَمِ ٱللَّهُ ٱلَّذِينَ جَٰهَدُواْ مِنكُمۡ وَيَعۡلَمَ ٱلصَّٰبِرِينَ",
+  "translation": "(142) Or do you think that you will enter Paradise while Allāh has not yet made evident those of you who fight in His cause and made evident those who are steadfast?",
+  "footnotes": ""
 }

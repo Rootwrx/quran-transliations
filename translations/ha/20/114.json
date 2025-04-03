@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2462",
-    "sura": "20",
-    "aya": "114",
-    "arabic_text": "فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۗ وَلَا تَعۡجَلۡ بِٱلۡقُرۡءَانِ مِن قَبۡلِ أَن يُقۡضَىٰٓ إِلَيۡكَ وَحۡيُهُۥۖ وَقُل رَّبِّ زِدۡنِي عِلۡمٗا",
-    "translation": "Sa'an nan Allah Mamallaki, Tabbatacce Yã ɗaukaka. Kuma kada ka yi gaggãwa* da Alƙur'ãni a gabãnin a ƙãre wahayinsa zuwa gare ka. Kuma ka ce: \"Yã Ubangiji! Ka ƙãra mini ilmi.\"",
-    "footnotes": "* Allah Ya umurci Annabi da ya bar gaggãwar karatun Alƙur'ãni a lõkacin da ake yin wahayinsa zuwa gare shi, dõmin kada ya wahala dõmin sũrar tanã karantar da cewa addinin Musulunci sauƙi ne, bai zo dõmin ya wahalar ba. Kuma tsõron yin kuskure yanã sanya yin kuskure mai jãwo wahala kamar yadda Ãdamu ya yi gaggãwar ga tsoron umurnin Allah, sai ya yi mantuwa, ya yi abin da aka hana shi har masifa ta sãmu aka fitar da shi daga Aljanna."
-  }
+  "id": 114,
+  "verse_number": 114,
+  "page_number": 320,
+  "verse_key": "20:114",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَتَعَٰلَى ٱللَّهُ ٱلۡمَلِكُ ٱلۡحَقُّۗ وَلَا تَعۡجَلۡ بِٱلۡقُرۡءَانِ مِن قَبۡلِ أَن يُقۡضَىٰٓ إِلَيۡكَ وَحۡيُهُۥۖ وَقُل رَّبِّ زِدۡنِي عِلۡمٗا",
+  "translation": "Sa'an nan Allah Mamallaki, Tabbatacce Yã ɗaukaka. Kuma kada ka yi gaggãwa* da Alƙur'ãni a gabãnin a ƙãre wahayinsa zuwa gare ka. Kuma ka ce: \"Yã Ubangiji! Ka ƙãra mini ilmi.\"",
+  "footnotes": "* Allah Ya umurci Annabi da ya bar gaggãwar karatun Alƙur'ãni a lõkacin da ake yin wahayinsa zuwa gare shi, dõmin kada ya wahala dõmin sũrar tanã karantar da cewa addinin Musulunci sauƙi ne, bai zo dõmin ya wahalar ba. Kuma tsõron yin kuskure yanã sanya yin kuskure mai jãwo wahala kamar yadda Ãdamu ya yi gaggãwar ga tsoron umurnin Allah, sai ya yi mantuwa, ya yi abin da aka hana shi har masifa ta sãmu aka fitar da shi daga Aljanna."
 }

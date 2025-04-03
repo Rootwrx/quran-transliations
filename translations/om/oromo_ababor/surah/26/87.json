@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3019",
-    "sura": "26",
-    "aya": "87",
-    "arabic_text": "وَلَا تُخۡزِنِي يَوۡمَ يُبۡعَثُونَ",
-    "translation": "Guyyaa isaan (gabroonni) kaafaman na hin xinneessin.”",
-    "footnotes": ""
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 371,
+  "verse_key": "26:87",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَا تُخۡزِنِي يَوۡمَ يُبۡعَثُونَ",
+  "translation": "Guyyaa isaan (gabroonni) kaafaman na hin xinneessin.”",
+  "footnotes": ""
 }

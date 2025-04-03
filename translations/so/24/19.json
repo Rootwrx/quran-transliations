@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2810",
-    "sura": "24",
-    "aya": "19",
-    "arabic_text": "إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلۡفَٰحِشَةُ فِي ٱلَّذِينَ ءَامَنُواْ لَهُمۡ عَذَابٌ أَلِيمٞ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ",
-    "translation": "19. Kuwa jecel inay xumaantu9 ku faafto mu’miniinta dhexdooda, waxay leeyihiin cadaab xanuun badan adduun iyo Aakhiraba. Alle baana Og, idinkuna ma ogidin10.",
-    "footnotes": "9. Waxaa gaar ahaan loola jeedaa zinada iyo xiriirrada xun ee aan bannaaeyn: galmada xaaraanta ah. \n10. Arrimaha qarsoon ee wax waliba: Waxa wanaagsan ee dani ku jirto iyo faa’idada iyo waxa xun ee dhibaatada leh."
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 351,
+  "verse_key": "24:19",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 140,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ يُحِبُّونَ أَن تَشِيعَ ٱلۡفَٰحِشَةُ فِي ٱلَّذِينَ ءَامَنُواْ لَهُمۡ عَذَابٌ أَلِيمٞ فِي ٱلدُّنۡيَا وَٱلۡأٓخِرَةِۚ وَٱللَّهُ يَعۡلَمُ وَأَنتُمۡ لَا تَعۡلَمُونَ",
+  "translation": "19. Kuwa jecel inay xumaantu9 ku faafto mu’miniinta dhexdooda, waxay leeyihiin cadaab xanuun badan adduun iyo Aakhiraba. Alle baana Og, idinkuna ma ogidin10.",
+  "footnotes": "9. Waxaa gaar ahaan loola jeedaa zinada iyo xiriirrada xun ee aan bannaaeyn: galmada xaaraanta ah. \n10. Arrimaha qarsoon ee wax waliba: Waxa wanaagsan ee dani ku jirto iyo faa’idada iyo waxa xun ee dhibaatada leh."
 }

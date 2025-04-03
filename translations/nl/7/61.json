@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1015",
-    "sura": "7",
-    "aya": "61",
-    "arabic_text": "قَالَ يَٰقَوۡمِ لَيۡسَ بِي ضَلَٰلَةٞ وَلَٰكِنِّي رَسُولٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "61. (Noeh) zei: “O mijn volk! Ik verkeer niet in dwaling, maar ik ben een boodschapper van de Heer van de wereldwezens!",
-    "footnotes": ""
-  }
+  "id": 61,
+  "verse_number": 61,
+  "page_number": 158,
+  "verse_key": "7:61",
+  "juz_number": 8,
+  "hizb_number": 16,
+  "rub_el_hizb_number": 63,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ يَٰقَوۡمِ لَيۡسَ بِي ضَلَٰلَةٞ وَلَٰكِنِّي رَسُولٞ مِّن رَّبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "61. (Noeh) zei: “O mijn volk! Ik verkeer niet in dwaling, maar ik ben een boodschapper van de Heer van de wereldwezens!",
+  "footnotes": ""
 }

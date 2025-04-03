@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5414",
-    "sura": "70",
-    "aya": "39",
-    "arabic_text": "كَلَّآۖ إِنَّا خَلَقۡنَٰهُم مِّمَّا يَعۡلَمُونَ",
-    "translation": "Nibateshwe bate, barahumba! Si nk’uko bavyipfuza, ntibazopfa babwinjiye. Mu vy’ukuri Twebwe Allah, Twabaremye mu mazi y’intanga bazi.",
-    "footnotes": ""
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 569,
+  "verse_key": "70:39",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَلَّآۖ إِنَّا خَلَقۡنَٰهُم مِّمَّا يَعۡلَمُونَ",
+  "translation": "Nibateshwe bate, barahumba! Si nk’uko bavyipfuza, ntibazopfa babwinjiye. Mu vy’ukuri Twebwe Allah, Twabaremye mu mazi y’intanga bazi.",
+  "footnotes": ""
 }

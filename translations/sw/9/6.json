@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1241",
-    "sura": "9",
-    "aya": "6",
-    "arabic_text": "وَإِنۡ أَحَدٞ مِّنَ ٱلۡمُشۡرِكِينَ ٱسۡتَجَارَكَ فَأَجِرۡهُ حَتَّىٰ يَسۡمَعَ كَلَٰمَ ٱللَّهِ ثُمَّ أَبۡلِغۡهُ مَأۡمَنَهُۥۚ ذَٰلِكَ بِأَنَّهُمۡ قَوۡمٞ لَّا يَعۡلَمُونَ",
-    "translation": "Na ikiwa mmoja wapo katika washirikina akikuomba ulinzi, basi mpe ulinzi apate kusikia maneno ya Mwenyezi Mungu. Kisha mfikishe pahala pake pa amani. Haya ni kwa kuwa hao ni watu wasiojua kitu.",
-    "footnotes": "Ewe Mtume! Mmoja wapo katika washirikina ulio amrishwa uwapige vita, akikutaka amani ili apate kusikia wito wako, basi mpe amani mpaka asikie maneno ya Mwenyezi Mungu. Akiingia katika Uislamu basi huyo ni mwenzenu. Na akitoingia mpeleke mpaka afike pahala pa amani kwake. Na haya ya kumpa ulinzi na amani mwenye kuomba ili asikie maneno ya Mwenyezi Mungu ni kwa sababu ya ule ujinga wake wa kutoujua Uislamu ulio kwisha dhihiri, na ile hamu yake ya kutaka kuujua."
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 187,
+  "verse_key": "9:6",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنۡ أَحَدٞ مِّنَ ٱلۡمُشۡرِكِينَ ٱسۡتَجَارَكَ فَأَجِرۡهُ حَتَّىٰ يَسۡمَعَ كَلَٰمَ ٱللَّهِ ثُمَّ أَبۡلِغۡهُ مَأۡمَنَهُۥۚ ذَٰلِكَ بِأَنَّهُمۡ قَوۡمٞ لَّا يَعۡلَمُونَ",
+  "translation": "Na ikiwa mmoja wapo katika washirikina akikuomba ulinzi, basi mpe ulinzi apate kusikia maneno ya Mwenyezi Mungu. Kisha mfikishe pahala pake pa amani. Haya ni kwa kuwa hao ni watu wasiojua kitu.",
+  "footnotes": "Ewe Mtume! Mmoja wapo katika washirikina ulio amrishwa uwapige vita, akikutaka amani ili apate kusikia wito wako, basi mpe amani mpaka asikie maneno ya Mwenyezi Mungu. Akiingia katika Uislamu basi huyo ni mwenzenu. Na akitoingia mpeleke mpaka afike pahala pa amani kwake. Na haya ya kumpa ulinzi na amani mwenye kuomba ili asikie maneno ya Mwenyezi Mungu ni kwa sababu ya ule ujinga wake wa kutoujua Uislamu ulio kwisha dhihiri, na ile hamu yake ya kutaka kuujua."
 }

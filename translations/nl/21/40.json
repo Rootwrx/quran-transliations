@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2523",
-    "sura": "21",
-    "aya": "40",
-    "arabic_text": "بَلۡ تَأۡتِيهِم بَغۡتَةٗ فَتَبۡهَتُهُمۡ فَلَا يَسۡتَطِيعُونَ رَدَّهَا وَلَا هُمۡ يُنظَرُونَ",
-    "translation": "40. Nee, het zal plotseling over hen komen en zal hen perplex overweldigen en zij hebben geen macht om het te ontwijken, noch zullen zij uitstel krijgen.",
-    "footnotes": ""
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 325,
+  "verse_key": "21:40",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 130,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ تَأۡتِيهِم بَغۡتَةٗ فَتَبۡهَتُهُمۡ فَلَا يَسۡتَطِيعُونَ رَدَّهَا وَلَا هُمۡ يُنظَرُونَ",
+  "translation": "40. Nee, het zal plotseling over hen komen en zal hen perplex overweldigen en zij hebben geen macht om het te ontwijken, noch zullen zij uitstel krijgen.",
+  "footnotes": ""
 }

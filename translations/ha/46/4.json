@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4514",
-    "sura": "46",
-    "aya": "4",
-    "arabic_text": "قُلۡ أَرَءَيۡتُم مَّا تَدۡعُونَ مِن دُونِ ٱللَّهِ أَرُونِي مَاذَا خَلَقُواْ مِنَ ٱلۡأَرۡضِ أَمۡ لَهُمۡ شِرۡكٞ فِي ٱلسَّمَٰوَٰتِۖ ٱئۡتُونِي بِكِتَٰبٖ مِّن قَبۡلِ هَٰذَآ أَوۡ أَثَٰرَةٖ مِّنۡ عِلۡمٍ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "Ka ce: \"Shin, kun gani, abin da kuke kira, wanda yake baicin Allah? Ku nũna mini, menene suka halitta daga ƙasa? Kõ kuwa sunã da tãrayya a cikin sammai? Ku zo mini da wani littãfi na gabãnin wannan (Alƙur'ãni) kõ wata alãma daga wani ilmi, idan kun kasance mãsu gaskiya.\"",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 502,
+  "verse_key": "46:4",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 201,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ أَرَءَيۡتُم مَّا تَدۡعُونَ مِن دُونِ ٱللَّهِ أَرُونِي مَاذَا خَلَقُواْ مِنَ ٱلۡأَرۡضِ أَمۡ لَهُمۡ شِرۡكٞ فِي ٱلسَّمَٰوَٰتِۖ ٱئۡتُونِي بِكِتَٰبٖ مِّن قَبۡلِ هَٰذَآ أَوۡ أَثَٰرَةٖ مِّنۡ عِلۡمٍ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "Ka ce: \"Shin, kun gani, abin da kuke kira, wanda yake baicin Allah? Ku nũna mini, menene suka halitta daga ƙasa? Kõ kuwa sunã da tãrayya a cikin sammai? Ku zo mini da wani littãfi na gabãnin wannan (Alƙur'ãni) kõ wata alãma daga wani ilmi, idan kun kasance mãsu gaskiya.\"",
+  "footnotes": ""
 }

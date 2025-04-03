@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3098",
-    "sura": "26",
-    "aya": "166",
-    "arabic_text": "وَتَذَرُونَ مَا خَلَقَ لَكُمۡ رَبُّكُم مِّنۡ أَزۡوَٰجِكُمۚ بَلۡ أَنتُمۡ قَوۡمٌ عَادُونَ",
-    "translation": "(166) And leave what your Lord has created for you as mates? But you are a people transgressing.\"",
-    "footnotes": ""
-  }
+  "id": 166,
+  "verse_number": 166,
+  "page_number": 374,
+  "verse_key": "26:166",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَذَرُونَ مَا خَلَقَ لَكُمۡ رَبُّكُم مِّنۡ أَزۡوَٰجِكُمۚ بَلۡ أَنتُمۡ قَوۡمٌ عَادُونَ",
+  "translation": "(166) And leave what your Lord has created for you as mates? But you are a people transgressing.\"",
+  "footnotes": ""
 }

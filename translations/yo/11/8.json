@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1481",
-    "sura": "11",
-    "aya": "8",
-    "arabic_text": "وَلَئِنۡ أَخَّرۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِلَىٰٓ أُمَّةٖ مَّعۡدُودَةٖ لَّيَقُولُنَّ مَا يَحۡبِسُهُۥٓۗ أَلَا يَوۡمَ يَأۡتِيهِمۡ لَيۡسَ مَصۡرُوفًا عَنۡهُمۡ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
-    "translation": "Dájúdájú tí A bá sún ìyà ṣíwájú fún wọn di ìgbà tó ní òǹkà, dájúdájú wọn yóò wí pé: “Kí ló ń dá a dúró ná?” Gbọ́, ní ọjọ́ tí ìyà yóò dé bá wọn, kò níí ṣe é gbé kúrò fún wọn. Àti pé ohun tí wọ́n ń fi ṣe yẹ̀yẹ́ sì máa dìyà tó máa yí wọn po.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 222,
+  "verse_key": "11:8",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 89,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَئِنۡ أَخَّرۡنَا عَنۡهُمُ ٱلۡعَذَابَ إِلَىٰٓ أُمَّةٖ مَّعۡدُودَةٖ لَّيَقُولُنَّ مَا يَحۡبِسُهُۥٓۗ أَلَا يَوۡمَ يَأۡتِيهِمۡ لَيۡسَ مَصۡرُوفًا عَنۡهُمۡ وَحَاقَ بِهِم مَّا كَانُواْ بِهِۦ يَسۡتَهۡزِءُونَ",
+  "translation": "Dájúdájú tí A bá sún ìyà ṣíwájú fún wọn di ìgbà tó ní òǹkà, dájúdájú wọn yóò wí pé: “Kí ló ń dá a dúró ná?” Gbọ́, ní ọjọ́ tí ìyà yóò dé bá wọn, kò níí ṣe é gbé kúrò fún wọn. Àti pé ohun tí wọ́n ń fi ṣe yẹ̀yẹ́ sì máa dìyà tó máa yí wọn po.",
+  "footnotes": ""
 }

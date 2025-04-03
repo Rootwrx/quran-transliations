@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1205",
-    "sura": "8",
-    "aya": "45",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمۡ فِئَةٗ فَٱثۡبُتُواْ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ",
-    "translation": "Yã ku waɗanda suka yi ĩmãni! Idan kun haɗu da wata ƙungiyar yãƙi, to, ku tabbata, kuma ku ambaci* Allah da yawa, tsammãninku kunã cin nasara.",
-    "footnotes": "* Ambaton Allah bayyane yã fi kyau a wurin yãƙi da wurin harama da hajji kõ umra, kuma da lõkacin da ake fitã zuwa ga masallacin ĩdi. Wurin da bã waɗannan wurãre uku ba, ambaton Allah, ya zama asirce yã fi kyau."
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 182,
+  "verse_key": "8:45",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 73,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ إِذَا لَقِيتُمۡ فِئَةٗ فَٱثۡبُتُواْ وَٱذۡكُرُواْ ٱللَّهَ كَثِيرٗا لَّعَلَّكُمۡ تُفۡلِحُونَ",
+  "translation": "Yã ku waɗanda suka yi ĩmãni! Idan kun haɗu da wata ƙungiyar yãƙi, to, ku tabbata, kuma ku ambaci* Allah da yawa, tsammãninku kunã cin nasara.",
+  "footnotes": "* Ambaton Allah bayyane yã fi kyau a wurin yãƙi da wurin harama da hajji kõ umra, kuma da lõkacin da ake fitã zuwa ga masallacin ĩdi. Wurin da bã waɗannan wurãre uku ba, ambaton Allah, ya zama asirce yã fi kyau."
 }

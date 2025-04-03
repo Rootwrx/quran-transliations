@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2820",
-    "sura": "24",
-    "aya": "29",
-    "arabic_text": "لَّيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَدۡخُلُواْ بُيُوتًا غَيۡرَ مَسۡكُونَةٖ فِيهَا مَتَٰعٞ لَّكُمۡۚ وَٱللَّهُ يَعۡلَمُ مَا تُبۡدُونَ وَمَا تَكۡتُمُونَ",
-    "translation": "İçərisində əşyanız olan, yaşayış olmayan evlərə (icazəsiz) daxil olmaq sizə günah deyildir. Allah sizin aşkara çıxardığınızı da, gizlində saxladığınızı da bilir.",
-    "footnotes": ""
-  }
+  "id": 29,
+  "verse_number": 29,
+  "page_number": 353,
+  "verse_key": "24:29",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 141,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّيۡسَ عَلَيۡكُمۡ جُنَاحٌ أَن تَدۡخُلُواْ بُيُوتًا غَيۡرَ مَسۡكُونَةٖ فِيهَا مَتَٰعٞ لَّكُمۡۚ وَٱللَّهُ يَعۡلَمُ مَا تُبۡدُونَ وَمَا تَكۡتُمُونَ",
+  "translation": "İçərisində əşyanız olan, yaşayış olmayan evlərə (icazəsiz) daxil olmaq sizə günah deyildir. Allah sizin aşkara çıxardığınızı da, gizlində saxladığınızı da bilir.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5388",
-    "sura": "70",
-    "aya": "13",
-    "arabic_text": "وَفَصِيلَتِهِ ٱلَّتِي تُـٔۡوِيهِ",
-    "translation": "Уни ўз паноҳига олган қабиласини ҳам.",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 569,
+  "verse_key": "70:13",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفَصِيلَتِهِ ٱلَّتِي تُـٔۡوِيهِ",
+  "translation": "Уни ўз паноҳига олган қабиласини ҳам.",
+  "footnotes": ""
 }

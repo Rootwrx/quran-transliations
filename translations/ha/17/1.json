@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2030",
-    "sura": "17",
-    "aya": "1",
-    "arabic_text": "سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِي بَٰرَكۡنَا حَوۡلَهُۥ لِنُرِيَهُۥ مِنۡ ءَايَٰتِنَآۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
-    "translation": "Tsarki ya tabbata ga wanda Ya yi tafiyar dare* da bãwanSa da dare daga Masallaci mai alfarma zuwa ga Masallaci mafi nĩsa** wanda Muka sanya albarka a gefensa dõmin Mu nũna masa daga ãyõyinMu. Lalle ne Shi shĩ ne Mai ji, Mai gani.",
-    "footnotes": "* Isrã'i, shi ne tafiyar dare da Allah Ya yi da Annabi daga Makka zuwa Baitil Maƙadis. Sa'an nan Mi'iraji zuwa sama inda aka ba shi sallõli. ** Muƙarana a tsakãnin Masjidil Harãm watau tsararre daga a yãki mutãnensa da Masjidil Aƙsã wanda ba tsararre ba. Isrã'i da Mi'irãji sun fi Miƙãtin Mũsã da gãnãwarsa da Ubangiji a Ɗũr-Sĩna'a."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 282,
+  "verse_key": "17:1",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 113,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "سُبۡحَٰنَ ٱلَّذِيٓ أَسۡرَىٰ بِعَبۡدِهِۦ لَيۡلٗا مِّنَ ٱلۡمَسۡجِدِ ٱلۡحَرَامِ إِلَى ٱلۡمَسۡجِدِ ٱلۡأَقۡصَا ٱلَّذِي بَٰرَكۡنَا حَوۡلَهُۥ لِنُرِيَهُۥ مِنۡ ءَايَٰتِنَآۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡبَصِيرُ",
+  "translation": "Tsarki ya tabbata ga wanda Ya yi tafiyar dare* da bãwanSa da dare daga Masallaci mai alfarma zuwa ga Masallaci mafi nĩsa** wanda Muka sanya albarka a gefensa dõmin Mu nũna masa daga ãyõyinMu. Lalle ne Shi shĩ ne Mai ji, Mai gani.",
+  "footnotes": "* Isrã'i, shi ne tafiyar dare da Allah Ya yi da Annabi daga Makka zuwa Baitil Maƙadis. Sa'an nan Mi'iraji zuwa sama inda aka ba shi sallõli. ** Muƙarana a tsakãnin Masjidil Harãm watau tsararre daga a yãki mutãnensa da Masjidil Aƙsã wanda ba tsararre ba. Isrã'i da Mi'irãji sun fi Miƙãtin Mũsã da gãnãwarsa da Ubangiji a Ɗũr-Sĩna'a."
 }

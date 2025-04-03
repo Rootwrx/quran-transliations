@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "552",
-    "sura": "4",
-    "aya": "59",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا",
-    "translation": "Mo a moagye adie, monyε sotie ma Nyankopͻn na monyε sotie nso ma Ɔsomafoͻ no, ne wͻn a wͻ’kuta tumi wͻ mo mu no nso. Nasε ntotoo bi ba montεm wͻ biribi ho a, monsan nkͻyε εho nhwehwε mu wͻ Nyankopͻn ne Nesomafoͻ no hͻ, sε mogye Nyankopͻn ne Da a edi akyire no di ampa a, εno na εyε, na εno nso na edi mmu na εma awie pa.",
-    "footnotes": ""
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 87,
+  "verse_key": "4:59",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُوٓاْ أَطِيعُواْ ٱللَّهَ وَأَطِيعُواْ ٱلرَّسُولَ وَأُوْلِي ٱلۡأَمۡرِ مِنكُمۡۖ فَإِن تَنَٰزَعۡتُمۡ فِي شَيۡءٖ فَرُدُّوهُ إِلَى ٱللَّهِ وَٱلرَّسُولِ إِن كُنتُمۡ تُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِۚ ذَٰلِكَ خَيۡرٞ وَأَحۡسَنُ تَأۡوِيلًا",
+  "translation": "Mo a moagye adie, monyε sotie ma Nyankopͻn na monyε sotie nso ma Ɔsomafoͻ no, ne wͻn a wͻ’kuta tumi wͻ mo mu no nso. Nasε ntotoo bi ba montεm wͻ biribi ho a, monsan nkͻyε εho nhwehwε mu wͻ Nyankopͻn ne Nesomafoͻ no hͻ, sε mogye Nyankopͻn ne Da a edi akyire no di ampa a, εno na εyε, na εno nso na edi mmu na εma awie pa.",
+  "footnotes": ""
 }

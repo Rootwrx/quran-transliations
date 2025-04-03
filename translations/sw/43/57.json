@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4382",
-    "sura": "43",
-    "aya": "57",
-    "arabic_text": "۞ وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡيَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ يَصِدُّونَ",
-    "translation": "Na alipo pigiwa mfano Mwana wa Mariamu, watu wako waliupiga ukelele.",
-    "footnotes": "Na alipo pigiwa mfano Isa bin Maryam katika kuwa kwake kama Adam kwa kuwa Mwenyezi Mungu alimuumba kwa udongo, kisha akamwambia: Kuwa, na akawa, subhanallah. Basi yeye ni mtumwa aliye umbwa, aliye neemeshwa kwa kupewa Unabii, subhanallah. Haifai kumuabudu badala ya Mwenyezi Mungu. Na watu wako wanapuuza hizo sifa zinazo pigiwa mfano, na wala hawafahamu."
-  }
+  "id": 57,
+  "verse_number": 57,
+  "page_number": 493,
+  "verse_key": "43:57",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَمَّا ضُرِبَ ٱبۡنُ مَرۡيَمَ مَثَلًا إِذَا قَوۡمُكَ مِنۡهُ يَصِدُّونَ",
+  "translation": "Na alipo pigiwa mfano Mwana wa Mariamu, watu wako waliupiga ukelele.",
+  "footnotes": "Na alipo pigiwa mfano Isa bin Maryam katika kuwa kwake kama Adam kwa kuwa Mwenyezi Mungu alimuumba kwa udongo, kisha akamwambia: Kuwa, na akawa, subhanallah. Basi yeye ni mtumwa aliye umbwa, aliye neemeshwa kwa kupewa Unabii, subhanallah. Haifai kumuabudu badala ya Mwenyezi Mungu. Na watu wako wanapuuza hizo sifa zinazo pigiwa mfano, na wala hawafahamu."
 }

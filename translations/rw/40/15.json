@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4148",
-    "sura": "40",
-    "aya": "15",
-    "arabic_text": "رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلۡعَرۡشِ يُلۡقِي ٱلرُّوحَ مِنۡ أَمۡرِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦ لِيُنذِرَ يَوۡمَ ٱلتَّلَاقِ",
-    "translation": "(Ni We) ufite urwego rusumba izindi, Nyiri Ar’shi.[1] Ku bw’itegeko rye, yohereza Roho (Malayika Jibril) k’uwo ashaka mu bagaragu be, kugira ngo aburire (abantu) umunsi bazahurira (hamwe).",
-    "footnotes": "[1] Reba ibisobanuro by’iri jambo muri Suratul A’araf, Aya ya 54"
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 468,
+  "verse_key": "40:15",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 187,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "رَفِيعُ ٱلدَّرَجَٰتِ ذُو ٱلۡعَرۡشِ يُلۡقِي ٱلرُّوحَ مِنۡ أَمۡرِهِۦ عَلَىٰ مَن يَشَآءُ مِنۡ عِبَادِهِۦ لِيُنذِرَ يَوۡمَ ٱلتَّلَاقِ",
+  "translation": "(Ni We) ufite urwego rusumba izindi, Nyiri Ar’shi.[1] Ku bw’itegeko rye, yohereza Roho (Malayika Jibril) k’uwo ashaka mu bagaragu be, kugira ngo aburire (abantu) umunsi bazahurira (hamwe).",
+  "footnotes": "[1] Reba ibisobanuro by’iri jambo muri Suratul A’araf, Aya ya 54"
 }

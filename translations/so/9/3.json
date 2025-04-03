@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1238",
-    "sura": "9",
-    "aya": "3",
-    "arabic_text": "وَأَذَٰنٞ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوۡمَ ٱلۡحَجِّ ٱلۡأَكۡبَرِ أَنَّ ٱللَّهَ بَرِيٓءٞ مِّنَ ٱلۡمُشۡرِكِينَ وَرَسُولُهُۥۚ فَإِن تُبۡتُمۡ فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَوَلَّيۡتُمۡ فَٱعۡلَمُوٓاْ أَنَّكُمۡ غَيۡرُ مُعۡجِزِي ٱللَّهِۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُواْ بِعَذَابٍ أَلِيمٍ",
-    "translation": "3. Waa ogeysiis xagga Alle iyo Rasuulkiisa ah oo ku socda dadka maalinta Iidweynta Xajka2 inuu Alle barii ka yahay (dhammaan heshiisyadii lala lahaa) gaalada Mushrikiinta ah, sidoo kale Rasuulkiisu. Ee haddaad idinku (mushrikiintoy) toobad keentaan, waa sida idiin khayr roon, haddaad se jeesataan, ogaada inaydaan caajis galin kareyn Alle. Uguna bishaaree gaalada cadaab xanuun badan.",
-    "footnotes": "2. Waxay isku khilaafeen mufasiriinta macnaha iidweynta Xajka, qaarkood waxay yidhaahdeen waxaa loola jeedaa Maalinta Gowraca - Adxada, qaar kalena waxay yidhaahdeen: waa maalinta Carafa, waxaana loola jeedaa halkan Xajka weyn wixii dhacay sannadkii 10aad ee hijrada."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 187,
+  "verse_key": "9:3",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَذَٰنٞ مِّنَ ٱللَّهِ وَرَسُولِهِۦٓ إِلَى ٱلنَّاسِ يَوۡمَ ٱلۡحَجِّ ٱلۡأَكۡبَرِ أَنَّ ٱللَّهَ بَرِيٓءٞ مِّنَ ٱلۡمُشۡرِكِينَ وَرَسُولُهُۥۚ فَإِن تُبۡتُمۡ فَهُوَ خَيۡرٞ لَّكُمۡۖ وَإِن تَوَلَّيۡتُمۡ فَٱعۡلَمُوٓاْ أَنَّكُمۡ غَيۡرُ مُعۡجِزِي ٱللَّهِۗ وَبَشِّرِ ٱلَّذِينَ كَفَرُواْ بِعَذَابٍ أَلِيمٍ",
+  "translation": "3. Waa ogeysiis xagga Alle iyo Rasuulkiisa ah oo ku socda dadka maalinta Iidweynta Xajka2 inuu Alle barii ka yahay (dhammaan heshiisyadii lala lahaa) gaalada Mushrikiinta ah, sidoo kale Rasuulkiisu. Ee haddaad idinku (mushrikiintoy) toobad keentaan, waa sida idiin khayr roon, haddaad se jeesataan, ogaada inaydaan caajis galin kareyn Alle. Uguna bishaaree gaalada cadaab xanuun badan.",
+  "footnotes": "2. Waxay isku khilaafeen mufasiriinta macnaha iidweynta Xajka, qaarkood waxay yidhaahdeen waxaa loola jeedaa Maalinta Gowraca - Adxada, qaar kalena waxay yidhaahdeen: waa maalinta Carafa, waxaana loola jeedaa halkan Xajka weyn wixii dhacay sannadkii 10aad ee hijrada."
 }

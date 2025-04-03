@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2665",
-    "sura": "22",
-    "aya": "70",
-    "arabic_text": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ إِنَّ ذَٰلِكَ فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
-    "translation": "Enti wonnnim sε, Nyankopͻn Nim deε εwͻ soro ne asaase soͻ? Nokorε sε woi (nyinaa) wͻ Nwoma no mu. Nokorε sε εno deε εyε mmrε ma Nyankopͻn.",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 340,
+  "verse_key": "22:70",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَعۡلَمۡ أَنَّ ٱللَّهَ يَعۡلَمُ مَا فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ إِنَّ ذَٰلِكَ فِي كِتَٰبٍۚ إِنَّ ذَٰلِكَ عَلَى ٱللَّهِ يَسِيرٞ",
+  "translation": "Enti wonnnim sε, Nyankopͻn Nim deε εwͻ soro ne asaase soͻ? Nokorε sε woi (nyinaa) wͻ Nwoma no mu. Nokorε sε εno deε εyε mmrε ma Nyankopͻn.",
+  "footnotes": ""
 }

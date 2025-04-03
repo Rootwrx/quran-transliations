@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4499",
-    "sura": "45",
-    "aya": "26",
-    "arabic_text": "قُلِ ٱللَّهُ يُحۡيِيكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يَجۡمَعُكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
-    "translation": "(Ey Peyğəmbər!) De: “Allah sizi dirildir, sonra öldürür, sonra da sizi (gələcəyinə) heç bir şəkk-şübhə olmayan Qiyamət günü (dirildib) bir yerə toplayacaq”. Lakin insanların çoxu (bunu) bilməz.",
-    "footnotes": ""
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 501,
+  "verse_key": "45:26",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهُ يُحۡيِيكُمۡ ثُمَّ يُمِيتُكُمۡ ثُمَّ يَجۡمَعُكُمۡ إِلَىٰ يَوۡمِ ٱلۡقِيَٰمَةِ لَا رَيۡبَ فِيهِ وَلَٰكِنَّ أَكۡثَرَ ٱلنَّاسِ لَا يَعۡلَمُونَ",
+  "translation": "(Ey Peyğəmbər!) De: “Allah sizi dirildir, sonra öldürür, sonra da sizi (gələcəyinə) heç bir şəkk-şübhə olmayan Qiyamət günü (dirildib) bir yerə toplayacaq”. Lakin insanların çoxu (bunu) bilməz.",
+  "footnotes": ""
 }

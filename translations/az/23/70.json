@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2743",
-    "sura": "23",
-    "aya": "70",
-    "arabic_text": "أَمۡ يَقُولُونَ بِهِۦ جِنَّةُۢۚ بَلۡ جَآءَهُم بِٱلۡحَقِّ وَأَكۡثَرُهُمۡ لِلۡحَقِّ كَٰرِهُونَ",
-    "translation": "Yoxsa: “O cinlidir?”– deyirlər. Xeyr, o elçi onlara haqqı gətirmişdir. Lakin onların çoxu haqqı xoşlamır.",
-    "footnotes": ""
-  }
+  "id": 70,
+  "verse_number": 70,
+  "page_number": 346,
+  "verse_key": "23:70",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ يَقُولُونَ بِهِۦ جِنَّةُۢۚ بَلۡ جَآءَهُم بِٱلۡحَقِّ وَأَكۡثَرُهُمۡ لِلۡحَقِّ كَٰرِهُونَ",
+  "translation": "Yoxsa: “O cinlidir?”– deyirlər. Xeyr, o elçi onlara haqqı gətirmişdir. Lakin onların çoxu haqqı xoşlamır.",
+  "footnotes": ""
 }

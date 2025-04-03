@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2411",
-    "sura": "20",
-    "aya": "63",
-    "arabic_text": "قَالُوٓاْ إِنۡ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخۡرِجَاكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِمَا وَيَذۡهَبَا بِطَرِيقَتِكُمُ ٱلۡمُثۡلَىٰ",
-    "translation": "63. Balobi: Ba oyo bazali banganga mibale, balingi kobimisa bino na mabele na bino na bonganga na bango, mpe botika nzela ya malamu oyo bozali na yango.",
-    "footnotes": ""
-  }
+  "id": 63,
+  "verse_number": 63,
+  "page_number": 315,
+  "verse_key": "20:63",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 126,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالُوٓاْ إِنۡ هَٰذَٰنِ لَسَٰحِرَٰنِ يُرِيدَانِ أَن يُخۡرِجَاكُم مِّنۡ أَرۡضِكُم بِسِحۡرِهِمَا وَيَذۡهَبَا بِطَرِيقَتِكُمُ ٱلۡمُثۡلَىٰ",
+  "translation": "63. Balobi: Ba oyo bazali banganga mibale, balingi kobimisa bino na mabele na bino na bonganga na bango, mpe botika nzela ya malamu oyo bozali na yango.",
+  "footnotes": ""
 }

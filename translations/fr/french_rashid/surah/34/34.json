@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3640",
-    "sura": "34",
-    "aya": "34",
-    "arabic_text": "وَمَآ أَرۡسَلۡنَا فِي قَرۡيَةٖ مِّن نَّذِيرٍ إِلَّا قَالَ مُتۡرَفُوهَآ إِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
-    "translation": "34 Nous n’avons envoyé nul Messager avertir une cité sans que ses habitants les plus puissants n’aient affirmé : « Nous ne croyons pas en votre message. »",
-    "footnotes": ""
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 432,
+  "verse_key": "34:34",
+  "juz_number": 22,
+  "hizb_number": 44,
+  "rub_el_hizb_number": 173,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَآ أَرۡسَلۡنَا فِي قَرۡيَةٖ مِّن نَّذِيرٍ إِلَّا قَالَ مُتۡرَفُوهَآ إِنَّا بِمَآ أُرۡسِلۡتُم بِهِۦ كَٰفِرُونَ",
+  "translation": "34 Nous n’avons envoyé nul Messager avertir une cité sans que ses habitants les plus puissants n’aient affirmé : « Nous ne croyons pas en votre message. »",
+  "footnotes": ""
 }

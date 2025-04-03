@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4808",
-    "sura": "53",
-    "aya": "24",
-    "arabic_text": "أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ",
-    "translation": "Yoksa insan her arzu ettiği şeye sahip mi olacaktır?",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 526,
+  "verse_key": "53:24",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ لِلۡإِنسَٰنِ مَا تَمَنَّىٰ",
+  "translation": "Yoksa insan her arzu ettiği şeye sahip mi olacaktır?",
+  "footnotes": ""
 }

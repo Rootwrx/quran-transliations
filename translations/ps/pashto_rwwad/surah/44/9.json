@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4423",
-    "sura": "44",
-    "aya": "9",
-    "arabic_text": "بَلۡ هُمۡ فِي شَكّٖ يَلۡعَبُونَ",
-    "translation": "خو په اصل كې هغوى په شك كې (پراته) لوبې كوي.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 496,
+  "verse_key": "44:9",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 198,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بَلۡ هُمۡ فِي شَكّٖ يَلۡعَبُونَ",
+  "translation": "خو په اصل كې هغوى په شك كې (پراته) لوبې كوي.",
+  "footnotes": ""
 }

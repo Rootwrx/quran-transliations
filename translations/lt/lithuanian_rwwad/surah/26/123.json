@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3055",
-    "sura": "26",
-    "aya": "123",
-    "arabic_text": "كَذَّبَتۡ عَادٌ ٱلۡمُرۡسَلِينَ",
-    "translation": "123. Ad (žmonės) atmetė Pasiuntinius.",
-    "footnotes": ""
-  }
+  "id": 123,
+  "verse_number": 123,
+  "page_number": 372,
+  "verse_key": "26:123",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 149,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَّبَتۡ عَادٌ ٱلۡمُرۡسَلِينَ",
+  "translation": "123. Ad (žmonės) atmetė Pasiuntinius.",
+  "footnotes": ""
 }

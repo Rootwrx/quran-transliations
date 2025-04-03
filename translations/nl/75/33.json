@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5584",
-    "sura": "75",
-    "aya": "33",
-    "arabic_text": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهۡلِهِۦ يَتَمَطَّىٰٓ",
-    "translation": "33. Toen liep hij trots naar zijn familie, zichzelf bewonderend!",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 578,
+  "verse_key": "75:33",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 231,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ثُمَّ ذَهَبَ إِلَىٰٓ أَهۡلِهِۦ يَتَمَطَّىٰٓ",
+  "translation": "33. Toen liep hij trots naar zijn familie, zichzelf bewonderend!",
+  "footnotes": ""
 }

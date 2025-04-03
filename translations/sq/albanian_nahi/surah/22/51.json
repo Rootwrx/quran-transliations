@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2646",
-    "sura": "22",
-    "aya": "51",
-    "arabic_text": "وَٱلَّذِينَ سَعَوۡاْ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ",
-    "translation": "Ndërsa ata që përpiqen t’i luftojnë shpalljet Tona, duke menduar se nuk do t’i dënojmë, (dije se) njerëz të tillë janë banorë të Xhehenemit.",
-    "footnotes": ""
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 338,
+  "verse_key": "22:51",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ سَعَوۡاْ فِيٓ ءَايَٰتِنَا مُعَٰجِزِينَ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَحِيمِ",
+  "translation": "Ndërsa ata që përpiqen t’i luftojnë shpalljet Tona, duke menduar se nuk do t’i dënojmë, (dije se) njerëz të tillë janë banorë të Xhehenemit.",
+  "footnotes": ""
 }

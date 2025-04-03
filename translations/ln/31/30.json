@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3499",
-    "sura": "31",
-    "aya": "30",
-    "arabic_text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِ ٱلۡبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
-    "translation": "30. Wana ezali ete Allah azali bosembo, mpe ya sólo, maye manso bazali kobondela na botiki ye mazali mpamba, mpe ya solo, Allah azali likolo mpe monene koleka.",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 414,
+  "verse_key": "31:30",
+  "juz_number": 21,
+  "hizb_number": 42,
+  "rub_el_hizb_number": 165,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ بِأَنَّ ٱللَّهَ هُوَ ٱلۡحَقُّ وَأَنَّ مَا يَدۡعُونَ مِن دُونِهِ ٱلۡبَٰطِلُ وَأَنَّ ٱللَّهَ هُوَ ٱلۡعَلِيُّ ٱلۡكَبِيرُ",
+  "translation": "30. Wana ezali ete Allah azali bosembo, mpe ya sólo, maye manso bazali kobondela na botiki ye mazali mpamba, mpe ya solo, Allah azali likolo mpe monene koleka.",
+  "footnotes": ""
 }

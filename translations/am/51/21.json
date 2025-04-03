@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4696",
-    "sura": "51",
-    "aya": "21",
-    "arabic_text": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ",
-    "translation": "በነፍሶቻችሁም ውስጥ (ምልክቶች አልሉ)፤ ታዲያ አትመለከቱምን?›",
-    "footnotes": ""
-  }
+  "id": 21,
+  "verse_number": 21,
+  "page_number": 521,
+  "verse_key": "51:21",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 208,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَفِيٓ أَنفُسِكُمۡۚ أَفَلَا تُبۡصِرُونَ",
+  "translation": "በነፍሶቻችሁም ውስጥ (ምልክቶች አልሉ)፤ ታዲያ አትመለከቱምን?›",
+  "footnotes": ""
 }

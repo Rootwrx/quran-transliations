@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4936",
-    "sura": "55",
-    "aya": "35",
-    "arabic_text": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ",
-    "translation": "35. Toysa seehadaa kee ginnow girak uraa kee diyaayisen nacaas Siinil rubsumele (siinil Qulelon), tokkel wohuk sitta ma cattaana.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 532,
+  "verse_key": "55:35",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يُرۡسَلُ عَلَيۡكُمَا شُوَاظٞ مِّن نَّارٖ وَنُحَاسٞ فَلَا تَنتَصِرَانِ",
+  "translation": "35. Toysa seehadaa kee ginnow girak uraa kee diyaayisen nacaas Siinil rubsumele (siinil Qulelon), tokkel wohuk sitta ma cattaana.",
+  "footnotes": ""
 }

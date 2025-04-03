@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "89",
-    "sura": "2",
-    "aya": "82",
-    "arabic_text": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ",
-    "translation": "A oni koji budu vjerovali i dobra djela činili, oni će stanovnici Dženneta biti; u njemu će vječno boraviti. ",
-    "footnotes": ""
-  }
+  "id": 82,
+  "verse_number": 82,
+  "page_number": 12,
+  "verse_key": "2:82",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 5,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلۡجَنَّةِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+  "translation": "A oni koji budu vjerovali i dobra djela činili, oni će stanovnici Dženneta biti; u njemu će vječno boraviti. ",
+  "footnotes": ""
 }

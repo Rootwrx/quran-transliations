@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2850",
-    "sura": "24",
-    "aya": "59",
-    "arabic_text": "وَإِذَا بَلَغَ ٱلۡأَطۡفَٰلُ مِنكُمُ ٱلۡحُلُمَ فَلۡيَسۡتَـٔۡذِنُواْ كَمَا ٱسۡتَـٔۡذَنَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
-    "translation": "Na watoto wanapo fikilia umri wa kubaalighi basi nawatake ruhusa, kama walivyo taka ruhusa wa kabla yao. Hivyo ndivyo anavyo kubainishieni Mwenyezi Mungu Aya zake, na Mwenyezi Mungu ni Mjuzi Mwenye hikima.",
-    "footnotes": "Na vijana vyenu wakifikilia umri wa kubalighi inawapasa watake ruhusa ya kuingia kila nyumba, na kila wakati, kama ilivyo wapasa wenzao wa kabla yao. Na kwa mfano wa uwazi kama huu Mwenyezi Mungu anakuwekeeni wazi Aya zake alizo ziteremsha. Na Mwenyezi Mungu Subhanahu ni Mkunjufu wa ujuzi, Mkubwa wa hikima. Anajua linalo wasilihi waja wake, na anawaatungia Sharia zinazo wanasibu, na kwa kadri ya haja yao."
-  }
+  "id": 59,
+  "verse_number": 59,
+  "page_number": 358,
+  "verse_key": "24:59",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 143,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا بَلَغَ ٱلۡأَطۡفَٰلُ مِنكُمُ ٱلۡحُلُمَ فَلۡيَسۡتَـٔۡذِنُواْ كَمَا ٱسۡتَـٔۡذَنَ ٱلَّذِينَ مِن قَبۡلِهِمۡۚ كَذَٰلِكَ يُبَيِّنُ ٱللَّهُ لَكُمۡ ءَايَٰتِهِۦۗ وَٱللَّهُ عَلِيمٌ حَكِيمٞ",
+  "translation": "Na watoto wanapo fikilia umri wa kubaalighi basi nawatake ruhusa, kama walivyo taka ruhusa wa kabla yao. Hivyo ndivyo anavyo kubainishieni Mwenyezi Mungu Aya zake, na Mwenyezi Mungu ni Mjuzi Mwenye hikima.",
+  "footnotes": "Na vijana vyenu wakifikilia umri wa kubalighi inawapasa watake ruhusa ya kuingia kila nyumba, na kila wakati, kama ilivyo wapasa wenzao wa kabla yao. Na kwa mfano wa uwazi kama huu Mwenyezi Mungu anakuwekeeni wazi Aya zake alizo ziteremsha. Na Mwenyezi Mungu Subhanahu ni Mkunjufu wa ujuzi, Mkubwa wa hikima. Anajua linalo wasilihi waja wake, na anawaatungia Sharia zinazo wanasibu, na kwa kadri ya haja yao."
 }

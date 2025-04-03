@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2130",
-    "sura": "17",
-    "aya": "101",
-    "arabic_text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ تِسۡعَ ءَايَٰتِۭ بَيِّنَٰتٖۖ فَسۡـَٔلۡ بَنِيٓ إِسۡرَٰٓءِيلَ إِذۡ جَآءَهُمۡ فَقَالَ لَهُۥ فِرۡعَوۡنُ إِنِّي لَأَظُنُّكَ يَٰمُوسَىٰ مَسۡحُورٗا",
-    "translation": "Dájúdájú A fún (Ànábì) Mūsā ní àwọn àmì mẹ́sàn-án tó yanjú. Bi àwọn ọmọ ’Isrọ̄’īl léèrè wò. Rántí, nígbà tí ó dé ọ̀dọ̀ wọn, Fir‘aon wí fún un pé: “Dájúdájú èmi lérò pé eléèdì ni ọ́, Mūsā.”",
-    "footnotes": ""
-  }
+  "id": 101,
+  "verse_number": 101,
+  "page_number": 292,
+  "verse_key": "17:101",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ ءَاتَيۡنَا مُوسَىٰ تِسۡعَ ءَايَٰتِۭ بَيِّنَٰتٖۖ فَسۡـَٔلۡ بَنِيٓ إِسۡرَٰٓءِيلَ إِذۡ جَآءَهُمۡ فَقَالَ لَهُۥ فِرۡعَوۡنُ إِنِّي لَأَظُنُّكَ يَٰمُوسَىٰ مَسۡحُورٗا",
+  "translation": "Dájúdájú A fún (Ànábì) Mūsā ní àwọn àmì mẹ́sàn-án tó yanjú. Bi àwọn ọmọ ’Isrọ̄’īl léèrè wò. Rántí, nígbà tí ó dé ọ̀dọ̀ wọn, Fir‘aon wí fún un pé: “Dájúdájú èmi lérò pé eléèdì ni ọ́, Mūsā.”",
+  "footnotes": ""
 }

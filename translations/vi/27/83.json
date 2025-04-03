@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3242",
-    "sura": "27",
-    "aya": "83",
-    "arabic_text": "وَيَوۡمَ نَحۡشُرُ مِن كُلِّ أُمَّةٖ فَوۡجٗا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمۡ يُوزَعُونَ",
-    "translation": "(Ngươi, hỡi Thiên Sứ Muhammad, hãy nghĩ tới) Ngày mà TA sẽ cho tập trung tất cả từ mỗi cộng đồng và tách nhóm người đã phủ nhận những lời mặc khải của TA thành một nhóm riêng; rồi họ sẽ bị bắt đứng thành hàng chờ đợi.",
-    "footnotes": ""
-  }
+  "id": 83,
+  "verse_number": 83,
+  "page_number": 384,
+  "verse_key": "27:83",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَوۡمَ نَحۡشُرُ مِن كُلِّ أُمَّةٖ فَوۡجٗا مِّمَّن يُكَذِّبُ بِـَٔايَٰتِنَا فَهُمۡ يُوزَعُونَ",
+  "translation": "(Ngươi, hỡi Thiên Sứ Muhammad, hãy nghĩ tới) Ngày mà TA sẽ cho tập trung tất cả từ mỗi cộng đồng và tách nhóm người đã phủ nhận những lời mặc khải của TA thành một nhóm riêng; rồi họ sẽ bị bắt đứng thành hàng chờ đợi.",
+  "footnotes": ""
 }

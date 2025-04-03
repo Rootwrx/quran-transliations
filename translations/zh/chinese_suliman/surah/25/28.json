@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2883",
-    "sura": "25",
-    "aya": "28",
-    "arabic_text": "يَٰوَيۡلَتَىٰ لَيۡتَنِي لَمۡ أَتَّخِذۡ فُلَانًا خَلِيلٗا",
-    "translation": "啊！哀哉！但愿我没有以某人为朋友。",
-    "footnotes": ""
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 362,
+  "verse_key": "25:28",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 145,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰوَيۡلَتَىٰ لَيۡتَنِي لَمۡ أَتَّخِذۡ فُلَانًا خَلِيلٗا",
+  "translation": "啊！哀哉！但愿我没有以某人为朋友。",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1619",
-    "sura": "12",
-    "aya": "23",
-    "arabic_text": "وَرَٰوَدَتۡهُ ٱلَّتِي هُوَ فِي بَيۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَٰبَ وَقَالَتۡ هَيۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّيٓ أَحۡسَنَ مَثۡوَايَۖ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
-    "translation": "Nuko umugore yari abereye mu rugo agerageza kumureshya (ngo baryamane), ndetse anakinga imiryango maze aravuga ati “Ngwino unyegere.” (Yusufu) aravuga ati “Niragije Allah (ngo andinde ikibi)! Mu by’ukuri we (umugabo wawe) ni Databuja, yanyakiriye neza (sinshobora kumuhemukira). Rwose abahemu ntibazakiranuka.”",
-    "footnotes": ""
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 238,
+  "verse_key": "12:23",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَرَٰوَدَتۡهُ ٱلَّتِي هُوَ فِي بَيۡتِهَا عَن نَّفۡسِهِۦ وَغَلَّقَتِ ٱلۡأَبۡوَٰبَ وَقَالَتۡ هَيۡتَ لَكَۚ قَالَ مَعَاذَ ٱللَّهِۖ إِنَّهُۥ رَبِّيٓ أَحۡسَنَ مَثۡوَايَۖ إِنَّهُۥ لَا يُفۡلِحُ ٱلظَّٰلِمُونَ",
+  "translation": "Nuko umugore yari abereye mu rugo agerageza kumureshya (ngo baryamane), ndetse anakinga imiryango maze aravuga ati “Ngwino unyegere.” (Yusufu) aravuga ati “Niragije Allah (ngo andinde ikibi)! Mu by’ukuri we (umugabo wawe) ni Databuja, yanyakiriye neza (sinshobora kumuhemukira). Rwose abahemu ntibazakiranuka.”",
+  "footnotes": ""
 }

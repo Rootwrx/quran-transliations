@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "187",
-    "sura": "2",
-    "aya": "180",
-    "arabic_text": "كُتِبَ عَلَيۡكُمۡ إِذَا حَضَرَ أَحَدَكُمُ ٱلۡمَوۡتُ إِن تَرَكَ خَيۡرًا ٱلۡوَصِيَّةُ لِلۡوَٰلِدَيۡنِ وَٱلۡأَقۡرَبِينَ بِٱلۡمَعۡرُوفِۖ حَقًّا عَلَى ٱلۡمُتَّقِينَ",
-    "translation": "Mwategetswe ko igihe umwe muri mwe abona yegereje urupfu kandi hari umutungo afite, ajye atanga irage ku babyeyi[1] no ku bo bafitanye isano ya hafi mu buryo bwiza. (Ibyo) ni ngombwa ku batinya (Allah).",
-    "footnotes": "[1] Uyu murongo utegeka ugiye gupfa gutanga irage ku babyeyi, wahishuwe mbere y’indi mirongo yo muri Qur’ani igena ibijyanye n’izungura. Nyuma y’aho imirongo y’izungura ihishuriwe yasimbuye itegeko ry’irage ku babyeyi n’abandi bagenerwa umugabane mu izungura, ariko irage risigaraho ku bafitanye isano n’uwatanze irage batagenewe umugabane mu izungura."
-  }
+  "id": 180,
+  "verse_number": 180,
+  "page_number": 27,
+  "verse_key": "2:180",
+  "juz_number": 2,
+  "hizb_number": 3,
+  "rub_el_hizb_number": 11,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كُتِبَ عَلَيۡكُمۡ إِذَا حَضَرَ أَحَدَكُمُ ٱلۡمَوۡتُ إِن تَرَكَ خَيۡرًا ٱلۡوَصِيَّةُ لِلۡوَٰلِدَيۡنِ وَٱلۡأَقۡرَبِينَ بِٱلۡمَعۡرُوفِۖ حَقًّا عَلَى ٱلۡمُتَّقِينَ",
+  "translation": "Mwategetswe ko igihe umwe muri mwe abona yegereje urupfu kandi hari umutungo afite, ajye atanga irage ku babyeyi[1] no ku bo bafitanye isano ya hafi mu buryo bwiza. (Ibyo) ni ngombwa ku batinya (Allah).",
+  "footnotes": "[1] Uyu murongo utegeka ugiye gupfa gutanga irage ku babyeyi, wahishuwe mbere y’indi mirongo yo muri Qur’ani igena ibijyanye n’izungura. Nyuma y’aho imirongo y’izungura ihishuriwe yasimbuye itegeko ry’irage ku babyeyi n’abandi bagenerwa umugabane mu izungura, ariko irage risigaraho ku bafitanye isano n’uwatanze irage batagenewe umugabane mu izungura."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2598",
-    "sura": "22",
-    "aya": "3",
-    "arabic_text": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَيَتَّبِعُ كُلَّ شَيۡطَٰنٖ مَّرِيدٖ",
-    "translation": "Akwai daga mutãne* wanda yake yin musũ ga sha'anin Allah bã da wani ilmi ba, kuma yanã biyar kõwane Shaiɗan mai taurin kai.",
-    "footnotes": "* An raba mutãne a game da addĩni kashi huɗu, sa'annan ya fãra da kashi na farko mafi yawa daga cikin sauran kasũsuwan, watau kashin wãwãye mãsu biyar Shaiɗan ga al'ãdu da son zũciyõyi su bar hukunce-hakuncen Allah."
-  }
+  "id": 3,
+  "verse_number": 3,
+  "page_number": 332,
+  "verse_key": "22:3",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنَ ٱلنَّاسِ مَن يُجَٰدِلُ فِي ٱللَّهِ بِغَيۡرِ عِلۡمٖ وَيَتَّبِعُ كُلَّ شَيۡطَٰنٖ مَّرِيدٖ",
+  "translation": "Akwai daga mutãne* wanda yake yin musũ ga sha'anin Allah bã da wani ilmi ba, kuma yanã biyar kõwane Shaiɗan mai taurin kai.",
+  "footnotes": "* An raba mutãne a game da addĩni kashi huɗu, sa'annan ya fãra da kashi na farko mafi yawa daga cikin sauran kasũsuwan, watau kashin wãwãye mãsu biyar Shaiɗan ga al'ãdu da son zũciyõyi su bar hukunce-hakuncen Allah."
 }

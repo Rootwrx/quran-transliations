@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3589",
-    "sura": "33",
-    "aya": "56",
-    "arabic_text": "إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِيِّۚ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ صَلُّواْ عَلَيۡهِ وَسَلِّمُواْ تَسۡلِيمًا",
-    "translation": "Vërtet, Allahu e bekon të Dërguarin dhe engjëjt e Tij luten për atë. O besimtarë, lutuni për atë dhe përshëndeteni me “selam”!",
-    "footnotes": ""
-  }
+  "id": 56,
+  "verse_number": 56,
+  "page_number": 426,
+  "verse_key": "33:56",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 170,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱللَّهَ وَمَلَٰٓئِكَتَهُۥ يُصَلُّونَ عَلَى ٱلنَّبِيِّۚ يَٰٓأَيُّهَا ٱلَّذِينَ ءَامَنُواْ صَلُّواْ عَلَيۡهِ وَسَلِّمُواْ تَسۡلِيمًا",
+  "translation": "Vërtet, Allahu e bekon të Dërguarin dhe engjëjt e Tij luten për atë. O besimtarë, lutuni për atë dhe përshëndeteni me “selam”!",
+  "footnotes": ""
 }

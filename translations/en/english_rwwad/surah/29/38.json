@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3378",
-    "sura": "29",
-    "aya": "38",
-    "arabic_text": "وَعَادٗا وَثَمُودَاْ وَقَد تَّبَيَّنَ لَكُم مِّن مَّسَٰكِنِهِمۡۖ وَزَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ فَصَدَّهُمۡ عَنِ ٱلسَّبِيلِ وَكَانُواْ مُسۡتَبۡصِرِينَ",
-    "translation": "And [We destroyed] ‘Ād and Thamūd, which is clear to you from their ruined dwellings. Satan made their deeds appealing to them and averted them from the right way, although they were people of perception.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 400,
+  "verse_key": "29:38",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَعَادٗا وَثَمُودَاْ وَقَد تَّبَيَّنَ لَكُم مِّن مَّسَٰكِنِهِمۡۖ وَزَيَّنَ لَهُمُ ٱلشَّيۡطَٰنُ أَعۡمَٰلَهُمۡ فَصَدَّهُمۡ عَنِ ٱلسَّبِيلِ وَكَانُواْ مُسۡتَبۡصِرِينَ",
+  "translation": "And [We destroyed] ‘Ād and Thamūd, which is clear to you from their ruined dwellings. Satan made their deeds appealing to them and averted them from the right way, although they were people of perception.",
+  "footnotes": ""
 }

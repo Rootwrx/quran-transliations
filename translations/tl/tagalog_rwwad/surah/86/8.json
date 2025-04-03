@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5939",
-    "sura": "86",
-    "aya": "8",
-    "arabic_text": "إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ",
-    "translation": "Tunay na Siya, sa pagpapabalik dito,[1] ay talagang Nakakakaya.",
-    "footnotes": "[1] sa buhay mula sa kamatayan para sa pagtutuos."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 591,
+  "verse_key": "86:8",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 236,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّهُۥ عَلَىٰ رَجۡعِهِۦ لَقَادِرٞ",
+  "translation": "Tunay na Siya, sa pagpapabalik dito,[1] ay talagang Nakakakaya.",
+  "footnotes": "[1] sa buhay mula sa kamatayan para sa pagtutuos."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1451",
-    "sura": "10",
-    "aya": "87",
-    "arabic_text": "وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوۡمِكُمَا بِمِصۡرَ بُيُوتٗا وَٱجۡعَلُواْ بُيُوتَكُمۡ قِبۡلَةٗ وَأَقِيمُواْ ٱلصَّلَوٰةَۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
-    "translation": "Kuma Muka yi wahayi zuwa ga Mũsã da ɗan'uwansa, cẽwa: Kũ biyu, ku zaunar da mutãnenku a Masar a cikin wasu gidãje. Kuma ku sanya gidãjenku su fuskanci Alƙibla*, kuma ku tsayar da salla. Kuma ku bãyar da bushãra ga mãsu ĩmãni.",
-    "footnotes": "* Su sanya gidãjensu sunã fuskantar Alƙibla ta Ka'aba dõmin su riƙa yin salla a cikin gidãjen, sabõda tsõron in sun tafi masallaci zã a fãɗa su da dũka sunã a cikin salla. Wannan kuma yã nũna yadda ake son gidajen Musulmi su kasance a kõ da yaushe."
-  }
+  "id": 87,
+  "verse_number": 87,
+  "page_number": 218,
+  "verse_key": "10:87",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 87,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَوۡحَيۡنَآ إِلَىٰ مُوسَىٰ وَأَخِيهِ أَن تَبَوَّءَا لِقَوۡمِكُمَا بِمِصۡرَ بُيُوتٗا وَٱجۡعَلُواْ بُيُوتَكُمۡ قِبۡلَةٗ وَأَقِيمُواْ ٱلصَّلَوٰةَۗ وَبَشِّرِ ٱلۡمُؤۡمِنِينَ",
+  "translation": "Kuma Muka yi wahayi zuwa ga Mũsã da ɗan'uwansa, cẽwa: Kũ biyu, ku zaunar da mutãnenku a Masar a cikin wasu gidãje. Kuma ku sanya gidãjenku su fuskanci Alƙibla*, kuma ku tsayar da salla. Kuma ku bãyar da bushãra ga mãsu ĩmãni.",
+  "footnotes": "* Su sanya gidãjensu sunã fuskantar Alƙibla ta Ka'aba dõmin su riƙa yin salla a cikin gidãjen, sabõda tsõron in sun tafi masallaci zã a fãɗa su da dũka sunã a cikin salla. Wannan kuma yã nũna yadda ake son gidajen Musulmi su kasance a kõ da yaushe."
 }

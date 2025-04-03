@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1406",
-    "sura": "10",
-    "aya": "42",
-    "arabic_text": "وَمِنۡهُم مَّن يَسۡتَمِعُونَ إِلَيۡكَۚ أَفَأَنتَ تُسۡمِعُ ٱلصُّمَّ وَلَوۡ كَانُواْ لَا يَعۡقِلُونَ",
-    "translation": "Trong số (những kẻ đa thần) có người đến (giả vờ) nghe Ngươi (Thiên Sứ) xướng đọc (Qur’an). (Nhưng Ngươi – hỡi Thiên Sứ Muhammad, hãy biết rằng) làm sao Ngươi có thể làm cho người điếc nghe được cũng như làm sao Ngươi có thể hướng dẫn (đám người) khi chúng không hiểu gì?",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 213,
+  "verse_key": "10:42",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡهُم مَّن يَسۡتَمِعُونَ إِلَيۡكَۚ أَفَأَنتَ تُسۡمِعُ ٱلصُّمَّ وَلَوۡ كَانُواْ لَا يَعۡقِلُونَ",
+  "translation": "Trong số (những kẻ đa thần) có người đến (giả vờ) nghe Ngươi (Thiên Sứ) xướng đọc (Qur’an). (Nhưng Ngươi – hỡi Thiên Sứ Muhammad, hãy biết rằng) làm sao Ngươi có thể làm cho người điếc nghe được cũng như làm sao Ngươi có thể hướng dẫn (đám người) khi chúng không hiểu gì?",
+  "footnotes": ""
 }

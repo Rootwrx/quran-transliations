@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2485",
-    "sura": "21",
-    "aya": "2",
-    "arabic_text": "مَا يَأۡتِيهِم مِّن ذِكۡرٖ مِّن رَّبِّهِم مُّحۡدَثٍ إِلَّا ٱسۡتَمَعُوهُ وَهُمۡ يَلۡعَبُونَ",
-    "translation": "2. Neateina jiems perspėjimas (Korano skyrius) nuo jų Viešpaties kaip paskutinis apreiškimas, tačiau jie klausosi jo besismagindami.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 322,
+  "verse_key": "21:2",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَا يَأۡتِيهِم مِّن ذِكۡرٖ مِّن رَّبِّهِم مُّحۡدَثٍ إِلَّا ٱسۡتَمَعُوهُ وَهُمۡ يَلۡعَبُونَ",
+  "translation": "2. Neateina jiems perspėjimas (Korano skyrius) nuo jų Viešpaties kaip paskutinis apreiškimas, tačiau jie klausosi jo besismagindami.",
+  "footnotes": ""
 }

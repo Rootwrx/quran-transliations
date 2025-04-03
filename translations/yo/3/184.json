@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "477",
-    "sura": "3",
-    "aya": "184",
-    "arabic_text": "فَإِن كَذَّبُوكَ فَقَدۡ كُذِّبَ رُسُلٞ مِّن قَبۡلِكَ جَآءُو بِٱلۡبَيِّنَٰتِ وَٱلزُّبُرِ وَٱلۡكِتَٰبِ ٱلۡمُنِيرِ",
-    "translation": "Tí wọ́n bá pè ọ́ ní òpùrọ́, wọ́n kúkú ti pe àwọn Òjíṣẹ́ tó ṣíwájú rẹ ní òpùrọ́. Wọ́n wá pẹ̀lú àwọn ẹ̀rí tó yanjú, ìpín-ìpín Tírà àti Tírà tó ń tànmọ́lẹ̀ sí ọ̀rọ̀ ẹ̀sìn.[1]",
-    "footnotes": "1. Àpẹ̀ẹrẹ fún ìpín-ìpín Tírà ni suhf ’Ibrọ̄hīm àti suhf Mūsā. Àpẹ̀ẹrẹ fún Tírà tó ń tànmọ́lẹ̀ sí ọ̀rọ̀ ẹ̀sìn ni az-Zabūr, at-Taorāh, al-’Injīl àti al-Ƙur’ān Alápọ̀n-ọ́nlé."
-  }
+  "id": 184,
+  "verse_number": 184,
+  "page_number": 74,
+  "verse_key": "3:184",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 29,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِن كَذَّبُوكَ فَقَدۡ كُذِّبَ رُسُلٞ مِّن قَبۡلِكَ جَآءُو بِٱلۡبَيِّنَٰتِ وَٱلزُّبُرِ وَٱلۡكِتَٰبِ ٱلۡمُنِيرِ",
+  "translation": "Tí wọ́n bá pè ọ́ ní òpùrọ́, wọ́n kúkú ti pe àwọn Òjíṣẹ́ tó ṣíwájú rẹ ní òpùrọ́. Wọ́n wá pẹ̀lú àwọn ẹ̀rí tó yanjú, ìpín-ìpín Tírà àti Tírà tó ń tànmọ́lẹ̀ sí ọ̀rọ̀ ẹ̀sìn.[1]",
+  "footnotes": "1. Àpẹ̀ẹrẹ fún ìpín-ìpín Tírà ni suhf ’Ibrọ̄hīm àti suhf Mūsā. Àpẹ̀ẹrẹ fún Tírà tó ń tànmọ́lẹ̀ sí ọ̀rọ̀ ẹ̀sìn ni az-Zabūr, at-Taorāh, al-’Injīl àti al-Ƙur’ān Alápọ̀n-ọ́nlé."
 }

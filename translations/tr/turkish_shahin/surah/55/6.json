@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4907",
-    "sura": "55",
-    "aya": "6",
-    "arabic_text": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
-    "translation": "Bitkiler ve ağaçlar secde ederler.",
-    "footnotes": ""
-  }
+  "id": 6,
+  "verse_number": 6,
+  "page_number": 531,
+  "verse_key": "55:6",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 213,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلنَّجۡمُ وَٱلشَّجَرُ يَسۡجُدَانِ",
+  "translation": "Bitkiler ve ağaçlar secde ederler.",
+  "footnotes": ""
 }

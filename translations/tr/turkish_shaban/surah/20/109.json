@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2457",
-    "sura": "20",
-    "aya": "109",
-    "arabic_text": "يَوۡمَئِذٖ لَّا تَنفَعُ ٱلشَّفَٰعَةُ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَرَضِيَ لَهُۥ قَوۡلٗا",
-    "translation": "O gün, Rahman’ın izin verdiği ve sözünden razı olduğu kimselerden başkasına şefaat fayda vermez.",
-    "footnotes": null
-  }
+  "id": 109,
+  "verse_number": 109,
+  "page_number": 319,
+  "verse_key": "20:109",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 127,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَئِذٖ لَّا تَنفَعُ ٱلشَّفَٰعَةُ إِلَّا مَنۡ أَذِنَ لَهُ ٱلرَّحۡمَٰنُ وَرَضِيَ لَهُۥ قَوۡلٗا",
+  "translation": "O gün, Rahman’ın izin verdiği ve sözünden razı olduğu kimselerden başkasına şefaat fayda vermez.",
+  "footnotes": null
 }

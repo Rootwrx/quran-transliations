@@ -1,0 +1,43 @@
+{
+  "verses": [
+    {
+      "id": 6177,
+      "number": 1,
+      "verse_key": "103:1",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 601,
+      "juz_number": 30,
+      "text": "وَٱلۡعَصۡرِ"
+    },
+    {
+      "id": 6178,
+      "number": 2,
+      "verse_key": "103:2",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 601,
+      "juz_number": 30,
+      "text": "إِنَّ ٱلۡإِنسَٰنَ لَفِي خُسۡرٍ"
+    },
+    {
+      "id": 6179,
+      "number": 3,
+      "verse_key": "103:3",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 547,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 601,
+      "juz_number": 30,
+      "text": "إِلَّا ٱلَّذِينَ ءَامَنُواْ وَعَمِلُواْ ٱلصَّٰلِحَٰتِ وَتَوَاصَوۡاْ بِٱلۡحَقِّ وَتَوَاصَوۡاْ بِٱلصَّبۡرِ"
+    }
+  ]
+}

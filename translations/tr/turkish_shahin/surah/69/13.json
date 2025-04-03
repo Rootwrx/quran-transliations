@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5336",
-    "sura": "69",
-    "aya": "13",
-    "arabic_text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ نَفۡخَةٞ وَٰحِدَةٞ",
-    "translation": "Artık Sûr'a bir defa üflendiği, ",
-    "footnotes": ""
-  }
+  "id": 13,
+  "verse_number": 13,
+  "page_number": 567,
+  "verse_key": "69:13",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَإِذَا نُفِخَ فِي ٱلصُّورِ نَفۡخَةٞ وَٰحِدَةٞ",
+  "translation": "Artık Sûr'a bir defa üflendiği, ",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1544",
-    "sura": "11",
-    "aya": "71",
-    "arabic_text": "وَٱمۡرَأَتُهُۥ قَآئِمَةٞ فَضَحِكَتۡ فَبَشَّرۡنَٰهَا بِإِسۡحَٰقَ وَمِن وَرَآءِ إِسۡحَٰقَ يَعۡقُوبَ",
-    "translation": "Aho, umukenyezi wiwe Sarah yari ahagaze haruguru, yaciye atwenga atangazwa n’ivyo yumvise, ni ho rero Twamuha inkuru nziza yashikirijwe n’abo bamalayika ko azokwibaruka umwana azokwitwa Is-haka, hanyuma Is-haka na we akazovyara umwana w’umwuzukuru azokwitwa Yakubu.",
-    "footnotes": ""
-  }
+  "id": 71,
+  "verse_number": 71,
+  "page_number": 229,
+  "verse_key": "11:71",
+  "juz_number": 12,
+  "hizb_number": 23,
+  "rub_el_hizb_number": 92,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱمۡرَأَتُهُۥ قَآئِمَةٞ فَضَحِكَتۡ فَبَشَّرۡنَٰهَا بِإِسۡحَٰقَ وَمِن وَرَآءِ إِسۡحَٰقَ يَعۡقُوبَ",
+  "translation": "Aho, umukenyezi wiwe Sarah yari ahagaze haruguru, yaciye atwenga atangazwa n’ivyo yumvise, ni ho rero Twamuha inkuru nziza yashikirijwe n’abo bamalayika ko azokwibaruka umwana azokwitwa Is-haka, hanyuma Is-haka na we akazovyara umwana w’umwuzukuru azokwitwa Yakubu.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4",
-    "sura": "1",
-    "aya": "4",
-    "arabic_text": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
-    "translation": "قىيامەت كۈنىنىڭ ئىگىسىدۇر[4].",
-    "footnotes": null
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 1,
+  "verse_key": "1:4",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "مَٰلِكِ يَوۡمِ ٱلدِّينِ",
+  "translation": "قىيامەت كۈنىنىڭ ئىگىسىدۇر[4].",
+  "footnotes": null
 }

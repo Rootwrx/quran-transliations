@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2950",
-    "sura": "26",
-    "aya": "18",
-    "arabic_text": "قَالَ أَلَمۡ نُرَبِّكَ فِينَا وَلِيدٗا وَلَبِثۡتَ فِينَا مِنۡ عُمُرِكَ سِنِينَ",
-    "translation": "18. El Faraón dijo (a Moisés): “¿Acaso no te educamos de pequeño y viviste entre nosotros muchos años de tu vida,",
-    "footnotes": ""
-  }
+  "id": 18,
+  "verse_number": 18,
+  "page_number": 367,
+  "verse_key": "26:18",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ أَلَمۡ نُرَبِّكَ فِينَا وَلِيدٗا وَلَبِثۡتَ فِينَا مِنۡ عُمُرِكَ سِنِينَ",
+  "translation": "18. El Faraón dijo (a Moisés): “¿Acaso no te educamos de pequeño y viviste entre nosotros muchos años de tu vida,",
+  "footnotes": ""
 }

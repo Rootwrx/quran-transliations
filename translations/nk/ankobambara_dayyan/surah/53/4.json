@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4788",
-    "sura": "53",
-    "aya": "4",
-    "arabic_text": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ",
-    "translation": "ߝߏߦߌ߬ ߕߴߏ߬ ߘߌ߫ ߝߏ߫ ߦߟߌߘߏ߲ߞߊ߲߫ ߗߋߣߍ߲",
-    "footnotes": ""
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 526,
+  "verse_key": "53:4",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 210,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنۡ هُوَ إِلَّا وَحۡيٞ يُوحَىٰ",
+  "translation": "ߝߏߦߌ߬ ߕߴߏ߬ ߘߌ߫ ߝߏ߫ ߦߟߌߘߏ߲ߞߊ߲߫ ߗߋߣߍ߲",
+  "footnotes": ""
 }

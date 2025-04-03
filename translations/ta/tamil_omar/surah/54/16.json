@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4862",
-    "sura": "54",
-    "aya": "16",
-    "arabic_text": "فَكَيۡفَ كَانَ عَذَابِي وَنُذُرِ",
-    "translation": "ஆக, எனது தண்டனையும் எனது எச்சரிக்கையும் எப்படி இருந்தன?",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 529,
+  "verse_key": "54:16",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 212,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكَيۡفَ كَانَ عَذَابِي وَنُذُرِ",
+  "translation": "ஆக, எனது தண்டனையும் எனது எச்சரிக்கையும் எப்படி இருந்தன?",
+  "footnotes": ""
 }

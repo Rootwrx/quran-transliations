@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2839",
-    "sura": "24",
-    "aya": "48",
-    "arabic_text": "وَإِذَا دُعُوٓاْ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِيَحۡكُمَ بَيۡنَهُمۡ إِذَا فَرِيقٞ مِّنۡهُم مُّعۡرِضُونَ",
-    "translation": "Et quand on les appelle vers Allah et Son Messager pour que celui-ci juge parmi eux, voilà que quelques-uns d’entre eux se détournent.",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 356,
+  "verse_key": "24:48",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 142,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا دُعُوٓاْ إِلَى ٱللَّهِ وَرَسُولِهِۦ لِيَحۡكُمَ بَيۡنَهُمۡ إِذَا فَرِيقٞ مِّنۡهُم مُّعۡرِضُونَ",
+  "translation": "Et quand on les appelle vers Allah et Son Messager pour que celui-ci juge parmi eux, voilà que quelques-uns d’entre eux se détournent.",
+  "footnotes": ""
 }

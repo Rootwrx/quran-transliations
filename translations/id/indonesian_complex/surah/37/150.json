@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3938",
-    "sura": "37",
-    "aya": "150",
-    "arabic_text": "أَمۡ خَلَقۡنَا ٱلۡمَلَٰٓئِكَةَ إِنَٰثٗا وَهُمۡ شَٰهِدُونَ",
-    "translation": "atau apakah Kami menciptakan malaikat-malaikat berupa perempuan dan mereka menyaksikan(nya)?",
-    "footnotes": ""
-  }
+  "id": 150,
+  "verse_number": 150,
+  "page_number": 451,
+  "verse_key": "37:150",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ خَلَقۡنَا ٱلۡمَلَٰٓئِكَةَ إِنَٰثٗا وَهُمۡ شَٰهِدُونَ",
+  "translation": "atau apakah Kami menciptakan malaikat-malaikat berupa perempuan dan mereka menyaksikan(nya)?",
+  "footnotes": ""
 }

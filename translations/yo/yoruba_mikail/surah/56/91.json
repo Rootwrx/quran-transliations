@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5070",
-    "sura": "56",
-    "aya": "91",
-    "arabic_text": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
-    "translation": "àlàáfíà ni fún ọ láààrin àwọn èrò ọwọ́ ọ̀tún.",
-    "footnotes": ""
-  }
+  "id": 91,
+  "verse_number": 91,
+  "page_number": 537,
+  "verse_key": "56:91",
+  "juz_number": 27,
+  "hizb_number": 54,
+  "rub_el_hizb_number": 215,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَسَلَٰمٞ لَّكَ مِنۡ أَصۡحَٰبِ ٱلۡيَمِينِ",
+  "translation": "àlàáfíà ni fún ọ láààrin àwọn èrò ọwọ́ ọ̀tún.",
+  "footnotes": ""
 }

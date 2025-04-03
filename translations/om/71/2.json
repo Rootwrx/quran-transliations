@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5421",
-    "sura": "71",
-    "aya": "2",
-    "arabic_text": "قَالَ يَٰقَوۡمِ إِنِّي لَكُمۡ نَذِيرٞ مُّبِينٌ",
-    "translation": "(Nuuhis) ni jedhe: \"yaa ummata kiyya! Ani isiniif akeekkachiisaa ifa bahaadha.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 570,
+  "verse_key": "71:2",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 228,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ يَٰقَوۡمِ إِنِّي لَكُمۡ نَذِيرٞ مُّبِينٌ",
+  "translation": "(Nuuhis) ni jedhe: \"yaa ummata kiyya! Ani isiniif akeekkachiisaa ifa bahaadha.",
+  "footnotes": ""
 }

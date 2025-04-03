@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3234",
-    "sura": "27",
-    "aya": "75",
-    "arabic_text": "وَمَا مِنۡ غَآئِبَةٖ فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِلَّا فِي كِتَٰبٖ مُّبِينٍ",
-    "translation": "(75) And there is nothing concealed[1085] within the heaven and the earth except that it is in a clear Register.[1086]",
-    "footnotes": "[1085]- Literally, \"absent [from the senses].\"\n[1086]- The Preserved Slate (al-Lawḥ al-Maḥfūẓ), which is with Allāh (subḥānahu wa taʿālā)."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 383,
+  "verse_key": "27:75",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا مِنۡ غَآئِبَةٖ فِي ٱلسَّمَآءِ وَٱلۡأَرۡضِ إِلَّا فِي كِتَٰبٖ مُّبِينٍ",
+  "translation": "(75) And there is nothing concealed[1085] within the heaven and the earth except that it is in a clear Register.[1086]",
+  "footnotes": "[1085]- Literally, \"absent [from the senses].\"\n[1086]- The Preserved Slate (al-Lawḥ al-Maḥfūẓ), which is with Allāh (subḥānahu wa taʿālā)."
 }

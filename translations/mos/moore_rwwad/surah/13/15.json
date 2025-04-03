@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1722",
-    "sura": "13",
-    "aya": "15",
-    "arabic_text": "وَلِلَّهِۤ يَسۡجُدُۤ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ طَوۡعٗا وَكَرۡهٗا وَظِلَٰلُهُم بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ۩",
-    "translation": "Yaa Wẽnd A ye bɑl la sẽn be saasẽ la sẽn be tẽng zug gãnegd b mens ne n maand-A Suguudu, ne sɑk-n-tũ bɩ ne tɩlɑe, la b maasmã me mɑɑndɑ boto yibeood lɑ zaabɑ.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 251,
+  "verse_key": "13:15",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 100,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 2,
+  "text": "وَلِلَّهِۤ يَسۡجُدُۤ مَن فِي ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ طَوۡعٗا وَكَرۡهٗا وَظِلَٰلُهُم بِٱلۡغُدُوِّ وَٱلۡأٓصَالِ۩",
+  "translation": "Yaa Wẽnd A ye bɑl la sẽn be saasẽ la sẽn be tẽng zug gãnegd b mens ne n maand-A Suguudu, ne sɑk-n-tũ bɩ ne tɩlɑe, la b maasmã me mɑɑndɑ boto yibeood lɑ zaabɑ.",
+  "footnotes": ""
 }

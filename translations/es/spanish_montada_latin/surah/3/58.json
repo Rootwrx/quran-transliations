@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "351",
-    "sura": "3",
-    "aya": "58",
-    "arabic_text": "ذَٰلِكَ نَتۡلُوهُ عَلَيۡكَ مِنَ ٱلۡأٓيَٰتِ وَٱلذِّكۡرِ ٱلۡحَكِيمِ",
-    "translation": "58. Esto que te contamos (¡oh, Muhammad!) son claras evidencias[104] (de la veracidad de tu mensaje) y de la veracidad de la sabia exhortación de Al-lah (el Corán).",
-    "footnotes": "[104]  También puede entenderse: “Esto que te contamos (¡oh, Muhammad!) es uno de los milagros de Al-lah y parte de Su sabia exhortación (el Corán)”."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 57,
+  "verse_key": "3:58",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 23,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ذَٰلِكَ نَتۡلُوهُ عَلَيۡكَ مِنَ ٱلۡأٓيَٰتِ وَٱلذِّكۡرِ ٱلۡحَكِيمِ",
+  "translation": "58. Esto que te contamos (¡oh, Muhammad!) son claras evidencias[104] (de la veracidad de tu mensaje) y de la veracidad de la sabia exhortación de Al-lah (el Corán).",
+  "footnotes": "[104]  También puede entenderse: “Esto que te contamos (¡oh, Muhammad!) es uno de los milagros de Al-lah y parte de Su sabia exhortación (el Corán)”."
 }

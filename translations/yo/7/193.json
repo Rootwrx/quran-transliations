@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1147",
-    "sura": "7",
-    "aya": "193",
-    "arabic_text": "وَإِن تَدۡعُوهُمۡ إِلَى ٱلۡهُدَىٰ لَا يَتَّبِعُوكُمۡۚ سَوَآءٌ عَلَيۡكُمۡ أَدَعَوۡتُمُوهُمۡ أَمۡ أَنتُمۡ صَٰمِتُونَ",
-    "translation": "Tí ẹ bá pè wọ́n síbi ìmọ̀nà, wọn kò níí tẹ̀lé yín. Bákan náà ni fún yín; ẹ pè wọ́n tàbí ẹ̀yin dákẹ́ ẹnu (fún wọn).",
-    "footnotes": ""
-  }
+  "id": 193,
+  "verse_number": 193,
+  "page_number": 175,
+  "verse_key": "7:193",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِن تَدۡعُوهُمۡ إِلَى ٱلۡهُدَىٰ لَا يَتَّبِعُوكُمۡۚ سَوَآءٌ عَلَيۡكُمۡ أَدَعَوۡتُمُوهُمۡ أَمۡ أَنتُمۡ صَٰمِتُونَ",
+  "translation": "Tí ẹ bá pè wọ́n síbi ìmọ̀nà, wọn kò níí tẹ̀lé yín. Bákan náà ni fún yín; ẹ pè wọ́n tàbí ẹ̀yin dákẹ́ ẹnu (fún wọn).",
+  "footnotes": ""
 }

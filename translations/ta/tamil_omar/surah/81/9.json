@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5809",
-    "sura": "81",
-    "aya": "9",
-    "arabic_text": "بِأَيِّ ذَنۢبٖ قُتِلَتۡ",
-    "translation": "அவள் எந்தக் குற்றத்திற்காக கொல்லப்பட்டாள்? என்று.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 586,
+  "verse_key": "81:9",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 234,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "بِأَيِّ ذَنۢبٖ قُتِلَتۡ",
+  "translation": "அவள் எந்தக் குற்றத்திற்காக கொல்லப்பட்டாள்? என்று.",
+  "footnotes": ""
 }

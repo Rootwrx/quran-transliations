@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "695",
-    "sura": "5",
-    "aya": "26",
-    "arabic_text": "قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيۡهِمۡۛ أَرۡبَعِينَ سَنَةٗۛ يَتِيهُونَ فِي ٱلۡأَرۡضِۚ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡفَٰسِقِينَ",
-    "translation": "(Mwenyezi Mungu) akasema: Basi nchi hiyo wameharimishiwa muda wa miaka arubaini, watakuwa wakitanga-tanga katika ardhi. Basi wewe usiwasikitikie watu wapotovu.",
-    "footnotes": "Mwenyezi Mungu akamuitikia Musa, akawapigia marfuku hao wakhalifu wasiingie nchi hiyo kwa muda wa miaka arubaini, wakipotea ovyo majangwani hawajui wendako wala watokako. Mwenyezi Mungu akamwambia Musa kama kumuasa: Usisikitike kwa masaibu yaliyo wasibu, kwani hawa ni wapotovu, wameiasi amri ya Mwenyezi Mungu."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 112,
+  "verse_key": "5:26",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 44,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ فَإِنَّهَا مُحَرَّمَةٌ عَلَيۡهِمۡۛ أَرۡبَعِينَ سَنَةٗۛ يَتِيهُونَ فِي ٱلۡأَرۡضِۚ فَلَا تَأۡسَ عَلَى ٱلۡقَوۡمِ ٱلۡفَٰسِقِينَ",
+  "translation": "(Mwenyezi Mungu) akasema: Basi nchi hiyo wameharimishiwa muda wa miaka arubaini, watakuwa wakitanga-tanga katika ardhi. Basi wewe usiwasikitikie watu wapotovu.",
+  "footnotes": "Mwenyezi Mungu akamuitikia Musa, akawapigia marfuku hao wakhalifu wasiingie nchi hiyo kwa muda wa miaka arubaini, wakipotea ovyo majangwani hawajui wendako wala watokako. Mwenyezi Mungu akamwambia Musa kama kumuasa: Usisikitike kwa masaibu yaliyo wasibu, kwani hawa ni wapotovu, wameiasi amri ya Mwenyezi Mungu."
 }

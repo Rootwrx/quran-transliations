@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3896",
-    "sura": "37",
-    "aya": "108",
-    "arabic_text": "وَتَرَكۡنَا عَلَيۡهِ فِي ٱلۡأٓخِرِينَ",
-    "translation": "Na yɛgyaa no de maa nkyirimma (maa wͻbͻͻ no din pa).",
-    "footnotes": ""
-  }
+  "id": 108,
+  "verse_number": 108,
+  "page_number": 450,
+  "verse_key": "37:108",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 180,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَتَرَكۡنَا عَلَيۡهِ فِي ٱلۡأٓخِرِينَ",
+  "translation": "Na yɛgyaa no de maa nkyirimma (maa wͻbͻͻ no din pa).",
+  "footnotes": ""
 }

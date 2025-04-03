@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2963",
-    "sura": "26",
-    "aya": "31",
-    "arabic_text": "قَالَ فَأۡتِ بِهِۦٓ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
-    "translation": "31. Dia (Fir'aun) berkata, \"Tunjukkan sesuatu (bukti yang nyata) itu, jika engkau termasuk orang yang benar!”",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 368,
+  "verse_key": "26:31",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ فَأۡتِ بِهِۦٓ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ",
+  "translation": "31. Dia (Fir'aun) berkata, \"Tunjukkan sesuatu (bukti yang nyata) itu, jika engkau termasuk orang yang benar!”",
+  "footnotes": ""
 }

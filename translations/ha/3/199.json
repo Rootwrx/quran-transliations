@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "492",
-    "sura": "3",
-    "aya": "199",
-    "arabic_text": "وَإِنَّ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ لَمَن يُؤۡمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيۡكُمۡ وَمَآ أُنزِلَ إِلَيۡهِمۡ خَٰشِعِينَ لِلَّهِ لَا يَشۡتَرُونَ بِـَٔايَٰتِ ٱللَّهِ ثَمَنٗا قَلِيلًاۚ أُوْلَٰٓئِكَ لَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
-    "translation": "Kuma lalle ne daga Mutãnen Littãfi* haƙĩƙa akwai wanda yake yin ĩmãnĩ da Allah da abin da aka saukar zuwa gare ka, da abin da aka saukar zuwa gare su, sunã mãsu tawãlu'i ga Allah, bã su sayen tamani kaɗan da ãyõyin Allah. Waɗannan suna da ijãrarsu a wurin Ubangijinsu. Lalle ne Allah Mai gaugãwar sakamako da yawa ne.",
-    "footnotes": "* A cikin Mutãnen Littãfi akwai mutãnen ƙwarai na kirki waɗanda hãsada ba ta hana su bin gaskiya ba. Sun sifantu da sifõfin kamãla; watau ba dukkansu ne miyagu ba. Akwai na ƙwarai a cikinsu kamar yadda hãli yake a kõwane tãron mutãne."
-  }
+  "id": 199,
+  "verse_number": 199,
+  "page_number": 76,
+  "verse_key": "3:199",
+  "juz_number": 4,
+  "hizb_number": 8,
+  "rub_el_hizb_number": 30,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ مِنۡ أَهۡلِ ٱلۡكِتَٰبِ لَمَن يُؤۡمِنُ بِٱللَّهِ وَمَآ أُنزِلَ إِلَيۡكُمۡ وَمَآ أُنزِلَ إِلَيۡهِمۡ خَٰشِعِينَ لِلَّهِ لَا يَشۡتَرُونَ بِـَٔايَٰتِ ٱللَّهِ ثَمَنٗا قَلِيلًاۚ أُوْلَٰٓئِكَ لَهُمۡ أَجۡرُهُمۡ عِندَ رَبِّهِمۡۗ إِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
+  "translation": "Kuma lalle ne daga Mutãnen Littãfi* haƙĩƙa akwai wanda yake yin ĩmãnĩ da Allah da abin da aka saukar zuwa gare ka, da abin da aka saukar zuwa gare su, sunã mãsu tawãlu'i ga Allah, bã su sayen tamani kaɗan da ãyõyin Allah. Waɗannan suna da ijãrarsu a wurin Ubangijinsu. Lalle ne Allah Mai gaugãwar sakamako da yawa ne.",
+  "footnotes": "* A cikin Mutãnen Littãfi akwai mutãnen ƙwarai na kirki waɗanda hãsada ba ta hana su bin gaskiya ba. Sun sifantu da sifõfin kamãla; watau ba dukkansu ne miyagu ba. Akwai na ƙwarai a cikinsu kamar yadda hãli yake a kõwane tãron mutãne."
 }

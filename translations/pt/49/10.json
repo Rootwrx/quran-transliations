@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4622",
-    "sura": "49",
-    "aya": "10",
-    "arabic_text": "إِنَّمَا ٱلۡمُؤۡمِنُونَ إِخۡوَةٞ فَأَصۡلِحُواْ بَيۡنَ أَخَوَيۡكُمۡۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُرۡحَمُونَ",
-    "translation": "Os crentes não são que irmãos. Então, reconciliai vossos dois irmãos que pelejarem. E temei a Allah, na esperança de obterdes misericórdia.",
-    "footnotes": ""
-  }
+  "id": 10,
+  "verse_number": 10,
+  "page_number": 516,
+  "verse_key": "49:10",
+  "juz_number": 26,
+  "hizb_number": 52,
+  "rub_el_hizb_number": 206,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا ٱلۡمُؤۡمِنُونَ إِخۡوَةٞ فَأَصۡلِحُواْ بَيۡنَ أَخَوَيۡكُمۡۚ وَٱتَّقُواْ ٱللَّهَ لَعَلَّكُمۡ تُرۡحَمُونَ",
+  "translation": "Os crentes não são que irmãos. Então, reconciliai vossos dois irmãos que pelejarem. E temei a Allah, na esperança de obterdes misericórdia.",
+  "footnotes": ""
 }

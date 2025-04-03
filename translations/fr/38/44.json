@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4014",
-    "sura": "38",
-    "aya": "44",
-    "arabic_text": "وَخُذۡ بِيَدِكَ ضِغۡثٗا فَٱضۡرِب بِّهِۦ وَلَا تَحۡنَثۡۗ إِنَّا وَجَدۡنَٰهُ صَابِرٗاۚ نِّعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٞ",
-    "translation": "\"Et prends dans ta main un faisceau de brindilles, puis frappe avec cela . Et ne viole pas ton serment\". Oui, Nous l’avons trouvé vraiment endurant. Quel bon serviteur ! Sans cesse il se repentait.",
-    "footnotes": "[791] Puis frappe (ta femme): il avait juré de battre sa femme, après sa guérison, parce que celle-ci l’a, un jour, importuné."
-  }
+  "id": 44,
+  "verse_number": 44,
+  "page_number": 456,
+  "verse_key": "38:44",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 182,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَخُذۡ بِيَدِكَ ضِغۡثٗا فَٱضۡرِب بِّهِۦ وَلَا تَحۡنَثۡۗ إِنَّا وَجَدۡنَٰهُ صَابِرٗاۚ نِّعۡمَ ٱلۡعَبۡدُ إِنَّهُۥٓ أَوَّابٞ",
+  "translation": "\"Et prends dans ta main un faisceau de brindilles, puis frappe avec cela . Et ne viole pas ton serment\". Oui, Nous l’avons trouvé vraiment endurant. Quel bon serviteur ! Sans cesse il se repentait.",
+  "footnotes": "[791] Puis frappe (ta femme): il avait juré de battre sa femme, après sa guérison, parce que celle-ci l’a, un jour, importuné."
 }

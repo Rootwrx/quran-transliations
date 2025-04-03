@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3434",
-    "sura": "30",
-    "aya": "25",
-    "arabic_text": "وَمِنۡ ءَايَٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلۡأَرۡضُ بِأَمۡرِهِۦۚ ثُمَّ إِذَا دَعَاكُمۡ دَعۡوَةٗ مِّنَ ٱلۡأَرۡضِ إِذَآ أَنتُمۡ تَخۡرُجُونَ",
-    "translation": "Biri no mu vyemezo vyerekana ko Imana Allah Ishoboye, kuba ijuru hamwe n’isi bibungabunzwe kw’itegeko ryayo[7], hanyuma niyabahamagara ku musi w’izuka, ubwo nyene mwese muzovunduruka muzuka muva mu kuzimu.",
-    "footnotes": "[7] Mu kuba isi idahungabanya abayibako, no mu kuba ijuru ritagwa kw’isi."
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 407,
+  "verse_key": "30:25",
+  "juz_number": 21,
+  "hizb_number": 41,
+  "rub_el_hizb_number": 162,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمِنۡ ءَايَٰتِهِۦٓ أَن تَقُومَ ٱلسَّمَآءُ وَٱلۡأَرۡضُ بِأَمۡرِهِۦۚ ثُمَّ إِذَا دَعَاكُمۡ دَعۡوَةٗ مِّنَ ٱلۡأَرۡضِ إِذَآ أَنتُمۡ تَخۡرُجُونَ",
+  "translation": "Biri no mu vyemezo vyerekana ko Imana Allah Ishoboye, kuba ijuru hamwe n’isi bibungabunzwe kw’itegeko ryayo[7], hanyuma niyabahamagara ku musi w’izuka, ubwo nyene mwese muzovunduruka muzuka muva mu kuzimu.",
+  "footnotes": "[7] Mu kuba isi idahungabanya abayibako, no mu kuba ijuru ritagwa kw’isi."
 }

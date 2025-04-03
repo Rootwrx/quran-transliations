@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3615",
-    "sura": "34",
-    "aya": "9",
-    "arabic_text": "أَفَلَمۡ يَرَوۡاْ إِلَىٰ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ إِن نَّشَأۡ نَخۡسِفۡ بِهِمُ ٱلۡأَرۡضَ أَوۡ نُسۡقِطۡ عَلَيۡهِمۡ كِسَفٗا مِّنَ ٱلسَّمَآءِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّكُلِّ عَبۡدٖ مُّنِيبٖ",
-    "translation": "Ṣé wọn kò rí ohun tó ń bẹ níwájú wọn àti ohun tó ń bẹ lẹ́yìn wọn ní sánmọ̀ àti ilẹ̀? Tí A bá fẹ́, Àwa ìbá jẹ́ kí ilẹ̀ ri mọ́ wọn lẹ́sẹ̀, tàbí kí Á já apá kan nínú sánmọ̀ lulẹ̀ lé wọn lórí mọ́lẹ̀. Dájúdájú àmì kan wà nínú ìyẹn fún gbogbo ẹrúsìn, olùronúpìwàdà.",
-    "footnotes": ""
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 429,
+  "verse_key": "34:9",
+  "juz_number": 22,
+  "hizb_number": 43,
+  "rub_el_hizb_number": 171,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَفَلَمۡ يَرَوۡاْ إِلَىٰ مَا بَيۡنَ أَيۡدِيهِمۡ وَمَا خَلۡفَهُم مِّنَ ٱلسَّمَآءِ وَٱلۡأَرۡضِۚ إِن نَّشَأۡ نَخۡسِفۡ بِهِمُ ٱلۡأَرۡضَ أَوۡ نُسۡقِطۡ عَلَيۡهِمۡ كِسَفٗا مِّنَ ٱلسَّمَآءِۚ إِنَّ فِي ذَٰلِكَ لَأٓيَةٗ لِّكُلِّ عَبۡدٖ مُّنِيبٖ",
+  "translation": "Ṣé wọn kò rí ohun tó ń bẹ níwájú wọn àti ohun tó ń bẹ lẹ́yìn wọn ní sánmọ̀ àti ilẹ̀? Tí A bá fẹ́, Àwa ìbá jẹ́ kí ilẹ̀ ri mọ́ wọn lẹ́sẹ̀, tàbí kí Á já apá kan nínú sánmọ̀ lulẹ̀ lé wọn lórí mọ́lẹ̀. Dájúdájú àmì kan wà nínú ìyẹn fún gbogbo ẹrúsìn, olùronúpìwàdà.",
+  "footnotes": ""
 }

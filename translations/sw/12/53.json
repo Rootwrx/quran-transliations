@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1649",
-    "sura": "12",
-    "aya": "53",
-    "arabic_text": "۞ وَمَآ أُبَرِّئُ نَفۡسِيٓۚ إِنَّ ٱلنَّفۡسَ لَأَمَّارَةُۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّيٓۚ إِنَّ رَبِّي غَفُورٞ رَّحِيمٞ",
-    "translation": "NAmi sijitoi lawamani. Kwa hakika nafsi ni mno kuamrisha maovu, isipo kuwa ile ambayo Mola wangu Mlezi aliyo irehemu. Hakika Mola wangu Mlezi ni Msamehevu na Mwenye kurehemu.",
-    "footnotes": "Wala sidai kuwa nafsi yangu haitelezi; kwani ni tabia ya nafsi kumili kwenye matamanio, na kupendelea maovu na shari. Isipo kuwa nafsi aliyo ilinda Mwenyezi Mungu na akaiweka mbali na maovu. Na hakika mimi ninatumai rehema ya Mwenyezi Mungu na msamaha wake, kwani Yeye ni Mkunjufu wa kusamehe dhambi za wenye kutubu, na yu karibu wa kuwarehemu waja wake walio kosa."
-  }
+  "id": 53,
+  "verse_number": 53,
+  "page_number": 242,
+  "verse_key": "12:53",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَمَآ أُبَرِّئُ نَفۡسِيٓۚ إِنَّ ٱلنَّفۡسَ لَأَمَّارَةُۢ بِٱلسُّوٓءِ إِلَّا مَا رَحِمَ رَبِّيٓۚ إِنَّ رَبِّي غَفُورٞ رَّحِيمٞ",
+  "translation": "NAmi sijitoi lawamani. Kwa hakika nafsi ni mno kuamrisha maovu, isipo kuwa ile ambayo Mola wangu Mlezi aliyo irehemu. Hakika Mola wangu Mlezi ni Msamehevu na Mwenye kurehemu.",
+  "footnotes": "Wala sidai kuwa nafsi yangu haitelezi; kwani ni tabia ya nafsi kumili kwenye matamanio, na kupendelea maovu na shari. Isipo kuwa nafsi aliyo ilinda Mwenyezi Mungu na akaiweka mbali na maovu. Na hakika mimi ninatumai rehema ya Mwenyezi Mungu na msamaha wake, kwani Yeye ni Mkunjufu wa kusamehe dhambi za wenye kutubu, na yu karibu wa kuwarehemu waja wake walio kosa."
 }

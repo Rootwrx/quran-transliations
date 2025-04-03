@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3254",
-    "sura": "28",
-    "aya": "2",
-    "arabic_text": "تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ",
-    "translation": "Đó là những câu Kinh của một Kinh Sách rõ ràng (không mơ hồ và bí ẩn).",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 385,
+  "verse_key": "28:2",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ ٱلۡمُبِينِ",
+  "translation": "Đó là những câu Kinh của một Kinh Sách rõ ràng (không mơ hồ và bí ẩn).",
+  "footnotes": ""
 }

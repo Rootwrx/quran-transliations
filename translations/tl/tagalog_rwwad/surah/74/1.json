@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5496",
-    "sura": "74",
-    "aya": "1",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلۡمُدَّثِّرُ",
-    "translation": "O nagtatalukbong,[1]",
-    "footnotes": "[1] Nagtakip ang Propeta ng sarili dahil sa pagkatakot sa nakita."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 575,
+  "verse_key": "74:1",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 230,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلۡمُدَّثِّرُ",
+  "translation": "O nagtatalukbong,[1]",
+  "footnotes": "[1] Nagtakip ang Propeta ng sarili dahil sa pagkatakot sa nakita."
 }

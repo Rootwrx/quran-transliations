@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3005",
-    "sura": "26",
-    "aya": "73",
-    "arabic_text": "أَوۡ يَنفَعُونَكُمۡ أَوۡ يَضُرُّونَ",
-    "translation": "73. »¿o tienen poder para beneficiaros o perjudicaros?».",
-    "footnotes": ""
-  }
+  "id": 73,
+  "verse_number": 73,
+  "page_number": 370,
+  "verse_key": "26:73",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَوۡ يَنفَعُونَكُمۡ أَوۡ يَضُرُّونَ",
+  "translation": "73. »¿o tienen poder para beneficiaros o perjudicaros?».",
+  "footnotes": ""
 }

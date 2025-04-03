@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2507",
-    "sura": "21",
-    "aya": "24",
-    "arabic_text": "أَمِ ٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗۖ قُلۡ هَاتُواْ بُرۡهَٰنَكُمۡۖ هَٰذَا ذِكۡرُ مَن مَّعِيَ وَذِكۡرُ مَن قَبۡلِيۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ ٱلۡحَقَّۖ فَهُم مُّعۡرِضُونَ",
-    "translation": "Yoksa O'ndan başka ilahlar mı edindiler? De ki: “Delilinizi getirin. İşte bu, benimle birlikte olanların zikri (kitabı) ve (bu da) benden öncekilerin zikri (kitabı)!” Hayır, onların çoğu hakkı bilmezler; bu yüzden de yüz çevirirler.",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 323,
+  "verse_key": "21:24",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمِ ٱتَّخَذُواْ مِن دُونِهِۦٓ ءَالِهَةٗۖ قُلۡ هَاتُواْ بُرۡهَٰنَكُمۡۖ هَٰذَا ذِكۡرُ مَن مَّعِيَ وَذِكۡرُ مَن قَبۡلِيۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ ٱلۡحَقَّۖ فَهُم مُّعۡرِضُونَ",
+  "translation": "Yoksa O'ndan başka ilahlar mı edindiler? De ki: “Delilinizi getirin. İşte bu, benimle birlikte olanların zikri (kitabı) ve (bu da) benden öncekilerin zikri (kitabı)!” Hayır, onların çoğu hakkı bilmezler; bu yüzden de yüz çevirirler.",
+  "footnotes": ""
 }

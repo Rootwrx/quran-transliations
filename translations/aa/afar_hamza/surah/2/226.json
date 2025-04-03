@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "233",
-    "sura": "2",
-    "aya": "226",
-    "arabic_text": "لِّلَّذِينَ يُؤۡلُونَ مِن نِّسَآئِهِمۡ تَرَبُّصُ أَرۡبَعَةِ أَشۡهُرٖۖ فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
-    "translation": "226. Sinni gennaaqoh Agabul fidoh xayyoowe woonuwaanamah Yallal xiibite mari Affara Alsa ken Qambaalaanam-lon sinni Agabuh gacaanam kee gace waanamah, usun Affara Alsi yamurruqek duma Sinni Agabuh gaceenik, Toysa Diggah Yalli dambi cabti-li xuwaw-li kinni Aben xiibak sinni Agabul gaceenimih Sabbatah.",
-    "footnotes": ""
-  }
+  "id": 226,
+  "verse_number": 226,
+  "page_number": 36,
+  "verse_key": "2:226",
+  "juz_number": 2,
+  "hizb_number": 4,
+  "rub_el_hizb_number": 14,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِّلَّذِينَ يُؤۡلُونَ مِن نِّسَآئِهِمۡ تَرَبُّصُ أَرۡبَعَةِ أَشۡهُرٖۖ فَإِن فَآءُو فَإِنَّ ٱللَّهَ غَفُورٞ رَّحِيمٞ",
+  "translation": "226. Sinni gennaaqoh Agabul fidoh xayyoowe woonuwaanamah Yallal xiibite mari Affara Alsa ken Qambaalaanam-lon sinni Agabuh gacaanam kee gace waanamah, usun Affara Alsi yamurruqek duma Sinni Agabuh gaceenik, Toysa Diggah Yalli dambi cabti-li xuwaw-li kinni Aben xiibak sinni Agabul gaceenimih Sabbatah.",
+  "footnotes": ""
 }

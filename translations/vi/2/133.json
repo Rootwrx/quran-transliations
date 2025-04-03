@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "140",
-    "sura": "2",
-    "aya": "133",
-    "arabic_text": "أَمۡ كُنتُمۡ شُهَدَآءَ إِذۡ حَضَرَ يَعۡقُوبَ ٱلۡمَوۡتُ إِذۡ قَالَ لِبَنِيهِ مَا تَعۡبُدُونَ مِنۢ بَعۡدِيۖ قَالُواْ نَعۡبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ إِلَٰهٗا وَٰحِدٗا وَنَحۡنُ لَهُۥ مُسۡلِمُونَ",
-    "translation": "Hay các ngươi (hỡi người dân Israel) đã có mặt lúc Ya’qub bảo các con của Y trước lúc lâm chung khi Y hỏi: “Các con sẽ thờ phượng ai sau khi cha ra đi?” (Các con của Y) đồng trả lời: “Chúng con chỉ thờ phượng Thượng Đế của tổ tiên của cha là Ibrahim, Isma’il và Is-haq (Isaac), chúng con chỉ thờ một Thượng Đế duy nhất và chúng con là những tín đồ Muslim.”",
-    "footnotes": ""
-  }
+  "id": 133,
+  "verse_number": 133,
+  "page_number": 20,
+  "verse_key": "2:133",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 8,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَمۡ كُنتُمۡ شُهَدَآءَ إِذۡ حَضَرَ يَعۡقُوبَ ٱلۡمَوۡتُ إِذۡ قَالَ لِبَنِيهِ مَا تَعۡبُدُونَ مِنۢ بَعۡدِيۖ قَالُواْ نَعۡبُدُ إِلَٰهَكَ وَإِلَٰهَ ءَابَآئِكَ إِبۡرَٰهِـۧمَ وَإِسۡمَٰعِيلَ وَإِسۡحَٰقَ إِلَٰهٗا وَٰحِدٗا وَنَحۡنُ لَهُۥ مُسۡلِمُونَ",
+  "translation": "Hay các ngươi (hỡi người dân Israel) đã có mặt lúc Ya’qub bảo các con của Y trước lúc lâm chung khi Y hỏi: “Các con sẽ thờ phượng ai sau khi cha ra đi?” (Các con của Y) đồng trả lời: “Chúng con chỉ thờ phượng Thượng Đế của tổ tiên của cha là Ibrahim, Isma’il và Is-haq (Isaac), chúng con chỉ thờ một Thượng Đế duy nhất và chúng con là những tín đồ Muslim.”",
+  "footnotes": ""
 }

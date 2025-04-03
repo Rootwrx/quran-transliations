@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4822",
-    "sura": "53",
-    "aya": "38",
-    "arabic_text": "أَلَّا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰ",
-    "translation": "Ҳеч бир кўтарувчи бошқанинг юкини кўтармас.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 527,
+  "verse_key": "53:38",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 211,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَّا تَزِرُ وَازِرَةٞ وِزۡرَ أُخۡرَىٰ",
+  "translation": "Ҳеч бир кўтарувчи бошқанинг юкини кўтармас.",
+  "footnotes": ""
 }

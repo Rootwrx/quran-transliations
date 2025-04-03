@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6212",
-    "sura": "109",
-    "aya": "5",
-    "arabic_text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
-    "translation": "\"Kuma kũ, ba ku zama mãsu bautã wa abin da nake* bautã wa ba.\"",
-    "footnotes": "* Ãya ta 4 da ta 5 sun nũna addinin ƙarya yakan canza amma na gaskiya bã ya canzawa."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 603,
+  "verse_key": "109:5",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَآ أَنتُمۡ عَٰبِدُونَ مَآ أَعۡبُدُ",
+  "translation": "\"Kuma kũ, ba ku zama mãsu bautã wa abin da nake* bautã wa ba.\"",
+  "footnotes": "* Ãya ta 4 da ta 5 sun nũna addinin ƙarya yakan canza amma na gaskiya bã ya canzawa."
 }

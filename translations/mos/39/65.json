@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4123",
-    "sura": "39",
-    "aya": "65",
-    "arabic_text": "وَلَقَدۡ أُوحِيَ إِلَيۡكَ وَإِلَى ٱلَّذِينَ مِن قَبۡلِكَ لَئِنۡ أَشۡرَكۡتَ لَيَحۡبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ ٱلۡخَٰسِرِينَ",
-    "translation": "La sɩd la hakɩɩka b tʋmsame tɩ wa fo nengẽ la neb nins sẽn reng fo taoorã nengẽ: \"tɩ fo sã n maan lagem-n-taare, hakɩɩka fo tʋʋmdã na lʋɩ, la f na lagem bõn rãmba\".",
-    "footnotes": ""
-  }
+  "id": 65,
+  "verse_number": 65,
+  "page_number": 465,
+  "verse_key": "39:65",
+  "juz_number": 24,
+  "hizb_number": 47,
+  "rub_el_hizb_number": 186,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ أُوحِيَ إِلَيۡكَ وَإِلَى ٱلَّذِينَ مِن قَبۡلِكَ لَئِنۡ أَشۡرَكۡتَ لَيَحۡبَطَنَّ عَمَلُكَ وَلَتَكُونَنَّ مِنَ ٱلۡخَٰسِرِينَ",
+  "translation": "La sɩd la hakɩɩka b tʋmsame tɩ wa fo nengẽ la neb nins sẽn reng fo taoorã nengẽ: \"tɩ fo sã n maan lagem-n-taare, hakɩɩka fo tʋʋmdã na lʋɩ, la f na lagem bõn rãmba\".",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "797",
-    "sura": "6",
-    "aya": "8",
-    "arabic_text": "وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ مَلَكٞۖ وَلَوۡ أَنزَلۡنَا مَلَكٗا لَّقُضِيَ ٱلۡأَمۡرُ ثُمَّ لَا يُنظَرُونَ",
-    "translation": "Bari no kuvuga bati: “Ubwo Imana ntiyari gupfuma Imumanurira umumalayika avuye mw’ijuru kugira yemeze ko ari Intumwa vy’ukuri, tugaheza tukamwemera!”. Iyo rero Tumanura umumalayika avuye mw’ijuru nk’uko babisavye hanyuma bakagarariza, hari gufatwa ingingo yo kubahonya, ntibari no guhabwa n’akanya na gato ko kwigaya, kuko Imana Allah Irazi mu vyagezwe ko batari kwemera kubera ubugaba bwabo.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 128,
+  "verse_key": "6:8",
+  "juz_number": 7,
+  "hizb_number": 13,
+  "rub_el_hizb_number": 51,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ مَلَكٞۖ وَلَوۡ أَنزَلۡنَا مَلَكٗا لَّقُضِيَ ٱلۡأَمۡرُ ثُمَّ لَا يُنظَرُونَ",
+  "translation": "Bari no kuvuga bati: “Ubwo Imana ntiyari gupfuma Imumanurira umumalayika avuye mw’ijuru kugira yemeze ko ari Intumwa vy’ukuri, tugaheza tukamwemera!”. Iyo rero Tumanura umumalayika avuye mw’ijuru nk’uko babisavye hanyuma bakagarariza, hari gufatwa ingingo yo kubahonya, ntibari no guhabwa n’akanya na gato ko kwigaya, kuko Imana Allah Irazi mu vyagezwe ko batari kwemera kubera ubugaba bwabo.",
+  "footnotes": ""
 }

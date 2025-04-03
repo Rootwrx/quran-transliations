@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1737",
-    "sura": "13",
-    "aya": "30",
-    "arabic_text": "كَذَٰلِكَ أَرۡسَلۡنَٰكَ فِيٓ أُمَّةٖ قَدۡ خَلَتۡ مِن قَبۡلِهَآ أُمَمٞ لِّتَتۡلُوَاْ عَلَيۡهِمُ ٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ وَهُمۡ يَكۡفُرُونَ بِٱلرَّحۡمَٰنِۚ قُلۡ هُوَ رَبِّي لَآ إِلَٰهَ إِلَّا هُوَ عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ مَتَابِ",
-    "translation": "30. (Del mismo modo que enviamos mensajeros con anterioridad a ti, ¡oh, Muhammad!) te hemos enviado a una comunidad que vio pasar antes a otras comunidades, para que les recites lo que te ha sido revelado (el Corán). Pero, a pesar de ello, no creen en el Clemente. Diles: «Él es mi Señor, no existe nada ni nadie con derecho a ser adorado excepto Él. En Él deposito mi confianza y a Él será mi retorno».",
-    "footnotes": ""
-  }
+  "id": 30,
+  "verse_number": 30,
+  "page_number": 253,
+  "verse_key": "13:30",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "كَذَٰلِكَ أَرۡسَلۡنَٰكَ فِيٓ أُمَّةٖ قَدۡ خَلَتۡ مِن قَبۡلِهَآ أُمَمٞ لِّتَتۡلُوَاْ عَلَيۡهِمُ ٱلَّذِيٓ أَوۡحَيۡنَآ إِلَيۡكَ وَهُمۡ يَكۡفُرُونَ بِٱلرَّحۡمَٰنِۚ قُلۡ هُوَ رَبِّي لَآ إِلَٰهَ إِلَّا هُوَ عَلَيۡهِ تَوَكَّلۡتُ وَإِلَيۡهِ مَتَابِ",
+  "translation": "30. (Del mismo modo que enviamos mensajeros con anterioridad a ti, ¡oh, Muhammad!) te hemos enviado a una comunidad que vio pasar antes a otras comunidades, para que les recites lo que te ha sido revelado (el Corán). Pero, a pesar de ello, no creen en el Clemente. Diles: «Él es mi Señor, no existe nada ni nadie con derecho a ser adorado excepto Él. En Él deposito mi confianza y a Él será mi retorno».",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4505",
-    "sura": "45",
-    "aya": "32",
-    "arabic_text": "وَإِذَا قِيلَ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَٱلسَّاعَةُ لَا رَيۡبَ فِيهَا قُلۡتُم مَّا نَدۡرِي مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنّٗا وَمَا نَحۡنُ بِمُسۡتَيۡقِنِينَ",
-    "translation": "32. Diggah Yalli Qhiyaamah ayró magooqak sinam ugusu waamah hee xagni nummaay, Qhiyaamá akkelem agay waaga mali siinik iyyan waqdi, Qhiyaamá kinnim manaaxiga is takku waytam manakkala, akkal akke waytek kaadu nanu asmatah tet nummaysa mara hinnino ittan.",
-    "footnotes": ""
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 501,
+  "verse_key": "45:32",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 200,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا قِيلَ إِنَّ وَعۡدَ ٱللَّهِ حَقّٞ وَٱلسَّاعَةُ لَا رَيۡبَ فِيهَا قُلۡتُم مَّا نَدۡرِي مَا ٱلسَّاعَةُ إِن نَّظُنُّ إِلَّا ظَنّٗا وَمَا نَحۡنُ بِمُسۡتَيۡقِنِينَ",
+  "translation": "32. Diggah Yalli Qhiyaamah ayró magooqak sinam ugusu waamah hee xagni nummaay, Qhiyaamá akkelem agay waaga mali siinik iyyan waqdi, Qhiyaamá kinnim manaaxiga is takku waytam manakkala, akkal akke waytek kaadu nanu asmatah tet nummaysa mara hinnino ittan.",
+  "footnotes": ""
 }

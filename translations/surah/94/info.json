@@ -1,0 +1,27 @@
+{
+  "number": 94,
+  "name": {
+    "ar": "الشرح",
+    "en": "The Consolation",
+    "transliteration": "Ash-Sharh"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 12,
+  "bismillah_pre": true,
+  "verses_count": 8,
+  "words_count": 27,
+  "letters_count": 102,
+  "pages": [
+    596,
+    596
+  ],
+  "name_simple": "Ash-Sharh",
+  "name_complex": "Ash-Sharĥ",
+  "name_arabic": "الشرح",
+  "translated_name": "The Relief",
+  "start_page": 596,
+  "end_page": 597
+}

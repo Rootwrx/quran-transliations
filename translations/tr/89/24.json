@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6017",
-    "sura": "89",
-    "aya": "24",
-    "arabic_text": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي",
-    "translation": "Der ki: \"Ah keşke! (Bu) hayatım için önceden bir şeyler göndermiş olsaydım!\"",
-    "footnotes": ""
-  }
+  "id": 24,
+  "verse_number": 24,
+  "page_number": 594,
+  "verse_key": "89:24",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَقُولُ يَٰلَيۡتَنِي قَدَّمۡتُ لِحَيَاتِي",
+  "translation": "Der ki: \"Ah keşke! (Bu) hayatım için önceden bir şeyler göndermiş olsaydım!\"",
+  "footnotes": ""
 }

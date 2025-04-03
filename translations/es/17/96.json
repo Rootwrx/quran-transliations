@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2125",
-    "sura": "17",
-    "aya": "96",
-    "arabic_text": "قُلۡ كَفَىٰ بِٱللَّهِ شَهِيدَۢا بَيۡنِي وَبَيۡنَكُمۡۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرَۢا بَصِيرٗا",
-    "translation": "96. Diles: “Dios es suficiente testigo de mi veracidad entre ustedes y yo. Él está bien informado sobre Sus siervos y los observa”.",
-    "footnotes": ""
-  }
+  "id": 96,
+  "verse_number": 96,
+  "page_number": 291,
+  "verse_key": "17:96",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 116,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلۡ كَفَىٰ بِٱللَّهِ شَهِيدَۢا بَيۡنِي وَبَيۡنَكُمۡۚ إِنَّهُۥ كَانَ بِعِبَادِهِۦ خَبِيرَۢا بَصِيرٗا",
+  "translation": "96. Diles: “Dios es suficiente testigo de mi veracidad entre ustedes y yo. Él está bien informado sobre Sus siervos y los observa”.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "718",
-    "sura": "5",
-    "aya": "49",
-    "arabic_text": "وَأَنِ ٱحۡكُم بَيۡنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعۡ أَهۡوَآءَهُمۡ وَٱحۡذَرۡهُمۡ أَن يَفۡتِنُوكَ عَنۢ بَعۡضِ مَآ أَنزَلَ ٱللَّهُ إِلَيۡكَۖ فَإِن تَوَلَّوۡاْ فَٱعۡلَمۡ أَنَّمَا يُرِيدُ ٱللَّهُ أَن يُصِيبَهُم بِبَعۡضِ ذُنُوبِهِمۡۗ وَإِنَّ كَثِيرٗا مِّنَ ٱلنَّاسِ لَفَٰسِقُونَ",
-    "translation": "Na humatol ka sa pagitan nila ng ayon sa pinababa ni Allāh, huwag kang sumunod sa mga pithaya nila, at mag-ingat ka sa kanila na makatukso sila sa iyo palayo sa ilan sa pinababa ni Allāh sa iyo. Kaya kung tumalikod sila ay alamin mo na nagnanais lamang si Allāh na magpatama sa kanila ng ilan sa mga pagkakasala nila. Tunay na marami sa mga tao ay talagang mga suwail.",
-    "footnotes": ""
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 116,
+  "verse_key": "5:49",
+  "juz_number": 6,
+  "hizb_number": 12,
+  "rub_el_hizb_number": 46,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنِ ٱحۡكُم بَيۡنَهُم بِمَآ أَنزَلَ ٱللَّهُ وَلَا تَتَّبِعۡ أَهۡوَآءَهُمۡ وَٱحۡذَرۡهُمۡ أَن يَفۡتِنُوكَ عَنۢ بَعۡضِ مَآ أَنزَلَ ٱللَّهُ إِلَيۡكَۖ فَإِن تَوَلَّوۡاْ فَٱعۡلَمۡ أَنَّمَا يُرِيدُ ٱللَّهُ أَن يُصِيبَهُم بِبَعۡضِ ذُنُوبِهِمۡۗ وَإِنَّ كَثِيرٗا مِّنَ ٱلنَّاسِ لَفَٰسِقُونَ",
+  "translation": "Na humatol ka sa pagitan nila ng ayon sa pinababa ni Allāh, huwag kang sumunod sa mga pithaya nila, at mag-ingat ka sa kanila na makatukso sila sa iyo palayo sa ilan sa pinababa ni Allāh sa iyo. Kaya kung tumalikod sila ay alamin mo na nagnanais lamang si Allāh na magpatama sa kanila ng ilan sa mga pagkakasala nila. Tunay na marami sa mga tao ay talagang mga suwail.",
+  "footnotes": ""
 }

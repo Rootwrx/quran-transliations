@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2724",
-    "sura": "23",
-    "aya": "51",
-    "arabic_text": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُواْ مِنَ ٱلطَّيِّبَٰتِ وَٱعۡمَلُواْ صَٰلِحًاۖ إِنِّي بِمَا تَعۡمَلُونَ عَلِيمٞ",
-    "translation": "Emwe Ntumwa z’Imana! Nimufungure mu vyiza bibaryoheye birekuwe, muheze mukore n’ibikorwa vyiza bitegetswe, mu vy’ukuri Jewe Allah, Ndazi neza ivyo mukora vyose, ndi Nyenubumenyikurivyose[5].",
-    "footnotes": "[5] Ingingo ivugwa muri iyi Aayah yega Intumwa z’Imana zose hamwe n’abemeramana bazikurikiye. Iyi Aayah kandi iranigisha ko ugufungura mu vyiza biryoshe birekuwe gufasha umuntu kunonokerwa mu gukora ibikorwa vyiza bitegetswe, n’uko gufungura ibibi bizira bitera umuntu amagorwa harimwo no kutemererwa igisabisho."
-  }
+  "id": 51,
+  "verse_number": 51,
+  "page_number": 345,
+  "verse_key": "23:51",
+  "juz_number": 18,
+  "hizb_number": 35,
+  "rub_el_hizb_number": 138,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰٓأَيُّهَا ٱلرُّسُلُ كُلُواْ مِنَ ٱلطَّيِّبَٰتِ وَٱعۡمَلُواْ صَٰلِحًاۖ إِنِّي بِمَا تَعۡمَلُونَ عَلِيمٞ",
+  "translation": "Emwe Ntumwa z’Imana! Nimufungure mu vyiza bibaryoheye birekuwe, muheze mukore n’ibikorwa vyiza bitegetswe, mu vy’ukuri Jewe Allah, Ndazi neza ivyo mukora vyose, ndi Nyenubumenyikurivyose[5].",
+  "footnotes": "[5] Ingingo ivugwa muri iyi Aayah yega Intumwa z’Imana zose hamwe n’abemeramana bazikurikiye. Iyi Aayah kandi iranigisha ko ugufungura mu vyiza biryoshe birekuwe gufasha umuntu kunonokerwa mu gukora ibikorwa vyiza bitegetswe, n’uko gufungura ibibi bizira bitera umuntu amagorwa harimwo no kutemererwa igisabisho."
 }

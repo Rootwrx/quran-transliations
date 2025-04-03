@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4474",
-    "sura": "45",
-    "aya": "1",
-    "arabic_text": "حمٓ",
-    "translation": "1. Xaa Miim2.",
-    "footnotes": "1. Al-Jaathiyah: Jilbo ku joogsiga (ehlu Naarka) iyagoo cago jiid ah. \n2. Eeg sharaxa hoose ee Suuradda 2: Aayadda 1."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 499,
+  "verse_key": "45:1",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "حمٓ",
+  "translation": "1. Xaa Miim2.",
+  "footnotes": "1. Al-Jaathiyah: Jilbo ku joogsiga (ehlu Naarka) iyagoo cago jiid ah. \n2. Eeg sharaxa hoose ee Suuradda 2: Aayadda 1."
 }

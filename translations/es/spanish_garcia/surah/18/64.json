@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2204",
-    "sura": "18",
-    "aya": "64",
-    "arabic_text": "قَالَ ذَٰلِكَ مَا كُنَّا نَبۡغِۚ فَٱرۡتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصٗا",
-    "translation": "64. Dijo [Moisés]: “Esa es la señal que buscábamos”, y regresaron sobre sus huellas.",
-    "footnotes": ""
-  }
+  "id": 64,
+  "verse_number": 64,
+  "page_number": 301,
+  "verse_key": "18:64",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 120,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ ذَٰلِكَ مَا كُنَّا نَبۡغِۚ فَٱرۡتَدَّا عَلَىٰٓ ءَاثَارِهِمَا قَصَصٗا",
+  "translation": "64. Dijo [Moisés]: “Esa es la señal que buscábamos”, y regresaron sobre sus huellas.",
+  "footnotes": ""
 }

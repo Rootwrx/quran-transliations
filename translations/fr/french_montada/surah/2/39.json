@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "46",
-    "sura": "2",
-    "aya": "39",
-    "arabic_text": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
-    "translation": "39. Ceux qui ont mécru et ont traité Nos Signes[25] de mensonges, ceux-là sont les hôtes du Feu, où ils demeureront pour l’éternité.",
-    "footnotes": "[25] Le mot « Signe » traduit ici une autre notion particulière à certains vocables coraniques qu’il vaut mieux transcrire tels quels car, en migrant vers les autres langues, ils perdent beaucoup de leurs connotations spécifiques. Il s’agit de la notion âya آية au sens de « signe divin », « merveille divine », « miracle divin », etc. qui prouve à l’évidence qu’Il est le Créateur de Toutes choses."
-  }
+  "id": 39,
+  "verse_number": 39,
+  "page_number": 7,
+  "verse_key": "2:39",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ كَفَرُواْ وَكَذَّبُواْ بِـَٔايَٰتِنَآ أُوْلَٰٓئِكَ أَصۡحَٰبُ ٱلنَّارِۖ هُمۡ فِيهَا خَٰلِدُونَ",
+  "translation": "39. Ceux qui ont mécru et ont traité Nos Signes[25] de mensonges, ceux-là sont les hôtes du Feu, où ils demeureront pour l’éternité.",
+  "footnotes": "[25] Le mot « Signe » traduit ici une autre notion particulière à certains vocables coraniques qu’il vaut mieux transcrire tels quels car, en migrant vers les autres langues, ils perdent beaucoup de leurs connotations spécifiques. Il s’agit de la notion âya آية au sens de « signe divin », « merveille divine », « miracle divin », etc. qui prouve à l’évidence qu’Il est le Créateur de Toutes choses."
 }

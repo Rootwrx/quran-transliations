@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5350",
-    "sura": "69",
-    "aya": "27",
-    "arabic_text": "يَٰلَيۡتَهَا كَانَتِ ٱلۡقَاضِيَةَ",
-    "translation": "‘হায়, মোৰ মৃত্যুৱেই যদি মোৰ বাবে শেষ চূড়ান্ত ফয়চালা হ’লহেঁতেন!",
-    "footnotes": ""
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 567,
+  "verse_key": "69:27",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَٰلَيۡتَهَا كَانَتِ ٱلۡقَاضِيَةَ",
+  "translation": "‘হায়, মোৰ মৃত্যুৱেই যদি মোৰ বাবে শেষ চূড়ান্ত ফয়চালা হ’লহেঁতেন!",
+  "footnotes": ""
 }

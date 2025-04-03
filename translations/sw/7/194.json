@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1148",
-    "sura": "7",
-    "aya": "194",
-    "arabic_text": "إِنَّ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمۡثَالُكُمۡۖ فَٱدۡعُوهُمۡ فَلۡيَسۡتَجِيبُواْ لَكُمۡ إِن كُنتُمۡ صَٰدِقِينَ",
-    "translation": "Hakika hao mnao waomba asiye kuwa Mwenyezi Mungu ni waja mfano wenu nyinyi. Hebu waombeni, nao wakuitikieni, kama mnasema kweli.",
-    "footnotes": "Hakika hao mnao waomba badala ya Mwenyezi Mungu, na mkataraji nafuu kwao, wao wenyewe wanamnyenyekea Mwenyezi Mungu kwa hukumu ya maumbile yao. Kwani Yeye Mwenyezi Mungu amewafanya wafuate amri yake mfano wenu nyinyi. Kama nyinyi mnasema kweli katika madai yenu kuwa hao wanaweza lolote, basi watakeni, na wao wakutimilizieni."
-  }
+  "id": 194,
+  "verse_number": 194,
+  "page_number": 175,
+  "verse_key": "7:194",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 70,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلَّذِينَ تَدۡعُونَ مِن دُونِ ٱللَّهِ عِبَادٌ أَمۡثَالُكُمۡۖ فَٱدۡعُوهُمۡ فَلۡيَسۡتَجِيبُواْ لَكُمۡ إِن كُنتُمۡ صَٰدِقِينَ",
+  "translation": "Hakika hao mnao waomba asiye kuwa Mwenyezi Mungu ni waja mfano wenu nyinyi. Hebu waombeni, nao wakuitikieni, kama mnasema kweli.",
+  "footnotes": "Hakika hao mnao waomba badala ya Mwenyezi Mungu, na mkataraji nafuu kwao, wao wenyewe wanamnyenyekea Mwenyezi Mungu kwa hukumu ya maumbile yao. Kwani Yeye Mwenyezi Mungu amewafanya wafuate amri yake mfano wenu nyinyi. Kama nyinyi mnasema kweli katika madai yenu kuwa hao wanaweza lolote, basi watakeni, na wao wakutimilizieni."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5750",
-    "sura": "79",
-    "aya": "38",
-    "arabic_text": "وَءَاثَرَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
-    "translation": "ಮತ್ತು ಇಹಲೋಕಕ್ಕೆ ಪ್ರಾಶಸ್ತ್ಯ ನೀಡಿದವನೋ,",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 584,
+  "verse_key": "79:38",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَءَاثَرَ ٱلۡحَيَوٰةَ ٱلدُّنۡيَا",
+  "translation": "ಮತ್ತು ಇಹಲೋಕಕ್ಕೆ ಪ್ರಾಶಸ್ತ್ಯ ನೀಡಿದವನೋ,",
+  "footnotes": ""
 }

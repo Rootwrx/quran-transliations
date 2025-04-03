@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1658",
-    "sura": "12",
-    "aya": "62",
-    "arabic_text": "وَقَالَ لِفِتۡيَٰنِهِ ٱجۡعَلُواْ بِضَٰعَتَهُمۡ فِي رِحَالِهِمۡ لَعَلَّهُمۡ يَعۡرِفُونَهَآ إِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمۡ لَعَلَّهُمۡ يَرۡجِعُونَ",
-    "translation": "Na Yusuf akawaambia watumishi wake: Tieni bidhaa zao katika mizigo yao, ili wazione watakapo rudi kwa watu wao wapate kurejea tena.",
-    "footnotes": "Walipo taka kuondoka aliwaambia wafwasi wake: Watilieni thamani ya bidhaa yao waliyo kuja nayo humo humo pamoja na mizigo yao, ili waione watakapo rudi kwa watu wao, wapate kurejea tena kwa kutumai kupewa chakula kwa kuamini kuwa tunatimiza ahadi, na wawe na imani ya usalama wa ndugu yao, na baba yao azidi kutua nafsi yake."
-  }
+  "id": 62,
+  "verse_number": 62,
+  "page_number": 242,
+  "verse_key": "12:62",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 97,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقَالَ لِفِتۡيَٰنِهِ ٱجۡعَلُواْ بِضَٰعَتَهُمۡ فِي رِحَالِهِمۡ لَعَلَّهُمۡ يَعۡرِفُونَهَآ إِذَا ٱنقَلَبُوٓاْ إِلَىٰٓ أَهۡلِهِمۡ لَعَلَّهُمۡ يَرۡجِعُونَ",
+  "translation": "Na Yusuf akawaambia watumishi wake: Tieni bidhaa zao katika mizigo yao, ili wazione watakapo rudi kwa watu wao wapate kurejea tena.",
+  "footnotes": "Walipo taka kuondoka aliwaambia wafwasi wake: Watilieni thamani ya bidhaa yao waliyo kuja nayo humo humo pamoja na mizigo yao, ili waione watakapo rudi kwa watu wao, wapate kurejea tena kwa kutumai kupewa chakula kwa kuamini kuwa tunatimiza ahadi, na wawe na imani ya usalama wa ndugu yao, na baba yao azidi kutua nafsi yake."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2300",
-    "sura": "19",
-    "aya": "50",
-    "arabic_text": "وَوَهَبۡنَا لَهُم مِّن رَّحۡمَتِنَا وَجَعَلۡنَا لَهُمۡ لِسَانَ صِدۡقٍ عَلِيّٗا",
-    "translation": " 50. And We gave them of Our Mercy (a good provision in plenty), and We granted them honour on the tongues (of all the nations, i.e. everybody remembers them with a good praise).[2]",
-    "footnotes": "(V.19:50) See the footnote of (V.2:135) and the footnotes (A, B and C) of (V.16:121)"
-  }
+  "id": 50,
+  "verse_number": 50,
+  "page_number": 308,
+  "verse_key": "19:50",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَوَهَبۡنَا لَهُم مِّن رَّحۡمَتِنَا وَجَعَلۡنَا لَهُمۡ لِسَانَ صِدۡقٍ عَلِيّٗا",
+  "translation": " 50. And We gave them of Our Mercy (a good provision in plenty), and We granted them honour on the tongues (of all the nations, i.e. everybody remembers them with a good praise).[2]",
+  "footnotes": "(V.19:50) See the footnote of (V.2:135) and the footnotes (A, B and C) of (V.16:121)"
 }

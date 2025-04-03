@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3380",
-    "sura": "29",
-    "aya": "40",
-    "arabic_text": "فَكُلًّا أَخَذۡنَا بِذَنۢبِهِۦۖ فَمِنۡهُم مَّنۡ أَرۡسَلۡنَا عَلَيۡهِ حَاصِبٗا وَمِنۡهُم مَّنۡ أَخَذَتۡهُ ٱلصَّيۡحَةُ وَمِنۡهُم مَّنۡ خَسَفۡنَا بِهِ ٱلۡأَرۡضَ وَمِنۡهُم مَّنۡ أَغۡرَقۡنَاۚ وَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
-    "translation": "Kaya sa bawat isa ay dumaklot Kami dahil sa pagkakasala nito sapagkat kabilang sa kanila[12] ay pinadalhan Namin ng isang unos ng mga bato, kabilang sa kanila[13] ay kinuha ng hiyaw, kabilang sa kanila[14] ay ipinalamon Namin sa lupa, at kabilang sa kanila[15] ay nilunod Namin. Hindi si Allāh naging ukol na lumabag sa katarungan sa kanila subalit sila noon sa mga sarili nila ay lumalabag sa katarungan.",
-    "footnotes": "[12] na mga kakabayan ni Lot\n[13] na liping Thamūd at mga kalipi ni Shu`ayb\n[14] na si Qārūn\n[15] na mga kababaya nina Noe at Paraon"
-  }
+  "id": 40,
+  "verse_number": 40,
+  "page_number": 401,
+  "verse_key": "29:40",
+  "juz_number": 20,
+  "hizb_number": 40,
+  "rub_el_hizb_number": 160,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَكُلًّا أَخَذۡنَا بِذَنۢبِهِۦۖ فَمِنۡهُم مَّنۡ أَرۡسَلۡنَا عَلَيۡهِ حَاصِبٗا وَمِنۡهُم مَّنۡ أَخَذَتۡهُ ٱلصَّيۡحَةُ وَمِنۡهُم مَّنۡ خَسَفۡنَا بِهِ ٱلۡأَرۡضَ وَمِنۡهُم مَّنۡ أَغۡرَقۡنَاۚ وَمَا كَانَ ٱللَّهُ لِيَظۡلِمَهُمۡ وَلَٰكِن كَانُوٓاْ أَنفُسَهُمۡ يَظۡلِمُونَ",
+  "translation": "Kaya sa bawat isa ay dumaklot Kami dahil sa pagkakasala nito sapagkat kabilang sa kanila[12] ay pinadalhan Namin ng isang unos ng mga bato, kabilang sa kanila[13] ay kinuha ng hiyaw, kabilang sa kanila[14] ay ipinalamon Namin sa lupa, at kabilang sa kanila[15] ay nilunod Namin. Hindi si Allāh naging ukol na lumabag sa katarungan sa kanila subalit sila noon sa mga sarili nila ay lumalabag sa katarungan.",
+  "footnotes": "[12] na mga kakabayan ni Lot\n[13] na liping Thamūd at mga kalipi ni Shu`ayb\n[14] na si Qārūn\n[15] na mga kababaya nina Noe at Paraon"
 }

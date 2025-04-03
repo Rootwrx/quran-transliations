@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5477",
-    "sura": "73",
-    "aya": "2",
-    "arabic_text": "قُمِ ٱلَّيۡلَ إِلَّا قَلِيلٗا",
-    "translation": "bangunlah (untuk salat) di malam hari1526, kecuali sedikit (darinya),",
-    "footnotes": "1526.  Salat malam ini mula-mula wajib, sebelum turun ayat ke-20 dalam surah ini.  Setelah turunnya ayat ke-20 ini hukumnya menjadi sunah. "
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 574,
+  "verse_key": "73:2",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 229,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُمِ ٱلَّيۡلَ إِلَّا قَلِيلٗا",
+  "translation": "bangunlah (untuk salat) di malam hari1526, kecuali sedikit (darinya),",
+  "footnotes": "1526.  Salat malam ini mula-mula wajib, sebelum turun ayat ke-20 dalam surah ini.  Setelah turunnya ayat ke-20 ini hukumnya menjadi sunah. "
 }

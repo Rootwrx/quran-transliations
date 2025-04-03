@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "99",
-    "sura": "2",
-    "aya": "92",
-    "arabic_text": "۞ وَلَقَدۡ جَآءَكُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
-    "translation": "Kuma lalle ne haƙĩƙa Mũsã ya zo muku da hujjõji bayyanannu, sa'an nan kuka riƙi maraƙi* (daga bãyansa, alhãli kuwa kuna mãsu zãlunci.",
-    "footnotes": "* Riƙo A nan ma'anarsa bautawa; watau kõmãwa ga maraƙi da ibãda, ku bar Allah, bãyan Musa ya nuna muku ãyõyin Allah, yana ƙãra ƙaryata maganarku, ta cewa kunã yin ĩmãni da abin da aka saukar muku kawai. Dã kunã yin ĩmãni da abin da aka saukar muku, dã waɗannan abubuwa ba su auku ba daga gare ku."
-  }
+  "id": 92,
+  "verse_number": 92,
+  "page_number": 14,
+  "verse_key": "2:92",
+  "juz_number": 1,
+  "hizb_number": 2,
+  "rub_el_hizb_number": 6,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ وَلَقَدۡ جَآءَكُم مُّوسَىٰ بِٱلۡبَيِّنَٰتِ ثُمَّ ٱتَّخَذۡتُمُ ٱلۡعِجۡلَ مِنۢ بَعۡدِهِۦ وَأَنتُمۡ ظَٰلِمُونَ",
+  "translation": "Kuma lalle ne haƙĩƙa Mũsã ya zo muku da hujjõji bayyanannu, sa'an nan kuka riƙi maraƙi* (daga bãyansa, alhãli kuwa kuna mãsu zãlunci.",
+  "footnotes": "* Riƙo A nan ma'anarsa bautawa; watau kõmãwa ga maraƙi da ibãda, ku bar Allah, bãyan Musa ya nuna muku ãyõyin Allah, yana ƙãra ƙaryata maganarku, ta cewa kunã yin ĩmãni da abin da aka saukar muku kawai. Dã kunã yin ĩmãni da abin da aka saukar muku, dã waɗannan abubuwa ba su auku ba daga gare ku."
 }

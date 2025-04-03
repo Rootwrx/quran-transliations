@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1739",
-    "sura": "13",
-    "aya": "32",
-    "arabic_text": "وَلَقَدِ ٱسۡتُهۡزِئَ بِرُسُلٖ مِّن قَبۡلِكَ فَأَمۡلَيۡتُ لِلَّذِينَ كَفَرُواْ ثُمَّ أَخَذۡتُهُمۡۖ فَكَيۡفَ كَانَ عِقَابِ",
-    "translation": "Senden önce de nice rasûllerle alay edilmişti. Kâfirler önce erteledim, sonra da (azap ile) yakaladım. Azabım nasılmış? ",
-    "footnotes": null
-  }
+  "id": 32,
+  "verse_number": 32,
+  "page_number": 253,
+  "verse_key": "13:32",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدِ ٱسۡتُهۡزِئَ بِرُسُلٖ مِّن قَبۡلِكَ فَأَمۡلَيۡتُ لِلَّذِينَ كَفَرُواْ ثُمَّ أَخَذۡتُهُمۡۖ فَكَيۡفَ كَانَ عِقَابِ",
+  "translation": "Senden önce de nice rasûllerle alay edilmişti. Kâfirler önce erteledim, sonra da (azap ile) yakaladım. Azabım nasılmış? ",
+  "footnotes": null
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4744",
-    "sura": "52",
-    "aya": "9",
-    "arabic_text": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا",
-    "translation": "O gün gök çok çalkalanıp duracak.",
-    "footnotes": null
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 523,
+  "verse_key": "52:9",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا",
+  "translation": "O gün gök çok çalkalanıp duracak.",
+  "footnotes": null
 }

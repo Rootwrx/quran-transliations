@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4545",
-    "sura": "46",
-    "aya": "35",
-    "arabic_text": "فَٱصۡبِرۡ كَمَا صَبَرَ أُوْلُواْ ٱلۡعَزۡمِ مِنَ ٱلرُّسُلِ وَلَا تَسۡتَعۡجِل لَّهُمۡۚ كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَ مَا يُوعَدُونَ لَمۡ يَلۡبَثُوٓاْ إِلَّا سَاعَةٗ مِّن نَّهَارِۭۚ بَلَٰغٞۚ فَهَلۡ يُهۡلَكُ إِلَّا ٱلۡقَوۡمُ ٱلۡفَٰسِقُونَ",
-    "translation": "Sabõda haka, ka yi haƙuri kamar yadda mãsu ƙarfin niyya daga Manzanni suka yi haƙuri. Kuma kada ka yi musu gaggãwa. Kamar dai sũ, a rãnar da suke ganin (sakamako) abin da ake yi musu wa'adi ba su zauna ba, fãce sa'a guda daga yini. Iyarwa dai da Manzanci). Shin, akwai wanda za a halakar? (Bãbu), fãce mutãne fasiƙai.",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 506,
+  "verse_key": "46:35",
+  "juz_number": 26,
+  "hizb_number": 51,
+  "rub_el_hizb_number": 202,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱصۡبِرۡ كَمَا صَبَرَ أُوْلُواْ ٱلۡعَزۡمِ مِنَ ٱلرُّسُلِ وَلَا تَسۡتَعۡجِل لَّهُمۡۚ كَأَنَّهُمۡ يَوۡمَ يَرَوۡنَ مَا يُوعَدُونَ لَمۡ يَلۡبَثُوٓاْ إِلَّا سَاعَةٗ مِّن نَّهَارِۭۚ بَلَٰغٞۚ فَهَلۡ يُهۡلَكُ إِلَّا ٱلۡقَوۡمُ ٱلۡفَٰسِقُونَ",
+  "translation": "Sabõda haka, ka yi haƙuri kamar yadda mãsu ƙarfin niyya daga Manzanni suka yi haƙuri. Kuma kada ka yi musu gaggãwa. Kamar dai sũ, a rãnar da suke ganin (sakamako) abin da ake yi musu wa'adi ba su zauna ba, fãce sa'a guda daga yini. Iyarwa dai da Manzanci). Shin, akwai wanda za a halakar? (Bãbu), fãce mutãne fasiƙai.",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2597",
-    "sura": "22",
-    "aya": "2",
-    "arabic_text": "يَوۡمَ تَرَوۡنَهَا تَذۡهَلُ كُلُّ مُرۡضِعَةٍ عَمَّآ أَرۡضَعَتۡ وَتَضَعُ كُلُّ ذَاتِ حَمۡلٍ حَمۡلَهَا وَتَرَى ٱلنَّاسَ سُكَٰرَىٰ وَمَا هُم بِسُكَٰرَىٰ وَلَٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٞ",
-    "translation": "Umusi mwabonye umuhero w’isi ugeze, intureka zawo zizotuma umuvyeyi yonsa yibagira umwana ariko aronsa; umugore yibungeze na we, azokorora imbanyi kubera ubwoba bubica bigacika; maze ubone abantu baborewe bataye ubwenge ata biboreza bashize ku munwa, ariko ivyo vyose bizoterwa n’ibihano vy’Imana Allah bikaze.",
-    "footnotes": ""
-  }
+  "id": 2,
+  "verse_number": 2,
+  "page_number": 332,
+  "verse_key": "22:2",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 133,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ تَرَوۡنَهَا تَذۡهَلُ كُلُّ مُرۡضِعَةٍ عَمَّآ أَرۡضَعَتۡ وَتَضَعُ كُلُّ ذَاتِ حَمۡلٍ حَمۡلَهَا وَتَرَى ٱلنَّاسَ سُكَٰرَىٰ وَمَا هُم بِسُكَٰرَىٰ وَلَٰكِنَّ عَذَابَ ٱللَّهِ شَدِيدٞ",
+  "translation": "Umusi mwabonye umuhero w’isi ugeze, intureka zawo zizotuma umuvyeyi yonsa yibagira umwana ariko aronsa; umugore yibungeze na we, azokorora imbanyi kubera ubwoba bubica bigacika; maze ubone abantu baborewe bataye ubwenge ata biboreza bashize ku munwa, ariko ivyo vyose bizoterwa n’ibihano vy’Imana Allah bikaze.",
+  "footnotes": ""
 }

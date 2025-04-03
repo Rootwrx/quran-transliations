@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5653",
-    "sura": "77",
-    "aya": "31",
-    "arabic_text": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ",
-    "translation": "那荫影不是阴凉的，不能遮挡火焰的热浪。",
-    "footnotes": ""
-  }
+  "id": 31,
+  "verse_number": 31,
+  "page_number": 581,
+  "verse_key": "77:31",
+  "juz_number": 29,
+  "hizb_number": 58,
+  "rub_el_hizb_number": 232,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا ظَلِيلٖ وَلَا يُغۡنِي مِنَ ٱللَّهَبِ",
+  "translation": "那荫影不是阴凉的，不能遮挡火焰的热浪。",
+  "footnotes": ""
 }

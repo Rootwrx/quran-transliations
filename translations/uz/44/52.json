@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4466",
-    "sura": "44",
-    "aya": "52",
-    "arabic_text": "فِي جَنَّٰتٖ وَعُيُونٖ",
-    "translation": "52. боғлар ва чашмалар устида бўлурлар.",
-    "footnotes": ""
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 498,
+  "verse_key": "44:52",
+  "juz_number": 25,
+  "hizb_number": 50,
+  "rub_el_hizb_number": 199,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فِي جَنَّٰتٖ وَعُيُونٖ",
+  "translation": "52. боғлар ва чашмалар устида бўлурлар.",
+  "footnotes": ""
 }

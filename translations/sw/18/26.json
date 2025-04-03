@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2166",
-    "sura": "18",
-    "aya": "26",
-    "arabic_text": "قُلِ ٱللَّهُ أَعۡلَمُ بِمَا لَبِثُواْۖ لَهُۥ غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ أَبۡصِرۡ بِهِۦ وَأَسۡمِعۡۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِيّٖ وَلَا يُشۡرِكُ فِي حُكۡمِهِۦٓ أَحَدٗا",
-    "translation": "Sema: Mwenyezi Mungu anajua zaidi muda walio kaa. Ni zake tu siri za mbingu na ardhi. Kuona kulioje na kusikia kwake! Hawana mlinzi isipo kuwa Yeye, wala hamshirikishi yeyote katika hukumu yake.",
-    "footnotes": "Ewe Mtume! Waambie watu: Mwenyezi Mungu peke yake ndiye Mwenye kujua zama zao zote. Kwani Yeye Subhanahu ndiye aliye khusika kujua siri za mbingu na ardhi. Jinsi gani kulivyo tukuka kuona kwake kwa viumbe vyote! Na jinsi gani kulivyo tukuka kusikia kwake kwa kila cha kusikilizana! Na hapana katika wa mbinguni na wa katika ardhi wa kuendesha mambo yao isipo kuwa Yeye. Na wala hapana wa kumshiriki katika hukumu yake kiumbe chochote."
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 296,
+  "verse_key": "18:26",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 118,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قُلِ ٱللَّهُ أَعۡلَمُ بِمَا لَبِثُواْۖ لَهُۥ غَيۡبُ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِۖ أَبۡصِرۡ بِهِۦ وَأَسۡمِعۡۚ مَا لَهُم مِّن دُونِهِۦ مِن وَلِيّٖ وَلَا يُشۡرِكُ فِي حُكۡمِهِۦٓ أَحَدٗا",
+  "translation": "Sema: Mwenyezi Mungu anajua zaidi muda walio kaa. Ni zake tu siri za mbingu na ardhi. Kuona kulioje na kusikia kwake! Hawana mlinzi isipo kuwa Yeye, wala hamshirikishi yeyote katika hukumu yake.",
+  "footnotes": "Ewe Mtume! Waambie watu: Mwenyezi Mungu peke yake ndiye Mwenye kujua zama zao zote. Kwani Yeye Subhanahu ndiye aliye khusika kujua siri za mbingu na ardhi. Jinsi gani kulivyo tukuka kuona kwake kwa viumbe vyote! Na jinsi gani kulivyo tukuka kusikia kwake kwa kila cha kusikilizana! Na hapana katika wa mbinguni na wa katika ardhi wa kuendesha mambo yao isipo kuwa Yeye. Na wala hapana wa kumshiriki katika hukumu yake kiumbe chochote."
 }

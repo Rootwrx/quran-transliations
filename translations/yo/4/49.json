@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "542",
-    "sura": "4",
-    "aya": "49",
-    "arabic_text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ يُزَكِّي مَن يَشَآءُ وَلَا يُظۡلَمُونَ فَتِيلًا",
-    "translation": "Ṣé ìwọ kò wòye sí àwọn tó ń ṣàfọ̀mọ́ ara wọn ni? Kò sì rí bẹ́ẹ̀, Allāhu l’Ó ń ṣàfọ̀mọ́ ẹni tí Ó bá fẹ́. Wọn kò sì níí fi (ohun tó tó) ìbójú kóró èso dàbínù ṣàbòsí sí wọn.[1]",
-    "footnotes": "1. Ìyẹn ni pé, ẹ̀kúnrẹ́rẹ́ ní ẹ̀san ọ̀run, kò níí dín rárá."
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 86,
+  "verse_key": "4:49",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ يُزَكِّي مَن يَشَآءُ وَلَا يُظۡلَمُونَ فَتِيلًا",
+  "translation": "Ṣé ìwọ kò wòye sí àwọn tó ń ṣàfọ̀mọ́ ara wọn ni? Kò sì rí bẹ́ẹ̀, Allāhu l’Ó ń ṣàfọ̀mọ́ ẹni tí Ó bá fẹ́. Wọn kò sì níí fi (ohun tó tó) ìbójú kóró èso dàbínù ṣàbòsí sí wọn.[1]",
+  "footnotes": "1. Ìyẹn ni pé, ẹ̀kúnrẹ́rẹ́ ní ẹ̀san ọ̀run, kò níí dín rárá."
 }

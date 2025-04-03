@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6126",
-    "sura": "97",
-    "aya": "1",
-    "arabic_text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
-    "translation": "૧. અમે આ (કુરઆન) ને કદ્રની રાતમાં ઉતાર્યુ.",
-    "footnotes": ""
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 598,
+  "verse_key": "97:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 239,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةِ ٱلۡقَدۡرِ",
+  "translation": "૧. અમે આ (કુરઆન) ને કદ્રની રાતમાં ઉતાર્યુ.",
+  "footnotes": ""
 }

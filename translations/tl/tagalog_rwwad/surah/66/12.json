@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5241",
-    "sura": "66",
-    "aya": "12",
-    "arabic_text": "وَمَرۡيَمَ ٱبۡنَتَ عِمۡرَٰنَ ٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتۡ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتۡ مِنَ ٱلۡقَٰنِتِينَ",
-    "translation": "[Naglahad ng isang paghahalimbawa] kay Maria na anak ni `Imrān,[8] na nangalaga sa puri niya, kaya umihip Kami doon [sa bulsa ng baro] sa pamamagitan ng Espiritu Namin [na si Anghel Gabriel]. Nagpatotoo siya sa mga salita ng Panginoon niya at mga kasulatan Nito at siya noon ay kabilang sa mga masunurin [sa Panginoon].",
-    "footnotes": "[8] Amram sa Hebreo"
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 561,
+  "verse_key": "66:12",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 224,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَرۡيَمَ ٱبۡنَتَ عِمۡرَٰنَ ٱلَّتِيٓ أَحۡصَنَتۡ فَرۡجَهَا فَنَفَخۡنَا فِيهِ مِن رُّوحِنَا وَصَدَّقَتۡ بِكَلِمَٰتِ رَبِّهَا وَكُتُبِهِۦ وَكَانَتۡ مِنَ ٱلۡقَٰنِتِينَ",
+  "translation": "[Naglahad ng isang paghahalimbawa] kay Maria na anak ni `Imrān,[8] na nangalaga sa puri niya, kaya umihip Kami doon [sa bulsa ng baro] sa pamamagitan ng Espiritu Namin [na si Anghel Gabriel]. Nagpatotoo siya sa mga salita ng Panginoon niya at mga kasulatan Nito at siya noon ay kabilang sa mga masunurin [sa Panginoon].",
+  "footnotes": "[8] Amram sa Hebreo"
 }

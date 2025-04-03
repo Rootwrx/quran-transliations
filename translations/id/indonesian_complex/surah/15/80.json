@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1882",
-    "sura": "15",
-    "aya": "80",
-    "arabic_text": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ",
-    "translation": "Dan sesungguhnya penduduk-penduduk Kota Al-Ḥijr 811 telah mendustakan rasul-rasul 812,",
-    "footnotes": "811.  Penduduk Kota Al-Ḥijr ialah kaum Ṡamūd.  Al-Ḥijr itu tempat yang terletak di Wadi Qura antara Madinah dan Suriah. \n812.  Maksud rasul-rasul di sini ialah Ṣālīḥ ‘Alaihissalām.  Mestinya di sini disebut \"rasul\", tetapi disebut rasul-rasul (Jamak) karena mendustakan seorang rasul sama dengan mendustakan semua rasul­rasul. "
-  }
+  "id": 80,
+  "verse_number": 80,
+  "page_number": 266,
+  "verse_key": "15:80",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 106,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَقَدۡ كَذَّبَ أَصۡحَٰبُ ٱلۡحِجۡرِ ٱلۡمُرۡسَلِينَ",
+  "translation": "Dan sesungguhnya penduduk-penduduk Kota Al-Ḥijr 811 telah mendustakan rasul-rasul 812,",
+  "footnotes": "811.  Penduduk Kota Al-Ḥijr ialah kaum Ṡamūd.  Al-Ḥijr itu tempat yang terletak di Wadi Qura antara Madinah dan Suriah. \n812.  Maksud rasul-rasul di sini ialah Ṣālīḥ ‘Alaihissalām.  Mestinya di sini disebut \"rasul\", tetapi disebut rasul-rasul (Jamak) karena mendustakan seorang rasul sama dengan mendustakan semua rasul­rasul. "
 }

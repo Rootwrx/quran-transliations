@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1734",
-    "sura": "13",
-    "aya": "27",
-    "arabic_text": "وَيَقُولُ ٱلَّذِينَ كَفَرُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦۚ قُلۡ إِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهۡدِيٓ إِلَيۡهِ مَنۡ أَنَابَ",
-    "translation": "Na wanasema walio kufuru: Kwa nini hakuteremshiwa muujiza kutoka kwa Mola wake Mlezi. Sema: Hakika Mwenyezi Mungu humwacha kupotea amtakaye, na humwongoa anaye elekea kwake,",
-    "footnotes": "Na hakika hao washirikina walio banwa na wingi wa pupa na papara husema: Je, huyu Nabii hakuteremshiwa muujiza mwengine kutoka kwa Mwenyezi Mungu? Ewe Nabii! Waambie: Sababu ya kutokuwa na Imani nyinyi si upungufu wa miujiza, bali ni upotovu tu! Na Mwenyezi Mungu Aliye takasika na Aliye tukuka humwacha apotee anaye mtaka apotee, maadamu anaendelea katika njia ya upotovu. Na humwongoa aendee kwenye Haki yule ambae daima hurejea kwa Mwenyezi Mungu."
-  }
+  "id": 27,
+  "verse_number": 27,
+  "page_number": 252,
+  "verse_key": "13:27",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 101,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيَقُولُ ٱلَّذِينَ كَفَرُواْ لَوۡلَآ أُنزِلَ عَلَيۡهِ ءَايَةٞ مِّن رَّبِّهِۦۚ قُلۡ إِنَّ ٱللَّهَ يُضِلُّ مَن يَشَآءُ وَيَهۡدِيٓ إِلَيۡهِ مَنۡ أَنَابَ",
+  "translation": "Na wanasema walio kufuru: Kwa nini hakuteremshiwa muujiza kutoka kwa Mola wake Mlezi. Sema: Hakika Mwenyezi Mungu humwacha kupotea amtakaye, na humwongoa anaye elekea kwake,",
+  "footnotes": "Na hakika hao washirikina walio banwa na wingi wa pupa na papara husema: Je, huyu Nabii hakuteremshiwa muujiza mwengine kutoka kwa Mwenyezi Mungu? Ewe Nabii! Waambie: Sababu ya kutokuwa na Imani nyinyi si upungufu wa miujiza, bali ni upotovu tu! Na Mwenyezi Mungu Aliye takasika na Aliye tukuka humwacha apotee anaye mtaka apotee, maadamu anaendelea katika njia ya upotovu. Na humwongoa aendee kwenye Haki yule ambae daima hurejea kwa Mwenyezi Mungu."
 }

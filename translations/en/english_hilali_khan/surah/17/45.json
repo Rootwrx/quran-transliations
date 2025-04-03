@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2074",
-    "sura": "17",
-    "aya": "45",
-    "arabic_text": "وَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ جَعَلۡنَا بَيۡنَكَ وَبَيۡنَ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ حِجَابٗا مَّسۡتُورٗا",
-    "translation": " 45. And when you (Muhammad صلى الله عليه و سلم) recite the Qur’ân, We put between you and those who believe not in the Hereafter, an invisible veil[1] (or screen their hearts, so they hear or understand it not).",
-    "footnotes": "(V.17:45) It is said in the Book of Tafsîr (Imâm Qurtubî) as regards this Verse (17:45):\nNarrated Sa‘îd bin Jubair رضي الله عنه \"When the Sûrah No.111 (Tabbat Yadâ) was revealed, the wife of Abu Lahab came looking for the Prophet صلى الله عليه وسلم while Abu Bakr رضي الله عنه, was sitting beside him. Abu Bakr said to the Prophet صلى الله عليه وسلم: \"I wish if you get aside (or go away) as she is coming to us, she may harm you.\" The Prophet صلى الله عليه وسلم said: \"There will be a screen set between me and her.\" So she did not see him. She said to Abu Bakr: \"Your companion is saying poetry against me,\" Abu Bakr said: \"By Allâh, he does not say poetry.\" She said: \"Do you believe that?\" Then she left. Abu Bakr said, \"O Allâh’s Messenger! She did not see you.\" The Prophet صلى الله عليه وسلم said: \"An angel was screening me from her.\" [This Hadith is quoted in Musnad Abu Ya‘la.]\nIt is said that if the above Verse (17:45) is recited by a real believer (of Islâmic Monotheism) he will be screened from a disbeliever. (Allâh knows better). (Tafsîr Al-Qurtubî, Vol.10, Page 269)."
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 286,
+  "verse_key": "17:45",
+  "juz_number": 15,
+  "hizb_number": 29,
+  "rub_el_hizb_number": 114,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا قَرَأۡتَ ٱلۡقُرۡءَانَ جَعَلۡنَا بَيۡنَكَ وَبَيۡنَ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱلۡأٓخِرَةِ حِجَابٗا مَّسۡتُورٗا",
+  "translation": " 45. And when you (Muhammad صلى الله عليه و سلم) recite the Qur’ân, We put between you and those who believe not in the Hereafter, an invisible veil[1] (or screen their hearts, so they hear or understand it not).",
+  "footnotes": "(V.17:45) It is said in the Book of Tafsîr (Imâm Qurtubî) as regards this Verse (17:45):\nNarrated Sa‘îd bin Jubair رضي الله عنه \"When the Sûrah No.111 (Tabbat Yadâ) was revealed, the wife of Abu Lahab came looking for the Prophet صلى الله عليه وسلم while Abu Bakr رضي الله عنه, was sitting beside him. Abu Bakr said to the Prophet صلى الله عليه وسلم: \"I wish if you get aside (or go away) as she is coming to us, she may harm you.\" The Prophet صلى الله عليه وسلم said: \"There will be a screen set between me and her.\" So she did not see him. She said to Abu Bakr: \"Your companion is saying poetry against me,\" Abu Bakr said: \"By Allâh, he does not say poetry.\" She said: \"Do you believe that?\" Then she left. Abu Bakr said, \"O Allâh’s Messenger! She did not see you.\" The Prophet صلى الله عليه وسلم said: \"An angel was screening me from her.\" [This Hadith is quoted in Musnad Abu Ya‘la.]\nIt is said that if the above Verse (17:45) is recited by a real believer (of Islâmic Monotheism) he will be screened from a disbeliever. (Allâh knows better). (Tafsîr Al-Qurtubî, Vol.10, Page 269)."
 }

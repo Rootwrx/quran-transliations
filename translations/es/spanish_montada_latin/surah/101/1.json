@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "6158",
-    "sura": "101",
-    "aya": "1",
-    "arabic_text": "ٱلۡقَارِعَةُ",
-    "translation": "1. El (Día) del Gran Sobresalto[1178].",
-    "footnotes": "[1178]  Este es uno de los nombres que recibe el Día de la Resurrección, y recibe este nombre porque los corazones de la gente se sobresaltarán, aterrados por el horror que observarán."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 600,
+  "verse_key": "101:1",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 240,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱلۡقَارِعَةُ",
+  "translation": "1. El (Día) del Gran Sobresalto[1178].",
+  "footnotes": "[1178]  Este es uno de los nombres que recibe el Día de la Resurrección, y recibe este nombre porque los corazones de la gente se sobresaltarán, aterrados por el horror que observarán."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1843",
-    "sura": "15",
-    "aya": "41",
-    "arabic_text": "قَالَ هَٰذَا صِرَٰطٌ عَلَيَّ مُسۡتَقِيمٌ",
-    "translation": "Akasema: Hii Njia ya kujia kwangu Iliyo Nyooka.",
-    "footnotes": "Hakika usafi wa waja walio isafia niya Dini yao ndio Njia Iliyo Nyooka, na haki yangu nisiikiuke, kwani hao siwezi kuwapotoa. (Tafsiri hii yaonyesha maneno hayo ni ya Iblisi. Lakini Tafsiri nyengine zinasema maneno hayo ni ya Mwenyezi Mungu, kwa mfano ya Abdulla Saleh, Abdulla Yusuf, Pickthall, Razi, Baidhawi, Qurtubi, Zamakhshari, Ibn Kathir, Assad.)"
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 264,
+  "verse_key": "15:41",
+  "juz_number": 14,
+  "hizb_number": 27,
+  "rub_el_hizb_number": 105,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ هَٰذَا صِرَٰطٌ عَلَيَّ مُسۡتَقِيمٌ",
+  "translation": "Akasema: Hii Njia ya kujia kwangu Iliyo Nyooka.",
+  "footnotes": "Hakika usafi wa waja walio isafia niya Dini yao ndio Njia Iliyo Nyooka, na haki yangu nisiikiuke, kwani hao siwezi kuwapotoa. (Tafsiri hii yaonyesha maneno hayo ni ya Iblisi. Lakini Tafsiri nyengine zinasema maneno hayo ni ya Mwenyezi Mungu, kwa mfano ya Abdulla Saleh, Abdulla Yusuf, Pickthall, Razi, Baidhawi, Qurtubi, Zamakhshari, Ibn Kathir, Assad.)"
 }

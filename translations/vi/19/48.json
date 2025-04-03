@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2298",
-    "sura": "19",
-    "aya": "48",
-    "arabic_text": "وَأَعۡتَزِلُكُمۡ وَمَا تَدۡعُونَ مِن دُونِ ٱللَّهِ وَأَدۡعُواْ رَبِّي عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّي شَقِيّٗا",
-    "translation": "(Ibrahim) nói với người dân: “Tôi xin từ biệt các người và những kẻ mà các người cầu nguyện ngoài Allah; còn tôi sẽ chỉ cầu nguyện Thượng Đế của tôi; tôi hy vọng sẽ không đến nỗi vô phúc qua việc cầu nguyện Thượng Đế của tôi.”",
-    "footnotes": ""
-  }
+  "id": 48,
+  "verse_number": 48,
+  "page_number": 308,
+  "verse_key": "19:48",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَعۡتَزِلُكُمۡ وَمَا تَدۡعُونَ مِن دُونِ ٱللَّهِ وَأَدۡعُواْ رَبِّي عَسَىٰٓ أَلَّآ أَكُونَ بِدُعَآءِ رَبِّي شَقِيّٗا",
+  "translation": "(Ibrahim) nói với người dân: “Tôi xin từ biệt các người và những kẻ mà các người cầu nguyện ngoài Allah; còn tôi sẽ chỉ cầu nguyện Thượng Đế của tôi; tôi hy vọng sẽ không đến nỗi vô phúc qua việc cầu nguyện Thượng Đế của tôi.”",
+  "footnotes": ""
 }

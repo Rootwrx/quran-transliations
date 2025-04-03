@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1101",
-    "sura": "7",
-    "aya": "147",
-    "arabic_text": "وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَلِقَآءِ ٱلۡأٓخِرَةِ حَبِطَتۡ أَعۡمَٰلُهُمۡۚ هَلۡ يُجۡزَوۡنَ إِلَّا مَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Ang mga nagpasinungaling sa mga tanda Namin at sa pakikipagkita sa Kabilang-buhay ay nawalang-kabuluhan ang mga gawa nila. Ginagantihan kaya sila ng maliban pa sa dati nilang ginagawa [ng kawalang-pananampalataya]?",
-    "footnotes": ""
-  }
+  "id": 147,
+  "verse_number": 147,
+  "page_number": 168,
+  "verse_key": "7:147",
+  "juz_number": 9,
+  "hizb_number": 17,
+  "rub_el_hizb_number": 67,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَٱلَّذِينَ كَذَّبُواْ بِـَٔايَٰتِنَا وَلِقَآءِ ٱلۡأٓخِرَةِ حَبِطَتۡ أَعۡمَٰلُهُمۡۚ هَلۡ يُجۡزَوۡنَ إِلَّا مَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Ang mga nagpasinungaling sa mga tanda Namin at sa pakikipagkita sa Kabilang-buhay ay nawalang-kabuluhan ang mga gawa nila. Ginagantihan kaya sila ng maliban pa sa dati nilang ginagawa [ng kawalang-pananampalataya]?",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "542",
-    "sura": "4",
-    "aya": "49",
-    "arabic_text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ يُزَكِّي مَن يَشَآءُ وَلَا يُظۡلَمُونَ فَتِيلًا",
-    "translation": " 49. Have you not seen those (Jews and Christians)[5] who claim sanctity for themselves. Nay, but Allâh sanctifies whom He wills, and they will not be dealt with injustice even equal to the extent of a scalish thread in the long slit of a date-stone.",
-    "footnotes": "(V.4:49) See Tafseer Ibn Kathîr"
-  }
+  "id": 49,
+  "verse_number": 49,
+  "page_number": 86,
+  "verse_key": "4:49",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 34,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يُزَكُّونَ أَنفُسَهُمۚ بَلِ ٱللَّهُ يُزَكِّي مَن يَشَآءُ وَلَا يُظۡلَمُونَ فَتِيلًا",
+  "translation": " 49. Have you not seen those (Jews and Christians)[5] who claim sanctity for themselves. Nay, but Allâh sanctifies whom He wills, and they will not be dealt with injustice even equal to the extent of a scalish thread in the long slit of a date-stone.",
+  "footnotes": "(V.4:49) See Tafseer Ibn Kathîr"
 }

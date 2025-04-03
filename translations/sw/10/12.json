@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1376",
-    "sura": "10",
-    "aya": "12",
-    "arabic_text": "وَإِذَا مَسَّ ٱلۡإِنسَٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوۡ قَاعِدًا أَوۡ قَآئِمٗا فَلَمَّا كَشَفۡنَا عَنۡهُ ضُرَّهُۥ مَرَّ كَأَن لَّمۡ يَدۡعُنَآ إِلَىٰ ضُرّٖ مَّسَّهُۥۚ كَذَٰلِكَ زُيِّنَ لِلۡمُسۡرِفِينَ مَا كَانُواْ يَعۡمَلُونَ",
-    "translation": "Na mtu akiguswa na shida hutuomba naye kaegesha ubavu, au kakaa, au kasimama. Lakini tukimwondoshea shida yake huendelea kama kwamba hakupata kutuomba tumwondoshee shida iliyo mpata. Ndio namna hiyo wamepambiwa warukao mipaka yale waliyo kuwa wakiyatenda.",
-    "footnotes": "Na mtu akisibiwa na madhara katika nafsi yake au mali yake au mfano wa hayo, huhisi unyonge wake, na humwomba Mola wake Mlezi kwa hali yoyote - akiwa kajinyoosha, au kakaa kitako, au kasimama - amwondolee dhiki zake! Mwenyezi Mungu akisha mwitikia, na akamwondolea hizo shida zake, humuacha kando Mwenyezi Mungu na akaendelea na maasi yake, na akasahau fadhila za Mwenyezi Mungu juu yake, kama kwamba hakupatikana na madhara yoyote, wala hajapata kumwomba amwondolee! Na mfano wa mtindo huu Shetani ndio huwazaini Makafiri, akawapambia vitendo vyao viovu, na uzushi wao mpotovu, wakaona yote hayo ni mazuri."
-  }
+  "id": 12,
+  "verse_number": 12,
+  "page_number": 209,
+  "verse_key": "10:12",
+  "juz_number": 11,
+  "hizb_number": 21,
+  "rub_el_hizb_number": 84,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِذَا مَسَّ ٱلۡإِنسَٰنَ ٱلضُّرُّ دَعَانَا لِجَنۢبِهِۦٓ أَوۡ قَاعِدًا أَوۡ قَآئِمٗا فَلَمَّا كَشَفۡنَا عَنۡهُ ضُرَّهُۥ مَرَّ كَأَن لَّمۡ يَدۡعُنَآ إِلَىٰ ضُرّٖ مَّسَّهُۥۚ كَذَٰلِكَ زُيِّنَ لِلۡمُسۡرِفِينَ مَا كَانُواْ يَعۡمَلُونَ",
+  "translation": "Na mtu akiguswa na shida hutuomba naye kaegesha ubavu, au kakaa, au kasimama. Lakini tukimwondoshea shida yake huendelea kama kwamba hakupata kutuomba tumwondoshee shida iliyo mpata. Ndio namna hiyo wamepambiwa warukao mipaka yale waliyo kuwa wakiyatenda.",
+  "footnotes": "Na mtu akisibiwa na madhara katika nafsi yake au mali yake au mfano wa hayo, huhisi unyonge wake, na humwomba Mola wake Mlezi kwa hali yoyote - akiwa kajinyoosha, au kakaa kitako, au kasimama - amwondolee dhiki zake! Mwenyezi Mungu akisha mwitikia, na akamwondolea hizo shida zake, humuacha kando Mwenyezi Mungu na akaendelea na maasi yake, na akasahau fadhila za Mwenyezi Mungu juu yake, kama kwamba hakupatikana na madhara yoyote, wala hajapata kumwomba amwondolee! Na mfano wa mtindo huu Shetani ndio huwazaini Makafiri, akawapambia vitendo vyao viovu, na uzushi wao mpotovu, wakaona yote hayo ni mazuri."
 }

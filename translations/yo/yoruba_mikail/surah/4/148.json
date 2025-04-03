@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "641",
-    "sura": "4",
-    "aya": "148",
-    "arabic_text": "۞ لَّا يُحِبُّ ٱللَّهُ ٱلۡجَهۡرَ بِٱلسُّوٓءِ مِنَ ٱلۡقَوۡلِ إِلَّا مَن ظُلِمَۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
-    "translation": "Allāhu kò nífẹ̀ẹ́ sí ariwo ọ̀rọ̀ burúkú (láti ọ̀dọ̀ ẹnikẹ́ni)[1] àyàfi ẹni tí wọ́n bá ṣe àbòsí sí. Allāhu sì ń jẹ́ Olùgbọ́, Onímọ̀.",
-    "footnotes": "1. Bíi sísọ àbòsí náà síta, sísọ̀rọ̀ sí alábòsí náà àti ṣíṣẹ́ èpè fún un ní ìbámu sí irú àbòsí náà. Ẹni tí ó bá ṣe bẹ́ẹ̀ ti gbẹ̀san nìyẹn ní ìbámu sí sūrah aṣ-Ṣūrọ̄; 42:41."
-  }
+  "id": 148,
+  "verse_number": 148,
+  "page_number": 102,
+  "verse_key": "4:148",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 41,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ لَّا يُحِبُّ ٱللَّهُ ٱلۡجَهۡرَ بِٱلسُّوٓءِ مِنَ ٱلۡقَوۡلِ إِلَّا مَن ظُلِمَۚ وَكَانَ ٱللَّهُ سَمِيعًا عَلِيمًا",
+  "translation": "Allāhu kò nífẹ̀ẹ́ sí ariwo ọ̀rọ̀ burúkú (láti ọ̀dọ̀ ẹnikẹ́ni)[1] àyàfi ẹni tí wọ́n bá ṣe àbòsí sí. Allāhu sì ń jẹ́ Olùgbọ́, Onímọ̀.",
+  "footnotes": "1. Bíi sísọ àbòsí náà síta, sísọ̀rọ̀ sí alábòsí náà àti ṣíṣẹ́ èpè fún un ní ìbámu sí irú àbòsí náà. Ẹni tí ó bá ṣe bẹ́ẹ̀ ti gbẹ̀san nìyẹn ní ìbámu sí sūrah aṣ-Ṣūrọ̄; 42:41."
 }

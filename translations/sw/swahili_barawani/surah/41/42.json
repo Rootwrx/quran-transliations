@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4260",
-    "sura": "41",
-    "aya": "42",
-    "arabic_text": "لَّا يَأۡتِيهِ ٱلۡبَٰطِلُ مِنۢ بَيۡنِ يَدَيۡهِ وَلَا مِنۡ خَلۡفِهِۦۖ تَنزِيلٞ مِّنۡ حَكِيمٍ حَمِيدٖ",
-    "translation": "Hautakifikia upotovu mbele yake wala nyuma yake. Kimeteremshwa na Mwenye hikima, Msifiwa.",
-    "footnotes": "Hakika wanao ikataa Qur'ani Tukufu inapo wajia bila ya kuzingatia, watapata adhabu ambayo hapana mtu anaye weza kuikadiria. Wao wameipinga Qur'ani nacho hakika ni Kitabu kisicho kuwa na mfano, kinamshinda kila mwenye kukipinga, hakiingiliwi na upotofu usio kuwa na asli kwake kwa upande wowote ule, kimeteremka kwa kukufuatana kutokana na Mungu aliye takasika na upuuzi, Msifiwa kwa wingi wa sifa kwa neema alizo zitoa."
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 481,
+  "verse_key": "41:42",
+  "juz_number": 24,
+  "hizb_number": 48,
+  "rub_el_hizb_number": 192,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لَّا يَأۡتِيهِ ٱلۡبَٰطِلُ مِنۢ بَيۡنِ يَدَيۡهِ وَلَا مِنۡ خَلۡفِهِۦۖ تَنزِيلٞ مِّنۡ حَكِيمٍ حَمِيدٖ",
+  "translation": "Hautakifikia upotovu mbele yake wala nyuma yake. Kimeteremshwa na Mwenye hikima, Msifiwa.",
+  "footnotes": "Hakika wanao ikataa Qur'ani Tukufu inapo wajia bila ya kuzingatia, watapata adhabu ambayo hapana mtu anaye weza kuikadiria. Wao wameipinga Qur'ani nacho hakika ni Kitabu kisicho kuwa na mfano, kinamshinda kila mwenye kukipinga, hakiingiliwi na upotofu usio kuwa na asli kwake kwa upande wowote ule, kimeteremka kwa kukufuatana kutokana na Mungu aliye takasika na upuuzi, Msifiwa kwa wingi wa sifa kwa neema alizo zitoa."
 }

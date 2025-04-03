@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1976",
-    "sura": "16",
-    "aya": "75",
-    "arabic_text": "۞ ضَرَبَ ٱللَّهُ مَثَلًا عَبۡدٗا مَّمۡلُوكٗا لَّا يَقۡدِرُ عَلَىٰ شَيۡءٖ وَمَن رَّزَقۡنَٰهُ مِنَّا رِزۡقًا حَسَنٗا فَهُوَ يُنفِقُ مِنۡهُ سِرّٗا وَجَهۡرًاۖ هَلۡ يَسۡتَوُۥنَۚ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ",
-    "translation": "Allāhu fi àkàwé kan lélẹ̀ (nípa) ẹrú kan tí ó wà lábẹ́ ọ̀gá, tí kò sì lè dá n̄ǹkan kan ṣe àti ẹni tí A fún ní arísìkí tó dára láti ọ̀dọ̀ wa, tí ó sì ń ná nínú rẹ̀ ní ìkọ̀kọ̀ àti ní gban̄gba. Ṣé wọ́n dọ́gba bí?[1] Gbogbo ẹyìn ń jẹ́ ti Allāhu. Ṣùgbọ́n ọ̀pọ̀lọ́pọ̀ wọn ni kò mọ̀.",
-    "footnotes": "1. Ìyẹn ni pé, kò sí ẹgbẹ́ tàbí ìdọ́gba láààrin ẹni tí ó ní òmìnira tí ó lè dá n̄ǹkan ṣe àti ẹrú aláìlágbára tí kò lè dá n̄ǹkan kan ṣe."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 275,
+  "verse_key": "16:75",
+  "juz_number": 14,
+  "hizb_number": 28,
+  "rub_el_hizb_number": 110,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ ضَرَبَ ٱللَّهُ مَثَلًا عَبۡدٗا مَّمۡلُوكٗا لَّا يَقۡدِرُ عَلَىٰ شَيۡءٖ وَمَن رَّزَقۡنَٰهُ مِنَّا رِزۡقًا حَسَنٗا فَهُوَ يُنفِقُ مِنۡهُ سِرّٗا وَجَهۡرًاۖ هَلۡ يَسۡتَوُۥنَۚ ٱلۡحَمۡدُ لِلَّهِۚ بَلۡ أَكۡثَرُهُمۡ لَا يَعۡلَمُونَ",
+  "translation": "Allāhu fi àkàwé kan lélẹ̀ (nípa) ẹrú kan tí ó wà lábẹ́ ọ̀gá, tí kò sì lè dá n̄ǹkan kan ṣe àti ẹni tí A fún ní arísìkí tó dára láti ọ̀dọ̀ wa, tí ó sì ń ná nínú rẹ̀ ní ìkọ̀kọ̀ àti ní gban̄gba. Ṣé wọ́n dọ́gba bí?[1] Gbogbo ẹyìn ń jẹ́ ti Allāhu. Ṣùgbọ́n ọ̀pọ̀lọ́pọ̀ wọn ni kò mọ̀.",
+  "footnotes": "1. Ìyẹn ni pé, kò sí ẹgbẹ́ tàbí ìdọ́gba láààrin ẹni tí ó ní òmìnira tí ó lè dá n̄ǹkan ṣe àti ẹrú aláìlágbára tí kò lè dá n̄ǹkan kan ṣe."
 }

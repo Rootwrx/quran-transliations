@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3030",
-    "sura": "26",
-    "aya": "98",
-    "arabic_text": "إِذۡ نُسَوِّيكُم بِرَبِّ ٱلۡعَٰلَمِينَ",
-    "translation": "o vaxt ki, biz sizi aləmlərin Rəbbinə tay tuturduq.",
-    "footnotes": ""
-  }
+  "id": 98,
+  "verse_number": 98,
+  "page_number": 371,
+  "verse_key": "26:98",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 148,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِذۡ نُسَوِّيكُم بِرَبِّ ٱلۡعَٰلَمِينَ",
+  "translation": "o vaxt ki, biz sizi aləmlərin Rəbbinə tay tuturduq.",
+  "footnotes": ""
 }

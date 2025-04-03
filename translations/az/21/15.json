@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2498",
-    "sura": "21",
-    "aya": "15",
-    "arabic_text": "فَمَا زَالَت تِّلۡكَ دَعۡوَىٰهُمۡ حَتَّىٰ جَعَلۡنَٰهُمۡ حَصِيدًا خَٰمِدِينَ",
-    "translation": "Biz onları yanmış küləşə döndərənəcən fəryad qoparırdılar.",
-    "footnotes": ""
-  }
+  "id": 15,
+  "verse_number": 15,
+  "page_number": 323,
+  "verse_key": "21:15",
+  "juz_number": 17,
+  "hizb_number": 33,
+  "rub_el_hizb_number": 129,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَمَا زَالَت تِّلۡكَ دَعۡوَىٰهُمۡ حَتَّىٰ جَعَلۡنَٰهُمۡ حَصِيدًا خَٰمِدِينَ",
+  "translation": "Biz onları yanmış küləşə döndərənəcən fəryad qoparırdılar.",
+  "footnotes": ""
 }

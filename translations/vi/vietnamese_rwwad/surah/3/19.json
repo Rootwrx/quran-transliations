@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "312",
-    "sura": "3",
-    "aya": "19",
-    "arabic_text": "إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلۡإِسۡلَٰمُۗ وَمَا ٱخۡتَلَفَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا بَيۡنَهُمۡۗ وَمَن يَكۡفُرۡ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
-    "translation": "Quả thật, tôn giáo được chấp nhận nơi Allah chỉ có Islam. Những ai được ban cho Kinh Sách (Do Thái và Thiên Chúa) đã không tranh cãi nhau (về điều này) cho đến khi họ biết rõ sự thật (Islam được mang đến không bởi một người thuộc cộng đồng của họ) thì họ mới đâm ra đố kỵ và chia rẽ. Và ai vô đức tin nơi các lời mặc khải của Allah thì quả thật Allah mau chóng tính sổ (họ).",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 52,
+  "verse_key": "3:19",
+  "juz_number": 3,
+  "hizb_number": 6,
+  "rub_el_hizb_number": 21,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلدِّينَ عِندَ ٱللَّهِ ٱلۡإِسۡلَٰمُۗ وَمَا ٱخۡتَلَفَ ٱلَّذِينَ أُوتُواْ ٱلۡكِتَٰبَ إِلَّا مِنۢ بَعۡدِ مَا جَآءَهُمُ ٱلۡعِلۡمُ بَغۡيَۢا بَيۡنَهُمۡۗ وَمَن يَكۡفُرۡ بِـَٔايَٰتِ ٱللَّهِ فَإِنَّ ٱللَّهَ سَرِيعُ ٱلۡحِسَابِ",
+  "translation": "Quả thật, tôn giáo được chấp nhận nơi Allah chỉ có Islam. Những ai được ban cho Kinh Sách (Do Thái và Thiên Chúa) đã không tranh cãi nhau (về điều này) cho đến khi họ biết rõ sự thật (Islam được mang đến không bởi một người thuộc cộng đồng của họ) thì họ mới đâm ra đố kỵ và chia rẽ. Và ai vô đức tin nơi các lời mặc khải của Allah thì quả thật Allah mau chóng tính sổ (họ).",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5392",
-    "sura": "70",
-    "aya": "17",
-    "arabic_text": "تَدۡعُواْ مَنۡ أَدۡبَرَ وَتَوَلَّىٰ",
-    "translation": "それは、招くのである。（現世での真理に）背を向け、（アッラー*とその使徒*への服従から）背き去り、",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 569,
+  "verse_key": "70:17",
+  "juz_number": 29,
+  "hizb_number": 57,
+  "rub_el_hizb_number": 227,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "تَدۡعُواْ مَنۡ أَدۡبَرَ وَتَوَلَّىٰ",
+  "translation": "それは、招くのである。（現世での真理に）背を向け、（アッラー*とその使徒*への服従から）背き去り、",
+  "footnotes": ""
 }

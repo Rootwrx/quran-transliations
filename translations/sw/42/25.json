@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4297",
-    "sura": "42",
-    "aya": "25",
-    "arabic_text": "وَهُوَ ٱلَّذِي يَقۡبَلُ ٱلتَّوۡبَةَ عَنۡ عِبَادِهِۦ وَيَعۡفُواْ عَنِ ٱلسَّيِّـَٔاتِ وَيَعۡلَمُ مَا تَفۡعَلُونَ",
-    "translation": "Naye ndiye anaye pokea toba kwa waja wake, na anasamehe makosa, na anayajua mnayo yatenda.",
-    "footnotes": "Ni Mwenyezi Mungu peke yake ndiye Mwenye kupokea toba kwa watu wanao mt'ii hata kwa makosa yaliyo zaidi kuliko yale wanayo ombea toba. Na Yeye ndiye anaye samehe madhambi yote isipo kuwa shirki, kwa kufadhili na kurehemu; na anayajua myatendayo ikiwa ya kheri au shari."
-  }
+  "id": 25,
+  "verse_number": 25,
+  "page_number": 486,
+  "verse_key": "42:25",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 194,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَهُوَ ٱلَّذِي يَقۡبَلُ ٱلتَّوۡبَةَ عَنۡ عِبَادِهِۦ وَيَعۡفُواْ عَنِ ٱلسَّيِّـَٔاتِ وَيَعۡلَمُ مَا تَفۡعَلُونَ",
+  "translation": "Naye ndiye anaye pokea toba kwa waja wake, na anasamehe makosa, na anayajua mnayo yatenda.",
+  "footnotes": "Ni Mwenyezi Mungu peke yake ndiye Mwenye kupokea toba kwa watu wanao mt'ii hata kwa makosa yaliyo zaidi kuliko yale wanayo ombea toba. Na Yeye ndiye anaye samehe madhambi yote isipo kuwa shirki, kwa kufadhili na kurehemu; na anayajua myatendayo ikiwa ya kheri au shari."
 }

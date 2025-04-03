@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5870",
-    "sura": "83",
-    "aya": "22",
-    "arabic_text": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٍ",
-    "translation": "തീര്‍ച്ചയായും സുകൃതവാന്‍മാര്‍ സുഖാനുഭവത്തില്‍ തന്നെയായിരിക്കും.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 588,
+  "verse_key": "83:22",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 235,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ ٱلۡأَبۡرَارَ لَفِي نَعِيمٍ",
+  "translation": "തീര്‍ച്ചയായും സുകൃതവാന്‍മാര്‍ സുഖാനുഭവത്തില്‍ തന്നെയായിരിക്കും.",
+  "footnotes": ""
 }

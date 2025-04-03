@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2132",
-    "sura": "17",
-    "aya": "103",
-    "arabic_text": "فَأَرَادَ أَن يَسۡتَفِزَّهُم مِّنَ ٱلۡأَرۡضِ فَأَغۡرَقۡنَٰهُ وَمَن مَّعَهُۥ جَمِيعٗا",
-    "translation": "(Firon) onları Misirdən qovub çıxartmaq istədi. Biz isə onu və onunla birlikdə olanların hamısını (dənizdə) batırdıq.",
-    "footnotes": ""
-  }
+  "id": 103,
+  "verse_number": 103,
+  "page_number": 292,
+  "verse_key": "17:103",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَأَرَادَ أَن يَسۡتَفِزَّهُم مِّنَ ٱلۡأَرۡضِ فَأَغۡرَقۡنَٰهُ وَمَن مَّعَهُۥ جَمِيعٗا",
+  "translation": "(Firon) onları Misirdən qovub çıxartmaq istədi. Biz isə onu və onunla birlikdə olanların hamısını (dənizdə) batırdıq.",
+  "footnotes": ""
 }

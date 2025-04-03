@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1690",
-    "sura": "12",
-    "aya": "94",
-    "arabic_text": "وَلَمَّا فَصَلَتِ ٱلۡعِيرُ قَالَ أَبُوهُمۡ إِنِّي لَأَجِدُ رِيحَ يُوسُفَۖ لَوۡلَآ أَن تُفَنِّدُونِ",
-    "translation": "(94) And when the caravan departed [from Egypt], their father said,[616] \"Indeed, I find the smell of Joseph [and would say that he was alive] if you did not think me weakened in mind.\"",
-    "footnotes": "[616]- To those present with him, either some of his sons or other relatives."
-  }
+  "id": 94,
+  "verse_number": 94,
+  "page_number": 246,
+  "verse_key": "12:94",
+  "juz_number": 13,
+  "hizb_number": 25,
+  "rub_el_hizb_number": 98,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلَمَّا فَصَلَتِ ٱلۡعِيرُ قَالَ أَبُوهُمۡ إِنِّي لَأَجِدُ رِيحَ يُوسُفَۖ لَوۡلَآ أَن تُفَنِّدُونِ",
+  "translation": "(94) And when the caravan departed [from Egypt], their father said,[616] \"Indeed, I find the smell of Joseph [and would say that he was alive] if you did not think me weakened in mind.\"",
+  "footnotes": "[616]- To those present with him, either some of his sons or other relatives."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2467",
-    "sura": "20",
-    "aya": "119",
-    "arabic_text": "وَأَنَّكَ لَا تَظۡمَؤُاْ فِيهَا وَلَا تَضۡحَىٰ",
-    "translation": "119. Kaadu diggah atu tet addal bakaare waytaah ayrite waytam lito.",
-    "footnotes": ""
-  }
+  "id": 119,
+  "verse_number": 119,
+  "page_number": 320,
+  "verse_key": "20:119",
+  "juz_number": 16,
+  "hizb_number": 32,
+  "rub_el_hizb_number": 128,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَنَّكَ لَا تَظۡمَؤُاْ فِيهَا وَلَا تَضۡحَىٰ",
+  "translation": "119. Kaadu diggah atu tet addal bakaare waytaah ayrite waytam lito.",
+  "footnotes": ""
 }

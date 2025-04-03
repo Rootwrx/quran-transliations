@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "437",
-    "sura": "3",
-    "aya": "144",
-    "arabic_text": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٞ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُۚ أَفَإِيْن مَّاتَ أَوۡ قُتِلَ ٱنقَلَبۡتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡۚ وَمَن يَنقَلِبۡ عَلَىٰ عَقِبَيۡهِ فَلَن يَضُرَّ ٱللَّهَ شَيۡـٔٗاۚ وَسَيَجۡزِي ٱللَّهُ ٱلشَّٰكِرِينَ",
-    "translation": "Muhammed, ancak bir peygamberdir. Ondan önce de peygamberler gelip geçmiştir. Şimdi o ölür veya öldürülürse gerisin geriye (eski dininize) mi döneceksiniz? Kim gerisin geriye dönerse, Allah’a hiçbir zarar veremez. Allah, şükredenleri mükâfatlandıracaktır.",
-    "footnotes": ""
-  }
+  "id": 144,
+  "verse_number": 144,
+  "page_number": 68,
+  "verse_key": "3:144",
+  "juz_number": 4,
+  "hizb_number": 7,
+  "rub_el_hizb_number": 27,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا مُحَمَّدٌ إِلَّا رَسُولٞ قَدۡ خَلَتۡ مِن قَبۡلِهِ ٱلرُّسُلُۚ أَفَإِيْن مَّاتَ أَوۡ قُتِلَ ٱنقَلَبۡتُمۡ عَلَىٰٓ أَعۡقَٰبِكُمۡۚ وَمَن يَنقَلِبۡ عَلَىٰ عَقِبَيۡهِ فَلَن يَضُرَّ ٱللَّهَ شَيۡـٔٗاۚ وَسَيَجۡزِي ٱللَّهُ ٱلشَّٰكِرِينَ",
+  "translation": "Muhammed, ancak bir peygamberdir. Ondan önce de peygamberler gelip geçmiştir. Şimdi o ölür veya öldürülürse gerisin geriye (eski dininize) mi döneceksiniz? Kim gerisin geriye dönerse, Allah’a hiçbir zarar veremez. Allah, şükredenleri mükâfatlandıracaktır.",
+  "footnotes": ""
 }

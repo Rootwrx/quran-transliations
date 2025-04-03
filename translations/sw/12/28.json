@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1624",
-    "sura": "12",
-    "aya": "28",
-    "arabic_text": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٖ قَالَ إِنَّهُۥ مِن كَيۡدِكُنَّۖ إِنَّ كَيۡدَكُنَّ عَظِيمٞ",
-    "translation": "Basi yule bwana alipoona kanzu yake imechanwa kwa nyuma, alisema: Hakika haya ni katika vitimbi vyenu wanawake. Bila ya shaka vitimbi vyenu ni vikuu.",
-    "footnotes": "Mume alipoona kuwa kanzu ya Yusuf imechanwa mgongoni alimwambia mkewe: Huku kumtuhumu kwako kijana kwa yaliyo tokea na hali yeye hana makosa, ni katika vitimbi vyenu, enyi wanawake. Hakika vitimbi vyenu ni vikuu mno!"
-  }
+  "id": 28,
+  "verse_number": 28,
+  "page_number": 238,
+  "verse_key": "12:28",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 95,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَمَّا رَءَا قَمِيصَهُۥ قُدَّ مِن دُبُرٖ قَالَ إِنَّهُۥ مِن كَيۡدِكُنَّۖ إِنَّ كَيۡدَكُنَّ عَظِيمٞ",
+  "translation": "Basi yule bwana alipoona kanzu yake imechanwa kwa nyuma, alisema: Hakika haya ni katika vitimbi vyenu wanawake. Bila ya shaka vitimbi vyenu ni vikuu.",
+  "footnotes": "Mume alipoona kuwa kanzu ya Yusuf imechanwa mgongoni alimwambia mkewe: Huku kumtuhumu kwako kijana kwa yaliyo tokea na hali yeye hana makosa, ni katika vitimbi vyenu, enyi wanawake. Hakika vitimbi vyenu ni vikuu mno!"
 }

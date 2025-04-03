@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1411",
-    "sura": "10",
-    "aya": "47",
-    "arabic_text": "وَلِكُلِّ أُمَّةٖ رَّسُولٞۖ فَإِذَا جَآءَ رَسُولُهُمۡ قُضِيَ بَيۡنَهُم بِٱلۡقِسۡطِ وَهُمۡ لَا يُظۡلَمُونَ",
-    "translation": "47. Mpe umma(1) nionso ezali na motindami. Mpe tango motindami na bango ayaki makambo ekatanaki na bosembo, mpe moko te abubamaki.",
-    "footnotes": "1 Umma: Ezali etonga: Allah azalaki kotinda na etonga nionso motindami to ntoma, kowuta na Adam, kino Muhammad oyo azali motindami mpe ntoma yasuka na ndembe na biso bótala mpe na suratu Al-Baqarah mokapo: 128."
-  }
+  "id": 47,
+  "verse_number": 47,
+  "page_number": 214,
+  "verse_key": "10:47",
+  "juz_number": 11,
+  "hizb_number": 22,
+  "rub_el_hizb_number": 85,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَلِكُلِّ أُمَّةٖ رَّسُولٞۖ فَإِذَا جَآءَ رَسُولُهُمۡ قُضِيَ بَيۡنَهُم بِٱلۡقِسۡطِ وَهُمۡ لَا يُظۡلَمُونَ",
+  "translation": "47. Mpe umma(1) nionso ezali na motindami. Mpe tango motindami na bango ayaki makambo ekatanaki na bosembo, mpe moko te abubamaki.",
+  "footnotes": "1 Umma: Ezali etonga: Allah azalaki kotinda na etonga nionso motindami to ntoma, kowuta na Adam, kino Muhammad oyo azali motindami mpe ntoma yasuka na ndembe na biso bótala mpe na suratu Al-Baqarah mokapo: 128."
 }

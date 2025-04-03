@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1280",
-    "sura": "9",
-    "aya": "45",
-    "arabic_text": "إِنَّمَا يَسۡتَـٔۡذِنُكَ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَٱرۡتَابَتۡ قُلُوبُهُمۡ فَهُمۡ فِي رَيۡبِهِمۡ يَتَرَدَّدُونَ",
-    "translation": "Muvugishwamana! Abagusaba uburenganzira bwo kudaharanira idini ry’Imana Allah, ni abatemera Imana Allah n’Intumwa yayo hamwe n’umusi w’iherezo, batanarangwa namba n’ugukora iciza, imishaha yabo yuzuye amakenga ku bwislamu n’amabwirizwa yabwo. Bari mu makenga bajuragikira batazi ico bafata n'ico bareka hagati y'ukwemera n'uburyarya;",
-    "footnotes": ""
-  }
+  "id": 45,
+  "verse_number": 45,
+  "page_number": 194,
+  "verse_key": "9:45",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 77,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّمَا يَسۡتَـٔۡذِنُكَ ٱلَّذِينَ لَا يُؤۡمِنُونَ بِٱللَّهِ وَٱلۡيَوۡمِ ٱلۡأٓخِرِ وَٱرۡتَابَتۡ قُلُوبُهُمۡ فَهُمۡ فِي رَيۡبِهِمۡ يَتَرَدَّدُونَ",
+  "translation": "Muvugishwamana! Abagusaba uburenganzira bwo kudaharanira idini ry’Imana Allah, ni abatemera Imana Allah n’Intumwa yayo hamwe n’umusi w’iherezo, batanarangwa namba n’ugukora iciza, imishaha yabo yuzuye amakenga ku bwislamu n’amabwirizwa yabwo. Bari mu makenga bajuragikira batazi ico bafata n'ico bareka hagati y'ukwemera n'uburyarya;",
+  "footnotes": ""
 }

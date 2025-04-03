@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "553",
-    "sura": "4",
-    "aya": "60",
-    "arabic_text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يَزۡعُمُونَ أَنَّهُمۡ ءَامَنُواْ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓاْ إِلَى ٱلطَّٰغُوتِ وَقَدۡ أُمِرُوٓاْ أَن يَكۡفُرُواْ بِهِۦۖ وَيُرِيدُ ٱلشَّيۡطَٰنُ أَن يُضِلَّهُمۡ ضَلَٰلَۢا بَعِيدٗا",
-    "translation": "Ntumwa y’Imana! Mbega ntiwamenye inkuru y’indyarya zibwira ko zemeye ivyo wamanuriwe muri Qor’ani n’ivyamanuriwe Intumwa zo hambere yawe, zigashaka guca imanza zisunze ingingo zishingiye ku bintazi n’ikinyoma, kandi zaramaze gutegekwa kubigarariza, shetani na yo igashaka kuzihubisha uguhuba kuri kure cane y’ukuri[16];",
-    "footnotes": "[16] Iyi Aayah, irerekana ko ukwemera nya kwemera gutuma umuntu yubahiriza ingingo y’Imana Allah, akayisunga mu gutunganiriza abantu muri vyose. Uwo wese rero, yibwira ko yemera vy’ukuri, hanyuma agahitamwo kwubahiriza ingingo y’ibintazi n’ikinyoma, aba ari indyarya mu kwemera kwiwe."
-  }
+  "id": 60,
+  "verse_number": 60,
+  "page_number": 88,
+  "verse_key": "4:60",
+  "juz_number": 5,
+  "hizb_number": 9,
+  "rub_el_hizb_number": 35,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ تَرَ إِلَى ٱلَّذِينَ يَزۡعُمُونَ أَنَّهُمۡ ءَامَنُواْ بِمَآ أُنزِلَ إِلَيۡكَ وَمَآ أُنزِلَ مِن قَبۡلِكَ يُرِيدُونَ أَن يَتَحَاكَمُوٓاْ إِلَى ٱلطَّٰغُوتِ وَقَدۡ أُمِرُوٓاْ أَن يَكۡفُرُواْ بِهِۦۖ وَيُرِيدُ ٱلشَّيۡطَٰنُ أَن يُضِلَّهُمۡ ضَلَٰلَۢا بَعِيدٗا",
+  "translation": "Ntumwa y’Imana! Mbega ntiwamenye inkuru y’indyarya zibwira ko zemeye ivyo wamanuriwe muri Qor’ani n’ivyamanuriwe Intumwa zo hambere yawe, zigashaka guca imanza zisunze ingingo zishingiye ku bintazi n’ikinyoma, kandi zaramaze gutegekwa kubigarariza, shetani na yo igashaka kuzihubisha uguhuba kuri kure cane y’ukuri[16];",
+  "footnotes": "[16] Iyi Aayah, irerekana ko ukwemera nya kwemera gutuma umuntu yubahiriza ingingo y’Imana Allah, akayisunga mu gutunganiriza abantu muri vyose. Uwo wese rero, yibwira ko yemera vy’ukuri, hanyuma agahitamwo kwubahiriza ingingo y’ibintazi n’ikinyoma, aba ari indyarya mu kwemera kwiwe."
 }

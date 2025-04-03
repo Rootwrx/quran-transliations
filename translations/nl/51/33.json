@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4708",
-    "sura": "51",
-    "aya": "33",
-    "arabic_text": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ",
-    "translation": "33. Om stenen van klei naar hen te sturen.”",
-    "footnotes": ""
-  }
+  "id": 33,
+  "verse_number": 33,
+  "page_number": 522,
+  "verse_key": "51:33",
+  "juz_number": 27,
+  "hizb_number": 53,
+  "rub_el_hizb_number": 209,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِنُرۡسِلَ عَلَيۡهِمۡ حِجَارَةٗ مِّن طِينٖ",
+  "translation": "33. Om stenen van klei naar hen te sturen.”",
+  "footnotes": ""
 }

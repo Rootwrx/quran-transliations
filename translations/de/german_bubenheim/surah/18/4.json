@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2144",
-    "sura": "18",
-    "aya": "4",
-    "arabic_text": "وَيُنذِرَ ٱلَّذِينَ قَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗا",
-    "translation": "und (damit er) diejenigen warne, die sagen: „Allah hat Sich Kinder genommen.",
-    "footnotes": null
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 293,
+  "verse_key": "18:4",
+  "juz_number": 15,
+  "hizb_number": 30,
+  "rub_el_hizb_number": 117,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَيُنذِرَ ٱلَّذِينَ قَالُواْ ٱتَّخَذَ ٱللَّهُ وَلَدٗا",
+  "translation": "und (damit er) diejenigen warne, die sagen: „Allah hat Sich Kinder genommen.",
+  "footnotes": null
 }

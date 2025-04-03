@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3173",
-    "sura": "27",
-    "aya": "14",
-    "arabic_text": "وَجَحَدُواْ بِهَا وَٱسۡتَيۡقَنَتۡهَآ أَنفُسُهُمۡ ظُلۡمٗا وَعُلُوّٗاۚ فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُفۡسِدِينَ",
-    "translation": "Na wakazikataa kwa dhulma na kujivuna, na hali ya kuwa nafsi zao zina yakini nazo. Basi angalia ulikuwaje mwisho wa mafisadi!",
-    "footnotes": "Wakaikadhibisha miujiza wakikataa kuwa inaonyesha dalili ya Utume. Na hakika yakini ilikwisha waingia katika nyoyo zao, lakini hawakusalimu amri kwa kuwa walikwisha tangaza kufuata upotovu na kushika uasi. Basi ewe Nabii! Hebu angalia vipi yalikuwa matokeo ya walio shikilia ufisadi, wakaikanya miujiza nayo iko wazi."
-  }
+  "id": 14,
+  "verse_number": 14,
+  "page_number": 378,
+  "verse_key": "27:14",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 151,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَحَدُواْ بِهَا وَٱسۡتَيۡقَنَتۡهَآ أَنفُسُهُمۡ ظُلۡمٗا وَعُلُوّٗاۚ فَٱنظُرۡ كَيۡفَ كَانَ عَٰقِبَةُ ٱلۡمُفۡسِدِينَ",
+  "translation": "Na wakazikataa kwa dhulma na kujivuna, na hali ya kuwa nafsi zao zina yakini nazo. Basi angalia ulikuwaje mwisho wa mafisadi!",
+  "footnotes": "Wakaikadhibisha miujiza wakikataa kuwa inaonyesha dalili ya Utume. Na hakika yakini ilikwisha waingia katika nyoyo zao, lakini hawakusalimu amri kwa kuwa walikwisha tangaza kufuata upotovu na kushika uasi. Basi ewe Nabii! Hebu angalia vipi yalikuwa matokeo ya walio shikilia ufisadi, wakaikanya miujiza nayo iko wazi."
 }

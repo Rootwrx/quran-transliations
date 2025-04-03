@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2958",
-    "sura": "26",
-    "aya": "26",
-    "arabic_text": "قَالَ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ",
-    "translation": "Er (Musa) sagte: „(Er ist) euer Herr und der Herr eurer Vorväter.",
-    "footnotes": null
-  }
+  "id": 26,
+  "verse_number": 26,
+  "page_number": 368,
+  "verse_key": "26:26",
+  "juz_number": 19,
+  "hizb_number": 37,
+  "rub_el_hizb_number": 147,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ",
+  "translation": "Er (Musa) sagte: „(Er ist) euer Herr und der Herr eurer Vorväter.",
+  "footnotes": null
 }

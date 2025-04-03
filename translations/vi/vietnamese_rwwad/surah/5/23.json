@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "692",
-    "sura": "5",
-    "aya": "23",
-    "arabic_text": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِمَا ٱدۡخُلُواْ عَلَيۡهِمُ ٱلۡبَابَ فَإِذَا دَخَلۡتُمُوهُ فَإِنَّكُمۡ غَٰلِبُونَۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓاْ إِن كُنتُم مُّؤۡمِنِينَ",
-    "translation": "Hai người đàn ông[12] trong số những người biết kính sợ Allah, (cả hai) được Allah ban cho ân huệ, nói: “Các người cứ việc tiến vào cổng (chính), các người chỉ cần tiến vào được bên trong thì các người chắc chắn sẽ giành chiến thắng, các người hãy phó thác cho Allah nếu các người là những người có đức tin.”",
-    "footnotes": "[12] Hai người đàn ông được đề cập là Yusha’ bin Nun và Kalab bin Yufana. Sau khi Musa qua đời thì Yusha’ bin Nun được Allah chọn làm Nabi."
-  }
+  "id": 23,
+  "verse_number": 23,
+  "page_number": 111,
+  "verse_key": "5:23",
+  "juz_number": 6,
+  "hizb_number": 11,
+  "rub_el_hizb_number": 44,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَجُلَانِ مِنَ ٱلَّذِينَ يَخَافُونَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِمَا ٱدۡخُلُواْ عَلَيۡهِمُ ٱلۡبَابَ فَإِذَا دَخَلۡتُمُوهُ فَإِنَّكُمۡ غَٰلِبُونَۚ وَعَلَى ٱللَّهِ فَتَوَكَّلُوٓاْ إِن كُنتُم مُّؤۡمِنِينَ",
+  "translation": "Hai người đàn ông[12] trong số những người biết kính sợ Allah, (cả hai) được Allah ban cho ân huệ, nói: “Các người cứ việc tiến vào cổng (chính), các người chỉ cần tiến vào được bên trong thì các người chắc chắn sẽ giành chiến thắng, các người hãy phó thác cho Allah nếu các người là những người có đức tin.”",
+  "footnotes": "[12] Hai người đàn ông được đề cập là Yusha’ bin Nun và Kalab bin Yufana. Sau khi Musa qua đời thì Yusha’ bin Nun được Allah chọn làm Nabi."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1589",
-    "sura": "11",
-    "aya": "116",
-    "arabic_text": "فَلَوۡلَا كَانَ مِنَ ٱلۡقُرُونِ مِن قَبۡلِكُمۡ أُوْلُواْ بَقِيَّةٖ يَنۡهَوۡنَ عَنِ ٱلۡفَسَادِ فِي ٱلۡأَرۡضِ إِلَّا قَلِيلٗا مِّمَّنۡ أَنجَيۡنَا مِنۡهُمۡۗ وَٱتَّبَعَ ٱلَّذِينَ ظَلَمُواْ مَآ أُتۡرِفُواْ فِيهِ وَكَانُواْ مُجۡرِمِينَ",
-    "translation": "Ese iyo haboneka mu migwi y’ababayeho aho hambere yanyu, abantu b’abagororotsi baguma babuza abandi kugarariza no kugenzwa n’ubwononyi kw’isi! Muri bo rero, ntihigeze haboneka kiretse abantu bake mu bemeramana Twarokoye mu bihano. Abirenganije muri nya migwi, bishinze kuryoherwa gusa n’ibihendamaso vy’isi, bari n’abanyavyaha bakwiye guhanwa koko[15].",
-    "footnotes": "[15] Iyi Aayah irakebura ibigaba mu bislamu bidahesha mu kwirenganya."
-  }
+  "id": 116,
+  "verse_number": 116,
+  "page_number": 234,
+  "verse_key": "11:116",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَلَوۡلَا كَانَ مِنَ ٱلۡقُرُونِ مِن قَبۡلِكُمۡ أُوْلُواْ بَقِيَّةٖ يَنۡهَوۡنَ عَنِ ٱلۡفَسَادِ فِي ٱلۡأَرۡضِ إِلَّا قَلِيلٗا مِّمَّنۡ أَنجَيۡنَا مِنۡهُمۡۗ وَٱتَّبَعَ ٱلَّذِينَ ظَلَمُواْ مَآ أُتۡرِفُواْ فِيهِ وَكَانُواْ مُجۡرِمِينَ",
+  "translation": "Ese iyo haboneka mu migwi y’ababayeho aho hambere yanyu, abantu b’abagororotsi baguma babuza abandi kugarariza no kugenzwa n’ubwononyi kw’isi! Muri bo rero, ntihigeze haboneka kiretse abantu bake mu bemeramana Twarokoye mu bihano. Abirenganije muri nya migwi, bishinze kuryoherwa gusa n’ibihendamaso vy’isi, bari n’abanyavyaha bakwiye guhanwa koko[15].",
+  "footnotes": "[15] Iyi Aayah irakebura ibigaba mu bislamu bidahesha mu kwirenganya."
 }

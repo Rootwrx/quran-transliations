@@ -1,0 +1,27 @@
+{
+  "number": 87,
+  "name": {
+    "ar": "الأعلى",
+    "en": "The Most High",
+    "transliteration": "Al-A'la"
+  },
+  "revelation_place": {
+    "ar": "مكية",
+    "en": "meccan"
+  },
+  "revelation_order": 8,
+  "bismillah_pre": true,
+  "verses_count": 19,
+  "words_count": 72,
+  "letters_count": 293,
+  "pages": [
+    591,
+    592
+  ],
+  "name_simple": "Al-A'la",
+  "name_complex": "Al-'A`lá",
+  "name_arabic": "الأعلى",
+  "translated_name": "The Most High",
+  "start_page": 591,
+  "end_page": 592
+}

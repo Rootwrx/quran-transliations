@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2272",
-    "sura": "19",
-    "aya": "22",
-    "arabic_text": "۞ فَحَمَلَتۡهُ فَٱنتَبَذَتۡ بِهِۦ مَكَانٗا قَصِيّٗا",
-    "translation": "Kaya nagdalang-tao siya nito at nagpakalayu-layo siya kasama nito sa isang pook na liblib.",
-    "footnotes": ""
-  }
+  "id": 22,
+  "verse_number": 22,
+  "page_number": 306,
+  "verse_key": "19:22",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ فَحَمَلَتۡهُ فَٱنتَبَذَتۡ بِهِۦ مَكَانٗا قَصِيّٗا",
+  "translation": "Kaya nagdalang-tao siya nito at nagpakalayu-layo siya kasama nito sa isang pook na liblib.",
+  "footnotes": ""
 }

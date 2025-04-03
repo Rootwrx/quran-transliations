@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1289",
-    "sura": "9",
-    "aya": "54",
-    "arabic_text": "وَمَا مَنَعَهُمۡ أَن تُقۡبَلَ مِنۡهُمۡ نَفَقَٰتُهُمۡ إِلَّآ أَنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأۡتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمۡ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمۡ كَٰرِهُونَ",
-    "translation": "E o que impediu se lhes aceitasse o que despendiam não foi senão eles renegarem a Allah e a seu Mensageiro; e não realizam a oração senão enquanto preguiçosos, e não despendem suas riquezas senão enquanto de mau grado.",
-    "footnotes": ""
-  }
+  "id": 54,
+  "verse_number": 54,
+  "page_number": 195,
+  "verse_key": "9:54",
+  "juz_number": 10,
+  "hizb_number": 20,
+  "rub_el_hizb_number": 78,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَا مَنَعَهُمۡ أَن تُقۡبَلَ مِنۡهُمۡ نَفَقَٰتُهُمۡ إِلَّآ أَنَّهُمۡ كَفَرُواْ بِٱللَّهِ وَبِرَسُولِهِۦ وَلَا يَأۡتُونَ ٱلصَّلَوٰةَ إِلَّا وَهُمۡ كُسَالَىٰ وَلَا يُنفِقُونَ إِلَّا وَهُمۡ كَٰرِهُونَ",
+  "translation": "E o que impediu se lhes aceitasse o que despendiam não foi senão eles renegarem a Allah e a seu Mensageiro; e não realizam a oração senão enquanto preguiçosos, e não despendem suas riquezas senão enquanto de mau grado.",
+  "footnotes": ""
 }

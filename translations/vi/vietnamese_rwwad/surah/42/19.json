@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "4291",
-    "sura": "42",
-    "aya": "19",
-    "arabic_text": "ٱللَّهُ لَطِيفُۢ بِعِبَادِهِۦ يَرۡزُقُ مَن يَشَآءُۖ وَهُوَ ٱلۡقَوِيُّ ٱلۡعَزِيزُ",
-    "translation": "Allah nhân từ đối với đám bầy tôi của Ngài. Ngài muốn ban bổng lộc cho người nào là tùy ý Ngài. Ngài là Đấng Toàn Lực, Đấng Toàn Năng.",
-    "footnotes": ""
-  }
+  "id": 19,
+  "verse_number": 19,
+  "page_number": 485,
+  "verse_key": "42:19",
+  "juz_number": 25,
+  "hizb_number": 49,
+  "rub_el_hizb_number": 194,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ لَطِيفُۢ بِعِبَادِهِۦ يَرۡزُقُ مَن يَشَآءُۖ وَهُوَ ٱلۡقَوِيُّ ٱلۡعَزِيزُ",
+  "translation": "Allah nhân từ đối với đám bầy tôi của Ngài. Ngài muốn ban bổng lộc cho người nào là tùy ý Ngài. Ngài là Đấng Toàn Lực, Đấng Toàn Năng.",
+  "footnotes": ""
 }

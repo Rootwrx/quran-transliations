@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2308",
-    "sura": "19",
-    "aya": "58",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوحٖ وَمِن ذُرِّيَّةِ إِبۡرَٰهِيمَ وَإِسۡرَٰٓءِيلَ وَمِمَّنۡ هَدَيۡنَا وَٱجۡتَبَيۡنَآۚ إِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُ ٱلرَّحۡمَٰنِ خَرُّواْۤ سُجَّدٗاۤ وَبُكِيّٗا۩",
-    "translation": "Ntumwa y’Imana! Abo Tukwiganiye rero inkuru zabo, ni bo Imana Allah Yahaye inema zayo, maze Ibagira Abavugishwamana mu ruvyaro rwa Adamu; nka Idrisa (nyakugira amahoro y'Imana Allah), mu ruvyaro rukomoka ku bo Twarokoye Tukabatwara mu bwato hamwe na Nuhu[382] (nyakugira amahoro y’Imana Allah), mu ruvyaro rwa Ibrahimu[383] no mu ruvyaro rwa Yakubu[384] (ba nyakugira amahoro y’Imana Allah), no mu bo Twarongoye mu nzira yo kwemera Tukabatora kuba Intumwa n’Abavugishwamana. Iyo rero basomewe Aayah za Nyenimpuhwe Allah, bashoka bubama ku ruhanga hasi mu kwubaha Imana Allah, bakorora n’amosozi ku kuyitinya[385].",
-    "footnotes": "[382] Nka Ibrahimu mwene Sam mwene Nuhu (nyakugira amahoro y’Imana Allah).\n[383] Nka Ismayili, Is-haka na Yakubu (ba nyakugira amahoro y’Imana Allah).\n[384] Ari we batazira Israyeli. Intumwa zimukomokako, ni nka Musa, Haruna, Zakariya, Yahya na Isa mwene Mariyamu (ba nyakugira amahoro y’Imana Allah).\n[385] Iyo uhejeje gusoma iyi Aayah, uca wubama incuro imwe."
-  }
+  "id": 58,
+  "verse_number": 58,
+  "page_number": 309,
+  "verse_key": "19:58",
+  "juz_number": 16,
+  "hizb_number": 31,
+  "rub_el_hizb_number": 123,
+  "sajdah_type": "obligatory",
+  "sajdah_number": 5,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ أَنۡعَمَ ٱللَّهُ عَلَيۡهِم مِّنَ ٱلنَّبِيِّـۧنَ مِن ذُرِّيَّةِ ءَادَمَ وَمِمَّنۡ حَمَلۡنَا مَعَ نُوحٖ وَمِن ذُرِّيَّةِ إِبۡرَٰهِيمَ وَإِسۡرَٰٓءِيلَ وَمِمَّنۡ هَدَيۡنَا وَٱجۡتَبَيۡنَآۚ إِذَا تُتۡلَىٰ عَلَيۡهِمۡ ءَايَٰتُ ٱلرَّحۡمَٰنِ خَرُّواْۤ سُجَّدٗاۤ وَبُكِيّٗا۩",
+  "translation": "Ntumwa y’Imana! Abo Tukwiganiye rero inkuru zabo, ni bo Imana Allah Yahaye inema zayo, maze Ibagira Abavugishwamana mu ruvyaro rwa Adamu; nka Idrisa (nyakugira amahoro y'Imana Allah), mu ruvyaro rukomoka ku bo Twarokoye Tukabatwara mu bwato hamwe na Nuhu[382] (nyakugira amahoro y’Imana Allah), mu ruvyaro rwa Ibrahimu[383] no mu ruvyaro rwa Yakubu[384] (ba nyakugira amahoro y’Imana Allah), no mu bo Twarongoye mu nzira yo kwemera Tukabatora kuba Intumwa n’Abavugishwamana. Iyo rero basomewe Aayah za Nyenimpuhwe Allah, bashoka bubama ku ruhanga hasi mu kwubaha Imana Allah, bakorora n’amosozi ku kuyitinya[385].",
+  "footnotes": "[382] Nka Ibrahimu mwene Sam mwene Nuhu (nyakugira amahoro y’Imana Allah).\n[383] Nka Ismayili, Is-haka na Yakubu (ba nyakugira amahoro y’Imana Allah).\n[384] Ari we batazira Israyeli. Intumwa zimukomokako, ni nka Musa, Haruna, Zakariya, Yahya na Isa mwene Mariyamu (ba nyakugira amahoro y’Imana Allah).\n[385] Iyo uhejeje gusoma iyi Aayah, uca wubama incuro imwe."
 }

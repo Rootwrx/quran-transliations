@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5204",
-    "sura": "64",
-    "aya": "5",
-    "arabic_text": "أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ كَفَرُواْ مِن قَبۡلُ فَذَاقُواْ وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
-    "translation": "Kwani haikukujieni khabari ya walio kufuru kabla, wakaonja matokeo mabaya ya mambo yao? Na wao wana adhabu iliyo chungu.",
-    "footnotes": "Zimekwisha wafikieni khabari za walio kufuru kabla yenu, na wao wakameza ubaya wa matokeo wa mambo yao katika dunia. Na Akhera watapata adhabu yenye machungu makali."
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 556,
+  "verse_key": "64:5",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أَلَمۡ يَأۡتِكُمۡ نَبَؤُاْ ٱلَّذِينَ كَفَرُواْ مِن قَبۡلُ فَذَاقُواْ وَبَالَ أَمۡرِهِمۡ وَلَهُمۡ عَذَابٌ أَلِيمٞ",
+  "translation": "Kwani haikukujieni khabari ya walio kufuru kabla, wakaonja matokeo mabaya ya mambo yao? Na wao wana adhabu iliyo chungu.",
+  "footnotes": "Zimekwisha wafikieni khabari za walio kufuru kabla yenu, na wao wakameza ubaya wa matokeo wa mambo yao katika dunia. Na Akhera watapata adhabu yenye machungu makali."
 }

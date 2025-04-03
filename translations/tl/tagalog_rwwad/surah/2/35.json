@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "42",
-    "sura": "2",
-    "aya": "35",
-    "arabic_text": "وَقُلۡنَا يَٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ وَكُلَا مِنۡهَا رَغَدًا حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
-    "translation": "Nagsabi Kami: “O Adan, manahan ka at ang asawa mo sa Paraiso at kumain kayong dalawa mula rito nang masagana saanman ninyong dalawa loobin ngunit huwag kayong dalawa lumapit sa punong-kahoy na ito dahil kayong dalawa ay maging kabilang sa mga tagalabag sa katarungan.”",
-    "footnotes": ""
-  }
+  "id": 35,
+  "verse_number": 35,
+  "page_number": 6,
+  "verse_key": "2:35",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 2,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَقُلۡنَا يَٰٓـَٔادَمُ ٱسۡكُنۡ أَنتَ وَزَوۡجُكَ ٱلۡجَنَّةَ وَكُلَا مِنۡهَا رَغَدًا حَيۡثُ شِئۡتُمَا وَلَا تَقۡرَبَا هَٰذِهِ ٱلشَّجَرَةَ فَتَكُونَا مِنَ ٱلظَّٰلِمِينَ",
+  "translation": "Nagsabi Kami: “O Adan, manahan ka at ang asawa mo sa Paraiso at kumain kayong dalawa mula rito nang masagana saanman ninyong dalawa loobin ngunit huwag kayong dalawa lumapit sa punong-kahoy na ito dahil kayong dalawa ay maging kabilang sa mga tagalabag sa katarungan.”",
+  "footnotes": ""
 }

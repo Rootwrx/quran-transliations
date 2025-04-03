@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5717",
-    "sura": "79",
-    "aya": "5",
-    "arabic_text": "فَٱلۡمُدَبِّرَٰتِ أَمۡرٗا",
-    "translation": "(Аллах табыштаган ааламдык) иштерди башкаруучу периштелер менен ант ичип (айтамын):",
-    "footnotes": ""
-  }
+  "id": 5,
+  "verse_number": 5,
+  "page_number": 583,
+  "verse_key": "79:5",
+  "juz_number": 30,
+  "hizb_number": 59,
+  "rub_el_hizb_number": 233,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَٱلۡمُدَبِّرَٰتِ أَمۡرٗا",
+  "translation": "(Аллах табыштаган ааламдык) иштерди башкаруучу периштелер менен ант ичип (айтамын):",
+  "footnotes": ""
 }

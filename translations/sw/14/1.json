@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1751",
-    "sura": "14",
-    "aya": "1",
-    "arabic_text": "الٓرۚ كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ لِتُخۡرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِ رَبِّهِمۡ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
-    "translation": "Alif Lam Ra. (A.L.R.) Hichi ni Kitabu tulicho kiteremsha kwako ili uwatowe watu kwenye giza uwapeleke kwenye muwangaza, kwa idhini ya Mola wao Mlezi, uwafikishe kwenye Njia ya Mwenye nguvu, Msifiwa!",
-    "footnotes": "Alif Lam Mim Ra - Kwa kuanzia harufi hizi ni kunabihisha muujiza wa Qur'ani, juu ya kuwa imeundwa kwa harufi hizi hizi zinazo tumiwa kwa kusemea. Na pia kuwazindua watu waisikilize. Haya yaliyo tajwa katika Sura hii ni Kitabu kilicho teremshwa kwako wewe, Muhammad, kutokana nasi, ili uwatoe watu wote kwenye kiza cha ukafiri na ujinga waendee kwenye nuru ya Imani na ilimu, kwa kusahilishiwa na Mola wao Mlezi. Na nuru hiyo ndiyo Njia ya Mwenyezi Mungu Mwenye kushinda kwa kuadhibisha, na Mwenye kuhimidiwa kwa kuneemesha."
-  }
+  "id": 1,
+  "verse_number": 1,
+  "page_number": 255,
+  "verse_key": "14:1",
+  "juz_number": 13,
+  "hizb_number": 26,
+  "rub_el_hizb_number": 102,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "الٓرۚ كِتَٰبٌ أَنزَلۡنَٰهُ إِلَيۡكَ لِتُخۡرِجَ ٱلنَّاسَ مِنَ ٱلظُّلُمَٰتِ إِلَى ٱلنُّورِ بِإِذۡنِ رَبِّهِمۡ إِلَىٰ صِرَٰطِ ٱلۡعَزِيزِ ٱلۡحَمِيدِ",
+  "translation": "Alif Lam Ra. (A.L.R.) Hichi ni Kitabu tulicho kiteremsha kwako ili uwatowe watu kwenye giza uwapeleke kwenye muwangaza, kwa idhini ya Mola wao Mlezi, uwafikishe kwenye Njia ya Mwenye nguvu, Msifiwa!",
+  "footnotes": "Alif Lam Mim Ra - Kwa kuanzia harufi hizi ni kunabihisha muujiza wa Qur'ani, juu ya kuwa imeundwa kwa harufi hizi hizi zinazo tumiwa kwa kusemea. Na pia kuwazindua watu waisikilize. Haya yaliyo tajwa katika Sura hii ni Kitabu kilicho teremshwa kwako wewe, Muhammad, kutokana nasi, ili uwatoe watu wote kwenye kiza cha ukafiri na ujinga waendee kwenye nuru ya Imani na ilimu, kwa kusahilishiwa na Mola wao Mlezi. Na nuru hiyo ndiyo Njia ya Mwenyezi Mungu Mwenye kushinda kwa kuadhibisha, na Mwenye kuhimidiwa kwa kuneemesha."
 }

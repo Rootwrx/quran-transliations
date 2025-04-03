@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5208",
-    "sura": "64",
-    "aya": "9",
-    "arabic_text": "يَوۡمَ يَجۡمَعُكُمۡ لِيَوۡمِ ٱلۡجَمۡعِۖ ذَٰلِكَ يَوۡمُ ٱلتَّغَابُنِۗ وَمَن يُؤۡمِنۢ بِٱللَّهِ وَيَعۡمَلۡ صَٰلِحٗا يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُدۡخِلۡهُ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
-    "translation": "9. Maalinta (Qiyaamada) uu idiin soo kulmin idinkoo dhan Maalinta Kulanka2, taasu waa maalin kedo uu qof khayr heli (mu’minka) ama ku dhici  khasaaro weyn (gaalka). Qofkii rumeeya Alle oo sama fala, Wuxuu (Alle) ka tiri  denbiyadiisa oo gelin Jannooyin (Beero) ay hoostoodu webiyo qulqulaan ay ku dhex waarayaan weligood, taasi waa Liibaanta Weyn.",
-    "footnotes": "2. At-Taqaabun waa magac kale oo loo yaqaan Maalinta Qiyaamaha."
-  }
+  "id": 9,
+  "verse_number": 9,
+  "page_number": 556,
+  "verse_key": "64:9",
+  "juz_number": 28,
+  "hizb_number": 56,
+  "rub_el_hizb_number": 222,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "يَوۡمَ يَجۡمَعُكُمۡ لِيَوۡمِ ٱلۡجَمۡعِۖ ذَٰلِكَ يَوۡمُ ٱلتَّغَابُنِۗ وَمَن يُؤۡمِنۢ بِٱللَّهِ وَيَعۡمَلۡ صَٰلِحٗا يُكَفِّرۡ عَنۡهُ سَيِّـَٔاتِهِۦ وَيُدۡخِلۡهُ جَنَّٰتٖ تَجۡرِي مِن تَحۡتِهَا ٱلۡأَنۡهَٰرُ خَٰلِدِينَ فِيهَآ أَبَدٗاۚ ذَٰلِكَ ٱلۡفَوۡزُ ٱلۡعَظِيمُ",
+  "translation": "9. Maalinta (Qiyaamada) uu idiin soo kulmin idinkoo dhan Maalinta Kulanka2, taasu waa maalin kedo uu qof khayr heli (mu’minka) ama ku dhici  khasaaro weyn (gaalka). Qofkii rumeeya Alle oo sama fala, Wuxuu (Alle) ka tiri  denbiyadiisa oo gelin Jannooyin (Beero) ay hoostoodu webiyo qulqulaan ay ku dhex waarayaan weligood, taasi waa Liibaanta Weyn.",
+  "footnotes": "2. At-Taqaabun waa magac kale oo loo yaqaan Maalinta Qiyaamaha."
 }

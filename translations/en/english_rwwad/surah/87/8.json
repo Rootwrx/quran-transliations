@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "5956",
-    "sura": "87",
-    "aya": "8",
-    "arabic_text": "وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ",
-    "translation": "We will guide you to the easy way[2].",
-    "footnotes": "[2] To the way of Islam which brings about ease in this life and attainment of Paradise in the Hereafter, or will give you opportunities for righteous deeds that lead to Paradise."
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 591,
+  "verse_key": "87:8",
+  "juz_number": 30,
+  "hizb_number": 60,
+  "rub_el_hizb_number": 237,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَنُيَسِّرُكَ لِلۡيُسۡرَىٰ",
+  "translation": "We will guide you to the easy way[2].",
+  "footnotes": "[2] To the way of Islam which brings about ease in this life and attainment of Paradise in the Hereafter, or will give you opportunities for righteous deeds that lead to Paradise."
 }

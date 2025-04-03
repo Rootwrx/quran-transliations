@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1584",
-    "sura": "11",
-    "aya": "111",
-    "arabic_text": "وَإِنَّ كُلّٗا لَّمَّا لَيُوَفِّيَنَّهُمۡ رَبُّكَ أَعۡمَٰلَهُمۡۚ إِنَّهُۥ بِمَا يَعۡمَلُونَ خَبِيرٞ",
-    "translation": "Na hakika Mola wako Mlezi atawatimilizia malipo ya vitendo vyao. Hakika Yeye anayo khabari ya wayatendayo.",
-    "footnotes": "Hapana shaka yoyote kila kikundi katika hawa Mola wako Mlezi atawalipa jaza ya vitendo vyao. Hakika Yeye Subhanahu ni Mjuzi wa ukamilifu wa kubwa na dogo wanayo yatenda, ikiwa kheri na ikiwa shari. Na atamlipa kila mmoja wapo kwa mujibu alivyo tenda."
-  }
+  "id": 111,
+  "verse_number": 111,
+  "page_number": 234,
+  "verse_key": "11:111",
+  "juz_number": 12,
+  "hizb_number": 24,
+  "rub_el_hizb_number": 94,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَإِنَّ كُلّٗا لَّمَّا لَيُوَفِّيَنَّهُمۡ رَبُّكَ أَعۡمَٰلَهُمۡۚ إِنَّهُۥ بِمَا يَعۡمَلُونَ خَبِيرٞ",
+  "translation": "Na hakika Mola wako Mlezi atawatimilizia malipo ya vitendo vyao. Hakika Yeye anayo khabari ya wayatendayo.",
+  "footnotes": "Hapana shaka yoyote kila kikundi katika hawa Mola wako Mlezi atawalipa jaza ya vitendo vyao. Hakika Yeye Subhanahu ni Mjuzi wa ukamilifu wa kubwa na dogo wanayo yatenda, ikiwa kheri na ikiwa shari. Na atamlipa kila mmoja wapo kwa mujibu alivyo tenda."
 }

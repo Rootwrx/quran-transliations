@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2670",
-    "sura": "22",
-    "aya": "75",
-    "arabic_text": "ٱللَّهُ يَصۡطَفِي مِنَ ٱلۡمَلَٰٓئِكَةِ رُسُلٗا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٞ",
-    "translation": "Allah nã zãɓen Manzanni daga malã'iku kuma daga mutãne.* Lalle Allah, Mai ji ne, Mai gani.",
-    "footnotes": "* Allah nã zaɓen Manzanni daga mutãne da malã'iku kawai. Sabõ da haka bãbu wani manzo da jinsin aljannu kõ wani jinsi, kuma ãyar Sũratul Ahzãb ta 40 tã nũna zãɓen nan ya ƙãre daga Annabi Muhammadu, tsira da amincin Allah su tabbata a gare shi. Duk wanda ya yi da'awar Allah Ya bã shi wani hukumci a bãyan Annabi Muhammadu, kõ dã bai yi da'awar annabci ba, to, shĩ Dajjal ne, bã a bin sa."
-  }
+  "id": 75,
+  "verse_number": 75,
+  "page_number": 341,
+  "verse_key": "22:75",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 136,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "ٱللَّهُ يَصۡطَفِي مِنَ ٱلۡمَلَٰٓئِكَةِ رُسُلٗا وَمِنَ ٱلنَّاسِۚ إِنَّ ٱللَّهَ سَمِيعُۢ بَصِيرٞ",
+  "translation": "Allah nã zãɓen Manzanni daga malã'iku kuma daga mutãne.* Lalle Allah, Mai ji ne, Mai gani.",
+  "footnotes": "* Allah nã zaɓen Manzanni daga mutãne da malã'iku kawai. Sabõ da haka bãbu wani manzo da jinsin aljannu kõ wani jinsi, kuma ãyar Sũratul Ahzãb ta 40 tã nũna zãɓen nan ya ƙãre daga Annabi Muhammadu, tsira da amincin Allah su tabbata a gare shi. Duk wanda ya yi da'awar Allah Ya bã shi wani hukumci a bãyan Annabi Muhammadu, kõ dã bai yi da'awar annabci ba, to, shĩ Dajjal ne, bã a bin sa."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3259",
-    "sura": "28",
-    "aya": "7",
-    "arabic_text": "وَأَوۡحَيۡنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنۡ أَرۡضِعِيهِۖ فَإِذَا خِفۡتِ عَلَيۡهِ فَأَلۡقِيهِ فِي ٱلۡيَمِّ وَلَا تَخَافِي وَلَا تَحۡزَنِيٓۖ إِنَّا رَآدُّوهُ إِلَيۡكِ وَجَاعِلُوهُ مِنَ ٱلۡمُرۡسَلِينَ",
-    "translation": "I Mi nadahnusmo Musaovu majku: “Doji ga, a kad se uplašiš za njegov život, baci ga u rijeku, i ne strahuj i ne tuguj, Mi ćemo ti ga, doista, vratiti i poslanikom ga učiniti.”",
-    "footnotes": ""
-  }
+  "id": 7,
+  "verse_number": 7,
+  "page_number": 386,
+  "verse_key": "28:7",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 154,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَأَوۡحَيۡنَآ إِلَىٰٓ أُمِّ مُوسَىٰٓ أَنۡ أَرۡضِعِيهِۖ فَإِذَا خِفۡتِ عَلَيۡهِ فَأَلۡقِيهِ فِي ٱلۡيَمِّ وَلَا تَخَافِي وَلَا تَحۡزَنِيٓۖ إِنَّا رَآدُّوهُ إِلَيۡكِ وَجَاعِلُوهُ مِنَ ٱلۡمُرۡسَلِينَ",
+  "translation": "I Mi nadahnusmo Musaovu majku: “Doji ga, a kad se uplašiš za njegov život, baci ga u rijeku, i ne strahuj i ne tuguj, Mi ćemo ti ga, doista, vratiti i poslanikom ga učiniti.”",
+  "footnotes": ""
 }

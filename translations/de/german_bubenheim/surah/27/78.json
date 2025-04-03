@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3237",
-    "sura": "27",
-    "aya": "78",
-    "arabic_text": "إِنَّ رَبَّكَ يَقۡضِي بَيۡنَهُم بِحُكۡمِهِۦۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡعَلِيمُ",
-    "translation": "Gewiß, dein Herr wird zwischen ihnen durch Sein Urteil entscheiden. Und Er ist der Allmächtige und Allwissende.",
-    "footnotes": null
-  }
+  "id": 78,
+  "verse_number": 78,
+  "page_number": 384,
+  "verse_key": "27:78",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 153,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِنَّ رَبَّكَ يَقۡضِي بَيۡنَهُم بِحُكۡمِهِۦۚ وَهُوَ ٱلۡعَزِيزُ ٱلۡعَلِيمُ",
+  "translation": "Gewiß, dein Herr wird zwischen ihnen durch Sein Urteil entscheiden. Und Er ist der Allmächtige und Allwissende.",
+  "footnotes": null
 }

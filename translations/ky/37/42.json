@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3830",
-    "sura": "37",
-    "aya": "42",
-    "arabic_text": "فَوَٰكِهُ وَهُم مُّكۡرَمُونَ",
-    "translation": "Мөмө-жемиштер..., жана алар урмат-сый көргөзүлгөн абалда,",
-    "footnotes": ""
-  }
+  "id": 42,
+  "verse_number": 42,
+  "page_number": 447,
+  "verse_key": "37:42",
+  "juz_number": 23,
+  "hizb_number": 45,
+  "rub_el_hizb_number": 179,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "فَوَٰكِهُ وَهُم مُّكۡرَمُونَ",
+  "translation": "Мөмө-жемиштер..., жана алар урмат-сый көргөзүлгөн абалда,",
+  "footnotes": ""
 }

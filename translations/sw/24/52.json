@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2843",
-    "sura": "24",
-    "aya": "52",
-    "arabic_text": "وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخۡشَ ٱللَّهَ وَيَتَّقۡهِ فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَآئِزُونَ",
-    "translation": "Na wenye kumt'ii Mwenyezi Mungu na Mtume wake, na wakamwogopa Mwenyezi Mungu na wakamcha, basi hao ndio wenye kufuzu.",
-    "footnotes": "Na wenye kumt'ii Mwenyezi Mungu na kuridhia anayo yaamrisha Mtume s.a.w. na wakaiogopa dhati ya Mwenyezi Mungu Tukufu, na wakaukumbuka Utukufu wake, na wakaikhofu ghadhabu yake, hao ndio watakao pata radhi ya Mwenyezi Mungu na mapenzi yake, na neema za Pepo, na ndio wenye kupata kheri tupu."
-  }
+  "id": 52,
+  "verse_number": 52,
+  "page_number": 356,
+  "verse_key": "24:52",
+  "juz_number": 18,
+  "hizb_number": 36,
+  "rub_el_hizb_number": 142,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَمَن يُطِعِ ٱللَّهَ وَرَسُولَهُۥ وَيَخۡشَ ٱللَّهَ وَيَتَّقۡهِ فَأُوْلَٰٓئِكَ هُمُ ٱلۡفَآئِزُونَ",
+  "translation": "Na wenye kumt'ii Mwenyezi Mungu na Mtume wake, na wakamwogopa Mwenyezi Mungu na wakamcha, basi hao ndio wenye kufuzu.",
+  "footnotes": "Na wenye kumt'ii Mwenyezi Mungu na kuridhia anayo yaamrisha Mtume s.a.w. na wakaiogopa dhati ya Mwenyezi Mungu Tukufu, na wakaukumbuka Utukufu wake, na wakaikhofu ghadhabu yake, hao ndio watakao pata radhi ya Mwenyezi Mungu na mapenzi yake, na neema za Pepo, na ndio wenye kupata kheri tupu."
 }

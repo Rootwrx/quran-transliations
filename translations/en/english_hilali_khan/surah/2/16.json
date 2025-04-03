@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "23",
-    "sura": "2",
-    "aya": "16",
-    "arabic_text": "أُوْلَٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلضَّلَٰلَةَ بِٱلۡهُدَىٰ فَمَا رَبِحَت تِّجَٰرَتُهُمۡ وَمَا كَانُواْ مُهۡتَدِينَ",
-    "translation": " 16. These are they who have purchased error for guidance, so their commerce was profitless. And they were not guided.",
-    "footnotes": ""
-  }
+  "id": 16,
+  "verse_number": 16,
+  "page_number": 3,
+  "verse_key": "2:16",
+  "juz_number": 1,
+  "hizb_number": 1,
+  "rub_el_hizb_number": 1,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "أُوْلَٰٓئِكَ ٱلَّذِينَ ٱشۡتَرَوُاْ ٱلضَّلَٰلَةَ بِٱلۡهُدَىٰ فَمَا رَبِحَت تِّجَٰرَتُهُمۡ وَمَا كَانُواْ مُهۡتَدِينَ",
+  "translation": " 16. These are they who have purchased error for guidance, so their commerce was profitless. And they were not guided.",
+  "footnotes": ""
 }

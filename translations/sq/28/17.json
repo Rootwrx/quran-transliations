@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3269",
-    "sura": "28",
-    "aya": "17",
-    "arabic_text": "قَالَ رَبِّ بِمَآ أَنۡعَمۡتَ عَلَيَّ فَلَنۡ أَكُونَ ظَهِيرٗا لِّلۡمُجۡرِمِينَ",
-    "translation": "Musai tha: “O Zoti im! Falë të mirave që më ke dhënë, unë nuk do të bëhem ndihmës i të këqijve!”",
-    "footnotes": ""
-  }
+  "id": 17,
+  "verse_number": 17,
+  "page_number": 387,
+  "verse_key": "28:17",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 155,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَ رَبِّ بِمَآ أَنۡعَمۡتَ عَلَيَّ فَلَنۡ أَكُونَ ظَهِيرٗا لِّلۡمُجۡرِمِينَ",
+  "translation": "Musai tha: “O Zoti im! Falë të mirave që më ke dhënë, unë nuk do të bëhem ndihmës i të këqijve!”",
+  "footnotes": ""
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3193",
-    "sura": "27",
-    "aya": "34",
-    "arabic_text": "قَالَتۡ إِنَّ ٱلۡمُلُوكَ إِذَا دَخَلُواْ قَرۡيَةً أَفۡسَدُوهَا وَجَعَلُوٓاْ أَعِزَّةَ أَهۡلِهَآ أَذِلَّةٗۚ وَكَذَٰلِكَ يَفۡعَلُونَ",
-    "translation": "Akasema: Hakika wafalme wanapo uingia mji wanauharibu, na wanawafanya wale watukufu wake kuwa wanyonge. Na hivyo ndivyo watendavyo.",
-    "footnotes": "Akasema kwa taratibu na kupendelea salama: Hakika watawala wakiingia katika miji mikubwa pamoja na majeshi yao huifisidi, wakaondoa matengenezo yake, wakateketeza makulima na roho, na wakawafanya walio watukufu katika watu wa hiyo miji kuwa ndio madhalili, na huo ndio mtindo wao daima."
-  }
+  "id": 34,
+  "verse_number": 34,
+  "page_number": 379,
+  "verse_key": "27:34",
+  "juz_number": 19,
+  "hizb_number": 38,
+  "rub_el_hizb_number": 152,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "قَالَتۡ إِنَّ ٱلۡمُلُوكَ إِذَا دَخَلُواْ قَرۡيَةً أَفۡسَدُوهَا وَجَعَلُوٓاْ أَعِزَّةَ أَهۡلِهَآ أَذِلَّةٗۚ وَكَذَٰلِكَ يَفۡعَلُونَ",
+  "translation": "Akasema: Hakika wafalme wanapo uingia mji wanauharibu, na wanawafanya wale watukufu wake kuwa wanyonge. Na hivyo ndivyo watendavyo.",
+  "footnotes": "Akasema kwa taratibu na kupendelea salama: Hakika watawala wakiingia katika miji mikubwa pamoja na majeshi yao huifisidi, wakaondoa matengenezo yake, wakateketeza makulima na roho, na wakawafanya walio watukufu katika watu wa hiyo miji kuwa ndio madhalili, na huo ndio mtindo wao daima."
 }

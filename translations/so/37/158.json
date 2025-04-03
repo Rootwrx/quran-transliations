@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3946",
-    "sura": "37",
-    "aya": "158",
-    "arabic_text": "وَجَعَلُواْ بَيۡنَهُۥ وَبَيۡنَ ٱلۡجِنَّةِ نَسَبٗاۚ وَلَقَدۡ عَلِمَتِ ٱلۡجِنَّةُ إِنَّهُمۡ لَمُحۡضَرُونَ",
-    "translation": "158. Waxayse yeelaan (qaraabo) nasab Isaga (Alle) iyo malaa’igta dhexdooda, oo dhab ahaan waxay malaa’igtu og yihiin in (kuwa sidaa yidhaahda) la keeni (cadaabka Naarta)18.",
-    "footnotes": "18. Jin waa khalqi aan Aadmigu arag oo ka qarsoon waana jinka iyo malaa’igta."
-  }
+  "id": 158,
+  "verse_number": 158,
+  "page_number": 452,
+  "verse_key": "37:158",
+  "juz_number": 23,
+  "hizb_number": 46,
+  "rub_el_hizb_number": 181,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلُواْ بَيۡنَهُۥ وَبَيۡنَ ٱلۡجِنَّةِ نَسَبٗاۚ وَلَقَدۡ عَلِمَتِ ٱلۡجِنَّةُ إِنَّهُمۡ لَمُحۡضَرُونَ",
+  "translation": "158. Waxayse yeelaan (qaraabo) nasab Isaga (Alle) iyo malaa’igta dhexdooda, oo dhab ahaan waxay malaa’igtu og yihiin in (kuwa sidaa yidhaahda) la keeni (cadaabka Naarta)18.",
+  "footnotes": "18. Jin waa khalqi aan Aadmigu arag oo ka qarsoon waana jinka iyo malaa’igta."
 }

@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "2633",
-    "sura": "22",
-    "aya": "38",
-    "arabic_text": "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓاْۗ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٖ كَفُورٍ",
-    "translation": "Dájúdájú Allāhu ń ti aburú kúrò fún àwọn tó gbàgbọ́ ní òdodo. Dájúdájú Allāhu kò nífẹ̀ẹ́ gbogbo àwọn oníjàǹbá, aláìgbàgbọ́.",
-    "footnotes": ""
-  }
+  "id": 38,
+  "verse_number": 38,
+  "page_number": 336,
+  "verse_key": "22:38",
+  "juz_number": 17,
+  "hizb_number": 34,
+  "rub_el_hizb_number": 135,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "۞ إِنَّ ٱللَّهَ يُدَٰفِعُ عَنِ ٱلَّذِينَ ءَامَنُوٓاْۗ إِنَّ ٱللَّهَ لَا يُحِبُّ كُلَّ خَوَّانٖ كَفُورٍ",
+  "translation": "Dájúdájú Allāhu ń ti aburú kúrò fún àwọn tó gbàgbọ́ ní òdodo. Dájúdájú Allāhu kò nífẹ̀ẹ́ gbogbo àwọn oníjàǹbá, aláìgbàgbọ́.",
+  "footnotes": ""
 }

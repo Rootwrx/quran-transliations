@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1239",
-    "sura": "9",
-    "aya": "4",
-    "arabic_text": "إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلۡمُشۡرِكِينَ ثُمَّ لَمۡ يَنقُصُوكُمۡ شَيۡـٔٗا وَلَمۡ يُظَٰهِرُواْ عَلَيۡكُمۡ أَحَدٗا فَأَتِمُّوٓاْ إِلَيۡهِمۡ عَهۡدَهُمۡ إِلَىٰ مُدَّتِهِمۡۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُتَّقِينَ",
-    "translation": "Except those polytheists with whom you have a treaty and who have not broken it in the least, nor have backed up anyone against you – so fulfill your treaty with them until the end of their term[5]. Indeed, Allah loves those who fear Him.",
-    "footnotes": "[5] This is an exception from the four months reprieve."
-  }
+  "id": 4,
+  "verse_number": 4,
+  "page_number": 187,
+  "verse_key": "9:4",
+  "juz_number": 10,
+  "hizb_number": 19,
+  "rub_el_hizb_number": 75,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "إِلَّا ٱلَّذِينَ عَٰهَدتُّم مِّنَ ٱلۡمُشۡرِكِينَ ثُمَّ لَمۡ يَنقُصُوكُمۡ شَيۡـٔٗا وَلَمۡ يُظَٰهِرُواْ عَلَيۡكُمۡ أَحَدٗا فَأَتِمُّوٓاْ إِلَيۡهِمۡ عَهۡدَهُمۡ إِلَىٰ مُدَّتِهِمۡۚ إِنَّ ٱللَّهَ يُحِبُّ ٱلۡمُتَّقِينَ",
+  "translation": "Except those polytheists with whom you have a treaty and who have not broken it in the least, nor have backed up anyone against you – so fulfill your treaty with them until the end of their term[5]. Indeed, Allah loves those who fear Him.",
+  "footnotes": "[5] This is an exception from the four months reprieve."
 }

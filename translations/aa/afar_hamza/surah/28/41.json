@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "3293",
-    "sura": "28",
-    "aya": "41",
-    "arabic_text": "وَجَعَلۡنَٰهُمۡ أَئِمَّةٗ يَدۡعُونَ إِلَى ٱلنَّارِۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ لَا يُنصَرُونَ",
-    "translation": "41.Kaadu girâ fanah secta mirocti ken (firqawnaa kee firqawni шага kinnuk) abneeh, usun Qhiyaamah ayró maqoklimaanaay ken cattam matan.",
-    "footnotes": ""
-  }
+  "id": 41,
+  "verse_number": 41,
+  "page_number": 390,
+  "verse_key": "28:41",
+  "juz_number": 20,
+  "hizb_number": 39,
+  "rub_el_hizb_number": 156,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "وَجَعَلۡنَٰهُمۡ أَئِمَّةٗ يَدۡعُونَ إِلَى ٱلنَّارِۖ وَيَوۡمَ ٱلۡقِيَٰمَةِ لَا يُنصَرُونَ",
+  "translation": "41.Kaadu girâ fanah secta mirocti ken (firqawnaa kee firqawni шага kinnuk) abneeh, usun Qhiyaamah ayró maqoklimaanaay ken cattam matan.",
+  "footnotes": ""
 }

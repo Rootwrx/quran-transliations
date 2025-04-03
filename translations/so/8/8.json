@@ -1,10 +1,14 @@
 {
-  "result": {
-    "id": "1168",
-    "sura": "8",
-    "aya": "8",
-    "arabic_text": "لِيُحِقَّ ٱلۡحَقَّ وَيُبۡطِلَ ٱلۡبَٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ",
-    "translation": "8. Si uu (Alle) u sugo Xaqa, oo u buriyo baa- dilka haba nacbeystaan denbiilayaashee.",
-    "footnotes": ""
-  }
+  "id": 8,
+  "verse_number": 8,
+  "page_number": 177,
+  "verse_key": "8:8",
+  "juz_number": 9,
+  "hizb_number": 18,
+  "rub_el_hizb_number": 71,
+  "sajdah_type": null,
+  "sajdah_number": null,
+  "text": "لِيُحِقَّ ٱلۡحَقَّ وَيُبۡطِلَ ٱلۡبَٰطِلَ وَلَوۡ كَرِهَ ٱلۡمُجۡرِمُونَ",
+  "translation": "8. Si uu (Alle) u sugo Xaqa, oo u buriyo baa- dilka haba nacbeystaan denbiilayaashee.",
+  "footnotes": ""
 }
