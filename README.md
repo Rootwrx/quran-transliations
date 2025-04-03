@@ -4,14 +4,14 @@
 
 ### Quran Content
 
-| Endpoint                                      | Description                                       |
-| --------------------------------------------- | ------------------------------------------------- |
-| `GET /surah/info.json`                        | Get information about all surahs                  |
-| `GET /surah/:surah-number/index.json`         | Get complete text of a specific surah             |
-| `GET /surah/:surah-number/:verse-number.json` | Get a specific verse from a surah                 |
-| `GET /surah/:surah-number/info.json`          | Get detailed information about a specific surah   |
-| `GET /surah/:surah-number/about.en.json`      | Get detailed information about a surah in English |
-| `GET /surah/:surah-number/index.info.json`    | Get both surah information and its verses         |
+| Endpoint                                      | Description                               |
+| --------------------------------------------- | ----------------------------------------- |
+| `GET /surah/info.json`                        | Get information about all surahs          |
+| `GET /surah/:surah-number/index.json`         | Get complete text of a specific surah     |
+| `GET /surah/:surah-number/:verse-number.json` | Get a specific verse from a surah         |
+| `GET /surah/:surah-number/info.json`          | Get information about a specific surah    |
+| `GET /surah/:surah-number/about.en.json`      | Get information about a surah in English  |
+| `GET /surah/:surah-number/index.info.json`    | Get both surah information and its verses |
 
 ### Translations
 
@@ -145,7 +145,7 @@ GET /surah/112/1.json
 
 ### 4. Get Surah Information
 
-Retrieves detailed information about a specific surah.
+Retrieves information about a specific surah.
 
 **Endpoint:** `GET /surah/:surah-number/info.json`
 
@@ -186,7 +186,7 @@ GET /surah/112/info.json
 
 ### 5. Get Surah About Information (English)
 
-Retrieves detailed information about a surah in English.
+Retrieves information about a surah in English.
 
 **Endpoint:** `GET /surah/:surah-number/about.en.json`
 
