@@ -1,6 +1,14 @@
 # Quran, Tafsirs and Translations Static API
 
+### Base URLs -
+
+1. JS Delivr: `https://cdn.jsdelivr.net/gh/Rootwrx/quran-api@master`
+2. Git Hack: `https://rawcdn.githack.com/Rootwrx/quran-api/bf42646e16973c59a0789b7a3ad065ff6ad6b0bf`
+3. Staticaly: `https://cdn.statically.io/gh/Rootwrx/quran-api/master`
+4. Github: `https://raw.githubusercontent.com/Rootwrx/quran-api/master`
+5. Gitloaf: `https://gitloaf.com/cdn/Rootwrx/quran-api/master/tafsir`
 ## Endpoints Overview
+
 
 ### Quran Content
 
