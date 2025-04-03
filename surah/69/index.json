@@ -14,6 +14,110 @@
       "text": "ٱلۡحَآقَّةُ"
     },
     {
+      "id": 5325,
+      "number": 2,
+      "verse_key": "69:2",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "text": "مَا ٱلۡحَآقَّةُ"
+    },
+    {
+      "id": 5326,
+      "number": 3,
+      "verse_key": "69:3",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحَآقَّةُ"
+    },
+    {
+      "id": 5327,
+      "number": 4,
+      "verse_key": "69:4",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "text": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ"
+    },
+    {
+      "id": 5328,
+      "number": 5,
+      "verse_key": "69:5",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "text": "فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ"
+    },
+    {
+      "id": 5329,
+      "number": 6,
+      "verse_key": "69:6",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "text": "وَأَمَّا عَادٞ فَأُهۡلِكُواْ بِرِيحٖ صَرۡصَرٍ عَاتِيَةٖ"
+    },
+    {
+      "id": 5330,
+      "number": 7,
+      "verse_key": "69:7",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "text": "سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالٖ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومٗاۖ فَتَرَى ٱلۡقَوۡمَ فِيهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِيَةٖ"
+    },
+    {
+      "id": 5331,
+      "number": 8,
+      "verse_key": "69:8",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 566,
+      "juz_number": 29,
+      "text": "فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٖ"
+    },
+    {
+      "id": 5332,
+      "number": 9,
+      "verse_key": "69:9",
+      "hizb_number": 57,
+      "rub_el_hizb_number": 227,
+      "ruku_number": 502,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 567,
+      "juz_number": 29,
+      "text": "وَجَآءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَٰتُ بِٱلۡخَاطِئَةِ"
+    },
+    {
       "id": 5333,
       "number": 10,
       "verse_key": "69:10",
@@ -142,19 +246,6 @@
       "page_number": 567,
       "juz_number": 29,
       "text": "فَأَمَّا مَنۡ أُوتِيَ كِتَٰبَهُۥ بِيَمِينِهِۦ فَيَقُولُ هَآؤُمُ ٱقۡرَءُواْ كِتَٰبِيَهۡ"
-    },
-    {
-      "id": 5325,
-      "number": 2,
-      "verse_key": "69:2",
-      "hizb_number": 57,
-      "rub_el_hizb_number": 227,
-      "ruku_number": 502,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 566,
-      "juz_number": 29,
-      "text": "مَا ٱلۡحَآقَّةُ"
     },
     {
       "id": 5343,
@@ -287,19 +378,6 @@
       "text": "هَلَكَ عَنِّي سُلۡطَٰنِيَهۡ"
     },
     {
-      "id": 5326,
-      "number": 3,
-      "verse_key": "69:3",
-      "hizb_number": 57,
-      "rub_el_hizb_number": 227,
-      "ruku_number": 502,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 566,
-      "juz_number": 29,
-      "text": "وَمَآ أَدۡرَىٰكَ مَا ٱلۡحَآقَّةُ"
-    },
-    {
       "id": 5353,
       "number": 30,
       "verse_key": "69:30",
@@ -428,19 +506,6 @@
       "page_number": 568,
       "juz_number": 29,
       "text": "وَمَا لَا تُبۡصِرُونَ"
-    },
-    {
-      "id": 5327,
-      "number": 4,
-      "verse_key": "69:4",
-      "hizb_number": 57,
-      "rub_el_hizb_number": 227,
-      "ruku_number": 502,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 566,
-      "juz_number": 29,
-      "text": "كَذَّبَتۡ ثَمُودُ وَعَادُۢ بِٱلۡقَارِعَةِ"
     },
     {
       "id": 5363,
@@ -573,19 +638,6 @@
       "text": "وَإِنَّا لَنَعۡلَمُ أَنَّ مِنكُم مُّكَذِّبِينَ"
     },
     {
-      "id": 5328,
-      "number": 5,
-      "verse_key": "69:5",
-      "hizb_number": 57,
-      "rub_el_hizb_number": 227,
-      "ruku_number": 502,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 566,
-      "juz_number": 29,
-      "text": "فَأَمَّا ثَمُودُ فَأُهۡلِكُواْ بِٱلطَّاغِيَةِ"
-    },
-    {
       "id": 5373,
       "number": 50,
       "verse_key": "69:50",
@@ -623,58 +675,6 @@
       "page_number": 568,
       "juz_number": 29,
       "text": "فَسَبِّحۡ بِٱسۡمِ رَبِّكَ ٱلۡعَظِيمِ"
-    },
-    {
-      "id": 5329,
-      "number": 6,
-      "verse_key": "69:6",
-      "hizb_number": 57,
-      "rub_el_hizb_number": 227,
-      "ruku_number": 502,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 566,
-      "juz_number": 29,
-      "text": "وَأَمَّا عَادٞ فَأُهۡلِكُواْ بِرِيحٖ صَرۡصَرٍ عَاتِيَةٖ"
-    },
-    {
-      "id": 5330,
-      "number": 7,
-      "verse_key": "69:7",
-      "hizb_number": 57,
-      "rub_el_hizb_number": 227,
-      "ruku_number": 502,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 566,
-      "juz_number": 29,
-      "text": "سَخَّرَهَا عَلَيۡهِمۡ سَبۡعَ لَيَالٖ وَثَمَٰنِيَةَ أَيَّامٍ حُسُومٗاۖ فَتَرَى ٱلۡقَوۡمَ فِيهَا صَرۡعَىٰ كَأَنَّهُمۡ أَعۡجَازُ نَخۡلٍ خَاوِيَةٖ"
-    },
-    {
-      "id": 5331,
-      "number": 8,
-      "verse_key": "69:8",
-      "hizb_number": 57,
-      "rub_el_hizb_number": 227,
-      "ruku_number": 502,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 566,
-      "juz_number": 29,
-      "text": "فَهَلۡ تَرَىٰ لَهُم مِّنۢ بَاقِيَةٖ"
-    },
-    {
-      "id": 5332,
-      "number": 9,
-      "verse_key": "69:9",
-      "hizb_number": 57,
-      "rub_el_hizb_number": 227,
-      "ruku_number": 502,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 567,
-      "juz_number": 29,
-      "text": "وَجَآءَ فِرۡعَوۡنُ وَمَن قَبۡلَهُۥ وَٱلۡمُؤۡتَفِكَٰتُ بِٱلۡخَاطِئَةِ"
     }
   ]
 }

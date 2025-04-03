@@ -14,6 +14,110 @@
       "text": "يسٓ"
     },
     {
+      "id": 3707,
+      "number": 2,
+      "verse_key": "36:2",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "page_number": 440,
+      "juz_number": 22,
+      "text": "وَٱلۡقُرۡءَانِ ٱلۡحَكِيمِ"
+    },
+    {
+      "id": 3708,
+      "number": 3,
+      "verse_key": "36:3",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "page_number": 440,
+      "juz_number": 22,
+      "text": "إِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ"
+    },
+    {
+      "id": 3709,
+      "number": 4,
+      "verse_key": "36:4",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "page_number": 440,
+      "juz_number": 22,
+      "text": "عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ"
+    },
+    {
+      "id": 3710,
+      "number": 5,
+      "verse_key": "36:5",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "page_number": 440,
+      "juz_number": 22,
+      "text": "تَنزِيلَ ٱلۡعَزِيزِ ٱلرَّحِيمِ"
+    },
+    {
+      "id": 3711,
+      "number": 6,
+      "verse_key": "36:6",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "page_number": 440,
+      "juz_number": 22,
+      "text": "لِتُنذِرَ قَوۡمٗا مَّآ أُنذِرَ ءَابَآؤُهُمۡ فَهُمۡ غَٰفِلُونَ"
+    },
+    {
+      "id": 3712,
+      "number": 7,
+      "verse_key": "36:7",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "page_number": 440,
+      "juz_number": 22,
+      "text": "لَقَدۡ حَقَّ ٱلۡقَوۡلُ عَلَىٰٓ أَكۡثَرِهِمۡ فَهُمۡ لَا يُؤۡمِنُونَ"
+    },
+    {
+      "id": 3713,
+      "number": 8,
+      "verse_key": "36:8",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "page_number": 440,
+      "juz_number": 22,
+      "text": "إِنَّا جَعَلۡنَا فِيٓ أَعۡنَٰقِهِمۡ أَغۡلَٰلٗا فَهِيَ إِلَى ٱلۡأَذۡقَانِ فَهُم مُّقۡمَحُونَ"
+    },
+    {
+      "id": 3714,
+      "number": 9,
+      "verse_key": "36:9",
+      "hizb_number": 44,
+      "rub_el_hizb_number": 176,
+      "ruku_number": 383,
+      "manzil_number": 5,
+      "sajdah_number": null,
+      "page_number": 440,
+      "juz_number": 22,
+      "text": "وَجَعَلۡنَا مِنۢ بَيۡنِ أَيۡدِيهِمۡ سَدّٗا وَمِنۡ خَلۡفِهِمۡ سَدّٗا فَأَغۡشَيۡنَٰهُمۡ فَهُمۡ لَا يُبۡصِرُونَ"
+    },
+    {
       "id": 3715,
       "number": 10,
       "verse_key": "36:10",
@@ -142,19 +246,6 @@
       "page_number": 441,
       "juz_number": 22,
       "text": "قَالُواْ طَٰٓئِرُكُم مَّعَكُمۡ أَئِن ذُكِّرۡتُمۚ بَلۡ أَنتُمۡ قَوۡمٞ مُّسۡرِفُونَ"
-    },
-    {
-      "id": 3707,
-      "number": 2,
-      "verse_key": "36:2",
-      "hizb_number": 44,
-      "rub_el_hizb_number": 176,
-      "ruku_number": 383,
-      "manzil_number": 5,
-      "sajdah_number": null,
-      "page_number": 440,
-      "juz_number": 22,
-      "text": "وَٱلۡقُرۡءَانِ ٱلۡحَكِيمِ"
     },
     {
       "id": 3725,
@@ -287,19 +378,6 @@
       "text": "إِن كَانَتۡ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ فَإِذَا هُمۡ خَٰمِدُونَ"
     },
     {
-      "id": 3708,
-      "number": 3,
-      "verse_key": "36:3",
-      "hizb_number": 44,
-      "rub_el_hizb_number": 176,
-      "ruku_number": 383,
-      "manzil_number": 5,
-      "sajdah_number": null,
-      "page_number": 440,
-      "juz_number": 22,
-      "text": "إِنَّكَ لَمِنَ ٱلۡمُرۡسَلِينَ"
-    },
-    {
       "id": 3735,
       "number": 30,
       "verse_key": "36:30",
@@ -428,19 +506,6 @@
       "page_number": 442,
       "juz_number": 23,
       "text": "وَٱلۡقَمَرَ قَدَّرۡنَٰهُ مَنَازِلَ حَتَّىٰ عَادَ كَٱلۡعُرۡجُونِ ٱلۡقَدِيمِ"
-    },
-    {
-      "id": 3709,
-      "number": 4,
-      "verse_key": "36:4",
-      "hizb_number": 44,
-      "rub_el_hizb_number": 176,
-      "ruku_number": 383,
-      "manzil_number": 5,
-      "sajdah_number": null,
-      "page_number": 440,
-      "juz_number": 22,
-      "text": "عَلَىٰ صِرَٰطٖ مُّسۡتَقِيمٖ"
     },
     {
       "id": 3745,
@@ -573,19 +638,6 @@
       "text": "مَا يَنظُرُونَ إِلَّا صَيۡحَةٗ وَٰحِدَةٗ تَأۡخُذُهُمۡ وَهُمۡ يَخِصِّمُونَ"
     },
     {
-      "id": 3710,
-      "number": 5,
-      "verse_key": "36:5",
-      "hizb_number": 44,
-      "rub_el_hizb_number": 176,
-      "ruku_number": 383,
-      "manzil_number": 5,
-      "sajdah_number": null,
-      "page_number": 440,
-      "juz_number": 22,
-      "text": "تَنزِيلَ ٱلۡعَزِيزِ ٱلرَّحِيمِ"
-    },
-    {
       "id": 3755,
       "number": 50,
       "verse_key": "36:50",
@@ -714,19 +766,6 @@
       "page_number": 444,
       "juz_number": 23,
       "text": "وَٱمۡتَٰزُواْ ٱلۡيَوۡمَ أَيُّهَا ٱلۡمُجۡرِمُونَ"
-    },
-    {
-      "id": 3711,
-      "number": 6,
-      "verse_key": "36:6",
-      "hizb_number": 44,
-      "rub_el_hizb_number": 176,
-      "ruku_number": 383,
-      "manzil_number": 5,
-      "sajdah_number": null,
-      "page_number": 440,
-      "juz_number": 22,
-      "text": "لِتُنذِرَ قَوۡمٗا مَّآ أُنذِرَ ءَابَآؤُهُمۡ فَهُمۡ غَٰفِلُونَ"
     },
     {
       "id": 3765,
@@ -859,19 +898,6 @@
       "text": "وَمَا عَلَّمۡنَٰهُ ٱلشِّعۡرَ وَمَا يَنۢبَغِي لَهُۥٓۚ إِنۡ هُوَ إِلَّا ذِكۡرٞ وَقُرۡءَانٞ مُّبِينٞ"
     },
     {
-      "id": 3712,
-      "number": 7,
-      "verse_key": "36:7",
-      "hizb_number": 44,
-      "rub_el_hizb_number": 176,
-      "ruku_number": 383,
-      "manzil_number": 5,
-      "sajdah_number": null,
-      "page_number": 440,
-      "juz_number": 22,
-      "text": "لَقَدۡ حَقَّ ٱلۡقَوۡلُ عَلَىٰٓ أَكۡثَرِهِمۡ فَهُمۡ لَا يُؤۡمِنُونَ"
-    },
-    {
       "id": 3775,
       "number": 70,
       "verse_key": "36:70",
@@ -1002,19 +1028,6 @@
       "text": "قُلۡ يُحۡيِيهَا ٱلَّذِيٓ أَنشَأَهَآ أَوَّلَ مَرَّةٖۖ وَهُوَ بِكُلِّ خَلۡقٍ عَلِيمٌ"
     },
     {
-      "id": 3713,
-      "number": 8,
-      "verse_key": "36:8",
-      "hizb_number": 44,
-      "rub_el_hizb_number": 176,
-      "ruku_number": 383,
-      "manzil_number": 5,
-      "sajdah_number": null,
-      "page_number": 440,
-      "juz_number": 22,
-      "text": "إِنَّا جَعَلۡنَا فِيٓ أَعۡنَٰقِهِمۡ أَغۡلَٰلٗا فَهِيَ إِلَى ٱلۡأَذۡقَانِ فَهُم مُّقۡمَحُونَ"
-    },
-    {
       "id": 3785,
       "number": 80,
       "verse_key": "36:80",
@@ -1065,19 +1078,6 @@
       "page_number": 445,
       "juz_number": 23,
       "text": "فَسُبۡحَٰنَ ٱلَّذِي بِيَدِهِۦ مَلَكُوتُ كُلِّ شَيۡءٖ وَإِلَيۡهِ تُرۡجَعُونَ"
-    },
-    {
-      "id": 3714,
-      "number": 9,
-      "verse_key": "36:9",
-      "hizb_number": 44,
-      "rub_el_hizb_number": 176,
-      "ruku_number": 383,
-      "manzil_number": 5,
-      "sajdah_number": null,
-      "page_number": 440,
-      "juz_number": 22,
-      "text": "وَجَعَلۡنَا مِنۢ بَيۡنِ أَيۡدِيهِمۡ سَدّٗا وَمِنۡ خَلۡفِهِمۡ سَدّٗا فَأَغۡشَيۡنَٰهُمۡ فَهُمۡ لَا يُبۡصِرُونَ"
     }
   ]
 }

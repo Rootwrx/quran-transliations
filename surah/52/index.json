@@ -14,6 +14,110 @@
       "text": "وَٱلطُّورِ"
     },
     {
+      "id": 4737,
+      "number": 2,
+      "verse_key": "52:2",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 209,
+      "ruku_number": 460,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 523,
+      "juz_number": 27,
+      "text": "وَكِتَٰبٖ مَّسۡطُورٖ"
+    },
+    {
+      "id": 4738,
+      "number": 3,
+      "verse_key": "52:3",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 209,
+      "ruku_number": 460,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 523,
+      "juz_number": 27,
+      "text": "فِي رَقّٖ مَّنشُورٖ"
+    },
+    {
+      "id": 4739,
+      "number": 4,
+      "verse_key": "52:4",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 209,
+      "ruku_number": 460,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 523,
+      "juz_number": 27,
+      "text": "وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ"
+    },
+    {
+      "id": 4740,
+      "number": 5,
+      "verse_key": "52:5",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 209,
+      "ruku_number": 460,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 523,
+      "juz_number": 27,
+      "text": "وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ"
+    },
+    {
+      "id": 4741,
+      "number": 6,
+      "verse_key": "52:6",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 209,
+      "ruku_number": 460,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 523,
+      "juz_number": 27,
+      "text": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ"
+    },
+    {
+      "id": 4742,
+      "number": 7,
+      "verse_key": "52:7",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 209,
+      "ruku_number": 460,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 523,
+      "juz_number": 27,
+      "text": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٞ"
+    },
+    {
+      "id": 4743,
+      "number": 8,
+      "verse_key": "52:8",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 209,
+      "ruku_number": 460,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 523,
+      "juz_number": 27,
+      "text": "مَّا لَهُۥ مِن دَافِعٖ"
+    },
+    {
+      "id": 4744,
+      "number": 9,
+      "verse_key": "52:9",
+      "hizb_number": 53,
+      "rub_el_hizb_number": 209,
+      "ruku_number": 460,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 523,
+      "juz_number": 27,
+      "text": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا"
+    },
+    {
       "id": 4745,
       "number": 10,
       "verse_key": "52:10",
@@ -142,19 +246,6 @@
       "page_number": 524,
       "juz_number": 27,
       "text": "كُلُواْ وَٱشۡرَبُواْ هَنِيٓـَٔۢا بِمَا كُنتُمۡ تَعۡمَلُونَ"
-    },
-    {
-      "id": 4737,
-      "number": 2,
-      "verse_key": "52:2",
-      "hizb_number": 53,
-      "rub_el_hizb_number": 209,
-      "ruku_number": 460,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 523,
-      "juz_number": 27,
-      "text": "وَكِتَٰبٖ مَّسۡطُورٖ"
     },
     {
       "id": 4755,
@@ -287,19 +378,6 @@
       "text": "فَذَكِّرۡ فَمَآ أَنتَ بِنِعۡمَتِ رَبِّكَ بِكَاهِنٖ وَلَا مَجۡنُونٍ"
     },
     {
-      "id": 4738,
-      "number": 3,
-      "verse_key": "52:3",
-      "hizb_number": 53,
-      "rub_el_hizb_number": 209,
-      "ruku_number": 460,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 523,
-      "juz_number": 27,
-      "text": "فِي رَقّٖ مَّنشُورٖ"
-    },
-    {
       "id": 4765,
       "number": 30,
       "verse_key": "52:30",
@@ -430,19 +508,6 @@
       "text": "أَمۡ لَهُ ٱلۡبَنَٰتُ وَلَكُمُ ٱلۡبَنُونَ"
     },
     {
-      "id": 4739,
-      "number": 4,
-      "verse_key": "52:4",
-      "hizb_number": 53,
-      "rub_el_hizb_number": 209,
-      "ruku_number": 460,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 523,
-      "juz_number": 27,
-      "text": "وَٱلۡبَيۡتِ ٱلۡمَعۡمُورِ"
-    },
-    {
       "id": 4775,
       "number": 40,
       "verse_key": "52:40",
@@ -571,71 +636,6 @@
       "page_number": 525,
       "juz_number": 27,
       "text": "وَمِنَ ٱلَّيۡلِ فَسَبِّحۡهُ وَإِدۡبَٰرَ ٱلنُّجُومِ"
-    },
-    {
-      "id": 4740,
-      "number": 5,
-      "verse_key": "52:5",
-      "hizb_number": 53,
-      "rub_el_hizb_number": 209,
-      "ruku_number": 460,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 523,
-      "juz_number": 27,
-      "text": "وَٱلسَّقۡفِ ٱلۡمَرۡفُوعِ"
-    },
-    {
-      "id": 4741,
-      "number": 6,
-      "verse_key": "52:6",
-      "hizb_number": 53,
-      "rub_el_hizb_number": 209,
-      "ruku_number": 460,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 523,
-      "juz_number": 27,
-      "text": "وَٱلۡبَحۡرِ ٱلۡمَسۡجُورِ"
-    },
-    {
-      "id": 4742,
-      "number": 7,
-      "verse_key": "52:7",
-      "hizb_number": 53,
-      "rub_el_hizb_number": 209,
-      "ruku_number": 460,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 523,
-      "juz_number": 27,
-      "text": "إِنَّ عَذَابَ رَبِّكَ لَوَٰقِعٞ"
-    },
-    {
-      "id": 4743,
-      "number": 8,
-      "verse_key": "52:8",
-      "hizb_number": 53,
-      "rub_el_hizb_number": 209,
-      "ruku_number": 460,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 523,
-      "juz_number": 27,
-      "text": "مَّا لَهُۥ مِن دَافِعٖ"
-    },
-    {
-      "id": 4744,
-      "number": 9,
-      "verse_key": "52:9",
-      "hizb_number": 53,
-      "rub_el_hizb_number": 209,
-      "ruku_number": 460,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 523,
-      "juz_number": 27,
-      "text": "يَوۡمَ تَمُورُ ٱلسَّمَآءُ مَوۡرٗا"
     }
   ]
 }

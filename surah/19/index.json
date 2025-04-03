@@ -14,6 +14,110 @@
       "text": "كٓهيعٓصٓ"
     },
     {
+      "id": 2252,
+      "number": 2,
+      "verse_key": "19:2",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 305,
+      "juz_number": 16,
+      "text": "ذِكۡرُ رَحۡمَتِ رَبِّكَ عَبۡدَهُۥ زَكَرِيَّآ"
+    },
+    {
+      "id": 2253,
+      "number": 3,
+      "verse_key": "19:3",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 305,
+      "juz_number": 16,
+      "text": "إِذۡ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيّٗا"
+    },
+    {
+      "id": 2254,
+      "number": 4,
+      "verse_key": "19:4",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 305,
+      "juz_number": 16,
+      "text": "قَالَ رَبِّ إِنِّي وَهَنَ ٱلۡعَظۡمُ مِنِّي وَٱشۡتَعَلَ ٱلرَّأۡسُ شَيۡبٗا وَلَمۡ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيّٗا"
+    },
+    {
+      "id": 2255,
+      "number": 5,
+      "verse_key": "19:5",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 305,
+      "juz_number": 16,
+      "text": "وَإِنِّي خِفۡتُ ٱلۡمَوَٰلِيَ مِن وَرَآءِي وَكَانَتِ ٱمۡرَأَتِي عَاقِرٗا فَهَبۡ لِي مِن لَّدُنكَ وَلِيّٗا"
+    },
+    {
+      "id": 2256,
+      "number": 6,
+      "verse_key": "19:6",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 305,
+      "juz_number": 16,
+      "text": "يَرِثُنِي وَيَرِثُ مِنۡ ءَالِ يَعۡقُوبَۖ وَٱجۡعَلۡهُ رَبِّ رَضِيّٗا"
+    },
+    {
+      "id": 2257,
+      "number": 7,
+      "verse_key": "19:7",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 305,
+      "juz_number": 16,
+      "text": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسۡمُهُۥ يَحۡيَىٰ لَمۡ نَجۡعَل لَّهُۥ مِن قَبۡلُ سَمِيّٗا"
+    },
+    {
+      "id": 2258,
+      "number": 8,
+      "verse_key": "19:8",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 305,
+      "juz_number": 16,
+      "text": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَكَانَتِ ٱمۡرَأَتِي عَاقِرٗا وَقَدۡ بَلَغۡتُ مِنَ ٱلۡكِبَرِ عِتِيّٗا"
+    },
+    {
+      "id": 2259,
+      "number": 9,
+      "verse_key": "19:9",
+      "hizb_number": 31,
+      "rub_el_hizb_number": 122,
+      "ruku_number": 264,
+      "manzil_number": 4,
+      "sajdah_number": null,
+      "page_number": 305,
+      "juz_number": 16,
+      "text": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٞ وَقَدۡ خَلَقۡتُكَ مِن قَبۡلُ وَلَمۡ تَكُ شَيۡـٔٗا"
+    },
+    {
       "id": 2260,
       "number": 10,
       "verse_key": "19:10",
@@ -142,19 +246,6 @@
       "page_number": 306,
       "juz_number": 16,
       "text": "قَالَ إِنَّمَآ أَنَا۠ رَسُولُ رَبِّكِ لِأَهَبَ لَكِ غُلَٰمٗا زَكِيّٗا"
-    },
-    {
-      "id": 2252,
-      "number": 2,
-      "verse_key": "19:2",
-      "hizb_number": 31,
-      "rub_el_hizb_number": 122,
-      "ruku_number": 264,
-      "manzil_number": 4,
-      "sajdah_number": null,
-      "page_number": 305,
-      "juz_number": 16,
-      "text": "ذِكۡرُ رَحۡمَتِ رَبِّكَ عَبۡدَهُۥ زَكَرِيَّآ"
     },
     {
       "id": 2270,
@@ -287,19 +378,6 @@
       "text": "فَأَشَارَتۡ إِلَيۡهِۖ قَالُواْ كَيۡفَ نُكَلِّمُ مَن كَانَ فِي ٱلۡمَهۡدِ صَبِيّٗا"
     },
     {
-      "id": 2253,
-      "number": 3,
-      "verse_key": "19:3",
-      "hizb_number": 31,
-      "rub_el_hizb_number": 122,
-      "ruku_number": 264,
-      "manzil_number": 4,
-      "sajdah_number": null,
-      "page_number": 305,
-      "juz_number": 16,
-      "text": "إِذۡ نَادَىٰ رَبَّهُۥ نِدَآءً خَفِيّٗا"
-    },
-    {
       "id": 2280,
       "number": 30,
       "verse_key": "19:30",
@@ -428,19 +506,6 @@
       "page_number": 308,
       "juz_number": 16,
       "text": "وَأَنذِرۡهُمۡ يَوۡمَ ٱلۡحَسۡرَةِ إِذۡ قُضِيَ ٱلۡأَمۡرُ وَهُمۡ فِي غَفۡلَةٖ وَهُمۡ لَا يُؤۡمِنُونَ"
-    },
-    {
-      "id": 2254,
-      "number": 4,
-      "verse_key": "19:4",
-      "hizb_number": 31,
-      "rub_el_hizb_number": 122,
-      "ruku_number": 264,
-      "manzil_number": 4,
-      "sajdah_number": null,
-      "page_number": 305,
-      "juz_number": 16,
-      "text": "قَالَ رَبِّ إِنِّي وَهَنَ ٱلۡعَظۡمُ مِنِّي وَٱشۡتَعَلَ ٱلرَّأۡسُ شَيۡبٗا وَلَمۡ أَكُنۢ بِدُعَآئِكَ رَبِّ شَقِيّٗا"
     },
     {
       "id": 2290,
@@ -573,19 +638,6 @@
       "text": "فَلَمَّا ٱعۡتَزَلَهُمۡ وَمَا يَعۡبُدُونَ مِن دُونِ ٱللَّهِ وَهَبۡنَا لَهُۥٓ إِسۡحَٰقَ وَيَعۡقُوبَۖ وَكُلّٗا جَعَلۡنَا نَبِيّٗا"
     },
     {
-      "id": 2255,
-      "number": 5,
-      "verse_key": "19:5",
-      "hizb_number": 31,
-      "rub_el_hizb_number": 122,
-      "ruku_number": 264,
-      "manzil_number": 4,
-      "sajdah_number": null,
-      "page_number": 305,
-      "juz_number": 16,
-      "text": "وَإِنِّي خِفۡتُ ٱلۡمَوَٰلِيَ مِن وَرَآءِي وَكَانَتِ ٱمۡرَأَتِي عَاقِرٗا فَهَبۡ لِي مِن لَّدُنكَ وَلِيّٗا"
-    },
-    {
       "id": 2300,
       "number": 50,
       "verse_key": "19:50",
@@ -714,19 +766,6 @@
       "page_number": 309,
       "juz_number": 16,
       "text": "۞ فَخَلَفَ مِنۢ بَعۡدِهِمۡ خَلۡفٌ أَضَاعُواْ ٱلصَّلَوٰةَ وَٱتَّبَعُواْ ٱلشَّهَوَٰتِۖ فَسَوۡفَ يَلۡقَوۡنَ غَيًّا"
-    },
-    {
-      "id": 2256,
-      "number": 6,
-      "verse_key": "19:6",
-      "hizb_number": 31,
-      "rub_el_hizb_number": 122,
-      "ruku_number": 264,
-      "manzil_number": 4,
-      "sajdah_number": null,
-      "page_number": 305,
-      "juz_number": 16,
-      "text": "يَرِثُنِي وَيَرِثُ مِنۡ ءَالِ يَعۡقُوبَۖ وَٱجۡعَلۡهُ رَبِّ رَضِيّٗا"
     },
     {
       "id": 2310,
@@ -859,19 +898,6 @@
       "text": "ثُمَّ لَنَنزِعَنَّ مِن كُلِّ شِيعَةٍ أَيُّهُمۡ أَشَدُّ عَلَى ٱلرَّحۡمَٰنِ عِتِيّٗا"
     },
     {
-      "id": 2257,
-      "number": 7,
-      "verse_key": "19:7",
-      "hizb_number": 31,
-      "rub_el_hizb_number": 122,
-      "ruku_number": 264,
-      "manzil_number": 4,
-      "sajdah_number": null,
-      "page_number": 305,
-      "juz_number": 16,
-      "text": "يَٰزَكَرِيَّآ إِنَّا نُبَشِّرُكَ بِغُلَٰمٍ ٱسۡمُهُۥ يَحۡيَىٰ لَمۡ نَجۡعَل لَّهُۥ مِن قَبۡلُ سَمِيّٗا"
-    },
-    {
       "id": 2320,
       "number": 70,
       "verse_key": "19:70",
@@ -1002,19 +1028,6 @@
       "text": "كَلَّاۚ سَنَكۡتُبُ مَا يَقُولُ وَنَمُدُّ لَهُۥ مِنَ ٱلۡعَذَابِ مَدّٗا"
     },
     {
-      "id": 2258,
-      "number": 8,
-      "verse_key": "19:8",
-      "hizb_number": 31,
-      "rub_el_hizb_number": 122,
-      "ruku_number": 264,
-      "manzil_number": 4,
-      "sajdah_number": null,
-      "page_number": 305,
-      "juz_number": 16,
-      "text": "قَالَ رَبِّ أَنَّىٰ يَكُونُ لِي غُلَٰمٞ وَكَانَتِ ٱمۡرَأَتِي عَاقِرٗا وَقَدۡ بَلَغۡتُ مِنَ ٱلۡكِبَرِ عِتِيّٗا"
-    },
-    {
       "id": 2330,
       "number": 80,
       "verse_key": "19:80",
@@ -1143,19 +1156,6 @@
       "page_number": 311,
       "juz_number": 16,
       "text": "لَّقَدۡ جِئۡتُمۡ شَيۡـًٔا إِدّٗا"
-    },
-    {
-      "id": 2259,
-      "number": 9,
-      "verse_key": "19:9",
-      "hizb_number": 31,
-      "rub_el_hizb_number": 122,
-      "ruku_number": 264,
-      "manzil_number": 4,
-      "sajdah_number": null,
-      "page_number": 305,
-      "juz_number": 16,
-      "text": "قَالَ كَذَٰلِكَ قَالَ رَبُّكَ هُوَ عَلَيَّ هَيِّنٞ وَقَدۡ خَلَقۡتُكَ مِن قَبۡلُ وَلَمۡ تَكُ شَيۡـٔٗا"
     },
     {
       "id": 2340,

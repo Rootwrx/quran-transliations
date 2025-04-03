@@ -14,6 +14,110 @@
       "text": "الٓرۚ تِلۡكَ ءَايَٰتُ ٱلۡكِتَٰبِ وَقُرۡءَانٖ مُّبِينٖ"
     },
     {
+      "id": 1804,
+      "number": 2,
+      "verse_key": "15:2",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 105,
+      "ruku_number": 218,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 262,
+      "juz_number": 14,
+      "text": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُواْ لَوۡ كَانُواْ مُسۡلِمِينَ"
+    },
+    {
+      "id": 1805,
+      "number": 3,
+      "verse_key": "15:3",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 105,
+      "ruku_number": 218,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 262,
+      "juz_number": 14,
+      "text": "ذَرۡهُمۡ يَأۡكُلُواْ وَيَتَمَتَّعُواْ وَيُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ يَعۡلَمُونَ"
+    },
+    {
+      "id": 1806,
+      "number": 4,
+      "verse_key": "15:4",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 105,
+      "ruku_number": 218,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 262,
+      "juz_number": 14,
+      "text": "وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا وَلَهَا كِتَابٞ مَّعۡلُومٞ"
+    },
+    {
+      "id": 1807,
+      "number": 5,
+      "verse_key": "15:5",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 105,
+      "ruku_number": 218,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 262,
+      "juz_number": 14,
+      "text": "مَّا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ"
+    },
+    {
+      "id": 1808,
+      "number": 6,
+      "verse_key": "15:6",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 105,
+      "ruku_number": 218,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 262,
+      "juz_number": 14,
+      "text": "وَقَالُواْ يَٰٓأَيُّهَا ٱلَّذِي نُزِّلَ عَلَيۡهِ ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونٞ"
+    },
+    {
+      "id": 1809,
+      "number": 7,
+      "verse_key": "15:7",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 105,
+      "ruku_number": 218,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 262,
+      "juz_number": 14,
+      "text": "لَّوۡمَا تَأۡتِينَا بِٱلۡمَلَٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ"
+    },
+    {
+      "id": 1810,
+      "number": 8,
+      "verse_key": "15:8",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 105,
+      "ruku_number": 218,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 262,
+      "juz_number": 14,
+      "text": "مَا نُنَزِّلُ ٱلۡمَلَٰٓئِكَةَ إِلَّا بِٱلۡحَقِّ وَمَا كَانُوٓاْ إِذٗا مُّنظَرِينَ"
+    },
+    {
+      "id": 1811,
+      "number": 9,
+      "verse_key": "15:9",
+      "hizb_number": 27,
+      "rub_el_hizb_number": 105,
+      "ruku_number": 218,
+      "manzil_number": 3,
+      "sajdah_number": null,
+      "page_number": 262,
+      "juz_number": 14,
+      "text": "إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ"
+    },
+    {
       "id": 1812,
       "number": 10,
       "verse_key": "15:10",
@@ -142,19 +246,6 @@
       "page_number": 263,
       "juz_number": 14,
       "text": "وَٱلۡأَرۡضَ مَدَدۡنَٰهَا وَأَلۡقَيۡنَا فِيهَا رَوَٰسِيَ وَأَنۢبَتۡنَا فِيهَا مِن كُلِّ شَيۡءٖ مَّوۡزُونٖ"
-    },
-    {
-      "id": 1804,
-      "number": 2,
-      "verse_key": "15:2",
-      "hizb_number": 27,
-      "rub_el_hizb_number": 105,
-      "ruku_number": 218,
-      "manzil_number": 3,
-      "sajdah_number": null,
-      "page_number": 262,
-      "juz_number": 14,
-      "text": "رُّبَمَا يَوَدُّ ٱلَّذِينَ كَفَرُواْ لَوۡ كَانُواْ مُسۡلِمِينَ"
     },
     {
       "id": 1822,
@@ -287,19 +378,6 @@
       "text": "فَإِذَا سَوَّيۡتُهُۥ وَنَفَخۡتُ فِيهِ مِن رُّوحِي فَقَعُواْ لَهُۥ سَٰجِدِينَ"
     },
     {
-      "id": 1805,
-      "number": 3,
-      "verse_key": "15:3",
-      "hizb_number": 27,
-      "rub_el_hizb_number": 105,
-      "ruku_number": 218,
-      "manzil_number": 3,
-      "sajdah_number": null,
-      "page_number": 262,
-      "juz_number": 14,
-      "text": "ذَرۡهُمۡ يَأۡكُلُواْ وَيَتَمَتَّعُواْ وَيُلۡهِهِمُ ٱلۡأَمَلُۖ فَسَوۡفَ يَعۡلَمُونَ"
-    },
-    {
       "id": 1832,
       "number": 30,
       "verse_key": "15:30",
@@ -428,19 +506,6 @@
       "page_number": 264,
       "juz_number": 14,
       "text": "قَالَ رَبِّ بِمَآ أَغۡوَيۡتَنِي لَأُزَيِّنَنَّ لَهُمۡ فِي ٱلۡأَرۡضِ وَلَأُغۡوِيَنَّهُمۡ أَجۡمَعِينَ"
-    },
-    {
-      "id": 1806,
-      "number": 4,
-      "verse_key": "15:4",
-      "hizb_number": 27,
-      "rub_el_hizb_number": 105,
-      "ruku_number": 218,
-      "manzil_number": 3,
-      "sajdah_number": null,
-      "page_number": 262,
-      "juz_number": 14,
-      "text": "وَمَآ أَهۡلَكۡنَا مِن قَرۡيَةٍ إِلَّا وَلَهَا كِتَابٞ مَّعۡلُومٞ"
     },
     {
       "id": 1842,
@@ -573,19 +638,6 @@
       "text": "۞ نَبِّئۡ عِبَادِيٓ أَنِّيٓ أَنَا ٱلۡغَفُورُ ٱلرَّحِيمُ"
     },
     {
-      "id": 1807,
-      "number": 5,
-      "verse_key": "15:5",
-      "hizb_number": 27,
-      "rub_el_hizb_number": 105,
-      "ruku_number": 218,
-      "manzil_number": 3,
-      "sajdah_number": null,
-      "page_number": 262,
-      "juz_number": 14,
-      "text": "مَّا تَسۡبِقُ مِنۡ أُمَّةٍ أَجَلَهَا وَمَا يَسۡتَـٔۡخِرُونَ"
-    },
-    {
       "id": 1852,
       "number": 50,
       "verse_key": "15:50",
@@ -714,19 +766,6 @@
       "page_number": 265,
       "juz_number": 14,
       "text": "إِلَّآ ءَالَ لُوطٍ إِنَّا لَمُنَجُّوهُمۡ أَجۡمَعِينَ"
-    },
-    {
-      "id": 1808,
-      "number": 6,
-      "verse_key": "15:6",
-      "hizb_number": 27,
-      "rub_el_hizb_number": 105,
-      "ruku_number": 218,
-      "manzil_number": 3,
-      "sajdah_number": null,
-      "page_number": 262,
-      "juz_number": 14,
-      "text": "وَقَالُواْ يَٰٓأَيُّهَا ٱلَّذِي نُزِّلَ عَلَيۡهِ ٱلذِّكۡرُ إِنَّكَ لَمَجۡنُونٞ"
     },
     {
       "id": 1862,
@@ -859,19 +898,6 @@
       "text": "وَٱتَّقُواْ ٱللَّهَ وَلَا تُخۡزُونِ"
     },
     {
-      "id": 1809,
-      "number": 7,
-      "verse_key": "15:7",
-      "hizb_number": 27,
-      "rub_el_hizb_number": 105,
-      "ruku_number": 218,
-      "manzil_number": 3,
-      "sajdah_number": null,
-      "page_number": 262,
-      "juz_number": 14,
-      "text": "لَّوۡمَا تَأۡتِينَا بِٱلۡمَلَٰٓئِكَةِ إِن كُنتَ مِنَ ٱلصَّٰدِقِينَ"
-    },
-    {
       "id": 1872,
       "number": 70,
       "verse_key": "15:70",
@@ -1002,19 +1028,6 @@
       "text": "فَٱنتَقَمۡنَا مِنۡهُمۡ وَإِنَّهُمَا لَبِإِمَامٖ مُّبِينٖ"
     },
     {
-      "id": 1810,
-      "number": 8,
-      "verse_key": "15:8",
-      "hizb_number": 27,
-      "rub_el_hizb_number": 105,
-      "ruku_number": 218,
-      "manzil_number": 3,
-      "sajdah_number": null,
-      "page_number": 262,
-      "juz_number": 14,
-      "text": "مَا نُنَزِّلُ ٱلۡمَلَٰٓئِكَةَ إِلَّا بِٱلۡحَقِّ وَمَا كَانُوٓاْ إِذٗا مُّنظَرِينَ"
-    },
-    {
       "id": 1882,
       "number": 80,
       "verse_key": "15:80",
@@ -1143,19 +1156,6 @@
       "page_number": 266,
       "juz_number": 14,
       "text": "وَقُلۡ إِنِّيٓ أَنَا ٱلنَّذِيرُ ٱلۡمُبِينُ"
-    },
-    {
-      "id": 1811,
-      "number": 9,
-      "verse_key": "15:9",
-      "hizb_number": 27,
-      "rub_el_hizb_number": 105,
-      "ruku_number": 218,
-      "manzil_number": 3,
-      "sajdah_number": null,
-      "page_number": 262,
-      "juz_number": 14,
-      "text": "إِنَّا نَحۡنُ نَزَّلۡنَا ٱلذِّكۡرَ وَإِنَّا لَهُۥ لَحَٰفِظُونَ"
     },
     {
       "id": 1892,

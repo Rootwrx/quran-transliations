@@ -14,32 +14,6 @@
       "text": "ٱلۡقَارِعَةُ"
     },
     {
-      "id": 6167,
-      "number": 10,
-      "verse_key": "101:10",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 545,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 600,
-      "juz_number": 30,
-      "text": "وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ"
-    },
-    {
-      "id": 6168,
-      "number": 11,
-      "verse_key": "101:11",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 240,
-      "ruku_number": 545,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 600,
-      "juz_number": 30,
-      "text": "نَارٌ حَامِيَةُۢ"
-    },
-    {
       "id": 6159,
       "number": 2,
       "verse_key": "101:2",
@@ -142,6 +116,32 @@
       "page_number": 600,
       "juz_number": 30,
       "text": "فَأُمُّهُۥ هَاوِيَةٞ"
+    },
+    {
+      "id": 6167,
+      "number": 10,
+      "verse_key": "101:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "text": "وَمَآ أَدۡرَىٰكَ مَا هِيَهۡ"
+    },
+    {
+      "id": 6168,
+      "number": 11,
+      "verse_key": "101:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 240,
+      "ruku_number": 545,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 600,
+      "juz_number": 30,
+      "text": "نَارٌ حَامِيَةُۢ"
     }
   ]
 }

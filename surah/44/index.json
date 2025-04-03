@@ -14,6 +14,110 @@
       "text": "حمٓ"
     },
     {
+      "id": 4416,
+      "number": 2,
+      "verse_key": "44:2",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 198,
+      "ruku_number": 433,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 496,
+      "juz_number": 25,
+      "text": "وَٱلۡكِتَٰبِ ٱلۡمُبِينِ"
+    },
+    {
+      "id": 4417,
+      "number": 3,
+      "verse_key": "44:3",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 198,
+      "ruku_number": 433,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 496,
+      "juz_number": 25,
+      "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةٖ مُّبَٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِينَ"
+    },
+    {
+      "id": 4418,
+      "number": 4,
+      "verse_key": "44:4",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 198,
+      "ruku_number": 433,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 496,
+      "juz_number": 25,
+      "text": "فِيهَا يُفۡرَقُ كُلُّ أَمۡرٍ حَكِيمٍ"
+    },
+    {
+      "id": 4419,
+      "number": 5,
+      "verse_key": "44:5",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 198,
+      "ruku_number": 433,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 496,
+      "juz_number": 25,
+      "text": "أَمۡرٗا مِّنۡ عِندِنَآۚ إِنَّا كُنَّا مُرۡسِلِينَ"
+    },
+    {
+      "id": 4420,
+      "number": 6,
+      "verse_key": "44:6",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 198,
+      "ruku_number": 433,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 496,
+      "juz_number": 25,
+      "text": "رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ"
+    },
+    {
+      "id": 4421,
+      "number": 7,
+      "verse_key": "44:7",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 198,
+      "ruku_number": 433,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 496,
+      "juz_number": 25,
+      "text": "رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم مُّوقِنِينَ"
+    },
+    {
+      "id": 4422,
+      "number": 8,
+      "verse_key": "44:8",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 198,
+      "ruku_number": 433,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 496,
+      "juz_number": 25,
+      "text": "لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ"
+    },
+    {
+      "id": 4423,
+      "number": 9,
+      "verse_key": "44:9",
+      "hizb_number": 50,
+      "rub_el_hizb_number": 198,
+      "ruku_number": 433,
+      "manzil_number": 6,
+      "sajdah_number": null,
+      "page_number": 496,
+      "juz_number": 25,
+      "text": "بَلۡ هُمۡ فِي شَكّٖ يَلۡعَبُونَ"
+    },
+    {
       "id": 4424,
       "number": 10,
       "verse_key": "44:10",
@@ -142,19 +246,6 @@
       "page_number": 497,
       "juz_number": 25,
       "text": "وَأَن لَّا تَعۡلُواْ عَلَى ٱللَّهِۖ إِنِّيٓ ءَاتِيكُم بِسُلۡطَٰنٖ مُّبِينٖ"
-    },
-    {
-      "id": 4416,
-      "number": 2,
-      "verse_key": "44:2",
-      "hizb_number": 50,
-      "rub_el_hizb_number": 198,
-      "ruku_number": 433,
-      "manzil_number": 6,
-      "sajdah_number": null,
-      "page_number": 496,
-      "juz_number": 25,
-      "text": "وَٱلۡكِتَٰبِ ٱلۡمُبِينِ"
     },
     {
       "id": 4434,
@@ -287,19 +378,6 @@
       "text": "فَمَا بَكَتۡ عَلَيۡهِمُ ٱلسَّمَآءُ وَٱلۡأَرۡضُ وَمَا كَانُواْ مُنظَرِينَ"
     },
     {
-      "id": 4417,
-      "number": 3,
-      "verse_key": "44:3",
-      "hizb_number": 50,
-      "rub_el_hizb_number": 198,
-      "ruku_number": 433,
-      "manzil_number": 6,
-      "sajdah_number": null,
-      "page_number": 496,
-      "juz_number": 25,
-      "text": "إِنَّآ أَنزَلۡنَٰهُ فِي لَيۡلَةٖ مُّبَٰرَكَةٍۚ إِنَّا كُنَّا مُنذِرِينَ"
-    },
-    {
       "id": 4444,
       "number": 30,
       "verse_key": "44:30",
@@ -428,19 +506,6 @@
       "page_number": 497,
       "juz_number": 25,
       "text": "مَا خَلَقۡنَٰهُمَآ إِلَّا بِٱلۡحَقِّ وَلَٰكِنَّ أَكۡثَرَهُمۡ لَا يَعۡلَمُونَ"
-    },
-    {
-      "id": 4418,
-      "number": 4,
-      "verse_key": "44:4",
-      "hizb_number": 50,
-      "rub_el_hizb_number": 198,
-      "ruku_number": 433,
-      "manzil_number": 6,
-      "sajdah_number": null,
-      "page_number": 496,
-      "juz_number": 25,
-      "text": "فِيهَا يُفۡرَقُ كُلُّ أَمۡرٍ حَكِيمٍ"
     },
     {
       "id": 4454,
@@ -573,19 +638,6 @@
       "text": "ذُقۡ إِنَّكَ أَنتَ ٱلۡعَزِيزُ ٱلۡكَرِيمُ"
     },
     {
-      "id": 4419,
-      "number": 5,
-      "verse_key": "44:5",
-      "hizb_number": 50,
-      "rub_el_hizb_number": 198,
-      "ruku_number": 433,
-      "manzil_number": 6,
-      "sajdah_number": null,
-      "page_number": 496,
-      "juz_number": 25,
-      "text": "أَمۡرٗا مِّنۡ عِندِنَآۚ إِنَّا كُنَّا مُرۡسِلِينَ"
-    },
-    {
       "id": 4464,
       "number": 50,
       "verse_key": "44:50",
@@ -714,58 +766,6 @@
       "page_number": 498,
       "juz_number": 25,
       "text": "فَٱرۡتَقِبۡ إِنَّهُم مُّرۡتَقِبُونَ"
-    },
-    {
-      "id": 4420,
-      "number": 6,
-      "verse_key": "44:6",
-      "hizb_number": 50,
-      "rub_el_hizb_number": 198,
-      "ruku_number": 433,
-      "manzil_number": 6,
-      "sajdah_number": null,
-      "page_number": 496,
-      "juz_number": 25,
-      "text": "رَحۡمَةٗ مِّن رَّبِّكَۚ إِنَّهُۥ هُوَ ٱلسَّمِيعُ ٱلۡعَلِيمُ"
-    },
-    {
-      "id": 4421,
-      "number": 7,
-      "verse_key": "44:7",
-      "hizb_number": 50,
-      "rub_el_hizb_number": 198,
-      "ruku_number": 433,
-      "manzil_number": 6,
-      "sajdah_number": null,
-      "page_number": 496,
-      "juz_number": 25,
-      "text": "رَبِّ ٱلسَّمَٰوَٰتِ وَٱلۡأَرۡضِ وَمَا بَيۡنَهُمَآۖ إِن كُنتُم مُّوقِنِينَ"
-    },
-    {
-      "id": 4422,
-      "number": 8,
-      "verse_key": "44:8",
-      "hizb_number": 50,
-      "rub_el_hizb_number": 198,
-      "ruku_number": 433,
-      "manzil_number": 6,
-      "sajdah_number": null,
-      "page_number": 496,
-      "juz_number": 25,
-      "text": "لَآ إِلَٰهَ إِلَّا هُوَ يُحۡيِۦ وَيُمِيتُۖ رَبُّكُمۡ وَرَبُّ ءَابَآئِكُمُ ٱلۡأَوَّلِينَ"
-    },
-    {
-      "id": 4423,
-      "number": 9,
-      "verse_key": "44:9",
-      "hizb_number": 50,
-      "rub_el_hizb_number": 198,
-      "ruku_number": 433,
-      "manzil_number": 6,
-      "sajdah_number": null,
-      "page_number": 496,
-      "juz_number": 25,
-      "text": "بَلۡ هُمۡ فِي شَكّٖ يَلۡعَبُونَ"
     }
   ]
 }

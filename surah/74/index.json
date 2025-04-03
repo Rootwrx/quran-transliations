@@ -14,6 +14,110 @@
       "text": "يَٰٓأَيُّهَا ٱلۡمُدَّثِّرُ"
     },
     {
+      "id": 5497,
+      "number": 2,
+      "verse_key": "74:2",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 230,
+      "ruku_number": 512,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 575,
+      "juz_number": 29,
+      "text": "قُمۡ فَأَنذِرۡ"
+    },
+    {
+      "id": 5498,
+      "number": 3,
+      "verse_key": "74:3",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 230,
+      "ruku_number": 512,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 575,
+      "juz_number": 29,
+      "text": "وَرَبَّكَ فَكَبِّرۡ"
+    },
+    {
+      "id": 5499,
+      "number": 4,
+      "verse_key": "74:4",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 230,
+      "ruku_number": 512,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 575,
+      "juz_number": 29,
+      "text": "وَثِيَابَكَ فَطَهِّرۡ"
+    },
+    {
+      "id": 5500,
+      "number": 5,
+      "verse_key": "74:5",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 230,
+      "ruku_number": 512,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 575,
+      "juz_number": 29,
+      "text": "وَٱلرُّجۡزَ فَٱهۡجُرۡ"
+    },
+    {
+      "id": 5501,
+      "number": 6,
+      "verse_key": "74:6",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 230,
+      "ruku_number": 512,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 575,
+      "juz_number": 29,
+      "text": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ"
+    },
+    {
+      "id": 5502,
+      "number": 7,
+      "verse_key": "74:7",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 230,
+      "ruku_number": 512,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 575,
+      "juz_number": 29,
+      "text": "وَلِرَبِّكَ فَٱصۡبِرۡ"
+    },
+    {
+      "id": 5503,
+      "number": 8,
+      "verse_key": "74:8",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 230,
+      "ruku_number": 512,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 575,
+      "juz_number": 29,
+      "text": "فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ"
+    },
+    {
+      "id": 5504,
+      "number": 9,
+      "verse_key": "74:9",
+      "hizb_number": 58,
+      "rub_el_hizb_number": 230,
+      "ruku_number": 512,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 575,
+      "juz_number": 29,
+      "text": "فَذَٰلِكَ يَوۡمَئِذٖ يَوۡمٌ عَسِيرٌ"
+    },
+    {
       "id": 5505,
       "number": 10,
       "verse_key": "74:10",
@@ -142,19 +246,6 @@
       "page_number": 576,
       "juz_number": 29,
       "text": "فَقُتِلَ كَيۡفَ قَدَّرَ"
-    },
-    {
-      "id": 5497,
-      "number": 2,
-      "verse_key": "74:2",
-      "hizb_number": 58,
-      "rub_el_hizb_number": 230,
-      "ruku_number": 512,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 575,
-      "juz_number": 29,
-      "text": "قُمۡ فَأَنذِرۡ"
     },
     {
       "id": 5515,
@@ -287,19 +378,6 @@
       "text": "لَوَّاحَةٞ لِّلۡبَشَرِ"
     },
     {
-      "id": 5498,
-      "number": 3,
-      "verse_key": "74:3",
-      "hizb_number": 58,
-      "rub_el_hizb_number": 230,
-      "ruku_number": 512,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 575,
-      "juz_number": 29,
-      "text": "وَرَبَّكَ فَكَبِّرۡ"
-    },
-    {
       "id": 5525,
       "number": 30,
       "verse_key": "74:30",
@@ -428,19 +506,6 @@
       "page_number": 576,
       "juz_number": 29,
       "text": "إِلَّآ أَصۡحَٰبَ ٱلۡيَمِينِ"
-    },
-    {
-      "id": 5499,
-      "number": 4,
-      "verse_key": "74:4",
-      "hizb_number": 58,
-      "rub_el_hizb_number": 230,
-      "ruku_number": 512,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 575,
-      "juz_number": 29,
-      "text": "وَثِيَابَكَ فَطَهِّرۡ"
     },
     {
       "id": 5535,
@@ -573,19 +638,6 @@
       "text": "فَمَا لَهُمۡ عَنِ ٱلتَّذۡكِرَةِ مُعۡرِضِينَ"
     },
     {
-      "id": 5500,
-      "number": 5,
-      "verse_key": "74:5",
-      "hizb_number": 58,
-      "rub_el_hizb_number": 230,
-      "ruku_number": 512,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 575,
-      "juz_number": 29,
-      "text": "وَٱلرُّجۡزَ فَٱهۡجُرۡ"
-    },
-    {
       "id": 5545,
       "number": 50,
       "verse_key": "74:50",
@@ -675,58 +727,6 @@
       "page_number": 577,
       "juz_number": 29,
       "text": "وَمَا يَذۡكُرُونَ إِلَّآ أَن يَشَآءَ ٱللَّهُۚ هُوَ أَهۡلُ ٱلتَّقۡوَىٰ وَأَهۡلُ ٱلۡمَغۡفِرَةِ"
-    },
-    {
-      "id": 5501,
-      "number": 6,
-      "verse_key": "74:6",
-      "hizb_number": 58,
-      "rub_el_hizb_number": 230,
-      "ruku_number": 512,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 575,
-      "juz_number": 29,
-      "text": "وَلَا تَمۡنُن تَسۡتَكۡثِرُ"
-    },
-    {
-      "id": 5502,
-      "number": 7,
-      "verse_key": "74:7",
-      "hizb_number": 58,
-      "rub_el_hizb_number": 230,
-      "ruku_number": 512,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 575,
-      "juz_number": 29,
-      "text": "وَلِرَبِّكَ فَٱصۡبِرۡ"
-    },
-    {
-      "id": 5503,
-      "number": 8,
-      "verse_key": "74:8",
-      "hizb_number": 58,
-      "rub_el_hizb_number": 230,
-      "ruku_number": 512,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 575,
-      "juz_number": 29,
-      "text": "فَإِذَا نُقِرَ فِي ٱلنَّاقُورِ"
-    },
-    {
-      "id": 5504,
-      "number": 9,
-      "verse_key": "74:9",
-      "hizb_number": 58,
-      "rub_el_hizb_number": 230,
-      "ruku_number": 512,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 575,
-      "juz_number": 29,
-      "text": "فَذَٰلِكَ يَوۡمَئِذٖ يَوۡمٌ عَسِيرٌ"
     }
   ]
 }

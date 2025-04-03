@@ -14,32 +14,6 @@
       "text": "وَٱلضُّحَىٰ"
     },
     {
-      "id": 6089,
-      "number": 10,
-      "verse_key": "93:10",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 238,
-      "ruku_number": 537,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 596,
-      "juz_number": 30,
-      "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ"
-    },
-    {
-      "id": 6090,
-      "number": 11,
-      "verse_key": "93:11",
-      "hizb_number": 60,
-      "rub_el_hizb_number": 238,
-      "ruku_number": 537,
-      "manzil_number": 7,
-      "sajdah_number": null,
-      "page_number": 596,
-      "juz_number": 30,
-      "text": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ"
-    },
-    {
       "id": 6081,
       "number": 2,
       "verse_key": "93:2",
@@ -142,6 +116,32 @@
       "page_number": 596,
       "juz_number": 30,
       "text": "فَأَمَّا ٱلۡيَتِيمَ فَلَا تَقۡهَرۡ"
+    },
+    {
+      "id": 6089,
+      "number": 10,
+      "verse_key": "93:10",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 596,
+      "juz_number": 30,
+      "text": "وَأَمَّا ٱلسَّآئِلَ فَلَا تَنۡهَرۡ"
+    },
+    {
+      "id": 6090,
+      "number": 11,
+      "verse_key": "93:11",
+      "hizb_number": 60,
+      "rub_el_hizb_number": 238,
+      "ruku_number": 537,
+      "manzil_number": 7,
+      "sajdah_number": null,
+      "page_number": 596,
+      "juz_number": 30,
+      "text": "وَأَمَّا بِنِعۡمَةِ رَبِّكَ فَحَدِّثۡ"
     }
   ]
 }
