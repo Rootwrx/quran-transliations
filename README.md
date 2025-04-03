@@ -7,7 +7,6 @@
 3. Staticaly: `https://cdn.statically.io/gh/Rootwrx/quran-api/master`
 4. Github: `https://raw.githubusercontent.com/Rootwrx/quran-api/refs/heads/master`
 5. Github  `https://raw.githubusercontent.com/Rootwrx/quran-api/master`
-6. Gitloaf: `https://gitloaf.com/cdn/Rootwrx/quran-api/master/tafsir`
 ## Endpoints Overview
 
 ### Note 
