@@ -1,0 +1,97 @@
+{
+  "rub_number": 135,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 22,
+  "verses": [
+    {
+      "verse_key": "22:38",
+      "audio_path": "/reciters/2/verses/ayah/22_38.mp3"
+    },
+    {
+      "verse_key": "22:39",
+      "audio_path": "/reciters/2/verses/ayah/22_39.mp3"
+    },
+    {
+      "verse_key": "22:40",
+      "audio_path": "/reciters/2/verses/ayah/22_40.mp3"
+    },
+    {
+      "verse_key": "22:41",
+      "audio_path": "/reciters/2/verses/ayah/22_41.mp3"
+    },
+    {
+      "verse_key": "22:42",
+      "audio_path": "/reciters/2/verses/ayah/22_42.mp3"
+    },
+    {
+      "verse_key": "22:43",
+      "audio_path": "/reciters/2/verses/ayah/22_43.mp3"
+    },
+    {
+      "verse_key": "22:44",
+      "audio_path": "/reciters/2/verses/ayah/22_44.mp3"
+    },
+    {
+      "verse_key": "22:45",
+      "audio_path": "/reciters/2/verses/ayah/22_45.mp3"
+    },
+    {
+      "verse_key": "22:46",
+      "audio_path": "/reciters/2/verses/ayah/22_46.mp3"
+    },
+    {
+      "verse_key": "22:47",
+      "audio_path": "/reciters/2/verses/ayah/22_47.mp3"
+    },
+    {
+      "verse_key": "22:48",
+      "audio_path": "/reciters/2/verses/ayah/22_48.mp3"
+    },
+    {
+      "verse_key": "22:49",
+      "audio_path": "/reciters/2/verses/ayah/22_49.mp3"
+    },
+    {
+      "verse_key": "22:50",
+      "audio_path": "/reciters/2/verses/ayah/22_50.mp3"
+    },
+    {
+      "verse_key": "22:51",
+      "audio_path": "/reciters/2/verses/ayah/22_51.mp3"
+    },
+    {
+      "verse_key": "22:52",
+      "audio_path": "/reciters/2/verses/ayah/22_52.mp3"
+    },
+    {
+      "verse_key": "22:53",
+      "audio_path": "/reciters/2/verses/ayah/22_53.mp3"
+    },
+    {
+      "verse_key": "22:54",
+      "audio_path": "/reciters/2/verses/ayah/22_54.mp3"
+    },
+    {
+      "verse_key": "22:55",
+      "audio_path": "/reciters/2/verses/ayah/22_55.mp3"
+    },
+    {
+      "verse_key": "22:56",
+      "audio_path": "/reciters/2/verses/ayah/22_56.mp3"
+    },
+    {
+      "verse_key": "22:57",
+      "audio_path": "/reciters/2/verses/ayah/22_57.mp3"
+    },
+    {
+      "verse_key": "22:58",
+      "audio_path": "/reciters/2/verses/ayah/22_58.mp3"
+    },
+    {
+      "verse_key": "22:59",
+      "audio_path": "/reciters/2/verses/ayah/22_59.mp3"
+    }
+  ]
+}
