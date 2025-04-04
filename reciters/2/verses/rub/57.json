@@ -1,0 +1,73 @@
+{
+  "rub_number": 57,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 16,
+  "verses": [
+    {
+      "verse_key": "6:111",
+      "audio_path": "/reciters/2/verses/ayah/6_111.mp3"
+    },
+    {
+      "verse_key": "6:112",
+      "audio_path": "/reciters/2/verses/ayah/6_112.mp3"
+    },
+    {
+      "verse_key": "6:113",
+      "audio_path": "/reciters/2/verses/ayah/6_113.mp3"
+    },
+    {
+      "verse_key": "6:114",
+      "audio_path": "/reciters/2/verses/ayah/6_114.mp3"
+    },
+    {
+      "verse_key": "6:115",
+      "audio_path": "/reciters/2/verses/ayah/6_115.mp3"
+    },
+    {
+      "verse_key": "6:116",
+      "audio_path": "/reciters/2/verses/ayah/6_116.mp3"
+    },
+    {
+      "verse_key": "6:117",
+      "audio_path": "/reciters/2/verses/ayah/6_117.mp3"
+    },
+    {
+      "verse_key": "6:118",
+      "audio_path": "/reciters/2/verses/ayah/6_118.mp3"
+    },
+    {
+      "verse_key": "6:119",
+      "audio_path": "/reciters/2/verses/ayah/6_119.mp3"
+    },
+    {
+      "verse_key": "6:120",
+      "audio_path": "/reciters/2/verses/ayah/6_120.mp3"
+    },
+    {
+      "verse_key": "6:121",
+      "audio_path": "/reciters/2/verses/ayah/6_121.mp3"
+    },
+    {
+      "verse_key": "6:122",
+      "audio_path": "/reciters/2/verses/ayah/6_122.mp3"
+    },
+    {
+      "verse_key": "6:123",
+      "audio_path": "/reciters/2/verses/ayah/6_123.mp3"
+    },
+    {
+      "verse_key": "6:124",
+      "audio_path": "/reciters/2/verses/ayah/6_124.mp3"
+    },
+    {
+      "verse_key": "6:125",
+      "audio_path": "/reciters/2/verses/ayah/6_125.mp3"
+    },
+    {
+      "verse_key": "6:126",
+      "audio_path": "/reciters/2/verses/ayah/6_126.mp3"
+    }
+  ]
+}
