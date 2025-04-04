@@ -1,0 +1,89 @@
+{
+  "rub_number": 201,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 20,
+  "verses": [
+    {
+      "verse_key": "46:1",
+      "audio_path": "/reciters/2/verses/ayah/46_1.mp3"
+    },
+    {
+      "verse_key": "46:2",
+      "audio_path": "/reciters/2/verses/ayah/46_2.mp3"
+    },
+    {
+      "verse_key": "46:3",
+      "audio_path": "/reciters/2/verses/ayah/46_3.mp3"
+    },
+    {
+      "verse_key": "46:4",
+      "audio_path": "/reciters/2/verses/ayah/46_4.mp3"
+    },
+    {
+      "verse_key": "46:5",
+      "audio_path": "/reciters/2/verses/ayah/46_5.mp3"
+    },
+    {
+      "verse_key": "46:6",
+      "audio_path": "/reciters/2/verses/ayah/46_6.mp3"
+    },
+    {
+      "verse_key": "46:7",
+      "audio_path": "/reciters/2/verses/ayah/46_7.mp3"
+    },
+    {
+      "verse_key": "46:8",
+      "audio_path": "/reciters/2/verses/ayah/46_8.mp3"
+    },
+    {
+      "verse_key": "46:9",
+      "audio_path": "/reciters/2/verses/ayah/46_9.mp3"
+    },
+    {
+      "verse_key": "46:10",
+      "audio_path": "/reciters/2/verses/ayah/46_10.mp3"
+    },
+    {
+      "verse_key": "46:11",
+      "audio_path": "/reciters/2/verses/ayah/46_11.mp3"
+    },
+    {
+      "verse_key": "46:12",
+      "audio_path": "/reciters/2/verses/ayah/46_12.mp3"
+    },
+    {
+      "verse_key": "46:13",
+      "audio_path": "/reciters/2/verses/ayah/46_13.mp3"
+    },
+    {
+      "verse_key": "46:14",
+      "audio_path": "/reciters/2/verses/ayah/46_14.mp3"
+    },
+    {
+      "verse_key": "46:15",
+      "audio_path": "/reciters/2/verses/ayah/46_15.mp3"
+    },
+    {
+      "verse_key": "46:16",
+      "audio_path": "/reciters/2/verses/ayah/46_16.mp3"
+    },
+    {
+      "verse_key": "46:17",
+      "audio_path": "/reciters/2/verses/ayah/46_17.mp3"
+    },
+    {
+      "verse_key": "46:18",
+      "audio_path": "/reciters/2/verses/ayah/46_18.mp3"
+    },
+    {
+      "verse_key": "46:19",
+      "audio_path": "/reciters/2/verses/ayah/46_19.mp3"
+    },
+    {
+      "verse_key": "46:20",
+      "audio_path": "/reciters/2/verses/ayah/46_20.mp3"
+    }
+  ]
+}
