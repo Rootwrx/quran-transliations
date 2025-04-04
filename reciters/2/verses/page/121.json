@@ -1,0 +1,33 @@
+{
+  "page_number": 121,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 6,
+  "verses": [
+    {
+      "verse_key": "5:77",
+      "audio_path": "/reciters/2/verses/ayah/5_77.mp3"
+    },
+    {
+      "verse_key": "5:78",
+      "audio_path": "/reciters/2/verses/ayah/5_78.mp3"
+    },
+    {
+      "verse_key": "5:79",
+      "audio_path": "/reciters/2/verses/ayah/5_79.mp3"
+    },
+    {
+      "verse_key": "5:80",
+      "audio_path": "/reciters/2/verses/ayah/5_80.mp3"
+    },
+    {
+      "verse_key": "5:81",
+      "audio_path": "/reciters/2/verses/ayah/5_81.mp3"
+    },
+    {
+      "verse_key": "5:82",
+      "audio_path": "/reciters/2/verses/ayah/5_82.mp3"
+    }
+  ]
+}
