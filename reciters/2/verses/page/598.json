@@ -1,0 +1,57 @@
+{
+  "page_number": 598,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 12,
+  "verses": [
+    {
+      "verse_key": "97:1",
+      "audio_path": "/reciters/2/verses/ayah/97_1.mp3"
+    },
+    {
+      "verse_key": "97:2",
+      "audio_path": "/reciters/2/verses/ayah/97_2.mp3"
+    },
+    {
+      "verse_key": "97:3",
+      "audio_path": "/reciters/2/verses/ayah/97_3.mp3"
+    },
+    {
+      "verse_key": "97:4",
+      "audio_path": "/reciters/2/verses/ayah/97_4.mp3"
+    },
+    {
+      "verse_key": "97:5",
+      "audio_path": "/reciters/2/verses/ayah/97_5.mp3"
+    },
+    {
+      "verse_key": "98:1",
+      "audio_path": "/reciters/2/verses/ayah/98_1.mp3"
+    },
+    {
+      "verse_key": "98:2",
+      "audio_path": "/reciters/2/verses/ayah/98_2.mp3"
+    },
+    {
+      "verse_key": "98:3",
+      "audio_path": "/reciters/2/verses/ayah/98_3.mp3"
+    },
+    {
+      "verse_key": "98:4",
+      "audio_path": "/reciters/2/verses/ayah/98_4.mp3"
+    },
+    {
+      "verse_key": "98:5",
+      "audio_path": "/reciters/2/verses/ayah/98_5.mp3"
+    },
+    {
+      "verse_key": "98:6",
+      "audio_path": "/reciters/2/verses/ayah/98_6.mp3"
+    },
+    {
+      "verse_key": "98:7",
+      "audio_path": "/reciters/2/verses/ayah/98_7.mp3"
+    }
+  ]
+}
