@@ -1,0 +1,85 @@
+{
+  "rub_number": 134,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 19,
+  "verses": [
+    {
+      "verse_key": "22:19",
+      "audio_path": "/reciters/2/verses/ayah/22_19.mp3"
+    },
+    {
+      "verse_key": "22:20",
+      "audio_path": "/reciters/2/verses/ayah/22_20.mp3"
+    },
+    {
+      "verse_key": "22:21",
+      "audio_path": "/reciters/2/verses/ayah/22_21.mp3"
+    },
+    {
+      "verse_key": "22:22",
+      "audio_path": "/reciters/2/verses/ayah/22_22.mp3"
+    },
+    {
+      "verse_key": "22:23",
+      "audio_path": "/reciters/2/verses/ayah/22_23.mp3"
+    },
+    {
+      "verse_key": "22:24",
+      "audio_path": "/reciters/2/verses/ayah/22_24.mp3"
+    },
+    {
+      "verse_key": "22:25",
+      "audio_path": "/reciters/2/verses/ayah/22_25.mp3"
+    },
+    {
+      "verse_key": "22:26",
+      "audio_path": "/reciters/2/verses/ayah/22_26.mp3"
+    },
+    {
+      "verse_key": "22:27",
+      "audio_path": "/reciters/2/verses/ayah/22_27.mp3"
+    },
+    {
+      "verse_key": "22:28",
+      "audio_path": "/reciters/2/verses/ayah/22_28.mp3"
+    },
+    {
+      "verse_key": "22:29",
+      "audio_path": "/reciters/2/verses/ayah/22_29.mp3"
+    },
+    {
+      "verse_key": "22:30",
+      "audio_path": "/reciters/2/verses/ayah/22_30.mp3"
+    },
+    {
+      "verse_key": "22:31",
+      "audio_path": "/reciters/2/verses/ayah/22_31.mp3"
+    },
+    {
+      "verse_key": "22:32",
+      "audio_path": "/reciters/2/verses/ayah/22_32.mp3"
+    },
+    {
+      "verse_key": "22:33",
+      "audio_path": "/reciters/2/verses/ayah/22_33.mp3"
+    },
+    {
+      "verse_key": "22:34",
+      "audio_path": "/reciters/2/verses/ayah/22_34.mp3"
+    },
+    {
+      "verse_key": "22:35",
+      "audio_path": "/reciters/2/verses/ayah/22_35.mp3"
+    },
+    {
+      "verse_key": "22:36",
+      "audio_path": "/reciters/2/verses/ayah/22_36.mp3"
+    },
+    {
+      "verse_key": "22:37",
+      "audio_path": "/reciters/2/verses/ayah/22_37.mp3"
+    }
+  ]
+}
