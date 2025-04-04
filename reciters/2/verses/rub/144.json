@@ -1,0 +1,89 @@
+{
+  "rub_number": 144,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 20,
+  "verses": [
+    {
+      "verse_key": "25:1",
+      "audio_path": "/reciters/2/verses/ayah/25_1.mp3"
+    },
+    {
+      "verse_key": "25:2",
+      "audio_path": "/reciters/2/verses/ayah/25_2.mp3"
+    },
+    {
+      "verse_key": "25:3",
+      "audio_path": "/reciters/2/verses/ayah/25_3.mp3"
+    },
+    {
+      "verse_key": "25:4",
+      "audio_path": "/reciters/2/verses/ayah/25_4.mp3"
+    },
+    {
+      "verse_key": "25:5",
+      "audio_path": "/reciters/2/verses/ayah/25_5.mp3"
+    },
+    {
+      "verse_key": "25:6",
+      "audio_path": "/reciters/2/verses/ayah/25_6.mp3"
+    },
+    {
+      "verse_key": "25:7",
+      "audio_path": "/reciters/2/verses/ayah/25_7.mp3"
+    },
+    {
+      "verse_key": "25:8",
+      "audio_path": "/reciters/2/verses/ayah/25_8.mp3"
+    },
+    {
+      "verse_key": "25:9",
+      "audio_path": "/reciters/2/verses/ayah/25_9.mp3"
+    },
+    {
+      "verse_key": "25:10",
+      "audio_path": "/reciters/2/verses/ayah/25_10.mp3"
+    },
+    {
+      "verse_key": "25:11",
+      "audio_path": "/reciters/2/verses/ayah/25_11.mp3"
+    },
+    {
+      "verse_key": "25:12",
+      "audio_path": "/reciters/2/verses/ayah/25_12.mp3"
+    },
+    {
+      "verse_key": "25:13",
+      "audio_path": "/reciters/2/verses/ayah/25_13.mp3"
+    },
+    {
+      "verse_key": "25:14",
+      "audio_path": "/reciters/2/verses/ayah/25_14.mp3"
+    },
+    {
+      "verse_key": "25:15",
+      "audio_path": "/reciters/2/verses/ayah/25_15.mp3"
+    },
+    {
+      "verse_key": "25:16",
+      "audio_path": "/reciters/2/verses/ayah/25_16.mp3"
+    },
+    {
+      "verse_key": "25:17",
+      "audio_path": "/reciters/2/verses/ayah/25_17.mp3"
+    },
+    {
+      "verse_key": "25:18",
+      "audio_path": "/reciters/2/verses/ayah/25_18.mp3"
+    },
+    {
+      "verse_key": "25:19",
+      "audio_path": "/reciters/2/verses/ayah/25_19.mp3"
+    },
+    {
+      "verse_key": "25:20",
+      "audio_path": "/reciters/2/verses/ayah/25_20.mp3"
+    }
+  ]
+}
