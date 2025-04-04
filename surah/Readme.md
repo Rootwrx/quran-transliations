@@ -34,33 +34,6 @@ fetch(Base_Api_Url+"/surah/1/1.json")
 | `GET /surah/:surah-number/about.en.json`      | Get information about a surah in English  |
 | `GET /surah/:surah-number/index.info.json`    | Get both surah information and its verses |
 
-### Translations
-
-| Endpoint                                                                                   | Description                                               |
-| ------------------------------------------------------------------------------------------ | --------------------------------------------------------- |
-| `GET /translations/translations.json`                                                      | List all available translations                           |
-| `GET /translations/languages.json`                                                         | List all available languages                              |
-| `GET /translations/isocodes.json`                                                          | Get mapping between language names and ISO codes          |
-| `GET /translations/:lang-code/info.json`                                                   | Get info about default translation version for a language |
-| `GET /translations/:lang-code/:surah-number/index.json`                                    | Get translation of a surah in default version             |
-| `GET /translations/:lang-code/:surah-number/index.min.json`                                | Get minified translation of a surah                       |
-| `GET /translations/:lang-code/:surah-number/:verse-number.json`                            | Get translation of a specific verse                       |
-| `GET /translations/list/:lang-code/info.json`                                              | List all translation versions in a language               |
-| `GET /translations/:lang-code/:translation-version/surah/:surah-number/index.json`         | Get translation of a surah in specific version            |
-| `GET /translations/:lang-code/:translation-version/surah/:surah-number/:verse-number.json` | Get translation of a verse in specific version            |
-| `GET /translations/:lang-code/:translation-version/info.json`                              | Get info about a specific translation version             |
-
-### Tafsirs
-
-| Endpoint                                                                   | Description                            |
-| -------------------------------------------------------------------------- | -------------------------------------- |
-| `GET /tafsirs/editions.json`                                               | List all available tafsir editions     |
-| `GET /tafsirs/:lang-code/:surah-number.json`                               | Get default tafsir for a surah         |
-| `GET /tafsirs/:lang-code/:surah-number/:verse-number.json`                 | Get default tafsir for a verse         |
-| `GET /tafsirs/:lang-code/info.json`                                        | List all tafsir versions in a language |
-| `GET /tafsirs/:lang-code/:tafsir-version/:surah-number.json`               | Get specific tafsir for a surah        |
-| `GET /tafsirs/:lang-code/:tafsir-version/:surah-number/:verse-number.json` | Get specific tafsir for a verse        |
-
 ## Quran Content API
 
 ### 1. Get All Surahs Information
