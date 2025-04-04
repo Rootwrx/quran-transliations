@@ -1,0 +1,101 @@
+{
+  "rub_number": 154,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 23,
+  "verses": [
+    {
+      "verse_key": "27:82",
+      "audio_path": "/reciters/2/verses/ayah/27_82.mp3"
+    },
+    {
+      "verse_key": "27:83",
+      "audio_path": "/reciters/2/verses/ayah/27_83.mp3"
+    },
+    {
+      "verse_key": "27:84",
+      "audio_path": "/reciters/2/verses/ayah/27_84.mp3"
+    },
+    {
+      "verse_key": "27:85",
+      "audio_path": "/reciters/2/verses/ayah/27_85.mp3"
+    },
+    {
+      "verse_key": "27:86",
+      "audio_path": "/reciters/2/verses/ayah/27_86.mp3"
+    },
+    {
+      "verse_key": "27:87",
+      "audio_path": "/reciters/2/verses/ayah/27_87.mp3"
+    },
+    {
+      "verse_key": "27:88",
+      "audio_path": "/reciters/2/verses/ayah/27_88.mp3"
+    },
+    {
+      "verse_key": "27:89",
+      "audio_path": "/reciters/2/verses/ayah/27_89.mp3"
+    },
+    {
+      "verse_key": "27:90",
+      "audio_path": "/reciters/2/verses/ayah/27_90.mp3"
+    },
+    {
+      "verse_key": "27:91",
+      "audio_path": "/reciters/2/verses/ayah/27_91.mp3"
+    },
+    {
+      "verse_key": "27:92",
+      "audio_path": "/reciters/2/verses/ayah/27_92.mp3"
+    },
+    {
+      "verse_key": "27:93",
+      "audio_path": "/reciters/2/verses/ayah/27_93.mp3"
+    },
+    {
+      "verse_key": "28:1",
+      "audio_path": "/reciters/2/verses/ayah/28_1.mp3"
+    },
+    {
+      "verse_key": "28:2",
+      "audio_path": "/reciters/2/verses/ayah/28_2.mp3"
+    },
+    {
+      "verse_key": "28:3",
+      "audio_path": "/reciters/2/verses/ayah/28_3.mp3"
+    },
+    {
+      "verse_key": "28:4",
+      "audio_path": "/reciters/2/verses/ayah/28_4.mp3"
+    },
+    {
+      "verse_key": "28:5",
+      "audio_path": "/reciters/2/verses/ayah/28_5.mp3"
+    },
+    {
+      "verse_key": "28:6",
+      "audio_path": "/reciters/2/verses/ayah/28_6.mp3"
+    },
+    {
+      "verse_key": "28:7",
+      "audio_path": "/reciters/2/verses/ayah/28_7.mp3"
+    },
+    {
+      "verse_key": "28:8",
+      "audio_path": "/reciters/2/verses/ayah/28_8.mp3"
+    },
+    {
+      "verse_key": "28:9",
+      "audio_path": "/reciters/2/verses/ayah/28_9.mp3"
+    },
+    {
+      "verse_key": "28:10",
+      "audio_path": "/reciters/2/verses/ayah/28_10.mp3"
+    },
+    {
+      "verse_key": "28:11",
+      "audio_path": "/reciters/2/verses/ayah/28_11.mp3"
+    }
+  ]
+}
