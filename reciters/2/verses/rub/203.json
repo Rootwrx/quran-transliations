@@ -1,0 +1,101 @@
+{
+  "rub_number": 203,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 23,
+  "verses": [
+    {
+      "verse_key": "47:10",
+      "audio_path": "/reciters/2/verses/ayah/47_10.mp3"
+    },
+    {
+      "verse_key": "47:11",
+      "audio_path": "/reciters/2/verses/ayah/47_11.mp3"
+    },
+    {
+      "verse_key": "47:12",
+      "audio_path": "/reciters/2/verses/ayah/47_12.mp3"
+    },
+    {
+      "verse_key": "47:13",
+      "audio_path": "/reciters/2/verses/ayah/47_13.mp3"
+    },
+    {
+      "verse_key": "47:14",
+      "audio_path": "/reciters/2/verses/ayah/47_14.mp3"
+    },
+    {
+      "verse_key": "47:15",
+      "audio_path": "/reciters/2/verses/ayah/47_15.mp3"
+    },
+    {
+      "verse_key": "47:16",
+      "audio_path": "/reciters/2/verses/ayah/47_16.mp3"
+    },
+    {
+      "verse_key": "47:17",
+      "audio_path": "/reciters/2/verses/ayah/47_17.mp3"
+    },
+    {
+      "verse_key": "47:18",
+      "audio_path": "/reciters/2/verses/ayah/47_18.mp3"
+    },
+    {
+      "verse_key": "47:19",
+      "audio_path": "/reciters/2/verses/ayah/47_19.mp3"
+    },
+    {
+      "verse_key": "47:20",
+      "audio_path": "/reciters/2/verses/ayah/47_20.mp3"
+    },
+    {
+      "verse_key": "47:21",
+      "audio_path": "/reciters/2/verses/ayah/47_21.mp3"
+    },
+    {
+      "verse_key": "47:22",
+      "audio_path": "/reciters/2/verses/ayah/47_22.mp3"
+    },
+    {
+      "verse_key": "47:23",
+      "audio_path": "/reciters/2/verses/ayah/47_23.mp3"
+    },
+    {
+      "verse_key": "47:24",
+      "audio_path": "/reciters/2/verses/ayah/47_24.mp3"
+    },
+    {
+      "verse_key": "47:25",
+      "audio_path": "/reciters/2/verses/ayah/47_25.mp3"
+    },
+    {
+      "verse_key": "47:26",
+      "audio_path": "/reciters/2/verses/ayah/47_26.mp3"
+    },
+    {
+      "verse_key": "47:27",
+      "audio_path": "/reciters/2/verses/ayah/47_27.mp3"
+    },
+    {
+      "verse_key": "47:28",
+      "audio_path": "/reciters/2/verses/ayah/47_28.mp3"
+    },
+    {
+      "verse_key": "47:29",
+      "audio_path": "/reciters/2/verses/ayah/47_29.mp3"
+    },
+    {
+      "verse_key": "47:30",
+      "audio_path": "/reciters/2/verses/ayah/47_30.mp3"
+    },
+    {
+      "verse_key": "47:31",
+      "audio_path": "/reciters/2/verses/ayah/47_31.mp3"
+    },
+    {
+      "verse_key": "47:32",
+      "audio_path": "/reciters/2/verses/ayah/47_32.mp3"
+    }
+  ]
+}
