@@ -1,0 +1,73 @@
+{
+  "chapter_number": 60,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "verses": [
+    {
+      "verse_key": "60:1",
+      "url": "AbdulBaset/Murattal/mp3/060001.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_1.mp3"
+    },
+    {
+      "verse_key": "60:2",
+      "url": "AbdulBaset/Murattal/mp3/060002.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_2.mp3"
+    },
+    {
+      "verse_key": "60:3",
+      "url": "AbdulBaset/Murattal/mp3/060003.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_3.mp3"
+    },
+    {
+      "verse_key": "60:4",
+      "url": "AbdulBaset/Murattal/mp3/060004.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_4.mp3"
+    },
+    {
+      "verse_key": "60:5",
+      "url": "AbdulBaset/Murattal/mp3/060005.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_5.mp3"
+    },
+    {
+      "verse_key": "60:6",
+      "url": "AbdulBaset/Murattal/mp3/060006.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_6.mp3"
+    },
+    {
+      "verse_key": "60:7",
+      "url": "AbdulBaset/Murattal/mp3/060007.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_7.mp3"
+    },
+    {
+      "verse_key": "60:8",
+      "url": "AbdulBaset/Murattal/mp3/060008.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_8.mp3"
+    },
+    {
+      "verse_key": "60:9",
+      "url": "AbdulBaset/Murattal/mp3/060009.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_9.mp3"
+    },
+    {
+      "verse_key": "60:10",
+      "url": "AbdulBaset/Murattal/mp3/060010.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_10.mp3"
+    },
+    {
+      "verse_key": "60:11",
+      "url": "AbdulBaset/Murattal/mp3/060011.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_11.mp3"
+    },
+    {
+      "verse_key": "60:12",
+      "url": "AbdulBaset/Murattal/mp3/060012.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_12.mp3"
+    },
+    {
+      "verse_key": "60:13",
+      "url": "AbdulBaset/Murattal/mp3/060013.mp3",
+      "audio_path": "/reciters/2/verses/ayah/60_13.mp3"
+    }
+  ]
+}
