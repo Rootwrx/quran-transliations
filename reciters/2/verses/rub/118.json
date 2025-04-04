@@ -1,0 +1,69 @@
+{
+  "rub_number": 118,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 15,
+  "verses": [
+    {
+      "verse_key": "18:17",
+      "audio_path": "/reciters/2/verses/ayah/18_17.mp3"
+    },
+    {
+      "verse_key": "18:18",
+      "audio_path": "/reciters/2/verses/ayah/18_18.mp3"
+    },
+    {
+      "verse_key": "18:19",
+      "audio_path": "/reciters/2/verses/ayah/18_19.mp3"
+    },
+    {
+      "verse_key": "18:20",
+      "audio_path": "/reciters/2/verses/ayah/18_20.mp3"
+    },
+    {
+      "verse_key": "18:21",
+      "audio_path": "/reciters/2/verses/ayah/18_21.mp3"
+    },
+    {
+      "verse_key": "18:22",
+      "audio_path": "/reciters/2/verses/ayah/18_22.mp3"
+    },
+    {
+      "verse_key": "18:23",
+      "audio_path": "/reciters/2/verses/ayah/18_23.mp3"
+    },
+    {
+      "verse_key": "18:24",
+      "audio_path": "/reciters/2/verses/ayah/18_24.mp3"
+    },
+    {
+      "verse_key": "18:25",
+      "audio_path": "/reciters/2/verses/ayah/18_25.mp3"
+    },
+    {
+      "verse_key": "18:26",
+      "audio_path": "/reciters/2/verses/ayah/18_26.mp3"
+    },
+    {
+      "verse_key": "18:27",
+      "audio_path": "/reciters/2/verses/ayah/18_27.mp3"
+    },
+    {
+      "verse_key": "18:28",
+      "audio_path": "/reciters/2/verses/ayah/18_28.mp3"
+    },
+    {
+      "verse_key": "18:29",
+      "audio_path": "/reciters/2/verses/ayah/18_29.mp3"
+    },
+    {
+      "verse_key": "18:30",
+      "audio_path": "/reciters/2/verses/ayah/18_30.mp3"
+    },
+    {
+      "verse_key": "18:31",
+      "audio_path": "/reciters/2/verses/ayah/18_31.mp3"
+    }
+  ]
+}
