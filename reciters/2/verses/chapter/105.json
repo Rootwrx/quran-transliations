@@ -1,0 +1,33 @@
+{
+  "chapter_number": 105,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "verses": [
+    {
+      "verse_key": "105:1",
+      "url": "AbdulBaset/Murattal/mp3/105001.mp3",
+      "audio_path": "/reciters/2/verses/ayah/105_1.mp3"
+    },
+    {
+      "verse_key": "105:2",
+      "url": "AbdulBaset/Murattal/mp3/105002.mp3",
+      "audio_path": "/reciters/2/verses/ayah/105_2.mp3"
+    },
+    {
+      "verse_key": "105:3",
+      "url": "AbdulBaset/Murattal/mp3/105003.mp3",
+      "audio_path": "/reciters/2/verses/ayah/105_3.mp3"
+    },
+    {
+      "verse_key": "105:4",
+      "url": "AbdulBaset/Murattal/mp3/105004.mp3",
+      "audio_path": "/reciters/2/verses/ayah/105_4.mp3"
+    },
+    {
+      "verse_key": "105:5",
+      "url": "AbdulBaset/Murattal/mp3/105005.mp3",
+      "audio_path": "/reciters/2/verses/ayah/105_5.mp3"
+    }
+  ]
+}
