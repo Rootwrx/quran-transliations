@@ -1,0 +1,89 @@
+{
+  "rub_number": 166,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 20,
+  "verses": [
+    {
+      "verse_key": "32:11",
+      "audio_path": "/reciters/2/verses/ayah/32_11.mp3"
+    },
+    {
+      "verse_key": "32:12",
+      "audio_path": "/reciters/2/verses/ayah/32_12.mp3"
+    },
+    {
+      "verse_key": "32:13",
+      "audio_path": "/reciters/2/verses/ayah/32_13.mp3"
+    },
+    {
+      "verse_key": "32:14",
+      "audio_path": "/reciters/2/verses/ayah/32_14.mp3"
+    },
+    {
+      "verse_key": "32:15",
+      "audio_path": "/reciters/2/verses/ayah/32_15.mp3"
+    },
+    {
+      "verse_key": "32:16",
+      "audio_path": "/reciters/2/verses/ayah/32_16.mp3"
+    },
+    {
+      "verse_key": "32:17",
+      "audio_path": "/reciters/2/verses/ayah/32_17.mp3"
+    },
+    {
+      "verse_key": "32:18",
+      "audio_path": "/reciters/2/verses/ayah/32_18.mp3"
+    },
+    {
+      "verse_key": "32:19",
+      "audio_path": "/reciters/2/verses/ayah/32_19.mp3"
+    },
+    {
+      "verse_key": "32:20",
+      "audio_path": "/reciters/2/verses/ayah/32_20.mp3"
+    },
+    {
+      "verse_key": "32:21",
+      "audio_path": "/reciters/2/verses/ayah/32_21.mp3"
+    },
+    {
+      "verse_key": "32:22",
+      "audio_path": "/reciters/2/verses/ayah/32_22.mp3"
+    },
+    {
+      "verse_key": "32:23",
+      "audio_path": "/reciters/2/verses/ayah/32_23.mp3"
+    },
+    {
+      "verse_key": "32:24",
+      "audio_path": "/reciters/2/verses/ayah/32_24.mp3"
+    },
+    {
+      "verse_key": "32:25",
+      "audio_path": "/reciters/2/verses/ayah/32_25.mp3"
+    },
+    {
+      "verse_key": "32:26",
+      "audio_path": "/reciters/2/verses/ayah/32_26.mp3"
+    },
+    {
+      "verse_key": "32:27",
+      "audio_path": "/reciters/2/verses/ayah/32_27.mp3"
+    },
+    {
+      "verse_key": "32:28",
+      "audio_path": "/reciters/2/verses/ayah/32_28.mp3"
+    },
+    {
+      "verse_key": "32:29",
+      "audio_path": "/reciters/2/verses/ayah/32_29.mp3"
+    },
+    {
+      "verse_key": "32:30",
+      "audio_path": "/reciters/2/verses/ayah/32_30.mp3"
+    }
+  ]
+}
