@@ -1,0 +1,89 @@
+{
+  "rub_number": 73,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 20,
+  "verses": [
+    {
+      "verse_key": "8:41",
+      "audio_path": "/reciters/2/verses/ayah/8_41.mp3"
+    },
+    {
+      "verse_key": "8:42",
+      "audio_path": "/reciters/2/verses/ayah/8_42.mp3"
+    },
+    {
+      "verse_key": "8:43",
+      "audio_path": "/reciters/2/verses/ayah/8_43.mp3"
+    },
+    {
+      "verse_key": "8:44",
+      "audio_path": "/reciters/2/verses/ayah/8_44.mp3"
+    },
+    {
+      "verse_key": "8:45",
+      "audio_path": "/reciters/2/verses/ayah/8_45.mp3"
+    },
+    {
+      "verse_key": "8:46",
+      "audio_path": "/reciters/2/verses/ayah/8_46.mp3"
+    },
+    {
+      "verse_key": "8:47",
+      "audio_path": "/reciters/2/verses/ayah/8_47.mp3"
+    },
+    {
+      "verse_key": "8:48",
+      "audio_path": "/reciters/2/verses/ayah/8_48.mp3"
+    },
+    {
+      "verse_key": "8:49",
+      "audio_path": "/reciters/2/verses/ayah/8_49.mp3"
+    },
+    {
+      "verse_key": "8:50",
+      "audio_path": "/reciters/2/verses/ayah/8_50.mp3"
+    },
+    {
+      "verse_key": "8:51",
+      "audio_path": "/reciters/2/verses/ayah/8_51.mp3"
+    },
+    {
+      "verse_key": "8:52",
+      "audio_path": "/reciters/2/verses/ayah/8_52.mp3"
+    },
+    {
+      "verse_key": "8:53",
+      "audio_path": "/reciters/2/verses/ayah/8_53.mp3"
+    },
+    {
+      "verse_key": "8:54",
+      "audio_path": "/reciters/2/verses/ayah/8_54.mp3"
+    },
+    {
+      "verse_key": "8:55",
+      "audio_path": "/reciters/2/verses/ayah/8_55.mp3"
+    },
+    {
+      "verse_key": "8:56",
+      "audio_path": "/reciters/2/verses/ayah/8_56.mp3"
+    },
+    {
+      "verse_key": "8:57",
+      "audio_path": "/reciters/2/verses/ayah/8_57.mp3"
+    },
+    {
+      "verse_key": "8:58",
+      "audio_path": "/reciters/2/verses/ayah/8_58.mp3"
+    },
+    {
+      "verse_key": "8:59",
+      "audio_path": "/reciters/2/verses/ayah/8_59.mp3"
+    },
+    {
+      "verse_key": "8:60",
+      "audio_path": "/reciters/2/verses/ayah/8_60.mp3"
+    }
+  ]
+}
