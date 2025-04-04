@@ -1,0 +1,57 @@
+{
+  "page_number": 316,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 12,
+  "verses": [
+    {
+      "verse_key": "20:65",
+      "audio_path": "/reciters/2/verses/ayah/20_65.mp3"
+    },
+    {
+      "verse_key": "20:66",
+      "audio_path": "/reciters/2/verses/ayah/20_66.mp3"
+    },
+    {
+      "verse_key": "20:67",
+      "audio_path": "/reciters/2/verses/ayah/20_67.mp3"
+    },
+    {
+      "verse_key": "20:68",
+      "audio_path": "/reciters/2/verses/ayah/20_68.mp3"
+    },
+    {
+      "verse_key": "20:69",
+      "audio_path": "/reciters/2/verses/ayah/20_69.mp3"
+    },
+    {
+      "verse_key": "20:70",
+      "audio_path": "/reciters/2/verses/ayah/20_70.mp3"
+    },
+    {
+      "verse_key": "20:71",
+      "audio_path": "/reciters/2/verses/ayah/20_71.mp3"
+    },
+    {
+      "verse_key": "20:72",
+      "audio_path": "/reciters/2/verses/ayah/20_72.mp3"
+    },
+    {
+      "verse_key": "20:73",
+      "audio_path": "/reciters/2/verses/ayah/20_73.mp3"
+    },
+    {
+      "verse_key": "20:74",
+      "audio_path": "/reciters/2/verses/ayah/20_74.mp3"
+    },
+    {
+      "verse_key": "20:75",
+      "audio_path": "/reciters/2/verses/ayah/20_75.mp3"
+    },
+    {
+      "verse_key": "20:76",
+      "audio_path": "/reciters/2/verses/ayah/20_76.mp3"
+    }
+  ]
+}
