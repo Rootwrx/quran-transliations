@@ -1,0 +1,89 @@
+{
+  "rub_number": 115,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 20,
+  "verses": [
+    {
+      "verse_key": "17:50",
+      "audio_path": "/reciters/2/verses/ayah/17_50.mp3"
+    },
+    {
+      "verse_key": "17:51",
+      "audio_path": "/reciters/2/verses/ayah/17_51.mp3"
+    },
+    {
+      "verse_key": "17:52",
+      "audio_path": "/reciters/2/verses/ayah/17_52.mp3"
+    },
+    {
+      "verse_key": "17:53",
+      "audio_path": "/reciters/2/verses/ayah/17_53.mp3"
+    },
+    {
+      "verse_key": "17:54",
+      "audio_path": "/reciters/2/verses/ayah/17_54.mp3"
+    },
+    {
+      "verse_key": "17:55",
+      "audio_path": "/reciters/2/verses/ayah/17_55.mp3"
+    },
+    {
+      "verse_key": "17:56",
+      "audio_path": "/reciters/2/verses/ayah/17_56.mp3"
+    },
+    {
+      "verse_key": "17:57",
+      "audio_path": "/reciters/2/verses/ayah/17_57.mp3"
+    },
+    {
+      "verse_key": "17:58",
+      "audio_path": "/reciters/2/verses/ayah/17_58.mp3"
+    },
+    {
+      "verse_key": "17:59",
+      "audio_path": "/reciters/2/verses/ayah/17_59.mp3"
+    },
+    {
+      "verse_key": "17:60",
+      "audio_path": "/reciters/2/verses/ayah/17_60.mp3"
+    },
+    {
+      "verse_key": "17:61",
+      "audio_path": "/reciters/2/verses/ayah/17_61.mp3"
+    },
+    {
+      "verse_key": "17:62",
+      "audio_path": "/reciters/2/verses/ayah/17_62.mp3"
+    },
+    {
+      "verse_key": "17:63",
+      "audio_path": "/reciters/2/verses/ayah/17_63.mp3"
+    },
+    {
+      "verse_key": "17:64",
+      "audio_path": "/reciters/2/verses/ayah/17_64.mp3"
+    },
+    {
+      "verse_key": "17:65",
+      "audio_path": "/reciters/2/verses/ayah/17_65.mp3"
+    },
+    {
+      "verse_key": "17:66",
+      "audio_path": "/reciters/2/verses/ayah/17_66.mp3"
+    },
+    {
+      "verse_key": "17:67",
+      "audio_path": "/reciters/2/verses/ayah/17_67.mp3"
+    },
+    {
+      "verse_key": "17:68",
+      "audio_path": "/reciters/2/verses/ayah/17_68.mp3"
+    },
+    {
+      "verse_key": "17:69",
+      "audio_path": "/reciters/2/verses/ayah/17_69.mp3"
+    }
+  ]
+}
