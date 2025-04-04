@@ -1,0 +1,85 @@
+{
+  "page_number": 367,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 19,
+  "verses": [
+    {
+      "verse_key": "26:1",
+      "audio_path": "/reciters/2/verses/ayah/26_1.mp3"
+    },
+    {
+      "verse_key": "26:2",
+      "audio_path": "/reciters/2/verses/ayah/26_2.mp3"
+    },
+    {
+      "verse_key": "26:3",
+      "audio_path": "/reciters/2/verses/ayah/26_3.mp3"
+    },
+    {
+      "verse_key": "26:4",
+      "audio_path": "/reciters/2/verses/ayah/26_4.mp3"
+    },
+    {
+      "verse_key": "26:5",
+      "audio_path": "/reciters/2/verses/ayah/26_5.mp3"
+    },
+    {
+      "verse_key": "26:6",
+      "audio_path": "/reciters/2/verses/ayah/26_6.mp3"
+    },
+    {
+      "verse_key": "26:7",
+      "audio_path": "/reciters/2/verses/ayah/26_7.mp3"
+    },
+    {
+      "verse_key": "26:8",
+      "audio_path": "/reciters/2/verses/ayah/26_8.mp3"
+    },
+    {
+      "verse_key": "26:9",
+      "audio_path": "/reciters/2/verses/ayah/26_9.mp3"
+    },
+    {
+      "verse_key": "26:10",
+      "audio_path": "/reciters/2/verses/ayah/26_10.mp3"
+    },
+    {
+      "verse_key": "26:11",
+      "audio_path": "/reciters/2/verses/ayah/26_11.mp3"
+    },
+    {
+      "verse_key": "26:12",
+      "audio_path": "/reciters/2/verses/ayah/26_12.mp3"
+    },
+    {
+      "verse_key": "26:13",
+      "audio_path": "/reciters/2/verses/ayah/26_13.mp3"
+    },
+    {
+      "verse_key": "26:14",
+      "audio_path": "/reciters/2/verses/ayah/26_14.mp3"
+    },
+    {
+      "verse_key": "26:15",
+      "audio_path": "/reciters/2/verses/ayah/26_15.mp3"
+    },
+    {
+      "verse_key": "26:16",
+      "audio_path": "/reciters/2/verses/ayah/26_16.mp3"
+    },
+    {
+      "verse_key": "26:17",
+      "audio_path": "/reciters/2/verses/ayah/26_17.mp3"
+    },
+    {
+      "verse_key": "26:18",
+      "audio_path": "/reciters/2/verses/ayah/26_18.mp3"
+    },
+    {
+      "verse_key": "26:19",
+      "audio_path": "/reciters/2/verses/ayah/26_19.mp3"
+    }
+  ]
+}
