@@ -1,0 +1,109 @@
+{
+  "rub_number": 159,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 25,
+  "verses": [
+    {
+      "verse_key": "29:1",
+      "audio_path": "/reciters/2/verses/ayah/29_1.mp3"
+    },
+    {
+      "verse_key": "29:2",
+      "audio_path": "/reciters/2/verses/ayah/29_2.mp3"
+    },
+    {
+      "verse_key": "29:3",
+      "audio_path": "/reciters/2/verses/ayah/29_3.mp3"
+    },
+    {
+      "verse_key": "29:4",
+      "audio_path": "/reciters/2/verses/ayah/29_4.mp3"
+    },
+    {
+      "verse_key": "29:5",
+      "audio_path": "/reciters/2/verses/ayah/29_5.mp3"
+    },
+    {
+      "verse_key": "29:6",
+      "audio_path": "/reciters/2/verses/ayah/29_6.mp3"
+    },
+    {
+      "verse_key": "29:7",
+      "audio_path": "/reciters/2/verses/ayah/29_7.mp3"
+    },
+    {
+      "verse_key": "29:8",
+      "audio_path": "/reciters/2/verses/ayah/29_8.mp3"
+    },
+    {
+      "verse_key": "29:9",
+      "audio_path": "/reciters/2/verses/ayah/29_9.mp3"
+    },
+    {
+      "verse_key": "29:10",
+      "audio_path": "/reciters/2/verses/ayah/29_10.mp3"
+    },
+    {
+      "verse_key": "29:11",
+      "audio_path": "/reciters/2/verses/ayah/29_11.mp3"
+    },
+    {
+      "verse_key": "29:12",
+      "audio_path": "/reciters/2/verses/ayah/29_12.mp3"
+    },
+    {
+      "verse_key": "29:13",
+      "audio_path": "/reciters/2/verses/ayah/29_13.mp3"
+    },
+    {
+      "verse_key": "29:14",
+      "audio_path": "/reciters/2/verses/ayah/29_14.mp3"
+    },
+    {
+      "verse_key": "29:15",
+      "audio_path": "/reciters/2/verses/ayah/29_15.mp3"
+    },
+    {
+      "verse_key": "29:16",
+      "audio_path": "/reciters/2/verses/ayah/29_16.mp3"
+    },
+    {
+      "verse_key": "29:17",
+      "audio_path": "/reciters/2/verses/ayah/29_17.mp3"
+    },
+    {
+      "verse_key": "29:18",
+      "audio_path": "/reciters/2/verses/ayah/29_18.mp3"
+    },
+    {
+      "verse_key": "29:19",
+      "audio_path": "/reciters/2/verses/ayah/29_19.mp3"
+    },
+    {
+      "verse_key": "29:20",
+      "audio_path": "/reciters/2/verses/ayah/29_20.mp3"
+    },
+    {
+      "verse_key": "29:21",
+      "audio_path": "/reciters/2/verses/ayah/29_21.mp3"
+    },
+    {
+      "verse_key": "29:22",
+      "audio_path": "/reciters/2/verses/ayah/29_22.mp3"
+    },
+    {
+      "verse_key": "29:23",
+      "audio_path": "/reciters/2/verses/ayah/29_23.mp3"
+    },
+    {
+      "verse_key": "29:24",
+      "audio_path": "/reciters/2/verses/ayah/29_24.mp3"
+    },
+    {
+      "verse_key": "29:25",
+      "audio_path": "/reciters/2/verses/ayah/29_25.mp3"
+    }
+  ]
+}
