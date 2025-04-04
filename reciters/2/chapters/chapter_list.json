@@ -1,0 +1,691 @@
+{
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "chapters": [
+    {
+      "chapter_id": 1,
+      "file_size": 1132672.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/1.mp3"
+    },
+    {
+      "chapter_id": 2,
+      "file_size": 232575104.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/2.mp3"
+    },
+    {
+      "chapter_id": 3,
+      "file_size": 126455936.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/3.mp3"
+    },
+    {
+      "chapter_id": 4,
+      "file_size": 126795904.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/4.mp3"
+    },
+    {
+      "chapter_id": 5,
+      "file_size": 97562752.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/5.mp3"
+    },
+    {
+      "chapter_id": 6,
+      "file_size": 116633728.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/6.mp3"
+    },
+    {
+      "chapter_id": 7,
+      "file_size": 136878208.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/7.mp3"
+    },
+    {
+      "chapter_id": 8,
+      "file_size": 40020096.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/8.mp3"
+    },
+    {
+      "chapter_id": 9,
+      "file_size": 78657664.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/9.mp3"
+    },
+    {
+      "chapter_id": 10,
+      "file_size": 57108608.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/10.mp3"
+    },
+    {
+      "chapter_id": 11,
+      "file_size": 58585216.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/11.mp3"
+    },
+    {
+      "chapter_id": 12,
+      "file_size": 52945024.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/12.mp3"
+    },
+    {
+      "chapter_id": 13,
+      "file_size": 25596032.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/13.mp3"
+    },
+    {
+      "chapter_id": 14,
+      "file_size": 24344704.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/14.mp3"
+    },
+    {
+      "chapter_id": 15,
+      "file_size": 20037760.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/15.mp3"
+    },
+    {
+      "chapter_id": 16,
+      "file_size": 59199616.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/16.mp3"
+    },
+    {
+      "chapter_id": 17,
+      "file_size": 53418112.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/17.mp3"
+    },
+    {
+      "chapter_id": 18,
+      "file_size": 55969920.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/18.mp3"
+    },
+    {
+      "chapter_id": 19,
+      "file_size": 33798272.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/19.mp3"
+    },
+    {
+      "chapter_id": 20,
+      "file_size": 45940864.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/20.mp3"
+    },
+    {
+      "chapter_id": 21,
+      "file_size": 43946112.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/21.mp3"
+    },
+    {
+      "chapter_id": 22,
+      "file_size": 44871808.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/22.mp3"
+    },
+    {
+      "chapter_id": 23,
+      "file_size": 36907136.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/23.mp3"
+    },
+    {
+      "chapter_id": 24,
+      "file_size": 39747712.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/24.mp3"
+    },
+    {
+      "chapter_id": 25,
+      "file_size": 24367232.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/25.mp3"
+    },
+    {
+      "chapter_id": 26,
+      "file_size": 44466304.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/26.mp3"
+    },
+    {
+      "chapter_id": 27,
+      "file_size": 44898432.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/27.mp3"
+    },
+    {
+      "chapter_id": 28,
+      "file_size": 53995648.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/28.mp3"
+    },
+    {
+      "chapter_id": 29,
+      "file_size": 35702912.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/29.mp3"
+    },
+    {
+      "chapter_id": 30,
+      "file_size": 28278912.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/30.mp3"
+    },
+    {
+      "chapter_id": 31,
+      "file_size": 14780544.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/31.mp3"
+    },
+    {
+      "chapter_id": 32,
+      "file_size": 10782848.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/32.mp3"
+    },
+    {
+      "chapter_id": 33,
+      "file_size": 38267008.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/33.mp3"
+    },
+    {
+      "chapter_id": 34,
+      "file_size": 24772736.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/34.mp3"
+    },
+    {
+      "chapter_id": 35,
+      "file_size": 23324800.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/35.mp3"
+    },
+    {
+      "chapter_id": 36,
+      "file_size": 20914304.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/36.mp3"
+    },
+    {
+      "chapter_id": 37,
+      "file_size": 27396224.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/37.mp3"
+    },
+    {
+      "chapter_id": 38,
+      "file_size": 23869568.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/38.mp3"
+    },
+    {
+      "chapter_id": 39,
+      "file_size": 41187456.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/39.mp3"
+    },
+    {
+      "chapter_id": 40,
+      "file_size": 40771712.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/40.mp3"
+    },
+    {
+      "chapter_id": 41,
+      "file_size": 29038720.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/41.mp3"
+    },
+    {
+      "chapter_id": 42,
+      "file_size": 31101056.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/42.mp3"
+    },
+    {
+      "chapter_id": 43,
+      "file_size": 31862912.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/43.mp3"
+    },
+    {
+      "chapter_id": 44,
+      "file_size": 13119616.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/44.mp3"
+    },
+    {
+      "chapter_id": 45,
+      "file_size": 18163840.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/45.mp3"
+    },
+    {
+      "chapter_id": 46,
+      "file_size": 24354944.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/46.mp3"
+    },
+    {
+      "chapter_id": 47,
+      "file_size": 20279424.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/47.mp3"
+    },
+    {
+      "chapter_id": 48,
+      "file_size": 19349632.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/48.mp3"
+    },
+    {
+      "chapter_id": 49,
+      "file_size": 12122240.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/49.mp3"
+    },
+    {
+      "chapter_id": 50,
+      "file_size": 11890816.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/50.mp3"
+    },
+    {
+      "chapter_id": 51,
+      "file_size": 12902528.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/51.mp3"
+    },
+    {
+      "chapter_id": 52,
+      "file_size": 11114624.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/52.mp3"
+    },
+    {
+      "chapter_id": 53,
+      "file_size": 12261504.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/53.mp3"
+    },
+    {
+      "chapter_id": 54,
+      "file_size": 13002880.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/54.mp3"
+    },
+    {
+      "chapter_id": 55,
+      "file_size": 14844032.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/55.mp3"
+    },
+    {
+      "chapter_id": 56,
+      "file_size": 14899328.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/56.mp3"
+    },
+    {
+      "chapter_id": 57,
+      "file_size": 19273856.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/57.mp3"
+    },
+    {
+      "chapter_id": 58,
+      "file_size": 16265344.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/58.mp3"
+    },
+    {
+      "chapter_id": 59,
+      "file_size": 16590976.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/59.mp3"
+    },
+    {
+      "chapter_id": 60,
+      "file_size": 13973632.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/60.mp3"
+    },
+    {
+      "chapter_id": 61,
+      "file_size": 7590016.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/61.mp3"
+    },
+    {
+      "chapter_id": 62,
+      "file_size": 6049920.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/62.mp3"
+    },
+    {
+      "chapter_id": 63,
+      "file_size": 6582400.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/63.mp3"
+    },
+    {
+      "chapter_id": 64,
+      "file_size": 8480896.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/64.mp3"
+    },
+    {
+      "chapter_id": 65,
+      "file_size": 10332288.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/65.mp3"
+    },
+    {
+      "chapter_id": 66,
+      "file_size": 10301568.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/66.mp3"
+    },
+    {
+      "chapter_id": 67,
+      "file_size": 11851904.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/67.mp3"
+    },
+    {
+      "chapter_id": 68,
+      "file_size": 11217024.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/68.mp3"
+    },
+    {
+      "chapter_id": 69,
+      "file_size": 10072192.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/69.mp3"
+    },
+    {
+      "chapter_id": 70,
+      "file_size": 8425600.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/70.mp3"
+    },
+    {
+      "chapter_id": 71,
+      "file_size": 8540288.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/71.mp3"
+    },
+    {
+      "chapter_id": 72,
+      "file_size": 9961600.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/72.mp3"
+    },
+    {
+      "chapter_id": 73,
+      "file_size": 7143552.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/73.mp3"
+    },
+    {
+      "chapter_id": 74,
+      "file_size": 9769088.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/74.mp3"
+    },
+    {
+      "chapter_id": 75,
+      "file_size": 6066304.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/75.mp3"
+    },
+    {
+      "chapter_id": 76,
+      "file_size": 8812672.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/76.mp3"
+    },
+    {
+      "chapter_id": 77,
+      "file_size": 6887552.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/77.mp3"
+    },
+    {
+      "chapter_id": 78,
+      "file_size": 6740096.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/78.mp3"
+    },
+    {
+      "chapter_id": 79,
+      "file_size": 6240384.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/79.mp3"
+    },
+    {
+      "chapter_id": 80,
+      "file_size": 5138560.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/80.mp3"
+    },
+    {
+      "chapter_id": 81,
+      "file_size": 3569792.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/81.mp3"
+    },
+    {
+      "chapter_id": 82,
+      "file_size": 2838656.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/82.mp3"
+    },
+    {
+      "chapter_id": 83,
+      "file_size": 6111360.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/83.mp3"
+    },
+    {
+      "chapter_id": 84,
+      "file_size": 3561600.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/84.mp3"
+    },
+    {
+      "chapter_id": 85,
+      "file_size": 3481728.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/85.mp3"
+    },
+    {
+      "chapter_id": 86,
+      "file_size": 2222208.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/86.mp3"
+    },
+    {
+      "chapter_id": 87,
+      "file_size": 2521216.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/87.mp3"
+    },
+    {
+      "chapter_id": 88,
+      "file_size": 3129472.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/88.mp3"
+    },
+    {
+      "chapter_id": 89,
+      "file_size": 4622464.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/89.mp3"
+    },
+    {
+      "chapter_id": 90,
+      "file_size": 2732160.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/90.mp3"
+    },
+    {
+      "chapter_id": 91,
+      "file_size": 2039936.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/91.mp3"
+    },
+    {
+      "chapter_id": 92,
+      "file_size": 2715776.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/92.mp3"
+    },
+    {
+      "chapter_id": 93,
+      "file_size": 1534080.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/93.mp3"
+    },
+    {
+      "chapter_id": 94,
+      "file_size": 938112.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/94.mp3"
+    },
+    {
+      "chapter_id": 95,
+      "file_size": 1200256.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/95.mp3"
+    },
+    {
+      "chapter_id": 96,
+      "file_size": 2437248.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/96.mp3"
+    },
+    {
+      "chapter_id": 97,
+      "file_size": 983168.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/97.mp3"
+    },
+    {
+      "chapter_id": 98,
+      "file_size": 2971776.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/98.mp3"
+    },
+    {
+      "chapter_id": 99,
+      "file_size": 1312896.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/99.mp3"
+    },
+    {
+      "chapter_id": 100,
+      "file_size": 1392768.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/100.mp3"
+    },
+    {
+      "chapter_id": 101,
+      "file_size": 1343616.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/101.mp3"
+    },
+    {
+      "chapter_id": 102,
+      "file_size": 1093760.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/102.mp3"
+    },
+    {
+      "chapter_id": 103,
+      "file_size": 553088.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/103.mp3"
+    },
+    {
+      "chapter_id": 104,
+      "file_size": 1214592.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/104.mp3"
+    },
+    {
+      "chapter_id": 105,
+      "file_size": 815232.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/105.mp3"
+    },
+    {
+      "chapter_id": 106,
+      "file_size": 727168.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/106.mp3"
+    },
+    {
+      "chapter_id": 107,
+      "file_size": 938112.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/107.mp3"
+    },
+    {
+      "chapter_id": 108,
+      "file_size": 444544.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/108.mp3"
+    },
+    {
+      "chapter_id": 109,
+      "file_size": 977024.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/109.mp3"
+    },
+    {
+      "chapter_id": 110,
+      "file_size": 661632.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/110.mp3"
+    },
+    {
+      "chapter_id": 111,
+      "file_size": 792704.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/111.mp3"
+    },
+    {
+      "chapter_id": 112,
+      "file_size": 438400.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/112.mp3"
+    },
+    {
+      "chapter_id": 113,
+      "file_size": 696448.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/113.mp3"
+    },
+    {
+      "chapter_id": 114,
+      "file_size": 827520.0,
+      "format": "mp3",
+      "audio_path": "/reciters/2/chapters/114.mp3"
+    }
+  ]
+}
