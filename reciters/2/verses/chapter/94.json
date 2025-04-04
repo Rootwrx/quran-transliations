@@ -1,0 +1,48 @@
+{
+  "chapter_number": 94,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "verses": [
+    {
+      "verse_key": "94:1",
+      "url": "AbdulBaset/Murattal/mp3/094001.mp3",
+      "audio_path": "/reciters/2/verses/ayah/94_1.mp3"
+    },
+    {
+      "verse_key": "94:2",
+      "url": "AbdulBaset/Murattal/mp3/094002.mp3",
+      "audio_path": "/reciters/2/verses/ayah/94_2.mp3"
+    },
+    {
+      "verse_key": "94:3",
+      "url": "AbdulBaset/Murattal/mp3/094003.mp3",
+      "audio_path": "/reciters/2/verses/ayah/94_3.mp3"
+    },
+    {
+      "verse_key": "94:4",
+      "url": "AbdulBaset/Murattal/mp3/094004.mp3",
+      "audio_path": "/reciters/2/verses/ayah/94_4.mp3"
+    },
+    {
+      "verse_key": "94:5",
+      "url": "AbdulBaset/Murattal/mp3/094005.mp3",
+      "audio_path": "/reciters/2/verses/ayah/94_5.mp3"
+    },
+    {
+      "verse_key": "94:6",
+      "url": "AbdulBaset/Murattal/mp3/094006.mp3",
+      "audio_path": "/reciters/2/verses/ayah/94_6.mp3"
+    },
+    {
+      "verse_key": "94:7",
+      "url": "AbdulBaset/Murattal/mp3/094007.mp3",
+      "audio_path": "/reciters/2/verses/ayah/94_7.mp3"
+    },
+    {
+      "verse_key": "94:8",
+      "url": "AbdulBaset/Murattal/mp3/094008.mp3",
+      "audio_path": "/reciters/2/verses/ayah/94_8.mp3"
+    }
+  ]
+}
