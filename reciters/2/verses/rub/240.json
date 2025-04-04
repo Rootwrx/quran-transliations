@@ -1,0 +1,337 @@
+{
+  "rub_number": 240,
+  "recitation_id": 2,
+  "reciter_name": "AbdulBaset AbdulSamad",
+  "style": "Murattal",
+  "total_verses": 82,
+  "verses": [
+    {
+      "verse_key": "100:9",
+      "audio_path": "/reciters/2/verses/ayah/100_9.mp3"
+    },
+    {
+      "verse_key": "100:10",
+      "audio_path": "/reciters/2/verses/ayah/100_10.mp3"
+    },
+    {
+      "verse_key": "100:11",
+      "audio_path": "/reciters/2/verses/ayah/100_11.mp3"
+    },
+    {
+      "verse_key": "101:1",
+      "audio_path": "/reciters/2/verses/ayah/101_1.mp3"
+    },
+    {
+      "verse_key": "101:2",
+      "audio_path": "/reciters/2/verses/ayah/101_2.mp3"
+    },
+    {
+      "verse_key": "101:3",
+      "audio_path": "/reciters/2/verses/ayah/101_3.mp3"
+    },
+    {
+      "verse_key": "101:4",
+      "audio_path": "/reciters/2/verses/ayah/101_4.mp3"
+    },
+    {
+      "verse_key": "101:5",
+      "audio_path": "/reciters/2/verses/ayah/101_5.mp3"
+    },
+    {
+      "verse_key": "101:6",
+      "audio_path": "/reciters/2/verses/ayah/101_6.mp3"
+    },
+    {
+      "verse_key": "101:7",
+      "audio_path": "/reciters/2/verses/ayah/101_7.mp3"
+    },
+    {
+      "verse_key": "101:8",
+      "audio_path": "/reciters/2/verses/ayah/101_8.mp3"
+    },
+    {
+      "verse_key": "101:9",
+      "audio_path": "/reciters/2/verses/ayah/101_9.mp3"
+    },
+    {
+      "verse_key": "101:10",
+      "audio_path": "/reciters/2/verses/ayah/101_10.mp3"
+    },
+    {
+      "verse_key": "101:11",
+      "audio_path": "/reciters/2/verses/ayah/101_11.mp3"
+    },
+    {
+      "verse_key": "102:1",
+      "audio_path": "/reciters/2/verses/ayah/102_1.mp3"
+    },
+    {
+      "verse_key": "102:2",
+      "audio_path": "/reciters/2/verses/ayah/102_2.mp3"
+    },
+    {
+      "verse_key": "102:3",
+      "audio_path": "/reciters/2/verses/ayah/102_3.mp3"
+    },
+    {
+      "verse_key": "102:4",
+      "audio_path": "/reciters/2/verses/ayah/102_4.mp3"
+    },
+    {
+      "verse_key": "102:5",
+      "audio_path": "/reciters/2/verses/ayah/102_5.mp3"
+    },
+    {
+      "verse_key": "102:6",
+      "audio_path": "/reciters/2/verses/ayah/102_6.mp3"
+    },
+    {
+      "verse_key": "102:7",
+      "audio_path": "/reciters/2/verses/ayah/102_7.mp3"
+    },
+    {
+      "verse_key": "102:8",
+      "audio_path": "/reciters/2/verses/ayah/102_8.mp3"
+    },
+    {
+      "verse_key": "103:1",
+      "audio_path": "/reciters/2/verses/ayah/103_1.mp3"
+    },
+    {
+      "verse_key": "103:2",
+      "audio_path": "/reciters/2/verses/ayah/103_2.mp3"
+    },
+    {
+      "verse_key": "103:3",
+      "audio_path": "/reciters/2/verses/ayah/103_3.mp3"
+    },
+    {
+      "verse_key": "104:1",
+      "audio_path": "/reciters/2/verses/ayah/104_1.mp3"
+    },
+    {
+      "verse_key": "104:2",
+      "audio_path": "/reciters/2/verses/ayah/104_2.mp3"
+    },
+    {
+      "verse_key": "104:3",
+      "audio_path": "/reciters/2/verses/ayah/104_3.mp3"
+    },
+    {
+      "verse_key": "104:4",
+      "audio_path": "/reciters/2/verses/ayah/104_4.mp3"
+    },
+    {
+      "verse_key": "104:5",
+      "audio_path": "/reciters/2/verses/ayah/104_5.mp3"
+    },
+    {
+      "verse_key": "104:6",
+      "audio_path": "/reciters/2/verses/ayah/104_6.mp3"
+    },
+    {
+      "verse_key": "104:7",
+      "audio_path": "/reciters/2/verses/ayah/104_7.mp3"
+    },
+    {
+      "verse_key": "104:8",
+      "audio_path": "/reciters/2/verses/ayah/104_8.mp3"
+    },
+    {
+      "verse_key": "104:9",
+      "audio_path": "/reciters/2/verses/ayah/104_9.mp3"
+    },
+    {
+      "verse_key": "105:1",
+      "audio_path": "/reciters/2/verses/ayah/105_1.mp3"
+    },
+    {
+      "verse_key": "105:2",
+      "audio_path": "/reciters/2/verses/ayah/105_2.mp3"
+    },
+    {
+      "verse_key": "105:3",
+      "audio_path": "/reciters/2/verses/ayah/105_3.mp3"
+    },
+    {
+      "verse_key": "105:4",
+      "audio_path": "/reciters/2/verses/ayah/105_4.mp3"
+    },
+    {
+      "verse_key": "105:5",
+      "audio_path": "/reciters/2/verses/ayah/105_5.mp3"
+    },
+    {
+      "verse_key": "106:1",
+      "audio_path": "/reciters/2/verses/ayah/106_1.mp3"
+    },
+    {
+      "verse_key": "106:2",
+      "audio_path": "/reciters/2/verses/ayah/106_2.mp3"
+    },
+    {
+      "verse_key": "106:3",
+      "audio_path": "/reciters/2/verses/ayah/106_3.mp3"
+    },
+    {
+      "verse_key": "106:4",
+      "audio_path": "/reciters/2/verses/ayah/106_4.mp3"
+    },
+    {
+      "verse_key": "107:1",
+      "audio_path": "/reciters/2/verses/ayah/107_1.mp3"
+    },
+    {
+      "verse_key": "107:2",
+      "audio_path": "/reciters/2/verses/ayah/107_2.mp3"
+    },
+    {
+      "verse_key": "107:3",
+      "audio_path": "/reciters/2/verses/ayah/107_3.mp3"
+    },
+    {
+      "verse_key": "107:4",
+      "audio_path": "/reciters/2/verses/ayah/107_4.mp3"
+    },
+    {
+      "verse_key": "107:5",
+      "audio_path": "/reciters/2/verses/ayah/107_5.mp3"
+    },
+    {
+      "verse_key": "107:6",
+      "audio_path": "/reciters/2/verses/ayah/107_6.mp3"
+    },
+    {
+      "verse_key": "107:7",
+      "audio_path": "/reciters/2/verses/ayah/107_7.mp3"
+    },
+    {
+      "verse_key": "108:1",
+      "audio_path": "/reciters/2/verses/ayah/108_1.mp3"
+    },
+    {
+      "verse_key": "108:2",
+      "audio_path": "/reciters/2/verses/ayah/108_2.mp3"
+    },
+    {
+      "verse_key": "108:3",
+      "audio_path": "/reciters/2/verses/ayah/108_3.mp3"
+    },
+    {
+      "verse_key": "109:1",
+      "audio_path": "/reciters/2/verses/ayah/109_1.mp3"
+    },
+    {
+      "verse_key": "109:2",
+      "audio_path": "/reciters/2/verses/ayah/109_2.mp3"
+    },
+    {
+      "verse_key": "109:3",
+      "audio_path": "/reciters/2/verses/ayah/109_3.mp3"
+    },
+    {
+      "verse_key": "109:4",
+      "audio_path": "/reciters/2/verses/ayah/109_4.mp3"
+    },
+    {
+      "verse_key": "109:5",
+      "audio_path": "/reciters/2/verses/ayah/109_5.mp3"
+    },
+    {
+      "verse_key": "109:6",
+      "audio_path": "/reciters/2/verses/ayah/109_6.mp3"
+    },
+    {
+      "verse_key": "110:1",
+      "audio_path": "/reciters/2/verses/ayah/110_1.mp3"
+    },
+    {
+      "verse_key": "110:2",
+      "audio_path": "/reciters/2/verses/ayah/110_2.mp3"
+    },
+    {
+      "verse_key": "110:3",
+      "audio_path": "/reciters/2/verses/ayah/110_3.mp3"
+    },
+    {
+      "verse_key": "111:1",
+      "audio_path": "/reciters/2/verses/ayah/111_1.mp3"
+    },
+    {
+      "verse_key": "111:2",
+      "audio_path": "/reciters/2/verses/ayah/111_2.mp3"
+    },
+    {
+      "verse_key": "111:3",
+      "audio_path": "/reciters/2/verses/ayah/111_3.mp3"
+    },
+    {
+      "verse_key": "111:4",
+      "audio_path": "/reciters/2/verses/ayah/111_4.mp3"
+    },
+    {
+      "verse_key": "111:5",
+      "audio_path": "/reciters/2/verses/ayah/111_5.mp3"
+    },
+    {
+      "verse_key": "112:1",
+      "audio_path": "/reciters/2/verses/ayah/112_1.mp3"
+    },
+    {
+      "verse_key": "112:2",
+      "audio_path": "/reciters/2/verses/ayah/112_2.mp3"
+    },
+    {
+      "verse_key": "112:3",
+      "audio_path": "/reciters/2/verses/ayah/112_3.mp3"
+    },
+    {
+      "verse_key": "112:4",
+      "audio_path": "/reciters/2/verses/ayah/112_4.mp3"
+    },
+    {
+      "verse_key": "113:1",
+      "audio_path": "/reciters/2/verses/ayah/113_1.mp3"
+    },
+    {
+      "verse_key": "113:2",
+      "audio_path": "/reciters/2/verses/ayah/113_2.mp3"
+    },
+    {
+      "verse_key": "113:3",
+      "audio_path": "/reciters/2/verses/ayah/113_3.mp3"
+    },
+    {
+      "verse_key": "113:4",
+      "audio_path": "/reciters/2/verses/ayah/113_4.mp3"
+    },
+    {
+      "verse_key": "113:5",
+      "audio_path": "/reciters/2/verses/ayah/113_5.mp3"
+    },
+    {
+      "verse_key": "114:1",
+      "audio_path": "/reciters/2/verses/ayah/114_1.mp3"
+    },
+    {
+      "verse_key": "114:2",
+      "audio_path": "/reciters/2/verses/ayah/114_2.mp3"
+    },
+    {
+      "verse_key": "114:3",
+      "audio_path": "/reciters/2/verses/ayah/114_3.mp3"
+    },
+    {
+      "verse_key": "114:4",
+      "audio_path": "/reciters/2/verses/ayah/114_4.mp3"
+    },
+    {
+      "verse_key": "114:5",
+      "audio_path": "/reciters/2/verses/ayah/114_5.mp3"
+    },
+    {
+      "verse_key": "114:6",
+      "audio_path": "/reciters/2/verses/ayah/114_6.mp3"
+    }
+  ]
+}
