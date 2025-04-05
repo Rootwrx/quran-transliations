@@ -1,5 +1,6 @@
 ## Quran Tafsirs API
 
+
 ### Available Languages
 
 The Tafsirs API supports the following languages:
@@ -10,6 +11,29 @@ The Tafsirs API supports the following languages:
 - Kurdish (kurd)
 - Russian (ru)
 - Urdu (ur)
+
+### Base URLs -
+
+1. JS Delivr: `https://cdn.jsdelivr.net/gh/Rootwrx/quran-api@master`
+2. Git Hack: `https://rawcdn.githack.com/Rootwrx/quran-api/6865286890f2bdd6c3829bd5683b620b484c919f`
+3. Staticaly: `https://cdn.statically.io/gh/Rootwrx/quran-api/master`
+4. Github: `https://raw.githubusercontent.com/Rootwrx/quran-api/refs/heads/master`
+5. Github  `https://raw.githubusercontent.com/Rootwrx/quran-api/master`
+## Endpoints Overview
+
+### Note 
+
+fetch the api with base Urls + endpoints
+#### Example in Javascript 
+```js
+const Base_Api_Url = "https://cdn.statically.io/gh/Rootwrx/quran-api/master";
+
+fetch(Base_Api_Url+"/tafsirs/en/1.json")
+.then(r=>r.json())
+.then(enTafsir=> {
+  console.log(enTafsir.text)
+})
+```
 
 ### 1. Get All Available Tafsirs
 
